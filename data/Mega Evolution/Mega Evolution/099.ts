@@ -20,7 +20,6 @@ const card: Card = {
 	hp: 130,
 	types: ["Metal"],
 	stage: "Stage1",
-	dexId: [1000],
 
 	attacks: [{
 		cost: ["Colorless"],
@@ -64,8 +63,7 @@ const card: Card = {
 	regulationMark: "I",
 
 	thirdParty: {
-		tcgplayer: 654438,
-		cardmarket: 851170
+		tcgplayer: 654438
 	}
 }
 

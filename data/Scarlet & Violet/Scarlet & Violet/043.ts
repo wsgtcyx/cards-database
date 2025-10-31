@@ -74,14 +74,10 @@ const card: Card = {
 	retreat: 3,
 	regulationMark: "G",
 
-	variants: [
-		{
-			type: 'reverse'
-		},
-		{
-			type: 'holo'
-		},
-	],
+	variants: {
+		reverse: false,
+		normal: false
+	},
 
 	illustrator: "Shinji Kanda",
 

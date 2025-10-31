@@ -36,7 +36,7 @@ const card: Card = {
 	illustrator: "AYUMI ODASHIMA",
 
 	thirdParty: {
-		cardmarket: 794623
+		cardmarket: 794550
 	}
 }
 

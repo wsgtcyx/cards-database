@@ -20,7 +20,6 @@ const card: Card = {
 	hp: 350,
 	types: ["Water"],
 	stage: "Stage1",
-	dexId: [460],
 
 	attacks: [{
 		cost: ["Water", "Water"],
@@ -76,8 +75,7 @@ const card: Card = {
 	regulationMark: "I",
 
 	thirdParty: {
-		tcgplayer: 654375,
-		cardmarket: 851107
+		tcgplayer: 654375
 	}
 }
 

@@ -67,14 +67,10 @@ const card: Card = {
 	retreat: 4,
 	regulationMark: "G",
 
-	variants: [
-		{
-			type: 'reverse'
-		},
-		{
-			type: 'holo'
-		},
-	],
+	variants: {
+		reverse: false,
+		normal: false
+	},
 
 	illustrator: "AKIRA EGAWA",
 

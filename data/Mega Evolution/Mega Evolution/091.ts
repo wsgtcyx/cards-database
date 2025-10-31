@@ -20,7 +20,6 @@ const card: Card = {
 	hp: 60,
 	types: ["Darkness"],
 	stage: "Basic",
-	dexId: [944],
 
 	attacks: [{
 		cost: ["Darkness", "Colorless"],
@@ -52,8 +51,7 @@ const card: Card = {
 	regulationMark: "I",
 
 	thirdParty: {
-		tcgplayer: 654430,
-		cardmarket: 851162
+		tcgplayer: 654430
 	}
 }
 

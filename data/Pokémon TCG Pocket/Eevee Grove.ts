@@ -8,7 +8,7 @@ const set: Set = {
 		// de: "Hüter des Firmaments",
 		en: "Eevee Grove",
 		// es: "Guardianes Celestiales",
-		fr: "La Clairière d'Évoli",
+		// fr: "Gardiens Astraux",
 		// it: "Guardiani Astrali",
 		// 'pt-br': "Guardiões Celestiais",
 		// ko: '쌍천의 수호자'

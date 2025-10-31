@@ -20,7 +20,6 @@ const card: Card = {
 	hp: 130,
 	types: ["Fighting"],
 	stage: "Stage1",
-	dexId: [454],
 
 	attacks: [{
 		cost: ["Fighting"],
@@ -52,8 +51,7 @@ const card: Card = {
 	regulationMark: "I",
 
 	thirdParty: {
-		tcgplayer: 654418,
-		cardmarket: 851150
+		tcgplayer: 654418
 	}
 }
 

@@ -20,7 +20,6 @@ const card: Card = {
 	hp: 100,
 	types: ["Psychic"],
 	stage: "Stage1",
-	dexId: [281],
 
 	attacks: [{
 		cost: ["Psychic"],
@@ -64,8 +63,7 @@ const card: Card = {
 	regulationMark: "I",
 
 	thirdParty: {
-		tcgplayer: 654398,
-		cardmarket: 851130
+		tcgplayer: 654398
 	}
 }
 

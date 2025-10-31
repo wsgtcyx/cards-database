@@ -8,7 +8,7 @@ const set: Set = {
 		// de: "Unschlagbare Gene",
 		en: "Extradimensional Crisis",
 		// es: "Genes Formidables",
-		fr: "Crise Interdimensionnelle",
+		// fr: "Puissance Génétique",
 		// it: "Geni Supremi",
 		// 'pt-br': "Dominação Genética",
 		// ko: '최강의 유전자'

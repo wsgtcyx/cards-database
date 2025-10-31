@@ -20,7 +20,6 @@ const card: Card = {
 	hp: 120,
 	types: ["Lightning"],
 	stage: "Basic",
-	dexId: [243],
 
 	attacks: [{
 		cost: ["Lightning", "Lightning"],
@@ -52,8 +51,7 @@ const card: Card = {
 	regulationMark: "I",
 
 	thirdParty: {
-		tcgplayer: 654387,
-		cardmarket: 851119
+		tcgplayer: 654387
 	}
 }
 

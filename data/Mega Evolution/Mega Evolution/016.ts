@@ -20,7 +20,6 @@ const card: Card = {
 	hp: 50,
 	types: ["Grass"],
 	stage: "Basic",
-	dexId: [290],
 
 	attacks: [{
 		cost: ["Colorless"],
@@ -42,8 +41,7 @@ const card: Card = {
 	regulationMark: "I",
 
 	thirdParty: {
-		tcgplayer: 654355,
-		cardmarket: 851087
+		tcgplayer: 654355
 	}
 }
 

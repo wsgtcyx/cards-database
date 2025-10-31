@@ -29,11 +29,7 @@ const card: Card = {
 	},
 
 	trainerType: "Supporter",
-	regulationMark: "I", 
-
-	thirdParty: {
-		cardmarket: 851194
-	}
+	regulationMark: "I"
 }
 
 export default card
