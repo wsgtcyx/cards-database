@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Moltres ex",
         "de": "Moltres ex",
         "pt-br": "Moltres ex",
-        "zh-tw": "莫爾特雷斯前"
+        "zh-tw": "莫爾特雷斯超級"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",

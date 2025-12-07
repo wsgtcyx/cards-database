@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Greninja ex",
         "de": "Greninja ex",
         "pt-br": "Ex-Greninja",
-        "zh-tw": "格忍尼亞前"
+        "zh-tw": "格忍尼亞超級"
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",

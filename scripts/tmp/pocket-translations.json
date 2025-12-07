@@ -149,7 +149,7 @@
     "es": "Alola Dugtrio ex",
     "de": "Alolan Dgtrio ex",
     "it": "Alolan Dugtrio ex",
-    "zh-tw": "阿羅拉·杜格特里奧前身",
+    "zh-tw": "阿羅拉·杜格特里奧超級",
     "pt-br": "Ex-Alolan Dugtrio"
   },
   "Altaria": {
@@ -240,7 +240,7 @@
     "it": "Arceus es",
     "de": "Arceus ex",
     "pt-br": "Arceus ex",
-    "zh-tw": "阿爾宙斯前身"
+    "zh-tw": "阿爾宙斯超級"
   },
   "Archen": {
     "en": "Archen",
@@ -545,7 +545,7 @@
     "es": "bibarel ex",
     "fr": "Bibarel ex",
     "pt-br": "Ex Bibarel",
-    "zh-tw": "比巴雷爾前",
+    "zh-tw": "比巴雷爾超級",
     "it": "Bibarel es"
   },
   "Bidoof": {
@@ -1200,7 +1200,7 @@
     "en": "Decidueye ex",
     "es": "ex-decidueye",
     "fr": "Décidueye ex",
-    "zh-tw": "蛻膜眼前",
+    "zh-tw": "蛻膜眼超級",
     "pt-br": "Decidueye ex",
     "it": "Decidueye es",
     "de": "Decidueye ex"
@@ -1248,7 +1248,7 @@
     "pt-br": "Dialga ex",
     "it": "Dialga ex",
     "es": "ex dialga",
-    "zh-tw": "帝牙盧卡前身"
+    "zh-tw": "帝牙盧卡超級"
   },
   "Dig Claws": {
     "en": "Dig Claws",
@@ -1480,7 +1480,7 @@
     "fr": "Dragalge ex",
     "es": "Dragalge ex",
     "it": "Dragalge es",
-    "zh-tw": "德拉格前",
+    "zh-tw": "德拉格超級",
     "de": "Dragalge ex",
     "pt-br": "Dragalge ex"
   },
@@ -2542,7 +2542,7 @@
     "fr": "Greninja ex",
     "es": "ex greninja",
     "it": "Greninja ex",
-    "zh-tw": "格忍尼亞前",
+    "zh-tw": "格忍尼亞超級",
     "de": "Greninja ex",
     "pt-br": "Ex-Greninja"
   },
@@ -2822,7 +2822,7 @@
     "es": "Hitmonchan ex",
     "de": "Hitmonchan ex",
     "it": "Hitmonchan es",
-    "zh-tw": "希特蒙醬前任",
+    "zh-tw": "希特蒙醬超級",
     "pt-br": "Ex-Hitmonchan"
   },
   "Hitting Hammer": {
@@ -3263,7 +3263,7 @@
     "fr": "Ex-Incineroar",
     "de": "Incineroar ex",
     "pt-br": "Incineroar ex",
-    "zh-tw": "焚怒火前",
+    "zh-tw": "焚怒火超級",
     "it": "Incineroar ex"
   },
   "Indeedee ex": {
@@ -3271,7 +3271,7 @@
     "es": "De hecho ex",
     "fr": "Effectivement ex",
     "pt-br": "De fato ex",
-    "zh-tw": "確實前",
+    "zh-tw": "確實超級",
     "it": "Effettivamente ex",
     "de": "Indeedee ex"
   },
@@ -4026,7 +4026,7 @@
     "en": "Jolteon ex",
     "fr": "Jolteon ex",
     "es": "Jolteon ex",
-    "zh-tw": "雷頓前",
+    "zh-tw": "雷頓超級",
     "de": "Jolteon ex",
     "it": "Jolteon es",
     "pt-br": "Ex-Jolteon"
@@ -4332,7 +4332,7 @@
     "en": "Lycanroc ex",
     "es": "Lycanroc ex",
     "fr": "Lycanroc ex",
-    "zh-tw": "狼人前",
+    "zh-tw": "狼人超級",
     "de": "Lycanroc ex",
     "it": "Lycanroc es",
     "pt-br": "Ex-Lycanroc"
@@ -4452,7 +4452,7 @@
     "fr": "Méga Absol ex",
     "de": "Mega Absol ex",
     "pt-br": "Mega Absol ex",
-    "zh-tw": "超級阿布索爾前"
+    "zh-tw": "超級阿布索爾超級"
   },
   "Mega Altaria ex": {
     "en": "Mega Altaria ex",
@@ -4461,14 +4461,14 @@
     "fr": "Méga Altaria ex",
     "pt-br": "Mega Altaria ex",
     "it": "Mega Altaria es",
-    "zh-tw": "超級阿爾塔利亞前"
+    "zh-tw": "超級阿爾塔利亞超級"
   },
   "Mega Ampharos ex": {
     "en": "Mega Ampharos ex",
     "es": "Mega Ampharos ex",
     "fr": "Méga Ampharos ex",
     "it": "Mega Ampharos es",
-    "zh-tw": "巨型安法羅斯前",
+    "zh-tw": "巨型安法羅斯超級",
     "de": "Mega Ampharos ex",
     "pt-br": "Mega Ampharos ex"
   },
@@ -4487,7 +4487,7 @@
     "it": "Mega Blaziken ex",
     "es": "Mega Blaziken ex",
     "pt-br": "Ex de Mega Blaziken",
-    "zh-tw": "超級布拉茲肯前身",
+    "zh-tw": "超級布拉茲肯超級",
     "de": "Mega Blaziken ex"
   },
   "Mega Burning": {
@@ -4514,7 +4514,7 @@
     "fr": "Méga Léviator ex",
     "it": "Mega Gyarados es",
     "de": "Mega Gyarados ex",
-    "zh-tw": "巨型暴鯉龍前身",
+    "zh-tw": "巨型暴鯉龍超級",
     "pt-br": "Mega Gyarados ex"
   },
   "Mega Harmony": {
@@ -4532,7 +4532,7 @@
     "pt-br": "Mega Pinsir ex",
     "es": "Mega Pinsir ex",
     "it": "Mega Pinsir ex",
-    "zh-tw": "超級品西爾前",
+    "zh-tw": "超級品西爾超級",
     "de": "Mega Pinsir ex"
   },
   "Mega Punch": {
@@ -4882,7 +4882,7 @@
     "fr": "Palkia ex",
     "es": "palkia ex",
     "it": "Palkia ex",
-    "zh-tw": "帕路奇亞前身",
+    "zh-tw": "帕路奇亞超級",
     "de": "Palkia ex",
     "pt-br": "Ex de Palkia"
   },
@@ -4954,7 +4954,7 @@
     "fr": "Ex passimien",
     "es": "ex passimiano",
     "it": "Passimiano ex",
-    "zh-tw": "帕西米亞前",
+    "zh-tw": "帕西米亞超級",
     "pt-br": "Ex passimiano",
     "de": "Passimian ex"
   },
@@ -5062,7 +5062,7 @@
     "fr": "Pikachu ex",
     "it": "Pikachu ex",
     "es": "ex-pikachu",
-    "zh-tw": "皮卡丘前身",
+    "zh-tw": "皮卡丘超級",
     "de": "Pikachu ex",
     "pt-br": "Ex-Pikachu"
   },
@@ -5215,7 +5215,7 @@
     "pt-br": "Primarina ex",
     "es": "primarina ex",
     "fr": "Primarina ex",
-    "zh-tw": "初級前",
+    "zh-tw": "初級超級",
     "it": "Primarina es",
     "de": "Primarina ex"
   },
@@ -5352,7 +5352,7 @@
     "fr": "Rapidash ex",
     "de": "Rapidash ex",
     "pt-br": "ex-rapidash",
-    "zh-tw": "快速前"
+    "zh-tw": "快速超級"
   },
   "Razor Fin": {
     "en": "Razor Fin",
@@ -6249,7 +6249,7 @@
     "en": "Tapu Koko ex",
     "es": "Tapu Koko ex",
     "fr": "Tapu Koko ex",
-    "zh-tw": "塔普科科前",
+    "zh-tw": "塔普科科超級",
     "it": "Tapu Koko ex",
     "pt-br": "Tapu Koko ex",
     "de": "Tapu Koko ex"
@@ -6258,7 +6258,7 @@
     "en": "Tauros ex",
     "fr": "Taureau ex",
     "it": "Tauros es",
-    "zh-tw": "金牛座前任",
+    "zh-tw": "金牛座超級",
     "es": "ex-tauro",
     "de": "Tauros ex",
     "pt-br": "Ex-tauro"
@@ -7886,7 +7886,7 @@
   },
   "Arcanine ex": {
     "en": "Arcanine ex",
-    "zh-tw": "阿爾卡寧前",
+    "zh-tw": "阿爾卡寧超級",
     "fr": "Arcanin ex",
     "es": "ex arcanino",
     "it": "Arcanina es",
@@ -7948,7 +7948,7 @@
   },
   "Blastoise ex": {
     "en": "Blastoise ex",
-    "zh-tw": "囊胚前"
+    "zh-tw": "囊胚超級"
   },
   "Blizzard": {
     "en": "Blizzard",
@@ -8050,7 +8050,7 @@
   },
   "Charizard ex": {
     "en": "Charizard ex",
-    "zh-tw": "噴火龍前身",
+    "zh-tw": "噴火龍超級",
     "es": "ex charizard",
     "fr": "Dracaufeu ex",
     "de": "Glurak ex",
@@ -8428,7 +8428,7 @@
   },
   "Exeggutor ex": {
     "en": "Exeggutor ex",
-    "zh-tw": "椰棗前"
+    "zh-tw": "椰棗超級"
   },
   "Farfetch'd": {
     "en": "Farfetch'd",
@@ -8646,7 +8646,7 @@
   },
   "Gengar ex": {
     "en": "Gengar ex",
-    "zh-tw": "耿鬼前身"
+    "zh-tw": "耿鬼超級"
   },
   "Geodude that have lived a long life have had all their edges smoothed out until they're totally round. They also have a calm, quiet disposition.": {
     "en": "Geodude that have lived a long life have had all their edges smoothed out until they're totally round. They also have a calm, quiet disposition.",
@@ -9477,7 +9477,7 @@
   },
   "Machamp ex": {
     "en": "Machamp ex",
-    "zh-tw": "馬尚前",
+    "zh-tw": "馬尚超級",
     "es": "ex machamp",
     "fr": "Machamp ex",
     "it": "Machamp ex",
@@ -9570,7 +9570,7 @@
   },
   "Marowak ex": {
     "en": "Marowak ex",
-    "zh-tw": "馬羅瓦克前"
+    "zh-tw": "馬羅瓦克超級"
   },
   "Mawile": {
     "en": "Mawile",
@@ -9617,7 +9617,7 @@
   },
   "Mewtwo ex": {
     "en": "Mewtwo ex",
-    "zh-tw": "超夢前任",
+    "zh-tw": "超夢超級",
     "fr": "Mewtwo ex",
     "es": "mewtwo ex",
     "de": "Mewtwo ex",
@@ -9666,7 +9666,7 @@
   },
   "Moltres ex": {
     "en": "Moltres ex",
-    "zh-tw": "莫爾特雷斯前",
+    "zh-tw": "莫爾特雷斯超級",
     "it": "Moltres ex",
     "es": "Moltres ex",
     "fr": "Sulfura ex",
@@ -10293,7 +10293,7 @@
   },
   "Starmie ex": {
     "en": "Starmie ex",
-    "zh-tw": "海星前任",
+    "zh-tw": "海星超級",
     "es": "ex starmie",
     "fr": "Starmie ex",
     "de": "Starmie ex",
@@ -10760,7 +10760,7 @@
   },
   "Venusaur ex": {
     "en": "Venusaur ex",
-    "zh-tw": "維納斯龍前身",
+    "zh-tw": "維納斯龍超級",
     "es": "Venusaur ex-",
     "fr": "Ex-Vénusaure",
     "it": "Venusaur es",
@@ -10953,7 +10953,7 @@
   },
   "Wigglytuff ex": {
     "en": "Wigglytuff ex",
-    "zh-tw": "維格利塔夫前任"
+    "zh-tw": "維格利塔夫超級"
   },
   "With a horn that's harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.": {
     "en": "With a horn that's harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.",
@@ -10983,7 +10983,7 @@
   },
   "Zapdos ex": {
     "en": "Zapdos ex",
-    "zh-tw": "Zapdos 前",
+    "zh-tw": "Zapdos 超級",
     "es": "Zapdos ex",
     "fr": "Zapdos ex",
     "de": "Zapdos ex",
@@ -11348,7 +11348,7 @@
   },
   "Garchomp ex": {
     "en": "Garchomp ex",
-    "zh-tw": "Garchomp 前",
+    "zh-tw": "Garchomp 超級",
     "fr": "Garchomp ex",
     "es": "Garchomp ex",
     "pt-br": "Ex-Garchomp",
@@ -11375,7 +11375,7 @@
   },
   "Glaceon ex": {
     "en": "Glaceon ex",
-    "zh-tw": "格拉西恩前",
+    "zh-tw": "格拉西恩超級",
     "es": "Glaceon ex",
     "fr": "Glaceon ex",
     "it": "Glaceon es",
@@ -11649,7 +11649,7 @@
   },
   "Leafeon ex": {
     "en": "Leafeon ex",
-    "zh-tw": "葉豐前",
+    "zh-tw": "葉豐超級",
     "it": "Leafeon es",
     "es": "Leafeon ex",
     "fr": "Leafeon ex",
@@ -11793,7 +11793,7 @@
   },
   "Probopass ex": {
     "en": "Probopass ex",
-    "zh-tw": "Probopass 前"
+    "zh-tw": "Probopass 超級"
   },
   "Pupitar": {
     "en": "Pupitar",
@@ -12551,7 +12551,7 @@
     "pt-br": "Ex-crobat",
     "de": "Crobat ex",
     "it": "Crobat es",
-    "zh-tw": "克羅巴特前"
+    "zh-tw": "克羅巴特超級"
   },
   "Croconaw": {
     "en": "Croconaw",
@@ -12694,7 +12694,7 @@
     "fr": "Donphan ex",
     "es": "ex donphan",
     "de": "Donphan ex",
-    "zh-tw": "唐凡前任",
+    "zh-tw": "唐凡超級",
     "pt-br": "Donphan ex"
   },
   "Draw cards until you have the same number of cards in your hand as your opponent.": {
@@ -12874,7 +12874,7 @@
     "fr": "Espeon ex",
     "pt-br": "Espeon ex",
     "it": "Espeon es",
-    "zh-tw": "埃斯彭前",
+    "zh-tw": "埃斯彭超級",
     "de": "Espeon ex"
   },
   "Every night, it wanders around in search of\nprey, whose movements it restrains by spewing\nthreads before it bites into them with its fangs.": {
@@ -13234,7 +13234,7 @@
     "es": "Gyarados ex",
     "pt-br": "Ex-Gyarados",
     "de": "Gyarados ex",
-    "zh-tw": "暴鯉龍前身",
+    "zh-tw": "暴鯉龍超級",
     "it": "Gyarados es"
   },
   "Heal 20 damage from each of your Pokémon.": {
@@ -13277,7 +13277,7 @@
     "en": "Ho-Oh ex",
     "fr": "Ho-Oh ex",
     "es": "ho-oh ex",
-    "zh-tw": "浩哦前任",
+    "zh-tw": "浩哦超級",
     "pt-br": "Ho-Oh ex",
     "de": "Ho-Oh Ex",
     "it": "Ho-Oh es"
@@ -14080,7 +14080,7 @@
     "pt-br": "Kingdra ex",
     "es": "Kingdra ex",
     "fr": "Kingdra ex",
-    "zh-tw": "金德拉前",
+    "zh-tw": "金德拉超級",
     "de": "Kingdra ex"
   },
   "Klang": {
@@ -14114,7 +14114,7 @@
     "en": "Lanturn ex",
     "es": "Lanturn ex",
     "fr": "Lanturn ex",
-    "zh-tw": "燈籠前",
+    "zh-tw": "燈籠超級",
     "de": "Lanturn ex",
     "pt-br": "Lanturn ex",
     "it": "Lanturn es"
@@ -14179,7 +14179,7 @@
     "fr": "Ex-Lickilicky",
     "de": "Leckerer Ex",
     "it": "Lickilicky ex",
-    "zh-tw": "舔舔前任",
+    "zh-tw": "舔舔超級",
     "pt-br": "Ex Lickilicky"
   },
   "Licking Fury": {
@@ -14215,7 +14215,7 @@
     "it": "Lugia ex",
     "es": "lugia ex",
     "de": "Lugia ex",
-    "zh-tw": "洛奇亞前身",
+    "zh-tw": "洛奇亞超級",
     "pt-br": "Lugia ex"
   },
   "Lyra": {
@@ -14285,7 +14285,7 @@
     "en": "Mismagius ex",
     "es": "Mismagio ex",
     "fr": "Mismagius ex",
-    "zh-tw": "米瑪格斯前身",
+    "zh-tw": "米瑪格斯超級",
     "it": "Mismagius ex",
     "de": "Mismagius ex",
     "pt-br": "Ex Mismagius"
@@ -14432,7 +14432,7 @@
     "it": "Pachirisu ex",
     "pt-br": "Ex Pachirisu",
     "de": "Pachirisu ex",
-    "zh-tw": "帕奇利茲前"
+    "zh-tw": "帕奇利茲超級"
   },
   "Peck Bugs": {
     "en": "Peck Bugs",
@@ -14746,7 +14746,7 @@
     "it": "Shuckle es",
     "fr": "Ex-rire",
     "de": "Shuckle ex",
-    "zh-tw": "卸扣前",
+    "zh-tw": "卸扣超級",
     "pt-br": "Shuckle ex"
   },
   "Silver": {
@@ -14772,7 +14772,7 @@
     "es": "Skarmory ex",
     "fr": "Ex-Airmure",
     "it": "Skarmory es",
-    "zh-tw": "斯卡莫里前任",
+    "zh-tw": "斯卡莫里超級",
     "pt-br": "Skarmory ex",
     "de": "Skarmory ex"
   },
@@ -15683,7 +15683,7 @@
     "de": "Umbreon ex",
     "it": "Umbreon es",
     "pt-br": "Umbreon ex",
-    "zh-tw": "傘前"
+    "zh-tw": "傘超級"
   },
   "Unruly Claw": {
     "en": "Unruly Claw",
@@ -15907,7 +15907,7 @@
     "fr": "Yanmega ex",
     "de": "Yanmega ex",
     "it": "Yanmega ex",
-    "zh-tw": "揚美加前",
+    "zh-tw": "揚美加超級",
     "pt-br": "Yanmega ex"
   },
   "You may discard any number of your Benched {W} Pokémon. This attack does 40 more damage for each Benched Pokémon you discarded in this way.": {
@@ -16166,7 +16166,7 @@
   },
   "Darkrai ex": {
     "en": "Darkrai ex",
-    "zh-tw": "達克萊伊前任",
+    "zh-tw": "達克萊伊超級",
     "fr": "Darkrai ex",
     "es": "Darkrai ex",
     "it": "Darkrai ex",
@@ -16434,7 +16434,7 @@
   },
   "Gallade ex": {
     "en": "Gallade ex",
-    "zh-tw": "加拉德前",
+    "zh-tw": "加拉德超級",
     "es": "Gallade ex",
     "pt-br": "Ex-galade",
     "fr": "ex Gallade",
@@ -16581,7 +16581,7 @@
   },
   "Infernape ex": {
     "en": "Infernape ex",
-    "zh-tw": "地獄火前",
+    "zh-tw": "地獄火超級",
     "fr": "Ex-Nuque Infernale",
     "es": "Infernape ex",
     "de": "Infernape ex",
@@ -17445,7 +17445,7 @@
   },
   "Beedrill ex": {
     "en": "Beedrill ex",
-    "zh-tw": "比德瑞爾前",
+    "zh-tw": "比德瑞爾超級",
     "es": "ex beedrill",
     "it": "Beedrill es",
     "fr": "Ex-Beedrill",
@@ -17610,7 +17610,7 @@
   },
   "Giratina ex": {
     "en": "Giratina ex",
-    "zh-tw": "騎拉帝納前身",
+    "zh-tw": "騎拉帝納超級",
     "es": "Giratina ex",
     "it": "Giratina es",
     "fr": "Giratina ex",
@@ -17728,7 +17728,7 @@
   },
   "Lucario ex": {
     "en": "Lucario ex",
-    "zh-tw": "路卡利歐前身"
+    "zh-tw": "路卡利歐超級"
   },
   "Meowscarada": {
     "en": "Meowscarada",
@@ -17776,7 +17776,7 @@
   },
   "Paldean Clodsire ex": {
     "en": "Paldean Clodsire ex",
-    "zh-tw": "Paldean Clodsire 前",
+    "zh-tw": "Paldean Clodsire 超級",
     "it": "Paldean Clodsire ex",
     "es": "Paldean Clodsire ex",
     "fr": "Paldéen Clodsire ex",
@@ -18050,7 +18050,7 @@
   },
   "Tinkaton ex": {
     "en": "Tinkaton ex",
-    "zh-tw": "廷卡頓前",
+    "zh-tw": "廷卡頓超級",
     "es": "Tinkatón ex",
     "fr": "Tinkaton ex",
     "it": "Tinkaton es",
@@ -18098,7 +18098,7 @@
   },
   "Wugtrio ex": {
     "en": "Wugtrio ex",
-    "zh-tw": "烏格特里奧前",
+    "zh-tw": "烏格特里奧超級",
     "de": "Wugtrio ex",
     "es": "ex wugtrio",
     "fr": "Wugtrio ex",
@@ -18238,7 +18238,7 @@
     "de": "Blissey Ex",
     "it": "Blissey es",
     "pt-br": "Blissey ex",
-    "zh-tw": "布利西前任"
+    "zh-tw": "布利西超級"
   },
   "Brass Rock": {
     "en": "Brass Rock",
@@ -18278,7 +18278,7 @@
   },
   "Cresselia ex": {
     "en": "Cresselia ex",
-    "zh-tw": "克雷色利亞前"
+    "zh-tw": "克雷色利亞超級"
   },
   "Dawn Wings Necrozma": {
     "en": "Dawn Wings Necrozma",
@@ -18610,7 +18610,7 @@
   },
   "Lapras ex": {
     "en": "Lapras ex",
-    "zh-tw": "拉普拉斯前身"
+    "zh-tw": "拉普拉斯超級"
   },
   "Larvesta": {
     "en": "Larvesta",
@@ -18728,7 +18728,7 @@
   },
   "Rayquaza ex": {
     "en": "Rayquaza ex",
-    "zh-tw": "烈空坐前"
+    "zh-tw": "烈空坐超級"
   },
   "Red Card": {
     "en": "Red Card",
@@ -19156,7 +19156,7 @@
   },
   "Celebi ex": {
     "en": "Celebi ex",
-    "zh-tw": "雪拉比前任",
+    "zh-tw": "雪拉比超級",
     "fr": "Ex de Célébi",
     "es": "ex celebridad",
     "de": "Celebi ex",
@@ -19431,7 +19431,7 @@
   },
   "Mew ex": {
     "en": "Mew ex",
-    "zh-tw": "喵前",
+    "zh-tw": "喵超級",
     "fr": "Miau ex",
     "it": "Mew es",
     "es": "mi ex",
@@ -19877,7 +19877,7 @@
   "Buzzwole ex": {
     "en": "Buzzwole ex",
     "fr": "Ex-Buzzwole",
-    "zh-tw": "巴斯沃勒前任",
+    "zh-tw": "巴斯沃勒超級",
     "pt-br": "Ex-Buzzwole",
     "es": "Buzzwole ex",
     "it": "Buzzwole ex",
@@ -20032,7 +20032,7 @@
     "es": "ex guzzlord",
     "de": "Guzzlord ex",
     "fr": "Ex-Guzzlord",
-    "zh-tw": "古茲領主前任",
+    "zh-tw": "古茲領主超級",
     "it": "Guzzlord es",
     "pt-br": "Guzzlord ex"
   },
@@ -21033,7 +21033,7 @@
     "pt-br": "Ex-dragonita",
     "de": "Dragonite ex",
     "it": "Dragonite ex",
-    "zh-tw": "龍石前"
+    "zh-tw": "龍石超級"
   },
   "Drampa": {
     "en": "Drampa",
@@ -21047,7 +21047,7 @@
   "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.": {
     "en": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
     "fr": "Pendant ce tour, les attaques utilisées par votre ex Décidueye, Incineroar ex ou Primarina ex infligent +30 dégâts au Pokémon Actif de votre adversaire.",
-    "zh-tw": "這個回合中，你的決斗眼前身、焚火吼前身、原體前身的攻擊對對手的現役寶可夢造成 +30 點傷害。",
+    "zh-tw": "這個回合中，你的決斗眼超級、焚火吼超級、原體超級的攻擊對對手的現役寶可夢造成 +30 點傷害。",
     "de": "Während dieser Runde fügen Angriffe deines Decidueye-Ex, Incineroar-Ex oder Primarina-Ex dem Aktiven Pokémon deines Gegners +30 Schaden zu.",
     "pt-br": "Durante este turno, os ataques usados ​​pelo seu Decidueye ex, Incineroar ex ou Primarina ex causam +30 de dano ao Pokémon Ativo do seu oponente.",
     "it": "Durante questo turno, gli attacchi usati dal tuo Decidueye ex, Incineroar ex o Primarina ex infliggono +30 danni al Pokémon attivo del tuo avversario.",
@@ -21066,7 +21066,7 @@
     "en": "Eevee ex",
     "fr": "Évoli ex",
     "es": "ex-eevee",
-    "zh-tw": "伊布前任",
+    "zh-tw": "伊布超級",
     "it": "Eevee es",
     "pt-br": "Eevee ex",
     "de": "Evoli ex"
@@ -21122,7 +21122,7 @@
     "es": "Flareon ex",
     "fr": "Flareon ex",
     "de": "Flareon ex",
-    "zh-tw": "Flareon 前",
+    "zh-tw": "Flareon 超級",
     "pt-br": "Flareon ex"
   },
   "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.": {
@@ -21555,7 +21555,7 @@
     "pt-br": "Snorlax ex",
     "it": "Snorlax es",
     "de": "Snorlax ex",
-    "zh-tw": "斯諾拉克斯前身"
+    "zh-tw": "斯諾拉克斯超級"
   },
   "Steenee": {
     "en": "Steenee",
@@ -21590,7 +21590,7 @@
     "pt-br": "Sylveon ex",
     "de": "Sylveon ex",
     "fr": "Sylvéon ex",
-    "zh-tw": "西爾文前",
+    "zh-tw": "西爾文超級",
     "it": "Sylveone es"
   },
   "The horns on its head provide a strong power\nthat enables it to sense people's emotions.": {
@@ -21921,7 +21921,7 @@
     "en": "Alolan Muk ex",
     "es": "Muk de Alola ex",
     "fr": "Alolan Muk ex",
-    "zh-tw": "阿羅蘭·穆克前任",
+    "zh-tw": "阿羅蘭·穆克超級",
     "it": "Alolan Muk ex",
     "de": "Alolan Muk ex",
     "pt-br": "Ex-Alolan Muk"
@@ -21930,7 +21930,7 @@
     "en": "Alolan Raichu ex",
     "es": "Raichu de Alola ex",
     "fr": "Alolan Raichu ex",
-    "zh-tw": "阿羅拉雷丘前身",
+    "zh-tw": "阿羅拉雷丘超級",
     "de": "Alolan Raichu ex",
     "pt-br": "Ex de Alola Raichu",
     "it": "Raichu di Alola ex"
@@ -22253,7 +22253,7 @@
   "Lunala ex": {
     "en": "Lunala ex",
     "es": "Lunala ex",
-    "zh-tw": "露娜拉前任",
+    "zh-tw": "露娜拉超級",
     "fr": "Lunala ex",
     "it": "Lunala ex",
     "de": "Lunala ex",
@@ -22389,7 +22389,7 @@
     "en": "Solgaleo ex",
     "fr": "Solgaleo ex",
     "es": "Solgaleo ex",
-    "zh-tw": "索爾迦雷歐前身",
+    "zh-tw": "索爾迦雷歐超級",
     "de": "Solgaleo ex",
     "it": "Solgaleo es",
     "pt-br": "Solgaleo ex"
@@ -22687,7 +22687,7 @@
   },
   "Crabominable ex": {
     "en": "Crabominable ex",
-    "zh-tw": "Crabominable 前"
+    "zh-tw": "Crabominable 超級"
   },
   "Cutiefly": {
     "en": "Cutiefly",
@@ -22713,7 +22713,7 @@
   },
   "Dhelmise ex": {
     "en": "Dhelmise ex",
-    "zh-tw": "德赫米斯·前"
+    "zh-tw": "德赫米斯·超級"
   },
   "Discard 2 {L} Energy from this Pokémon.": {
     "en": "Discard 2 {L} Energy from this Pokémon.",
@@ -23564,7 +23564,7 @@
   },
   "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.": {
     "en": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
-    "zh-tw": "這次攻擊對你的後備願望和願望前任每人造成 40 點以上傷害。"
+    "zh-tw": "這次攻擊對你的後備願望和願望超級每人造成 40 點以上傷害。"
   },
   "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.": {
     "en": "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.",
@@ -23723,7 +23723,7 @@
   },
   "Wishiwashi ex": {
     "en": "Wishiwashi ex",
-    "zh-tw": "希望和希前"
+    "zh-tw": "希望和希超級"
   },
   "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.": {
     "en": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
@@ -23953,7 +23953,7 @@
     "es": "Entei-ex",
     "fr": "Entei ex",
     "it": "Entei ex",
-    "zh-tw": "炎帝前",
+    "zh-tw": "炎帝超級",
     "de": "Entei ex",
     "pt-br": "Entei ex"
   },
@@ -24405,7 +24405,7 @@
     "it": "Jumpluff es",
     "de": "Jumpluff ex",
     "pt-br": "Ex-Jumpluff",
-    "zh-tw": "跳躍前"
+    "zh-tw": "跳躍超級"
   },
   "Latias": {
     "en": "Latias",
@@ -24620,7 +24620,7 @@
     "fr": "Poliwrath ex",
     "it": "Poliwrath ex",
     "de": "Poliwrath ex",
-    "zh-tw": "波利拉特前身",
+    "zh-tw": "波利拉特超級",
     "pt-br": "Ex-poliwrath"
   },
   "Raikou ex": {
@@ -24628,7 +24628,7 @@
     "fr": "Raikou ex",
     "es": "Raikou ex",
     "it": "Raikou ex",
-    "zh-tw": "賴光前",
+    "zh-tw": "賴光超級",
     "de": "Raikou ex",
     "pt-br": "Ex de Raikou"
   },
@@ -24753,7 +24753,7 @@
     "en": "Suicune ex",
     "es": "ex suicune",
     "de": "Suicune ex",
-    "zh-tw": "水君前",
+    "zh-tw": "水君超級",
     "fr": "Suicune ex",
     "it": "Suicune ex",
     "pt-br": "Suicune ex"

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Venusaur es",
         "de": "Venusaurier ex",
         "pt-br": "Ex-Venusauro",
-        "zh-tw": "維納斯龍前身"
+        "zh-tw": "維納斯龍超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

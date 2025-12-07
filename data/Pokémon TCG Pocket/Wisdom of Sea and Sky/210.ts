@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ho-Oh es",
         "de": "Ho-Oh Ex",
         "pt-br": "Ho-Oh ex",
-        "zh-tw": "浩哦前任"
+        "zh-tw": "浩哦超級"
     },
     illustrator: "SIE NANAHARA",
     rarity: "Three Star",

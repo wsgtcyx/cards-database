@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Donphan ex",
         "de": "Donphan ex",
         "pt-br": "Donphan ex",
-        "zh-tw": "唐凡前任"
+        "zh-tw": "唐凡超級"
     },
     illustrator: "Yuriko Akase",
     rarity: "Two Star",

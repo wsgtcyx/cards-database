@@ -10,7 +10,7 @@ const card: Card = {
         de: "Glaziola-ex",
         'pt-br': "Glaceon ex",
         ko: "글레이시아 ex",
-        "zh-tw": "格拉西恩前"
+        "zh-tw": "格拉西恩超級"
     },
     illustrator: "rika",
     rarity: "Two Star",

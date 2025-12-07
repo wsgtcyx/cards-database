@@ -10,7 +10,7 @@ const card: Card = {
         de: "Quartermak-ex",
         'pt-br': "Passimian ex",
         ko: "내던숭이 ex",
-        "zh-tw": "帕西米亞前"
+        "zh-tw": "帕西米亞超級"
     },
     illustrator: "Taiga Kayama",
     rarity: "Two Star",

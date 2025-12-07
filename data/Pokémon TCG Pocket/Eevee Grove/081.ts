@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sylveone es",
         "de": "Sylveon ex",
         "pt-br": "Sylveon ex",
-        "zh-tw": "西爾文前"
+        "zh-tw": "西爾文超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

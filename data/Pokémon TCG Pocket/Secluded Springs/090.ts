@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Suicune ex",
         "de": "Suicune ex",
         "pt-br": "Suicune ex",
-        "zh-tw": "水君前"
+        "zh-tw": "水君超級"
     },
     illustrator: "mele",
     rarity: "Three Star",

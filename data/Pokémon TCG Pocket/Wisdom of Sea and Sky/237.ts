@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mismagius ex",
         "de": "Mismagius ex",
         "pt-br": "Ex Mismagius",
-        "zh-tw": "米瑪格斯前身"
+        "zh-tw": "米瑪格斯超級"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",

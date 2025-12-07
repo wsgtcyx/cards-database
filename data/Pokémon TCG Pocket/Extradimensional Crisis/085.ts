@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lycanroc es",
         "de": "Lycanroc ex",
         "pt-br": "Ex-Lycanroc",
-        "zh-tw": "狼人前"
+        "zh-tw": "狼人超級"
     },
     illustrator: "Jiro Sasumo",
     rarity: "Two Star",

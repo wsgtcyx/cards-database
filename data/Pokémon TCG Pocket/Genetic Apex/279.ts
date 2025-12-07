@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knuddeluff-ex",
         'pt-br': "Wigglytuff ex",
         ko: "푸크린 ex",
-        "zh-tw": "維格利塔夫前任"
+        "zh-tw": "維格利塔夫超級"
     },
     illustrator: "Shibuzoh.",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fuegro-ex",
         'pt-br': "Incineroar ex",
         ko: "어흥염 ex",
-        "zh-tw": "焚怒火前"
+        "zh-tw": "焚怒火超級"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Star",

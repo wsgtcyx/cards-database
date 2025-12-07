@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Poliwrath ex",
         "de": "Poliwrath ex",
         "pt-br": "Ex-poliwrath",
-        "zh-tw": "波利拉特前身"
+        "zh-tw": "波利拉特超級"
     },
     illustrator: "Teeziro",
     rarity: "Two Star",

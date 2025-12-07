@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lusardin-ex",
         'pt-br': "Wishiwashi ex",
         ko: "약어리 ex",
-        "zh-tw": "希望和希前"
+        "zh-tw": "希望和希超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
@@ -40,7 +40,7 @@ const card: Card = {
                 de: "Diese Attacke fügt für jedes Lusardin und Lusardin-ex auf deiner Bank 40 Schadenspunkte mehr zu.",
                 'pt-br': "Este ataque causa 40 pontos de dano a mais para cada um dos seus Wishiwashi e Wishiwashi ex no Banco.",
                 ko: "자신의 벤치의 「약어리」 「약어리 ex」의 수 × 40데미지를 추가한다.",
-                "zh-tw": "這次攻擊對你的後備願望和願望前任每人造成 40 點以上傷害。"
+                "zh-tw": "這次攻擊對你的後備願望和願望超級每人造成 40 點以上傷害。"
             }
         }],
     weaknesses: [{

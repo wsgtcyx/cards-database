@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dialga-ex",
         'pt-br': "Dialga ex",
         ko: "디아루가 ex",
-        "zh-tw": "帝牙盧卡前身"
+        "zh-tw": "帝牙盧卡超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

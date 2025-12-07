@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knakrack-ex",
         'pt-br': "Garchomp ex",
         ko: "한카리아스 ex",
-        "zh-tw": "Garchomp 前"
+        "zh-tw": "Garchomp 超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

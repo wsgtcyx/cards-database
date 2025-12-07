@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Rapidash es",
         "de": "Rapidash ex",
         "pt-br": "ex-rapidash",
-        "zh-tw": "快速前"
+        "zh-tw": "快速超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

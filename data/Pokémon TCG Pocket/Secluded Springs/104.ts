@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Paldean Clodsire ex",
         "de": "Paldean Clodsire ex",
         "pt-br": "Ex de Paldean Clodsire",
-        "zh-tw": "Paldean Clodsire 前"
+        "zh-tw": "Paldean Clodsire 超級"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Shiny",

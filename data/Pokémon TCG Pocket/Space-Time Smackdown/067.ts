@@ -10,7 +10,7 @@ const card: Card = {
         de: "Traunmagil-ex",
         'pt-br': "Mismagius ex",
         ko: "무우마직 ex",
-        "zh-tw": "米瑪格斯前身"
+        "zh-tw": "米瑪格斯超級"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
