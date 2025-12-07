@@ -5,14 +5,15 @@ const set: Set = {
 	id: "A4b",
 
 	name: {
-		// de: "Hüter des Firmaments",
+		de: "Deluxe Pack: ex",
 		en: "Deluxe Pack: ex",
-		// es: "Guardianes Celestiales",
-		// fr: "Gardiens Astraux",
-		// it: "Guardiani Astrali",
-		// 'pt-br': "Guardiões Celestiais",
-		// ko: '쌍천의 수호자',
-		ja: 'ハイクラスパックex'
+		es: "Deluxe Pack: ex",
+		fr: "Deluxe Pack: ex",
+		it: "Deluxe Pack: ex",
+		'pt-br': "Deluxe Pack: ex",
+		ko: 'Deluxe Pack: ex',
+		ja: 'ハイクラスパックex',
+		'zh-tw': "豪華包：ex"
 	},
 
 	serie: serie,
@@ -24,13 +25,15 @@ const set: Set = {
 	boosters: {
 		deluxe_pack_ex: {
 			name: {
-				// de: "Solgaleo",
-				en: 'Delux Pack EX',
-				// fr: 'Solgaleo',
-				// es: 'Solgaleo',
-				// it: 'Solgaleo',
-				// 'pt-br': 'Solgaleo',
-				// ko: '솔가레오'
+				de: 'Deluxe Pack EX',
+				en: 'Deluxe Pack EX',
+				fr: 'Deluxe Pack EX',
+				es: 'Deluxe Pack EX',
+				it: 'Deluxe Pack EX',
+				'pt-br': 'Deluxe Pack EX',
+				ko: 'Deluxe Pack EX',
+				ja: 'ハイクラスパックEX',
+				'zh-tw': '豪華包 EX'
 			}
 		}
 	},

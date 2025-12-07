@@ -11,7 +11,8 @@ const set: Set = {
 		fr: "Gardiens Astraux",
 		it: "Guardiani Astrali",
 		'pt-br': "Guardiões Celestiais",
-		ko: '쌍천의 수호자'
+		ko: '쌍천의 수호자',
+		'zh-tw': "蒼穹守護者"
 	},
 
 	serie: serie,
@@ -29,7 +30,8 @@ const set: Set = {
 				es: 'Solgaleo',
 				it: 'Solgaleo',
 				'pt-br': 'Solgaleo',
-				ko: '솔가레오'
+				ko: '솔가레오',
+				'zh-tw': '索爾迦雷歐'
 			}
 		},
 		lunala: {
@@ -40,7 +42,8 @@ const set: Set = {
 				es: 'Lunala',
 				it: 'Lunala',
 				'pt-br': 'Lunala',
-				ko: '루나아라'
+				ko: '루나아라',
+				'zh-tw': '露奈雅拉'
 			}
 		}
 	},
