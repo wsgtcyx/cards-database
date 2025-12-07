@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rattfratz",
         'pt-br': "Rattata",
         ko: "꼬렛",
-        "zh-tw": "拉達"
+        "zh-tw": "小拉達"
     },
     illustrator: "Eri Yamaki",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Tackle",
-                fr: "Charge",
-                es: "Placaje",
-                it: "Azione",
-                de: "Tackle",
-                'pt-br': "Investida",
-                ko: "몸통박치기",
-                "zh-tw": "處理"
-            },
-            damage: 10,
-            cost: ["Colorless"]
-        }],
+        name: {
+            en: "Tackle",
+            fr: "Charge",
+            es: "Placaje",
+            it: "Azione",
+            de: "Tackle",
+            'pt-br': "Investida",
+            ko: "몸통박치기",
+            "zh-tw": "處理"
+        },
+        damage: 10,
+        cost: ["Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

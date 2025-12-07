@@ -10,7 +10,7 @@ const card: Card = {
         de: "Simsala",
         'pt-br': "Alakazam",
         ko: "후딘",
-        "zh-tw": "阿拉卡扎姆"
+        "zh-tw": "胡地"
     },
     illustrator: "Mousho",
     rarity: "Three Diamond",
@@ -20,11 +20,11 @@ const card: Card = {
     evolveFrom: {
         en: "Kadabra",
         "fr": "Kadabra",
-        "es": "kadabra",
+        "es": "Kadabra",
         "it": "Kadabra",
         "de": "Kadabra",
         "pt-br": "Kadabra",
-        "zh-tw": "卡達布拉"
+        "zh-tw": "勇基拉"
     },
     description: {
         en: "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage2",
     attacks: [{
-            name: {
-                en: "Psychic Suppression",
-                fr: "Suppression Psychique",
-                es: "Represión Psíquica",
-                it: "Oppressione Psichica",
-                de: "Psychounterdrückung",
-                'pt-br': "Supressão Psíquica",
-                ko: "사이코 서프레션",
-                "zh-tw": "心靈壓制"
-            },
-            damage: 80,
-            cost: ["Psychic", "Psychic"],
-            effect: {
-                en: "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.",
-                fr: "Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire auxquels au moins une Énergie est attachée.",
-                es: "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival que tenga alguna Energía unida a él.",
-                it: "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario che ha delle Energie assegnate.",
-                de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners, an das mindestens 1 Energie angelegt ist, 20 Schadenspunkte zu.",
-                'pt-br': "Este ataque também causa 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente que tiver alguma Energia ligada a ele.",
-                ko: "에너지가 붙어 있는 상대의 벤치 포켓몬 전원에게도 20데미지를 준다.",
-                "zh-tw": "此攻擊還會對對手後備戰中每隻帶有能量的神奇寶貝造成 20 點傷害。"
-            }
-        }],
+        name: {
+            en: "Psychic Suppression",
+            fr: "Suppression Psychique",
+            es: "Represión Psíquica",
+            it: "Oppressione Psichica",
+            de: "Psychounterdrückung",
+            'pt-br': "Supressão Psíquica",
+            ko: "사이코 서프레션",
+            "zh-tw": "心靈壓制"
+        },
+        damage: 80,
+        cost: ["Psychic", "Psychic"],
+        effect: {
+            en: "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.",
+            fr: "Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire auxquels au moins une Énergie est attachée.",
+            es: "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival que tenga alguna Energía unida a él.",
+            it: "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario che ha delle Energie assegnate.",
+            de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners, an das mindestens 1 Energie angelegt ist, 20 Schadenspunkte zu.",
+            'pt-br': "Este ataque também causa 20 pontos de dano a cada um dos Pokémon no Banco do seu oponente que tiver alguma Energia ligada a ele.",
+            ko: "에너지가 붙어 있는 상대의 벤치 포켓몬 전원에게도 20데미지를 준다.",
+            "zh-tw": "此攻擊還會對對手後備戰中每隻帶有能量的神奇寶貝造成 20 點傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Darkness",
-            value: "+20"
-        }],
+        type: "Darkness",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

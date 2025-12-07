@@ -10,7 +10,7 @@ const card: Card = {
         de: "Abra",
         'pt-br': "Abra",
         ko: "캐이시",
-        "zh-tw": "阿布拉"
+        "zh-tw": "凱西"
     },
     illustrator: "Mousho",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Psyshot",
-                fr: "Piqûre Psy",
-                es: "Disparo Psi",
-                it: "Psicosparo",
-                de: "Psychoschuss",
-                'pt-br': "Tiro Psíquico",
-                ko: "사이코숏",
-                "zh-tw": "心理射擊"
-            },
-            damage: 20,
-            cost: ["Psychic"]
-        }],
+        name: {
+            en: "Psyshot",
+            fr: "Piqûre Psy",
+            es: "Disparo Psi",
+            it: "Psicosparo",
+            de: "Psychoschuss",
+            'pt-br': "Tiro Psíquico",
+            ko: "사이코숏",
+            "zh-tw": "心理射擊"
+        },
+        damage: 20,
+        cost: ["Psychic"]
+    }],
     weaknesses: [{
-            type: "Darkness",
-            value: "+20"
-        }],
+        type: "Darkness",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

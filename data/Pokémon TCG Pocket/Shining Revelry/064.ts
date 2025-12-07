@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bidiza",
         'pt-br': "Bidoof",
         ko: "비버니",
-        "zh-tw": "比杜夫"
+        "zh-tw": "大牙狸"
     },
     illustrator: "Sekio",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Headbutt",
-                fr: "Coup d'Boule",
-                es: "Golpe Cabeza",
-                it: "Bottintesta",
-                de: "Kopfnuss",
-                'pt-br': "Cabeçada",
-                ko: "박치기",
-                "zh-tw": "頭撞"
-            },
-            damage: 30,
-            cost: ["Colorless", "Colorless"]
-        }],
+        name: {
+            en: "Headbutt",
+            fr: "Coup d'Boule",
+            es: "Golpe Cabeza",
+            it: "Bottintesta",
+            de: "Kopfnuss",
+            'pt-br': "Cabeçada",
+            ko: "박치기",
+            "zh-tw": "頭撞"
+        },
+        damage: 30,
+        cost: ["Colorless", "Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

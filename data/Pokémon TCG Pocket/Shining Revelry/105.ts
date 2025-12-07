@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knattox",
         'pt-br': "Varoom",
         ko: "부르롱",
-        "zh-tw": "瓦魯姆"
+        "zh-tw": "噗隆隆"
     },
     illustrator: "nagimiso",
     category: "Pokemon",
@@ -28,23 +28,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Headbutt",
-                fr: "Coup d'Boule",
-                es: "Golpe Cabeza",
-                it: "Bottintesta",
-                de: "Kopfnuss",
-                'pt-br': "Cabeçada",
-                ko: "박치기",
-                "zh-tw": "頭撞"
-            },
-            damage: 10,
-            cost: ["Metal"]
-        }],
+        name: {
+            en: "Headbutt",
+            fr: "Coup d'Boule",
+            es: "Golpe Cabeza",
+            it: "Bottintesta",
+            de: "Kopfnuss",
+            'pt-br': "Cabeçada",
+            ko: "박치기",
+            "zh-tw": "頭撞"
+        },
+        damage: 10,
+        cost: ["Metal"]
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 1,
     rarity: "One Shiny"
 };

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schlurplek",
         'pt-br': "Lickilicky",
         ko: "내룸벨트",
-        "zh-tw": "利奇利基"
+        "zh-tw": "大舌舔"
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",
@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Lickitung",
         "de": "Lecken",
         "pt-br": "Lickitung",
-        "zh-tw": "利基通"
+        "zh-tw": "大舌頭"
     },
     description: {
         en: "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Rollout",
-                fr: "Roulade",
-                es: "Rodar",
-                it: "Rotolamento",
-                de: "Walzer",
-                'pt-br': "Rolagem",
-                ko: "구르기",
-                "zh-tw": "推出"
-            },
-            damage: 70,
-            cost: ["Colorless", "Colorless", "Colorless"]
-        }],
+        name: {
+            en: "Rollout",
+            fr: "Roulade",
+            es: "Rodar",
+            it: "Rotolamento",
+            de: "Walzer",
+            'pt-br': "Rolagem",
+            ko: "구르기",
+            "zh-tw": "推出"
+        },
+        damage: 70,
+        cost: ["Colorless", "Colorless", "Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 3
 };
 export default card;

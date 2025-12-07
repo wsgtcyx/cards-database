@@ -10,7 +10,7 @@ const card: Card = {
         de: "Maskagato",
         'pt-br': "Meowscarada",
         ko: "마스카나",
-        "zh-tw": "喵斯卡拉達"
+        "zh-tw": "魔幻假面喵"
     },
     illustrator: "mashu",
     rarity: "Three Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Floragato",
-        "fr": "Floragato",
-        "es": "floragato",
+        "fr": "Matourgeon",
+        "es": "Floragato",
         "it": "Floragato",
-        "de": "Floragato",
-        "pt-br": "Floragata",
-        "zh-tw": "弗洛拉加托"
+        "de": "Feliospa",
+        "pt-br": "Floragato",
+        "zh-tw": "蒂蕾喵"
     },
     description: {
         en: "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage2",
     attacks: [{
-            name: {
-                en: "Fighting Claws",
-                fr: "Griffes Combatives",
-                es: "Garras Luchadoras",
-                it: "Lottartigli",
-                de: "Kampfkrallen",
-                'pt-br': "Garras de Luta",
-                ko: "투지의손톱",
-                "zh-tw": "戰鬥利爪"
-            },
-            damage: "60+",
-            cost: ["Grass", "Grass"],
-            effect: {
-                en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
-                fr: "Si le Pokémon Actif de votre adversaire est un Pokémon-{ex}, cette attaque inflige 70 dégâts supplémentaires.",
-                es: "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 70 puntos de daño más.",
-                it: "Se il Pokémon attivo del tuo avversario è un Pokémon-{ex}, questo attacco infligge 70 danni in più.",
-                de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
-                'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais.",
-                ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 70데미지를 추가한다.",
-                "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 70 點。"
-            }
-        }],
+        name: {
+            en: "Fighting Claws",
+            fr: "Griffes Combatives",
+            es: "Garras Luchadoras",
+            it: "Lottartigli",
+            de: "Kampfkrallen",
+            'pt-br': "Garras de Luta",
+            ko: "투지의손톱",
+            "zh-tw": "戰鬥利爪"
+        },
+        damage: "60+",
+        cost: ["Grass", "Grass"],
+        effect: {
+            en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+            fr: "Si le Pokémon Actif de votre adversaire est un Pokémon-{ex}, cette attaque inflige 70 dégâts supplémentaires.",
+            es: "Si el Pokémon Activo de tu rival es un Pokémon {ex}, este ataque hace 70 puntos de daño más.",
+            it: "Se il Pokémon attivo del tuo avversario è un Pokémon-{ex}, questo attacco infligge 70 danni in più.",
+            de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-{ex} ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+            'pt-br': "Se o Pokémon Ativo do seu oponente for um Pokémon {ex}, este ataque causará 70 pontos de dano a mais.",
+            ko: "상대의 배틀 포켓몬이 「포켓몬 {ex}」라면 70데미지를 추가한다.",
+            "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 70 點。"
+        }
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

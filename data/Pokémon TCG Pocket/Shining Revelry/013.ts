@@ -10,7 +10,7 @@ const card: Card = {
         de: "Paldea-Tauros",
         'pt-br': "Taurosde Paldea",
         ko: "팔데아켄타로스",
-        "zh-tw": "帕拉丁金牛座"
+        "zh-tw": "帕底亞肯泰羅"
     },
     illustrator: "Minahamu",
     rarity: "Two Diamond",
@@ -29,33 +29,33 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Blaze Tackle",
-                fr: "Charge Flamboyante",
-                es: "Placaje Llameante",
-                it: "Assalto Infuocato",
-                de: "Flammender Tackle",
-                'pt-br': "Investida Incendiária",
-                ko: "블레이즈태클",
-                "zh-tw": "烈焰鏟球"
-            },
-            damage: 80,
-            cost: ["Fire", "Colorless", "Colorless"],
-            effect: {
-                en: "This Pokémon also does 10 damage to itself.",
-                fr: "Ce Pokémon s'inflige aussi 10 dégâts.",
-                es: "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
-                it: "Questo Pokémon infligge anche 10 danni a se stesso.",
-                de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
-                'pt-br': "Este Pokémon também causa 10 pontos de dano a si mesmo.",
-                ko: "이 포켓몬에게도 10데미지를 준다.",
-                "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
-            }
-        }],
+        name: {
+            en: "Blaze Tackle",
+            fr: "Charge Flamboyante",
+            es: "Placaje Llameante",
+            it: "Assalto Infuocato",
+            de: "Flammender Tackle",
+            'pt-br': "Investida Incendiária",
+            ko: "블레이즈태클",
+            "zh-tw": "烈焰鏟球"
+        },
+        damage: 80,
+        cost: ["Fire", "Colorless", "Colorless"],
+        effect: {
+            en: "This Pokémon also does 10 damage to itself.",
+            fr: "Ce Pokémon s'inflige aussi 10 dégâts.",
+            es: "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+            it: "Questo Pokémon infligge anche 10 danni a se stesso.",
+            de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
+            'pt-br': "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+            ko: "이 포켓몬에게도 10데미지를 준다.",
+            "zh-tw": "該神奇寶貝也會對其自身造成 10 點傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Water",
-            value: "+20"
-        }],
+        type: "Water",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

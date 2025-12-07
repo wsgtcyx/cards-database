@@ -10,7 +10,7 @@ const card: Card = {
         de: "Voltobal",
         'pt-br': "Voltorb",
         ko: "찌리리공",
-        "zh-tw": "伏爾托布"
+        "zh-tw": "霹靂電球"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Lightning Ball",
-                fr: "Boule Éclair",
-                es: "Bola Relámpago",
-                it: "Fulminpalla",
-                de: "Kugelblitz",
-                'pt-br': "Bola de Raios",
-                ko: "번쩍구슬",
-                "zh-tw": "閃電球"
-            },
-            damage: 10,
-            cost: ["Lightning"]
-        }],
+        name: {
+            en: "Lightning Ball",
+            fr: "Boule Éclair",
+            es: "Bola Relámpago",
+            it: "Fulminpalla",
+            de: "Kugelblitz",
+            'pt-br': "Bola de Raios",
+            ko: "번쩍구슬",
+            "zh-tw": "閃電球"
+        },
+        damage: 10,
+        cost: ["Lightning"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bamelin",
         'pt-br': "Buizel",
         ko: "브이젤",
-        "zh-tw": "布伊澤爾"
+        "zh-tw": "泳圈鼬"
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Star",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Water Gun",
-                fr: "Pistolet à O",
-                es: "Pistola Agua",
-                it: "Pistolacqua",
-                de: "Aquaknarre",
-                'pt-br': "Revólver d'Água",
-                ko: "물대포",
-                "zh-tw": "水槍"
-            },
-            damage: 10,
-            cost: ["Water"]
-        }],
+        name: {
+            en: "Water Gun",
+            fr: "Pistolet à O",
+            es: "Pistola Agua",
+            it: "Pistolacqua",
+            de: "Aquaknarre",
+            'pt-br': "Revólver d'Água",
+            ko: "물대포",
+            "zh-tw": "水槍"
+        },
+        damage: 10,
+        cost: ["Water"]
+    }],
     weaknesses: [{
-            type: "Lightning",
-            value: "+20"
-        }],
+        type: "Lightning",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

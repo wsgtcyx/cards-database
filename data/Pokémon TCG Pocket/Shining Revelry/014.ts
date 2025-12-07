@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tentacha",
         'pt-br': "Tentacool",
         ko: "왕눈해",
-        "zh-tw": "坦塔酷"
+        "zh-tw": "瑪瑙水母"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Rain Splash",
-                fr: "Pluie Éclaboussante",
-                es: "Golpe de Lluvia",
-                it: "Spruzzapioggia",
-                de: "Regenplatscher",
-                'pt-br': "Chuva Borrifante",
-                ko: "물뿌리기",
-                "zh-tw": "雨濺"
-            },
-            damage: 10,
-            cost: ["Water"]
-        }],
+        name: {
+            en: "Rain Splash",
+            fr: "Pluie Éclaboussante",
+            es: "Golpe de Lluvia",
+            it: "Spruzzapioggia",
+            de: "Regenplatscher",
+            'pt-br': "Chuva Borrifante",
+            ko: "물뿌리기",
+            "zh-tw": "雨濺"
+        },
+        damage: 10,
+        cost: ["Water"]
+    }],
     weaknesses: [{
-            type: "Lightning",
-            value: "+20"
-        }],
+        type: "Lightning",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

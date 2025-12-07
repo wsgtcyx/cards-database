@@ -10,7 +10,7 @@ const card: Card = {
         de: "Felori",
         'pt-br': "Sprigatito",
         ko: "나오하",
-        "zh-tw": "斯普里加蒂托"
+        "zh-tw": "新葉喵"
     },
     illustrator: "mashu",
     rarity: "One Diamond",
@@ -29,32 +29,32 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Cry for Help",
-                fr: "Appel au secours",
-                es: "Pedir Ayuda",
-                it: "Gridaiuto",
-                de: "Hilfeschrei",
-                'pt-br': "Pedir Ajuda",
-                ko: "친구부르기",
-                "zh-tw": "求救"
-            },
-            cost: ["Grass"],
-            effect: {
-                en: "Put 1 random {G} Pokémon from your deck into your hand.",
-                fr: "Ajoutez au hasard un Pokémon {G} de votre deck à votre main.",
-                es: "Pon 1 Pokémon {G} aleatorio de tu baraja en tu mano.",
-                it: "Prendi un Pokémon {G} a caso dal tuo mazzo e aggiungilo alle carte che hai in mano.",
-                de: "Nimm 1 zufälliges {G}-Pokémon aus deinem Deck auf deine Hand.",
-                'pt-br': "Coloque 1 Pokémon {G} aleatório do seu baralho na sua mão.",
-                ko: "자신의 덱에서 {G}포켓몬을 랜덤으로 1장 패로 가져온다.",
-                "zh-tw": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。"
-            }
-        }],
+        name: {
+            en: "Cry for Help",
+            fr: "Appel au secours",
+            es: "Pedir Ayuda",
+            it: "Gridaiuto",
+            de: "Hilfeschrei",
+            'pt-br': "Pedir Ajuda",
+            ko: "친구부르기",
+            "zh-tw": "求救"
+        },
+        cost: ["Grass"],
+        effect: {
+            en: "Put 1 random {G} Pokémon from your deck into your hand.",
+            fr: "Ajoutez au hasard un Pokémon {G} de votre deck à votre main.",
+            es: "Pon 1 Pokémon {G} aleatorio de tu baraja en tu mano.",
+            it: "Prendi un Pokémon {G} a caso dal tuo mazzo e aggiungilo alle carte che hai in mano.",
+            de: "Nimm 1 zufälliges {G}-Pokémon aus deinem Deck auf deine Hand.",
+            'pt-br': "Coloque 1 Pokémon {G} aleatório do seu baralho na sua mão.",
+            ko: "자신의 덱에서 {G}포켓몬을 랜덤으로 1장 패로 가져온다.",
+            "zh-tw": "從你的卡組中隨機將 1 只 {G} 神奇寶貝加入你的手牌。"
+        }
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

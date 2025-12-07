@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pamo",
         'pt-br': "Pawmi",
         ko: "빠모",
-        "zh-tw": "波米"
+        "zh-tw": "布撥"
     },
     illustrator: "Saboteri",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Punch",
-                fr: "Koud'Poing",
-                es: "Puño",
-                it: "Pugno",
-                de: "Boxhieb",
-                'pt-br': "Soco",
-                ko: "펀치",
-                "zh-tw": "沖床"
-            },
-            damage: 20,
-            cost: ["Lightning"]
-        }],
+        name: {
+            en: "Punch",
+            fr: "Koud'Poing",
+            es: "Puño",
+            it: "Pugno",
+            de: "Boxhieb",
+            'pt-br': "Soco",
+            ko: "펀치",
+            "zh-tw": "沖床"
+        },
+        damage: 20,
+        cost: ["Lightning"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

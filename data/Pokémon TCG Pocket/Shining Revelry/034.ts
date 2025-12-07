@@ -10,7 +10,7 @@ const card: Card = {
         de: "Drifzepeli",
         'pt-br': "Drifblim",
         ko: "둥실라이드",
-        "zh-tw": "德里夫布利姆"
+        "zh-tw": "隨風球"
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Drifloon",
-        "fr": "Brise-glace",
-        "es": "Driflón",
+        "fr": "Baudrive",
+        "es": "Drifloon",
         "it": "Drifloon",
-        "de": "Driftloon",
+        "de": "Driftlon",
         "pt-br": "Drifloon",
-        "zh-tw": "飛龍"
+        "zh-tw": "飄飄球"
     },
     description: {
         en: "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Gust",
-                fr: "Tornade",
-                es: "Tornado",
-                it: "Raffica",
-                de: "Windstoß",
-                'pt-br': "Lufada de Vento",
-                ko: "바람일으키기",
-                "zh-tw": "陣風"
-            },
-            damage: 40,
-            cost: ["Psychic"]
-        }],
+        name: {
+            en: "Gust",
+            fr: "Tornade",
+            es: "Tornado",
+            it: "Raffica",
+            de: "Windstoß",
+            'pt-br': "Lufada de Vento",
+            ko: "바람일으키기",
+            "zh-tw": "陣風"
+        },
+        damage: 40,
+        cost: ["Psychic"]
+    }],
     weaknesses: [{
-            type: "Darkness",
-            value: "+20"
-        }],
+        type: "Darkness",
+        value: "+20"
+    }],
     retreat: 0
 };
 export default card;

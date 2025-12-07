@@ -10,7 +10,7 @@ const card: Card = {
         de: "Enigmara",
         'pt-br': "Kissera",
         ko: "모야모",
-        "zh-tw": "伊奧諾"
+        "zh-tw": "奇樹"
     },
     illustrator: "saino misaki",
     rarity: "Two Diamond",

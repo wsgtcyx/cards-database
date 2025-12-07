@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pummeluff",
         'pt-br': "Jigglypuff",
         ko: "푸린",
-        "zh-tw": "胖夫"
+        "zh-tw": "胖丁"
     },
     illustrator: "Kanako Eo",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Rollout",
-                fr: "Roulade",
-                es: "Rodar",
-                it: "Rotolamento",
-                de: "Walzer",
-                'pt-br': "Rolagem",
-                ko: "구르기",
-                "zh-tw": "推出"
-            },
-            damage: 20,
-            cost: ["Colorless"]
-        }],
+        name: {
+            en: "Rollout",
+            fr: "Roulade",
+            es: "Rodar",
+            it: "Rotolamento",
+            de: "Walzer",
+            'pt-br': "Rolagem",
+            ko: "구르기",
+            "zh-tw": "推出"
+        },
+        damage: 20,
+        cost: ["Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

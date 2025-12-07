@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magmar",
         'pt-br': "Magmar",
         ko: "마그마",
-        "zh-tw": "瑪格瑪"
+        "zh-tw": "鴨嘴火獸"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Flare",
-                fr: "Flamboiement",
-                es: "Llama",
-                it: "Fiammata",
-                de: "Flackern",
-                'pt-br': "Chama",
-                ko: "불꽃",
-                "zh-tw": "耀斑"
-            },
-            damage: 20,
-            cost: ["Fire"]
-        }],
+        name: {
+            en: "Flare",
+            fr: "Flamboiement",
+            es: "Llama",
+            it: "Fiammata",
+            de: "Flackern",
+            'pt-br': "Chama",
+            ko: "불꽃",
+            "zh-tw": "耀斑"
+        },
+        damage: 20,
+        cost: ["Fire"]
+    }],
     weaknesses: [{
-            type: "Water",
-            value: "+20"
-        }],
+        type: "Water",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

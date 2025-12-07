@@ -10,7 +10,7 @@ const card: Card = {
         de: "Forgita",
         'pt-br': "Tinkatink",
         ko: "어리짱",
-        "zh-tw": "丁卡丁克"
+        "zh-tw": "小鍛匠"
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Corkscrew Punch",
-                fr: "Poing Tire-Bouchon",
-                es: "Puño Tirabuzón",
-                it: "Pugno Rotante",
-                de: "Korkenzieherhieb",
-                'pt-br': "Soco Saca-rolha",
-                ko: "쥐어박기",
-                "zh-tw": "螺旋沖頭"
-            },
-            damage: 20,
-            cost: ["Metal"]
-        }],
+        name: {
+            en: "Corkscrew Punch",
+            fr: "Poing Tire-Bouchon",
+            es: "Puño Tirabuzón",
+            it: "Pugno Rotante",
+            de: "Korkenzieherhieb",
+            'pt-br': "Soco Saca-rolha",
+            ko: "쥐어박기",
+            "zh-tw": "螺旋沖頭"
+        },
+        damage: 20,
+        cost: ["Metal"]
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

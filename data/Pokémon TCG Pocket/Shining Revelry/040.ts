@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kicklee",
         'pt-br': "Hitmonlee",
         ko: "시라소몬",
-        "zh-tw": "希特蒙利"
+        "zh-tw": "飛腿郎"
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Kick",
-                fr: "Koud'Pied",
-                es: "Patada",
-                it: "Calcio",
-                de: "Tritt",
-                'pt-br': "Chute",
-                ko: "킥",
-                "zh-tw": "踢"
-            },
-            damage: 30,
-            cost: ["Fighting"]
-        }],
+        name: {
+            en: "Kick",
+            fr: "Koud'Pied",
+            es: "Patada",
+            it: "Calcio",
+            de: "Tritt",
+            'pt-br': "Chute",
+            ko: "킥",
+            "zh-tw": "踢"
+        },
+        damage: 30,
+        cost: ["Fighting"]
+    }],
     weaknesses: [{
-            type: "Psychic",
-            value: "+20"
-        }],
+        type: "Psychic",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

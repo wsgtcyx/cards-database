@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pamomamo",
         'pt-br': "Pawmot",
         ko: "빠르모트",
-        "zh-tw": "波莫特"
+        "zh-tw": "巴布土撥"
     },
     illustrator: "Saboteri",
     rarity: "Three Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Pawmo",
-        "fr": "Pawmo",
+        "fr": "Pohmotte",
         "es": "Pawmo",
         "it": "Pawmo",
-        "de": "Pawmo",
+        "de": "Pamamo",
         "pt-br": "Pawmo",
-        "zh-tw": "波莫"
+        "zh-tw": "布土撥"
     },
     description: {
         en: "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
@@ -38,46 +38,46 @@ const card: Card = {
     },
     stage: "Stage2",
     abilities: [{
-            type: "Ability",
-            name: {
-                en: "Counterattack",
-                fr: "Contre-Attaque",
-                es: "Contragolpe",
-                it: "Respinta",
-                de: "Gegenangriff",
-                'pt-br': "Contra-ataque",
-                ko: "반격",
-                "zh-tw": "反擊"
-            },
-            effect: {
-                en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
-                fr: "Si ce Pokémon est sur le Poste Actif et subit les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 20 dégâts.",
-                es: "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 20 puntos de daño.",
-                it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 20 danni.",
-                de: "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem Angreifenden Pokémon 20 Schadenspunkte zu.",
-                'pt-br': "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
-                ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다.",
-                "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
-            }
-        }],
+        type: "Ability",
+        name: {
+            en: "Counterattack",
+            fr: "Contre-Attaque",
+            es: "Contragolpe",
+            it: "Respinta",
+            de: "Gegenangriff",
+            'pt-br': "Contra-ataque",
+            ko: "반격",
+            "zh-tw": "反擊"
+        },
+        effect: {
+            en: "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+            fr: "Si ce Pokémon est sur le Poste Actif et subit les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 20 dégâts.",
+            es: "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 20 puntos de daño.",
+            it: "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 20 danni.",
+            de: "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem Angreifenden Pokémon 20 Schadenspunkte zu.",
+            'pt-br': "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 20 pontos de dano ao Pokémon Atacante.",
+            ko: "이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 20데미지를 준다.",
+            "zh-tw": "如果這只寶可夢位於活動區域並因對方寶可夢的攻擊而受到傷害，則對攻擊的寶可夢造成 20 點傷害。"
+        }
+    }],
     attacks: [{
-            name: {
-                en: "Electric Punch",
-                fr: "Poing Électrique",
-                es: "Puño Eléctrico",
-                it: "Pugno Elettrico",
-                de: "Elektroschlag",
-                'pt-br': "Murro Elétrico",
-                ko: "찌리리펀치",
-                "zh-tw": "電動沖床"
-            },
-            damage: 70,
-            cost: ["Lightning", "Lightning"]
-        }],
+        name: {
+            en: "Electric Punch",
+            fr: "Poing Électrique",
+            es: "Puño Eléctrico",
+            it: "Pugno Elettrico",
+            de: "Elektroschlag",
+            'pt-br': "Murro Elétrico",
+            ko: "찌리리펀치",
+            "zh-tw": "電動沖床"
+        },
+        damage: 70,
+        cost: ["Lightning", "Lightning"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 0
 };
 export default card;

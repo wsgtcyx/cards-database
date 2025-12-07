@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knattatox",
         'pt-br': "Revavroom",
         ko: "부르르룸",
-        "zh-tw": "休息室"
+        "zh-tw": "普隆隆姆"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "Two Diamond",
@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Varoom",
         "de": "Varoom",
         "pt-br": "Varoom",
-        "zh-tw": "瓦魯姆"
+        "zh-tw": "噗隆隆"
     },
     description: {
         en: "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Spinning Drift",
-                fr: "Drift Tournoyant",
-                es: "Corriente Giratoria",
-                it: "Derapata Rotante",
-                de: "Rotationsdrift",
-                'pt-br': "Derrapada Giratória",
-                ko: "스핀드리프트",
-                "zh-tw": "旋轉漂移"
-            },
-            damage: 70,
-            cost: ["Metal", "Metal", "Colorless"],
-            effect: {
-                en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-                fr: "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
-                es: "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
-                it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
-                de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
-                'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
-                ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
-                "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
-            }
-        }],
+        name: {
+            en: "Spinning Drift",
+            fr: "Drift Tournoyant",
+            es: "Corriente Giratoria",
+            it: "Derapata Rotante",
+            de: "Rotationsdrift",
+            'pt-br': "Derrapada Giratória",
+            ko: "스핀드리프트",
+            "zh-tw": "旋轉漂移"
+        },
+        damage: 70,
+        cost: ["Metal", "Metal", "Colorless"],
+        effect: {
+            en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+            fr: "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+            es: "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
+            it: "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon.",
+            de: "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden.",
+            'pt-br': "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+            ko: "동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.",
+            "zh-tw": "拋一枚硬幣。如果正面朝上，則在對手的下一回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
+        }
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

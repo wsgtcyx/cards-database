@@ -10,7 +10,7 @@ const card: Card = {
         de: "Paldea-Felino",
         'pt-br': "Wooperde Paldea",
         ko: "팔데아우파",
-        "zh-tw": "帕丁·伍珀"
+        "zh-tw": "帕底亞烏波"
     },
     illustrator: "Mori Yuu",
     rarity: "One Diamond",
@@ -29,33 +29,33 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Poison Jab",
-                fr: "Direct Toxik",
-                es: "Puya Nociva",
-                it: "Velenpuntura",
-                de: "Gifthieb",
-                'pt-br': "Golpe Envenenado",
-                ko: "독찌르기",
-                "zh-tw": "毒刺"
-            },
-            damage: 10,
-            cost: ["Darkness"],
-            effect: {
-                en: "Your opponent's Active Pokémon is now Poisoned.",
-                fr: "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
-                es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
-                it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
-                de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
-                ko: "상대의 배틀 포켓몬을 독으로 만든다.",
-                'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
-            }
-        }],
+        name: {
+            en: "Poison Jab",
+            fr: "Direct Toxik",
+            es: "Puya Nociva",
+            it: "Velenpuntura",
+            de: "Gifthieb",
+            'pt-br': "Golpe Envenenado",
+            ko: "독찌르기",
+            "zh-tw": "毒刺"
+        },
+        damage: 10,
+        cost: ["Darkness"],
+        effect: {
+            en: "Your opponent's Active Pokémon is now Poisoned.",
+            fr: "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+            es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+            it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
+            de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+            ko: "상대의 배틀 포켓몬을 독으로 만든다.",
+            'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
+            "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+        }
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

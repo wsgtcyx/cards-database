@@ -10,7 +10,7 @@ const card: Card = {
         de: "Flaminkno",
         'pt-br': "Flamigo",
         ko: "꼬이밍고",
-        "zh-tw": "火烈鳥"
+        "zh-tw": "纏紅鶴"
     },
     illustrator: "REND",
     rarity: "Two Diamond",
@@ -29,33 +29,33 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Double Kick",
-                fr: "Double Pied",
-                es: "Doble Patada",
-                it: "Doppiocalcio",
-                de: "Doppelkick",
-                'pt-br': "Chute Duplo",
-                ko: "두번차기",
-                "zh-tw": "雙踢"
-            },
-            damage: "50x",
-            cost: ["Fighting", "Fighting"],
-            effect: {
-                en: "Flip 2 coins. This attack does 50 damage for each heads.",
-                fr: "Lancez 2 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
-                es: "Lanza 2 monedas. Este ataque hace 50 puntos de daño por cada cara.",
-                it: "Lancia 2 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
-                de: "Wirf 2 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
-                'pt-br': "Jogue 2 moedas. Este ataque causa 50 pontos de dano para cada cara.",
-                ko: "동전을 2번 던져서 앞면이 나온 수 × 50데미지를 준다.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
-            }
-        }],
+        name: {
+            en: "Double Kick",
+            fr: "Double Pied",
+            es: "Doble Patada",
+            it: "Doppiocalcio",
+            de: "Doppelkick",
+            'pt-br': "Chute Duplo",
+            ko: "두번차기",
+            "zh-tw": "雙踢"
+        },
+        damage: "50x",
+        cost: ["Fighting", "Fighting"],
+        effect: {
+            en: "Flip 2 coins. This attack does 50 damage for each heads.",
+            fr: "Lancez 2 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+            es: "Lanza 2 monedas. Este ataque hace 50 puntos de daño por cada cara.",
+            it: "Lancia 2 volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa.",
+            de: "Wirf 2 Münzen. Diese Attacke fügt 50 Schadenspunkte pro Kopf zu.",
+            'pt-br': "Jogue 2 moedas. Este ataque causa 50 pontos de dano para cada cara.",
+            ko: "동전을 2번 던져서 앞면이 나온 수 × 50데미지를 준다.",
+            "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Psychic",
-            value: "+20"
-        }],
+        type: "Psychic",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Maschock",
         'pt-br': "Machoke",
         ko: "근육몬",
-        "zh-tw": "馬喬克"
+        "zh-tw": "豪力"
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Machop",
-        "fr": "Machop",
+        "fr": "Machoc",
         "es": "Machop",
         "it": "Machop",
-        "de": "Machop",
+        "de": "Machollo",
         "pt-br": "Machop",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力"
     },
     description: {
         en: "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Pummel",
-                fr: "Martelage",
-                es: "Aporrear",
-                it: "Legnata",
-                de: "Trommler",
-                'pt-br': "Esmurrar",
-                ko: "후려갈기기",
-                "zh-tw": "揍"
-            },
-            damage: "30+",
-            cost: ["Fighting", "Fighting"],
-            effect: {
-                en: "Flip a coin. If heads, this attack does 30 more damage.",
-                fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
-                es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
-                it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
-                de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
-                'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
-                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
-            }
-        }],
+        name: {
+            en: "Pummel",
+            fr: "Martelage",
+            es: "Aporrear",
+            it: "Legnata",
+            de: "Trommler",
+            'pt-br': "Esmurrar",
+            ko: "후려갈기기",
+            "zh-tw": "揍"
+        },
+        damage: "30+",
+        cost: ["Fighting", "Fighting"],
+        effect: {
+            en: "Flip a coin. If heads, this attack does 30 more damage.",
+            fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+            es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+            it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
+            de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
+            'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+            ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
+            "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Psychic",
-            value: "+20"
-        }],
+        type: "Psychic",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

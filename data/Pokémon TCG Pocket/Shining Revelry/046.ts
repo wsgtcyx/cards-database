@@ -10,7 +10,7 @@ const card: Card = {
         de: "Arbok",
         'pt-br': "Arbok",
         ko: "아보크",
-        "zh-tw": "阿爾博克"
+        "zh-tw": "阿柏怪"
     },
     illustrator: "Midori Harada",
     rarity: "Two Diamond",
@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Ekans",
         "de": "Ekans",
         "pt-br": "Ekans",
-        "zh-tw": "埃肯斯"
+        "zh-tw": "阿柏蛇"
     },
     description: {
         en: "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Venomous Fang",
-                fr: "Croc-Poison",
-                es: "Colmillo Nocivo",
-                it: "Dentevelenoso",
-                de: "Gifthauer",
-                'pt-br': "Dente Venenoso",
-                ko: "독이빨",
-                "zh-tw": "毒牙"
-            },
-            damage: 70,
-            cost: ["Darkness", "Darkness", "Colorless"],
-            effect: {
-                en: "Your opponent's Active Pokémon is now Poisoned.",
-                fr: "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
-                es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
-                it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
-                de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
-                ko: "상대의 배틀 포켓몬을 독으로 만든다.",
-                'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
-                "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
-            }
-        }],
+        name: {
+            en: "Venomous Fang",
+            fr: "Croc-Poison",
+            es: "Colmillo Nocivo",
+            it: "Dentevelenoso",
+            de: "Gifthauer",
+            'pt-br': "Dente Venenoso",
+            ko: "독이빨",
+            "zh-tw": "毒牙"
+        },
+        damage: 70,
+        cost: ["Darkness", "Darkness", "Colorless"],
+        effect: {
+            en: "Your opponent's Active Pokémon is now Poisoned.",
+            fr: "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+            es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+            it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
+            de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
+            ko: "상대의 배틀 포켓몬을 독으로 만든다.",
+            'pt-br': "O Pokémon Ativo do seu oponente agora está Envenenado.",
+            "zh-tw": "你對手的主動神奇寶貝現在中毒了。"
+        }
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

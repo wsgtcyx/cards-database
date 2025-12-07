@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schligda",
         'pt-br': "Wiglett",
         ko: "바다그다",
-        "zh-tw": "威格利特"
+        "zh-tw": "海地鼠"
     },
     illustrator: "Souichirou Gunjima",
     category: "Pokemon",
@@ -28,32 +28,32 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Spring Out",
-                fr: "Surgir",
-                es: "Saltar en Resorte",
-                it: "Salta Fuori",
-                de: "Rausspringen",
-                'pt-br': "Surgir",
-                ko: "튀어나오기",
-                "zh-tw": "春天來了"
-            },
-            cost: ["Water"],
-            effect: {
-                en: "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
-                fr: "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 30 dégâts.",
-                es: "Se elige a un Pokémon aleatorio de tu rival. Hazle 30 puntos de daño.",
-                it: "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 30 danni.",
-                de: "1 Pokémon des Gegners wird zufällig ausgewählt.\nFüge diesem Pokémon 30 Schadenspunkte zu.",
-                'pt-br': "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 30 pontos de dano a ele.",
-                ko: "상대의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 30데미지를 준다.",
-                "zh-tw": "隨機選擇 1 只對手的神奇寶貝。對其造成 30 點傷害。"
-            }
-        }],
+        name: {
+            en: "Spring Out",
+            fr: "Surgir",
+            es: "Saltar en Resorte",
+            it: "Salta Fuori",
+            de: "Rausspringen",
+            'pt-br': "Surgir",
+            ko: "튀어나오기",
+            "zh-tw": "春天來了"
+        },
+        cost: ["Water"],
+        effect: {
+            en: "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+            fr: "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 30 dégâts.",
+            es: "Se elige a un Pokémon aleatorio de tu rival. Hazle 30 puntos de daño.",
+            it: "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 30 danni.",
+            de: "1 Pokémon des Gegners wird zufällig ausgewählt.\nFüge diesem Pokémon 30 Schadenspunkte zu.",
+            'pt-br': "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 30 pontos de dano a ele.",
+            ko: "상대의 포켓몬이 랜덤으로 1번 선택되어 선택된 포켓몬에게 30데미지를 준다.",
+            "zh-tw": "隨機選擇 1 只對手的神奇寶貝。對其造成 30 點傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Lightning",
-            value: "+20"
-        }],
+        type: "Lightning",
+        value: "+20"
+    }],
     retreat: 1,
     rarity: "One Shiny"
 };

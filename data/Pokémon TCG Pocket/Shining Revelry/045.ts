@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rettan",
         'pt-br': "Ekans",
         ko: "아보",
-        "zh-tw": "埃肯斯"
+        "zh-tw": "阿柏蛇"
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Ram",
-                fr: "Collision",
-                es: "Apisonar",
-                it: "Carica",
-                de: "Ramme",
-                'pt-br': "Aríete",
-                ko: "부딪치기",
-                "zh-tw": "內存"
-            },
-            damage: 30,
-            cost: ["Darkness", "Colorless"]
-        }],
+        name: {
+            en: "Ram",
+            fr: "Collision",
+            es: "Apisonar",
+            it: "Carica",
+            de: "Ramme",
+            'pt-br': "Aríete",
+            ko: "부딪치기",
+            "zh-tw": "內存"
+        },
+        damage: 30,
+        cost: ["Darkness", "Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

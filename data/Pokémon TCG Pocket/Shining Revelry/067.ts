@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schlapor",
         'pt-br': "Lopunny",
         ko: "이어롭",
-        "zh-tw": "垂耳兔"
+        "zh-tw": "長耳兔"
     },
     illustrator: "Minahamu",
     rarity: "One Diamond",
@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Bunary",
         "de": "Buneary",
         "pt-br": "Buneário",
-        "zh-tw": "佈內裡"
+        "zh-tw": "捲捲耳"
     },
     description: {
         en: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Hopping Shot",
-                fr: "Tir Sauteur",
-                es: "Disparo Salto",
-                it: "Colpo Salterino",
-                de: "Hüpfkick",
-                'pt-br': "Disparada Saltitante",
-                ko: "홉핑슛",
-                "zh-tw": "跳投"
-            },
-            damage: 30,
-            cost: ["Colorless"]
-        }],
+        name: {
+            en: "Hopping Shot",
+            fr: "Tir Sauteur",
+            es: "Disparo Salto",
+            it: "Colpo Salterino",
+            de: "Hüpfkick",
+            'pt-br': "Disparada Saltitante",
+            ko: "홉핑슛",
+            "zh-tw": "跳投"
+        },
+        damage: 30,
+        cost: ["Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

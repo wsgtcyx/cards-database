@@ -10,7 +10,7 @@ const card: Card = {
         de: "Riolu",
         'pt-br': "Riolu",
         ko: "리오르",
-        "zh-tw": "利奧盧"
+        "zh-tw": "利歐路"
     },
     illustrator: "GOSSAN",
     category: "Pokemon",
@@ -28,23 +28,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Punch",
-                fr: "Koud'Poing",
-                es: "Puño",
-                it: "Pugno",
-                de: "Boxhieb",
-                'pt-br': "Soco",
-                ko: "펀치",
-                "zh-tw": "沖床"
-            },
-            damage: 40,
-            cost: ["Fighting", "Fighting"]
-        }],
+        name: {
+            en: "Punch",
+            fr: "Koud'Poing",
+            es: "Puño",
+            it: "Pugno",
+            de: "Boxhieb",
+            'pt-br': "Soco",
+            ko: "펀치",
+            "zh-tw": "沖床"
+        },
+        damage: 40,
+        cost: ["Fighting", "Fighting"]
+    }],
     weaknesses: [{
-            type: "Psychic",
-            value: "+20"
-        }],
+        type: "Psychic",
+        value: "+20"
+    }],
     retreat: 1,
     rarity: "One Shiny"
 };

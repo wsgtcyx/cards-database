@@ -10,7 +10,7 @@ const card: Card = {
         de: "Machollo",
         'pt-br': "Machop",
         ko: "알통몬",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力"
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Low Kick",
-                fr: "Balayage",
-                es: "Patada Baja",
-                it: "Colpo Basso",
-                de: "Fußkick",
-                'pt-br': "Rasteira",
-                ko: "안다리걸기",
-                "zh-tw": "低踢"
-            },
-            damage: 20,
-            cost: ["Fighting"]
-        }],
+        name: {
+            en: "Low Kick",
+            fr: "Balayage",
+            es: "Patada Baja",
+            it: "Colpo Basso",
+            de: "Fußkick",
+            'pt-br': "Rasteira",
+            ko: "안다리걸기",
+            "zh-tw": "低踢"
+        },
+        damage: 20,
+        cost: ["Fighting"]
+    }],
     weaknesses: [{
-            type: "Psychic",
-            value: "+20"
-        }],
+        type: "Psychic",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knuddeluff",
         'pt-br': "Wigglytuff",
         ko: "푸크린",
-        "zh-tw": "威格利凝灰岩"
+        "zh-tw": "胖可丁"
     },
     illustrator: "miki kudo",
     rarity: "Three Diamond",
@@ -38,46 +38,46 @@ const card: Card = {
     },
     stage: "Stage1",
     abilities: [{
-            type: "Ability",
-            name: {
-                en: "Comforting Song",
-                fr: "Chant Réconfortant",
-                es: "Canción Reconfortante",
-                it: "Canto Soave",
-                de: "Wohltuendes Lied",
-                'pt-br': "Canção Reconfortante",
-                ko: "평온의 노래",
-                "zh-tw": "安慰歌曲"
-            },
-            effect: {
-                en: "Once during your turn, you may heal 20 damage from your Active Pokémon.",
-                fr: "Une fois pendant votre tour, vous pouvez soigner 20 dégâts de votre Pokémon Actif.",
-                es: "Una vez durante tu turno, puedes curar 20 puntos de daño a tu Pokémon Activo.",
-                it: "Una sola volta durante il tuo turno, puoi curare il tuo Pokémon attivo da 20 danni.",
-                de: "Einmal während deines Zuges kannst du 20 Schadenspunkte bei deinem Aktiven Pokémon heilen.",
-                'pt-br': "Uma vez durante o seu turno, você poderá curar 20 pontos de dano do seu Pokémon Ativo.",
-                ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 20회복.",
-                "zh-tw": "在你的回合中，你可以治療 20 點來自你的活躍神奇寶貝的傷害。"
-            }
-        }],
+        type: "Ability",
+        name: {
+            en: "Comforting Song",
+            fr: "Chant Réconfortant",
+            es: "Canción Reconfortante",
+            it: "Canto Soave",
+            de: "Wohltuendes Lied",
+            'pt-br': "Canção Reconfortante",
+            ko: "평온의 노래",
+            "zh-tw": "安慰歌曲"
+        },
+        effect: {
+            en: "Once during your turn, you may heal 20 damage from your Active Pokémon.",
+            fr: "Une fois pendant votre tour, vous pouvez soigner 20 dégâts de votre Pokémon Actif.",
+            es: "Una vez durante tu turno, puedes curar 20 puntos de daño a tu Pokémon Activo.",
+            it: "Una sola volta durante il tuo turno, puoi curare il tuo Pokémon attivo da 20 danni.",
+            de: "Einmal während deines Zuges kannst du 20 Schadenspunkte bei deinem Aktiven Pokémon heilen.",
+            'pt-br': "Uma vez durante o seu turno, você poderá curar 20 pontos de dano do seu Pokémon Ativo.",
+            ko: "자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬의 HP를 20회복.",
+            "zh-tw": "在你的回合中，你可以治療 20 點來自你的活躍神奇寶貝的傷害。"
+        }
+    }],
     attacks: [{
-            name: {
-                en: "Gentle Slap",
-                fr: "Gifle Douce",
-                es: "Bofetada Gentil",
-                it: "Schiaffetto",
-                de: "Sanfter Hieb",
-                'pt-br': "Tapinha",
-                ko: "세게때리기",
-                "zh-tw": "輕輕一巴掌"
-            },
-            damage: 50,
-            cost: ["Colorless", "Colorless"]
-        }],
+        name: {
+            en: "Gentle Slap",
+            fr: "Gifle Douce",
+            es: "Bofetada Gentil",
+            it: "Schiaffetto",
+            de: "Sanfter Hieb",
+            'pt-br': "Tapinha",
+            ko: "세게때리기",
+            "zh-tw": "輕輕一巴掌"
+        },
+        damage: 50,
+        cost: ["Colorless", "Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

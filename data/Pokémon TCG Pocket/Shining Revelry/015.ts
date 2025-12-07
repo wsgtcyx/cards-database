@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tentoxa",
         'pt-br': "Tentacruel",
         ko: "독파리",
-        "zh-tw": "觸毒"
+        "zh-tw": "毒刺水母"
     },
     illustrator: "match",
     rarity: "Two Diamond",
@@ -20,11 +20,11 @@ const card: Card = {
     evolveFrom: {
         en: "Tentacool",
         "fr": "Tentacool",
-        "es": "tentacool",
+        "es": "Tentacool",
         "it": "Tentacool",
-        "de": "Tentacool",
+        "de": "Tentacha",
         "pt-br": "Tentacool",
-        "zh-tw": "坦塔酷"
+        "zh-tw": "瑪瑙水母"
     },
     description: {
         en: "When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Wave Splash",
-                fr: "Grosse Vague",
-                es: "Chapoteo Ondulante",
-                it: "Schizzi d'Onda",
-                de: "Wellenplatscher",
-                'pt-br': "Onda Borrifante",
-                ko: "스플래시",
-                "zh-tw": "波浪飛濺"
-            },
-            damage: 40,
-            cost: ["Water"]
-        }],
+        name: {
+            en: "Wave Splash",
+            fr: "Grosse Vague",
+            es: "Chapoteo Ondulante",
+            it: "Schizzi d'Onda",
+            de: "Wellenplatscher",
+            'pt-br': "Onda Borrifante",
+            ko: "스플래시",
+            "zh-tw": "波浪飛濺"
+        },
+        damage: 40,
+        cost: ["Water"]
+    }],
     weaknesses: [{
-            type: "Lightning",
-            value: "+20"
-        }],
+        type: "Lightning",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Driftlon",
         'pt-br': "Drifloon",
         ko: "흔들풍손",
-        "zh-tw": "飛龍"
+        "zh-tw": "飄飄球"
     },
     illustrator: "kodama",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Ram",
-                fr: "Collision",
-                es: "Apisonar",
-                it: "Carica",
-                de: "Ramme",
-                'pt-br': "Aríete",
-                ko: "부딪치기",
-                "zh-tw": "內存"
-            },
-            damage: 20,
-            cost: ["Psychic"]
-        }],
+        name: {
+            en: "Ram",
+            fr: "Collision",
+            es: "Apisonar",
+            it: "Carica",
+            de: "Ramme",
+            'pt-br': "Aríete",
+            ko: "부딪치기",
+            "zh-tw": "內存"
+        },
+        damage: 20,
+        cost: ["Psychic"]
+    }],
     weaknesses: [{
-            type: "Darkness",
-            value: "+20"
-        }],
+        type: "Darkness",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

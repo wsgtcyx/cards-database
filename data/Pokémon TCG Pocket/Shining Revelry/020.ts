@@ -10,7 +10,7 @@ const card: Card = {
         de: "Heerashai",
         'pt-br': "Dondozo",
         ko: "어써러셔",
-        "zh-tw": "東多佐"
+        "zh-tw": "吃吼霸"
     },
     illustrator: "Tomowaka",
     rarity: "Three Diamond",
@@ -29,33 +29,33 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Ocean Cyclone",
-                fr: "Cyclone Océanique",
-                es: "Ciclón Oceánico",
-                it: "Ciclone Oceanico",
-                de: "Meeressturm",
-                'pt-br': "Ciclone Oceânico",
-                ko: "오션사이클론",
-                "zh-tw": "海洋氣旋"
-            },
-            damage: 80,
-            cost: ["Water", "Water", "Colorless", "Colorless"],
-            effect: {
-                en: "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
-                fr: "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
-                es: "Este ataque también hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
-                it: "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
-                de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
-                'pt-br': "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
-                ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다.",
-                "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。"
-            }
-        }],
+        name: {
+            en: "Ocean Cyclone",
+            fr: "Cyclone Océanique",
+            es: "Ciclón Oceánico",
+            it: "Ciclone Oceanico",
+            de: "Meeressturm",
+            'pt-br': "Ciclone Oceânico",
+            ko: "오션사이클론",
+            "zh-tw": "海洋氣旋"
+        },
+        damage: 80,
+        cost: ["Water", "Water", "Colorless", "Colorless"],
+        effect: {
+            en: "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+            fr: "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
+            es: "Este ataque también hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
+            it: "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
+            de: "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
+            'pt-br': "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
+            ko: "상대의 벤치 포켓몬 전원에게도 10데미지를 준다.",
+            "zh-tw": "這次攻擊還會對對手的後備神奇寶貝各造成 10 點傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Lightning",
-            value: "+20"
-        }],
+        type: "Lightning",
+        value: "+20"
+    }],
     retreat: 3
 };
 export default card;

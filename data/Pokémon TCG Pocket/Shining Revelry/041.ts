@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nockchan",
         'pt-br': "Hitmonchan",
         ko: "홍수몬",
-        "zh-tw": "希特蒙醬"
+        "zh-tw": "快拳郎"
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Magnum Punch",
-                fr: "Poing Magnum",
-                es: "Puño Mágnum",
-                it: "Superpugno",
-                de: "Magnum-Schlag",
-                'pt-br': "Soco Magnum",
-                ko: "매그넘펀치",
-                "zh-tw": "萬能沖床"
-            },
-            damage: 90,
-            cost: ["Fighting", "Fighting", "Fighting"]
-        }],
+        name: {
+            en: "Magnum Punch",
+            fr: "Poing Magnum",
+            es: "Puño Mágnum",
+            it: "Superpugno",
+            de: "Magnum-Schlag",
+            'pt-br': "Soco Magnum",
+            ko: "매그넘펀치",
+            "zh-tw": "萬能沖床"
+        },
+        damage: 90,
+        cost: ["Fighting", "Fighting", "Fighting"]
+    }],
     weaknesses: [{
-            type: "Psychic",
-            value: "+20"
-        }],
+        type: "Psychic",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

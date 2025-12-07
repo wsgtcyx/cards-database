@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rüpel von Team Rocket",
         'pt-br': "Recruta da Equipe Rocket",
         ko: "로켓단의 조무래기",
-        "zh-tw": "火箭隊步兵"
+        "zh-tw": "火箭隊手下"
     },
     illustrator: "kantaro",
     rarity: "Two Diamond",

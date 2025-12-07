@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bojelin",
         'pt-br': "Floatzel",
         ko: "플로젤",
-        "zh-tw": "弗洛策爾"
+        "zh-tw": "浮潛鼬"
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Buizel",
-        "fr": "Buizel",
-        "es": "buizel",
-        "it": "Buzel",
-        "de": "Buizel",
+        "fr": "Mustébouée",
+        "es": "Buizel",
+        "it": "Buizel",
+        "de": "Bamelin",
         "pt-br": "Buizel",
-        "zh-tw": "布伊澤爾"
+        "zh-tw": "泳圈鼬"
     },
     description: {
         en: "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
@@ -38,32 +38,32 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Water Arrow",
-                fr: "Flèche d'Eau",
-                es: "Flecha de Agua",
-                it: "Idrofreccia",
-                de: "Wasserpfeil",
-                'pt-br': "Flecha d'Água",
-                ko: "워터애로",
-                "zh-tw": "水箭"
-            },
-            cost: ["Water"],
-            effect: {
-                en: "This attack does 30 damage to 1 of your opponent's Pokémon.",
-                fr: "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire.",
-                es: "Este ataque hace 30 puntos de daño a 1 de los Pokémon de tu rival.",
-                it: "Questo attacco infligge 30 danni a uno dei Pokémon\ndel tuo avversario.",
-                de: "Diese Attacke fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
-                'pt-br': "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
-                ko: "상대의 포켓몬 1마리에게 30데미지를 준다.",
-                "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 30 點傷害。"
-            }
-        }],
+        name: {
+            en: "Water Arrow",
+            fr: "Flèche d'Eau",
+            es: "Flecha de Agua",
+            it: "Idrofreccia",
+            de: "Wasserpfeil",
+            'pt-br': "Flecha d'Água",
+            ko: "워터애로",
+            "zh-tw": "水箭"
+        },
+        cost: ["Water"],
+        effect: {
+            en: "This attack does 30 damage to 1 of your opponent's Pokémon.",
+            fr: "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire.",
+            es: "Este ataque hace 30 puntos de daño a 1 de los Pokémon de tu rival.",
+            it: "Questo attacco infligge 30 danni a uno dei Pokémon\ndel tuo avversario.",
+            de: "Diese Attacke fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
+            'pt-br': "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
+            ko: "상대의 포켓몬 1마리에게 30데미지를 준다.",
+            "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 30 點傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Lightning",
-            value: "+20"
-        }],
+        type: "Lightning",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

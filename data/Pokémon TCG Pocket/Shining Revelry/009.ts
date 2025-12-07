@@ -10,7 +10,7 @@ const card: Card = {
         de: "Glutexo",
         'pt-br': "Charmeleon",
         ko: "리자드",
-        "zh-tw": "變色龍"
+        "zh-tw": "火恐龍"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Combustion",
-                fr: "Fournaise",
-                es: "Combustión",
-                it: "Fuoco Continuo",
-                de: "Glühen",
-                'pt-br': "Combustão",
-                ko: "화염",
-                "zh-tw": "燃燒"
-            },
-            damage: 40,
-            cost: ["Fire", "Fire"]
-        }],
+        name: {
+            en: "Combustion",
+            fr: "Fournaise",
+            es: "Combustión",
+            it: "Fuoco Continuo",
+            de: "Glühen",
+            'pt-br': "Combustão",
+            ko: "화염",
+            "zh-tw": "燃燒"
+        },
+        damage: 40,
+        cost: ["Fire", "Fire"]
+    }],
     weaknesses: [{
-            type: "Water",
-            value: "+20"
-        }],
+        type: "Water",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

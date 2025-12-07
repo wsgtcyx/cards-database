@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kryppuk",
         'pt-br': "Spiritomb",
         ko: "화강돌",
-        "zh-tw": "靈墓"
+        "zh-tw": "花岩怪"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",
@@ -29,33 +29,33 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Confuse Ray",
-                fr: "Onde Folie",
-                es: "Rayo Confuso",
-                it: "Stordiraggio",
-                de: "Konfusstrahl",
-                'pt-br': "Raio da Confusão",
-                ko: "이상한빛",
-                "zh-tw": "迷惑雷"
-            },
-            damage: 20,
-            cost: ["Darkness"],
-            effect: {
-                en: "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
-                fr: "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Confus.",
-                es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Confundido.",
-                it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene confuso.",
-                de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt.",
-                ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.",
-                'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Confuso.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則對手的活躍神奇寶貝現在處於混亂狀態。"
-            }
-        }],
+        name: {
+            en: "Confuse Ray",
+            fr: "Onde Folie",
+            es: "Rayo Confuso",
+            it: "Stordiraggio",
+            de: "Konfusstrahl",
+            'pt-br': "Raio da Confusão",
+            ko: "이상한빛",
+            "zh-tw": "迷惑雷"
+        },
+        damage: 20,
+        cost: ["Darkness"],
+        effect: {
+            en: "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
+            fr: "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Confus.",
+            es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Confundido.",
+            it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene confuso.",
+            de: "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt.",
+            ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.",
+            'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Confuso.",
+            "zh-tw": "拋一枚硬幣。如果出現正面，則對手的活躍神奇寶貝現在處於混亂狀態。"
+        }
+    }],
     weaknesses: [{
-            type: "Grass",
-            value: "+20"
-        }],
+        type: "Grass",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

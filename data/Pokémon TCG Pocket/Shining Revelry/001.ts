@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hornliu",
         'pt-br': "Weedle",
         ko: "뿔충이",
-        "zh-tw": "雜草"
+        "zh-tw": "獨角蟲"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",
@@ -29,32 +29,32 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Multiply",
-                fr: "Multiplication",
-                es: "Multiplicar",
-                it: "Moltiplicazione",
-                de: "Vervielfachung",
-                'pt-br': "Multiplicar",
-                ko: "증식하기",
-                "zh-tw": "乘"
-            },
-            cost: ["Grass"],
-            effect: {
-                en: "Put 1 random Weedle from your deck onto your Bench.",
-                fr: "Placez une carte Aspicot au hasard de votre deck sur votre Banc.",
-                es: "Pon 1 Weedle aleatorio de tu baraja en tu Banca.",
-                it: "Prendi un Weedle a caso dal tuo mazzo e mettilo nella tua panchina.",
-                de: "Lege 1 zufälliges Hornliu aus deinem Deck auf deine Bank.",
-                'pt-br': "Coloque 1 Weedle aleatório do seu baralho no seu Banco.",
-                ko: "자신의 덱에서 「뿔충이」를 랜덤으로 1장 벤치로 내보낸다.",
-                "zh-tw": "將 1 個隨機雜草從你的牌組放到你的替補席上。"
-            }
-        }],
+        name: {
+            en: "Multiply",
+            fr: "Multiplication",
+            es: "Multiplicar",
+            it: "Moltiplicazione",
+            de: "Vervielfachung",
+            'pt-br': "Multiplicar",
+            ko: "증식하기",
+            "zh-tw": "乘"
+        },
+        cost: ["Grass"],
+        effect: {
+            en: "Put 1 random Weedle from your deck onto your Bench.",
+            fr: "Placez une carte Aspicot au hasard de votre deck sur votre Banc.",
+            es: "Pon 1 Weedle aleatorio de tu baraja en tu Banca.",
+            it: "Prendi un Weedle a caso dal tuo mazzo e mettilo nella tua panchina.",
+            de: "Lege 1 zufälliges Hornliu aus deinem Deck auf deine Bank.",
+            'pt-br': "Coloque 1 Weedle aleatório do seu baralho no seu Banco.",
+            ko: "자신의 덱에서 「뿔충이」를 랜덤으로 1장 벤치로 내보낸다.",
+            "zh-tw": "將 1 個隨機雜草從你的牌組放到你的替補席上。"
+        }
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sproxi",
         'pt-br': "Shroodle",
         ko: "땃쭈르",
-        "zh-tw": "裹屍布"
+        "zh-tw": "滋汁鼴"
     },
     illustrator: "Krgc",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Gnaw",
-                fr: "Ronge",
-                es: "Roer",
-                it: "Rosicchiamento",
-                de: "Nagen",
-                'pt-br': "Roída",
-                ko: "갉기",
-                "zh-tw": "啃"
-            },
-            damage: 20,
-            cost: ["Darkness"]
-        }],
+        name: {
+            en: "Gnaw",
+            fr: "Ronge",
+            es: "Roer",
+            it: "Rosicchiamento",
+            de: "Nagen",
+            'pt-br': "Roída",
+            ko: "갉기",
+            "zh-tw": "啃"
+        },
+        damage: 20,
+        cost: ["Darkness"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

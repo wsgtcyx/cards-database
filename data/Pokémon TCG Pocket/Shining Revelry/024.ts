@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lektrobal",
         'pt-br': "Electrode",
         ko: "붐볼",
-        "zh-tw": "電極"
+        "zh-tw": "頑皮雷彈"
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",
@@ -20,11 +20,11 @@ const card: Card = {
     evolveFrom: {
         en: "Voltorb",
         "fr": "Voltorbe",
-        "es": "voltorb",
+        "es": "Voltorb",
         "it": "Voltorb",
-        "de": "Voltorb",
+        "de": "Voltobal",
         "pt-br": "Voltorb",
-        "zh-tw": "伏爾托布"
+        "zh-tw": "霹靂電球"
     },
     description: {
         en: "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Tumbling Attack",
-                fr: "Attaque Trébuchante",
-                es: "Ataque Tambaleante",
-                it: "Attacco Capriola",
-                de: "Taumler",
-                'pt-br': "Ataque Cambalhota",
-                ko: "롤링어택",
-                "zh-tw": "翻滾攻擊"
-            },
-            damage: "50+",
-            cost: ["Lightning", "Lightning"],
-            effect: {
-                en: "Flip a coin. If heads, this attack does 30 more damage.",
-                fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
-                es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
-                it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
-                de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
-                'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
-                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
-            }
-        }],
+        name: {
+            en: "Tumbling Attack",
+            fr: "Attaque Trébuchante",
+            es: "Ataque Tambaleante",
+            it: "Attacco Capriola",
+            de: "Taumler",
+            'pt-br': "Ataque Cambalhota",
+            ko: "롤링어택",
+            "zh-tw": "翻滾攻擊"
+        },
+        damage: "50+",
+        cost: ["Lightning", "Lightning"],
+        effect: {
+            en: "Flip a coin. If heads, this attack does 30 more damage.",
+            fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+            es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+            it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
+            de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
+            'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+            ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
+            "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

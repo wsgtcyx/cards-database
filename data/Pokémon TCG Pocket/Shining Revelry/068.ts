@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mopex",
         'pt-br': "Cyclizar",
         ko: "모토마",
-        "zh-tw": "環化劑"
+        "zh-tw": "摩托蜥"
     },
     illustrator: "HAGIYA Kaoru",
     rarity: "Two Diamond",
@@ -29,33 +29,33 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Overacceleration",
-                fr: "Hyperaccélération",
-                es: "Alta Aceleración",
-                it: "Iperaccelerazione",
-                de: "Überbeschleunigung",
-                'pt-br': "Superaceleração",
-                ko: "오버액셀",
-                "zh-tw": "超加速"
-            },
-            damage: 20,
-            cost: ["Colorless"],
-            effect: {
-                en: "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
-                fr: "Pendant votre prochain tour, l'attaque Hyperaccélération de ce Pokémon inflige + 20 dégâts.",
-                es: "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace Overacceleration+20 puntos[/Ctrl:NoBreak] de daño.",
-                it: "Durante il tuo prossimo turno, l'attacco Iperaccelerazione di questo Pokémon infligge +20 danni.",
-                de: "Während deines nächsten Zuges fügt die Attacke Überbeschleunigung von diesem Pokémon + 20 Schadenspunkte zu.",
-                'pt-br': "Durante o seu próximo turno, o ataque Superaceleração deste Pokémon causará + 20 pontos de dano.",
-                ko: "자신의 다음 차례에 이 포켓몬의 「오버액셀」의 데미지를 +20한다.",
-                "zh-tw": "在你的下一個回合中，這只神奇寶貝的過度加速攻擊造成+20點傷害。"
-            }
-        }],
+        name: {
+            en: "Overacceleration",
+            fr: "Hyperaccélération",
+            es: "Alta Aceleración",
+            it: "Iperaccelerazione",
+            de: "Überbeschleunigung",
+            'pt-br': "Superaceleração",
+            ko: "오버액셀",
+            "zh-tw": "超加速"
+        },
+        damage: 20,
+        cost: ["Colorless"],
+        effect: {
+            en: "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+            fr: "Pendant votre prochain tour, l'attaque Hyperaccélération de ce Pokémon inflige + 20 dégâts.",
+            es: "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace Overacceleration+20 puntos[/Ctrl:NoBreak] de daño.",
+            it: "Durante il tuo prossimo turno, l'attacco Iperaccelerazione di questo Pokémon infligge +20 danni.",
+            de: "Während deines nächsten Zuges fügt die Attacke Überbeschleunigung von diesem Pokémon + 20 Schadenspunkte zu.",
+            'pt-br': "Durante o seu próximo turno, o ataque Superaceleração deste Pokémon causará + 20 pontos de dano.",
+            ko: "자신의 다음 차례에 이 포켓몬의 「오버액셀」의 데미지를 +20한다.",
+            "zh-tw": "在你的下一個回合中，這只神奇寶貝的過度加速攻擊造成+20點傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

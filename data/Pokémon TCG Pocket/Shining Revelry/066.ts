@@ -10,7 +10,7 @@ const card: Card = {
         de: "Haspiror",
         'pt-br': "Buneary",
         ko: "이어롤",
-        "zh-tw": "佈內裡"
+        "zh-tw": "捲捲耳"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Pound",
-                fr: "Écras'Face",
-                es: "Destructor",
-                it: "Botta",
-                de: "Klaps",
-                'pt-br': "Pancada",
-                ko: "막치기",
-                "zh-tw": "磅"
-            },
-            damage: 20,
-            cost: ["Colorless"]
-        }],
+        name: {
+            en: "Pound",
+            fr: "Écras'Face",
+            es: "Destructor",
+            it: "Botta",
+            de: "Klaps",
+            'pt-br': "Pancada",
+            ko: "막치기",
+            "zh-tw": "磅"
+        },
+        damage: 20,
+        cost: ["Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Machomei",
         'pt-br': "Machamp",
         ko: "괴력몬",
-        "zh-tw": "馬尚普"
+        "zh-tw": "怪力"
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Machoke",
-        "fr": "Machoke",
+        "fr": "Machopeur",
         "es": "Machoke",
         "it": "Machoke",
-        "de": "Machoke",
+        "de": "Maschock",
         "pt-br": "Machoke",
-        "zh-tw": "馬喬克"
+        "zh-tw": "豪力"
     },
     description: {
         en: "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage2",
     attacks: [{
-            name: {
-                en: "Power Press",
-                fr: "Étau Puissant",
-                es: "Constricción Poderosa",
-                it: "Vigorstretta",
-                de: "Powerdruck",
-                'pt-br': "Compressão Poderosa",
-                ko: "파워프레스",
-                "zh-tw": "動力出版社"
-            },
-            damage: "70+",
-            cost: ["Fighting", "Fighting"],
-            effect: {
-                en: "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
-                fr: "Si ce Pokémon a au moins 2 Énergies {F} de plus, cette attaque inflige 50 dégâts supplémentaires.",
-                es: "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más.",
-                it: "Se questo Pokémon ha almeno 2 Energie {F} extra assegnate, questo attacco infligge 50 danni in più.",
-                de: "Wenn an dieses Pokémon mindestens 2 extra {F}-Energien angelegt sind, fügt diese Attacke 50 Schadenspunkte mehr zu.",
-                'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
-                ko: "{F}에너지 2개가 추가로 붙어 있다면 50데미지를 추가한다.",
-                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。"
-            }
-        }],
+        name: {
+            en: "Power Press",
+            fr: "Étau Puissant",
+            es: "Constricción Poderosa",
+            it: "Vigorstretta",
+            de: "Powerdruck",
+            'pt-br': "Compressão Poderosa",
+            ko: "파워프레스",
+            "zh-tw": "動力出版社"
+        },
+        damage: "70+",
+        cost: ["Fighting", "Fighting"],
+        effect: {
+            en: "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
+            fr: "Si ce Pokémon a au moins 2 Énergies {F} de plus, cette attaque inflige 50 dégâts supplémentaires.",
+            es: "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más.",
+            it: "Se questo Pokémon ha almeno 2 Energie {F} extra assegnate, questo attacco infligge 50 danni in più.",
+            de: "Wenn an dieses Pokémon mindestens 2 extra {F}-Energien angelegt sind, fügt diese Attacke 50 Schadenspunkte mehr zu.",
+            'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
+            ko: "{F}에너지 2개가 추가로 붙어 있다면 50데미지를 추가한다.",
+            "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。"
+        }
+    }],
     weaknesses: [{
-            type: "Psychic",
-            value: "+20"
-        }],
+        type: "Psychic",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

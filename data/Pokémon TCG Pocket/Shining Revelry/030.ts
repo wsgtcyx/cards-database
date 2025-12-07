@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kadabra",
         'pt-br': "Kadabra",
         ko: "윤겔라",
-        "zh-tw": "卡達布拉"
+        "zh-tw": "勇基拉"
     },
     illustrator: "Mousho",
     rarity: "Two Diamond",
@@ -20,11 +20,11 @@ const card: Card = {
     evolveFrom: {
         en: "Abra",
         "fr": "Abra",
-        "es": "abra",
+        "es": "Abra",
         "it": "Abra",
         "de": "Abra",
         "pt-br": "Abra",
-        "zh-tw": "阿布拉"
+        "zh-tw": "凱西"
     },
     description: {
         en: "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Psyshot",
-                fr: "Piqûre Psy",
-                es: "Disparo Psi",
-                it: "Psicosparo",
-                de: "Psychoschuss",
-                'pt-br': "Tiro Psíquico",
-                ko: "사이코숏",
-                "zh-tw": "心理射擊"
-            },
-            damage: 30,
-            cost: ["Psychic"]
-        }],
+        name: {
+            en: "Psyshot",
+            fr: "Piqûre Psy",
+            es: "Disparo Psi",
+            it: "Psicosparo",
+            de: "Psychoschuss",
+            'pt-br': "Tiro Psíquico",
+            ko: "사이코숏",
+            "zh-tw": "心理射擊"
+        },
+        damage: 30,
+        cost: ["Psychic"]
+    }],
     weaknesses: [{
-            type: "Darkness",
-            value: "+20"
-        }],
+        type: "Darkness",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

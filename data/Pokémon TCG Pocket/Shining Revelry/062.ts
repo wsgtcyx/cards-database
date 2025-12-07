@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schlurp",
         'pt-br': "Lickitung",
         ko: "내루미",
-        "zh-tw": "利基通"
+        "zh-tw": "大舌頭"
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",
@@ -29,23 +29,23 @@ const card: Card = {
     },
     stage: "Basic",
     attacks: [{
-            name: {
-                en: "Rollout",
-                fr: "Roulade",
-                es: "Rodar",
-                it: "Rotolamento",
-                de: "Walzer",
-                'pt-br': "Rolagem",
-                ko: "구르기",
-                "zh-tw": "推出"
-            },
-            damage: 30,
-            cost: ["Colorless", "Colorless"]
-        }],
+        name: {
+            en: "Rollout",
+            fr: "Roulade",
+            es: "Rodar",
+            it: "Rotolamento",
+            de: "Walzer",
+            'pt-br': "Rolagem",
+            ko: "구르기",
+            "zh-tw": "推出"
+        },
+        damage: 30,
+        cost: ["Colorless", "Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pokémon-Center-Dame",
         'pt-br': "Dama do Centro Pokémon",
         ko: "포켓몬센터 직원",
-        "zh-tw": "神奇寶貝中心女士"
+        "zh-tw": "寶可夢中心的姐姐"
     },
     illustrator: "Susumu Maeya",
     rarity: "Two Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rattikarl",
         'pt-br': "Raticate",
         ko: "레트라",
-        "zh-tw": "拉拉"
+        "zh-tw": "拉達"
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",
@@ -20,11 +20,11 @@ const card: Card = {
     evolveFrom: {
         en: "Rattata",
         "fr": "Rattata",
-        "es": "ratata",
+        "es": "Rattata",
         "it": "Rattata",
         "de": "Rattata",
         "pt-br": "Ratata",
-        "zh-tw": "拉達"
+        "zh-tw": "小拉達"
     },
     description: {
         en: "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Tackle",
-                fr: "Charge",
-                es: "Placaje",
-                it: "Azione",
-                de: "Tackle",
-                'pt-br': "Investida",
-                ko: "몸통박치기",
-                "zh-tw": "處理"
-            },
-            damage: 50,
-            cost: ["Colorless", "Colorless"]
-        }],
+        name: {
+            en: "Tackle",
+            fr: "Charge",
+            es: "Placaje",
+            it: "Azione",
+            de: "Tackle",
+            'pt-br': "Investida",
+            ko: "몸통박치기",
+            "zh-tw": "處理"
+        },
+        damage: 50,
+        cost: ["Colorless", "Colorless"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

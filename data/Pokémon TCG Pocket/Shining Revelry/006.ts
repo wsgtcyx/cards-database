@@ -10,7 +10,7 @@ const card: Card = {
         de: "Feliospa",
         'pt-br': "Floragato",
         ko: "나로테",
-        "zh-tw": "弗洛拉加托"
+        "zh-tw": "蒂蕾喵"
     },
     illustrator: "mashu",
     rarity: "Two Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Sprigatito",
-        "fr": "Sprigatito",
-        "es": "sprigatito",
-        "it": "Sprigato",
-        "de": "Sprigatito",
+        "fr": "Poussacha",
+        "es": "Sprigatito",
+        "it": "Sprigatito",
+        "de": "Felori",
         "pt-br": "Sprigatito",
-        "zh-tw": "斯普里加蒂托"
+        "zh-tw": "新葉喵"
     },
     description: {
         en: "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Slash",
-                fr: "Tranche",
-                es: "Cuchillada",
-                it: "Lacerazione",
-                de: "Schlitzer",
-                'pt-br': "Talho",
-                ko: "베어가르기",
-                "zh-tw": "削減"
-            },
-            damage: 40,
-            cost: ["Grass", "Grass"]
-        }],
+        name: {
+            en: "Slash",
+            fr: "Tranche",
+            es: "Cuchillada",
+            it: "Lacerazione",
+            de: "Schlitzer",
+            'pt-br': "Talho",
+            ko: "베어가르기",
+            "zh-tw": "削減"
+        },
+        damage: 40,
+        cost: ["Grass", "Grass"]
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

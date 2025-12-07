@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tafforgita",
         'pt-br': "Tinkatuff",
         ko: "벼리짱",
-        "zh-tw": "廷卡塔夫"
+        "zh-tw": "巧鍛匠"
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",
@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Tinkatink",
         "de": "Tinkatink",
         "pt-br": "Tinkatink",
-        "zh-tw": "丁卡丁克"
+        "zh-tw": "小鍛匠"
     },
     description: {
         en: "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
@@ -38,33 +38,33 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Tenacious Hammer",
-                fr: "Marteau Persévérant",
-                es: "Martillo Tenaz",
-                it: "Martello Tenace",
-                de: "Hartnäckiger Hammer",
-                'pt-br': "Martelo Tenaz",
-                ko: "노력해머",
-                "zh-tw": "頑強之鎚"
-            },
-            damage: "30+",
-            cost: ["Metal", "Metal"],
-            effect: {
-                en: "Flip a coin. If heads, this attack does 30 more damage.",
-                fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
-                es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
-                it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
-                de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
-                'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
-                ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
-                "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
-            }
-        }],
+        name: {
+            en: "Tenacious Hammer",
+            fr: "Marteau Persévérant",
+            es: "Martillo Tenaz",
+            it: "Martello Tenace",
+            de: "Hartnäckiger Hammer",
+            'pt-br': "Martelo Tenaz",
+            ko: "노력해머",
+            "zh-tw": "頑強之鎚"
+        },
+        damage: "30+",
+        cost: ["Metal", "Metal"],
+        effect: {
+            en: "Flip a coin. If heads, this attack does 30 more damage.",
+            fr: "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+            es: "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más.",
+            it: "Lancia una moneta. Se esce testa, questo attacco infligge 30 danni in più.",
+            de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 30 Schadenspunkte mehr zu.",
+            'pt-br': "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais.",
+            ko: "동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.",
+            "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 30 點額外傷害。"
+        }
+    }],
     weaknesses: [{
-            type: "Fire",
-            value: "+20"
-        }],
+        type: "Fire",
+        value: "+20"
+    }],
     retreat: 2
 };
 export default card;

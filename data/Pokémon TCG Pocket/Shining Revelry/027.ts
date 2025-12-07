@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pamamo",
         'pt-br': "Pawmo",
         ko: "빠모트",
-        "zh-tw": "波莫"
+        "zh-tw": "布土撥"
     },
     illustrator: "Saboteri",
     rarity: "Two Diamond",
@@ -19,12 +19,12 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Pawmi",
-        "fr": "Pawmi",
-        "es": "pami",
+        "fr": "Pohm",
+        "es": "Pawmi",
         "it": "Pawmi",
-        "de": "Pawmi",
+        "de": "Pamo",
         "pt-br": "Pawmi",
-        "zh-tw": "波米"
+        "zh-tw": "布撥"
     },
     description: {
         en: "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
@@ -38,23 +38,23 @@ const card: Card = {
     },
     stage: "Stage1",
     attacks: [{
-            name: {
-                en: "Punch",
-                fr: "Koud'Poing",
-                es: "Puño",
-                it: "Pugno",
-                de: "Boxhieb",
-                'pt-br': "Soco",
-                ko: "펀치",
-                "zh-tw": "沖床"
-            },
-            damage: 40,
-            cost: ["Lightning", "Lightning"]
-        }],
+        name: {
+            en: "Punch",
+            fr: "Koud'Poing",
+            es: "Puño",
+            it: "Pugno",
+            de: "Boxhieb",
+            'pt-br': "Soco",
+            ko: "펀치",
+            "zh-tw": "沖床"
+        },
+        damage: 40,
+        cost: ["Lightning", "Lightning"]
+    }],
     weaknesses: [{
-            type: "Fighting",
-            value: "+20"
-        }],
+        type: "Fighting",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;

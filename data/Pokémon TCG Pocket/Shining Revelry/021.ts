@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nigiragi",
         'pt-br': "Tatsugiri",
         ko: "싸리용",
-        "zh-tw": "辰切"
+        "zh-tw": "米立龍"
     },
     illustrator: "Tomowaka",
     rarity: "Two Diamond",
@@ -29,46 +29,46 @@ const card: Card = {
     },
     stage: "Basic",
     abilities: [{
-            type: "Ability",
-            name: {
-                en: "Retreat Directive",
-                fr: "Ordre de Repli",
-                es: "Orden de Retirada",
-                it: "Dietro-front",
-                de: "Rückzugsbefehl",
-                'pt-br': "Ordem de Recuo",
-                ko: "철수 지시",
-                "zh-tw": "撤退指令"
-            },
-            effect: {
-                en: "Your Active Dondozo has no Retreat Cost.",
-                fr: "Votre Oyacata Actif n'a aucun Coût de Retraite.",
-                es: "Tu Dondozo Activo no tiene ningún Coste de Retirada.",
-                it: "Il tuo Dondozo in posizione attiva non ha costo di ritirata.",
-                de: "Dein Heerashai in der Aktiven Position hat keine Rückzugskosten.",
-                'pt-br': "Seu Dondozo Ativo não tem custo de Recuo.",
-                ko: "이 포켓몬이 있는 한, 자신의 배틀필드의 「어써러셔」의 후퇴에 필요한 에너지를 모두 없앤다.",
-                "zh-tw": "您的活躍棟多佐沒有撤退成本。"
-            }
-        }],
+        type: "Ability",
+        name: {
+            en: "Retreat Directive",
+            fr: "Ordre de Repli",
+            es: "Orden de Retirada",
+            it: "Dietro-front",
+            de: "Rückzugsbefehl",
+            'pt-br': "Ordem de Recuo",
+            ko: "철수 지시",
+            "zh-tw": "撤退指令"
+        },
+        effect: {
+            en: "Your Active Dondozo has no Retreat Cost.",
+            fr: "Votre Oyacata Actif n'a aucun Coût de Retraite.",
+            es: "Tu Dondozo Activo no tiene ningún Coste de Retirada.",
+            it: "Il tuo Dondozo in posizione attiva non ha costo di ritirata.",
+            de: "Dein Heerashai in der Aktiven Position hat keine Rückzugskosten.",
+            'pt-br': "Seu Dondozo Ativo não tem custo de Recuo.",
+            ko: "이 포켓몬이 있는 한, 자신의 배틀필드의 「어써러셔」의 후퇴에 필요한 에너지를 모두 없앤다.",
+            "zh-tw": "您的活躍棟多佐沒有撤退成本。"
+        }
+    }],
     attacks: [{
-            name: {
-                en: "Rain Splash",
-                fr: "Pluie Éclaboussante",
-                es: "Golpe de Lluvia",
-                it: "Spruzzapioggia",
-                de: "Regenplatscher",
-                'pt-br': "Chuva Borrifante",
-                ko: "물뿌리기",
-                "zh-tw": "雨濺"
-            },
-            damage: 20,
-            cost: ["Water"]
-        }],
+        name: {
+            en: "Rain Splash",
+            fr: "Pluie Éclaboussante",
+            es: "Golpe de Lluvia",
+            it: "Spruzzapioggia",
+            de: "Regenplatscher",
+            'pt-br': "Chuva Borrifante",
+            ko: "물뿌리기",
+            "zh-tw": "雨濺"
+        },
+        damage: 20,
+        cost: ["Water"]
+    }],
     weaknesses: [{
-            type: "Lightning",
-            value: "+20"
-        }],
+        type: "Lightning",
+        value: "+20"
+    }],
     retreat: 1
 };
 export default card;
