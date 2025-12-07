@@ -11,7 +11,8 @@ const set: Set = {
 		fr: "Puissance Génétique",
 		it: "Geni Supremi",
 		'pt-br': "Dominação Genética",
-		ko: '최강의 유전자'
+		ko: '최강의 유전자',
+		'zh-tw': "基因巔峰"
 	},
 
 	serie: serie,
@@ -29,7 +30,8 @@ const set: Set = {
 				es: 'Mewtwo',
 				it: 'Mewtwo',
 				'pt-br': 'Mewtwo',
-				ko: '뮤츠'
+				ko: '뮤츠',
+				'zh-tw': '超夢'
 			}
 		},
 		charizard: {
@@ -40,7 +42,8 @@ const set: Set = {
 				es: 'Charizard',
 				it: 'Charizard',
 				'pt-br': 'Charizard',
-				ko: '리자몽'
+				ko: '리자몽',
+				'zh-tw': '噴火龍'
 			}
 		},
 		pikachu: {
@@ -50,7 +53,8 @@ const set: Set = {
 				es: 'Pikachu',
 				it: 'Pikachu',
 				'pt-br': 'Pikachu',
-				ko: '피카츄'
+				ko: '피카츄',
+				'zh-tw': '皮卡丘'
 			}
 		}
 	},

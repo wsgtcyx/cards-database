@@ -70,12 +70,13 @@ todos:
 - 若发现官方差异，更新映射后可对已处理批次重跑脚本增量覆盖。
 - 先 dry-run 再 apply；每批结束后再跑校验与 lint，避免一次性大面积失控。
 - 执行过程中需及时更新计划与 Todo 状态，确保可追踪。
+- 每批除卡片文件外，同步补齐该批 set 元信息 ts（`data/Pokémon TCG Pocket/<batch>.ts`）的 name/boosters 等多语言字段。
 
 ## 进度记录
 
-- 已完成批次：Mega Rising、Genetic Apex、Triumphant Light（均复扫缺口 0，待翻译 0）。
+- 已完成批次：Mega Rising、Genetic Apex、Triumphant Light、Wisdom of Sea and Sky（均复扫缺口 0，待翻译 0）。
 - 翻译映射累计：`scripts/tmp/pocket-translations.json`。
-- 近期产物：`scripts/tmp/genetic-missing.json`、`scripts/tmp/genetic-todo.json`、`scripts/tmp/triumph-missing.json`、`scripts/tmp/triumph-todo.json`（当前为空或仅供留档）。
+- 近期产物：`scripts/tmp/genetic-missing.json`、`scripts/tmp/genetic-todo.json`、`scripts/tmp/triumph-missing.json`、`scripts/tmp/triumph-todo.json`、`scripts/tmp/wisdom-missing.json`、`scripts/tmp/wisdom-todo.json`（当前为空或留档）。
 
 ## 批次复用方式
 
@@ -94,4 +95,4 @@ todos:
 
 ## 下一步
 
-- 下一个批次：`data/Pokémon TCG Pocket/Wisdom of Sea and Sky/**/*.ts`
+- 下一个批次：`data/Pokémon TCG Pocket/Space-Time Smackdown/**/*.ts`
