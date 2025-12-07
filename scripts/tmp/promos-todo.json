@@ -1,0 +1,4909 @@
+[
+  {
+    "en": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/064.ts",
+      "data/Pokémon TCG Pocket/Promos-A/065.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "2-Step",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/082.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/070.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "According to local rumors, Cleffa are often seen\nin places where shooting stars have fallen.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/093.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "After absorbing plenty of sunlight, Cherrim takes\nthis form. It's full of energy while it's like this,\nand its liveliness will go on until sundown.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/043.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Alcremie",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/087.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "All it does is sleep during the daytime. At night,\nit patrols its territory with its eyes aglow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/012.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Alolan Exeggutor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/069.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Grimer",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/072.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Ninetales",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/070.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Vulpix",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/070.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Although it's alien to this world and a danger here, it's apparently\na common organism in the world where it normally lives.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/077.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Although it's carrying its baby in a pouch on\nits belly, Kangaskhan is swift on its feet. It\nintimidates its opponents with quick jabs.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/097.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Apparently Cyclizar has been allowing people to\nride on its back since ancient times. Depictions of\nthis have been found in 10,000-year-old murals.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/051.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "As it digs through the ground, it absorbs many\nhard objects. This is what makes its body so solid.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/021.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "At the end of your first turn, take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/074.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Attack the Wound",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/053.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Audino",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/089.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Beak Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/073.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Beat Punk",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/076.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Beginning Bolt",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/086.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Being exposed to sunlight makes its movements\nswifter. It uses vines more adeptly than its hands.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/027.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Bidoof",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/057.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/035.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Blacephalon",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/076.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Black Metal",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/079.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Blastoise",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/029.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Blazing sunlight has brought out the true\nform and powers of this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/069.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Blissey ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/098.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Blizzard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/070.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Brass Rock",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/080.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bristling Spikes",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/090.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bubble Drain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/014.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Buizel",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/053.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Bulbasaur",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/023.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Butterfree",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/013.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/056.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Chansey",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/011.ts",
+      "data/Pokémon TCG Pocket/Promos-A/098.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Charmander",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/032.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cherrim",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/043.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cherubi",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/043.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Chimchar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/040.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Chinchou",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/095.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a {W} Energy from your Energy Zone and attach it to that Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/048.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Cinccino",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/031.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Clefairy",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/016.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cleffa",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/093.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Collapse",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/049.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Confuse Ray",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/038.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cosmog",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/067.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Counterattack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/054.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Crabrawler",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/071.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cresselia ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/037.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cross-Cut",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/097.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Crunch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/068.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cry for Help",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/052.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cyclizar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/051.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Dark Prism",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/042.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Darkrai ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/042.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Dawn Wings Necrozma",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/078.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Defensive Whirlwind",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/047.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Discard 2 {P} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/010.ts",
+      "data/Pokémon TCG Pocket/Promos-A/050.ts"
+    ],
+    "paths": [
+      "attacks[0].effect",
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "Discard 2 {R} Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/028.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a {M} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/079.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a {R} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/032.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a random card from your opponent's hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/096.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard the top 5 cards of each player's deck.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/081.ts"
+    ],
+    "paths": [
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "Diving Swipe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/096.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Do the Wave",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/031.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Draco Meteor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/064.ts",
+      "data/Pokémon TCG Pocket/Promos-A/065.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dragonair",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/088.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Drain Slap",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/089.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dratini",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/088.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Draw 2 cards.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/007.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Draw a card.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/012.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/002.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/051.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/030.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/090.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/080.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Dusk Mane Necrozma",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/079.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/030.ts",
+      "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "data/Pokémon TCG Pocket/Promos-A/092.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Ekans",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/056.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Electabuzz",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/036.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Electivire",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/036.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Electric Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/054.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Electronica",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/077.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Ember",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/032.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Enhanced Fang",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/091.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Even though its helpless, gaseous body can be blown\naway by the slightest breeze, it doesn't seem to care.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/067.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Evolution made it even more devious.\nIt communicates by clawing signs in boulders.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/100.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Exciting Voltage",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/036.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Exeggcute",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/060.ts",
+      "data/Pokémon TCG Pocket/Promos-A/069.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Farfetch'd",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/062.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 20 damage for each heads.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/082.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/025.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/063.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/068.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/045.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, heal 60 damage from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/098.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/095.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/073.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/020.ts",
+      "data/Pokémon TCG Pocket/Promos-A/069.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Floatzel",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/053.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Flop",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/061.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Froakie",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/061.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Frogadier",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/019.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Gastly",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/020.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Gentle Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/011.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gible",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/046.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gnaw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/009.ts",
+      "data/Pokémon TCG Pocket/Promos-A/015.ts",
+      "data/Pokémon TCG Pocket/Promos-A/026.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Greedent",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/091.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Greninja",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/019.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Growl",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/030.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Growth Spurt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/060.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gust",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/013.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hand Scope",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/003.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Happy Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/098.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Haunter",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/020.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Headbutt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/057.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heal 10 damage from this Pokémon.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/089.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heal 20 damage from 1 of your Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/001.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Heal 20 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/014.ts",
+      "data/Pokémon TCG Pocket/Promos-A/034.ts",
+      "data/Pokémon TCG Pocket/Promos-A/043.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heal 30 damage from this Pokémon.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/018.ts",
+      "data/Pokémon TCG Pocket/Promos-A/088.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heat Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/025.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Horsea",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/094.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Horsea makes its home in oceans with gentle\ncurrents. If this Pokémon is under attack, it spits\nout pitch-black ink and escapes.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/094.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Houndoom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/096.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Houndour",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/096.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Hydro Pump",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/029.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/085.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/086.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/039.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/091.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/055.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 2 extra {L} Energy attached, this attack does 80 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/036.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/029.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/054.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If you are burned by the flames it shoots from its\nmouth, the pain will never go away.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/096.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/053.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/097.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/013.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Inferno Dance",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/025.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Iron Defense",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/045.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "It appeared from an Ultra Wormhole. Each one\nappears to be made up of many life-forms\nstacked one on top of each other.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/080.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/086.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/019.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/029.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It doesn't like to be taken care of. It's difficult to\nbond with since it won't listen to its Trainer.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/034.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It electrifies its claws and tears its opponents\napart with them. Even if they dodge its attack,\nthey'll be electrocuted by the flying sparks.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/074.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a preference for hot things. When it rains,\nsteam is said to spout from the tip of its tail.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/032.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is born with a wondrous power that lets it bond\nwith any kind of Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/048.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is not satisfied unless it eats over 880 pounds\nof food every day. When it is done eating, it\ngoes promptly to sleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/049.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/016.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/020.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives in groups in the treetops. If it loses sight of\nits group, it becomes infuriated by its loneliness.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/017.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives in the ozone layer far above the clouds and\ncannot be seen from the ground.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/063.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It moves less than an inch a year, but when\nit's in a jam, it will spin and drill down into the\nground in a split second.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/045.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/055.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/061.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/046.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It slithers toward people. Then, without warning, it triggers the\nexplosion of its own head. It's apparently one kind of Ultra Beast.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/076.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It uses its whole body to photosynthesize when\nexposed to sunlight. Its shell is made from\nhardened soil.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/035.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It was created by a scientist after years of horrific\ngene-splicing and DNA-engineering experiments.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/010.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's one of the kinds of Pokémon with electric\ncheek pouches. It shoots charges from its tail.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/058.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/030.ts",
+      "data/Pokémon TCG Pocket/Promos-A/092.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its antennae, which evolved from a fin, have both\npositive and negative charges flowing through them.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/095.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/031.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/028.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can't extinguish the fire.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/040.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its fluffy fur is a delight to pet, but carelessly reaching out\nto touch this Pokémon could result in painful retaliation.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/083.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its fluffy fur is similar in composition to plants.\nThis Pokémon frequently washes its face to keep\nit from drying out.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/052.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/018.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its tail discharges electricity into the ground,\nprotecting it from getting shocked.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Ivysaur",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/018.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Jigglypuff",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/022.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Jolteon",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/086.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Kangaskhan",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/097.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Kartana",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/075.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Land Crush",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/021.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lapras ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/014.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Larvesta",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/028.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Leech Seed",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/043.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Leek Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/062.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lightning Ball",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/024.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lightning Claw",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/074.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Look at the top 3 cards of your deck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/004.ts",
+      "data/Pokémon TCG Pocket/Promos-A/008.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Lunala no longer has a will of its own. Now under the\ncontrol of Necrozma, it continuously expels all of its energy.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/078.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Lunar Plumage",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/037.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Luring Glow",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/095.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lycanroc",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/068.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lycanroc attacks its prey with its\nsharp claws and fangs. It loyally obeys\nthe instructions of a Trainer it trusts.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/068.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Mach Bolt",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/084.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Machamp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/055.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machoke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/055.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Magnemite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/024.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Manaphy",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/048.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mankey",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/017.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Marill",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/099.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mega Drain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/018.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Meowth",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/012.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Metal Arms",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/039.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Metapod",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/013.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Mewtwo",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/010.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mewtwo ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/050.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Milcery",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/087.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Mimikyu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/066.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Minccino",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/031.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Misdreavus",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/038.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mist Slash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/019.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Moltres ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/025.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Nap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/034.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Nightmare Aura",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/042.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Nosepass",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/045.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Oceanic Gift",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/048.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/019.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may heal 20 damage from each of your Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/013.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Onix",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/021.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Overacceleration",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/051.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pachirisu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/058.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pawmo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/054.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Pawmot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/054.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pay Day",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/012.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "People fashion swords from Skarmory's shed\nfeathers, so this Pokémon is a popular element\nin heraldic designs.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/039.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Photon Claw",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/081.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pikachu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/009.ts",
+      "data/Pokémon TCG Pocket/Promos-A/015.ts",
+      "data/Pokémon TCG Pocket/Promos-A/026.ts",
+      "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Piplup",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/034.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Plasma",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/058.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Plasma Hurricane",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/084.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poipole",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/082.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Poison Gas",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/072.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poison Sting",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/056.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poké Ball",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/005.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pokédex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/004.ts",
+      "data/Pokémon TCG Pocket/Promos-A/008.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Potion",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/001.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pound",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/041.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Powder Heal",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/013.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Power Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/010.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Power Press",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/055.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Professor's Research",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/007.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Psychic Flash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/037.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psychic Sphere",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/050.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psychobilly",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/078.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psydrive",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/050.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/059.ts",
+      "data/Pokémon TCG Pocket/Promos-A/071.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Put 1 random {G} Pokémon from your deck into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/052.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Put a random Basic Pokémon from your deck into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/005.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Put a random Pokémon from your deck into your hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/093.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Raichu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Ram",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/083.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rayquaza",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/063.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rayquaza ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/064.ts",
+      "data/Pokémon TCG Pocket/Promos-A/065.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Reckless Charge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/017.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Red Card",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/006.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Resilience Link",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Riolu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/059.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rockruff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/068.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Scratch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/040.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shadow Hit",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/066.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shed Skin",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/088.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shoegaze",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/081.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Sing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/022.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Skarmory",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/039.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Skwovet",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/091.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/016.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Slash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/100.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sneasel",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/100.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Snivy",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/027.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Snorlax",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/049.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Spark",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spiral Rush",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/063.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sprigatito",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/052.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Squirtle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/033.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Stakataka",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/080.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Staraptor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/047.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Staravia",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/047.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Stufful",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/083.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Surprise Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/020.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sweets Overload",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/087.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sweets Relay",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/085.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/067.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/027.ts",
+      "data/Pokémon TCG Pocket/Promos-A/046.ts",
+      "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "data/Pokémon TCG Pocket/Promos-A/099.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Take a {G} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/060.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched {L} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/058.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/084.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Tapu Koko ex",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/084.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Teleport",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/067.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/036.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The electromagnetic waves emitted by the units\nat the sides of its head expel antigravity, which\nallows it to float.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/024.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The fur on its body naturally repels water. It can\nstay dry even when it plays in the water.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/099.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The shell seems to be filled with joy. It is said\nthat it will share good luck when treated kindly.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/041.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/062.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There are a hundred or so of them living in\nAlola's waste-disposal site. They're all hard\nworkers who eat a lot of trash.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/072.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There is a plant seed on its back right from the\nday this Pokémon is born. The seed slowly\ngrows larger.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/023.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They communicate with one another using their\nauras. They are able to run all through the night.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/059.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/088.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They smack beaks with others of their kind to communicate.\nThe strength and number of hits tell each other how they feel.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/073.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/044.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to 1 of your Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/066.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/070.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 10 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/094.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 damage for each of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/031.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/087.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This is its form while it is devouring the light of\nSolgaleo. It pounces on foes and then slashes\nthem with the claws on its four limbs and back.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/079.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This kindly Pokémon lays highly nutritious eggs\nand shares them with injured Pokémon or people.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/011.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 10 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/017.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 30 damage to itself.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/078.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 70 damage to itself.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/076.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures' feelings and physical conditions.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/089.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/049.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/066.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/091.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon normally is slow to react, but once\nit enters battle, it will strike down its enemies\nwith lightning-fast movements.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/054.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon punches trees and eats\nthe berries that drop down, training itself\nand getting food at the same time.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/071.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/038.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon takes −30 damage from attacks from {F} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/047.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "This Ultra Beast is well enough liked to be\nchosen as a first partner in its own world.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/082.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Ultra Beast's body, which is as thin\nas paper, is like a sharpened sword.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/075.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Though it may look like it's just a bunch of eggs,\nit's a proper Pokémon. Exeggcute communicates\nwith others of its kind via telepathy, apparently.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/060.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Thrash Metal",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/075.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Thunderclap Flash",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/074.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Togedemaru",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/090.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Togepi",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/041.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Toucannon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/073.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tropical Hammer",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/069.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Trumbeak",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/073.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Turtwig",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/035.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Twinkly Call",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/093.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Ultra Necrozma ex",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/081.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/085.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Vanillite",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/085.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Venusaur",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/018.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Vine Whip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/023.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Volcanic Ash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/028.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Volcarona",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/028.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Wartortle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/029.ts"
+    ],
+    "paths": [
+      "evolveFrom"
+    ]
+  },
+  {
+    "en": "Water Arrow",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/094.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Gun",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/033.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Shuriken",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/019.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Weavile",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/100.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "When it is angered, it immediately discharges the\nenergy stored in the pouches in its cheeks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/009.ts",
+      "data/Pokémon TCG Pocket/Promos-A/015.ts",
+      "data/Pokémon TCG Pocket/Promos-A/026.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it retracts its long neck into its shell, it\nsquirts out water with vigorous force.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/033.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/087.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When its huge eyes waver, it sings a mysteriously\nsoothing melody that lulls its enemies to sleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/022.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/047.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Whenever you attach a {D} Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/042.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Whenever you attach a {P} Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/037.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Wing Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/047.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "With its flotation sac inflated, it can carry people\non its back. It deflates the sac before it dives.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/053.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "With nerves of steel, nothing can perturb it. It is\nmore agile and active than it appears.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/057.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/090.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "X Speed",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/002.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Xurkitree",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/077.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Your opponent reveals their hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/003.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Your opponent shuffles their hand into their deck and draws 3 cards.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/006.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/022.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Confused.",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/038.ts",
+      "data/Pokémon TCG Pocket/Promos-A/077.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/056.ts",
+      "data/Pokémon TCG Pocket/Promos-A/072.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Zeraora",
+    "missing": [
+      "fr",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Promos-A/074.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  }
+]

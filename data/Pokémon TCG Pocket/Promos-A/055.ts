@@ -1,73 +1,71 @@
-import { Card } from "../../../interfaces"
-import Set from "../Promos-A"
-
+import { Card } from "../../../interfaces";
+import Set from "../Promos-A";
 const card: Card = {
-	set: Set,
-
-	name: {
-		en: "Machamp",
-		fr: "Mackogneur",
-		es: "Machamp",
-		it: "Machamp",
-		de: "Machomei",
-		'pt-br': "Machamp",
-		ko: "괴력몬"
-	},
-
-	illustrator: "Masakazu Fukuda",
-	rarity: "None",
-	category: "Pokemon",
-	hp: 150,
-	types: ["Fighting"],
-
-	description: {
-		en: "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
-		fr: "Il peut bouger ses quatre bras à grande vitesse\net frapper du poing ou du tranchant de la main\ndans toutes les directions sans se fatiguer.",
-		es: "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
-		it: "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
-		de: "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken.",
-		'pt-br': "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
-		ko: "4개의 팔을 재빠르게 움직여서\n모든 각도에서 쉬지 않고\n펀치와 당수를 날린다."
-	},
-
-	stage: "Stage2",
-
-	evolveFrom: {
-		en: "Machoke"
-	},
-
-	attacks: [{
-		name: {
-			en: "Power Press",
-			fr: "Étau Puissant",
-			es: "Constricción Poderosa",
-			it: "Vigorstretta",
-			de: "Powerdruck",
-			'pt-br': "Compressão Poderosa",
-			ko: "파워프레스"
-		},
-
-		cost: ["Fighting", "Fighting"],
-		damage: "70+",
-
-		effect: {
-			en: "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
-			fr: "Si ce Pokémon a au moins 2 Énergies {F} de plus, cette attaque inflige 50 dégâts supplémentaires.",
-			es: "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más.",
-			it: "Se questo Pokémon ha almeno 2 Energie {F} extra assegnate, questo attacco infligge 50 danni in più.",
-			de: "Wenn an dieses Pokémon mindestens 2 extra {F}-Energien angelegt sind, fügt diese Attacke 50 Schadenspunkte mehr zu.",
-			'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
-			ko: "{F}에너지 2개가 추가로 붙어 있다면 50데미지를 추가한다."
-		}
-	}],
-
-	weaknesses: [{
-		type: "Psychic",
-		value: "+20"
-	}],
-
-	retreat: 2,
-	boosters: ["vol6"]
-}
-
-export default card
+    set: Set,
+    name: {
+        en: "Machamp",
+        fr: "Mackogneur",
+        es: "Machamp",
+        it: "Machamp",
+        de: "Machomei",
+        'pt-br': "Machamp",
+        ko: "괴력몬",
+        "zh-tw": "馬尚普"
+    },
+    illustrator: "Masakazu Fukuda",
+    rarity: "None",
+    category: "Pokemon",
+    hp: 150,
+    types: ["Fighting"],
+    description: {
+        en: "It quickly swings its four arms to rock its\nopponents with ceaseless punches and chops\nfrom all angles.",
+        fr: "Il peut bouger ses quatre bras à grande vitesse\net frapper du poing ou du tranchant de la main\ndans toutes les directions sans se fatiguer.",
+        es: "Mueve rápidamente sus cuatro brazos\npara asestar incesantes golpes y\npuñetazos desde todos los ángulos.",
+        it: "Agita velocemente le quattro braccia tempestando\ngli avversari di pugni e colpi da ogni direzione.",
+        de: "Es verwendet seine vier Arme, um seine\nGegner unermüdlich mit schnellen Schlägen\naus allen Winkeln einzudecken.",
+        'pt-br': "Ele balança velozmente seus quatro braços para\natingir seus oponentes com socos e pancadas\nincessantes de todos os ângulos.",
+        ko: "4개의 팔을 재빠르게 움직여서\n모든 각도에서 쉬지 않고\n펀치와 당수를 날린다.",
+        "zh-tw": "它迅速擺動四隻手臂來搖晃\n不斷拳打腳踢的對手\n從各個角度。"
+    },
+    stage: "Stage2",
+    evolveFrom: {
+        en: "Machoke",
+        "fr": "Machoke",
+        "es": "Machoke",
+        "it": "Machoke",
+        "de": "Machoke",
+        "pt-br": "Machoke",
+        "zh-tw": "馬喬克"
+    },
+    attacks: [{
+            name: {
+                en: "Power Press",
+                fr: "Étau Puissant",
+                es: "Constricción Poderosa",
+                it: "Vigorstretta",
+                de: "Powerdruck",
+                'pt-br': "Compressão Poderosa",
+                ko: "파워프레스",
+                "zh-tw": "動力出版社"
+            },
+            cost: ["Fighting", "Fighting"],
+            damage: "70+",
+            effect: {
+                en: "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
+                fr: "Si ce Pokémon a au moins 2 Énergies {F} de plus, cette attaque inflige 50 dégâts supplémentaires.",
+                es: "Si este Pokémon tiene por lo menos 2 Energías {F} adicionales unidas a él, este ataque hace 50 puntos de daño más.",
+                it: "Se questo Pokémon ha almeno 2 Energie {F} extra assegnate, questo attacco infligge 50 danni in più.",
+                de: "Wenn an dieses Pokémon mindestens 2 extra {F}-Energien angelegt sind, fügt diese Attacke 50 Schadenspunkte mehr zu.",
+                'pt-br': "Se este Pokémon tiver pelo menos 2 Energia {F} extra ligada a ele, este ataque causará 50 pontos de dano a mais.",
+                ko: "{F}에너지 2개가 추가로 붙어 있다면 50데미지를 추가한다.",
+                "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。"
+            }
+        }],
+    weaknesses: [{
+            type: "Psychic",
+            value: "+20"
+        }],
+    retreat: 2,
+    boosters: ["vol6"]
+};
+export default card;

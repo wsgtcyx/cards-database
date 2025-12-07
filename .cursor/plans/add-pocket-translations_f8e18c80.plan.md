@@ -74,9 +74,9 @@ todos:
 
 ## 进度记录
 
-- 已完成批次：Mega Rising、Genetic Apex、Triumphant Light、Wisdom of Sea and Sky、Space-Time Smackdown、Shining Revelry（均复扫缺口 0，待翻译 0）。
+- 已完成批次：Mega Rising、Genetic Apex、Triumphant Light、Wisdom of Sea and Sky、Space-Time Smackdown、Shining Revelry、Promos-A（均复扫缺口 0，待翻译 0）。
 - 翻译映射累计：`scripts/tmp/pocket-translations.json`。
-- 近期产物：`scripts/tmp/genetic-missing.json`、`scripts/tmp/genetic-todo.json`、`scripts/tmp/triumph-missing.json`、`scripts/tmp/triumph-todo.json`、`scripts/tmp/wisdom-missing.json`、`scripts/tmp/wisdom-todo.json`、`scripts/tmp/spacetime-missing.json`、`scripts/tmp/spacetime-todo.json`、`scripts/tmp/shining-missing.json`、`scripts/tmp/shining-todo.json`（当前为空或留档）。
+- 近期产物：`scripts/tmp/genetic-missing.json`、`scripts/tmp/genetic-todo.json`、`scripts/tmp/triumph-missing.json`、`scripts/tmp/triumph-todo.json`、`scripts/tmp/wisdom-missing.json`、`scripts/tmp/wisdom-todo.json`、`scripts/tmp/spacetime-missing.json`、`scripts/tmp/spacetime-todo.json`、`scripts/tmp/shining-missing.json`、`scripts/tmp/shining-todo.json`、`scripts/tmp/promos-missing.json`、`scripts/tmp/promos-todo.json`（当前为空或留档）。
 
 ## 批次复用方式
 
@@ -95,4 +95,4 @@ todos:
 
 ## 下一步
 
-- 下一个批次：`data/Pokémon TCG Pocket/Promos-A/**/*.ts`
+- 下一个批次：`data/Pokémon TCG Pocket/Mythical Island/**/*.ts`
