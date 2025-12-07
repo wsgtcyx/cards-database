@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lumineon",
         'pt-br': "Lumineon",
         ko: "네오라이트",
-        "zh-tw": "魯米尼恩"
+        "zh-tw": "霓虹魚",
     },
     illustrator: "Sekio",
     category: "Pokemon",

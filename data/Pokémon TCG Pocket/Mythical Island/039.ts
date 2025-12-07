@@ -10,7 +10,7 @@ const card: Card = {
         de: "Flauschling",
         'pt-br': "Swirlix",
         ko: "나룸퍼프",
-        "zh-tw": "漩渦"
+        "zh-tw": "綿綿泡芙",
     },
     illustrator: "5ban Graphics",
     category: "Pokemon",

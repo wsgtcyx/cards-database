@@ -10,7 +10,7 @@ const card: Card = {
         de: "Smogon",
         'pt-br': "Koffing",
         ko: "또가스",
-        "zh-tw": "科芬"
+        "zh-tw": "瓦斯彈",
     },
     illustrator: "Naoyo Kimura",
     category: "Pokemon",

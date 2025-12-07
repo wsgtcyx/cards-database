@@ -10,7 +10,7 @@ const card: Card = {
         de: "Finneon",
         'pt-br': "Finneon",
         ko: "형광어",
-        "zh-tw": "芬尼翁"
+        "zh-tw": "螢光魚",
     },
     illustrator: "sui",
     category: "Pokemon",

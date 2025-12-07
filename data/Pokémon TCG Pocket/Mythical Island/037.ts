@@ -10,7 +10,7 @@ const card: Card = {
         de: "Floette",
         'pt-br': "Floette",
         ko: "플라엣테",
-        "zh-tw": "弗洛特"
+        "zh-tw": "花葉蒂",
     },
     illustrator: "Cona Nitanda",
     category: "Pokemon",

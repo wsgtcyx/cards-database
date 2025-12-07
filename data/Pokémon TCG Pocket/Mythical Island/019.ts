@@ -10,7 +10,7 @@ const card: Card = {
         de: "Aquana",
         'pt-br': "Vaporeon",
         ko: "샤미드",
-        "zh-tw": "蒸氣"
+        "zh-tw": "水伊布",
     },
     illustrator: "LINNE",
     category: "Pokemon",

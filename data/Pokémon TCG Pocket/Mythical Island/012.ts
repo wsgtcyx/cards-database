@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magmar",
         'pt-br': "Magmar",
         ko: "마그마",
-        "zh-tw": "瑪格瑪"
+        "zh-tw": "鴨嘴火獸",
     },
     illustrator: "sui",
     category: "Pokemon",

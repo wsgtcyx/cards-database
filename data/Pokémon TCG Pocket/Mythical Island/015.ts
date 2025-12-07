@@ -10,7 +10,7 @@ const card: Card = {
         de: "Molunk",
         'pt-br': "Salandit",
         ko: "야도뇽",
-        "zh-tw": "薩蘭迪特"
+        "zh-tw": "夜盜火蜥",
     },
     illustrator: "Naoki Saito",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sabbaione",
         'pt-br': "Slurpuff",
         ko: "나루림",
-        "zh-tw": "咕嚕咕嚕"
+        "zh-tw": "胖甜妮",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

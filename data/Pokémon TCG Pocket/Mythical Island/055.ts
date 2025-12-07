@@ -10,7 +10,7 @@ const card: Card = {
         de: "Cerapendra",
         'pt-br': "Scolipede",
         ko: "펜드라",
-        "zh-tw": "蜈蚣"
+        "zh-tw": "蜈蚣王",
     },
     illustrator: "5ban Graphics",
     category: "Pokemon",

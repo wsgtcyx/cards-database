@@ -10,7 +10,7 @@ const card: Card = {
         de: "Shardrago",
         'pt-br': "Druddigon",
         ko: "크리만",
-        "zh-tw": "德魯迪貢"
+        "zh-tw": "赤面龍",
     },
     illustrator: "Ryota Murayama",
     category: "Pokemon",

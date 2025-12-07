@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ignivor",
         'pt-br': "Larvesta",
         ko: "활화르바",
-        "zh-tw": "拉維斯塔"
+        "zh-tw": "燃燒蟲",
     },
     illustrator: "kawayoo",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kamehaps",
         'pt-br': "Chewtle",
         ko: "깨물부기",
-        "zh-tw": "咀嚼"
+        "zh-tw": "咬咬龜",
     },
     illustrator: "Taiga Kayama",
     category: "Pokemon",

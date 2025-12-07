@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wattzapf",
         'pt-br': "Joltik",
         ko: "파쪼옥",
-        "zh-tw": "約爾蒂克"
+        "zh-tw": "電電蟲",
     },
     illustrator: "MINAMINAMI Take",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mew",
         'pt-br': "Mew",
         ko: "뮤",
-        "zh-tw": "喵"
+        "zh-tw": "夢幻",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",

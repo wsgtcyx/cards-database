@@ -10,7 +10,7 @@ const card: Card = {
         de: "Garados-ex",
         'pt-br': "Gyarados ex",
         ko: "갸라도스 ex",
-        "zh-tw": "暴鯉龍EX"
+        "zh-tw": "暴鯉龍 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

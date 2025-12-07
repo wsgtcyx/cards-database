@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kamalm",
         'pt-br': "Drednaw",
         ko: "갈가부기",
-        "zh-tw": "德雷德諾"
+        "zh-tw": "暴噬龜",
     },
     illustrator: "nisimono",
     category: "Pokemon",

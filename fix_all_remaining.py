@@ -13,7 +13,8 @@ TARGET_DIRS = [
     "Celestial Guardians",
     "Deluxe Pack: ex",
     "Mega Rising",
-    "Wisdom of Sea and Sky"
+    "Wisdom of Sea and Sky",
+    "Mythical Island"
 ]
 
 BASE_PATH = "data/Pokémon TCG Pocket"

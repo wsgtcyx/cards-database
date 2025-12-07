@@ -10,7 +10,7 @@ const card: Card = {
         de: "Felilou",
         'pt-br': "Purrloin",
         ko: "쌔비냥",
-        "zh-tw": "珀朗"
+        "zh-tw": "扒手貓",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

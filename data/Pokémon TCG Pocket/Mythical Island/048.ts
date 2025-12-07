@@ -10,7 +10,7 @@ const card: Card = {
         de: "Humanolith",
         'pt-br': "Stonjourner",
         ko: "돌헨진",
-        "zh-tw": "斯頓杰納"
+        "zh-tw": "巨石丁",
     },
     illustrator: "Teeziro",
     category: "Pokemon",

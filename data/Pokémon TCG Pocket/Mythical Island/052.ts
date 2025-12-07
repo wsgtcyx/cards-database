@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kleoparda",
         'pt-br': "Liepard",
         ko: "레파르다스",
-        "zh-tw": "利帕德"
+        "zh-tw": "酷豹",
     },
     illustrator: "GIDORA",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ponita",
         'pt-br': "Ponyta",
         ko: "포니타",
-        "zh-tw": "小馬駒"
+        "zh-tw": "小火馬",
     },
     illustrator: "Tomokazu Komiya",
     category: "Pokemon",

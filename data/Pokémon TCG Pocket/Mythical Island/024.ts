@@ -10,7 +10,7 @@ const card: Card = {
         de: "Urgl",
         'pt-br': "Cramorant",
         ko: "윽우지",
-        "zh-tw": "克拉莫蘭特"
+        "zh-tw": "古月鳥",
     },
     illustrator: "Jerky",
     category: "Pokemon",

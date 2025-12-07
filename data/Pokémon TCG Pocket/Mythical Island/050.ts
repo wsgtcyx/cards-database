@@ -10,7 +10,7 @@ const card: Card = {
         de: "Smogmog",
         'pt-br': "Weezing",
         ko: "또도가스",
-        "zh-tw": "喘息"
+        "zh-tw": "雙彈瓦斯",
     },
     illustrator: "Mousho",
     category: "Pokemon",

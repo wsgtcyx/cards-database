@@ -10,7 +10,7 @@ const card: Card = {
         de: "Geowaz",
         'pt-br': "Golem",
         ko: "딱구리",
-        "zh-tw": "魔像"
+        "zh-tw": "隆隆岩",
     },
     illustrator: "Masakazu Fukuda",
     category: "Pokemon",

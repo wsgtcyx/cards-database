@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pygraulon",
         'pt-br': "Elgyem",
         ko: "리그레",
-        "zh-tw": "埃爾吉姆"
+        "zh-tw": "小灰怪",
     },
     illustrator: "Kouki Saitou",
     category: "Pokemon",

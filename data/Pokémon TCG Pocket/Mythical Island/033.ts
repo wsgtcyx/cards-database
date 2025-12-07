@@ -10,7 +10,7 @@ const card: Card = {
         de: "Symvolara",
         'pt-br': "Sigilyph",
         ko: "심보러",
-        "zh-tw": "西吉文字"
+        "zh-tw": "象徵鳥",
     },
     illustrator: "Shigenori Negishi",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Moruda",
         'pt-br': "Dhelmise",
         ko: "타타륜",
-        "zh-tw": "德爾米斯"
+        "zh-tw": "破破舵輪",
     },
     illustrator: "Hasuno",
     category: "Pokemon",

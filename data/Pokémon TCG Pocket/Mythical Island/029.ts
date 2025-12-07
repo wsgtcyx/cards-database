@@ -10,7 +10,7 @@ const card: Card = {
         de: "Voltula",
         'pt-br': "Galvantula",
         ko: "전툴라",
-        "zh-tw": "加爾萬圖拉"
+        "zh-tw": "電蜘蛛",
     },
     illustrator: "Mitsuhiro Arita",
     category: "Pokemon",

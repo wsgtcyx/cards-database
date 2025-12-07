@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rollum",
         'pt-br': "Whirlipede",
         ko: "휠구",
-        "zh-tw": "旋足蟲"
+        "zh-tw": "車輪毬",
     },
     illustrator: "Shin Nagasawa",
     category: "Pokemon",

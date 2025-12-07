@@ -10,7 +10,7 @@ const card: Card = {
         de: "Georok",
         'pt-br': "Graveler",
         ko: "데구리",
-        "zh-tw": "碎石者"
+        "zh-tw": "隆隆石",
     },
     illustrator: "Ayaka Yoshida",
     category: "Pokemon",

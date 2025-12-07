@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dedenne",
         'pt-br': "Dedenne",
         ko: "데덴네",
-        "zh-tw": "德登內"
+        "zh-tw": "咚咚鼠",
     },
     illustrator: "Yuu Nishida",
     category: "Pokemon",

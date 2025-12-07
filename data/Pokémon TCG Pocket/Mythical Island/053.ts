@@ -10,7 +10,7 @@ const card: Card = {
         de: "Toxiped",
         'pt-br': "Venipede",
         ko: "마디네",
-        "zh-tw": "韋尼足蟲"
+        "zh-tw": "百足蜈蚣",
     },
     illustrator: "Yukiko Baba",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Efoserp",
         'pt-br': "Servine",
         ko: "샤비",
-        "zh-tw": "塞爾文"
+        "zh-tw": "青藤蛇",
     },
     illustrator: "Shigenori Negishi",
     category: "Pokemon",
