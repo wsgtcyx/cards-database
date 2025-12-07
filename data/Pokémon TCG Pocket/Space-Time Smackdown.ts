@@ -12,6 +12,7 @@ const set: Set = {
 		it: "Scontro Spaziotemporale",
 		"pt-br": "Embate do Tempo e Espaço",
 		ko: "시공의 격투",
+		"zh-tw": "時空激戰"
 	},
 
 	serie: serie,
@@ -30,6 +31,7 @@ const set: Set = {
 				it: "Palkia",
 				"pt-br": "Palkia",
 				ko: "펄기아",
+				"zh-tw": "帕路奇犽",
 			},
 		},
 		dialga: {
@@ -41,6 +43,7 @@ const set: Set = {
 				it: "Dialga",
 				"pt-br": "Dialga",
 				ko: "디아루가",
+				"zh-tw": "帝牙盧卡",
 			},
 		},
 	},
