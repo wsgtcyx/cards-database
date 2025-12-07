@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Weedle",
         "de": "Unkraut",
         "pt-br": "erva daninha",
-        "zh-tw": "雜草"
+        "zh-tw": "獨角蟲",
     },
     description: {
         en: "Almost incapable of moving, this Pokémon can only\nharden its shell to protect itself when it is\nin danger.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Togetico",
         "de": "Zusammen",
         "pt-br": "Togético",
-        "zh-tw": "托蓋蒂克"
+        "zh-tw": "波克基古",
     },
     description: {
         en: "These Pokémon are never seen anywhere near\nconflict or turmoil. In recent times, they've hardly\nbeen seen at all.",

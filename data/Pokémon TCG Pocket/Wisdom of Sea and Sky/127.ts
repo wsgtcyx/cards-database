@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Klink",
         "de": "Klink",
         "pt-br": "Klink",
-        "zh-tw": "克林克"
+        "zh-tw": "齒輪兒",
     },
     description: {
         en: "When Klang goes all out, the minigear links up\nperfectly with the outer part of the big gear, and\nthis Pokémon's rotation speed increases sharply.",

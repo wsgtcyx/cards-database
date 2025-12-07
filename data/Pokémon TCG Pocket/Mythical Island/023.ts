@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Masticare",
         "de": "Chewtle",
         "pt-br": "Mastigar",
-        "zh-tw": "咀嚼"
+        "zh-tw": "咬咬龜",
     },
     description: {
         en: "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",

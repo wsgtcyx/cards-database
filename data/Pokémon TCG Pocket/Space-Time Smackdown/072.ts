@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Dusclops",
         "de": "Dusclops",
         "pt-br": "Dusclops",
-        "zh-tw": "杜克洛普斯"
+        "zh-tw": "夜巨人",
     },
     description: {
         en: "At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.",

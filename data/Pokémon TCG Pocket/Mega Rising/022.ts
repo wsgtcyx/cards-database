@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Scivola",
         "de": "Skiddo",
         "pt-br": "Skiddo",
-        "zh-tw": "斯基多"
+        "zh-tw": "咩咩羊",
     },
     description: {
         en: "These Pokémon live in herds in mountainous\nplaces. The victor in their contests of clashing\nhorns will become the leader of the herd.",

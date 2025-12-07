@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Krokorok",
         "de": "Krokorok",
         "pt-br": "Crokorok",
-        "zh-tw": "克羅科羅克"
+        "zh-tw": "混混鱷",
     },
     description: {
         en: "After clamping down with its powerful jaws, it\ntwists its body around to rip its prey in half.",

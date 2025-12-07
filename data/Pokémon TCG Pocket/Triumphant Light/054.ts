@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Magnemite",
         "de": "Magnemit",
         "pt-br": "Magnemite",
-        "zh-tw": "磁鐵礦"
+        "zh-tw": "小磁怪",
     },
     description: {
         en: "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",

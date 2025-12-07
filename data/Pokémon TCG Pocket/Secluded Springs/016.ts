@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Tentacool",
         "de": "Tentacool",
         "pt-br": "Tentacool",
-        "zh-tw": "坦塔酷"
+        "zh-tw": "瑪瑙水母",
     },
     description: {
         en: "When the red orbs on Tentacruel's head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.",

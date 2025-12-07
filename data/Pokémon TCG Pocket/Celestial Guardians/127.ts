@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Hakamo-o",
         "de": "Hakamo-o",
         "pt-br": "Hakamo-o",
-        "zh-tw": "博茂王"
+        "zh-tw": "鱗甲龍",
     },
     description: {
         en: "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",

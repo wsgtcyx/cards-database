@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Copertina Fossile",
         "de": "Fossil abdecken",
         "pt-br": "Capa Fóssil",
-        "zh-tw": "封面化石"
+        "zh-tw": "背蓋化石",
     },
     description: {
         en: "Tirtouga is considered to be the ancestor of\nmany turtle Pokémon. It was restored to life\nfrom a fossil.",

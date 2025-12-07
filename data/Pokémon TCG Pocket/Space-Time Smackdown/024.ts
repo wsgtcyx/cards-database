@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Magmar",
         "de": "Magmar",
         "pt-br": "Magmar",
-        "zh-tw": "瑪格瑪"
+        "zh-tw": "鴨嘴火獸",
     },
     description: {
         en: "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Tinkatink",
         "de": "Tinkatink",
         "pt-br": "Tinkatink",
-        "zh-tw": "丁卡丁克"
+        "zh-tw": "小鍛匠",
     },
     description: {
         en: "This Pokémon will attack groups of Pawniard and\nBisharp, gathering metal from them in order to\ncreate a large and sturdy hammer.",

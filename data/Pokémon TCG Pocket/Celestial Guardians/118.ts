@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Diglett di Alola",
         "de": "Alolan Diglett",
         "pt-br": "Alola Diglett",
-        "zh-tw": "阿羅蘭·迪格利特"
+        "zh-tw": "阿羅拉地鼠",
     },
     description: {
         en: "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",

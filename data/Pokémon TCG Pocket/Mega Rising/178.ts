@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Buono",
         "de": "Goomy",
         "pt-br": "Pegajoso",
-        "zh-tw": "古米"
+        "zh-tw": "黏黏寶",
     },
     description: {
         en: "When Sliggoo senses danger, the mucus coating\nits entire body becomes more concentrated—\nit'll dissolve anything.",

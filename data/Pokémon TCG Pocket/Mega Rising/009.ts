@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Seedot",
         "de": "Seedot",
         "pt-br": "Seedot",
-        "zh-tw": "種子點"
+        "zh-tw": "橡實果",
     },
     description: {
         en: "They live in holes bored in large trees. The sound\nof Nuzleaf's grass flute fills listeners with dread.",

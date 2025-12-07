@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Machoke",
         "de": "Machoke",
         "pt-br": "Machoke",
-        "zh-tw": "馬喬克"
+        "zh-tw": "豪力",
     },
     stage: "Stage2",
     suffix: "EX",

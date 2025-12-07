@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Fletchinder",
         "de": "Fletchinder",
         "pt-br": "Fletchinder",
-        "zh-tw": "弗萊欽德"
+        "zh-tw": "火箭雀",
     },
     description: {
         en: "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs.",

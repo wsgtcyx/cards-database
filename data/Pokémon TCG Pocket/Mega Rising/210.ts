@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Rookidee",
         "de": "Neuling",
         "pt-br": "Rookidee",
-        "zh-tw": "菜鳥"
+        "zh-tw": "稚山雀",
     },
     description: {
         en: "This intelligent Pokémon will quickly learn how to\nuse any tool it can hold in its beak or its talons.",

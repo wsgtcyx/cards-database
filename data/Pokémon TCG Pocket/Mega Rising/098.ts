@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Natura",
         "de": "Natu",
         "pt-br": "Natu",
-        "zh-tw": "納圖"
+        "zh-tw": "天然雀",
     },
     description: {
         en: "This odd Pokémon can see both the past and\nthe future. It eyes the sun's movement all day.",

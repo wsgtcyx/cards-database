@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Misdreavus",
         "de": "Misdreavus",
         "pt-br": "Misdreavus",
-        "zh-tw": "誤判"
+        "zh-tw": "夢妖",
     },
     description: {
         en: "Its cries sound like incantations to torment the\nfoe. It appears where you least expect it.",

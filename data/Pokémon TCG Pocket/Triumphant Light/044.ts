@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Medita",
         "de": "Meditit",
         "pt-br": "Medite",
-        "zh-tw": "麥迪泰"
+        "zh-tw": "瑪沙那",
     },
     description: {
         en: "Through yoga training, it gained the psychic power to predict its foe's next move.",

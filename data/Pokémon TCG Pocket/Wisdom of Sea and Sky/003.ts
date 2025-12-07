@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Tristezza",
         "de": "Düsternis",
         "pt-br": "Melancolia",
-        "zh-tw": "愁雲"
+        "zh-tw": "臭臭花",
     },
     description: {
         en: "Plentiful in the tropics. When it dances, its petals\nrub together and make a pleasant ringing sound.",

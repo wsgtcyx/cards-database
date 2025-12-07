@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Munna",
         "de": "Munna",
         "pt-br": "Munna",
-        "zh-tw": "穆納"
+        "zh-tw": "食夢夢",
     },
     description: {
         en: "When dark mists emanate from its body, don't\nget too near. If you do, your nightmares will\nbecome reality.",

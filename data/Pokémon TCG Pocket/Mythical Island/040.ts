@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Swirlix",
         "de": "Swirlix",
         "pt-br": "Redemoinho",
-        "zh-tw": "漩渦"
+        "zh-tw": "綿綿泡芙",
     },
     description: {
         en: "By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.",

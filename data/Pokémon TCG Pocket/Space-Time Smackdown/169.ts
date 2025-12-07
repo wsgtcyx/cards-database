@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Rhydon",
         "de": "Rhydon",
         "pt-br": "Rhydon",
-        "zh-tw": "鐵甲犀"
+        "zh-tw": "鑽角犀獸",
     },
     description: {
         en: "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.",

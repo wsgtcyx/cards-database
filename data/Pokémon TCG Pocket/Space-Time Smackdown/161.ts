@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Shellos",
         "de": "Shellos",
         "pt-br": "Conchas",
-        "zh-tw": "謝洛斯"
+        "zh-tw": "無殼海牛",
     },
     description: {
         en: "They normally inhabit rocky seashores, but in times of continuous rain, they can sometimes be found in the mountains, far from the sea.",

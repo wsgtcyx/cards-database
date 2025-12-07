@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Skorupi",
         "de": "Skorupi",
         "pt-br": "Skorupi",
-        "zh-tw": "斯科魯皮"
+        "zh-tw": "紫天蠍",
     },
     description: {
         en: "It's so vicious that it's called the Sand Demon.\nYet when confronted by Hippowdon, Drapion\nkeeps a low profile and will never pick a fight.",

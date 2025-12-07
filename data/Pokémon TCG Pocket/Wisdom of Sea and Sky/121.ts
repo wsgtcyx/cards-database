@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Pineco",
         "de": "Pineco",
         "pt-br": "Pinho",
-        "zh-tw": "松果"
+        "zh-tw": "榛果球",
     },
     description: {
         en: "It remains immovably rooted to its tree. It scatters\npieces of its hard shell to drive its enemies away.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Phantump",
         "de": "Phantump",
         "pt-br": "Fantasma",
-        "zh-tw": "凡頓"
+        "zh-tw": "小木靈",
     },
     description: {
         en: "People fear it due to a belief that it devours any\nwho try to cut down trees in its forest, but to the\nPokémon it shares its woods with, it's kind.",

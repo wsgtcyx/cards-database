@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Snubbull",
         "de": "Snubbull",
         "pt-br": "Esnobado",
-        "zh-tw": "斯納布爾"
+        "zh-tw": "布盧",
     },
     description: {
         en: "While it has powerful jaws, it doesn't care for\ndisputes, so it rarely has a chance to display\ntheir might.",

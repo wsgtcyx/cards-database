@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Drifloon",
         "de": "Driftloon",
         "pt-br": "Drifloon",
-        "zh-tw": "飛龍"
+        "zh-tw": "飄飄球",
     },
     description: {
         en: "They carry people and Pokémon, but the\nwind can catch them, so there can't be a\nfixed destination.",

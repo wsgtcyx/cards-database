@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Cascoon",
         "de": "Kaskon",
         "pt-br": "Cascão",
-        "zh-tw": "卡斯科恩"
+        "zh-tw": "盾甲繭",
     },
     description: {
         en: "It violently flutters its wings to scatter toxic dust\nwhen attacked. It becomes active after sunset.",

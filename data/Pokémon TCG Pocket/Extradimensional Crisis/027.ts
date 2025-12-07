@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Morelull",
         "de": "Morelull",
         "pt-br": "Morelull",
-        "zh-tw": "莫雷魯爾"
+        "zh-tw": "睡睡菇",
     },
     description: {
         en: "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips.",

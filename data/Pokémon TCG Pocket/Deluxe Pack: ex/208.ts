@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Gibile",
         "de": "Gible",
         "pt-br": "Gible",
-        "zh-tw": "吉布爾"
+        "zh-tw": "圓陸鯊",
     },
     description: {
         en: "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",

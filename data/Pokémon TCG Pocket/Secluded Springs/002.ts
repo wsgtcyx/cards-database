@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Hoppip",
         "de": "Hoppip",
         "pt-br": "Hoppip",
-        "zh-tw": "霍皮普"
+        "zh-tw": "毽子草",
     },
     description: {
         en: "Skiploom enthusiasts can apparently tell where a\nSkiploom was born by the scent drifting from the\nflower on the Pokémon's head.",

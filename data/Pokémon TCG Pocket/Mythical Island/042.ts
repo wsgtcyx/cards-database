@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Mankey",
         "de": "Mankey",
         "pt-br": "Mankey",
-        "zh-tw": "曼基"
+        "zh-tw": "猴怪",
     },
     description: {
         en: "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",

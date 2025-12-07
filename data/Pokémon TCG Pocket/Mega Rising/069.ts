@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Frizzo",
         "de": "Rüschen",
         "pt-br": "Enfeitado",
-        "zh-tw": "華麗的"
+        "zh-tw": "輕飄飄",
     },
     description: {
         en: "Whenever a full moon hangs in the night sky,\nschools of Jellicent gather near the surface of\nthe sea, waiting for their prey to appear.",

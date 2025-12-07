@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ippopotami",
         "de": "Nilpferde",
         "pt-br": "Hipopótamos",
-        "zh-tw": "河馬"
+        "zh-tw": "怪河馬",
     },
     description: {
         en: "It brandishes its gaping mouth in a display of\nfearsome strength. It raises vast quantities of\nsand while attacking.",

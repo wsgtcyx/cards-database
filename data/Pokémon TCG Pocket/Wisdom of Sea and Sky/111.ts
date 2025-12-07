@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Spinarak",
         "de": "Spinarak",
         "pt-br": "Espinaraque",
-        "zh-tw": "斯皮納拉克"
+        "zh-tw": "線球",
     },
     description: {
         en: "Every night, it wanders around in search of\nprey, whose movements it restrains by spewing\nthreads before it bites into them with its fangs.",

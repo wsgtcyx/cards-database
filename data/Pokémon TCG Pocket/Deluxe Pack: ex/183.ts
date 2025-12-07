@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Cosmog",
         "de": "Kosmog",
         "pt-br": "Cosmog",
-        "zh-tw": "科斯莫格"
+        "zh-tw": "科斯莫古",
     },
     description: {
         en: "The king who ruled Alola in times of antiquity called it\nthe \"cocoon of the stars\" and built an altar to worship it.",

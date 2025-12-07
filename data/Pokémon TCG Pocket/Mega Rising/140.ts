@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Crabrawler",
         "de": "Krabbenjäger",
         "pt-br": "Caranguejo",
-        "zh-tw": "爬行者"
+        "zh-tw": "好勝蟹",
     },
     description: {
         en: "Though its punches are powerful, this Pokémon's\nmovements are sluggish. It blows icy bubbles\nfrom its mouth to immobilize its opponents.",

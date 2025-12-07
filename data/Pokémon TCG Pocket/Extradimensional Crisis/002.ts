@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Petilil",
         "de": "Petilil",
         "pt-br": "Petilil",
-        "zh-tw": "佩蒂利爾"
+        "zh-tw": "百合根娃娃",
     },
     description: {
         en: "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult.",

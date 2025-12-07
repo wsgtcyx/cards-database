@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Poliwag",
         "de": "Poliwag",
         "pt-br": "Poliwag",
-        "zh-tw": "波利瓦格"
+        "zh-tw": "蚊香蝌蚪",
     },
     description: {
         en: "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl's has been used in place of\nlullabies to get children to go to sleep.",

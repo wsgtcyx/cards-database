@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Dolcezza",
         "de": "Bounsweet",
         "pt-br": "Doce",
-        "zh-tw": "邦斯威特"
+        "zh-tw": "甜竹竹",
     },
     description: {
         en: "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",

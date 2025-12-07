@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Zubat",
         "de": "Zubat",
         "pt-br": "Zubat",
-        "zh-tw": "祖巴特"
+        "zh-tw": "超音蝠",
     },
     description: {
         en: "It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.",

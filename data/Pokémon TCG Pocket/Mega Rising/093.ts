@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Joltik",
         "de": "Joltik",
         "pt-br": "Joltik",
-        "zh-tw": "約爾蒂克"
+        "zh-tw": "電電蟲",
     },
     description: {
         en: "It lays traps of electrified threads near the nests\nof bird Pokémon, aiming to snare chicks that are\nnot yet good at flying.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Elektrik",
         "de": "Elektrik",
         "pt-br": "Elétrico",
-        "zh-tw": "電氣技術"
+        "zh-tw": "麻麻鰻",
     },
     description: {
         en: "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean.",

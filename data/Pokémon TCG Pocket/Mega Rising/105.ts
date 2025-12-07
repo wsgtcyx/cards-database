@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Dusclops",
         "de": "Dusclops",
         "pt-br": "Dusclops",
-        "zh-tw": "杜克洛普斯"
+        "zh-tw": "夜巨人",
     },
     description: {
         en: "With the mouth on its belly, Dusknoir swallows its\ntarget whole. The soul is the only thing eaten—\nDusknoir disgorges the body before departing.",

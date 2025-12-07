@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Nidoran♂",
         "de": "Nidoran♂",
         "pt-br": "Nidoran♂",
-        "zh-tw": "尼多蘭♂"
+        "zh-tw": "尼多朗",
     },
     description: {
         en: "With a horn that's harder than diamond, this\nPokémon goes around shattering boulders as it\nsearches for a moon stone.",

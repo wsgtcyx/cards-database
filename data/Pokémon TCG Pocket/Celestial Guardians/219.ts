@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Staryu",
         "de": "Staryu",
         "pt-br": "Staryu",
-        "zh-tw": "斯塔尤"
+        "zh-tw": "海星星",
     },
     description: {
         en: "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Yamper",
         "de": "Yamper",
         "pt-br": "Yamper",
-        "zh-tw": "雅珀"
+        "zh-tw": "來電汪",
     },
     description: {
         en: "This Pokémon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days.",

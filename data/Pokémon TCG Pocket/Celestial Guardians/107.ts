@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Rattata di Alola",
         "de": "Alolan Rattata",
         "pt-br": "Rattata de Alola",
-        "zh-tw": "阿羅拉拉達"
+        "zh-tw": "阿羅拉小拉達",
     },
     description: {
         en: "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.",

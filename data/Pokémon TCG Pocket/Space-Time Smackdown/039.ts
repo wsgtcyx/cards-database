@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Buzel",
         "de": "Buizel",
         "pt-br": "Buizel",
-        "zh-tw": "布伊澤爾"
+        "zh-tw": "泳氣鼬",
     },
     description: {
         en: "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",

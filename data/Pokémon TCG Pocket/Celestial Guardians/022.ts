@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Wimpod",
         "de": "Wimpod",
         "pt-br": "Wimpod",
-        "zh-tw": "溫波德"
+        "zh-tw": "膽小蟲",
     },
     description: {
         en: "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",

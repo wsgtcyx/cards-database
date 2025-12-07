@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Frizzo",
         "de": "Rüschen",
         "pt-br": "Enfeitado",
-        "zh-tw": "華麗的"
+        "zh-tw": "輕飄飄",
     },
     description: {
         en: "Most of this Pokémon's body composition is\nidentical to sea water. It makes sunken ships\nits lair.",

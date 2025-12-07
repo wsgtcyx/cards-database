@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Skorupi",
         "de": "Skorupi",
         "pt-br": "Skorupi",
-        "zh-tw": "斯科魯皮"
+        "zh-tw": "紫天蠍",
     },
     description: {
         en: "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",

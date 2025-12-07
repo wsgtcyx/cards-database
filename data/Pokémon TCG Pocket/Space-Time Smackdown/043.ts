@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Finneon",
         "de": "Finneon",
         "pt-br": "Finneon",
-        "zh-tw": "芬尼翁"
+        "zh-tw": "螢光魚",
     },
     description: {
         en: "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",

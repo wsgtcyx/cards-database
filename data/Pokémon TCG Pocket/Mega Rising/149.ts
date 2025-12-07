@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Murkrow",
         "de": "Murkrow",
         "pt-br": "Murkrow",
-        "zh-tw": "暗鴉"
+        "zh-tw": "黑暗鴉",
     },
     description: {
         en: "A single cry from this nocturnal Pokémon, and\nmore than 100 of its Murkrow cronies will\nassemble.",

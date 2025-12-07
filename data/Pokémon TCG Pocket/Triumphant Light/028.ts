@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Elettrico",
         "de": "Elektrik",
         "pt-br": "Eletricista",
-        "zh-tw": "電動車"
+        "zh-tw": "落雷獸",
     },
     description: {
         en: "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",

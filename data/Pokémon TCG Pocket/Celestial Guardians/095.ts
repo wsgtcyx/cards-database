@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Timburr",
         "de": "Timburr",
         "pt-br": "Timburr",
-        "zh-tw": "廷布爾"
+        "zh-tw": "搬運小匠",
     },
     description: {
         en: "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",

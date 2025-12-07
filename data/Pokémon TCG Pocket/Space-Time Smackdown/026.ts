@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Slugma",
         "de": "Slugma",
         "pt-br": "Slugma",
-        "zh-tw": "斯盧格馬"
+        "zh-tw": "熔岩蟲",
     },
     description: {
         en: "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",

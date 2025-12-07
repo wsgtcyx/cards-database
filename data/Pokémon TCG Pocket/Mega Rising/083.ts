@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Mareep",
         "de": "Mareep",
         "pt-br": "Mareep",
-        "zh-tw": "馬里普"
+        "zh-tw": "咩利羊",
     },
     description: {
         en: "Because of its rubbery, electricity-resistant skin,\nit can store lots of electricity in its fur.",

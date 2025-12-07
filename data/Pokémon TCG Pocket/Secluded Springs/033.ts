@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Misdreavus",
         "de": "Misdreavus",
         "pt-br": "Misdreavus",
-        "zh-tw": "誤判"
+        "zh-tw": "夢妖",
     },
     description: {
         en: "Its cry sounds like an incantation. It is said the cry\nmay rarely be imbued with happiness-giving power.",

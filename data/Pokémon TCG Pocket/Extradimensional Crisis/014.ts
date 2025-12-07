@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Shinx",
         "de": "Shinx",
         "pt-br": "Shinx",
-        "zh-tw": "辛克斯"
+        "zh-tw": "小貓怪",
     },
     description: {
         en: "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes.",

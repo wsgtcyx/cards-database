@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Graveler",
         "de": "Schotter",
         "pt-br": "Cascalho",
-        "zh-tw": "碎石者"
+        "zh-tw": "隆隆石",
     },
     description: {
         en: "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",

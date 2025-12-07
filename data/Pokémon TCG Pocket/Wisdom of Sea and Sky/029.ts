@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Quilava",
         "de": "Quilava",
         "pt-br": "Quilava",
-        "zh-tw": "基拉瓦"
+        "zh-tw": "火岩鼠",
     },
     description: {
         en: "If its rage peaks, it becomes so hot that anything\nthat touches it will instantly go up in flames.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Doppia lama",
         "de": "Doublade",
         "pt-br": "Lâmina Dupla",
-        "zh-tw": "雙刃"
+        "zh-tw": "雙劍鞘",
     },
     description: {
         en: "Once upon a time, a king with an Aegislash\nreigned over the land. His Pokémon eventually\ndrained him of life, and his kingdom fell with him.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Corvisquire",
         "de": "Corvisquire",
         "pt-br": "Corvisquire",
-        "zh-tw": "科維斯奎爾"
+        "zh-tw": "藍鴉",
     },
     description: {
         en: "Although its wings have partly turned to steel and\nbecome heavy as a result, this Pokémon flies\nthrough the skies with ease.",

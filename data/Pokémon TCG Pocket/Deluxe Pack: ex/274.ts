@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Pidgey",
         "de": "Pidgey",
         "pt-br": "Pidgey",
-        "zh-tw": "皮吉"
+        "zh-tw": "波波",
     },
     description: {
         en: "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",

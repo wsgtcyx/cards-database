@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Herdier",
         "de": "Herdier",
         "pt-br": "Pastor",
-        "zh-tw": "赫爾迪耶"
+        "zh-tw": "哈約克",
     },
     description: {
         en: "Stoutland is immensely proud of its impressive\nmoustache. It's said that moustache length is what\ndetermines social standing among this species.",

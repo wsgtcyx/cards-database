@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Fanpy",
         "de": "Phanpy",
         "pt-br": "Fanpy",
-        "zh-tw": "潘皮"
+        "zh-tw": "小小象",
     },
     description: {
         en: "Donphan is covered in tough hide, so even being\nhit by a car won't faze this Pokémon. However, it\nis extremely susceptible to rain.",

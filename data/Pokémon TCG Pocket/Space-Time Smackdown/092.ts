@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Riolu",
         "de": "Riolu",
         "pt-br": "Riolu",
-        "zh-tw": "利奧盧"
+        "zh-tw": "利歐路",
     },
     description: {
         en: "It's said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.",

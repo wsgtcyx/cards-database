@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Cyndaquil",
         "de": "Cyndaquil",
         "pt-br": "Cindaquil",
-        "zh-tw": "辛達奎爾"
+        "zh-tw": "火球鼠",
     },
     description: {
         en: "Before battle, it turns its back on its opponent to\ndemonstrate how ferociously its fire blazes.",

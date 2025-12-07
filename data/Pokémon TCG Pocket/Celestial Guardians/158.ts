@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Steenee",
         "de": "Steenee",
         "pt-br": "Steenee",
-        "zh-tw": "斯蒂尼"
+        "zh-tw": "甜舞妮",
     },
     description: {
         en: "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",

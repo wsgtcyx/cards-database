@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Misdreavus",
         "de": "Misdreavus",
         "pt-br": "Misdreavus",
-        "zh-tw": "誤判"
+        "zh-tw": "夢妖",
     },
     stage: "Stage1",
     suffix: "EX",

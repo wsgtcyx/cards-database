@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sandshrew",
         "de": "Sandspitzmaus",
         "pt-br": "Sandshrew",
-        "zh-tw": "山鼠"
+        "zh-tw": "穿山鼠",
     },
     description: {
         en: "It climbs trees by hooking on with its sharp claws.\nSandslash shares the berries it gathers, dropping\nthem down to Sandshrew waiting below the tree.",

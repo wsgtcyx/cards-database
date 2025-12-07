@@ -23,7 +23,7 @@ const card: Card = {
         "it": "A voce alta",
         "de": "Laut",
         "pt-br": "Alto",
-        "zh-tw": "勞德雷德"
+        "zh-tw": "吼爆彈",
     },
     description: {
         en: "This Pokémon can do more than just shout. To\ncommunicate with others of its kind, it'll emit all\nsorts of sounds from the holes in its body.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Marill",
         "de": "Marill",
         "pt-br": "Marill",
-        "zh-tw": "馬里爾"
+        "zh-tw": "瑪力露",
     },
     description: {
         en: "Its long ears are superb sensors. It can distinguish\nthe movements of things in water and tell what\nthey are.",

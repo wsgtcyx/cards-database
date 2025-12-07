@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Steenee",
         "de": "Steenee",
         "pt-br": "Steenee",
-        "zh-tw": "斯蒂尼"
+        "zh-tw": "甜舞妮",
     },
     description: {
         en: "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",

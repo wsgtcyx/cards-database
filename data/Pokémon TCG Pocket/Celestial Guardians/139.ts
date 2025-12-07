@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Stupendo",
         "de": "Stoffig",
         "pt-br": "Recheado",
-        "zh-tw": "塞滿"
+        "zh-tw": "童偶熊",
     },
     description: {
         en: "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",

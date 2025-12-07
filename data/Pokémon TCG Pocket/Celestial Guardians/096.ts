@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Gurdurr",
         "de": "Gurdurr",
         "pt-br": "Gurdur",
-        "zh-tw": "古杜爾"
+        "zh-tw": "鐵骨土人",
     },
     description: {
         en: "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",

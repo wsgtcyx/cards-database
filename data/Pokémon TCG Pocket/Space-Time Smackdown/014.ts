@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Kricketot",
         "de": "Kricketot",
         "pt-br": "Críquete",
-        "zh-tw": "克里克托"
+        "zh-tw": "圓法師",
     },
     description: {
         en: "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",

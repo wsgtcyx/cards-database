@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Meltano",
         "de": "Meltan",
         "pt-br": "Meltan",
-        "zh-tw": "美爾坦"
+        "zh-tw": "美錄坦",
     },
     description: {
         en: "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",

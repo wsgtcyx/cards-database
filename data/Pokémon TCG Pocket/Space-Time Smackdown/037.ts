@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Prinplup",
         "de": "Prinplup",
         "pt-br": "Prinplup",
-        "zh-tw": "原理"
+        "zh-tw": "波皇子",
     },
     description: {
         en: "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",

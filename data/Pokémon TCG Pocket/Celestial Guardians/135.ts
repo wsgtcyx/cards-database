@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Trumbecco",
         "de": "Trumbeak",
         "pt-br": "Trumbeak",
-        "zh-tw": "特朗比克"
+        "zh-tw": "喇叭啄鳥",
     },
     description: {
         en: "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Pancham",
         "de": "Pancham",
         "pt-br": "Pancham",
-        "zh-tw": "潘查姆"
+        "zh-tw": "頑皮熊貓",
     },
     description: {
         en: "Using its leaf, Pangoro can predict the moves of\nits opponents. It strikes with punches that can\nturn a dump truck into scrap with just one hit.",

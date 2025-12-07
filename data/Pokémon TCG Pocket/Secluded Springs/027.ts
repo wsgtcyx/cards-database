@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Dinamo",
         "de": "Tynamo",
         "pt-br": "Tínamo",
-        "zh-tw": "蒂納莫"
+        "zh-tw": "麻麻小魚",
     },
     description: {
         en: "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.",

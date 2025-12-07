@@ -22,7 +22,7 @@ const card: Card = {
         "it": "Froakie",
         "de": "Froakie",
         "pt-br": "Froakie",
-        "zh-tw": "弗羅阿基"
+        "zh-tw": "呱呱泡蛙",
     },
     description: {
         en: "It can throw bubble-covered pebbles with precise\ncontrol, hitting empty cans up to a hundred feet away.",

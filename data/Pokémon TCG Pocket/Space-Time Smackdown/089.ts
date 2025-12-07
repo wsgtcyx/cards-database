@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Cranidos",
         "de": "Cranidos",
         "pt-br": "Cranidos",
-        "zh-tw": "克拉尼多斯"
+        "zh-tw": "頭蓋龍",
     },
     description: {
         en: "In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.",

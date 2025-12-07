@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Kakuna",
         "de": "Kakuna",
         "pt-br": "Kakuna",
-        "zh-tw": "角名"
+        "zh-tw": "鐵殼蛹",
     },
     stage: "Stage2",
     suffix: "EX",

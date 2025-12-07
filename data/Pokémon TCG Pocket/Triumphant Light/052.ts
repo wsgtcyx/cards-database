@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Croagunk",
         "de": "Croagunk",
         "pt-br": "Croagunk",
-        "zh-tw": "克羅阿貢克"
+        "zh-tw": "不良蛙",
     },
     description: {
         en: "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",

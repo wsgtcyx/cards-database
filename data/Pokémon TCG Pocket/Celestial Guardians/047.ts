@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Popplio",
         "de": "Popplio",
         "pt-br": "Popplio",
-        "zh-tw": "波普利奧"
+        "zh-tw": "球球海獅",
     },
     description: {
         en: "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",

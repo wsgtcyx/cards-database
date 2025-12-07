@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Skitty",
         "de": "Skitty",
         "pt-br": "Skitty",
-        "zh-tw": "斯基蒂"
+        "zh-tw": "向尾喵",
     },
     description: {
         en: "It dislikes dirty places. It often searches for a\ncomfortable place in which to groom itself.",

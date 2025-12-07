@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Mareanie",
         "de": "Mareanie",
         "pt-br": "Mareanie",
-        "zh-tw": "馬雷妮"
+        "zh-tw": "好壞星",
     },
     description: {
         en: "Toxapex gets into fierce battles with Bruxish over\nareas where warm ocean currents flow, but the\nodds are always against it.",

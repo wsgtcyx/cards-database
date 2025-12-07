@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Poipole",
         "de": "Poipole",
         "pt-br": "Poipole",
-        "zh-tw": "波伊波萊"
+        "zh-tw": "毒貝比",
     },
     description: {
         en: "It stores hundreds of liters of poisonous liquid\ninside its body. It is one of the organisms known\nas UBs.",

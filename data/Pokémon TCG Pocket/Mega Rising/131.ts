@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sandile",
         "de": "Sandile",
         "pt-br": "Sandália",
-        "zh-tw": "桑迪萊"
+        "zh-tw": "黑眼鱷",
     },
     description: {
         en: "Thanks to the special membrane covering its\neyes, it can see its surroundings clearly, even in\nthe middle of the night.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Croconaw",
         "de": "Croconaw",
         "pt-br": "Croconaw",
-        "zh-tw": "克羅科諾"
+        "zh-tw": "藍鱷",
     },
     description: {
         en: "It usually moves slowly, but it goes at blinding\nspeed when it attacks and bites prey.",

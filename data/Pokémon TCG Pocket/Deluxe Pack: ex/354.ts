@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sprigato",
         "de": "Sprigatito",
         "pt-br": "Sprigatito",
-        "zh-tw": "斯普里加蒂托"
+        "zh-tw": "新葉喵",
     },
     description: {
         en: "Floragato deftly wields the vine hidden beneath\nits long fur, slamming the hard flower bud against\nits opponents.",

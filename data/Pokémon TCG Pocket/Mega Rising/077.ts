@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Masticare",
         "de": "Chewtle",
         "pt-br": "Mastigar",
-        "zh-tw": "咀嚼"
+        "zh-tw": "咬咬龜",
     },
     description: {
         en: "Drednaw lurks along the shoreline. When prey\ncome to drink water, Drednaw stretches its neck\nout and chomps down on them.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Pikipek",
         "de": "Pikipek",
         "pt-br": "Pikipek",
-        "zh-tw": "皮基佩克"
+        "zh-tw": "小篤兒",
     },
     description: {
         en: "It can bend the tip of its beak to produce over a hundred different cries at will.",

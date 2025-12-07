@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Passaggio del naso",
         "de": "Nasenpass",
         "pt-br": "Nosepass",
-        "zh-tw": "鼻通"
+        "zh-tw": "朝北鼻",
     },
     description: {
         en: "Although it can control its units known as Mini-Noses, they sometimes get lost and don't come back.",

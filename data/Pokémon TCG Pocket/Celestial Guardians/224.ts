@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Machop",
         "de": "Machop",
         "pt-br": "Machop",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力",
     },
     description: {
         en: "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",

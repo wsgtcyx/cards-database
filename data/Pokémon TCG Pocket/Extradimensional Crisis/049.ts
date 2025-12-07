@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Aron",
         "de": "Aron",
         "pt-br": "Arão",
-        "zh-tw": "阿倫"
+        "zh-tw": "可可多拉",
     },
     description: {
         en: "It loves iron ore. Groups of them fight for territory\nby bashing one another with their steel bodies.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Stellato",
         "de": "Sternenklar",
         "pt-br": "Estrelado",
-        "zh-tw": "星光"
+        "zh-tw": "姆克兒",
     },
     description: {
         en: "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",

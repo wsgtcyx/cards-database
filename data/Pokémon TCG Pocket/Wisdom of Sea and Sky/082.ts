@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Natura",
         "de": "Natu",
         "pt-br": "Natu",
-        "zh-tw": "納圖"
+        "zh-tw": "天然雀",
     },
     description: {
         en: "They say that it stays still and quiet because it is\nseeing both the past and future at the same time.",

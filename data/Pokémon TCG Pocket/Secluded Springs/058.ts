@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Lickitung",
         "de": "Lecken",
         "pt-br": "Lickitung",
-        "zh-tw": "利基通"
+        "zh-tw": "大舌頭",
     },
     description: {
         en: "Lickilicky's strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky's tongue can stretch so far.",

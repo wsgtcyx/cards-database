@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Morgrem",
         "de": "Morgrem",
         "pt-br": "Morgrem",
-        "zh-tw": "莫爾格萊姆"
+        "zh-tw": "詐唬魔",
     },
     description: {
         en: "It lives deep within the forest. Even after evolving\ninto this splendid form, it hasn't given up on its\npetty misdeeds and pranks.",

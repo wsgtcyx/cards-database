@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Makuhita",
         "de": "Makuhita",
         "pt-br": "Makuhita",
-        "zh-tw": "幕日田"
+        "zh-tw": "幕下力士",
     },
     description: {
         en: "It stomps on the ground to build power.\nIt can send a 10-ton truck flying with a\nstraight-arm punch.",

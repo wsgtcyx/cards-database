@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Zigzagoon",
         "de": "Zickzack",
         "pt-br": "Ziguezague",
-        "zh-tw": "之字形"
+        "zh-tw": "蛇紋熊",
     },
     description: {
         en: "It uses its explosive speed and razor-sharp claws\nto bring down prey. Running along winding\npaths is not its strong suit.",

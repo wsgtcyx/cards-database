@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Herdier",
         "de": "Herdier",
         "pt-br": "Pastor",
-        "zh-tw": "赫爾迪耶"
+        "zh-tw": "哈約克",
     },
     description: {
         en: "These Pokémon seem to enjoy living with humans.\nEven a Stoutland caught in the wild will warm up\nto people in about three days.",

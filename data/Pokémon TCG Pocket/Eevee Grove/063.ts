@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Minccino",
         "de": "Minccino",
         "pt-br": "Mincino",
-        "zh-tw": "明奇諾"
+        "zh-tw": "泡沫栗鼠",
     },
     description: {
         en: "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",

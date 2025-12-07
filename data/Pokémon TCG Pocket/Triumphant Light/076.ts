@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Houndour",
         "de": "Hundour",
         "pt-br": "Cão de caça",
-        "zh-tw": "獵犬"
+        "zh-tw": "戴魯比",
     },
     description: {
         en: "If you are burned by the flames it shoots from its mouth, the pain will never go away.",

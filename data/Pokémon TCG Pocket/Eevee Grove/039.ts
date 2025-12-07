@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Barboach",
         "de": "Barboach",
         "pt-br": "Barboach",
-        "zh-tw": "巴博阿奇"
+        "zh-tw": "泥泥鰍",
     },
     description: {
         en: "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",

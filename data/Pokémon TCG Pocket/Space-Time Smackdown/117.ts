@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Bronzo",
         "de": "Bronzer",
         "pt-br": "Bronzer",
-        "zh-tw": "青銅器"
+        "zh-tw": "銅鏡怪",
     },
     description: {
         en: "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",

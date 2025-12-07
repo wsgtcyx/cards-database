@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Cherubini",
         "de": "Cherubi",
         "pt-br": "Querubim",
-        "zh-tw": "切魯比"
+        "zh-tw": "櫻花寶",
     },
     description: {
         en: "After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.",

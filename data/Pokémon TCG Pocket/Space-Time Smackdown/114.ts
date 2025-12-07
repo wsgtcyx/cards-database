@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Shieldon",
         "de": "Shieldon",
         "pt-br": "Escudo",
-        "zh-tw": "希爾登"
+        "zh-tw": "盾甲龍",
     },
     description: {
         en: "The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Remoraid",
         "de": "Remoraid",
         "pt-br": "Remoraid",
-        "zh-tw": "雷莫拉伊德"
+        "zh-tw": "鐵炮魚",
     },
     description: {
         en: "Its instinct is to bury itself in holes. It often steals\nthe nesting holes of others to sleep in them.",

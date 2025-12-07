@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Swinub",
         "de": "Swinub",
         "pt-br": "Swinub",
-        "zh-tw": "斯威努布"
+        "zh-tw": "小山豬",
     },
     description: {
         en: "If it charges at an enemy, the hairs on its back\nstand up straight. It is very sensitive to sound.",

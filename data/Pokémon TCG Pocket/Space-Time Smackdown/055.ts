@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Voltorb",
         "de": "Voltorb",
         "pt-br": "Voltorb",
-        "zh-tw": "伏爾托布"
+        "zh-tw": "霹靂電球",
     },
     description: {
         en: "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",

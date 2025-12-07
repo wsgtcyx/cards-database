@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Flotta",
         "de": "Floette",
         "pt-br": "Floeta",
-        "zh-tw": "弗洛特"
+        "zh-tw": "花葉蒂",
     },
     description: {
         en: "This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.",

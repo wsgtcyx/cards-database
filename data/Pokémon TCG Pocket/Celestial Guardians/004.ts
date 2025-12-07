@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Surskit",
         "de": "Surskit",
         "pt-br": "Surskit",
-        "zh-tw": "蘇斯基特"
+        "zh-tw": "溜溜糖球",
     },
     description: {
         en: "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.",

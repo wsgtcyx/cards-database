@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Spritz",
         "de": "Spritzee",
         "pt-br": "Spritzee",
-        "zh-tw": "雪碧"
+        "zh-tw": "粉香香",
     },
     description: {
         en: "The scents Aromatisse can produce range from\nsweet smells that bolster allies to foul smells\nthat sap an opponent's will to fight.",

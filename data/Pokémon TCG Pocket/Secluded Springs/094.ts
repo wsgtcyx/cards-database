@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Psyduck",
         "de": "Psyduck",
         "pt-br": "Psicoduck",
-        "zh-tw": "迷幻鴨"
+        "zh-tw": "可達鴨",
     },
     description: {
         en: "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Sciocchezza",
         "de": "Trubbisch",
         "pt-br": "Trubo",
-        "zh-tw": "垃圾"
+        "zh-tw": "破破袋",
     },
     description: {
         en: "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",

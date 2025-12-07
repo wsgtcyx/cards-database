@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Piplup",
         "de": "Piplup",
         "pt-br": "Piplup",
-        "zh-tw": "皮普拉普"
+        "zh-tw": "波加曼",
     },
     description: {
         en: "It lives alone, away from others. Apparently, every one of them believes it is the most important.",

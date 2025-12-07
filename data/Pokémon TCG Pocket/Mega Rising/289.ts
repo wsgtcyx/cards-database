@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Weepinbell",
         "de": "Weepinbell",
         "pt-br": "Campainha chorando",
-        "zh-tw": "威平貝爾"
+        "zh-tw": "口呆花",
     },
     description: {
         en: "Said to live in huge colonies deep in jungles,\nalthough no one has ever returned from there.",

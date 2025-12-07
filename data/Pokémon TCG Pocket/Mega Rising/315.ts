@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Doduo",
         "de": "Doduo",
         "pt-br": "Doduo",
-        "zh-tw": "多多"
+        "zh-tw": "嘟嘟",
     },
     description: {
         en: "An enemy that takes its eyes off any of the\nthree heads—even for a second—will get\npecked severely.",

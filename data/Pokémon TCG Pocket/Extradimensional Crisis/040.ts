@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sandile",
         "de": "Sandile",
         "pt-br": "Sandália",
-        "zh-tw": "桑迪萊"
+        "zh-tw": "黑眼鱷",
     },
     description: {
         en: "Protected by thin membranes, their eyes can see\neven in the dead of night. They live in groups of\na few individuals.",

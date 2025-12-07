@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Shuppet",
         "de": "Shuppet",
         "pt-br": "Shuppet",
-        "zh-tw": "舒佩特"
+        "zh-tw": "怨影娃娃",
     },
     description: {
         en: "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",

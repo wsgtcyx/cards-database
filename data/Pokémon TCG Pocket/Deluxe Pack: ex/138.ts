@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Magnetone",
         "de": "Magneton",
         "pt-br": "Magnetão",
-        "zh-tw": "磁通"
+        "zh-tw": "三合一磁怪",
     },
     description: {
         en: "As it zooms through the sky, this Pokémon seems\nto be receiving signals of unknown origin while\ntransmitting signals of unknown purpose.",

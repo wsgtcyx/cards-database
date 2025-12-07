@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Joltik",
         "de": "Joltik",
         "pt-br": "Joltik",
-        "zh-tw": "約爾蒂克"
+        "zh-tw": "電電蟲",
     },
     description: {
         en: "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",

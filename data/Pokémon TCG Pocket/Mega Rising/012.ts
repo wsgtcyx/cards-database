@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Shroomish",
         "de": "Pilzartig",
         "pt-br": "Cogumelo",
-        "zh-tw": "蘑菇狀"
+        "zh-tw": "蘑蘑菇",
     },
     description: {
         en: "The seeds on its tail are made of toxic spores.\nIt knocks out foes with quick, virtually invisible\npunches.",

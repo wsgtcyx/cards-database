@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Porygon2",
         "de": "Porygon2",
         "pt-br": "Porygon2",
-        "zh-tw": "多邊形2"
+        "zh-tw": "3D龍2",
     },
     description: {
         en: "Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior.",

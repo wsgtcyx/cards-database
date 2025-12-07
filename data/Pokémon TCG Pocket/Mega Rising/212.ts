@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Wooloo",
         "de": "Wooloo",
         "pt-br": "Lãoo",
-        "zh-tw": "烏魯"
+        "zh-tw": "毛辮羊",
     },
     description: {
         en: "Its majestic horns are meant only to impress the\nopposite gender. They never see use in battle.",

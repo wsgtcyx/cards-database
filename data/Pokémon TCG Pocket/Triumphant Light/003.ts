@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Burmy",
         "de": "Burmy",
         "pt-br": "Burmy",
-        "zh-tw": "布爾米"
+        "zh-tw": "結草兒",
     },
     description: {
         en: "It loves the honey of flowers and steals honey collected by Combee.",

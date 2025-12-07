@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ponyta",
         "de": "Ponyta",
         "pt-br": "Ponyta",
-        "zh-tw": "小馬駒"
+        "zh-tw": "小火馬",
     },
     description: {
         en: "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",

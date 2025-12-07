@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Murkrow",
         "de": "Murkrow",
         "pt-br": "Murkrow",
-        "zh-tw": "暗鴉"
+        "zh-tw": "黑暗鴉",
     },
     description: {
         en: "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",

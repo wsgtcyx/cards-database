@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Turtwig",
         "de": "Turtwig",
         "pt-br": "Turtwig",
-        "zh-tw": "特特維格"
+        "zh-tw": "草苗龜",
     },
     description: {
         en: "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",

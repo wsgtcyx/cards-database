@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Lairón",
         "de": "Lairon",
         "pt-br": "Lairón",
-        "zh-tw": "萊龍"
+        "zh-tw": "可多拉",
     },
     description: {
         en: "Aggron has a horn sharp enough to perforate\nthick iron sheets. It brings down its opponents by\nramming into them horn first.",

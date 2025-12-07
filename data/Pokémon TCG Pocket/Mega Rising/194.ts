@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Skitty",
         "de": "Skitty",
         "pt-br": "Skitty",
-        "zh-tw": "斯基蒂"
+        "zh-tw": "向尾喵",
     },
     description: {
         en: "It is highly popular among female Trainers for its\nsublime fur. It does not keep a nest.",

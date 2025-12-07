@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Stupendo",
         "de": "Stoffig",
         "pt-br": "Recheado",
-        "zh-tw": "塞滿"
+        "zh-tw": "童偶熊",
     },
     description: {
         en: "The moves it uses to take down its prey would\nmake a martial artist jealous. It tucks subdued\nprey under its arms to carry them to its nest.",

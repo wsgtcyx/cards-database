@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Zweilous",
         "de": "Zweilous",
         "pt-br": "Zweilous",
-        "zh-tw": "茨韋洛斯"
+        "zh-tw": "雙頭龍",
     },
     description: {
         en: "It's said that Hydreigon grew ferocious because\npeople in times long past loathed it, considering\nit to be evil incarnate and attacking it relentlessly.",

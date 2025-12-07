@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Teddiursa",
         "de": "Teddiursa",
         "pt-br": "Teddiursa",
-        "zh-tw": "特迪烏薩"
+        "zh-tw": "熊寶寶",
     },
     description: {
         en: "It usually wears a hardened expression, but when\nit's licking up honey—which it loves—the joy it\nfeels will cause it to break into a wide grin.",

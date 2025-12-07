@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Fossile di pennacchio",
         "de": "Federfossil",
         "pt-br": "Fóssil de Pluma",
-        "zh-tw": "羽化石"
+        "zh-tw": "羽毛化石",
     },
     description: {
         en: "Archen is said to be the ancestor of bird\nPokémon. It lived in treetops, eating berries\nand bug Pokémon.",

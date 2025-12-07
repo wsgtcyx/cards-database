@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Patrat",
         "de": "Patrat",
         "pt-br": "Patrat",
-        "zh-tw": "帕特拉特"
+        "zh-tw": "探探鼠",
     },
     description: {
         en: "When they see an enemy, their tails stand high,\nand they spit the seeds of berries stored in their\ncheek pouches.",

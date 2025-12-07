@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Molto",
         "de": "Lotad",
         "pt-br": "Lotad",
-        "zh-tw": "洛塔德"
+        "zh-tw": "蓮葉童子",
     },
     description: {
         en: "It lives at the water's edge where it is sunny.\nIt sleeps on a bed of water grass by day and\nbecomes active at night.",

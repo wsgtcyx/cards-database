@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Combusken",
         "de": "Combusken",
         "pt-br": "Combusken",
-        "zh-tw": "康布肯"
+        "zh-tw": "力壯雞",
     },
     description: {
         en: "When facing a tough foe, it looses flames from\nits wrists. Its powerful legs let it jump clear over\nbuildings.",

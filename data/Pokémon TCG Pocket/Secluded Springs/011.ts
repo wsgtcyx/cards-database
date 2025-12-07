@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Fletchling",
         "de": "Fletchling",
         "pt-br": "Fletchling",
-        "zh-tw": "弗萊奇林"
+        "zh-tw": "小箭雀",
     },
     description: {
         en: "Fletchinder scatters embers in tall grass\nwhere bug Pokémon might be hiding and\nthen catches them as they come leaping out.",

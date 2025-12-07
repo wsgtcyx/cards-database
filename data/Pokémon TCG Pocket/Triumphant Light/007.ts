@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Cherubini",
         "de": "Cherubi",
         "pt-br": "Querubim",
-        "zh-tw": "切魯比"
+        "zh-tw": "櫻花寶",
     },
     description: {
         en: "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",

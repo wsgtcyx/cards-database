@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Spearow",
         "de": "Speer",
         "pt-br": "Lança",
-        "zh-tw": "斯皮羅"
+        "zh-tw": "烈雀",
     },
     description: {
         en: "Carrying food through Fearow's territory is\ndangerous. It will snatch the food away from\nyou in a flash!",

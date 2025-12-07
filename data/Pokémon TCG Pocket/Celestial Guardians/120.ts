@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Karrablast",
         "de": "Karrablast",
         "pt-br": "Karrablast",
-        "zh-tw": "卡拉布拉斯特"
+        "zh-tw": "蓋蓋蟲",
     },
     description: {
         en: "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Froakie",
         "de": "Froakie",
         "pt-br": "Froakie",
-        "zh-tw": "弗羅阿基"
+        "zh-tw": "呱呱泡蛙",
     },
     description: {
         en: "Its swiftness is unparalleled.\nIt can scale a tower of more\nthan 2,000 feet in a minute's time.",

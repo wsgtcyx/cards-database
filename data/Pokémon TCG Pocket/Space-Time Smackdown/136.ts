@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Bidoof",
         "de": "Bidoof",
         "pt-br": "Bidoof",
-        "zh-tw": "比杜夫"
+        "zh-tw": "大牙狸",
     },
     description: {
         en: "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Milcery",
         "de": "Milchwaren",
         "pt-br": "Milcery",
-        "zh-tw": "米爾塞里"
+        "zh-tw": "小仙奶",
     },
     description: {
         en: "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",

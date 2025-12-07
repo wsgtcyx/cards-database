@@ -22,7 +22,7 @@ const card: Card = {
         "it": "Vecchia Ambra",
         "de": "Alter Bernstein",
         "pt-br": "Âmbar Velho",
-        "zh-tw": "老琥珀"
+        "zh-tw": "秘密琥珀",
     },
     description: {
         en: "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Corsola Galariano",
         "de": "Galar-Corsola",
         "pt-br": "Córsola de Galar",
-        "zh-tw": "加拉安·科索拉"
+        "zh-tw": "伽勒爾太陽珊瑚",
     },
     description: {
         en: "Its shell is overflowing with its heightened\notherworldly energy. The ectoplasm serves as\nprotection for this Pokémon's core spirit.",

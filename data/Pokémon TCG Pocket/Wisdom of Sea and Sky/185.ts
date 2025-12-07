@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Chansey",
         "de": "Chansey",
         "pt-br": "Chansey",
-        "zh-tw": "錢西"
+        "zh-tw": "吉利蛋",
     },
     description: {
         en: "Anyone who takes even one taste of Blissey's\negg becomes unfailingly caring and pleasant\nto everyone.",

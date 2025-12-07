@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Swablu",
         "de": "Schwablu",
         "pt-br": "Swablu",
-        "zh-tw": "斯瓦布盧"
+        "zh-tw": "青綿鳥",
     },
     description: {
         en: "On sunny days, it flies freely through the sky and\nblends into the clouds. It sings in a beautiful\nsoprano.",

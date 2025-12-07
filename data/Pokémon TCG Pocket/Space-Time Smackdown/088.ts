@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Fossile del cranio",
         "de": "Schädelfossil",
         "pt-br": "Fóssil de Crânio",
-        "zh-tw": "頭骨化石"
+        "zh-tw": "頭蓋化石",
     },
     description: {
         en: "A primeval Pokémon, it possesses a hard and sturdy skull, lacking any intelligence within.",

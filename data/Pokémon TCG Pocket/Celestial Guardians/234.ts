@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Infestatore",
         "de": "Haunter",
         "pt-br": "Assombrado",
-        "zh-tw": "鬼魂"
+        "zh-tw": "鬼斯通",
     },
     stage: "Stage2",
     suffix: "EX",

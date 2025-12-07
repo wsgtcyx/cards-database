@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Tirtouga",
         "de": "Tirtouga",
         "pt-br": "Tirtouga",
-        "zh-tw": "特爾圖​​加"
+        "zh-tw": "原蓋海龜",
     },
     description: {
         en: "This Pokémon emerges from the water in search\nof prey despite the fact that it moves more\nslowly on land.",

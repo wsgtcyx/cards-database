@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Piloswine",
         "de": "Piloswine",
         "pt-br": "Piloswine",
-        "zh-tw": "毛豬"
+        "zh-tw": "長毛豬",
     },
     description: {
         en: "This Pokémon can be spotted in wall paintings\nfrom as far back as 10,000 years ago. For a\nwhile, it was thought to have gone extinct.",

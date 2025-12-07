@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Staravia",
         "de": "Staravia",
         "pt-br": "Starávia",
-        "zh-tw": "斯塔維亞"
+        "zh-tw": "姆克鳥",
     },
     description: {
         en: "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",

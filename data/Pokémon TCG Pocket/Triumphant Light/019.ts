@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Sbuffa",
         "de": "Schnauben",
         "pt-br": "Bufante",
-        "zh-tw": "斯諾倫特"
+        "zh-tw": "雪童子",
     },
     description: {
         en: "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",

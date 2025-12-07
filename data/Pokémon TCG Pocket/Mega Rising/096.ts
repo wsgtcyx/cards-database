@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Yamper",
         "de": "Yamper",
         "pt-br": "Yamper",
-        "zh-tw": "雅珀"
+        "zh-tw": "來電汪",
     },
     description: {
         en: "It sends electricity through its legs to boost their\nstrength. Running at top speed, it easily breaks\n50 mph.",

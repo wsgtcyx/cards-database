@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Wartortle",
         "de": "Warschildkröte",
         "pt-br": "Wartortle",
-        "zh-tw": "疣龜"
+        "zh-tw": "卡咪龜",
     },
     description: {
         en: "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",

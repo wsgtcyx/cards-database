@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Nidoran♀",
         "de": "Nidoran♀",
         "pt-br": "Nidoran♀",
-        "zh-tw": "尼多蘭♀"
+        "zh-tw": "尼多蘭",
     },
     description: {
         en: "The horn on its head has atrophied. It's thought\nthat this happens so Nidorina's children won't get\npoked while their mother is feeding them.",

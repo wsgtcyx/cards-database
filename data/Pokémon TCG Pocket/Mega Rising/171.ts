@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Honedge",
         "de": "Honedge",
         "pt-br": "Honedge",
-        "zh-tw": "霍內奇"
+        "zh-tw": "獨劍鞘",
     },
     description: {
         en: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey.",

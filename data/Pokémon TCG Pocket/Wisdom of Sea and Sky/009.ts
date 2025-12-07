@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Chikorita",
         "de": "Chikorita",
         "pt-br": "Chikorita",
-        "zh-tw": "菊苣"
+        "zh-tw": "菊草葉",
     },
     description: {
         en: "A spicy aroma emanates from around its neck.\nThe aroma acts as a stimulant to restore health.",

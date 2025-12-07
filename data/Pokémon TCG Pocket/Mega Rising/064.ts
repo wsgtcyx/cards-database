@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Timpano",
         "de": "Trommelfell",
         "pt-br": "Timpole",
-        "zh-tw": "鼓柱"
+        "zh-tw": "圓蝌蚪",
     },
     description: {
         en: "On occasion, their cries are sublimely pleasing to\nthe ear. Palpitoad with larger lumps on their\nbodies can sing with a wider range of sounds.",

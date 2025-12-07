@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Litten",
         "de": "Litten",
         "pt-br": "Litten",
-        "zh-tw": "利滕"
+        "zh-tw": "火斑喵",
     },
     description: {
         en: "Torracat will let its Trainer coddle it once they've\ngrown close, but it's a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Mienfoo",
         "de": "Mienfoo",
         "pt-br": "Mienfoo",
-        "zh-tw": "米恩富"
+        "zh-tw": "功夫鼬",
     },
     description: {
         en: "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",

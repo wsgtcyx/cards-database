@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Mudbray",
         "de": "Mudbray",
         "pt-br": "Mudbray",
-        "zh-tw": "穆德布雷"
+        "zh-tw": "泥驢仔",
     },
     description: {
         en: "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",

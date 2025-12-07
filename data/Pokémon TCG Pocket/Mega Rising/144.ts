@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sandygast",
         "de": "Sandygast",
         "pt-br": "Sandygast",
-        "zh-tw": "桑迪加斯特"
+        "zh-tw": "沙丘娃",
     },
     description: {
         en: "From the hollows in its arms, it fires the bones\nof its victims, which are all dried up after being\ndrained of their vitality.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Klang",
         "de": "Klang",
         "pt-br": "Klang",
-        "zh-tw": "巴生"
+        "zh-tw": "齒輪組",
     },
     description: {
         en: "From its spikes, it launches powerful blasts of\nelectricity. Its red core contains an enormous\namount of energy.",

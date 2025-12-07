@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Grookey",
         "de": "Grookey",
         "pt-br": "Grookey",
-        "zh-tw": "格魯基"
+        "zh-tw": "敲音猴",
     },
     description: {
         en: "When it's drumming out rapid beats in battle, it\ngets so caught up in the rhythm that it won't even\nnotice that it's already knocked out its opponent.",

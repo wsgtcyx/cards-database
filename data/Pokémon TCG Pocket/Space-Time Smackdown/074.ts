@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Drifloon",
         "de": "Driftloon",
         "pt-br": "Drifloon",
-        "zh-tw": "飛龍"
+        "zh-tw": "飄飄球",
     },
     description: {
         en: "Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk.",

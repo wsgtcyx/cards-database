@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Servino",
         "de": "Servine",
         "pt-br": "Servina",
-        "zh-tw": "塞爾文"
+        "zh-tw": "青藤蛇",
     },
     description: {
         en: "It only gives its all against strong opponents who\nare not fazed by the glare from Serperior's\nnoble eyes.",

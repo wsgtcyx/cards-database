@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Jangmo-o",
         "de": "Jangmo-o",
         "pt-br": "Jangmo-o",
-        "zh-tw": "長毛五"
+        "zh-tw": "心鱗寶",
     },
     description: {
         en: "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",

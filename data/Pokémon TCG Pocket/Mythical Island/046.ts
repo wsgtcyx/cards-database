@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Vecchia Ambra",
         "de": "Alter Bernstein",
         "pt-br": "Âmbar Velho",
-        "zh-tw": "老琥珀"
+        "zh-tw": "秘密琥珀",
     },
     suffix: "EX",
     abilities: [{

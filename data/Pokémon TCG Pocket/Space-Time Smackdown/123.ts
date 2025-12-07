@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Gabite",
         "de": "Gabite",
         "pt-br": "Gabite",
-        "zh-tw": "加比特"
+        "zh-tw": "尖牙陸鯊",
     },
     description: {
         en: "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Wurmple",
         "de": "Wurmple",
         "pt-br": "Wurmple",
-        "zh-tw": "烏姆普爾"
+        "zh-tw": "刺尾蟲",
     },
     description: {
         en: "It drinks dew that collects on its silk and waits for\nevolution. Its hard cocoon repels attacks.",

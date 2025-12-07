@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Carino",
         "de": "Niedlich",
         "pt-br": "Fofinho",
-        "zh-tw": "可愛蠅"
+        "zh-tw": "萌虻",
     },
     description: {
         en: "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Drilbur",
         "de": "Drilbur",
         "pt-br": "Drilbur",
-        "zh-tw": "德里爾布爾"
+        "zh-tw": "螺釘地鼠",
     },
     description: {
         en: "It's not uncommon for tunnels that appear to\nhave formed naturally to actually be a result\nof Excadrill's rampant digging.",

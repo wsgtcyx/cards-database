@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Puzzolente",
         "de": "Stunkig",
         "pt-br": "Fedorento",
-        "zh-tw": "臭臭"
+        "zh-tw": "臭鼬噗",
     },
     description: {
         en: "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Graveler di Alola",
         "de": "Alolan Graveler",
         "pt-br": "Graveler de Alola",
-        "zh-tw": "阿羅拉碎石者"
+        "zh-tw": "阿羅拉隆隆石",
     },
     description: {
         en: "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",

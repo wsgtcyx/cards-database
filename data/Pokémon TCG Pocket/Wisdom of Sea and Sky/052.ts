@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Wooper",
         "de": "Wooper",
         "pt-br": "Wooper",
-        "zh-tw": "伍珀"
+        "zh-tw": "烏波",
     },
     description: {
         en: "It has an easygoing nature. It doesn't care if it\nbumps its head on boats and boulders\nwhile swimming.",

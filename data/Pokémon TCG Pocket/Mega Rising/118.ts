@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Swirlix",
         "de": "Swirlix",
         "pt-br": "Redemoinho",
-        "zh-tw": "漩渦"
+        "zh-tw": "綿綿泡芙",
     },
     description: {
         en: "Slurpuff's fur contains a lot of air, making it soft\nto the touch and lighter than it looks.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Bunary",
         "de": "Buneary",
         "pt-br": "Buneário",
-        "zh-tw": "佈內裡"
+        "zh-tw": "捲捲耳",
     },
     description: {
         en: "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",

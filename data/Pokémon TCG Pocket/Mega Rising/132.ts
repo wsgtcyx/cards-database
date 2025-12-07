@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Krokorok",
         "de": "Krokorok",
         "pt-br": "Crokorok",
-        "zh-tw": "克羅科羅克"
+        "zh-tw": "混混鱷",
     },
     description: {
         en: "Its unique faculty of sight can detect small prey\nmore than 30 miles away, even in the midst of\na sandstorm.",

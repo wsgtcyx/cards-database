@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Feebas",
         "de": "Feebas",
         "pt-br": "Feebas",
-        "zh-tw": "費巴斯"
+        "zh-tw": "笨笨魚",
     },
     description: {
         en: "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.",

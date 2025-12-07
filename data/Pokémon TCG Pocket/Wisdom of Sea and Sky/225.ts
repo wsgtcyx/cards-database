@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Nidorina",
         "de": "Nidorina",
         "pt-br": "Nidorina",
-        "zh-tw": "尼多麗娜"
+        "zh-tw": "尼多娜",
     },
     description: {
         en: "Nidoqueen is better at defense than offense.\nWith scales like armor, this Pokémon will shield\nits children from any kind of attack.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Glameow",
         "de": "Glameow",
         "pt-br": "Glameow",
-        "zh-tw": "格拉梅烏"
+        "zh-tw": "魅力喵",
     },
     description: {
         en: "It would claim another Pokémon's nest as its own if it finds a nest sufficiently comfortable.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Frogadier",
         "de": "Frogadier",
         "pt-br": "Sapo",
-        "zh-tw": "弗洛加迪爾"
+        "zh-tw": "呱頭蛙",
     },
     description: {
         en: "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",

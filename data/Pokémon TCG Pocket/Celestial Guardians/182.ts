@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Torracat",
         "de": "Torracat",
         "pt-br": "Torracat",
-        "zh-tw": "托拉卡特"
+        "zh-tw": "炎熱喵",
     },
     stage: "Stage2",
     suffix: "EX",

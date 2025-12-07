@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Eliottile",
         "de": "Helioptil",
         "pt-br": "Helióptilo",
-        "zh-tw": "太陽花"
+        "zh-tw": "傘電蜥",
     },
     description: {
         en: "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",

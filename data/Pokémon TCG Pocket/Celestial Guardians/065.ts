@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Charjabug",
         "de": "Charjabug",
         "pt-br": "Charjabug",
-        "zh-tw": "查賈布格"
+        "zh-tw": "蟲電寶",
     },
     description: {
         en: "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",

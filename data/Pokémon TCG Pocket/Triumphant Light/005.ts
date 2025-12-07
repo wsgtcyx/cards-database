@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Combe",
         "de": "Combee",
         "pt-br": "Combee",
-        "zh-tw": "康比"
+        "zh-tw": "三蜜蜂",
     },
     description: {
         en: "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",

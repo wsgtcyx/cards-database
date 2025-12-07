@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Blitz",
         "de": "Blitzle",
         "pt-br": "Blitz",
-        "zh-tw": "閃電戰"
+        "zh-tw": "斑斑馬",
     },
     description: {
         en: "They have lightning-like movements.\nWhen Zebstrika run at full speed, the sound of\nthunder reverberates.",

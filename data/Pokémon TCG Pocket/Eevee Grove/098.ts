@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ralts",
         "de": "Ralts",
         "pt-br": "Ralts",
-        "zh-tw": "拉爾茨"
+        "zh-tw": "拉魯拉絲",
     },
     description: {
         en: "It has a psychic power that enables it to distort\nthe space around it and see into the future.",

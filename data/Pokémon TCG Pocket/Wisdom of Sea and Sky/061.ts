@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Corphish",
         "de": "Corphish",
         "pt-br": "Corpus",
-        "zh-tw": "科菲什"
+        "zh-tw": "龍蝦小兵",
     },
     description: {
         en: "A rough customer that wildly flails its giant claws.\nIt is said to be extremely hard to raise.",

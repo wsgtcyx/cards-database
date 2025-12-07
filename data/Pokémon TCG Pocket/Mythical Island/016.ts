@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Salandite",
         "de": "Salandit",
         "pt-br": "Salandite",
-        "zh-tw": "薩蘭迪特"
+        "zh-tw": "夜盜火蜥",
     },
     description: {
         en: "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",

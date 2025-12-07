@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ducklett",
         "de": "Ducklett",
         "pt-br": "Patinho",
-        "zh-tw": "達克利特"
+        "zh-tw": "鴨寶寶",
     },
     description: {
         en: "Despite their elegant appearance, they can flap\ntheir wings strongly and fly for thousands of miles.",

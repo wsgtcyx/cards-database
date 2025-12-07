@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Mareep",
         "de": "Mareep",
         "pt-br": "Mareep",
-        "zh-tw": "馬里普"
+        "zh-tw": "咩利羊",
     },
     description: {
         en: "As a result of storing too much electricity,\nit developed patches where even downy\nwool won't grow.",

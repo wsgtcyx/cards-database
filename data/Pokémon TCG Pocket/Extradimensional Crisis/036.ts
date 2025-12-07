@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sandygast",
         "de": "Sandygast",
         "pt-br": "Sandygast",
-        "zh-tw": "桑迪加斯特"
+        "zh-tw": "沙丘娃",
     },
     description: {
         en: "The terrifying Palossand drags smaller Pokémon\ninto its sandy body. Once its victims are trapped,\nit drains them of their vitality whenever it pleases.",

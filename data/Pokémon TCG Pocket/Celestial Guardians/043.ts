@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Shellder",
         "de": "Shellder",
         "pt-br": "Concha",
-        "zh-tw": "剝殼者"
+        "zh-tw": "大舌貝",
     },
     description: {
         en: "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",

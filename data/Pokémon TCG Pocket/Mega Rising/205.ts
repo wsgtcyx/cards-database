@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Volant",
         "de": "Rüschen",
         "pt-br": "Babado",
-        "zh-tw": "魯夫萊特"
+        "zh-tw": "毛頭小鷹",
     },
     description: {
         en: "For the sake of its friends, this brave warrior of\nthe sky will not stop battling, even if injured.",

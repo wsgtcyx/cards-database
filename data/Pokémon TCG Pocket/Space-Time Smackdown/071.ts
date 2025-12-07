@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Teschio crepuscolare",
         "de": "Dämmerung",
         "pt-br": "Crepúsculo",
-        "zh-tw": "暮色骷髏"
+        "zh-tw": "夜骷顱",
     },
     description: {
         en: "It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.",

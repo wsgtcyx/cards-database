@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ekans",
         "de": "Ekans",
         "pt-br": "Ekans",
-        "zh-tw": "埃肯斯"
+        "zh-tw": "阿柏蛇",
     },
     description: {
         en: "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Bergmite",
         "de": "Bergmite",
         "pt-br": "Bergmite",
-        "zh-tw": "伯格米特"
+        "zh-tw": "冰寶",
     },
     description: {
         en: "This Pokémon uses its massive icy body to flatten\nanything that gets in its way. When it's floating\nout on the ocean, it looks exactly like drift ice.",

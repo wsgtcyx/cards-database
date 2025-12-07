@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Archen",
         "de": "Archen",
         "pt-br": "Archen",
-        "zh-tw": "阿爾欽"
+        "zh-tw": "始祖小鳥",
     },
     description: {
         en: "Though capable of flight, Archeops was\napparently better at hunting on the ground.",

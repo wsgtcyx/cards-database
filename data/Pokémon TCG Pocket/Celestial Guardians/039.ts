@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Sandshrew di Alola",
         "de": "Alolan Sandshrew",
         "pt-br": "Sandshrew de Alola",
-        "zh-tw": "阿羅拉山地鼠"
+        "zh-tw": "阿羅拉穿山鼠",
     },
     description: {
         en: "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",

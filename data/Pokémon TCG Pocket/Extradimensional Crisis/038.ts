@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Meowth di Alola",
         "de": "Alola-Miau",
         "pt-br": "Meowth de Alola",
-        "zh-tw": "阿羅拉喵"
+        "zh-tw": "阿羅拉喵喵",
     },
     description: {
         en: "The round face of Alolan Persian is considered\nto be a symbol of prosperity in the Alola region,\nso these Pokémon are very well cared for.",

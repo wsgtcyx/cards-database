@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Dewpider",
         "de": "Taupider",
         "pt-br": "Dewpider",
-        "zh-tw": "露皮德"
+        "zh-tw": "滴蛛",
     },
     description: {
         en: "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",

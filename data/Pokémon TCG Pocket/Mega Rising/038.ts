@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Pansear",
         "de": "Pansear",
         "pt-br": "Pansear",
-        "zh-tw": "潘西爾"
+        "zh-tw": "爆香猴",
     },
     description: {
         en: "When it gets excited, embers rise from its head\nand tail and it gets hot. For some reason, it\nloves sweets.",

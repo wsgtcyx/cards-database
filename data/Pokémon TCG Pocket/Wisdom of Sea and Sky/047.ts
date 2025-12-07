@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Totodile",
         "de": "Totodile",
         "pt-br": "Totodile",
-        "zh-tw": "托托達爾"
+        "zh-tw": "小鋸鱷",
     },
     description: {
         en: "If it loses a fang, a new one grows back in its\nplace. There are always 48 fangs lining its mouth.",

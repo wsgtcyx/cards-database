@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Polivortice",
         "de": "Poliwirbel",
         "pt-br": "Poliwhirl",
-        "zh-tw": "波利惠爾"
+        "zh-tw": "蚊香君",
     },
     description: {
         en: "Its body is solid muscle. When swimming through\ncold seas, Poliwrath uses its impressive arms to\nsmash through drift ice and plow forward.",

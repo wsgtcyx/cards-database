@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Flabébé",
         "de": "Flabébé",
         "pt-br": "Flabébé",
-        "zh-tw": "弗拉貝貝"
+        "zh-tw": "花蓓蓓",
     },
     description: {
         en: "This Pokémon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.",

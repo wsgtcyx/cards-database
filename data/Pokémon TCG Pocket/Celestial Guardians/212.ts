@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Ivysaur",
         "de": "Efeusaurier",
         "pt-br": "Ivysauro",
-        "zh-tw": "常春藤屬"
+        "zh-tw": "妙蛙草",
     },
     description: {
         en: "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Vortice",
         "de": "Wirbelfüßler",
         "pt-br": "Whirlípede",
-        "zh-tw": "旋足蟲"
+        "zh-tw": "車輪毬",
     },
     description: {
         en: "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.",

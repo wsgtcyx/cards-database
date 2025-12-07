@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Lillipup",
         "de": "Lillipup",
         "pt-br": "Lillipup",
-        "zh-tw": "利利普普"
+        "zh-tw": "小約克",
     },
     description: {
         en: "Herdier is a very smart and friendly Pokémon.\nSo much so that there's a theory that Herdier was\nthe first Pokémon to partner with people.",

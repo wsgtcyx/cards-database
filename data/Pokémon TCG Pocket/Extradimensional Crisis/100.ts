@@ -22,7 +22,7 @@ const card: Card = {
         "it": "Growlithe",
         "de": "Growlithe",
         "pt-br": "Growlithe",
-        "zh-tw": "成長"
+        "zh-tw": "卡蒂狗",
     },
     stage: "Stage1",
     suffix: "EX",

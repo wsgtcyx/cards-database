@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Ippopotami",
         "de": "Nilpferde",
         "pt-br": "Hipopótamos",
-        "zh-tw": "河馬"
+        "zh-tw": "怪河馬",
     },
     description: {
         en: "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",

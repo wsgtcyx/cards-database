@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Petilil",
         "de": "Petilil",
         "pt-br": "Petilil",
-        "zh-tw": "佩蒂利爾"
+        "zh-tw": "百合根娃娃",
     },
     description: {
         en: "No matter how much time and money is spent\nraising it, its flowers are the most beautiful when\nthey bloom in the wild.",

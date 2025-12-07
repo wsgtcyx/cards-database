@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Applin",
         "de": "Applin",
         "pt-br": "Aplicativo",
-        "zh-tw": "阿普林"
+        "zh-tw": "啃果蟲",
     },
     description: {
         en: "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar.",

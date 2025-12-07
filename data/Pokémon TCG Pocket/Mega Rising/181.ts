@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Pidgey",
         "de": "Pidgey",
         "pt-br": "Pidgey",
-        "zh-tw": "皮吉"
+        "zh-tw": "波波",
     },
     description: {
         en: "Very protective of its sprawling territorial area,\nthis Pokémon will fiercely peck at any intruder.",

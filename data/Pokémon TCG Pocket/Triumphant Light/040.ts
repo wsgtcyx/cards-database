@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Larvitar",
         "de": "Larvitar",
         "pt-br": "larvitar",
-        "zh-tw": "幼蟲"
+        "zh-tw": "由基拉",
     },
     description: {
         en: "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain.",

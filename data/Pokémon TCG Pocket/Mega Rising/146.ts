@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Rolycoli",
         "de": "Rolycoly",
         "pt-br": "Rolycoly",
-        "zh-tw": "羅利科利"
+        "zh-tw": "小炭仔",
     },
     description: {
         en: "Due to the coal tar created inside it, the heap of\ncoal on Carkol's back never falls apart, even\nwhen the Pokémon rolls around at high speeds.",

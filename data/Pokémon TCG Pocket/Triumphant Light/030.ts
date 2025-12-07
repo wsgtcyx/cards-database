@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Clefairy",
         "de": "Clefairy",
         "pt-br": "Clefairy",
-        "zh-tw": "克萊菲爾"
+        "zh-tw": "皮皮",
     },
     description: {
         en: "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Scyther",
         "de": "Sense",
         "pt-br": "Foice",
-        "zh-tw": "鐮刀"
+        "zh-tw": "飛天螳螂",
     },
     description: {
         en: "This Pokémon's pincers, which contain steel, can\ncrush any hard object they get ahold of into bits.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Nidorino",
         "de": "Nidorino",
         "pt-br": "Nidorino",
-        "zh-tw": "尼多里諾"
+        "zh-tw": "尼多力諾",
     },
     description: {
         en: "When it goes on a rampage, it's impossible to\ncontrol. But in the presence of a Nidoqueen it's\nlived with for a long time, Nidoking calms down.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Impid",
         "de": "Impidimp",
         "pt-br": "Impidimp",
-        "zh-tw": "因匹季普"
+        "zh-tw": "搗蛋小妖",
     },
     description: {
         en: "This Pokémon absorbs negative emotions and\nturns them into energy. It's popular with people\nwho tend to think gloomy thoughts.",

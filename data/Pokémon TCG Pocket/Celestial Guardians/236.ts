@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Cubone",
         "de": "Cubone",
         "pt-br": "Cubo",
-        "zh-tw": "庫博內"
+        "zh-tw": "卡拉卡拉",
     },
     stage: "Stage1",
     suffix: "EX",

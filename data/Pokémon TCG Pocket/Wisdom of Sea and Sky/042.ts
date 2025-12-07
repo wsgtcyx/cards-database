@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Horsea",
         "de": "Horsea",
         "pt-br": "cavalo",
-        "zh-tw": "霍塞亞"
+        "zh-tw": "墨海馬",
     },
     description: {
         en: "It's the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison.",

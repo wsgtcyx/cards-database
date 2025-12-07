@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Rhyhorn",
         "de": "Rhyhorn",
         "pt-br": "Richifre",
-        "zh-tw": "犀牛角"
+        "zh-tw": "獨角犀牛",
     },
     description: {
         en: "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",

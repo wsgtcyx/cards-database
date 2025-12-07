@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Purrloin",
         "de": "Schnurren",
         "pt-br": "Purrloin",
-        "zh-tw": "珀朗"
+        "zh-tw": "扒手貓",
     },
     description: {
         en: "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",

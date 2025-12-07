@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Rockruff",
         "de": "Rockruff",
         "pt-br": "Rockruff",
-        "zh-tw": "洛克拉夫"
+        "zh-tw": "岩狗狗",
     },
     description: {
         en: "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.",

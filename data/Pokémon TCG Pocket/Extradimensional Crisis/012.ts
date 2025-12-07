@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Carvanha",
         "de": "Carvanha",
         "pt-br": "Carvanha",
-        "zh-tw": "卡瓦尼亞"
+        "zh-tw": "利牙魚",
     },
     description: {
         en: "As soon as it catches the scent of prey, Sharpedo\nwill jet seawater from its backside, hurtling\ntoward the target to attack at 75 mph.",

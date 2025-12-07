@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Woobat",
         "de": "Woobat",
         "pt-br": "Uau",
-        "zh-tw": "烏巴特"
+        "zh-tw": "滾滾蝙蝠",
     },
     description: {
         en: "Emitting powerful sound waves tires it out.\nAfterward, it won't be able to fly for a\nlittle while.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Swablu",
         "de": "Schwablu",
         "pt-br": "Swablu",
-        "zh-tw": "斯瓦布盧"
+        "zh-tw": "青綿鳥",
     },
     description: {
         en: "If it bonds with a person, it will gently envelop\nthe friend with its soft wings, then hum.",

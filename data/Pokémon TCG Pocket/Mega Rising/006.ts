@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Wurmple",
         "de": "Wurmple",
         "pt-br": "Wurmple",
-        "zh-tw": "烏姆普爾"
+        "zh-tw": "刺尾蟲",
     },
     description: {
         en: "It never forgets any attack it endured while in the\ncocoon. After evolution, it seeks payback.",

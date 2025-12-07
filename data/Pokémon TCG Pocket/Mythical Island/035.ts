@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Elgyem",
         "de": "Elgyem",
         "pt-br": "Elgyem",
-        "zh-tw": "埃爾吉姆"
+        "zh-tw": "小灰怪",
     },
     description: {
         en: "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",

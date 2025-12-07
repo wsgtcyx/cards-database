@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Makuhita",
         "de": "Makuhita",
         "pt-br": "Makuhita",
-        "zh-tw": "幕日田"
+        "zh-tw": "幕下力士",
     },
     description: {
         en: "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",

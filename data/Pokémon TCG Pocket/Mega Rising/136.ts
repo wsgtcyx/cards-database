@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Golett",
         "de": "Golett",
         "pt-br": "Golett",
-        "zh-tw": "戈萊特"
+        "zh-tw": "泥偶小人",
     },
     description: {
         en: "There's a theory that inside Golurk is a perpetual\nmotion machine that produces limitless energy,\nbut this belief hasn't been proven.",

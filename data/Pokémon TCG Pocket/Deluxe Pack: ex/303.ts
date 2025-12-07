@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Tipo: nullo",
         "de": "Typ: Null",
         "pt-br": "Tipo: Nulo",
-        "zh-tw": "類型：空"
+        "zh-tw": "屬性：空",
     },
     description: {
         en: "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased.",

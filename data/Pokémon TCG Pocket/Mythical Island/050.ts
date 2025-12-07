@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Koffing",
         "de": "Koffing",
         "pt-br": "Koffing",
-        "zh-tw": "科芬"
+        "zh-tw": "瓦斯彈",
     },
     description: {
         en: "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",

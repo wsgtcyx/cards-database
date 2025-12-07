@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Rowlet",
         "de": "Rowlet",
         "pt-br": "Rowlet",
-        "zh-tw": "羅萊特"
+        "zh-tw": "木木梟",
     },
     description: {
         en: "This narcissistic Pokémon is a clean freak. If you\ndon't groom it diligently, it may stop listening to you.",

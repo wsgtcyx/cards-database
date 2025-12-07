@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Wiglett",
         "de": "Wiglett",
         "pt-br": "Wiglett",
-        "zh-tw": "威格利特"
+        "zh-tw": "海地鼠",
     },
     stage: "Stage1",
     suffix: "EX",

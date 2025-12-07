@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Ivysaur",
         "de": "Efeusaurier",
         "pt-br": "Ivysauro",
-        "zh-tw": "常春藤屬"
+        "zh-tw": "妙蛙草",
     },
     stage: "Stage2",
     suffix: "EX",

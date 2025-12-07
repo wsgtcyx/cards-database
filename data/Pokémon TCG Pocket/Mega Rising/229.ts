@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Thwackey",
         "de": "Thwackey",
         "pt-br": "Thwackey",
-        "zh-tw": "斯瓦基"
+        "zh-tw": "啪咚猴",
     },
     description: {
         en: "The one with the best drumming techniques\nbecomes the boss of the troop. It has a gentle\ndisposition and values harmony among its group.",

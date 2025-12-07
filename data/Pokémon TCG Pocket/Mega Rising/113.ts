@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Gothita",
         "de": "Gothita",
         "pt-br": "Gothita",
-        "zh-tw": "哥提塔"
+        "zh-tw": "哥德寶寶",
     },
     description: {
         en: "Using its psychic power, it arranges pebbles to\nform the shapes of constellations. Some people\nbelieve this Pokémon came from outer space.",

@@ -14,7 +14,8 @@ TARGET_DIRS = [
     "Deluxe Pack: ex",
     "Mega Rising",
     "Wisdom of Sea and Sky",
-    "Mythical Island"
+    "Mythical Island",
+    "Shining Revelry"
 ]
 
 BASE_PATH = "data/Pokémon TCG Pocket"
@@ -224,80 +225,125 @@ def get_correct_zh(en_name):
 def process_file(path):
     with open(path, 'r', encoding='utf-8') as f:
         content = f.read()
-        lines = content.splitlines(keepends=True) # Keep newlines for rewrite
+        lines = content.splitlines(keepends=True)
         
-    # Extract existing names block to find EN name
-    # We use regex to find the FIRST name object
-    match = re.search(r'name:\s*({[^}]+})', content, re.DOTALL)
-    if not match:
-        # print(f"Skipping {path}: No name block found")
-        return False
-        
-    name_block_str = match.group(1)
-    
-    # Extract EN name
-    en_name = None
-    zh_current = None
-    
-    # Simple line parsing of the block
-    for line in name_block_str.split('\n'):
-        line = line.strip()
-        if "en:" in line or '"en":' in line or "'en':" in line:
-             parts = line.split(':', 1)
-             if len(parts) > 1:
-                 en_name = parts[1].strip().strip('"\'').strip(',').strip('"\'')
-        if "zh-tw" in line:
-             parts = line.split(':', 1)
-             if len(parts) > 1:
-                 zh_current = parts[1].strip().strip('"\'').strip(',').strip('"\'')
+    # --- 1. Main Name Logic ---
+    match_name = re.search(r'name:\s*({[^}]+})', content, re.DOTALL)
+    target_zh_name = None
+    if match_name:
+        name_block_str = match_name.group(1)
+        en_name = None
+        for line in name_block_str.split('\n'):
+            line = line.strip()
+            if "en:" in line or '"en":' in line or "'en':" in line:
+                 parts = line.split(':', 1)
+                 if len(parts) > 1:
+                     en_name = parts[1].strip().strip('"\'').strip(',').strip('"\'')
+                     break
+        if en_name:
+            target_zh_name = get_correct_zh(en_name)
 
-    if not en_name:
-        # print(f"Skipping {path}: No English name found")
-        return False
+    # --- 2. EvolveFrom Logic ---
+    match_evolve = re.search(r'evolveFrom:\s*({[^}]+})', content, re.DOTALL)
+    target_zh_evolve = None
+    if match_evolve:
+        evolve_block_str = match_evolve.group(1)
+        en_evolve = None
         
-    correct_zh = get_correct_zh(en_name)
-    
-    if not correct_zh:
-        print(f"Warning: No translation found for '{en_name}' in {path}")
-        return False
+        # Simple parse for EN in evolve block
+        for line in evolve_block_str.split('\n'):
+            line = line.strip()
+            if "en:" in line or '"en":' in line or "'en':" in line:
+                 parts = line.split(':', 1)
+                 if len(parts) > 1:
+                     en_evolve = parts[1].strip().strip('"\'').strip(',').strip('"\'')
+                     break
         
-    if correct_zh == zh_current:
+        if en_evolve:
+            target_zh_evolve = get_correct_zh(en_evolve)
+            # if target_zh_evolve:
+            #      print(f"Found evolveFrom: {en_evolve} -> {target_zh_evolve}")
+            if not target_zh_evolve:
+                print(f"Warning: No translation found for evolveFrom '{en_evolve}' in {path}")
+
+    if not target_zh_name and not target_zh_evolve:
         return False
-        
-    # Apply Fix
+
+    # --- 3. Apply Fixes ---
     new_lines = []
+    
+    # State flags
     in_name_block = False
     name_block_processed = False
+    
+    in_evolve_block = False
+    evolve_block_processed = False
+    
+    changes_made = False
     
     for line in lines:
         stripped = line.strip()
         
-        if "name: {" in line and not name_block_processed:
+        # Detect Start of Blocks
+        # Ensure we don't trigger inside other blocks if formatting is weird, 
+        # but usually "name: {" and "evolveFrom: {" are distinctive enough at root level of object
+        
+        if "name: {" in line and not name_block_processed and not in_evolve_block:
             in_name_block = True
+        elif "evolveFrom: {" in line and not evolve_block_processed and not in_name_block:
+            in_evolve_block = True
             
+        # Process Name Block
         if in_name_block:
             if "}," in line or (stripped == "}" and "," not in line) or (stripped == "},"):
-                # Ending block
-                pass
-                
-            # Replace zh-tw line
-            if '"zh-tw":' in stripped or "'zh-tw':" in stripped or "zh-tw:" in stripped:
-                indent = line[:line.find(stripped)]
-                new_lines.append(f'{indent}"zh-tw": "{correct_zh}",\n')
-                # print(f"Fixed {path}: {zh_current} -> {correct_zh}")
+                pass # End of block imminent
+            
+            if target_zh_name and ('"zh-tw":' in stripped or "'zh-tw':" in stripped or "zh-tw:" in stripped):
+                # Check if change needed
+                current_val = stripped.split(':', 1)[1].strip().strip('"\'').strip(',').strip('"\'')
+                if current_val != target_zh_name:
+                    indent = line[:line.find(stripped)]
+                    new_lines.append(f'{indent}"zh-tw": "{target_zh_name}",\n')
+                    changes_made = True
+                else:
+                    new_lines.append(line)
             else:
                 new_lines.append(line)
                 
             if "}" in stripped:
                 in_name_block = False
                 name_block_processed = True
+                
+        # Process EvolveFrom Block
+        elif in_evolve_block:
+            if "}," in line or (stripped == "}" and "," not in line) or (stripped == "},"):
+                pass 
+            
+            if target_zh_evolve and ('"zh-tw":' in stripped or "'zh-tw':" in stripped or "zh-tw:" in stripped):
+                current_val = stripped.split(':', 1)[1].strip().strip('"\'').strip(',').strip('"\'')
+                if current_val != target_zh_evolve:
+                    indent = line[:line.find(stripped)]
+                    new_lines.append(f'{indent}"zh-tw": "{target_zh_evolve}",\n')
+                    changes_made = True
+                    # print(f"Fixed evolveFrom in {path}")
+                else:
+                    new_lines.append(line)
+            else:
+                new_lines.append(line)
+
+            if "}" in stripped:
+                in_evolve_block = False
+                evolve_block_processed = True
+                
         else:
             new_lines.append(line)
             
-    with open(path, 'w', encoding='utf-8') as f:
-        f.writelines(new_lines)
-        
-    return True
+    if changes_made:
+        with open(path, 'w', encoding='utf-8') as f:
+            f.writelines(new_lines)
+        return True
+    
+    return False
 
 def main():
     init_maps()

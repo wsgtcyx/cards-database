@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Torchic",
         "de": "Torchisch",
         "pt-br": "Tocha",
-        "zh-tw": "火炬"
+        "zh-tw": "火稚雞",
     },
     description: {
         en: "During a battle, the hot flame in its body increases.\nIts kicks have outstanding destructive power.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Darumaka",
         "de": "Darumaka",
         "pt-br": "Darumaka",
-        "zh-tw": "達摩卡"
+        "zh-tw": "火紅不倒翁",
     },
     description: {
         en: "The thick arms of this hot-blooded Pokémon\ncan deliver punches capable of obliterating a\ndump truck.",

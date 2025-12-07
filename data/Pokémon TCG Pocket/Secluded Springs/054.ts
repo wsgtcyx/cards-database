@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Skrelp",
         "de": "Skrelp",
         "pt-br": "Skrelp",
-        "zh-tw": "斯克雷爾普"
+        "zh-tw": "垃垃藻",
     },
     description: {
         en: "Using a liquid poison, Dragalge indiscriminately\nattacks anything that wanders into its territory.\nThis poison can corrode the undersides of boats.",

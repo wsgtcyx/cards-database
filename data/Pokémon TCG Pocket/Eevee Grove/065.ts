@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Skwovet",
         "de": "Skwovet",
         "pt-br": "Skwovet",
-        "zh-tw": "斯克沃維特"
+        "zh-tw": "貪心栗鼠",
     },
     description: {
         en: "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",

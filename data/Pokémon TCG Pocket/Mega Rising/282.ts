@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Meltano",
         "de": "Meltan",
         "pt-br": "Meltan",
-        "zh-tw": "美爾坦"
+        "zh-tw": "美錄坦",
     },
     stage: "Stage1",
     suffix: "EX",

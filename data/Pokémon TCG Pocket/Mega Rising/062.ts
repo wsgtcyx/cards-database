@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Panpour",
         "de": "Panpour",
         "pt-br": "Panpour",
-        "zh-tw": "潘普爾"
+        "zh-tw": "冷水猴",
     },
     description: {
         en: "It prefers places with clean water. When its tuft runs\nlow, it replenishes it by siphoning up water with\nits tail.",

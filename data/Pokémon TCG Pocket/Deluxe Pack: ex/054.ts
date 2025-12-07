@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Floragato",
         "de": "Floragato",
         "pt-br": "Floragata",
-        "zh-tw": "弗洛拉加托"
+        "zh-tw": "蒂蕾喵",
     },
     description: {
         en: "This Pokémon uses the reflective fur lining its\ncape to camouflage the stem of its flower,\ncreating the illusion that the flower is floating.",

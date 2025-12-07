@@ -22,7 +22,7 @@ const card: Card = {
         "it": "Growlithe",
         "de": "Growlithe",
         "pt-br": "Growlithe",
-        "zh-tw": "成長"
+        "zh-tw": "卡蒂狗",
     },
     description: {
         en: "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies.",

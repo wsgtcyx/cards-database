@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Yamask",
         "de": "Yamask",
         "pt-br": "Yamask",
-        "zh-tw": "雅馬斯克"
+        "zh-tw": "哭哭面具",
     },
     description: {
         en: "There are many depictions of Cofagrigus\ndecorating ancient tombs. They're symbols\nof the wealth that kings of bygone eras had.",

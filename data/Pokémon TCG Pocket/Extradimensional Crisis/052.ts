@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ferroseme",
         "de": "Ferroseed",
         "pt-br": "Ferrosemente",
-        "zh-tw": "鐵玫瑰"
+        "zh-tw": "種子鐵球",
     },
     description: {
         en: "This Pokémon scrapes its spikes across rocks,\nand then uses the tips of its feelers to absorb\nthe nutrients it finds within the stone.",

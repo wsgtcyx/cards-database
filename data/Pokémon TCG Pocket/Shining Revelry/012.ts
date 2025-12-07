@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magbrant",
         'pt-br': "Magmortar",
         ko: "마그마번",
-        "zh-tw": "鴨嘴炎獸"
+        "zh-tw": "鴨嘴焰龍",
     },
     illustrator: "Miki Tanaka",
     rarity: "Three Diamond",

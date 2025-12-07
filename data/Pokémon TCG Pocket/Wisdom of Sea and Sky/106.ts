@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Binacolo",
         "de": "Binakel",
         "pt-br": "Bináculo",
-        "zh-tw": "雙子座"
+        "zh-tw": "龜腳腳",
     },
     description: {
         en: "Seven Binacle come together to form one\nBarbaracle. The Binacle that serves as the head\ngives orders to those serving as the limbs.",

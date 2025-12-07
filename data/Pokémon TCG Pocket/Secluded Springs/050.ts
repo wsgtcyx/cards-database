@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Zorua",
         "de": "Zorua",
         "pt-br": "Zorua",
-        "zh-tw": "索魯亞"
+        "zh-tw": "索羅亞",
     },
     description: {
         en: "Stories say those who tried to catch Zoroark were\ntrapped in an illusion and punished.",

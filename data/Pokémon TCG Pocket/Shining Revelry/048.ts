@@ -10,7 +10,7 @@ const card: Card = {
         de: "Paldea-Suelord-ex",
         'pt-br': "Clodsirede Paldea ex",
         ko: "팔데아토오 ex",
-        "zh-tw": "土王 ex"
+        "zh-tw": "帕底亞土王 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Inkay",
         "de": "Inkay",
         "pt-br": "Inkay",
-        "zh-tw": "印凱"
+        "zh-tw": "豪喇花枝",
     },
     description: {
         en: "Gazing at its luminescent spots will quickly\ninduce a hypnotic state, putting the observer\nunder Malamar's control.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Corphish",
         "de": "Corphish",
         "pt-br": "Corpus",
-        "zh-tw": "科菲什"
+        "zh-tw": "龍蝦小兵",
     },
     description: {
         en: "A brutish Pokémon that loves to battle. It will\ncrash itself into any foe that approaches its nest.",

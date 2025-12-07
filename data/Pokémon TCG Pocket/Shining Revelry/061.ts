@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Jigglypuff",
         "de": "Jigglypuff",
         "pt-br": "Jigglypuff",
-        "zh-tw": "胖夫"
+        "zh-tw": "胖丁",
     },
     description: {
         en: "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",

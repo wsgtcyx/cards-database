@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Poochyena",
         "de": "Poochyena",
         "pt-br": "Poochyena",
-        "zh-tw": "普奇耶納"
+        "zh-tw": "土狼犬",
     },
     description: {
         en: "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.",

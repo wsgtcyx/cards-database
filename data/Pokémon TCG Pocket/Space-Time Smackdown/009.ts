@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Roselia",
         "de": "Roselia",
         "pt-br": "Rosélia",
-        "zh-tw": "羅塞利亞"
+        "zh-tw": "毒薔薇",
     },
     description: {
         en: "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Vanillish",
         "de": "Vanillin",
         "pt-br": "Vanilizado",
-        "zh-tw": "香草味"
+        "zh-tw": "多多冰",
     },
     description: {
         en: "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",

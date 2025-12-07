@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Krabby",
         "de": "Krabby",
         "pt-br": "Siriguejo",
-        "zh-tw": "克拉比"
+        "zh-tw": "大鉗蟹",
     },
     description: {
         en: "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",

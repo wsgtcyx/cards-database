@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Strano",
         "de": "Seltsam",
         "pt-br": "Estranho",
-        "zh-tw": "古怪的"
+        "zh-tw": "走路草",
     },
     description: {
         en: "Its pistils exude an incredibly foul odor.\nThe horrid stench can cause fainting at a distance\nof 1.25 miles.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Lillipup",
         "de": "Lillipup",
         "pt-br": "Lillipup",
-        "zh-tw": "利利普普"
+        "zh-tw": "小約克",
     },
     description: {
         en: "The black fur that covers this Pokémon's body\nis dense and springy. Even sharp fangs bounce\nright off.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Litwick",
         "de": "Litwick",
         "pt-br": "Litwick",
-        "zh-tw": "利特威克"
+        "zh-tw": "燭光靈",
     },
     description: {
         en: "It lurks in cities, pretending to be a lamp.\nOnce it finds someone whose death is near,\nit will trail quietly after them.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Che schifo",
         "de": "Hurra",
         "pt-br": "Uau",
-        "zh-tw": "呼呼"
+        "zh-tw": "咕咕",
     },
     description: {
         en: "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Rockruff",
         "de": "Rockruff",
         "pt-br": "Rockruff",
-        "zh-tw": "洛克拉夫"
+        "zh-tw": "岩狗狗",
     },
     stage: "Stage1",
     suffix: "EX",

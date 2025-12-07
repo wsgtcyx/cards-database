@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ferroseme",
         "de": "Ferroseed",
         "pt-br": "Ferrosemente",
-        "zh-tw": "鐵玫瑰"
+        "zh-tw": "種子鐵球",
     },
     description: {
         en: "Its spikes are harder than steel. This Pokémon\ncrawls across rock walls by stabbing the spikes\non its feelers into the stone.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Gligar",
         "de": "Gligar",
         "pt-br": "Gligar",
-        "zh-tw": "格利加爾"
+        "zh-tw": "天蠍",
     },
     description: {
         en: "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",

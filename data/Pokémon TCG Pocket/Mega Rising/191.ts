@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sussurro",
         "de": "Whismur",
         "pt-br": "Sussurro",
-        "zh-tw": "維斯穆爾"
+        "zh-tw": "咕妞妞",
     },
     description: {
         en: "The force of this Pokémon's loud voice isn't just\nthe sound—it's also the wave of air pressure that\nblows opponents away and damages them.",

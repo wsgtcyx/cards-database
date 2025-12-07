@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Snover",
         "de": "Schneemann",
         "pt-br": "Snover",
-        "zh-tw": "斯諾弗"
+        "zh-tw": "雪笠怪",
     },
     description: {
         en: "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",

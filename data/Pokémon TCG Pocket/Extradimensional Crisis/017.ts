@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Blitz",
         "de": "Blitzle",
         "pt-br": "Blitz",
-        "zh-tw": "閃電戰"
+        "zh-tw": "斑斑馬",
     },
     description: {
         en: "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions.",

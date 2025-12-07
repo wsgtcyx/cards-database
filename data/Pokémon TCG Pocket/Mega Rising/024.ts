@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Phantump",
         "de": "Phantump",
         "pt-br": "Fantasma",
-        "zh-tw": "凡頓"
+        "zh-tw": "小木靈",
     },
     description: {
         en: "Small roots that extend from the tips of this\nPokémon's feet can tie into the trees of the\nforest and give Trevenant control over them.",

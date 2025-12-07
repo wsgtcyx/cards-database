@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Deino",
         "de": "Deino",
         "pt-br": "Deino",
-        "zh-tw": "德伊諾"
+        "zh-tw": "單首龍",
     },
     description: {
         en: "The two heads have different likes and dislikes.\nBecause the heads fight with each other, Zweilous\ngets stronger without needing to rely on others.",

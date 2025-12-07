@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Aipom",
         "de": "Aipom",
         "pt-br": "Aipom",
-        "zh-tw": "愛波姆"
+        "zh-tw": "長尾怪手",
     },
     description: {
         en: "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you.",

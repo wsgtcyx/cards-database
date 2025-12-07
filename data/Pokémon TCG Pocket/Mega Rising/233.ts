@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Lombre",
         "de": "Lombard",
         "pt-br": "Lombre",
-        "zh-tw": "隆布爾"
+        "zh-tw": "蓮帽小童",
     },
     description: {
         en: "If it hears festive music, it begins moving in\nrhythm in order to amplify its power.",

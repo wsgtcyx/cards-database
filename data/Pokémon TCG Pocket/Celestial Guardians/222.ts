@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Infestatore",
         "de": "Haunter",
         "pt-br": "Assombrado",
-        "zh-tw": "鬼魂"
+        "zh-tw": "鬼斯通",
     },
     description: {
         en: "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Exeggcute",
         "de": "Exeggcute",
         "pt-br": "Exeggcute",
-        "zh-tw": "蛋蛋可愛"
+        "zh-tw": "蛋蛋",
     },
     description: {
         en: "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.",

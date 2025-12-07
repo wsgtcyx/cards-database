@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Yungoos",
         "de": "Jungoos",
         "pt-br": "Yungoos",
-        "zh-tw": "雲古斯"
+        "zh-tw": "貓鼬少",
     },
     description: {
         en: "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",

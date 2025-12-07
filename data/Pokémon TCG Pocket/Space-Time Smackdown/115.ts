@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Burmy",
         "de": "Burmy",
         "pt-br": "Burmy",
-        "zh-tw": "布爾米"
+        "zh-tw": "結草兒",
     },
     description: {
         en: "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",

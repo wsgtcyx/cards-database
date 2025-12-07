@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Fomantis",
         "de": "Fomantis",
         "pt-br": "Fomantis",
-        "zh-tw": "福曼蒂斯"
+        "zh-tw": "偽螳草",
     },
     description: {
         en: "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",

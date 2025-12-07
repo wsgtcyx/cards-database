@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Dratini",
         "de": "Dratini",
         "pt-br": "Dratini",
-        "zh-tw": "德拉蒂尼"
+        "zh-tw": "迷你龍",
     },
     description: {
         en: "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",

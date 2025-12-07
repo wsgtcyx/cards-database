@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Porygon",
         "de": "Porygon",
         "pt-br": "Porígon",
-        "zh-tw": "多邊形"
+        "zh-tw": "多邊獸",
     },
     description: {
         en: "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Wailmer",
         "de": "Wailmer",
         "pt-br": "Wailmer",
-        "zh-tw": "維爾默"
+        "zh-tw": "吼吼鯨",
     },
     description: {
         en: "The biggest of all Pokémon. It can dive to a depth\nof almost 10,000 feet on only one breath.",

@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Palpitoad",
         "de": "Palpitoad",
         "pt-br": "Palpitoad",
-        "zh-tw": "心悸蟾蜍"
+        "zh-tw": "藍蟾蜍",
     },
     description: {
         en: "This Pokémon is popular among the elderly,\nwho say the vibrations of its lumps are great\nfor massages.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Cubone",
         "de": "Cubone",
         "pt-br": "Cubo",
-        "zh-tw": "庫博內"
+        "zh-tw": "卡拉卡拉",
     },
     description: {
         en: "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",

@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Geodude di Alola",
         "de": "Alola-Geodude",
         "pt-br": "Geodude de Alola",
-        "zh-tw": "阿羅拉晶石"
+        "zh-tw": "阿羅拉小拳石",
     },
     description: {
         en: "When two Graveler fight each other, it fills the\nsurroundings with flashes of light and sound.\nPeople call it the “fireworks of the earth.”",

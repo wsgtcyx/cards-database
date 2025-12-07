@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Vanillite",
         "de": "Vanillit",
         "pt-br": "Vanilita",
-        "zh-tw": "香蘭石"
+        "zh-tw": "迷你冰",
     },
     description: {
         en: "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather.",

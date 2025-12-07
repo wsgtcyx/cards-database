@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Luxio",
         "de": "Luxio",
         "pt-br": "Luxo",
-        "zh-tw": "盧西奧"
+        "zh-tw": "勒克貓",
     },
     description: {
         en: "It can see clearly through walls to track down its\nprey and seek its lost young.",

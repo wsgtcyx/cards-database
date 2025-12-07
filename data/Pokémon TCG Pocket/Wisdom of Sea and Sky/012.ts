@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Ledyba",
         "de": "Ledyba",
         "pt-br": "Ledyba",
-        "zh-tw": "萊迪巴"
+        "zh-tw": "芭瓢蟲",
     },
     description: {
         en: "It's said that the patterns on its back are\nrelated to the stars in the night sky, but the\ndetails of that relationship remain unclear.",

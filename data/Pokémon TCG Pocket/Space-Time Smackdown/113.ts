@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Armatura fossile",
         "de": "Rüstungsfossil",
         "pt-br": "Fóssil de Armadura",
-        "zh-tw": "鎧甲化石"
+        "zh-tw": "盾甲化石",
     },
     description: {
         en: "A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.",

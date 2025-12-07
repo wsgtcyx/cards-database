@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Shinx",
         "de": "Shinx",
         "pt-br": "Shinx",
-        "zh-tw": "辛克斯"
+        "zh-tw": "小貓怪",
     },
     description: {
         en: "By gathering their tails together, they collectively\ngenerate powerful electricity from their claws.",

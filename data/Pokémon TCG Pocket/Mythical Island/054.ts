@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Venipede",
         "de": "Venipede",
         "pt-br": "Venípede",
-        "zh-tw": "韋尼足蟲"
+        "zh-tw": "百足蜈蚣",
     },
     description: {
         en: "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",

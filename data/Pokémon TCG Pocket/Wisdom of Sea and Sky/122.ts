@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Onice",
         "de": "Onix",
         "pt-br": "Ônix",
-        "zh-tw": "奧尼克斯"
+        "zh-tw": "大岩蛇",
     },
     description: {
         en: "It is said that if an Onix lives for over 100 years,\nits composition changes to become diamond-like.",

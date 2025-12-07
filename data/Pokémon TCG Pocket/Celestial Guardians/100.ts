@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Rockruff",
         "de": "Rockruff",
         "pt-br": "Rockruff",
-        "zh-tw": "洛克拉夫"
+        "zh-tw": "岩狗狗",
     },
     description: {
         en: "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.",

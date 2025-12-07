@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Litleo",
         "de": "Litleo",
         "pt-br": "Pequeno",
-        "zh-tw": "利特萊奧"
+        "zh-tw": "小獅獅",
     },
     description: {
         en: "The mane of a male Pyroar heats up to over\n3,600 degrees Fahrenheit during battle. Merely\napproaching it will cause severe burns.",

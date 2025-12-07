@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Sentret",
         "de": "Sentret",
         "pt-br": "Sentido",
-        "zh-tw": "森特雷"
+        "zh-tw": "尾立",
     },
     description: {
         en: "The mother puts its offspring to sleep by curling up\naround them. It corners foes with speed.",

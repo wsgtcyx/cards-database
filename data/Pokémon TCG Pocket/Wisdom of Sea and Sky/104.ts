@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Larvitar",
         "de": "Larvitar",
         "pt-br": "larvitar",
-        "zh-tw": "幼蟲"
+        "zh-tw": "由基拉",
     },
     description: {
         en: "This pupa flies around wildly by venting with\ngreat force the gas pressurized inside its body.",

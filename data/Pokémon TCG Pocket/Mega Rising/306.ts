@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Drowzee",
         "de": "Drowzee",
         "pt-br": "Drowzee",
-        "zh-tw": "卓爾茲"
+        "zh-tw": "催眠貘",
     },
     description: {
         en: "When it locks eyes with an enemy, it will use\na mix of psi moves, such as Hypnosis and\nConfusion.",

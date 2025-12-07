@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Carkol",
         "de": "Carkol",
         "pt-br": "Carkol",
-        "zh-tw": "卡科爾"
+        "zh-tw": "大炭車",
     },
     description: {
         en: "It's gentle usually but fearsome when angered.\nWith a body that burns at over 2,700 degrees\nFahrenheit, it crushes foes and turns them to ash.",

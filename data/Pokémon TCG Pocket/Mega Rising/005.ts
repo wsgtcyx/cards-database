@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Silcoon",
         "de": "Silcoon",
         "pt-br": "Silcon",
-        "zh-tw": "矽科恩"
+        "zh-tw": "甲殼蛹",
     },
     description: {
         en: "It has an aggressive nature. It stabs prey with its\nlong, narrow mouth to drain the prey's fluids.",

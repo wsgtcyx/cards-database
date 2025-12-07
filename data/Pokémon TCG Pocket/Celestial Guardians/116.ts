@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Mareanie",
         "de": "Mareanie",
         "pt-br": "Mareanie",
-        "zh-tw": "馬雷妮"
+        "zh-tw": "好壞星",
     },
     description: {
         en: "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",

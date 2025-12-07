@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Spoink",
         "de": "Spoink",
         "pt-br": "Esponja",
-        "zh-tw": "斯波因克"
+        "zh-tw": "跳跳豬",
     },
     description: {
         en: "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",

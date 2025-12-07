@@ -24,7 +24,7 @@ const card: Card = {
         "it": "Grotle",
         "de": "Grotle",
         "pt-br": "Grotle",
-        "zh-tw": "格羅特爾"
+        "zh-tw": "樹林龜",
     },
     description: {
         en: "Ancient people imagined that beneath the ground dwelt a gigantic Torterra.",

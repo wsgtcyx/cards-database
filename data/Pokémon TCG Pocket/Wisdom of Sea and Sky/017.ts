@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Affondato",
         "de": "Sunkern",
         "pt-br": "Afundado",
-        "zh-tw": "下沉"
+        "zh-tw": "向日種子",
     },
     description: {
         en: "In the daytime, it rushes about in a hectic\nmanner, but it comes to a complete stop when\nthe sun sets.",

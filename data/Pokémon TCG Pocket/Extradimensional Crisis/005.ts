@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Dartrix",
         "de": "Dartrix",
         "pt-br": "Dartrix",
-        "zh-tw": "達特里克斯"
+        "zh-tw": "投羽梟",
     },
     description: {
         en: "It nocks its arrow quills and shoots them at\nopponents. When it simply can't afford to miss,\nit tugs the vine on its head to improve its focus.",

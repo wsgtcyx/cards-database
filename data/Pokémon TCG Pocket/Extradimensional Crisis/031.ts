@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Baltoy",
         "de": "Baltoy",
         "pt-br": "Baltoy",
-        "zh-tw": "巴爾托伊"
+        "zh-tw": "天秤偶",
     },
     description: {
         en: "This mysterious Pokémon started life as an ancient\nclay figurine made over 20,000 years ago.",

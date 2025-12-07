@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Pansage",
         "de": "Pansage",
         "pt-br": "Pansagem",
-        "zh-tw": "潘薩吉"
+        "zh-tw": "花椰猴",
     },
     description: {
         en: "Ill tempered, it fights by swinging its barbed tail\naround wildly. The leaf growing on its head is\nvery bitter.",

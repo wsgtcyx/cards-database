@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Larvesta",
         "de": "Larvesta",
         "pt-br": "Larvesta",
-        "zh-tw": "拉維斯塔"
+        "zh-tw": "燃燒蟲",
     },
     description: {
         en: "Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.",

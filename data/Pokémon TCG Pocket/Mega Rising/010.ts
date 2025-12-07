@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Nuzleaf",
         "de": "Nuzleaf",
         "pt-br": "Nuzleaf",
-        "zh-tw": "鼻葉"
+        "zh-tw": "長鼻葉",
     },
     description: {
         en: "It lives quietly in the deep forest. It is said to\ncreate chilly winter winds with the fans it holds.",

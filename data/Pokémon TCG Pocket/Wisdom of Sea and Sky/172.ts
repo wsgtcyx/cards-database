@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Flaaffy",
         "de": "Flaaffy",
         "pt-br": "Flaaffy",
-        "zh-tw": "弗拉菲"
+        "zh-tw": "綿綿",
     },
     description: {
         en: "The bright light on its tail can be seen far\naway. It has been treasured since ancient\ntimes as a beacon.",

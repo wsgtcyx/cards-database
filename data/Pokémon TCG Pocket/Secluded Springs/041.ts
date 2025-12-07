@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Diglett",
         "de": "Diglett",
         "pt-br": "Diglett",
-        "zh-tw": "迪格利特"
+        "zh-tw": "地鼠",
     },
     description: {
         en: "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow.",

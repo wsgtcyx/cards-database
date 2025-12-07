@@ -23,7 +23,7 @@ const card: Card = {
         "it": "Tangela",
         "de": "Tangela",
         "pt-br": "Tangela",
-        "zh-tw": "坦格拉"
+        "zh-tw": "蔓藤怪",
     },
     description: {
         en: "Tangrowth has two arms that it can extend as it\npleases. Recent research has shown that these\narms are, in fact, bundles of vines.",
