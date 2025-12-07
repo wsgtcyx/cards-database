@@ -1,0 +1,3216 @@
+[
+  {
+    "en": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/019.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/081.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/109.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/018.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/101.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Abra",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/029.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/030.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/047.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/046.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Alakazam",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/031.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/002.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/098.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/068.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Arbok",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/046.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Aura Sphere",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/043.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/084.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/110.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Beedrill ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/003.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/079.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/107.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bibarel ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/065.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/087.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/095.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bidoof",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/064.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/065.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/087.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/095.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Bite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/051.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/076.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Blaze Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/013.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Broken-Space Bellow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/035.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/083.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/096.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Buizel",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/016.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/017.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/074.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Buneary",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/066.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/067.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/045.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Carefree Press",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/065.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/087.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/095.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Chaotic Impact",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/035.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/083.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/096.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Charizard ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/010.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/080.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/108.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Charmander",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/008.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/009.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/099.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/100.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Charmeleon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/009.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/010.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/080.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/100.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/108.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Chest-ouflage",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/036.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Combustion",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/008.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/009.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/099.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/100.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Comforting Song",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/061.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/078.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Confuse Ray",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/049.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Corkscrew Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/052.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Counterattack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/028.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Crushing Spear",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/003.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/079.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/107.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cry for Help",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/005.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cyclizar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/068.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/003.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/079.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/107.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard all Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/022.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/082.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/092.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Dondozo",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/020.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/102.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Double Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/044.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Drifblim",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/034.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Drifloon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/033.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/034.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/071.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/090.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/068.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/012.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/069.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/088.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Ekans",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/045.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/046.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Electric Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/028.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Electrode",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/024.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Fighting Claws",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/007.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/073.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flamigo",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/044.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Flare",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/011.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 50 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/044.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 4 coins. This attack does 20 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/032.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin for each {M} Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/057.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/077.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/072.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/091.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/004.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/036.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/056.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/106.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/024.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/038.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/053.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 80 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/054.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/086.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/094.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/049.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/002.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/098.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Floatzel",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/017.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Floragato",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/006.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/007.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/073.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/006.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Gentle Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/061.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/078.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gholdengo",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/057.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/077.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gimmighoul",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/036.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/057.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/077.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Giratina ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/035.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/083.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/096.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gnaw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/050.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Grafaiai",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/051.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/076.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Guillotine Rush",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/004.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gust",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/034.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Headbutt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/055.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/064.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/105.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/070.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/089.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Heal 30 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/065.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/087.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/095.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Hitmonchan",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/041.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Hitmonlee",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/040.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Hopping Shot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/067.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "If both of Buneary's ears are rolled up, something is wrong with its body or mind. It's a sure sign the Pokémon is in need of care.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/066.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/039.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/028.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/062.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/007.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/073.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/048.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/085.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/093.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Iono",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/069.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/088.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/034.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/056.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/106.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/009.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/100.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/008.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/099.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/061.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/078.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/031.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/026.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you'll become sleepy right away.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/060.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/016.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/074.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/055.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/105.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/033.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/039.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/023.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/052.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/025.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/103.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/057.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/077.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/049.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/005.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its incisors grow continuously throughout its life. If its incisors get too long, this Pokémon becomes unable to eat, and it starves to death.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/058.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/038.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/041.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/037.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Jigglypuff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/060.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/061.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/078.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Juggling",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/032.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Kadabra",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/030.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/031.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Kakuna",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/002.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/003.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/079.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/098.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/107.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/040.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lickilicky",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/063.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/063.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Lickitung",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/062.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/063.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Lightning Ball",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/023.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lopunny",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/067.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/067.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Low Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/037.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lucario ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/043.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/084.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/110.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machamp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/039.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machoke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/038.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/039.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Machop",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/037.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/038.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magmar",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/011.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/012.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/011.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Magmortar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/012.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Magnum Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/041.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Meowscarada",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/007.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/073.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mr. Mime",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/032.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Multiply",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/001.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/097.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Ocean Cyclone",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/020.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/102.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/001.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/097.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/051.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/076.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may heal 20 damage from your Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/061.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/078.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/035.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/083.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/096.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Overacceleration",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/068.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pachirisu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/025.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/103.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Paldean Clodsire ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/048.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/085.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/093.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Paldean Tauros",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/013.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Paldean Wooper",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/047.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/048.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/085.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/093.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pawmi",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/026.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/027.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pawmo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/027.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/028.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pawmot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/028.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/059.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Pikachu ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/022.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/082.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/092.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pinsir",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/004.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Plasma",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/025.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/103.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poison Coating",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/051.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/076.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Poison Jab",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/047.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poké Ball",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/111.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pokémon Center Lady",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/070.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/089.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pop Out Throughout",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/019.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/081.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/109.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pound",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/066.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Power Press",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/039.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psychic Suppression",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/031.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psyshot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/029.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/030.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pummel",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/038.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/026.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/027.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/042.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/104.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Put 1 random {G} Pokémon from your deck into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/005.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Put 1 random Weedle from your deck onto your Bench.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/001.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/097.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Put a random Basic Pokémon from your deck into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/111.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Rain Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/014.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/021.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/075.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Ram",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/033.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/045.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Raticate",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/059.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rattata",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/058.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/059.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Red",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/071.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/090.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Retreat Directive",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/021.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/075.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Revavroom",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/056.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/106.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Riolu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/042.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/043.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/084.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/104.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/110.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Rollout",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/060.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/062.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/063.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Scintillating Surfing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/057.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/077.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shroodle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/050.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/051.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/076.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Slash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/006.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Smoke Bomb",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/012.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spinning Drift",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/056.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/106.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spiritomb",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/049.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Sprigatito",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/005.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/006.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Spring Out",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/018.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/101.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Steam Artillery",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/010.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/080.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/108.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Stoke",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/010.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/080.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/108.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "String Shot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/002.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/098.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/058.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/059.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/010.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/080.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/108.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/025.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/103.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Tatsugiri",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/021.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/075.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Team Rocket Grunt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/072.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/091.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tenacious Hammer",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/053.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tentacool",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/014.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/015.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/014.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Tentacruel",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/015.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Terrific Thumping",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/054.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/086.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/094.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/032.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/051.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/076.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/024.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/004.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They communicate with one another using their auras. They are able to run all through the night.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/042.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/104.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/040.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/020.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/102.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/031.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/043.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/084.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/110.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/017.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/021.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/075.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 10 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/013.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 20 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/035.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/083.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/096.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/044.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/018.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/101.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/020.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/102.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/028.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra's dreams affect the powers that the Pokémon wields.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/029.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/007.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/073.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/036.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/053.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/050.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Thunderbolt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/022.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/082.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/092.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tinkatink",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/052.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/053.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Tinkaton ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/054.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/086.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/094.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tinkatuff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/053.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/054.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/086.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/094.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Tumbling Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/024.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/030.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Varoom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/055.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/056.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/105.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/106.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Venomous Fang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/046.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Venoshock",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/048.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/085.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/093.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Voltorb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/023.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/024.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Water Arrow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/017.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Gun",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/016.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/074.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Wave Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/015.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Weedle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/001.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/002.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/097.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/098.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/013.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/027.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/012.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/015.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Wigglytuff",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/061.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/078.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Wiglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/018.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/019.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/081.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/101.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/109.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/017.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/064.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Wugtrio ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/019.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/081.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/109.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Your Active Dondozo has no Retreat Cost.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/021.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/075.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Shining Revelry/046.ts",
+      "data/Pokémon TCG Pocket/Shining Revelry/047.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  }
+]
