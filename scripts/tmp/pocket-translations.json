@@ -16599,5 +16599,520 @@
   "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.": {
     "en": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.",
     "zh-tw": "你的對手將他們的手牌洗入牌庫，並根據獲勝所需的剩餘點數抽一張牌。"
+  },
+  "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.": {
+    "en": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
+    "zh-tw": "隨機選擇 1 只對手的神奇寶貝 3 次。每次選擇一隻神奇寶貝，對其造成 50 點傷害。"
+  },
+  "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.": {
+    "en": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
+    "zh-tw": "隨機選擇 1 只對手的神奇寶貝。對其造成 30 點傷害。"
+  },
+  "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.": {
+    "en": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+    "zh-tw": "在領土爭奪戰中失敗後，伍珀開始在陸地上生活。隨著時間的推移，神奇寶貝發生了變化，產生了一層有毒的薄膜來保護它的身體。"
+  },
+  "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.": {
+    "en": "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
+    "zh-tw": "用腹部的圖案擊暈對手後，它會迅速將對手包裹在自己的身體中，等待他們停止移動。"
+  },
+  "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.": {
+    "en": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "zh-tw": "顯然 Cyclizar 自古以來就允許人們騎在它的背上。一萬年前的壁畫中就發現了對此的描述。"
+  },
+  "Aura Sphere": {
+    "en": "Aura Sphere",
+    "zh-tw": "光環球體"
+  },
+  "Beedrill ex": {
+    "en": "Beedrill ex",
+    "zh-tw": "比德瑞爾前"
+  },
+  "Blaze Tackle": {
+    "en": "Blaze Tackle",
+    "zh-tw": "烈焰鏟球"
+  },
+  "Broken-Space Bellow": {
+    "en": "Broken-Space Bellow",
+    "zh-tw": "破碎空間波紋管"
+  },
+  "Chaotic Impact": {
+    "en": "Chaotic Impact",
+    "zh-tw": "混沌衝擊"
+  },
+  "Chest-ouflage": {
+    "en": "Chest-ouflage",
+    "zh-tw": "胸圍"
+  },
+  "Comforting Song": {
+    "en": "Comforting Song",
+    "zh-tw": "安慰歌曲"
+  },
+  "Confuse Ray": {
+    "en": "Confuse Ray",
+    "zh-tw": "迷惑雷"
+  },
+  "Crushing Spear": {
+    "en": "Crushing Spear",
+    "zh-tw": "粉碎矛"
+  },
+  "Cry for Help": {
+    "en": "Cry for Help",
+    "zh-tw": "求救"
+  },
+  "Cyclizar": {
+    "en": "Cyclizar",
+    "zh-tw": "環化劑"
+  },
+  "Dondozo": {
+    "en": "Dondozo",
+    "zh-tw": "東多佐"
+  },
+  "Double Kick": {
+    "en": "Double Kick",
+    "zh-tw": "雙踢"
+  },
+  "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.": {
+    "en": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
+    "zh-tw": "這個回合中，自己的寶可夢的攻擊對對手的現役寶可夢造成+20點傷害。"
+  },
+  "During your next turn, this Pokémon's Overacceleration attack does +20 damage.": {
+    "en": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+    "zh-tw": "在你的下一個回合中，這只神奇寶貝的過度加速攻擊造成+20點傷害。"
+  },
+  "Each player shuffles the cards in their hand into their deck, then draws that many cards.": {
+    "en": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
+    "zh-tw": "每個玩家將手中的牌洗入自己的牌庫，然後抽出相應數量的牌。"
+  },
+  "Fighting Claws": {
+    "en": "Fighting Claws",
+    "zh-tw": "戰鬥利爪"
+  },
+  "Flamigo": {
+    "en": "Flamigo",
+    "zh-tw": "火烈鳥"
+  },
+  "Flip 4 coins. This attack does 20 damage for each heads.": {
+    "en": "Flip 4 coins. This attack does 20 damage for each heads.",
+    "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+  },
+  "Flip a coin for each {M} Energy attached to this Pokémon. This attack does 50 damage for each heads.": {
+    "en": "Flip a coin for each {M} Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+    "zh-tw": "為該神奇寶貝附加的每 {M} 能量拋一枚硬幣。這次攻擊對每個頭造成 50 點傷害。"
+  },
+  "Flip a coin. If heads, this attack does 80 more damage.": {
+    "en": "Flip a coin. If heads, this attack does 80 more damage.",
+    "zh-tw": "拋一枚硬幣。如果正面，此攻擊會造成 80 點額外傷害。"
+  },
+  "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.": {
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
+    "zh-tw": "拋一枚硬幣。如果出現正面，則對手的活躍神奇寶貝現在處於混亂狀態。"
+  },
+  "Floragato": {
+    "en": "Floragato",
+    "es": "floragato",
+    "it": "Floragato",
+    "fr": "Floragato",
+    "zh-tw": "弗洛拉加托",
+    "de": "Floragato",
+    "pt-br": "Floragata"
+  },
+  "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.": {
+    "en": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+    "zh-tw": "弗洛拉加托巧妙地揮舞著隱藏在長毛皮下的藤蔓，將堅硬的花蕾​​猛擊對手。"
+  },
+  "Gholdengo": {
+    "en": "Gholdengo",
+    "zh-tw": "戈爾登戈"
+  },
+  "Gimmighoul": {
+    "en": "Gimmighoul",
+    "es": "Gimmighoul",
+    "zh-tw": "吉米格霍爾",
+    "pt-br": "Gimmighoul",
+    "de": "Gimmighoul",
+    "fr": "Gimmighoul",
+    "it": "Gimmighoul"
+  },
+  "Giratina ex": {
+    "en": "Giratina ex",
+    "zh-tw": "騎拉帝納前身"
+  },
+  "Grafaiai": {
+    "en": "Grafaiai",
+    "zh-tw": "格拉法艾伊"
+  },
+  "Guillotine Rush": {
+    "en": "Guillotine Rush",
+    "zh-tw": "斷頭台衝刺"
+  },
+  "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.": {
+    "en": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+    "zh-tw": "治療你的 1 只神奇寶貝造成的 30 點傷害，並且它會從所有特殊狀況中恢復。"
+  },
+  "Hopping Shot": {
+    "en": "Hopping Shot",
+    "zh-tw": "跳投"
+  },
+  "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.": {
+    "en": "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
+    "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {F} 能量，則此攻擊造成的傷害增加 50 點。"
+  },
+  "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.": {
+    "en": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+    "zh-tw": "如果對手的現役神奇寶貝是前神奇寶貝，則此攻擊造成的傷害增加 70 點。"
+  },
+  "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.": {
+    "en": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+    "zh-tw": "如果對手的活躍寶可夢中毒，則這次攻擊造成的傷害增加 60 點。"
+  },
+  "Iono": {
+    "en": "Iono",
+    "zh-tw": "伊奧諾"
+  },
+  "It can generate and release gas within its body. That's how it can control the altitude of its drift.": {
+    "en": "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
+    "zh-tw": "它可以在體內產生並釋放氣體。這就是它如何控制漂移高度的方法。"
+  },
+  "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.": {
+    "en": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
+    "zh-tw": "它利用岩石中的毒物和礦物質產生氣體。然後它引爆其氣瓶（現在有八個）中的氣體來產生能量。"
+  },
+  "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.": {
+    "en": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+    "zh-tw": "它的臉頰上有不發達的電囊。只有當波米用前爪上的肉墊猛烈摩擦時，這些囊才能產生電力。"
+  },
+  "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you'll become sleepy right away.": {
+    "en": "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you'll become sleepy right away.",
+    "zh-tw": "它的胃膨脹得很厲害，唱著神秘的旋律。如果你聽到這個旋律，你會立刻昏昏欲睡。"
+  },
+  "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.": {
+    "en": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+    "zh-tw": "它會膨脹浮囊，將臉保持在水面以上，以觀察獵物的運動。"
+  },
+  "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.": {
+    "en": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+    "zh-tw": "據說這只神奇寶貝是在一種未知的有毒神奇寶貝進入並激發了廢品加工廠留下的引擎時誕生的。"
+  },
+  "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.": {
+    "en": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+    "zh-tw": "它會揮動手工製作的錘子來保護自己，但錘子經常被吃金屬的神奇寶貝偷走。"
+  },
+  "It's one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.": {
+    "en": "It's one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.",
+    "zh-tw": "它是帶有電動頰囊的神奇寶貝之一。它從尾巴發射電荷。"
+  },
+  "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.": {
+    "en": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "zh-tw": "它的身體似乎是由1000枚硬幣組成的。這只神奇寶貝與其他人相處得很好，很快就能和任何人成為朋友。"
+  },
+  "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.": {
+    "en": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "zh-tw": "它蓬鬆的皮毛與植物的成分相似。這只神奇寶貝經常洗臉以防止臉乾燥。"
+  },
+  "Juggling": {
+    "en": "Juggling",
+    "zh-tw": "戲法"
+  },
+  "Lickilicky": {
+    "en": "Lickilicky",
+    "zh-tw": "利奇利基"
+  },
+  "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.": {
+    "en": "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
+    "zh-tw": "Lickilicky 奇怪的舌頭可以伸展到其身體長度的許多倍。到目前為止，還沒有人知道 Lickilicky 的舌頭是如何伸展的。"
+  },
+  "Lucario ex": {
+    "en": "Lucario ex",
+    "zh-tw": "路卡利歐前身"
+  },
+  "Meowscarada": {
+    "en": "Meowscarada",
+    "zh-tw": "喵斯卡拉達"
+  },
+  "Multiply": {
+    "en": "Multiply",
+    "zh-tw": "乘"
+  },
+  "Ocean Cyclone": {
+    "en": "Ocean Cyclone",
+    "zh-tw": "海洋氣旋"
+  },
+  "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.": {
+    "en": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+    "zh-tw": "在你的回合中，你可以拋一次硬幣。如果正面，則對手的活躍神奇寶貝現在中毒。"
+  },
+  "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends.": {
+    "en": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends.",
+    "zh-tw": "在你的回合中，你可以從你的能量區取出一個{P}能量並將其附加到這只神奇寶貝身上。如果你使用了這個能力，你的回合就結束了。"
+  },
+  "Overacceleration": {
+    "en": "Overacceleration",
+    "zh-tw": "超加速"
+  },
+  "Paldean Clodsire ex": {
+    "en": "Paldean Clodsire ex",
+    "zh-tw": "Paldean Clodsire 前"
+  },
+  "Paldean Tauros": {
+    "en": "Paldean Tauros",
+    "zh-tw": "帕拉丁金牛座"
+  },
+  "Paldean Wooper": {
+    "en": "Paldean Wooper",
+    "it": "Wooper Paldeano",
+    "fr": "Wooper paldéen",
+    "es": "Wooper paldeano",
+    "de": "Paldean Wooper",
+    "zh-tw": "帕丁·伍珀",
+    "pt-br": "Paldeano Wooper"
+  },
+  "Pawmi": {
+    "en": "Pawmi",
+    "fr": "Pawmi",
+    "it": "Pawmi",
+    "zh-tw": "波米",
+    "es": "pami",
+    "de": "Pawmi",
+    "pt-br": "Pawmi"
+  },
+  "Pawmo": {
+    "en": "Pawmo",
+    "fr": "Pawmo",
+    "de": "Pawmo",
+    "it": "Pawmo",
+    "zh-tw": "波莫",
+    "pt-br": "Pawmo",
+    "es": "Pawmo"
+  },
+  "Pawmot": {
+    "en": "Pawmot",
+    "zh-tw": "波莫特"
+  },
+  "Plasma": {
+    "en": "Plasma",
+    "zh-tw": "電漿"
+  },
+  "Poison Coating": {
+    "en": "Poison Coating",
+    "zh-tw": "毒塗層"
+  },
+  "Poison Jab": {
+    "en": "Poison Jab",
+    "zh-tw": "毒刺"
+  },
+  "Poké Ball": {
+    "en": "Poké Ball",
+    "zh-tw": "精靈球"
+  },
+  "Pokémon Center Lady": {
+    "en": "Pokémon Center Lady",
+    "zh-tw": "神奇寶貝中心女士"
+  },
+  "Pop Out Throughout": {
+    "en": "Pop Out Throughout",
+    "zh-tw": "整個過程中彈出"
+  },
+  "Power Press": {
+    "en": "Power Press",
+    "zh-tw": "動力出版社"
+  },
+  "Psychic Suppression": {
+    "en": "Psychic Suppression",
+    "zh-tw": "心靈壓制"
+  },
+  "Pummel": {
+    "en": "Pummel",
+    "zh-tw": "揍"
+  },
+  "Put 1 random Weedle from your deck onto your Bench.": {
+    "en": "Put 1 random Weedle from your deck onto your Bench.",
+    "zh-tw": "將 1 個隨機雜草從你的牌組放到你的替補席上。"
+  },
+  "Put a random Basic Pokémon from your deck into your hand.": {
+    "en": "Put a random Basic Pokémon from your deck into your hand.",
+    "zh-tw": "從你的牌組中隨機將一隻基礎寶可夢置入你的手牌。"
+  },
+  "Red": {
+    "en": "Red",
+    "zh-tw": "紅色的"
+  },
+  "Retreat Directive": {
+    "en": "Retreat Directive",
+    "zh-tw": "撤退指令"
+  },
+  "Revavroom": {
+    "en": "Revavroom",
+    "zh-tw": "休息室"
+  },
+  "Scintillating Surfing": {
+    "en": "Scintillating Surfing",
+    "zh-tw": "閃爍的衝浪"
+  },
+  "Shroodle": {
+    "en": "Shroodle",
+    "es": "Shroodle",
+    "fr": "Shroodle",
+    "it": "Shoodle",
+    "zh-tw": "裹屍布",
+    "de": "Shroodle",
+    "pt-br": "Shroodle"
+  },
+  "Smoke Bomb": {
+    "en": "Smoke Bomb",
+    "zh-tw": "煙霧彈"
+  },
+  "Spinning Drift": {
+    "en": "Spinning Drift",
+    "zh-tw": "旋轉漂移"
+  },
+  "Sprigatito": {
+    "en": "Sprigatito",
+    "es": "sprigatito",
+    "fr": "Sprigatito",
+    "zh-tw": "斯普里加蒂托",
+    "it": "Sprigato",
+    "de": "Sprigatito",
+    "pt-br": "Sprigatito"
+  },
+  "Spring Out": {
+    "en": "Spring Out",
+    "zh-tw": "春天來了"
+  },
+  "Steam Artillery": {
+    "en": "Steam Artillery",
+    "zh-tw": "蒸汽火砲"
+  },
+  "String Shot": {
+    "en": "String Shot",
+    "zh-tw": "弦擊"
+  },
+  "Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon.": {
+    "en": "Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon.",
+    "zh-tw": "從你的能量區取出 3 個 {R} 能量並將其附加到這只神奇寶貝身上。"
+  },
+  "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon.": {
+    "en": "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon.",
+    "zh-tw": "從你的能量區取出一個{L}能量並將其附加到你的1只後備神奇寶貝上。"
+  },
+  "Tatsugiri": {
+    "en": "Tatsugiri",
+    "zh-tw": "辰切"
+  },
+  "Team Rocket Grunt": {
+    "en": "Team Rocket Grunt",
+    "zh-tw": "火箭隊步兵"
+  },
+  "Tenacious Hammer": {
+    "en": "Tenacious Hammer",
+    "zh-tw": "頑強之鎚"
+  },
+  "Terrific Thumping": {
+    "en": "Terrific Thumping",
+    "zh-tw": "很棒的重擊"
+  },
+  "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.": {
+    "en": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "zh-tw": "有毒唾液的顏色取決於神奇寶貝吃的東西。 Grafaiai 用唾液覆蓋手指，在森林裡的樹木上畫出圖案。"
+  },
+  "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.": {
+    "en": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.",
+    "zh-tw": "此攻擊還會對對手後備戰中每隻帶有能量的神奇寶貝造成 20 點傷害。"
+  },
+  "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.": {
+    "en": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+    "zh-tw": "這是小型龍系神奇寶貝。它生活在棟多佐的嘴裡，以保護自己免受外部敵人的侵害。"
+  },
+  "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.": {
+    "en": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+    "zh-tw": "這只神奇寶貝顯然將它的脖子根部打成一個結，這樣儲存在腹部的能量就不會從它的喙中逸出。"
+  },
+  "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.": {
+    "en": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+    "zh-tw": "這只神奇寶貝可以在 65 英尺外捕捉到貝魯扎的氣味，並將自己隱藏在沙子裡。"
+  },
+  "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.": {
+    "en": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "zh-tw": "該寶可夢雖然貪吃，但不擅長獲取食物。它與龍切合作捕捉獵物。"
+  },
+  "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.": {
+    "en": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+    "zh-tw": "這種神奇寶貝通常反應遲緩，但一旦進入戰鬥，就會以閃電般的動作擊倒敵人。"
+  },
+  "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.": {
+    "en": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+    "zh-tw": "這只神奇寶貝使用斗篷內襯的反光毛皮來偽裝花莖，創造出花朵漂浮的錯覺。"
+  },
+  "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.": {
+    "en": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "zh-tw": "這只神奇寶貝誕生於大約 1500 年前的寶箱內。它會吸走試圖偷竊寶藏的惡棍的生命力。"
+  },
+  "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.": {
+    "en": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
+    "zh-tw": "這種神奇寶貝會攻擊成群的典當者和雙刃者，從他們身上收集金屬，以製造一把大而堅固的錘子。"
+  },
+  "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.": {
+    "en": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+    "zh-tw": "雖然它通常是性情溫和的神奇寶貝，但它會用鋒利的、浸有毒液的門牙咬住任何激怒它的東西，導致它憤怒的對象癱瘓。"
+  },
+  "Tinkatink": {
+    "en": "Tinkatink",
+    "it": "Tinkatink",
+    "fr": "Tinkatink",
+    "zh-tw": "丁卡丁克",
+    "de": "Tinkatink",
+    "pt-br": "Tinkatink",
+    "es": "tinkatink"
+  },
+  "Tinkaton ex": {
+    "en": "Tinkaton ex",
+    "zh-tw": "廷卡頓前"
+  },
+  "Tinkatuff": {
+    "en": "Tinkatuff",
+    "es": "Tinkatuff",
+    "it": "Tinkatuff",
+    "fr": "Tinkatuff",
+    "de": "Tinkatuff",
+    "zh-tw": "廷卡塔夫",
+    "pt-br": "Tinkatuff"
+  },
+  "Tumbling Attack": {
+    "en": "Tumbling Attack",
+    "zh-tw": "翻滾攻擊"
+  },
+  "Varoom": {
+    "en": "Varoom",
+    "fr": "Varoom",
+    "es": "varoom",
+    "de": "Varoom",
+    "zh-tw": "瓦魯姆",
+    "it": "Varoom",
+    "pt-br": "Varoom"
+  },
+  "When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.": {
+    "en": "When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.",
+    "zh-tw": "當被火能量加熱時，它的角的溫度會超過 1,800 華氏度。被它們刺傷的人會受傷和燒傷。"
+  },
+  "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.": {
+    "en": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "zh-tw": "當群體受到攻擊時，Pawmo 會第一個投入戰鬥，用電擊的戰鬥技術擊敗敵人。"
+  },
+  "Wiglett": {
+    "en": "Wiglett",
+    "es": "wilett",
+    "fr": "Wiglett",
+    "de": "Wiglett",
+    "it": "Wiglett",
+    "pt-br": "Wiglett",
+    "zh-tw": "威格利特"
+  },
+  "Wugtrio ex": {
+    "en": "Wugtrio ex",
+    "zh-tw": "烏格特里奧前"
+  },
+  "Your Active Dondozo has no Retreat Cost.": {
+    "en": "Your Active Dondozo has no Retreat Cost.",
+    "zh-tw": "您的活躍棟多佐沒有撤退成本。"
   }
 }
