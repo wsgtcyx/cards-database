@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bibarel es",
         "de": "Bibarel ex",
         "pt-br": "Ex Bibarel",
-        "zh-tw": "比巴雷爾前"
+        "zh-tw": "比巴雷爾超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

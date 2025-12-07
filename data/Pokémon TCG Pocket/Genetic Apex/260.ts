@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zapdos-ex",
         'pt-br': "Zapdos ex",
         ko: "썬더 ex",
-        "zh-tw": "Zapdos 前"
+        "zh-tw": "Zapdos 超級"
     },
     illustrator: "PLANETA Saito",
     category: "Pokemon",

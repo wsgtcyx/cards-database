@@ -10,7 +10,7 @@ const card: Card = {
         de: "Glurak-ex",
         'pt-br': "Charizard ex",
         ko: "리자몽 ex",
-        "zh-tw": "噴火龍前身"
+        "zh-tw": "噴火龍超級"
     },
     illustrator: "kantaro",
     category: "Pokemon",

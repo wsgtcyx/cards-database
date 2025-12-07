@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zapdos es",
         "de": "Zapdos ex",
         "pt-br": "Zapdos ex",
-        "zh-tw": "Zapdos 前"
+        "zh-tw": "Zapdos 超級"
     },
     illustrator: "PLANETA Saito",
     rarity: "Two Shiny",

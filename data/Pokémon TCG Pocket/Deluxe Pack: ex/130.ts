@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Raichu di Alola ex",
         "de": "Alolan Raichu ex",
         "pt-br": "Ex de Alola Raichu",
-        "zh-tw": "阿羅拉雷丘前身"
+        "zh-tw": "阿羅拉雷丘超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

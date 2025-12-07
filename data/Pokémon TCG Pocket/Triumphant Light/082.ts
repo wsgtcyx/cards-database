@@ -10,7 +10,7 @@ const card: Card = {
         de: "Folipurba-ex",
         'pt-br': "Leafeon ex",
         ko: "리피아 ex",
-        "zh-tw": "葉豐前"
+        "zh-tw": "葉豐超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

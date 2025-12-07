@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gyarados es",
         "de": "Gyarados ex",
         "pt-br": "Ex-Gyarados",
-        "zh-tw": "暴鯉龍前身"
+        "zh-tw": "暴鯉龍超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

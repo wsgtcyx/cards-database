@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tinkaton es",
         "de": "Tinkaton ex",
         "pt-br": "Ex-Tinkaton",
-        "zh-tw": "廷卡頓前"
+        "zh-tw": "廷卡頓超級"
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",

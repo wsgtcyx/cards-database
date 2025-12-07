@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dragalge es",
         "de": "Dragalge ex",
         "pt-br": "Dragalge ex",
-        "zh-tw": "德拉格前"
+        "zh-tw": "德拉格超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Altaria es",
         "de": "Mega Altaria ex",
         "pt-br": "Mega Altaria ex",
-        "zh-tw": "超級阿爾塔利亞前"
+        "zh-tw": "超級阿爾塔利亞超級"
     },
     illustrator: "Susumu Maeya",
     rarity: "Three Star",

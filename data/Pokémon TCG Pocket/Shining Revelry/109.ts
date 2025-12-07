@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schligdri-ex",
         'pt-br': "Wugtrio ex",
         ko: "바닥트리오 ex",
-        "zh-tw": "烏格特里奧前"
+        "zh-tw": "烏格特里奧超級"
     },
     illustrator: "PLANETA Tsuji",
     category: "Pokemon",

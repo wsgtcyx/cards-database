@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Guzzlord es",
         "de": "Guzzlord ex",
         "pt-br": "Guzzlord ex",
-        "zh-tw": "古茲領主前任"
+        "zh-tw": "古茲領主超級"
     },
     illustrator: "Nurikabe",
     rarity: "Two Star",

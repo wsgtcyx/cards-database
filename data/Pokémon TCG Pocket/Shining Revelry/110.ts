@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lucario-ex",
         'pt-br': "Lucario ex",
         ko: "루카리오 ex",
-        "zh-tw": "路卡利歐前身"
+        "zh-tw": "路卡利歐超級"
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

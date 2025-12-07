@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Jolteon es",
         "de": "Jolteon ex",
         "pt-br": "Ex-Jolteon",
-        "zh-tw": "雷頓前"
+        "zh-tw": "雷頓超級"
     },
     illustrator: "kodama",
     rarity: "Two Star",

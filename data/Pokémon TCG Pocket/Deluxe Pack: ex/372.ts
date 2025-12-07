@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Arceus es",
         "de": "Arceus ex",
         "pt-br": "Arceus ex",
-        "zh-tw": "阿爾宙斯前身"
+        "zh-tw": "阿爾宙斯超級"
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Espeon es",
         "de": "Espeon ex",
         "pt-br": "Espeon ex",
-        "zh-tw": "埃斯彭前"
+        "zh-tw": "埃斯彭超級"
     },
     illustrator: "Taira Akitsu",
     rarity: "Two Star",

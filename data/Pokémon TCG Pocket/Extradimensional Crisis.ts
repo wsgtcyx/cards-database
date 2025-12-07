@@ -5,13 +5,14 @@ const set: Set = {
 	id: "A3a",
 
 	name: {
-		// de: "Unschlagbare Gene",
+		de: "Extradimensional Crisis",
 		en: "Extradimensional Crisis",
-		// es: "Genes Formidables",
-		// fr: "Puissance Génétique",
-		// it: "Geni Supremi",
-		// 'pt-br': "Dominação Genética",
-		// ko: '최강의 유전자'
+		es: "Crisis Extradimensional",
+		fr: "Crise Extradimensionnelle",
+		it: "Crisi Extradimensionale",
+		'pt-br': "Crise Extradimensional",
+		ko: '초차원 위기',
+		'zh-tw': "次元危機"
 	},
 
 	serie: serie,

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Buzzwole ex",
         "de": "Buzzwole ex",
         "pt-br": "Ex-Buzzwole",
-        "zh-tw": "巴斯沃勒前任"
+        "zh-tw": "巴斯沃勒超級"
     },
     illustrator: "akagi",
     rarity: "Three Star",

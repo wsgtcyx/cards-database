@@ -1,0 +1,6802 @@
+[
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/105.ts",
+    "path": "name",
+    "en": "Mantyke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mantyke"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/105.ts",
+    "path": "description",
+    "en": "It's highly friendly and easily tamed. Tours that\ntake people swimming with Mantyke are a\nsuper-popular beach activity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It's highly friendly and easily tamed. Tours that\ntake people swimming with Mantyke are a\nsuper-popular beach activity."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/105.ts",
+    "path": "attacks[0].name",
+    "en": "Splashy Toss",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Splashy Toss"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/105.ts",
+    "path": "attacks[0].effect",
+    "en": "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/104.ts",
+    "path": "name",
+    "en": "Paldean Clodsire ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Paldean Clodsire ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/104.ts",
+    "path": "evolveFrom",
+    "en": "Paldean Wooper",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Paldean Wooper"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/104.ts",
+    "path": "attacks[0].name",
+    "en": "Venoshock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Venoshock"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/104.ts",
+    "path": "attacks[0].effect",
+    "en": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/103.ts",
+    "path": "name",
+    "en": "Garchomp ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Garchomp ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/103.ts",
+    "path": "evolveFrom",
+    "en": "Gabite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gabite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/103.ts",
+    "path": "attacks[0].name",
+    "en": "Linear Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Linear Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/103.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 50 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/103.ts",
+    "path": "attacks[1].name",
+    "en": "Dragon Claw",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragon Claw"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/102.ts",
+    "path": "name",
+    "en": "Mew ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mew ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/102.ts",
+    "path": "attacks[0].name",
+    "en": "Psyshot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Psyshot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/102.ts",
+    "path": "attacks[1].name",
+    "en": "Genome Hacking",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Genome Hacking"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/102.ts",
+    "path": "attacks[1].effect",
+    "en": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/101.ts",
+    "path": "name",
+    "en": "Infernape ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Infernape ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/101.ts",
+    "path": "evolveFrom",
+    "en": "Monferno",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Monferno"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/101.ts",
+    "path": "attacks[0].name",
+    "en": "Flare Blitz",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flare Blitz"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/101.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard all {R} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard all {R} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/100.ts",
+    "path": "name",
+    "en": "Paldean Wooper",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Paldean Wooper"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/100.ts",
+    "path": "description",
+    "en": "After losing a territorial struggle, Wooper began\nliving on land. The Pokémon changed over time,\ndeveloping a poisonous film to protect its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "After losing a territorial struggle, Wooper began\nliving on land. The Pokémon changed over time,\ndeveloping a poisonous film to protect its body."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/100.ts",
+    "path": "attacks[0].name",
+    "en": "Poison Jab",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poison Jab"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/100.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/099.ts",
+    "path": "name",
+    "en": "Gabite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gabite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/099.ts",
+    "path": "evolveFrom",
+    "en": "Gible",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gible"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/099.ts",
+    "path": "description",
+    "en": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "In rare cases, it molts and sheds its scales.\nMedicine containing its scales as an ingredient\nwill make a weary body feel invigorated."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/099.ts",
+    "path": "attacks[0].name",
+    "en": "Sharp Scythe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sharp Scythe"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/098.ts",
+    "path": "name",
+    "en": "Gible",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gible"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/098.ts",
+    "path": "description",
+    "en": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It skulks in caves, and when prey or an enemy\npasses by, it leaps out and chomps them.\nThe force of its attack sometimes chips its teeth."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/098.ts",
+    "path": "attacks[0].name",
+    "en": "Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tackle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/097.ts",
+    "path": "name",
+    "en": "Pyukumuku",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pyukumuku"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/097.ts",
+    "path": "description",
+    "en": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/097.ts",
+    "path": "abilities[0].name",
+    "en": "Innards Out",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Innards Out"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/097.ts",
+    "path": "abilities[0].effect",
+    "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/097.ts",
+    "path": "attacks[0].name",
+    "en": "Sprinkle Water",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sprinkle Water"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/096.ts",
+    "path": "name",
+    "en": "Kingler",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Kingler"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/096.ts",
+    "path": "evolveFrom",
+    "en": "Krabby",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Krabby"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/096.ts",
+    "path": "description",
+    "en": "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/096.ts",
+    "path": "attacks[0].name",
+    "en": "KO Crab",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "KO Crab"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/096.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/095.ts",
+    "path": "name",
+    "en": "Krabby",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Krabby"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/095.ts",
+    "path": "description",
+    "en": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/095.ts",
+    "path": "attacks[0].name",
+    "en": "Vise Grip",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vise Grip"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/094.ts",
+    "path": "name",
+    "en": "Golduck",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Golduck"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/094.ts",
+    "path": "evolveFrom",
+    "en": "Psyduck",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Psyduck"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/094.ts",
+    "path": "description",
+    "en": "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/094.ts",
+    "path": "attacks[0].name",
+    "en": "Aqua Edge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aqua Edge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/093.ts",
+    "path": "name",
+    "en": "Psyduck",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Psyduck"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/093.ts",
+    "path": "description",
+    "en": "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/093.ts",
+    "path": "attacks[0].name",
+    "en": "Headache",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Headache"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/093.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent can't use any Supporter cards from their hand during their next turn."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/092.ts",
+    "path": "name",
+    "en": "Monferno",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Monferno"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/092.ts",
+    "path": "evolveFrom",
+    "en": "Chimchar",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Chimchar"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/092.ts",
+    "path": "description",
+    "en": "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It skillfully controls the intensity of the fire on its\ntail to keep its foes at an ideal distance."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/092.ts",
+    "path": "attacks[0].name",
+    "en": "Fiery Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fiery Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/091.ts",
+    "path": "name",
+    "en": "Chimchar",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Chimchar"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/091.ts",
+    "path": "description",
+    "en": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can't extinguish the fire.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its fiery rear end is fueled by gas made in its belly.\nEven rain can't extinguish the fire."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/091.ts",
+    "path": "attacks[0].name",
+    "en": "Scratch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Scratch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+    "path": "name",
+    "en": "Suicune ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Suicune ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+    "path": "attacks[0].name",
+    "en": "Crystal Waltz",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Crystal Waltz"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/089.ts",
+    "path": "name",
+    "en": "Poliwrath ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwrath ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/089.ts",
+    "path": "evolveFrom",
+    "en": "Poliwhirl",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwhirl"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/089.ts",
+    "path": "attacks[0].name",
+    "en": "Hydro Knuckle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hydro Knuckle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/089.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has any {W} Energy attached, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has any {W} Energy attached, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/088.ts",
+    "path": "name",
+    "en": "Raikou ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Raikou ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/088.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/088.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/088.ts",
+    "path": "attacks[0].name",
+    "en": "Voltaic Bullet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Voltaic Bullet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/088.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+    "path": "name",
+    "en": "Entei ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Entei ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+    "path": "attacks[0].name",
+    "en": "Blazing Beatdown",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blazing Beatdown"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/086.ts",
+    "path": "name",
+    "en": "Jumpluff ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jumpluff ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/086.ts",
+    "path": "evolveFrom",
+    "en": "Skiploom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skiploom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/086.ts",
+    "path": "attacks[0].name",
+    "en": "Breeze-By Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Breeze-By Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/086.ts",
+    "path": "attacks[0].effect",
+    "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "You may switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/085.ts",
+    "path": "name",
+    "en": "Morty",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Morty"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/085.ts",
+    "path": "effect",
+    "en": "For each of your {P} Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "For each of your {P} Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/084.ts",
+    "path": "name",
+    "en": "Traveling Merchant",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Traveling Merchant"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/084.ts",
+    "path": "effect",
+    "en": "Look at the top 4 cards of your deck. Put all Pokémon Tool cards you find there into your hand. Shuffle the other cards back into your deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Look at the top 4 cards of your deck. Put all Pokémon Tool cards you find there into your hand. Shuffle the other cards back into your deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/083.ts",
+    "path": "name",
+    "en": "Whitney",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Whitney"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/083.ts",
+    "path": "effect",
+    "en": "Heal 60 damage from 1 of your Miltank, and it recovers from being Asleep, Paralyzed, and Confused.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 60 damage from 1 of your Miltank, and it recovers from being Asleep, Paralyzed, and Confused."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/082.ts",
+    "path": "name",
+    "en": "Poliwrath ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwrath ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/082.ts",
+    "path": "evolveFrom",
+    "en": "Poliwhirl",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwhirl"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/082.ts",
+    "path": "attacks[0].name",
+    "en": "Hydro Knuckle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hydro Knuckle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/082.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has any {W} Energy attached, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has any {W} Energy attached, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/081.ts",
+    "path": "name",
+    "en": "Raikou ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Raikou ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/081.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/081.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/081.ts",
+    "path": "attacks[0].name",
+    "en": "Voltaic Bullet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Voltaic Bullet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/081.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+    "path": "name",
+    "en": "Suicune ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Suicune ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+    "path": "attacks[0].name",
+    "en": "Crystal Waltz",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Crystal Waltz"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+    "path": "name",
+    "en": "Entei ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Entei ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+    "path": "attacks[0].name",
+    "en": "Blazing Beatdown",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blazing Beatdown"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/078.ts",
+    "path": "name",
+    "en": "Jumpluff ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jumpluff ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/078.ts",
+    "path": "evolveFrom",
+    "en": "Skiploom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skiploom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/078.ts",
+    "path": "attacks[0].name",
+    "en": "Breeze-By Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Breeze-By Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/078.ts",
+    "path": "attacks[0].effect",
+    "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "You may switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/077.ts",
+    "path": "name",
+    "en": "Azurill",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Azurill"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/077.ts",
+    "path": "description",
+    "en": "Its tail bounces like a rubber ball. It flings that tail\naround to fight opponents bigger than itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its tail bounces like a rubber ball. It flings that tail\naround to fight opponents bigger than itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/077.ts",
+    "path": "attacks[0].name",
+    "en": "Squishy Healing",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Squishy Healing"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/077.ts",
+    "path": "attacks[0].effect",
+    "en": "Heal 50 damage from 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 50 damage from 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/076.ts",
+    "path": "name",
+    "en": "Phanpy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Phanpy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/076.ts",
+    "path": "description",
+    "en": "This Pokémon lives and nests on a riverbank.\nAfter playing in the mud, it won't be able to\nsettle down unless it washes its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon lives and nests on a riverbank.\nAfter playing in the mud, it won't be able to\nsettle down unless it washes its body."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/076.ts",
+    "path": "attacks[0].name",
+    "en": "Flail",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flail"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/076.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/075.ts",
+    "path": "name",
+    "en": "Latios",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Latios"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/075.ts",
+    "path": "description",
+    "en": "It understands human speech and is highly\nintelligent. It is a tender Pokémon that\ndislikes fighting.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It understands human speech and is highly\nintelligent. It is a tender Pokémon that\ndislikes fighting."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/075.ts",
+    "path": "abilities[0].name",
+    "en": "Fantastical Floating",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fantastical Floating"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/075.ts",
+    "path": "abilities[0].effect",
+    "en": "If you have Latias in play, this Pokémon has no Retreat Cost.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If you have Latias in play, this Pokémon has no Retreat Cost."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/075.ts",
+    "path": "attacks[0].name",
+    "en": "Luster Purge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Luster Purge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/075.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard all Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard all Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/074.ts",
+    "path": "name",
+    "en": "Yamper",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Yamper"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/074.ts",
+    "path": "description",
+    "en": "This gluttonous Pokémon only assists people with\ntheir work because it wants treats. As it runs,\nit crackles with electricity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This gluttonous Pokémon only assists people with\ntheir work because it wants treats. As it runs,\nit crackles with electricity."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/074.ts",
+    "path": "attacks[0].name",
+    "en": "Zap Kick",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zap Kick"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/073.ts",
+    "path": "name",
+    "en": "Stunfisk",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stunfisk"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/073.ts",
+    "path": "description",
+    "en": "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/073.ts",
+    "path": "attacks[0].name",
+    "en": "Static Shock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Static Shock"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/072.ts",
+    "path": "name",
+    "en": "Milotic",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Milotic"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/072.ts",
+    "path": "evolveFrom",
+    "en": "Feebas",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Feebas"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/072.ts",
+    "path": "description",
+    "en": "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/072.ts",
+    "path": "abilities[0].name",
+    "en": "Healing Ripples",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Healing Ripples"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/072.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/072.ts",
+    "path": "attacks[0].name",
+    "en": "Aqua Edge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aqua Edge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/071.ts",
+    "path": "name",
+    "en": "Morty",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Morty"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/071.ts",
+    "path": "effect",
+    "en": "For each of your {P} Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "For each of your {P} Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/070.ts",
+    "path": "name",
+    "en": "Traveling Merchant",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Traveling Merchant"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/070.ts",
+    "path": "effect",
+    "en": "Look at the top 4 cards of your deck. Put all Pokémon Tool cards you find there into your hand. Shuffle the other cards back into your deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Look at the top 4 cards of your deck. Put all Pokémon Tool cards you find there into your hand. Shuffle the other cards back into your deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/069.ts",
+    "path": "name",
+    "en": "Whitney",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Whitney"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/069.ts",
+    "path": "effect",
+    "en": "Heal 60 damage from 1 of your Miltank, and it recovers from being Asleep, Paralyzed, and Confused.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 60 damage from 1 of your Miltank, and it recovers from being Asleep, Paralyzed, and Confused."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/068.ts",
+    "path": "name",
+    "en": "Memory Light",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Memory Light"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/068.ts",
+    "path": "effect",
+    "en": "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/067.ts",
+    "path": "name",
+    "en": "Inflatable Boat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Inflatable Boat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/067.ts",
+    "path": "effect",
+    "en": "The Retreat Cost of the {W} Pokémon this card is attached to is 1 less.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The Retreat Cost of the {W} Pokémon this card is attached to is 1 less."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/066.ts",
+    "path": "name",
+    "en": "Fletchling",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fletchling"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/066.ts",
+    "path": "description",
+    "en": "This Pokémon is normally calm, but once it enters battle,\nits hormonal balance changes and it becomes aggressive.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon is normally calm, but once it enters battle,\nits hormonal balance changes and it becomes aggressive."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/066.ts",
+    "path": "attacks[0].name",
+    "en": "Quick Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Quick Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/066.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, this attack does 30 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, this attack does 30 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/065.ts",
+    "path": "name",
+    "en": "Zangoose",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zangoose"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/065.ts",
+    "path": "description",
+    "en": "It's Seviper's archrival. To threaten those\nit encounters, it fans out the claws on its\nfront paws.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It's Seviper's archrival. To threaten those\nit encounters, it fans out the claws on its\nfront paws."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/065.ts",
+    "path": "abilities[0].name",
+    "en": "Counterattack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Counterattack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/065.ts",
+    "path": "abilities[0].effect",
+    "en": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/065.ts",
+    "path": "attacks[0].name",
+    "en": "Slash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slash"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/064.ts",
+    "path": "name",
+    "en": "Swablu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Swablu"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/064.ts",
+    "path": "description",
+    "en": "It constantly grooms its cotton-like wings. It takes\na shower to clean itself if it becomes dirty.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It constantly grooms its cotton-like wings. It takes\na shower to clean itself if it becomes dirty."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/064.ts",
+    "path": "attacks[0].name",
+    "en": "Peck",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Peck"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/063.ts",
+    "path": "name",
+    "en": "Azurill",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Azurill"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/063.ts",
+    "path": "description",
+    "en": "Its tail bounces like a rubber ball. It flings that tail\naround to fight opponents bigger than itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its tail bounces like a rubber ball. It flings that tail\naround to fight opponents bigger than itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/063.ts",
+    "path": "attacks[0].name",
+    "en": "Squishy Healing",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Squishy Healing"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/063.ts",
+    "path": "attacks[0].effect",
+    "en": "Heal 50 damage from 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 50 damage from 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/062.ts",
+    "path": "name",
+    "en": "Miltank",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Miltank"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/062.ts",
+    "path": "description",
+    "en": "Miltank produces highly nutritious milk, so it's\nbeen supporting the lives of people and other\nPokémon since ancient times.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Miltank produces highly nutritious milk, so it's\nbeen supporting the lives of people and other\nPokémon since ancient times."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/062.ts",
+    "path": "attacks[0].name",
+    "en": "Rolling Frenzy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rolling Frenzy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/062.ts",
+    "path": "attacks[0].effect",
+    "en": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/061.ts",
+    "path": "name",
+    "en": "Ursaring",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ursaring"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/061.ts",
+    "path": "evolveFrom",
+    "en": "Teddiursa",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Teddiursa"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/061.ts",
+    "path": "description",
+    "en": "It usually wears a hardened expression, but when\nit's licking up honey—which it loves—the joy it\nfeels will cause it to break into a wide grin.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It usually wears a hardened expression, but when\nit's licking up honey—which it loves—the joy it\nfeels will cause it to break into a wide grin."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/061.ts",
+    "path": "attacks[0].name",
+    "en": "Claw Slash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Claw Slash"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/060.ts",
+    "path": "name",
+    "en": "Teddiursa",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Teddiursa"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/060.ts",
+    "path": "description",
+    "en": "Its paws are soaked in oodles of honey. When\nnervous, Teddiursa will lick its paws and soon\nhave a smile back on its face.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its paws are soaked in oodles of honey. When\nnervous, Teddiursa will lick its paws and soon\nhave a smile back on its face."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/060.ts",
+    "path": "attacks[0].name",
+    "en": "Surprise Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Surprise Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/060.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If tails, this attack does nothing."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/059.ts",
+    "path": "name",
+    "en": "Igglybuff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Igglybuff"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/059.ts",
+    "path": "description",
+    "en": "Its body has a faintly sweet scent and is bouncy\nand soft. If it bounces even once, it cannot stop.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its body has a faintly sweet scent and is bouncy\nand soft. If it bounces even once, it cannot stop."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/059.ts",
+    "path": "attacks[0].name",
+    "en": "Sleepy Lullaby",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sleepy Lullaby"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/059.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Asleep.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Asleep."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/058.ts",
+    "path": "name",
+    "en": "Lickilicky",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lickilicky"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/058.ts",
+    "path": "evolveFrom",
+    "en": "Lickitung",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lickitung"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/058.ts",
+    "path": "description",
+    "en": "Lickilicky's strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky's tongue can stretch so far.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lickilicky's strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky's tongue can stretch so far."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/058.ts",
+    "path": "attacks[0].name",
+    "en": "Stretch Tongue",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stretch Tongue"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/058.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 60 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 60 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/057.ts",
+    "path": "name",
+    "en": "Lickitung",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lickitung"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/057.ts",
+    "path": "description",
+    "en": "If this Pokémon's sticky saliva gets on you and\nyou don't clean it off, an intense itch will set in.\nThe itch won't go away, either.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon's sticky saliva gets on you and\nyou don't clean it off, an intense itch will set in.\nThe itch won't go away, either."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/057.ts",
+    "path": "attacks[0].name",
+    "en": "Stretch Tongue",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stretch Tongue"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/057.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 30 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 30 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/056.ts",
+    "path": "name",
+    "en": "Farfetch'd",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Farfetch'd"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/056.ts",
+    "path": "description",
+    "en": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/056.ts",
+    "path": "attacks[0].name",
+    "en": "Leek Slam",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leek Slam"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/055.ts",
+    "path": "name",
+    "en": "Altaria",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Altaria"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/055.ts",
+    "path": "evolveFrom",
+    "en": "Swablu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Swablu"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/055.ts",
+    "path": "description",
+    "en": "If it bonds with a person, it will gently envelop\nthe friend with its soft wings, then hum.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If it bonds with a person, it will gently envelop\nthe friend with its soft wings, then hum."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/055.ts",
+    "path": "attacks[0].name",
+    "en": "Dragon Arcana",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragon Arcana"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/055.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/054.ts",
+    "path": "name",
+    "en": "Dragalge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragalge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/054.ts",
+    "path": "evolveFrom",
+    "en": "Skrelp",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skrelp"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/054.ts",
+    "path": "description",
+    "en": "Using a liquid poison, Dragalge indiscriminately\nattacks anything that wanders into its territory.\nThis poison can corrode the undersides of boats.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Using a liquid poison, Dragalge indiscriminately\nattacks anything that wanders into its territory.\nThis poison can corrode the undersides of boats."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/054.ts",
+    "path": "attacks[0].name",
+    "en": "Sludge Bomb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sludge Bomb"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/053.ts",
+    "path": "name",
+    "en": "Skrelp",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skrelp"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/053.ts",
+    "path": "description",
+    "en": "Skrelp evades its enemies by hiding amid\ndrifting seaweed. It eats rotten seaweed to\ncreate its poison.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skrelp evades its enemies by hiding amid\ndrifting seaweed. It eats rotten seaweed to\ncreate its poison."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/053.ts",
+    "path": "attacks[0].name",
+    "en": "Melt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Melt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/052.ts",
+    "path": "name",
+    "en": "Malamar",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Malamar"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/052.ts",
+    "path": "evolveFrom",
+    "en": "Inkay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Inkay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/052.ts",
+    "path": "description",
+    "en": "Gazing at its luminescent spots will quickly\ninduce a hypnotic state, putting the observer\nunder Malamar's control.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gazing at its luminescent spots will quickly\ninduce a hypnotic state, putting the observer\nunder Malamar's control."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/052.ts",
+    "path": "attacks[0].name",
+    "en": "Mental Surge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mental Surge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/052.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage to each of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage to each of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/051.ts",
+    "path": "name",
+    "en": "Inkay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Inkay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/051.ts",
+    "path": "description",
+    "en": "It spins while making its luminescent spots flash.\nThese spots allow it to communicate with others\nby using different patterns of light.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It spins while making its luminescent spots flash.\nThese spots allow it to communicate with others\nby using different patterns of light."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/051.ts",
+    "path": "attacks[0].name",
+    "en": "Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tackle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/050.ts",
+    "path": "name",
+    "en": "Zoroark",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zoroark"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/050.ts",
+    "path": "evolveFrom",
+    "en": "Zorua",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zorua"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/050.ts",
+    "path": "description",
+    "en": "Stories say those who tried to catch Zoroark were\ntrapped in an illusion and punished.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stories say those who tried to catch Zoroark were\ntrapped in an illusion and punished."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/050.ts",
+    "path": "abilities[0].name",
+    "en": "Illusive Trickery",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Illusive Trickery"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/050.ts",
+    "path": "abilities[0].effect",
+    "en": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/050.ts",
+    "path": "attacks[0].name",
+    "en": "Night Daze",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Night Daze"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/049.ts",
+    "path": "name",
+    "en": "Zorua",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zorua"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/049.ts",
+    "path": "description",
+    "en": "It changes into the forms of others to surprise\nthem. Apparently, it often transforms into a\nsilent child.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It changes into the forms of others to surprise\nthem. Apparently, it often transforms into a\nsilent child."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/049.ts",
+    "path": "attacks[0].name",
+    "en": "Ram",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ram"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/048.ts",
+    "path": "name",
+    "en": "Seviper",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Seviper"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/048.ts",
+    "path": "description",
+    "en": "Constant polishing makes the edge of the blade on\nits tail extremely sharp. It's Zangoose's archrival.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Constant polishing makes the edge of the blade on\nits tail extremely sharp. It's Zangoose's archrival."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/048.ts",
+    "path": "attacks[0].name",
+    "en": "Fateful Fang",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fateful Fang"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/048.ts",
+    "path": "attacks[0].effect",
+    "en": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/047.ts",
+    "path": "name",
+    "en": "Crustle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Crustle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/047.ts",
+    "path": "evolveFrom",
+    "en": "Dwebble",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dwebble"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/047.ts",
+    "path": "description",
+    "en": "This highly territorial Pokémon prefers dry\nclimates. It won't come out of its boulder on\nrainy days.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This highly territorial Pokémon prefers dry\nclimates. It won't come out of its boulder on\nrainy days."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/047.ts",
+    "path": "attacks[0].name",
+    "en": "Stone Edge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stone Edge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/047.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, this attack does 50 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, this attack does 50 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/046.ts",
+    "path": "name",
+    "en": "Dwebble",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dwebble"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/046.ts",
+    "path": "description",
+    "en": "It makes a hole in a suitable rock. If that rock\nbreaks, the Pokémon remains agitated until it\nlocates a replacement.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It makes a hole in a suitable rock. If that rock\nbreaks, the Pokémon remains agitated until it\nlocates a replacement."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/046.ts",
+    "path": "attacks[0].name",
+    "en": "Sand Spray",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sand Spray"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/045.ts",
+    "path": "name",
+    "en": "Relicanth",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Relicanth"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/045.ts",
+    "path": "description",
+    "en": "Rock-hard scales and oil-filled swim bladders\nallow this Pokémon to survive the intense water\npressure of the deep sea.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rock-hard scales and oil-filled swim bladders\nallow this Pokémon to survive the intense water\npressure of the deep sea."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/045.ts",
+    "path": "attacks[0].name",
+    "en": "Take Down",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take Down"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/045.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon also does 10 damage to itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon also does 10 damage to itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/044.ts",
+    "path": "name",
+    "en": "Donphan",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Donphan"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/044.ts",
+    "path": "evolveFrom",
+    "en": "Phanpy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Phanpy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/044.ts",
+    "path": "description",
+    "en": "Donphan is covered in tough hide, so even being\nhit by a car won't faze this Pokémon. However, it\nis extremely susceptible to rain.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Donphan is covered in tough hide, so even being\nhit by a car won't faze this Pokémon. However, it\nis extremely susceptible to rain."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/044.ts",
+    "path": "abilities[0].name",
+    "en": "Exoskeleton",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Exoskeleton"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/044.ts",
+    "path": "abilities[0].effect",
+    "en": "This Pokémon takes −20 damage from attacks.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon takes −20 damage from attacks."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/044.ts",
+    "path": "attacks[0].name",
+    "en": "Land Crush",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Land Crush"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/043.ts",
+    "path": "name",
+    "en": "Phanpy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Phanpy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/043.ts",
+    "path": "description",
+    "en": "This Pokémon lives and nests on a riverbank.\nAfter playing in the mud, it won't be able to\nsettle down unless it washes its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon lives and nests on a riverbank.\nAfter playing in the mud, it won't be able to\nsettle down unless it washes its body."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/043.ts",
+    "path": "attacks[0].name",
+    "en": "Flail",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flail"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/043.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/042.ts",
+    "path": "name",
+    "en": "Poliwrath ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwrath ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/042.ts",
+    "path": "evolveFrom",
+    "en": "Poliwhirl",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwhirl"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/042.ts",
+    "path": "attacks[0].name",
+    "en": "Hydro Knuckle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hydro Knuckle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/042.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has any {W} Energy attached, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has any {W} Energy attached, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/041.ts",
+    "path": "name",
+    "en": "Dugtrio",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dugtrio"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/041.ts",
+    "path": "evolveFrom",
+    "en": "Diglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Diglett"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/041.ts",
+    "path": "description",
+    "en": "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/041.ts",
+    "path": "attacks[0].name",
+    "en": "Cliff Crumbler",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Cliff Crumbler"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/041.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard the top card of your deck. If that card is a {F} Pokémon, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard the top card of your deck. If that card is a {F} Pokémon, this attack does 60 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/040.ts",
+    "path": "name",
+    "en": "Diglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Diglett"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/040.ts",
+    "path": "description",
+    "en": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/040.ts",
+    "path": "attacks[0].name",
+    "en": "Headbutt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Headbutt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/039.ts",
+    "path": "name",
+    "en": "Jellicent",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jellicent"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/039.ts",
+    "path": "evolveFrom",
+    "en": "Frillish",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Frillish"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/039.ts",
+    "path": "description",
+    "en": "Most of this Pokémon's body composition is\nidentical to sea water. It makes sunken ships\nits lair.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Most of this Pokémon's body composition is\nidentical to sea water. It makes sunken ships\nits lair."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/039.ts",
+    "path": "attacks[0].name",
+    "en": "Devour Soul",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Devour Soul"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/038.ts",
+    "path": "name",
+    "en": "Frillish",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Frillish"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/038.ts",
+    "path": "description",
+    "en": "It envelops its prey in its veillike arms and draws\nit down to the deeps, five miles below the\nocean's surface.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It envelops its prey in its veillike arms and draws\nit down to the deeps, five miles below the\nocean's surface."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/038.ts",
+    "path": "attacks[0].name",
+    "en": "Absorb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Absorb"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/038.ts",
+    "path": "attacks[0].effect",
+    "en": "Heal 10 damage from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 10 damage from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/037.ts",
+    "path": "name",
+    "en": "Latios",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Latios"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/037.ts",
+    "path": "description",
+    "en": "It understands human speech and is highly\nintelligent. It is a tender Pokémon that\ndislikes fighting.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It understands human speech and is highly\nintelligent. It is a tender Pokémon that\ndislikes fighting."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/037.ts",
+    "path": "abilities[0].name",
+    "en": "Fantastical Floating",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fantastical Floating"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/037.ts",
+    "path": "abilities[0].effect",
+    "en": "If you have Latias in play, this Pokémon has no Retreat Cost.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If you have Latias in play, this Pokémon has no Retreat Cost."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/037.ts",
+    "path": "attacks[0].name",
+    "en": "Luster Purge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Luster Purge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/037.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard all Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard all Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/036.ts",
+    "path": "name",
+    "en": "Latias",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Latias"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/036.ts",
+    "path": "description",
+    "en": "It communicates using telepathy. Its body is\ncovered in down that refracts light to make\nit invisible.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It communicates using telepathy. Its body is\ncovered in down that refracts light to make\nit invisible."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/036.ts",
+    "path": "attacks[0].name",
+    "en": "Crossing Flights",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Crossing Flights"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/036.ts",
+    "path": "attacks[0].effect",
+    "en": "If Latios is on your Bench, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If Latios is on your Bench, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/035.ts",
+    "path": "name",
+    "en": "Galarian Cursola",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Galarian Cursola"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/035.ts",
+    "path": "evolveFrom",
+    "en": "Galarian Corsola",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Galarian Corsola"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/035.ts",
+    "path": "description",
+    "en": "Its shell is overflowing with its heightened\notherworldly energy. The ectoplasm serves as\nprotection for this Pokémon's core spirit.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its shell is overflowing with its heightened\notherworldly energy. The ectoplasm serves as\nprotection for this Pokémon's core spirit."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/035.ts",
+    "path": "abilities[0].name",
+    "en": "Perish Body",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Perish Body"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/035.ts",
+    "path": "abilities[0].effect",
+    "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/035.ts",
+    "path": "attacks[0].name",
+    "en": "Spooky Shot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Spooky Shot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/034.ts",
+    "path": "name",
+    "en": "Galarian Corsola",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Galarian Corsola"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/034.ts",
+    "path": "description",
+    "en": "Watch your step when wandering areas oceans\nonce covered. What looks like a stone could be\nthis Pokémon, and it will curse you if you kick it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Watch your step when wandering areas oceans\nonce covered. What looks like a stone could be\nthis Pokémon, and it will curse you if you kick it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/034.ts",
+    "path": "attacks[0].name",
+    "en": "Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tackle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/033.ts",
+    "path": "name",
+    "en": "Mismagius",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mismagius"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/033.ts",
+    "path": "evolveFrom",
+    "en": "Misdreavus",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Misdreavus"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/033.ts",
+    "path": "description",
+    "en": "Its cry sounds like an incantation. It is said the cry\nmay rarely be imbued with happiness-giving power.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its cry sounds like an incantation. It is said the cry\nmay rarely be imbued with happiness-giving power."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/033.ts",
+    "path": "attacks[0].name",
+    "en": "Cursed Prose",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Cursed Prose"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/033.ts",
+    "path": "attacks[0].effect",
+    "en": "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/032.ts",
+    "path": "name",
+    "en": "Misdreavus",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Misdreavus"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/032.ts",
+    "path": "description",
+    "en": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon startles people in the middle of\nthe night. It gathers fear as its energy."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/032.ts",
+    "path": "abilities[0].name",
+    "en": "Infiltrating Inspection",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Infiltrating Inspection"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/032.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/032.ts",
+    "path": "attacks[0].name",
+    "en": "Will-O-Wisp",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Will-O-Wisp"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/031.ts",
+    "path": "name",
+    "en": "Boltund",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Boltund"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/031.ts",
+    "path": "evolveFrom",
+    "en": "Yamper",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Yamper"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/031.ts",
+    "path": "description",
+    "en": "This Pokémon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/031.ts",
+    "path": "attacks[0].name",
+    "en": "Defiant Spark",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Defiant Spark"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/031.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has damage on it, this attack can be used for 1 {L} Energy.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has damage on it, this attack can be used for 1 {L} Energy."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/030.ts",
+    "path": "name",
+    "en": "Yamper",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Yamper"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/030.ts",
+    "path": "description",
+    "en": "This gluttonous Pokémon only assists people with\ntheir work because it wants treats. As it runs,\nit crackles with electricity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This gluttonous Pokémon only assists people with\ntheir work because it wants treats. As it runs,\nit crackles with electricity."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/030.ts",
+    "path": "attacks[0].name",
+    "en": "Zap Kick",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zap Kick"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/029.ts",
+    "path": "name",
+    "en": "Stunfisk",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stunfisk"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/029.ts",
+    "path": "description",
+    "en": "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/029.ts",
+    "path": "attacks[0].name",
+    "en": "Static Shock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Static Shock"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/028.ts",
+    "path": "name",
+    "en": "Eelektross",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eelektross"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/028.ts",
+    "path": "evolveFrom",
+    "en": "Eelektrik",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eelektrik"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/028.ts",
+    "path": "description",
+    "en": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/028.ts",
+    "path": "attacks[0].name",
+    "en": "Wild Charge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Wild Charge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/028.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon also does 20 damage to itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon also does 20 damage to itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/027.ts",
+    "path": "name",
+    "en": "Eelektrik",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eelektrik"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/027.ts",
+    "path": "evolveFrom",
+    "en": "Tynamo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tynamo"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/027.ts",
+    "path": "description",
+    "en": "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/027.ts",
+    "path": "attacks[0].name",
+    "en": "Electro Ball",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Electro Ball"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/026.ts",
+    "path": "name",
+    "en": "Tynamo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tynamo"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/026.ts",
+    "path": "description",
+    "en": "While one alone doesn't have much power,\na chain of many Tynamo can be as powerful\nas lightning.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "While one alone doesn't have much power,\na chain of many Tynamo can be as powerful\nas lightning."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/026.ts",
+    "path": "attacks[0].name",
+    "en": "Tiny Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tiny Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/025.ts",
+    "path": "name",
+    "en": "Raikou ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Raikou ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/025.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/025.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/025.ts",
+    "path": "attacks[0].name",
+    "en": "Voltaic Bullet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Voltaic Bullet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/025.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/024.ts",
+    "path": "name",
+    "en": "Cryogonal",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Cryogonal"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/024.ts",
+    "path": "description",
+    "en": "Cryogonal appear during cold seasons. It is said\nthat people and Pokémon who die on snowy\nmountains are reborn into these Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Cryogonal appear during cold seasons. It is said\nthat people and Pokémon who die on snowy\nmountains are reborn into these Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/024.ts",
+    "path": "attacks[0].name",
+    "en": "Ice Blade",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ice Blade"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/024.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 40 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 40 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/023.ts",
+    "path": "name",
+    "en": "Mantyke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mantyke"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/023.ts",
+    "path": "description",
+    "en": "It's highly friendly and easily tamed. Tours that\ntake people swimming with Mantyke are a\nsuper-popular beach activity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It's highly friendly and easily tamed. Tours that\ntake people swimming with Mantyke are a\nsuper-popular beach activity."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/023.ts",
+    "path": "attacks[0].name",
+    "en": "Splashy Toss",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Splashy Toss"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/023.ts",
+    "path": "attacks[0].effect",
+    "en": "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/022.ts",
+    "path": "name",
+    "en": "Milotic",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Milotic"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/022.ts",
+    "path": "evolveFrom",
+    "en": "Feebas",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Feebas"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/022.ts",
+    "path": "description",
+    "en": "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/022.ts",
+    "path": "abilities[0].name",
+    "en": "Healing Ripples",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Healing Ripples"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/022.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/022.ts",
+    "path": "attacks[0].name",
+    "en": "Aqua Edge",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aqua Edge"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/021.ts",
+    "path": "name",
+    "en": "Feebas",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Feebas"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/021.ts",
+    "path": "description",
+    "en": "Although unattractive and unpopular, this\nPokémon's marvelous vitality has made it a\nsubject of research.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Although unattractive and unpopular, this\nPokémon's marvelous vitality has made it a\nsubject of research."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/021.ts",
+    "path": "attacks[0].name",
+    "en": "Leap Out",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leap Out"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/021.ts",
+    "path": "attacks[0].effect",
+    "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+    "path": "name",
+    "en": "Suicune ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Suicune ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+    "path": "attacks[0].name",
+    "en": "Crystal Waltz",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Crystal Waltz"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/019.ts",
+    "path": "name",
+    "en": "Jynx",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jynx"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/019.ts",
+    "path": "description",
+    "en": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/019.ts",
+    "path": "attacks[0].name",
+    "en": "Dazzle Dance",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dazzle Dance"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/019.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Confused.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Confused."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/018.ts",
+    "path": "name",
+    "en": "Slowking",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slowking"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/018.ts",
+    "path": "evolveFrom",
+    "en": "Slowpoke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slowpoke"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/018.ts",
+    "path": "description",
+    "en": "When its head was bitten, toxins entered Slowpoke's\nhead and unlocked an extraordinary power.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When its head was bitten, toxins entered Slowpoke's\nhead and unlocked an extraordinary power."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/018.ts",
+    "path": "attacks[0].name",
+    "en": "Litter",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Litter"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/018.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/017.ts",
+    "path": "name",
+    "en": "Slowpoke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slowpoke"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/017.ts",
+    "path": "description",
+    "en": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It is incredibly slow and dopey. It takes five\nseconds for it to feel pain when under attack."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/017.ts",
+    "path": "attacks[0].name",
+    "en": "Water Gun",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Water Gun"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/016.ts",
+    "path": "name",
+    "en": "Tentacruel",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tentacruel"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/016.ts",
+    "path": "evolveFrom",
+    "en": "Tentacool",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tentacool"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/016.ts",
+    "path": "description",
+    "en": "When the red orbs on Tentacruel's head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When the red orbs on Tentacruel's head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/016.ts",
+    "path": "attacks[0].name",
+    "en": "Stun Poison",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stun Poison"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/016.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/015.ts",
+    "path": "name",
+    "en": "Tentacool",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tentacool"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/015.ts",
+    "path": "description",
+    "en": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/015.ts",
+    "path": "attacks[0].name",
+    "en": "Poison Sting",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poison Sting"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/015.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/014.ts",
+    "path": "name",
+    "en": "Poliwhirl",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwhirl"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/014.ts",
+    "path": "evolveFrom",
+    "en": "Poliwag",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwag"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/014.ts",
+    "path": "description",
+    "en": "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl's has been used in place of\nlullabies to get children to go to sleep.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Staring at the swirl on its belly causes drowsiness.\nThis trait of Poliwhirl's has been used in place of\nlullabies to get children to go to sleep."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/014.ts",
+    "path": "attacks[0].name",
+    "en": "Ram",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ram"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/013.ts",
+    "path": "name",
+    "en": "Poliwag",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poliwag"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/013.ts",
+    "path": "description",
+    "en": "For Poliwag, swimming is easier than walking.\nThe swirl pattern on its belly is actually part of\nthe Pokémon's innards showing through the skin.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "For Poliwag, swimming is easier than walking.\nThe swirl pattern on its belly is actually part of\nthe Pokémon's innards showing through the skin."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/013.ts",
+    "path": "attacks[0].name",
+    "en": "Call for Family",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Call for Family"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/013.ts",
+    "path": "attacks[0].effect",
+    "en": "Put 1 random Poliwag from your deck onto your Bench.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Put 1 random Poliwag from your deck onto your Bench."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/012.ts",
+    "path": "name",
+    "en": "Talonflame",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Talonflame"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/012.ts",
+    "path": "evolveFrom",
+    "en": "Fletchinder",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fletchinder"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/012.ts",
+    "path": "description",
+    "en": "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/012.ts",
+    "path": "attacks[0].name",
+    "en": "Searing Flame",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Searing Flame"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/012.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Burned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Burned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/011.ts",
+    "path": "name",
+    "en": "Fletchinder",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fletchinder"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/011.ts",
+    "path": "evolveFrom",
+    "en": "Fletchling",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fletchling"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/011.ts",
+    "path": "description",
+    "en": "Fletchinder scatters embers in tall grass\nwhere bug Pokémon might be hiding and\nthen catches them as they come leaping out.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fletchinder scatters embers in tall grass\nwhere bug Pokémon might be hiding and\nthen catches them as they come leaping out."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/011.ts",
+    "path": "attacks[0].name",
+    "en": "Fire Wing",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fire Wing"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+    "path": "name",
+    "en": "Entei ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Entei ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+    "path": "abilities[0].name",
+    "en": "Legendary Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Legendary Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+    "path": "attacks[0].name",
+    "en": "Blazing Beatdown",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blazing Beatdown"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/009.ts",
+    "path": "name",
+    "en": "Magcargo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Magcargo"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/009.ts",
+    "path": "evolveFrom",
+    "en": "Slugma",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slugma"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/009.ts",
+    "path": "description",
+    "en": "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its brittle shell occasionally spouts intense flames\nthat circulate throughout its body."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/009.ts",
+    "path": "attacks[0].name",
+    "en": "Heat Blast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heat Blast"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/008.ts",
+    "path": "name",
+    "en": "Slugma",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slugma"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/008.ts",
+    "path": "description",
+    "en": "A common sight in volcanic areas, it slowly slithers\naround in a constant search for warm places.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A common sight in volcanic areas, it slowly slithers\naround in a constant search for warm places."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/008.ts",
+    "path": "attacks[0].name",
+    "en": "Combustion",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Combustion"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/007.ts",
+    "path": "name",
+    "en": "Durant",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Durant"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/007.ts",
+    "path": "description",
+    "en": "They attack in groups, covering themselves in steel\narmor to protect themselves from Heatmor.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "They attack in groups, covering themselves in steel\narmor to protect themselves from Heatmor."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/007.ts",
+    "path": "attacks[0].name",
+    "en": "Mountain Munch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mountain Munch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/007.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard the top card of your opponent's deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard the top card of your opponent's deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/006.ts",
+    "path": "name",
+    "en": "Celebi",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Celebi"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/006.ts",
+    "path": "description",
+    "en": "This Pokémon wanders across time. Grass and trees\nflourish in the forests in which it has appeared.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon wanders across time. Grass and trees\nflourish in the forests in which it has appeared."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/006.ts",
+    "path": "attacks[0].name",
+    "en": "Temporal Leaves",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Temporal Leaves"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/006.ts",
+    "path": "attacks[0].effect",
+    "en": "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/005.ts",
+    "path": "name",
+    "en": "Sunflora",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sunflora"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/005.ts",
+    "path": "evolveFrom",
+    "en": "Sunkern",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sunkern"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/005.ts",
+    "path": "description",
+    "en": "In the daytime, it rushes about in a hectic\nmanner, but it comes to a complete stop when\nthe sun sets.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "In the daytime, it rushes about in a hectic\nmanner, but it comes to a complete stop when\nthe sun sets."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/005.ts",
+    "path": "attacks[0].name",
+    "en": "Trip Over",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Trip Over"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/005.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, this attack does 30 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, this attack does 30 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/004.ts",
+    "path": "name",
+    "en": "Sunkern",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sunkern"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/004.ts",
+    "path": "description",
+    "en": "It suddenly falls out of the sky in the morning.\nKnowing it's weak, it simply feeds until it evolves.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It suddenly falls out of the sky in the morning.\nKnowing it's weak, it simply feeds until it evolves."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/004.ts",
+    "path": "attacks[0].name",
+    "en": "Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tackle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/003.ts",
+    "path": "name",
+    "en": "Jumpluff ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jumpluff ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/003.ts",
+    "path": "evolveFrom",
+    "en": "Skiploom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skiploom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/003.ts",
+    "path": "attacks[0].name",
+    "en": "Breeze-By Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Breeze-By Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/003.ts",
+    "path": "attacks[0].effect",
+    "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "You may switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/002.ts",
+    "path": "name",
+    "en": "Skiploom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skiploom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/002.ts",
+    "path": "evolveFrom",
+    "en": "Hoppip",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hoppip"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/002.ts",
+    "path": "description",
+    "en": "Skiploom enthusiasts can apparently tell where a\nSkiploom was born by the scent drifting from the\nflower on the Pokémon's head.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skiploom enthusiasts can apparently tell where a\nSkiploom was born by the scent drifting from the\nflower on the Pokémon's head."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/002.ts",
+    "path": "attacks[0].name",
+    "en": "Bounce",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bounce"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/002.ts",
+    "path": "attacks[0].effect",
+    "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/001.ts",
+    "path": "name",
+    "en": "Hoppip",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hoppip"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/001.ts",
+    "path": "description",
+    "en": "Outside of cold regions, Hoppip can be found\npractically everywhere. This is because the wind\ncarries this species all over the world.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Outside of cold regions, Hoppip can be found\npractically everywhere. This is because the wind\ncarries this species all over the world."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Secluded Springs/001.ts",
+    "path": "attacks[0].name",
+    "en": "Splash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Splash"
+    }
+  }
+]

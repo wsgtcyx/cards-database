@@ -10,7 +10,7 @@ const card: Card = {
         de: "Granforgita-ex",
         'pt-br': "Tinkaton ex",
         ko: "두드리짱 ex",
-        "zh-tw": "廷卡頓前"
+        "zh-tw": "廷卡頓超級"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Star",

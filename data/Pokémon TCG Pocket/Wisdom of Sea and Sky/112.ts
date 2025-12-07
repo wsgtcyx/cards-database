@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Umbreon es",
         "de": "Umbreon ex",
         "pt-br": "Umbreon ex",
-        "zh-tw": "傘前"
+        "zh-tw": "傘超級"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",
