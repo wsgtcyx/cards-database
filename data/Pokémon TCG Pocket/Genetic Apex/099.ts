@@ -10,7 +10,7 @@ const card: Card = {
         de: "Voltobal",
         'pt-br': "Voltorb",
         ko: "찌리리공",
-        "zh-tw": "伏爾托布"
+        "zh-tw": "霹靂電球",
     },
     illustrator: "SATOSHI NAKAI",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rattfratz",
         'pt-br': "Rattata",
         ko: "꼬렛",
-        "zh-tw": "拉達"
+        "zh-tw": "小拉達",
     },
     illustrator: "Atsushi Furusawa",
     category: "Pokemon",

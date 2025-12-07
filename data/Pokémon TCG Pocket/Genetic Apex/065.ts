@@ -10,7 +10,7 @@ const card: Card = {
         de: "Jugong",
         'pt-br': "Dewgong",
         ko: "쥬레곤",
-        "zh-tw": "杜貢"
+        "zh-tw": "白海獅",
     },
     illustrator: "Kanako Eo",
     category: "Pokemon",

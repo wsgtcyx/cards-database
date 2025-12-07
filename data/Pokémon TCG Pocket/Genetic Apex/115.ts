@@ -10,7 +10,7 @@ const card: Card = {
         de: "Abra",
         'pt-br': "Abra",
         ko: "캐이시",
-        "zh-tw": "阿布拉"
+        "zh-tw": "凱西",
     },
     illustrator: "Aya Kusube",
     category: "Pokemon",

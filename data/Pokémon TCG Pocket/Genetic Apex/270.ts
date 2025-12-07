@@ -10,7 +10,7 @@ const card: Card = {
         de: "Giovanni",
         'pt-br': "Giovanni",
         ko: "비주기",
-        "zh-tw": "喬萬尼"
+        "zh-tw": "坂木",
     },
     illustrator: "Hideki Ishikawa",
     category: "Trainer",

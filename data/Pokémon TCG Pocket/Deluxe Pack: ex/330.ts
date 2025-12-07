@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Irida",
         "de": "Irida",
         "pt-br": "Irida",
-        "zh-tw": "伊里達"
+        "zh-tw": "珠貝",
     },
     illustrator: "Atsushi Furusawa",
     rarity: "Two Diamond",

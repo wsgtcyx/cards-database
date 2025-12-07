@@ -10,7 +10,7 @@ const card: Card = {
         de: "Solgaleo-ex",
         'pt-br': "Solgaleo ex",
         ko: "솔가레오 ex",
-        "zh-tw": "索爾迦雷歐EX"
+        "zh-tw": "索爾迦雷歐 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

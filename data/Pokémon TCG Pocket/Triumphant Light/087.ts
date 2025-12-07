@@ -10,7 +10,7 @@ const card: Card = {
         de: "Perla",
         'pt-br': "Irida",
         ko: "주혜",
-        "zh-tw": "伊里達"
+        "zh-tw": "珠貝",
     },
     illustrator: "Atsushi Furusawa",
     rarity: "Two Star",

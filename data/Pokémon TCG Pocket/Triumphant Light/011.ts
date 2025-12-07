@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hunduster",
         'pt-br': "Houndour",
         ko: "델빌",
-        "zh-tw": "獵犬"
+        "zh-tw": "戴魯比",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

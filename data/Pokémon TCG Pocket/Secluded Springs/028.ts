@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Elektross",
         "de": "Elektross",
         "pt-br": "Eletross",
-        "zh-tw": "電鰻"
+        "zh-tw": "麻麻鰻魚王",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",

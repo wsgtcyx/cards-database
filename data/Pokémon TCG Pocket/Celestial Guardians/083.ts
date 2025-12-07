@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mimigma",
         'pt-br': "Mimikyu",
         ko: "따라큐",
-        "zh-tw": "彌彌久"
+        "zh-tw": "謎擬Ｑ",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",

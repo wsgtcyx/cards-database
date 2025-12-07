@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dusclops",
         "de": "Dusclops",
         "pt-br": "Dusclops",
-        "zh-tw": "杜克洛普斯"
+        "zh-tw": "夜巨人",
     },
     illustrator: "Kazuma Koda",
     rarity: "Two Diamond",

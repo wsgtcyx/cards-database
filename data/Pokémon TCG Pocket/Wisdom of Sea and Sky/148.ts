@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Smeargle",
         "de": "Schmiere",
         "pt-br": "Espalhar",
-        "zh-tw": "斯米爾格爾"
+        "zh-tw": "圖圖犬",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "Two Diamond",

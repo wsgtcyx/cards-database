@@ -10,7 +10,7 @@ const card: Card = {
         de: "Blubella",
         'pt-br': "Bellossom",
         ko: "아르코",
-        "zh-tw": "貝洛索姆"
+        "zh-tw": "美麗花",
     },
     illustrator: "Naoyo Kimura",
     rarity: "Two Diamond",

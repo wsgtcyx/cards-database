@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Darmanitano",
         "de": "Darmanitan",
         "pt-br": "Darmanitano",
-        "zh-tw": "達馬尼坦"
+        "zh-tw": "達摩狒狒",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

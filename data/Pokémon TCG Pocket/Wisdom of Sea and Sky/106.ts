@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Barbaracolo",
         "de": "Barbaracle",
         "pt-br": "Bárbara",
-        "zh-tw": "野蠻人"
+        "zh-tw": "龜足巨鎧",
     },
     illustrator: "Nurikabe",
     rarity: "Two Diamond",

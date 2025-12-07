@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wadribie",
         'pt-br': "Combee",
         ko: "세꿀버리",
-        "zh-tw": "康比"
+        "zh-tw": "三蜜蜂",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",

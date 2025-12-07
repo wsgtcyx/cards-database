@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Terrakion",
         "de": "Terrakion",
         "pt-br": "Terrakion",
-        "zh-tw": "特拉基翁"
+        "zh-tw": "代拉基翁",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",

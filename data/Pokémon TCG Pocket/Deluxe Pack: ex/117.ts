@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Popplio",
         "de": "Popplio",
         "pt-br": "Popplio",
-        "zh-tw": "波普利奧"
+        "zh-tw": "球球海獅",
     },
     illustrator: "match",
     rarity: "One Diamond",

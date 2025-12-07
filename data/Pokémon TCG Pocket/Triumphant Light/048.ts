@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zubat",
         'pt-br': "Zubat",
         ko: "주뱃",
-        "zh-tw": "祖巴特"
+        "zh-tw": "超音蝠",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

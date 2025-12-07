@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Archen",
         "de": "Archen",
         "pt-br": "Archen",
-        "zh-tw": "阿爾欽"
+        "zh-tw": "始祖小鳥",
     },
     illustrator: "0313",
     rarity: "Two Diamond",

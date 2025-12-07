@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Solgaleo es",
         "de": "Solgaleo ex",
         "pt-br": "Solgaleo ex",
-        "zh-tw": "索爾迦雷歐EX"
+        "zh-tw": "索爾迦雷歐 ex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",

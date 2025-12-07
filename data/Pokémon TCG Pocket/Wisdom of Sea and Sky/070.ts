@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Elekid",
         "de": "Elekid",
         "pt-br": "Elekid",
-        "zh-tw": "埃萊基德"
+        "zh-tw": "電擊怪",
     },
     illustrator: "Miki Tanaka",
     rarity: "Three Diamond",

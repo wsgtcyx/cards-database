@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Morgrem",
         "de": "Morgrem",
         "pt-br": "Morgrem",
-        "zh-tw": "莫爾格萊姆"
+        "zh-tw": "詐唬魔",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Two Diamond",

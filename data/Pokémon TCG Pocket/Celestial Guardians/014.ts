@@ -10,7 +10,7 @@ const card: Card = {
         de: "Imantis",
         'pt-br': "Fomantis",
         ko: "짜랑랑",
-        "zh-tw": "福曼蒂斯"
+        "zh-tw": "偽螳草",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

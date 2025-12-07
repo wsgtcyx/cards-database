@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Durant",
         "de": "Durant",
         "pt-br": "Durant",
-        "zh-tw": "杜蘭特"
+        "zh-tw": "鐵蟻",
     },
     illustrator: "kodama",
     rarity: "One Diamond",

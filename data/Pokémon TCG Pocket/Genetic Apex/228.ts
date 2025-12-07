@@ -10,7 +10,7 @@ const card: Card = {
         de: "Duflor",
         'pt-br': "Gloom",
         ko: "냄새꼬",
-        "zh-tw": "愁雲"
+        "zh-tw": "臭臭花",
     },
     illustrator: "OKACHEKE",
     category: "Pokemon",

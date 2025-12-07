@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Arbok",
         "de": "Arbok",
         "pt-br": "Arbok",
-        "zh-tw": "阿爾博克"
+        "zh-tw": "阿柏怪",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "One Shiny",

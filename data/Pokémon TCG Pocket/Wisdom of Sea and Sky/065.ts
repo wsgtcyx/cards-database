@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lanturn es",
         "de": "Lanturn ex",
         "pt-br": "Lanturn ex",
-        "zh-tw": "燈籠EX"
+        "zh-tw": "電燈怪 ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",

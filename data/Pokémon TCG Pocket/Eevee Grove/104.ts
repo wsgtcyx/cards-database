@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Articuno es",
         "de": "Articuno ex",
         "pt-br": "Articuno ex",
-        "zh-tw": "急凍鳥"
+        "zh-tw": "急凍鳥 ex",
     },
     illustrator: "PLANETA Saito",
     rarity: "Two Shiny",

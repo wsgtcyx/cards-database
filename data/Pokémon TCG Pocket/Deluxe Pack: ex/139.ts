@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zapdos es",
         "de": "Zapdos ex",
         "pt-br": "Zapdos ex",
-        "zh-tw": "Zapdos EX"
+        "zh-tw": "閃電鳥 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rattikarl",
         'pt-br': "Raticate",
         ko: "레트라",
-        "zh-tw": "拉拉"
+        "zh-tw": "拉達",
     },
     illustrator: "Shigenori Negishi",
     category: "Pokemon",

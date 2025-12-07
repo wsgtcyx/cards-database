@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mawile",
         "de": "Mawile",
         "pt-br": "Mawile",
-        "zh-tw": "馬維勒"
+        "zh-tw": "大嘴娃",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",

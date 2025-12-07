@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Buono",
         "de": "Goomy",
         "pt-br": "Pegajoso",
-        "zh-tw": "古米"
+        "zh-tw": "黏黏寶",
     },
     illustrator: "Kariya",
     rarity: "One Star",

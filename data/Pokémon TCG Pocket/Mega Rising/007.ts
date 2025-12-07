@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dustox",
         "de": "Dustox",
         "pt-br": "Dustox",
-        "zh-tw": "粉塵毒"
+        "zh-tw": "毒粉蝶",
     },
     illustrator: "Midori Harada",
     rarity: "Three Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lampadario",
         "de": "Kronleuchter",
         "pt-br": "Lustre",
-        "zh-tw": "枝形吊燈"
+        "zh-tw": "水晶燈火靈",
     },
     illustrator: "Taira Akitsu",
     rarity: "Three Diamond",

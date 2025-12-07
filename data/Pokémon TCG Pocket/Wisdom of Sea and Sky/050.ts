@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Azumarill",
         "de": "Azumarill",
         "pt-br": "Azumarill",
-        "zh-tw": "阿祖馬里爾"
+        "zh-tw": "瑪力露麗",
     },
     illustrator: "Naoyo Kimura",
     rarity: "Two Diamond",

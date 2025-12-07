@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tiranitar",
         "de": "Tyranitar",
         "pt-br": "Tiranitar",
-        "zh-tw": "霸王龍"
+        "zh-tw": "班吉拉",
     },
     illustrator: "Saboteri",
     rarity: "One Star",

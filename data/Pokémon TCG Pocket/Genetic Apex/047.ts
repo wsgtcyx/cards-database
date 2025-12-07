@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lavados-ex",
         'pt-br': "Moltres ex",
         ko: "파이어 ex",
-        "zh-tw": "莫爾特雷斯EX"
+        "zh-tw": "火焰鳥 ex",
     },
     illustrator: "PLANETA Tsuji",
     category: "Pokemon",

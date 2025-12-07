@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Borsa Eevee",
         "de": "Evoli-Tasche",
         "pt-br": "Bolsa Eevee",
-        "zh-tw": "伊布包"
+        "zh-tw": "伊布袋",
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Crown",

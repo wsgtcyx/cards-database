@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bronzong",
         'pt-br': "Bronzong",
         ko: "동탁군",
-        "zh-tw": "布隆宗"
+        "zh-tw": "青銅鐘",
     },
     illustrator: "Yuka Morii",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Esplodere",
         "de": "Explodieren",
         "pt-br": "Explodir",
-        "zh-tw": "爆炸"
+        "zh-tw": "爆音怪",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

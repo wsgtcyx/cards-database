@@ -10,7 +10,7 @@ const card: Card = {
         de: "Burmadame",
         'pt-br': "Wormadam",
         ko: "도롱마담",
-        "zh-tw": "沃瑪丹"
+        "zh-tw": "結草貴婦",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Klang",
         "de": "Klang",
         "pt-br": "Klang",
-        "zh-tw": "巴生"
+        "zh-tw": "齒輪組",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",

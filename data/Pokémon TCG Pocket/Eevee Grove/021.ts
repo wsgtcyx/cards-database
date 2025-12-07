@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Alomomola",
         "de": "Alomomola",
         "pt-br": "Alomomola",
-        "zh-tw": "阿洛莫拉"
+        "zh-tw": "保母曼波",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

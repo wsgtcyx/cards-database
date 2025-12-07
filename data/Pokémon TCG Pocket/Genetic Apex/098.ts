@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magneton",
         ko: "레어코일",
         'pt-br': "Magneton",
-        "zh-tw": "磁通"
+        "zh-tw": "三合一磁怪",
     },
     illustrator: "kirisAki",
     category: "Pokemon",

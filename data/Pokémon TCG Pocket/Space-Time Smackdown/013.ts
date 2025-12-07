@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zirpurze",
         'pt-br': "Kricketot",
         ko: "귀뚤뚜기",
-        "zh-tw": "克里克托"
+        "zh-tw": "圓法師",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",

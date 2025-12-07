@@ -10,7 +10,7 @@ const card: Card = {
         de: "Glutexo",
         'pt-br': "Charmeleon",
         ko: "리자드",
-        "zh-tw": "變色龍"
+        "zh-tw": "火恐龍",
     },
     illustrator: "kantaro",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tectass",
         'pt-br': "Golisopod",
         ko: "갑주무사",
-        "zh-tw": "長足類"
+        "zh-tw": "具甲武者",
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",

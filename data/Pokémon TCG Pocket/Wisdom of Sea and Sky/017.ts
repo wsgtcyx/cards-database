@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sunflora",
         "de": "Sonnenflora",
         "pt-br": "Sunflora",
-        "zh-tw": "向日葵"
+        "zh-tw": "向日花怪",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",

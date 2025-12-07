@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Steelix",
         "de": "Steelix",
         "pt-br": "Açoix",
-        "zh-tw": "斯蒂利克斯"
+        "zh-tw": "大鋼蛇",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "Three Diamond",

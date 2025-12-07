@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Drifblim",
         "de": "Driftblim",
         "pt-br": "Drifblim",
-        "zh-tw": "德里夫布利姆"
+        "zh-tw": "附和氣球",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",

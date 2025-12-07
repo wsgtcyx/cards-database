@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Vanilluxe",
         "de": "Vanilluxe",
         "pt-br": "Vanilluxo",
-        "zh-tw": "香草"
+        "zh-tw": "雙倍多多冰",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "Two Diamond",

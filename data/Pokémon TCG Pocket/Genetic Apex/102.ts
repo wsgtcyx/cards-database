@@ -10,7 +10,7 @@ const card: Card = {
         de: "Blitza",
         'pt-br': "Jolteon",
         ko: "쥬피썬더",
-        "zh-tw": "雷頓"
+        "zh-tw": "雷伊布",
     },
     illustrator: "Kouki Saitou",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Golduck",
         "de": "Golduck",
         "pt-br": "Golduck",
-        "zh-tw": "戈達克"
+        "zh-tw": "哥達鴨",
     },
     illustrator: "Hasuno",
     rarity: "One Diamond",

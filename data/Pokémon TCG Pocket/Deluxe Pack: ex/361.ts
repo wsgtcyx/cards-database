@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Charizard ex",
         "de": "Glurak ex",
         "pt-br": "Ex-Charizard",
-        "zh-tw": "噴火龍EX"
+        "zh-tw": "噴火龍 ex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",

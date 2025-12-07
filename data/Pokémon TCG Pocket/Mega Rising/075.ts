@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Valuta",
         "de": "Avalugg",
         "pt-br": "Avalugg",
-        "zh-tw": "阿瓦魯格"
+        "zh-tw": "冰岩怪",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",

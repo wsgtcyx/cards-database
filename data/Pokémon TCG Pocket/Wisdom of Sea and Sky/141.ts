@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Noctowl",
         "de": "Nachtschwärmer",
         "pt-br": "Noctowl",
-        "zh-tw": "夜貓子"
+        "zh-tw": "貓頭夜鷹",
     },
     illustrator: "Nisota Niso",
     rarity: "One Diamond",

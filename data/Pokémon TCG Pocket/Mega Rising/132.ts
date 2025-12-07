@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Krookodile",
         "de": "Krookodile",
         "pt-br": "Crookodile",
-        "zh-tw": "鱷魚"
+        "zh-tw": "流氓鱷",
     },
     illustrator: "Shiburingaru",
     rarity: "Three Diamond",

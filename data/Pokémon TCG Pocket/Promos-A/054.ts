@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pamomamo",
         'pt-br': "Pawmot",
         ko: "빠르모트",
-        "zh-tw": "波莫特"
+        "zh-tw": "巴布土撥",
     },
     illustrator: "REND",
     rarity: "None",

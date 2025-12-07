@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Arrokuda",
         "de": "Arrokuda",
         "pt-br": "Arrokuda",
-        "zh-tw": "阿羅庫達"
+        "zh-tw": "刺梭魚",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

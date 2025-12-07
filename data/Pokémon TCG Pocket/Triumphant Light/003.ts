@@ -10,7 +10,7 @@ const card: Card = {
         de: "Moterpel",
         'pt-br': "Mothim",
         ko: "나메일",
-        "zh-tw": "莫蒂姆"
+        "zh-tw": "紳士蛾",
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",

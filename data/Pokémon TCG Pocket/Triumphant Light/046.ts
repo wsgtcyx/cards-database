@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knarksel",
         'pt-br': "Gabite",
         ko: "한바이트",
-        "zh-tw": "加比特"
+        "zh-tw": "尖牙陸鯊",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

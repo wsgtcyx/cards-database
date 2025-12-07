@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Kingdra es",
         "de": "Kingdra ex",
         "pt-br": "Kingdra ex",
-        "zh-tw": "金德拉EX"
+        "zh-tw": "刺龍王 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

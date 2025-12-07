@@ -10,7 +10,7 @@ const card: Card = {
         de: "Shnurgarst",
         'pt-br': "Purugly",
         ko: "몬냥이",
-        "zh-tw": "普魯格利"
+        "zh-tw": "東施喵",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",

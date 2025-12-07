@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magnezone",
         'pt-br': "Magnezone",
         ko: "자포코일",
-        "zh-tw": "磁區"
+        "zh-tw": "自爆磁怪",
     },
     illustrator: "Yoshinobu Saito",
     rarity: "Three Diamond",

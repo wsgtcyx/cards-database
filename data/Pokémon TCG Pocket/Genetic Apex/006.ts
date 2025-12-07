@@ -10,7 +10,7 @@ const card: Card = {
         de: "Safcon",
         'pt-br': "Metapod",
         ko: "단데기",
-        "zh-tw": "元足"
+        "zh-tw": "鐵甲蛹",
     },
     illustrator: "Yuka Morii",
     category: "Pokemon",

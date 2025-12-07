@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Houndom",
         "de": "Hundoom",
         "pt-br": "Houndoom",
-        "zh-tw": "黑杜姆"
+        "zh-tw": "黑魯加",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

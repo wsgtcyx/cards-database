@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mew es",
         "de": "Mew ex",
         "pt-br": "Meu ex",
-        "zh-tw": "喵EX"
+        "zh-tw": "夢幻 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

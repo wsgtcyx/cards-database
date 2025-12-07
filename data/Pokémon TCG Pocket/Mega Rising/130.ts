@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sandile",
         "de": "Sandile",
         "pt-br": "Sandália",
-        "zh-tw": "桑迪萊"
+        "zh-tw": "黑眼鱷",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Absol es",
         "de": "Mega Absol ex",
         "pt-br": "Mega Absol ex",
-        "zh-tw": "超級阿布索爾EX"
+        "zh-tw": "超級阿勃梭魯 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

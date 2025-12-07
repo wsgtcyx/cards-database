@@ -10,7 +10,7 @@ const card: Card = {
         de: "Seeper",
         'pt-br': "Horsea",
         ko: "쏘드라",
-        "zh-tw": "霍塞亞"
+        "zh-tw": "墨海馬",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",

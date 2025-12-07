@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Aegislash",
         "de": "Aegislash",
         "pt-br": "Aegislash",
-        "zh-tw": "神盾斬"
+        "zh-tw": "堅盾劍怪",
     },
     illustrator: "miki kudo",
     rarity: "Three Diamond",

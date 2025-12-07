@@ -10,7 +10,7 @@ const card: Card = {
         de: "Icognito",
         'pt-br': "Unown",
         ko: "안농",
-        "zh-tw": "未知"
+        "zh-tw": "未知圖騰",
     },
     illustrator: "IKEDA Saki",
     rarity: "One Star",

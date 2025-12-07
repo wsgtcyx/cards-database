@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tortunator",
         ko: "폭거북스",
         'pt-br': "Turtonator",
-        "zh-tw": "渦輪機"
+        "zh-tw": "爆焰龜獸",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",

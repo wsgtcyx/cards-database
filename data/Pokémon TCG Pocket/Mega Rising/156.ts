@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zweilous",
         "de": "Zweilous",
         "pt-br": "Zweilous",
-        "zh-tw": "茨韋洛斯"
+        "zh-tw": "雙頭龍",
     },
     illustrator: "kodama",
     rarity: "Two Diamond",

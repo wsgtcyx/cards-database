@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cyndaquil",
         "de": "Cyndaquil",
         "pt-br": "Cindaquil",
-        "zh-tw": "辛達奎爾"
+        "zh-tw": "火球鼠",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",

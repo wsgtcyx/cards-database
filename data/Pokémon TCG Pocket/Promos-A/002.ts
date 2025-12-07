@@ -10,7 +10,7 @@ const card: Card = {
         de: "X-Initiative",
         'pt-br': "Velocidade X",
         ko: "스피드업",
-        "zh-tw": "X 速度"
+        "zh-tw": "速度強化",
     },
     illustrator: "Toyste Beach",
     rarity: "None",

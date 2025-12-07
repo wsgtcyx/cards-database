@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Hippowdon",
         "de": "Hippowdon",
         "pt-br": "Hippowdon",
-        "zh-tw": "河馬"
+        "zh-tw": "河馬獸",
     },
     illustrator: "Teeziro",
     rarity: "One Star",

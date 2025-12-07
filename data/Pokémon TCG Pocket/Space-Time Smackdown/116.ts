@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bronzel",
         'pt-br': "Bronzor",
         ko: "동미러",
-        "zh-tw": "青銅器"
+        "zh-tw": "銅鏡怪",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

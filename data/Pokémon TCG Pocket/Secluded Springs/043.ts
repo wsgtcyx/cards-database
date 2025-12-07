@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Fanpy",
         "de": "Phanpy",
         "pt-br": "Fanpy",
-        "zh-tw": "潘皮"
+        "zh-tw": "小小象",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

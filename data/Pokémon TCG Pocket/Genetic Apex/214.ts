@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wolly",
         'pt-br': "Wooloo",
         ko: "우르",
-        "zh-tw": "烏魯"
+        "zh-tw": "毛辮羊",
     },
     illustrator: "Yoriyuki Ikegami",
     category: "Pokemon",

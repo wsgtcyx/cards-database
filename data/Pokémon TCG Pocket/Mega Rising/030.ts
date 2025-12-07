@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ponyta",
         "de": "Ponyta",
         "pt-br": "Ponyta",
-        "zh-tw": "小馬駒"
+        "zh-tw": "小火馬",
     },
     illustrator: "Jiro Sasumo",
     rarity: "One Diamond",

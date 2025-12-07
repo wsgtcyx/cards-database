@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dodri",
         'pt-br': "Dodrio",
         ko: "두트리오",
-        "zh-tw": "多德里奧"
+        "zh-tw": "嘟嘟利",
     },
     illustrator: "Miki Tanaka",
     category: "Pokemon",

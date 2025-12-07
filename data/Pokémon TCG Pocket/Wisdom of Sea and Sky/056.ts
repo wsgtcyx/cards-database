@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ottilleria",
         "de": "Oktillerie",
         "pt-br": "Octilharia",
-        "zh-tw": "奧克蒂勒里"
+        "zh-tw": "章魚桶",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

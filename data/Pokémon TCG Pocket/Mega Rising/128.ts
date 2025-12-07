@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ippopotami",
         "de": "Nilpferde",
         "pt-br": "Hipopótamos",
-        "zh-tw": "河馬"
+        "zh-tw": "怪河馬",
     },
     illustrator: "Yuya Oka",
     rarity: "One Diamond",

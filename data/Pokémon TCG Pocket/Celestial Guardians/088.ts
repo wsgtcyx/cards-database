@@ -10,7 +10,7 @@ const card: Card = {
         de: "Necrozma",
         'pt-br': "Necrozma",
         ko: "네크로즈마",
-        "zh-tw": "奈克洛茲瑪"
+        "zh-tw": "奈克洛兹瑪",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

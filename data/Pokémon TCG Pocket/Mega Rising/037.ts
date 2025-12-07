@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pansear",
         "de": "Pansear",
         "pt-br": "Pansear",
-        "zh-tw": "潘西爾"
+        "zh-tw": "爆香猴",
     },
     illustrator: "Jerky",
     rarity: "One Diamond",

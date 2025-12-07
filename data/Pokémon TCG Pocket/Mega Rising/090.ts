@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Blitz",
         "de": "Blitzle",
         "pt-br": "Blitz",
-        "zh-tw": "閃電戰"
+        "zh-tw": "斑斑馬",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

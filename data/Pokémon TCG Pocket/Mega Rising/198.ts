@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Chatot",
         "de": "Chatot",
         "pt-br": "Chatot",
-        "zh-tw": "查托特"
+        "zh-tw": "聒噪鳥",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dressella",
         ko: "드레디어",
         'pt-br': "Lilligant",
-        "zh-tw": "利利甘特"
+        "zh-tw": "裙兒小姐",
     },
     illustrator: "You Iribi",
     category: "Pokemon",

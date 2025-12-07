@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bellissima",
         "de": "Wunderschön",
         "pt-br": "Lindamente",
-        "zh-tw": "美麗飛"
+        "zh-tw": "狩獵鳳蝶",
     },
     illustrator: "Midori Harada",
     rarity: "Three Diamond",

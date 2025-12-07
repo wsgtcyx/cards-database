@@ -9,7 +9,7 @@ const card: Card = {
         "it": "A voce alta",
         "de": "Laut",
         "pt-br": "Alto",
-        "zh-tw": "勞德雷德"
+        "zh-tw": "吼爆彈",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",

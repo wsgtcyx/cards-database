@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Stakataka",
         "de": "Stakataka",
         "pt-br": "Stakataka",
-        "zh-tw": "斯塔卡塔卡"
+        "zh-tw": "壘磊石",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",

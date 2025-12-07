@@ -10,7 +10,7 @@ const card: Card = {
         de: "Frosdedje",
         'pt-br': "Froslass",
         ko: "눈여아",
-        "zh-tw": "弗羅斯拉斯"
+        "zh-tw": "雪妖女",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",

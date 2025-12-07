@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gligar",
         "de": "Gligar",
         "pt-br": "Gligar",
-        "zh-tw": "格利加爾"
+        "zh-tw": "天蠍",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

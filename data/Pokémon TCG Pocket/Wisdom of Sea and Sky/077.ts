@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cleffa",
         "de": "Cleffa",
         "pt-br": "Clefa",
-        "zh-tw": "克萊法"
+        "zh-tw": "皮寶寶",
     },
     illustrator: "Orca",
     rarity: "Three Diamond",

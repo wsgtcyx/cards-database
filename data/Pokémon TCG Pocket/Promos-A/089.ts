@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Audino",
         "de": "Audino",
         "pt-br": "Audino",
-        "zh-tw": "奧迪諾"
+        "zh-tw": "差不多娃娃",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",

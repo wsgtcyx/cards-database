@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zorua",
         "de": "Zorua",
         "pt-br": "Zorua",
-        "zh-tw": "索魯亞"
+        "zh-tw": "索羅亞",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",

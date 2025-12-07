@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Hoppip",
         "de": "Hoppip",
         "pt-br": "Hoppip",
-        "zh-tw": "霍皮普"
+        "zh-tw": "毽子草",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",

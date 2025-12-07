@@ -10,7 +10,7 @@ const card: Card = {
         de: "Registeel",
         'pt-br': "Registeel",
         ko: "레지스틸",
-        "zh-tw": "註冊鋼"
+        "zh-tw": "雷吉斯奇魯",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",

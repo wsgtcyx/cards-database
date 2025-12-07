@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Remoraid",
         "de": "Remoraid",
         "pt-br": "Remoraid",
-        "zh-tw": "雷莫拉伊德"
+        "zh-tw": "鐵炮魚",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",

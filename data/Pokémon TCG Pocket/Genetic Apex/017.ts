@@ -10,7 +10,7 @@ const card: Card = {
         de: "Omot",
         'pt-br': "Venomoth",
         ko: "도나리",
-        "zh-tw": "毒蛾"
+        "zh-tw": "摩魯蛾",
     },
     illustrator: "Mina Nakai",
     category: "Pokemon",

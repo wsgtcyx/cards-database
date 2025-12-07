@@ -10,7 +10,7 @@ const card: Card = {
         de: "Waumboll",
         'pt-br': "Cottonee",
         ko: "소미안",
-        "zh-tw": "科托尼"
+        "zh-tw": "木棉球",
     },
     illustrator: "Kanako Eo",
     category: "Pokemon",

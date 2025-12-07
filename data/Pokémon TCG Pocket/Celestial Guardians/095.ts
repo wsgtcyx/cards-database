@@ -10,7 +10,7 @@ const card: Card = {
         de: "Strepoli",
         'pt-br': "Gurdurr",
         ko: "토쇠골",
-        "zh-tw": "古杜爾"
+        "zh-tw": "鐵骨土人",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

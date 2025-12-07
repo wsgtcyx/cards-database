@@ -10,7 +10,7 @@ const card: Card = {
         de: "Togepi",
         'pt-br': "Togepi",
         ko: "토게피",
-        "zh-tw": "托蓋皮"
+        "zh-tw": "波克比",
     },
     illustrator: "Naoyo Kimura",
     rarity: "None",

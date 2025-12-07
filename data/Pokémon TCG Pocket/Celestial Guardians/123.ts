@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magearna",
         'pt-br': "Magearna",
         ko: "마기아나",
-        "zh-tw": "馬加爾納"
+        "zh-tw": "瑪機雅娜",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Owei",
         'pt-br': "Exeggcute",
         ko: "아라리",
-        "zh-tw": "蛋蛋可愛"
+        "zh-tw": "蛋蛋",
     },
     illustrator: "kawayoo",
     category: "Pokemon",

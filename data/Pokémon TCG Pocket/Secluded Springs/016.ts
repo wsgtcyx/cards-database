@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tentacrudele",
         "de": "Tentacruel",
         "pt-br": "Tentacruel",
-        "zh-tw": "觸毒"
+        "zh-tw": "毒刺水母",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",

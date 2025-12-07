@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Woobat",
         "de": "Woobat",
         "pt-br": "Uau",
-        "zh-tw": "烏巴特"
+        "zh-tw": "滾滾蝙蝠",
     },
     illustrator: "match",
     rarity: "One Diamond",

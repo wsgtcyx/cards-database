@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Chingling",
         "de": "Chingling",
         "pt-br": "Chingling",
-        "zh-tw": "慶齡"
+        "zh-tw": "鈴噹響",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

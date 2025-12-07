@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Monferno",
         "de": "Monferno",
         "pt-br": "Monferno",
-        "zh-tw": "蒙費爾諾"
+        "zh-tw": "猛火猴",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",

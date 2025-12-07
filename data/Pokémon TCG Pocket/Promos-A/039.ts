@@ -10,7 +10,7 @@ const card: Card = {
         de: "Panzaeron",
         'pt-br': "Skarmory",
         ko: "무장조",
-        "zh-tw": "斯卡莫里"
+        "zh-tw": "盔甲鳥",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "None",

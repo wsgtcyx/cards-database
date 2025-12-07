@@ -10,7 +10,7 @@ const card: Card = {
         de: "Marikeck",
         'pt-br': "Brionne",
         ko: "키요공",
-        "zh-tw": "布里奧訥"
+        "zh-tw": "花漾海獅",
     },
     illustrator: "Saya Tsuruta",
     rarity: "Two Diamond",

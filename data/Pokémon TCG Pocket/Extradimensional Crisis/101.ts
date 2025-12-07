@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Aerodattilo es",
         "de": "Aerodactyl ex",
         "pt-br": "Aerodáctilo ex",
-        "zh-tw": "化石翼龍"
+        "zh-tw": "化石翼龍 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

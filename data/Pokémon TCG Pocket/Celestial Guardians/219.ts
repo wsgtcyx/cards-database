@@ -10,7 +10,7 @@ const card: Card = {
         de: "Starmie",
         'pt-br': "Starmie",
         ko: "아쿠스타",
-        "zh-tw": "海星"
+        "zh-tw": "寶石海星",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

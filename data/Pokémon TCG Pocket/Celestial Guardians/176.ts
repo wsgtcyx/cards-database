@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sen-Long",
         'pt-br': "Drampa",
         ko: "할비롱",
-        "zh-tw": "卓巴"
+        "zh-tw": "老翁龍",
     },
     illustrator: "Shinji Kanda",
     rarity: "One Star",

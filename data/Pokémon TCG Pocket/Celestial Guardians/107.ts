@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Rattikarl",
         'pt-br': "Raticatede Alola",
         ko: "알로라레트라",
-        "zh-tw": "阿羅拉拉齒獸"
+        "zh-tw": "阿羅拉拉達",
     },
     illustrator: "nagimiso",
     rarity: "Two Diamond",

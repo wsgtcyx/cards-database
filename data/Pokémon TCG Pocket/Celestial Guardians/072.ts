@@ -10,7 +10,7 @@ const card: Card = {
         de: "Groink",
         'pt-br': "Grumpig",
         ko: "피그킹",
-        "zh-tw": "脾氣暴躁"
+        "zh-tw": "噗噗豬",
     },
     illustrator: "Yukiko Baba",
     rarity: "Two Diamond",

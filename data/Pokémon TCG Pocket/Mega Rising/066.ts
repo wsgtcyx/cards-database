@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tirtouga",
         "de": "Tirtouga",
         "pt-br": "Tirtouga",
-        "zh-tw": "特爾圖​​加"
+        "zh-tw": "原蓋海龜",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "Two Diamond",

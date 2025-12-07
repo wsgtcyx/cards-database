@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Kingler",
         "de": "Kingler",
         "pt-br": "Kingler",
-        "zh-tw": "金勒"
+        "zh-tw": "巨鉗蟹",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",

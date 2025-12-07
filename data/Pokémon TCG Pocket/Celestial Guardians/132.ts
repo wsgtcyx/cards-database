@@ -10,7 +10,7 @@ const card: Card = {
         de: "Resladero",
         'pt-br': "Hawlucha",
         ko: "루차불",
-        "zh-tw": "哈烏盧查"
+        "zh-tw": "戰鬥飛鳥",
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",

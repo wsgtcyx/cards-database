@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Salandite",
         "de": "Salandit",
         "pt-br": "Salandite",
-        "zh-tw": "薩蘭迪特"
+        "zh-tw": "夜盜火蜥",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",

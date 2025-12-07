@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pyroar",
         "de": "Pyroar",
         "pt-br": "Piroar",
-        "zh-tw": "火神"
+        "zh-tw": "火炎獅",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",

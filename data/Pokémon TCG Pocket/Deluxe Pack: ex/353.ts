@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Rosso",
         "de": "Rot",
         "pt-br": "Vermelho",
-        "zh-tw": "紅色的"
+        "zh-tw": "赤紅",
     },
     illustrator: "Teeziro",
     rarity: "Two Diamond",

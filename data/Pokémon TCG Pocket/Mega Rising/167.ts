@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ferrothorn",
         "de": "Ferrothorn",
         "pt-br": "Ferroespinho",
-        "zh-tw": "鐵松"
+        "zh-tw": "堅果啞鈴",
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",

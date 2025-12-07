@@ -10,7 +10,7 @@ const card: Card = {
         de: "Krabbox",
         'pt-br': "Crabrawler",
         ko: "오기지게",
-        "zh-tw": "爬行者"
+        "zh-tw": "好勝蟹",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

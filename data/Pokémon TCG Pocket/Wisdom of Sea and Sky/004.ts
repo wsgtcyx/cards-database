@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tangela",
         "de": "Tangela",
         "pt-br": "Tangela",
-        "zh-tw": "坦格拉"
+        "zh-tw": "蔓藤怪",
     },
     illustrator: "OOYAMA",
     rarity: "One Diamond",

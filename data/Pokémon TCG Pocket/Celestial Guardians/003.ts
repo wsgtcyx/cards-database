@@ -10,7 +10,7 @@ const card: Card = {
         de: "Gehweiher",
         'pt-br': "Surskit",
         ko: "비구술",
-        "zh-tw": "蘇斯基特"
+        "zh-tw": "溜溜糖球",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

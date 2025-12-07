@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Machop",
         "de": "Machop",
         "pt-br": "Machop",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

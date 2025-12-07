@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Riolu",
         "de": "Riolu",
         "pt-br": "Riolu",
-        "zh-tw": "利奧盧"
+        "zh-tw": "利歐路",
     },
     illustrator: "You Iribi",
     rarity: "One Diamond",

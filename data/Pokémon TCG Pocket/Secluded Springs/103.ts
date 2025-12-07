@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Garchomp es",
         "de": "Garchomp ex",
         "pt-br": "Ex-Garchomp",
-        "zh-tw": "Garchomp EX"
+        "zh-tw": "烈咬陸鯊 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

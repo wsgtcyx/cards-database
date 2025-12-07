@@ -10,7 +10,7 @@ const card: Card = {
         de: "Altbernstein",
         'pt-br': "Âmbar Velho",
         ko: "비밀의호박",
-        "zh-tw": "老琥珀"
+        "zh-tw": "秘密琥珀",
     },
     illustrator: "Toyste Beach",
     category: "Trainer",

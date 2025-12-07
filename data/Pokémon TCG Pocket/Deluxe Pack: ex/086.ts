@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wartortle",
         "de": "Warschildkröte",
         "pt-br": "Wartortle",
-        "zh-tw": "疣龜"
+        "zh-tw": "卡咪龜",
     },
     illustrator: "Nelnal",
     rarity: "Two Diamond",

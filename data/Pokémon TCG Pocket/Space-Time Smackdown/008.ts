@@ -10,7 +10,7 @@ const card: Card = {
         de: "Roselia",
         'pt-br': "Roselia",
         ko: "로젤리아",
-        "zh-tw": "羅塞利亞"
+        "zh-tw": "毒薔薇",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",

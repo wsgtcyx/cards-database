@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Corphish",
         "de": "Corphish",
         "pt-br": "Corpus",
-        "zh-tw": "科菲什"
+        "zh-tw": "龍蝦小兵",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

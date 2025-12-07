@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Turtonatore",
         "de": "Turtonator",
         "pt-br": "Turtonador",
-        "zh-tw": "渦輪機"
+        "zh-tw": "爆焰龜獸",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "Two Diamond",

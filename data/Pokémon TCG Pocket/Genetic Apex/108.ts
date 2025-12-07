@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zapplalek",
         'pt-br': "Eelektrik",
         ko: "저리릴",
-        "zh-tw": "電氣技術"
+        "zh-tw": "麻麻鰻",
     },
     illustrator: "Midori Harada",
     category: "Pokemon",

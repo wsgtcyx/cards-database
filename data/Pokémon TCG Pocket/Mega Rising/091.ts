@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zebstrika",
         "de": "Zebstrika",
         "pt-br": "Zebstrika",
-        "zh-tw": "澤布斯特里卡"
+        "zh-tw": "雷電斑馬",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

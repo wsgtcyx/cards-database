@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bisaflor-ex",
         'pt-br': "Venusaur ex",
         ko: "이상해꽃 ex",
-        "zh-tw": "維納斯龍EX"
+        "zh-tw": "妙蛙花 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

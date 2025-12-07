@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lahmus",
         'pt-br': "Slowbro",
         ko: "야도란",
-        "zh-tw": "斯洛布羅"
+        "zh-tw": "呆殼獸",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nidoking",
         'pt-br': "Nidoking",
         ko: "니드킹",
-        "zh-tw": "尼多金"
+        "zh-tw": "尼多王",
     },
     illustrator: "nagimiso",
     category: "Pokemon",

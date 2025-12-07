@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kabuto",
         'pt-br': "Kabuto",
         ko: "투구",
-        "zh-tw": "兜"
+        "zh-tw": "化石盔",
     },
     illustrator: "sui",
     category: "Pokemon",

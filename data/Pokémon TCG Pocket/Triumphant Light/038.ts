@@ -10,7 +10,7 @@ const card: Card = {
         de: "Donphan",
         'pt-br': "Donphan",
         ko: "코리갑",
-        "zh-tw": "唐凡"
+        "zh-tw": "頓甲",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hornliu",
         'pt-br': "Weedle",
         ko: "뿔충이",
-        "zh-tw": "雜草"
+        "zh-tw": "獨角蟲",
     },
     illustrator: "Hajime Kusajima",
     category: "Pokemon",

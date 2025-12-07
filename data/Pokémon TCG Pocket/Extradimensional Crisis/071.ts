@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Feromosa",
         "de": "Pheromosa",
         "pt-br": "Feromosa",
-        "zh-tw": "費羅莫薩"
+        "zh-tw": "費洛美螂",
     },
     illustrator: "matazo",
     rarity: "One Star",

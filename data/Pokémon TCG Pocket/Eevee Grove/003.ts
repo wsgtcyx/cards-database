@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dolcezza",
         "de": "Bounsweet",
         "pt-br": "Doce",
-        "zh-tw": "邦斯威特"
+        "zh-tw": "甜竹竹",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",

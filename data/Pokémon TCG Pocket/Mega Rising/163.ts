@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Impid",
         "de": "Impidimp",
         "pt-br": "Impidimp",
-        "zh-tw": "因匹季普"
+        "zh-tw": "搗蛋小妖",
     },
     illustrator: "Rianti Hidayat",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Brionne",
         "de": "Brionne",
         "pt-br": "Brionne",
-        "zh-tw": "布里奧訥"
+        "zh-tw": "花漾海獅",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

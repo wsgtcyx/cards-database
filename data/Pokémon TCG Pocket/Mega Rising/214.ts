@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Fossile di pennacchio",
         "de": "Federfossil",
         "pt-br": "Fóssil de Pluma",
-        "zh-tw": "羽化石"
+        "zh-tw": "羽毛化石",
     },
     illustrator: "Ryo Ueda",
     rarity: "One Diamond",

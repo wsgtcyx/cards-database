@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Blaziken ex",
         "de": "Mega Blaziken ex",
         "pt-br": "Ex de Mega Blaziken",
-        "zh-tw": "超級布拉茲肯EX"
+        "zh-tw": "超級火焰雞 ex",
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Four Diamond",

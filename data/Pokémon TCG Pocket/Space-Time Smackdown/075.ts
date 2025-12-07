@@ -10,7 +10,7 @@ const card: Card = {
         de: "Selfe",
         'pt-br': "Uxie",
         ko: "유크시",
-        "zh-tw": "尤謝"
+        "zh-tw": "由克希",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zwollock",
         'pt-br': "Dubwool",
         ko: "배우르",
-        "zh-tw": "杜布羊毛"
+        "zh-tw": "毛毛角羊",
     },
     illustrator: "saino misaki",
     category: "Pokemon",

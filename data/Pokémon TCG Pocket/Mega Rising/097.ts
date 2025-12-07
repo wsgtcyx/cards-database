@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Natura",
         "de": "Natu",
         "pt-br": "Natu",
-        "zh-tw": "納圖"
+        "zh-tw": "天然雀",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",

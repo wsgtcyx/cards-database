@@ -10,7 +10,7 @@ const card: Card = {
         de: "Habitak",
         'pt-br': "Spearow",
         ko: "깨비참",
-        "zh-tw": "斯皮羅"
+        "zh-tw": "烈雀",
     },
     illustrator: "Shiburingaru",
     category: "Pokemon",

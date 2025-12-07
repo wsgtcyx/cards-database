@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Binacolo",
         "de": "Binakel",
         "pt-br": "Bináculo",
-        "zh-tw": "雙子座"
+        "zh-tw": "龜腳腳",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

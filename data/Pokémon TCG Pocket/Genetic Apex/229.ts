@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pinsir",
         'pt-br': "Pinsir",
         ko: "쁘사이저",
-        "zh-tw": "平西爾"
+        "zh-tw": "凱羅斯",
     },
     illustrator: "Scav",
     category: "Pokemon",

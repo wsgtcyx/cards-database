@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Xurkitree",
         "de": "Xurkitree",
         "pt-br": "Xurkitree",
-        "zh-tw": "旭基樹"
+        "zh-tw": "電束木",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",

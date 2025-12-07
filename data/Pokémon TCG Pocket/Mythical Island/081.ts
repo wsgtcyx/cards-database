@@ -10,7 +10,7 @@ const card: Card = {
         de: "Blau",
         'pt-br': "Blue",
         ko: "그린",
-        "zh-tw": "藍色的"
+        "zh-tw": "青綠",
     },
     illustrator: "Ryuta Fuse",
     category: "Trainer",

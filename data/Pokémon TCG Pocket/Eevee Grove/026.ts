@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Joltik",
         "de": "Joltik",
         "pt-br": "Joltik",
-        "zh-tw": "約爾蒂克"
+        "zh-tw": "電電蟲",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

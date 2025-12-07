@@ -10,7 +10,7 @@ const card: Card = {
         de: "Snibunna-ex",
         'pt-br': "Weavile ex",
         ko: "포푸니라 ex",
-        "zh-tw": "韋維爾前夫"
+        "zh-tw": "瑪狃拉 ex",
     },
     illustrator: "hncl",
     rarity: "Two Star",

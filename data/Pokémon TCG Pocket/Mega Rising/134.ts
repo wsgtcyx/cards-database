@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Archeope",
         "de": "Archäops",
         "pt-br": "Arqueopo",
-        "zh-tw": "始祖鳥"
+        "zh-tw": "始祖大鳥",
     },
     illustrator: "Hasuno",
     rarity: "Three Diamond",

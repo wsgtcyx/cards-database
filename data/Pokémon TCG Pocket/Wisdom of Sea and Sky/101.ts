@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tirogue",
         "de": "Tyrogue",
         "pt-br": "Tyrogue",
-        "zh-tw": "泰羅格"
+        "zh-tw": "巴爾郎",
     },
     illustrator: "Mina Nakai",
     rarity: "Three Diamond",

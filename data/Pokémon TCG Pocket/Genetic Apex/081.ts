@@ -10,7 +10,7 @@ const card: Card = {
         de: "Amonitas",
         'pt-br': "Omanyte",
         ko: "암나이트",
-        "zh-tw": "阿曼人"
+        "zh-tw": "菊石獸",
     },
     illustrator: "Suwama Chiaki",
     category: "Pokemon",

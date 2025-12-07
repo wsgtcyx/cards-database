@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kokuna",
         'pt-br': "Kakuna",
         ko: "딱충이",
-        "zh-tw": "角名"
+        "zh-tw": "鐵殼蛹",
     },
     illustrator: "miki kudo",
     category: "Pokemon",

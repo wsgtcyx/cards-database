@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cleffa",
         "de": "Cleffa",
         "pt-br": "Clefa",
-        "zh-tw": "克萊法"
+        "zh-tw": "寶寶丁",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Star",

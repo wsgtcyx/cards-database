@@ -10,7 +10,7 @@ const card: Card = {
         de: "Voltenso",
         'pt-br': "Manectric",
         ko: "썬더볼트",
-        "zh-tw": "曼內克特里克"
+        "zh-tw": "雷電獸",
     },
     illustrator: "match",
     rarity: "Two Diamond",

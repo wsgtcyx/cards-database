@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Smoochum",
         "de": "Knutschfleck",
         "pt-br": "Smoochum",
-        "zh-tw": "斯莫庫姆"
+        "zh-tw": "迷唇娃",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "Three Diamond",

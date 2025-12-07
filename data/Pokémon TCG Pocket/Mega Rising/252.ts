@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Whimsicott ex",
         "de": "Whimsicott ex",
         "pt-br": "Whimsicott ex",
-        "zh-tw": "異想天開"
+        "zh-tw": "風妖精 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kirlia",
         'pt-br': "Kirlia",
         ko: "킬리아",
-        "zh-tw": "基利亞"
+        "zh-tw": "奇魯莉安",
     },
     illustrator: "sowsow",
     category: "Pokemon",

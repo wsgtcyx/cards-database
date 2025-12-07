@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Naganadel",
         "de": "Naganadel",
         "pt-br": "Naganadel",
-        "zh-tw": "納加納德爾"
+        "zh-tw": "四顎針龍",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",

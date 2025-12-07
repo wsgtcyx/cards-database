@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Frizzo",
         "de": "Rüschen",
         "pt-br": "Enfeitado",
-        "zh-tw": "華麗的"
+        "zh-tw": "輕飄飄",
     },
     illustrator: "Apios",
     rarity: "One Diamond",

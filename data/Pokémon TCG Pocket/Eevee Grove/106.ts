@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gallade es",
         "de": "Gallade ex",
         "pt-br": "Ex-galade",
-        "zh-tw": "加拉德EX"
+        "zh-tw": "艾路雷朵 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

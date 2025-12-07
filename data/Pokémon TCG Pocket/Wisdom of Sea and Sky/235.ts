@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Glaceon es",
         "de": "Glaceon ex",
         "pt-br": "Glaceon ex",
-        "zh-tw": "格拉西恩EX"
+        "zh-tw": "冰精靈 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

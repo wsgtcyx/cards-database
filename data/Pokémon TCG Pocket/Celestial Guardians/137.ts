@@ -10,7 +10,7 @@ const card: Card = {
         de: "Manguspektor",
         'pt-br': "Gumshoos",
         ko: "형사구스",
-        "zh-tw": "咕咕咕"
+        "zh-tw": "貓鼬探長",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",

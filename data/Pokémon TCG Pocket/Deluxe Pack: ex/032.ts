@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Snivy",
         "de": "Snivy",
         "pt-br": "Snivy",
-        "zh-tw": "斯尼維"
+        "zh-tw": "藤藤蛇",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

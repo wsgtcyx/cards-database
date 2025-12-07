@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Kleinstein",
         'pt-br': "Geodudede Alola",
         ko: "알로라꼬마돌",
-        "zh-tw": "阿羅拉晶石"
+        "zh-tw": "阿羅拉小拳石",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",

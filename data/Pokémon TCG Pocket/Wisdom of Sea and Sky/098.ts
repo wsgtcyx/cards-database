@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mamoswine",
         "de": "Mamoswine",
         "pt-br": "Mamoswine",
-        "zh-tw": "瑪莫斯威恩"
+        "zh-tw": "象牙豬",
     },
     illustrator: "Uta",
     rarity: "Three Diamond",

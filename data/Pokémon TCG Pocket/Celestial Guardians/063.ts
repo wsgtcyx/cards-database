@@ -10,7 +10,7 @@ const card: Card = {
         de: "Elezard",
         'pt-br': "Heliolisk",
         ko: "일레도리자드",
-        "zh-tw": "日光蟲"
+        "zh-tw": "電傘查特",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

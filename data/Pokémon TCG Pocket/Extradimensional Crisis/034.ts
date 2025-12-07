@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Passimiano",
         "de": "Passimian",
         "pt-br": "Passimiano",
-        "zh-tw": "帕西米安"
+        "zh-tw": "投擲猴",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",

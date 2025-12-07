@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Yanmega",
         "de": "Yanmega",
         "pt-br": "Yanmega",
-        "zh-tw": "揚梅加"
+        "zh-tw": "梅卡陽瑪",
     },
     illustrator: "Uta",
     rarity: "Two Diamond",

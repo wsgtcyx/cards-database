@@ -10,7 +10,7 @@ const card: Card = {
         de: "Melmetal",
         'pt-br': "Melmetal",
         ko: "멜메탈",
-        "zh-tw": "梅爾梅塔"
+        "zh-tw": "美錄梅塔",
     },
     illustrator: "Kouki Saitou",
     category: "Pokemon",

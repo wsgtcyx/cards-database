@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Furret",
         "de": "Furret",
         "pt-br": "Furret",
-        "zh-tw": "富雷特"
+        "zh-tw": "大尾立",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",

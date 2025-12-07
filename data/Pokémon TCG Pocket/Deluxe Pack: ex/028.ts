@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cherrim",
         "de": "Cherrim",
         "pt-br": "Cherrim",
-        "zh-tw": "櫻桃木"
+        "zh-tw": "櫻花兒",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Latias",
         "de": "Latias",
         "pt-br": "Lácias",
-        "zh-tw": "拉蒂亞斯"
+        "zh-tw": "拉帝亞斯",
     },
     illustrator: "rika",
     rarity: "Three Diamond",

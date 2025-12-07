@@ -10,7 +10,7 @@ const card: Card = {
         de: "Panpyro",
         'pt-br': "Monferno",
         ko: "파이숭이",
-        "zh-tw": "蒙費爾諾"
+        "zh-tw": "猛火猴",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",

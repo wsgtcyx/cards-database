@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Carvanha",
         "de": "Carvanha",
         "pt-br": "Carvanha",
-        "zh-tw": "卡瓦尼亞"
+        "zh-tw": "利牙魚",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kadabra",
         'pt-br': "Kadabra",
         ko: "윤겔라",
-        "zh-tw": "卡達布拉"
+        "zh-tw": "勇基拉",
     },
     illustrator: "Ken Sugimori",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Iridio",
         "de": "Gladion",
         "pt-br": "Gladião",
-        "zh-tw": "格拉迪恩"
+        "zh-tw": "格拉吉歐",
     },
     illustrator: "hncl",
     rarity: "Two Star",

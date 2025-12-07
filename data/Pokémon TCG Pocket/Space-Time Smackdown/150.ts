@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zyrus",
         'pt-br': "Cyrus",
         ko: "태홍",
-        "zh-tw": "賽勒斯"
+        "zh-tw": "赤日",
     },
     illustrator: "akagi",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zwirrfinst",
         'pt-br': "Dusknoir",
         ko: "야느와르몽",
-        "zh-tw": "黃昏"
+        "zh-tw": "夜黑魔人",
     },
     illustrator: "Suwama Chiaki",
     rarity: "Three Diamond",

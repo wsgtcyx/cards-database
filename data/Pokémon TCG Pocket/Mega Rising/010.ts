@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Shiftry",
         "de": "Shiftry",
         "pt-br": "Mudança",
-        "zh-tw": "希夫特里"
+        "zh-tw": "狡猾天狗",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

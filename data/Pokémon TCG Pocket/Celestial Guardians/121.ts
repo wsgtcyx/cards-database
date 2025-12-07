@@ -10,7 +10,7 @@ const card: Card = {
         de: "Clavion",
         'pt-br': "Klefki",
         ko: "클레피",
-        "zh-tw": "克萊夫基"
+        "zh-tw": "鑰圈兒",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",

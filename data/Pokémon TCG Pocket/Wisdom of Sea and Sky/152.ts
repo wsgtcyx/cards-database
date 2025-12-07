@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bottiglia a spruzzo",
         "de": "Spritzflasche",
         "pt-br": "Garrafa de esguicho",
-        "zh-tw": "噴瓶"
+        "zh-tw": "傑尼龜噴壺",
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",

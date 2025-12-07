@@ -10,7 +10,7 @@ const card: Card = {
         de: "Flamara",
         'pt-br': "Flareon",
         ko: "부스터",
-        "zh-tw": "弗萊昂"
+        "zh-tw": "火伊布",
     },
     illustrator: "sui",
     category: "Pokemon",

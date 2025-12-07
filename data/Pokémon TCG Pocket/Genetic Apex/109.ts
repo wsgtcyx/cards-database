@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zapplarang",
         'pt-br': "Eelektross",
         ko: "저리더프",
-        "zh-tw": "電鰻"
+        "zh-tw": "麻麻鰻魚王",
     },
     illustrator: "hatachu",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tapu Koko ex",
         "de": "Tapu Koko ex",
         "pt-br": "Tapu Koko ex",
-        "zh-tw": "塔普科科EX"
+        "zh-tw": "卡璞・鳴鳴 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",

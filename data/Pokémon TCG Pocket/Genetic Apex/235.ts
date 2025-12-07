@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lektrobal",
         'pt-br': "Electrode",
         ko: "붐볼",
-        "zh-tw": "電極"
+        "zh-tw": "頑皮雷彈",
     },
     illustrator: "DOM",
     category: "Pokemon",

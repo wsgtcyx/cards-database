@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Claydol",
         "de": "Claydol",
         "pt-br": "Claydol",
-        "zh-tw": "克萊多爾"
+        "zh-tw": "念力土偶",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",

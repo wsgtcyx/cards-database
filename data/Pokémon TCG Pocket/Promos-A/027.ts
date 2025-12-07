@@ -10,7 +10,7 @@ const card: Card = {
         de: "Serpifeu",
         'pt-br': "Snivy",
         ko: "주리비얀",
-        "zh-tw": "斯尼維"
+        "zh-tw": "藤藤蛇",
     },
     illustrator: "Yoriyuki Ikegami",
     rarity: "None",

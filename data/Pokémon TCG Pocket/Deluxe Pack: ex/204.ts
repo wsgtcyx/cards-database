@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Passaggio del naso",
         "de": "Nasenpass",
         "pt-br": "Nosepass",
-        "zh-tw": "鼻通"
+        "zh-tw": "朝北鼻",
     },
     illustrator: "Satoshi Shirai",
     rarity: "One Diamond",

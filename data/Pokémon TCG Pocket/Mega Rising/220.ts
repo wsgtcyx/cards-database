@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Guanti fortunati",
         "de": "Glücksfäustlinge",
         "pt-br": "Luvas da Sorte",
-        "zh-tw": "幸運手套"
+        "zh-tw": "消災手套",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

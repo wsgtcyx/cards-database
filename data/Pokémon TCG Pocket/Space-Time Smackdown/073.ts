@@ -10,7 +10,7 @@ const card: Card = {
         de: "Driftlon",
         'pt-br': "Drifloon",
         ko: "흔들풍손",
-        "zh-tw": "飛龍"
+        "zh-tw": "飄飄球",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",

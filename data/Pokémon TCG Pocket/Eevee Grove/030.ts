@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Swoobat",
         "de": "Swoobat",
         "pt-br": "Swoobat",
-        "zh-tw": "斯沃巴特"
+        "zh-tw": "心蝙蝠",
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",

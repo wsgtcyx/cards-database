@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Simisage",
         "de": "Simisage",
         "pt-br": "Simulação",
-        "zh-tw": "西米薩吉"
+        "zh-tw": "花椰猿",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",

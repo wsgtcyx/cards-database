@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Magnetone",
         "de": "Magneton",
         "pt-br": "Magnetão",
-        "zh-tw": "磁通"
+        "zh-tw": "三合一磁怪",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

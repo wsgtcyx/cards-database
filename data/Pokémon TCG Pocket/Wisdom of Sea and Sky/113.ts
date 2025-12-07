@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Murkrow",
         "de": "Murkrow",
         "pt-br": "Murkrow",
-        "zh-tw": "暗鴉"
+        "zh-tw": "黑暗鴉",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

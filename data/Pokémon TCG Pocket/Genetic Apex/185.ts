@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dragoran",
         'pt-br': "Dragonite",
         ko: "망나뇽",
-        "zh-tw": "火龍石"
+        "zh-tw": "快龍",
     },
     illustrator: "Hiroyuki Yamamoto",
     category: "Pokemon",

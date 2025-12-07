@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mewtwo es",
         "de": "Mewtwo ex",
         "pt-br": "Mewtwo ex",
-        "zh-tw": "超夢EX"
+        "zh-tw": "超夢 ex",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",

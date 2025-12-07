@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Greedent",
         "de": "Greedent",
         "pt-br": "Ganancioso",
-        "zh-tw": "格利登特"
+        "zh-tw": "藏飽栗鼠",
     },
     illustrator: "kirisAki",
     rarity: "Two Diamond",

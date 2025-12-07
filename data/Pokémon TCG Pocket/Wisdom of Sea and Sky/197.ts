@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lira",
         "de": "Lyra",
         "pt-br": "Lira",
-        "zh-tw": "天琴座"
+        "zh-tw": "琴音",
     },
     illustrator: "yuu",
     rarity: "Two Star",

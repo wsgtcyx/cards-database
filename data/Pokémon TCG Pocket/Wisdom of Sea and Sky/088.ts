@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Snubbull",
         "de": "Snubbull",
         "pt-br": "Esnobado",
-        "zh-tw": "斯納布爾"
+        "zh-tw": "布盧",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

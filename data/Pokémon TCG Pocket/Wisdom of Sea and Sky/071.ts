@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Raikou",
         "de": "Raikou",
         "pt-br": "Raikou",
-        "zh-tw": "賴光"
+        "zh-tw": "雷公",
     },
     illustrator: "Kazumasa Yasukuni",
     rarity: "Three Diamond",

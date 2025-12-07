@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Meganio",
         "de": "Meganium",
         "pt-br": "Megánio",
-        "zh-tw": "大加蘭"
+        "zh-tw": "大菊花",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Three Diamond",

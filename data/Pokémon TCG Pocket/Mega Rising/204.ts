@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Volant",
         "de": "Rüschen",
         "pt-br": "Babado",
-        "zh-tw": "魯夫萊特"
+        "zh-tw": "毛頭小鷹",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

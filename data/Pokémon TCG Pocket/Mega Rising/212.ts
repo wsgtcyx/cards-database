@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dubwool",
         "de": "Dubwool",
         "pt-br": "Dublã",
-        "zh-tw": "杜布羊毛"
+        "zh-tw": "毛毛角羊",
     },
     illustrator: "You Iribi",
     rarity: "Two Diamond",

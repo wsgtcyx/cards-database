@@ -10,7 +10,7 @@ const card: Card = {
         de: "Abenteurer-Neuling",
         'pt-br': "Expedicionário Principiante",
         ko: "신출내기 조사원",
-        "zh-tw": "嶄露頭角的探險家"
+        "zh-tw": "新手調查員",
     },
     illustrator: "Yuu Nishida",
     category: "Trainer",

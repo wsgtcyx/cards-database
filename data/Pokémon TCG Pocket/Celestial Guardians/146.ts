@@ -10,7 +10,7 @@ const card: Card = {
         de: "Giftstich",
         'pt-br': "Farpa Venenosa",
         ko: "독바늘",
-        "zh-tw": "毒倒刺"
+        "zh-tw": "毒針",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

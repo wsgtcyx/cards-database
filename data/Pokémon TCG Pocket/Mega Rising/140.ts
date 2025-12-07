@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Crabominabile",
         "de": "Krabbenfähig",
         "pt-br": "Crabominável",
-        "zh-tw": "克拉博米納布爾"
+        "zh-tw": "好勝毛蟹",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",

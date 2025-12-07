@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pineco",
         "de": "Pineco",
         "pt-br": "Pinho",
-        "zh-tw": "松果"
+        "zh-tw": "榛果球",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",

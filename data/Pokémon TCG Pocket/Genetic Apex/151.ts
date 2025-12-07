@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tragosso",
         'pt-br': "Cubone",
         ko: "탕구리",
-        "zh-tw": "庫博內"
+        "zh-tw": "卡拉卡拉",
     },
     illustrator: "sowsow",
     category: "Pokemon",

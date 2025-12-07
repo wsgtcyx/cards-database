@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pidgeot",
         "de": "Taube",
         "pt-br": "Pidgeot",
-        "zh-tw": "比比鳥"
+        "zh-tw": "大比鳥",
     },
     illustrator: "Misa Tsutsui",
     category: "Pokemon",

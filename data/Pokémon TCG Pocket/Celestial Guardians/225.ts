@@ -10,7 +10,7 @@ const card: Card = {
         de: "Machomei",
         ko: "괴력몬",
         'pt-br': "Machamp",
-        "zh-tw": "馬尚普"
+        "zh-tw": "怪力",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Shiny",

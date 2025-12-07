@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kramshef",
         'pt-br': "Honchkrow",
         ko: "돈크로우",
-        "zh-tw": "洪奇克羅"
+        "zh-tw": "烏鴉頭頭",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Xatu",
         "de": "Xatu",
         "pt-br": "Xatu",
-        "zh-tw": "哈圖"
+        "zh-tw": "天然鳥",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Three Diamond",

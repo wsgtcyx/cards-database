@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rotomurf",
         'pt-br': "Drilbur",
         ko: "두더류",
-        "zh-tw": "德里爾布爾"
+        "zh-tw": "螺釘地鼠",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sandamer",
         'pt-br': "Sandslash",
         ko: "고지",
-        "zh-tw": "沙斬"
+        "zh-tw": "穿山王",
     },
     illustrator: "Miki Tanaka",
     category: "Pokemon",

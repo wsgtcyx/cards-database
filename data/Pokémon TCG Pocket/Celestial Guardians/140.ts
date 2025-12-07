@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kommandutan",
         'pt-br': "Oranguru",
         ko: "하랑우탄",
-        "zh-tw": "奧蘭古魯"
+        "zh-tw": "智揮猩",
     },
     illustrator: "Naoki Saito",
     rarity: "Three Diamond",

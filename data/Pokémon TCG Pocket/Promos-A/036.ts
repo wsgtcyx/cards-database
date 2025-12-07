@@ -10,7 +10,7 @@ const card: Card = {
         de: "Elevoltek",
         ko: "에레키블",
         'pt-br': "Electivire",
-        "zh-tw": "電力公司"
+        "zh-tw": "電擊魔獸",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "None",

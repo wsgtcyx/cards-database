@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Drappo",
         "de": "Drapion",
         "pt-br": "Drapion",
-        "zh-tw": "德拉皮翁"
+        "zh-tw": "龍王蠍",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",

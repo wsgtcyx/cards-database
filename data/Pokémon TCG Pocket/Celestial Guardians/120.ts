@@ -10,7 +10,7 @@ const card: Card = {
         de: "Cavalanzas",
         'pt-br': "Escavalier",
         ko: "슈바르고",
-        "zh-tw": "埃斯卡瓦利埃"
+        "zh-tw": "騎士蝸牛",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",

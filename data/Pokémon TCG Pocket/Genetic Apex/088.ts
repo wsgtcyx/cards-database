@@ -10,7 +10,7 @@ const card: Card = {
         de: "Amphizel",
         'pt-br': "Frogadier",
         ko: "개굴반장",
-        "zh-tw": "弗洛加迪爾"
+        "zh-tw": "呱頭蛙",
     },
     illustrator: "Akira Komayama",
     category: "Pokemon",

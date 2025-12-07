@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Rallentando",
         "de": "Langsam",
         "pt-br": "Lentidão",
-        "zh-tw": "呆呆王"
+        "zh-tw": "河馬王",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",

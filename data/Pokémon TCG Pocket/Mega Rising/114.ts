@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gothitelle",
         "de": "Gothitelle",
         "pt-br": "Gothitelle",
-        "zh-tw": "戈蒂泰爾"
+        "zh-tw": "哥德小姐",
     },
     illustrator: "Eri Yamaki",
     rarity: "Three Diamond",

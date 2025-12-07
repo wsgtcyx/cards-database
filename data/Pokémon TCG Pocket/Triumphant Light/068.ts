@@ -10,7 +10,7 @@ const card: Card = {
         de: "Staraptor",
         'pt-br': "Staraptor",
         ko: "찌르호크",
-        "zh-tw": "星盜龍"
+        "zh-tw": "姆克鷹",
     },
     illustrator: "Minahamu",
     rarity: "Two Diamond",

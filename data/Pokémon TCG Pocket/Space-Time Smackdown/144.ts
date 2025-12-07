@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kopffossil",
         'pt-br': "Fóssil Crânio",
         ko: "두개의화석",
-        "zh-tw": "頭骨化石"
+        "zh-tw": "頭蓋化石",
     },
     illustrator: "Toyste Beach",
     rarity: "One Diamond",

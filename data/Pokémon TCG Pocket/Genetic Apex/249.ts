@@ -10,7 +10,7 @@ const card: Card = {
         de: "Porygon",
         'pt-br': "Porygon",
         ko: "폴리곤",
-        "zh-tw": "多邊形"
+        "zh-tw": "多邊獸",
     },
     illustrator: "Akira Komayama",
     category: "Pokemon",

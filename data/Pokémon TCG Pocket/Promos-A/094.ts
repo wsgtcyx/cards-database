@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Horsea",
         "de": "Horsea",
         "pt-br": "cavalo",
-        "zh-tw": "霍塞亞"
+        "zh-tw": "墨海馬",
     },
     illustrator: "Taira Akitsu",
     rarity: "One Diamond",

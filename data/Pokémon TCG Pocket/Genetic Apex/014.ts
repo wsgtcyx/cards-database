@@ -10,7 +10,7 @@ const card: Card = {
         de: "Paras",
         'pt-br': "Paras",
         ko: "파라스",
-        "zh-tw": "帕拉斯"
+        "zh-tw": "派拉斯",
     },
     illustrator: "Naoyo Kimura",
     category: "Pokemon",

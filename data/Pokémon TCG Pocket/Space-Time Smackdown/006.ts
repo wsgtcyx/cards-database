@@ -10,7 +10,7 @@ const card: Card = {
         de: "Yanma",
         'pt-br': "Yanma",
         ko: "왕자리",
-        "zh-tw": "燕馬"
+        "zh-tw": "陽陽瑪",
     },
     illustrator: "Eri Yamaki",
     rarity: "One Diamond",

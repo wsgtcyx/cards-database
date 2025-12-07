@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Delibird",
         "de": "Delibird",
         "pt-br": "Delibird",
-        "zh-tw": "熟食鳥"
+        "zh-tw": "信使鳥",
     },
     illustrator: "Mékayu",
     rarity: "One Star",

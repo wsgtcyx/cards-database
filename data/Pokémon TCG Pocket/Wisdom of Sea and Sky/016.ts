@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Affondato",
         "de": "Sunkern",
         "pt-br": "Afundado",
-        "zh-tw": "下沉"
+        "zh-tw": "向日種子",
     },
     illustrator: "0313",
     rarity: "One Diamond",

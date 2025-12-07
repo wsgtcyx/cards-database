@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Maggio",
         "de": "Mai",
         "pt-br": "Poderia",
-        "zh-tw": "可能"
+        "zh-tw": "小遙",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Two Diamond",

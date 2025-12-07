@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Galvantula",
         "de": "Galvantula",
         "pt-br": "Galvântula",
-        "zh-tw": "加爾萬圖拉"
+        "zh-tw": "電蜘蛛",
     },
     illustrator: "otumami",
     rarity: "Two Diamond",

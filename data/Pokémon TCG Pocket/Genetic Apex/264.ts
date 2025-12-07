@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knogga-ex",
         'pt-br': "Marowak ex",
         ko: "텅구리 ex",
-        "zh-tw": "馬羅瓦克EX"
+        "zh-tw": "嘎啦嘎啦 ex",
     },
     illustrator: "PLANETA Mochizuki",
     category: "Pokemon",

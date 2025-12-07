@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pummeluff",
         'pt-br': "Jigglypuff",
         ko: "푸린",
-        "zh-tw": "胖夫"
+        "zh-tw": "胖丁",
     },
     illustrator: "Mizue",
     category: "Pokemon",

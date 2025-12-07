@@ -10,7 +10,7 @@ const card: Card = {
         de: "Aerodactyl",
         'pt-br': "Aerodactyl",
         ko: "프테라",
-        "zh-tw": "空指龍"
+        "zh-tw": "化石翼龍",
     },
     illustrator: "Naoyo Kimura",
     category: "Pokemon",

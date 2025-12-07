@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Rowlet",
         "de": "Rowlet",
         "pt-br": "Rowlet",
-        "zh-tw": "羅萊特"
+        "zh-tw": "木木梟",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

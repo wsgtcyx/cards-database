@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Golem",
         "de": "Golem",
         "pt-br": "Golem",
-        "zh-tw": "魔像"
+        "zh-tw": "隆隆岩",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

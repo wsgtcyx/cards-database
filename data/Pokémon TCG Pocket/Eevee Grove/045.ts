@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Purrloin",
         "de": "Schnurren",
         "pt-br": "Purrloin",
-        "zh-tw": "珀朗"
+        "zh-tw": "扒手貓",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

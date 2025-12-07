@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lucia",
         'pt-br': "Dawn",
         ko: "빛나",
-        "zh-tw": "黎明"
+        "zh-tw": "小光",
     },
     illustrator: "saino misaki",
     rarity: "Two Diamond",

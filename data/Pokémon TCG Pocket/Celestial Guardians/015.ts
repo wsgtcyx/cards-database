@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mantidea",
         'pt-br': "Lurantis",
         ko: "라란티스",
-        "zh-tw": "魯蘭蒂斯"
+        "zh-tw": "蘭螳花",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",

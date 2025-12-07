@@ -10,7 +10,7 @@ const card: Card = {
         de: "Froxy",
         'pt-br': "Froakie",
         ko: "개구마르",
-        "zh-tw": "弗羅阿基"
+        "zh-tw": "呱呱泡蛙",
     },
     illustrator: "Aya Kusube",
     category: "Pokemon",

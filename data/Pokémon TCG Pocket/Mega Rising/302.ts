@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zapdos",
         "de": "Zapdos",
         "pt-br": "Zapdos",
-        "zh-tw": "扎普多斯"
+        "zh-tw": "閃電鳥",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Stunfisk",
         "de": "Stunfisk",
         "pt-br": "Stunfisk",
-        "zh-tw": "斯通菲斯克"
+        "zh-tw": "泥巴魚",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",

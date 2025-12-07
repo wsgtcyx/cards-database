@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Masticare",
         "de": "Chewtle",
         "pt-br": "Mastigar",
-        "zh-tw": "咀嚼"
+        "zh-tw": "咬咬龜",
     },
     illustrator: "Nurikabe",
     rarity: "One Diamond",

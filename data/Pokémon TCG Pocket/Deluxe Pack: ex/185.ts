@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Milcery",
         "de": "Milchwaren",
         "pt-br": "Milcery",
-        "zh-tw": "米爾塞里"
+        "zh-tw": "小仙奶",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

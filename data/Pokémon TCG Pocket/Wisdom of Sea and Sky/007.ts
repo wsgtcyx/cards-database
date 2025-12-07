@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pinsir",
         "de": "Pinsir",
         "pt-br": "Pinsir",
-        "zh-tw": "平西爾"
+        "zh-tw": "凱羅斯",
     },
     illustrator: "Toshinao Aoki",
     rarity: "One Diamond",

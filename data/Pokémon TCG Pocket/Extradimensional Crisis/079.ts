@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Guzzlord es",
         "de": "Guzzlord ex",
         "pt-br": "Guzzlord ex",
-        "zh-tw": "古茲領主EX"
+        "zh-tw": "惡食大王 ex",
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Star",

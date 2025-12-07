@@ -10,7 +10,7 @@ const card: Card = {
         de: "Meltan",
         'pt-br': "Meltan",
         ko: "멜탄",
-        "zh-tw": "美爾坦"
+        "zh-tw": "美錄坦",
     },
     illustrator: "Shin Nagasawa",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sichlor",
         'pt-br': "Scyther",
         ko: "스라크",
-        "zh-tw": "鐮刀"
+        "zh-tw": "飛天螳螂",
     },
     illustrator: "Hasuno",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Swaroness",
         'pt-br': "Swanna",
         ko: "스완나",
-        "zh-tw": "斯瓦納"
+        "zh-tw": "首席天鵝",
     },
     illustrator: "sui",
     category: "Pokemon",

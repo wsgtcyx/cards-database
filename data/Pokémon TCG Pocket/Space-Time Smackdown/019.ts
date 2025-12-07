@@ -10,7 +10,7 @@ const card: Card = {
         de: "Venuflibis",
         'pt-br': "Carnivine",
         ko: "무스틈니",
-        "zh-tw": "肉毒鹼"
+        "zh-tw": "尖牙籠",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",

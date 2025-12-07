@@ -10,7 +10,7 @@ const card: Card = {
         de: "Thermopod",
         'pt-br': "Sizzlipede",
         ko: "태우지네",
-        "zh-tw": "西足蟲"
+        "zh-tw": "燒火蚣",
     },
     illustrator: "Teeziro",
     category: "Pokemon",

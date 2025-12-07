@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tangcrescita",
         "de": "Tangwachstum",
         "pt-br": "Tangrowth",
-        "zh-tw": "唐格魯斯"
+        "zh-tw": "巨蔓藤",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Three Diamond",

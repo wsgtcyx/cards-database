@@ -10,7 +10,7 @@ const card: Card = {
         de: "Seemon",
         'pt-br': "Seadra",
         ko: "시드라",
-        "zh-tw": "西德拉"
+        "zh-tw": "海刺龍",
     },
     illustrator: "Sanosuke Sakuma",
     category: "Pokemon",

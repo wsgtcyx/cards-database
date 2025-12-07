@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Idreigon",
         "de": "Dreieck",
         "pt-br": "Hidroreigon",
-        "zh-tw": "海德根"
+        "zh-tw": "三頭龍",
     },
     illustrator: "hatachu",
     rarity: "Three Diamond",

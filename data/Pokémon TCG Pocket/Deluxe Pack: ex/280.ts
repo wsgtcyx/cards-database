@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Inverosimile",
         "de": "Farfetch'd",
         "pt-br": "Farfetch'd",
-        "zh-tw": "Farfetch'd"
+        "zh-tw": "大蔥鴨",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

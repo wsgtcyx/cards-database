@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mismagio",
         "de": "Mismagius",
         "pt-br": "Mismágio",
-        "zh-tw": "米斯馬吉烏斯"
+        "zh-tw": "夢妖魔",
     },
     illustrator: "tono",
     rarity: "Two Diamond",

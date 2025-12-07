@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cosmog",
         "de": "Kosmog",
         "pt-br": "Cosmog",
-        "zh-tw": "科斯莫格"
+        "zh-tw": "科斯莫古",
     },
     illustrator: "sui",
     rarity: "One Diamond",

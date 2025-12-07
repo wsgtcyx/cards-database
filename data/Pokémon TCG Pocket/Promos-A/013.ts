@@ -10,7 +10,7 @@ const card: Card = {
         de: "Smettbo",
         'pt-br': "Butterfree",
         ko: "버터플",
-        "zh-tw": "無黃油"
+        "zh-tw": "巴大蝶",
     },
     illustrator: "miki kudo",
     rarity: "None",

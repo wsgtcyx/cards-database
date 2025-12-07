@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sableye",
         "de": "Sableye",
         "pt-br": "Sableye",
-        "zh-tw": "黑貂眼"
+        "zh-tw": "勾魂眼",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",

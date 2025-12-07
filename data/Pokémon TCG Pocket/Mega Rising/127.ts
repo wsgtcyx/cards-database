@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Hariyama",
         "de": "Hariyama",
         "pt-br": "Hariyama",
-        "zh-tw": "播山"
+        "zh-tw": "超力王",
     },
     illustrator: "Scav",
     rarity: "Two Diamond",

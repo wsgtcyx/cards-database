@@ -10,7 +10,7 @@ const card: Card = {
         de: "Digdri",
         'pt-br': "Dugtrio",
         ko: "닥트리오",
-        "zh-tw": "杜格特里奧"
+        "zh-tw": "三地鼠",
     },
     illustrator: "Akira Komayama",
     category: "Pokemon",

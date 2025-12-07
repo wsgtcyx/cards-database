@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gardevoir",
         "de": "Gardevoir",
         "pt-br": "Gardevoir",
-        "zh-tw": "加爾德瓦"
+        "zh-tw": "沙奈朵",
     },
     illustrator: "Tomomi Ozaki",
     rarity: "One Star",

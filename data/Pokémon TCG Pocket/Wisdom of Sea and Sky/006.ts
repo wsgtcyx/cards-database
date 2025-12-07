@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Scyther",
         "de": "Sense",
         "pt-br": "Foice",
-        "zh-tw": "鐮刀"
+        "zh-tw": "飛天螳螂",
     },
     illustrator: "Narumi Sato",
     rarity: "One Diamond",

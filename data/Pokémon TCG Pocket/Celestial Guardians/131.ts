@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dartiri",
         'pt-br': "Fletchling",
         ko: "화살꼬빈",
-        "zh-tw": "弗萊奇林"
+        "zh-tw": "小箭雀",
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",

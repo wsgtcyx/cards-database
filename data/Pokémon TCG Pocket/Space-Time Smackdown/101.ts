@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magnayen",
         'pt-br': "Mightyena",
         ko: "그라에나",
-        "zh-tw": "邁特耶納"
+        "zh-tw": "大狼犬",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mewtu-ex",
         'pt-br': "Mewtwo ex",
         ko: "뮤츠 ex",
-        "zh-tw": "超夢EX"
+        "zh-tw": "超夢 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "None",

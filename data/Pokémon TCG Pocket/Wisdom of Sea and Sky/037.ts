@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Morore di calore",
         "de": "Heatmor",
         "pt-br": "Calormor",
-        "zh-tw": "熱莫爾"
+        "zh-tw": "食蟻爐",
     },
     illustrator: "match",
     rarity: "One Diamond",

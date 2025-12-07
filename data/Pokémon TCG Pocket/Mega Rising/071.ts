@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Froakie",
         "de": "Froakie",
         "pt-br": "Froakie",
-        "zh-tw": "弗羅阿基"
+        "zh-tw": "呱呱泡蛙",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",

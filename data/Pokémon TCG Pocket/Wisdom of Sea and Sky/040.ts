@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Politoed",
         "de": "Politisch",
         "pt-br": "Politizado",
-        "zh-tw": "波利托德"
+        "zh-tw": "蚊香蛙皇",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

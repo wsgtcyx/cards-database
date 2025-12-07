@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Darkrai ex",
         "de": "Darkrai ex",
         "pt-br": "Ex-Darkrai",
-        "zh-tw": "達克萊伊EX"
+        "zh-tw": "達克萊伊 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

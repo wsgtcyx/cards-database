@@ -10,7 +10,7 @@ const card: Card = {
         de: "Quapsel",
         'pt-br': "Poliwag",
         ko: "발챙이",
-        "zh-tw": "波利瓦格"
+        "zh-tw": "蚊香蝌蚪",
     },
     illustrator: "Shibuzoh.",
     category: "Pokemon",

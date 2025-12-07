@@ -10,7 +10,7 @@ const card: Card = {
         de: "Shaymin",
         'pt-br': "Shaymin",
         ko: "쉐이미",
-        "zh-tw": "謝明"
+        "zh-tw": "謝米",
     },
     illustrator: "MINAMINAMI Take",
     rarity: "One Star",

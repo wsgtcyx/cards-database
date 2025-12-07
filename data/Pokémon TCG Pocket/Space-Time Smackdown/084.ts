@@ -10,7 +10,7 @@ const card: Card = {
         de: "Skorgro",
         'pt-br': "Gliscor",
         ko: "글라이온",
-        "zh-tw": "格力斯科"
+        "zh-tw": "天蠍王",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",

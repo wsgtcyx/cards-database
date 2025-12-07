@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Meowth di Alola",
         "de": "Alola-Miau",
         "pt-br": "Meowth de Alola",
-        "zh-tw": "阿羅拉喵"
+        "zh-tw": "阿羅拉喵喵",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

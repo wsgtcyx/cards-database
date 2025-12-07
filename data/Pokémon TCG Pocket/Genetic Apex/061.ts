@@ -10,7 +10,7 @@ const card: Card = {
         de: "Quappo",
         'pt-br': "Poliwrath",
         ko: "강챙이",
-        "zh-tw": "波利拉特"
+        "zh-tw": "蚊香泳士",
     },
     illustrator: "Akira Komayama",
     category: "Pokemon",

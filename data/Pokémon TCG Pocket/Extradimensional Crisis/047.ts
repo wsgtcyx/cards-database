@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Alolan Dugtrio ex",
         "de": "Alolan Dgtrio ex",
         "pt-br": "Ex-Alolan Dugtrio",
-        "zh-tw": "阿羅拉·杜格特里奧EX"
+        "zh-tw": "阿羅拉三地鼠 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

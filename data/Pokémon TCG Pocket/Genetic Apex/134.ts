@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fletiamo",
         'pt-br': "Swoobat",
         ko: "맘박쥐",
-        "zh-tw": "斯沃巴特"
+        "zh-tw": "心蝙蝠",
     },
     illustrator: "Masakazu Fukuda",
     category: "Pokemon",

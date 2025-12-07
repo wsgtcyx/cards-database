@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Piloswine",
         "de": "Piloswine",
         "pt-br": "Piloswine",
-        "zh-tw": "毛豬"
+        "zh-tw": "長毛豬",
     },
     illustrator: "Midori Harada",
     rarity: "Two Diamond",

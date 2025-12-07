@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tropio",
         "de": "Tropius",
         "pt-br": "Trópio",
-        "zh-tw": "特羅皮烏斯"
+        "zh-tw": "熱帶龍",
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Diamond",

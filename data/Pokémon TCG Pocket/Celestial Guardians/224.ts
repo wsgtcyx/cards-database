@@ -10,7 +10,7 @@ const card: Card = {
         de: "Maschock",
         'pt-br': "Machoke",
         ko: "근육몬",
-        "zh-tw": "馬喬克"
+        "zh-tw": "豪力",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Shiny",

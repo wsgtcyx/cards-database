@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wommel",
         'pt-br': "Cutiefly",
         ko: "에블리",
-        "zh-tw": "可愛蠅"
+        "zh-tw": "萌虻",
     },
     illustrator: "kamonabe",
     rarity: "One Star",

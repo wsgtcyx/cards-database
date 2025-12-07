@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Celesteela",
         "de": "Celesteela",
         "pt-br": "Celesteela",
-        "zh-tw": "塞萊斯蒂拉"
+        "zh-tw": "鐵火輝夜",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

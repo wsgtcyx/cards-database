@@ -10,7 +10,7 @@ const card: Card = {
         de: "Porenta",
         'pt-br': "Farfetch'd",
         ko: "파오리",
-        "zh-tw": "Farfetch'd"
+        "zh-tw": "大蔥鴨",
     },
     illustrator: "Eri Yamaki",
     rarity: "One Diamond",

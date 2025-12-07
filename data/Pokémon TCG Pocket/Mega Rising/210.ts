@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Corvisquire",
         "de": "Corvisquire",
         "pt-br": "Corvisquire",
-        "zh-tw": "科維斯奎爾"
+        "zh-tw": "藍鴉",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",

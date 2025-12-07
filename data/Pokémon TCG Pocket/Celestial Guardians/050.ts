@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lusardin",
         'pt-br': "Wishiwashi",
         ko: "약어리",
-        "zh-tw": "願望和希"
+        "zh-tw": "弱丁魚",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Seviper",
         "de": "Seviper",
         "pt-br": "Seviper",
-        "zh-tw": "塞維佩爾"
+        "zh-tw": "飯匙蛇",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

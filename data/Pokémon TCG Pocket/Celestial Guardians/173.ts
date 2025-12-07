@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pampross",
         'pt-br': "Mudsdale",
         ko: "만마드",
-        "zh-tw": "穆茲代爾"
+        "zh-tw": "重泥挽馬",
     },
     illustrator: "Teeziro",
     rarity: "One Star",

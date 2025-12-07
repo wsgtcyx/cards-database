@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wooper Paldeano",
         "de": "Paldean Wooper",
         "pt-br": "Paldeano Wooper",
-        "zh-tw": "帕丁·伍珀"
+        "zh-tw": "帕底亞烏波",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

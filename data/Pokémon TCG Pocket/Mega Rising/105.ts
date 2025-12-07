@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dusknoir",
         "de": "Dusknoir",
         "pt-br": "Anoitecer",
-        "zh-tw": "黃昏"
+        "zh-tw": "夜黑魔人",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",

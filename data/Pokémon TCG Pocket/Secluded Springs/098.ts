@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gibile",
         "de": "Gible",
         "pt-br": "Gible",
-        "zh-tw": "吉布爾"
+        "zh-tw": "圓陸鯊",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

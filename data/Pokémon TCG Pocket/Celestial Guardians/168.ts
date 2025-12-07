@@ -10,7 +10,7 @@ const card: Card = {
         de: "Curelei",
         'pt-br': "Comfey",
         ko: "큐아링",
-        "zh-tw": "康菲"
+        "zh-tw": "花療環環",
     },
     illustrator: "mashu",
     rarity: "One Star",

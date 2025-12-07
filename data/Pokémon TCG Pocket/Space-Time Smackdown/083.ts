@@ -10,7 +10,7 @@ const card: Card = {
         de: "Skorgla",
         'pt-br': "Gligar",
         ko: "글라이거",
-        "zh-tw": "格利加爾"
+        "zh-tw": "天蠍",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",

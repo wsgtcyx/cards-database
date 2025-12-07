@@ -10,7 +10,7 @@ const card: Card = {
         de: "Enekoro",
         'pt-br': "Delcatty",
         ko: "델케티",
-        "zh-tw": "德爾卡蒂"
+        "zh-tw": "優雅貓",
     },
     illustrator: "0313",
     rarity: "Two Diamond",

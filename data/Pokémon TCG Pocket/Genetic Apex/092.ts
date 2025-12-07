@@ -10,7 +10,7 @@ const card: Card = {
         de: "Snomnom",
         'pt-br': "Snom",
         ko: "누니머기",
-        "zh-tw": "斯諾姆"
+        "zh-tw": "雪吞蟲",
     },
     illustrator: "ryoma uratsuka",
     category: "Pokemon",

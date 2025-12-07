@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Fletchinder",
         "de": "Fletchinder",
         "pt-br": "Fletchinder",
-        "zh-tw": "弗萊欽德"
+        "zh-tw": "火箭雀",
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Regice",
         'pt-br': "Regice",
         ko: "레지아이스",
-        "zh-tw": "雷傑傑斯"
+        "zh-tw": "雷吉艾斯",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Molto",
         "de": "Lotad",
         "pt-br": "Lotad",
-        "zh-tw": "洛塔德"
+        "zh-tw": "蓮葉童子",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magneton",
         'pt-br': "Magneton",
         ko: "레어코일",
-        "zh-tw": "磁通"
+        "zh-tw": "三合一磁怪",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tentoxa",
         'pt-br': "Tentacruel",
         ko: "독파리",
-        "zh-tw": "觸毒"
+        "zh-tw": "毒刺水母",
     },
     illustrator: "kodama",
     category: "Pokemon",

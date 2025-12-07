@@ -10,7 +10,7 @@ const card: Card = {
         de: "Panflam",
         'pt-br': "Chimchar",
         ko: "불꽃숭이",
-        "zh-tw": "奇姆查爾"
+        "zh-tw": "小火焰猴",
     },
     illustrator: "sui",
     rarity: "None",

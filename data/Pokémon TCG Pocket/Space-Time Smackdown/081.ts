@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rizeros",
         'pt-br': "Rhydon",
         ko: "코뿌리",
-        "zh-tw": "鐵甲犀"
+        "zh-tw": "鑽角犀獸",
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Aggrostella",
         'pt-br': "Toxapex",
         ko: "더시마사리",
-        "zh-tw": "托沙派克斯"
+        "zh-tw": "超壞星",
     },
     illustrator: "chibi",
     rarity: "One Diamond",

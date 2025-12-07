@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Salto",
         "de": "Jumpluff",
         "pt-br": "Jumpluff",
-        "zh-tw": "跳躍拉夫"
+        "zh-tw": "毽子綿",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

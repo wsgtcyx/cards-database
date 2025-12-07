@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Georok",
         'pt-br': "Gravelerde Alola",
         ko: "알로라데구리",
-        "zh-tw": "阿羅拉碎石者"
+        "zh-tw": "阿羅拉隆隆石",
     },
     illustrator: "match",
     rarity: "Two Diamond",

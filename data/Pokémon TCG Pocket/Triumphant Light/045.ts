@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kaumalat",
         'pt-br': "Gible",
         ko: "딥상어동",
-        "zh-tw": "吉布爾"
+        "zh-tw": "圓陸鯊",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Enton",
         'pt-br': "Psyduck",
         ko: "고라파덕",
-        "zh-tw": "迷幻鴨"
+        "zh-tw": "可達鴨",
     },
     illustrator: "Shibuzoh.",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Despotar",
         'pt-br': "Tyranitar",
         ko: "마기라스",
-        "zh-tw": "霸王龍"
+        "zh-tw": "班吉拉",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

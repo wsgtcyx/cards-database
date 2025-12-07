@@ -10,7 +10,7 @@ const card: Card = {
         de: "Misty",
         ko: "이슬",
         'pt-br': "Misty",
-        "zh-tw": "濛濛"
+        "zh-tw": "小霞",
     },
     illustrator: "Sanosuke Sakuma",
     category: "Trainer",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nebulak",
         'pt-br': "Gastly",
         ko: "고오스",
-        "zh-tw": "加斯特利"
+        "zh-tw": "鬼斯",
     },
     illustrator: "kurumitsu",
     rarity: "One Shiny",

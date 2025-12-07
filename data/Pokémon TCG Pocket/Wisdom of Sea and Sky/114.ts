@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Honchkrow",
         "de": "Honchkrow",
         "pt-br": "Honchkrow",
-        "zh-tw": "洪奇克羅"
+        "zh-tw": "烏鴉頭頭",
     },
     illustrator: "Shiburingaru",
     rarity: "Two Diamond",

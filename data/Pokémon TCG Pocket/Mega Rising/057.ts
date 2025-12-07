@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wailord",
         "de": "Wailord",
         "pt-br": "Wailord",
-        "zh-tw": "威洛德"
+        "zh-tw": "吼鯨王",
     },
     illustrator: "KIYOTAKA OSHIYAMA",
     rarity: "Three Diamond",

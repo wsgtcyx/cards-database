@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Copione",
         "de": "Nachahmer",
         "pt-br": "Imitador",
-        "zh-tw": "山寨"
+        "zh-tw": "模仿少女",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",

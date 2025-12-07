@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Oranguru",
         "de": "Oranguru",
         "pt-br": "Orangotango",
-        "zh-tw": "奧蘭古魯"
+        "zh-tw": "智揮猩",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

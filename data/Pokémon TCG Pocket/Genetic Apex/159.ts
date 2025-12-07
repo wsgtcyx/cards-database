@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kabutops",
         'pt-br': "Kabutops",
         ko: "투구푸스",
-        "zh-tw": "兜帽"
+        "zh-tw": "鐮刀盔",
     },
     illustrator: "Shin Nagasawa",
     category: "Pokemon",

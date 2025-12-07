@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Geowaz",
         'pt-br': "Golemde Alola",
         ko: "알로라딱구리",
-        "zh-tw": "阿羅拉傀儡"
+        "zh-tw": "阿羅拉隆隆岩",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

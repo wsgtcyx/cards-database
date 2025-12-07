@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Crobat es",
         "de": "Crobat ex",
         "pt-br": "Ex-crobat",
-        "zh-tw": "克羅巴特EX"
+        "zh-tw": "叉字蝠 ex",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Star",

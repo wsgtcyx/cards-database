@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kinoso",
         'pt-br': "Cherrim",
         ko: "체리꼬",
-        "zh-tw": "櫻桃木"
+        "zh-tw": "櫻花兒",
     },
     illustrator: "Midori Harada",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Jurob",
         'pt-br': "Seel",
         ko: "쥬쥬",
-        "zh-tw": "塞爾"
+        "zh-tw": "小海獅",
     },
     illustrator: "Masako Yamashita",
     category: "Pokemon",

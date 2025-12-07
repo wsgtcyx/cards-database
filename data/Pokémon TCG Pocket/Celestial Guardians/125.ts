@@ -10,7 +10,7 @@ const card: Card = {
         de: "Miniras",
         'pt-br': "Jangmo-o",
         ko: "짜랑꼬",
-        "zh-tw": "長毛五"
+        "zh-tw": "心鱗寶",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",

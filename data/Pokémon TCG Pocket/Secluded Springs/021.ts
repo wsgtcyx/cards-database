@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Feebas",
         "de": "Feebas",
         "pt-br": "Feebas",
-        "zh-tw": "費巴斯"
+        "zh-tw": "笨笨魚",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",

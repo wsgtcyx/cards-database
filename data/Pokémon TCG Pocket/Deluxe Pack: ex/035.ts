@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Servino",
         "de": "Servine",
         "pt-br": "Servina",
-        "zh-tw": "塞爾文"
+        "zh-tw": "青藤蛇",
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",

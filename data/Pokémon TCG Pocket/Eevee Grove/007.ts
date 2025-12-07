@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Appletun",
         "de": "Appletun",
         "pt-br": "Appletun",
-        "zh-tw": "阿普爾頓"
+        "zh-tw": "豐蜜龍",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",

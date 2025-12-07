@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schilterus",
         'pt-br': "Shieldon",
         ko: "방패톱스",
-        "zh-tw": "希爾登"
+        "zh-tw": "盾甲龍",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",

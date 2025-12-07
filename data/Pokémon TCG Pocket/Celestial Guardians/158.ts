@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fruyal",
         'pt-br': "Tsareena",
         ko: "달코퀸",
-        "zh-tw": "查雷納"
+        "zh-tw": "甜冷美后",
     },
     illustrator: "Ligton",
     rarity: "One Star",

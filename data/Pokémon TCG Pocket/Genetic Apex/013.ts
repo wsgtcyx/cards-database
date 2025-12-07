@@ -10,7 +10,7 @@ const card: Card = {
         de: "Giflor",
         'pt-br': "Vileplume",
         ko: "라플레시아",
-        "zh-tw": "惡羽"
+        "zh-tw": "霸王花",
     },
     illustrator: "Kyoko Umemoto",
     category: "Pokemon",

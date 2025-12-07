@@ -10,7 +10,7 @@ const card: Card = {
         de: "Trombork",
         'pt-br': "Trevenant",
         ko: "대로트",
-        "zh-tw": "特雷文南特"
+        "zh-tw": "朽木妖",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

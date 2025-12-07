@@ -10,7 +10,7 @@ const card: Card = {
         de: "Shnebedeck",
         'pt-br': "Snover",
         ko: "눈쓰개",
-        "zh-tw": "斯諾弗"
+        "zh-tw": "雪笠怪",
     },
     illustrator: "match",
     rarity: "One Diamond",

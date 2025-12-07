@@ -10,7 +10,7 @@ const card: Card = {
         de: "Barry",
         'pt-br': "Barry",
         ko: "용식",
-        "zh-tw": "巴里"
+        "zh-tw": "阿馴",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",

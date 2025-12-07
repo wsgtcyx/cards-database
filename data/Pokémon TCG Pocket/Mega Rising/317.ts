@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Decidueye es",
         "de": "Decidueye ex",
         "pt-br": "Decidueye ex",
-        "zh-tw": "蛻膜眼EX"
+        "zh-tw": "狙射樹梟 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

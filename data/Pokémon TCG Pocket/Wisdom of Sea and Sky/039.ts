@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Polivortice",
         "de": "Poliwirbel",
         "pt-br": "Poliwhirl",
-        "zh-tw": "波利惠爾"
+        "zh-tw": "蚊香君",
     },
     illustrator: "Scav",
     rarity: "Two Diamond",

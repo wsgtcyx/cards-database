@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dugtrio",
         "de": "Dugtrio",
         "pt-br": "Dugtrio",
-        "zh-tw": "杜格特里奧"
+        "zh-tw": "三地鼠",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",

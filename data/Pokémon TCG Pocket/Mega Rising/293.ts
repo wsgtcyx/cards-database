@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Litten",
         "de": "Litten",
         "pt-br": "Litten",
-        "zh-tw": "利滕"
+        "zh-tw": "火斑喵",
     },
     illustrator: "whomor Inc.",
     rarity: "One Shiny",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kingler",
         'pt-br': "Kingler",
         ko: "킹크랩",
-        "zh-tw": "金勒"
+        "zh-tw": "巨鉗蟹",
     },
     illustrator: "Shigenori Negishi",
     category: "Pokemon",

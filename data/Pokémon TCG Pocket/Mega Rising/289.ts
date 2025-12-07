@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Victreebel",
         "de": "Victreebel",
         "pt-br": "Victreebel",
-        "zh-tw": "維克特里貝爾"
+        "zh-tw": "大食花",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

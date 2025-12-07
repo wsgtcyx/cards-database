@@ -10,7 +10,7 @@ const card: Card = {
         de: "Volkner",
         'pt-br': "Volkner",
         ko: "전진",
-        "zh-tw": "沃爾克納"
+        "zh-tw": "電次",
     },
     illustrator: "GIDORA",
     rarity: "Two Star",

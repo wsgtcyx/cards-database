@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Applin",
         "de": "Applin",
         "pt-br": "Aplicativo",
-        "zh-tw": "阿普林"
+        "zh-tw": "啃果蟲",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

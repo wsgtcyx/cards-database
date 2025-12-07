@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ursaring",
         "de": "Ursaring",
         "pt-br": "Ursaring",
-        "zh-tw": "烏爾薩林"
+        "zh-tw": "圈圈熊",
     },
     illustrator: "Uta",
     rarity: "Two Diamond",

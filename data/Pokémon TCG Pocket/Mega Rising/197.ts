@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Altaria",
         "de": "Altaria",
         "pt-br": "Altaria",
-        "zh-tw": "阿爾塔利亞"
+        "zh-tw": "七夕青鳥",
     },
     illustrator: "sui",
     rarity: "Three Diamond",

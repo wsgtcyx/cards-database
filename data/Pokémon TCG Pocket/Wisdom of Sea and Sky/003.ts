@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bellossom",
         "de": "Bellossom",
         "pt-br": "Belo",
-        "zh-tw": "貝洛索姆"
+        "zh-tw": "美麗花",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Three Diamond",

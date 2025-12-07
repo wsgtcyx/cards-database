@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ipnotico",
         "de": "Hypnose",
         "pt-br": "Hipno",
-        "zh-tw": "催眠"
+        "zh-tw": "引夢貘人",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Giovanni",
         "de": "Giovanni",
         "pt-br": "João",
-        "zh-tw": "喬萬尼"
+        "zh-tw": "坂木",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",

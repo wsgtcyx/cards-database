@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Crabrawler",
         "de": "Krabbenjäger",
         "pt-br": "Caranguejo",
-        "zh-tw": "爬行者"
+        "zh-tw": "好勝蟹",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

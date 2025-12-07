@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Coalossale",
         "de": "Kohlelossal",
         "pt-br": "Colossal",
-        "zh-tw": "科洛薩爾"
+        "zh-tw": "巨炭山",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",

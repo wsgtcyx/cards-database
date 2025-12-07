@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Hitmontop",
         "de": "Hitmontop",
         "pt-br": "Hitmontop",
-        "zh-tw": "希特蒙托普"
+        "zh-tw": "柯波朗",
     },
     illustrator: "Hisao Nakamura",
     rarity: "One Diamond",

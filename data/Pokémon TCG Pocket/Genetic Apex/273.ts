@@ -10,7 +10,7 @@ const card: Card = {
         de: "Major Bob",
         'pt-br': "Ten. Surge",
         ko: "마티스",
-        "zh-tw": "蘇吉中尉"
+        "zh-tw": "馬志士",
     },
     illustrator: "nagimiso",
     category: "Trainer",

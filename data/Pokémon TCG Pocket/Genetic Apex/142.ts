@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rasaff",
         'pt-br': "Primeape",
         ko: "성원숭",
-        "zh-tw": "普里阿普"
+        "zh-tw": "火爆猴",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Reißlaus",
         'pt-br': "Wimpod",
         ko: "꼬시레",
-        "zh-tw": "溫波德"
+        "zh-tw": "膽小蟲",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

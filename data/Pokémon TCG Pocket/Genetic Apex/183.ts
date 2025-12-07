@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dratini",
         'pt-br': "Dratini",
         ko: "미뇽",
-        "zh-tw": "德拉蒂尼"
+        "zh-tw": "迷你龍",
     },
     illustrator: "Ayaka Yoshida",
     category: "Pokemon",

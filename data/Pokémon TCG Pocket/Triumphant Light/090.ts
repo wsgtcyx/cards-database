@@ -10,7 +10,7 @@ const card: Card = {
         de: "Diam",
         'pt-br': "Ádamo",
         ko: "찬석",
-        "zh-tw": "阿達曼"
+        "zh-tw": "剛石",
     },
     illustrator: "akagi",
     rarity: "Two Star",

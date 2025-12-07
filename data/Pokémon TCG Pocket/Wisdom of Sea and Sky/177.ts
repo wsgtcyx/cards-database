@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Spinarak",
         "de": "Spinarak",
         "pt-br": "Espinaraque",
-        "zh-tw": "斯皮納拉克"
+        "zh-tw": "線球",
     },
     illustrator: "IKEDA Saki",
     rarity: "One Star",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Boltund",
         "de": "Boltund",
         "pt-br": "Boltund",
-        "zh-tw": "博爾通德"
+        "zh-tw": "逐電犬",
     },
     illustrator: "Tomomi Ozaki",
     rarity: "Three Diamond",

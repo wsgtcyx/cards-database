@@ -10,7 +10,7 @@ const card: Card = {
         de: "Stalobor",
         'pt-br': "Excadrill",
         ko: "몰드류",
-        "zh-tw": "埃克斯卡德里爾"
+        "zh-tw": "龍頭地鼠",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",

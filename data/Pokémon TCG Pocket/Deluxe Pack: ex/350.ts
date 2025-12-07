@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Usamina",
         "de": "Lusamin",
         "pt-br": "Lusamina",
-        "zh-tw": "盧薩米奈"
+        "zh-tw": "露莎米奈",
     },
     illustrator: "Taira Akitsu",
     rarity: "Two Diamond",

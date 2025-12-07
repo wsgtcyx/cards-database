@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dwebble",
         "de": "Dwebble",
         "pt-br": "Dwebble",
-        "zh-tw": "德韋布爾"
+        "zh-tw": "石居蟹",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",

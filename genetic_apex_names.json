@@ -1,0 +1,4006 @@
+[
+  {
+    "file": "001.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/001.ts",
+    "names": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "es": "Bulbasaur",
+      "it": "Bulbasaur",
+      "de": "Bisasam",
+      "pt-br": "Bulbasaur",
+      "ko": "이상해씨",
+      "zh-tw": "妙蛙種子"
+    }
+  },
+  {
+    "file": "002.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/002.ts",
+    "names": {
+      "en": "Ivysaur",
+      "fr": "Herbizarre",
+      "es": "Ivysaur",
+      "it": "Ivysaur",
+      "de": "Bisaknosp",
+      "pt-br": "Ivysaur",
+      "ko": "이상해풀",
+      "zh-tw": "常春藤屬"
+    }
+  },
+  {
+    "file": "003.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/003.ts",
+    "names": {
+      "en": "Venusaur",
+      "fr": "Florizarre",
+      "es": "Venusaur",
+      "it": "Venusaur",
+      "de": "Bisaflor",
+      "pt-br": "Venusaur",
+      "ko": "이상해꽃",
+      "zh-tw": "維納斯龍"
+    }
+  },
+  {
+    "file": "004.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/004.ts",
+    "names": {
+      "en": "Venusaur ex",
+      "fr": "Florizarre-ex",
+      "es": "Venusaur ex",
+      "it": "Venusaur-ex",
+      "de": "Bisaflor-ex",
+      "pt-br": "Venusaur ex",
+      "ko": "이상해꽃 ex",
+      "zh-tw": "維納斯龍EX"
+    }
+  },
+  {
+    "file": "005.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/005.ts",
+    "names": {
+      "en": "Caterpie",
+      "fr": "Chenipan",
+      "es": "Caterpie",
+      "it": "Caterpie",
+      "de": "Raupy",
+      "pt-br": "Caterpie",
+      "ko": "캐터피",
+      "zh-tw": "毛毛蟲"
+    }
+  },
+  {
+    "file": "006.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/006.ts",
+    "names": {
+      "en": "Metapod",
+      "fr": "Chrysacier",
+      "es": "Metapod",
+      "it": "Metapod",
+      "de": "Safcon",
+      "pt-br": "Metapod",
+      "ko": "단데기",
+      "zh-tw": "元足"
+    }
+  },
+  {
+    "file": "007.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/007.ts",
+    "names": {
+      "en": "Butterfree",
+      "fr": "Papilusion",
+      "es": "Butterfree",
+      "it": "Butterfree",
+      "de": "Smettbo",
+      "pt-br": "Butterfree",
+      "ko": "버터플",
+      "zh-tw": "無黃油"
+    }
+  },
+  {
+    "file": "008.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/008.ts",
+    "names": {
+      "en": "Weedle",
+      "fr": "Aspicot",
+      "es": "Weedle",
+      "it": "Weedle",
+      "de": "Hornliu",
+      "pt-br": "Weedle",
+      "ko": "뿔충이",
+      "zh-tw": "雜草"
+    }
+  },
+  {
+    "file": "009.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/009.ts",
+    "names": {
+      "en": "Kakuna",
+      "fr": "Coconfort",
+      "es": "Kakuna",
+      "it": "Kakuna",
+      "de": "Kokuna",
+      "pt-br": "Kakuna",
+      "ko": "딱충이",
+      "zh-tw": "角名"
+    }
+  },
+  {
+    "file": "010.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/010.ts",
+    "names": {
+      "en": "Beedrill",
+      "fr": "Dardargnan",
+      "es": "Beedrill",
+      "it": "Beedrill",
+      "de": "Bibor",
+      "pt-br": "Beedrill",
+      "ko": "독침붕",
+      "zh-tw": "比德鑽"
+    }
+  },
+  {
+    "file": "011.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/011.ts",
+    "names": {
+      "en": "Oddish",
+      "fr": "Mystherbe",
+      "es": "Oddish",
+      "it": "Oddish",
+      "de": "Myrapla",
+      "pt-br": "Oddish",
+      "ko": "뚜벅쵸",
+      "zh-tw": "古怪的"
+    }
+  },
+  {
+    "file": "012.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/012.ts",
+    "names": {
+      "en": "Gloom",
+      "fr": "Ortide",
+      "es": "Gloom",
+      "it": "Gloom",
+      "de": "Duflor",
+      "pt-br": "Gloom",
+      "ko": "냄새꼬",
+      "zh-tw": "愁雲"
+    }
+  },
+  {
+    "file": "013.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/013.ts",
+    "names": {
+      "en": "Vileplume",
+      "fr": "Rafflesia",
+      "es": "Vileplume",
+      "it": "Vileplume",
+      "de": "Giflor",
+      "pt-br": "Vileplume",
+      "ko": "라플레시아",
+      "zh-tw": "惡羽"
+    }
+  },
+  {
+    "file": "014.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/014.ts",
+    "names": {
+      "en": "Paras",
+      "fr": "Paras",
+      "es": "Paras",
+      "it": "Paras",
+      "de": "Paras",
+      "pt-br": "Paras",
+      "ko": "파라스",
+      "zh-tw": "帕拉斯"
+    }
+  },
+  {
+    "file": "015.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/015.ts",
+    "names": {
+      "en": "Parasect",
+      "fr": "Parasect",
+      "es": "Parasect",
+      "it": "Parasect",
+      "de": "Parasek",
+      "pt-br": "Parasect",
+      "ko": "파라섹트",
+      "zh-tw": "帕拉塞克特"
+    }
+  },
+  {
+    "file": "016.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/016.ts",
+    "names": {
+      "en": "Venonat",
+      "fr": "Mimitoss",
+      "es": "Venonat",
+      "it": "Venonat",
+      "de": "Bluzuk",
+      "pt-br": "Venonat",
+      "ko": "콘팡",
+      "zh-tw": "維諾納特"
+    }
+  },
+  {
+    "file": "017.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/017.ts",
+    "names": {
+      "en": "Venomoth",
+      "fr": "Aéromite",
+      "es": "Venomoth",
+      "it": "Venomoth",
+      "de": "Omot",
+      "pt-br": "Venomoth",
+      "ko": "도나리",
+      "zh-tw": "毒蛾"
+    }
+  },
+  {
+    "file": "018.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/018.ts",
+    "names": {
+      "en": "Bellsprout",
+      "fr": "Chétiflor",
+      "es": "Bellsprout",
+      "it": "Bellsprout",
+      "de": "Knofensa",
+      "pt-br": "Bellsprout",
+      "ko": "모다피",
+      "zh-tw": "喇叭芽"
+    }
+  },
+  {
+    "file": "019.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/019.ts",
+    "names": {
+      "en": "Weepinbell",
+      "fr": "Boustiflor",
+      "es": "Weepinbell",
+      "it": "Weepinbell",
+      "de": "Ultrigaria",
+      "pt-br": "Weepinbell",
+      "ko": "우츠동",
+      "zh-tw": "威平貝爾"
+    }
+  },
+  {
+    "file": "020.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/020.ts",
+    "names": {
+      "en": "Victreebel",
+      "fr": "Empiflor",
+      "es": "Victreebel",
+      "it": "Victreebel",
+      "de": "Sarzenia",
+      "pt-br": "Victreebel",
+      "ko": "우츠보트",
+      "zh-tw": "維克特里貝爾"
+    }
+  },
+  {
+    "file": "021.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/021.ts",
+    "names": {
+      "en": "Exeggcute",
+      "fr": "Noeunoeuf",
+      "es": "Exeggcute",
+      "it": "Exeggcute",
+      "de": "Owei",
+      "pt-br": "Exeggcute",
+      "ko": "아라리",
+      "zh-tw": "蛋蛋可愛"
+    }
+  },
+  {
+    "file": "022.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/022.ts",
+    "names": {
+      "en": "Exeggutor",
+      "fr": "Noadkoko",
+      "es": "Exeggutor",
+      "it": "Exeggutor",
+      "de": "Kokowei",
+      "pt-br": "Exeggutor",
+      "ko": "나시",
+      "zh-tw": "椰蛋樹"
+    }
+  },
+  {
+    "file": "023.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/023.ts",
+    "names": {
+      "en": "Exeggutor ex",
+      "fr": "Noadkoko-ex",
+      "es": "Exeggutor ex",
+      "it": "Exeggutor-ex",
+      "de": "Kokowei-ex",
+      "pt-br": "Exeggutor ex",
+      "ko": "나시 ex",
+      "zh-tw": "椰棗EX"
+    }
+  },
+  {
+    "file": "024.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/024.ts",
+    "names": {
+      "en": "Tangela",
+      "fr": "Saquedeneu",
+      "es": "Tangela",
+      "it": "Tangela",
+      "de": "Tangela",
+      "pt-br": "Tangela",
+      "ko": "덩쿠리",
+      "zh-tw": "坦格拉"
+    }
+  },
+  {
+    "file": "025.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/025.ts",
+    "names": {
+      "en": "Scyther",
+      "fr": "Insécateur",
+      "es": "Scyther",
+      "it": "Scyther",
+      "de": "Sichlor",
+      "pt-br": "Scyther",
+      "ko": "스라크",
+      "zh-tw": "鐮刀"
+    }
+  },
+  {
+    "file": "026.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/026.ts",
+    "names": {
+      "en": "Pinsir",
+      "fr": "Scarabrute",
+      "es": "Pinsir",
+      "it": "Pinsir",
+      "de": "Pinsir",
+      "pt-br": "Pinsir",
+      "ko": "쁘사이저",
+      "zh-tw": "平西爾"
+    }
+  },
+  {
+    "file": "027.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/027.ts",
+    "names": {
+      "en": "Cottonee",
+      "fr": "Doudouvet",
+      "es": "Cottonee",
+      "it": "Cottonee",
+      "de": "Waumboll",
+      "pt-br": "Cottonee",
+      "ko": "소미안",
+      "zh-tw": "科托尼"
+    }
+  },
+  {
+    "file": "028.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/028.ts",
+    "names": {
+      "en": "Whimsicott",
+      "fr": "Farfaduvet",
+      "es": "Whimsicott",
+      "it": "Whimsicott",
+      "de": "Elfun",
+      "pt-br": "Whimsicott",
+      "ko": "엘풍",
+      "zh-tw": "異想天開"
+    }
+  },
+  {
+    "file": "029.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/029.ts",
+    "names": {
+      "en": "Petilil",
+      "fr": "Chlorobule",
+      "es": "Petilil",
+      "it": "Petilil",
+      "de": "Lilminip",
+      "pt-br": "Petilil",
+      "ko": "치릴리",
+      "zh-tw": "佩蒂利爾"
+    }
+  },
+  {
+    "file": "030.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/030.ts",
+    "names": {
+      "en": "Lilligant",
+      "fr": "Fragilady",
+      "es": "Lilligant",
+      "it": "Lilligant",
+      "de": "Dressella",
+      "ko": "드레디어",
+      "pt-br": "Lilligant",
+      "zh-tw": "利利甘特"
+    }
+  },
+  {
+    "file": "031.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/031.ts",
+    "names": {
+      "en": "Skiddo",
+      "fr": "Cabriolaine",
+      "es": "Skiddo",
+      "it": "Skiddo",
+      "de": "Mähikel",
+      "pt-br": "Skiddo",
+      "ko": "메이클",
+      "zh-tw": "斯基多"
+    }
+  },
+  {
+    "file": "032.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/032.ts",
+    "names": {
+      "en": "Gogoat",
+      "fr": "Chevroum",
+      "es": "Gogoat",
+      "it": "Gogoat",
+      "de": "Chevrumm",
+      "pt-br": "Gogoat",
+      "ko": "고고트",
+      "zh-tw": "戈山羊"
+    }
+  },
+  {
+    "file": "033.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/033.ts",
+    "names": {
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "es": "Charmander",
+      "it": "Charmander",
+      "de": "Glumanda",
+      "ko": "파이리",
+      "pt-br": "Charmander",
+      "zh-tw": "小火龍"
+    }
+  },
+  {
+    "file": "034.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/034.ts",
+    "names": {
+      "en": "Charmeleon",
+      "fr": "Reptincel",
+      "es": "Charmeleon",
+      "it": "Charmeleon",
+      "de": "Glutexo",
+      "pt-br": "Charmeleon",
+      "ko": "리자드",
+      "zh-tw": "變色龍"
+    }
+  },
+  {
+    "file": "035.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/035.ts",
+    "names": {
+      "en": "Charizard",
+      "fr": "Dracaufeu",
+      "es": "Charizard",
+      "it": "Charizard",
+      "de": "Glurak",
+      "pt-br": "Charizard",
+      "ko": "리자몽",
+      "zh-tw": "噴火龍"
+    }
+  },
+  {
+    "file": "036.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/036.ts",
+    "names": {
+      "en": "Charizard ex",
+      "fr": "Dracaufeu-ex",
+      "es": "Charizard ex",
+      "it": "Charizard-ex",
+      "de": "Glurak-ex",
+      "pt-br": "Charizard ex",
+      "ko": "리자몽 ex",
+      "zh-tw": "噴火龍EX"
+    }
+  },
+  {
+    "file": "037.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/037.ts",
+    "names": {
+      "en": "Vulpix",
+      "fr": "Goupix",
+      "es": "Vulpix",
+      "it": "Vulpix",
+      "de": "Vulpix",
+      "pt-br": "Vulpix",
+      "ko": "식스테일",
+      "zh-tw": "六尾"
+    }
+  },
+  {
+    "file": "038.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/038.ts",
+    "names": {
+      "en": "Ninetales",
+      "fr": "Feunard",
+      "es": "Ninetales",
+      "it": "Ninetales",
+      "de": "Vulnona",
+      "pt-br": "Ninetales",
+      "ko": "나인테일",
+      "zh-tw": "九尾"
+    }
+  },
+  {
+    "file": "039.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/039.ts",
+    "names": {
+      "en": "Growlithe",
+      "fr": "Caninos",
+      "es": "Growlithe",
+      "it": "Growlithe",
+      "de": "Fukano",
+      "pt-br": "Growlithe",
+      "ko": "가디",
+      "zh-tw": "成長"
+    }
+  },
+  {
+    "file": "040.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/040.ts",
+    "names": {
+      "en": "Arcanine",
+      "fr": "Arcanin",
+      "es": "Arcanine",
+      "it": "Arcanine",
+      "de": "Arkani",
+      "pt-br": "Arcanine",
+      "ko": "윈디",
+      "zh-tw": "阿爾卡寧"
+    }
+  },
+  {
+    "file": "041.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/041.ts",
+    "names": {
+      "en": "Arcanine ex",
+      "fr": "Arcanin-ex",
+      "es": "Arcanine ex",
+      "it": "Arcanine-ex",
+      "de": "Arkani-ex",
+      "pt-br": "Arcanine ex",
+      "ko": "윈디 ex",
+      "zh-tw": "阿爾卡寧EX"
+    }
+  },
+  {
+    "file": "042.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/042.ts",
+    "names": {
+      "en": "Ponyta",
+      "fr": "Ponyta",
+      "es": "Ponyta",
+      "it": "Ponyta",
+      "de": "Ponita",
+      "pt-br": "Ponyta",
+      "ko": "포니타",
+      "zh-tw": "小馬駒"
+    }
+  },
+  {
+    "file": "043.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/043.ts",
+    "names": {
+      "en": "Rapidash",
+      "fr": "Galopa",
+      "es": "Rapidash",
+      "it": "Rapidash",
+      "de": "Gallopa",
+      "pt-br": "Rapidash",
+      "ko": "날쌩마",
+      "zh-tw": "快速"
+    }
+  },
+  {
+    "file": "044.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/044.ts",
+    "names": {
+      "en": "Magmar",
+      "fr": "Magmar",
+      "es": "Magmar",
+      "it": "Magmar",
+      "de": "Magmar",
+      "pt-br": "Magmar",
+      "ko": "마그마",
+      "zh-tw": "瑪格瑪"
+    }
+  },
+  {
+    "file": "045.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/045.ts",
+    "names": {
+      "en": "Flareon",
+      "fr": "Pyroli",
+      "es": "Flareon",
+      "it": "Flareon",
+      "de": "Flamara",
+      "pt-br": "Flareon",
+      "ko": "부스터",
+      "zh-tw": "弗萊昂"
+    }
+  },
+  {
+    "file": "046.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/046.ts",
+    "names": {
+      "en": "Moltres",
+      "fr": "Sulfura",
+      "es": "Moltres",
+      "it": "Moltres",
+      "de": "Lavados",
+      "pt-br": "Moltres",
+      "ko": "파이어",
+      "zh-tw": "莫爾特雷斯"
+    }
+  },
+  {
+    "file": "047.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/047.ts",
+    "names": {
+      "en": "Moltres ex",
+      "fr": "Sulfura-ex",
+      "es": "Moltres ex",
+      "it": "Moltres-ex",
+      "de": "Lavados-ex",
+      "pt-br": "Moltres ex",
+      "ko": "파이어 ex",
+      "zh-tw": "莫爾特雷斯EX"
+    }
+  },
+  {
+    "file": "048.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/048.ts",
+    "names": {
+      "en": "Heatmor",
+      "fr": "Aflamanoir",
+      "es": "Heatmor",
+      "it": "Heatmor",
+      "de": "Furnifraß",
+      "pt-br": "Heatmor",
+      "ko": "앤티골",
+      "zh-tw": "熱莫爾"
+    }
+  },
+  {
+    "file": "049.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/049.ts",
+    "names": {
+      "en": "Salandit",
+      "fr": "Tritox",
+      "es": "Salandit",
+      "it": "Salandit",
+      "de": "Molunk",
+      "pt-br": "Salandit",
+      "ko": "야도뇽",
+      "zh-tw": "薩蘭迪特"
+    }
+  },
+  {
+    "file": "050.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/050.ts",
+    "names": {
+      "en": "Salazzle",
+      "fr": "Malamandre",
+      "es": "Salazzle",
+      "it": "Salazzle",
+      "de": "Amfira",
+      "pt-br": "Salazzle",
+      "ko": "염뉴트",
+      "zh-tw": "薩拉澤爾"
+    }
+  },
+  {
+    "file": "051.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/051.ts",
+    "names": {
+      "en": "Sizzlipede",
+      "fr": "Grillepattes",
+      "es": "Sizzlipede",
+      "it": "Sizzlipede",
+      "de": "Thermopod",
+      "pt-br": "Sizzlipede",
+      "ko": "태우지네",
+      "zh-tw": "西足蟲"
+    }
+  },
+  {
+    "file": "052.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/052.ts",
+    "names": {
+      "en": "Centiskorch",
+      "fr": "Scolocendre",
+      "es": "Centiskorch",
+      "it": "Centiskorch",
+      "de": "Infernopod",
+      "ko": "다태우지네",
+      "pt-br": "Centiskorch",
+      "zh-tw": "厘焦奇"
+    }
+  },
+  {
+    "file": "053.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/053.ts",
+    "names": {
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "es": "Squirtle",
+      "it": "Squirtle",
+      "de": "Schiggy",
+      "pt-br": "Squirtle",
+      "ko": "꼬부기",
+      "zh-tw": "傑尼龜"
+    }
+  },
+  {
+    "file": "054.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/054.ts",
+    "names": {
+      "en": "Wartortle",
+      "fr": "Carabaffe",
+      "es": "Wartortle",
+      "it": "Wartortle",
+      "de": "Schillok",
+      "pt-br": "Wartortle",
+      "ko": "어니부기",
+      "zh-tw": "疣龜"
+    }
+  },
+  {
+    "file": "055.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/055.ts",
+    "names": {
+      "en": "Blastoise",
+      "fr": "Tortank",
+      "es": "Blastoise",
+      "it": "Blastoise",
+      "de": "Turtok",
+      "ko": "거북왕",
+      "pt-br": "Blastoise",
+      "zh-tw": "水母"
+    }
+  },
+  {
+    "file": "056.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/056.ts",
+    "names": {
+      "en": "Blastoise ex",
+      "fr": "Tortank-ex",
+      "es": "Blastoise ex",
+      "it": "Blastoise-ex",
+      "de": "Turtok-ex",
+      "ko": "거북왕 ex",
+      "pt-br": "Blastoise ex",
+      "zh-tw": "囊胚EX"
+    }
+  },
+  {
+    "file": "057.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/057.ts",
+    "names": {
+      "en": "Psyduck",
+      "fr": "Psykokwak",
+      "es": "Psyduck",
+      "it": "Psyduck",
+      "de": "Enton",
+      "pt-br": "Psyduck",
+      "ko": "고라파덕",
+      "zh-tw": "迷幻鴨"
+    }
+  },
+  {
+    "file": "058.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/058.ts",
+    "names": {
+      "en": "Golduck",
+      "fr": "Akwakwak",
+      "es": "Golduck",
+      "it": "Golduck",
+      "de": "Entoron",
+      "pt-br": "Golduck",
+      "ko": "골덕",
+      "zh-tw": "戈達克"
+    }
+  },
+  {
+    "file": "059.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/059.ts",
+    "names": {
+      "en": "Poliwag",
+      "fr": "Ptitard",
+      "es": "Poliwag",
+      "it": "Poliwag",
+      "de": "Quapsel",
+      "pt-br": "Poliwag",
+      "ko": "발챙이",
+      "zh-tw": "波利瓦格"
+    }
+  },
+  {
+    "file": "060.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/060.ts",
+    "names": {
+      "en": "Poliwhirl",
+      "fr": "Têtarte",
+      "es": "Poliwhirl",
+      "it": "Poliwhirl",
+      "de": "Quaputzi",
+      "pt-br": "Poliwhirl",
+      "ko": "슈륙챙이",
+      "zh-tw": "波利惠爾"
+    }
+  },
+  {
+    "file": "061.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/061.ts",
+    "names": {
+      "en": "Poliwrath",
+      "fr": "Tartard",
+      "es": "Poliwrath",
+      "it": "Poliwrath",
+      "de": "Quappo",
+      "pt-br": "Poliwrath",
+      "ko": "강챙이",
+      "zh-tw": "波利拉特"
+    }
+  },
+  {
+    "file": "062.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/062.ts",
+    "names": {
+      "en": "Tentacool",
+      "fr": "Tentacool",
+      "es": "Tentacool",
+      "it": "Tentacool",
+      "de": "Tentacha",
+      "pt-br": "Tentacool",
+      "ko": "왕눈해",
+      "zh-tw": "坦塔酷"
+    }
+  },
+  {
+    "file": "063.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/063.ts",
+    "names": {
+      "en": "Tentacruel",
+      "fr": "Tentacruel",
+      "es": "Tentacruel",
+      "it": "Tentacruel",
+      "de": "Tentoxa",
+      "pt-br": "Tentacruel",
+      "ko": "독파리",
+      "zh-tw": "觸毒"
+    }
+  },
+  {
+    "file": "064.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/064.ts",
+    "names": {
+      "en": "Seel",
+      "fr": "Otaria",
+      "es": "Seel",
+      "it": "Seel",
+      "de": "Jurob",
+      "pt-br": "Seel",
+      "ko": "쥬쥬",
+      "zh-tw": "塞爾"
+    }
+  },
+  {
+    "file": "065.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/065.ts",
+    "names": {
+      "en": "Dewgong",
+      "fr": "Lamantine",
+      "es": "Dewgong",
+      "it": "Dewgong",
+      "de": "Jugong",
+      "pt-br": "Dewgong",
+      "ko": "쥬레곤",
+      "zh-tw": "杜貢"
+    }
+  },
+  {
+    "file": "066.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/066.ts",
+    "names": {
+      "en": "Shellder",
+      "fr": "Kokiyas",
+      "es": "Shellder",
+      "it": "Shellder",
+      "de": "Muschas",
+      "pt-br": "Shellder",
+      "ko": "셀러",
+      "zh-tw": "剝殼者"
+    }
+  },
+  {
+    "file": "067.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/067.ts",
+    "names": {
+      "en": "Cloyster",
+      "fr": "Crustabri",
+      "es": "Cloyster",
+      "it": "Cloyster",
+      "de": "Austos",
+      "pt-br": "Cloyster",
+      "ko": "파르셀",
+      "zh-tw": "克萊斯特"
+    }
+  },
+  {
+    "file": "068.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/068.ts",
+    "names": {
+      "en": "Krabby",
+      "fr": "Krabby",
+      "es": "Krabby",
+      "it": "Krabby",
+      "de": "Krabby",
+      "pt-br": "Krabby",
+      "ko": "크랩",
+      "zh-tw": "克拉比"
+    }
+  },
+  {
+    "file": "069.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/069.ts",
+    "names": {
+      "en": "Kingler",
+      "fr": "Krabboss",
+      "es": "Kingler",
+      "it": "Kingler",
+      "de": "Kingler",
+      "pt-br": "Kingler",
+      "ko": "킹크랩",
+      "zh-tw": "金勒"
+    }
+  },
+  {
+    "file": "070.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/070.ts",
+    "names": {
+      "en": "Horsea",
+      "fr": "Hypotrempe",
+      "es": "Horsea",
+      "it": "Horsea",
+      "de": "Seeper",
+      "pt-br": "Horsea",
+      "ko": "쏘드라",
+      "zh-tw": "霍塞亞"
+    }
+  },
+  {
+    "file": "071.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/071.ts",
+    "names": {
+      "en": "Seadra",
+      "fr": "Hypocéan",
+      "es": "Seadra",
+      "it": "Seadra",
+      "de": "Seemon",
+      "pt-br": "Seadra",
+      "ko": "시드라",
+      "zh-tw": "西德拉"
+    }
+  },
+  {
+    "file": "072.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/072.ts",
+    "names": {
+      "en": "Goldeen",
+      "fr": "Poissirène",
+      "es": "Goldeen",
+      "it": "Goldeen",
+      "de": "Goldini",
+      "pt-br": "Goldeen",
+      "ko": "콘치",
+      "zh-tw": "金色"
+    }
+  },
+  {
+    "file": "073.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/073.ts",
+    "names": {
+      "en": "Seaking",
+      "fr": "Poissoroy",
+      "es": "Seaking",
+      "it": "Seaking",
+      "de": "Golking",
+      "pt-br": "Seaking",
+      "ko": "왕콘치",
+      "zh-tw": "海底撈"
+    }
+  },
+  {
+    "file": "074.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/074.ts",
+    "names": {
+      "en": "Staryu",
+      "fr": "Stari",
+      "es": "Staryu",
+      "it": "Staryu",
+      "de": "Sterndu",
+      "pt-br": "Staryu",
+      "ko": "별가사리",
+      "zh-tw": "斯塔尤"
+    }
+  },
+  {
+    "file": "075.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/075.ts",
+    "names": {
+      "en": "Starmie",
+      "fr": "Staross",
+      "es": "Starmie",
+      "it": "Starmie",
+      "de": "Starmie",
+      "pt-br": "Starmie",
+      "ko": "아쿠스타",
+      "zh-tw": "海星"
+    }
+  },
+  {
+    "file": "076.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/076.ts",
+    "names": {
+      "en": "Starmie ex",
+      "fr": "Staross-ex",
+      "es": "Starmie ex",
+      "it": "Starmie-ex",
+      "de": "Starmie-ex",
+      "pt-br": "Starmie ex",
+      "ko": "아쿠스타 ex",
+      "zh-tw": "海星EX"
+    }
+  },
+  {
+    "file": "077.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/077.ts",
+    "names": {
+      "en": "Magikarp",
+      "fr": "Magicarpe",
+      "es": "Magikarp",
+      "it": "Magikarp",
+      "de": "Karpador",
+      "pt-br": "Magikarp",
+      "ko": "잉어킹",
+      "zh-tw": "鯉魚王"
+    }
+  },
+  {
+    "file": "078.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+    "names": {
+      "en": "Gyarados",
+      "fr": "Léviator",
+      "es": "Gyarados",
+      "it": "Gyarados",
+      "de": "Garados",
+      "pt-br": "Gyarados",
+      "ko": "갸라도스",
+      "zh-tw": "暴鯉龍"
+    }
+  },
+  {
+    "file": "079.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/079.ts",
+    "names": {
+      "en": "Lapras",
+      "fr": "Lokhlass",
+      "es": "Lapras",
+      "it": "Lapras",
+      "de": "Lapras",
+      "ko": "라프라스",
+      "pt-br": "Lapras",
+      "zh-tw": "拉普拉斯"
+    }
+  },
+  {
+    "file": "080.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/080.ts",
+    "names": {
+      "en": "Vaporeon",
+      "fr": "Aquali",
+      "es": "Vaporeon",
+      "it": "Vaporeon",
+      "de": "Aquana",
+      "pt-br": "Vaporeon",
+      "ko": "샤미드",
+      "zh-tw": "蒸氣"
+    }
+  },
+  {
+    "file": "081.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/081.ts",
+    "names": {
+      "en": "Omanyte",
+      "fr": "Amonita",
+      "es": "Omanyte",
+      "it": "Omanyte",
+      "de": "Amonitas",
+      "pt-br": "Omanyte",
+      "ko": "암나이트",
+      "zh-tw": "阿曼人"
+    }
+  },
+  {
+    "file": "082.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/082.ts",
+    "names": {
+      "en": "Omastar",
+      "fr": "Amonistar",
+      "es": "Omastar",
+      "it": "Omastar",
+      "de": "Amoroso",
+      "pt-br": "Omastar",
+      "ko": "암스타",
+      "zh-tw": "奧馬斯塔"
+    }
+  },
+  {
+    "file": "083.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/083.ts",
+    "names": {
+      "en": "Articuno",
+      "fr": "Artikodin",
+      "es": "Articuno",
+      "it": "Articuno",
+      "de": "Arktos",
+      "pt-br": "Articuno",
+      "ko": "프리져",
+      "zh-tw": "急凍鳥"
+    }
+  },
+  {
+    "file": "084.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/084.ts",
+    "names": {
+      "en": "Articuno ex",
+      "fr": "Artikodin-ex",
+      "es": "Articuno ex",
+      "it": "Articuno-ex",
+      "de": "Arktos-ex",
+      "pt-br": "Articuno ex",
+      "ko": "프리져 ex",
+      "zh-tw": "急凍鳥"
+    }
+  },
+  {
+    "file": "085.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/085.ts",
+    "names": {
+      "en": "Ducklett",
+      "fr": "Couaneton",
+      "es": "Ducklett",
+      "it": "Ducklett",
+      "de": "Piccolente",
+      "pt-br": "Ducklett",
+      "ko": "꼬지보리",
+      "zh-tw": "達克利特"
+    }
+  },
+  {
+    "file": "086.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/086.ts",
+    "names": {
+      "en": "Swanna",
+      "fr": "Lakmécygne",
+      "es": "Swanna",
+      "it": "Swanna",
+      "de": "Swaroness",
+      "pt-br": "Swanna",
+      "ko": "스완나",
+      "zh-tw": "斯瓦納"
+    }
+  },
+  {
+    "file": "087.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/087.ts",
+    "names": {
+      "en": "Froakie",
+      "fr": "Grenousse",
+      "es": "Froakie",
+      "it": "Froakie",
+      "de": "Froxy",
+      "pt-br": "Froakie",
+      "ko": "개구마르",
+      "zh-tw": "弗羅阿基"
+    }
+  },
+  {
+    "file": "088.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/088.ts",
+    "names": {
+      "en": "Frogadier",
+      "fr": "Croâporal",
+      "es": "Frogadier",
+      "it": "Frogadier",
+      "de": "Amphizel",
+      "pt-br": "Frogadier",
+      "ko": "개굴반장",
+      "zh-tw": "弗洛加迪爾"
+    }
+  },
+  {
+    "file": "089.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/089.ts",
+    "names": {
+      "en": "Greninja",
+      "fr": "Amphinobi",
+      "es": "Greninja",
+      "it": "Greninja",
+      "de": "Quajutsu",
+      "pt-br": "Greninja",
+      "ko": "개굴닌자",
+      "zh-tw": "格倫尼亞"
+    }
+  },
+  {
+    "file": "090.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/090.ts",
+    "names": {
+      "en": "Pyukumuku",
+      "fr": "Concombaffe",
+      "es": "Pyukumuku",
+      "it": "Pyukumuku",
+      "de": "Gufa",
+      "pt-br": "Pyukumuku",
+      "ko": "해무기",
+      "zh-tw": "普庫穆庫"
+    }
+  },
+  {
+    "file": "091.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/091.ts",
+    "names": {
+      "en": "Bruxish",
+      "fr": "Denticrisse",
+      "es": "Bruxish",
+      "it": "Bruxish",
+      "de": "Knirfish",
+      "pt-br": "Bruxish",
+      "ko": "치갈기",
+      "zh-tw": "磨牙色"
+    }
+  },
+  {
+    "file": "092.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/092.ts",
+    "names": {
+      "en": "Snom",
+      "fr": "Frissonille",
+      "es": "Snom",
+      "it": "Snom",
+      "de": "Snomnom",
+      "pt-br": "Snom",
+      "ko": "누니머기",
+      "zh-tw": "斯諾姆"
+    }
+  },
+  {
+    "file": "093.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/093.ts",
+    "names": {
+      "en": "Frosmoth",
+      "fr": "Beldeneige",
+      "es": "Frosmoth",
+      "it": "Frosmoth",
+      "de": "Mottineva",
+      "pt-br": "Frosmoth",
+      "ko": "모스노우",
+      "zh-tw": "弗羅莫斯"
+    }
+  },
+  {
+    "file": "094.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/094.ts",
+    "names": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "es": "Pikachu",
+      "it": "Pikachu",
+      "de": "Pikachu",
+      "pt-br": "Pikachu",
+      "ko": "피카츄",
+      "zh-tw": "皮卡丘"
+    }
+  },
+  {
+    "file": "095.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/095.ts",
+    "names": {
+      "en": "Raichu",
+      "fr": "Raichu",
+      "es": "Raichu",
+      "it": "Raichu",
+      "de": "Raichu",
+      "pt-br": "Raichu",
+      "ko": "라이츄",
+      "zh-tw": "雷中"
+    }
+  },
+  {
+    "file": "096.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/096.ts",
+    "names": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex",
+      "es": "Pikachu ex",
+      "it": "Pikachu-ex",
+      "de": "Pikachu-ex",
+      "pt-br": "Pikachu ex",
+      "ko": "피카츄 ex",
+      "zh-tw": "皮卡丘EX"
+    }
+  },
+  {
+    "file": "097.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/097.ts",
+    "names": {
+      "en": "Magnemite",
+      "fr": "Magnéti",
+      "es": "Magnemite",
+      "it": "Magnemite",
+      "de": "Magnetilo",
+      "pt-br": "Magnemite",
+      "ko": "코일",
+      "zh-tw": "磁鐵礦"
+    }
+  },
+  {
+    "file": "098.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/098.ts",
+    "names": {
+      "en": "Magneton",
+      "fr": "Magnéton",
+      "es": "Magneton",
+      "it": "Magneton",
+      "de": "Magneton",
+      "ko": "레어코일",
+      "pt-br": "Magneton",
+      "zh-tw": "磁通"
+    }
+  },
+  {
+    "file": "099.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/099.ts",
+    "names": {
+      "en": "Voltorb",
+      "fr": "Voltorbe",
+      "es": "Voltorb",
+      "it": "Voltorb",
+      "de": "Voltobal",
+      "pt-br": "Voltorb",
+      "ko": "찌리리공",
+      "zh-tw": "伏爾托布"
+    }
+  },
+  {
+    "file": "100.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/100.ts",
+    "names": {
+      "en": "Electrode",
+      "fr": "Électrode",
+      "es": "Electrode",
+      "it": "Electrode",
+      "de": "Lektrobal",
+      "pt-br": "Electrode",
+      "ko": "붐볼",
+      "zh-tw": "電極"
+    }
+  },
+  {
+    "file": "101.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/101.ts",
+    "names": {
+      "en": "Electabuzz",
+      "fr": "Élektek",
+      "es": "Electabuzz",
+      "it": "Electabuzz",
+      "de": "Elektek",
+      "pt-br": "Electabuzz",
+      "ko": "에레브",
+      "zh-tw": "電擊器"
+    }
+  },
+  {
+    "file": "102.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/102.ts",
+    "names": {
+      "en": "Jolteon",
+      "fr": "Voltali",
+      "es": "Jolteon",
+      "it": "Jolteon",
+      "de": "Blitza",
+      "pt-br": "Jolteon",
+      "ko": "쥬피썬더",
+      "zh-tw": "雷頓"
+    }
+  },
+  {
+    "file": "103.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/103.ts",
+    "names": {
+      "en": "Zapdos",
+      "fr": "Électhor",
+      "es": "Zapdos",
+      "it": "Zapdos",
+      "de": "Zapdos",
+      "pt-br": "Zapdos",
+      "ko": "썬더",
+      "zh-tw": "扎普多斯"
+    }
+  },
+  {
+    "file": "104.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/104.ts",
+    "names": {
+      "en": "Zapdos ex",
+      "fr": "Électhor-ex",
+      "es": "Zapdos ex",
+      "it": "Zapdos-ex",
+      "de": "Zapdos-ex",
+      "pt-br": "Zapdos ex",
+      "ko": "썬더 ex",
+      "zh-tw": "Zapdos EX"
+    }
+  },
+  {
+    "file": "105.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/105.ts",
+    "names": {
+      "en": "Blitzle",
+      "fr": "Zébibron",
+      "es": "Blitzle",
+      "it": "Blitzle",
+      "de": "Elezeba",
+      "pt-br": "Blitzle",
+      "ko": "줄뮤마",
+      "zh-tw": "閃電戰"
+    }
+  },
+  {
+    "file": "106.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/106.ts",
+    "names": {
+      "en": "Zebstrika",
+      "fr": "Zéblitz",
+      "es": "Zebstrika",
+      "it": "Zebstrika",
+      "de": "Zebritz",
+      "pt-br": "Zebstrika",
+      "ko": "제브라이카",
+      "zh-tw": "澤布斯特里卡"
+    }
+  },
+  {
+    "file": "107.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/107.ts",
+    "names": {
+      "en": "Tynamo",
+      "fr": "Anchwatt",
+      "es": "Tynamo",
+      "it": "Tynamo",
+      "de": "Zapplardin",
+      "pt-br": "Tynamo",
+      "ko": "저리어",
+      "zh-tw": "蒂納莫"
+    }
+  },
+  {
+    "file": "108.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/108.ts",
+    "names": {
+      "en": "Eelektrik",
+      "fr": "Lampéroie",
+      "es": "Eelektrik",
+      "it": "Eelektrik",
+      "de": "Zapplalek",
+      "pt-br": "Eelektrik",
+      "ko": "저리릴",
+      "zh-tw": "電氣技術"
+    }
+  },
+  {
+    "file": "109.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/109.ts",
+    "names": {
+      "en": "Eelektross",
+      "fr": "Ohmassacre",
+      "es": "Eelektross",
+      "it": "Eelektross",
+      "de": "Zapplarang",
+      "pt-br": "Eelektross",
+      "ko": "저리더프",
+      "zh-tw": "電鰻"
+    }
+  },
+  {
+    "file": "110.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/110.ts",
+    "names": {
+      "en": "Helioptile",
+      "fr": "Galvaran",
+      "es": "Helioptile",
+      "it": "Helioptile",
+      "de": "Eguana",
+      "pt-br": "Helioptile",
+      "ko": "목도리키텔",
+      "zh-tw": "太陽花"
+    }
+  },
+  {
+    "file": "111.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/111.ts",
+    "names": {
+      "en": "Heliolisk",
+      "fr": "Iguolta",
+      "es": "Heliolisk",
+      "it": "Heliolisk",
+      "de": "Elezard",
+      "pt-br": "Heliolisk",
+      "ko": "일레도리자드",
+      "zh-tw": "日光蟲"
+    }
+  },
+  {
+    "file": "112.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/112.ts",
+    "names": {
+      "en": "Pincurchin",
+      "fr": "Wattapik",
+      "es": "Pincurchin",
+      "it": "Pincurchin",
+      "de": "Britzigel",
+      "pt-br": "Pincurchin",
+      "ko": "찌르성게",
+      "zh-tw": "平庫欽"
+    }
+  },
+  {
+    "file": "113.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/113.ts",
+    "names": {
+      "en": "Clefairy",
+      "fr": "Mélofée",
+      "es": "Clefairy",
+      "it": "Clefairy",
+      "de": "Piepi",
+      "pt-br": "Clefairy",
+      "ko": "삐삐",
+      "zh-tw": "克萊菲爾"
+    }
+  },
+  {
+    "file": "114.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/114.ts",
+    "names": {
+      "en": "Clefable",
+      "fr": "Mélodelfe",
+      "es": "Clefable",
+      "it": "Clefable",
+      "de": "Pixi",
+      "pt-br": "Clefable",
+      "ko": "픽시",
+      "zh-tw": "克萊夫布爾"
+    }
+  },
+  {
+    "file": "115.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/115.ts",
+    "names": {
+      "en": "Abra",
+      "fr": "Abra",
+      "es": "Abra",
+      "it": "Abra",
+      "de": "Abra",
+      "pt-br": "Abra",
+      "ko": "캐이시",
+      "zh-tw": "阿布拉"
+    }
+  },
+  {
+    "file": "116.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/116.ts",
+    "names": {
+      "en": "Kadabra",
+      "fr": "Kadabra",
+      "es": "Kadabra",
+      "it": "Kadabra",
+      "de": "Kadabra",
+      "pt-br": "Kadabra",
+      "ko": "윤겔라",
+      "zh-tw": "卡達布拉"
+    }
+  },
+  {
+    "file": "117.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/117.ts",
+    "names": {
+      "en": "Alakazam",
+      "fr": "Alakazam",
+      "es": "Alakazam",
+      "it": "Alakazam",
+      "de": "Simsala",
+      "pt-br": "Alakazam",
+      "ko": "후딘",
+      "zh-tw": "阿拉卡扎姆"
+    }
+  },
+  {
+    "file": "118.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/118.ts",
+    "names": {
+      "en": "Slowpoke",
+      "fr": "Ramoloss",
+      "es": "Slowpoke",
+      "it": "Slowpoke",
+      "de": "Flegmon",
+      "pt-br": "Slowpoke",
+      "ko": "야돈",
+      "zh-tw": "呆呆獸"
+    }
+  },
+  {
+    "file": "119.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/119.ts",
+    "names": {
+      "en": "Slowbro",
+      "fr": "Flagadoss",
+      "es": "Slowbro",
+      "it": "Slowbro",
+      "de": "Lahmus",
+      "pt-br": "Slowbro",
+      "ko": "야도란",
+      "zh-tw": "斯洛布羅"
+    }
+  },
+  {
+    "file": "120.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/120.ts",
+    "names": {
+      "en": "Gastly",
+      "fr": "Fantominus",
+      "es": "Gastly",
+      "it": "Gastly",
+      "de": "Nebulak",
+      "pt-br": "Gastly",
+      "ko": "고오스",
+      "zh-tw": "加斯特利"
+    }
+  },
+  {
+    "file": "121.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/121.ts",
+    "names": {
+      "en": "Haunter",
+      "fr": "Spectrum",
+      "es": "Haunter",
+      "it": "Haunter",
+      "de": "Alpollo",
+      "pt-br": "Haunter",
+      "ko": "고우스트",
+      "zh-tw": "鬼魂"
+    }
+  },
+  {
+    "file": "122.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/122.ts",
+    "names": {
+      "en": "Gengar",
+      "fr": "Ectoplasma",
+      "es": "Gengar",
+      "it": "Gengar",
+      "de": "Gengar",
+      "pt-br": "Gengar",
+      "ko": "팬텀",
+      "zh-tw": "耿鬼"
+    }
+  },
+  {
+    "file": "123.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/123.ts",
+    "names": {
+      "en": "Gengar ex",
+      "fr": "Ectoplasma-ex",
+      "es": "Gengar ex",
+      "it": "Gengar-ex",
+      "de": "Gengar-ex",
+      "pt-br": "Gengar ex",
+      "ko": "팬텀 ex",
+      "zh-tw": "耿鬼EX"
+    }
+  },
+  {
+    "file": "124.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/124.ts",
+    "names": {
+      "en": "Drowzee",
+      "fr": "Soporifik",
+      "es": "Drowzee",
+      "it": "Drowzee",
+      "de": "Traumato",
+      "pt-br": "Drowzee",
+      "ko": "슬리프",
+      "zh-tw": "卓爾茲"
+    }
+  },
+  {
+    "file": "125.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/125.ts",
+    "names": {
+      "en": "Hypno",
+      "fr": "Hypnomade",
+      "es": "Hypno",
+      "it": "Hypno",
+      "de": "Hypno",
+      "pt-br": "Hypno",
+      "ko": "슬리퍼",
+      "zh-tw": "催眠"
+    }
+  },
+  {
+    "file": "126.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/126.ts",
+    "names": {
+      "en": "Mr. Mime",
+      "fr": "M. Mime",
+      "es": "Mr. Mime",
+      "it": "Mr. Mime",
+      "de": "Pantimos",
+      "pt-br": "Mr. Mime",
+      "ko": "마임맨",
+      "zh-tw": "啞劇先生"
+    }
+  },
+  {
+    "file": "127.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/127.ts",
+    "names": {
+      "en": "Jynx",
+      "fr": "Lippoutou",
+      "es": "Jynx",
+      "it": "Jynx",
+      "de": "Rossana",
+      "pt-br": "Jynx",
+      "ko": "루주라",
+      "zh-tw": "強克斯"
+    }
+  },
+  {
+    "file": "128.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/128.ts",
+    "names": {
+      "en": "Mewtwo",
+      "fr": "Mewtwo",
+      "es": "Mewtwo",
+      "it": "Mewtwo",
+      "de": "Mewtu",
+      "pt-br": "Mewtwo",
+      "ko": "뮤츠",
+      "zh-tw": "超夢"
+    }
+  },
+  {
+    "file": "129.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/129.ts",
+    "names": {
+      "en": "Mewtwo ex",
+      "fr": "Mewtwo-ex",
+      "es": "Mewtwo ex",
+      "it": "Mewtwo-ex",
+      "de": "Mewtu-ex",
+      "pt-br": "Mewtwo ex",
+      "ko": "뮤츠 ex",
+      "zh-tw": "超夢EX"
+    }
+  },
+  {
+    "file": "130.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/130.ts",
+    "names": {
+      "en": "Ralts",
+      "fr": "Tarsal",
+      "es": "Ralts",
+      "it": "Ralts",
+      "de": "Trasla",
+      "pt-br": "Ralts",
+      "ko": "랄토스",
+      "zh-tw": "拉爾茨"
+    }
+  },
+  {
+    "file": "131.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/131.ts",
+    "names": {
+      "en": "Kirlia",
+      "fr": "Kirlia",
+      "es": "Kirlia",
+      "it": "Kirlia",
+      "de": "Kirlia",
+      "pt-br": "Kirlia",
+      "ko": "킬리아",
+      "zh-tw": "基利亞"
+    }
+  },
+  {
+    "file": "132.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/132.ts",
+    "names": {
+      "en": "Gardevoir",
+      "fr": "Gardevoir",
+      "es": "Gardevoir",
+      "it": "Gardevoir",
+      "de": "Guardevoir",
+      "pt-br": "Gardevoir",
+      "ko": "가디안",
+      "zh-tw": "加爾德瓦"
+    }
+  },
+  {
+    "file": "133.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/133.ts",
+    "names": {
+      "en": "Woobat",
+      "fr": "Chovsourir",
+      "es": "Woobat",
+      "it": "Woobat",
+      "de": "Fleknoil",
+      "pt-br": "Woobat",
+      "ko": "또르박쥐",
+      "zh-tw": "烏巴特"
+    }
+  },
+  {
+    "file": "134.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/134.ts",
+    "names": {
+      "en": "Swoobat",
+      "fr": "Rhinolove",
+      "es": "Swoobat",
+      "it": "Swoobat",
+      "de": "Fletiamo",
+      "pt-br": "Swoobat",
+      "ko": "맘박쥐",
+      "zh-tw": "斯沃巴特"
+    }
+  },
+  {
+    "file": "135.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/135.ts",
+    "names": {
+      "en": "Golett",
+      "fr": "Gringolem",
+      "es": "Golett",
+      "it": "Golett",
+      "de": "Golbit",
+      "pt-br": "Golett",
+      "ko": "골비람",
+      "zh-tw": "戈萊特"
+    }
+  },
+  {
+    "file": "136.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/136.ts",
+    "names": {
+      "en": "Golurk",
+      "fr": "Golemastoc",
+      "es": "Golurk",
+      "it": "Golurk",
+      "de": "Golgantes",
+      "pt-br": "Golurk",
+      "ko": "골루그",
+      "zh-tw": "古魯克"
+    }
+  },
+  {
+    "file": "137.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/137.ts",
+    "names": {
+      "en": "Sandshrew",
+      "fr": "Sabelette",
+      "es": "Sandshrew",
+      "it": "Sandshrew",
+      "de": "Sandan",
+      "pt-br": "Sandshrew",
+      "ko": "모래두지",
+      "zh-tw": "山鼠"
+    }
+  },
+  {
+    "file": "138.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/138.ts",
+    "names": {
+      "en": "Sandslash",
+      "fr": "Sablaireau",
+      "es": "Sandslash",
+      "it": "Sandslash",
+      "de": "Sandamer",
+      "pt-br": "Sandslash",
+      "ko": "고지",
+      "zh-tw": "沙斬"
+    }
+  },
+  {
+    "file": "139.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/139.ts",
+    "names": {
+      "en": "Diglett",
+      "fr": "Taupiqueur",
+      "es": "Diglett",
+      "it": "Diglett",
+      "de": "Digda",
+      "pt-br": "Diglett",
+      "ko": "디그다",
+      "zh-tw": "迪格利特"
+    }
+  },
+  {
+    "file": "140.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/140.ts",
+    "names": {
+      "en": "Dugtrio",
+      "fr": "Triopikeur",
+      "es": "Dugtrio",
+      "it": "Dugtrio",
+      "de": "Digdri",
+      "pt-br": "Dugtrio",
+      "ko": "닥트리오",
+      "zh-tw": "杜格特里奧"
+    }
+  },
+  {
+    "file": "141.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/141.ts",
+    "names": {
+      "en": "Mankey",
+      "fr": "Férosinge",
+      "es": "Mankey",
+      "it": "Mankey",
+      "de": "Menki",
+      "pt-br": "Mankey",
+      "ko": "망키",
+      "zh-tw": "曼基"
+    }
+  },
+  {
+    "file": "142.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/142.ts",
+    "names": {
+      "en": "Primeape",
+      "fr": "Colossinge",
+      "es": "Primeape",
+      "it": "Primeape",
+      "de": "Rasaff",
+      "pt-br": "Primeape",
+      "ko": "성원숭",
+      "zh-tw": "普里阿普"
+    }
+  },
+  {
+    "file": "143.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/143.ts",
+    "names": {
+      "en": "Machop",
+      "fr": "Machoc",
+      "es": "Machop",
+      "it": "Machop",
+      "de": "Machollo",
+      "pt-br": "Machop",
+      "ko": "알통몬",
+      "zh-tw": "馬喬普"
+    }
+  },
+  {
+    "file": "144.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/144.ts",
+    "names": {
+      "en": "Machoke",
+      "fr": "Machopeur",
+      "es": "Machoke",
+      "it": "Machoke",
+      "de": "Maschock",
+      "pt-br": "Machoke",
+      "ko": "근육몬",
+      "zh-tw": "馬喬克"
+    }
+  },
+  {
+    "file": "145.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/145.ts",
+    "names": {
+      "en": "Machamp",
+      "fr": "Mackogneur",
+      "es": "Machamp",
+      "it": "Machamp",
+      "de": "Machomei",
+      "pt-br": "Machamp",
+      "ko": "괴력몬",
+      "zh-tw": "馬尚普"
+    }
+  },
+  {
+    "file": "146.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/146.ts",
+    "names": {
+      "en": "Machamp ex",
+      "fr": "Mackogneur-ex",
+      "es": "Machamp ex",
+      "it": "Machamp-ex",
+      "de": "Machomei-ex",
+      "pt-br": "Machamp ex",
+      "ko": "괴력몬 ex",
+      "zh-tw": "馬尚EX"
+    }
+  },
+  {
+    "file": "147.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/147.ts",
+    "names": {
+      "en": "Geodude",
+      "fr": "Racaillou",
+      "es": "Geodude",
+      "it": "Geodude",
+      "de": "Kleinstein",
+      "pt-br": "Geodude",
+      "ko": "꼬마돌",
+      "zh-tw": "晶洞"
+    }
+  },
+  {
+    "file": "148.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/148.ts",
+    "names": {
+      "en": "Graveler",
+      "fr": "Gravalanch",
+      "es": "Graveler",
+      "it": "Graveler",
+      "de": "Georok",
+      "pt-br": "Graveler",
+      "ko": "데구리",
+      "zh-tw": "碎石者"
+    }
+  },
+  {
+    "file": "149.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/149.ts",
+    "names": {
+      "en": "Golem",
+      "fr": "Grolem",
+      "es": "Golem",
+      "it": "Golem",
+      "de": "Geowaz",
+      "pt-br": "Golem",
+      "ko": "딱구리",
+      "zh-tw": "魔像"
+    }
+  },
+  {
+    "file": "150.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/150.ts",
+    "names": {
+      "en": "Onix",
+      "fr": "Onix",
+      "es": "Onix",
+      "it": "Onix",
+      "de": "Onix",
+      "pt-br": "Onix",
+      "ko": "롱스톤",
+      "zh-tw": "奧尼克斯"
+    }
+  },
+  {
+    "file": "151.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/151.ts",
+    "names": {
+      "en": "Cubone",
+      "fr": "Osselait",
+      "es": "Cubone",
+      "it": "Cubone",
+      "de": "Tragosso",
+      "pt-br": "Cubone",
+      "ko": "탕구리",
+      "zh-tw": "庫博內"
+    }
+  },
+  {
+    "file": "152.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/152.ts",
+    "names": {
+      "en": "Marowak",
+      "fr": "Ossatueur",
+      "es": "Marowak",
+      "it": "Marowak",
+      "de": "Knogga",
+      "pt-br": "Marowak",
+      "ko": "텅구리",
+      "zh-tw": "馬羅瓦克"
+    }
+  },
+  {
+    "file": "153.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/153.ts",
+    "names": {
+      "en": "Marowak ex",
+      "fr": "Ossatueur-ex",
+      "es": "Marowak ex",
+      "it": "Marowak-ex",
+      "de": "Knogga-ex",
+      "pt-br": "Marowak ex",
+      "ko": "텅구리 ex",
+      "zh-tw": "馬羅瓦克EX"
+    }
+  },
+  {
+    "file": "154.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/154.ts",
+    "names": {
+      "en": "Hitmonlee",
+      "fr": "Kicklee",
+      "es": "Hitmonlee",
+      "it": "Hitmonlee",
+      "de": "Kicklee",
+      "pt-br": "Hitmonlee",
+      "ko": "시라소몬",
+      "zh-tw": "希特蒙利"
+    }
+  },
+  {
+    "file": "155.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/155.ts",
+    "names": {
+      "en": "Hitmonchan",
+      "fr": "Tygnon",
+      "es": "Hitmonchan",
+      "it": "Hitmonchan",
+      "de": "Nockchan",
+      "pt-br": "Hitmonchan",
+      "ko": "홍수몬",
+      "zh-tw": "希特蒙醬"
+    }
+  },
+  {
+    "file": "156.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/156.ts",
+    "names": {
+      "en": "Rhyhorn",
+      "fr": "Rhinocorne",
+      "es": "Rhyhorn",
+      "it": "Rhyhorn",
+      "de": "Rihorn",
+      "pt-br": "Rhyhorn",
+      "ko": "뿔카노",
+      "zh-tw": "犀牛角"
+    }
+  },
+  {
+    "file": "157.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/157.ts",
+    "names": {
+      "en": "Rhydon",
+      "fr": "Rhinoféros",
+      "es": "Rhydon",
+      "it": "Rhydon",
+      "de": "Rizeros",
+      "pt-br": "Rhydon",
+      "ko": "코뿌리",
+      "zh-tw": "鐵甲犀"
+    }
+  },
+  {
+    "file": "158.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/158.ts",
+    "names": {
+      "en": "Kabuto",
+      "fr": "Kabuto",
+      "es": "Kabuto",
+      "it": "Kabuto",
+      "de": "Kabuto",
+      "pt-br": "Kabuto",
+      "ko": "투구",
+      "zh-tw": "兜"
+    }
+  },
+  {
+    "file": "159.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/159.ts",
+    "names": {
+      "en": "Kabutops",
+      "fr": "Kabutops",
+      "es": "Kabutops",
+      "it": "Kabutops",
+      "de": "Kabutops",
+      "pt-br": "Kabutops",
+      "ko": "투구푸스",
+      "zh-tw": "兜帽"
+    }
+  },
+  {
+    "file": "160.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/160.ts",
+    "names": {
+      "en": "Mienfoo",
+      "fr": "Kungfouine",
+      "es": "Mienfoo",
+      "it": "Mienfoo",
+      "de": "Lin-Fu",
+      "pt-br": "Mienfoo",
+      "ko": "비조푸",
+      "zh-tw": "米恩富"
+    }
+  },
+  {
+    "file": "161.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/161.ts",
+    "names": {
+      "en": "Mienshao",
+      "fr": "Shaofouine",
+      "es": "Mienshao",
+      "it": "Mienshao",
+      "de": "Wie-Shu",
+      "pt-br": "Mienshao",
+      "ko": "비조도",
+      "zh-tw": "面哨"
+    }
+  },
+  {
+    "file": "162.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/162.ts",
+    "names": {
+      "en": "Clobbopus",
+      "fr": "Poulpaf",
+      "es": "Clobbopus",
+      "it": "Clobbopus",
+      "de": "Klopptopus",
+      "pt-br": "Clobbopus",
+      "ko": "때때무노",
+      "zh-tw": "克洛博普斯"
+    }
+  },
+  {
+    "file": "163.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/163.ts",
+    "names": {
+      "en": "Grapploct",
+      "fr": "Krakos",
+      "es": "Grapploct",
+      "it": "Grapploct",
+      "de": "Kaocto",
+      "pt-br": "Grapploct",
+      "ko": "케오퍼스",
+      "zh-tw": "抓斗"
+    }
+  },
+  {
+    "file": "164.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/164.ts",
+    "names": {
+      "en": "Ekans",
+      "fr": "Abo",
+      "es": "Ekans",
+      "it": "Ekans",
+      "de": "Rettan",
+      "pt-br": "Ekans",
+      "ko": "아보",
+      "zh-tw": "埃肯斯"
+    }
+  },
+  {
+    "file": "165.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/165.ts",
+    "names": {
+      "en": "Arbok",
+      "fr": "Arbok",
+      "es": "Arbok",
+      "it": "Arbok",
+      "de": "Arbok",
+      "pt-br": "Arbok",
+      "ko": "아보크",
+      "zh-tw": "阿爾博克"
+    }
+  },
+  {
+    "file": "166.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/166.ts",
+    "names": {
+      "en": "Nidoran♀",
+      "fr": "Nidoran♀",
+      "es": "Nidoran♀",
+      "it": "Nidoran ♀",
+      "de": "Nidoran♀",
+      "pt-br": "Nidoran♀",
+      "ko": "니드런♀",
+      "zh-tw": "尼多蘭♀"
+    }
+  },
+  {
+    "file": "167.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/167.ts",
+    "names": {
+      "en": "Nidorina",
+      "fr": "Nidorina",
+      "es": "Nidorina",
+      "it": "Nidorina",
+      "de": "Nidorina",
+      "pt-br": "Nidorina",
+      "ko": "니드리나",
+      "zh-tw": "尼多麗娜"
+    }
+  },
+  {
+    "file": "168.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/168.ts",
+    "names": {
+      "en": "Nidoqueen",
+      "fr": "Nidoqueen",
+      "es": "Nidoqueen",
+      "it": "Nidoqueen",
+      "de": "Nidoqueen",
+      "pt-br": "Nidoqueen",
+      "ko": "니드퀸",
+      "zh-tw": "尼多女王"
+    }
+  },
+  {
+    "file": "169.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/169.ts",
+    "names": {
+      "en": "Nidoran♂",
+      "fr": "Nidoran♂",
+      "es": "Nidoran♂",
+      "it": "Nidoran ♂",
+      "de": "Nidoran♂",
+      "pt-br": "Nidoran♂",
+      "ko": "니드런♂",
+      "zh-tw": "尼多蘭♂"
+    }
+  },
+  {
+    "file": "170.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/170.ts",
+    "names": {
+      "en": "Nidorino",
+      "fr": "Nidorino",
+      "es": "Nidorino",
+      "it": "Nidorino",
+      "de": "Nidorino",
+      "pt-br": "Nidorino",
+      "ko": "니드리노",
+      "zh-tw": "尼多里諾"
+    }
+  },
+  {
+    "file": "171.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/171.ts",
+    "names": {
+      "en": "Nidoking",
+      "fr": "Nidoking",
+      "es": "Nidoking",
+      "it": "Nidoking",
+      "de": "Nidoking",
+      "pt-br": "Nidoking",
+      "ko": "니드킹",
+      "zh-tw": "尼多金"
+    }
+  },
+  {
+    "file": "172.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/172.ts",
+    "names": {
+      "en": "Zubat",
+      "fr": "Nosferapti",
+      "es": "Zubat",
+      "it": "Zubat",
+      "de": "Zubat",
+      "pt-br": "Zubat",
+      "ko": "주뱃",
+      "zh-tw": "祖巴特"
+    }
+  },
+  {
+    "file": "173.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/173.ts",
+    "names": {
+      "en": "Golbat",
+      "fr": "Nosferalto",
+      "es": "Golbat",
+      "it": "Golbat",
+      "de": "Golbat",
+      "pt-br": "Golbat",
+      "ko": "골뱃",
+      "zh-tw": "大嘴蝠"
+    }
+  },
+  {
+    "file": "174.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/174.ts",
+    "names": {
+      "en": "Grimer",
+      "fr": "Tadmorv",
+      "es": "Grimer",
+      "it": "Grimer",
+      "de": "Sleima",
+      "pt-br": "Grimer",
+      "ko": "질퍽이",
+      "zh-tw": "格里默"
+    }
+  },
+  {
+    "file": "175.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/175.ts",
+    "names": {
+      "en": "Muk",
+      "fr": "Grotadmorv",
+      "es": "Muk",
+      "it": "Muk",
+      "de": "Sleimok",
+      "pt-br": "Muk",
+      "ko": "질뻐기",
+      "zh-tw": "穆克"
+    }
+  },
+  {
+    "file": "176.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/176.ts",
+    "names": {
+      "en": "Koffing",
+      "fr": "Smogo",
+      "es": "Koffing",
+      "it": "Koffing",
+      "de": "Smogon",
+      "pt-br": "Koffing",
+      "ko": "또가스",
+      "zh-tw": "科芬"
+    }
+  },
+  {
+    "file": "177.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/177.ts",
+    "names": {
+      "en": "Weezing",
+      "fr": "Smogogo",
+      "es": "Weezing",
+      "it": "Weezing",
+      "de": "Smogmog",
+      "pt-br": "Weezing",
+      "ko": "또도가스",
+      "zh-tw": "喘息"
+    }
+  },
+  {
+    "file": "178.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/178.ts",
+    "names": {
+      "en": "Mawile",
+      "fr": "Mysdibule",
+      "es": "Mawile",
+      "it": "Mawile",
+      "de": "Flunkifer",
+      "pt-br": "Mawile",
+      "ko": "입치트",
+      "zh-tw": "馬維勒"
+    }
+  },
+  {
+    "file": "179.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/179.ts",
+    "names": {
+      "en": "Pawniard",
+      "fr": "Scalpion",
+      "es": "Pawniard",
+      "it": "Pawniard",
+      "de": "Gladiantri",
+      "pt-br": "Pawniard",
+      "ko": "자망칼",
+      "zh-tw": "典當者"
+    }
+  },
+  {
+    "file": "180.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/180.ts",
+    "names": {
+      "en": "Bisharp",
+      "fr": "Scalproie",
+      "es": "Bisharp",
+      "it": "Bisharp",
+      "de": "Caesurio",
+      "pt-br": "Bisharp",
+      "ko": "절각참",
+      "zh-tw": "比夏普"
+    }
+  },
+  {
+    "file": "181.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/181.ts",
+    "names": {
+      "en": "Meltan",
+      "fr": "Meltan",
+      "es": "Meltan",
+      "it": "Meltan",
+      "de": "Meltan",
+      "pt-br": "Meltan",
+      "ko": "멜탄",
+      "zh-tw": "美爾坦"
+    }
+  },
+  {
+    "file": "182.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/182.ts",
+    "names": {
+      "en": "Melmetal",
+      "fr": "Melmetal",
+      "es": "Melmetal",
+      "it": "Melmetal",
+      "de": "Melmetal",
+      "pt-br": "Melmetal",
+      "ko": "멜메탈",
+      "zh-tw": "梅爾梅塔"
+    }
+  },
+  {
+    "file": "183.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/183.ts",
+    "names": {
+      "en": "Dratini",
+      "fr": "Minidraco",
+      "es": "Dratini",
+      "it": "Dratini",
+      "de": "Dratini",
+      "pt-br": "Dratini",
+      "ko": "미뇽",
+      "zh-tw": "德拉蒂尼"
+    }
+  },
+  {
+    "file": "184.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/184.ts",
+    "names": {
+      "en": "Dragonair",
+      "fr": "Draco",
+      "es": "Dragonair",
+      "it": "Dragonair",
+      "de": "Dragonir",
+      "pt-br": "Dragonair",
+      "ko": "신뇽",
+      "zh-tw": "港龍航空"
+    }
+  },
+  {
+    "file": "185.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/185.ts",
+    "names": {
+      "en": "Dragonite",
+      "fr": "Dracolosse",
+      "es": "Dragonite",
+      "it": "Dragonite",
+      "de": "Dragoran",
+      "pt-br": "Dragonite",
+      "ko": "망나뇽",
+      "zh-tw": "火龍石"
+    }
+  },
+  {
+    "file": "186.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/186.ts",
+    "names": {
+      "en": "Pidgey",
+      "fr": "Roucool",
+      "es": "Pidgey",
+      "it": "Pidgey",
+      "de": "Taubsi",
+      "pt-br": "Pidgey",
+      "ko": "구구",
+      "zh-tw": "皮吉"
+    }
+  },
+  {
+    "file": "187.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/187.ts",
+    "names": {
+      "en": "Pidgeotto",
+      "fr": "Roucoups",
+      "es": "Pidgeotto",
+      "it": "Pidgeotto",
+      "de": "Tauboga",
+      "pt-br": "Pidgeotto",
+      "ko": "피죤",
+      "zh-tw": "比比鳥"
+    }
+  },
+  {
+    "file": "188.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/188.ts",
+    "names": {
+      "en": "Pidgeot",
+      "fr": "Roucarnage",
+      "es": "Pidgeot",
+      "it": "Pidgeot",
+      "de": "Tauboss",
+      "pt-br": "Pidgeot",
+      "ko": "피죤투",
+      "zh-tw": "比比鳥"
+    }
+  },
+  {
+    "file": "189.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/189.ts",
+    "names": {
+      "en": "Rattata",
+      "fr": "Rattata",
+      "es": "Rattata",
+      "it": "Rattata",
+      "de": "Rattfratz",
+      "pt-br": "Rattata",
+      "ko": "꼬렛",
+      "zh-tw": "拉達"
+    }
+  },
+  {
+    "file": "190.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/190.ts",
+    "names": {
+      "en": "Raticate",
+      "fr": "Rattatac",
+      "es": "Raticate",
+      "it": "Raticate",
+      "de": "Rattikarl",
+      "pt-br": "Raticate",
+      "ko": "레트라",
+      "zh-tw": "拉拉"
+    }
+  },
+  {
+    "file": "191.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/191.ts",
+    "names": {
+      "en": "Spearow",
+      "fr": "Piafabec",
+      "es": "Spearow",
+      "it": "Spearow",
+      "de": "Habitak",
+      "pt-br": "Spearow",
+      "ko": "깨비참",
+      "zh-tw": "斯皮羅"
+    }
+  },
+  {
+    "file": "192.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/192.ts",
+    "names": {
+      "en": "Fearow",
+      "fr": "Rapasdepic",
+      "es": "Fearow",
+      "it": "Fearow",
+      "de": "Ibitak",
+      "pt-br": "Fearow",
+      "ko": "깨비드릴조",
+      "zh-tw": "費羅"
+    }
+  },
+  {
+    "file": "193.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/193.ts",
+    "names": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou",
+      "es": "Jigglypuff",
+      "it": "Jigglypuff",
+      "de": "Pummeluff",
+      "pt-br": "Jigglypuff",
+      "ko": "푸린",
+      "zh-tw": "胖夫"
+    }
+  },
+  {
+    "file": "194.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/194.ts",
+    "names": {
+      "en": "Wigglytuff",
+      "fr": "Grodoudou",
+      "es": "Wigglytuff",
+      "it": "Wigglytuff",
+      "de": "Knuddeluff",
+      "pt-br": "Wigglytuff",
+      "ko": "푸크린",
+      "zh-tw": "威格利凝灰岩"
+    }
+  },
+  {
+    "file": "195.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/195.ts",
+    "names": {
+      "en": "Wigglytuff ex",
+      "fr": "Grodoudou-ex",
+      "es": "Wigglytuff ex",
+      "it": "Wigglytuff-ex",
+      "de": "Knuddeluff-ex",
+      "pt-br": "Wigglytuff ex",
+      "ko": "푸크린 ex",
+      "zh-tw": "維格利塔夫EX"
+    }
+  },
+  {
+    "file": "196.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/196.ts",
+    "names": {
+      "en": "Meowth",
+      "fr": "Miaouss",
+      "es": "Meowth",
+      "it": "Meowth",
+      "de": "Mauzi",
+      "pt-br": "Meowth",
+      "ko": "나옹",
+      "zh-tw": "喵喵"
+    }
+  },
+  {
+    "file": "197.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/197.ts",
+    "names": {
+      "en": "Persian",
+      "fr": "Persian",
+      "es": "Persian",
+      "it": "Persian",
+      "de": "Snobilikat",
+      "pt-br": "Persian",
+      "ko": "페르시온",
+      "zh-tw": "波斯語"
+    }
+  },
+  {
+    "file": "198.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/198.ts",
+    "names": {
+      "en": "Farfetch'd",
+      "fr": "Canarticho",
+      "es": "Farfetch'd",
+      "it": "Farfetch'd",
+      "de": "Porenta",
+      "pt-br": "Farfetch'd",
+      "ko": "파오리",
+      "zh-tw": "Farfetch'd"
+    }
+  },
+  {
+    "file": "199.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/199.ts",
+    "names": {
+      "en": "Doduo",
+      "fr": "Doduo",
+      "es": "Doduo",
+      "it": "Doduo",
+      "de": "Dodu",
+      "pt-br": "Doduo",
+      "ko": "두두",
+      "zh-tw": "多多"
+    }
+  },
+  {
+    "file": "200.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/200.ts",
+    "names": {
+      "en": "Dodrio",
+      "fr": "Dodrio",
+      "es": "Dodrio",
+      "it": "Dodrio",
+      "de": "Dodri",
+      "pt-br": "Dodrio",
+      "ko": "두트리오",
+      "zh-tw": "多德里奧"
+    }
+  },
+  {
+    "file": "201.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/201.ts",
+    "names": {
+      "en": "Lickitung",
+      "fr": "Excelangue",
+      "es": "Lickitung",
+      "it": "Lickitung",
+      "de": "Schlurp",
+      "pt-br": "Lickitung",
+      "ko": "내루미",
+      "zh-tw": "利基通"
+    }
+  },
+  {
+    "file": "202.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/202.ts",
+    "names": {
+      "en": "Chansey",
+      "fr": "Leveinard",
+      "es": "Chansey",
+      "it": "Chansey",
+      "de": "Chaneira",
+      "pt-br": "Chansey",
+      "ko": "럭키",
+      "zh-tw": "錢西"
+    }
+  },
+  {
+    "file": "203.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/203.ts",
+    "names": {
+      "en": "Kangaskhan",
+      "fr": "Kangourex",
+      "es": "Kangaskhan",
+      "it": "Kangaskhan",
+      "de": "Kangama",
+      "pt-br": "Kangaskhan",
+      "ko": "캥카",
+      "zh-tw": "坎加斯坎"
+    }
+  },
+  {
+    "file": "204.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/204.ts",
+    "names": {
+      "en": "Tauros",
+      "fr": "Tauros",
+      "es": "Tauros",
+      "it": "Tauros",
+      "de": "Tauros",
+      "pt-br": "Tauros",
+      "ko": "켄타로스",
+      "zh-tw": "金牛座"
+    }
+  },
+  {
+    "file": "205.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/205.ts",
+    "names": {
+      "en": "Ditto",
+      "fr": "Métamorph",
+      "es": "Ditto",
+      "it": "Ditto",
+      "de": "Ditto",
+      "pt-br": "Ditto",
+      "ko": "메타몽",
+      "zh-tw": "同上"
+    }
+  },
+  {
+    "file": "206.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/206.ts",
+    "names": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "es": "Eevee",
+      "it": "Eevee",
+      "de": "Evoli",
+      "pt-br": "Eevee",
+      "ko": "이브이",
+      "zh-tw": "伊布"
+    }
+  },
+  {
+    "file": "207.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/207.ts",
+    "names": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "es": "Eevee",
+      "it": "Eevee",
+      "de": "Evoli",
+      "pt-br": "Eevee",
+      "ko": "이브이",
+      "zh-tw": "伊布"
+    }
+  },
+  {
+    "file": "208.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/208.ts",
+    "names": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "es": "Eevee",
+      "it": "Eevee",
+      "de": "Evoli",
+      "pt-br": "Eevee",
+      "ko": "이브이",
+      "zh-tw": "伊布"
+    }
+  },
+  {
+    "file": "209.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+    "names": {
+      "en": "Porygon",
+      "fr": "Porygon",
+      "es": "Porygon",
+      "it": "Porygon",
+      "de": "Porygon",
+      "pt-br": "Porygon",
+      "ko": "폴리곤",
+      "zh-tw": "多邊形"
+    }
+  },
+  {
+    "file": "210.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/210.ts",
+    "names": {
+      "en": "Aerodactyl",
+      "fr": "Ptéra",
+      "es": "Aerodactyl",
+      "it": "Aerodactyl",
+      "de": "Aerodactyl",
+      "pt-br": "Aerodactyl",
+      "ko": "프테라",
+      "zh-tw": "空指龍"
+    }
+  },
+  {
+    "file": "211.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/211.ts",
+    "names": {
+      "en": "Snorlax",
+      "fr": "Ronflex",
+      "es": "Snorlax",
+      "it": "Snorlax",
+      "de": "Relaxo",
+      "pt-br": "Snorlax",
+      "ko": "잠만보",
+      "zh-tw": "斯諾拉克斯"
+    }
+  },
+  {
+    "file": "212.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/212.ts",
+    "names": {
+      "en": "Minccino",
+      "fr": "Chinchidou",
+      "es": "Minccino",
+      "it": "Minccino",
+      "de": "Picochilla",
+      "pt-br": "Minccino",
+      "ko": "치라미",
+      "zh-tw": "明奇諾"
+    }
+  },
+  {
+    "file": "213.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/213.ts",
+    "names": {
+      "en": "Cinccino",
+      "fr": "Pashmilla",
+      "es": "Cinccino",
+      "it": "Cinccino",
+      "de": "Chillabell",
+      "pt-br": "Cinccino",
+      "ko": "치라치노",
+      "zh-tw": "辛奇諾"
+    }
+  },
+  {
+    "file": "214.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/214.ts",
+    "names": {
+      "en": "Wooloo",
+      "fr": "Moumouton",
+      "es": "Wooloo",
+      "it": "Wooloo",
+      "de": "Wolly",
+      "pt-br": "Wooloo",
+      "ko": "우르",
+      "zh-tw": "烏魯"
+    }
+  },
+  {
+    "file": "215.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/215.ts",
+    "names": {
+      "en": "Dubwool",
+      "fr": "Moumouflon",
+      "es": "Dubwool",
+      "it": "Dubwool",
+      "de": "Zwollock",
+      "pt-br": "Dubwool",
+      "ko": "배우르",
+      "zh-tw": "杜布羊毛"
+    }
+  },
+  {
+    "file": "216.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/216.ts",
+    "names": {
+      "en": "Helix Fossil",
+      "fr": "Fossile Nautile",
+      "es": "Fósil Hélix",
+      "it": "Helixfossile",
+      "de": "Helixfossil",
+      "pt-br": "Fóssil Espiral",
+      "ko": "조개화석",
+      "zh-tw": "螺旋化石"
+    }
+  },
+  {
+    "file": "217.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/217.ts",
+    "names": {
+      "en": "Dome Fossil",
+      "fr": "Fossile Dôme",
+      "es": "Fósil Domo",
+      "it": "Domofossile",
+      "de": "Domfossil",
+      "pt-br": "Fóssil Cúpula",
+      "ko": "껍질화석",
+      "zh-tw": "圓頂化石"
+    }
+  },
+  {
+    "file": "218.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/218.ts",
+    "names": {
+      "en": "Old Amber",
+      "fr": "Vieil Ambre",
+      "es": "Ámbar Viejo",
+      "it": "Ambra Antica",
+      "de": "Altbernstein",
+      "pt-br": "Âmbar Velho",
+      "ko": "비밀의호박",
+      "zh-tw": "老琥珀"
+    }
+  },
+  {
+    "file": "219.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/219.ts",
+    "names": {
+      "en": "Erika",
+      "fr": "Erika",
+      "es": "Erika",
+      "it": "Erika",
+      "de": "Erika",
+      "pt-br": "Érica",
+      "ko": "민화",
+      "zh-tw": "埃里卡"
+    }
+  },
+  {
+    "file": "220.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/220.ts",
+    "names": {
+      "en": "Misty",
+      "fr": "Ondine",
+      "es": "Misty",
+      "it": "Misty",
+      "de": "Misty",
+      "ko": "이슬",
+      "pt-br": "Misty",
+      "zh-tw": "濛濛"
+    }
+  },
+  {
+    "file": "221.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/221.ts",
+    "names": {
+      "en": "Blaine",
+      "fr": "Auguste",
+      "es": "Blaine",
+      "it": "Blaine",
+      "de": "Pyro",
+      "pt-br": "Blaine",
+      "ko": "강연",
+      "zh-tw": "布萊恩"
+    }
+  },
+  {
+    "file": "222.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/222.ts",
+    "names": {
+      "en": "Koga",
+      "fr": "Koga",
+      "es": "Koga",
+      "it": "Koga",
+      "de": "Koga",
+      "pt-br": "Koga",
+      "ko": "독수",
+      "zh-tw": "古賀"
+    }
+  },
+  {
+    "file": "223.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/223.ts",
+    "names": {
+      "en": "Giovanni",
+      "fr": "Giovanni",
+      "es": "Giovanni",
+      "it": "Giovanni",
+      "de": "Giovanni",
+      "pt-br": "Giovanni",
+      "ko": "비주기",
+      "zh-tw": "喬萬尼"
+    }
+  },
+  {
+    "file": "224.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/224.ts",
+    "names": {
+      "en": "Brock",
+      "fr": "Pierre",
+      "es": "Brock",
+      "it": "Brock",
+      "de": "Rocko",
+      "pt-br": "Brock",
+      "ko": "웅",
+      "zh-tw": "布羅克"
+    }
+  },
+  {
+    "file": "225.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/225.ts",
+    "names": {
+      "en": "Sabrina",
+      "fr": "Morgane",
+      "es": "Sabrina",
+      "it": "Sabrina",
+      "de": "Sabrina",
+      "pt-br": "Sabrina",
+      "ko": "초련",
+      "zh-tw": "薩布麗娜"
+    }
+  },
+  {
+    "file": "226.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/226.ts",
+    "names": {
+      "en": "Lt. Surge",
+      "fr": "Major Bob",
+      "es": "Teniente Surge",
+      "it": "Lt. Surge",
+      "de": "Major Bob",
+      "pt-br": "Ten. Surge",
+      "ko": "마티스",
+      "zh-tw": "蘇吉中尉"
+    }
+  },
+  {
+    "file": "227.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/227.ts",
+    "names": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "es": "Bulbasaur",
+      "it": "Bulbasaur",
+      "de": "Bisasam",
+      "pt-br": "Bulbasaur",
+      "ko": "이상해씨",
+      "zh-tw": "妙蛙種子"
+    }
+  },
+  {
+    "file": "228.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/228.ts",
+    "names": {
+      "en": "Gloom",
+      "fr": "Ortide",
+      "es": "Gloom",
+      "it": "Gloom",
+      "de": "Duflor",
+      "pt-br": "Gloom",
+      "ko": "냄새꼬",
+      "zh-tw": "愁雲"
+    }
+  },
+  {
+    "file": "229.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/229.ts",
+    "names": {
+      "en": "Pinsir",
+      "fr": "Scarabrute",
+      "es": "Pinsir",
+      "it": "Pinsir",
+      "de": "Pinsir",
+      "pt-br": "Pinsir",
+      "ko": "쁘사이저",
+      "zh-tw": "平西爾"
+    }
+  },
+  {
+    "file": "230.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/230.ts",
+    "names": {
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "es": "Charmander",
+      "it": "Charmander",
+      "de": "Glumanda",
+      "ko": "파이리",
+      "pt-br": "Charmander",
+      "zh-tw": "小火龍"
+    }
+  },
+  {
+    "file": "231.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/231.ts",
+    "names": {
+      "en": "Rapidash",
+      "fr": "Galopa",
+      "es": "Rapidash",
+      "it": "Rapidash",
+      "de": "Gallopa",
+      "pt-br": "Rapidash",
+      "ko": "날쌩마",
+      "zh-tw": "快速"
+    }
+  },
+  {
+    "file": "232.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/232.ts",
+    "names": {
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "es": "Squirtle",
+      "it": "Squirtle",
+      "de": "Schiggy",
+      "pt-br": "Squirtle",
+      "ko": "꼬부기",
+      "zh-tw": "傑尼龜"
+    }
+  },
+  {
+    "file": "233.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/233.ts",
+    "names": {
+      "en": "Gyarados",
+      "fr": "Léviator",
+      "es": "Gyarados",
+      "it": "Gyarados",
+      "de": "Garados",
+      "pt-br": "Gyarados",
+      "ko": "갸라도스",
+      "zh-tw": "暴鯉龍"
+    }
+  },
+  {
+    "file": "234.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/234.ts",
+    "names": {
+      "en": "Lapras",
+      "fr": "Lokhlass",
+      "es": "Lapras",
+      "it": "Lapras",
+      "de": "Lapras",
+      "ko": "라프라스",
+      "pt-br": "Lapras",
+      "zh-tw": "拉普拉斯"
+    }
+  },
+  {
+    "file": "235.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/235.ts",
+    "names": {
+      "en": "Electrode",
+      "fr": "Électrode",
+      "es": "Electrode",
+      "it": "Electrode",
+      "de": "Lektrobal",
+      "pt-br": "Electrode",
+      "ko": "붐볼",
+      "zh-tw": "電極"
+    }
+  },
+  {
+    "file": "236.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/236.ts",
+    "names": {
+      "en": "Alakazam",
+      "fr": "Alakazam",
+      "es": "Alakazam",
+      "it": "Alakazam",
+      "de": "Simsala",
+      "pt-br": "Alakazam",
+      "ko": "후딘",
+      "zh-tw": "阿拉卡扎姆"
+    }
+  },
+  {
+    "file": "237.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/237.ts",
+    "names": {
+      "en": "Slowpoke",
+      "fr": "Ramoloss",
+      "es": "Slowpoke",
+      "it": "Slowpoke",
+      "de": "Flegmon",
+      "pt-br": "Slowpoke",
+      "ko": "야돈",
+      "zh-tw": "呆呆獸"
+    }
+  },
+  {
+    "file": "238.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/238.ts",
+    "names": {
+      "en": "Diglett",
+      "fr": "Taupiqueur",
+      "es": "Diglett",
+      "it": "Diglett",
+      "de": "Digda",
+      "pt-br": "Diglett",
+      "ko": "디그다",
+      "zh-tw": "迪格利特"
+    }
+  },
+  {
+    "file": "239.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/239.ts",
+    "names": {
+      "en": "Cubone",
+      "fr": "Osselait",
+      "es": "Cubone",
+      "it": "Cubone",
+      "de": "Tragosso",
+      "pt-br": "Cubone",
+      "ko": "탕구리",
+      "zh-tw": "庫博內"
+    }
+  },
+  {
+    "file": "240.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/240.ts",
+    "names": {
+      "en": "Nidoqueen",
+      "fr": "Nidoqueen",
+      "es": "Nidoqueen",
+      "it": "Nidoqueen",
+      "de": "Nidoqueen",
+      "pt-br": "Nidoqueen",
+      "ko": "니드퀸",
+      "zh-tw": "尼多女王"
+    }
+  },
+  {
+    "file": "241.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/241.ts",
+    "names": {
+      "en": "Nidoking",
+      "fr": "Nidoking",
+      "es": "Nidoking",
+      "it": "Nidoking",
+      "de": "Nidoking",
+      "pt-br": "Nidoking",
+      "ko": "니드킹",
+      "zh-tw": "尼多金"
+    }
+  },
+  {
+    "file": "242.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/242.ts",
+    "names": {
+      "en": "Golbat",
+      "fr": "Nosferalto",
+      "es": "Golbat",
+      "it": "Golbat",
+      "de": "Golbat",
+      "pt-br": "Golbat",
+      "ko": "골뱃",
+      "zh-tw": "大嘴蝠"
+    }
+  },
+  {
+    "file": "243.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/243.ts",
+    "names": {
+      "en": "Weezing",
+      "fr": "Smogogo",
+      "es": "Weezing",
+      "it": "Weezing",
+      "de": "Smogmog",
+      "pt-br": "Weezing",
+      "ko": "또도가스",
+      "zh-tw": "喘息"
+    }
+  },
+  {
+    "file": "244.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/244.ts",
+    "names": {
+      "en": "Dragonite",
+      "fr": "Dracolosse",
+      "es": "Dragonite",
+      "it": "Dragonite",
+      "de": "Dragoran",
+      "pt-br": "Dragonite",
+      "ko": "망나뇽",
+      "zh-tw": "火龍石"
+    }
+  },
+  {
+    "file": "245.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/245.ts",
+    "names": {
+      "en": "Pidgeot",
+      "fr": "Roucarnage",
+      "es": "Pidgeot",
+      "it": "Pidgeot",
+      "de": "Tauboss",
+      "pt-br": "Pidgeot",
+      "ko": "피죤투",
+      "zh-tw": "比比鳥"
+    }
+  },
+  {
+    "file": "246.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/246.ts",
+    "names": {
+      "en": "Meowth",
+      "fr": "Miaouss",
+      "es": "Meowth",
+      "it": "Meowth",
+      "de": "Mauzi",
+      "pt-br": "Meowth",
+      "ko": "나옹",
+      "zh-tw": "喵喵"
+    }
+  },
+  {
+    "file": "247.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/247.ts",
+    "names": {
+      "en": "Ditto",
+      "fr": "Métamorph",
+      "es": "Ditto",
+      "it": "Ditto",
+      "de": "Ditto",
+      "pt-br": "Ditto",
+      "ko": "메타몽",
+      "zh-tw": "同上"
+    }
+  },
+  {
+    "file": "248.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/248.ts",
+    "names": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "es": "Eevee",
+      "it": "Eevee",
+      "de": "Evoli",
+      "pt-br": "Eevee",
+      "ko": "이브이",
+      "zh-tw": "伊布"
+    }
+  },
+  {
+    "file": "249.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/249.ts",
+    "names": {
+      "en": "Porygon",
+      "fr": "Porygon",
+      "es": "Porygon",
+      "it": "Porygon",
+      "de": "Porygon",
+      "pt-br": "Porygon",
+      "ko": "폴리곤",
+      "zh-tw": "多邊形"
+    }
+  },
+  {
+    "file": "250.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/250.ts",
+    "names": {
+      "en": "Snorlax",
+      "fr": "Ronflex",
+      "es": "Snorlax",
+      "it": "Snorlax",
+      "de": "Relaxo",
+      "pt-br": "Snorlax",
+      "ko": "잠만보",
+      "zh-tw": "斯諾拉克斯"
+    }
+  },
+  {
+    "file": "251.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/251.ts",
+    "names": {
+      "en": "Venusaur ex",
+      "fr": "Florizarre-ex",
+      "es": "Venusaur ex",
+      "it": "Venusaur-ex",
+      "de": "Bisaflor-ex",
+      "pt-br": "Venusaur ex",
+      "ko": "이상해꽃 ex",
+      "zh-tw": "維納斯龍EX"
+    }
+  },
+  {
+    "file": "252.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/252.ts",
+    "names": {
+      "en": "Exeggutor ex",
+      "fr": "Noadkoko-ex",
+      "es": "Exeggutor ex",
+      "it": "Exeggutor-ex",
+      "de": "Kokowei-ex",
+      "pt-br": "Exeggutor ex",
+      "ko": "나시 ex",
+      "zh-tw": "椰棗EX"
+    }
+  },
+  {
+    "file": "253.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/253.ts",
+    "names": {
+      "en": "Charizard ex",
+      "fr": "Dracaufeu-ex",
+      "es": "Charizard ex",
+      "it": "Charizard-ex",
+      "de": "Glurak-ex",
+      "pt-br": "Charizard ex",
+      "ko": "리자몽 ex",
+      "zh-tw": "噴火龍EX"
+    }
+  },
+  {
+    "file": "254.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/254.ts",
+    "names": {
+      "en": "Arcanine ex",
+      "fr": "Arcanin-ex",
+      "es": "Arcanine ex",
+      "it": "Arcanine-ex",
+      "de": "Arkani-ex",
+      "pt-br": "Arcanine ex",
+      "ko": "윈디 ex",
+      "zh-tw": "阿爾卡寧EX"
+    }
+  },
+  {
+    "file": "255.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/255.ts",
+    "names": {
+      "en": "Moltres ex",
+      "fr": "Sulfura-ex",
+      "es": "Moltres ex",
+      "it": "Moltres-ex",
+      "de": "Lavados-ex",
+      "pt-br": "Moltres ex",
+      "ko": "파이어 ex",
+      "zh-tw": "莫爾特雷斯EX"
+    }
+  },
+  {
+    "file": "256.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/256.ts",
+    "names": {
+      "en": "Blastoise ex",
+      "fr": "Tortank-ex",
+      "es": "Blastoise ex",
+      "it": "Blastoise-ex",
+      "de": "Turtok-ex",
+      "ko": "거북왕 ex",
+      "pt-br": "Blastoise ex",
+      "zh-tw": "囊胚EX"
+    }
+  },
+  {
+    "file": "257.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/257.ts",
+    "names": {
+      "en": "Starmie ex",
+      "fr": "Staross-ex",
+      "es": "Starmie ex",
+      "it": "Starmie-ex",
+      "de": "Starmie-ex",
+      "pt-br": "Starmie ex",
+      "ko": "아쿠스타 ex",
+      "zh-tw": "海星EX"
+    }
+  },
+  {
+    "file": "258.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/258.ts",
+    "names": {
+      "en": "Articuno ex",
+      "fr": "Artikodin-ex",
+      "es": "Articuno ex",
+      "it": "Articuno-ex",
+      "de": "Arktos-ex",
+      "pt-br": "Articuno ex",
+      "ko": "프리져 ex",
+      "zh-tw": "急凍鳥"
+    }
+  },
+  {
+    "file": "259.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/259.ts",
+    "names": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex",
+      "es": "Pikachu ex",
+      "it": "Pikachu-ex",
+      "de": "Pikachu-ex",
+      "pt-br": "Pikachu ex",
+      "ko": "피카츄 ex",
+      "zh-tw": "皮卡丘EX"
+    }
+  },
+  {
+    "file": "260.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/260.ts",
+    "names": {
+      "en": "Zapdos ex",
+      "fr": "Électhor-ex",
+      "es": "Zapdos ex",
+      "it": "Zapdos-ex",
+      "de": "Zapdos-ex",
+      "pt-br": "Zapdos ex",
+      "ko": "썬더 ex",
+      "zh-tw": "Zapdos EX"
+    }
+  },
+  {
+    "file": "261.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/261.ts",
+    "names": {
+      "en": "Gengar ex",
+      "fr": "Ectoplasma-ex",
+      "es": "Gengar ex",
+      "it": "Gengar-ex",
+      "de": "Gengar-ex",
+      "pt-br": "Gengar ex",
+      "ko": "팬텀 ex",
+      "zh-tw": "耿鬼EX"
+    }
+  },
+  {
+    "file": "262.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/262.ts",
+    "names": {
+      "en": "Mewtwo ex",
+      "fr": "Mewtwo-ex",
+      "es": "Mewtwo ex",
+      "it": "Mewtwo-ex",
+      "de": "Mewtu-ex",
+      "pt-br": "Mewtwo ex",
+      "ko": "뮤츠 ex",
+      "zh-tw": "超夢EX"
+    }
+  },
+  {
+    "file": "263.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/263.ts",
+    "names": {
+      "en": "Machamp ex",
+      "fr": "Mackogneur-ex",
+      "es": "Machamp ex",
+      "it": "Machamp-ex",
+      "de": "Machomei-ex",
+      "pt-br": "Machamp ex",
+      "ko": "괴력몬 ex",
+      "zh-tw": "馬尚EX"
+    }
+  },
+  {
+    "file": "264.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/264.ts",
+    "names": {
+      "en": "Marowak ex",
+      "fr": "Ossatueur-ex",
+      "es": "Marowak ex",
+      "it": "Marowak-ex",
+      "de": "Knogga-ex",
+      "pt-br": "Marowak ex",
+      "ko": "텅구리 ex",
+      "zh-tw": "馬羅瓦克EX"
+    }
+  },
+  {
+    "file": "265.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/265.ts",
+    "names": {
+      "en": "Wigglytuff ex",
+      "fr": "Grodoudou-ex",
+      "es": "Wigglytuff ex",
+      "it": "Wigglytuff-ex",
+      "de": "Knuddeluff-ex",
+      "pt-br": "Wigglytuff ex",
+      "ko": "푸크린 ex",
+      "zh-tw": "維格利塔夫EX"
+    }
+  },
+  {
+    "file": "266.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/266.ts",
+    "names": {
+      "en": "Erika",
+      "fr": "Erika",
+      "es": "Erika",
+      "it": "Erika",
+      "de": "Erika",
+      "pt-br": "Érica",
+      "ko": "민화",
+      "zh-tw": "埃里卡"
+    }
+  },
+  {
+    "file": "267.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/267.ts",
+    "names": {
+      "en": "Misty",
+      "fr": "Ondine",
+      "es": "Misty",
+      "it": "Misty",
+      "de": "Misty",
+      "ko": "이슬",
+      "pt-br": "Misty",
+      "zh-tw": "濛濛"
+    }
+  },
+  {
+    "file": "268.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/268.ts",
+    "names": {
+      "en": "Blaine",
+      "fr": "Auguste",
+      "es": "Blaine",
+      "it": "Blaine",
+      "de": "Pyro",
+      "pt-br": "Blaine",
+      "ko": "강연",
+      "zh-tw": "布萊恩"
+    }
+  },
+  {
+    "file": "269.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/269.ts",
+    "names": {
+      "en": "Koga",
+      "fr": "Koga",
+      "es": "Koga",
+      "it": "Koga",
+      "de": "Koga",
+      "pt-br": "Koga",
+      "ko": "독수",
+      "zh-tw": "古賀"
+    }
+  },
+  {
+    "file": "270.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/270.ts",
+    "names": {
+      "en": "Giovanni",
+      "fr": "Giovanni",
+      "es": "Giovanni",
+      "it": "Giovanni",
+      "de": "Giovanni",
+      "pt-br": "Giovanni",
+      "ko": "비주기",
+      "zh-tw": "喬萬尼"
+    }
+  },
+  {
+    "file": "271.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/271.ts",
+    "names": {
+      "en": "Brock",
+      "fr": "Pierre",
+      "es": "Brock",
+      "it": "Brock",
+      "de": "Rocko",
+      "pt-br": "Brock",
+      "ko": "웅",
+      "zh-tw": "布羅克"
+    }
+  },
+  {
+    "file": "272.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/272.ts",
+    "names": {
+      "en": "Sabrina",
+      "fr": "Morgane",
+      "es": "Sabrina",
+      "it": "Sabrina",
+      "de": "Sabrina",
+      "pt-br": "Sabrina",
+      "ko": "초련",
+      "zh-tw": "薩布麗娜"
+    }
+  },
+  {
+    "file": "273.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/273.ts",
+    "names": {
+      "en": "Lt. Surge",
+      "fr": "Major Bob",
+      "es": "Teniente Surge",
+      "it": "Lt. Surge",
+      "de": "Major Bob",
+      "pt-br": "Ten. Surge",
+      "ko": "마티스",
+      "zh-tw": "蘇吉中尉"
+    }
+  },
+  {
+    "file": "274.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/274.ts",
+    "names": {
+      "en": "Moltres ex",
+      "fr": "Sulfura-ex",
+      "es": "Moltres ex",
+      "it": "Moltres-ex",
+      "de": "Lavados-ex",
+      "pt-br": "Moltres ex",
+      "ko": "파이어 ex",
+      "zh-tw": "莫爾特雷斯EX"
+    }
+  },
+  {
+    "file": "275.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/275.ts",
+    "names": {
+      "en": "Articuno ex",
+      "fr": "Artikodin-ex",
+      "es": "Articuno ex",
+      "it": "Articuno-ex",
+      "de": "Arktos-ex",
+      "pt-br": "Articuno ex",
+      "ko": "프리져 ex",
+      "zh-tw": "急凍鳥"
+    }
+  },
+  {
+    "file": "276.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/276.ts",
+    "names": {
+      "en": "Zapdos ex",
+      "fr": "Électhor-ex",
+      "es": "Zapdos ex",
+      "it": "Zapdos-ex",
+      "de": "Zapdos-ex",
+      "pt-br": "Zapdos ex",
+      "ko": "썬더 ex",
+      "zh-tw": "Zapdos EX"
+    }
+  },
+  {
+    "file": "277.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/277.ts",
+    "names": {
+      "en": "Gengar ex",
+      "fr": "Ectoplasma-ex",
+      "es": "Gengar ex",
+      "it": "Gengar-ex",
+      "de": "Gengar-ex",
+      "pt-br": "Gengar ex",
+      "ko": "팬텀 ex",
+      "zh-tw": "耿鬼EX"
+    }
+  },
+  {
+    "file": "278.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/278.ts",
+    "names": {
+      "en": "Machamp ex",
+      "fr": "Mackogneur-ex",
+      "es": "Machamp ex",
+      "it": "Machamp-ex",
+      "de": "Machomei-ex",
+      "pt-br": "Machamp ex",
+      "ko": "괴력몬 ex",
+      "zh-tw": "馬尚EX"
+    }
+  },
+  {
+    "file": "279.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/279.ts",
+    "names": {
+      "en": "Wigglytuff ex",
+      "fr": "Grodoudou-ex",
+      "es": "Wigglytuff ex",
+      "it": "Wigglytuff-ex",
+      "de": "Knuddeluff-ex",
+      "pt-br": "Wigglytuff ex",
+      "ko": "푸크린 ex",
+      "zh-tw": "維格利塔夫EX"
+    }
+  },
+  {
+    "file": "280.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/280.ts",
+    "names": {
+      "en": "Charizard ex",
+      "fr": "Dracaufeu-ex",
+      "es": "Charizard ex",
+      "it": "Charizard-ex",
+      "de": "Glurak-ex",
+      "pt-br": "Charizard ex",
+      "ko": "리자몽 ex",
+      "zh-tw": "噴火龍EX"
+    }
+  },
+  {
+    "file": "281.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/281.ts",
+    "names": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex",
+      "es": "Pikachu ex",
+      "it": "Pikachu-ex",
+      "de": "Pikachu-ex",
+      "pt-br": "Pikachu ex",
+      "ko": "피카츄 ex",
+      "zh-tw": "皮卡丘EX"
+    }
+  },
+  {
+    "file": "282.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/282.ts",
+    "names": {
+      "en": "Mewtwo ex",
+      "fr": "Mewtwo-ex",
+      "es": "Mewtwo ex",
+      "it": "Mewtwo-ex",
+      "de": "Mewtu-ex",
+      "pt-br": "Mewtwo ex",
+      "ko": "뮤츠 ex",
+      "zh-tw": "超夢EX"
+    }
+  },
+  {
+    "file": "283.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/283.ts",
+    "names": {
+      "en": "Mew",
+      "fr": "Mew",
+      "es": "Mew",
+      "it": "Mew",
+      "de": "Mew",
+      "pt-br": "Mew",
+      "ko": "뮤",
+      "zh-tw": "喵"
+    }
+  },
+  {
+    "file": "284.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/284.ts",
+    "names": {
+      "en": "Charizard ex",
+      "fr": "Dracaufeu-ex",
+      "es": "Charizard ex",
+      "it": "Charizard-ex",
+      "de": "Glurak-ex",
+      "pt-br": "Charizard ex",
+      "ko": "리자몽 ex",
+      "zh-tw": "噴火龍EX"
+    }
+  },
+  {
+    "file": "285.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/285.ts",
+    "names": {
+      "en": "Pikachu ex",
+      "fr": "Pikachu-ex",
+      "es": "Pikachu ex",
+      "it": "Pikachu-ex",
+      "de": "Pikachu-ex",
+      "pt-br": "Pikachu ex",
+      "ko": "피카츄 ex",
+      "zh-tw": "皮卡丘EX"
+    }
+  },
+  {
+    "file": "286.ts",
+    "path": "data/Pokémon TCG Pocket/Genetic Apex/286.ts",
+    "names": {
+      "en": "Mewtwo ex",
+      "fr": "Mewtwo-ex",
+      "es": "Mewtwo ex",
+      "it": "Mewtwo-ex",
+      "de": "Mewtu-ex",
+      "pt-br": "Mewtwo ex",
+      "ko": "뮤츠 ex",
+      "zh-tw": "超夢EX"
+    }
+  }
+]

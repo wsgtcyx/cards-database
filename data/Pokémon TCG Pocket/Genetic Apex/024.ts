@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tangela",
         'pt-br': "Tangela",
         ko: "덩쿠리",
-        "zh-tw": "坦格拉"
+        "zh-tw": "蔓藤怪",
     },
     illustrator: "Midori Harada",
     category: "Pokemon",

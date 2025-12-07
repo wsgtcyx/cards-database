@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Medicham",
         "de": "Medicham",
         "pt-br": "Medicham",
-        "zh-tw": "麥迪查姆"
+        "zh-tw": "恰雷姆",
     },
     illustrator: "Misa Tsutsui",
     rarity: "Two Diamond",

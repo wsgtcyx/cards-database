@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Digdri",
         'pt-br': "Dugtriode Alola",
         ko: "알로라닥트리오",
-        "zh-tw": "阿羅拉·杜格特里奧"
+        "zh-tw": "阿羅拉三地鼠",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",

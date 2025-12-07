@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Rookidee",
         "de": "Neuling",
         "pt-br": "Rookidee",
-        "zh-tw": "菜鳥"
+        "zh-tw": "稚山雀",
     },
     illustrator: "OKACHEKE",
     rarity: "One Diamond",

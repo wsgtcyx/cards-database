@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Silcoon",
         "de": "Silcoon",
         "pt-br": "Silcon",
-        "zh-tw": "矽科恩"
+        "zh-tw": "甲殼蛹",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

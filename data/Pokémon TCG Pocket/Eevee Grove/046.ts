@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Liepard",
         "de": "Liepard",
         "pt-br": "Liepard",
-        "zh-tw": "利帕德"
+        "zh-tw": "酷豹",
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",

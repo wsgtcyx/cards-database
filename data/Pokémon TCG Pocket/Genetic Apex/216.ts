@@ -10,7 +10,7 @@ const card: Card = {
         de: "Helixfossil",
         'pt-br': "Fóssil Espiral",
         ko: "조개화석",
-        "zh-tw": "螺旋化石"
+        "zh-tw": "貝殼化石",
     },
     illustrator: "Toyste Beach",
     category: "Trainer",

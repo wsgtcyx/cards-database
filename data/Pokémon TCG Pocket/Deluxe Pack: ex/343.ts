@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Alba",
         "de": "Dämmerung",
         "pt-br": "Alvorecer",
-        "zh-tw": "黎明"
+        "zh-tw": "小光",
     },
     illustrator: "saino misaki",
     rarity: "Two Diamond",

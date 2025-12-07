@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mogelbaum",
         'pt-br': "Sudowoodo",
         ko: "꼬지모",
-        "zh-tw": "須多木多"
+        "zh-tw": "樹才怪",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",

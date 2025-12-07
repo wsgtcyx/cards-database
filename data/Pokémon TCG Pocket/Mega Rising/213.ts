@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Spinner di scherzi",
         "de": "Streichspinner",
         "pt-br": "Girador de pegadinhas",
-        "zh-tw": "惡作劇旋轉器"
+        "zh-tw": "惡作劇輪盤",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

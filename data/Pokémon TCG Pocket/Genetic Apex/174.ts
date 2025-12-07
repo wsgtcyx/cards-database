@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sleima",
         'pt-br': "Grimer",
         ko: "질퍽이",
-        "zh-tw": "格里默"
+        "zh-tw": "臭泥",
     },
     illustrator: "Pani Kobayashi",
     category: "Pokemon",

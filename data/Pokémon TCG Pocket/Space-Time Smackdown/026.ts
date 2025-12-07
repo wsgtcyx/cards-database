@@ -10,7 +10,7 @@ const card: Card = {
         de: "Magcargo",
         'pt-br': "Magcargo",
         ko: "마그카르고",
-        "zh-tw": "馬格貨物"
+        "zh-tw": "熔岩蝸牛",
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Diamond",

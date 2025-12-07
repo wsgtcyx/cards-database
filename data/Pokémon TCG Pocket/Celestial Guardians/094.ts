@@ -10,7 +10,7 @@ const card: Card = {
         de: "Praktibalk",
         'pt-br': "Timburr",
         ko: "으랏차",
-        "zh-tw": "廷布爾"
+        "zh-tw": "搬運小匠",
     },
     illustrator: "Mizue",
     rarity: "One Diamond",

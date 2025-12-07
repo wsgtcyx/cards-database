@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ambidiffel",
         'pt-br': "Ambipom",
         ko: "겟핸보숭",
-        "zh-tw": "安比蓬"
+        "zh-tw": "雙尾怪手",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

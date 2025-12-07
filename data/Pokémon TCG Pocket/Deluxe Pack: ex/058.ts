@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Charmeleon",
         "de": "Charmeleon",
         "pt-br": "Charmeleon",
-        "zh-tw": "變色龍"
+        "zh-tw": "火恐龍",
     },
     illustrator: "kantaro",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Capo gigante",
         "de": "Riesenkap",
         "pt-br": "Cabo Gigante",
-        "zh-tw": "巨型斗篷"
+        "zh-tw": "巨大的斗篷",
     },
     illustrator: "Ryo Ueda",
     rarity: "Two Diamond",

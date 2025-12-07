@@ -10,7 +10,7 @@ const card: Card = {
         de: "Porygon2",
         'pt-br': "Porygon2",
         ko: "폴리곤2",
-        "zh-tw": "多邊形2"
+        "zh-tw": "3D龍2",
     },
     illustrator: "sowsow",
     rarity: "Two Diamond",

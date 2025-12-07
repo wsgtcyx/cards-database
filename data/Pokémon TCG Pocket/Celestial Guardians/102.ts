@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pampuli",
         'pt-br': "Mudbray",
         ko: "머드나기",
-        "zh-tw": "穆德布雷"
+        "zh-tw": "泥驢仔",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

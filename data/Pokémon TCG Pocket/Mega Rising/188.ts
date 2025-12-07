@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zigzagoon",
         "de": "Zickzack",
         "pt-br": "Ziguezague",
-        "zh-tw": "之字形"
+        "zh-tw": "蛇紋熊",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

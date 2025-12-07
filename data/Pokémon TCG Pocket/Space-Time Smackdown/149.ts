@@ -10,7 +10,7 @@ const card: Card = {
         de: "Prunusbeere",
         'pt-br': "Fruta Lum",
         ko: "리샘열매",
-        "zh-tw": "漿果"
+        "zh-tw": "木子果",
     },
     illustrator: "Yoshinobu Saito",
     rarity: "Two Diamond",

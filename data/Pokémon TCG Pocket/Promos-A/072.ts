@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Sleima",
         'pt-br': "Grimerde Alola",
         ko: "알로라질퍽이",
-        "zh-tw": "阿羅蘭·格里默"
+        "zh-tw": "阿羅拉臭泥",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",

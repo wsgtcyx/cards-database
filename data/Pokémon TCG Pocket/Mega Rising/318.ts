@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Incineroar ex",
         "de": "Incineroar ex",
         "pt-br": "Incineroar ex",
-        "zh-tw": "焚怒火EX"
+        "zh-tw": "熾焰咆哮虎 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

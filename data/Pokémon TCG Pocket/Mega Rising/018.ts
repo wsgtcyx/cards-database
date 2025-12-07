@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lilligant",
         "de": "Lilligant",
         "pt-br": "Lilligant",
-        "zh-tw": "利利甘特"
+        "zh-tw": "裙兒小姐",
     },
     illustrator: "Kanako Eo",
     rarity: "Three Diamond",

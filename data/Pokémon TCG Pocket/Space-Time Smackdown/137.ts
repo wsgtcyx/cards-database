@@ -10,7 +10,7 @@ const card: Card = {
         de: "Haspiror",
         'pt-br': "Buneary",
         ko: "이어롤",
-        "zh-tw": "佈內裡"
+        "zh-tw": "捲捲耳",
     },
     illustrator: "Narumi Sato",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Quaputzi",
         'pt-br': "Poliwhirl",
         ko: "슈륙챙이",
-        "zh-tw": "波利惠爾"
+        "zh-tw": "蚊香君",
     },
     illustrator: "Yuka Morii",
     category: "Pokemon",

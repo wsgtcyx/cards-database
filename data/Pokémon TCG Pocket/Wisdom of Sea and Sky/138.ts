@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sentret",
         "de": "Sentret",
         "pt-br": "Sentido",
-        "zh-tw": "森特雷"
+        "zh-tw": "尾立",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

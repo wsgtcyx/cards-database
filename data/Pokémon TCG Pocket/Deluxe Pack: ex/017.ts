@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Skiploom",
         "de": "Skiploom",
         "pt-br": "Skiploom",
-        "zh-tw": "斯基普盧姆"
+        "zh-tw": "毽子花",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Forschung des Professors",
         'pt-br': "Pesquisa de Professores",
         ko: "박사의 연구",
-        "zh-tw": "教授的研究"
+        "zh-tw": "博士的研究",
     },
     illustrator: "Naoki Saito",
     rarity: "None",

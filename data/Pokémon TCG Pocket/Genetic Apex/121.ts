@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alpollo",
         'pt-br': "Haunter",
         ko: "고우스트",
-        "zh-tw": "鬼魂"
+        "zh-tw": "鬼斯通",
     },
     illustrator: "Nisota Niso",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Noctuh",
         'pt-br': "Noctowl",
         ko: "야부엉",
-        "zh-tw": "夜貓子"
+        "zh-tw": "貓頭夜鷹",
     },
     illustrator: "DOM",
     rarity: "Two Diamond",

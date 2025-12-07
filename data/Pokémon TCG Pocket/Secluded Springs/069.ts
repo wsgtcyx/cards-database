@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Whitney",
         "de": "Whitney",
         "pt-br": "Whitney",
-        "zh-tw": "惠特尼"
+        "zh-tw": "小茜",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",

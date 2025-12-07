@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Quilava",
         "de": "Quilava",
         "pt-br": "Quilava",
-        "zh-tw": "基拉瓦"
+        "zh-tw": "火岩鼠",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

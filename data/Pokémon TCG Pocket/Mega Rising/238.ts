@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cofagrigus",
         "de": "Cofagrigus",
         "pt-br": "Cofagrigus",
-        "zh-tw": "科法格里格斯"
+        "zh-tw": "死神棺",
     },
     illustrator: "Apios",
     rarity: "One Star",

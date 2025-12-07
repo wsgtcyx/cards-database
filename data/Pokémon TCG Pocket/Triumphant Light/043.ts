@@ -10,7 +10,7 @@ const card: Card = {
         de: "Meditie",
         'pt-br': "Meditite",
         ko: "요가랑",
-        "zh-tw": "麥迪泰"
+        "zh-tw": "瑪沙那",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

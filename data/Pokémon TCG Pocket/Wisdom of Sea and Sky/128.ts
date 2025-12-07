@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Klinklang",
         "de": "Klinklang",
         "pt-br": "Klinklang",
-        "zh-tw": "克林克朗"
+        "zh-tw": "齒輪怪",
     },
     illustrator: "Akira Komayama",
     rarity: "Three Diamond",

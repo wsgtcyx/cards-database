@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Spearow",
         "de": "Speer",
         "pt-br": "Lança",
-        "zh-tw": "斯皮羅"
+        "zh-tw": "烈雀",
     },
     illustrator: "tetsuya koizumi",
     rarity: "One Diamond",

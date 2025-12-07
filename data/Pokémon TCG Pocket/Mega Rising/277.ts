@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Ampharos es",
         "de": "Mega Ampharos ex",
         "pt-br": "Mega Ampharos ex",
-        "zh-tw": "巨型安法羅斯EX"
+        "zh-tw": "超級電龍 ex",
     },
     illustrator: "Amelicart",
     rarity: "Two Star",

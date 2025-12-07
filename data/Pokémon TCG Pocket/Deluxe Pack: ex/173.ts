@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Swirlix",
         "de": "Swirlix",
         "pt-br": "Redemoinho",
-        "zh-tw": "漩渦"
+        "zh-tw": "綿綿泡芙",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",

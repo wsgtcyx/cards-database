@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Qwilfish",
         "de": "Qwilfish",
         "pt-br": "Qwilfish",
-        "zh-tw": "奎爾菲什"
+        "zh-tw": "千針魚",
     },
     illustrator: "June",
     rarity: "One Star",

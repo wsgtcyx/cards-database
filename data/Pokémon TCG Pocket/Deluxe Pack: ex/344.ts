@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Marte",
         "de": "Mars",
         "pt-br": "Marte",
-        "zh-tw": "火星"
+        "zh-tw": "伙星",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wailmer",
         "de": "Wailmer",
         "pt-br": "Wailmer",
-        "zh-tw": "維爾默"
+        "zh-tw": "吼吼鯨",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",

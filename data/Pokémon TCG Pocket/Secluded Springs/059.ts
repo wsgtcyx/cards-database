@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Igglybuff",
         "de": "Igglybuff",
         "pt-br": "Igglybuff",
-        "zh-tw": "伊格利巴夫"
+        "zh-tw": "寶寶丁",
     },
     illustrator: "Miki Tanaka",
     rarity: "Three Diamond",

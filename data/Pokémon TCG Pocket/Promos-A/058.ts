@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pachirisu",
         'pt-br': "Pachirisu",
         ko: "파치리스",
-        "zh-tw": "帕奇利茲"
+        "zh-tw": "帕奇利茲",
     },
     illustrator: "OOYAMA",
     rarity: "None",

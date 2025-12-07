@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Medita",
         "de": "Meditit",
         "pt-br": "Medite",
-        "zh-tw": "麥迪泰"
+        "zh-tw": "瑪沙那",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",

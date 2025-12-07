@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Carkol",
         "de": "Carkol",
         "pt-br": "Carkol",
-        "zh-tw": "卡科爾"
+        "zh-tw": "大炭車",
     },
     illustrator: "Uta",
     rarity: "Two Diamond",

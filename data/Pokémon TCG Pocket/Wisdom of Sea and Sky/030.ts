@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Slugma",
         "de": "Slugma",
         "pt-br": "Slugma",
-        "zh-tw": "斯盧格馬"
+        "zh-tw": "熔岩蟲",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",

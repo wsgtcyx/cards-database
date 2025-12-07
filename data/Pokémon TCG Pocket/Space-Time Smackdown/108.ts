@@ -10,7 +10,7 @@ const card: Card = {
         de: "Toxiquak",
         'pt-br': "Toxicroak",
         ko: "독개굴",
-        "zh-tw": "毒蜥蜴"
+        "zh-tw": "毒骷蛙",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",

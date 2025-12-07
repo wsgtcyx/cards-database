@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wooloo",
         "de": "Wooloo",
         "pt-br": "Lãoo",
-        "zh-tw": "烏魯"
+        "zh-tw": "毛辮羊",
     },
     illustrator: "Yoko Hishida",
     rarity: "One Diamond",

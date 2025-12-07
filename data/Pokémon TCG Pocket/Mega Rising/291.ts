@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dartrix",
         "de": "Dartrix",
         "pt-br": "Dartrix",
-        "zh-tw": "達特里克斯"
+        "zh-tw": "投羽梟",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

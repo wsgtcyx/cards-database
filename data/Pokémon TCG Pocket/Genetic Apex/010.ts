@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bibor",
         'pt-br': "Beedrill",
         ko: "독침붕",
-        "zh-tw": "比德鑽"
+        "zh-tw": "大針蜂",
     },
     illustrator: "You Iribi",
     category: "Pokemon",

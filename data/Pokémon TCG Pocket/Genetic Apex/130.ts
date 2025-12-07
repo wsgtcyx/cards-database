@@ -10,7 +10,7 @@ const card: Card = {
         de: "Trasla",
         'pt-br': "Ralts",
         ko: "랄토스",
-        "zh-tw": "拉爾茨"
+        "zh-tw": "拉魯拉絲",
     },
     illustrator: "Yuka Morii",
     category: "Pokemon",

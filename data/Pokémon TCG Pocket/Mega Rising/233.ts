@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ludicolo",
         "de": "Ludicolo",
         "pt-br": "Ludicolo",
-        "zh-tw": "盧迪科洛"
+        "zh-tw": "樂天河童",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Star",

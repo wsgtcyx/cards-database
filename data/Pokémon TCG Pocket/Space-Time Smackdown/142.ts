@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wirbel-Rotom",
         'pt-br': "Rotom Ventilador",
         ko: "스핀로토무",
-        "zh-tw": "範·洛托姆"
+        "zh-tw": "旋轉洛托姆",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Jolteon",
         "de": "Ruck",
         "pt-br": "Jolteon",
-        "zh-tw": "雷頓"
+        "zh-tw": "雷伊布",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Three Diamond",

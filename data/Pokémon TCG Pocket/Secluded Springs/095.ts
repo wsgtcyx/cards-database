@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Krabby",
         "de": "Krabby",
         "pt-br": "Siriguejo",
-        "zh-tw": "克拉比"
+        "zh-tw": "大鉗蟹",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dragonir",
         'pt-br': "Dragonair",
         ko: "신뇽",
-        "zh-tw": "港龍航空"
+        "zh-tw": "哈克龍",
     },
     illustrator: "kirisAki",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Geodude",
         "de": "Geodude",
         "pt-br": "Geodude",
-        "zh-tw": "晶洞"
+        "zh-tw": "小拳石",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

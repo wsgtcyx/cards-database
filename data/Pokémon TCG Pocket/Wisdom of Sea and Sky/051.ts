@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wooper",
         "de": "Wooper",
         "pt-br": "Wooper",
-        "zh-tw": "伍珀"
+        "zh-tw": "烏波",
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",

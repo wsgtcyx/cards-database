@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cursola Galariana",
         "de": "Galarischer Cursola",
         "pt-br": "Cursola Galariana",
-        "zh-tw": "加拉安·庫索拉"
+        "zh-tw": "伽勒爾魔靈珊瑚",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

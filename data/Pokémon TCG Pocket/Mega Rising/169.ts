@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cobalione",
         "de": "Kobalion",
         "pt-br": "Cobalião",
-        "zh-tw": "科巴利恩"
+        "zh-tw": "勾帕路翁",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",

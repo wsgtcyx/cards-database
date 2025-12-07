@@ -10,7 +10,7 @@ const card: Card = {
         de: "Absol",
         'pt-br': "Absol",
         ko: "앱솔",
-        "zh-tw": "阿布索爾"
+        "zh-tw": "阿勃梭魯",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",

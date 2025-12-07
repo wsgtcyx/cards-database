@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Weepinbell",
         "de": "Weepinbell",
         "pt-br": "Campainha chorando",
-        "zh-tw": "威平貝爾"
+        "zh-tw": "口呆花",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

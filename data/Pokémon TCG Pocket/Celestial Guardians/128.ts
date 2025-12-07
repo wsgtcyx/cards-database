@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tauros",
         'pt-br': "Tauros",
         ko: "켄타로스",
-        "zh-tw": "金牛座"
+        "zh-tw": "肯泰羅",
     },
     illustrator: "Kazumasa Yasukuni",
     rarity: "Two Diamond",

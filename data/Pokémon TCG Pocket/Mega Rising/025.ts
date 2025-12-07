@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Grookey",
         "de": "Grookey",
         "pt-br": "Grookey",
-        "zh-tw": "格魯基"
+        "zh-tw": "敲音猴",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

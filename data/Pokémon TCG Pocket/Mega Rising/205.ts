@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Braviario",
         "de": "Braviery",
         "pt-br": "Braviário",
-        "zh-tw": "勇敢者"
+        "zh-tw": "勇士鷹",
     },
     illustrator: "chibi",
     rarity: "Two Diamond",

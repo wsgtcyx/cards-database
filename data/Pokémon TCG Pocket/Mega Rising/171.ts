@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Doppia lama",
         "de": "Doublade",
         "pt-br": "Lâmina Dupla",
-        "zh-tw": "雙刃"
+        "zh-tw": "雙劍鞘",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",

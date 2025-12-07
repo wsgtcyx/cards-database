@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Seistomad",
         "de": "Erdbeben",
         "pt-br": "Seismitoad",
-        "zh-tw": "地震儀"
+        "zh-tw": "蟾蜍王",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",

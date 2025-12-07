@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Crawdaunt",
         "de": "Crawdaunt",
         "pt-br": "Crawdaunt",
-        "zh-tw": "克勞當特"
+        "zh-tw": "鐵螯龍蝦",
     },
     illustrator: "REND",
     rarity: "One Star",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Spritz",
         "de": "Spritzee",
         "pt-br": "Spritzee",
-        "zh-tw": "雪碧"
+        "zh-tw": "粉香香",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",

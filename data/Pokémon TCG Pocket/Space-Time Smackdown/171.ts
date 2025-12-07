@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hippopotas",
         'pt-br': "Hippopotas",
         ko: "히포포타스",
-        "zh-tw": "河馬"
+        "zh-tw": "怪河馬",
     },
     illustrator: "Teeziro",
     rarity: "One Star",

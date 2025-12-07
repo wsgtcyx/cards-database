@@ -10,7 +10,7 @@ const card: Card = {
         de: "Gengar-ex",
         'pt-br': "Gengar ex",
         ko: "팬텀 ex",
-        "zh-tw": "耿鬼EX"
+        "zh-tw": "耿鬼 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

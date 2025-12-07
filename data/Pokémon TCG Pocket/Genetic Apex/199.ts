@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dodu",
         'pt-br': "Doduo",
         ko: "두두",
-        "zh-tw": "多多"
+        "zh-tw": "嘟嘟",
     },
     illustrator: "Yuya Oka",
     category: "Pokemon",

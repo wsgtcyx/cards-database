@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bojelin",
         'pt-br': "Floatzel",
         ko: "플로젤",
-        "zh-tw": "弗洛策爾"
+        "zh-tw": "浮潛鼬",
     },
     illustrator: "Kanako Eo",
     rarity: "Two Diamond",

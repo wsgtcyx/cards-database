@@ -10,7 +10,7 @@ const card: Card = {
         de: "Arbok",
         'pt-br': "Arbok",
         ko: "아보크",
-        "zh-tw": "阿爾博克"
+        "zh-tw": "阿柏怪",
     },
     illustrator: "Naoki Saito",
     category: "Pokemon",

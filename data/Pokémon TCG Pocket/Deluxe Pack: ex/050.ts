@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sprigato",
         "de": "Sprigatito",
         "pt-br": "Sprigatito",
-        "zh-tw": "斯普里加蒂托"
+        "zh-tw": "新葉喵",
     },
     illustrator: "mashu",
     rarity: "One Diamond",

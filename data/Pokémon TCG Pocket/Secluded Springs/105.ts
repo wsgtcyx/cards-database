@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mantyke",
         "de": "Mantyke",
         "pt-br": "Mantyke",
-        "zh-tw": "曼蒂克"
+        "zh-tw": "小球飛魚",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Crown",

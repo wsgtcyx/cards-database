@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lilly",
         'pt-br': "Lílian",
         ko: "릴리에",
-        "zh-tw": "莉莉"
+        "zh-tw": "莉莉艾",
     },
     illustrator: "hechima",
     rarity: "Two Star",

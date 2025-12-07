@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Starmie ex",
         "de": "Starmie ex",
         "pt-br": "Ex-estrela",
-        "zh-tw": "海星EX"
+        "zh-tw": "寶石海星 ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",

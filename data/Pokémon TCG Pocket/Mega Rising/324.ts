@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Passimiano ex",
         "de": "Passimian ex",
         "pt-br": "Ex passimiano",
-        "zh-tw": "帕西米亞EX"
+        "zh-tw": "投擲猴 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",

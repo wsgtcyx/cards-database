@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Moltres",
         "de": "Moltres",
         "pt-br": "Moltres",
-        "zh-tw": "莫爾特雷斯"
+        "zh-tw": "火焰鳥",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

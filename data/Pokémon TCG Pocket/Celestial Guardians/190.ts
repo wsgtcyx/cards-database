@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lola",
         'pt-br': "Acerola",
         ko: "아세로라",
-        "zh-tw": "針葉櫻桃"
+        "zh-tw": "阿塞蘿拉",
     },
     illustrator: "Susumu Maeya",
     rarity: "Two Star",

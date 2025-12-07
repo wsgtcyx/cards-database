@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sylveone es",
         "de": "Sylveon ex",
         "pt-br": "Sylveon ex",
-        "zh-tw": "西爾文EX"
+        "zh-tw": "仙子精靈 ex",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Star",

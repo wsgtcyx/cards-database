@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schlurp",
         'pt-br': "Lickitung",
         ko: "내루미",
-        "zh-tw": "利基通"
+        "zh-tw": "大舌頭",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

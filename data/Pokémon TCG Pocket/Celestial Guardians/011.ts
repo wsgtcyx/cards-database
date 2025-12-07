@@ -10,7 +10,7 @@ const card: Card = {
         de: "Arboretoss",
         'pt-br': "Dartrix",
         ko: "빼미스로우",
-        "zh-tw": "達特里克斯"
+        "zh-tw": "投羽梟",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",

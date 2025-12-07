@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mantine",
         "de": "Mantine",
         "pt-br": "Mantine",
-        "zh-tw": "曼丁"
+        "zh-tw": "巨翅飛魚",
     },
     illustrator: "0313",
     rarity: "Two Diamond",

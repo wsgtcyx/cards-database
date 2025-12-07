@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Chinchou",
         "de": "Chinchou",
         "pt-br": "Chinchou",
-        "zh-tw": "欽州"
+        "zh-tw": "燈籠魚",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

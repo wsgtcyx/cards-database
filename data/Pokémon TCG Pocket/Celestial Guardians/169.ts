@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sankabuh",
         'pt-br': "Sandygast",
         ko: "모래꿍",
-        "zh-tw": "桑迪加斯特"
+        "zh-tw": "沙丘娃",
     },
     illustrator: "Yukihiro Tada",
     rarity: "One Star",

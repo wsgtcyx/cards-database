@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mottineva",
         'pt-br': "Frosmoth",
         ko: "모스노우",
-        "zh-tw": "弗羅莫斯"
+        "zh-tw": "雪絨蛾",
     },
     illustrator: "aoki",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Fearow",
         "de": "Angst",
         "pt-br": "Medo",
-        "zh-tw": "費羅"
+        "zh-tw": "大嘴雀",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Graveler",
         "de": "Schotter",
         "pt-br": "Cascalho",
-        "zh-tw": "碎石者"
+        "zh-tw": "隆隆石",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wurmple",
         "de": "Wurmple",
         "pt-br": "Wurmple",
-        "zh-tw": "烏姆普爾"
+        "zh-tw": "刺尾蟲",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mimikyu",
         "de": "Mimikyu",
         "pt-br": "Mimikyu",
-        "zh-tw": "彌彌久"
+        "zh-tw": "謎擬Ｑ",
     },
     illustrator: "Eri Yamaki",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Krabby",
         'pt-br': "Krabby",
         ko: "크랩",
-        "zh-tw": "克拉比"
+        "zh-tw": "大鉗蟹",
     },
     illustrator: "Tomokazu Komiya",
     category: "Pokemon",

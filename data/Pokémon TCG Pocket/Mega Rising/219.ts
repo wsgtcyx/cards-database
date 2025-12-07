@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Casco pesante",
         "de": "Schwerer Helm",
         "pt-br": "Capacete Pesado",
-        "zh-tw": "重頭盔"
+        "zh-tw": "重型頭盔",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

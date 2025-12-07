@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Volere",
         "de": "Wille",
         "pt-br": "Vai",
-        "zh-tw": "將要"
+        "zh-tw": "一樹",
     },
     illustrator: "GIDORA",
     rarity: "Two Diamond",

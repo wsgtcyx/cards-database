@@ -10,7 +10,7 @@ const card: Card = {
         de: "Staralili",
         'pt-br': "Starly",
         ko: "찌르꼬",
-        "zh-tw": "星光"
+        "zh-tw": "姆克兒",
     },
     illustrator: "Apios",
     rarity: "One Diamond",

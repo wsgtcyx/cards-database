@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Grimer di Alola",
         "de": "Alolan Grimer",
         "pt-br": "Alola Grimer",
-        "zh-tw": "阿羅蘭·格里默"
+        "zh-tw": "阿羅拉臭泥",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

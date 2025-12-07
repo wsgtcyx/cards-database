@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bidoof",
         "de": "Bidoof",
         "pt-br": "Bidoof",
-        "zh-tw": "比杜夫"
+        "zh-tw": "大牙狸",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

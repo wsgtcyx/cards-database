@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Golett",
         "de": "Golett",
         "pt-br": "Golett",
-        "zh-tw": "戈萊特"
+        "zh-tw": "泥偶小人",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",

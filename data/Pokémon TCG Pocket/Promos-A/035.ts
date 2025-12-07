@@ -10,7 +10,7 @@ const card: Card = {
         de: "Chelast",
         'pt-br': "Turtwig",
         ko: "모부기",
-        "zh-tw": "特特維格"
+        "zh-tw": "草苗龜",
     },
     illustrator: "Atsuko Nishida",
     rarity: "None",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Croconaw",
         "de": "Croconaw",
         "pt-br": "Croconaw",
-        "zh-tw": "克羅科諾"
+        "zh-tw": "藍鱷",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

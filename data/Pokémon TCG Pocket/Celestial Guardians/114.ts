@@ -10,7 +10,7 @@ const card: Card = {
         de: "Deponitox",
         'pt-br': "Garbodor",
         ko: "더스트나",
-        "zh-tw": "加博多"
+        "zh-tw": "灰塵山",
     },
     illustrator: "match",
     rarity: "Two Diamond",

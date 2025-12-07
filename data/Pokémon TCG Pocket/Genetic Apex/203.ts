@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kangama",
         'pt-br': "Kangaskhan",
         ko: "캥카",
-        "zh-tw": "坎加斯坎"
+        "zh-tw": "袋獸",
     },
     illustrator: "Ken Sugimori",
     category: "Pokemon",

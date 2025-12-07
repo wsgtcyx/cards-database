@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mienfoo",
         "de": "Mienfoo",
         "pt-br": "Mienfoo",
-        "zh-tw": "米恩富"
+        "zh-tw": "功夫鼬",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",

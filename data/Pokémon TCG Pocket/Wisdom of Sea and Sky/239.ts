@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lickilicky ex",
         "de": "Leckerer Ex",
         "pt-br": "Ex Lickilicky",
-        "zh-tw": "舔舔EX"
+        "zh-tw": "大舌舔 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Shiny",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hoothoot",
         'pt-br': "Hoothoot",
         ko: "부우부",
-        "zh-tw": "呼呼"
+        "zh-tw": "咕咕",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

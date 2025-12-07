@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Escursionista",
         "de": "Wanderer",
         "pt-br": "Caminhante",
-        "zh-tw": "徒步旅行者"
+        "zh-tw": "登山男",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schmerbe",
         'pt-br': "Barboach",
         ko: "미꾸리",
-        "zh-tw": "巴博阿奇"
+        "zh-tw": "泥泥鰍",
     },
     illustrator: "sui",
     rarity: "One Diamond",

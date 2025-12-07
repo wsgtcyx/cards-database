@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Snorlax es",
         "de": "Snorlax ex",
         "pt-br": "Snorlax ex",
-        "zh-tw": "斯諾拉克斯EX"
+        "zh-tw": "卡比獸 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

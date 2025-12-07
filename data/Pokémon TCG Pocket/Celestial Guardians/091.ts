@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hariyama",
         'pt-br': "Hariyama",
         ko: "하리뭉",
-        "zh-tw": "播山"
+        "zh-tw": "超力王",
     },
     illustrator: "Miki Tanaka",
     rarity: "Two Diamond",

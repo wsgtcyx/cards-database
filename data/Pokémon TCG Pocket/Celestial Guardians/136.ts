@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mangunior",
         'pt-br': "Yungoos",
         ko: "영구스",
-        "zh-tw": "雲古斯"
+        "zh-tw": "貓鼬少",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",

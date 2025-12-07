@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sandshrew",
         "de": "Sandspitzmaus",
         "pt-br": "Sandshrew",
-        "zh-tw": "山鼠"
+        "zh-tw": "穿山鼠",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

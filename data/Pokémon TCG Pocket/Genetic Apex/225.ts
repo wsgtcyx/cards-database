@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sabrina",
         'pt-br': "Sabrina",
         ko: "초련",
-        "zh-tw": "薩布麗娜"
+        "zh-tw": "娜姿",
     },
     illustrator: "Yuu Nishida",
     category: "Trainer",

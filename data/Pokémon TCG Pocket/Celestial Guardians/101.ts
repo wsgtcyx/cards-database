@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wolwerock",
         'pt-br': "Lycanroc",
         ko: "루가루암",
-        "zh-tw": "狼人"
+        "zh-tw": "鬃岩狼人",
     },
     illustrator: "5ban Graphics",
     rarity: "Three Diamond",

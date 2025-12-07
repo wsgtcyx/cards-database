@@ -10,7 +10,7 @@ const card: Card = {
         de: "Gallopa",
         'pt-br': "Rapidash",
         ko: "날쌩마",
-        "zh-tw": "快速"
+        "zh-tw": "烈焰馬",
     },
     illustrator: "Misa Tsutsui",
     category: "Pokemon",

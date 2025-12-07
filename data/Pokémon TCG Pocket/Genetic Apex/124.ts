@@ -10,7 +10,7 @@ const card: Card = {
         de: "Traumato",
         'pt-br': "Drowzee",
         ko: "슬리프",
-        "zh-tw": "卓爾茲"
+        "zh-tw": "催眠貘",
     },
     illustrator: "Yukiko Baba",
     category: "Pokemon",

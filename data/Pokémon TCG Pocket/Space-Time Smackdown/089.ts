@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rameidon",
         'pt-br': "Rampardos",
         ko: "램펄드",
-        "zh-tw": "蘭帕多斯"
+        "zh-tw": "戰槌龍",
     },
     illustrator: "Yoshinobu Saito",
     rarity: "Three Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Vecchia Ambra",
         "de": "Alter Bernstein",
         "pt-br": "Âmbar Velho",
-        "zh-tw": "老琥珀"
+        "zh-tw": "秘密琥珀",
     },
     illustrator: "Toyste Beach",
     rarity: "One Diamond",

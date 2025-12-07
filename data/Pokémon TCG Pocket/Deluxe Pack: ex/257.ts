@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Klefki",
         "de": "Klefki",
         "pt-br": "Klefki",
-        "zh-tw": "克萊夫基"
+        "zh-tw": "鑰圈兒",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",

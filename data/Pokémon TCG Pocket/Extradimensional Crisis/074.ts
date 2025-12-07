@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Silvalmente",
         "de": "Silvally",
         "pt-br": "Silvally",
-        "zh-tw": "西爾瓦利"
+        "zh-tw": "銀伴戰獸",
     },
     illustrator: "hncl",
     rarity: "One Star",

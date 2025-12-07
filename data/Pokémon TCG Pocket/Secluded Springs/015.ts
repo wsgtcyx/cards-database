@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tentacool",
         "de": "Tentacool",
         "pt-br": "Tentacool",
-        "zh-tw": "坦塔酷"
+        "zh-tw": "瑪瑙水母",
     },
     illustrator: "Hajime Kusajima",
     rarity: "One Diamond",

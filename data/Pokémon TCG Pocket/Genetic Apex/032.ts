@@ -10,7 +10,7 @@ const card: Card = {
         de: "Chevrumm",
         'pt-br': "Gogoat",
         ko: "고고트",
-        "zh-tw": "戈山羊"
+        "zh-tw": "坐騎山羊",
     },
     illustrator: "You Iribi",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Buzzwole ex",
         "de": "Buzzwole ex",
         "pt-br": "Ex-Buzzwole",
-        "zh-tw": "巴斯沃勒EX"
+        "zh-tw": "爆肌蚊 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Four Diamond",

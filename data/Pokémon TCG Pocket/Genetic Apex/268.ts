@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pyro",
         'pt-br': "Blaine",
         ko: "강연",
-        "zh-tw": "布萊恩"
+        "zh-tw": "夏伯",
     },
     illustrator: "GOSSAN",
     category: "Trainer",

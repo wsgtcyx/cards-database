@@ -10,7 +10,7 @@ const card: Card = {
         de: "Trompeck",
         'pt-br': "Trumbeak",
         ko: "크라파",
-        "zh-tw": "特朗比克"
+        "zh-tw": "喇叭啄鳥",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

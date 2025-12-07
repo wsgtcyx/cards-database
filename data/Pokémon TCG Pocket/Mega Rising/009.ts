@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Nuzleaf",
         "de": "Nuzleaf",
         "pt-br": "Nuzleaf",
-        "zh-tw": "鼻葉"
+        "zh-tw": "長鼻葉",
     },
     illustrator: "Hajime Kusajima",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hitze-Rotom",
         'pt-br': "Rotom Calor",
         ko: "히트로토무",
-        "zh-tw": "熱洛托姆"
+        "zh-tw": "加熱洛托姆",
     },
     illustrator: "Kedamahadaitai Yawarakai",
     rarity: "One Diamond",

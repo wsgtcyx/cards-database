@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pikachu-ex",
         'pt-br': "Pikachu ex",
         ko: "피카츄 ex",
-        "zh-tw": "皮卡丘EX"
+        "zh-tw": "皮卡丘 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

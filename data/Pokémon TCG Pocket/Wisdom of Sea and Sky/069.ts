@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ampharos",
         "de": "Ampharos",
         "pt-br": "Ampharos",
-        "zh-tw": "安法羅斯"
+        "zh-tw": "電龍",
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",

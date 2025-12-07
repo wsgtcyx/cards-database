@@ -10,7 +10,7 @@ const card: Card = {
         de: "Gufa",
         'pt-br': "Pyukumuku",
         ko: "해무기",
-        "zh-tw": "普庫穆庫"
+        "zh-tw": "拳海參",
     },
     illustrator: "You Iribi",
     rarity: "One Diamond",

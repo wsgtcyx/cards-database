@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wobbuffet",
         "de": "Wobbuffet",
         "pt-br": "Wobbuffet",
-        "zh-tw": "沃布自助餐"
+        "zh-tw": "果然翁",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",

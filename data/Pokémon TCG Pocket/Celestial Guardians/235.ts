@@ -10,7 +10,7 @@ const card: Card = {
         de: "Machomei-ex",
         'pt-br': "Machamp ex",
         ko: "괴력몬 ex",
-        "zh-tw": "馬尚EX"
+        "zh-tw": "怪力 ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Shiny",

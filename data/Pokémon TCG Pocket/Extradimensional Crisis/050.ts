@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Agron",
         "de": "Aggron",
         "pt-br": "Agron",
-        "zh-tw": "阿格隆"
+        "zh-tw": "波士可多拉",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",

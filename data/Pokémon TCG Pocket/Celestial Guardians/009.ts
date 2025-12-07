@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bauz",
         'pt-br': "Rowlet",
         ko: "나몰빼미",
-        "zh-tw": "羅萊特"
+        "zh-tw": "木木梟",
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",

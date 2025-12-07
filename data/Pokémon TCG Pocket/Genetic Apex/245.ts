@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tauboss",
         'pt-br': "Pidgeot",
         ko: "피죤투",
-        "zh-tw": "比比鳥"
+        "zh-tw": "大比鳥",
     },
     illustrator: "Anesaki Dynamic",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fiffyen",
         'pt-br': "Poochyena",
         ko: "포챠나",
-        "zh-tw": "普奇耶納"
+        "zh-tw": "土狼犬",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",

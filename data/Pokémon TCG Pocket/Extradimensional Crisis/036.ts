@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Palossand",
         "de": "Palossand",
         "pt-br": "Palossand",
-        "zh-tw": "帕羅桑"
+        "zh-tw": "噬沙堡爺",
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",

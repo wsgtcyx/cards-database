@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Shinx",
         "de": "Shinx",
         "pt-br": "Shinx",
-        "zh-tw": "辛克斯"
+        "zh-tw": "小貓怪",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",

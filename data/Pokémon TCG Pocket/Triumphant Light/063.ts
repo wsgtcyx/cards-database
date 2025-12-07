@@ -10,7 +10,7 @@ const card: Card = {
         de: "Relaxo",
         'pt-br': "Snorlax",
         ko: "잠만보",
-        "zh-tw": "斯諾拉克斯"
+        "zh-tw": "卡比獸",
     },
     illustrator: "burari",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Arktos-ex",
         'pt-br': "Articuno ex",
         ko: "프리져 ex",
-        "zh-tw": "急凍鳥"
+        "zh-tw": "急凍鳥 ex",
     },
     illustrator: "kodama",
     category: "Pokemon",

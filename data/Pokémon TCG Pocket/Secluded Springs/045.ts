@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Relicanth",
         "de": "Relicanth",
         "pt-br": "Relicanto",
-        "zh-tw": "遺角"
+        "zh-tw": "古空棘魚",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

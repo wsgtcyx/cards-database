@@ -10,7 +10,7 @@ const card: Card = {
         de: "Arkani",
         'pt-br': "Arcanine",
         ko: "윈디",
-        "zh-tw": "阿爾卡寧"
+        "zh-tw": "風速狗",
     },
     illustrator: "match",
     rarity: "Two Diamond",

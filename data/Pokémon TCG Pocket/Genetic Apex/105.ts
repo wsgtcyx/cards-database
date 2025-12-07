@@ -10,7 +10,7 @@ const card: Card = {
         de: "Elezeba",
         'pt-br': "Blitzle",
         ko: "줄뮤마",
-        "zh-tw": "閃電戰"
+        "zh-tw": "斑斑馬",
     },
     illustrator: "Shin Nagasawa",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Knogga",
         'pt-br': "Marowakde Alola",
         ko: "알로라텅구리",
-        "zh-tw": "阿羅蘭·馬洛瓦克"
+        "zh-tw": "阿羅拉嘎啦嘎啦",
     },
     illustrator: "Gemi",
     rarity: "One Star",

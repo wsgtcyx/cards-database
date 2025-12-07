@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Staryu",
         "de": "Staryu",
         "pt-br": "Staryu",
-        "zh-tw": "斯塔尤"
+        "zh-tw": "海星星",
     },
     illustrator: "Hiroki Asanuma",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Spoink",
         ko: "피그점프",
         'pt-br': "Spoink",
-        "zh-tw": "斯波因克"
+        "zh-tw": "跳跳豬",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

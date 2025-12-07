@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Voltorb",
         "de": "Voltorb",
         "pt-br": "Voltorb",
-        "zh-tw": "伏爾托布"
+        "zh-tw": "霹靂電球",
     },
     illustrator: "Scav",
     rarity: "One Shiny",

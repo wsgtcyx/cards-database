@@ -10,7 +10,7 @@ const card: Card = {
         de: "Eguana",
         'pt-br': "Helioptile",
         ko: "목도리키텔",
-        "zh-tw": "太陽花"
+        "zh-tw": "傘電蜥",
     },
     illustrator: "5ban Graphics",
     category: "Pokemon",

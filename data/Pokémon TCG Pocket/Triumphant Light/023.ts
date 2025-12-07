@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ur-Palkia",
         'pt-br': "PalkiaForma Origem",
         ko: "오리진펄기아",
-        "zh-tw": "帕路奇亞起源"
+        "zh-tw": "起源帕路奇亞",
     },
     illustrator: "toriyufu",
     rarity: "Three Diamond",

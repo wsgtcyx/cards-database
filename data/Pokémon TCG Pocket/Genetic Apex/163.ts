@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kaocto",
         'pt-br': "Grapploct",
         ko: "케오퍼스",
-        "zh-tw": "抓斗"
+        "zh-tw": "八爪武師",
     },
     illustrator: "kurumitsu",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Che schifo",
         "de": "Hurra",
         "pt-br": "Uau",
-        "zh-tw": "呼呼"
+        "zh-tw": "咕咕",
     },
     illustrator: "Uninori",
     rarity: "One Star",

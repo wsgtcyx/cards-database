@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Emolga",
         "de": "Emolga",
         "pt-br": "Emolga",
-        "zh-tw": "埃莫爾加"
+        "zh-tw": "電飛鼠",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

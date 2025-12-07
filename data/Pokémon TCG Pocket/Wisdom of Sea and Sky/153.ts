@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Grembiule in acciaio",
         "de": "Stahlschürze",
         "pt-br": "Avental de aço",
-        "zh-tw": "鋼圍裙"
+        "zh-tw": "鋼鐵圍裙",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",

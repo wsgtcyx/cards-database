@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Muro della Bestia",
         "de": "Bestienwand",
         "pt-br": "Parede da Besta",
-        "zh-tw": "獸牆"
+        "zh-tw": "究極壁壘",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

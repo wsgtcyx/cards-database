@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wuffels",
         'pt-br': "Rockruff",
         ko: "암멍이",
-        "zh-tw": "洛克拉夫"
+        "zh-tw": "岩狗狗",
     },
     illustrator: "Oswaldo KATO",
     rarity: "One Diamond",

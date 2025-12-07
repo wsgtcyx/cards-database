@@ -10,7 +10,7 @@ const card: Card = {
         de: "Simsala",
         'pt-br': "Alakazam",
         ko: "후딘",
-        "zh-tw": "阿拉卡扎姆"
+        "zh-tw": "胡地",
     },
     illustrator: "AKIRA EGAWA",
     category: "Pokemon",

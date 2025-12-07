@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dragonair",
         "de": "Dragonair",
         "pt-br": "Dragonair",
-        "zh-tw": "港龍航空"
+        "zh-tw": "哈克龍",
     },
     illustrator: "Shinya Komatsu",
     rarity: "One Diamond",

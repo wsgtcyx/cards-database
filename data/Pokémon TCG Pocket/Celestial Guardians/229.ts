@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knuddeluff",
         'pt-br': "Wigglytuff",
         ko: "푸크린",
-        "zh-tw": "威格利凝灰岩"
+        "zh-tw": "胖可丁",
     },
     illustrator: "Tomowaka",
     rarity: "One Shiny",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ramoth",
         'pt-br': "Volcarona",
         ko: "불카모스",
-        "zh-tw": "沃爾卡羅納"
+        "zh-tw": "火神蛾",
     },
     illustrator: "Shin Nagasawa",
     rarity: "None",

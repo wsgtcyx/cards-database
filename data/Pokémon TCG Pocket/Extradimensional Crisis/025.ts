@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Trevenant",
         "de": "Trevenant",
         "pt-br": "Trevenante",
-        "zh-tw": "特雷文南特"
+        "zh-tw": "朽木妖",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

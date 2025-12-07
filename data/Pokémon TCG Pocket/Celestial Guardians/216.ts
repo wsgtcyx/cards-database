@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schillok",
         'pt-br': "Wartortle",
         ko: "어니부기",
-        "zh-tw": "疣龜"
+        "zh-tw": "卡咪龜",
     },
     illustrator: "Nisota Niso",
     rarity: "One Shiny",

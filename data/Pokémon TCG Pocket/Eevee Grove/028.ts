@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Espeon",
         "de": "Espeon",
         "pt-br": "Espeon",
-        "zh-tw": "埃斯彭"
+        "zh-tw": "太陽精靈",
     },
     illustrator: "Ryota Murayama",
     rarity: "Three Diamond",

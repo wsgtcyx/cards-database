@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schneckmag",
         'pt-br': "Slugma",
         ko: "마그마그",
-        "zh-tw": "斯盧格馬"
+        "zh-tw": "熔岩蟲",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

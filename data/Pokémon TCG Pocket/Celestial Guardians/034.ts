@@ -10,7 +10,7 @@ const card: Card = {
         de: "Choreogel",
         'pt-br': "Oricorio",
         ko: "춤추새",
-        "zh-tw": "奧里科里奧"
+        "zh-tw": "花舞鳥",
     },
     illustrator: "Jerky",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Arcanina es",
         "de": "Arcanine ex",
         "pt-br": "Ex arcanino",
-        "zh-tw": "阿爾卡寧EX"
+        "zh-tw": "風速狗 ex",
     },
     illustrator: "PLANETA Saito",
     category: "Pokemon",

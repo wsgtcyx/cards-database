@@ -10,7 +10,7 @@ const card: Card = {
         de: "Heatran",
         'pt-br': "Heatran",
         ko: "히드런",
-        "zh-tw": "赫特蘭"
+        "zh-tw": "席多藍恩",
     },
     illustrator: "Kazumasa Yasukuni",
     rarity: "Three Diamond",

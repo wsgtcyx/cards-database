@@ -10,7 +10,7 @@ const card: Card = {
         de: "Digda",
         'pt-br': "Diglett",
         ko: "디그다",
-        "zh-tw": "迪格利特"
+        "zh-tw": "地鼠",
     },
     illustrator: "Shinya Komatsu",
     category: "Pokemon",

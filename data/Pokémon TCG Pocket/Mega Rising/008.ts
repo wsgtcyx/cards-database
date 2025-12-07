@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Seedot",
         "de": "Seedot",
         "pt-br": "Seedot",
-        "zh-tw": "種子點"
+        "zh-tw": "橡實果",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

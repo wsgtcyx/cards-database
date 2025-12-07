@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Spinda",
         "de": "Spinda",
         "pt-br": "Spinda",
-        "zh-tw": "斯賓達"
+        "zh-tw": "晃晃斑",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",

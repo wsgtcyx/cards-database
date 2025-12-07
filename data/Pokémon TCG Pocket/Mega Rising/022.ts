@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gogoat",
         "de": "Ziege",
         "pt-br": "Cabra",
-        "zh-tw": "戈山羊"
+        "zh-tw": "坐騎山羊",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",

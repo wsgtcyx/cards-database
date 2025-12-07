@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ur-Dialga",
         'pt-br': "DialgaForma Origem",
         ko: "오리진디아루가",
-        "zh-tw": "帝牙盧卡起源"
+        "zh-tw": "起源帝牙盧卡",
     },
     illustrator: "akagi",
     rarity: "Three Diamond",

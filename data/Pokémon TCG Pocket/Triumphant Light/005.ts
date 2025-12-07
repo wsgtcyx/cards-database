@@ -10,7 +10,7 @@ const card: Card = {
         de: "Honweisel",
         'pt-br': "Vespiquen",
         ko: "비퀸",
-        "zh-tw": "維斯皮肯"
+        "zh-tw": "蜂后",
     },
     illustrator: "kawayoo",
     rarity: "Two Diamond",

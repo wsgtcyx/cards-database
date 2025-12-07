@@ -10,7 +10,7 @@ const card: Card = {
         de: "Skunkapuh",
         'pt-br': "Stunky",
         ko: "스컹뿡",
-        "zh-tw": "臭臭"
+        "zh-tw": "臭鼬噗",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

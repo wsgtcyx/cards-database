@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lunastein",
         'pt-br': "Lunatone",
         ko: "루나톤",
-        "zh-tw": "月光"
+        "zh-tw": "月石",
     },
     illustrator: "Hisao Nakamura",
     rarity: "One Diamond",

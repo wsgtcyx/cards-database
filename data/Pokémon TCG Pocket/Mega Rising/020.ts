@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Virizione",
         "de": "Virizion",
         "pt-br": "Virizão",
-        "zh-tw": "維里吉翁"
+        "zh-tw": "畢力吉翁",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",

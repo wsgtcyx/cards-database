@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Colpire il martello",
         "de": "Hammer schlagen",
         "pt-br": "Batendo Martelo",
-        "zh-tw": "擊鎚"
+        "zh-tw": "猛擊之鎚",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Snobilikat",
         'pt-br': "Persiande Alola",
         ko: "알로라페르시온",
-        "zh-tw": "阿羅拉波斯語"
+        "zh-tw": "阿羅拉貓老大",
     },
     illustrator: "kirisAki",
     rarity: "Three Diamond",

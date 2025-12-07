@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Carracosta",
         "de": "Carracosta",
         "pt-br": "Carracosta",
-        "zh-tw": "卡拉科斯塔"
+        "zh-tw": "肋骨海龜",
     },
     illustrator: "match",
     rarity: "Three Diamond",

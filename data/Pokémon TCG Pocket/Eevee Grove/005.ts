@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zareena",
         "de": "Zarin",
         "pt-br": "Tsareena",
-        "zh-tw": "查雷納"
+        "zh-tw": "甜冷美后",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

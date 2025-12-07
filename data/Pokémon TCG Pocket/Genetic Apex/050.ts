@@ -10,7 +10,7 @@ const card: Card = {
         de: "Amfira",
         'pt-br': "Salazzle",
         ko: "염뉴트",
-        "zh-tw": "薩拉澤爾"
+        "zh-tw": "焰后蜥",
     },
     illustrator: "hatachu",
     category: "Pokemon",

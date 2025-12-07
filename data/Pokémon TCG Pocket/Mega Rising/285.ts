@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Gyarados es",
         "de": "Mega Gyarados ex",
         "pt-br": "Mega Gyarados ex",
-        "zh-tw": "巨型暴鯉龍EX"
+        "zh-tw": "超級暴鯉龍 ex",
     },
     illustrator: "danciao",
     rarity: "Three Star",

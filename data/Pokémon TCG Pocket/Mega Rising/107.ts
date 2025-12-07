@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Drifloon",
         "de": "Driftloon",
         "pt-br": "Drifloon",
-        "zh-tw": "飛龍"
+        "zh-tw": "飄飄球",
     },
     illustrator: "Asako Ito",
     rarity: "One Diamond",

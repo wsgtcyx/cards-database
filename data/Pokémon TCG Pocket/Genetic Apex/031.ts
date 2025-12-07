@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mähikel",
         'pt-br': "Skiddo",
         ko: "메이클",
-        "zh-tw": "斯基多"
+        "zh-tw": "咩咩羊",
     },
     illustrator: "Naoki Saito",
     category: "Pokemon",

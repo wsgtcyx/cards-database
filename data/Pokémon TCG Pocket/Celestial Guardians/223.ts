@@ -10,7 +10,7 @@ const card: Card = {
         de: "Machollo",
         'pt-br': "Machop",
         ko: "알통몬",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Shiny",

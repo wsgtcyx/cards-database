@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dratini",
         "de": "Dratini",
         "pt-br": "Dratini",
-        "zh-tw": "德拉蒂尼"
+        "zh-tw": "迷你龍",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

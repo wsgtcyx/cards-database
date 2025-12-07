@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Magby",
         "de": "Magby",
         "pt-br": "Magby",
-        "zh-tw": "馬格比"
+        "zh-tw": "小鴨嘴龍",
     },
     illustrator: "Yukiko Baba",
     rarity: "Three Diamond",

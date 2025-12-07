@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Barraskewda",
         "de": "Barraskewda",
         "pt-br": "Barraskewda",
-        "zh-tw": "巴拉斯科達"
+        "zh-tw": "戽斗尖梭",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",

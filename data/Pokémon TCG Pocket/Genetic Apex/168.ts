@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nidoqueen",
         'pt-br': "Nidoqueen",
         ko: "니드퀸",
-        "zh-tw": "尼多女王"
+        "zh-tw": "尼多后",
     },
     illustrator: "nagimiso",
     category: "Pokemon",

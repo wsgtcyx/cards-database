@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sussurro",
         "de": "Whismur",
         "pt-br": "Sussurro",
-        "zh-tw": "維斯穆爾"
+        "zh-tw": "咕妞妞",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Diamond",

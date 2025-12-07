@@ -10,7 +10,7 @@ const card: Card = {
         de: "Maskeregen",
         'pt-br': "Masquerain",
         ko: "비나방",
-        "zh-tw": "假面舞會"
+        "zh-tw": "雨翅蛾",
     },
     illustrator: "Kanako Eo",
     rarity: "Two Diamond",

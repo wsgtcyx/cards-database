@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Elettrodo",
         "de": "Elektrode",
         "pt-br": "Eletrodo",
-        "zh-tw": "電極"
+        "zh-tw": "頑皮雷彈",
     },
     illustrator: "Scav",
     rarity: "One Shiny",

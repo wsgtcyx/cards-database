@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Jynx",
         "de": "Jynx",
         "pt-br": "Jinx",
-        "zh-tw": "強克斯"
+        "zh-tw": "迷唇姐",
     },
     illustrator: "MAHOU",
     category: "Pokemon",

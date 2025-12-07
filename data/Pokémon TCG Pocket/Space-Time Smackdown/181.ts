@@ -10,7 +10,7 @@ const card: Card = {
         de: "Panferno-ex",
         'pt-br': "Infernape ex",
         ko: "초염몽 ex",
-        "zh-tw": "地獄火EX"
+        "zh-tw": "烈焰猴 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

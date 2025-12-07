@@ -10,7 +10,7 @@ const card: Card = {
         de: "Picochilla",
         'pt-br': "Minccino",
         ko: "치라미",
-        "zh-tw": "明奇諾"
+        "zh-tw": "泡沫栗鼠",
     },
     illustrator: "sui",
     category: "Pokemon",

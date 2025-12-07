@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Herdier",
         "de": "Herdier",
         "pt-br": "Pastor",
-        "zh-tw": "赫爾迪耶"
+        "zh-tw": "哈約克",
     },
     illustrator: "sui",
     rarity: "Two Diamond",

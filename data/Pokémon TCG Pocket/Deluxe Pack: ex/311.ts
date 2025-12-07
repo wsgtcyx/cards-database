@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Interruttore Elementale",
         "de": "Elementarer Schalter",
         "pt-br": "Interruptor Elemental",
-        "zh-tw": "元素開關"
+        "zh-tw": "屬性轉換",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

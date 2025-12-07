@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Toxapex",
         "de": "Toxapex",
         "pt-br": "Toxapex",
-        "zh-tw": "托沙派克斯"
+        "zh-tw": "超壞星",
     },
     illustrator: "Ligton",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Maho",
         'pt-br': "Lulú",
         ko: "마오",
-        "zh-tw": "錦葵"
+        "zh-tw": "瑪奧",
     },
     illustrator: "En Morikura",
     rarity: "Two Diamond",

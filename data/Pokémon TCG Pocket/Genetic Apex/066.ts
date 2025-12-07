@@ -10,7 +10,7 @@ const card: Card = {
         de: "Muschas",
         'pt-br': "Shellder",
         ko: "셀러",
-        "zh-tw": "剝殼者"
+        "zh-tw": "大舌貝",
     },
     illustrator: "Sumiyoshi Kizuki",
     category: "Pokemon",

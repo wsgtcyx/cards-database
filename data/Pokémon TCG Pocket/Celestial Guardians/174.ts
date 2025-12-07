@@ -10,7 +10,7 @@ const card: Card = {
         de: "Meteno",
         'pt-br': "Minior",
         ko: "메테노",
-        "zh-tw": "小型"
+        "zh-tw": "小隕星",
     },
     illustrator: "imoniii",
     rarity: "One Star",

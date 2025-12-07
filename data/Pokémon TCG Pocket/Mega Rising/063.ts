@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Timpano",
         "de": "Trommelfell",
         "pt-br": "Timpole",
-        "zh-tw": "鼓柱"
+        "zh-tw": "圓蝌蚪",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

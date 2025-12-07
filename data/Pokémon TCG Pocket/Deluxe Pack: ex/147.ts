@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Oricorio",
         "de": "Oricorio",
         "pt-br": "Oricório",
-        "zh-tw": "奧里科里奧"
+        "zh-tw": "花舞鳥",
     },
     illustrator: "Jerky",
     rarity: "Three Diamond",

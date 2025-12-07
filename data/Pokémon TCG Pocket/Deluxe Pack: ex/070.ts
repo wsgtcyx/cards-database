@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Torkoal",
         "de": "Torkoal",
         "pt-br": "Torkoal",
-        "zh-tw": "托爾科阿爾"
+        "zh-tw": "煤炭龜",
     },
     illustrator: "sui",
     rarity: "One Diamond",

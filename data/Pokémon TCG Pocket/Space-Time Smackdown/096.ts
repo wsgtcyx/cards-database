@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kramurx",
         'pt-br': "Murkrow",
         ko: "니로우",
-        "zh-tw": "暗鴉"
+        "zh-tw": "黑暗鴉",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Roserade",
         'pt-br': "Roserade",
         ko: "로즈레이드",
-        "zh-tw": "羅斯拉德"
+        "zh-tw": "羅絲雷朵",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",

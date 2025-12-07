@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Skitty",
         "de": "Skitty",
         "pt-br": "Skitty",
-        "zh-tw": "斯基蒂"
+        "zh-tw": "向尾喵",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

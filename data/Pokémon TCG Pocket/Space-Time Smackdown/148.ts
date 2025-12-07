@@ -10,7 +10,7 @@ const card: Card = {
         de: "Beulenhelm",
         'pt-br': "Capacete de Pedra",
         ko: "울퉁불퉁멧",
-        "zh-tw": "洛基頭盔"
+        "zh-tw": "凸凸頭盔",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Panzerfossil",
         'pt-br': "Fóssil Armadura",
         ko: "방패의화석",
-        "zh-tw": "鎧甲化石"
+        "zh-tw": "盾甲化石",
     },
     illustrator: "Toyste Beach",
     rarity: "One Diamond",

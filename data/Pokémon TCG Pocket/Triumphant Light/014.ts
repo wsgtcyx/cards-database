@@ -10,7 +10,7 @@ const card: Card = {
         de: "Marill",
         'pt-br': "Marill",
         ko: "마릴",
-        "zh-tw": "馬里爾"
+        "zh-tw": "瑪力露",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Diamond",

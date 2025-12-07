@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sleimok",
         'pt-br': "Muk",
         ko: "질뻐기",
-        "zh-tw": "穆克"
+        "zh-tw": "臭臭泥",
     },
     illustrator: "Hajime Kusajima",
     category: "Pokemon",

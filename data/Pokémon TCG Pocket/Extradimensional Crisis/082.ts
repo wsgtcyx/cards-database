@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Guardatore",
         "de": "Schauer",
         "pt-br": "Observador",
-        "zh-tw": "觀察者"
+        "zh-tw": "帥哥",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Star",

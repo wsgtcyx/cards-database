@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Porygon",
         "de": "Porygon",
         "pt-br": "Porígon",
-        "zh-tw": "多邊形"
+        "zh-tw": "多邊獸",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Diamond",

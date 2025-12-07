@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pancham",
         "de": "Pancham",
         "pt-br": "Pancham",
-        "zh-tw": "潘查姆"
+        "zh-tw": "頑皮熊貓",
     },
     illustrator: "Yukihiro Tada",
     rarity: "One Star",

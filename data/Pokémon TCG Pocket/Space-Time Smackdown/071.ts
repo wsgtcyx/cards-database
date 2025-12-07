@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zwirrklop",
         'pt-br': "Dusclops",
         ko: "미라몽",
-        "zh-tw": "杜克洛普斯"
+        "zh-tw": "夜巨人",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "Two Diamond",

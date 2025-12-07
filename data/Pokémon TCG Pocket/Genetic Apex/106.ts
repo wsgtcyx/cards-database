@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zebritz",
         'pt-br': "Zebstrika",
         ko: "제브라이카",
-        "zh-tw": "澤布斯特里卡"
+        "zh-tw": "雷電斑馬",
     },
     illustrator: "Misa Tsutsui",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Necrozma delle Ali dell'Aurora",
         "de": "Dawn Wings Necrozma",
         "pt-br": "Necrozma Asas do Amanhecer",
-        "zh-tw": "黎明之翼奈克洛茲瑪"
+        "zh-tw": "奈克洛茲瑪（拂曉之翼）",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",

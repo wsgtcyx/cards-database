@@ -10,7 +10,7 @@ const card: Card = {
         de: "Aranestro",
         'pt-br': "Araquanid",
         ko: "깨비물거미",
-        "zh-tw": "阿拉奎尼德"
+        "zh-tw": "滴蛛霸",
     },
     illustrator: "kodama",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kapu-Fala",
         'pt-br': "Tapu Lele",
         ko: "카푸나비나",
-        "zh-tw": "塔普樂樂"
+        "zh-tw": "卡璞・蝶蝶",
     },
     illustrator: "Misa Tsutsui",
     rarity: "Three Diamond",

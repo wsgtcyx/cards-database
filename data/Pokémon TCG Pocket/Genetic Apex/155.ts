@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nockchan",
         'pt-br': "Hitmonchan",
         ko: "홍수몬",
-        "zh-tw": "希特蒙醬"
+        "zh-tw": "快拳郎",
     },
     illustrator: "Ken Sugimori",
     category: "Pokemon",

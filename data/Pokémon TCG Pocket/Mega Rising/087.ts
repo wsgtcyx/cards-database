@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Luxio",
         "de": "Luxio",
         "pt-br": "Luxo",
-        "zh-tw": "盧西奧"
+        "zh-tw": "勒克貓",
     },
     illustrator: "NC Empire",
     rarity: "Two Diamond",

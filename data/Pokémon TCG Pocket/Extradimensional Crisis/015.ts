@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Luxray",
         "de": "Luxray",
         "pt-br": "Luxray",
-        "zh-tw": "力士瑞"
+        "zh-tw": "倫琴貓",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

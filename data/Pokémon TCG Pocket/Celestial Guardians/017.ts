@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lamellux",
         'pt-br': "Shiinotic",
         ko: "마셰이드",
-        "zh-tw": "椎道"
+        "zh-tw": "燈罩夜菇",
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",

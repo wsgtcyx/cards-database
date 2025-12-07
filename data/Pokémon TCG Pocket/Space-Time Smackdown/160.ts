@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mamutel",
         'pt-br': "Mamoswine",
         ko: "맘모꾸리",
-        "zh-tw": "瑪莫斯威恩"
+        "zh-tw": "象牙豬",
     },
     illustrator: "OKACHEKE",
     rarity: "One Star",

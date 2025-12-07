@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Erika",
         "de": "Erika",
         "pt-br": "Érika",
-        "zh-tw": "埃里卡"
+        "zh-tw": "莉佳",
     },
     illustrator: "kirisAki",
     rarity: "Two Diamond",

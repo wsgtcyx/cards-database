@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Milotico",
         "de": "Milotic",
         "pt-br": "Milótico",
-        "zh-tw": "米洛蒂奇"
+        "zh-tw": "美納斯",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",

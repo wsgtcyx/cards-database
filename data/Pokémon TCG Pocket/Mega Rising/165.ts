@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Grimmsnarl",
         "de": "Grimmsnarl",
         "pt-br": "Grimmsnarl",
-        "zh-tw": "格林斯納爾"
+        "zh-tw": "長毛巨魔",
     },
     illustrator: "DOM",
     rarity: "Three Diamond",

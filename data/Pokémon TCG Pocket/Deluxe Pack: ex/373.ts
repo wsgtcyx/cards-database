@@ -9,7 +9,7 @@ const card: Card = {
         "it": "La ricerca del professore",
         "de": "Forschung des Professors",
         "pt-br": "Pesquisa do Professor",
-        "zh-tw": "教授的研究"
+        "zh-tw": "博士的研究",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Star",

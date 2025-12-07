@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bidiza",
         'pt-br': "Bidoof",
         ko: "비버니",
-        "zh-tw": "比杜夫"
+        "zh-tw": "大牙狸",
     },
     illustrator: "Kouki Saitou",
     rarity: "None",

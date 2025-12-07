@@ -10,7 +10,7 @@ const card: Card = {
         de: "Turtok-ex",
         ko: "거북왕 ex",
         'pt-br': "Blastoise ex",
-        "zh-tw": "囊胚EX"
+        "zh-tw": "水箭龜 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

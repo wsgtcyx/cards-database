@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bisaknosp",
         'pt-br': "Ivysaur",
         ko: "이상해풀",
-        "zh-tw": "常春藤屬"
+        "zh-tw": "妙蛙草",
     },
     illustrator: "Ryuta Fuse",
     rarity: "One Shiny",

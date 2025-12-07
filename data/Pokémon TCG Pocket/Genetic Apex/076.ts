@@ -10,7 +10,7 @@ const card: Card = {
         de: "Starmie-ex",
         'pt-br': "Starmie ex",
         ko: "아쿠스타 ex",
-        "zh-tw": "海星EX"
+        "zh-tw": "寶石海星 ex",
     },
     illustrator: "PLANETA Igarashi",
     category: "Pokemon",

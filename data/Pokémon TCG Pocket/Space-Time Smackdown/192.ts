@@ -10,7 +10,7 @@ const card: Card = {
         de: "Cynthia",
         'pt-br': "Cíntia",
         ko: "난천",
-        "zh-tw": "辛西婭"
+        "zh-tw": "竹蘭",
     },
     illustrator: "Ryuta Fuse",
     rarity: "Two Star",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dodrio",
         "de": "Dodrio",
         "pt-br": "Dodrio",
-        "zh-tw": "多德里奧"
+        "zh-tw": "嘟嘟利",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

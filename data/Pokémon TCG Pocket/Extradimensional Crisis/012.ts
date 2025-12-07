@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sharpedo",
         "de": "Sharpedo",
         "pt-br": "Sharpedo",
-        "zh-tw": "沙佩多"
+        "zh-tw": "巨牙鯊",
     },
     illustrator: "Yumi",
     rarity: "Two Diamond",

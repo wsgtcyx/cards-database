@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dinamo",
         "de": "Tynamo",
         "pt-br": "Tínamo",
-        "zh-tw": "蒂納莫"
+        "zh-tw": "麻麻小魚",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",

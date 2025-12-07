@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mopex",
         'pt-br': "Cyclizar",
         ko: "모토마",
-        "zh-tw": "環化劑"
+        "zh-tw": "摩托蜥",
     },
     illustrator: "Shigenori Negishi",
     rarity: "None",

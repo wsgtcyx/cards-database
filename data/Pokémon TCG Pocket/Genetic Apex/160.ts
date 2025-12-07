@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lin-Fu",
         'pt-br': "Mienfoo",
         ko: "비조푸",
-        "zh-tw": "米恩富"
+        "zh-tw": "功夫鼬",
     },
     illustrator: "match",
     category: "Pokemon",

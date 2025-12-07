@@ -10,7 +10,7 @@ const card: Card = {
         de: "Austos",
         'pt-br': "Cloyster",
         ko: "파르셀",
-        "zh-tw": "克萊斯特"
+        "zh-tw": "刺甲貝",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",

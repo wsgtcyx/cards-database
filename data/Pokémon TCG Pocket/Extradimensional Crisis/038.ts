@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Persiano di Alola",
         "de": "Alolan-Persisch",
         "pt-br": "Persa de Alola",
-        "zh-tw": "阿羅拉波斯語"
+        "zh-tw": "阿羅拉貓老大",
     },
     illustrator: "ryoma uratsuka",
     rarity: "Two Diamond",

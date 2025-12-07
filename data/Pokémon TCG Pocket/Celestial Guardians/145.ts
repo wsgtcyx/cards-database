@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rotom-Pokédex",
         'pt-br': "Pokédex Rotom",
         ko: "로토무도감",
-        "zh-tw": "洛托姆德克斯"
+        "zh-tw": "洛托姆圖鑑",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",

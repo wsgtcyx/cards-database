@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cherubini",
         "de": "Cherubi",
         "pt-br": "Querubim",
-        "zh-tw": "切魯比"
+        "zh-tw": "櫻花寶",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

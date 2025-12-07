@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ekans",
         "de": "Ekans",
         "pt-br": "Ekans",
-        "zh-tw": "埃肯斯"
+        "zh-tw": "阿柏蛇",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "One Shiny",

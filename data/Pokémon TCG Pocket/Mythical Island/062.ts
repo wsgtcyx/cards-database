@@ -10,7 +10,7 @@ const card: Card = {
         de: "Plaudagei",
         'pt-br': "Chatot",
         ko: "페라페",
-        "zh-tw": "查托特"
+        "zh-tw": "聒噪鳥",
     },
     illustrator: "Masako Tomii",
     category: "Pokemon",

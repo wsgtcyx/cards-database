@@ -10,7 +10,7 @@ const card: Card = {
         de: "Luxio",
         'pt-br': "Luxio",
         ko: "럭시오",
-        "zh-tw": "盧西奧"
+        "zh-tw": "勒克貓",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Rillaboom",
         "de": "Rillaboom",
         "pt-br": "Rillaboom",
-        "zh-tw": "瑞拉布姆"
+        "zh-tw": "轟擂金剛猩",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",

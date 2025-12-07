@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Corsola Galariano",
         "de": "Galar-Corsola",
         "pt-br": "Córsola de Galar",
-        "zh-tw": "加拉安·科索拉"
+        "zh-tw": "伽勒爾太陽珊瑚",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

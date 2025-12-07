@@ -10,7 +10,7 @@ const card: Card = {
         de: "Meditalis",
         'pt-br': "Medicham",
         ko: "요가램",
-        "zh-tw": "麥迪查姆"
+        "zh-tw": "恰雷姆",
     },
     illustrator: "Tetsu Kayama",
     rarity: "Two Diamond",

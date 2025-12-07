@@ -10,7 +10,7 @@ const card: Card = {
         de: "Glibunkel",
         'pt-br': "Croagunk",
         ko: "삐딱구리",
-        "zh-tw": "克羅阿貢克"
+        "zh-tw": "不良蛙",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "One Diamond",

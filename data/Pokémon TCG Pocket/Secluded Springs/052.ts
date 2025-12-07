@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Malamar",
         "de": "Malamar",
         "pt-br": "Malamar",
-        "zh-tw": "馬拉馬爾"
+        "zh-tw": "烏賊王",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Two Diamond",

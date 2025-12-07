@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schalellos",
         'pt-br': "Shellos",
         ko: "깝질무",
-        "zh-tw": "謝洛斯"
+        "zh-tw": "無殼海牛",
     },
     illustrator: "Teeziro",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gothorita",
         "de": "Gothorita",
         "pt-br": "Gothorita",
-        "zh-tw": "哥托里塔"
+        "zh-tw": "哥德小童",
     },
     illustrator: "sowsow",
     rarity: "Two Diamond",

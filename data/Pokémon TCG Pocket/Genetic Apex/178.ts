@@ -10,7 +10,7 @@ const card: Card = {
         de: "Flunkifer",
         'pt-br': "Mawile",
         ko: "입치트",
-        "zh-tw": "馬維勒"
+        "zh-tw": "大嘴娃",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

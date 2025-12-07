@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cottonee",
         "de": "Cottonee",
         "pt-br": "Algodão",
-        "zh-tw": "科托尼"
+        "zh-tw": "木棉球",
     },
     illustrator: "Yuka Tanaka",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Flamiau",
         'pt-br': "Litten",
         ko: "냐오불",
-        "zh-tw": "利滕"
+        "zh-tw": "火斑喵",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Incineroar",
         "de": "Verbrennungsanlage",
         "pt-br": "Incineroar",
-        "zh-tw": "焚火咆哮"
+        "zh-tw": "熾焰咆哮虎",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Two Diamond",

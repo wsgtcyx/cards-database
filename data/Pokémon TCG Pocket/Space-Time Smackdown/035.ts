@@ -10,7 +10,7 @@ const card: Card = {
         de: "Plinfa",
         'pt-br': "Piplup",
         ko: "팽도리",
-        "zh-tw": "皮普拉普"
+        "zh-tw": "波加曼",
     },
     illustrator: "Hajime Kusajima",
     rarity: "One Diamond",

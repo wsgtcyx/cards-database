@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Aromatizza",
         "de": "Aromatisse",
         "pt-br": "Aromatizante",
-        "zh-tw": "芳香劑"
+        "zh-tw": "芳香精",
     },
     illustrator: "kirisAki",
     rarity: "Two Diamond",

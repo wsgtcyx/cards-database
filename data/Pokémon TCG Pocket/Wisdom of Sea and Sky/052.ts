@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Quagsire",
         "de": "Quagsire",
         "pt-br": "Quagsire",
-        "zh-tw": "誇格斯雷"
+        "zh-tw": "沼王",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",

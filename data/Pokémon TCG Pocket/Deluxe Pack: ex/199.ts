@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sudowoodo",
         "de": "Sudowoodo",
         "pt-br": "Sudowoodo",
-        "zh-tw": "須多木多"
+        "zh-tw": "樹才怪",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",

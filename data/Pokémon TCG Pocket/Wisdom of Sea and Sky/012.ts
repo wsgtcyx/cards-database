@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lediano",
         "de": "Ledian",
         "pt-br": "Lediano",
-        "zh-tw": "樂典"
+        "zh-tw": "安瓢蟲",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",

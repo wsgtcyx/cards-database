@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lilminip",
         'pt-br': "Petilil",
         ko: "치릴리",
-        "zh-tw": "佩蒂利爾"
+        "zh-tw": "百合根娃娃",
     },
     illustrator: "Naoyo Kimura",
     category: "Pokemon",

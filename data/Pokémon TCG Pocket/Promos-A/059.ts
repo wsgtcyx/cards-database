@@ -10,7 +10,7 @@ const card: Card = {
         de: "Riolu",
         'pt-br': "Riolu",
         ko: "리오르",
-        "zh-tw": "利奧盧"
+        "zh-tw": "利歐路",
     },
     illustrator: "Akira Komayama",
     rarity: "None",

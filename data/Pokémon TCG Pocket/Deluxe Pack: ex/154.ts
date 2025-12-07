@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Infestatore",
         "de": "Haunter",
         "pt-br": "Assombrado",
-        "zh-tw": "鬼魂"
+        "zh-tw": "鬼斯通",
     },
     illustrator: "Nisota Niso",
     rarity: "Two Diamond",

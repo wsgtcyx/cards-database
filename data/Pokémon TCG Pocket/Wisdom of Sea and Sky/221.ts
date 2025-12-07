@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mankey",
         "de": "Mankey",
         "pt-br": "Mankey",
-        "zh-tw": "曼基"
+        "zh-tw": "猴怪",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

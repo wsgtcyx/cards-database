@@ -10,7 +10,7 @@ const card: Card = {
         de: "Elektek",
         'pt-br': "Electabuzz",
         ko: "에레브",
-        "zh-tw": "電擊器"
+        "zh-tw": "電擊獸",
     },
     illustrator: "Ryuta Fuse",
     category: "Pokemon",

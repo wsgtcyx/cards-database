@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Klink",
         "de": "Klink",
         "pt-br": "Klink",
-        "zh-tw": "克林克"
+        "zh-tw": "齒輪兒",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

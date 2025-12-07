@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rexblisar",
         'pt-br': "Abomasnow",
         ko: "눈설왕",
-        "zh-tw": "阿博馬斯諾"
+        "zh-tw": "暴雪王",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",

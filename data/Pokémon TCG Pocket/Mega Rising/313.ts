@@ -9,7 +9,7 @@ const card: Card = {
         "it": "persiano",
         "de": "persisch",
         "pt-br": "persa",
-        "zh-tw": "波斯語"
+        "zh-tw": "貓老大",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Onix",
         'pt-br': "Onix",
         ko: "롱스톤",
-        "zh-tw": "奧尼克斯"
+        "zh-tw": "大岩蛇",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "None",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Parasek",
         'pt-br': "Parasect",
         ko: "파라섹트",
-        "zh-tw": "帕拉塞克特"
+        "zh-tw": "派拉斯特",
     },
     illustrator: "Eri Yamaki",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Feraligatr",
         "de": "Feraligatr",
         "pt-br": "Feraligatr",
-        "zh-tw": "菲拉利加特"
+        "zh-tw": "大力鱷",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",

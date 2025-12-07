@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tentacha",
         'pt-br': "Tentacool",
         ko: "왕눈해",
-        "zh-tw": "坦塔酷"
+        "zh-tw": "瑪瑙水母",
     },
     illustrator: "Shinya Komatsu",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Keldeo",
         "de": "Keldeo",
         "pt-br": "Keldeo",
-        "zh-tw": "凱爾迪歐"
+        "zh-tw": "凱路迪歐",
     },
     illustrator: "Takeshi Nakamura",
     rarity: "Three Diamond",

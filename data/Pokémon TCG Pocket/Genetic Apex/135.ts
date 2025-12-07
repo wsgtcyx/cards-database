@@ -10,7 +10,7 @@ const card: Card = {
         de: "Golbit",
         'pt-br': "Golett",
         ko: "골비람",
-        "zh-tw": "戈萊特"
+        "zh-tw": "泥偶小人",
     },
     illustrator: "Kyoko Umemoto",
     category: "Pokemon",

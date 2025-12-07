@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Skwovet",
         "de": "Skwovet",
         "pt-br": "Skwovet",
-        "zh-tw": "斯克沃維特"
+        "zh-tw": "貪心栗鼠",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

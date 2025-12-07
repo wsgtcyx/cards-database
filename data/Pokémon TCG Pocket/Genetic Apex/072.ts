@@ -10,7 +10,7 @@ const card: Card = {
         de: "Goldini",
         'pt-br': "Goldeen",
         ko: "콘치",
-        "zh-tw": "金色"
+        "zh-tw": "角金魚",
     },
     illustrator: "Kyoko Umemoto",
     category: "Pokemon",

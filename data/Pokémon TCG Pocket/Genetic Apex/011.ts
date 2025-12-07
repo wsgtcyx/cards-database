@@ -10,7 +10,7 @@ const card: Card = {
         de: "Myrapla",
         'pt-br': "Oddish",
         ko: "뚜벅쵸",
-        "zh-tw": "古怪的"
+        "zh-tw": "走路草",
     },
     illustrator: "HYOGONOSUKE",
     category: "Pokemon",

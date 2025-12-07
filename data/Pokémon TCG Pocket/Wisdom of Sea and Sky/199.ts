@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pescatore",
         "de": "Fischer",
         "pt-br": "Pescador",
-        "zh-tw": "費舍爾"
+        "zh-tw": "釣魚老手",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Two Star",

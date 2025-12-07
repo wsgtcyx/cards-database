@@ -10,7 +10,7 @@ const card: Card = {
         de: "Moruda-ex",
         'pt-br': "Dhelmise ex",
         ko: "타타륜 ex",
-        "zh-tw": "德赫米斯·EX"
+        "zh-tw": "破破舵輪 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Star",

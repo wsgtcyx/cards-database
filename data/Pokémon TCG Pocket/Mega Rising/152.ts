@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Skorupi",
         "de": "Skorupi",
         "pt-br": "Skorupi",
-        "zh-tw": "斯科魯皮"
+        "zh-tw": "紫天蠍",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

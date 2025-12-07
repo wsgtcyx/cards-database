@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wie-Shu",
         'pt-br': "Mienshao",
         ko: "비조도",
-        "zh-tw": "面哨"
+        "zh-tw": "師父鼬",
     },
     illustrator: "Atsuko Nishida",
     category: "Pokemon",

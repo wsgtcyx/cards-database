@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zobiris",
         'pt-br': "Sableye",
         ko: "깜까미",
-        "zh-tw": "黑貂眼"
+        "zh-tw": "勾魂眼",
     },
     illustrator: "Aya Kusube",
     rarity: "Two Diamond",

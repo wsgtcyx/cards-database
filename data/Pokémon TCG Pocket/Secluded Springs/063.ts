@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Azuril",
         "de": "Azurill",
         "pt-br": "Azurill",
-        "zh-tw": "阿祖瑞爾"
+        "zh-tw": "露力麗",
     },
     illustrator: "Rond",
     rarity: "Three Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Torracat",
         "de": "Torracat",
         "pt-br": "Torracat",
-        "zh-tw": "托拉卡特"
+        "zh-tw": "炎熱喵",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",

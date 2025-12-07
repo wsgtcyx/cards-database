@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Kangaskhan",
         "de": "Kangaschan",
         "pt-br": "Kangaskhan",
-        "zh-tw": "坎加斯坎"
+        "zh-tw": "袋獸",
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",

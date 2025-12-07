@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fleknoil",
         'pt-br': "Woobat",
         ko: "또르박쥐",
-        "zh-tw": "烏巴特"
+        "zh-tw": "滾滾蝙蝠",
     },
     illustrator: "MAHOU",
     category: "Pokemon",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Machamp ex",
         "de": "Machamp ex",
         "pt-br": "Ex-Machamp",
-        "zh-tw": "馬尚EX"
+        "zh-tw": "怪力 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

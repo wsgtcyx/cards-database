@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rocko",
         'pt-br': "Brock",
         ko: "웅",
-        "zh-tw": "布羅克"
+        "zh-tw": "小剛",
     },
     illustrator: "Taira Akitsu",
     category: "Trainer",

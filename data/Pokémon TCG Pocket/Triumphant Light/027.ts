@@ -10,7 +10,7 @@ const card: Card = {
         de: "Frizelbliz",
         'pt-br': "Electrike",
         ko: "썬더라이",
-        "zh-tw": "電動車"
+        "zh-tw": "落雷獸",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",

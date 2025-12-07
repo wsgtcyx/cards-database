@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Serperior",
         "de": "Serperior",
         "pt-br": "Serperior",
-        "zh-tw": "蛇佩里奧爾"
+        "zh-tw": "君主蛇",
     },
     illustrator: "Yoshioka",
     rarity: "Three Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Scizor",
         "de": "Scherz",
         "pt-br": "Scizor",
-        "zh-tw": "剪刀"
+        "zh-tw": "巨鉗螳螂",
     },
     illustrator: "Ryuta Fuse",
     rarity: "Three Diamond",

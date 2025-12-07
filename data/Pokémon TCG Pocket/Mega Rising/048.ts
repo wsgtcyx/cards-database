@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Psyduck",
         "de": "Psyduck",
         "pt-br": "Psicoduck",
-        "zh-tw": "迷幻鴨"
+        "zh-tw": "可達鴨",
     },
     illustrator: "nagimiso",
     rarity: "One Diamond",

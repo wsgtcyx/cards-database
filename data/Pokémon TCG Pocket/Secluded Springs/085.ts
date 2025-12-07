@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Morty",
         "de": "Morty",
         "pt-br": "Morty",
-        "zh-tw": "莫蒂"
+        "zh-tw": "松葉",
     },
     illustrator: "Teeziro",
     rarity: "Two Star",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Druddigon",
         "de": "Druddigon",
         "pt-br": "Druddigon",
-        "zh-tw": "德魯迪貢"
+        "zh-tw": "赤面龍",
     },
     illustrator: "hatachu",
     rarity: "One Diamond",

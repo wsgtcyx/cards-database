@@ -10,7 +10,7 @@ const card: Card = {
         de: "Donarion",
         'pt-br': "Vikavolt",
         ko: "투구뿌논",
-        "zh-tw": "維卡伏特"
+        "zh-tw": "鍬農炮蟲",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",

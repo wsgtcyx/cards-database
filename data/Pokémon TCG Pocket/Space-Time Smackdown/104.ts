@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kryppuk",
         'pt-br': "Spiritomb",
         ko: "화강돌",
-        "zh-tw": "靈墓"
+        "zh-tw": "花岩怪",
     },
     illustrator: "HYOGONOSUKE",
     rarity: "Two Diamond",

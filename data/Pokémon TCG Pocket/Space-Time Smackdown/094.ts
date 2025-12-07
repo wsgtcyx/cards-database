@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hippoterus",
         'pt-br': "Hippowdon",
         ko: "하마돈",
-        "zh-tw": "河馬"
+        "zh-tw": "河馬獸",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "Two Diamond",

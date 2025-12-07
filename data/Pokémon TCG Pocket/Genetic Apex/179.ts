@@ -10,7 +10,7 @@ const card: Card = {
         de: "Gladiantri",
         'pt-br': "Pawniard",
         ko: "자망칼",
-        "zh-tw": "典當者"
+        "zh-tw": "駒刀小兵",
     },
     illustrator: "Kouki Saitou",
     category: "Pokemon",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Impoleon",
         'pt-br': "Empoleon",
         ko: "엠페르트",
-        "zh-tw": "恩波隆"
+        "zh-tw": "帝王拿波",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Three Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knakrack",
         'pt-br': "Garchomp",
         ko: "한카리아스",
-        "zh-tw": "加喬普"
+        "zh-tw": "烈咬陸鯊",
     },
     illustrator: "MINAMINAMI Take",
     rarity: "One Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Entoron",
         'pt-br': "Golduck",
         ko: "골덕",
-        "zh-tw": "戈達克"
+        "zh-tw": "哥達鴨",
     },
     illustrator: "Naoki Saito",
     category: "Pokemon",

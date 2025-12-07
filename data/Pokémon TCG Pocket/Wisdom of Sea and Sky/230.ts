@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lickitung",
         "de": "Lecken",
         "pt-br": "Lickitung",
-        "zh-tw": "利基通"
+        "zh-tw": "大舌頭",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

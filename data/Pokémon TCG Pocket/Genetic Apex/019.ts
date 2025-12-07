@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ultrigaria",
         'pt-br': "Weepinbell",
         ko: "우츠동",
-        "zh-tw": "威平貝爾"
+        "zh-tw": "口呆花",
     },
     illustrator: "Miki Tanaka",
     category: "Pokemon",

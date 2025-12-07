@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Breloom",
         "de": "Breloom",
         "pt-br": "Breloom",
-        "zh-tw": "布雷盧姆"
+        "zh-tw": "斗笠菇",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Zangoose",
         "de": "Zangoose",
         "pt-br": "Zangoose",
-        "zh-tw": "贊古斯"
+        "zh-tw": "貓鼬斬",
     },
     illustrator: "Misa Tsutsui",
     rarity: "Two Diamond",

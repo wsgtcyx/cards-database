@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Drowzee",
         "de": "Drowzee",
         "pt-br": "Drowzee",
-        "zh-tw": "卓爾茲"
+        "zh-tw": "催眠貘",
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tukanon",
         'pt-br': "Toucannon",
         ko: "왕큰부리",
-        "zh-tw": "巨嘴鳥"
+        "zh-tw": "銃嘴大鳥",
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

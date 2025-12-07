@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rihorn",
         'pt-br': "Rhyhorn",
         ko: "뿔카노",
-        "zh-tw": "犀牛角"
+        "zh-tw": "獨角犀牛",
     },
     illustrator: "otumami",
     rarity: "One Diamond",

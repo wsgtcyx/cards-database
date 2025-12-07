@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Inkay",
         "de": "Inkay",
         "pt-br": "Inkay",
-        "zh-tw": "印凱"
+        "zh-tw": "豪喇花枝",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",

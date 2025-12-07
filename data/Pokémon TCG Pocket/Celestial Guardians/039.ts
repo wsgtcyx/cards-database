@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Sandamer",
         'pt-br': "Sandslashde Alola",
         ko: "알로라고지",
-        "zh-tw": "阿羅拉沙斬"
+        "zh-tw": "阿羅拉穿山王",
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",

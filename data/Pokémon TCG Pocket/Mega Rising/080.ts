@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Eiscue",
         "de": "Eiswürfel",
         "pt-br": "Eiscué",
-        "zh-tw": "埃伊斯庫埃"
+        "zh-tw": "冰砌鵝",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

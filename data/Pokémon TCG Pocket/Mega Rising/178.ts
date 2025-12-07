@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sligoo",
         "de": "Sliggoo",
         "pt-br": "Sliggoo",
-        "zh-tw": "斯利古"
+        "zh-tw": "黏美伊兒",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",

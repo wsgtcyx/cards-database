@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Nihilego",
         "de": "Nihilego",
         "pt-br": "Nihilego",
-        "zh-tw": "虛無"
+        "zh-tw": "虛吾伊德",
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Crown",

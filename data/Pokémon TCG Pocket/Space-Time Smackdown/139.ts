@@ -10,7 +10,7 @@ const card: Card = {
         de: "Charmian",
         'pt-br': "Glameow",
         ko: "나옹마",
-        "zh-tw": "格拉梅烏"
+        "zh-tw": "魅力喵",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",

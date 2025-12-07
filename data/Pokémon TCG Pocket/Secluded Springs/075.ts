@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lazio",
         "de": "Latios",
         "pt-br": "Lácio",
-        "zh-tw": "拉蒂奧斯"
+        "zh-tw": "拉帝歐斯",
     },
     illustrator: "kodama",
     rarity: "One Star",

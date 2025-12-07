@@ -10,7 +10,7 @@ const card: Card = {
         de: "Grandiras",
         'pt-br': "Kommo-o",
         ko: "짜랑고우거",
-        "zh-tw": "科莫奧"
+        "zh-tw": "杖尾鱗甲龍",
     },
     illustrator: "hatachu",
     rarity: "Three Diamond",

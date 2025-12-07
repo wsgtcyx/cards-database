@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Alcremie",
         "de": "Alcremie",
         "pt-br": "Alcremie",
-        "zh-tw": "阿爾克雷米"
+        "zh-tw": "霜奶仙",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Star",

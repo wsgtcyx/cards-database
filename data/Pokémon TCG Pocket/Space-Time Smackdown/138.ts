@@ -10,7 +10,7 @@ const card: Card = {
         de: "Schlapor",
         'pt-br': "Lopunny",
         ko: "이어롭",
-        "zh-tw": "垂耳兔"
+        "zh-tw": "長耳兔",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",

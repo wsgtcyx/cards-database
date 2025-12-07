@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Granbull",
         "de": "Granbull",
         "pt-br": "Granbull",
-        "zh-tw": "格蘭布爾"
+        "zh-tw": "布盧皇",
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",

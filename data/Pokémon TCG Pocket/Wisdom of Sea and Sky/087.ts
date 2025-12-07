@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Girafarig",
         "de": "Girafarig",
         "pt-br": "Girafarig",
-        "zh-tw": "吉拉法里格"
+        "zh-tw": "麒麟奇",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

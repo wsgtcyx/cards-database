@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Vanillish",
         "de": "Vanillin",
         "pt-br": "Vanilizado",
-        "zh-tw": "香草味"
+        "zh-tw": "多多冰",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",

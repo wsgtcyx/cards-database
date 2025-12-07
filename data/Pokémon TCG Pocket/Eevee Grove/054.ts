@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Drampa",
         "de": "Drampa",
         "pt-br": "Drampa",
-        "zh-tw": "卓巴"
+        "zh-tw": "老翁龍",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Two Diamond",

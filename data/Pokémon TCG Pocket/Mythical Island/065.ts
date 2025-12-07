@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mythische Tafel",
         'pt-br': "Placa Mística",
         ko: "환상의 석판",
-        "zh-tw": "神話石板"
+        "zh-tw": "幻之石板",
     },
     illustrator: "AYUMI ODASHIMA",
     category: "Trainer",

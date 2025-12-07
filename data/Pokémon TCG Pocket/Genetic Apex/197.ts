@@ -10,7 +10,7 @@ const card: Card = {
         de: "Snobilikat",
         'pt-br': "Persian",
         ko: "페르시온",
-        "zh-tw": "波斯語"
+        "zh-tw": "貓老大",
     },
     illustrator: "nagimiso",
     category: "Pokemon",

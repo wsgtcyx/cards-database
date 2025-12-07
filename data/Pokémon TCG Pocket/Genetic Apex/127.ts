@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rossana",
         'pt-br': "Jynx",
         ko: "루주라",
-        "zh-tw": "強克斯"
+        "zh-tw": "迷唇姐",
     },
     illustrator: "Oswaldo KATO",
     category: "Pokemon",

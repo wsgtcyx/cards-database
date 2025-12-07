@@ -10,7 +10,7 @@ const card: Card = {
         de: "Phione",
         'pt-br': "Phione",
         ko: "피오네",
-        "zh-tw": "菲奧內"
+        "zh-tw": "霏歐納",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",

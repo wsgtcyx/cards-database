@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pantimos",
         'pt-br': "Mr. Mime",
         ko: "마임맨",
-        "zh-tw": "啞劇先生"
+        "zh-tw": "魔牆人偶",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

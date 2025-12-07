@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Torchic",
         "de": "Torchisch",
         "pt-br": "Tocha",
-        "zh-tw": "火炬"
+        "zh-tw": "火稚雞",
     },
     illustrator: "GOSSAN",
     rarity: "One Diamond",

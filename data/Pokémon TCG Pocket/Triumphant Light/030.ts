@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pixi",
         'pt-br': "Clefable",
         ko: "픽시",
-        "zh-tw": "克萊夫布爾"
+        "zh-tw": "皮可西",
     },
     illustrator: "sui",
     rarity: "Two Diamond",

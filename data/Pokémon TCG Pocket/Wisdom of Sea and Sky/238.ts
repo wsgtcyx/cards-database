@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Weavile es",
         "de": "Weavile ex",
         "pt-br": "Ex Weavile",
-        "zh-tw": "韋維爾前夫"
+        "zh-tw": "瑪狃拉 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

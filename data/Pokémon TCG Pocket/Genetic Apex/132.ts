@@ -10,7 +10,7 @@ const card: Card = {
         de: "Guardevoir",
         'pt-br': "Gardevoir",
         ko: "가디안",
-        "zh-tw": "加爾德瓦"
+        "zh-tw": "沙奈朵",
     },
     illustrator: "Yuu Nishida",
     category: "Pokemon",

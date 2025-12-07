@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Barboach",
         "de": "Barboach",
         "pt-br": "Barboach",
-        "zh-tw": "巴博阿奇"
+        "zh-tw": "泥泥鰍",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",

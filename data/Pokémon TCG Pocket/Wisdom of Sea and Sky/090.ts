@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Munna",
         "de": "Munna",
         "pt-br": "Munna",
-        "zh-tw": "穆納"
+        "zh-tw": "食夢夢",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",

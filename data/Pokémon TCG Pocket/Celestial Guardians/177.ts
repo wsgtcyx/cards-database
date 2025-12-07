@@ -10,7 +10,7 @@ const card: Card = {
         de: "Peppeck",
         'pt-br': "Pikipek",
         ko: "콕코구리",
-        "zh-tw": "皮基佩克"
+        "zh-tw": "小篤兒",
     },
     illustrator: "Narumi Sato",
     rarity: "One Star",

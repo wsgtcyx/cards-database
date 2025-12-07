@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Houndour",
         "de": "Hundour",
         "pt-br": "Cão de caça",
-        "zh-tw": "獵犬"
+        "zh-tw": "戴魯比",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

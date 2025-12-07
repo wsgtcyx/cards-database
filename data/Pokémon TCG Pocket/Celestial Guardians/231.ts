@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kokowei-ex",
         'pt-br': "Exeggutor ex",
         ko: "나시 ex",
-        "zh-tw": "椰棗EX"
+        "zh-tw": "椰蛋樹 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

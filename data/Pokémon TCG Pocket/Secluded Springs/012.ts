@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Talonflame",
         "de": "Krallenflamme",
         "pt-br": "Talonflame",
-        "zh-tw": "爪焰"
+        "zh-tw": "烈箭鶲",
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",

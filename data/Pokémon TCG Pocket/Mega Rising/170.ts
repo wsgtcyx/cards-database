@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Honedge",
         "de": "Honedge",
         "pt-br": "Honedge",
-        "zh-tw": "霍內奇"
+        "zh-tw": "獨劍鞘",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",

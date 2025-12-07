@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Unown",
         "de": "Unbekannt",
         "pt-br": "Desconhecido",
-        "zh-tw": "未知"
+        "zh-tw": "未知圖騰",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zirpeise",
         'pt-br': "Kricketune",
         ko: "귀뚤톡크",
-        "zh-tw": "踢球曲"
+        "zh-tw": "音箱蟀",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

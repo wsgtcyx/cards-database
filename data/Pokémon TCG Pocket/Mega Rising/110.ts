@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Yamask",
         "de": "Yamask",
         "pt-br": "Yamask",
-        "zh-tw": "雅馬斯克"
+        "zh-tw": "哭哭面具",
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",

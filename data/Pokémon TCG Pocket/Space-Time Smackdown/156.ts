@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tangoloss",
         'pt-br': "Tangrowth",
         ko: "덩쿠림보",
-        "zh-tw": "唐格魯斯"
+        "zh-tw": "巨蔓藤",
     },
     illustrator: "Saboteri",
     rarity: "One Star",

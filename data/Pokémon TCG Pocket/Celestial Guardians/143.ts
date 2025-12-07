@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fischernetz",
         'pt-br': "Rede de Pesca",
         ko: "물고기네트",
-        "zh-tw": "魚網"
+        "zh-tw": "捕魚網",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

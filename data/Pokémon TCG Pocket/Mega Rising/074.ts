@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bergmite",
         "de": "Bergmite",
         "pt-br": "Bergmite",
-        "zh-tw": "伯格米特"
+        "zh-tw": "冰寶",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

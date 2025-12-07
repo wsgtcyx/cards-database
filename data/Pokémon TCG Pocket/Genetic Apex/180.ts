@@ -10,7 +10,7 @@ const card: Card = {
         de: "Caesurio",
         'pt-br': "Bisharp",
         ko: "절각참",
-        "zh-tw": "比夏普"
+        "zh-tw": "劈斬司令",
     },
     illustrator: "Anesaki Dynamic",
     category: "Pokemon",

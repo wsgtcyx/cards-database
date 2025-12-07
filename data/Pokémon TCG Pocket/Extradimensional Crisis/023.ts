@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Clefable",
         "de": "Schlüsselbar",
         "pt-br": "Clefável",
-        "zh-tw": "克萊夫布爾"
+        "zh-tw": "皮可西",
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",

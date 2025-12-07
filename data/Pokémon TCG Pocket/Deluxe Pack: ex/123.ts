@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wishiwashi",
         "de": "Wishiwashi",
         "pt-br": "Wishiwashi",
-        "zh-tw": "願望和希"
+        "zh-tw": "弱丁魚",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

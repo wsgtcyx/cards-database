@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Onice",
         "de": "Onix",
         "pt-br": "Ônix",
-        "zh-tw": "奧尼克斯"
+        "zh-tw": "大岩蛇",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "One Diamond",

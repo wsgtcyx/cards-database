@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Celebi ex",
         "de": "Celebi ex",
         "pt-br": "Celebi ex",
-        "zh-tw": "雪拉比EX"
+        "zh-tw": "時拉比 ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

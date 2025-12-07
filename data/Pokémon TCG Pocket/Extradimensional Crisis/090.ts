@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Arcano",
         "de": "Arkani",
         "pt-br": "Arcano",
-        "zh-tw": "阿爾卡寧"
+        "zh-tw": "風速狗",
     },
     illustrator: "Saya Tsuruta",
     category: "Pokemon",

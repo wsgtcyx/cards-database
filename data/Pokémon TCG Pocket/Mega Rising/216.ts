@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Copertina Fossile",
         "de": "Fossil abdecken",
         "pt-br": "Capa Fóssil",
-        "zh-tw": "封面化石"
+        "zh-tw": "背蓋化石",
     },
     illustrator: "Ryo Ueda",
     rarity: "One Diamond",

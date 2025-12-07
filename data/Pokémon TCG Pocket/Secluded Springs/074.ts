@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Yamper",
         "de": "Yamper",
         "pt-br": "Yamper",
-        "zh-tw": "雅珀"
+        "zh-tw": "來電汪",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Star",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Diglett di Alola",
         "de": "Alolan Diglett",
         "pt-br": "Alola Diglett",
-        "zh-tw": "阿羅蘭·迪格利特"
+        "zh-tw": "阿羅拉地鼠",
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",

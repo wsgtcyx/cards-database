@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lombre",
         "de": "Lombard",
         "pt-br": "Lombre",
-        "zh-tw": "隆布爾"
+        "zh-tw": "蓮帽小童",
     },
     illustrator: "miki kudo",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Crosta",
         "de": "Crustle",
         "pt-br": "Crosta",
-        "zh-tw": "脆皮"
+        "zh-tw": "岩殿居蟹",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

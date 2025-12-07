@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ariadi",
         "de": "Ariados",
         "pt-br": "Ariados",
-        "zh-tw": "阿里亞多斯"
+        "zh-tw": "阿利多斯",
     },
     illustrator: "Shinji Kanda",
     rarity: "Two Diamond",

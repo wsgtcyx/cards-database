@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gelsomino",
         "de": "Jasmin",
         "pt-br": "Jasmim",
-        "zh-tw": "茉莉花"
+        "zh-tw": "阿蜜",
     },
     illustrator: "En Morikura",
     rarity: "Two Star",

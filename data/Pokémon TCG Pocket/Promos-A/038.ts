@@ -10,7 +10,7 @@ const card: Card = {
         de: "Traunfugil",
         'pt-br': "Misdreavus",
         ko: "무우마",
-        "zh-tw": "誤判"
+        "zh-tw": "夢妖",
     },
     illustrator: "Miki Tanaka",
     rarity: "None",

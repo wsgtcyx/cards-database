@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sandslash",
         "de": "Sandhieb",
         "pt-br": "Barra de areia",
-        "zh-tw": "沙斬"
+        "zh-tw": "穿山王",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",

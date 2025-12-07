@@ -10,7 +10,7 @@ const card: Card = {
         de: "Akkup",
         'pt-br': "Charjabug",
         ko: "전지충이",
-        "zh-tw": "查賈布格"
+        "zh-tw": "蟲電寶",
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

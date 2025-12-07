@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Goodra",
         "de": "Goodra",
         "pt-br": "Goodra",
-        "zh-tw": "古德拉"
+        "zh-tw": "黏美露龍",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Three Diamond",

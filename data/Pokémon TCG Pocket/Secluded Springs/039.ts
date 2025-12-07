@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Jellicent",
         "de": "Jellicent",
         "pt-br": "Gelado",
-        "zh-tw": "傑利森特"
+        "zh-tw": "胖嘟嘟",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",

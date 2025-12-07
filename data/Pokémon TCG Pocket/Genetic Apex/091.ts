@@ -10,7 +10,7 @@ const card: Card = {
         de: "Knirfish",
         'pt-br': "Bruxish",
         ko: "치갈기",
-        "zh-tw": "磨牙色"
+        "zh-tw": "磨牙彩皮魚",
     },
     illustrator: "Mizue",
     category: "Pokemon",

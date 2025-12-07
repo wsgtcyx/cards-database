@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Capo Foglia",
         "de": "Blattumhang",
         "pt-br": "Capa Folha",
-        "zh-tw": "葉斗篷"
+        "zh-tw": "葉隱披風",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

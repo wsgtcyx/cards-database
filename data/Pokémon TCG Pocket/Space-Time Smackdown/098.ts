@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sniebel",
         'pt-br': "Sneasel",
         ko: "포푸니",
-        "zh-tw": "斯內塞爾"
+        "zh-tw": "狃拉",
     },
     illustrator: "Hasuno",
     rarity: "One Diamond",

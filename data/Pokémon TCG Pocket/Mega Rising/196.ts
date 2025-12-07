@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Swablu",
         "de": "Schwablu",
         "pt-br": "Swablu",
-        "zh-tw": "斯瓦布盧"
+        "zh-tw": "青綿鳥",
     },
     illustrator: "Kanako Eo",
     rarity: "One Diamond",

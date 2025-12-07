@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Gastly",
         "de": "Gastly",
         "pt-br": "Gastosamente",
-        "zh-tw": "加斯特利"
+        "zh-tw": "鬼斯",
     },
     illustrator: "Masako Yamashita",
     rarity: "One Diamond",

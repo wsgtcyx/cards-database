@@ -10,7 +10,7 @@ const card: Card = {
         de: "Koknodon",
         'pt-br': "Cranidos",
         ko: "두개도스",
-        "zh-tw": "克拉尼多斯"
+        "zh-tw": "頭蓋龍",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",

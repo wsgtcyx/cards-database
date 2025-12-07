@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sonderbonbon",
         'pt-br': "Doce Raro",
         ko: "이상한사탕",
-        "zh-tw": "稀有糖果"
+        "zh-tw": "神奇糖果",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

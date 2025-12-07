@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Shiinotico",
         "de": "Shiinotisch",
         "pt-br": "Shiinótico",
-        "zh-tw": "椎道"
+        "zh-tw": "燈罩夜菇",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

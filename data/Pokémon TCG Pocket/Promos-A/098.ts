@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Blissey es",
         "de": "Blissey Ex",
         "pt-br": "Blissey ex",
-        "zh-tw": "布利西EX"
+        "zh-tw": "幸福蛋 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Decidueye",
         "de": "Decidueye",
         "pt-br": "Decidueye",
-        "zh-tw": "蛻膜眼"
+        "zh-tw": "狙射樹梟",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "Three Diamond",

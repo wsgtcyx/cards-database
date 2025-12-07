@@ -10,7 +10,7 @@ const card: Card = {
         de: "Luxtra",
         'pt-br': "Luxray",
         ko: "렌트라",
-        "zh-tw": "力士瑞"
+        "zh-tw": "倫琴貓",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Vanillite",
         "de": "Vanillit",
         "pt-br": "Vanilita",
-        "zh-tw": "香蘭石"
+        "zh-tw": "迷你冰",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",

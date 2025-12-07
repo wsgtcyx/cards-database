@@ -10,7 +10,7 @@ const card: Card = {
         de: "Phanpy",
         'pt-br': "Phanpy",
         ko: "코코리",
-        "zh-tw": "潘皮"
+        "zh-tw": "小小象",
     },
     illustrator: "Asako Ito",
     rarity: "One Diamond",

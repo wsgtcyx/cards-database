@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kapu-Toro",
         'pt-br': "Tapu Bulu",
         ko: "카푸브루루",
-        "zh-tw": "塔普布魯"
+        "zh-tw": "卡璞・哞哞",
     },
     illustrator: "OKACHEKE",
     rarity: "One Star",

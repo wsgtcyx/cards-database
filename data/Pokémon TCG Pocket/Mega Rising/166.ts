@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ferroseme",
         "de": "Ferroseed",
         "pt-br": "Ferrosemente",
-        "zh-tw": "鐵玫瑰"
+        "zh-tw": "種子鐵球",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Diamond",

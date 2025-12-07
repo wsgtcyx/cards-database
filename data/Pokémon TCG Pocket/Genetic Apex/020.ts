@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sarzenia",
         'pt-br': "Victreebel",
         ko: "우츠보트",
-        "zh-tw": "維克特里貝爾"
+        "zh-tw": "大食花",
     },
     illustrator: "Sumiyoshi Kizuki",
     category: "Pokemon",

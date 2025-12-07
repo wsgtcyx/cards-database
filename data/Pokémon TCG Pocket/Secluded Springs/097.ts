@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pyukumuku",
         "de": "Pyukumuku",
         "pt-br": "Pyukumuku",
-        "zh-tw": "普庫穆庫"
+        "zh-tw": "拳海參",
     },
     illustrator: "Nisota Niso",
     rarity: "One Shiny",

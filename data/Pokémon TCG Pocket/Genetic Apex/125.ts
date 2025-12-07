@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hypno",
         'pt-br': "Hypno",
         ko: "슬리퍼",
-        "zh-tw": "催眠"
+        "zh-tw": "引夢貘人",
     },
     illustrator: "Shigenori Negishi",
     category: "Pokemon",

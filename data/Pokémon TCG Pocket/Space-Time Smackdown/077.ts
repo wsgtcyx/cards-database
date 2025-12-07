@@ -10,7 +10,7 @@ const card: Card = {
         de: "Tobutz",
         'pt-br': "Azelf",
         ko: "아그놈",
-        "zh-tw": "阿澤爾夫"
+        "zh-tw": "亞克諾姆",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Diamond",

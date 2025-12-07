@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Corsola",
         "de": "Corsola",
         "pt-br": "Corsola",
-        "zh-tw": "科索拉"
+        "zh-tw": "太陽珊瑚",
     },
     illustrator: "Mékayu",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Beatitudine",
         "de": "Blissey",
         "pt-br": "Felicidade",
-        "zh-tw": "布利西"
+        "zh-tw": "幸福蛋",
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",

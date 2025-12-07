@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bouffalant",
         "de": "Bouffalant",
         "pt-br": "Bouffalante",
-        "zh-tw": "布法朗"
+        "zh-tw": "爆爆頭水牛",
     },
     illustrator: "nagimiso",
     rarity: "Two Diamond",

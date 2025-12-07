@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Litleo",
         "de": "Litleo",
         "pt-br": "Pequeno",
-        "zh-tw": "利特萊奧"
+        "zh-tw": "小獅獅",
     },
     illustrator: "Misa Tsutsui",
     rarity: "One Diamond",

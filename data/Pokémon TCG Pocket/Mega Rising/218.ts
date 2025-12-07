@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Bacca di agrume",
         "de": "Sitrusbeere",
         "pt-br": "Fruta Sitrus",
-        "zh-tw": "西特魯斯漿果"
+        "zh-tw": "文柚果",
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mienshao",
         "de": "Mienshao",
         "pt-br": "Mienshao",
-        "zh-tw": "面哨"
+        "zh-tw": "師父鼬",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",

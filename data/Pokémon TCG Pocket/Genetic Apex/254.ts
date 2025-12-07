@@ -10,7 +10,7 @@ const card: Card = {
         de: "Arkani-ex",
         'pt-br': "Arcanine ex",
         ko: "윈디 ex",
-        "zh-tw": "阿爾卡寧EX"
+        "zh-tw": "風速狗 ex",
     },
     illustrator: "PLANETA Saito",
     category: "Pokemon",

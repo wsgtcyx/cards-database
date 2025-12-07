@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Maratto",
         "de": "Maractus",
         "pt-br": "Maractus",
-        "zh-tw": "馬拉克圖斯"
+        "zh-tw": "街頭沙鈴",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",

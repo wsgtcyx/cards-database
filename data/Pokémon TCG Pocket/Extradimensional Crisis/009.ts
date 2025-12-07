@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Blacefalo",
         "de": "Blazephalon",
         "pt-br": "Blacéfalo",
-        "zh-tw": "布萊塞法隆"
+        "zh-tw": "砰頭小丑",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Two Diamond",

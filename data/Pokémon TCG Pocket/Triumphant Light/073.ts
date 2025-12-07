@@ -10,7 +10,7 @@ const card: Card = {
         de: "Älteste von Elyses",
         'pt-br': "Anciã da Cidade Celestic",
         ko: "봉신마을의 장로",
-        "zh-tw": "天界鎮長老"
+        "zh-tw": "神和鎮長老",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",

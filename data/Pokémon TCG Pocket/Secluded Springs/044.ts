@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Donphan",
         "de": "Donphan",
         "pt-br": "Donphan",
-        "zh-tw": "唐凡"
+        "zh-tw": "頓甲",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",

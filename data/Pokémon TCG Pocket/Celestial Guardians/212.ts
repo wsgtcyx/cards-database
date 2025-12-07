@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bisaflor",
         'pt-br': "Venusaur",
         ko: "이상해꽃",
-        "zh-tw": "維納斯龍"
+        "zh-tw": "妙蛙花",
     },
     illustrator: "Ryuta Fuse",
     rarity: "One Shiny",

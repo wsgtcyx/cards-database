@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kicklee",
         'pt-br': "Hitmonlee",
         ko: "시라소몬",
-        "zh-tw": "希特蒙利"
+        "zh-tw": "飛腿郎",
     },
     illustrator: "Yukiko Baba",
     category: "Pokemon",

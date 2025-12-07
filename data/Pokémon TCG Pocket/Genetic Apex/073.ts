@@ -10,7 +10,7 @@ const card: Card = {
         de: "Golking",
         'pt-br': "Seaking",
         ko: "왕콘치",
-        "zh-tw": "海底撈"
+        "zh-tw": "金魚王",
     },
     illustrator: "Kyoko Umemoto",
     category: "Pokemon",

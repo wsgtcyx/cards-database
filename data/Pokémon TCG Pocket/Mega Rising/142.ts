@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Attenzione",
         "de": "Vorsicht",
         "pt-br": "Cuidado",
-        "zh-tw": "佩戴"
+        "zh-tw": "穿著熊",
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

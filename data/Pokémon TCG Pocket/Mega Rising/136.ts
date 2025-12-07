@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Golurk",
         "de": "Golurk",
         "pt-br": "Golurk",
-        "zh-tw": "古魯克"
+        "zh-tw": "泥偶巨人",
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",

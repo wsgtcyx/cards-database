@@ -10,7 +10,7 @@ const card: Card = {
         de: "Darkrai-ex",
         'pt-br': "Darkrai ex",
         ko: "다크라이 ex",
-        "zh-tw": "達克萊伊EX"
+        "zh-tw": "達克萊伊 ex",
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Star",

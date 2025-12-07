@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lecca-lecca",
         "de": "Lecker",
         "pt-br": "Lickilicky",
-        "zh-tw": "利奇利基"
+        "zh-tw": "大舌舔",
     },
     illustrator: "Mina Nakai",
     rarity: "Two Diamond",

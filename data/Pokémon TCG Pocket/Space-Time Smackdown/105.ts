@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pionskora",
         'pt-br': "Skorupi",
         ko: "스콜피",
-        "zh-tw": "斯科魯皮"
+        "zh-tw": "紫天蠍",
     },
     illustrator: "Naoki Saito",
     rarity: "One Diamond",

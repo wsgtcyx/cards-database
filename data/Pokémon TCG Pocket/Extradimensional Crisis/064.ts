@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Respingere",
         "de": "Abstoßen",
         "pt-br": "Repelir",
-        "zh-tw": "擊退"
+        "zh-tw": "除蟲噴霧",
     },
     illustrator: "Yoshinobu Saito",
     rarity: "Two Diamond",

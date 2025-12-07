@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Fortezza",
         "de": "Festung",
         "pt-br": "Fortaleza",
-        "zh-tw": "福瑞特雷斯"
+        "zh-tw": "佛烈托斯",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Heracross",
         "de": "Heracross",
         "pt-br": "Heracross",
-        "zh-tw": "赫拉克羅斯"
+        "zh-tw": "赫拉剋羅斯",
     },
     illustrator: "GOSSAN",
     rarity: "One Star",

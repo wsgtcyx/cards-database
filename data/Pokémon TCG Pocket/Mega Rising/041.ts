@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Litwick",
         "de": "Litwick",
         "pt-br": "Litwick",
-        "zh-tw": "利特威克"
+        "zh-tw": "燭光靈",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",

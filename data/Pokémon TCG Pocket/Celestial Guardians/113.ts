@@ -10,7 +10,7 @@ const card: Card = {
         de: "Unratütox",
         'pt-br': "Trubbish",
         ko: "깨봉이",
-        "zh-tw": "垃圾"
+        "zh-tw": "破破袋",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",

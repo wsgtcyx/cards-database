@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Drilbur",
         "de": "Drilbur",
         "pt-br": "Drilbur",
-        "zh-tw": "德里爾布爾"
+        "zh-tw": "螺釘地鼠",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",

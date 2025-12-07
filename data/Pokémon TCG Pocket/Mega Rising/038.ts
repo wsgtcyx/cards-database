@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Simisear",
         "de": "Simisear",
         "pt-br": "Simisear",
-        "zh-tw": "西米塞爾"
+        "zh-tw": "爆香猿",
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",

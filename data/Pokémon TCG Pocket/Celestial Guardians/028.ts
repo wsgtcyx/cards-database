@@ -10,7 +10,7 @@ const card: Card = {
         de: "Dartignis",
         'pt-br': "Fletchinder",
         ko: "불화살빈",
-        "zh-tw": "弗萊欽德"
+        "zh-tw": "火箭雀",
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Larvitar",
         "de": "Larvitar",
         "pt-br": "larvitar",
-        "zh-tw": "幼蟲"
+        "zh-tw": "由基拉",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

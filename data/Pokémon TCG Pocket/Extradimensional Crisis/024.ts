@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Phantump",
         "de": "Phantump",
         "pt-br": "Fantasma",
-        "zh-tw": "凡頓"
+        "zh-tw": "小木靈",
     },
     illustrator: "sui",
     rarity: "One Diamond",

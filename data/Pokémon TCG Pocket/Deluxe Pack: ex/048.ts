@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Kartana",
         "de": "Kartana",
         "pt-br": "Kartana",
-        "zh-tw": "卡塔納"
+        "zh-tw": "紙御劍",
     },
     illustrator: "nagimiso",
     rarity: "One Diamond",

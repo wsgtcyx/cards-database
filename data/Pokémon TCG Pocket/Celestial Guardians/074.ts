@@ -10,7 +10,7 @@ const card: Card = {
         de: "Shuppet",
         'pt-br': "Shuppet",
         ko: "어둠대신",
-        "zh-tw": "舒佩特"
+        "zh-tw": "怨影娃娃",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

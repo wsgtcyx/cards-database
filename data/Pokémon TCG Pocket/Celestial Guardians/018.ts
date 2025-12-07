@@ -10,7 +10,7 @@ const card: Card = {
         de: "Frubberl",
         'pt-br': "Bounsweet",
         ko: "달콤아",
-        "zh-tw": "邦斯威特"
+        "zh-tw": "甜竹竹",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

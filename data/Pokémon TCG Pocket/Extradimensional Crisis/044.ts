@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Poipole",
         "de": "Poipole",
         "pt-br": "Poipole",
-        "zh-tw": "波伊波萊"
+        "zh-tw": "毒貝比",
     },
     illustrator: "Shin Nagasawa",
     rarity: "One Diamond",

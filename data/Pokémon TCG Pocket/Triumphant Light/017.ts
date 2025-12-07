@@ -10,7 +10,7 @@ const card: Card = {
         de: "Welsar",
         'pt-br': "Whiscash",
         ko: "메깅",
-        "zh-tw": "威士忌"
+        "zh-tw": "鯰魚王",
     },
     illustrator: "Shinya Komatsu",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Salazzle",
         "de": "Salazzle",
         "pt-br": "Salazzle",
-        "zh-tw": "薩拉澤爾"
+        "zh-tw": "焰后蜥",
     },
     illustrator: "Shibuzoh.",
     rarity: "Two Diamond",

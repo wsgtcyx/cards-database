@@ -10,7 +10,7 @@ const card: Card = {
         de: "Domfossil",
         'pt-br': "Fóssil Cúpula",
         ko: "껍질화석",
-        "zh-tw": "圓頂化石"
+        "zh-tw": "甲殼化石",
     },
     illustrator: "Toyste Beach",
     category: "Trainer",

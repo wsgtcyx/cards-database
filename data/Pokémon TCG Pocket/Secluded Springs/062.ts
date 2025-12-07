@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Miltank",
         "de": "Miltank",
         "pt-br": "Miltank",
-        "zh-tw": "米爾坦克"
+        "zh-tw": "大奶罐",
     },
     illustrator: "Kouki Saitou",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mabula",
         'pt-br': "Grubbin",
         ko: "턱지충이",
-        "zh-tw": "格魯賓"
+        "zh-tw": "強顎雞母蟲",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",

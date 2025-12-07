@@ -10,7 +10,7 @@ const card: Card = {
         de: "Velursi",
         'pt-br': "Stufful",
         ko: "포곰곰",
-        "zh-tw": "塞滿"
+        "zh-tw": "童偶熊",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "One Diamond",

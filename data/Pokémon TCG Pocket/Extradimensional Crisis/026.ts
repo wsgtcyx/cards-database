@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Morelull",
         "de": "Morelull",
         "pt-br": "Morelull",
-        "zh-tw": "莫雷魯爾"
+        "zh-tw": "睡睡菇",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",

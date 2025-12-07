@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Makuhita",
         "de": "Makuhita",
         "pt-br": "Makuhita",
-        "zh-tw": "幕日田"
+        "zh-tw": "幕下力士",
     },
     illustrator: "Sachiko Adachi",
     rarity: "One Diamond",

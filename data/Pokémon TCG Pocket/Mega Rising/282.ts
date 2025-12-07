@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Melmetal es",
         "de": "Melmetal ex",
         "pt-br": "Melmetal ex",
-        "zh-tw": "梅爾梅特公司"
+        "zh-tw": "美錄梅塔 ex",
     },
     illustrator: "toriyufu",
     rarity: "Two Star",

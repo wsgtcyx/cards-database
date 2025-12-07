@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Weavile",
         "de": "Webbar",
         "pt-br": "Weavile",
-        "zh-tw": "韋維爾"
+        "zh-tw": "瑪狃拉",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Three Diamond",

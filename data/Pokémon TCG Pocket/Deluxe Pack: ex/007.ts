@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Weedle",
         "de": "Unkraut",
         "pt-br": "erva daninha",
-        "zh-tw": "雜草"
+        "zh-tw": "獨角蟲",
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

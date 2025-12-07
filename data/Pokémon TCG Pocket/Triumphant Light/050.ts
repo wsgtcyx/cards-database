@@ -10,7 +10,7 @@ const card: Card = {
         de: "Iksbat",
         'pt-br': "Crobat",
         ko: "크로뱃",
-        "zh-tw": "克羅巴特"
+        "zh-tw": "叉字蝠",
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Miezunder",
         'pt-br': "Torracat",
         ko: "냐오히트",
-        "zh-tw": "托拉卡特"
+        "zh-tw": "炎熱喵",
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",

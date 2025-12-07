@@ -10,7 +10,7 @@ const card: Card = {
         de: "Hundemon",
         'pt-br': "Houndoom",
         ko: "헬가",
-        "zh-tw": "黑杜姆"
+        "zh-tw": "黑魯加",
     },
     illustrator: "matazo",
     rarity: "One Star",

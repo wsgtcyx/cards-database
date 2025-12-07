@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Casco roccioso",
         "de": "Felsiger Helm",
         "pt-br": "Capacete Rochoso",
-        "zh-tw": "洛基頭盔"
+        "zh-tw": "凸凸頭盔",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "Two Diamond",

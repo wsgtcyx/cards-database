@@ -10,7 +10,7 @@ const card: Card = {
         de: "Piccolente",
         'pt-br': "Ducklett",
         ko: "꼬지보리",
-        "zh-tw": "達克利特"
+        "zh-tw": "鴨寶寶",
     },
     illustrator: "Yumi",
     category: "Pokemon",

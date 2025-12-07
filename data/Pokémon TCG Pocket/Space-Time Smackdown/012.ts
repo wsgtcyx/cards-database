@@ -10,7 +10,7 @@ const card: Card = {
         de: "Chelterrar",
         'pt-br': "Torterra",
         ko: "토대부기",
-        "zh-tw": "托特拉"
+        "zh-tw": "土台龜",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Excadrill",
         "de": "Excadrill",
         "pt-br": "Excadrill",
-        "zh-tw": "埃克斯卡德里爾"
+        "zh-tw": "龍頭地鼠",
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",

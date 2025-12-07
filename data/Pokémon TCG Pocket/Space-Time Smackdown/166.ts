@@ -10,7 +10,7 @@ const card: Card = {
         de: "Vesprit",
         'pt-br': "Mesprit",
         ko: "엠라이트",
-        "zh-tw": "梅斯普利特"
+        "zh-tw": "艾姆利多",
     },
     illustrator: "Orca",
     rarity: "One Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Araqua",
         'pt-br': "Dewpider",
         ko: "물거미",
-        "zh-tw": "露皮德"
+        "zh-tw": "滴蛛",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",

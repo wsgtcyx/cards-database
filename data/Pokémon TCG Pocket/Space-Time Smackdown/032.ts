@@ -10,7 +10,7 @@ const card: Card = {
         de: "Keifel",
         'pt-br': "Piloswine",
         ko: "메꾸리",
-        "zh-tw": "毛豬"
+        "zh-tw": "長毛豬",
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",

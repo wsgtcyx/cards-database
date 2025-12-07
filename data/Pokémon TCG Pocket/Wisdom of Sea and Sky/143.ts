@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ambipom",
         "de": "Ambipom",
         "pt-br": "Ambipom",
-        "zh-tw": "安比蓬"
+        "zh-tw": "雙尾怪手",
     },
     illustrator: "Atsushi Furusawa",
     rarity: "One Diamond",

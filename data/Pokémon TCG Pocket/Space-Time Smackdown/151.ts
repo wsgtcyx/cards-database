@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rüpel von Team Galaktik",
         'pt-br': "Recruta da Equipe Galáctica",
         ko: "갤럭시단의 조무래기",
-        "zh-tw": "銀河隊步兵"
+        "zh-tw": "銀河隊手下",
     },
     illustrator: "GOSSAN",
     rarity: "Two Diamond",

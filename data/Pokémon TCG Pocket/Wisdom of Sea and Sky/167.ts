@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Totodile",
         "de": "Totodile",
         "pt-br": "Totodile",
-        "zh-tw": "托托達爾"
+        "zh-tw": "小鋸鱷",
     },
     illustrator: "Ayako Ozaki",
     rarity: "One Star",

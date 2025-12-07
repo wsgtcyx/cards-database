@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ibitak",
         'pt-br': "Fearow",
         ko: "깨비드릴조",
-        "zh-tw": "費羅"
+        "zh-tw": "大嘴雀",
     },
     illustrator: "Satoshi Shirai",
     category: "Pokemon",

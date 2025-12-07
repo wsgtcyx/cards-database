@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Vaporeon",
         "de": "Vaporeon",
         "pt-br": "Vaporeon",
-        "zh-tw": "蒸氣"
+        "zh-tw": "水伊布",
     },
     illustrator: "chibi",
     rarity: "One Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Serpiroyal",
         'pt-br': "Serperior",
         ko: "샤로다",
-        "zh-tw": "蛇佩里奧爾"
+        "zh-tw": "君主蛇",
     },
     illustrator: "rika",
     category: "Pokemon",

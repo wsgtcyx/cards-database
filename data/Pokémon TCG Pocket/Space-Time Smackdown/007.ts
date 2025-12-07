@@ -10,7 +10,7 @@ const card: Card = {
         de: "Yanmega-ex",
         'pt-br': "Yanmega ex",
         ko: "메가자리 ex",
-        "zh-tw": "揚美加EX"
+        "zh-tw": "梅卡陽瑪 ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",

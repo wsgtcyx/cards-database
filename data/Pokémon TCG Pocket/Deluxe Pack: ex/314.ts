@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Caramella rara",
         "de": "Seltene Süßigkeiten",
         "pt-br": "Doces raros",
-        "zh-tw": "稀有糖果"
+        "zh-tw": "神奇糖果",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

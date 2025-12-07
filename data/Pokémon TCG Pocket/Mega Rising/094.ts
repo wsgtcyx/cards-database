@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dedenne",
         "de": "Dedenne",
         "pt-br": "Dedenne",
-        "zh-tw": "德登內"
+        "zh-tw": "咚咚鼠",
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",

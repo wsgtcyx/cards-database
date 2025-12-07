@@ -10,7 +10,7 @@ const card: Card = {
         de: "Cresselia-ex",
         'pt-br': "Cresselia ex",
         ko: "크레세리아 ex",
-        "zh-tw": "克雷色利亞EX"
+        "zh-tw": "克雷色利亞 ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "None",

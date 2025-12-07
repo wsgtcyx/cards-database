@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sabrina",
         "de": "Sabrina",
         "pt-br": "Sabrina",
-        "zh-tw": "薩布麗娜"
+        "zh-tw": "娜姿",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Diamond",

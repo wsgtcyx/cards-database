@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Nidorino",
         "de": "Nidorino",
         "pt-br": "Nidorino",
-        "zh-tw": "尼多里諾"
+        "zh-tw": "尼多力諾",
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Wasch-Rotom",
         'pt-br': "Rotom Lavagem",
         ko: "워시로토무",
-        "zh-tw": "洗滌洛托姆"
+        "zh-tw": "清洗洛托姆",
     },
     illustrator: "Saboteri",
     rarity: "One Diamond",

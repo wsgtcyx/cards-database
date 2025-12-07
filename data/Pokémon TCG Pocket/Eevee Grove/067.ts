@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Avanzi",
         "de": "Reste",
         "pt-br": "Sobras",
-        "zh-tw": "剩菜"
+        "zh-tw": "吃剩的東西",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",

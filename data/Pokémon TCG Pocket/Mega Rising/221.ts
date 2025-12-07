@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Marlon",
         "de": "Marlon",
         "pt-br": "Marlon",
-        "zh-tw": "馬龍"
+        "zh-tw": "西子伊",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",

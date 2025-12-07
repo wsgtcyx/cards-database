@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kosturso",
         'pt-br': "Bewear",
         ko: "이븐곰",
-        "zh-tw": "佩戴"
+        "zh-tw": "穿著熊",
     },
     illustrator: "kirisAki",
     rarity: "Three Diamond",

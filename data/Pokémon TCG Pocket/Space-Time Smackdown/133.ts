@@ -10,7 +10,7 @@ const card: Card = {
         de: "Staravia",
         'pt-br': "Staravia",
         ko: "찌르버드",
-        "zh-tw": "斯塔維亞"
+        "zh-tw": "姆克鳥",
     },
     illustrator: "REND",
     rarity: "One Diamond",

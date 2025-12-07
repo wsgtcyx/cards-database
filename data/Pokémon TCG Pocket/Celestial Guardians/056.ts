@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kapu-Kime",
         'pt-br': "Tapu Fini",
         ko: "카푸느지느",
-        "zh-tw": "塔普菲尼"
+        "zh-tw": "卡璞・鰭鰭",
     },
     illustrator: "chibi",
     rarity: "Three Diamond",

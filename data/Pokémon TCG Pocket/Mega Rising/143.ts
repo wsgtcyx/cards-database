@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Sandygast",
         "de": "Sandygast",
         "pt-br": "Sandygast",
-        "zh-tw": "桑迪加斯特"
+        "zh-tw": "沙丘娃",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",

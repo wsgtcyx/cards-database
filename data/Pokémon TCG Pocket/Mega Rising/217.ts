@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Toppa di fiamma",
         "de": "Flammenfleck",
         "pt-br": "Patch de Chama",
-        "zh-tw": "火焰補丁"
+        "zh-tw": "火補丁",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",

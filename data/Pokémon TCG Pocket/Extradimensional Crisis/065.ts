@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cavo elettrico",
         "de": "Elektrisches Kabel",
         "pt-br": "Cabo Elétrico",
-        "zh-tw": "電線"
+        "zh-tw": "電氣繩索",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

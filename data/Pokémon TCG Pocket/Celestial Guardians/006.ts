@@ -10,7 +10,7 @@ const card: Card = {
         de: "Laukaps",
         'pt-br': "Karrablast",
         ko: "딱정곤",
-        "zh-tw": "卡拉布拉斯特"
+        "zh-tw": "蓋蓋蟲",
     },
     illustrator: "OOYAMA",
     rarity: "One Diamond",

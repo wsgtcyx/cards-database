@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Shroomish",
         "de": "Pilzartig",
         "pt-br": "Cogumelo",
-        "zh-tw": "蘑菇狀"
+        "zh-tw": "蘑蘑菇",
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

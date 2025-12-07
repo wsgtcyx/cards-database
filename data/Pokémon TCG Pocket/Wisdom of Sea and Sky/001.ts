@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Strano",
         "de": "Seltsam",
         "pt-br": "Estranho",
-        "zh-tw": "古怪的"
+        "zh-tw": "走路草",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Diamond",

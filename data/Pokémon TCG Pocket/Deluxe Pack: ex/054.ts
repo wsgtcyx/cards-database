@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Miaoscarada",
         "de": "Meowscarada",
         "pt-br": "Miauscarada",
-        "zh-tw": "喵斯卡拉達"
+        "zh-tw": "魔幻假面喵",
     },
     illustrator: "mashu",
     rarity: "Three Diamond",

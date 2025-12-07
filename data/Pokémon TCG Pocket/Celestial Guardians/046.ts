@@ -10,7 +10,7 @@ const card: Card = {
         de: "Robball",
         'pt-br': "Popplio",
         ko: "누리공",
-        "zh-tw": "波普利奧"
+        "zh-tw": "球球海獅",
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

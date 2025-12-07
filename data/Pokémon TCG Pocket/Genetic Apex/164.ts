@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rettan",
         'pt-br': "Ekans",
         ko: "아보",
-        "zh-tw": "埃肯斯"
+        "zh-tw": "阿柏蛇",
     },
     illustrator: "MAHOU",
     category: "Pokemon",

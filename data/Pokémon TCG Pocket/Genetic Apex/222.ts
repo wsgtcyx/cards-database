@@ -10,7 +10,7 @@ const card: Card = {
         de: "Koga",
         'pt-br': "Koga",
         ko: "독수",
-        "zh-tw": "古賀"
+        "zh-tw": "阿桔",
     },
     illustrator: "Souichirou Gunjima",
     category: "Trainer",

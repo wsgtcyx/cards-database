@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sterndu",
         'pt-br': "Staryu",
         ko: "별가사리",
-        "zh-tw": "斯塔尤"
+        "zh-tw": "海星星",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

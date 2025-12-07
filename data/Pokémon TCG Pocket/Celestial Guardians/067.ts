@@ -10,7 +10,7 @@ const card: Card = {
         de: "Togedemaru",
         'pt-br': "Togedemaru",
         ko: "토게데마루",
-        "zh-tw": "托格德丸"
+        "zh-tw": "托戈德瑪爾",
     },
     illustrator: "Misa Tsutsui",
     rarity: "One Diamond",

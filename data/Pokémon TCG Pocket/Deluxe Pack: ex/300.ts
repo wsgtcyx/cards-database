@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tipo: nullo",
         "de": "Typ: Null",
         "pt-br": "Tipo: Nulo",
-        "zh-tw": "類型：空"
+        "zh-tw": "屬性：空",
     },
     illustrator: "match",
     rarity: "Two Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Frogadier",
         "de": "Frogadier",
         "pt-br": "Sapo",
-        "zh-tw": "弗洛加迪爾"
+        "zh-tw": "呱頭蛙",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Amoroso",
         'pt-br': "Omastar",
         ko: "암스타",
-        "zh-tw": "奧馬斯塔"
+        "zh-tw": "多刺菊石獸",
     },
     illustrator: "kirisAki",
     category: "Pokemon",

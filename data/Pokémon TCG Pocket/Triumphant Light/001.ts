@@ -10,7 +10,7 @@ const card: Card = {
         de: "Skaraborn",
         'pt-br': "Heracross",
         ko: "헤라크로스",
-        "zh-tw": "赫拉克羅斯"
+        "zh-tw": "赫拉剋羅斯",
     },
     illustrator: "Satoshi Shirai",
     rarity: "Two Diamond",

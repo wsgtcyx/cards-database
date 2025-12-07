@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dunsparce",
         "de": "Dunsparce",
         "pt-br": "Dunsparce",
-        "zh-tw": "鄧斯帕斯"
+        "zh-tw": "土龍弟弟",
     },
     illustrator: "Kazuma Koda",
     rarity: "One Diamond",

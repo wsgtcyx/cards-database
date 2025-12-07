@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Necrozma Criniera Crepuscolare",
         "de": "Dämmerungsmähnen-Nekrozma",
         "pt-br": "Crepúsculo Juba Necrozma",
-        "zh-tw": "黃昏鬃毛奈克洛茲瑪"
+        "zh-tw": "奈克洛茲瑪（黃昏之鬃）",
     },
     illustrator: "nagimiso",
     rarity: "Three Diamond",

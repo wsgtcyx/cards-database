@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Aron",
         "de": "Aron",
         "pt-br": "Arão",
-        "zh-tw": "阿倫"
+        "zh-tw": "可可多拉",
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Diamond",

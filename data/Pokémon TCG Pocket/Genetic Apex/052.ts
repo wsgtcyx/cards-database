@@ -10,7 +10,7 @@ const card: Card = {
         de: "Infernopod",
         ko: "다태우지네",
         'pt-br': "Centiskorch",
-        "zh-tw": "厘焦奇"
+        "zh-tw": "焚焰蚣",
     },
     illustrator: "GOSSAN",
     category: "Pokemon",

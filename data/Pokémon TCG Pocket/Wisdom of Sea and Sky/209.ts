@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Skarmory es",
         "de": "Skarmory ex",
         "pt-br": "Skarmory ex",
-        "zh-tw": "斯卡莫里EX"
+        "zh-tw": "盔甲鳥 ex",
     },
     illustrator: "toriyufu",
     rarity: "Two Star",

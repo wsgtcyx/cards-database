@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ciclizar",
         "de": "Cyclizar",
         "pt-br": "Ciclizar",
-        "zh-tw": "環化劑"
+        "zh-tw": "摩托蜥",
     },
     illustrator: "HAGIYA Kaoru",
     rarity: "Two Diamond",

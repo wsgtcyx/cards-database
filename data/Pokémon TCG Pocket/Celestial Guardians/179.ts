@@ -10,7 +10,7 @@ const card: Card = {
         de: "Koalelu",
         'pt-br': "Komala",
         ko: "자말라",
-        "zh-tw": "科馬拉"
+        "zh-tw": "樹枕尾熊",
     },
     illustrator: "GOTO minori",
     rarity: "One Star",

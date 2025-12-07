@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Entei",
         "de": "Entei",
         "pt-br": "Entei",
-        "zh-tw": "延亭"
+        "zh-tw": "炎帝",
     },
     illustrator: "kodama",
     rarity: "Three Diamond",

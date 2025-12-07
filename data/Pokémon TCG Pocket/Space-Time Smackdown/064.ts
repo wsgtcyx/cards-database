@@ -10,7 +10,7 @@ const card: Card = {
         de: "Togetic",
         'pt-br': "Togetic",
         ko: "토게틱",
-        "zh-tw": "托蓋蒂克"
+        "zh-tw": "波克基古",
     },
     illustrator: "Kanako Eo",
     rarity: "Two Diamond",

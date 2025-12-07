@@ -10,7 +10,7 @@ const card: Card = {
         de: "Britzigel",
         'pt-br': "Pincurchin",
         ko: "찌르성게",
-        "zh-tw": "平庫欽"
+        "zh-tw": "啪嚓海膽",
     },
     illustrator: "Tika Matsuno",
     category: "Pokemon",

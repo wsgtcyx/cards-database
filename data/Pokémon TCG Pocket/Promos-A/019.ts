@@ -10,7 +10,7 @@ const card: Card = {
         de: "Quajutsu",
         'pt-br': "Greninja",
         ko: "개굴닌자",
-        "zh-tw": "格倫尼亞"
+        "zh-tw": "甲賀忍蛙",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "None",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lampada",
         "de": "Lampent",
         "pt-br": "Lampente",
-        "zh-tw": "燈籠"
+        "zh-tw": "燈火幽靈",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "Two Diamond",

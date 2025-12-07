@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bandelby",
         'pt-br': "Ribombee",
         ko: "에리본",
-        "zh-tw": "核醣體"
+        "zh-tw": "蝶結萌虻",
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Criogonale",
         "de": "Kryogonal",
         "pt-br": "Criogonal",
-        "zh-tw": "冷凍"
+        "zh-tw": "幾何雪花",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "One Diamond",

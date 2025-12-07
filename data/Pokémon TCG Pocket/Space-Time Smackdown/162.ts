@@ -10,7 +10,7 @@ const card: Card = {
         de: "Manaphy",
         'pt-br': "Manaphy",
         ko: "마나피",
-        "zh-tw": "瑪納菲"
+        "zh-tw": "瑪納霏",
     },
     illustrator: "miki kudo",
     rarity: "One Star",

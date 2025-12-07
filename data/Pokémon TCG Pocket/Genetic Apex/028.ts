@@ -10,7 +10,7 @@ const card: Card = {
         de: "Elfun",
         'pt-br': "Whimsicott",
         ko: "엘풍",
-        "zh-tw": "異想天開"
+        "zh-tw": "風妖精",
     },
     illustrator: "Atsuko Nishida",
     category: "Pokemon",

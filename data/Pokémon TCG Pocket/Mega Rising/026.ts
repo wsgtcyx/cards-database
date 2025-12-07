@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Thwackey",
         "de": "Thwackey",
         "pt-br": "Thwackey",
-        "zh-tw": "斯瓦基"
+        "zh-tw": "啪咚猴",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",

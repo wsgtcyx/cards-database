@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kleinstein",
         'pt-br': "Geodude",
         ko: "꼬마돌",
-        "zh-tw": "晶洞"
+        "zh-tw": "小拳石",
     },
     illustrator: "Kouki Saitou",
     category: "Pokemon",

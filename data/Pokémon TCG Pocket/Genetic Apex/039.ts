@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fukano",
         'pt-br': "Growlithe",
         ko: "가디",
-        "zh-tw": "成長"
+        "zh-tw": "卡蒂狗",
     },
     illustrator: "Mizue",
     category: "Pokemon",

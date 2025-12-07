@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Baltoy",
         "de": "Baltoy",
         "pt-br": "Baltoy",
-        "zh-tw": "巴爾托伊"
+        "zh-tw": "天秤偶",
     },
     illustrator: "Uta",
     rarity: "One Diamond",

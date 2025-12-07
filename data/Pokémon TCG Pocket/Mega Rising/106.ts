@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Jirachi",
         "de": "Jirachi",
         "pt-br": "Jirachi",
-        "zh-tw": "吉拉奇"
+        "zh-tw": "基拉祈",
     },
     illustrator: "Sanosuke Sakuma",
     rarity: "Three Diamond",

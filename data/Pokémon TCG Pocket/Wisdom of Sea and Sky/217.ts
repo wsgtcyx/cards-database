@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Magnemite",
         "de": "Magnemit",
         "pt-br": "Magnemite",
-        "zh-tw": "磁鐵礦"
+        "zh-tw": "小磁怪",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

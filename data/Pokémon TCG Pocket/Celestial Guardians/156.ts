@@ -10,7 +10,7 @@ const card: Card = {
         de: "Alola-Kokowei",
         'pt-br': "Exeggutorde Alola",
         ko: "알로라나시",
-        "zh-tw": "阿羅拉椰蛋"
+        "zh-tw": "阿羅拉椰蛋樹",
     },
     illustrator: "Saboteri",
     rarity: "One Star",

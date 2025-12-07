@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Primeape",
         "de": "Primeape",
         "pt-br": "Primeape",
-        "zh-tw": "普里阿普"
+        "zh-tw": "火爆猴",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

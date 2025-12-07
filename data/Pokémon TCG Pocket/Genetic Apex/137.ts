@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sandan",
         'pt-br': "Sandshrew",
         ko: "모래두지",
-        "zh-tw": "山鼠"
+        "zh-tw": "穿山鼠",
     },
     illustrator: "Miki Tanaka",
     category: "Pokemon",

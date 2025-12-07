@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ahah",
         "de": "Hau",
         "pt-br": "Hau",
-        "zh-tw": "豪"
+        "zh-tw": "哈烏",
     },
     illustrator: "Yuu Nishida",
     rarity: "Two Star",

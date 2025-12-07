@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Luce della memoria",
         "de": "Erinnerungslicht",
         "pt-br": "Luz de memória",
-        "zh-tw": "記憶燈"
+        "zh-tw": "記憶之光",
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",

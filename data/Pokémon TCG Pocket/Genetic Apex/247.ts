@@ -10,7 +10,7 @@ const card: Card = {
         de: "Ditto",
         'pt-br': "Ditto",
         ko: "메타몽",
-        "zh-tw": "同上"
+        "zh-tw": "百變怪",
     },
     illustrator: "Jerky",
     category: "Pokemon",

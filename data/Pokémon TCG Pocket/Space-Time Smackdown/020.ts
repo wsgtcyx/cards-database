@@ -10,7 +10,7 @@ const card: Card = {
         de: "Folipurba",
         'pt-br': "Leafeon",
         ko: "리피아",
-        "zh-tw": "葉豐"
+        "zh-tw": "葉精靈",
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",

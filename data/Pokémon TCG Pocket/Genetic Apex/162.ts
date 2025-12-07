@@ -10,7 +10,7 @@ const card: Card = {
         de: "Klopptopus",
         'pt-br': "Clobbopus",
         ko: "때때무노",
-        "zh-tw": "克洛博普斯"
+        "zh-tw": "拳拳蛸",
     },
     illustrator: "Yuu Nishida",
     category: "Pokemon",

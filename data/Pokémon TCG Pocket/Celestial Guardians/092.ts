@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sonnfel",
         'pt-br': "Solrock",
         ko: "솔록",
-        "zh-tw": "索爾洛克"
+        "zh-tw": "太陽岩",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Raichu",
         'pt-br': "Raichu",
         ko: "라이츄",
-        "zh-tw": "雷中"
+        "zh-tw": "雷丘",
     },
     illustrator: "Nisota Niso",
     rarity: "Three Diamond",

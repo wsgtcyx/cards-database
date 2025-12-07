@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Celebi",
         "de": "Celebi",
         "pt-br": "Celebi",
-        "zh-tw": "塞拉比"
+        "zh-tw": "時拉比",
     },
     illustrator: "Yuu Nishida",
     rarity: "Three Diamond",

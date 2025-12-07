@@ -10,7 +10,7 @@ const card: Card = {
         de: "Kikugi",
         'pt-br': "Cherubi",
         ko: "체리버",
-        "zh-tw": "切魯比"
+        "zh-tw": "櫻花寶",
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",

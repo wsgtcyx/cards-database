@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Ivysaur",
         "de": "Efeusaurier",
         "pt-br": "Ivysauro",
-        "zh-tw": "常春藤屬"
+        "zh-tw": "妙蛙草",
     },
     illustrator: "Kurata So",
     rarity: "Two Diamond",

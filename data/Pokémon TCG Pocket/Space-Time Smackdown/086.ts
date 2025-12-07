@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nasgnet",
         'pt-br': "Nosepass",
         ko: "코코파스",
-        "zh-tw": "鼻通"
+        "zh-tw": "朝北鼻",
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",

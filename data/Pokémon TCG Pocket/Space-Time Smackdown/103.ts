@@ -10,7 +10,7 @@ const card: Card = {
         de: "Skuntank",
         'pt-br': "Skuntank",
         ko: "스컹탱크",
-        "zh-tw": "臭鼬罐"
+        "zh-tw": "坦克臭鼬",
     },
     illustrator: "kirisAki",
     rarity: "Two Diamond",

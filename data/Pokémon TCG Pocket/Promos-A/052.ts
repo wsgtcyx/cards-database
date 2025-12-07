@@ -10,7 +10,7 @@ const card: Card = {
         de: "Felori",
         'pt-br': "Sprigatito",
         ko: "나오하",
-        "zh-tw": "斯普里加蒂托"
+        "zh-tw": "新葉喵",
     },
     illustrator: "MINAMINAMI Take",
     rarity: "None",

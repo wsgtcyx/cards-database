@@ -10,7 +10,7 @@ const card: Card = {
         de: "Griffel",
         'pt-br': "Aipom",
         ko: "에이팜",
-        "zh-tw": "愛波姆"
+        "zh-tw": "長尾怪手",
     },
     illustrator: "Miki Tanaka",
     rarity: "One Diamond",

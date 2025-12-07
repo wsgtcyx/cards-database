@@ -10,7 +10,7 @@ const card: Card = {
         de: "Zapplardin",
         'pt-br': "Tynamo",
         ko: "저리어",
-        "zh-tw": "蒂納莫"
+        "zh-tw": "麻麻小魚",
     },
     illustrator: "Asako Ito",
     category: "Pokemon",

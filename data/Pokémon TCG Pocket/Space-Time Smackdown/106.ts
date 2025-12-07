@@ -10,7 +10,7 @@ const card: Card = {
         de: "Piondragi",
         'pt-br': "Drapion",
         ko: "드래피온",
-        "zh-tw": "德拉皮翁"
+        "zh-tw": "龍王蠍",
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Two Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Turtok",
         ko: "거북왕",
         'pt-br': "Blastoise",
-        "zh-tw": "水母"
+        "zh-tw": "水箭龜",
     },
     illustrator: "Nurikabe",
     category: "Pokemon",

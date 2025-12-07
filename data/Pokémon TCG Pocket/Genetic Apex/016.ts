@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bluzuk",
         'pt-br': "Venonat",
         ko: "콘팡",
-        "zh-tw": "維諾納特"
+        "zh-tw": "毛球",
     },
     illustrator: "HYOGONOSUKE",
     category: "Pokemon",

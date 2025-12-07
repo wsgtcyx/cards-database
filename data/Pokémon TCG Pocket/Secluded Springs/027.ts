@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Elektrik",
         "de": "Elektrik",
         "pt-br": "Elétrico",
-        "zh-tw": "電氣技術"
+        "zh-tw": "麻麻鰻",
     },
     illustrator: "Suwama Chiaki",
     rarity: "One Diamond",

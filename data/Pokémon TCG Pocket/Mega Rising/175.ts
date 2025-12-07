@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Corviknight",
         "de": "Corviknight",
         "pt-br": "Noite de Corvik",
-        "zh-tw": "科維克奈特"
+        "zh-tw": "鋼鎧鴉",
     },
     illustrator: "Ryuta Fuse",
     rarity: "Three Diamond",

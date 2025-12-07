@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Poliwag",
         "de": "Poliwag",
         "pt-br": "Poliwag",
-        "zh-tw": "波利瓦格"
+        "zh-tw": "蚊香蝌蚪",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

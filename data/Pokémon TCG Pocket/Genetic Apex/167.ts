@@ -10,7 +10,7 @@ const card: Card = {
         de: "Nidorina",
         'pt-br': "Nidorina",
         ko: "니드리나",
-        "zh-tw": "尼多麗娜"
+        "zh-tw": "尼多娜",
     },
     illustrator: "Kagemaru Himeno",
     category: "Pokemon",

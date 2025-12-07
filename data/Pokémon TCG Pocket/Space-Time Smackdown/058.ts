@@ -10,7 +10,7 @@ const card: Card = {
         de: "Sheinux",
         'pt-br': "Shinx",
         ko: "꼬링크",
-        "zh-tw": "辛克斯"
+        "zh-tw": "小貓怪",
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",

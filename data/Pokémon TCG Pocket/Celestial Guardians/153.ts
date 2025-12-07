@@ -10,7 +10,7 @@ const card: Card = {
         de: "Chrys",
         'pt-br': "Chris",
         ko: "마마네",
-        "zh-tw": "索福克勒斯"
+        "zh-tw": "馬瑪內",
     },
     illustrator: "Akira Komayama",
     rarity: "Two Diamond",

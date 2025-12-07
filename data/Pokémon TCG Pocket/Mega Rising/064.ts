@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Palpitoad",
         "de": "Palpitoad",
         "pt-br": "Palpitoad",
-        "zh-tw": "心悸蟾蜍"
+        "zh-tw": "藍蟾蜍",
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",

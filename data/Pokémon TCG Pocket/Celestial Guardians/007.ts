@@ -10,7 +10,7 @@ const card: Card = {
         de: "Paragoni",
         'pt-br': "Phantump",
         ko: "나목령",
-        "zh-tw": "凡頓"
+        "zh-tw": "小木靈",
     },
     illustrator: "miki kudo",
     rarity: "One Diamond",

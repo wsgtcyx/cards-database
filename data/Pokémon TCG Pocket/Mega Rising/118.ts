@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Slurpuff",
         "de": "Slurpuff",
         "pt-br": "Slurpuff",
-        "zh-tw": "咕嚕咕嚕"
+        "zh-tw": "胖甜妮",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",

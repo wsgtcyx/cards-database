@@ -10,7 +10,7 @@ const card: Card = {
         de: "Eneco",
         'pt-br': "Skitty",
         ko: "에나비",
-        "zh-tw": "斯基蒂"
+        "zh-tw": "向尾喵",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

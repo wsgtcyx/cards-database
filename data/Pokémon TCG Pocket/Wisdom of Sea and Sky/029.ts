@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tiflosione",
         "de": "Typhlosion",
         "pt-br": "Tiflosão",
-        "zh-tw": "傷寒"
+        "zh-tw": "火暴獸",
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Three Diamond",

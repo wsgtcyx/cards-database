@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pliprin",
         'pt-br': "Prinplup",
         ko: "팽태자",
-        "zh-tw": "原理"
+        "zh-tw": "波皇子",
     },
     illustrator: "Mizue",
     rarity: "Two Diamond",

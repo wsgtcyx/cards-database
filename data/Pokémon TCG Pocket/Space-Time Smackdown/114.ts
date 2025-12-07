@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bollterus",
         'pt-br': "Bastiodon",
         ko: "바리톱스",
-        "zh-tw": "劍齒龍"
+        "zh-tw": "護城龍",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

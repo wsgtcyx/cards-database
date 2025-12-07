@@ -10,7 +10,7 @@ const card: Card = {
         de: "Banette",
         'pt-br': "Banette",
         ko: "다크펫",
-        "zh-tw": "巴內特"
+        "zh-tw": "詛咒娃娃",
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Watchog",
         "de": "Watchog",
         "pt-br": "Vigia",
-        "zh-tw": "沃托格"
+        "zh-tw": "步哨鼠",
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",

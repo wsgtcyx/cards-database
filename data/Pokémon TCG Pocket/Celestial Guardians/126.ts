@@ -10,7 +10,7 @@ const card: Card = {
         de: "Mediras",
         'pt-br': "Hakamo-o",
         ko: "짜랑고우",
-        "zh-tw": "博茂王"
+        "zh-tw": "鱗甲龍",
     },
     illustrator: "Ryuta Fuse",
     rarity: "Two Diamond",

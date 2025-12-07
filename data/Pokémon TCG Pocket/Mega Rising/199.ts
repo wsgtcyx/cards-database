@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Patrat",
         "de": "Patrat",
         "pt-br": "Patrat",
-        "zh-tw": "帕特拉特"
+        "zh-tw": "探探鼠",
     },
     illustrator: "Kyoko Umemoto",
     rarity: "One Diamond",

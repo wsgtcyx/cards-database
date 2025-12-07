@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Leafeon es",
         "de": "Leafeon ex",
         "pt-br": "Ex de Leafeon",
-        "zh-tw": "葉豐EX"
+        "zh-tw": "葉精靈 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

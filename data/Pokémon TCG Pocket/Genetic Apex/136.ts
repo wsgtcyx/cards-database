@@ -10,7 +10,7 @@ const card: Card = {
         de: "Golgantes",
         'pt-br': "Golurk",
         ko: "골루그",
-        "zh-tw": "古魯克"
+        "zh-tw": "泥偶巨人",
     },
     illustrator: "match",
     category: "Pokemon",

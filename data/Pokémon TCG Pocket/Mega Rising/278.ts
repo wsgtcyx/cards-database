@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Effettivamente ex",
         "de": "Indeedee ex",
         "pt-br": "De fato ex",
-        "zh-tw": "確實EX"
+        "zh-tw": "愛管侍 ex",
     },
     illustrator: "Keisin",
     rarity: "Two Star",

@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Steenee",
         "de": "Steenee",
         "pt-br": "Steenee",
-        "zh-tw": "斯蒂尼"
+        "zh-tw": "甜舞妮",
     },
     illustrator: "Tomokazu Komiya",
     rarity: "One Diamond",

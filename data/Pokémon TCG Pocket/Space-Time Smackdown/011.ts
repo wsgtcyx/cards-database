@@ -10,7 +10,7 @@ const card: Card = {
         de: "Chelcarain",
         'pt-br': "Grotle",
         ko: "수풀부기",
-        "zh-tw": "格羅特爾"
+        "zh-tw": "樹林龜",
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "Two Diamond",

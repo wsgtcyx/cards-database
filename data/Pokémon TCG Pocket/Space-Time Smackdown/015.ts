@@ -10,7 +10,7 @@ const card: Card = {
         de: "Burmy",
         'pt-br': "Burmy",
         ko: "도롱충이",
-        "zh-tw": "布爾米"
+        "zh-tw": "結草兒",
     },
     illustrator: "Mugi Hamada",
     rarity: "One Diamond",

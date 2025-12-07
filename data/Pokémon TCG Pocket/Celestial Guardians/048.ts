@@ -10,7 +10,7 @@ const card: Card = {
         de: "Primarene",
         'pt-br': "Primarina",
         ko: "누리레느",
-        "zh-tw": "普里馬里納"
+        "zh-tw": "西獅海壬",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",

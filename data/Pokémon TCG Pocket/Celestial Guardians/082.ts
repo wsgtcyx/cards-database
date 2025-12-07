@@ -10,7 +10,7 @@ const card: Card = {
         de: "Colossand",
         'pt-br': "Palossand",
         ko: "모래성이당",
-        "zh-tw": "帕羅桑"
+        "zh-tw": "噬沙堡爺",
     },
     illustrator: "OOYAMA",
     rarity: "Three Diamond",

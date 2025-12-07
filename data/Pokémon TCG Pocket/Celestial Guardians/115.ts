@@ -10,7 +10,7 @@ const card: Card = {
         de: "Garstella",
         'pt-br': "Mareanie",
         ko: "시마사리",
-        "zh-tw": "馬雷妮"
+        "zh-tw": "好壞星",
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

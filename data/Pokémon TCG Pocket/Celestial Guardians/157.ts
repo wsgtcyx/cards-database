@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bubungus",
         'pt-br': "Morelull",
         ko: "자마슈",
-        "zh-tw": "莫雷魯爾"
+        "zh-tw": "睡睡菇",
     },
     illustrator: "kamonabe",
     rarity: "One Star",

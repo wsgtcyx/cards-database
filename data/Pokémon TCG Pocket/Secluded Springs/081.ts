@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Raikou ex",
         "de": "Raikou ex",
         "pt-br": "Ex de Raikou",
-        "zh-tw": "賴光EX"
+        "zh-tw": "雷公 ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

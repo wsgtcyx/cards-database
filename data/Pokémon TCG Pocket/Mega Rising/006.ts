@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Cascoon",
         "de": "Kaskon",
         "pt-br": "Cascão",
-        "zh-tw": "卡斯科恩"
+        "zh-tw": "盾甲繭",
     },
     illustrator: "GOSSAN",
     rarity: "One Diamond",
