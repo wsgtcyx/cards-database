@@ -10,7 +10,7 @@ const card: Card = {
         de: "Bibor-ex",
         'pt-br': "Beedrill ex",
         ko: "독침붕 ex",
-        "zh-tw": "比德瑞爾超級"
+        "zh-tw": "比德瑞爾EX"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Star",

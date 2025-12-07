@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Flareon es",
         "de": "Flareon ex",
         "pt-br": "Flareon ex",
-        "zh-tw": "Flareon 超級"
+        "zh-tw": "Flareon EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Paldea-Suelord-ex",
         'pt-br': "Clodsirede Paldea ex",
         ko: "팔데아토오 ex",
-        "zh-tw": "Paldean Clodsire 超級"
+        "zh-tw": "Paldean Clodsire EX"
     },
     illustrator: "REND",
     rarity: "Two Star",

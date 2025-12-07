@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lugia ex",
         "de": "Lugia ex",
         "pt-br": "Lugia ex",
-        "zh-tw": "洛奇亞超級"
+        "zh-tw": "洛奇亞EX"
     },
     illustrator: "SIE NANAHARA",
     rarity: "Three Star",

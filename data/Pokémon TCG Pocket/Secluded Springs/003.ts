@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Jumpluff es",
         "de": "Jumpluff ex",
         "pt-br": "Ex-Jumpluff",
-        "zh-tw": "跳躍超級"
+        "zh-tw": "跳躍EX"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",

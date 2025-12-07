@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Tauros es",
         "de": "Tauros ex",
         "pt-br": "Ex-tauro",
-        "zh-tw": "金牛座超級"
+        "zh-tw": "金牛座EX"
     },
     illustrator: "Ounishi",
     rarity: "Two Star",

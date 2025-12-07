@@ -10,7 +10,7 @@ const card: Card = {
         de: "Silvarro-ex",
         'pt-br': "Decidueye ex",
         ko: "모크나이퍼 ex",
-        "zh-tw": "蛻膜眼超級"
+        "zh-tw": "蛻膜眼EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

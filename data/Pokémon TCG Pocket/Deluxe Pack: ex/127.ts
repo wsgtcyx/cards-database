@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Wugtrio ex",
         "de": "Wugtrio ex",
         "pt-br": "Ex-Wugtrio",
-        "zh-tw": "烏格特里奧超級"
+        "zh-tw": "烏格特里奧EX"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",

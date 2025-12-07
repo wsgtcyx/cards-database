@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Gyarados es",
         "de": "Mega Gyarados ex",
         "pt-br": "Mega Gyarados ex",
-        "zh-tw": "巨型暴鯉龍超級"
+        "zh-tw": "巨型暴鯉龍EX"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Star",

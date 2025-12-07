@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Hitmonchan es",
         "de": "Hitmonchan ex",
         "pt-br": "Ex-Hitmonchan",
-        "zh-tw": "希特蒙醬超級"
+        "zh-tw": "希特蒙醬EX"
     },
     illustrator: "nagimiso",
     rarity: "Two Star",

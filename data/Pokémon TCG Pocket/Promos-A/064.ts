@@ -10,7 +10,7 @@ const card: Card = {
         de: "Rayquaza-ex",
         'pt-br': "Rayquaza ex",
         ko: "레쿠쟈 ex",
-        "zh-tw": "烈空坐超級"
+        "zh-tw": "烈空坐EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

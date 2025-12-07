@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Alolan Muk ex",
         "de": "Alolan Muk ex",
         "pt-br": "Ex-Alolan Muk",
-        "zh-tw": "阿羅蘭·穆克超級"
+        "zh-tw": "阿羅蘭·穆克EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

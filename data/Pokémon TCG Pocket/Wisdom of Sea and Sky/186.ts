@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Shuckle es",
         "de": "Shuckle ex",
         "pt-br": "Shuckle ex",
-        "zh-tw": "卸扣超級"
+        "zh-tw": "卸扣EX"
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Two Star",
