@@ -11,7 +11,8 @@ const set: Set = {
 		fr: "L’Île Fabuleuse",
 		it: "L'Isola Misteriosa",
 		'pt-br': "Ilha Mítica",
-		ko: '환상이 있는 섬'
+		ko: '환상이 있는 섬',
+		'zh-tw': "幻島"
 	},
 
 	serie: serie,
