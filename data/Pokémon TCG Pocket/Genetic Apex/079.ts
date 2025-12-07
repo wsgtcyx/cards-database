@@ -1,65 +1,62 @@
-import { Card } from "../../../interfaces"
-import Set from "../Genetic Apex"
+import { Card } from "../../../interfaces";
+import Set from "../Genetic Apex";
 const card: Card = {
-	set: Set,
-
-	name: {
-		en: "Lapras",
-		fr: "Lokhlass",
-		es: "Lapras",
-		it: "Lapras",
-		de: "Lapras",
-		ko: "라프라스",
-		'pt-br': "Lapras"
-	},
-
-	illustrator: "Sekio",
-	category: "Pokemon",
-	hp: 100,
-	types: ["Water"],
-	stage: "Basic",
-
-	attacks: [{
-		cost: ["Water"],
-		name: {
-			en: "Hydro Pump",
-			fr: "Hydrocanon",
-			es: "Hidrobomba",
-			it: "Idropompa",
-			de: "Hydropumpe",
-			ko: "하이드로펌프",
-			'pt-br': "Jato d'Água"
-		},
-		effect: {
-			en: "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage.",
-			fr: "Si ce Pokémon a au moins 3 Énergies {W} de plus, cette attaque inflige 70 dégâts supplémentaires.",
-			es: "Si este Pokémon tiene por lo menos 3 Energías {W} adicionales unidas a él, este ataque hace 70 puntos de daño más.",
-			it: "Se questo Pokémon ha almeno 3 Energie {W} extra assegnate, questo attacco infligge 70 danni in più.",
-			de: "Wenn an dieses Pokémon mindestens 3 extra {W}-Energien angelegt sind, fügt diese Attacke 70 Schadenspunkte mehr zu.",
-			ko: "{W}에너지 3개가 추가로 붙어 있다면 70데미지를 추가한다.",
-			'pt-br': "Se este Pokémon tiver pelo menos 3 Energia {W} extra ligada a ele, este ataque causará 70 pontos de dano a mais."
-		},
-		damage: "20+"
-	}],
-
-	weaknesses: [{
-		type: "Lightning",
-		value: "+20"
-	}],
-
-	retreat: 2,
-	rarity: "Three Diamond",
-
-	description: {
-		en: "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
-		fr: "C'est un Pokémon doux et intelligent.\nIl vogue sur la mer en émettant un chant\nmagnifique.",
-		es: "Este Pokémon posee una notable inteligencia\ny un corazón de oro. Entona un canto\nmelodioso mientras surca el mar.",
-		it: "È un Pokémon intelligente e dall'animo\ngentile. Solca i mari facendo riecheggiare\nil suo canto dolce e melodioso.",
-		de: "Ein intelligentes und herzensgutes Pokémon.\nWährend es auf dem Meer schwimmt, lässt es\nseinen herrlichen Gesang erklingen.",
-		'pt-br': "Este Pokémon esperto e bondoso flutua\nna superfície do oceano, enquanto sua\nlinda canção ecoa ao redor.",
-		ko: "영리하고 마음 착한 포켓몬.\n아름다운 소리로 노래 부르며\n바다 위를 헤엄친다."
-	},
-
-	boosters: ["charizard"]
-}
-export default card
+    set: Set,
+    name: {
+        en: "Lapras",
+        fr: "Lokhlass",
+        es: "Lapras",
+        it: "Lapras",
+        de: "Lapras",
+        ko: "라프라스",
+        'pt-br': "Lapras",
+        "zh-tw": "拉普拉斯"
+    },
+    illustrator: "Sekio",
+    category: "Pokemon",
+    hp: 100,
+    types: ["Water"],
+    stage: "Basic",
+    attacks: [{
+            cost: ["Water"],
+            name: {
+                en: "Hydro Pump",
+                fr: "Hydrocanon",
+                es: "Hidrobomba",
+                it: "Idropompa",
+                de: "Hydropumpe",
+                ko: "하이드로펌프",
+                'pt-br': "Jato d'Água",
+                "zh-tw": "液壓泵"
+            },
+            effect: {
+                en: "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage.",
+                fr: "Si ce Pokémon a au moins 3 Énergies {W} de plus, cette attaque inflige 70 dégâts supplémentaires.",
+                es: "Si este Pokémon tiene por lo menos 3 Energías {W} adicionales unidas a él, este ataque hace 70 puntos de daño más.",
+                it: "Se questo Pokémon ha almeno 3 Energie {W} extra assegnate, questo attacco infligge 70 danni in più.",
+                de: "Wenn an dieses Pokémon mindestens 3 extra {W}-Energien angelegt sind, fügt diese Attacke 70 Schadenspunkte mehr zu.",
+                ko: "{W}에너지 3개가 추가로 붙어 있다면 70데미지를 추가한다.",
+                'pt-br': "Se este Pokémon tiver pelo menos 3 Energia {W} extra ligada a ele, este ataque causará 70 pontos de dano a mais.",
+                "zh-tw": "如果這只神奇寶貝附加了至少 3 個額外的 {W} 能量，則此攻擊造成的傷害增加 70 點。"
+            },
+            damage: "20+"
+        }],
+    weaknesses: [{
+            type: "Lightning",
+            value: "+20"
+        }],
+    retreat: 2,
+    rarity: "Three Diamond",
+    description: {
+        en: "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+        fr: "C'est un Pokémon doux et intelligent.\nIl vogue sur la mer en émettant un chant\nmagnifique.",
+        es: "Este Pokémon posee una notable inteligencia\ny un corazón de oro. Entona un canto\nmelodioso mientras surca el mar.",
+        it: "È un Pokémon intelligente e dall'animo\ngentile. Solca i mari facendo riecheggiare\nil suo canto dolce e melodioso.",
+        de: "Ein intelligentes und herzensgutes Pokémon.\nWährend es auf dem Meer schwimmt, lässt es\nseinen herrlichen Gesang erklingen.",
+        'pt-br': "Este Pokémon esperto e bondoso flutua\nna superfície do oceano, enquanto sua\nlinda canção ecoa ao redor.",
+        ko: "영리하고 마음 착한 포켓몬.\n아름다운 소리로 노래 부르며\n바다 위를 헤엄친다.",
+        "zh-tw": "聰明又善良的神奇寶貝，它在海面上滑行，周圍迴響著優美的歌聲。"
+    },
+    boosters: ["charizard"]
+};
+export default card;

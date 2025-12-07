@@ -1,0 +1,9231 @@
+[
+  {
+    "en": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/185.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/244.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/163.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/186.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/079.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/234.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/114.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/199.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Abra",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/115.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/116.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Absorb",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/024.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Aerodactyl",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/210.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alakazam",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/117.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/236.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/196.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/246.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/009.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Although it's carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/203.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/197.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Amass",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/181.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/040.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "An enemy that takes its eyes off any of the three heads—even for a second—will get pecked severely.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/200.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/077.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Ancient Whirlpool",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/082.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Aqua Edge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/058.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Arbok",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/165.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Arcanine",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/040.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Arcanine ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/041.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/254.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Articuno",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/083.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Articuno ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/084.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/258.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/275.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/136.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/150.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/123.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/261.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/277.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/182.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Attach",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/027.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Barrier Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/126.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/283.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/081.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Beedrill",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/010.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bellsprout",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/018.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/019.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Bisharp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/180.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/039.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/164.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/167.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/190.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Blaine",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/221.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/268.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Blastoise",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/055.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Blastoise ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/056.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/256.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Blitzle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/105.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/106.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Blizzard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/084.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/258.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/275.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Blot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/029.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bone Beatdown",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/152.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bonemerang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/153.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/264.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/174.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Bother",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/122.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Brock",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/224.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/271.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bruxish",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/091.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bubble Drain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/080.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bug Bite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/006.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/009.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bulbasaur",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/001.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/002.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/227.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Butterfree",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/007.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/164.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Call for Family",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/166.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/192.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Caterpie",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/005.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/006.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Centiskorch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/052.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Chansey",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/202.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Charizard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/035.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Charizard ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/036.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/253.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/280.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/284.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Charmander",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/033.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/034.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/230.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Charmeleon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/034.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/035.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/036.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/253.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/280.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/284.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Choose 1 of your {W} Pokémon, and flip a coin until you get tails. For each heads, take a {W} Energy from your Energy Zone and attach it to that Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/220.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/267.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Choose 1 of your opponent’s Pokémon’s attacks and use it as this attack. If this Pokémon doesn’t have the necessary Energy to use that attack, this attack does nothing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/205.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/247.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Cinccino",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/213.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Circle Circuit",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/096.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/259.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/281.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/285.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Clefable",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/114.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Clefairy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/113.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/114.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Clobbopus",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/162.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/163.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Cloyster",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/067.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/067.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Combustion",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/048.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Continuous Lick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/201.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Copy Anything",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/205.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/247.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Corner",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/165.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cottonee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/027.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/028.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Counterattack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/061.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Crimson Storm",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/036.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/253.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/280.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/284.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Crunch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/178.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cubone",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/151.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/152.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/153.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/239.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/264.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Data Scan",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/249.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/086.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Dewgong",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/065.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Dig",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/140.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Diglett",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/139.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/140.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/238.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Discard 1 {R} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/038.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/045.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard 2 {P} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/128.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/129.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/262.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/282.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/286.ts"
+    ],
+    "paths": [
+      "attacks[0].effect",
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "Discard 2 {R} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/035.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/036.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/253.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/280.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/284.ts"
+    ],
+    "paths": [
+      "attacks[0].effect",
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "Discard a {R} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/033.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/052.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/230.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/233.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard all Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/095.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Ditto",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/205.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/247.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Dizzy Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/203.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Do the Wave",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/213.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dodrio",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/200.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Doduo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/199.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/200.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Dome Fossil",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/158.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/217.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Double Horn",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/026.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/229.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Double Lariat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/136.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Double-Edge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/149.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Draco Meteor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/185.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/244.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dragonair",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/184.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/185.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/244.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Dragonite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/185.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/244.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Dratini",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/183.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/184.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Draw a card.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/196.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/246.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Drill Peck",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/200.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Drill Run",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/192.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Drive Off",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/188.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/245.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Drool",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/012.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/228.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Drowzee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/124.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/125.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Dubwool",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/215.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Ducklett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/085.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/086.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Dugtrio",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/140.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/221.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/268.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/223.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/270.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During your opponent’s next turn, attacks used by the Defending Pokémon do −20 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/151.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/239.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, the Defending Pokémon can't attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/082.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/165.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/126.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/022.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Eelektrik",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/108.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/109.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Eelektross",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/109.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Eevee",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/045.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/080.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/102.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/206.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/207.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/208.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/248.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Ekans",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/164.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/165.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Electabuzz",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/101.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Electro Ball",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/100.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/235.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Electrode",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/100.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/235.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Ember",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/033.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/230.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/134.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Erika",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/219.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/266.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/018.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Exeggcute",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/021.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/022.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/023.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/252.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Exeggutor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/022.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Exeggutor ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/023.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/252.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Farfetch'd",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/198.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Fearow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/192.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Females are more sensitive to smells than males. While foraging, they'll use their whiskers to check wind direction and stay downwind of predators.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/166.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Fight Back",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/142.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Find a Friend",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/005.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/052.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Claws",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/034.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/050.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Mane",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/043.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/231.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Spin",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/035.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flamethrower",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/038.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/045.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/085.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flare",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/042.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flareon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/045.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/069.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 100 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/136.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 30 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/203.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 50 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/026.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/229.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 80 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/153.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/264.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/047.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/255.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/274.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 4 coins. This attack does 40 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/102.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 4 coins. This attack does 50 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/104.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/276.ts"
+    ],
+    "paths": [
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/201.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/197.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/178.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/192.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/140.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/037.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/022.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 40 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/023.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/111.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/252.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/101.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent shuffles their Active Pokémon into their deck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/210.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/083.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/109.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/112.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/031.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/046.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/073.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flop",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/072.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/087.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/059.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/005.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Fragrance Trap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/020.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Froakie",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/087.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/088.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Frogadier",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/088.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/089.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Frosmoth",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/093.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/093.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Gardevoir",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/132.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gas Leak",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/177.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/243.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Gastly",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/120.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/121.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Gengar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/122.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gengar ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/123.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/261.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/277.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gentle Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/062.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/202.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Geodude",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/147.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/148.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Geodude that have lived a long life have had all their edges smoothed out until they're totally round. They also have a calm, quiet disposition.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/147.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Giant Bloom",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/004.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/251.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Giovanni",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/223.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/270.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Glide",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/172.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gloom",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/012.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/013.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/228.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Gnaw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/051.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/094.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/133.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/189.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gogoat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/032.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Golbat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/173.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/242.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Goldeen",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/072.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/073.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Golduck",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/058.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Golem",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/149.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Golett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/135.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/136.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Golurk",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/136.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Grapploct",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/163.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Graveler",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/148.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/149.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Greninja",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/089.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Grimer",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/174.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/175.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Growl",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/151.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/239.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Growlithe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/039.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/040.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/041.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/254.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Gust",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/007.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/186.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/187.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gyarados",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/233.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Hard Coat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/182.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Haunter",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/121.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/122.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/123.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/261.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/277.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Head Bolt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/108.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Headache",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/057.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Headbutt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/064.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heal 10 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/024.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/029.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heal 30 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/003.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/004.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/080.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/251.ts"
+    ],
+    "paths": [
+      "attacks[0].effect",
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "Heal 50 damage from 1 of your {G} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/219.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/266.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/159.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heart Stamp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/134.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heat Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/047.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/255.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/274.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Heat Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/040.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heatmor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/048.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Heavy Impact",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/182.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heliolisk",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/111.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Helioptile",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/110.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/111.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Helix Fossil",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/081.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/216.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/024.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Hitmonchan",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/155.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Hitmonlee",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/154.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Horn Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/170.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/204.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Horn Drill",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/157.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Horn Hazard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/073.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Horsea",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/070.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/071.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/070.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Hydro Bazooka",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/056.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/256.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Hydro Pump",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/055.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/079.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/234.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hydro Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/076.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/257.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hyper Beam",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/233.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hyper Voice",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/194.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hypno",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/125.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Ice Beam",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/083.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Ice Wing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/084.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/258.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/275.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/011.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/177.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/243.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/055.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/056.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/256.ts"
+    ],
+    "paths": [
+      "attacks[0].effect",
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/079.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/234.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has damage on it, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/142.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/061.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon is in the Active Spot, once during your turn, you may switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/020.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/201.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If you visit a beach at the end of summer, you'll be able to see groups of Staryu lighting up in a steady rhythm.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/074.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/091.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/175.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/073.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/007.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/160.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Inferno Dance",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/047.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/255.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/274.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Inferno Onrush",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/041.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/254.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/045.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/142.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/157.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/068.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can sense the feelings of others by touching them with its horns. This species has assisted people with their work since 5,000 years ago.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/032.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/088.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can't run properly when it's newly born. As it races around with others of its kind, its legs grow stronger.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/042.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/148.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/102.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/089.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/055.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/181.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/092.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/172.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/091.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/034.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/039.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/033.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/230.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a psychic power that enables it to distort the space around it and see into the future.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/131.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/194.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/117.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/236.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/013.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/010.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/057.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/066.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/118.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/237.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/211.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/250.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/054.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/113.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/185.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/244.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/038.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/006.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/121.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/139.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/238.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/080.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/141.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/090.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/137.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/173.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/242.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/145.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/124.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/099.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It scatters cotton all over the place as a prank. If it gets wet, it'll become too heavy to move and have no choice but to answer for its mischief.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/028.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/087.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/183.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/027.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/025.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/035.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/051.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/065.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/049.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/178.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/128.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/120.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/046.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's said that this Pokémon's beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/083.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/071.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/175.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/162.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/206.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/207.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/208.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/248.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/176.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/061.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/213.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/214.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/072.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its incisors grow continuously throughout its life. If its incisors get too long, this Pokémon becomes unable to eat, and it starves to death.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/189.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/069.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/144.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/012.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/228.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/003.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/155.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/191.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/127.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/095.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/140.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/205.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/247.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/143.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Ivysaur",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/002.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/003.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/004.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/251.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Jab",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/155.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Jigglypuff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/193.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/194.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/195.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/265.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/279.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Jolteon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/102.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Jynx",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/127.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Kabuto",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/158.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/159.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Kabutops",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/159.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/159.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Kadabra",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/116.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/117.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/236.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Kakuna",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/009.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/010.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Kangaskhan",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/203.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Kingler",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/069.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Kirlia",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/131.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/132.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Knock Back",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/163.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Knuckle Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/060.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/143.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/162.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "KO Crab",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/069.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Koffing",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/176.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/177.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/243.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Koga",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/222.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/269.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Krabby",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/068.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/069.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Land Crush",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/150.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lapras",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/079.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/234.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Leaf Supply",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/030.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Leech Life",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/159.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Leek Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/198.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lickitung",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/201.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lightning Ball",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/097.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lilligant",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/030.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lovestrike",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/168.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/240.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Low Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/141.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lt. Surge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/226.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/273.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machamp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/145.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machamp ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/146.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/263.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/278.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machoke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/144.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/145.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/146.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/263.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/278.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Machop",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/143.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/144.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magical Shot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/114.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Magikarp",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/077.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/233.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magma Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/044.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Magmar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/044.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/044.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Magnemite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/097.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/098.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magneton",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/098.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mankey",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/141.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/142.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/101.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Marowak",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/152.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Marowak ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/153.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/264.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mawile",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/178.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mega Drain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/003.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mega Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/061.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/135.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/146.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/263.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/278.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Melmetal",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/182.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Meltan",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/181.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/182.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Meowth",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/196.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/197.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/246.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Metal Claw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/180.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Metapod",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/006.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/007.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mew",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/283.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mewtwo",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/128.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mewtwo ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/129.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/262.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/282.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/286.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mienfoo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/160.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/161.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mienshao",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/161.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Minccino",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/212.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/213.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mist Slash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/089.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Misty",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/220.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/267.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Moltres",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/046.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Moltres ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/047.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/255.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/274.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Move all {L} Energy from your Benched Pokémon to your Raichu, Electrode, or Electabuzz in the Active Spot.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/226.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/273.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Mr. Mime",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/126.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mud-Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/139.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/238.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Muk",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/175.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mumble",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/124.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Nidoking",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/171.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/241.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Nidoqueen",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/168.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/240.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/168.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/240.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Nidoran♀",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/166.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/167.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Nidoran♂",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/169.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/170.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Nidorina",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/167.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/168.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/240.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Nidorino",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/170.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/171.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/241.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Ninetales",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/038.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Oddish",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/011.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/012.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/228.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/008.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Old Amber",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/210.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/218.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Omanyte",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/081.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/082.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Omastar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/082.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/177.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/243.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/089.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/125.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may heal 20 damage from each of your Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/007.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may look at the top card of your deck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/249.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/188.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/245.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may take 1 {P} Energy from your Energy Zone and attach it to the {P} Pokémon in the Active Spot.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/132.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/098.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/078.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/233.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/111.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Onix",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/150.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Paras",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/014.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/015.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Parasect",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/015.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pawniard",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/179.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/180.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pawniard will fearlessly challenge even powerful foes. In a pinch, it will cling to opponents and pierce them with the blades all over its body.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/179.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Pay Day",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/196.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/246.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Peck",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/104.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/169.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/191.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/199.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/276.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/190.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Persian",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/197.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Petilil",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/029.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/030.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pidgeot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/188.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/245.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pidgeotto",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/187.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/188.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/245.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pidgey",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/186.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/187.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pierce",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/179.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pikachu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/094.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/095.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pikachu ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/096.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/259.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/281.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/285.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pin Missile",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/102.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pincurchin",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/112.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pinsir",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/026.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/229.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Play this card as if it were a 40-HP Basic {C} Pokémon.\nAt any time during your turn, you may discard this card from play.\nThis card can't retreat.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/216.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/217.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/218.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Poison Gas",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/174.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poison Horn",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/171.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/241.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poison oozes from all over its body. It catches small bug Pokémon at night that are attracted by light.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/016.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Poison Powder",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/017.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poison Tentacles",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/063.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Poliwag",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/059.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/060.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Poliwhirl",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/060.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/061.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Poliwrath",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/061.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Ponyta",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/042.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/043.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/231.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Porygon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/249.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pound",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/160.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/193.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Powder Heal",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/007.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Powder Snow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/093.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Power Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/128.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Primal Wingbeat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/210.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Primeape",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/142.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Psy Report",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/283.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psy Shadow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/132.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Psychic",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/117.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/127.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/236.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psychic Sphere",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/129.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/262.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/282.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/286.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psydrive",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/129.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/262.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/282.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/286.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Psyduck",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/057.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/058.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Psypunch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/125.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psyshot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/132.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Put 1 random {G} Pokémon from your deck into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/005.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Put 1 random Nidoran♂ from your deck onto your Bench.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/166.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Put your Muk or Weezing in the Active Spot into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/222.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/269.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Pyukumuku",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/090.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Quick Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/111.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Raging Thunder",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/103.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/260.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Raichu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/095.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rain Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/090.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Ralts",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/130.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/131.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Ram",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/011.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/092.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/130.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/183.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rapidash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/043.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/231.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Raticate",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/190.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rattata",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/189.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/190.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Razor Fin",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/059.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Razor Leaf",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/002.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/004.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/019.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/032.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/251.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rhydon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/157.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rhyhorn",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/156.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/157.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Rolling Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/028.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/215.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rollout",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/148.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/211.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/250.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sabrina",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/225.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/272.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/020.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Salandit",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/049.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/050.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Salazzle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/050.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/050.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Sandshrew",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/137.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/138.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Sandslash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/138.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Scratch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/014.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/049.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/137.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Scyther",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/025.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Seadra",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/071.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Seaking",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/073.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Second Strike",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/091.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Seed Bomb",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/021.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Seel",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/064.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/065.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Seismic Toss",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/145.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shadow Claw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/197.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shadowy Spellbind",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/123.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/261.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/277.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Sharp Scythe",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/025.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sharp Sting",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/010.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sharpen",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/249.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shell Armor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/067.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Shell Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/158.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shellder",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/066.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/067.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Sizzlipede",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/051.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/052.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Skiddo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/031.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/032.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Sky Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/046.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/113.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Slash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/015.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/036.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/138.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/253.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/280.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/284.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sleep Pendulum",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/125.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Sleepy Song",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/195.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/265.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/279.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Slowbro",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/119.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Slowpoke",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/118.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/119.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/237.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Smack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/074.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/131.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Snom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/092.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/093.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Snorlax",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/211.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/250.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Soothing Scent",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/013.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spearow",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/191.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/192.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Spinning Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/098.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spiral Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/161.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/077.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spooky Shot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/123.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/261.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/277.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Squirtle",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/053.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/054.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/232.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/060.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Starmie",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/075.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Starmie ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/076.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/257.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Staryu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/074.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/075.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/076.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/257.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/209.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/249.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Sting",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/008.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Stomp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/022.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Strength",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/144.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Stretch Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/154.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/156.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Suffocating Gas",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/120.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/176.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Super Psy Bolt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/116.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/119.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Surf",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/056.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/065.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/067.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/256.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Surprise Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/031.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Swanna",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/086.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/225.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/272.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Switch out your opponent’s Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/163.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/115.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Swoobat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/134.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/016.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/099.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/147.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/156.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/177.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/206.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/207.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/208.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/214.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/243.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/248.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tail Smack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/184.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/212.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tail Whap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/110.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/118.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/237.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tail Whip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/037.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Take 1 {F} Energy from your Energy Zone and attach it to your Golem or Onix.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/224.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/271.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Take 1 {M} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/181.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Take a {G} Energy from your Energy Zone and attach it to 1 of your Benched {G} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/030.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Tangela",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/024.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tauros",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/204.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Teleport",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/115.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tentacool",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/062.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/063.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/062.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Tentacruel",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/063.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Thanks to its thick fat, cold seas don't bother it at all, but it gets tired pretty easily in warm waters.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/064.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/126.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/015.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/187.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The drier the area Sandslash lives in, the harder and smoother the Pokémon's spikes will feel when touched.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/138.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/097.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/030.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The horn on a male Nidoran's forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/169.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The horn on its head has atrophied. It's thought that this happens so Nidorina's children won't get poked while their mother is feeding them.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/167.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The horns on its head provide a strong power that enables it to sense people's emotions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/130.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/165.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/019.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/029.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/100.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/235.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/014.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/198.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/212.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/017.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/001.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/227.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/048.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/026.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/229.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/108.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/109.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/184.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/135.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/154.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/084.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/258.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/275.ts"
+    ],
+    "paths": [
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 30 damage to 1 of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/103.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/260.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/127.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 damage for each of your Benched {L} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/096.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/259.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/281.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/285.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 damage for each of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/213.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/154.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/106.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/117.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/236.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/071.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 50 more damage for each of your Benched Nidoking.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/168.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/240.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/210.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/202.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 20 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/040.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/041.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/254.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 50 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/149.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/043.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/231.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/180.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/112.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/075.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/103.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/152.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon takes -10 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/067.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon takes -20 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/182.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra's dreams affect the powers that the Pokémon wields.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/115.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/158.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/021.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/098.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Thunder Fang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/109.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Thunder Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/101.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Thunder Shock",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/112.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Thunder Spear",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/106.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Thunderbolt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/095.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Thundering Hurricane",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/104.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/276.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Tiny Charge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/107.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/132.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/122.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Tongue Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/066.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tropical Swing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/023.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/252.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tynamo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/107.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/108.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Until recently, people living in the mountains would ride on the backs of these Pokémon to traverse the mountain paths.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/031.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/116.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Vaporeon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/080.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Venomoth",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/017.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Venonat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/016.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/017.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Venoshock",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/175.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Venusaur",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/003.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Venusaur ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/004.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/251.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Victreebel",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/020.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Vileplume",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/013.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Vine Whip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/001.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/018.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/020.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/227.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Vise Grip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/068.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Volt Charge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/098.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Voltorb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/099.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/100.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/235.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Vulpix",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/037.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/038.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Wartortle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/054.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/055.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/056.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/256.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Water Arrow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/071.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Drip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/088.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Gun",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/053.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/070.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/081.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/232.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Shuriken",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/089.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Wave Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/054.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/075.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/215.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Weedle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/008.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/009.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Weepinbell",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/019.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/020.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Weezing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/177.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/243.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Weighed down by a large and heavy shell, Omastar couldn't move very fast. Some say it went extinct because it was unable to catch food.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/082.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/119.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/085.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/149.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/188.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/245.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it goes on a rampage, it's impossible to control. But in the presence of a Nidoqueen it's lived with for a long time, Nidoking calms down.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/171.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/241.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/052.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/094.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it locks eyes with an enemy, it will use a mix of psi moves, such as Hypnosis and Confusion.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/125.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/053.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/232.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/058.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/193.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/161.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/110.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/204.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/002.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/151.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/239.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/063.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/106.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/105.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it's evidence that Woobat live there.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/133.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/107.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/037.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Whimsicott",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/028.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Wigglytuff",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/194.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Wigglytuff ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/195.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/265.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/279.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Will-O-Wisp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/121.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Wing Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/086.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/173.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/188.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/242.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/245.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "With a horn that's harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/170.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Woobat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/133.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/134.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Wooloo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/214.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/215.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/057.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/122.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent reveals their hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/283.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/013.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/093.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/195.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/265.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/279.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/017.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/063.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/171.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/174.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/241.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Zap Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/105.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Zapdos",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/103.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Zapdos ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/104.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/260.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/276.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Zebstrika",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/106.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Zubat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Genetic Apex/172.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/173.ts",
+      "data/Pokémon TCG Pocket/Genetic Apex/242.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  }
+]

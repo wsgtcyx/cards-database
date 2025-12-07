@@ -1,0 +1,3457 @@
+[
+  {
+    "en": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/030.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Abomasnow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/021.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/070.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Adaman",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/075.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/090.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/008.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/036.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/079.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Ancient people believed that the pattern on Bronzor's back contained a mysterious power.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/058.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Arceus",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/070.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Arceus ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/071.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/086.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/095.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/096.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/007.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/055.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "As long as this Pokémon is on your Bench, your Active Basic Pokémon's Retreat Cost is 1 less.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/069.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/081.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Astonish",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/031.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "At night, Combee sleep in a group of about a hundred, packed closely together in a lump.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/004.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Azumarill",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/015.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Barboach",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/016.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/017.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Barry",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/074.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/089.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Beat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/051.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/048.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/049.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Blizzard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/019.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/039.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target's neck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/050.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Brave Bird",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/068.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bronzong",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/059.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bronzor",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/058.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/059.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Bug Bite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/004.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Burmy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/002.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/003.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Carnivine",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/009.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Celestic Town Elder",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/073.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/088.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "CHECK",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/078.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Cherrim",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/007.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/008.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cherubi",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/006.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/007.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/008.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Clefable",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/030.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Clefairy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/029.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/030.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Collapse",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/063.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Combee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/004.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/005.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Corkscrew Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/020.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/039.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Corner",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/012.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/076.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Crisis Dive",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/061.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Croagunk",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/051.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/052.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Crobat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/050.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cunning Link",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/050.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Darkness Fang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/050.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dash Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/035.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Defensive Unit",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/057.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/085.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/094.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Discard 2 random Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/061.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a random Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/070.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Donphan",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/038.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/038.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Dragon Claw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/047.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/084.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/093.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/020.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/022.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/083.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/092.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "During this turn, attacks used by your Snorlax, Heracross, and Staraptor cost 2 less {C} Energy.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/074.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/089.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During your next turn, this Pokémon's Rolling Spin attack does +60 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/038.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, all of your {M} Pokémon take −20 damage from attacks from your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/075.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/090.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, attacks used by the Defending Pokémon do −30 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/030.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/028.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/012.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/076.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/057.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/085.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/094.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/010.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/022.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/062.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/082.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/083.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/091.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/092.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Electrike",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/027.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/028.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Extremely strong, it can change the landscape. It is so insolent that it doesn't care about others.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/041.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Fabled Luster",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/071.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/086.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/095.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/096.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Fighting Headbutt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/036.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/079.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/069.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/081.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flare",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/011.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/028.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. If both of them are heads, this attack does 70 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/001.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/023.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon also does 20 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/017.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/031.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/060.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/044.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Forest Breath",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/010.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/082.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/091.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Freezing Wind",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/022.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/083.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/092.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Froslass",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/019.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gabite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/046.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/047.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/084.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/093.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Garchomp ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/047.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/084.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/093.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gastly",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/031.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/032.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Gengar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/033.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gible",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/045.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/046.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Giratina",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/061.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Glaceon ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/022.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/083.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/092.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Glide",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/066.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Golbat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/049.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/050.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Gust",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/003.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Haunter",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/032.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/033.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Heal 20 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/008.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heal 40 damage from each of your Pokémon that has any {W} Energy attached.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/072.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/087.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Heatran",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/013.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Heracross",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/001.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Hidden Power",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/078.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hoothoot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/064.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/065.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Houndoom",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/012.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/076.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Houndour",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/011.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/012.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/076.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Hypnoblast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/033.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Icicle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/018.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "If this Pokémon has damage on it, this attack does 40 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/013.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/012.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/076.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon cost 1 less {C} Energy.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/021.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/009.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/041.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/013.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/035.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/026.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/055.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a {M} Pokémon, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/056.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a Pokémon {ex}, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/036.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/079.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/059.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/046.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/051.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Irida",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/072.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/087.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Iron Beam Breaker",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/056.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/064.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/009.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/069.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/081.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/013.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/048.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/005.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/017.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/063.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/029.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/018.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/011.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/032.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/021.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/001.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves the honey of flowers and steals honey collected by Combee.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/003.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/049.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It moves less than an inch a year, but when it's in a jam, it will spin and drill down into the ground in a split second.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/042.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/043.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/006.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/045.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia's strategy for gaining Arceus's powers.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/023.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/028.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/027.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/056.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/031.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/062.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its electricity-like body can enter some kinds of machines and take control in order to make mischief.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/035.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/065.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/078.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/015.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/040.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/026.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/016.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/043.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Kick Shot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/044.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Land Crush",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/041.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Larvitar",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/039.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/040.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Leafage",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/006.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Leafeon ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/010.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/082.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/091.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Leech Seed",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/008.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Linear Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/047.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/084.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/093.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Magnemite",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/053.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/054.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/080.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magneton",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/054.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/055.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magnezone",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/055.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Manectric",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/028.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Marill",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/014.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/015.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/077.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mawile",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/056.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Medicham",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/044.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Meditite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/043.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/044.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mega Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/021.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Moonblast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/030.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mothim",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/003.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mud-Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/016.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mumble",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/032.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Noctowl",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/065.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Nosepass",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/042.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/057.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/085.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/094.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Once during your turn, if this Pokémon is in the Active Spot, you may take a {G} Energy from your Energy Zone and attach it to 1 of your {G} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/010.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/082.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/091.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, if you have Arceus or Arceus ex in play, you may do 30 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/050.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may choose either player. Look at the top card of that player's deck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/078.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Origin Forme Dialga",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/060.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Origin Forme Palkia",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/023.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Peck",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/064.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Phanpy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/037.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/038.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Phione",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/024.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pikachu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/025.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/026.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Power Beam",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/055.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Power Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/070.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Power Link",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/009.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/041.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Probopass ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/057.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/085.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/094.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Psychic",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/059.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pupitar",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/040.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/041.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Put 1 random Basic Pokémon from your discard pile into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/073.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/088.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/060.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Ragin' Mad Strike",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/013.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Raichu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/026.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Ram",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/002.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/058.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Reckless Charge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/005.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/067.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Resilience Link",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/026.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/055.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Rolling Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/054.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rolling Spin",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/038.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rollout",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/037.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rotom",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/035.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Sharp Scythe",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/046.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shaymin",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/069.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/081.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Silent Wing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/065.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Single-Horn Throw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/001.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sky Support",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/069.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/081.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Smack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/029.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Snorlax",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/063.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Snorunt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/018.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/019.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Snover",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/020.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/021.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Snowy Terrain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/022.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/083.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/092.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Solar Beam",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/010.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/082.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/091.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spark",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/025.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/026.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Speed Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/040.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Speed Link",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/013.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/035.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Staraptor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/068.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Staravia",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/067.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/068.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Starly",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/066.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/067.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Sudowoodo",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/036.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/079.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/052.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/042.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/045.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/053.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/080.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tail Whap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/062.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/053.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/080.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/014.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/077.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/066.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/025.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/019.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/026.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/035.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/059.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 more damage for each of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/071.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/086.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/095.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/096.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/047.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/084.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/093.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 20 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/068.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 30 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/005.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon can't be affected by any Special Conditions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/071.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/086.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/095.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/096.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/063.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/061.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/037.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Thrash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/017.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/054.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Through yoga training, it gained the psychic power to predict its foe's next move.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/044.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Time Mash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/060.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "To shelter itself from cold, wintry winds, it covers\nitself with a cloak made of twigs and leaves.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/002.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/033.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Toxic",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/052.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Toxicroak",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/052.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tyranitar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/041.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Ultimate Force",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/071.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/086.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/095.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/096.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Unown",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/078.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Vespiquen",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/005.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Vigor Link",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/021.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Vine Whip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/009.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Gun",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/014.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/077.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Water Pulse",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/024.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Waterfall",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/015.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/019.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/025.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/068.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/024.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Whiscash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/017.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Wing Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/067.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Worry Seed",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/007.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Your opponent reveals their hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/065.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/024.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/033.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Confused.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/007.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Poisoned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/052.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Zap Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/027.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Zone Smash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/023.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Zubat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Triumphant Light/048.ts",
+      "data/Pokémon TCG Pocket/Triumphant Light/049.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  }
+]

@@ -5,7 +5,13 @@ const set: Set = {
 	id: "B1",
 
 	name: {
-		en: "Mega Rising"
+		en: "Mega Rising",
+		fr: "Ascension Méga",
+		es: "Ascenso Mega",
+		it: "Ascesa Mega",
+		de: "Mega-Aufstieg",
+		'pt-br': "Ascensão Mega",
+		'zh-tw': "超進化崛起"
 	},
 
 	serie: serie,
