@@ -7819,7 +7819,12 @@
   },
   "Absorb": {
     "en": "Absorb",
-    "zh-tw": "吸收"
+    "zh-tw": "吸收",
+    "it": "Assorbire",
+    "fr": "Absorber",
+    "de": "Absorbieren",
+    "pt-br": "Absorver",
+    "es": "Absorber"
   },
   "Aerodactyl": {
     "en": "Aerodactyl",
@@ -8301,7 +8306,12 @@
   },
   "Dugtrio": {
     "en": "Dugtrio",
-    "zh-tw": "杜格特里奧"
+    "zh-tw": "杜格特里奧",
+    "fr": "Dugtrio",
+    "es": "Dugtrio",
+    "pt-br": "Dugtrio",
+    "de": "Dugtrio",
+    "it": "Dugtrio"
   },
   "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokémon.": {
     "en": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokémon.",
@@ -8343,7 +8353,12 @@
   },
   "Eelektross": {
     "en": "Eelektross",
-    "zh-tw": "電鰻"
+    "zh-tw": "電鰻",
+    "es": "Elektross",
+    "fr": "Électross",
+    "it": "Elektross",
+    "de": "Elektross",
+    "pt-br": "Eletross"
   },
   "Ekans": {
     "en": "Ekans",
@@ -8488,7 +8503,12 @@
   },
   "Flip 2 coins. If both of them are heads, this attack does 80 more damage.": {
     "en": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
-    "zh-tw": "翻轉 2 個硬幣。如果兩人都是正面，則這次攻擊會造成 80 點額外傷害。"
+    "zh-tw": "翻轉 2 個硬幣。如果兩人都是正面，則這次攻擊會造成 80 點額外傷害。",
+    "es": "Lanza 2 monedas. Si ambos son cara, este ataque hace 80 puntos de daño más.",
+    "pt-br": "Jogue 2 moedas. Se ambos derem cara, este ataque causa 80 de dano a mais.",
+    "it": "Lancia 2 monete. Se entrambi escono testa, questo attacco infligge 80 danni in più.",
+    "de": "Wirf 2 Münzen. Wenn beide Köpfe sind, fügt dieser Angriff 80 Schadenspunkte mehr zu.",
+    "fr": "Lancez 2 pièces. Si les deux sont face, cette attaque inflige 80 dégâts supplémentaires."
   },
   "Flip 2 coins. This attack does 100 damage for each heads.": {
     "en": "Flip 2 coins. This attack does 100 damage for each heads.",
@@ -8741,7 +8761,12 @@
   },
   "Headache": {
     "en": "Headache",
-    "zh-tw": "頭痛"
+    "zh-tw": "頭痛",
+    "fr": "Mal de tête",
+    "es": "Dolor de cabeza",
+    "de": "Kopfschmerzen",
+    "pt-br": "Dor de cabeça",
+    "it": "Mal di testa"
   },
   "Heal 10 damage from this Pokémon.": {
     "en": "Heal 10 damage from this Pokémon.",
@@ -9320,7 +9345,12 @@
   },
   "Kingler": {
     "en": "Kingler",
-    "zh-tw": "金勒"
+    "zh-tw": "金勒",
+    "fr": "Kingler",
+    "es": "reyer",
+    "pt-br": "Kingler",
+    "it": "Kingler",
+    "de": "Kingler"
   },
   "Kirlia": {
     "en": "Kirlia",
@@ -9337,7 +9367,12 @@
   },
   "KO Crab": {
     "en": "KO Crab",
-    "zh-tw": "KO蟹"
+    "zh-tw": "KO蟹",
+    "fr": "Crabe KO",
+    "es": "Cangrejo KO",
+    "it": "KO Granchio",
+    "pt-br": "Caranguejo nocauteado",
+    "de": "KO-Krabbe"
   },
   "Koffing": {
     "en": "Koffing",
@@ -9992,11 +10027,21 @@
   },
   "Pyukumuku": {
     "en": "Pyukumuku",
-    "zh-tw": "普庫穆庫"
+    "zh-tw": "普庫穆庫",
+    "es": "Pyukumuku",
+    "it": "Pyukumuku",
+    "fr": "Pyukumuku",
+    "de": "Pyukumuku",
+    "pt-br": "Pyukumuku"
   },
   "Quick Attack": {
     "en": "Quick Attack",
-    "zh-tw": "快速攻擊"
+    "zh-tw": "快速攻擊",
+    "es": "Ataque rápido",
+    "fr": "Attaque rapide",
+    "it": "Attacco rapido",
+    "de": "Schneller Angriff",
+    "pt-br": "Ataque Rápido"
   },
   "Raichu": {
     "en": "Raichu",
@@ -10222,7 +10267,12 @@
   },
   "Splash": {
     "en": "Splash",
-    "zh-tw": "濺"
+    "zh-tw": "濺",
+    "fr": "Éclabousser",
+    "es": "Chapoteo",
+    "de": "Spritzen",
+    "pt-br": "Respingo",
+    "it": "Spruzzo"
   },
   "Squirtle": {
     "en": "Squirtle",
@@ -10308,7 +10358,12 @@
   },
   "Surprise Attack": {
     "en": "Surprise Attack",
-    "zh-tw": "偷襲"
+    "zh-tw": "偷襲",
+    "fr": "Attaque surprise",
+    "es": "Ataque sorpresa",
+    "de": "Überraschungsangriff",
+    "pt-br": "Ataque surpresa",
+    "it": "Attacco a sorpresa"
   },
   "Swanna": {
     "en": "Swanna",
@@ -10398,7 +10453,12 @@
   },
   "Tentacruel": {
     "en": "Tentacruel",
-    "zh-tw": "觸毒"
+    "zh-tw": "觸毒",
+    "fr": "Tentacruel",
+    "es": "tentacruel",
+    "it": "Tentacrudele",
+    "de": "Tentacruel",
+    "pt-br": "Tentacruel"
   },
   "Thanks to its thick fat, cold seas don't bother it at all, but it gets tired pretty easily in warm waters.": {
     "en": "Thanks to its thick fat, cold seas don't bother it at all, but it gets tired pretty easily in warm waters.",
@@ -10910,7 +10970,12 @@
   },
   "Your opponent can't use any Supporter cards from their hand during their next turn.": {
     "en": "Your opponent can't use any Supporter cards from their hand during their next turn.",
-    "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。"
+    "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。",
+    "fr": "Votre adversaire ne peut utiliser aucune carte Supporter de sa main lors de son prochain tour.",
+    "es": "Tu oponente no puede usar ninguna carta de Partidario de su mano durante su próximo turno.",
+    "de": "Dein Gegner kann in seinem nächsten Zug keine Unterstützerkarten aus seiner Hand verwenden.",
+    "pt-br": "Seu oponente não pode usar nenhuma carta de Apoiador de sua mão durante o próximo turno.",
+    "it": "Il tuo avversario non può utilizzare alcuna carta Aiuto dalla sua mano durante il suo prossimo turno."
   },
   "Your opponent reveals their hand.": {
     "en": "Your opponent reveals their hand.",
@@ -11154,7 +11219,12 @@
   },
   "Donphan": {
     "en": "Donphan",
-    "zh-tw": "唐凡"
+    "zh-tw": "唐凡",
+    "fr": "Donphan",
+    "es": "Donphan",
+    "pt-br": "Donphan",
+    "it": "Donphan",
+    "de": "Donphan"
   },
   "Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.": {
     "en": "Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.",
@@ -11891,7 +11961,12 @@
   },
   "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.": {
     "en": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
-    "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 10 點傷害。"
+    "zh-tw": "這次攻擊也會對對手後備的 1 只神奇寶貝造成 10 點傷害。",
+    "es": "Este ataque también hace 10 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
+    "fr": "Cette attaque inflige également 10 dégâts à 1 des Pokémon de Banc de votre adversaire.",
+    "pt-br": "Este ataque também causa 10 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
+    "it": "Questo attacco infligge anche 10 danni a 1 dei Pokémon nella panchina del tuo avversario.",
+    "de": "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu."
   },
   "This Pokémon also does 30 damage to itself.": {
     "en": "This Pokémon also does 30 damage to itself.",
@@ -16109,7 +16184,12 @@
   },
   "Devour Soul": {
     "en": "Devour Soul",
-    "zh-tw": "吞噬靈魂"
+    "zh-tw": "吞噬靈魂",
+    "fr": "Dévorer l'âme",
+    "es": "Devorar alma",
+    "de": "Seele verschlingen",
+    "it": "Divora l'anima",
+    "pt-br": "Devorar Alma"
   },
   "Discard a {L} Energy from this Pokémon.": {
     "en": "Discard a {L} Energy from this Pokémon.",
@@ -16126,7 +16206,12 @@
   },
   "Discard all {R} Energy from this Pokémon.": {
     "en": "Discard all {R} Energy from this Pokémon.",
-    "zh-tw": "丟棄該神奇寶貝的所有 {R} 能量。"
+    "zh-tw": "丟棄該神奇寶貝的所有 {R} 能量。",
+    "fr": "Défaussez toute l'énergie {R} de ce Pokémon.",
+    "es": "Descarta toda la Energía {R} de este Pokémon.",
+    "it": "Scarta tutte le Energie {R} da questo Pokémon.",
+    "de": "Lege alle {R}-Energien von diesem Pokémon ab.",
+    "pt-br": "Descarte todas as energias {R} deste Pokémon."
   },
   "Discard the top 3 cards of your deck.": {
     "en": "Discard the top 3 cards of your deck.",
@@ -16209,7 +16294,12 @@
   },
   "Exoskeleton": {
     "en": "Exoskeleton",
-    "zh-tw": "外骨骼"
+    "zh-tw": "外骨骼",
+    "fr": "Exosquelette",
+    "es": "exoesqueleto",
+    "it": "Esoscheletro",
+    "de": "Exoskelett",
+    "pt-br": "Exoesqueleto"
   },
   "Expand": {
     "en": "Expand",
@@ -16252,7 +16342,12 @@
   },
   "Flare Blitz": {
     "en": "Flare Blitz",
-    "zh-tw": "耀斑閃電戰"
+    "zh-tw": "耀斑閃電戰",
+    "es": "Bombardeo de bengalas",
+    "fr": "Blitz éclair",
+    "it": "Blitz di bagliori",
+    "de": "Flare Blitz",
+    "pt-br": "Blitz Flamejante"
   },
   "Flip 2 coins. This attack does 40 damage for each heads.": {
     "en": "Flip 2 coins. This attack does 40 damage for each heads.",
@@ -16486,7 +16581,12 @@
   },
   "Infernape ex": {
     "en": "Infernape ex",
-    "zh-tw": "地獄火前"
+    "zh-tw": "地獄火前",
+    "fr": "Ex-Nuque Infernale",
+    "es": "Infernape ex",
+    "de": "Infernape ex",
+    "it": "Infernape es",
+    "pt-br": "ex infernape"
   },
   "Interrupt": {
     "en": "Interrupt",
@@ -16982,7 +17082,12 @@
   },
   "Searing Flame": {
     "en": "Searing Flame",
-    "zh-tw": "灼熱火焰"
+    "zh-tw": "灼熱火焰",
+    "es": "Llama abrasadora",
+    "fr": "Flamme brûlante",
+    "de": "Sengende Flamme",
+    "pt-br": "Chama Abrasadora",
+    "it": "Fiamma Ardente"
   },
   "Shadow Void": {
     "en": "Shadow Void",
@@ -17610,7 +17715,12 @@
   },
   "Lickilicky": {
     "en": "Lickilicky",
-    "zh-tw": "利奇利基"
+    "zh-tw": "利奇利基",
+    "es": "Lickilicky",
+    "fr": "Lickilicky",
+    "de": "Lecker",
+    "it": "Lecca-lecca",
+    "pt-br": "Lickilicky"
   },
   "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.": {
     "en": "Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.",
@@ -19509,7 +19619,12 @@
   },
   "This attack does 40 damage to 1 of your opponent's Pokémon.": {
     "en": "This attack does 40 damage to 1 of your opponent's Pokémon.",
-    "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 40 點傷害。"
+    "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 40 點傷害。",
+    "fr": "Cette attaque inflige 40 dégâts à 1 des Pokémon de votre adversaire.",
+    "es": "Este ataque hace 40 puntos de daño a 1 de los Pokémon de tu rival.",
+    "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 40 Schadenspunkte zu.",
+    "it": "Questo attacco infligge 40 danni a 1 dei Pokémon del tuo avversario.",
+    "pt-br": "Este ataque causa 40 pontos de dano a 1 dos Pokémon do seu oponente."
   },
   "This attack does 50 damage to 1 of your opponent's Benched Pokémon.": {
     "en": "This attack does 50 damage to 1 of your opponent's Benched Pokémon.",
@@ -22674,7 +22789,12 @@
   },
   "Fire Wing": {
     "en": "Fire Wing",
-    "zh-tw": "火翼"
+    "zh-tw": "火翼",
+    "de": "Feuerwehrflügel",
+    "es": "Ala de fuego",
+    "fr": "Aile de feu",
+    "pt-br": "Asa de Fogo",
+    "it": "Ala dei vigili del fuoco"
   },
   "First Impression": {
     "en": "First Impression",
@@ -22824,7 +22944,12 @@
   },
   "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon.": {
     "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon.",
-    "zh-tw": "如果該寶可夢位於活動區域並因對方寶可夢的攻擊而被擊倒，則對攻擊的寶可夢造成 50 點傷害。"
+    "zh-tw": "如果該寶可夢位於活動區域並因對方寶可夢的攻擊而被擊倒，則對攻擊的寶可夢造成 50 點傷害。",
+    "fr": "Si ce Pokémon est dans le Point Actif et est mis KO par les dégâts d'une attaque du Pokémon de votre adversaire, infligez 50 dégâts au Pokémon attaquant.",
+    "es": "Si este Pokémon está en el Punto Activo y queda fuera de combate por el daño de un ataque del Pokémon de tu rival, haz 50 puntos de daño al Pokémon atacante.",
+    "it": "Se questo Pokémon è in posizione attiva e viene messo KO dai danni di un attacco dei Pokémon del tuo avversario, infliggi 50 danni al Pokémon attaccante.",
+    "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig gemacht wird, füge dem angreifenden Pokémon 50 Schadenspunkte zu.",
+    "pt-br": "Se este Pokémon estiver no Ponto Ativo e for Nocauteado pelo dano de um ataque do Pokémon do seu oponente, cause 50 de dano ao Pokémon Atacante."
   },
   "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.": {
     "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.",
@@ -22868,7 +22993,12 @@
   },
   "Innards Out": {
     "en": "Innards Out",
-    "zh-tw": "內臟出來"
+    "zh-tw": "內臟出來",
+    "fr": "Entrailles dehors",
+    "es": "Las entrañas afuera",
+    "it": "Interiora fuori",
+    "pt-br": "Interiores para fora",
+    "de": "Innereien raus"
   },
   "Insatiable Striking": {
     "en": "Insatiable Striking",
@@ -23282,7 +23412,12 @@
   },
   "Sprinkle Water": {
     "en": "Sprinkle Water",
-    "zh-tw": "灑水"
+    "zh-tw": "灑水",
+    "it": "Spruzzare acqua",
+    "fr": "Arroser d'eau",
+    "es": "Rociar agua",
+    "de": "Wasser bestreuen",
+    "pt-br": "Polvilhe água"
   },
   "Steady Firebreathing": {
     "en": "Steady Firebreathing",
@@ -23331,7 +23466,12 @@
   },
   "Talonflame": {
     "en": "Talonflame",
-    "zh-tw": "爪焰"
+    "zh-tw": "爪焰",
+    "es": "llama de garra",
+    "fr": "Talonflamme",
+    "it": "Talonflame",
+    "de": "Krallenflamme",
+    "pt-br": "Talonflame"
   },
   "Tantrum": {
     "en": "Tantrum",
@@ -23415,7 +23555,12 @@
   },
   "This attack does 20 damage to each of your opponent's Pokémon.": {
     "en": "This attack does 20 damage to each of your opponent's Pokémon.",
-    "zh-tw": "這次攻擊對對手的每隻神奇寶貝造成 20 點傷害。"
+    "zh-tw": "這次攻擊對對手的每隻神奇寶貝造成 20 點傷害。",
+    "fr": "Cette attaque inflige 20 dégâts à chacun des Pokémon de votre adversaire.",
+    "es": "Este ataque hace 20 puntos de daño a cada uno de los Pokémon de tu rival.",
+    "it": "Questo attacco infligge 20 danni a ciascuno dei Pokémon del tuo avversario.",
+    "pt-br": "Este ataque causa 20 pontos de dano a cada um dos Pokémon do seu oponente.",
+    "de": "Dieser Angriff fügt jedem Pokémon deines Gegners 20 Schadenspunkte zu."
   },
   "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.": {
     "en": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
@@ -23604,5 +23749,1301 @@
     "pt-br": "Yungoos",
     "de": "Jungoos",
     "it": "Yungoos"
+  },
+  "Although unattractive and unpopular, this\nPokémon's marvelous vitality has made it a\nsubject of research.": {
+    "en": "Although unattractive and unpopular, this\nPokémon's marvelous vitality has made it a\nsubject of research.",
+    "es": "Aunque poco atractivo e impopular, este\nLa maravillosa vitalidad de Pokémon lo ha convertido en un\ntema de investigación.",
+    "it": "Sebbene poco attraente e impopolare, questo\nLa meravigliosa vitalità dei Pokémon lo ha reso un\noggetto di ricerca.",
+    "de": "Dies ist zwar unattraktiv und unbeliebt\nDie wunderbare Vitalität von Pokémon hat es zu einem gemacht\nGegenstand der Forschung.",
+    "fr": "Bien que peu attrayant et impopulaire, ce\nLa merveilleuse vitalité de Pokémon en a fait un\nsujet de recherche.",
+    "zh-tw": "儘管沒有吸引力且不受歡迎，但這\n神奇寶貝神奇的生命力使其成為\n研究課題。",
+    "pt-br": "Embora pouco atraente e impopular, este\nA maravilhosa vitalidade do Pokémon tornou-o um\nobjeto de pesquisa."
+  },
+  "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon.": {
+    "en": "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon.",
+    "fr": "À la fin du prochain tour de votre adversaire, infligez 90 dégâts au Pokémon défenseur.",
+    "pt-br": "No final do próximo turno do seu oponente, cause 90 de dano ao Pokémon Defensor.",
+    "it": "Alla fine del prossimo turno del tuo avversario, infliggi 90 danni al Pokémon difensore.",
+    "es": "Al final del siguiente turno de tu rival, haz 90 puntos de daño al Pokémon Defensor.",
+    "de": "Füge am Ende des nächsten Zuges deines Gegners dem verteidigenden Pokémon 90 Schadenspunkte zu.",
+    "zh-tw": "下個對手回合結束時，對守方寶可夢造成 90 點傷害。"
+  },
+  "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.": {
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card.",
+    "fr": "A la fin de votre tour, si ce Pokémon est dans le Spot Actif, piochez une carte.",
+    "pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
+    "es": "Al final de tu turno, si este Pokémon está en el Punto Activo, roba una carta.",
+    "it": "Alla fine del tuo turno, se questo Pokémon è in posizione attiva, pesca una carta.",
+    "de": "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
+    "zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。"
+  },
+  "Azurill": {
+    "en": "Azurill",
+    "es": "azurill",
+    "fr": "Azurille",
+    "de": "Azurill",
+    "it": "Azuril",
+    "zh-tw": "阿祖瑞爾",
+    "pt-br": "Azurill"
+  },
+  "Blazing Beatdown": {
+    "en": "Blazing Beatdown",
+    "es": "Paliza ardiente",
+    "de": "Flammender Beatdown",
+    "fr": "Battement fulgurant",
+    "pt-br": "Beatdown ardente",
+    "zh-tw": "熾熱的擊敗",
+    "it": "Sconfitta fiammeggiante"
+  },
+  "Breeze-By Attack": {
+    "en": "Breeze-By Attack",
+    "es": "Ataque rápido",
+    "de": "Breeze-By-Angriff",
+    "fr": "Attaque rapide",
+    "zh-tw": "微風攻擊",
+    "it": "Attacco Breeze-By",
+    "pt-br": "Ataque Breeze-By"
+  },
+  "Celebi": {
+    "en": "Celebi",
+    "es": "celeb",
+    "fr": "Célébi",
+    "zh-tw": "塞拉比",
+    "de": "Celebi",
+    "it": "Celebi",
+    "pt-br": "Celebi"
+  },
+  "Cliff Crumbler": {
+    "en": "Cliff Crumbler",
+    "fr": "Crumble de falaise",
+    "es": "Desmoronador de acantilados",
+    "it": "Crollatore della scogliera",
+    "de": "Cliff Crumbler",
+    "pt-br": "Desintegrador de Penhascos",
+    "zh-tw": "懸崖破碎者"
+  },
+  "Constant polishing makes the edge of the blade on\nits tail extremely sharp. It's Zangoose's archrival.": {
+    "en": "Constant polishing makes the edge of the blade on\nits tail extremely sharp. It's Zangoose's archrival.",
+    "fr": "Un polissage constant rend le bord de la lame plus\nsa queue extrêmement pointue. C'est le grand rival de Zangoose.",
+    "es": "El pulido constante hace que el borde de la hoja se mantenga\nsu cola extremadamente afilada. Es el archirrival de Zangoose.",
+    "zh-tw": "不斷的拋光使刀刃鋒利\n它的尾巴極其鋒利。這是Zangoose的主要競爭對手。",
+    "it": "La lucidatura costante rende il filo della lama affilato\nla sua coda estremamente affilata. È l'arcinemico rivale di Zangoose.",
+    "de": "Ständiges Polieren macht die Schneide der Klinge fit\nsein Schwanz ist extrem scharf. Es ist Zangooses Erzrivale.",
+    "pt-br": "O polimento constante faz com que o fio da lâmina fique\nsua cauda extremamente afiada. É o arquirrival de Zangoose."
+  },
+  "Crossing Flights": {
+    "en": "Crossing Flights",
+    "fr": "Vols de traversée",
+    "es": "Vuelos de cruce",
+    "it": "Voli che attraversano",
+    "zh-tw": "過境航班",
+    "pt-br": "Cruzando Voos",
+    "de": "Kreuzungsflüge"
+  },
+  "Crustle": {
+    "en": "Crustle",
+    "es": "Crujido",
+    "fr": "Croûte",
+    "zh-tw": "脆皮",
+    "it": "Crosta",
+    "de": "Crustle",
+    "pt-br": "Crosta"
+  },
+  "Cryogonal": {
+    "en": "Cryogonal",
+    "fr": "Cryogonal",
+    "es": "criogonal",
+    "zh-tw": "冷凍",
+    "it": "Criogonale",
+    "de": "Kryogonal",
+    "pt-br": "Criogonal"
+  },
+  "Cryogonal appear during cold seasons. It is said\nthat people and Pokémon who die on snowy\nmountains are reborn into these Pokémon.": {
+    "en": "Cryogonal appear during cold seasons. It is said\nthat people and Pokémon who die on snowy\nmountains are reborn into these Pokémon.",
+    "fr": "Les cryogonaux apparaissent pendant les saisons froides. On dit\nque les gens et les Pokémon qui meurent dans la neige\nles montagnes renaissent dans ces Pokémon.",
+    "es": "Los criogonales aparecen durante las estaciones frías. se dice\nque personas y Pokémon que mueren en la nieve\nLas montañas renacen en estos Pokémon.",
+    "zh-tw": "冷凍出現在寒冷季節。據說\n那些死在雪地裡的人和神奇寶貝\n山脈在這些神奇寶貝中重生。",
+    "de": "Kryogonale treten in der kalten Jahreszeit auf. Es heißt\ndass Menschen und Pokémon, die im Schnee sterben\nBerge werden in diesen Pokémon wiedergeboren.",
+    "it": "I criogonali compaiono durante le stagioni fredde. Si dice\nquelle persone e Pokémon che muoiono nella neve\nle montagne rinascono in questi Pokémon.",
+    "pt-br": "Criogonais aparecem durante as estações frias. É dito\nque pessoas e Pokémon que morrem na neve\nmontanhas renascem nesses Pokémon."
+  },
+  "Crystal Waltz": {
+    "en": "Crystal Waltz",
+    "es": "Vals de cristal",
+    "fr": "Valse de cristal",
+    "zh-tw": "水晶華爾茲",
+    "pt-br": "Valsa Cristal",
+    "it": "Valzer di cristallo",
+    "de": "Kristallwalzer"
+  },
+  "Cursed Prose": {
+    "en": "Cursed Prose",
+    "es": "Prosa maldita",
+    "fr": "Prose maudite",
+    "pt-br": "Prosa Amaldiçoada",
+    "zh-tw": "被詛咒的散文",
+    "it": "Prosa maledetta",
+    "de": "Verfluchte Prosa"
+  },
+  "Defiant Spark": {
+    "en": "Defiant Spark",
+    "fr": "Étincelle provocante",
+    "es": "Chispa desafiante",
+    "zh-tw": "挑釁火花",
+    "it": "Scintilla ribelle",
+    "de": "Trotziger Funke",
+    "pt-br": "Faísca desafiadora"
+  },
+  "Discard the top card of your deck. If that card is a {F} Pokémon, this attack does 60 more damage.": {
+    "en": "Discard the top card of your deck. If that card is a {F} Pokémon, this attack does 60 more damage.",
+    "fr": "Défaussez la carte du dessus de votre deck. Si cette carte est un Pokémon {F}, cette attaque inflige 60 dégâts supplémentaires.",
+    "es": "Descarta la carta superior de tu mazo. Si esa carta es un Pokémon {F}, este ataque hace 60 daños más.",
+    "zh-tw": "棄掉你牌組最上面的牌。如果該卡是{F}神奇寶貝，則此攻擊造成的傷害增加 60 點。",
+    "pt-br": "Descarte a carta do topo do seu baralho. Se aquela carta for um Pokémon {F}, este ataque causa 60 de dano a mais.",
+    "de": "Lege die oberste Karte deines Decks ab. Wenn es sich bei dieser Karte um ein {F}-Pokémon handelt, fügt dieser Angriff 60 weitere Schadenspunkte zu.",
+    "it": "Scarta la prima carta del tuo mazzo. Se quella carta è un Pokémon {F}, questo attacco infligge 60 danni in più."
+  },
+  "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way.": {
+    "en": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+    "fr": "Défaussez jusqu'à 2 cartes Outil Pokémon de votre main. Cette attaque inflige 50 dégâts pour chaque carte défaussée de cette manière.",
+    "es": "Descarta hasta 2 cartas de Herramientas Pokémon de tu mano. Este ataque hace 50 puntos de daño por cada carta que descartes de esta manera.",
+    "zh-tw": "從手牌捨棄最多2張寶可夢工具卡。你以這種方式丟棄的每張牌都會造成 50 點傷害。",
+    "pt-br": "Descarte até 2 cartas de Ferramentas Pokémon da sua mão. Este ataque causa 50 de dano para cada carta descartada dessa forma.",
+    "de": "Wirf bis zu 2 Pokémon-Ausrüstungskarten aus deiner Hand ab. Dieser Angriff fügt 50 Schadenspunkte für jede auf diese Weise abgeworfene Karte zu.",
+    "it": "Scarta fino a 2 carte Oggetto Pokémon dalla tua mano. Questo attacco infligge 50 danni per ogni carta che hai scartato in questo modo."
+  },
+  "Donphan is covered in tough hide, so even being\nhit by a car won't faze this Pokémon. However, it\nis extremely susceptible to rain.": {
+    "en": "Donphan is covered in tough hide, so even being\nhit by a car won't faze this Pokémon. However, it\nis extremely susceptible to rain.",
+    "fr": "Donphan est couvert d'une peau dure, donc même s'il est\nheurté par une voiture ne dérangera pas ce Pokémon. Cependant, il\nest extrêmement sensible à la pluie.",
+    "es": "Donphan está cubierto de piel dura, por lo que incluso siendo\natropellado por un coche no perturbará a este Pokémon. Sin embargo,\nes extremadamente susceptible a la lluvia.",
+    "zh-tw": "唐凡全身覆蓋著堅韌的獸皮，所以即使是\n被車撞不會讓這只神奇寶貝感到困擾。然而，它\n極易受雨影響。",
+    "it": "Donphan è ricoperto di pelle dura, quindi anche lo è\ninvestito da un'auto non spaventerà questo Pokémon. Tuttavia, esso\nè estremamente suscettibile alla pioggia.",
+    "de": "Donphan ist mit zäher Haut bedeckt, also ebenmäßig\nWenn es von einem Auto angefahren wird, wird dieses Pokémon nicht aus der Fassung gebracht. Allerdings ist es\nist extrem anfällig für Regen.",
+    "pt-br": "Donphan é coberto por uma pele dura, então mesmo sendo\natropelado por um carro não intimidará este Pokémon. No entanto,\né extremamente suscetível à chuva."
+  },
+  "Dragalge": {
+    "en": "Dragalge",
+    "fr": "Dragalge",
+    "es": "Dragalge",
+    "zh-tw": "德拉格",
+    "pt-br": "Dragalge",
+    "it": "Dragalge",
+    "de": "Dragalge"
+  },
+  "Dragon Arcana": {
+    "en": "Dragon Arcana",
+    "fr": "Arcanes du dragon",
+    "es": "Arcanos del Dragón",
+    "zh-tw": "龍阿卡納",
+    "pt-br": "Arcano do Dragão",
+    "de": "Drachen Arcana",
+    "it": "Drago Arcano"
+  },
+  "Dwebble": {
+    "en": "Dwebble",
+    "it": "Dwebble",
+    "fr": "Bavarder",
+    "es": "Dwebble",
+    "zh-tw": "德韋布爾",
+    "de": "Dwebble",
+    "pt-br": "Dwebble"
+  },
+  "Entei ex": {
+    "en": "Entei ex",
+    "es": "Entei-ex",
+    "fr": "Entei ex",
+    "it": "Entei ex",
+    "zh-tw": "炎帝前",
+    "de": "Entei ex",
+    "pt-br": "Entei ex"
+  },
+  "Fantastical Floating": {
+    "en": "Fantastical Floating",
+    "es": "Flotante fantástico",
+    "fr": "Flottant fantastique",
+    "zh-tw": "夢幻漂浮",
+    "de": "Fantastisches Schweben",
+    "pt-br": "Flutuante Fantástico",
+    "it": "Galleggiante fantastico"
+  },
+  "Fateful Fang": {
+    "en": "Fateful Fang",
+    "fr": "Croc fatidique",
+    "pt-br": "Presa Fatídica",
+    "zh-tw": "宿命之牙",
+    "es": "Colmillo fatídico",
+    "de": "Schicksalhafter Fangzahn",
+    "it": "Zanna fatale"
+  },
+  "Feebas": {
+    "en": "Feebas",
+    "es": "Feebas",
+    "fr": "Frais",
+    "zh-tw": "費巴斯",
+    "de": "Feebas",
+    "pt-br": "Feebas",
+    "it": "Feebas"
+  },
+  "Flail": {
+    "en": "Flail",
+    "fr": "Fléau",
+    "es": "Mayal",
+    "it": "Flagello",
+    "zh-tw": "連枷",
+    "de": "Dreschflegel",
+    "pt-br": "Mangual"
+  },
+  "Fletchinder scatters embers in tall grass\nwhere bug Pokémon might be hiding and\nthen catches them as they come leaping out.": {
+    "en": "Fletchinder scatters embers in tall grass\nwhere bug Pokémon might be hiding and\nthen catches them as they come leaping out.",
+    "fr": "Fletchinder disperse des braises dans les herbes hautes\noù les Pokémon bugs pourraient se cacher et\npuis les attrape alors qu'ils sautent.",
+    "it": "Fletchinder sparge la brace nell'erba alta\ndove potrebbero nascondersi i Pokémon bug e\npoi li coglie mentre saltano fuori.",
+    "es": "Fletchinder esparce brasas en la hierba alta\ndónde podrían esconderse los Pokémon bichos y\nluego los atrapa cuando salen saltando.",
+    "de": "Fletchinder streut Glut ins hohe Gras\nwo sich Käfer-Pokémon verstecken könnten und\nDann fängt er sie auf, als sie herausspringen.",
+    "zh-tw": "弗萊欽德將餘燼撒在高高的草叢中\n蟲子寶可夢可能藏身的地方以及\n然後在他們跳出來時抓住他們。",
+    "pt-br": "Fletchinder espalha brasas na grama alta\nonde Pokémon insetos podem estar escondidos e\nentão os pega quando eles saltam."
+  },
+  "For each of your {P} Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order.": {
+    "en": "For each of your {P} Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order.",
+    "es": "Por cada uno de tus Pokémon {P} en juego, mira esa misma cantidad de cartas de la parte superior del mazo de tu oponente y devuélvelas en cualquier orden.",
+    "pt-br": "Para cada um dos seus {P} Pokémon em jogo, olhe aquela quantidade de cartas do topo do baralho do seu oponente e coloque-as de volta em qualquer ordem.",
+    "de": "Sieh dir für jedes deiner {P}-Pokémon im Spiel so viele Karten oben vom Deck deines Gegners an und lege sie in beliebiger Reihenfolge zurück.",
+    "it": "Per ciascuno dei tuoi Pokémon {P} in gioco, guarda quel numero di carte dalla cima del mazzo del tuo avversario e rimettile a posto in qualsiasi ordine.",
+    "fr": "Pour chacun de vos {P} Pokémon en jeu, regardez autant de cartes du dessus du deck de votre adversaire et remettez-les dans n'importe quel ordre.",
+    "zh-tw": "對於場上的每隻 {P} 神奇寶貝，查看對手牌組頂部的相應數量的卡牌，然後將它們按任意順序放回原處。"
+  },
+  "Galarian Corsola": {
+    "en": "Galarian Corsola",
+    "fr": "Corsola de Galar",
+    "es": "Corsola de Galar",
+    "pt-br": "Córsola de Galar",
+    "zh-tw": "加拉安·科索拉",
+    "it": "Corsola Galariano",
+    "de": "Galar-Corsola"
+  },
+  "Galarian Cursola": {
+    "en": "Galarian Cursola",
+    "fr": "Cursola de Galar",
+    "es": "Cursola de Galar",
+    "zh-tw": "加拉安·庫索拉",
+    "it": "Cursola Galariana",
+    "de": "Galarischer Cursola",
+    "pt-br": "Cursola Galariana"
+  },
+  "Gazing at its luminescent spots will quickly\ninduce a hypnotic state, putting the observer\nunder Malamar's control.": {
+    "en": "Gazing at its luminescent spots will quickly\ninduce a hypnotic state, putting the observer\nunder Malamar's control.",
+    "es": "Mirar sus puntos luminiscentes rápidamente\ninducir un estado hipnótico, poniendo al observador\nbajo el control de Malamar.",
+    "fr": "Regarder ses taches luminescentes sera rapidement\ninduire un état hypnotique, mettant l'observateur\nsous le contrôle de Malamar.",
+    "pt-br": "Olhar para seus pontos luminescentes irá rapidamente\ninduzir um estado hipnótico, colocando o observador\nsob o controle de Malamar.",
+    "zh-tw": "凝視其發光點很快就會\n誘導催眠狀態，使觀察者\n在馬拉瑪的控制下。",
+    "de": "Der Blick auf seine leuchtenden Punkte wird schnell sichtbar\neinen hypnotischen Zustand herbeiführen und den Beobachter versetzen\nunter Malamars Kontrolle.",
+    "it": "Osservare i suoi punti luminescenti sarà rapido\nindurre uno stato ipnotico, mettendo l'osservatore in uno stato di ipnosi\nsotto il controllo di Malamar."
+  },
+  "Heal 50 damage from 1 of your Benched Pokémon.": {
+    "en": "Heal 50 damage from 1 of your Benched Pokémon.",
+    "es": "Cura 50 puntos de daño de 1 de tus Pokémon en Banca.",
+    "de": "Heile 50 Schadenspunkte bei 1 Pokémon auf deiner Bank.",
+    "pt-br": "Cure 50 de dano de 1 dos seus Pokémon no Banco.",
+    "fr": "Soignez 50 dégâts à l'un de vos Pokémon de Banc.",
+    "zh-tw": "治療你 1 只後備神奇寶貝造成的 50 點傷害。",
+    "it": "Cura 50 danni da 1 dei tuoi Pokémon in panchina."
+  },
+  "Heal 60 damage from 1 of your Miltank, and it recovers from being Asleep, Paralyzed, and Confused.": {
+    "en": "Heal 60 damage from 1 of your Miltank, and it recovers from being Asleep, Paralyzed, and Confused.",
+    "fr": "Soignez 60 dégâts de l'un de vos Miltank, et il récupère après avoir été endormi, paralysé et confus.",
+    "es": "Cura 60 daños de 1 de tu Miltank y se recupera de estar dormido, paralizado y confundido.",
+    "de": "Heile 60 Schaden von einem deiner Miltanks und er erholt sich aus dem Schlaf, der Lähmung und der Verwirrung.",
+    "pt-br": "Cure 60 de dano de 1 de seu Miltank e ele se recupera de Adormecido, Paralisado e Confuso.",
+    "zh-tw": "治療你的 1 個米爾坦克 60 點傷害，並且它會從睡眠、麻痺和混亂狀態中恢復。",
+    "it": "Cura 60 danni da 1 del tuo Miltank e si riprende dallo stato addormentato, paralizzato e confuso."
+  },
+  "Healing Ripples": {
+    "en": "Healing Ripples",
+    "fr": "Ondulations de guérison",
+    "es": "Ondas curativas",
+    "it": "Increspature curative",
+    "pt-br": "Ondulações de Cura",
+    "zh-tw": "療愈漣漪",
+    "de": "Heilende Wellen"
+  },
+  "Hydro Knuckle": {
+    "en": "Hydro Knuckle",
+    "fr": "Hydro-articulation",
+    "es": "Nudillo hidráulico",
+    "pt-br": "Junta Hidrográfica",
+    "zh-tw": "液壓轉向節",
+    "de": "Hydroknöchel",
+    "it": "Idro Knuckle"
+  },
+  "If it bonds with a person, it will gently envelop\nthe friend with its soft wings, then hum.": {
+    "en": "If it bonds with a person, it will gently envelop\nthe friend with its soft wings, then hum.",
+    "fr": "S'il se lie à une personne, il l'enveloppera doucement\nl'ami avec ses ailes douces, puis fredonne.",
+    "es": "Si se une a una persona, la envolverá suavemente.\nel amigo con sus suaves alas, luego tararea.",
+    "it": "Se si lega a una persona, la avvolgerà delicatamente\nl'amico con le sue morbide ali, poi canticchia.",
+    "pt-br": "Se se relacionar com uma pessoa, envolverá suavemente\no amigo com suas asas macias, então cantarola.",
+    "de": "Wenn es sich mit einem Menschen verbindet, wird es ihn sanft umhüllen\nder Freund mit seinen weichen Flügeln, dann summen.",
+    "zh-tw": "如果它與一個人結合，它會輕輕地包圍\n朋友帶著柔軟的翅膀，然後哼哼。"
+  },
+  "If Latios is on your Bench, this attack does 20 more damage.": {
+    "en": "If Latios is on your Bench, this attack does 20 more damage.",
+    "it": "Se Latios è nella tua panchina, questo attacco infligge 20 danni in più.",
+    "de": "Wenn Latios auf deiner Bank ist, fügt dieser Angriff 20 Schadenspunkte mehr zu.",
+    "fr": "Si Latios est sur votre Banc, cette attaque inflige 20 dégâts supplémentaires.",
+    "es": "Si Latios está en tu Banca, este ataque hace 20 daños más.",
+    "pt-br": "Se Latios estiver no seu banco, este ataque causará 20 de dano a mais.",
+    "zh-tw": "如果拉帝歐斯在你的替補席上，這次攻擊會造成 20 點額外傷害。"
+  },
+  "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage.": {
+    "en": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage.",
+    "es": "Si este Pokémon tiene 2 o más tipos diferentes de Energía unidas, este ataque hace 60 puntos de daño más.",
+    "fr": "Si ce Pokémon est attaché à 2 types d'Énergie différents ou plus, cette attaque inflige 60 dégâts supplémentaires.",
+    "de": "Wenn an dieses Pokémon 2 oder mehr verschiedene Energietypen angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
+    "pt-br": "Se este Pokémon tiver 2 ou mais tipos diferentes de Energia anexados, este ataque causará 60 de dano a mais.",
+    "zh-tw": "如果該神奇寶貝附加了 2 種或以上不同類型的能量，則此攻擊造成的傷害增加 60 點。",
+    "it": "Se questo Pokémon ha 2 o più tipi diversi di Energie assegnate, questo attacco infligge 60 danni in più."
+  },
+  "If this Pokémon has any {W} Energy attached, this attack does 40 more damage.": {
+    "en": "If this Pokémon has any {W} Energy attached, this attack does 40 more damage.",
+    "es": "Si este Pokémon tiene alguna Energía {W} unida, este ataque hace 40 puntos de daño más.",
+    "fr": "Si ce Pokémon a une Énergie {W} attachée, cette attaque inflige 40 dégâts supplémentaires.",
+    "it": "Se questo Pokémon ha delle Energie {W} assegnate, questo attacco infligge 40 danni in più.",
+    "zh-tw": "如果該神奇寶貝附加了任何 {W} 能量，則此攻擊造成的傷害增加 40 點。",
+    "de": "Wenn an dieses Pokémon {W}-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.",
+    "pt-br": "Se este Pokémon tiver alguma Energia {W} anexada, este ataque causará 40 pontos de dano a mais."
+  },
+  "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.": {
+    "en": "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",
+    "es": "Si este Pokémon tiene al menos 2 Energías {R} extra unidas, este ataque hace 60 puntos de daño más.",
+    "fr": "Si ce Pokémon a au moins 2 Énergies {R} supplémentaires attachées, cette attaque inflige 60 dégâts supplémentaires.",
+    "it": "Se questo Pokémon ha almeno due Energie {R} extra assegnate, questo attacco infligge 60 danni in più.",
+    "de": "Wenn an dieses Pokémon mindestens 2 zusätzliche {R}-Energien angelegt sind, fügt dieser Angriff 60 Schadenspunkte mehr zu.",
+    "pt-br": "Se este Pokémon tiver pelo menos 2 energias {R} extras anexadas, este ataque causará 60 de dano a mais.",
+    "zh-tw": "如果這只神奇寶貝附加了至少 2 個額外的 {R} 能量，則此攻擊造成的傷害增加 60 點。"
+  },
+  "If this Pokémon has damage on it, this attack can be used for 1 {L} Energy.": {
+    "en": "If this Pokémon has damage on it, this attack can be used for 1 {L} Energy.",
+    "fr": "Si ce Pokémon subit des dégâts, cette attaque peut être utilisée pour 1 {L} Énergie.",
+    "es": "Si este Pokémon tiene daño, este ataque puede usarse por 1 {L} de Energía.",
+    "zh-tw": "如果該神奇寶貝受到傷害，則該攻擊可消耗 1 {L} 點能量。",
+    "it": "Se questo Pokémon ha dei danni, questo attacco può essere usato per 1 Energia {L}.",
+    "de": "Wenn dieses Pokémon Schaden hat, kann dieser Angriff für 1 {L} Energie verwendet werden.",
+    "pt-br": "Se este Pokémon sofrer dano, este ataque poderá ser usado por 1 {L} Energia."
+  },
+  "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out.": {
+    "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
+    "es": "Si este Pokémon está en el Punto Activo y queda fuera de combate por el daño de un ataque del Pokémon de tu rival, lanza una moneda. Si sale cara, el Pokémon atacante queda fuera de combate.",
+    "fr": "Si ce Pokémon est dans le Point Actif et est mis KO par les dégâts d'une attaque du Pokémon de votre adversaire, lancez une pièce. Si c'est face, le Pokémon attaquant est mis KO.",
+    "it": "Se questo Pokémon è in posizione attiva e viene messo KO dai danni di un attacco dei Pokémon del tuo avversario, lancia una moneta. Se esce testa, il Pokémon attaccante viene messo KO.",
+    "zh-tw": "如果該神奇寶貝位於活動位置並因對手神奇寶貝的攻擊而被擊倒，則拋一枚硬幣。如果正面朝上，則攻擊的神奇寶貝將被擊倒。",
+    "pt-br": "Se este Pokémon estiver no Ponto Ativo e for Nocauteado pelo dano de um ataque do Pokémon do seu oponente, jogue uma moeda. Se der cara, o Pokémon atacante será nocauteado.",
+    "de": "Wenn sich dieses Pokémon an der aktiven Stelle befindet und durch den Schaden eines Angriffs des Pokémon deines Gegners kampfunfähig gemacht wird, wirf eine Münze. Bei „Kopf“ wird das angreifende Pokémon kampfunfähig gemacht."
+  },
+  "If you have Latias in play, this Pokémon has no Retreat Cost.": {
+    "en": "If you have Latias in play, this Pokémon has no Retreat Cost.",
+    "es": "Si tienes a Latias en juego, este Pokémon no tiene Coste de Retirada.",
+    "fr": "Si vous avez Latias en jeu, ce Pokémon n'a pas de coût de retraite.",
+    "it": "Se hai Latias in gioco, questo Pokémon non ha costo di ritirata.",
+    "zh-tw": "如果你有拉帝亞斯在場，這只神奇寶貝沒有撤退成本。",
+    "de": "Wenn du Latias im Spiel hast, hat dieses Pokémon keine Rückzugskosten.",
+    "pt-br": "Se você tiver Latias em jogo, este Pokémon não terá custo de Recuo."
+  },
+  "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand.": {
+    "en": "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand.",
+    "fr": "Si le Pokémon Actif de votre adversaire est un Pokémon évolué, transférez-le en mettant la carte d'Évolution la plus élevée sur lui dans la main de votre adversaire.",
+    "es": "Si el Pokémon Activo de tu oponente es un Pokémon evolucionado, transmítelo poniendo la carta de Etapa de Evolución más alta en la mano de tu oponente.",
+    "zh-tw": "如果對手的活躍寶可夢是進化寶可夢，則將其進化階段最高的卡放入對手手牌，將其移交。",
+    "de": "Wenn das Aktive Pokémon deines Gegners ein entwickeltes Pokémon ist, devolviere es, indem du die Karte mit der höchsten Entwicklungsstufe darauf auf die Hand deines Gegners nimmst.",
+    "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon evoluído, devolva-o colocando a carta de Evolução de Estágio mais alta dele na mão do seu oponente.",
+    "it": "Se il Pokémon attivo del tuo avversario è un Pokémon evoluto, devoluzione mettendo la carta Evoluzione di Fase più alta nella mano del tuo avversario."
+  },
+  "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage.": {
+    "en": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage.",
+    "es": "Si el Pokémon Activo de tu rival es Zangoose, este ataque hace 40 puntos de daño más.",
+    "fr": "Si le Pokémon Actif de votre adversaire est Zangoose, cette attaque inflige 40 dégâts supplémentaires.",
+    "pt-br": "Se o Pokémon Ativo do seu oponente for Zangoose, este ataque causará 40 de dano a mais.",
+    "it": "Se il Pokémon attivo del tuo avversario è Zangoose, questo attacco infligge 40 danni in più.",
+    "zh-tw": "如果對手的出戰寶可夢是讚鵝，則這次攻擊造成的傷害增加 40 點。",
+    "de": "Wenn das Aktive Pokémon deines Gegners Zangoose ist, fügt dieser Angriff 40 weitere Schadenspunkte zu."
+  },
+  "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.": {
+    "en": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+    "it": "Se il Pokémon del tuo avversario viene messo KO dai danni inflitti dagli attacchi di questo Pokémon, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
+    "fr": "Si le Pokémon de votre adversaire est mis KO par les dégâts des attaques de ce Pokémon, pendant le prochain tour de votre adversaire, prévenez tous les dégâts et effets des attaques infligées à ce Pokémon.",
+    "zh-tw": "如果對手的神奇寶貝被該神奇寶貝的攻擊造成的傷害擊倒，則在對手的下一個回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。",
+    "es": "Si el Pokémon de tu rival queda fuera de combate por el daño de los ataques de este Pokémon, durante el próximo turno de tu rival, evita todo el daño (y los efectos de) los ataques realizados a este Pokémon.",
+    "de": "Wenn das Pokémon deines Gegners durch Schaden durch die Angriffe dieses Pokémon kampfunfähig wird, verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
+    "pt-br": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, evite todos os danos e efeitos dos ataques causados ​​a este Pokémon."
+  },
+  "Igglybuff": {
+    "en": "Igglybuff",
+    "fr": "Igglybuff",
+    "es": "Igglybuff",
+    "de": "Igglybuff",
+    "zh-tw": "伊格利巴夫",
+    "it": "Igglybuff",
+    "pt-br": "Igglybuff"
+  },
+  "Illusive Trickery": {
+    "en": "Illusive Trickery",
+    "fr": "Supercherie illusoire",
+    "es": "Truco ilusorio",
+    "it": "Inganno illusorio",
+    "de": "Illusiver Trick",
+    "pt-br": "Truque Ilusivo",
+    "zh-tw": "虛幻的詭計"
+  },
+  "Infiltrating Inspection": {
+    "en": "Infiltrating Inspection",
+    "es": "Inspección infiltrada",
+    "fr": "Inspection infiltrante",
+    "zh-tw": "滲透檢查",
+    "it": "Ispezione infiltrante",
+    "de": "Infiltrierende Inspektion",
+    "pt-br": "Inspeção de infiltração"
+  },
+  "Inflatable Boat": {
+    "en": "Inflatable Boat",
+    "fr": "Bateau pneumatique",
+    "es": "Barco inflable",
+    "it": "Barca gonfiabile",
+    "de": "Schlauchboot",
+    "zh-tw": "充氣船",
+    "pt-br": "Barco inflável"
+  },
+  "Inkay": {
+    "en": "Inkay",
+    "fr": "Inkay",
+    "es": "tinta",
+    "it": "Inkay",
+    "de": "Inkay",
+    "pt-br": "Inkay",
+    "zh-tw": "印凱"
+  },
+  "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets.": {
+    "en": "It can be found near the sea. The large pincers\ngrow back if they are torn out of their sockets.",
+    "es": "Se puede encontrar cerca del mar. Las pinzas grandes\nvolver a crecer si se los arranca de sus órbitas.",
+    "fr": "On le trouve près de la mer. Les grosses pinces\nrepousser s'ils sont arrachés de leurs orbites.",
+    "pt-br": "Pode ser encontrado perto do mar. As grandes pinças\nvoltar a crescer se forem arrancados das órbitas.",
+    "zh-tw": "它可以在海邊附近找到。大鉗子\n如果它們被從插座中拔出，它們會重新長出來。",
+    "de": "Es kann in der Nähe des Meeres gefunden werden. Die große Zange\nwachsen nach, wenn sie aus ihren Höhlen gerissen werden.",
+    "it": "Può essere trovato vicino al mare. Le grandi tenaglie\nricrescono se vengono strappati dalle loro orbite."
+  },
+  "It changes into the forms of others to surprise\nthem. Apparently, it often transforms into a\nsilent child.": {
+    "en": "It changes into the forms of others to surprise\nthem. Apparently, it often transforms into a\nsilent child.",
+    "es": "Cambia a las formas de otros para sorprender.\nellos. Al parecer, a menudo se transforma en un\nniño silencioso.",
+    "fr": "Il se transforme en forme d'autrui pour surprendre\neux. Apparemment, cela se transforme souvent en\nenfant silencieux.",
+    "zh-tw": "變化成別人的形態給大家帶來驚喜\n他們。顯然，它經常轉變為\n沉默的孩子。",
+    "it": "Si trasforma nelle forme degli altri per sorprendere\nloro. Apparentemente, spesso si trasforma in a\nbambino silenzioso.",
+    "de": "Es verwandelt sich in die Formen anderer, um zu überraschen\nsie. Anscheinend verwandelt es sich oft in ein\nstilles Kind.",
+    "pt-br": "Ele muda para a forma de outros para surpreender\neles. Aparentemente, muitas vezes se transforma em um\ncriança silenciosa."
+  },
+  "It communicates using telepathy. Its body is\ncovered in down that refracts light to make\nit invisible.": {
+    "en": "It communicates using telepathy. Its body is\ncovered in down that refracts light to make\nit invisible.",
+    "fr": "Il communique par télépathie. Son corps est\nrecouvert de duvet qui réfracte la lumière pour faire\nc'est invisible.",
+    "es": "Se comunica mediante telepatía. Su cuerpo es\ncubierto de plumón que refracta la luz para hacer\nes invisible.",
+    "it": "Comunica usando la telepatia. Il suo corpo lo è\nricoperto di piumino che rifrange la luce per fare\nè invisibile.",
+    "pt-br": "Ele se comunica por telepatia. Seu corpo é\ncoberto de penugem que refrata a luz para fazer\né invisível.",
+    "zh-tw": "它使用心靈感應進行交流。它的身體是\n覆蓋有折射光線的羽絨\n它是看不見的。",
+    "de": "Es kommuniziert mittels Telepathie. Sein Körper ist\nMit Daunen bedeckt, die das Licht brechen\nes unsichtbar."
+  },
+  "It constantly grooms its cotton-like wings. It takes\na shower to clean itself if it becomes dirty.": {
+    "en": "It constantly grooms its cotton-like wings. It takes\na shower to clean itself if it becomes dirty.",
+    "fr": "Il nettoie constamment ses ailes cotonneuses. Il faut\nune douche pour se nettoyer si elle devient sale.",
+    "pt-br": "Ele limpa constantemente suas asas parecidas com algodão. É preciso\num chuveiro para se limpar caso fique sujo.",
+    "it": "Si pulisce costantemente le sue ali simili al cotone. Ci vuole\nuna doccia per pulirsi se si sporca.",
+    "es": "Se limpia constantemente sus alas parecidas al algodón. se necesita\nuna ducha para limpiarse si se ensucia.",
+    "de": "Es pflegt ständig seine watteähnlichen Flügel. Es dauert\neine Dusche, um sich selbst zu reinigen, wenn sie schmutzig wird.",
+    "zh-tw": "它不斷地梳理棉花般的翅膀。這需要\n如果弄髒了，可以自行清潔淋浴。"
+  },
+  "It envelops its prey in its veillike arms and draws\nit down to the deeps, five miles below the\nocean's surface.": {
+    "en": "It envelops its prey in its veillike arms and draws\nit down to the deeps, five miles below the\nocean's surface.",
+    "es": "Envuelve a su presa en sus brazos como velos y atrae\nhasta las profundidades, cinco millas por debajo del\nla superficie del océano.",
+    "fr": "Il enveloppe sa proie dans ses bras en forme de voile et attire\njusqu'aux profondeurs, à cinq milles sous le\nla surface de l'océan.",
+    "it": "Avvolge la preda tra le sue braccia simili a veli e la attira\ngiù negli abissi, cinque miglia sotto il\nsuperficie dell'oceano.",
+    "de": "Es umhüllt seine Beute mit seinen schleierartigen Armen und zieht\nes bis in die Tiefe, fünf Meilen unter dem\nMeeresoberfläche.",
+    "zh-tw": "它用面紗般的手臂包圍獵物並吸引\n它一直深入到海底五英里的深處\n海洋表面。",
+    "pt-br": "Ele envolve sua presa em seus braços semelhantes a véus e puxa\naté as profundezas, cinco milhas abaixo do\nsuperfície do oceano."
+  },
+  "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs.": {
+    "en": "It has top-notch flying capabilities. It flies\naround easily, even while carrying prey\nthat weighs more than 220 lbs.",
+    "fr": "Il possède des capacités de vol de premier ordre. Ça vole\nse déplacer facilement, même en transportant une proie\nqui pèse plus de 220 livres.",
+    "es": "Tiene capacidades de vuelo de primer nivel. Vuela\nmoverse fácilmente, incluso mientras lleva presas\nque pesa más de 220 libras.",
+    "it": "Ha capacità di volo di prim'ordine. Vola\nmuoversi facilmente, anche mentre trasporta la preda\nche pesa più di 220 libbre.",
+    "pt-br": "Possui capacidades de vôo de alto nível. Ele voa\nfacilmente, mesmo carregando uma presa\nque pesa mais de 220 libras.",
+    "zh-tw": "它具有一流的飛行能力。它飛\n即使攜帶獵物，也能輕鬆四處走動\n重量超過 220 磅。",
+    "de": "Es verfügt über erstklassige Flugfähigkeiten. Es fliegt\nleicht herumlaufen, selbst beim Tragen von Beute\ndas mehr als 220 Pfund wiegt."
+  },
+  "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers.": {
+    "en": "It is constantly wracked by a headache. When the\nheadache turns intense, it begins using mysterious\npowers.",
+    "es": "Está constantemente atormentado por un dolor de cabeza. cuando el\nEl dolor de cabeza se vuelve intenso, comienza a usar misteriosos.\npoderes.",
+    "fr": "Il est constamment ravagé par un mal de tête. Quand le\nle mal de tête devient intense, il commence à utiliser un mystérieux\npouvoirs.",
+    "it": "È costantemente tormentato dal mal di testa. Quando il\nil mal di testa diventa intenso, inizia a essere misterioso\npoteri.",
+    "pt-br": "É constantemente assolado por uma dor de cabeça. Quando o\ndor de cabeça fica intensa, começa a usar misteriosos\npoderes.",
+    "de": "Es wird ständig von Kopfschmerzen geplagt. Wenn die\nDer Kopfschmerz wird intensiv, es beginnt geheimnisvoll zu wirken\nBefugnisse.",
+    "zh-tw": "它經常被頭痛所折磨。當\n頭痛變得劇烈，它開始使用神秘\n權力。"
+  },
+  "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground.": {
+    "en": "It lives about one yard underground, where it\nfeeds on plant roots. It sometimes appears\naboveground.",
+    "fr": "Il vit à environ un mètre sous terre, où il\nse nourrit des racines des plantes. Il apparaît parfois\nhors sol.",
+    "es": "Vive aproximadamente a un metro bajo tierra, donde\nse alimenta de raíces de plantas. A veces aparece\nsobre el suelo.",
+    "zh-tw": "它住在地下一碼左右，\n以植物根部為食。有時會出現\n地上。",
+    "it": "Vive a circa un metro sotto terra, dove...\nsi nutre delle radici delle piante. A volte appare\nfuori terra.",
+    "pt-br": "Vive cerca de um metro abaixo do solo, onde\nalimenta-se de raízes de plantas. Às vezes aparece\nacima do solo.",
+    "de": "Es lebt etwa einen Meter unter der Erde, wo es ist\nernährt sich von Pflanzenwurzeln. Es erscheint manchmal\noberirdisch."
+  },
+  "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them.": {
+    "en": "It lives in warm, shallow waters. If it encounters a\nfoe, it will spit out its internal organs as a means\nto punch them.",
+    "fr": "Il vit dans les eaux chaudes et peu profondes. S'il rencontre un\nennemi, il crachera ses organes internes pour\npour les frapper.",
+    "es": "Vive en aguas cálidas y poco profundas. Si encuentra un\nenemigo, escupirá sus órganos internos como medio\npara golpearlos.",
+    "it": "Vive in acque calde e poco profonde. Se incontra a\nnemico, sputerà i suoi organi interni come mezzo\nper prenderli a pugni.",
+    "zh-tw": "它生活在溫暖的淺水中。如果它遇到一個\n敵人，它會吐出內臟作為手段\n打他們。",
+    "de": "Es lebt in warmen, flachen Gewässern. Wenn es auf a trifft\nFeind, es wird als Mittel seine inneren Organe ausspucken\num sie zu schlagen.",
+    "pt-br": "Vive em águas quentes e rasas. Se encontrar um\ninimigo, ele cuspirá seus órgãos internos como um meio\npara socá-los."
+  },
+  "It makes a hole in a suitable rock. If that rock\nbreaks, the Pokémon remains agitated until it\nlocates a replacement.": {
+    "en": "It makes a hole in a suitable rock. If that rock\nbreaks, the Pokémon remains agitated until it\nlocates a replacement.",
+    "fr": "Il fait un trou dans une roche appropriée. Si ce rocher\nse brise, le Pokémon reste agité jusqu'à ce qu'il\ntrouve un remplaçant.",
+    "es": "Hace un agujero en una roca adecuada. si esa roca\nse rompe, el Pokémon permanece agitado hasta que\nlocaliza un reemplazo.",
+    "it": "Fa un buco in una roccia adatta. Se quella roccia\nsi rompe, il Pokémon rimane agitato finché non si rompe\nindividua un sostituto.",
+    "zh-tw": "它在合適的岩石上打一個洞。如果那塊石頭\n打破後，神奇寶貝會一直焦躁不安，直到它\n找到替代品。",
+    "de": "Es macht ein Loch in einen geeigneten Stein. Wenn dieser Stein\nbricht, bleibt das Pokémon aufgeregt, bis es\nfindet einen Ersatz.",
+    "pt-br": "Faz um buraco numa rocha adequada. Se aquela pedra\nquebra, o Pokémon permanece agitado até\nlocaliza um substituto."
+  },
+  "It spins while making its luminescent spots flash.\nThese spots allow it to communicate with others\nby using different patterns of light.": {
+    "en": "It spins while making its luminescent spots flash.\nThese spots allow it to communicate with others\nby using different patterns of light.",
+    "es": "Gira mientras hace destellar sus puntos luminiscentes.\nEstos puntos le permiten comunicarse con los demás.\nmediante el uso de diferentes patrones de luz.",
+    "fr": "Il tourne en faisant clignoter ses taches luminescentes.\nCes spots lui permettent de communiquer avec les autres\nen utilisant différents modèles de lumière.",
+    "pt-br": "Ele gira enquanto faz seus pontos luminescentes piscarem.\nEsses pontos permitem que ele se comunique com outras pessoas\nusando diferentes padrões de luz.",
+    "it": "Gira facendo lampeggiare i suoi punti luminescenti.\nQuesti punti gli permettono di comunicare con gli altri\nutilizzando diversi modelli di luce.",
+    "zh-tw": "它一邊旋轉，一邊讓發光點閃爍。\n這些點可以讓它與其他人交流\n通過使用不同的光圖案。",
+    "de": "Es dreht sich und lässt seine Leuchtpunkte blinken.\nDiese Stellen ermöglichen es ihm, mit anderen zu kommunizieren\ndurch die Verwendung verschiedener Lichtmuster."
+  },
+  "It understands human speech and is highly\nintelligent. It is a tender Pokémon that\ndislikes fighting.": {
+    "en": "It understands human speech and is highly\nintelligent. It is a tender Pokémon that\ndislikes fighting.",
+    "fr": "Il comprend la parole humaine et est hautement\nintelligent. C'est un tendre Pokémon qui\nn'aime pas se battre.",
+    "pt-br": "Ele entende a fala humana e é altamente\ninteligente. É um Pokémon gentil que\nnão gosta de lutar.",
+    "de": "Es versteht die menschliche Sprache und ist sehr gut\nintelligent. Es ist ein zartes Pokémon\nkämpft nicht gern.",
+    "es": "Entiende el habla humana y es altamente\ninteligente. Es un Pokémon tierno que\nno le gusta pelear.",
+    "it": "Capisce il linguaggio umano ed è altamente\nintelligente. È un Pokémon tenero quello\nnon ama combattere.",
+    "zh-tw": "它能理解人類的語言並且具有高度\n聰明。這是一隻溫柔的神奇寶貝\n不喜歡打鬥。"
+  },
+  "It's highly friendly and easily tamed. Tours that\ntake people swimming with Mantyke are a\nsuper-popular beach activity.": {
+    "en": "It's highly friendly and easily tamed. Tours that\ntake people swimming with Mantyke are a\nsuper-popular beach activity.",
+    "es": "Es muy amigable y fácilmente domesticable. Tours que\nllevar a la gente a nadar con Mantyke es una\nactividad de playa súper popular.",
+    "fr": "Il est très amical et facile à apprivoiser. Des visites qui\nemmenez les gens nager avec Mantyke sont un\nactivité de plage très populaire.",
+    "zh-tw": "它非常友好並且很容易被馴服。旅行團\n帶著 Mantyke 一起游泳的人是\n超受歡迎的海灘活動。",
+    "de": "Es ist sehr freundlich und leicht zu zähmen. Touren das\nNehmen Sie Leute mit, die mit Mantyke schwimmen gehen\näußerst beliebte Strandaktivität.",
+    "pt-br": "É altamente amigável e facilmente domesticado. Passeios que\nlevar as pessoas para nadar com Mantyke é um\natividade de praia super popular.",
+    "it": "È molto amichevole e facilmente addomesticabile. Lo visita\nportare le persone a nuotare con Mantyke sono a\nattività in spiaggia super popolare."
+  },
+  "It's Seviper's archrival. To threaten those\nit encounters, it fans out the claws on its\nfront paws.": {
+    "en": "It's Seviper's archrival. To threaten those\nit encounters, it fans out the claws on its\nfront paws.",
+    "fr": "C'est le rival de Seviper. Pour menacer ceux\nil rencontre, il déploie ses griffes sur son\npattes avant.",
+    "zh-tw": "這是塞維珀的主要競爭對手。去威脅那些\n它遇到了，它就會張開爪子\n前爪。",
+    "es": "Es el archirrival de Seviper. Para amenazar a aquellos\nencuentra, abre en abanico las garras de su\npatas delanteras.",
+    "pt-br": "É o arquirrival de Seviper. Para ameaçar aqueles\nencontra, espalha as garras em seu\npatas dianteiras.",
+    "de": "Es ist Sevipers Erzrivale. Diese zu bedrohen\nes begegnet, es breitet seine Krallen aus\nVorderpfoten.",
+    "it": "È l'arcinemico di Seviper. Per minacciarli\nincontra, apre a ventaglio i suoi artigli\nzampe anteriori."
+  },
+  "Its body has a faintly sweet scent and is bouncy\nand soft. If it bounces even once, it cannot stop.": {
+    "en": "Its body has a faintly sweet scent and is bouncy\nand soft. If it bounces even once, it cannot stop.",
+    "es": "Su cuerpo tiene un aroma ligeramente dulce y es animado.\ny suave. Si rebota aunque sea una vez, no puede detenerse.",
+    "fr": "Son corps a un parfum légèrement sucré et est rebondissant\net doux. S'il rebondit ne serait-ce qu'une seule fois, il ne peut pas s'arrêter.",
+    "pt-br": "Seu corpo tem um aroma levemente adocicado e é saltitante\ne macio. Se saltar pelo menos uma vez, não poderá parar.",
+    "it": "Il suo corpo ha un profumo leggermente dolce ed è rimbalzante\ne morbido. Se rimbalza anche una volta, non può fermarsi.",
+    "de": "Sein Körper hat einen leicht süßlichen Duft und ist federnd\nund weich. Wenn es auch nur einmal abprallt, kann es nicht aufhören.",
+    "zh-tw": "它的身體有淡淡的甜味，而且有彈性\n和柔軟的。即使彈起一次，也無法停止。"
+  },
+  "Its cry sounds like an incantation. It is said the cry\nmay rarely be imbued with happiness-giving power.": {
+    "en": "Its cry sounds like an incantation. It is said the cry\nmay rarely be imbued with happiness-giving power.",
+    "es": "Su grito suena como un encantamiento. se dice el llanto\nrara vez puede estar imbuido del poder de dar felicidad.",
+    "zh-tw": "它的叫聲聽起來就像是咒語。據說哭聲\n可能很少充滿給予幸福的力量。",
+    "fr": "Son cri ressemble à une incantation. On dit le cri\npeut rarement être imprégné d’un pouvoir générateur de bonheur.",
+    "it": "Il suo grido sembra un incantesimo. Si dice il grido\npuò raramente essere intriso di potere che dà felicità.",
+    "pt-br": "Seu grito soa como um encantamento. Diz-se que o choro\nraramente pode estar imbuído do poder de dar felicidade.",
+    "de": "Sein Schrei klingt wie eine Beschwörung. Es heißt, der Schrei\nkann selten von glückspendender Kraft durchdrungen sein."
+  },
+  "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.": {
+    "en": "Its large and hard pincer has 10,000-horsepower\nstrength. However, being so big, it is unwieldy\nto move.",
+    "pt-br": "Sua pinça grande e dura tem 10.000 cavalos de potência\nforça. No entanto, sendo tão grande, é pesado\npara se mover.",
+    "de": "Seine große und harte Zange hat 10.000 PS\nStärke. Da es jedoch so groß ist, ist es unhandlich\nbewegen.",
+    "es": "Su pinza grande y dura tiene 10.000 caballos de fuerza.\nfuerza. Sin embargo, al ser tan grande, resulta difícil de manejar.\npara moverse.",
+    "fr": "Sa pince large et dure a 10 000 chevaux\nforce. Cependant, étant si grand, il est difficile à manier\nbouger.",
+    "it": "La sua tenaglia grande e dura ha 10.000 cavalli\nforza. Tuttavia, essendo così grande, è poco maneggevole\nmuoversi.",
+    "zh-tw": "其大而硬的鉗子有萬馬力\n力量。不過太大了，不方便\n移動。"
+  },
+  "Its shell is overflowing with its heightened\notherworldly energy. The ectoplasm serves as\nprotection for this Pokémon's core spirit.": {
+    "en": "Its shell is overflowing with its heightened\notherworldly energy. The ectoplasm serves as\nprotection for this Pokémon's core spirit.",
+    "es": "Su caparazón rebosa con su realzado\nenergía de otro mundo. El ectoplasma sirve como\nprotección para el espíritu central de este Pokémon.",
+    "de": "Seine Schale ist überfüllt mit seinen Erhöhungen\njenseitige Energie. Das Ektoplasma dient als\nSchutz für den Kerngeist dieses Pokémon.",
+    "zh-tw": "它的外殼充滿了它高高的\n超凡脫俗的能量。外質充當\n保護這只神奇寶貝的核心精神。",
+    "fr": "Sa coquille déborde de son relief\nénergie d'un autre monde. L'ectoplasme sert de\nprotection de l'esprit principal de ce Pokémon.",
+    "pt-br": "Sua concha está transbordando com seu elevado\nenergia sobrenatural. O ectoplasma serve como\nproteção para o espírito central deste Pokémon.",
+    "it": "Il suo guscio è traboccante di intensificazione\nenergia ultraterrena. L'ectoplasma serve come\nprotezione per lo spirito centrale di questo Pokémon."
+  },
+  "Its tail bounces like a rubber ball. It flings that tail\naround to fight opponents bigger than itself.": {
+    "en": "Its tail bounces like a rubber ball. It flings that tail\naround to fight opponents bigger than itself.",
+    "es": "Su cola rebota como una pelota de goma. Lanza esa cola\nalrededor para luchar contra oponentes más grandes que él mismo.",
+    "fr": "Sa queue rebondit comme une balle en caoutchouc. Il jette cette queue\nautour pour combattre des adversaires plus grands que lui.",
+    "it": "La sua coda rimbalza come una palla di gomma. Lancia quella coda\nin giro per combattere avversari più grandi di lui.",
+    "pt-br": "Sua cauda salta como uma bola de borracha. Ele arremessa aquela cauda\nao redor para lutar contra adversários maiores que ele.",
+    "zh-tw": "它的尾巴像橡皮球一樣彈跳。它甩動那條尾巴\n四處對抗比自己強大的對手。",
+    "de": "Sein Schwanz hüpft wie ein Gummiball. Es wirft diesen Schwanz\nherum, um gegen Gegner zu kämpfen, die größer sind als er selbst."
+  },
+  "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow.": {
+    "en": "Its three heads bob separately up and down to\nloosen the soil nearby, making it easier for it\nto burrow.",
+    "fr": "Ses trois têtes bougent séparément de haut en bas pour\nameublir le sol à proximité, ce qui le rend plus facile\ncreuser.",
+    "es": "Sus tres cabezas se mueven por separado hacia arriba y hacia abajo para\naflojar la tierra cercana, haciéndola más fácil\npara excavar.",
+    "pt-br": "Suas três cabeças balançam separadamente para cima e para baixo\nafrouxe o solo próximo, facilitando\npara cavar.",
+    "it": "Le sue tre teste si muovono separatamente su e giù\nallentare il terreno vicino, rendendolo più facile\nscavare.",
+    "zh-tw": "它的三個頭分別上下擺動\n鬆動附近的土壤，使其更容易生長\n挖洞。",
+    "de": "Seine drei Köpfe bewegen sich einzeln auf und ab\nLockern Sie den Boden in der Nähe, um ihn leichter zu machen\ngraben."
+  },
+  "Jumpluff ex": {
+    "en": "Jumpluff ex",
+    "fr": "Jumpluff ex",
+    "es": "ex saltador",
+    "it": "Jumpluff es",
+    "de": "Jumpluff ex",
+    "pt-br": "Ex-Jumpluff",
+    "zh-tw": "跳躍前"
+  },
+  "Latias": {
+    "en": "Latias",
+    "es": "Latías",
+    "fr": "Latias",
+    "zh-tw": "拉蒂亞斯",
+    "it": "Latias",
+    "de": "Latias",
+    "pt-br": "Lácias"
+  },
+  "Latios": {
+    "en": "Latios",
+    "fr": "Latios",
+    "es": "Latios",
+    "zh-tw": "拉蒂奧斯",
+    "it": "Lazio",
+    "pt-br": "Lácio",
+    "de": "Latios"
+  },
+  "Leek Slam": {
+    "en": "Leek Slam",
+    "fr": "Slam de poireaux",
+    "es": "Golpe de puerro",
+    "zh-tw": "韭蔥大滿貫",
+    "it": "Slam di porri",
+    "de": "Lauch-Slam",
+    "pt-br": "Alho-poró"
+  },
+  "Legendary Pulse": {
+    "en": "Legendary Pulse",
+    "fr": "Impulsion légendaire",
+    "es": "Pulso legendario",
+    "zh-tw": "傳奇脈搏",
+    "de": "Legendärer Puls",
+    "it": "Impulso leggendario",
+    "pt-br": "Pulso Lendário"
+  },
+  "Lickilicky's strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky's tongue can stretch so far.": {
+    "en": "Lickilicky's strange tongue can stretch to many\ntimes the length of its body. No one has figured\nout how Lickilicky's tongue can stretch so far.",
+    "es": "La extraña lengua de Lickilicky puede extenderse a muchos\nveces la longitud de su cuerpo. Nadie se ha dado cuenta\nDescubra cómo la lengua de Lickilicky puede estirarse hasta tal punto.",
+    "fr": "L'étrange langue de Lickilicky peut s'étendre à beaucoup\nfois la longueur de son corps. Personne n'a compris\ncomment la langue de Lickilicky peut s'étirer jusqu'à présent.",
+    "pt-br": "A estranha língua de Lickilicky pode se estender a muitos\nvezes o comprimento do seu corpo. Ninguém imaginou\ndescobrir como a língua de Lickilicky pode esticar tanto.",
+    "zh-tw": "Lickilicky 奇怪的舌頭可以延伸到很多\n其身體長度的幾倍。沒有人想到\n看看 Lickilicky 的舌頭如何能伸展這麼遠。",
+    "de": "Lickilickys seltsame Zunge kann viele ansprechen\nmal die Länge seines Körpers. Niemand hat es herausgefunden\nFinden Sie heraus, wie weit Lickilickys Zunge sich dehnen kann.",
+    "it": "La strana lingua di Lickilicky può allungarsi a molti\nvolte la lunghezza del suo corpo. Nessuno lo ha capito\ncome riesce ad allungarsi così tanto la lingua di Lickilicky."
+  },
+  "Litter": {
+    "en": "Litter",
+    "fr": "Litière",
+    "es": "Basura",
+    "it": "Rifiuti",
+    "de": "Wurf",
+    "pt-br": "Lixo",
+    "zh-tw": "垃圾"
+  },
+  "Look at the top 4 cards of your deck. Put all Pokémon Tool cards you find there into your hand. Shuffle the other cards back into your deck.": {
+    "en": "Look at the top 4 cards of your deck. Put all Pokémon Tool cards you find there into your hand. Shuffle the other cards back into your deck.",
+    "fr": "Regardez les 4 premières cartes de votre deck. Mettez toutes les cartes Outil Pokémon que vous y trouvez dans votre main. Mélangez les autres cartes dans votre deck.",
+    "es": "Mira las 4 primeras cartas de tu mazo. Pon en tu mano todas las cartas de Herramientas Pokémon que encuentres allí. Mezcla las otras cartas de nuevo en tu mazo.",
+    "zh-tw": "查看你牌組頂的 4 張牌。將在那裡找到的所有神奇寶貝工具卡放入手牌。將其他牌洗回你的牌庫中。",
+    "de": "Schauen Sie sich die obersten 4 Karten Ihres Decks an. Nimm alle Pokémon-Ausrüstungskarten, die du dort findest, auf deine Hand. Mische die anderen Karten zurück in deinen Stapel.",
+    "pt-br": "Veja as 4 primeiras cartas do seu baralho. Coloque em sua mão todas as cartas de Ferramentas Pokémon que encontrar. Embaralhe as outras cartas de volta no seu baralho.",
+    "it": "Guarda le prime 4 carte del tuo mazzo. Metti nella tua mano tutte le carte Oggetto Pokémon che trovi lì. Rimescola le altre carte nel tuo mazzo."
+  },
+  "Luster Purge": {
+    "en": "Luster Purge",
+    "es": "Purga de brillo",
+    "fr": "Purge d'éclat",
+    "de": "Glanzreinigung",
+    "pt-br": "Purga de brilho",
+    "zh-tw": "光澤淨化",
+    "it": "Epurazione della lucentezza"
+  },
+  "Malamar": {
+    "en": "Malamar",
+    "es": "Malamar",
+    "fr": "Malamar",
+    "it": "Malamar",
+    "zh-tw": "馬拉馬爾",
+    "de": "Malamar",
+    "pt-br": "Malamar"
+  },
+  "Mantyke": {
+    "en": "Mantyke",
+    "fr": "Mantyke",
+    "es": "Mantyke",
+    "zh-tw": "曼蒂克",
+    "de": "Mantyke",
+    "it": "Mantyke",
+    "pt-br": "Mantyke"
+  },
+  "Melt": {
+    "en": "Melt",
+    "fr": "Fondre",
+    "de": "Schmelzen",
+    "es": "Derretir",
+    "pt-br": "Derretido",
+    "it": "Sciolto",
+    "zh-tw": "熔化"
+  },
+  "Memory Light": {
+    "en": "Memory Light",
+    "es": "Luz de memoria",
+    "de": "Erinnerungslicht",
+    "pt-br": "Luz de memória",
+    "it": "Luce della memoria",
+    "fr": "Lumière de mémoire",
+    "zh-tw": "記憶燈"
+  },
+  "Mental Surge": {
+    "en": "Mental Surge",
+    "de": "Mentaler Aufschwung",
+    "fr": "Poussée mentale",
+    "es": "Oleada mental",
+    "it": "Impulso mentale",
+    "pt-br": "Surto Mental",
+    "zh-tw": "精神澎湃"
+  },
+  "Milotic": {
+    "en": "Milotic",
+    "es": "milótico",
+    "it": "Milotico",
+    "fr": "Milotique",
+    "zh-tw": "米洛蒂奇",
+    "pt-br": "Milótico",
+    "de": "Milotic"
+  },
+  "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.": {
+    "en": "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.",
+    "es": "Milotic ha servido de inspiración a muchos artistas.\nIncluso se le ha denominado el más\nHermoso Pokémon de todos.",
+    "fr": "Milotic a inspiré de nombreux artistes.\nIl a même été qualifié de plus\nbeau Pokémon de tous.",
+    "zh-tw": "米洛蒂奇為許多藝術家提供了靈感。\n甚至被稱為最\n美麗的神奇寶貝。",
+    "de": "Milotic hat viele Künstler inspiriert.\nEs wurde sogar als das meiste bezeichnet\nwunderschönes Pokémon von allen.",
+    "pt-br": "Milotic inspirou muitos artistas.\nFoi até referido como o mais\nlindo Pokémon de todos.",
+    "it": "Milotic ha fornito ispirazione a molti artisti.\nÈ stato anche definito il più\nbellissimi Pokémon in assoluto."
+  },
+  "Miltank produces highly nutritious milk, so it's\nbeen supporting the lives of people and other\nPokémon since ancient times.": {
+    "en": "Miltank produces highly nutritious milk, so it's\nbeen supporting the lives of people and other\nPokémon since ancient times.",
+    "fr": "Miltank produit du lait très nutritif, c'est donc\nsoutenu la vie des gens et d'autres\nPokémon depuis l'Antiquité.",
+    "pt-br": "Miltank produz leite altamente nutritivo, por isso é\ntem apoiado a vida de pessoas e outros\nPokémon desde os tempos antigos.",
+    "es": "Miltank produce leche altamente nutritiva, por lo que es\nestado apoyando la vida de las personas y otros\nPokémon desde la antigüedad.",
+    "de": "Miltank produziert hochnährstoffreiche Milch\nunterstützt das Leben von Menschen und anderen\nPokémon seit der Antike.",
+    "it": "Miltank produce latte altamente nutriente, quindi è così\nhanno sostenuto la vita di persone e altri\nPokémon fin dai tempi antichi.",
+    "zh-tw": "Miltank 生產高營養牛奶，因此\n一直在支持人們和其他人的生活\n自古以來的神奇寶貝。"
+  },
+  "Morty": {
+    "en": "Morty",
+    "es": "Morty",
+    "pt-br": "Morty",
+    "fr": "Morty",
+    "zh-tw": "莫蒂",
+    "de": "Morty",
+    "it": "Morty"
+  },
+  "Most of this Pokémon's body composition is\nidentical to sea water. It makes sunken ships\nits lair.": {
+    "en": "Most of this Pokémon's body composition is\nidentical to sea water. It makes sunken ships\nits lair.",
+    "es": "La mayor parte de la composición corporal de este Pokémon es\nIdéntico al agua de mar. Hace barcos hundidos\nsu guarida.",
+    "fr": "La majeure partie de la composition corporelle de ce Pokémon est\nidentique à l'eau de mer. Il fait couler des navires\nson antre.",
+    "it": "La maggior parte della composizione corporea di questo Pokémon lo è\nidentico all'acqua di mare. Produce navi affondate\nla sua tana.",
+    "de": "Der größte Teil der Körperzusammensetzung dieses Pokémon ist\nidentisch mit Meerwasser. Es macht versunkene Schiffe\nsein Versteck.",
+    "zh-tw": "該神奇寶貝的大部分身體成分是\n與海水相同。它使沉船\n它的巢穴。",
+    "pt-br": "A maior parte da composição corporal deste Pokémon é\nidêntica à água do mar. Faz navios afundados\nseu covil."
+  },
+  "Mountain Munch": {
+    "en": "Mountain Munch",
+    "es": "Masticación de montaña",
+    "fr": "Grignotage de montagne",
+    "pt-br": "Montanha Munch",
+    "it": "Munch di montagna",
+    "de": "Berg Munch",
+    "zh-tw": "蒙克山"
+  },
+  "Night Daze": {
+    "en": "Night Daze",
+    "fr": "Étourdissement nocturne",
+    "es": "Aturdimiento nocturno",
+    "it": "Stordimento notturno",
+    "de": "Nachtbenommenheit",
+    "pt-br": "Noite atordoada",
+    "zh-tw": "夜發呆"
+  },
+  "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.": {
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {W} Pokémon.",
+    "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá curar 60 de dano de 1 dos seus {W} Pokémon.",
+    "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 60 Schadenspunkte von 1 deiner {W} Pokémon heilen.",
+    "fr": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon depuis votre main pour faire évoluer 1 de vos Pokémon, vous pouvez soigner 60 dégâts d'1 de vos Pokémon {W}.",
+    "zh-tw": "在你的回合中，當你從手牌中使用這只神奇寶貝來進化你的 1 只神奇寶貝時，你可以從你的 1 只 {W} 神奇寶貝那裡治療 60 點傷害。",
+    "es": "Una vez durante tu turno, cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon, podrás curar 60 puntos de daño de 1 de tus Pokémon {W}.",
+    "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere 1 dei tuoi Pokémon, puoi curare 60 danni da 1 dei tuoi Pokémon {W}."
+  },
+  "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand.": {
+    "en": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand.",
+    "pt-br": "Uma vez durante o seu turno, quando você colocar este Pokémon da sua mão no seu Banco, você poderá fazer com que seu oponente revele a mão dele.",
+    "es": "Una vez durante tu turno, cuando pongas este Pokémon de tu mano en tu Banca, puedes hacer que tu oponente revele su mano.",
+    "it": "Una sola volta durante il tuo turno, quando metti questo Pokémon dalla tua mano nella tua panchina, puoi chiedere al tuo avversario di rivelare la sua mano.",
+    "de": "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand auf deine Bank legst, kannst du deinen Gegner seine Hand aufdecken lassen.",
+    "zh-tw": "在你的回合中，當你將這只神奇寶貝從你的手牌放到你的替補席上時，你可能會讓對手亮出他們的手牌。",
+    "fr": "Une fois pendant votre tour, lorsque vous placez ce Pokémon de votre main sur votre Banc, vous pouvez demander à votre adversaire de révéler sa main."
+  },
+  "Perish Body": {
+    "en": "Perish Body",
+    "fr": "Corps périr",
+    "es": "Cuerpo perecedero",
+    "it": "Perire corpo",
+    "de": "Körper zugrunde gehen",
+    "zh-tw": "滅亡之軀",
+    "pt-br": "Perecer Corpo"
+  },
+  "Poliwrath ex": {
+    "en": "Poliwrath ex",
+    "es": "Poliira ex",
+    "fr": "Poliwrath ex",
+    "it": "Poliwrath ex",
+    "de": "Poliwrath ex",
+    "zh-tw": "波利拉特前身",
+    "pt-br": "Ex-poliwrath"
+  },
+  "Raikou ex": {
+    "en": "Raikou ex",
+    "fr": "Raikou ex",
+    "es": "Raikou ex",
+    "it": "Raikou ex",
+    "zh-tw": "賴光前",
+    "de": "Raikou ex",
+    "pt-br": "Ex de Raikou"
+  },
+  "Relicanth": {
+    "en": "Relicanth",
+    "es": "relicanto",
+    "fr": "Relicanthe",
+    "zh-tw": "遺角",
+    "it": "Relicanth",
+    "de": "Relicanth",
+    "pt-br": "Relicanto"
+  },
+  "Rock-hard scales and oil-filled swim bladders\nallow this Pokémon to survive the intense water\npressure of the deep sea.": {
+    "en": "Rock-hard scales and oil-filled swim bladders\nallow this Pokémon to survive the intense water\npressure of the deep sea.",
+    "fr": "Des écailles dures comme la pierre et des vessies natatoires remplies d'huile\npermettre à ce Pokémon de survivre à l'eau intense\npression des profondeurs marines.",
+    "de": "Steinharte Schuppen und ölgefüllte Schwimmblasen\nErlaube diesem Pokémon, das intensive Wasser zu überleben\nDruck der Tiefsee.",
+    "es": "Escamas duras como piedras y vejigas natatorias llenas de aceite.\npermite que este Pokémon sobreviva al agua intensa\npresión de las profundidades del mar.",
+    "zh-tw": "堅硬的鱗片和充滿油的魚鰾\n讓這只神奇寶貝在激烈的水中生存\n深海的壓力。",
+    "pt-br": "Escamas duras e bexigas natatórias cheias de óleo\npermita que este Pokémon sobreviva à água intensa\npressão do mar profundo.",
+    "it": "Scaglie dure come la roccia e vesciche natatorie piene di olio\npermetti a questo Pokémon di sopravvivere all'acqua intensa\npressione del mare profondo."
+  },
+  "Rolling Frenzy": {
+    "en": "Rolling Frenzy",
+    "fr": "Frénésie roulante",
+    "de": "Rollende Raserei",
+    "es": "Frenesí rodante",
+    "zh-tw": "滾滾狂亂",
+    "it": "Frenesia rotolante",
+    "pt-br": "Frenesi rolante"
+  },
+  "Seviper": {
+    "en": "Seviper",
+    "fr": "Sévipère",
+    "es": "Sevíper",
+    "de": "Seviper",
+    "pt-br": "Seviper",
+    "it": "Seviper",
+    "zh-tw": "塞維佩爾"
+  },
+  "Skrelp evades its enemies by hiding amid\ndrifting seaweed. It eats rotten seaweed to\ncreate its poison.": {
+    "en": "Skrelp evades its enemies by hiding amid\ndrifting seaweed. It eats rotten seaweed to\ncreate its poison.",
+    "es": "Skrelp evade a sus enemigos escondiéndose entre\nalgas a la deriva. Come algas podridas para\ncrear su veneno.",
+    "fr": "Skrelp échappe à ses ennemis en se cachant au milieu\nalgues dérivantes. Il mange des algues pourries pour\ncréer son poison.",
+    "zh-tw": "Skrelp 通過隱藏在其中來躲避敵人\n漂流的海藻。牠吃腐爛的海藻\n創造其毒。",
+    "de": "Skrelp entkommt seinen Feinden, indem er sich inmitten versteckt\ntreibende Algen. Es frisst faule Algen\nerschaffe sein Gift.",
+    "pt-br": "Skrelp foge de seus inimigos escondendo-se em meio\nalgas marinhas à deriva. Ele come algas podres para\ncriar seu veneno.",
+    "it": "Skrelp sfugge ai suoi nemici nascondendosi in mezzo\nalghe alla deriva. Mangia alghe marce\ncreare il suo veleno."
+  },
+  "Sleepy Lullaby": {
+    "en": "Sleepy Lullaby",
+    "fr": "Berceuse endormie",
+    "es": "Canción de cuna para dormir",
+    "de": "Verschlafenes Schlaflied",
+    "it": "Ninna nanna assonnata",
+    "zh-tw": "昏昏欲睡的搖籃曲",
+    "pt-br": "Canção de ninar sonolenta"
+  },
+  "Sludge Bomb": {
+    "en": "Sludge Bomb",
+    "fr": "Bombe à boue",
+    "es": "Bomba de lodo",
+    "pt-br": "Bomba de lama",
+    "it": "Bomba di fango",
+    "zh-tw": "污泥炸彈",
+    "de": "Schlammbombe"
+  },
+  "Splashy Toss": {
+    "en": "Splashy Toss",
+    "it": "Lancio Spruzzato",
+    "es": "Lanzamiento salpicado",
+    "fr": "Lancer éclaboussant",
+    "de": "Spritziger Wurf",
+    "zh-tw": "潑濺投擲",
+    "pt-br": "Lançamento chamativo"
+  },
+  "Squishy Healing": {
+    "en": "Squishy Healing",
+    "es": "Curación blanda",
+    "it": "Guarigione molle",
+    "fr": "Guérison visqueuse",
+    "pt-br": "Cura Mole",
+    "zh-tw": "軟軟的治療",
+    "de": "Squishy-Heilung"
+  },
+  "Stone Edge": {
+    "en": "Stone Edge",
+    "es": "Borde de piedra",
+    "fr": "Bordure de pierre",
+    "zh-tw": "石邊",
+    "de": "Steinkante",
+    "pt-br": "Borda de Pedra",
+    "it": "Bordo di pietra"
+  },
+  "Stories say those who tried to catch Zoroark were\ntrapped in an illusion and punished.": {
+    "en": "Stories say those who tried to catch Zoroark were\ntrapped in an illusion and punished.",
+    "fr": "Les histoires disent que ceux qui ont tenté d'attraper Zoroark étaient\npiégé dans une illusion et puni.",
+    "de": "Geschichten sagen, dass diejenigen, die versuchten, Zoroark zu fangen, es waren\nin einer Illusion gefangen und bestraft.",
+    "it": "Le storie dicono che coloro che hanno cercato di catturare Zoroark lo sono stati\nintrappolato in un'illusione e punito.",
+    "zh-tw": "故事稱那些試圖抓住索羅亞克的人是\n陷入幻覺並受到懲罰。",
+    "es": "Las historias dicen que aquellos que intentaron atrapar a Zoroark fueron\natrapado en una ilusión y castigado.",
+    "pt-br": "As histórias dizem que aqueles que tentaram capturar Zoroark foram\npreso em uma ilusão e punido."
+  },
+  "Stretch Tongue": {
+    "en": "Stretch Tongue",
+    "es": "Estirar la lengua",
+    "it": "Allunga la lingua",
+    "fr": "Étirer la langue",
+    "de": "Zunge dehnen",
+    "zh-tw": "伸展舌頭",
+    "pt-br": "Esticar a língua"
+  },
+  "Stunfisk": {
+    "en": "Stunfisk",
+    "es": "aturdidor",
+    "de": "Stunfisk",
+    "fr": "Stunfisk",
+    "zh-tw": "斯通菲斯克",
+    "it": "Stunfisk",
+    "pt-br": "Stunfisk"
+  },
+  "Suicune ex": {
+    "en": "Suicune ex",
+    "es": "ex suicune",
+    "de": "Suicune ex",
+    "zh-tw": "水君前",
+    "fr": "Suicune ex",
+    "it": "Suicune ex",
+    "pt-br": "Suicune ex"
+  },
+  "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.": {
+    "en": "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
+    "es": "Toma una Energía {W} de tu Zona de Energía y únela a 1 de tus Pokémon Básicos en Banca.",
+    "it": "Prendi un'Energia {W} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon Base in panchina.",
+    "fr": "Prenez une Énergie {W} de votre Zone d'Énergie et attachez-la à l'un de vos Pokémon de Base de Banc.",
+    "de": "Nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner Basis-Pokémon auf deiner Bank an.",
+    "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只基礎神奇寶貝上。",
+    "pt-br": "Pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco."
+  },
+  "Take Down": {
+    "en": "Take Down",
+    "fr": "Démonter",
+    "de": "Notieren",
+    "es": "Derribar",
+    "it": "Prendere nota",
+    "zh-tw": "記錄下來",
+    "pt-br": "Derrubar"
+  },
+  "Temporal Leaves": {
+    "en": "Temporal Leaves",
+    "es": "Hojas Temporales",
+    "fr": "Feuilles temporelles",
+    "it": "Foglie temporali",
+    "de": "Temporale Blätter",
+    "pt-br": "Folhas Temporais",
+    "zh-tw": "顳葉"
+  },
+  "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey.": {
+    "en": "Tentacool is not a particularly strong swimmer.\nIt drifts across the surface of shallow seas as it\nsearches for prey.",
+    "es": "Tentacool no es un nadador particularmente fuerte.\nSe desplaza por la superficie de mares poco profundos a medida que avanza.\nbusca presas.",
+    "it": "Tentacool non è un nuotatore particolarmente forte.\nVa alla deriva sulla superficie dei mari poco profondi\ncerca la preda.",
+    "fr": "Tentacool n'est pas un nageur particulièrement fort.\nIl dérive à la surface des mers peu profondes alors qu'il\nrecherche des proies.",
+    "de": "Tentacool ist kein besonders starker Schwimmer.\nDabei treibt es über die Oberfläche flacher Meere\nsucht nach Beute.",
+    "pt-br": "Tentacool não é um nadador particularmente forte.\nEle flutua pela superfície de mares rasos à medida que\nprocura por presas.",
+    "zh-tw": "Tentacool 並不是一個特別擅長游泳的人。\n它在淺海表面漂流\n尋找獵物。"
+  },
+  "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity.": {
+    "en": "Thanks to bacteria that lived in the mud flats with\nit, this Pokémon developed the organs it uses to\ngenerate electricity.",
+    "es": "Gracias a las bacterias que vivían en las marismas con\neste Pokémon desarrolló los órganos que utiliza para\ngenerar electricidad.",
+    "fr": "Grâce aux bactéries qui vivaient dans les vasières avec\nce Pokémon a développé les organes qu'il utilise pour\nproduire de l'électricité.",
+    "it": "Grazie ai batteri che vivevano nelle distese di fango\nit, questo Pokémon ha sviluppato gli organi a cui è abituato\ngenerare elettricità.",
+    "zh-tw": "感謝生活在泥灘中的細菌\n它，這個神奇寶貝開發了它用來\n發電。",
+    "de": "Dank Bakterien, die im Watt lebten\nDadurch hat dieses Pokémon die Organe entwickelt, die es benötigt\nStrom erzeugen.",
+    "pt-br": "Graças às bactérias que viviam nas planícies lamacentas com\nisso, este Pokémon desenvolveu os órgãos que usa para\ngerar eletricidade."
+  },
+  "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)": {
+    "en": "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+    "fr": "Le Pokémon auquel cette carte est attachée peut utiliser n'importe quelle attaque de ses évolutions précédentes. (Vous avez toujours besoin de l'énergie nécessaire pour utiliser chaque attaque.)",
+    "es": "El Pokémon al que está unida esta carta puede usar cualquier ataque de sus Evoluciones anteriores. (Aún necesitas la energía necesaria para usar cada ataque).",
+    "pt-br": "O Pokémon ao qual esta carta está ligada pode usar qualquer ataque de suas evoluções anteriores. (Você ainda precisa da energia necessária para usar cada ataque.)",
+    "zh-tw": "這張卡所附著的神奇寶貝可以使用其先前進化中的任何攻擊。 （你仍然需要必要的能量來使用每次攻擊。）",
+    "de": "Das Pokémon, an das diese Karte angelegt ist, kann jede Attacke aus seinen vorherigen Entwicklungen verwenden. (Sie benötigen immer noch die nötige Energie, um jeden Angriff auszuführen.)",
+    "it": "Il Pokémon a cui è assegnata questa carta può usare qualsiasi attacco delle sue evoluzioni precedenti. (Hai ancora bisogno dell'energia necessaria per utilizzare ogni attacco.)"
+  },
+  "The Retreat Cost of the {W} Pokémon this card is attached to is 1 less.": {
+    "en": "The Retreat Cost of the {W} Pokémon this card is attached to is 1 less.",
+    "fr": "Le Coût de Retraite du Pokémon {W} auquel cette carte est attachée est de 1 de moins.",
+    "zh-tw": "這張卡所附著的{W}寶可夢的撤退費用減少1。",
+    "es": "El Coste de Retirada del Pokémon {W} al que está unida esta carta es 1 menos.",
+    "it": "Il costo di ritirata del Pokémon {W} a cui è assegnata questa carta è pari a 1 in meno.",
+    "pt-br": "O Custo de Recuo do Pokémon {W} ao qual esta carta está ligada é 1 a menos.",
+    "de": "Die Rückzugskosten des {W}-Pokémon, an das diese Karte angelegt ist, sind 1 weniger."
+  },
+  "They attack in groups, covering themselves in steel\narmor to protect themselves from Heatmor.": {
+    "en": "They attack in groups, covering themselves in steel\narmor to protect themselves from Heatmor.",
+    "fr": "Ils attaquent en groupe, se couvrant d'acier\narmure pour se protéger de Heatmor.",
+    "es": "Atacan en grupos, cubriéndose de acero.\narmadura para protegerse de Heatmor.",
+    "it": "Attaccano in gruppi, ricoprendosi di acciaio\narmatura per proteggersi da Heatmor.",
+    "zh-tw": "他們成群結隊地攻擊，用鋼鐵覆蓋自己\n保護自己免受熱魔傷害的盔甲。",
+    "pt-br": "Eles atacam em grupos, cobrindo-se com aço\narmadura para se proteger do Heatmor.",
+    "de": "Sie greifen in Gruppen an und bedecken sich mit Stahl\nRüstung, um sich vor Heatmor zu schützen."
+  },
+  "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.": {
+    "en": "They coil around foes and shock them with\nelectricity-generating organs that seem simply\nto be circular patterns.",
+    "fr": "Ils s'enroulent autour de leurs ennemis et les choquent avec\norganes générateurs d'électricité qui semblent simplement\nêtre des motifs circulaires.",
+    "de": "Sie schlingen sich um Feinde und schocken sie mit ihnen\nStrom erzeugende Organe, die einfach erscheinen\nkreisförmige Muster sein.",
+    "es": "Se enrollan alrededor de los enemigos y los electrocutan con\nÓrganos generadores de electricidad que parecen simplemente\nser patrones circulares.",
+    "it": "Si avvolgono attorno ai nemici e li colpiscono\norgani generatori di elettricità che sembrano semplici\nessere modelli circolari.",
+    "pt-br": "Eles se enrolam em torno dos inimigos e os chocam com\nórgãos geradores de eletricidade que parecem simplesmente\nser padrões circulares.",
+    "zh-tw": "他們盤繞敵人並用\n看似簡單的發電器官\n為圓形圖案。"
+  },
+  "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean.": {
+    "en": "They crawl out of the ocean using their arms.\nThey will attack prey on shore and immediately\ndrag it into the ocean.",
+    "es": "Salen del océano arrastrándose usando sus brazos.\nAtacarán a sus presas en la orilla e inmediatamente\narrastrarlo al océano.",
+    "fr": "Ils rampent hors de l'océan en utilisant leurs bras.\nIls attaqueront leurs proies à terre et immédiatement\ntraînez-le dans l'océan.",
+    "it": "Strisciano fuori dall'oceano usando le braccia.\nAttaccheranno la preda a terra e immediatamente\ntrascinalo nell'oceano.",
+    "zh-tw": "他們用手臂從海裡爬出來。\n他們會立即攻擊岸上的獵物\n將其拖入大海。",
+    "pt-br": "Eles rastejam para fora do oceano usando os braços.\nEles atacarão as presas na costa e imediatamente\narraste-o para o oceano.",
+    "de": "Sie kriechen mit ihren Armen aus dem Meer.\nSie greifen ihre Beute sofort an Land an\nZieh es ins Meer."
+  },
+  "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).": {
+    "en": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+    "es": "Este ataque hace 20 puntos de daño por cada Pokémon en Banca (tanto tuyo como de tu rival).",
+    "fr": "Cette attaque inflige 20 dégâts pour chaque Pokémon du Banc (le vôtre et celui de votre adversaire).",
+    "pt-br": "Este ataque causa 20 de dano para cada Pokémon no Banco (seu e do seu oponente).",
+    "it": "Questo attacco infligge 20 danni per ogni Pokémon in panchina (sia il tuo che quello del tuo avversario).",
+    "zh-tw": "此攻擊對每個後備神奇寶貝（包括你的和你對手的）造成 20 點傷害。",
+    "de": "Dieser Angriff fügt jedem Pokémon auf der Bank (sowohl deinem als auch dem deines Gegners) 20 Schadenspunkte zu."
+  },
+  "This attack does 60 damage to 1 of your opponent's Pokémon.": {
+    "en": "This attack does 60 damage to 1 of your opponent's Pokémon.",
+    "es": "Este ataque hace 60 puntos de daño a 1 de los Pokémon de tu rival.",
+    "fr": "Cette attaque inflige 60 dégâts à 1 des Pokémon de votre adversaire.",
+    "pt-br": "Este ataque causa 60 pontos de dano a 1 dos Pokémon do seu oponente.",
+    "zh-tw": "這次攻擊對對手的 1 只神奇寶貝造成 60 點傷害。",
+    "de": "Dieser Angriff fügt 1 Pokémon deines Gegners 60 Schadenspunkte zu.",
+    "it": "Questo attacco infligge 60 danni a 1 dei Pokémon del tuo avversario."
+  },
+  "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.": {
+    "en": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
+    "fr": "Cette attaque inflige au Pokémon Actif de votre adversaire des dégâts égaux aux dégâts que ce Pokémon lui inflige.",
+    "es": "Este ataque hace un daño al Pokémon Activo de tu rival igual al daño que este Pokémon tiene sobre él.",
+    "de": "Dieser Angriff fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe des Schadens zu, den dieses Pokémon ihm zufügt.",
+    "it": "Questo attacco infligge al Pokémon attivo del tuo avversario un danno pari al danno che questo Pokémon ha su di sé.",
+    "zh-tw": "這次攻擊對對手的活躍寶可夢造成的傷害等於該寶可夢對其造成的傷害。",
+    "pt-br": "Este ataque causa dano ao Pokémon Ativo do seu oponente igual ao dano que este Pokémon causa nele."
+  },
+  "This highly territorial Pokémon prefers dry\nclimates. It won't come out of its boulder on\nrainy days.": {
+    "en": "This highly territorial Pokémon prefers dry\nclimates. It won't come out of its boulder on\nrainy days.",
+    "fr": "Ce Pokémon très territorial préfère les sols secs\nclimats. Il ne sortira pas de son rocher\nles jours de pluie.",
+    "pt-br": "Este Pokémon altamente territorial prefere áreas secas\nclimas. Não vai sair da pedra\ndias chuvosos.",
+    "es": "Este Pokémon altamente territorial prefiere el clima seco.\nclimas. No saldrá de su roca\ndías lluviosos.",
+    "it": "Questo Pokémon altamente territoriale preferisce l'asciutto\nclimi. Non uscirà dal suo masso\ngiorni di pioggia.",
+    "de": "Dieses sehr territoriale Pokémon bevorzugt Trockenheit\nKlimazonen. Es kommt nicht aus seinem Felsblock heraus\nregnerische Tage.",
+    "zh-tw": "這種領地意識很強的神奇寶貝喜歡乾燥\n氣候。它不會從巨石中出來\n下雨天。"
+  },
+  "This Pokémon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days.": {
+    "en": "This Pokémon generates electricity and channels\nit into its legs to keep them going strong.\nBoltund can run nonstop for three full days.",
+    "fr": "Ce Pokémon génère de l'électricité et des canaux\nil dans ses jambes pour les maintenir forts.\nBoltund peut fonctionner sans interruption pendant trois jours complets.",
+    "es": "Este Pokémon genera electricidad y canales.\nen sus piernas para mantenerlas fuertes.\nBoltund puede correr sin parar durante tres días completos.",
+    "pt-br": "Este Pokémon gera eletricidade e canaliza\nem suas pernas para mantê-las fortes.\nBoltund pode funcionar sem parar por três dias inteiros.",
+    "de": "Dieses Pokémon erzeugt Elektrizität und Kanäle\nes in seine Beine, um sie stark zu halten.\nBoltund kann drei volle Tage lang ununterbrochen laufen.",
+    "it": "Questo Pokémon genera elettricità e canalizza\nnelle sue gambe per mantenerle forti.\nBoltund può correre senza sosta per tre giorni interi.",
+    "zh-tw": "這個神奇寶貝會產生電力和通道\n它進入它的腿以保持它們的力量。\nBoltund 可以不間斷地運行三天。"
+  },
+  "This Pokémon is normally calm, but once it enters battle,\nits hormonal balance changes and it becomes aggressive.": {
+    "en": "This Pokémon is normally calm, but once it enters battle,\nits hormonal balance changes and it becomes aggressive.",
+    "fr": "Ce Pokémon est normalement calme, mais une fois qu'il entre en combat,\nson équilibre hormonal change et il devient agressif.",
+    "es": "Este Pokémon normalmente está tranquilo, pero una vez que entra en batalla,\nsu equilibrio hormonal cambia y se vuelve agresivo.",
+    "pt-br": "Este Pokémon normalmente é calmo mas quando entra em batalha\nseu equilíbrio hormonal muda e ele se torna agressivo.",
+    "zh-tw": "這只寶可夢平時很冷靜，但一旦進入戰鬥，\n它的荷爾蒙平衡發生變化，變得具有攻擊性。",
+    "it": "Questo Pokémon normalmente è calmo, ma una volta entrato in battaglia,\nil suo equilibrio ormonale cambia e diventa aggressivo.",
+    "de": "Dieses Pokémon ist normalerweise ruhig, aber sobald es in den Kampf eintritt,\nsein Hormonhaushalt verändert sich und es wird aggressiv."
+  },
+  "This Pokémon wanders across time. Grass and trees\nflourish in the forests in which it has appeared.": {
+    "en": "This Pokémon wanders across time. Grass and trees\nflourish in the forests in which it has appeared.",
+    "es": "Este Pokémon viaja a través del tiempo. Hierba y árboles\nflorecer en los bosques en los que ha aparecido.",
+    "fr": "Ce Pokémon erre dans le temps. Herbe et arbres\nprospérer dans les forêts dans lesquelles il est apparu.",
+    "de": "Dieses Pokémon wandert durch die Zeit. Gras und Bäume\ngedeihen in den Wäldern, in denen es aufgetaucht ist.",
+    "it": "Questo Pokémon vaga nel tempo. Erba e alberi\nfiorire nelle foreste in cui è apparso.",
+    "zh-tw": "這只神奇寶貝穿越時空。草和樹\n在它出現的森林中繁盛。",
+    "pt-br": "Este Pokémon vagueia no tempo. Grama e árvores\nflorescer nas florestas em que apareceu."
+  },
+  "Tiny Bolt": {
+    "en": "Tiny Bolt",
+    "fr": "Petit boulon",
+    "it": "Piccolo Bolt",
+    "es": "Pequeño perno",
+    "pt-br": "Parafuso minúsculo",
+    "zh-tw": "小螺栓",
+    "de": "Winziger Bolzen"
+  },
+  "Traveling Merchant": {
+    "en": "Traveling Merchant",
+    "es": "Comerciante ambulante",
+    "fr": "Marchand ambulant",
+    "pt-br": "Comerciante Viajante",
+    "zh-tw": "旅行商人",
+    "it": "Mercante ambulante",
+    "de": "Reisender Kaufmann"
+  },
+  "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.": {
+    "en": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
+    "es": "Hasta que este Pokémon abandone el Punto Activo, su ataque Frenesí Rodante causa +30 de daño. Este efecto se acumula.",
+    "fr": "Jusqu'à ce que ce Pokémon quitte le point actif, son attaque Rolling Frenzy inflige +30 dégâts. Cet effet se cumule.",
+    "it": "Finché questo Pokémon non lascia la posizione attiva, il suo attacco Frenesia Rotolante infligge +30 danni. Questo effetto è cumulabile.",
+    "pt-br": "Até que este Pokémon deixe o Ponto Ativo, o ataque Rolling Frenzy deste Pokémon causa +30 de dano. Este efeito acumula.",
+    "zh-tw": "在該寶可夢離開活動點之前，該寶可夢的翻滾狂暴攻擊造成+30點傷害。該效果可以疊加。",
+    "de": "Bis dieses Pokémon den aktiven Bereich verlässt, verursacht der Angriff „Rollende Raserei“ dieses Pokémon +30 Schaden. Dieser Effekt ist stapelbar."
+  },
+  "Using a liquid poison, Dragalge indiscriminately\nattacks anything that wanders into its territory.\nThis poison can corrode the undersides of boats.": {
+    "en": "Using a liquid poison, Dragalge indiscriminately\nattacks anything that wanders into its territory.\nThis poison can corrode the undersides of boats.",
+    "es": "Usando un veneno líquido, Dragalge indiscriminadamente\nAtaca cualquier cosa que entre en su territorio.\nEste veneno puede corroer los bajos de los barcos.",
+    "pt-br": "Usando um veneno líquido, Dragalge indiscriminadamente\nataca qualquer coisa que entre em seu território.\nEste veneno pode corroer a parte inferior dos barcos.",
+    "fr": "Utilisant un poison liquide, Dragalge indistinctement\nattaque tout ce qui erre sur son territoire.\nCe poison peut corroder le dessous des bateaux.",
+    "it": "Usando un veleno liquido, Dragalge indiscriminatamente\nattacca tutto ciò che si aggira nel suo territorio.\nQuesto veleno può corrodere la parte inferiore delle barche.",
+    "de": "Mit einem flüssigen Gift greift Dragalge wahllos an\ngreift alles an, was in sein Revier gelangt.\nDieses Gift kann die Unterseite von Booten angreifen.",
+    "zh-tw": "使用液體毒藥，隨意拖拽\n攻擊任何進入其領地的東西。\n這種毒物會腐蝕船的底部。"
+  },
+  "Voltaic Bullet": {
+    "en": "Voltaic Bullet",
+    "fr": "Balle Voltaïque",
+    "pt-br": "Bala Voltaica",
+    "es": "Bala voltaica",
+    "zh-tw": "伏打子彈",
+    "de": "Voltaische Kugel",
+    "it": "Proiettile Voltaico"
+  },
+  "Watch your step when wandering areas oceans\nonce covered. What looks like a stone could be\nthis Pokémon, and it will curse you if you kick it.": {
+    "en": "Watch your step when wandering areas oceans\nonce covered. What looks like a stone could be\nthis Pokémon, and it will curse you if you kick it.",
+    "fr": "Surveillez vos pas lorsque vous vous promenez dans les océans\nune fois couvert. Ce qui ressemble à une pierre pourrait être\nce Pokémon, et il vous maudira si vous lui donnez un coup de pied.",
+    "es": "Cuide sus pasos cuando deambule por áreas oceánicas.\nuna vez cubierto. Lo que parece una piedra podría ser\neste Pokémon, y te maldecirá si lo pateas.",
+    "it": "Guarda i tuoi passi quando vaghi nelle aree degli oceani\nuna volta coperto. Ciò che sembra una pietra potrebbe esserlo\nquesto Pokémon e ti maledirà se lo prendi a calci.",
+    "zh-tw": "在海洋中漫步時請注意腳步\n一旦覆蓋。看起來像石頭的東西可能是\n這只神奇寶貝，如果你踢它，它會詛咒你。",
+    "de": "Achten Sie auf Ihren Schritt, wenn Sie durch die Ozeane wandern\neinmal abgedeckt. Was wie ein Stein aussieht, könnte sein\nDieses Pokémon wird dich verfluchen, wenn du es trittst.",
+    "pt-br": "Cuidado com o passo ao vagar pelas áreas dos oceanos\numa vez coberto. O que parece ser uma pedra poderia ser\neste Pokémon, e ele irá amaldiçoá-lo se você chutá-lo."
+  },
+  "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow.": {
+    "en": "When it swims at full speed using its long,\nwebbed limbs, its forehead somehow begins\nto glow.",
+    "fr": "Lorsqu'il nage à toute vitesse en utilisant son long,\nmembres palmés, son front commence d'une manière ou d'une autre\nbriller.",
+    "es": "Cuando nada a toda velocidad usando su largo,\nmiembros palmeados, su frente de alguna manera comienza\nbrillar.",
+    "de": "Wenn es mit voller Geschwindigkeit schwimmt, nutzt es seine langen,\nGliedmaßen sind mit Schwimmhäuten bedeckt, seine Stirn beginnt irgendwie\nleuchten.",
+    "it": "Quando nuota a tutta velocità usando la sua lunga,\narti palmati, la sua fronte in qualche modo inizia\nbrillare.",
+    "pt-br": "Quando nada a toda velocidade usando seu comprimento,\nmembros palmados, sua testa de alguma forma começa\npara brilhar.",
+    "zh-tw": "當它用它的長線全速游泳時，\n有蹼的四肢，它的前額以某種方式開始\n發光。"
+  },
+  "When the red orbs on Tentacruel's head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.": {
+    "en": "When the red orbs on Tentacruel's head glow\nbrightly, watch out. The Pokémon is about to\nfire off a burst of ultrasonic waves.",
+    "fr": "Quand les orbes rouges sur la tête de Tentacruel brillent\nbrillamment, attention. Le Pokémon est sur le point de\ndéclencher une rafale d'ondes ultrasonores.",
+    "es": "Cuando los orbes rojos en la cabeza de Tentacruel brillan\nbrillantemente, cuidado. El Pokémon está a punto de\ndispara una ráfaga de ondas ultrasónicas.",
+    "zh-tw": "當刺傷克魯爾頭上的紅色球體發光時\n光明，小心。寶可夢即將\n發射一陣超聲波。",
+    "pt-br": "Quando os orbes vermelhos na cabeça de Tentacruel brilham\nbrilhantemente, cuidado. O Pokémon está prestes a\ndisparar uma explosão de ondas ultrassônicas.",
+    "it": "Quando le sfere rosse sulla testa di Tentacruel si illuminano\nbrillantemente, attenzione. Il Pokémon sta per farlo\nemettere una raffica di onde ultrasoniche.",
+    "de": "Wenn die roten Kugeln auf Tentacruels Kopf leuchten\nhell, pass auf. Das Pokémon steht kurz davor\nFeuern Sie einen Ultraschallwellenstoß ab."
+  },
+  "While one alone doesn't have much power,\na chain of many Tynamo can be as powerful\nas lightning.": {
+    "en": "While one alone doesn't have much power,\na chain of many Tynamo can be as powerful\nas lightning.",
+    "fr": "Même si un seul n'a pas beaucoup de pouvoir,\nune chaîne de plusieurs Tynamo peut être aussi puissante\ncomme la foudre.",
+    "es": "Si bien uno solo no tiene mucho poder,\nuna cadena de muchos Tynamo puede ser tan poderosa\ncomo un relámpago.",
+    "it": "Anche se uno solo non ha molto potere,\nuna catena di molti Tynamo può essere altrettanto potente\ncome un fulmine.",
+    "pt-br": "Embora um sozinho não tenha muito poder,\numa cadeia de muitos Tynamo pode ser tão poderosa\ncomo um raio.",
+    "zh-tw": "雖然一個人的力量並不大，\n許多 Tynamo 的鏈條也可以同樣強大\n如閃電。",
+    "de": "Während einer allein nicht viel Macht hat,\nEine Kette aus vielen Tynamos kann ebenso mächtig sein\nals Blitz."
+  },
+  "Whitney": {
+    "en": "Whitney",
+    "es": "Whitney",
+    "de": "Whitney",
+    "fr": "Whitney",
+    "pt-br": "Whitney",
+    "zh-tw": "惠特尼",
+    "it": "Whitney"
+  },
+  "Wild Charge": {
+    "en": "Wild Charge",
+    "es": "Carga salvaje",
+    "de": "Wilder Angriff",
+    "fr": "Charge sauvage",
+    "pt-br": "Carga Selvagem",
+    "it": "Carica selvaggia",
+    "zh-tw": "狂野衝鋒"
+  },
+  "You may switch this Pokémon with 1 of your Benched Pokémon.": {
+    "en": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+    "es": "Puedes cambiar este Pokémon por 1 de tus Pokémon en Banca.",
+    "fr": "Vous pouvez échanger ce Pokémon avec 1 de vos Pokémon de Banc.",
+    "pt-br": "Você pode trocar este Pokémon por 1 dos seus Pokémon no Banco.",
+    "it": "Puoi scambiare questo Pokémon con 1 dei tuoi Pokémon in panchina.",
+    "zh-tw": "您可以將這只神奇寶貝與您的 1 只後備神奇寶貝交換。",
+    "de": "Du kannst dieses Pokémon mit einem deiner Bank-Pokémon austauschen."
+  },
+  "Zangoose": {
+    "en": "Zangoose",
+    "fr": "Zangoose",
+    "es": "Zangosta",
+    "pt-br": "Zangoose",
+    "it": "Zangoose",
+    "zh-tw": "贊古斯",
+    "de": "Zangoose"
+  },
+  "Zoroark": {
+    "en": "Zoroark",
+    "es": "Zoroark",
+    "de": "Zoroark",
+    "zh-tw": "索羅亞克",
+    "pt-br": "Zoroark",
+    "it": "Zoroark",
+    "fr": "Zoroark"
+  },
+  "Zorua": {
+    "en": "Zorua",
+    "es": "Zorúa",
+    "de": "Zorua",
+    "fr": "Zorua",
+    "it": "Zorua",
+    "pt-br": "Zorua",
+    "zh-tw": "索魯亞"
   }
 }
