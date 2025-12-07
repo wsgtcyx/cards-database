@@ -13,8 +13,13 @@ interface TodoEntry {
 type Mapping = Record<string, Partial<Record<LangKey | 'en', string>>>
 
 const TARGETS: LangKey[] = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
-const TODO_FILE = 'scripts/tmp/pocket-translations.todo.json'
-const OUT_FILE = 'scripts/tmp/pocket-translations.json'
+const TODO_FILE_DEFAULT = 'scripts/tmp/pocket-translations.todo.json'
+const OUT_FILE_DEFAULT = 'scripts/tmp/pocket-translations.json'
+
+function getArg(name: string, fallback: string): string {
+	const arg = process.argv.find(a => a.startsWith(`--${name}=`))
+	return arg ? arg.split('=')[1] : fallback
+}
 
 function ensureDir(file: string) {
 	fs.mkdirSync(path.dirname(file), { recursive: true })
@@ -57,9 +62,12 @@ async function translate(text: string, target: LangKey, attempt = 1): Promise<st
 }
 
 async function main() {
-	const todo: TodoEntry[] = JSON.parse(fs.readFileSync(TODO_FILE, 'utf-8'))
-	const existing: Mapping = fs.existsSync(OUT_FILE)
-		? JSON.parse(fs.readFileSync(OUT_FILE, 'utf-8'))
+	const todoFile = getArg('todo', TODO_FILE_DEFAULT)
+	const outFile = getArg('out', OUT_FILE_DEFAULT)
+
+	const todo: TodoEntry[] = JSON.parse(fs.readFileSync(todoFile, 'utf-8'))
+	const existing: Mapping = fs.existsSync(outFile)
+		? JSON.parse(fs.readFileSync(outFile, 'utf-8'))
 		: {}
 
 	const tasks: Array<() => Promise<void>> = []
@@ -67,8 +75,8 @@ async function main() {
 
 	let saveCounter = 0
 	const flush = () => {
-		ensureDir(OUT_FILE)
-		fs.writeFileSync(OUT_FILE, JSON.stringify(existing, null, 2), 'utf-8')
+		ensureDir(outFile)
+		fs.writeFileSync(outFile, JSON.stringify(existing, null, 2), 'utf-8')
 	}
 
 	for (const entry of todo) {
@@ -121,7 +129,7 @@ async function main() {
 	})
 
 	flush()
-	console.log(`Translations updated: ${OUT_FILE}`)
+	console.log(`Translations updated: ${outFile}`)
 }
 
 void main()
