@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Lunala ex",
         "de": "Lunala ex",
         "pt-br": "Luna ex",
-        "zh-tw": "露娜拉超級"
+        "zh-tw": "露娜拉EX"
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",

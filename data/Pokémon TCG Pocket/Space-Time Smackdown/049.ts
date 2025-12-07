@@ -10,7 +10,7 @@ const card: Card = {
         de: "Palkia-ex",
         'pt-br': "Palkia ex",
         ko: "펄기아 ex",
-        "zh-tw": "帕路奇亞超級"
+        "zh-tw": "帕路奇亞EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

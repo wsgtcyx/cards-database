@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Primarina es",
         "de": "Primarina ex",
         "pt-br": "Primarina ex",
-        "zh-tw": "初級超級"
+        "zh-tw": "初級EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

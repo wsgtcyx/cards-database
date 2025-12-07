@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Blaziken ex",
         "de": "Mega Blaziken ex",
         "pt-br": "Ex de Mega Blaziken",
-        "zh-tw": "超級布拉茲肯超級"
+        "zh-tw": "超級布拉茲肯EX"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Three Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Fuegro-ex",
         'pt-br': "Incineroar ex",
         ko: "어흥염 ex",
-        "zh-tw": "焚怒火超級"
+        "zh-tw": "焚怒火EX"
     },
     illustrator: "Kazumasa Yasukuni",
     rarity: "Two Star",

@@ -10,7 +10,7 @@ const card: Card = {
         de: "Pachirisu-ex",
         'pt-br': "Pachirisu ex",
         ko: "파치리스 ex",
-        "zh-tw": "帕奇利茲超級"
+        "zh-tw": "帕奇利茲EX"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",

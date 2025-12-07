@@ -10,7 +10,7 @@ const card: Card = {
         de: "Krawell-ex",
         'pt-br': "Crabominable ex",
         ko: "모단단게 ex",
-        "zh-tw": "Crabominable 超級"
+        "zh-tw": "Crabominable EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

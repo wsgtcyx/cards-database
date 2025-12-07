@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Mega Pinsir ex",
         "de": "Mega Pinsir ex",
         "pt-br": "Mega Pinsir ex",
-        "zh-tw": "超級品西爾超級"
+        "zh-tw": "超級品西爾EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

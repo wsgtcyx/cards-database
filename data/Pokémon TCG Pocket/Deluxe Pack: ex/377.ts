@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Giratina es",
         "de": "Giratina ex",
         "pt-br": "Ex-Giratina",
-        "zh-tw": "騎拉帝納超級"
+        "zh-tw": "騎拉帝納EX"
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Shiny",

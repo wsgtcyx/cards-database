@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lunala-ex",
         'pt-br': "Lunala ex",
         ko: "루나아라 ex",
-        "zh-tw": "露娜拉超級"
+        "zh-tw": "露娜拉EX"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "Two Star",

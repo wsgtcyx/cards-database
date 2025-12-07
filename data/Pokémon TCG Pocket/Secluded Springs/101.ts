@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Infernape es",
         "de": "Infernape ex",
         "pt-br": "ex infernape",
-        "zh-tw": "地獄火超級"
+        "zh-tw": "地獄火EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

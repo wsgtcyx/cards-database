@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Pikachu ex",
         "de": "Pikachu ex",
         "pt-br": "Ex-Pikachu",
-        "zh-tw": "皮卡丘超級"
+        "zh-tw": "皮卡丘EX"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Shiny",

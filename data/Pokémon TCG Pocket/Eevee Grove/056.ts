@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Eevee es",
         "de": "Evoli ex",
         "pt-br": "Eevee ex",
-        "zh-tw": "伊布超級"
+        "zh-tw": "伊布EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

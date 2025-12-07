@@ -10,7 +10,7 @@ const card: Card = {
         de: "Turtok-ex",
         ko: "거북왕 ex",
         'pt-br': "Blastoise ex",
-        "zh-tw": "囊胚超級"
+        "zh-tw": "囊胚EX"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

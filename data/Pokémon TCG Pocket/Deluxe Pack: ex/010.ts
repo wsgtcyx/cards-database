@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Beedrill es",
         "de": "Beedrill ex",
         "pt-br": "Beedrill ex",
-        "zh-tw": "比德瑞爾超級"
+        "zh-tw": "比德瑞爾EX"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",

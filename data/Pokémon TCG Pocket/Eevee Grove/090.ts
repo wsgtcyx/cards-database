@@ -9,7 +9,7 @@ const card: Card = {
         "it": "Dragonite ex",
         "de": "Dragonite ex",
         "pt-br": "Ex-dragonita",
-        "zh-tw": "龍石超級"
+        "zh-tw": "龍石EX"
     },
     illustrator: "Mori Yuu",
     rarity: "Two Star",

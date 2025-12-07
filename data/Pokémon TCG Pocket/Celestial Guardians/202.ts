@@ -10,7 +10,7 @@ const card: Card = {
         de: "Lusardin-ex",
         'pt-br': "Wishiwashi ex",
         ko: "약어리 ex",
-        "zh-tw": "希望和希超級"
+        "zh-tw": "希望和希EX"
     },
     illustrator: "Nurikabe",
     rarity: "Two Star",
