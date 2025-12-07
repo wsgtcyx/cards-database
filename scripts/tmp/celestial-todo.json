@@ -1,0 +1,7618 @@
+[
+  {
+    "en": "1 Special Condition from among Asleep, Burned, Confused, Paralyzed, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/111.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/188.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/206.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/041.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/044.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Absol",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/112.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Acerola",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/148.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/190.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/007.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/040.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/162.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Alolan Diglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/117.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/118.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Dugtrio",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/118.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Exeggutor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/002.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/156.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Geodude",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/059.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/060.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Golem",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/061.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Graveler",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/060.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/061.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Grimer",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/110.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/111.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/188.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/206.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Marowak",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/027.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/160.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Meowth",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/108.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/109.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Muk ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/111.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/188.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/206.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Ninetales",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/041.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Persian",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/109.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Raichu ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/058.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/185.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/203.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Raticate",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/107.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Rattata",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/106.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/107.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Sandshrew",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/038.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/039.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Sandslash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/039.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Alolan Vulpix",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/040.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/041.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/162.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Although it's called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/068.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/166.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/024.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/159.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/026.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Anchor Shot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/023.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/181.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/199.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Araquanid",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/053.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Arcanine",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/026.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/141.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/179.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/234.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Astonish",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/220.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Banette",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/075.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Barrier Shove",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/069.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Beat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/089.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Berserk",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/124.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/176.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bewear",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/139.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/178.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Big Malasada",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/142.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bite",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/106.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Blastoise",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/217.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Blastoise ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/232.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Blazing sunlight has brought out the true form and powers of this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/002.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/156.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Blizzard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/041.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Blood Fang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/101.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bone Beatdown",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/227.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bonemerang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/236.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bother",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/222.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bounsweet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/018.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/019.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Brionne",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/047.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/048.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Bruxish",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/055.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Bug Buzz",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/004.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bulbasaur",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/210.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/211.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Burning Bonemerang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/027.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/160.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/015.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Call for Family",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/050.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Call Forth Cold",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/040.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/162.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Charjabug",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/064.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/065.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Chemical Panic",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/111.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/188.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/206.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Choose 1 of your Alolan Marowak or Turtonator. Take 2 {R} Energy from your Energy Zone and attach it to that Pokémon. Your turn ends.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/150.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/192.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/144.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Choose 1 of your Palossand or Mimikyu that has damage on it, and move 40 of its damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/148.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/190.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Clanging Scales",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/127.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Claw Slash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/008.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/109.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cloyster",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/043.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/043.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Comatose",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/141.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/179.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Combustion",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/025.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Comfey",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/080.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/168.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/080.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/168.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Comforting Song",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/229.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/096.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Conkeldurr",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/096.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Corkscrew Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/094.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Corner",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/070.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cosmoem",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/086.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/087.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/122.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/186.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/189.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/204.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/207.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/238.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/239.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Cosmog",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/085.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/086.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/171.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Crabominable ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/049.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/183.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/201.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Crabrawler",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/049.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/097.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/183.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/201.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Crunch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/100.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cubone",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/027.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/089.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/160.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/226.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/227.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/236.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Cutiefly",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/078.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/079.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/167.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Dangerous Claws",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/053.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dartrix",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/011.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/012.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/180.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/198.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Dazzle Dance",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/076.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Decidueye ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/012.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/180.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/198.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Delcatty",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/130.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Dewpider",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/052.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/053.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Dhelmise ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/023.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/181.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/199.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Discard 2 {L} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/061.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a {R} Energy from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/037.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/161.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a random Energy from both Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/034.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a random Item card from your opponent's hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/107.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/151.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/193.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/208.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Disconnect",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/065.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Double Spin",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/019.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dragon Claw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/126.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Drampa",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/124.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/176.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Draw a card.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/121.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Drilbur",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/093.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/119.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Drill Peck",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/135.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "During this turn, attacks used by your Alolan Golem, Vikavolt, or Togedemaru do +30 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/153.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/195.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During your first turn, this Pokémon has no Retreat Cost.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/021.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "During your next turn, this Pokémon can't attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/088.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your next turn, this Pokémon's Insatiable Striking attack does +40 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/049.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/183.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/201.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more, and its Retreat Cost is 1 {C} more.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/140.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/226.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/039.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/023.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/070.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/181.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/199.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, they can't play any Item cards from their hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/065.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/075.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, this Pokémon takes +30 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/127.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/043.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, this Pokémon takes −50 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/086.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/214.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Each of your Pokémon that has any {P} Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/080.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/168.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Electrosmash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/067.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Energy Arrow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/084.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/170.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Energy Assist",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/130.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Escavalier",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/120.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/085.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/171.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Excadrill",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/119.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Exeggcute",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/001.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/002.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/156.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/213.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/214.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/231.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Exeggutor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/214.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Exeggutor ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/231.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/037.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/161.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Fairy Wind",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/079.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Fang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/033.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/182.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/200.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Mane",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/026.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Spin",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/037.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/161.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fire Wing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/029.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "First Impression",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/022.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fishing Net",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/143.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Flap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/078.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/131.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/167.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fletchinder",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/028.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/029.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/028.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Fletchling",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/028.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/131.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Flickering Light",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/017.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 30 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/019.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 70 damage for each heads. If at least 1 of them is heads, your opponent's Active Pokémon is now Burned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/027.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/160.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. This attack does 80 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/236.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 3 coins. This attack does 50 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/020.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/158.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip 4 coins. This attack does 20 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/116.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin until you get tails. This attack does 70 damage for each heads.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/118.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/100.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/069.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/017.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 20 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/003.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/067.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 40 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/231.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, this attack does 50 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/128.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/220.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/002.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/156.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If tails, this Pokémon also does 20 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/024.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/159.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flower Shield",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/080.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/168.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Fomantis",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/014.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/015.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/014.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Fur Coat",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/109.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Garbodor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/114.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gastly",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/220.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/221.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Gengar",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/222.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gengar ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/234.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gentle Slap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/229.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Giant Bloom",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/230.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Glide",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/134.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gnaw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/013.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/021.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/035.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Golisopod",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/022.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Growl",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/226.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Growlithe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/025.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/026.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Grubbin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/013.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/064.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Grumpig",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/072.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Guard Press",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/043.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gumshoos",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/137.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Gurdurr",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/095.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/096.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Guts",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/096.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Guzma",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/151.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/193.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/208.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Hakamo-o",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/126.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/127.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Hammer In",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/138.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hariyama",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/091.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Haunter",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/221.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/222.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/234.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Hawlucha",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/132.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Headbang",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/137.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Headbutt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/006.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/117.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/125.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heal 10 damage and remove a random Special Condition from your Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/142.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Heal 20 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/056.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/164.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heal 30 damage from this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/212.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/230.ts"
+    ],
+    "paths": [
+      "attacks[0].effect",
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "Heal 60 damage from 1 of your Stage 2 Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/155.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/197.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/209.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Heal all damage from 1 of your Shiinotic or Tsareena. If you do, discard all Energy from that Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/154.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/196.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Heat Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/030.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/032.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heated Poison",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/036.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heavy Impact",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/060.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heliolisk",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/063.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Helioptile",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/062.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/063.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "High Horsepower",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/103.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/173.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hook",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/007.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/052.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hydro Bazooka",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/232.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Hydro Pump",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/217.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hydro Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/233.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "If any of your Benched Pokémon have damage on them, this attack does 50 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/124.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/176.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/077.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/081.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/169.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If the Pokémon this card is attached to is your Active Pokémon and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/146.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/225.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/217.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/232.ts"
+    ],
+    "paths": [
+      "attacks[0].effect",
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has damage on it, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/033.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/182.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/200.ts"
+    ],
+    "paths": [
+      "attacks[1].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/054.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/163.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all {F} Energy from this Pokémon to 1 of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/104.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/187.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/205.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/022.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/096.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/059.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/030.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/031.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If you visit a beach at the end of summer, you'll be able to see groups of Staryu lighting up in a steady rhythm.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/218.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/123.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/175.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 50 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/101.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a {D} Pokémon, this attack does 30 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/132.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/053.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/112.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Ilima",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/149.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/191.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Incineroar ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/033.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/182.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/200.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/050.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Innards Out",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/054.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/163.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Insatiable Striking",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/049.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/183.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/201.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Iron Head",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/118.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/093.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/065.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can bend the tip of its beak to produce over a hundred different cries at will.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/134.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/072.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/129.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/127.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/217.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/130.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/070.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/004.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/052.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/047.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/055.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/090.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/025.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/229.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/107.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/029.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/084.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/170.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/042.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/216.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/053.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/221.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/054.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/163.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/088.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/091.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/094.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/074.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/079.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/133.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/177.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/225.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/009.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/010.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/106.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/095.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/123.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/175.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/035.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/039.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/022.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/220.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/108.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/061.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's nature's cleaner—it eats anything and everything,  including garbage and rotten things. The ground near  its nest is always clean.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/021.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/119.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/132.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/113.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/017.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/138.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/224.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/013.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/212.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/136.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/006.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/018.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/223.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Ivysaur",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/211.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/212.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/230.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Jangmo-o",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/125.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/126.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Jigglypuff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/228.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/229.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/237.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Justified Press",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/132.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Karrablast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/006.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/120.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Kiawe",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/150.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/192.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Kindle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/034.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Klefki",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/121.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Knuckle Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/059.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/223.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Komala",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/141.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/179.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/141.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/179.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Kommo-o",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/127.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lana",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/152.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/194.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lapras",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/044.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Leaf Cape",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/147.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Leafage",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/009.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/014.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/038.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Lillie",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/155.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/197.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/209.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Litten",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/030.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/031.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/032.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Look at the top card of your deck. Then, you may shuffle your deck.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/145.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Lunala ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/087.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/186.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/204.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/238.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lunar Blast",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/087.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/186.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/204.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/238.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lunatone",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/073.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lurantis",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/015.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lycanroc",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/100.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/101.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/100.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Machamp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/225.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machamp ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/235.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Machoke",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/224.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/225.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/235.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Machop",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/223.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/224.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Magearna",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/123.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/175.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Makuhita",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/090.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/091.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mallow",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/154.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/196.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Maractus",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/005.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mareanie",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/115.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/116.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Marowak",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/227.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Marowak ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/236.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Masquerain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/004.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mega Drain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/212.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mega Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/096.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/235.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Melodious Healing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/048.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Mimikyu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/083.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Minior",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/105.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/174.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Moon Press",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/073.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Morelull",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/016.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/017.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/157.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mr. Mime",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/069.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Mudbray",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/102.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/103.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/173.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Mudsdale",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/103.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/173.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Necrozma",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/088.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/078.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/167.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Night Bind",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/075.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Offload Pass",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/104.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/187.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/205.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/122.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/189.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/207.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/239.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may heal 20 damage from your Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/229.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may heal 30 damage from each of your {W} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/048.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may move all {P} Energy from 1 of your Benched {P} Pokémon to your Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/087.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/186.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/204.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/238.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once it absorbs a key's metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/121.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/139.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/178.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/137.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/063.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Oranguru",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/140.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Oricorio",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/034.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/066.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/076.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/077.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/165.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Palossand",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/082.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Passimian ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/104.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/187.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/205.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Peck",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/133.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/177.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/008.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/140.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Petal Blizzard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/015.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Phantump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/007.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/008.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pierce",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/115.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pierce the Pain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/012.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/180.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/198.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pikachu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/057.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/058.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/185.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/203.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pike",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/120.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Pikipek",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/133.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/134.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/177.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/105.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/174.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Poison Barb",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/146.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/016.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/157.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Popplio",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/045.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/046.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/047.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Pound",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/113.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Power Press",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/225.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/066.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/165.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Primarina",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/048.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Primate's Trap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/140.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Prismatic Laser",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/088.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psycharge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/071.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psychic",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/058.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/185.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/203.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/214.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Psychic Connect",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/087.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/186.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/204.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/238.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Punch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/097.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Push Out",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/091.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Put 1 of your {C} Pokémon that has damage on it into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/149.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/191.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Put 1 random Wishiwashi or Wishiwashi ex from your deck onto your Bench.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/050.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Put a random Basic {W} Pokémon from your discard pile into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/143.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Put a random card that evolves from Rockruff from your deck into your hand.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/098.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/172.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Pyukumuku",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/054.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/163.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Quick Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/003.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rare Candy",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/144.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Razor Leaf",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/012.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/180.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/198.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/211.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/230.ts"
+    ],
+    "paths": [
+      "attacks[0].name",
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "Razor Wing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/011.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rear Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/063.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/102.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Ribombee",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/079.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rising Lunge",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/128.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rising Road",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/122.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/189.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/207.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/239.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Rockruff",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/098.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/099.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/100.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/101.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/172.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Rolling Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/001.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/141.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/179.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/213.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rollout",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/228.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rotom Dex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/145.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Rowlet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/009.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/010.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/011.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Sableye",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/070.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Safeguard",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/066.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/165.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Salandit",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/035.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/036.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Salazzle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/036.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/036.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Sandygast",
+    "missing": [
+      "zh-tw",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/081.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/082.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/169.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Scar-Charged Smash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/033.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/182.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/200.ts"
+    ],
+    "paths": [
+      "attacks[1].name"
+    ]
+  },
+  {
+    "en": "School Storm",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/051.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/184.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/202.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Scratch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/031.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/038.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/093.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/108.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Scrounge-and-Scarf",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/107.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Seismic Toss",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/104.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/187.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/205.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shadow Hit",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/083.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shadowy Spellbind",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/234.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Shellder",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/042.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/043.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Shiinotic",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/017.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Shuppet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/074.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/075.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Signs of Evolution",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/098.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/172.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Silver Cannon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/123.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/175.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/045.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Skill Dive",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/010.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Skitty",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/129.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/130.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Slap Push",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/090.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Slash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/119.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sleepy Song",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/237.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sludge Toss",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/110.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Smack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/218.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Smash Kick",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/062.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sol Breaker",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/122.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/189.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/207.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/239.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Solar Beam",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/092.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Solgaleo ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/122.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/189.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/207.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/239.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Solrock",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/092.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Sophocles",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/153.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/195.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Spike Armor",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/039.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spike Cannon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/116.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spinning Attack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/080.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/168.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spiral Drain",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/056.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/164.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spiteful Dance",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/077.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Spoink",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/071.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/072.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/071.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Spooky Shot",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/082.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/234.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sprinkle Water",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/054.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/163.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Squirtle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/215.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/216.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Stampede",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/016.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/018.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/157.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Star Drop",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/105.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/174.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Starmie",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/219.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Starmie ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/233.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Staryu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/218.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/219.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/233.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Steady Firebreathing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/028.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Steenee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/019.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/020.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/158.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/019.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Stiffen",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/086.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sting",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/005.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Strength",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/095.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/224.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Stuck-In Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/024.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/159.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Stufful",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/138.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/139.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/178.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Super Poison Breath",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/114.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Super Zap Cannon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/061.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Surf",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/044.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/048.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/232.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Surskit",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/003.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/004.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/112.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/091.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Switch this Pokémon with 1 of your Benched {L} Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/068.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/166.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/085.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/171.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Tackle",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/042.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/099.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/129.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/136.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tail Smack",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/057.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Take a {C} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/130.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Take a {P} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/071.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Take a {W} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/040.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/162.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Talonflame",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/029.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tantrum",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/139.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/178.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tapu Bulu",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/024.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/159.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tapu Fini",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/056.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/164.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tapu Koko",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/068.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/166.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tapu Lele",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/084.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/170.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tauros",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/128.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Teleport",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/085.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/171.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "The {G} Pokémon this card is attached to gets +30 HP.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/147.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/045.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/046.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/069.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The king who ruled Alola in times of antiquity called it\nthe “cocoon of the stars” and built an altar to worship it.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/086.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/117.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/124.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/176.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/073.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/109.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/126.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/082.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/118.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/110.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/210.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There was a scientist who peeked under Mimikyu's old rag in the name of research. The scientist died of a mysterious disease.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/083.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/125.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/135.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/003.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/120.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to 1 of your Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/083.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/041.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 10 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/010.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 100 damage to 1 of your opponent's Pokémon that have damage on them.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/012.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/180.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/198.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/084.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/170.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 damage to each of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/015.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/214.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/058.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/185.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/203.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 40 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/105.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/174.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/051.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/184.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/202.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/076.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/077.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This form of Oricorio has sipped red nectar. It whips up blazing flames as it moves to the steps of its passionate dance.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/034.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This form of Oricorio has sipped yellow nectar. It uses nimble steps to approach opponents, then knocks them out with electric punches.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/066.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/165.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/056.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/164.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/011.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 10 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/030.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/032.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/122.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/189.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/207.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/239.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon also does 40 damage to itself.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/103.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/173.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon covers itself in mud that it has regurgitated. The mud won't dry out even if it's exposed to the sun for a long time.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/102.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/075.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/114.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/219.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/103.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/173.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/131.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is now Confused.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/139.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/178.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/020.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/158.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/098.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/099.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/172.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/116.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/227.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/097.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/027.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/160.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon takes −20 damage from attacks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/109.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/101.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/115.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/001.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/213.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Three Kick Combo",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/020.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/158.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Timburr",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/094.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/095.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/048.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/222.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Togedemaru",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/067.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Torracat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/032.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/033.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/182.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/200.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/032.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Toucannon",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/135.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Toxapex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/116.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Trevenant",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/008.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Tropical Hammer",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/002.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/156.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Tropical Swing",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/231.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Trubbish",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/113.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/114.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Trumbeak",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/134.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/135.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Tsareena",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/020.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/158.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Turtonator",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/037.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/161.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Unlock",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/121.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Unseen Claw",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/112.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Venusaur",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/212.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Venusaur ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/230.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Vibration",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/081.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/169.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Vikavolt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/065.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Vine Whip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/210.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Vise Grip",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/064.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Volt Switch",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/068.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/166.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Wartortle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/216.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/217.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/232.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Water Gun",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/046.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/215.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Wave Splash",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/047.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/055.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/216.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/219.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/120.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/057.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/215.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/092.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/228.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/062.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/128.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/211.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/089.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/226.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When two Graveler fight each other, it fills the\nsurroundings with flashes of light and sound.\nPeople call it the “fireworks of the earth.”",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/060.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/064.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Wigglytuff",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/229.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Wigglytuff ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/237.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Will-O-Wisp",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/074.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/221.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Wimp Out",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/021.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Wimpod",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/021.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/022.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Wishiwashi",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/050.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "Wishiwashi ex",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/051.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/184.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/202.ts"
+    ],
+    "paths": [
+      "name"
+    ]
+  },
+  {
+    "en": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/005.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/067.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "You can use this card only if you have Araquanid in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/152.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/194.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/222.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Asleep.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/045.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/237.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Burned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/033.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/182.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/200.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Confused.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/076.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Poisoned and Burned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/036.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/114.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Yungoos",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/136.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/137.ts"
+    ],
+    "paths": [
+      "evolveFrom",
+      "name"
+    ]
+  },
+  {
+    "en": "Zen Headbutt",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/072.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Zzzap",
+    "missing": [
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Celestial Guardians/066.ts",
+      "data/Pokémon TCG Pocket/Celestial Guardians/165.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  }
+]

@@ -22404,5 +22404,1205 @@
     "fr": "Wishiwashi",
     "es": "Wishiwashi",
     "zh-tw": "願望和希"
+  },
+  "Acerola": {
+    "en": "Acerola",
+    "zh-tw": "針葉櫻桃"
+  },
+  "After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.": {
+    "en": "After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.",
+    "zh-tw": "一個迷失的孩子在森林中喪生後，他們的靈魂附身在一個樹樁上，導致靈魂重生為這只神奇寶貝。"
+  },
+  "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.": {
+    "en": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
+    "zh-tw": "在阿羅拉白雪皚皚的山脈中度過了漫長的歲月後，這只六尾已經獲得了駕馭冰雪的力量。"
+  },
+  "Alolan Dugtrio": {
+    "en": "Alolan Dugtrio",
+    "zh-tw": "阿羅拉·杜格特里奧"
+  },
+  "Alolan Geodude": {
+    "en": "Alolan Geodude",
+    "it": "Geodude di Alola",
+    "es": "Geodude de Alola",
+    "fr": "Géodude d'Alola",
+    "zh-tw": "阿羅拉晶石",
+    "de": "Alola-Geodude",
+    "pt-br": "Geodude de Alola"
+  },
+  "Alolan Golem": {
+    "en": "Alolan Golem",
+    "zh-tw": "阿羅拉傀儡"
+  },
+  "Alolan Graveler": {
+    "en": "Alolan Graveler",
+    "fr": "Graveur d'Alola",
+    "es": "Graveler de Alola",
+    "de": "Alolan Graveler",
+    "it": "Graveler di Alola",
+    "zh-tw": "阿羅拉碎石者",
+    "pt-br": "Graveler de Alola"
+  },
+  "Alolan Marowak": {
+    "en": "Alolan Marowak",
+    "zh-tw": "阿羅蘭·馬洛瓦克"
+  },
+  "Alolan Raticate": {
+    "en": "Alolan Raticate",
+    "zh-tw": "阿羅拉拉齒獸"
+  },
+  "Alolan Rattata": {
+    "en": "Alolan Rattata",
+    "it": "Rattata di Alola",
+    "es": "Rattata de Alola",
+    "fr": "Alolan Rattata",
+    "zh-tw": "阿羅拉拉達",
+    "de": "Alolan Rattata",
+    "pt-br": "Rattata de Alola"
+  },
+  "Alolan Sandshrew": {
+    "en": "Alolan Sandshrew",
+    "es": "Sandshrew de Alola",
+    "de": "Alolan Sandshrew",
+    "zh-tw": "阿羅拉山地鼠",
+    "fr": "Musaraigne d'Alola",
+    "it": "Sandshrew di Alola",
+    "pt-br": "Sandshrew de Alola"
+  },
+  "Alolan Sandslash": {
+    "en": "Alolan Sandslash",
+    "zh-tw": "阿羅拉沙斬"
+  },
+  "Although it's called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.": {
+    "en": "Although it's called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",
+    "zh-tw": "雖然被稱為守護神，但如果人或寶可夢心情不好的話，就會變成惡神並發起攻擊。"
+  },
+  "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.": {
+    "en": "Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.",
+    "zh-tw": "儘管被稱為守護神，但它的暴力足以粉碎任何被它視為敵人的人。"
+  },
+  "Anchor Shot": {
+    "en": "Anchor Shot",
+    "zh-tw": "錨定射擊"
+  },
+  "Araquanid": {
+    "en": "Araquanid",
+    "zh-tw": "阿拉奎尼德"
+  },
+  "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep.": {
+    "en": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep.",
+    "zh-tw": "只要該神奇寶貝位於活動點，每當您從能量區向其附加能量時，它就會處於睡眠狀態。"
+  },
+  "Banette": {
+    "en": "Banette",
+    "zh-tw": "巴內特"
+  },
+  "Barrier Shove": {
+    "en": "Barrier Shove",
+    "zh-tw": "障礙推擠"
+  },
+  "Berserk": {
+    "en": "Berserk",
+    "zh-tw": "狂暴"
+  },
+  "Big Malasada": {
+    "en": "Big Malasada",
+    "zh-tw": "大馬拉薩達"
+  },
+  "Blazing sunlight has brought out the true form and powers of this Pokémon.": {
+    "en": "Blazing sunlight has brought out the true form and powers of this Pokémon.",
+    "zh-tw": "熾熱的陽光展現了這只神奇寶貝的真實形態和力量。"
+  },
+  "Blood Fang": {
+    "en": "Blood Fang",
+    "zh-tw": "血牙"
+  },
+  "Burning Bonemerang": {
+    "en": "Burning Bonemerang",
+    "zh-tw": "燃燒的骸骨"
+  },
+  "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.": {
+    "en": "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",
+    "zh-tw": "通過偽裝成蟲子寶可夢，它會降低被甜美花香引誘的真正蟲子寶可夢的警惕性。它的鐮刀將他們打倒。"
+  },
+  "Call Forth Cold": {
+    "en": "Call Forth Cold",
+    "zh-tw": "呼喚寒冷"
+  },
+  "Charjabug": {
+    "en": "Charjabug",
+    "es": "Charjabug",
+    "fr": "Charjabug",
+    "de": "Charjabug",
+    "it": "Charjabug",
+    "pt-br": "Charjabug",
+    "zh-tw": "查賈布格"
+  },
+  "Choose 1 of your Alolan Marowak or Turtonator. Take 2 {R} Energy from your Energy Zone and attach it to that Pokémon. Your turn ends.": {
+    "en": "Choose 1 of your Alolan Marowak or Turtonator. Take 2 {R} Energy from your Energy Zone and attach it to that Pokémon. Your turn ends.",
+    "zh-tw": "選擇 1 個 Alolan Marowak 或 Turtonator。從你的能量區取出 2 個 {R} 能量並將其附加到該神奇寶貝身上。你的回合結束。"
+  },
+  "Choose 1 of your Palossand or Mimikyu that has damage on it, and move 40 of its damage to your opponent's Active Pokémon.": {
+    "en": "Choose 1 of your Palossand or Mimikyu that has damage on it, and move 40 of its damage to your opponent's Active Pokémon.",
+    "zh-tw": "選擇自己的1只受到傷害的帕羅沙或秘擬獸，將其傷害的40點轉移到對手的活躍寶可夢身上。"
+  },
+  "Clanging Scales": {
+    "en": "Clanging Scales",
+    "zh-tw": "叮噹作響的鱗片"
+  },
+  "Comatose": {
+    "en": "Comatose",
+    "zh-tw": "昏迷"
+  },
+  "Comfey": {
+    "en": "Comfey",
+    "zh-tw": "康菲"
+  },
+  "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.": {
+    "en": "Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.",
+    "zh-tw": "康菲用藤蔓採摘花朵，並用它們裝飾自己。出於某種原因，花朵一旦附著在紫草上就不會枯萎。"
+  },
+  "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.": {
+    "en": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
+    "zh-tw": "即使兩種材料的成分相同，Conkeldurr 混合的混凝土也比普通混凝土更耐用。"
+  },
+  "Conkeldurr": {
+    "en": "Conkeldurr",
+    "zh-tw": "康克爾杜爾"
+  },
+  "Crabominable ex": {
+    "en": "Crabominable ex",
+    "zh-tw": "Crabominable 前"
+  },
+  "Cutiefly": {
+    "en": "Cutiefly",
+    "es": "Cutiefly",
+    "de": "Niedlich",
+    "fr": "Mignonne",
+    "zh-tw": "可愛蠅",
+    "it": "Carino",
+    "pt-br": "Fofinho"
+  },
+  "Dangerous Claws": {
+    "en": "Dangerous Claws",
+    "zh-tw": "危險的利爪"
+  },
+  "Dewpider": {
+    "en": "Dewpider",
+    "es": "Dewpider",
+    "fr": "Dewpider",
+    "it": "Dewpider",
+    "zh-tw": "露皮德",
+    "pt-br": "Dewpider",
+    "de": "Taupider"
+  },
+  "Dhelmise ex": {
+    "en": "Dhelmise ex",
+    "zh-tw": "德赫米斯·前"
+  },
+  "Discard 2 {L} Energy from this Pokémon.": {
+    "en": "Discard 2 {L} Energy from this Pokémon.",
+    "zh-tw": "丟棄該神奇寶貝的 2 {L} 點能量。"
+  },
+  "Discard a random Energy from both Active Pokémon.": {
+    "en": "Discard a random Energy from both Active Pokémon.",
+    "zh-tw": "丟棄兩隻活躍神奇寶貝的隨機能量。"
+  },
+  "Discard a random Item card from your opponent's hand.": {
+    "en": "Discard a random Item card from your opponent's hand.",
+    "zh-tw": "從對手的手上隨機丟棄一張物品卡。"
+  },
+  "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.": {
+    "en": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
+    "zh-tw": "丟棄對手每隻神奇寶貝上附著的所有神奇寶貝工具卡。"
+  },
+  "Disconnect": {
+    "en": "Disconnect",
+    "zh-tw": "斷開"
+  },
+  "During this turn, attacks used by your Alolan Golem, Vikavolt, or Togedemaru do +30 damage to your opponent's Active Pokémon.": {
+    "en": "During this turn, attacks used by your Alolan Golem, Vikavolt, or Togedemaru do +30 damage to your opponent's Active Pokémon.",
+    "zh-tw": "這個回合中，你的阿羅拉傀儡、維卡伏特或託格德瑪魯使用的攻擊對對手的活躍寶可夢造成 +30 點傷害。"
+  },
+  "During your first turn, this Pokémon has no Retreat Cost.": {
+    "en": "During your first turn, this Pokémon has no Retreat Cost.",
+    "zh-tw": "在你的第一個回合中，這只神奇寶貝沒有撤退費用。"
+  },
+  "During your next turn, this Pokémon's Insatiable Striking attack does +40 damage.": {
+    "en": "During your next turn, this Pokémon's Insatiable Striking attack does +40 damage.",
+    "zh-tw": "在你的下一個回合中，這只神奇寶貝的貪得無厭攻擊造成+40點傷害。"
+  },
+  "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more, and its Retreat Cost is 1 {C} more.": {
+    "en": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more, and its Retreat Cost is 1 {C} more.",
+    "zh-tw": "在對手的下一個回合中，防御寶可夢的攻擊費用增加 1 {C}，並且其撤退費用增加 1 {C}。"
+  },
+  "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon.": {
+    "en": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon.",
+    "zh-tw": "在對手的下一個回合中，如果這只神奇寶貝因攻擊而受到傷害，則對攻擊的神奇寶貝造成 40 點傷害。"
+  },
+  "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.": {
+    "en": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.",
+    "zh-tw": "在你的對手的下一個回合中，他們不能從能量區獲取任何能量來附加到他們的活躍神奇寶貝上。"
+  },
+  "During your opponent's next turn, this Pokémon takes +30 damage from attacks.": {
+    "en": "During your opponent's next turn, this Pokémon takes +30 damage from attacks.",
+    "zh-tw": "在對手的下一個回合中，這只神奇寶貝受到的攻擊傷害+30。"
+  },
+  "Each of your Pokémon that has any {P} Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions.": {
+    "en": "Each of your Pokémon that has any {P} Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions.",
+    "zh-tw": "你的每隻附有 {P} 能量的神奇寶貝都會從所有特殊狀況中恢復，並且不會受到任何特殊狀況的影響。"
+  },
+  "Electrosmash": {
+    "en": "Electrosmash",
+    "zh-tw": "電擊"
+  },
+  "Energy Arrow": {
+    "en": "Energy Arrow",
+    "zh-tw": "能量箭"
+  },
+  "Escavalier": {
+    "en": "Escavalier",
+    "zh-tw": "埃斯卡瓦利埃"
+  },
+  "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.": {
+    "en": "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.",
+    "zh-tw": "儘管它無能為力，氣態的身體只要微風一吹就會被吹走，但它卻似乎並不在意。"
+  },
+  "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.": {
+    "en": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
+    "zh-tw": "爆炸性物質覆蓋在其背部的外殼上。膽敢攻擊它的敵人會被巨大的爆炸炸飛。"
+  },
+  "Fire Wing": {
+    "en": "Fire Wing",
+    "zh-tw": "火翼"
+  },
+  "First Impression": {
+    "en": "First Impression",
+    "zh-tw": "第一印象"
+  },
+  "Fishing Net": {
+    "en": "Fishing Net",
+    "zh-tw": "魚網"
+  },
+  "Fletchinder": {
+    "en": "Fletchinder",
+    "fr": "Fletchinder",
+    "es": "Fletchinder",
+    "it": "Fletchinder",
+    "zh-tw": "弗萊欽德",
+    "pt-br": "Fletchinder",
+    "de": "Fletchinder"
+  },
+  "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.": {
+    "en": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
+    "zh-tw": "弗萊欽德將餘燼撒在蟲子神奇寶貝可能藏身的高草叢中，然後在它們跳出來時抓住它們。"
+  },
+  "Fletchling": {
+    "en": "Fletchling",
+    "fr": "Empennage",
+    "es": "Fletchling",
+    "pt-br": "Fletchling",
+    "zh-tw": "弗萊奇林",
+    "it": "Fletchling",
+    "de": "Fletchling"
+  },
+  "Flickering Light": {
+    "en": "Flickering Light",
+    "zh-tw": "閃爍的光"
+  },
+  "Flip 2 coins. This attack does 70 damage for each heads. If at least 1 of them is heads, your opponent's Active Pokémon is now Burned.": {
+    "en": "Flip 2 coins. This attack does 70 damage for each heads. If at least 1 of them is heads, your opponent's Active Pokémon is now Burned.",
+    "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 70 點傷害。如果其中至少有 1 個為正面，則對手的活躍神奇寶貝現在被燒毀。"
+  },
+  "Flip 3 coins. This attack does 50 damage for each heads.": {
+    "en": "Flip 3 coins. This attack does 50 damage for each heads.",
+    "zh-tw": "翻轉 3 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
+  },
+  "Flip a coin. If tails, this Pokémon also does 20 damage to itself.": {
+    "en": "Flip a coin. If tails, this Pokémon also does 20 damage to itself.",
+    "zh-tw": "拋一枚硬幣。如果是反面，這只神奇寶貝也會對自己造成 20 點傷害。"
+  },
+  "Flower Shield": {
+    "en": "Flower Shield",
+    "zh-tw": "花盾"
+  },
+  "Fomantis": {
+    "en": "Fomantis",
+    "fr": "Fomantis",
+    "es": "Fomantis",
+    "pt-br": "Fomantis",
+    "de": "Fomantis",
+    "zh-tw": "福曼蒂斯",
+    "it": "Fomantis"
+  },
+  "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.": {
+    "en": "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
+    "zh-tw": "Fomantis 討厭小睡被打擾。它利用沐浴在陽光下收集的能量發射光束。"
+  },
+  "Garbodor": {
+    "en": "Garbodor",
+    "zh-tw": "加博多"
+  },
+  "Golisopod": {
+    "en": "Golisopod",
+    "zh-tw": "長足類"
+  },
+  "Grubbin": {
+    "en": "Grubbin",
+    "es": "Grubbin",
+    "fr": "Grubbin",
+    "it": "Grubbin",
+    "zh-tw": "格魯賓",
+    "de": "Grubbin",
+    "pt-br": "Grubbin"
+  },
+  "Grumpig": {
+    "en": "Grumpig",
+    "zh-tw": "脾氣暴躁"
+  },
+  "Gumshoos": {
+    "en": "Gumshoos",
+    "zh-tw": "咕咕咕"
+  },
+  "Gurdurr": {
+    "en": "Gurdurr",
+    "fr": "Gurdurr",
+    "es": "Gurdurr",
+    "it": "Gurdurr",
+    "zh-tw": "古杜爾",
+    "de": "Gurdurr",
+    "pt-br": "Gurdur"
+  },
+  "Guts": {
+    "en": "Guts",
+    "zh-tw": "膽量"
+  },
+  "Guzma": {
+    "en": "Guzma",
+    "zh-tw": "古茲馬"
+  },
+  "Hakamo-o": {
+    "en": "Hakamo-o",
+    "es": "Hakamo-o",
+    "it": "Hakamo-o",
+    "zh-tw": "博茂王",
+    "fr": "Hakamo-o",
+    "pt-br": "Hakamo-o",
+    "de": "Hakamo-o"
+  },
+  "Hawlucha": {
+    "en": "Hawlucha",
+    "zh-tw": "哈烏盧查"
+  },
+  "Heal 10 damage and remove a random Special Condition from your Active Pokémon.": {
+    "en": "Heal 10 damage and remove a random Special Condition from your Active Pokémon.",
+    "zh-tw": "治療 10 點傷害並從你的活躍神奇寶貝中移除隨機的特殊狀態。"
+  },
+  "Heal all damage from 1 of your Shiinotic or Tsareena. If you do, discard all Energy from that Pokémon.": {
+    "en": "Heal all damage from 1 of your Shiinotic or Tsareena. If you do, discard all Energy from that Pokémon.",
+    "zh-tw": "治療 1 名 Shiinotic 或 Tsareena 造成的所有傷害。如果這樣做，則丟棄該神奇寶貝的所有能量。"
+  },
+  "Heated Poison": {
+    "en": "Heated Poison",
+    "zh-tw": "加熱毒藥"
+  },
+  "High Horsepower": {
+    "en": "High Horsepower",
+    "zh-tw": "高馬力"
+  },
+  "If any of your Benched Pokémon have damage on them, this attack does 50 more damage.": {
+    "en": "If any of your Benched Pokémon have damage on them, this attack does 50 more damage.",
+    "zh-tw": "如果你的任何後備神奇寶貝受到傷害，則此攻擊會造成 50 點額外傷害。"
+  },
+  "If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.": {
+    "en": "If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.",
+    "zh-tw": "如果它丟了鏟子，它就會把別的東西——比如樹枝——插在自己的頭上湊合，直到找到另一把鏟子。"
+  },
+  "If the Pokémon this card is attached to is your Active Pokémon and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.": {
+    "en": "If the Pokémon this card is attached to is your Active Pokémon and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Poisoned.",
+    "zh-tw": "如果這張卡所附著的神奇寶貝是你的主動神奇寶貝並且被對手神奇寶貝的攻擊傷害，那麼攻擊的神奇寶貝現在會中毒。"
+  },
+  "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon.": {
+    "en": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon.",
+    "zh-tw": "如果該寶可夢位於活動區域並因對方寶可夢的攻擊而被擊倒，則對攻擊的寶可夢造成 50 點傷害。"
+  },
+  "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.": {
+    "en": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.",
+    "zh-tw": "如果本回合這只神奇寶貝從你的替補席移動到活躍位置，則這次攻擊造成的傷害增加 60 點。"
+  },
+  "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.": {
+    "en": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.",
+    "zh-tw": "如果這只神奇寶貝因攻擊造成的傷害而被擊倒，則擲硬幣。如果正面，則該寶可夢不會被擊倒，其剩餘 HP 變為 10。"
+  },
+  "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.": {
+    "en": "If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.",
+    "zh-tw": "如果你誤認為它是一塊石頭並踩到它，它會憤怒地用頭撞你。除了疼痛之外，它還會給你帶來電擊。"
+  },
+  "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.": {
+    "en": "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+    "zh-tw": "如果你太努力地想要接近它，它就不會向你敞開。即使你們確實變得親密，給予它太多的感情仍然是禁忌。"
+  },
+  "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 50 more damage.": {
+    "en": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 50 more damage.",
+    "zh-tw": "如果對手的現役寶可夢的剩餘生命值比這只寶可夢多，則這次攻擊造成的傷害增加 50 點。"
+  },
+  "If your opponent's Active Pokémon is a {D} Pokémon, this attack does 30 more damage.": {
+    "en": "If your opponent's Active Pokémon is a {D} Pokémon, this attack does 30 more damage.",
+    "zh-tw": "如果對手的活躍神奇寶貝是{D}神奇寶貝，則此攻擊造成的傷害增加 30 點。"
+  },
+  "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 60 more damage.": {
+    "en": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 60 more damage.",
+    "zh-tw": "如果對手的活躍寶可夢是基礎寶可夢，則這次攻擊造成的傷害增加 60 點。"
+  },
+  "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.": {
+    "en": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",
+    "zh-tw": "如果對手的活躍神奇寶貝受到特殊狀態的影響，則此攻擊造成的傷害增加 60 點。"
+  },
+  "Ilima": {
+    "en": "Ilima",
+    "zh-tw": "伊利馬"
+  },
+  "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.": {
+    "en": "Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.",
+    "zh-tw": "就個人而言，他們非常弱。他們通過聚集到學校來對抗對手。"
+  },
+  "Innards Out": {
+    "en": "Innards Out",
+    "zh-tw": "內臟出來"
+  },
+  "Insatiable Striking": {
+    "en": "Insatiable Striking",
+    "zh-tw": "貪得無厭的打擊"
+  },
+  "It brings its claws together and whirls around at high speed before rushing toward its prey.": {
+    "en": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+    "zh-tw": "它會張開爪子，高速旋轉，然後沖向獵物。"
+  },
+  "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.": {
+    "en": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",
+    "zh-tw": "它在腹部積聚電流，通過下巴將其聚焦，然後將電流集中發射出去。"
+  },
+  "It can bend the tip of its beak to produce over a hundred different cries at will.": {
+    "en": "It can bend the tip of its beak to produce over a hundred different cries at will.",
+    "zh-tw": "它可以彎曲喙尖，隨意發出一百多種不同的叫聲。"
+  },
+  "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.": {
+    "en": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+    "zh-tw": "它可以表演奇怪的舞步來影響敵人。它的舞蹈風格在海外非常流行。"
+  },
+  "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.": {
+    "en": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+    "zh-tw": "它無法阻止自己追逐移動的東西，它繞著圈跑，追著自己的尾巴。"
+  },
+  "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.": {
+    "en": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.",
+    "zh-tw": "它會敲打尾部鱗片來​​震懾對手。這只神奇寶貝只會與那些在這場展示面前堅定不移的人戰鬥。"
+  },
+  "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.": {
+    "en": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+    "zh-tw": "它不喜歡骯髒的地方。它經常尋找一個舒適的地方來梳理自己。"
+  },
+  "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.": {
+    "en": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+    "zh-tw": "它居住在黑暗的洞穴中。它用鋒利的爪子挖掘寶石來滋養自己。"
+  },
+  "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.": {
+    "en": "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.",
+    "zh-tw": "它拍動四個翅膀可以懸停並在任何方向自由飛行——前後和側向。"
+  },
+  "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.": {
+    "en": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
+    "zh-tw": "它在身體後部形成一個水泡，然後用它覆蓋頭部。遇見另一個露皮德意味著比較水泡的大小。"
+  },
+  "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.": {
+    "en": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
+    "zh-tw": "當它看到不認識的舞蹈時，它會變得興奮。這位勤奮的工人刻苦練習，直到學會那種舞蹈。"
+  },
+  "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.": {
+    "en": "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.",
+    "zh-tw": "通過忍受嚴酷的訓練，它會變得更加強大。是能夠抵禦任何攻擊的勇敢寶可夢。"
+  },
+  "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.": {
+    "en": "It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.",
+    "zh-tw": "它具有極其貪婪的性格。它的巢裡裝滿了拉達按照它的指示收集的食物，它不可能把它全部吃完。"
+  },
+  "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.": {
+    "en": "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
+    "zh-tw": "它具有一流的飛行能力。即使攜帶重量超過 220 磅的獵物，它也能輕鬆飛行。"
+  },
+  "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.": {
+    "en": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
+    "zh-tw": "用閃閃發光的鱗片灑在人和寶可夢身上，治愈他們的傷口。阿卡拉崇拜這位守護神。"
+  },
+  "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.": {
+    "en": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
+    "zh-tw": "它用腿發射水泡，將獵物淹沒在氣泡中。然後這只神奇寶貝就可以慢慢地品嚐它的食物了。"
+  },
+  "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.": {
+    "en": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
+    "zh-tw": "當它四處尋找光作為它的能量時，它看上去有些痛苦。顯然是來自另一個世界。"
+  },
+  "It loves challenging others to tests of strength. It has the power to stop a train with a slap.": {
+    "en": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+    "zh-tw": "牠喜歡挑戰別人來考驗力量。它具有一巴掌就能讓火車停下來的力量。"
+  },
+  "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.": {
+    "en": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
+    "zh-tw": "牠喜歡幫助建築項目。它非常喜歡它，如果下雨導致工作停止，它就會搖晃圓木並發脾氣。"
+  },
+  "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.": {
+    "en": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+    "zh-tw": "牠喜歡以嫉妒和惡意等感情為食。它直立的角抓住了人們的情緒。"
+  },
+  "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.": {
+    "en": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+    "zh-tw": "它用花粉和花蜜製成花粉泡。泡芙的效果取決於成分的類型以及每種成分的用量。"
+  },
+  "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.": {
+    "en": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
+    "zh-tw": "它用堅硬的喙啄樹。你可以從它啄食的節奏中了解它的情緒或狀況。"
+  },
+  "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.": {
+    "en": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+    "zh-tw": "飛舞著鋒利如刀刃的羽毛進行攻擊。它的腿很強壯，所以它的踢腿也很強大。"
+  },
+  "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.": {
+    "en": "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.",
+    "zh-tw": "它對任何不新鮮的東西都不感興趣。如果你帶著它去購物，它會幫助你挑選食材。"
+  },
+  "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.": {
+    "en": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
+    "zh-tw": "它向馬喬克和其他古都人展示自己的肌肉。如果它無法與其他神奇寶貝相媲美，它會暫時處於低位。"
+  },
+  "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.": {
+    "en": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
+    "zh-tw": "它將自己的意識與他人同步以理解他們的感受。這種能力使其對於照顧人很有用。"
+  },
+  "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.": {
+    "en": "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",
+    "zh-tw": "它在奔跑時用巨大的鉤狀爪子在厚厚的積雪中開出一條路。在雪山上，沙斬的速度比任何其他神奇寶貝都快。"
+  },
+  "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.": {
+    "en": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+    "zh-tw": "為了獲勝，它會不惜一切代價，利用每一個機會，用前腿上的小爪子消滅對手。"
+  },
+  "It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.": {
+    "en": "It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.",
+    "zh-tw": "它習慣於奢華，因為它曾經與阿羅拉皇室住在一起。因此，它對食物非常挑剔。"
+  },
+  "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.": {
+    "en": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
+    "zh-tw": "它脾氣暴躁又固執。如果你打擾它，它就會從身體表面釋放電流，並發出雷鳴般的咆哮聲。"
+  },
+  "It's nature's cleaner—it eats anything and everything,  including garbage and rotten things. The ground near  its nest is always clean.": {
+    "en": "It's nature's cleaner—it eats anything and everything,  including garbage and rotten things. The ground near  its nest is always clean.",
+    "zh-tw": "它是大自然的清潔者——牠吃任何東西，包括垃圾和腐爛的東西。它巢穴附近的地面總是乾淨的。"
+  },
+  "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.": {
+    "en": "It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.",
+    "zh-tw": "看似自然形成的隧道實際上是 Excadrill 瘋狂挖掘的結果，這種情況並不少見。"
+  },
+  "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.": {
+    "en": "Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.",
+    "zh-tw": "它優雅的終結動作——用翅膀靈活地跳躍——是在它出生和長大的森林中磨練出來的。"
+  },
+  "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.": {
+    "en": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+    "zh-tw": "它最喜歡的地方是不衛生的地方。如果你把垃圾亂扔，你甚至可能會在你的房間裡發現這些神奇寶貝之一。"
+  },
+  "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.": {
+    "en": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+    "zh-tw": "它蓬鬆的皮毛很適合撫摸，但不小心伸手觸摸這只神奇寶貝可能會導致痛苦的報復。"
+  },
+  "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.": {
+    "en": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+    "zh-tw": "它的天敵，比如 Rookidee，可能會逃跑，而不是冒險被它的大下頜抓住，因為它可以折斷粗樹枝。"
+  },
+  "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.": {
+    "en": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+    "zh-tw": "它的胃佔據了軀幹的大部分。它每天都在同一條路上徘徊，尋找新鮮的食物。"
+  },
+  "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.": {
+    "en": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+    "zh-tw": "它奇怪的生理機能以有趣的方式對電能做出反應。頭盔的存在會導致該神奇寶貝進化。"
+  },
+  "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.": {
+    "en": "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+    "zh-tw": "它的汗水很甜，就像煮水果製成的糖漿一樣。正因為如此，Bounsweet 在過去甜味劑匱乏的時期受到高度重視。"
+  },
+  "Jangmo-o": {
+    "en": "Jangmo-o",
+    "es": "Jangmo-o",
+    "de": "Jangmo-o",
+    "zh-tw": "長毛五",
+    "it": "Jangmo-o",
+    "fr": "Jangmo-o",
+    "pt-br": "Jangmo-o"
+  },
+  "Justified Press": {
+    "en": "Justified Press",
+    "zh-tw": "正當新聞"
+  },
+  "Karrablast": {
+    "en": "Karrablast",
+    "es": "karrablast",
+    "de": "Karrablast",
+    "zh-tw": "卡拉布拉斯特",
+    "fr": "Karrablast",
+    "it": "Karrablast",
+    "pt-br": "Karrablast"
+  },
+  "Kiawe": {
+    "en": "Kiawe",
+    "zh-tw": "基亞韋"
+  },
+  "Kindle": {
+    "en": "Kindle",
+    "zh-tw": "點燃"
+  },
+  "Komala": {
+    "en": "Komala",
+    "zh-tw": "科馬拉"
+  },
+  "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.": {
+    "en": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
+    "zh-tw": "科馬拉一生都在睡覺。它以葉子為食，葉子中含有隻有科馬拉才能分解的劇毒。"
+  },
+  "Kommo-o": {
+    "en": "Kommo-o",
+    "zh-tw": "科莫奧"
+  },
+  "Lana": {
+    "en": "Lana",
+    "zh-tw": "拉娜"
+  },
+  "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel.": {
+    "en": "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel.",
+    "zh-tw": "生活在厚厚積雪的山上，賦予了這款神奇寶貝堅硬如鋼的冰體。"
+  },
+  "Look at the top card of your deck. Then, you may shuffle your deck.": {
+    "en": "Look at the top card of your deck. Then, you may shuffle your deck.",
+    "zh-tw": "查看你牌組頂牌。然後，你可以洗牌。"
+  },
+  "Lunatone": {
+    "en": "Lunatone",
+    "zh-tw": "月光"
+  },
+  "Lurantis": {
+    "en": "Lurantis",
+    "zh-tw": "魯蘭蒂斯"
+  },
+  "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.": {
+    "en": "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.",
+    "zh-tw": "狼人用鋒利的爪子和尖牙攻擊獵物。它忠實地服從它信任的訓練師的指示。"
+  },
+  "Mallow": {
+    "en": "Mallow",
+    "zh-tw": "錦葵"
+  },
+  "Masquerain": {
+    "en": "Masquerain",
+    "zh-tw": "假面舞會"
+  },
+  "Melodious Healing": {
+    "en": "Melodious Healing",
+    "zh-tw": "悠揚治愈"
+  },
+  "Minior": {
+    "en": "Minior",
+    "zh-tw": "小型"
+  },
+  "Moon Press": {
+    "en": "Moon Press",
+    "zh-tw": "月亮出版社"
+  },
+  "Mudbray": {
+    "en": "Mudbray",
+    "pt-br": "Mudbray",
+    "es": "Rayo de barro",
+    "fr": "Mudbrae",
+    "it": "Mudbray",
+    "zh-tw": "穆德布雷",
+    "de": "Mudbray"
+  },
+  "Mudsdale": {
+    "en": "Mudsdale",
+    "zh-tw": "穆茲代爾"
+  },
+  "Necrozma": {
+    "en": "Necrozma",
+    "zh-tw": "奈克洛茲瑪"
+  },
+  "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.": {
+    "en": "Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.",
+    "zh-tw": "花蜜和花粉是它最喜歡的食物。在花叢中，它與蝴蝶因食物發生小衝突。"
+  },
+  "Night Bind": {
+    "en": "Night Bind",
+    "zh-tw": "夜間束縛"
+  },
+  "Once during your turn, you may heal 30 damage from each of your {W} Pokémon.": {
+    "en": "Once during your turn, you may heal 30 damage from each of your {W} Pokémon.",
+    "zh-tw": "在你的回合中，你可以治療每隻 {W} 神奇寶貝造成的 30 點傷害。"
+  },
+  "Once it absorbs a key's metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.": {
+    "en": "Once it absorbs a key's metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+    "zh-tw": "一旦它吸收了鑰匙的金屬離子，它就會毫不猶豫地丟棄鑰匙。然而，它將在幾十年內保留它所青睞的鑰匙。"
+  },
+  "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.": {
+    "en": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
+    "zh-tw": "一旦它接受你作為朋友，它就會嘗試用擁抱來表達它的愛意。讓它這麼做是很危險的——它很容易就會打碎你的骨頭。"
+  },
+  "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.": {
+    "en": "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
+    "zh-tw": "一旦發現獵物的踪跡，它就會耐心地標定位置，等到太陽下山。"
+  },
+  "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.": {
+    "en": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.",
+    "zh-tw": "人們害怕它，因為相信它會吞噬任何試圖在其森林中砍伐樹木的人，但對於與它共享森林的神奇寶貝來說，它是友善的。"
+  },
+  "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.": {
+    "en": "People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.",
+    "zh-tw": "當人們看到猩猩向森林中的其他神奇寶貝發出一個又一個的命令時，他們常常將其誤認為是人類。"
+  },
+  "Petal Blizzard": {
+    "en": "Petal Blizzard",
+    "zh-tw": "花瓣暴風雪"
+  },
+  "Pike": {
+    "en": "Pike",
+    "zh-tw": "派克"
+  },
+  "Pikipek": {
+    "en": "Pikipek",
+    "fr": "Pikipek",
+    "it": "Pikipek",
+    "de": "Pikipek",
+    "es": "Pikipek",
+    "zh-tw": "皮基佩克",
+    "pt-br": "Pikipek"
+  },
+  "Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.": {
+    "en": "Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.",
+    "zh-tw": "米尼奧爾從夜空中墜落的地方很少而且相隔很遠，阿羅拉就是其中之一。"
+  },
+  "Poison Barb": {
+    "en": "Poison Barb",
+    "zh-tw": "毒倒刺"
+  },
+  "Primarina": {
+    "en": "Primarina",
+    "zh-tw": "普里馬里納"
+  },
+  "Primate's Trap": {
+    "en": "Primate's Trap",
+    "zh-tw": "靈長類動物的陷阱"
+  },
+  "Prismatic Laser": {
+    "en": "Prismatic Laser",
+    "zh-tw": "棱鏡激光器"
+  },
+  "Psycharge": {
+    "en": "Psycharge",
+    "zh-tw": "精神充電"
+  },
+  "Push Out": {
+    "en": "Push Out",
+    "zh-tw": "推出"
+  },
+  "Put 1 of your {C} Pokémon that has damage on it into your hand.": {
+    "en": "Put 1 of your {C} Pokémon that has damage on it into your hand.",
+    "zh-tw": "將自己1只受到傷害的{C}寶可夢加入手牌。"
+  },
+  "Put a random Basic {W} Pokémon from your discard pile into your hand.": {
+    "en": "Put a random Basic {W} Pokémon from your discard pile into your hand.",
+    "zh-tw": "從你的棄牌堆中隨機將 1 只基礎 {W} 神奇寶貝置入你的手牌。"
+  },
+  "Ribombee": {
+    "en": "Ribombee",
+    "zh-tw": "核醣體"
+  },
+  "Rotom Dex": {
+    "en": "Rotom Dex",
+    "zh-tw": "洛托姆德克斯"
+  },
+  "School Storm": {
+    "en": "School Storm",
+    "zh-tw": "學校風暴"
+  },
+  "Scrounge-and-Scarf": {
+    "en": "Scrounge-and-Scarf",
+    "zh-tw": "乞丐和圍巾"
+  },
+  "Shuppet": {
+    "en": "Shuppet",
+    "es": "Shuppet",
+    "fr": "Shuppet",
+    "zh-tw": "舒佩特",
+    "de": "Shuppet",
+    "it": "Shuppet",
+    "pt-br": "Shuppet"
+  },
+  "Slap Push": {
+    "en": "Slap Push",
+    "zh-tw": "拍擊推"
+  },
+  "Smash Kick": {
+    "en": "Smash Kick",
+    "zh-tw": "粉碎踢"
+  },
+  "Solrock": {
+    "en": "Solrock",
+    "zh-tw": "索爾洛克"
+  },
+  "Sophocles": {
+    "en": "Sophocles",
+    "zh-tw": "索福克勒斯"
+  },
+  "Spike Armor": {
+    "en": "Spike Armor",
+    "zh-tw": "尖刺鎧甲"
+  },
+  "Spike Cannon": {
+    "en": "Spike Cannon",
+    "zh-tw": "尖刺炮"
+  },
+  "Spoink": {
+    "en": "Spoink",
+    "es": "hablar",
+    "it": "Spoink",
+    "fr": "Spoink",
+    "zh-tw": "斯波因克",
+    "de": "Spoink",
+    "pt-br": "Esponja"
+  },
+  "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.": {
+    "en": "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.",
+    "zh-tw": "如果 Spoink 停止彈跳就會死亡。它頭上的珍珠增強了它的精神力量。"
+  },
+  "Sprinkle Water": {
+    "en": "Sprinkle Water",
+    "zh-tw": "灑水"
+  },
+  "Steady Firebreathing": {
+    "en": "Steady Firebreathing",
+    "zh-tw": "穩定噴火"
+  },
+  "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.": {
+    "en": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+    "zh-tw": "Steenee 散發出一種甜美的香味，讓其他人感到精力充沛。同樣的氣味在止汗劑中也很受歡迎。"
+  },
+  "Stuck-In Tackle": {
+    "en": "Stuck-In Tackle",
+    "zh-tw": "卡住鏟球"
+  },
+  "Super Poison Breath": {
+    "en": "Super Poison Breath",
+    "zh-tw": "超級毒息"
+  },
+  "Super Zap Cannon": {
+    "en": "Super Zap Cannon",
+    "zh-tw": "超級電擊砲"
+  },
+  "Surskit": {
+    "en": "Surskit",
+    "es": "Surskit",
+    "it": "Surskit",
+    "de": "Surskit",
+    "zh-tw": "蘇斯基特",
+    "fr": "Surskirt",
+    "pt-br": "Surskit"
+  },
+  "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.": {
+    "en": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
+    "zh-tw": "阿勃索爾疾馳如風，穿過田野和山脈。它彎曲的弓狀角對自然災害的警告信號非常敏感。"
+  },
+  "Switch this Pokémon with 1 of your Benched {L} Pokémon.": {
+    "en": "Switch this Pokémon with 1 of your Benched {L} Pokémon.",
+    "zh-tw": "將此神奇寶貝與你的 1 個後備 {L} 神奇寶貝交換。"
+  },
+  "Take a {P} Energy from your Energy Zone and attach it to this Pokémon.": {
+    "en": "Take a {P} Energy from your Energy Zone and attach it to this Pokémon.",
+    "zh-tw": "從你的能量區取出一個{P}能量並將其附加到該神奇寶貝上。"
+  },
+  "Take a {W} Energy from your Energy Zone and attach it to this Pokémon.": {
+    "en": "Take a {W} Energy from your Energy Zone and attach it to this Pokémon.",
+    "zh-tw": "從你的能量區取出一個{W}能量並將其附加到這只神奇寶貝身上。"
+  },
+  "Talonflame": {
+    "en": "Talonflame",
+    "zh-tw": "爪焰"
+  },
+  "Tantrum": {
+    "en": "Tantrum",
+    "zh-tw": "發脾氣"
+  },
+  "Tapu Bulu": {
+    "en": "Tapu Bulu",
+    "zh-tw": "塔普布魯"
+  },
+  "Tapu Fini": {
+    "en": "Tapu Fini",
+    "zh-tw": "塔普菲尼"
+  },
+  "Tapu Koko": {
+    "en": "Tapu Koko",
+    "zh-tw": "塔普科科"
+  },
+  "Tapu Lele": {
+    "en": "Tapu Lele",
+    "zh-tw": "塔普樂樂"
+  },
+  "The balloons it inflates with its nose grow larger and larger as it practices day by day.": {
+    "en": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
+    "zh-tw": "隨著它日復一日的練習，它用鼻子吹的氣球變得越來越大。"
+  },
+  "The king who ruled Alola in times of antiquity called it\nthe “cocoon of the stars” and built an altar to worship it.": {
+    "en": "The king who ruled Alola in times of antiquity called it\nthe “cocoon of the stars” and built an altar to worship it.",
+    "zh-tw": "古代統治阿羅拉的國王稱其為\n並築壇祭祀“星之繭”。"
+  },
+  "The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.": {
+    "en": "The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.",
+    "zh-tw": "這種神奇寶貝棲息地富含金屬的地質導致它的頭上長出了鋼須。"
+  },
+  "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.": {
+    "en": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+    "zh-tw": "它稱之為家的山脈高近兩英里。在極少數情況下，它會降落到下方城鎮與孩子們一起玩耍。"
+  },
+  "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.": {
+    "en": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
+    "zh-tw": "月相顯然對其功率有一定影響。它在滿月之夜活躍。"
+  },
+  "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.": {
+    "en": "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.",
+    "zh-tw": "阿羅拉波斯的圓臉被認為是阿羅拉地區繁榮的象徵，因此這些神奇寶貝受到了很好的照顧。"
+  },
+  "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.": {
+    "en": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
+    "zh-tw": "它身體上無鱗且傷痕累累的部分是其力量的標誌。它向被擊敗的對手展示他們。"
+  },
+  "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.": {
+    "en": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
+    "zh-tw": "可怕的帕羅沙將較小的神奇寶貝拖入其沙質身體中。一旦受害者被困，它就會隨時耗盡他們的生命力。"
+  },
+  "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.": {
+    "en": "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",
+    "zh-tw": "它們美麗的金屬鬍鬚在頭上形成了一種防護頭盔，而且它們還充當高精度傳感器。"
+  },
+  "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.": {
+    "en": "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.",
+    "zh-tw": "阿羅拉的垃圾處理場裡生活著大約一百人。他們都是吃很多垃圾的勤勞工人。"
+  },
+  "There was a scientist who peeked under Mimikyu's old rag in the name of research. The scientist died of a mysterious disease.": {
+    "en": "There was a scientist who peeked under Mimikyu's old rag in the name of research. The scientist died of a mysterious disease.",
+    "zh-tw": "有一位科學家以研究的名義，在密擬丘的舊破布下偷看。這位科學家死於一種神秘的疾病。"
+  },
+  "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.": {
+    "en": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.",
+    "zh-tw": "它們通過將頭部的鱗片撞在一起來學習戰鬥。決鬥增強了他們的技能和精神。"
+  },
+  "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.": {
+    "en": "They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.",
+    "zh-tw": "它們用喙與同類進行交流。攻擊的強度和次數可以告訴對方他們的感受。"
+  },
+  "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.": {
+    "en": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+    "zh-tw": "它們通常生活在池塘里，但晚上陣雨後，它們可能會出現在城鎮的水坑里。"
+  },
+  "This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.": {
+    "en": "This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.",
+    "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 20 點傷害，傷害值與該寶可夢身上所附加的能量每有 1 點。"
+  },
+  "This attack does 20 damage to each of your opponent's Pokémon.": {
+    "en": "This attack does 20 damage to each of your opponent's Pokémon.",
+    "zh-tw": "這次攻擊對對手的每隻神奇寶貝造成 20 點傷害。"
+  },
+  "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.": {
+    "en": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
+    "zh-tw": "這次攻擊對你的後備願望和願望前任每人造成 40 點以上傷害。"
+  },
+  "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.": {
+    "en": "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.",
+    "zh-tw": "這種形式的 Oricorio 正在啜飲粉紅色的花蜜。它用輕柔的舞步提升心靈，然後釋放心靈能量。"
+  },
+  "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.": {
+    "en": "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
+    "zh-tw": "這種形態的奧里科里奧正在啜飲紫色花蜜。它用飄逸的舞步來召喚死者的靈魂。"
+  },
+  "This form of Oricorio has sipped red nectar. It whips up blazing flames as it moves to the steps of its passionate dance.": {
+    "en": "This form of Oricorio has sipped red nectar. It whips up blazing flames as it moves to the steps of its passionate dance.",
+    "zh-tw": "這種形態的奧里科里奧正在啜飲著紅色的花蜜。當它邁著充滿激情的舞步時，它會激起熊熊的火焰。"
+  },
+  "This form of Oricorio has sipped yellow nectar. It uses nimble steps to approach opponents, then knocks them out with electric punches.": {
+    "en": "This form of Oricorio has sipped yellow nectar. It uses nimble steps to approach opponents, then knocks them out with electric punches.",
+    "zh-tw": "這種形式的 Oricorio 啜飲著黃色的花蜜。它以敏捷的步伐接近對手，然後用電拳將他們擊倒。"
+  },
+  "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.": {
+    "en": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
+    "zh-tw": "這位波尼島的守護神可以操縱水。因為它生活在濃霧深處，所以人們既害怕又尊敬它。"
+  },
+  "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.": {
+    "en": "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.",
+    "zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你不勤奮地照顧它，它可能會不再聽你的。"
+  },
+  "This Pokémon also does 40 damage to itself.": {
+    "en": "This Pokémon also does 40 damage to itself.",
+    "zh-tw": "這只神奇寶貝也會對自身造成 40 點傷害。"
+  },
+  "This Pokémon covers itself in mud that it has regurgitated. The mud won't dry out even if it's exposed to the sun for a long time.": {
+    "en": "This Pokémon covers itself in mud that it has regurgitated. The mud won't dry out even if it's exposed to the sun for a long time.",
+    "zh-tw": "這只神奇寶貝用吐出的泥土覆蓋自己。即使長時間暴露在陽光下，泥漿也不會變乾。"
+  },
+  "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.": {
+    "en": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+    "zh-tw": "該寶可夢是由懷有怨恨的廢棄玩偶進化而來。在黑暗的小巷裡可以看到它。"
+  },
+  "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.": {
+    "en": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+    "zh-tw": "這只神奇寶貝吃垃圾，垃圾在體內變成毒藥。毒物的主要成分取決於所吃的垃圾種類。"
+  },
+  "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.": {
+    "en": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+    "zh-tw": "這種神奇寶貝不僅因其體力勞動而受到珍視，還因為它能產出用於製作陶器的優質泥漿。"
+  },
+  "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.": {
+    "en": "This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
+    "zh-tw": "這只神奇寶貝通常很平靜，但一旦進入戰鬥，荷爾蒙平衡就會發生變化，變得具有攻擊性。"
+  },
+  "This Pokémon is now Confused.": {
+    "en": "This Pokémon is now Confused.",
+    "zh-tw": "這只神奇寶貝現在處於混亂狀態。"
+  },
+  "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.": {
+    "en": "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
+    "zh-tw": "這只神奇寶貝驕傲且具有攻擊性。然而，據說，如果有人觸摸查雷納花萼上的王冠，查雷納就會立即變得平靜。"
+  },
+  "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.": {
+    "en": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+    "zh-tw": "這只神奇寶貝年輕時非常友好。長大後性情變得惡毒，但它卻永遠不會忘記主人的恩德。"
+  },
+  "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.": {
+    "en": "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
+    "zh-tw": "這只神奇寶貝生活在用自己的腿建造的圓頂內。 Toxapex 通過其尖刺感應潮汐的流動來監控周圍環境。"
+  },
+  "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.": {
+    "en": "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
+    "zh-tw": "這只神奇寶貝會擊打樹木並吃掉掉落的漿果，在訓練自己的同時獲取食物。"
+  },
+  "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.": {
+    "en": "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",
+    "zh-tw": "這只神奇寶貝會點燃它所持有的骨頭，並在夜間跳舞，以哀悼死去的盟友。"
+  },
+  "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.": {
+    "en": "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.",
+    "zh-tw": "這只神奇寶貝用它的岩石鬃毛來砍殺任何接近的人。如果它不喜歡它所收到的命令，它甚至會違背訓練師的命令。"
+  },
+  "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.": {
+    "en": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
+    "zh-tw": "這只神奇寶貝在海邊徘徊尋找食物。當它試圖吃掉破碎的平柯欽刺時，它經常會受到電擊。"
+  },
+  "Three Kick Combo": {
+    "en": "Three Kick Combo",
+    "zh-tw": "三踢組合"
+  },
+  "Timburr": {
+    "en": "Timburr",
+    "es": "Timbur",
+    "de": "Timburr",
+    "pt-br": "Timburr",
+    "it": "Timburr",
+    "zh-tw": "廷布爾",
+    "fr": "Timburr"
+  },
+  "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.": {
+    "en": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
+    "zh-tw": "對於Primarina來說，每一場戰鬥都是一個舞台。它用優美的歌聲和舞蹈來捕食獵物。"
+  },
+  "Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.": {
+    "en": "Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.",
+    "zh-tw": "一旦它們變得親近，巨龍貓就會讓它的訓練師寵愛它，但它是一種強大的、利爪的神奇寶貝，所以它的訓練師身上佈滿了划痕。"
+  },
+  "Trubbish": {
+    "en": "Trubbish",
+    "es": "basura",
+    "zh-tw": "垃圾",
+    "pt-br": "Trubo",
+    "fr": "Trubbish",
+    "it": "Sciocchezza",
+    "de": "Trubbisch"
+  },
+  "Unseen Claw": {
+    "en": "Unseen Claw",
+    "zh-tw": "看不見的利爪"
+  },
+  "Vibration": {
+    "en": "Vibration",
+    "zh-tw": "振動"
+  },
+  "Vikavolt": {
+    "en": "Vikavolt",
+    "zh-tw": "維卡伏特"
+  },
+  "Volt Switch": {
+    "en": "Volt Switch",
+    "zh-tw": "電壓開關"
+  },
+  "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.": {
+    "en": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+    "zh-tw": "他們穿著從謝爾梅特偷來的貝殼，自衛並用兩支長矛攻擊。"
+  },
+  "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.": {
+    "en": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+    "zh-tw": "當它自行旋轉時，它會發出類似於太陽的光，從而使敵人失明。"
+  },
+  "When two Graveler fight each other, it fills the\nsurroundings with flashes of light and sound.\nPeople call it the “fireworks of the earth.”": {
+    "en": "When two Graveler fight each other, it fills the\nsurroundings with flashes of light and sound.\nPeople call it the “fireworks of the earth.”",
+    "zh-tw": "當兩個 Graveler 互相爭鬥時，它會充滿\n周圍閃爍著光和聲音。\n人們稱其為“人間煙花”。"
+  },
+  "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.": {
+    "en": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+    "zh-tw": "雖然它堅固的外殼可以保護它免受攻擊，但 Charjabug 會用下巴尖端釋放出的電流來攻擊敵人。"
+  },
+  "Wimp Out": {
+    "en": "Wimp Out",
+    "zh-tw": "懦弱出局"
+  },
+  "Wimpod": {
+    "en": "Wimpod",
+    "es": "Wimppod",
+    "fr": "Wimpod",
+    "it": "Wimpod",
+    "de": "Wimpod",
+    "zh-tw": "溫波德",
+    "pt-br": "Wimpod"
+  },
+  "Wishiwashi ex": {
+    "en": "Wishiwashi ex",
+    "zh-tw": "希望和希前"
+  },
+  "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.": {
+    "en": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
+    "zh-tw": "它發出的聲音可能會被誤認為是沙球的嘎嘎聲，它會產生一種歡快的節奏，驚動鳥類神奇寶貝並讓它們匆忙飛走。"
+  },
+  "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.": {
+    "en": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
+    "zh-tw": "背上有長毛，這只神奇寶貝從其他電力神奇寶貝那裡獲取電力。它將吸收的東西儲存在電囊中。"
+  },
+  "You can use this card only if you have Araquanid in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot.": {
+    "en": "You can use this card only if you have Araquanid in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+    "zh-tw": "只有當你場上有阿拉奎尼德時你才能使用這張卡。將對手的 1 只後備神奇寶貝切換到活動位置。"
+  },
+  "Your opponent's Active Pokémon is now Poisoned and Burned.": {
+    "en": "Your opponent's Active Pokémon is now Poisoned and Burned.",
+    "zh-tw": "你對手的活躍神奇寶貝現在中毒並燃燒。"
+  },
+  "Yungoos": {
+    "en": "Yungoos",
+    "fr": "Yungoos",
+    "es": "Yungoos",
+    "zh-tw": "雲古斯",
+    "pt-br": "Yungoos",
+    "de": "Jungoos",
+    "it": "Yungoos"
   }
 }
