@@ -70,3 +70,28 @@ todos:
 - 若发现官方差异，更新映射后可对已处理批次重跑脚本增量覆盖。
 - 先 dry-run 再 apply；每批结束后再跑校验与 lint，避免一次性大面积失控。
 - 执行过程中需及时更新计划与 Todo 状态，确保可追踪。
+
+## 进度记录
+
+- 已完成批次：Mega Rising、Genetic Apex、Triumphant Light（均复扫缺口 0，待翻译 0）。
+- 翻译映射累计：`scripts/tmp/pocket-translations.json`。
+- 近期产物：`scripts/tmp/genetic-missing.json`、`scripts/tmp/genetic-todo.json`、`scripts/tmp/triumph-missing.json`、`scripts/tmp/triumph-todo.json`（当前为空或仅供留档）。
+
+## 批次复用方式
+
+按批次替换 `<batch>` 目录执行：
+
+- 扫描缺口与待翻译：  
+`npx tsx scripts/tmp/scan-pocket-batch.ts --batch="data/Pokémon TCG Pocket/<batch>/**/*.ts" --out-missing="scripts/tmp/<batch>-missing.json" --out-todo="scripts/tmp/<batch>-todo.json"`
+- 翻译/补全映射（可指定 todo/out）：  
+`npx tsx scripts/tmp/translate-pocket-batch.ts --todo="scripts/tmp/<batch>-todo.json" --out="scripts/tmp/pocket-translations.json"`
+- 注入 dry-run：  
+`npx tsx scripts/add-pocket-localizations.ts --pattern="data/Pokémon TCG Pocket/<batch>/**/*.ts"`
+- 注入写入：  
+`npx tsx scripts/add-pocket-localizations.ts --pattern="data/Pokémon TCG Pocket/<batch>/**/*.ts" --write`
+- 复扫验证：  
+`npx tsx scripts/tmp/scan-pocket-batch.ts --batch="data/Pokémon TCG Pocket/<batch>/**/*.ts" --out-missing="scripts/tmp/<batch>-missing.json" --out-todo="scripts/tmp/<batch>-todo.json"`
+
+## 下一步
+
+- 下一个批次：`data/Pokémon TCG Pocket/Wisdom of Sea and Sky/**/*.ts`
