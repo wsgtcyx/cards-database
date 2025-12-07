@@ -1,0 +1,7186 @@
+[
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/107.ts",
+    "path": "name",
+    "en": "Eevee Bag",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee Bag"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/107.ts",
+    "path": "effect",
+    "en": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/106.ts",
+    "path": "name",
+    "en": "Gallade ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gallade ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/106.ts",
+    "path": "evolveFrom",
+    "en": "Kirlia",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Kirlia"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/106.ts",
+    "path": "attacks[0].name",
+    "en": "Energized Blade",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Energized Blade"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/106.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/105.ts",
+    "path": "name",
+    "en": "Zapdos ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zapdos ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/105.ts",
+    "path": "attacks[0].name",
+    "en": "Peck",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Peck"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/105.ts",
+    "path": "attacks[1].name",
+    "en": "Thundering Hurricane",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Thundering Hurricane"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/105.ts",
+    "path": "attacks[1].effect",
+    "en": "Flip 4 coins. This attack does 50 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 4 coins. This attack does 50 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/104.ts",
+    "path": "name",
+    "en": "Articuno ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Articuno ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/104.ts",
+    "path": "attacks[0].name",
+    "en": "Ice Wing",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ice Wing"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/104.ts",
+    "path": "attacks[1].name",
+    "en": "Blizzard",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blizzard"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/104.ts",
+    "path": "attacks[1].effect",
+    "en": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/103.ts",
+    "path": "name",
+    "en": "Moltres ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Moltres ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/103.ts",
+    "path": "attacks[0].name",
+    "en": "Inferno Dance",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Inferno Dance"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/103.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/103.ts",
+    "path": "attacks[1].name",
+    "en": "Heat Blast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heat Blast"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/102.ts",
+    "path": "name",
+    "en": "Farfetch'd",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Farfetch'd"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/102.ts",
+    "path": "description",
+    "en": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The stalk this Pokémon carries in its wings serves\nas a sword to cut down opponents. In a dire\nsituation, the stalk can also serve as food."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/102.ts",
+    "path": "attacks[0].name",
+    "en": "Leek Slap",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leek Slap"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/101.ts",
+    "path": "name",
+    "en": "Arbok",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Arbok"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/101.ts",
+    "path": "evolveFrom",
+    "en": "Ekans",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ekans"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/101.ts",
+    "path": "description",
+    "en": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The latest research has determined that there\nare over 20 possible arrangements of the\npatterns on its stomach."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/101.ts",
+    "path": "attacks[0].name",
+    "en": "Corner",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Corner"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/101.ts",
+    "path": "attacks[0].effect",
+    "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/100.ts",
+    "path": "name",
+    "en": "Ekans",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ekans"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/100.ts",
+    "path": "description",
+    "en": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "By dislocating its jaw, it can swallow prey larger\nthan itself. After a meal, it curls up and rests."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/100.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/099.ts",
+    "path": "name",
+    "en": "Gardevoir",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gardevoir"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/099.ts",
+    "path": "evolveFrom",
+    "en": "Kirlia",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Kirlia"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/099.ts",
+    "path": "description",
+    "en": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "To protect its Trainer, it will expend all its psychic\npower to create a small black hole."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/099.ts",
+    "path": "abilities[0].name",
+    "en": "Psy Shadow",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Psy Shadow"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/099.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to the {P} Pokémon in the Active Spot.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to the {P} Pokémon in the Active Spot."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/099.ts",
+    "path": "attacks[0].name",
+    "en": "Psyshot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Psyshot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/098.ts",
+    "path": "name",
+    "en": "Kirlia",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Kirlia"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/098.ts",
+    "path": "evolveFrom",
+    "en": "Ralts",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ralts"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/098.ts",
+    "path": "description",
+    "en": "It has a psychic power that enables it to distort\nthe space around it and see into the future.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It has a psychic power that enables it to distort\nthe space around it and see into the future."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/098.ts",
+    "path": "attacks[0].name",
+    "en": "Slap",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slap"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/097.ts",
+    "path": "name",
+    "en": "Ralts",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ralts"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/097.ts",
+    "path": "description",
+    "en": "The horns on its head provide a strong power\nthat enables it to sense people's emotions.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The horns on its head provide a strong power\nthat enables it to sense people's emotions."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/097.ts",
+    "path": "attacks[0].name",
+    "en": "Teleport",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Teleport"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/097.ts",
+    "path": "attacks[0].effect",
+    "en": "Switch this Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/096.ts",
+    "path": "name",
+    "en": "Electrode",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Electrode"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/096.ts",
+    "path": "evolveFrom",
+    "en": "Voltorb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Voltorb"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/096.ts",
+    "path": "description",
+    "en": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The more energy it charges up, the faster\nit gets. But this also makes it more likely\nto explode."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/096.ts",
+    "path": "attacks[0].name",
+    "en": "Rolling Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rolling Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/095.ts",
+    "path": "name",
+    "en": "Voltorb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Voltorb"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/095.ts",
+    "path": "description",
+    "en": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It rolls to move. If the ground is uneven, a sudden\njolt from hitting a bump can cause it to explode."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/095.ts",
+    "path": "attacks[0].name",
+    "en": "Big Explosion",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Big Explosion"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/095.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon also does 10 damage to itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon also does 10 damage to itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/094.ts",
+    "path": "name",
+    "en": "Lapras",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lapras"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/094.ts",
+    "path": "description",
+    "en": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A smart and kindhearted Pokémon,\nit glides across the surface of the sea while\nits beautiful song echoes around it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/094.ts",
+    "path": "attacks[0].name",
+    "en": "Hydro Pump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hydro Pump"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/094.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/093.ts",
+    "path": "name",
+    "en": "Pinsir",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pinsir"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/093.ts",
+    "path": "description",
+    "en": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "These Pokémon judge one another based on\npincers. Thicker, more impressive pincers make\nfor more popularity with the opposite gender."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/093.ts",
+    "path": "attacks[0].name",
+    "en": "Guillotine Rush",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Guillotine Rush"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/093.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/092.ts",
+    "path": "name",
+    "en": "Eevee ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/092.ts",
+    "path": "abilities[0].name",
+    "en": "Veevee 'volve",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Veevee 'volve"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/092.ts",
+    "path": "abilities[0].effect",
+    "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/092.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/091.ts",
+    "path": "name",
+    "en": "Snorlax ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Snorlax ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/091.ts",
+    "path": "abilities[0].name",
+    "en": "Full-Mouth Manner",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Full-Mouth Manner"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/091.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/091.ts",
+    "path": "attacks[0].name",
+    "en": "Flop-Down Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flop-Down Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/091.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon is now Asleep.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon is now Asleep."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/090.ts",
+    "path": "name",
+    "en": "Dragonite ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragonite ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/090.ts",
+    "path": "evolveFrom",
+    "en": "Dragonair",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragonair"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/090.ts",
+    "path": "attacks[0].name",
+    "en": "Giga Impact",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Giga Impact"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/090.ts",
+    "path": "attacks[0].effect",
+    "en": "During your next turn, this Pokémon can't attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your next turn, this Pokémon can't attack."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/089.ts",
+    "path": "name",
+    "en": "Sylveon ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sylveon ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/089.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/089.ts",
+    "path": "abilities[0].name",
+    "en": "Happy Ribbon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Happy Ribbon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/089.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/089.ts",
+    "path": "attacks[0].name",
+    "en": "Fairy Wind",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fairy Wind"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+    "path": "name",
+    "en": "Primarina ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Primarina ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+    "path": "evolveFrom",
+    "en": "Brionne",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Brionne"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+    "path": "attacks[0].name",
+    "en": "Hydro Pump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hydro Pump"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+    "path": "attacks[1].name",
+    "en": "Sparkling Aria",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sparkling Aria"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+    "path": "attacks[1].effect",
+    "en": "Heal 20 damage from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 20 damage from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/087.ts",
+    "path": "name",
+    "en": "Flareon ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flareon ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/087.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/087.ts",
+    "path": "abilities[0].name",
+    "en": "Combust",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Combust"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/087.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/087.ts",
+    "path": "attacks[0].name",
+    "en": "Fire Spin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fire Spin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/087.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard 2 {R} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard 2 {R} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/086.ts",
+    "path": "name",
+    "en": "Penny",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Penny"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/086.ts",
+    "path": "effect",
+    "en": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/085.ts",
+    "path": "name",
+    "en": "Hau",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hau"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/085.ts",
+    "path": "effect",
+    "en": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/084.ts",
+    "path": "name",
+    "en": "Snorlax ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Snorlax ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/084.ts",
+    "path": "abilities[0].name",
+    "en": "Full-Mouth Manner",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Full-Mouth Manner"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/084.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/084.ts",
+    "path": "attacks[0].name",
+    "en": "Flop-Down Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flop-Down Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/084.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon is now Asleep.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon is now Asleep."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/083.ts",
+    "path": "name",
+    "en": "Eevee ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/083.ts",
+    "path": "abilities[0].name",
+    "en": "Veevee 'volve",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Veevee 'volve"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/083.ts",
+    "path": "abilities[0].effect",
+    "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/083.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/082.ts",
+    "path": "name",
+    "en": "Dragonite ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragonite ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/082.ts",
+    "path": "evolveFrom",
+    "en": "Dragonair",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragonair"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/082.ts",
+    "path": "attacks[0].name",
+    "en": "Giga Impact",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Giga Impact"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/082.ts",
+    "path": "attacks[0].effect",
+    "en": "During your next turn, this Pokémon can't attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your next turn, this Pokémon can't attack."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/081.ts",
+    "path": "name",
+    "en": "Sylveon ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sylveon ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/081.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/081.ts",
+    "path": "abilities[0].name",
+    "en": "Happy Ribbon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Happy Ribbon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/081.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/081.ts",
+    "path": "attacks[0].name",
+    "en": "Fairy Wind",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fairy Wind"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+    "path": "name",
+    "en": "Primarina ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Primarina ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+    "path": "evolveFrom",
+    "en": "Brionne",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Brionne"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+    "path": "attacks[0].name",
+    "en": "Hydro Pump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hydro Pump"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+    "path": "attacks[1].name",
+    "en": "Sparkling Aria",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sparkling Aria"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+    "path": "attacks[1].effect",
+    "en": "Heal 20 damage from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 20 damage from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/079.ts",
+    "path": "name",
+    "en": "Flareon ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flareon ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/079.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/079.ts",
+    "path": "abilities[0].name",
+    "en": "Combust",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Combust"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/079.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/079.ts",
+    "path": "attacks[0].name",
+    "en": "Fire Spin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fire Spin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/079.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard 2 {R} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard 2 {R} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/078.ts",
+    "path": "name",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/078.ts",
+    "path": "description",
+    "en": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/078.ts",
+    "path": "attacks[0].name",
+    "en": "Collect",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Collect"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/078.ts",
+    "path": "attacks[0].effect",
+    "en": "Draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/077.ts",
+    "path": "name",
+    "en": "Umbreon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Umbreon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/077.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/077.ts",
+    "path": "description",
+    "en": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/077.ts",
+    "path": "attacks[0].name",
+    "en": "Dark Binding",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dark Binding"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/077.ts",
+    "path": "attacks[0].effect",
+    "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/076.ts",
+    "path": "name",
+    "en": "Sylveon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sylveon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/076.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/076.ts",
+    "path": "description",
+    "en": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/076.ts",
+    "path": "attacks[0].name",
+    "en": "Evoharmony",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Evoharmony"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/076.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/075.ts",
+    "path": "name",
+    "en": "Espeon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Espeon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/075.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/075.ts",
+    "path": "description",
+    "en": "The tip of its forked tail quivers when it is\npredicting its opponent's next move.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The tip of its forked tail quivers when it is\npredicting its opponent's next move."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/075.ts",
+    "path": "attacks[0].name",
+    "en": "Energy Crush",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Energy Crush"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/075.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/074.ts",
+    "path": "name",
+    "en": "Jolteon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jolteon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/074.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/074.ts",
+    "path": "description",
+    "en": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/074.ts",
+    "path": "attacks[0].name",
+    "en": "Beginning Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Beginning Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/074.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/073.ts",
+    "path": "name",
+    "en": "Glaceon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Glaceon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/073.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/073.ts",
+    "path": "description",
+    "en": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/073.ts",
+    "path": "attacks[0].name",
+    "en": "Ice Blade",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ice Blade"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/073.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 50 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/072.ts",
+    "path": "name",
+    "en": "Vaporeon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vaporeon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/072.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/072.ts",
+    "path": "description",
+    "en": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/072.ts",
+    "path": "attacks[0].name",
+    "en": "Hyper Whirlpool",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hyper Whirlpool"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/072.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/071.ts",
+    "path": "name",
+    "en": "Flareon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flareon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/071.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/071.ts",
+    "path": "description",
+    "en": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/071.ts",
+    "path": "attacks[0].name",
+    "en": "Assisting Heater",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Assisting Heater"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/071.ts",
+    "path": "attacks[0].effect",
+    "en": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/070.ts",
+    "path": "name",
+    "en": "Leafeon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leafeon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/070.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/070.ts",
+    "path": "description",
+    "en": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/070.ts",
+    "path": "attacks[0].name",
+    "en": "Leaf Blast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leaf Blast"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/070.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 more damage for each {G} Energy attached to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 more damage for each {G} Energy attached to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/069.ts",
+    "path": "name",
+    "en": "Penny",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Penny"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/069.ts",
+    "path": "effect",
+    "en": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/068.ts",
+    "path": "name",
+    "en": "Hau",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hau"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/068.ts",
+    "path": "effect",
+    "en": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/067.ts",
+    "path": "name",
+    "en": "Leftovers",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leftovers"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/067.ts",
+    "path": "effect",
+    "en": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/066.ts",
+    "path": "name",
+    "en": "Eevee Bag",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee Bag"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/066.ts",
+    "path": "effect",
+    "en": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Choose 1:\n\nDuring this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\nHeal 20 damage from each of your Pokémon that evolves from Eevee."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/065.ts",
+    "path": "name",
+    "en": "Greedent",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Greedent"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/065.ts",
+    "path": "evolveFrom",
+    "en": "Skwovet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skwovet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/065.ts",
+    "path": "description",
+    "en": "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon makes off with heaps of fallen berries by wrapping\nthem in its tail, which is roughly twice the length of its body."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/065.ts",
+    "path": "attacks[0].name",
+    "en": "Enhanced Fang",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Enhanced Fang"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/065.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/064.ts",
+    "path": "name",
+    "en": "Skwovet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skwovet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/064.ts",
+    "path": "description",
+    "en": "It stores berries in its cheeks. When there are no\nberries to be found, Skwovet will stuff pebbles\ninto its cheeks to stave off its cravings.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It stores berries in its cheeks. When there are no\nberries to be found, Skwovet will stuff pebbles\ninto its cheeks to stave off its cravings."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/064.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/063.ts",
+    "path": "name",
+    "en": "Cinccino",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Cinccino"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/063.ts",
+    "path": "evolveFrom",
+    "en": "Minccino",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Minccino"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/063.ts",
+    "path": "description",
+    "en": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/063.ts",
+    "path": "attacks[0].name",
+    "en": "Slap",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slap"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/062.ts",
+    "path": "name",
+    "en": "Minccino",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Minccino"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/062.ts",
+    "path": "description",
+    "en": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The way it brushes away grime with its tail\ncan be helpful when cleaning. But its focus on\nspotlessness can make cleaning more of a hassle."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/062.ts",
+    "path": "attacks[0].name",
+    "en": "Pound",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pound"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/061.ts",
+    "path": "name",
+    "en": "Audino",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Audino"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/061.ts",
+    "path": "description",
+    "en": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures' feelings and physical conditions.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon has a kind heart. By touching with its feelers,\nAudino can gauge other creatures' feelings and physical conditions."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/061.ts",
+    "path": "attacks[0].name",
+    "en": "Do the Wave",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Do the Wave"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/061.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage for each of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage for each of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/060.ts",
+    "path": "name",
+    "en": "Chatot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Chatot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/060.ts",
+    "path": "description",
+    "en": "It mimics the cries of other Pokémon to trick them\ninto thinking it's one of them. This way they won't\nattack it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It mimics the cries of other Pokémon to trick them\ninto thinking it's one of them. This way they won't\nattack it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/060.ts",
+    "path": "attacks[0].name",
+    "en": "Tone-Deaf",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tone-Deaf"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/060.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Confused.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Confused."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+    "path": "name",
+    "en": "Ambipom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ambipom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+    "path": "evolveFrom",
+    "en": "Aipom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aipom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+    "path": "description",
+    "en": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It uses its tails for everything. If it wraps both\nof its tails around you and gives you a squeeze,\nthat's proof it really likes you."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+    "path": "abilities[0].name",
+    "en": "Catching Tail",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Catching Tail"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+    "path": "attacks[0].name",
+    "en": "Corkscrew Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Corkscrew Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/058.ts",
+    "path": "name",
+    "en": "Aipom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aipom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/058.ts",
+    "path": "description",
+    "en": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "As it did more and more with its tail, its hands\nbecame clumsy. It makes its nest high in\nthe treetops."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/058.ts",
+    "path": "attacks[0].name",
+    "en": "Double Hit",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Double Hit"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/058.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 2 coins. This attack does 20 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 2 coins. This attack does 20 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/057.ts",
+    "path": "name",
+    "en": "Snorlax ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Snorlax ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/057.ts",
+    "path": "abilities[0].name",
+    "en": "Full-Mouth Manner",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Full-Mouth Manner"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/057.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/057.ts",
+    "path": "attacks[0].name",
+    "en": "Flop-Down Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flop-Down Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/057.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon is now Asleep.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon is now Asleep."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/056.ts",
+    "path": "name",
+    "en": "Eevee ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/056.ts",
+    "path": "abilities[0].name",
+    "en": "Veevee 'volve",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Veevee 'volve"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/056.ts",
+    "path": "abilities[0].effect",
+    "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/056.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/055.ts",
+    "path": "name",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/055.ts",
+    "path": "description",
+    "en": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its ability to evolve into many forms allows it to\nadapt smoothly and perfectly to any environment."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/055.ts",
+    "path": "attacks[0].name",
+    "en": "Collect",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Collect"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/055.ts",
+    "path": "attacks[0].effect",
+    "en": "Draw a card.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Draw a card."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/054.ts",
+    "path": "name",
+    "en": "Drampa",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Drampa"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/054.ts",
+    "path": "description",
+    "en": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The mountains it calls home are nearly two miles\nin height. On rare occasions, it descends to play\nwith the children living in the towns below."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/054.ts",
+    "path": "attacks[0].name",
+    "en": "Dragon Breath",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragon Breath"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/054.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/053.ts",
+    "path": "name",
+    "en": "Dragonite ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragonite ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/053.ts",
+    "path": "evolveFrom",
+    "en": "Dragonair",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragonair"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/053.ts",
+    "path": "attacks[0].name",
+    "en": "Giga Impact",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Giga Impact"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/053.ts",
+    "path": "attacks[0].effect",
+    "en": "During your next turn, this Pokémon can't attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your next turn, this Pokémon can't attack."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/052.ts",
+    "path": "name",
+    "en": "Dragonair",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dragonair"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/052.ts",
+    "path": "evolveFrom",
+    "en": "Dratini",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dratini"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/052.ts",
+    "path": "description",
+    "en": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "They say that if it emits an aura from its whole\nbody, the weather will begin to change instantly."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/052.ts",
+    "path": "attacks[0].name",
+    "en": "Waterfall",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Waterfall"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/051.ts",
+    "path": "name",
+    "en": "Dratini",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dratini"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/051.ts",
+    "path": "description",
+    "en": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It sheds many layers of skin as it grows larger.\nDuring this process, it is protected by a rapid\nwaterfall."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/051.ts",
+    "path": "attacks[0].name",
+    "en": "Beat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Beat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/050.ts",
+    "path": "name",
+    "en": "Melmetal",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Melmetal"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/050.ts",
+    "path": "evolveFrom",
+    "en": "Meltan",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Meltan"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/050.ts",
+    "path": "description",
+    "en": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of its life-span, Melmetal will rust and\nfall apart. The small shards left behind will\neventually be reborn as Meltan."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/050.ts",
+    "path": "attacks[0].name",
+    "en": "Mega Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mega Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/049.ts",
+    "path": "name",
+    "en": "Meltan",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Meltan"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/049.ts",
+    "path": "description",
+    "en": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It dissolves and eats metal. Circulating liquid\nmetal within its body is how it generates energy."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/049.ts",
+    "path": "attacks[0].name",
+    "en": "Headbutt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Headbutt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/048.ts",
+    "path": "name",
+    "en": "Togedemaru",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Togedemaru"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/048.ts",
+    "path": "description",
+    "en": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "With the long hairs on its back, this Pokémon\ntakes in electricity from other electric Pokémon.\nIt stores what it absorbs in an electric sac."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/048.ts",
+    "path": "attacks[0].name",
+    "en": "Bristling Spikes",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bristling Spikes"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/048.ts",
+    "path": "attacks[0].effect",
+    "en": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/047.ts",
+    "path": "name",
+    "en": "Mawile",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mawile"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/047.ts",
+    "path": "description",
+    "en": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It uses its docile-looking face to lull foes into\ncomplacency, then bites with its huge,\nrelentless jaws."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/047.ts",
+    "path": "attacks[0].name",
+    "en": "Powerful Vise",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Powerful Vise"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/047.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/046.ts",
+    "path": "name",
+    "en": "Liepard",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Liepard"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/046.ts",
+    "path": "evolveFrom",
+    "en": "Purrloin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Purrloin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/046.ts",
+    "path": "description",
+    "en": "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Don't be fooled by its gorgeous fur and elegant\nfigure. This is a moody and vicious Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/046.ts",
+    "path": "attacks[0].name",
+    "en": "Slashing Claw",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slashing Claw"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/045.ts",
+    "path": "name",
+    "en": "Purrloin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Purrloin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/045.ts",
+    "path": "description",
+    "en": "Opponents that get drawn in by its adorable\nbehavior come away with stinging scratches from\nits claws and stinging pride from its laughter.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Opponents that get drawn in by its adorable\nbehavior come away with stinging scratches from\nits claws and stinging pride from its laughter."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/045.ts",
+    "path": "attacks[0].name",
+    "en": "Playful Knockdown",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Playful Knockdown"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/045.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard all Pokémon Tools from your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard all Pokémon Tools from your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/044.ts",
+    "path": "name",
+    "en": "Sableye",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sableye"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/044.ts",
+    "path": "description",
+    "en": "Materials from gems it has eaten float to the\nsurface of its body and can form an infinite\nnumber of patterns among individuals.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Materials from gems it has eaten float to the\nsurface of its body and can form an infinite\nnumber of patterns among individuals."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/044.ts",
+    "path": "attacks[0].name",
+    "en": "Scratch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Scratch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/043.ts",
+    "path": "name",
+    "en": "Umbreon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Umbreon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/043.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/043.ts",
+    "path": "description",
+    "en": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When exposed to the moon's aura, the rings on its\nbody glow faintly and it gains a mysterious power."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/043.ts",
+    "path": "attacks[0].name",
+    "en": "Dark Binding",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dark Binding"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/043.ts",
+    "path": "attacks[0].effect",
+    "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/042.ts",
+    "path": "name",
+    "en": "Carbink",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Carbink"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/042.ts",
+    "path": "description",
+    "en": "When beset by attackers, Carbink wipes them all\nout by firing high-energy beams from the gems\nembedded in its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When beset by attackers, Carbink wipes them all\nout by firing high-energy beams from the gems\nembedded in its body."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/042.ts",
+    "path": "attacks[0].name",
+    "en": "Hard Roll",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hard Roll"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/042.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/041.ts",
+    "path": "name",
+    "en": "Mienshao",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mienshao"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/041.ts",
+    "path": "evolveFrom",
+    "en": "Mienfoo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mienfoo"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/041.ts",
+    "path": "description",
+    "en": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When Mienshao comes across a truly challenging\nopponent, it will lighten itself by biting off the\nfur on its arms."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/041.ts",
+    "path": "attacks[0].name",
+    "en": "Low Kick",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Low Kick"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/040.ts",
+    "path": "name",
+    "en": "Mienfoo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mienfoo"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/040.ts",
+    "path": "description",
+    "en": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "In one minute, a well-trained Mienfoo can chop\nwith its arms more than 100 times."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/040.ts",
+    "path": "attacks[0].name",
+    "en": "Kick Shot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Kick Shot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/040.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If tails, this attack does nothing."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/039.ts",
+    "path": "name",
+    "en": "Whiscash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Whiscash"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/039.ts",
+    "path": "evolveFrom",
+    "en": "Barboach",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Barboach"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/039.ts",
+    "path": "description",
+    "en": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It is extremely protective of its territory. If any\nfoe approaches, it attacks using vicious tremors."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/039.ts",
+    "path": "attacks[0].name",
+    "en": "Earthquake",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Earthquake"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/039.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack also does 10 damage to each of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack also does 10 damage to each of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/038.ts",
+    "path": "name",
+    "en": "Barboach",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Barboach"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/038.ts",
+    "path": "description",
+    "en": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey's location.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its two whiskers provide a sensitive radar. Even in\nmuddy waters, it can detect its prey's location."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/038.ts",
+    "path": "attacks[0].name",
+    "en": "Mud Shot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mud Shot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/037.ts",
+    "path": "name",
+    "en": "Alcremie",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alcremie"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/037.ts",
+    "path": "evolveFrom",
+    "en": "Milcery",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Milcery"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/037.ts",
+    "path": "description",
+    "en": "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/037.ts",
+    "path": "attacks[0].name",
+    "en": "Sweets Overload",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sweets Overload"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/037.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/036.ts",
+    "path": "name",
+    "en": "Milcery",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Milcery"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/036.ts",
+    "path": "description",
+    "en": "This Pokémon was born from sweet-smelling\nparticles in the air. Its body is made of cream.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon was born from sweet-smelling\nparticles in the air. Its body is made of cream."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/036.ts",
+    "path": "attacks[0].name",
+    "en": "Sweets Relay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sweets Relay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/036.ts",
+    "path": "attacks[0].effect",
+    "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/035.ts",
+    "path": "name",
+    "en": "Mimikyu",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mimikyu"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/035.ts",
+    "path": "description",
+    "en": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon lives in dark places untouched by\nsunlight. When it appears before humans, it hides\nitself under a cloth that resembles a Pikachu."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/035.ts",
+    "path": "attacks[0].name",
+    "en": "Try to Imitate",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Try to Imitate"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/035.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/034.ts",
+    "path": "name",
+    "en": "Sylveon ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sylveon ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/034.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/034.ts",
+    "path": "abilities[0].name",
+    "en": "Happy Ribbon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Happy Ribbon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/034.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/034.ts",
+    "path": "attacks[0].name",
+    "en": "Fairy Wind",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fairy Wind"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/033.ts",
+    "path": "name",
+    "en": "Sylveon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sylveon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/033.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/033.ts",
+    "path": "description",
+    "en": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon uses its ribbonlike feelers to send\na soothing aura into its opponents, erasing\ntheir hostility."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/033.ts",
+    "path": "attacks[0].name",
+    "en": "Evoharmony",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Evoharmony"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/033.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/032.ts",
+    "path": "name",
+    "en": "Slurpuff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Slurpuff"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/032.ts",
+    "path": "evolveFrom",
+    "en": "Swirlix",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Swirlix"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/032.ts",
+    "path": "description",
+    "en": "By taking in a person's scent, it can sniff out their\nmental and physical condition. It's hoped that\nthis skill will have many medical applications.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "By taking in a person's scent, it can sniff out their\nmental and physical condition. It's hoped that\nthis skill will have many medical applications."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/032.ts",
+    "path": "attacks[0].name",
+    "en": "Sweets Relay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sweets Relay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/032.ts",
+    "path": "attacks[0].effect",
+    "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/031.ts",
+    "path": "name",
+    "en": "Swirlix",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Swirlix"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/031.ts",
+    "path": "description",
+    "en": "It eats its own weight in sugar every day.\nIf it doesn't get enough sugar, it becomes\nincredibly grumpy.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It eats its own weight in sugar every day.\nIf it doesn't get enough sugar, it becomes\nincredibly grumpy."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/031.ts",
+    "path": "attacks[0].name",
+    "en": "Sweets Relay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sweets Relay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/031.ts",
+    "path": "attacks[0].effect",
+    "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/030.ts",
+    "path": "name",
+    "en": "Swoobat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Swoobat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/030.ts",
+    "path": "evolveFrom",
+    "en": "Woobat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Woobat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/030.ts",
+    "path": "description",
+    "en": "Emitting powerful sound waves tires it out.\nAfterward, it won't be able to fly for a\nlittle while.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Emitting powerful sound waves tires it out.\nAfterward, it won't be able to fly for a\nlittle while."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/030.ts",
+    "path": "attacks[0].name",
+    "en": "Psyshot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Psyshot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/029.ts",
+    "path": "name",
+    "en": "Woobat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Woobat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/029.ts",
+    "path": "description",
+    "en": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it's\nevidence that Woobat live there.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "While inside a cave, if you look up and see lots\nof heart-shaped marks lining the walls, it's\nevidence that Woobat live there."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/029.ts",
+    "path": "attacks[0].name",
+    "en": "Gust",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gust"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/028.ts",
+    "path": "name",
+    "en": "Espeon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Espeon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/028.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/028.ts",
+    "path": "description",
+    "en": "The tip of its forked tail quivers when it is\npredicting its opponent's next move.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The tip of its forked tail quivers when it is\npredicting its opponent's next move."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/028.ts",
+    "path": "attacks[0].name",
+    "en": "Energy Crush",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Energy Crush"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/028.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/027.ts",
+    "path": "name",
+    "en": "Galvantula",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Galvantula"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/027.ts",
+    "path": "evolveFrom",
+    "en": "Joltik",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Joltik"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/027.ts",
+    "path": "description",
+    "en": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It launches electrified fur from its abdomen as its\nmeans of attack. Opponents hit by the fur could\nbe in for three full days and nights of paralysis."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/027.ts",
+    "path": "attacks[0].name",
+    "en": "Electric Shock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Electric Shock"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/027.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/026.ts",
+    "path": "name",
+    "en": "Joltik",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Joltik"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/026.ts",
+    "path": "description",
+    "en": "Joltik can be found clinging to other Pokémon.\nIt's soaking up static electricity because it can't\nproduce a charge on its own.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Joltik can be found clinging to other Pokémon.\nIt's soaking up static electricity because it can't\nproduce a charge on its own."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/026.ts",
+    "path": "attacks[0].name",
+    "en": "Jolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/026.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/025.ts",
+    "path": "name",
+    "en": "Jolteon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jolteon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/025.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/025.ts",
+    "path": "description",
+    "en": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It concentrates the weak electric charges emitted\nby its cells and launches wicked lightning bolts."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/025.ts",
+    "path": "attacks[0].name",
+    "en": "Beginning Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Beginning Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/025.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+    "path": "name",
+    "en": "Primarina ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Primarina ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+    "path": "evolveFrom",
+    "en": "Brionne",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Brionne"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+    "path": "attacks[0].name",
+    "en": "Hydro Pump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hydro Pump"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+    "path": "attacks[0].effect",
+    "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+    "path": "attacks[1].name",
+    "en": "Sparkling Aria",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sparkling Aria"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+    "path": "attacks[1].effect",
+    "en": "Heal 20 damage from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal 20 damage from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/023.ts",
+    "path": "name",
+    "en": "Brionne",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Brionne"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/023.ts",
+    "path": "evolveFrom",
+    "en": "Popplio",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Popplio"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/023.ts",
+    "path": "description",
+    "en": "It gets excited when it sees a dance it\ndoesn't know. This hard worker practices\ndiligently until it can learn that dance.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It gets excited when it sees a dance it\ndoesn't know. This hard worker practices\ndiligently until it can learn that dance."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/023.ts",
+    "path": "attacks[0].name",
+    "en": "Water Gun",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Water Gun"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/022.ts",
+    "path": "name",
+    "en": "Popplio",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Popplio"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/022.ts",
+    "path": "description",
+    "en": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The balloons it inflates with its nose grow\nlarger and larger as it practices day by day."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/022.ts",
+    "path": "attacks[0].name",
+    "en": "Watering",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Watering"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/021.ts",
+    "path": "name",
+    "en": "Alomomola",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alomomola"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/021.ts",
+    "path": "description",
+    "en": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It gently holds injured and weak Pokémon in its\nfins. Its special membrane heals their wounds."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/021.ts",
+    "path": "attacks[0].name",
+    "en": "Water Pulse",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Water Pulse"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/021.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Asleep.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Asleep."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/020.ts",
+    "path": "name",
+    "en": "Vanilluxe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vanilluxe"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/020.ts",
+    "path": "evolveFrom",
+    "en": "Vanillish",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vanillish"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/020.ts",
+    "path": "description",
+    "en": "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When its anger reaches a breaking point, this\nPokémon unleashes a fierce blizzard that freezes\nevery creature around it, be they friend or foe."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/020.ts",
+    "path": "attacks[0].name",
+    "en": "Double Spin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Double Spin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/020.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 2 coins. This attack does 80 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 2 coins. This attack does 80 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/019.ts",
+    "path": "name",
+    "en": "Vanillish",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vanillish"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/019.ts",
+    "path": "evolveFrom",
+    "en": "Vanillite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vanillite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/019.ts",
+    "path": "description",
+    "en": "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "By drinking pure water, it grows its icy body.\nThis Pokémon can be hard to find on days with\nwarm, sunny weather."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/019.ts",
+    "path": "attacks[0].name",
+    "en": "Sweets Relay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sweets Relay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/019.ts",
+    "path": "attacks[0].effect",
+    "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/018.ts",
+    "path": "name",
+    "en": "Vanillite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vanillite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/018.ts",
+    "path": "description",
+    "en": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Unable to survive in hot areas, it makes itself\ncomfortable by breathing out air cold enough to\ncause snow. It burrows into the snow to sleep."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/018.ts",
+    "path": "attacks[0].name",
+    "en": "Sweets Relay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sweets Relay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/018.ts",
+    "path": "attacks[0].effect",
+    "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/017.ts",
+    "path": "name",
+    "en": "Glaceon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Glaceon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/017.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/017.ts",
+    "path": "description",
+    "en": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It can control its body temperature at will.\nThis enables it to freeze the moisture in the\natmosphere, creating flurries of diamond dust."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/017.ts",
+    "path": "attacks[0].name",
+    "en": "Ice Blade",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ice Blade"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/017.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 50 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/016.ts",
+    "path": "name",
+    "en": "Vaporeon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Vaporeon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/016.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/016.ts",
+    "path": "description",
+    "en": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It lives close to water. Its long tail is ridged with\na fin, which is often mistaken for a mermaid's."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/016.ts",
+    "path": "attacks[0].name",
+    "en": "Hyper Whirlpool",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hyper Whirlpool"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/016.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/015.ts",
+    "path": "name",
+    "en": "Salazzle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Salazzle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/015.ts",
+    "path": "evolveFrom",
+    "en": "Salandit",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Salandit"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/015.ts",
+    "path": "description",
+    "en": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Salazzle makes its opponents light-headed with\npoisonous gas, then captivates them with alluring\nmovements to turn them into loyal servants."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/015.ts",
+    "path": "attacks[0].name",
+    "en": "Combustion",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Combustion"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/014.ts",
+    "path": "name",
+    "en": "Salandit",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Salandit"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/014.ts",
+    "path": "description",
+    "en": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It taunts its prey and lures them into narrow,\nrocky areas where it then sprays them with toxic\ngas to make them dizzy and take them down."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/014.ts",
+    "path": "attacks[0].name",
+    "en": "Ember",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ember"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/014.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard a {R} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard a {R} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/013.ts",
+    "path": "name",
+    "en": "Incineroar",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Incineroar"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/013.ts",
+    "path": "evolveFrom",
+    "en": "Torracat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Torracat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/013.ts",
+    "path": "description",
+    "en": "Although it's rough mannered and egotistical, it\nfinds beating down unworthy opponents boring.\nIt gets motivated for stronger opponents.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Although it's rough mannered and egotistical, it\nfinds beating down unworthy opponents boring.\nIt gets motivated for stronger opponents."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/013.ts",
+    "path": "attacks[0].name",
+    "en": "Darkest Lariat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Darkest Lariat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/013.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 2 coins. This attack does 100 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 2 coins. This attack does 100 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/012.ts",
+    "path": "name",
+    "en": "Torracat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Torracat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/012.ts",
+    "path": "evolveFrom",
+    "en": "Litten",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Litten"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/012.ts",
+    "path": "description",
+    "en": "Torracat will let its Trainer coddle it once they've\ngrown close, but it's a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Torracat will let its Trainer coddle it once they've\ngrown close, but it's a powerful, sharp-clawed\nPokémon, so its Trainer gets covered in scratches."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/012.ts",
+    "path": "attacks[0].name",
+    "en": "Claw Slash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Claw Slash"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/011.ts",
+    "path": "name",
+    "en": "Litten",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Litten"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/011.ts",
+    "path": "description",
+    "en": "If you try too hard to get close to it, it won't\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If you try too hard to get close to it, it won't\nopen up to you. Even if you do grow close,\ngiving it too much affection is still a no-no."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/011.ts",
+    "path": "attacks[0].name",
+    "en": "Flare",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flare"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/010.ts",
+    "path": "name",
+    "en": "Torkoal",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Torkoal"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/010.ts",
+    "path": "description",
+    "en": "It burns coal inside its shell for energy. It blows\nout black soot if it is endangered.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It burns coal inside its shell for energy. It blows\nout black soot if it is endangered."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/010.ts",
+    "path": "attacks[0].name",
+    "en": "Flamethrower",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flamethrower"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/010.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard a {R} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard a {R} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/009.ts",
+    "path": "name",
+    "en": "Flareon ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flareon ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/009.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/009.ts",
+    "path": "abilities[0].name",
+    "en": "Combust",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Combust"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/009.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/009.ts",
+    "path": "attacks[0].name",
+    "en": "Fire Spin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fire Spin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/009.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard 2 {R} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard 2 {R} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/008.ts",
+    "path": "name",
+    "en": "Flareon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flareon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/008.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/008.ts",
+    "path": "description",
+    "en": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Inhaled air is carried to its flame sac, heated, and\nexhaled as fire that reaches over 3,000 degrees\nFahrenheit."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/008.ts",
+    "path": "attacks[0].name",
+    "en": "Assisting Heater",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Assisting Heater"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/008.ts",
+    "path": "attacks[0].effect",
+    "en": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/007.ts",
+    "path": "name",
+    "en": "Appletun",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Appletun"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/007.ts",
+    "path": "evolveFrom",
+    "en": "Applin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Applin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/007.ts",
+    "path": "description",
+    "en": "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It feeds mainly on sweet apples. It will also eat\nsmall bug Pokémon that are attracted by its\nsweet nectar."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/007.ts",
+    "path": "attacks[0].name",
+    "en": "Sweets Relay",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sweets Relay"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/007.ts",
+    "path": "attacks[0].effect",
+    "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/006.ts",
+    "path": "name",
+    "en": "Applin",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Applin"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/006.ts",
+    "path": "description",
+    "en": "It grows by eating the flesh of an apple.\nApplin uses its own body fluid to strengthen\nthe apple's skin and prevent it from rotting.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It grows by eating the flesh of an apple.\nApplin uses its own body fluid to strengthen\nthe apple's skin and prevent it from rotting."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/006.ts",
+    "path": "attacks[0].name",
+    "en": "Ram",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ram"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+    "path": "name",
+    "en": "Tsareena",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tsareena"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+    "path": "evolveFrom",
+    "en": "Steenee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Steenee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+    "path": "description",
+    "en": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon is proud and aggressive. However, it is\nsaid that a Tsareena will instantly become calm if\nsomeone touches the crown on its calyx."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+    "path": "attacks[0].name",
+    "en": "Kick Down",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Kick Down"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent reveals a random card from their hand and shuffles it into their deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent reveals a random card from their hand and shuffles it into their deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/004.ts",
+    "path": "name",
+    "en": "Steenee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Steenee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/004.ts",
+    "path": "evolveFrom",
+    "en": "Bounsweet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bounsweet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/004.ts",
+    "path": "description",
+    "en": "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Steenee spreads a sweet scent that\nmakes others feel invigorated. This same\nscent is popular for antiperspirants."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/004.ts",
+    "path": "attacks[0].name",
+    "en": "Leaf Step",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leaf Step"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/003.ts",
+    "path": "name",
+    "en": "Bounsweet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bounsweet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/003.ts",
+    "path": "description",
+    "en": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/003.ts",
+    "path": "attacks[0].name",
+    "en": "Flop",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flop"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/002.ts",
+    "path": "name",
+    "en": "Leafeon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leafeon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/002.ts",
+    "path": "evolveFrom",
+    "en": "Eevee",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Eevee"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/002.ts",
+    "path": "description",
+    "en": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When you see Leafeon asleep in a patch of\nsunshine, you'll know it is using photosynthesis\nto produce clean air."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/002.ts",
+    "path": "attacks[0].name",
+    "en": "Leaf Blast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Leaf Blast"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/002.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 more damage for each {G} Energy attached to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 more damage for each {G} Energy attached to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/001.ts",
+    "path": "name",
+    "en": "Tropius",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tropius"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/001.ts",
+    "path": "description",
+    "en": "It lives in tropical jungles. The bunch of fruit\naround its neck is delicious. The fruit grows\ntwice a year.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It lives in tropical jungles. The bunch of fruit\naround its neck is delicious. The fruit grows\ntwice a year."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Eevee Grove/001.ts",
+    "path": "attacks[0].name",
+    "en": "Cutting Wind",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Cutting Wind"
+    }
+  }
+]

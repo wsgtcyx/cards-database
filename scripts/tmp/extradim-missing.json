@@ -1,0 +1,6498 @@
+[
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/103.ts",
+    "path": "name",
+    "en": "Nihilego",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Nihilego"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/103.ts",
+    "path": "description",
+    "en": "A life-form from another world, it was dubbed\na UB and is thought to produce a\nstrong neurotoxin.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A life-form from another world, it was dubbed\na UB and is thought to produce a\nstrong neurotoxin."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/103.ts",
+    "path": "abilities[0].name",
+    "en": "More Poison",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "More Poison"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/103.ts",
+    "path": "abilities[0].effect",
+    "en": "Your opponent's Active Pokémon takes +10 damage from being Poisoned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/103.ts",
+    "path": "attacks[0].name",
+    "en": "New Wave",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "New Wave"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/103.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/102.ts",
+    "path": "name",
+    "en": "Pidgeot ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pidgeot ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/102.ts",
+    "path": "evolveFrom",
+    "en": "Pidgeotto",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pidgeotto"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/102.ts",
+    "path": "attacks[0].name",
+    "en": "Scattering Cyclone",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Scattering Cyclone"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/102.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/101.ts",
+    "path": "name",
+    "en": "Aerodactyl ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aerodactyl ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/101.ts",
+    "path": "evolveFrom",
+    "en": "Old Amber",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Old Amber"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/101.ts",
+    "path": "abilities[0].name",
+    "en": "Primeval Law",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Primeval Law"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/101.ts",
+    "path": "abilities[0].effect",
+    "en": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/101.ts",
+    "path": "attacks[0].name",
+    "en": "Land Crush",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Land Crush"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/100.ts",
+    "path": "name",
+    "en": "Arcanine ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Arcanine ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/100.ts",
+    "path": "evolveFrom",
+    "en": "Growlithe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Growlithe"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/100.ts",
+    "path": "attacks[0].name",
+    "en": "Inferno Onrush",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Inferno Onrush"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/100.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon also does 20 damage to itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon also does 20 damage to itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/099.ts",
+    "path": "name",
+    "en": "Celebi ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Celebi ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/099.ts",
+    "path": "attacks[0].name",
+    "en": "Powerful Bloom",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Powerful Bloom"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/099.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/098.ts",
+    "path": "name",
+    "en": "Aerodactyl",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aerodactyl"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/098.ts",
+    "path": "evolveFrom",
+    "en": "Old Amber",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Old Amber"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/098.ts",
+    "path": "description",
+    "en": "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This is a ferocious Pokémon from ancient times.\nApparently even modern technology is incapable\nof producing a perfectly restored specimen."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/098.ts",
+    "path": "attacks[0].name",
+    "en": "Primal Wingbeat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Primal Wingbeat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/098.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, your opponent shuffles their Active Pokémon into their deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, your opponent shuffles their Active Pokémon into their deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/097.ts",
+    "path": "name",
+    "en": "Pidgeot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pidgeot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/097.ts",
+    "path": "evolveFrom",
+    "en": "Pidgeotto",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pidgeotto"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/097.ts",
+    "path": "description",
+    "en": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When hunting, it skims the surface of water\nat high speed to pick off unwary prey such\nas Magikarp."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/097.ts",
+    "path": "abilities[0].name",
+    "en": "Drive Off",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Drive Off"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/097.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/097.ts",
+    "path": "attacks[0].name",
+    "en": "Wing Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Wing Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/096.ts",
+    "path": "name",
+    "en": "Pidgeotto",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pidgeotto"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/096.ts",
+    "path": "evolveFrom",
+    "en": "Pidgey",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pidgey"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/096.ts",
+    "path": "description",
+    "en": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The claws on its feet are well developed.\nIt can carry prey such as an Exeggcute\nto its nest over 60 miles away."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/096.ts",
+    "path": "attacks[0].name",
+    "en": "Gust",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gust"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/095.ts",
+    "path": "name",
+    "en": "Pidgey",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pidgey"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/095.ts",
+    "path": "description",
+    "en": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A common sight in forests and woods. It flaps\nits wings at ground level to kick up blinding sand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/095.ts",
+    "path": "attacks[0].name",
+    "en": "Gust",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gust"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/094.ts",
+    "path": "name",
+    "en": "Jynx",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jynx"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/094.ts",
+    "path": "description",
+    "en": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its strange cries sound like human language.\nThere are some musicians who compose songs\nfor Jynx to sing."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/094.ts",
+    "path": "attacks[0].name",
+    "en": "Psychic",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Psychic"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/094.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/093.ts",
+    "path": "name",
+    "en": "Greninja",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Greninja"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/093.ts",
+    "path": "evolveFrom",
+    "en": "Frogadier",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Frogadier"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/093.ts",
+    "path": "description",
+    "en": "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/093.ts",
+    "path": "abilities[0].name",
+    "en": "Water Shuriken",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Water Shuriken"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/093.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/093.ts",
+    "path": "attacks[0].name",
+    "en": "Mist Slash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mist Slash"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/092.ts",
+    "path": "name",
+    "en": "Frogadier",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Frogadier"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/092.ts",
+    "path": "evolveFrom",
+    "en": "Froakie",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Froakie"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/092.ts",
+    "path": "description",
+    "en": "It can throw bubble-covered pebbles with precise\ncontrol, hitting empty cans up to a hundred feet away.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It can throw bubble-covered pebbles with precise\ncontrol, hitting empty cans up to a hundred feet away."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/092.ts",
+    "path": "attacks[0].name",
+    "en": "Water Drip",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Water Drip"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/091.ts",
+    "path": "name",
+    "en": "Froakie",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Froakie"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/091.ts",
+    "path": "description",
+    "en": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It secretes flexible bubbles from its chest and back.\nThe bubbles reduce the damage it would otherwise\ntake when attacked."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/091.ts",
+    "path": "attacks[0].name",
+    "en": "Flop",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flop"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/090.ts",
+    "path": "name",
+    "en": "Arcanine",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Arcanine"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/090.ts",
+    "path": "evolveFrom",
+    "en": "Growlithe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Growlithe"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/090.ts",
+    "path": "description",
+    "en": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "An ancient picture scroll shows that people\nwere captivated by its movement as it ran\nthrough prairies."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/090.ts",
+    "path": "attacks[0].name",
+    "en": "Heat Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heat Tackle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/090.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon also does 20 damage to itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon also does 20 damage to itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/089.ts",
+    "path": "name",
+    "en": "Growlithe",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Growlithe"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/089.ts",
+    "path": "description",
+    "en": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It has a brave and trustworthy nature. It fearlessly\nstands up to bigger and stronger foes."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/089.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/088.ts",
+    "path": "name",
+    "en": "Buzzwole ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Buzzwole ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/088.ts",
+    "path": "attacks[0].name",
+    "en": "Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/088.ts",
+    "path": "attacks[1].name",
+    "en": "Big Beat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Big Beat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/088.ts",
+    "path": "attacks[1].effect",
+    "en": "During your next turn, this Pokémon can't use Big Beat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your next turn, this Pokémon can't use Big Beat."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/087.ts",
+    "path": "name",
+    "en": "Alolan Dugtrio ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Dugtrio ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/087.ts",
+    "path": "evolveFrom",
+    "en": "Alolan Diglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Diglett"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/087.ts",
+    "path": "attacks[0].name",
+    "en": "Triplet Headbutt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Triplet Headbutt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/087.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 3 coins. This attack does 60 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 3 coins. This attack does 60 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/086.ts",
+    "path": "name",
+    "en": "Guzzlord ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Guzzlord ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/086.ts",
+    "path": "attacks[0].name",
+    "en": "Grindcore",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Grindcore"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/086.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/086.ts",
+    "path": "attacks[1].name",
+    "en": "Tyrannical Hole",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tyrannical Hole"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/085.ts",
+    "path": "name",
+    "en": "Lycanroc ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lycanroc ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/085.ts",
+    "path": "evolveFrom",
+    "en": "Rockruff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rockruff"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/085.ts",
+    "path": "attacks[0].name",
+    "en": "Lycanfang",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lycanfang"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/085.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard a {F} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard a {F} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/084.ts",
+    "path": "name",
+    "en": "Tapu Koko ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tapu Koko ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/084.ts",
+    "path": "attacks[0].name",
+    "en": "Plasma Hurricane",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Plasma Hurricane"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/084.ts",
+    "path": "attacks[0].effect",
+    "en": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/084.ts",
+    "path": "attacks[1].name",
+    "en": "Mach Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mach Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/083.ts",
+    "path": "name",
+    "en": "Lusamine",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lusamine"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/083.ts",
+    "path": "effect",
+    "en": "You can use this card only if your opponent has gotten at least 1 point.\n\nChoose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "You can use this card only if your opponent has gotten at least 1 point.\n\nChoose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/082.ts",
+    "path": "name",
+    "en": "Looker",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Looker"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/082.ts",
+    "path": "effect",
+    "en": "Your opponent reveals all of the Supporter cards in their deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent reveals all of the Supporter cards in their deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/081.ts",
+    "path": "name",
+    "en": "Gladion",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gladion"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/081.ts",
+    "path": "effect",
+    "en": "Put 1 random Type: Null or Silvally from your deck into your hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Put 1 random Type: Null or Silvally from your deck into your hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/080.ts",
+    "path": "name",
+    "en": "Alolan Dugtrio ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Dugtrio ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/080.ts",
+    "path": "evolveFrom",
+    "en": "Alolan Diglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Diglett"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/080.ts",
+    "path": "attacks[0].name",
+    "en": "Triplet Headbutt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Triplet Headbutt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/080.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 3 coins. This attack does 60 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 3 coins. This attack does 60 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/079.ts",
+    "path": "name",
+    "en": "Guzzlord ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Guzzlord ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/079.ts",
+    "path": "attacks[0].name",
+    "en": "Grindcore",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Grindcore"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/079.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/079.ts",
+    "path": "attacks[1].name",
+    "en": "Tyrannical Hole",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tyrannical Hole"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/078.ts",
+    "path": "name",
+    "en": "Lycanroc ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lycanroc ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/078.ts",
+    "path": "evolveFrom",
+    "en": "Rockruff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rockruff"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/078.ts",
+    "path": "attacks[0].name",
+    "en": "Lycanfang",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lycanfang"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/078.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard a {F} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard a {F} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/077.ts",
+    "path": "name",
+    "en": "Tapu Koko ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tapu Koko ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/077.ts",
+    "path": "attacks[0].name",
+    "en": "Plasma Hurricane",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Plasma Hurricane"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/077.ts",
+    "path": "attacks[0].effect",
+    "en": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/077.ts",
+    "path": "attacks[1].name",
+    "en": "Mach Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mach Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/076.ts",
+    "path": "name",
+    "en": "Buzzwole ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Buzzwole ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/076.ts",
+    "path": "attacks[0].name",
+    "en": "Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/076.ts",
+    "path": "attacks[1].name",
+    "en": "Big Beat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Big Beat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/076.ts",
+    "path": "attacks[1].effect",
+    "en": "During your next turn, this Pokémon can't use Big Beat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your next turn, this Pokémon can't use Big Beat."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/075.ts",
+    "path": "name",
+    "en": "Celesteela",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Celesteela"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/075.ts",
+    "path": "description",
+    "en": "One of the dangerous UBs, high energy readings\ncan be detected coming from both of its\nhuge arms.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "One of the dangerous UBs, high energy readings\ncan be detected coming from both of its\nhuge arms."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/075.ts",
+    "path": "abilities[0].name",
+    "en": "Ultra Thrusters",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ultra Thrusters"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/075.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/075.ts",
+    "path": "attacks[0].name",
+    "en": "Moombahton",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Moombahton"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/075.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If tails, this attack does nothing."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/074.ts",
+    "path": "name",
+    "en": "Silvally",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Silvally"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/074.ts",
+    "path": "evolveFrom",
+    "en": "Type: Null",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Type: Null"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/074.ts",
+    "path": "description",
+    "en": "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/074.ts",
+    "path": "attacks[0].name",
+    "en": "Brave Buddies",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Brave Buddies"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/074.ts",
+    "path": "attacks[0].effect",
+    "en": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+    "path": "name",
+    "en": "Alolan Meowth",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Meowth"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+    "path": "description",
+    "en": "It's accustomed to luxury because it\nused to live with Alolan royalty. As a\nresult, it's very picky about food.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It's accustomed to luxury because it\nused to live with Alolan royalty. As a\nresult, it's very picky about food."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+    "path": "attacks[0].name",
+    "en": "Meddle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Meddle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard a random Pokémon Tool card from your opponent's hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard a random Pokémon Tool card from your opponent's hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/072.ts",
+    "path": "name",
+    "en": "Blacephalon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blacephalon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/072.ts",
+    "path": "description",
+    "en": "It slithers toward people. Then, without warning, it triggers the\nexplosion of its own head. It's apparently one kind of Ultra Beast.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It slithers toward people. Then, without warning, it triggers the\nexplosion of its own head. It's apparently one kind of Ultra Beast."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/072.ts",
+    "path": "attacks[0].name",
+    "en": "Beat Punk",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Beat Punk"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/072.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon also does 70 damage to itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon also does 70 damage to itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/071.ts",
+    "path": "name",
+    "en": "Pheromosa",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pheromosa"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/071.ts",
+    "path": "description",
+    "en": "A life-form that lives in another world, its body\nis thin and supple, but it also possesses\ngreat power.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A life-form that lives in another world, its body\nis thin and supple, but it also possesses\ngreat power."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/071.ts",
+    "path": "attacks[0].name",
+    "en": "Jump Blues",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jump Blues"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/071.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/070.ts",
+    "path": "name",
+    "en": "Rowlet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rowlet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/070.ts",
+    "path": "description",
+    "en": "It sends its feathers, which are as sharp\nas blades, flying in attack. Its legs are strong,\nso its kicks are also formidable.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It sends its feathers, which are as sharp\nas blades, flying in attack. Its legs are strong,\nso its kicks are also formidable."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/070.ts",
+    "path": "attacks[0].name",
+    "en": "Fury Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fury Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/070.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 3 coins. This attack does 10 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 3 coins. This attack does 10 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/069.ts",
+    "path": "name",
+    "en": "Lusamine",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lusamine"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/069.ts",
+    "path": "effect",
+    "en": "You can use this card only if your opponent has gotten at least 1 point.\n\nChoose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "You can use this card only if your opponent has gotten at least 1 point.\n\nChoose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/068.ts",
+    "path": "name",
+    "en": "Looker",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Looker"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/068.ts",
+    "path": "effect",
+    "en": "Your opponent reveals all of the Supporter cards in their deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent reveals all of the Supporter cards in their deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/067.ts",
+    "path": "name",
+    "en": "Gladion",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gladion"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/067.ts",
+    "path": "effect",
+    "en": "Put 1 random Type: Null or Silvally from your deck into your hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Put 1 random Type: Null or Silvally from your deck into your hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/066.ts",
+    "path": "name",
+    "en": "Beastite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Beastite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/066.ts",
+    "path": "effect",
+    "en": "Attacks used by the Ultra Beast this card is attached to do +10 damage to your opponent's Active Pokémon for each point you have gotten.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Attacks used by the Ultra Beast this card is attached to do +10 damage to your opponent's Active Pokémon for each point you have gotten."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/065.ts",
+    "path": "name",
+    "en": "Electrical Cord",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Electrical Cord"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/065.ts",
+    "path": "effect",
+    "en": "If the {L} Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 {L} Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If the {L} Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 {L} Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/064.ts",
+    "path": "name",
+    "en": "Repel",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Repel"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/064.ts",
+    "path": "effect",
+    "en": "Switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/063.ts",
+    "path": "name",
+    "en": "Beast Wall",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Beast Wall"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/063.ts",
+    "path": "effect",
+    "en": "You can use this card only if your opponent hasn't gotten any points.\n\nDuring your opponent's next turn, all of your Ultra Beasts take −20 damage from attacks from your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "You can use this card only if your opponent hasn't gotten any points.\n\nDuring your opponent's next turn, all of your Ultra Beasts take −20 damage from attacks from your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/062.ts",
+    "path": "name",
+    "en": "Celesteela",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Celesteela"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/062.ts",
+    "path": "description",
+    "en": "One of the dangerous UBs, high energy readings\ncan be detected coming from both of its\nhuge arms.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "One of the dangerous UBs, high energy readings\ncan be detected coming from both of its\nhuge arms."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/062.ts",
+    "path": "abilities[0].name",
+    "en": "Ultra Thrusters",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ultra Thrusters"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/062.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/062.ts",
+    "path": "attacks[0].name",
+    "en": "Moombahton",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Moombahton"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/062.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If tails, this attack does nothing."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/061.ts",
+    "path": "name",
+    "en": "Silvally",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Silvally"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/061.ts",
+    "path": "evolveFrom",
+    "en": "Type: Null",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Type: Null"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/061.ts",
+    "path": "description",
+    "en": "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This is its form once it has awakened and\nevolved. Freed from its heavy mask, its speed is\ngreatly increased."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/061.ts",
+    "path": "attacks[0].name",
+    "en": "Brave Buddies",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Brave Buddies"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/061.ts",
+    "path": "attacks[0].effect",
+    "en": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/060.ts",
+    "path": "name",
+    "en": "Type: Null",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Type: Null"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/060.ts",
+    "path": "description",
+    "en": "A Pokémon weapon developed for a specific\nmission, it went berserk during an experiment,\nso it was cryogenically frozen.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A Pokémon weapon developed for a specific\nmission, it went berserk during an experiment,\nso it was cryogenically frozen."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/060.ts",
+    "path": "attacks[0].name",
+    "en": "Quick Blow",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Quick Blow"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/060.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/059.ts",
+    "path": "name",
+    "en": "Oranguru",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Oranguru"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/059.ts",
+    "path": "description",
+    "en": "It normally spends its time meditating in the\ntreetops. It throws Poké Balls and gives other\nPokémon orders as it pleases.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It normally spends its time meditating in the\ntreetops. It throws Poké Balls and gives other\nPokémon orders as it pleases."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/059.ts",
+    "path": "attacks[0].name",
+    "en": "Hammer In",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hammer In"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/058.ts",
+    "path": "name",
+    "en": "Bewear",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bewear"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/058.ts",
+    "path": "evolveFrom",
+    "en": "Stufful",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stufful"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/058.ts",
+    "path": "description",
+    "en": "Once it accepts you as a friend, it tries to show\nits affection with a hug. Letting it do that is\ndangerous—it could easily shatter your bones.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once it accepts you as a friend, it tries to show\nits affection with a hug. Letting it do that is\ndangerous—it could easily shatter your bones."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/058.ts",
+    "path": "attacks[0].name",
+    "en": "Superpowered Hug",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Superpowered Hug"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/058.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/057.ts",
+    "path": "name",
+    "en": "Stufful",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stufful"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/057.ts",
+    "path": "description",
+    "en": "Its fluffy fur is a delight to pet, but carelessly reaching out\nto touch this Pokémon could result in painful retaliation.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its fluffy fur is a delight to pet, but carelessly reaching out\nto touch this Pokémon could result in painful retaliation."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/057.ts",
+    "path": "attacks[0].name",
+    "en": "Ram",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ram"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/056.ts",
+    "path": "name",
+    "en": "Stoutland",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stoutland"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/056.ts",
+    "path": "evolveFrom",
+    "en": "Herdier",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Herdier"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/056.ts",
+    "path": "description",
+    "en": "These Pokémon seem to enjoy living with humans.\nEven a Stoutland caught in the wild will warm up\nto people in about three days.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "These Pokémon seem to enjoy living with humans.\nEven a Stoutland caught in the wild will warm up\nto people in about three days."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/056.ts",
+    "path": "abilities[0].name",
+    "en": "Guard Dog Visage",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Guard Dog Visage"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/056.ts",
+    "path": "abilities[0].effect",
+    "en": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1 {C} more.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1 {C} more."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/056.ts",
+    "path": "attacks[0].name",
+    "en": "Sharp Fang",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sharp Fang"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/055.ts",
+    "path": "name",
+    "en": "Herdier",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Herdier"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/055.ts",
+    "path": "evolveFrom",
+    "en": "Lillipup",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lillipup"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/055.ts",
+    "path": "description",
+    "en": "Herdier is a very smart and friendly Pokémon.\nSo much so that there's a theory that Herdier was\nthe first Pokémon to partner with people.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Herdier is a very smart and friendly Pokémon.\nSo much so that there's a theory that Herdier was\nthe first Pokémon to partner with people."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/055.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/054.ts",
+    "path": "name",
+    "en": "Lillipup",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lillipup"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/054.ts",
+    "path": "description",
+    "en": "This Pokémon is courageous but also cautious.\nIt uses the soft fur covering its face to collect\ninformation about its surroundings.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon is courageous but also cautious.\nIt uses the soft fur covering its face to collect\ninformation about its surroundings."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/054.ts",
+    "path": "attacks[0].name",
+    "en": "Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tackle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/053.ts",
+    "path": "name",
+    "en": "Stakataka",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Stakataka"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/053.ts",
+    "path": "description",
+    "en": "It appeared from an Ultra Wormhole. Each one\nappears to be made up of many life-forms\nstacked one on top of each other.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It appeared from an Ultra Wormhole. Each one\nappears to be made up of many life-forms\nstacked one on top of each other."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/053.ts",
+    "path": "attacks[0].name",
+    "en": "Brass Rock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Brass Rock"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/053.ts",
+    "path": "attacks[0].effect",
+    "en": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/052.ts",
+    "path": "name",
+    "en": "Ferrothorn",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ferrothorn"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/052.ts",
+    "path": "evolveFrom",
+    "en": "Ferroseed",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ferroseed"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/052.ts",
+    "path": "description",
+    "en": "This Pokémon scrapes its spikes across rocks,\nand then uses the tips of its feelers to absorb\nthe nutrients it finds within the stone.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon scrapes its spikes across rocks,\nand then uses the tips of its feelers to absorb\nthe nutrients it finds within the stone."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/052.ts",
+    "path": "abilities[0].name",
+    "en": "Steel Spikes",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Steel Spikes"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/052.ts",
+    "path": "abilities[0].effect",
+    "en": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/052.ts",
+    "path": "attacks[0].name",
+    "en": "Spinning Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Spinning Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/051.ts",
+    "path": "name",
+    "en": "Ferroseed",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Ferroseed"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/051.ts",
+    "path": "description",
+    "en": "It absorbs the iron it finds in the rock while clinging\nto the ceiling. It shoots spikes when in danger.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It absorbs the iron it finds in the rock while clinging\nto the ceiling. It shoots spikes when in danger."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/051.ts",
+    "path": "attacks[0].name",
+    "en": "Spike Sting",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Spike Sting"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/050.ts",
+    "path": "name",
+    "en": "Aggron",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aggron"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/050.ts",
+    "path": "evolveFrom",
+    "en": "Lairon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lairon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/050.ts",
+    "path": "description",
+    "en": "Aggron has a horn sharp enough to perforate\nthick iron sheets. It brings down its opponents by\nramming into them horn first.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aggron has a horn sharp enough to perforate\nthick iron sheets. It brings down its opponents by\nramming into them horn first."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/050.ts",
+    "path": "attacks[0].name",
+    "en": "Giga Impact",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Giga Impact"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/050.ts",
+    "path": "attacks[0].effect",
+    "en": "During your next turn, this Pokémon can't attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your next turn, this Pokémon can't attack."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/049.ts",
+    "path": "name",
+    "en": "Lairon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lairon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/049.ts",
+    "path": "evolveFrom",
+    "en": "Aron",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aron"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/049.ts",
+    "path": "description",
+    "en": "It loves iron ore. Groups of them fight for territory\nby bashing one another with their steel bodies.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It loves iron ore. Groups of them fight for territory\nby bashing one another with their steel bodies."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/049.ts",
+    "path": "attacks[0].name",
+    "en": "Lunge Out",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lunge Out"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/048.ts",
+    "path": "name",
+    "en": "Aron",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Aron"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/048.ts",
+    "path": "description",
+    "en": "It eats iron ore—and sometimes railroad tracks—\nto build up the steel armor that protects its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It eats iron ore—and sometimes railroad tracks—\nto build up the steel armor that protects its body."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/048.ts",
+    "path": "attacks[0].name",
+    "en": "Headbutt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Headbutt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/047.ts",
+    "path": "name",
+    "en": "Alolan Dugtrio ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Dugtrio ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/047.ts",
+    "path": "evolveFrom",
+    "en": "Alolan Diglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Diglett"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/047.ts",
+    "path": "attacks[0].name",
+    "en": "Triplet Headbutt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Triplet Headbutt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/047.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 3 coins. This attack does 60 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 3 coins. This attack does 60 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/046.ts",
+    "path": "name",
+    "en": "Alolan Diglett",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Diglett"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/046.ts",
+    "path": "description",
+    "en": "The metal-rich geology of this Pokémon's habitat\ncaused it to develop steel whiskers on its head.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The metal-rich geology of this Pokémon's habitat\ncaused it to develop steel whiskers on its head."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/046.ts",
+    "path": "attacks[0].name",
+    "en": "Happened to Headbutt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Happened to Headbutt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/046.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If tails, this attack does nothing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If tails, this attack does nothing."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/045.ts",
+    "path": "name",
+    "en": "Naganadel",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Naganadel"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/045.ts",
+    "path": "evolveFrom",
+    "en": "Poipole",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poipole"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/045.ts",
+    "path": "description",
+    "en": "It stores hundreds of liters of poisonous liquid\ninside its body. It is one of the organisms known\nas UBs.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It stores hundreds of liters of poisonous liquid\ninside its body. It is one of the organisms known\nas UBs."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/045.ts",
+    "path": "attacks[0].name",
+    "en": "Electro House",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Electro House"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/045.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/044.ts",
+    "path": "name",
+    "en": "Poipole",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poipole"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/044.ts",
+    "path": "description",
+    "en": "This Ultra Beast is well enough liked to be\nchosen as a first partner in its own world.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Ultra Beast is well enough liked to be\nchosen as a first partner in its own world."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/044.ts",
+    "path": "attacks[0].name",
+    "en": "2-Step",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "2-Step"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/044.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 2 coins. This attack does 20 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 2 coins. This attack does 20 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/043.ts",
+    "path": "name",
+    "en": "Guzzlord ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Guzzlord ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/043.ts",
+    "path": "attacks[0].name",
+    "en": "Grindcore",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Grindcore"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/043.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/043.ts",
+    "path": "attacks[1].name",
+    "en": "Tyrannical Hole",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tyrannical Hole"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/042.ts",
+    "path": "name",
+    "en": "Nihilego",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Nihilego"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/042.ts",
+    "path": "description",
+    "en": "A life-form from another world, it was dubbed\na UB and is thought to produce a\nstrong neurotoxin.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A life-form from another world, it was dubbed\na UB and is thought to produce a\nstrong neurotoxin."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/042.ts",
+    "path": "abilities[0].name",
+    "en": "More Poison",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "More Poison"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/042.ts",
+    "path": "abilities[0].effect",
+    "en": "Your opponent's Active Pokémon takes +10 damage from being Poisoned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/042.ts",
+    "path": "attacks[0].name",
+    "en": "New Wave",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "New Wave"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/042.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Poisoned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/041.ts",
+    "path": "name",
+    "en": "Krookodile",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Krookodile"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/041.ts",
+    "path": "evolveFrom",
+    "en": "Krokorok",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Krokorok"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/041.ts",
+    "path": "description",
+    "en": "After clamping down with its powerful jaws, it\ntwists its body around to rip its prey in half.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "After clamping down with its powerful jaws, it\ntwists its body around to rip its prey in half."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/041.ts",
+    "path": "attacks[0].name",
+    "en": "Poaching Fangs",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Poaching Fangs"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/041.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/040.ts",
+    "path": "name",
+    "en": "Krokorok",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Krokorok"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/040.ts",
+    "path": "evolveFrom",
+    "en": "Sandile",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sandile"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/040.ts",
+    "path": "description",
+    "en": "Protected by thin membranes, their eyes can see\neven in the dead of night. They live in groups of\na few individuals.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Protected by thin membranes, their eyes can see\neven in the dead of night. They live in groups of\na few individuals."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/040.ts",
+    "path": "attacks[0].name",
+    "en": "Light Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Light Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/039.ts",
+    "path": "name",
+    "en": "Sandile",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sandile"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/039.ts",
+    "path": "description",
+    "en": "It submerges itself in sand and moves as if\nswimming. This wise behavior keeps its enemies\nfrom finding it and maintains its temperature.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It submerges itself in sand and moves as if\nswimming. This wise behavior keeps its enemies\nfrom finding it and maintains its temperature."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/039.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/038.ts",
+    "path": "name",
+    "en": "Alolan Persian",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Persian"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/038.ts",
+    "path": "evolveFrom",
+    "en": "Alolan Meowth",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Meowth"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/038.ts",
+    "path": "description",
+    "en": "The round face of Alolan Persian is considered\nto be a symbol of prosperity in the Alola region,\nso these Pokémon are very well cared for.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The round face of Alolan Persian is considered\nto be a symbol of prosperity in the Alola region,\nso these Pokémon are very well cared for."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/038.ts",
+    "path": "attacks[0].name",
+    "en": "Fake Out",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fake Out"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/038.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+    "path": "name",
+    "en": "Alolan Meowth",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Alolan Meowth"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+    "path": "description",
+    "en": "It's accustomed to luxury because it\nused to live with Alolan royalty. As a\nresult, it's very picky about food.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It's accustomed to luxury because it\nused to live with Alolan royalty. As a\nresult, it's very picky about food."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+    "path": "attacks[0].name",
+    "en": "Meddle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Meddle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard a random Pokémon Tool card from your opponent's hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard a random Pokémon Tool card from your opponent's hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/036.ts",
+    "path": "name",
+    "en": "Palossand",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Palossand"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/036.ts",
+    "path": "evolveFrom",
+    "en": "Sandygast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sandygast"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/036.ts",
+    "path": "description",
+    "en": "The terrifying Palossand drags smaller Pokémon\ninto its sandy body. Once its victims are trapped,\nit drains them of their vitality whenever it pleases.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The terrifying Palossand drags smaller Pokémon\ninto its sandy body. Once its victims are trapped,\nit drains them of their vitality whenever it pleases."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/036.ts",
+    "path": "attacks[0].name",
+    "en": "Sand Tomb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sand Tomb"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/036.ts",
+    "path": "attacks[0].effect",
+    "en": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/035.ts",
+    "path": "name",
+    "en": "Sandygast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sandygast"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/035.ts",
+    "path": "description",
+    "en": "If it loses its shovel, it will stick something\nelse—like a branch—in its head to make\ndo until it finds another shovel.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If it loses its shovel, it will stick something\nelse—like a branch—in its head to make\ndo until it finds another shovel."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/035.ts",
+    "path": "attacks[0].name",
+    "en": "Sandy Shot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sandy Shot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/034.ts",
+    "path": "name",
+    "en": "Passimian",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Passimian"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/034.ts",
+    "path": "description",
+    "en": "This Pokémon battles by throwing hard berries.\nIt won't obey a Trainer who throws Poké Balls\nwithout skill.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon battles by throwing hard berries.\nIt won't obey a Trainer who throws Poké Balls\nwithout skill."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/034.ts",
+    "path": "attacks[0].name",
+    "en": "Let's Throw",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Let's Throw"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/034.ts",
+    "path": "attacks[0].effect",
+    "en": "If Passimian is on your Bench, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If Passimian is on your Bench, this attack does 40 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/033.ts",
+    "path": "name",
+    "en": "Lycanroc ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lycanroc ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/033.ts",
+    "path": "evolveFrom",
+    "en": "Rockruff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rockruff"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/033.ts",
+    "path": "attacks[0].name",
+    "en": "Lycanfang",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lycanfang"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/033.ts",
+    "path": "attacks[0].effect",
+    "en": "Discard a {F} Energy from this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Discard a {F} Energy from this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/032.ts",
+    "path": "name",
+    "en": "Rockruff",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rockruff"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/032.ts",
+    "path": "description",
+    "en": "This Pokémon is very friendly when it's young.\nIts disposition becomes vicious once it matures,\nbut it never forgets the kindness of its master.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon is very friendly when it's young.\nIts disposition becomes vicious once it matures,\nbut it never forgets the kindness of its master."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/032.ts",
+    "path": "attacks[0].name",
+    "en": "Rock Throw",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rock Throw"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/031.ts",
+    "path": "name",
+    "en": "Claydol",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Claydol"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/031.ts",
+    "path": "evolveFrom",
+    "en": "Baltoy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Baltoy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/031.ts",
+    "path": "description",
+    "en": "This mysterious Pokémon started life as an ancient\nclay figurine made over 20,000 years ago.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This mysterious Pokémon started life as an ancient\nclay figurine made over 20,000 years ago."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/031.ts",
+    "path": "abilities[0].name",
+    "en": "Heal Block",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Heal Block"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/031.ts",
+    "path": "abilities[0].effect",
+    "en": "Pokémon (both yours and your opponent's) can't be healed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pokémon (both yours and your opponent's) can't be healed."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/031.ts",
+    "path": "attacks[0].name",
+    "en": "Power Beam",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Power Beam"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/030.ts",
+    "path": "name",
+    "en": "Baltoy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Baltoy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/030.ts",
+    "path": "description",
+    "en": "It moves while spinning around on its single foot.\nSome Baltoy have been seen spinning on\ntheir heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It moves while spinning around on its single foot.\nSome Baltoy have been seen spinning on\ntheir heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/030.ts",
+    "path": "attacks[0].name",
+    "en": "Spinning Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Spinning Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/029.ts",
+    "path": "name",
+    "en": "Medicham",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Medicham"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/029.ts",
+    "path": "evolveFrom",
+    "en": "Meditite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Meditite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/029.ts",
+    "path": "description",
+    "en": "Through yoga training, it gained the psychic\npower to predict its foe's next move.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Through yoga training, it gained the psychic\npower to predict its foe's next move."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/029.ts",
+    "path": "attacks[0].name",
+    "en": "High Jump Kick",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "High Jump Kick"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/028.ts",
+    "path": "name",
+    "en": "Meditite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Meditite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/028.ts",
+    "path": "description",
+    "en": "It never skips its daily yoga training. It heightens\nits inner strength through meditation.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It never skips its daily yoga training. It heightens\nits inner strength through meditation."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/028.ts",
+    "path": "attacks[0].name",
+    "en": "Trip Over",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Trip Over"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/028.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, this attack does 20 more damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/027.ts",
+    "path": "name",
+    "en": "Shiinotic",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Shiinotic"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/027.ts",
+    "path": "evolveFrom",
+    "en": "Morelull",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Morelull"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/027.ts",
+    "path": "description",
+    "en": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Its flickering spores lure in prey and put them to\nsleep. Once this Pokémon has its prey snoozing,\nit drains their vitality with its fingertips."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/027.ts",
+    "path": "abilities[0].name",
+    "en": "Illuminate",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Illuminate"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/027.ts",
+    "path": "abilities[0].effect",
+    "en": "Once during your turn, you may put a random Pokémon from your deck into your hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Once during your turn, you may put a random Pokémon from your deck into your hand."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/027.ts",
+    "path": "attacks[0].name",
+    "en": "Gentle Slap",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Gentle Slap"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/026.ts",
+    "path": "name",
+    "en": "Morelull",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Morelull"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/026.ts",
+    "path": "description",
+    "en": "It scatters spores that flicker and glow. Anyone\nseeing these lights falls into a deep slumber.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It scatters spores that flicker and glow. Anyone\nseeing these lights falls into a deep slumber."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/026.ts",
+    "path": "attacks[0].name",
+    "en": "Hook",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Hook"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/025.ts",
+    "path": "name",
+    "en": "Trevenant",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Trevenant"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/025.ts",
+    "path": "evolveFrom",
+    "en": "Phantump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Phantump"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/025.ts",
+    "path": "description",
+    "en": "People fear it due to a belief that it devours any\nwho try to cut down trees in its forest, but to the\nPokémon it shares its woods with, it's kind.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "People fear it due to a belief that it devours any\nwho try to cut down trees in its forest, but to the\nPokémon it shares its woods with, it's kind."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/025.ts",
+    "path": "attacks[0].name",
+    "en": "Wrack Down",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Wrack Down"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/024.ts",
+    "path": "name",
+    "en": "Phantump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Phantump"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/024.ts",
+    "path": "description",
+    "en": "With a voice like a human child's, it cries out to\nlure adults deep into the forest, getting them lost\namong the trees.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "With a voice like a human child's, it cries out to\nlure adults deep into the forest, getting them lost\namong the trees."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/024.ts",
+    "path": "attacks[0].name",
+    "en": "Spooky Shot",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Spooky Shot"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/023.ts",
+    "path": "name",
+    "en": "Clefable",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Clefable"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/023.ts",
+    "path": "evolveFrom",
+    "en": "Clefairy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Clefairy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/023.ts",
+    "path": "description",
+    "en": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/023.ts",
+    "path": "attacks[0].name",
+    "en": "Moon Kick",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Moon Kick"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/022.ts",
+    "path": "name",
+    "en": "Clefairy",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Clefairy"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/022.ts",
+    "path": "description",
+    "en": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It is said that happiness will come to those who\nsee a gathering of Clefairy dancing under a\nfull moon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/022.ts",
+    "path": "attacks[0].name",
+    "en": "Pound",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pound"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/021.ts",
+    "path": "name",
+    "en": "Zeraora",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zeraora"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/021.ts",
+    "path": "description",
+    "en": "It electrifies its claws and tears its opponents\napart with them. Even if they dodge its attack,\nthey'll be electrocuted by the flying sparks.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It electrifies its claws and tears its opponents\napart with them. Even if they dodge its attack,\nthey'll be electrocuted by the flying sparks."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/021.ts",
+    "path": "abilities[0].name",
+    "en": "Thunderclap Flash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Thunderclap Flash"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/021.ts",
+    "path": "abilities[0].effect",
+    "en": "At the end of your first turn, take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "At the end of your first turn, take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/021.ts",
+    "path": "attacks[0].name",
+    "en": "Lightning Claw",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lightning Claw"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/020.ts",
+    "path": "name",
+    "en": "Xurkitree",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Xurkitree"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/020.ts",
+    "path": "description",
+    "en": "Although it's alien to this world and a danger here, it's apparently\na common organism in the world where it normally lives.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Although it's alien to this world and a danger here, it's apparently\na common organism in the world where it normally lives."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/020.ts",
+    "path": "attacks[0].name",
+    "en": "Electronica",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Electronica"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/020.ts",
+    "path": "attacks[0].effect",
+    "en": "Your opponent's Active Pokémon is now Confused.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Your opponent's Active Pokémon is now Confused."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/019.ts",
+    "path": "name",
+    "en": "Tapu Koko ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Tapu Koko ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/019.ts",
+    "path": "attacks[0].name",
+    "en": "Plasma Hurricane",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Plasma Hurricane"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/019.ts",
+    "path": "attacks[0].effect",
+    "en": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/019.ts",
+    "path": "attacks[1].name",
+    "en": "Mach Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mach Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/018.ts",
+    "path": "name",
+    "en": "Emolga",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Emolga"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/018.ts",
+    "path": "description",
+    "en": "As Emolga flutters through the air, it crackles\nwith electricity. This Pokémon is cute, but it can\ncause a lot of trouble.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "As Emolga flutters through the air, it crackles\nwith electricity. This Pokémon is cute, but it can\ncause a lot of trouble."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/018.ts",
+    "path": "attacks[0].name",
+    "en": "Static Shock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Static Shock"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/017.ts",
+    "path": "name",
+    "en": "Zebstrika",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Zebstrika"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/017.ts",
+    "path": "evolveFrom",
+    "en": "Blitzle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blitzle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/017.ts",
+    "path": "description",
+    "en": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When this ill-tempered Pokémon runs wild, it\nshoots lightning from its mane in all directions."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/017.ts",
+    "path": "attacks[0].name",
+    "en": "Head Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Head Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/016.ts",
+    "path": "name",
+    "en": "Blitzle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blitzle"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/016.ts",
+    "path": "description",
+    "en": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "When thunderclouds cover the sky, it will appear.\nIt can catch lightning with its mane and store\nthe electricity."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/016.ts",
+    "path": "attacks[0].name",
+    "en": "Rear Kick",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rear Kick"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/015.ts",
+    "path": "name",
+    "en": "Luxray",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Luxray"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/015.ts",
+    "path": "evolveFrom",
+    "en": "Luxio",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Luxio"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/015.ts",
+    "path": "description",
+    "en": "It can see clearly through walls to track down its\nprey and seek its lost young.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It can see clearly through walls to track down its\nprey and seek its lost young."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/015.ts",
+    "path": "abilities[0].name",
+    "en": "Intimidating Fang",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Intimidating Fang"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/015.ts",
+    "path": "abilities[0].effect",
+    "en": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/015.ts",
+    "path": "attacks[0].name",
+    "en": "Electric Ball",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Electric Ball"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/014.ts",
+    "path": "name",
+    "en": "Luxio",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Luxio"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/014.ts",
+    "path": "evolveFrom",
+    "en": "Shinx",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Shinx"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/014.ts",
+    "path": "description",
+    "en": "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Strong electricity courses through the tips of\nits sharp claws. A light scratch causes fainting\nin foes."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/014.ts",
+    "path": "attacks[0].name",
+    "en": "Head Bolt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Head Bolt"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/013.ts",
+    "path": "name",
+    "en": "Shinx",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Shinx"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/013.ts",
+    "path": "description",
+    "en": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The extension and contraction of its muscles\ngenerates electricity. It glows when in trouble."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/013.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+    "path": "name",
+    "en": "Sharpedo",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sharpedo"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+    "path": "evolveFrom",
+    "en": "Carvanha",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Carvanha"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+    "path": "description",
+    "en": "As soon as it catches the scent of prey, Sharpedo\nwill jet seawater from its backside, hurtling\ntoward the target to attack at 75 mph.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "As soon as it catches the scent of prey, Sharpedo\nwill jet seawater from its backside, hurtling\ntoward the target to attack at 75 mph."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+    "path": "attacks[0].name",
+    "en": "Crunch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Crunch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/011.ts",
+    "path": "name",
+    "en": "Carvanha",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Carvanha"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/011.ts",
+    "path": "description",
+    "en": "It won't attack while it's alone—not even if it\nspots prey. Instead, it waits for other Carvanha to\njoin it, and then the Pokémon attack as a group.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It won't attack while it's alone—not even if it\nspots prey. Instead, it waits for other Carvanha to\njoin it, and then the Pokémon attack as a group."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/011.ts",
+    "path": "attacks[0].name",
+    "en": "Bite",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Bite"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/010.ts",
+    "path": "name",
+    "en": "Mantine",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Mantine"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/010.ts",
+    "path": "description",
+    "en": "If it builds up enough speed swimming, it\ncan jump out above the waves and glide\nfor over 300 feet.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "If it builds up enough speed swimming, it\ncan jump out above the waves and glide\nfor over 300 feet."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/010.ts",
+    "path": "attacks[0].name",
+    "en": "Surf",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Surf"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/009.ts",
+    "path": "name",
+    "en": "Blacephalon",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Blacephalon"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/009.ts",
+    "path": "description",
+    "en": "It slithers toward people. Then, without warning, it triggers the\nexplosion of its own head. It's apparently one kind of Ultra Beast.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It slithers toward people. Then, without warning, it triggers the\nexplosion of its own head. It's apparently one kind of Ultra Beast."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/009.ts",
+    "path": "attacks[0].name",
+    "en": "Beat Punk",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Beat Punk"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/009.ts",
+    "path": "attacks[0].effect",
+    "en": "This Pokémon also does 70 damage to itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Pokémon also does 70 damage to itself."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/008.ts",
+    "path": "name",
+    "en": "Kartana",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Kartana"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/008.ts",
+    "path": "description",
+    "en": "This Ultra Beast's body, which is as thin\nas paper, is like a sharpened sword.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This Ultra Beast's body, which is as thin\nas paper, is like a sharpened sword."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/008.ts",
+    "path": "attacks[0].name",
+    "en": "Thrash Metal",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Thrash Metal"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/007.ts",
+    "path": "name",
+    "en": "Pheromosa",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Pheromosa"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/007.ts",
+    "path": "description",
+    "en": "A life-form that lives in another world, its body\nis thin and supple, but it also possesses\ngreat power.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "A life-form that lives in another world, its body\nis thin and supple, but it also possesses\ngreat power."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/007.ts",
+    "path": "attacks[0].name",
+    "en": "Jump Blues",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Jump Blues"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/007.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/006.ts",
+    "path": "name",
+    "en": "Buzzwole ex",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Buzzwole ex"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/006.ts",
+    "path": "attacks[0].name",
+    "en": "Punch",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Punch"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/006.ts",
+    "path": "attacks[1].name",
+    "en": "Big Beat",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Big Beat"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/006.ts",
+    "path": "attacks[1].effect",
+    "en": "During your next turn, this Pokémon can't use Big Beat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "During your next turn, this Pokémon can't use Big Beat."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/005.ts",
+    "path": "name",
+    "en": "Decidueye",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Decidueye"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/005.ts",
+    "path": "evolveFrom",
+    "en": "Dartrix",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dartrix"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/005.ts",
+    "path": "description",
+    "en": "It nocks its arrow quills and shoots them at\nopponents. When it simply can't afford to miss,\nit tugs the vine on its head to improve its focus.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It nocks its arrow quills and shoots them at\nopponents. When it simply can't afford to miss,\nit tugs the vine on its head to improve its focus."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/005.ts",
+    "path": "attacks[0].name",
+    "en": "Sniping Arrow",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Sniping Arrow"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/005.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 70 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 70 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/004.ts",
+    "path": "name",
+    "en": "Dartrix",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Dartrix"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/004.ts",
+    "path": "evolveFrom",
+    "en": "Rowlet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rowlet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/004.ts",
+    "path": "description",
+    "en": "This narcissistic Pokémon is a clean freak. If you\ndon't groom it diligently, it may stop listening to you.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This narcissistic Pokémon is a clean freak. If you\ndon't groom it diligently, it may stop listening to you."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/004.ts",
+    "path": "attacks[0].name",
+    "en": "Skill Dive",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Skill Dive"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/004.ts",
+    "path": "attacks[0].effect",
+    "en": "This attack does 20 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "This attack does 20 damage to 1 of your opponent's Pokémon."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/003.ts",
+    "path": "name",
+    "en": "Rowlet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Rowlet"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/003.ts",
+    "path": "description",
+    "en": "It sends its feathers, which are as sharp\nas blades, flying in attack. Its legs are strong,\nso its kicks are also formidable.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "It sends its feathers, which are as sharp\nas blades, flying in attack. Its legs are strong,\nso its kicks are also formidable."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/003.ts",
+    "path": "attacks[0].name",
+    "en": "Fury Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Fury Attack"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/003.ts",
+    "path": "attacks[0].effect",
+    "en": "Flip 3 coins. This attack does 10 damage for each heads.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Flip 3 coins. This attack does 10 damage for each heads."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/002.ts",
+    "path": "name",
+    "en": "Lilligant",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Lilligant"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/002.ts",
+    "path": "evolveFrom",
+    "en": "Petilil",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Petilil"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/002.ts",
+    "path": "description",
+    "en": "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The fragrance of the garland on its head has\na relaxing effect, but taking care of it is very\ndifficult."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/002.ts",
+    "path": "attacks[0].name",
+    "en": "Cut",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Cut"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/001.ts",
+    "path": "name",
+    "en": "Petilil",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Petilil"
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/001.ts",
+    "path": "description",
+    "en": "The leaves on its head grow right back even if\nthey fall out. These bitter leaves refresh those\nwho eat them.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "The leaves on its head grow right back even if\nthey fall out. These bitter leaves refresh those\nwho eat them."
+    }
+  },
+  {
+    "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/001.ts",
+    "path": "attacks[0].name",
+    "en": "Seed Bomb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "langs": {
+      "en": "Seed Bomb"
+    }
+  }
+]

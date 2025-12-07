@@ -5,13 +5,14 @@ const set: Set = {
 	id: "A3b",
 
 	name: {
-		// de: "Hüter des Firmaments",
+		de: "Hüter des Firmaments",
 		en: "Eevee Grove",
-		// es: "Guardianes Celestiales",
-		// fr: "Gardiens Astraux",
-		// it: "Guardiani Astrali",
-		// 'pt-br': "Guardiões Celestiais",
-		// ko: '쌍천의 수호자'
+		es: "Guardianes Celestiales",
+		fr: "Gardiens Astraux",
+		it: "Guardiani Astrali",
+		'pt-br': "Guardiões Celestiais",
+		ko: '쌍천의 수호자',
+		'zh-tw': "伊布樹林"
 	},
 
 	serie: serie,
