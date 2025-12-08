@@ -1,0 +1,1375 @@
+[
+  {
+    "file": "001.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/001.ts",
+    "names": {
+      "en": "Potion",
+      "fr": "Potion",
+      "es": "Poción",
+      "it": "Pozione",
+      "de": "Trank",
+      "pt-br": "Poção",
+      "ko": "상처약",
+      "zh-tw": "藥水"
+    }
+  },
+  {
+    "file": "002.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/002.ts",
+    "names": {
+      "en": "X Speed",
+      "fr": "Vitesse +",
+      "es": "Velocidad X",
+      "it": "Velocità X",
+      "de": "X-Initiative",
+      "pt-br": "Velocidade X",
+      "ko": "스피드업",
+      "zh-tw": "X 速度"
+    }
+  },
+  {
+    "file": "003.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/003.ts",
+    "names": {
+      "en": "Hand Scope",
+      "fr": "Scrute Main",
+      "es": "Periscopio",
+      "it": "Mirino Manuale",
+      "de": "Handperiskop",
+      "pt-br": "Luneta",
+      "ko": "핸드스코프",
+      "zh-tw": "手持瞄準鏡"
+    }
+  },
+  {
+    "file": "004.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/004.ts",
+    "names": {
+      "en": "Pokédex",
+      "fr": "Pokédex",
+      "es": "Pokédex",
+      "it": "Pokédex",
+      "de": "Pokédex",
+      "pt-br": "Pokédex",
+      "ko": "포켓몬 도감",
+      "zh-tw": "圖鑑"
+    }
+  },
+  {
+    "file": "005.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/005.ts",
+    "names": {
+      "en": "Poké Ball",
+      "fr": "Poké Ball",
+      "es": "Poké Ball",
+      "it": "Poké Ball",
+      "de": "Pokéball",
+      "pt-br": "Poké Bola",
+      "ko": "몬스터볼",
+      "zh-tw": "精靈球"
+    }
+  },
+  {
+    "file": "006.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/006.ts",
+    "names": {
+      "en": "Red Card",
+      "fr": "Carton Rouge",
+      "es": "Tarjeta Roja",
+      "it": "Cartelrosso",
+      "de": "Rote Karte",
+      "pt-br": "Cartão Vermelho",
+      "ko": "레드카드",
+      "zh-tw": "紅牌"
+    }
+  },
+  {
+    "file": "007.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/007.ts",
+    "names": {
+      "en": "Professor's Research",
+      "fr": "Recherches Professorales",
+      "es": "Investigación de Profesores",
+      "it": "Ricerca Accademica",
+      "de": "Forschung des Professors",
+      "pt-br": "Pesquisa de Professores",
+      "ko": "박사의 연구",
+      "zh-tw": "教授的研究"
+    }
+  },
+  {
+    "file": "008.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/008.ts",
+    "names": {
+      "en": "Pokédex",
+      "fr": "Pokédex",
+      "es": "Pokédex",
+      "it": "Pokédex",
+      "de": "Pokédex",
+      "pt-br": "Pokédex",
+      "ko": "포켓몬 도감",
+      "zh-tw": "圖鑑"
+    }
+  },
+  {
+    "file": "009.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/009.ts",
+    "names": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "es": "Pikachu",
+      "it": "Pikachu",
+      "de": "Pikachu",
+      "pt-br": "Pikachu",
+      "ko": "피카츄",
+      "zh-tw": "皮卡丘"
+    }
+  },
+  {
+    "file": "010.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/010.ts",
+    "names": {
+      "en": "Mewtwo",
+      "fr": "Mewtwo",
+      "es": "Mewtwo",
+      "it": "Mewtwo",
+      "de": "Mewtu",
+      "pt-br": "Mewtwo",
+      "ko": "뮤츠",
+      "zh-tw": "超夢"
+    }
+  },
+  {
+    "file": "011.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/011.ts",
+    "names": {
+      "en": "Chansey",
+      "fr": "Leveinard",
+      "es": "Chansey",
+      "it": "Chansey",
+      "de": "Chaneira",
+      "pt-br": "Chansey",
+      "ko": "럭키",
+      "zh-tw": "錢西"
+    }
+  },
+  {
+    "file": "012.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/012.ts",
+    "names": {
+      "en": "Meowth",
+      "fr": "Miaouss",
+      "es": "Meowth",
+      "it": "Meowth",
+      "de": "Mauzi",
+      "pt-br": "Meowth",
+      "ko": "나옹",
+      "zh-tw": "喵喵"
+    }
+  },
+  {
+    "file": "013.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/013.ts",
+    "names": {
+      "en": "Butterfree",
+      "fr": "Papilusion",
+      "es": "Butterfree",
+      "it": "Butterfree",
+      "de": "Smettbo",
+      "pt-br": "Butterfree",
+      "ko": "버터플",
+      "zh-tw": "無黃油"
+    }
+  },
+  {
+    "file": "014.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/014.ts",
+    "names": {
+      "en": "Lapras ex",
+      "fr": "Lokhlass-ex",
+      "es": "Lapras ex",
+      "it": "Lapras-ex",
+      "de": "Lapras-ex",
+      "pt-br": "Lapras ex",
+      "ko": "라프라스 ex",
+      "zh-tw": "拉普拉斯EX"
+    }
+  },
+  {
+    "file": "015.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/015.ts",
+    "names": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "es": "Pikachu",
+      "it": "Pikachu",
+      "de": "Pikachu",
+      "pt-br": "Pikachu",
+      "ko": "피카츄",
+      "zh-tw": "皮卡丘"
+    }
+  },
+  {
+    "file": "016.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/016.ts",
+    "names": {
+      "en": "Clefairy",
+      "fr": "Mélofée",
+      "es": "Clefairy",
+      "it": "Clefairy",
+      "de": "Piepi",
+      "pt-br": "Clefairy",
+      "ko": "삐삐",
+      "zh-tw": "克萊菲爾"
+    }
+  },
+  {
+    "file": "017.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/017.ts",
+    "names": {
+      "en": "Mankey",
+      "fr": "Férosinge",
+      "es": "Mankey",
+      "it": "Mankey",
+      "de": "Menki",
+      "pt-br": "Mankey",
+      "ko": "망키",
+      "zh-tw": "曼基"
+    }
+  },
+  {
+    "file": "018.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/018.ts",
+    "names": {
+      "en": "Venusaur",
+      "fr": "Florizarre",
+      "es": "Venusaur",
+      "it": "Venusaur",
+      "de": "Bisaflor",
+      "pt-br": "Venusaur",
+      "ko": "이상해꽃",
+      "zh-tw": "維納斯龍"
+    }
+  },
+  {
+    "file": "019.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/019.ts",
+    "names": {
+      "en": "Greninja",
+      "fr": "Amphinobi",
+      "es": "Greninja",
+      "it": "Greninja",
+      "de": "Quajutsu",
+      "pt-br": "Greninja",
+      "ko": "개굴닌자",
+      "zh-tw": "格倫尼亞"
+    }
+  },
+  {
+    "file": "020.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/020.ts",
+    "names": {
+      "en": "Haunter",
+      "fr": "Spectrum",
+      "es": "Haunter",
+      "it": "Haunter",
+      "de": "Alpollo",
+      "pt-br": "Haunter",
+      "ko": "고우스트",
+      "zh-tw": "鬼魂"
+    }
+  },
+  {
+    "file": "021.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/021.ts",
+    "names": {
+      "en": "Onix",
+      "fr": "Onix",
+      "es": "Onix",
+      "it": "Onix",
+      "de": "Onix",
+      "pt-br": "Onix",
+      "ko": "롱스톤",
+      "zh-tw": "奧尼克斯"
+    }
+  },
+  {
+    "file": "022.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/022.ts",
+    "names": {
+      "en": "Jigglypuff",
+      "fr": "Rondoudou",
+      "es": "Jigglypuff",
+      "it": "Jigglypuff",
+      "de": "Pummeluff",
+      "pt-br": "Jigglypuff",
+      "ko": "푸린",
+      "zh-tw": "胖夫"
+    }
+  },
+  {
+    "file": "023.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/023.ts",
+    "names": {
+      "en": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "es": "Bulbasaur",
+      "it": "Bulbasaur",
+      "de": "Bisasam",
+      "pt-br": "Bulbasaur",
+      "ko": "이상해씨",
+      "zh-tw": "妙蛙種子"
+    }
+  },
+  {
+    "file": "024.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/024.ts",
+    "names": {
+      "en": "Magnemite",
+      "fr": "Magnéti",
+      "es": "Magnemite",
+      "it": "Magnemite",
+      "de": "Magnetilo",
+      "pt-br": "Magnemite",
+      "ko": "코일",
+      "zh-tw": "磁鐵礦"
+    }
+  },
+  {
+    "file": "025.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/025.ts",
+    "names": {
+      "en": "Moltres ex",
+      "fr": "Sulfura-ex",
+      "es": "Moltres ex",
+      "it": "Moltres-ex",
+      "de": "Lavados-ex",
+      "pt-br": "Moltres ex",
+      "ko": "파이어 ex",
+      "zh-tw": "莫爾特雷斯EX"
+    }
+  },
+  {
+    "file": "026.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/026.ts",
+    "names": {
+      "en": "Pikachu",
+      "fr": "Pikachu",
+      "es": "Pikachu",
+      "it": "Pikachu",
+      "de": "Pikachu",
+      "pt-br": "Pikachu",
+      "ko": "피카츄",
+      "zh-tw": "皮卡丘"
+    }
+  },
+  {
+    "file": "027.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/027.ts",
+    "names": {
+      "en": "Snivy",
+      "fr": "Vipélierre",
+      "es": "Snivy",
+      "it": "Snivy",
+      "de": "Serpifeu",
+      "pt-br": "Snivy",
+      "ko": "주리비얀",
+      "zh-tw": "斯尼維"
+    }
+  },
+  {
+    "file": "028.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/028.ts",
+    "names": {
+      "en": "Volcarona",
+      "fr": "Pyrax",
+      "es": "Volcarona",
+      "it": "Volcarona",
+      "de": "Ramoth",
+      "pt-br": "Volcarona",
+      "ko": "불카모스",
+      "zh-tw": "沃爾卡羅納"
+    }
+  },
+  {
+    "file": "029.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/029.ts",
+    "names": {
+      "en": "Blastoise",
+      "fr": "Tortank",
+      "es": "Blastoise",
+      "it": "Blastoise",
+      "de": "Turtok",
+      "ko": "거북왕",
+      "pt-br": "Blastoise",
+      "zh-tw": "水母"
+    }
+  },
+  {
+    "file": "030.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/030.ts",
+    "names": {
+      "en": "Eevee",
+      "fr": "Évoli",
+      "es": "Eevee",
+      "it": "Eevee",
+      "de": "Evoli",
+      "pt-br": "Eevee",
+      "ko": "이브이",
+      "zh-tw": "伊布"
+    }
+  },
+  {
+    "file": "031.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/031.ts",
+    "names": {
+      "en": "Cinccino",
+      "fr": "Pashmilla",
+      "es": "Cinccino",
+      "it": "Cinccino",
+      "de": "Chillabell",
+      "pt-br": "Cinccino",
+      "ko": "치라치노",
+      "zh-tw": "辛奇諾"
+    }
+  },
+  {
+    "file": "032.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/032.ts",
+    "names": {
+      "en": "Charmander",
+      "fr": "Salamèche",
+      "es": "Charmander",
+      "it": "Charmander",
+      "de": "Glumanda",
+      "ko": "파이리",
+      "pt-br": "Charmander",
+      "zh-tw": "小火龍"
+    }
+  },
+  {
+    "file": "033.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/033.ts",
+    "names": {
+      "en": "Squirtle",
+      "fr": "Carapuce",
+      "es": "Squirtle",
+      "it": "Squirtle",
+      "de": "Schiggy",
+      "pt-br": "Squirtle",
+      "ko": "꼬부기",
+      "zh-tw": "傑尼龜"
+    }
+  },
+  {
+    "file": "034.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/034.ts",
+    "names": {
+      "en": "Piplup",
+      "fr": "Tiplouf",
+      "es": "Piplup",
+      "it": "Piplup",
+      "de": "Plinfa",
+      "pt-br": "Piplup",
+      "ko": "팽도리",
+      "zh-tw": "皮普拉普"
+    }
+  },
+  {
+    "file": "035.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/035.ts",
+    "names": {
+      "en": "Turtwig",
+      "fr": "Tortipouss",
+      "es": "Turtwig",
+      "it": "Turtwig",
+      "de": "Chelast",
+      "pt-br": "Turtwig",
+      "ko": "모부기",
+      "zh-tw": "特特維格"
+    }
+  },
+  {
+    "file": "036.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/036.ts",
+    "names": {
+      "en": "Electivire",
+      "fr": "Élekable",
+      "es": "Electivire",
+      "it": "Electivire",
+      "de": "Elevoltek",
+      "ko": "에레키블",
+      "pt-br": "Electivire",
+      "zh-tw": "電力公司"
+    }
+  },
+  {
+    "file": "037.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/037.ts",
+    "names": {
+      "en": "Cresselia ex",
+      "fr": "Cresselia-ex",
+      "es": "Cresselia ex",
+      "it": "Cresselia-ex",
+      "de": "Cresselia-ex",
+      "pt-br": "Cresselia ex",
+      "ko": "크레세리아 ex",
+      "zh-tw": "克雷色利亞EX"
+    }
+  },
+  {
+    "file": "038.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/038.ts",
+    "names": {
+      "en": "Misdreavus",
+      "fr": "Feuforêve",
+      "es": "Misdreavus",
+      "it": "Misdreavus",
+      "de": "Traunfugil",
+      "pt-br": "Misdreavus",
+      "ko": "무우마",
+      "zh-tw": "誤判"
+    }
+  },
+  {
+    "file": "039.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/039.ts",
+    "names": {
+      "en": "Skarmory",
+      "fr": "Airmure",
+      "es": "Skarmory",
+      "it": "Skarmory",
+      "de": "Panzaeron",
+      "pt-br": "Skarmory",
+      "ko": "무장조",
+      "zh-tw": "斯卡莫里"
+    }
+  },
+  {
+    "file": "040.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/040.ts",
+    "names": {
+      "en": "Chimchar",
+      "fr": "Ouisticram",
+      "es": "Chimchar",
+      "it": "Chimchar",
+      "de": "Panflam",
+      "pt-br": "Chimchar",
+      "ko": "불꽃숭이",
+      "zh-tw": "奇姆查爾"
+    }
+  },
+  {
+    "file": "041.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/041.ts",
+    "names": {
+      "en": "Togepi",
+      "fr": "Togepi",
+      "es": "Togepi",
+      "it": "Togepi",
+      "de": "Togepi",
+      "pt-br": "Togepi",
+      "ko": "토게피",
+      "zh-tw": "托蓋皮"
+    }
+  },
+  {
+    "file": "042.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/042.ts",
+    "names": {
+      "en": "Darkrai ex",
+      "fr": "Darkrai-ex",
+      "es": "Darkrai ex",
+      "it": "Darkrai-ex",
+      "de": "Darkrai-ex",
+      "pt-br": "Darkrai ex",
+      "ko": "다크라이 ex",
+      "zh-tw": "達克萊伊EX"
+    }
+  },
+  {
+    "file": "043.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/043.ts",
+    "names": {
+      "en": "Cherrim",
+      "fr": "Ceriflor",
+      "es": "Cherrim",
+      "it": "Cherrim",
+      "de": "Kinoso",
+      "pt-br": "Cherrim",
+      "ko": "체리꼬",
+      "zh-tw": "櫻桃木"
+    }
+  },
+  {
+    "file": "044.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/044.ts",
+    "names": {
+      "en": "Raichu",
+      "fr": "Raichu",
+      "es": "Raichu",
+      "it": "Raichu",
+      "de": "Raichu",
+      "pt-br": "Raichu",
+      "ko": "라이츄",
+      "zh-tw": "雷中"
+    }
+  },
+  {
+    "file": "045.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/045.ts",
+    "names": {
+      "en": "Nosepass",
+      "fr": "Tarinor",
+      "es": "Nosepass",
+      "it": "Nosepass",
+      "de": "Nasgnet",
+      "pt-br": "Nosepass",
+      "ko": "코코파스",
+      "zh-tw": "鼻通"
+    }
+  },
+  {
+    "file": "046.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/046.ts",
+    "names": {
+      "en": "Gible",
+      "fr": "Griknot",
+      "es": "Gible",
+      "it": "Gible",
+      "de": "Kaumalat",
+      "pt-br": "Gible",
+      "ko": "딥상어동",
+      "zh-tw": "吉布爾"
+    }
+  },
+  {
+    "file": "047.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/047.ts",
+    "names": {
+      "en": "Staraptor",
+      "fr": "Étouraptor",
+      "es": "Staraptor",
+      "it": "Staraptor",
+      "de": "Staraptor",
+      "ko": "찌르호크",
+      "pt-br": "Staraptor",
+      "zh-tw": "星盜龍"
+    }
+  },
+  {
+    "file": "048.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/048.ts",
+    "names": {
+      "en": "Manaphy",
+      "fr": "Manaphy",
+      "es": "Manaphy",
+      "it": "Manaphy",
+      "de": "Manaphy",
+      "pt-br": "Manaphy",
+      "ko": "마나피",
+      "zh-tw": "瑪納菲"
+    }
+  },
+  {
+    "file": "049.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/049.ts",
+    "names": {
+      "en": "Snorlax",
+      "fr": "Ronflex",
+      "es": "Snorlax",
+      "it": "Snorlax",
+      "de": "Relaxo",
+      "pt-br": "Snorlax",
+      "ko": "잠만보",
+      "zh-tw": "斯諾拉克斯"
+    }
+  },
+  {
+    "file": "050.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/050.ts",
+    "names": {
+      "en": "Mewtwo ex",
+      "fr": "Mewtwo-ex",
+      "es": "Mewtwo ex",
+      "it": "Mewtwo-ex",
+      "de": "Mewtu-ex",
+      "pt-br": "Mewtwo ex",
+      "ko": "뮤츠 ex",
+      "zh-tw": "超夢EX"
+    }
+  },
+  {
+    "file": "051.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/051.ts",
+    "names": {
+      "en": "Cyclizar",
+      "fr": "Motorizard",
+      "es": "Cyclizar",
+      "it": "Cyclizar",
+      "de": "Mopex",
+      "pt-br": "Cyclizar",
+      "ko": "모토마",
+      "zh-tw": "環化劑"
+    }
+  },
+  {
+    "file": "052.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/052.ts",
+    "names": {
+      "en": "Sprigatito",
+      "fr": "Poussacha",
+      "es": "Sprigatito",
+      "it": "Sprigatito",
+      "de": "Felori",
+      "pt-br": "Sprigatito",
+      "ko": "나오하",
+      "zh-tw": "斯普里加蒂托"
+    }
+  },
+  {
+    "file": "053.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/053.ts",
+    "names": {
+      "en": "Floatzel",
+      "fr": "Mustéflott",
+      "es": "Floatzel",
+      "it": "Floatzel",
+      "de": "Bojelin",
+      "pt-br": "Floatzel",
+      "ko": "플로젤",
+      "zh-tw": "弗洛策爾"
+    }
+  },
+  {
+    "file": "054.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/054.ts",
+    "names": {
+      "en": "Pawmot",
+      "fr": "Pohmarmotte",
+      "es": "Pawmot",
+      "it": "Pawmot",
+      "de": "Pamomamo",
+      "pt-br": "Pawmot",
+      "ko": "빠르모트",
+      "zh-tw": "波莫特"
+    }
+  },
+  {
+    "file": "055.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/055.ts",
+    "names": {
+      "en": "Machamp",
+      "fr": "Mackogneur",
+      "es": "Machamp",
+      "it": "Machamp",
+      "de": "Machomei",
+      "pt-br": "Machamp",
+      "ko": "괴력몬",
+      "zh-tw": "馬尚普"
+    }
+  },
+  {
+    "file": "056.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/056.ts",
+    "names": {
+      "en": "Ekans",
+      "fr": "Abo",
+      "es": "Ekans",
+      "it": "Ekans",
+      "de": "Rettan",
+      "pt-br": "Ekans",
+      "ko": "아보",
+      "zh-tw": "埃肯斯"
+    }
+  },
+  {
+    "file": "057.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/057.ts",
+    "names": {
+      "en": "Bidoof",
+      "fr": "Keunotor",
+      "es": "Bidoof",
+      "it": "Bidoof",
+      "de": "Bidiza",
+      "pt-br": "Bidoof",
+      "ko": "비버니",
+      "zh-tw": "比杜夫"
+    }
+  },
+  {
+    "file": "058.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/058.ts",
+    "names": {
+      "en": "Pachirisu",
+      "fr": "Pachirisu",
+      "es": "Pachirisu",
+      "it": "Pachirisu",
+      "de": "Pachirisu",
+      "pt-br": "Pachirisu",
+      "ko": "파치리스",
+      "zh-tw": "帕奇利茲"
+    }
+  },
+  {
+    "file": "059.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/059.ts",
+    "names": {
+      "en": "Riolu",
+      "fr": "Riolu",
+      "es": "Riolu",
+      "it": "Riolu",
+      "de": "Riolu",
+      "pt-br": "Riolu",
+      "ko": "리오르",
+      "zh-tw": "利奧盧"
+    }
+  },
+  {
+    "file": "060.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/060.ts",
+    "names": {
+      "en": "Exeggcute",
+      "fr": "Noeunoeuf",
+      "es": "Exeggcute",
+      "it": "Exeggcute",
+      "de": "Owei",
+      "ko": "아라리",
+      "pt-br": "Exeggcute",
+      "zh-tw": "蛋蛋可愛"
+    }
+  },
+  {
+    "file": "061.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/061.ts",
+    "names": {
+      "en": "Froakie",
+      "fr": "Grenousse",
+      "es": "Froakie",
+      "it": "Froakie",
+      "de": "Froxy",
+      "pt-br": "Froakie",
+      "ko": "개구마르",
+      "zh-tw": "弗羅阿基"
+    }
+  },
+  {
+    "file": "062.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/062.ts",
+    "names": {
+      "en": "Farfetch'd",
+      "fr": "Canarticho",
+      "es": "Farfetch'd",
+      "it": "Farfetch'd",
+      "de": "Porenta",
+      "pt-br": "Farfetch'd",
+      "ko": "파오리",
+      "zh-tw": "Farfetch'd"
+    }
+  },
+  {
+    "file": "063.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/063.ts",
+    "names": {
+      "en": "Rayquaza",
+      "fr": "Rayquaza",
+      "es": "Rayquaza",
+      "it": "Rayquaza",
+      "de": "Rayquaza",
+      "pt-br": "Rayquaza",
+      "ko": "레쿠쟈",
+      "zh-tw": "烈空坐"
+    }
+  },
+  {
+    "file": "064.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/064.ts",
+    "names": {
+      "en": "Rayquaza ex",
+      "fr": "Rayquaza-ex",
+      "es": "Rayquaza ex",
+      "it": "Rayquaza-ex",
+      "de": "Rayquaza-ex",
+      "pt-br": "Rayquaza ex",
+      "ko": "레쿠쟈 ex",
+      "zh-tw": "烈空坐EX"
+    }
+  },
+  {
+    "file": "065.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/065.ts",
+    "names": {
+      "en": "Rayquaza ex",
+      "fr": "Rayquaza-ex",
+      "es": "Rayquaza ex",
+      "it": "Rayquaza-ex",
+      "de": "Rayquaza-ex",
+      "pt-br": "Rayquaza ex",
+      "ko": "레쿠쟈 ex",
+      "zh-tw": "烈空坐EX"
+    }
+  },
+  {
+    "file": "066.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/066.ts",
+    "names": {
+      "en": "Mimikyu",
+      "fr": "Mimiqui",
+      "es": "Mimikyu",
+      "it": "Mimikyu",
+      "de": "Mimigma",
+      "pt-br": "Mimikyu",
+      "ko": "따라큐",
+      "zh-tw": "彌彌久"
+    }
+  },
+  {
+    "file": "067.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/067.ts",
+    "names": {
+      "en": "Cosmog",
+      "fr": "Cosmog",
+      "es": "Cosmog",
+      "it": "Cosmog",
+      "de": "Cosmog",
+      "pt-br": "Cosmog",
+      "ko": "코스모그",
+      "zh-tw": "科斯莫格"
+    }
+  },
+  {
+    "file": "068.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/068.ts",
+    "names": {
+      "en": "Lycanroc",
+      "fr": "Lougaroc",
+      "es": "Lycanroc",
+      "it": "Lycanroc",
+      "de": "Wolwerock",
+      "pt-br": "Lycanroc",
+      "ko": "루가루암",
+      "zh-tw": "狼人"
+    }
+  },
+  {
+    "file": "069.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/069.ts",
+    "names": {
+      "en": "Alolan Exeggutor",
+      "fr": "Noadkokod'Alola",
+      "es": "Exeggutorde Alola",
+      "it": "Exeggutordi Alola",
+      "de": "Alola-Kokowei",
+      "pt-br": "Exeggutorde Alola",
+      "ko": "알로라나시",
+      "zh-tw": "阿羅拉椰蛋"
+    }
+  },
+  {
+    "file": "070.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/070.ts",
+    "names": {
+      "en": "Alolan Ninetales",
+      "fr": "Feunardd'Alola",
+      "es": "Ninetalesde Alola",
+      "it": "Ninetalesdi Alola",
+      "de": "Alola-Vulnona",
+      "pt-br": "Ninetalesde Alola",
+      "ko": "알로라나인테일",
+      "zh-tw": "阿羅拉九尾"
+    }
+  },
+  {
+    "file": "071.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/071.ts",
+    "names": {
+      "en": "Crabrawler",
+      "fr": "Crabagarre",
+      "es": "Crabrawler",
+      "it": "Crabrawler",
+      "de": "Krabbox",
+      "pt-br": "Crabrawler",
+      "ko": "오기지게",
+      "zh-tw": "爬行者"
+    }
+  },
+  {
+    "file": "072.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/072.ts",
+    "names": {
+      "en": "Alolan Grimer",
+      "fr": "Tadmorvd'Alola",
+      "es": "Grimerde Alola",
+      "it": "Grimerdi Alola",
+      "de": "Alola-Sleima",
+      "pt-br": "Grimerde Alola",
+      "ko": "알로라질퍽이",
+      "zh-tw": "阿羅蘭·格里默"
+    }
+  },
+  {
+    "file": "073.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/073.ts",
+    "names": {
+      "en": "Toucannon",
+      "fr": "Bazoucan",
+      "es": "Toucannon",
+      "it": "Toucannon",
+      "de": "Tukanon",
+      "pt-br": "Toucannon",
+      "ko": "왕큰부리",
+      "zh-tw": "巨嘴鳥"
+    }
+  },
+  {
+    "file": "074.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+    "names": {
+      "en": "Zeraora",
+      "es": "Zeraora",
+      "fr": "Zéraora",
+      "it": "Zeraora",
+      "de": "Zeraora",
+      "pt-br": "Zeraora",
+      "zh-tw": "澤拉奧拉"
+    }
+  },
+  {
+    "file": "075.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+    "names": {
+      "en": "Kartana",
+      "es": "Kartana",
+      "fr": "Kartana",
+      "it": "Kartana",
+      "de": "Kartana",
+      "pt-br": "Kartana",
+      "zh-tw": "卡塔納"
+    }
+  },
+  {
+    "file": "076.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+    "names": {
+      "en": "Blacephalon",
+      "es": "Blacephalon",
+      "fr": "Blacéphale",
+      "it": "Blacefalo",
+      "de": "Blazephalon",
+      "pt-br": "Blacéfalo",
+      "zh-tw": "布萊塞法隆"
+    }
+  },
+  {
+    "file": "077.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+    "names": {
+      "en": "Xurkitree",
+      "es": "Xurkitree",
+      "fr": "Xurkitree",
+      "it": "Xurkitree",
+      "de": "Xurkitree",
+      "pt-br": "Xurkitree",
+      "zh-tw": "旭基樹"
+    }
+  },
+  {
+    "file": "078.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+    "names": {
+      "en": "Dawn Wings Necrozma",
+      "es": "Necrozma Alas del Alba",
+      "fr": "Necrozma Ailes de l'Aube",
+      "it": "Necrozma delle Ali dell'Aurora",
+      "de": "Dawn Wings Necrozma",
+      "pt-br": "Necrozma Asas do Amanhecer",
+      "zh-tw": "黎明之翼奈克洛茲瑪"
+    }
+  },
+  {
+    "file": "079.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+    "names": {
+      "en": "Dusk Mane Necrozma",
+      "es": "Necrozma Melena Crepuscular",
+      "fr": "Crinière du crépuscule Necrozma",
+      "it": "Necrozma Criniera Crepuscolare",
+      "de": "Dämmerungsmähnen-Nekrozma",
+      "pt-br": "Crepúsculo Juba Necrozma",
+      "zh-tw": "黃昏鬃毛奈克洛茲瑪"
+    }
+  },
+  {
+    "file": "080.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+    "names": {
+      "en": "Stakataka",
+      "es": "Stakataka",
+      "fr": "Stakataka",
+      "it": "Stakataka",
+      "de": "Stakataka",
+      "pt-br": "Stakataka",
+      "zh-tw": "斯塔卡塔卡"
+    }
+  },
+  {
+    "file": "081.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+    "names": {
+      "en": "Ultra Necrozma ex",
+      "es": "Ultra-Necrozma ex",
+      "fr": "Ultra Necrozma ex",
+      "it": "UltraNecrozma es",
+      "de": "Ultra Necrozma ex",
+      "pt-br": "Ultra Necrozma ex",
+      "zh-tw": "究極奈克洛茲瑪 ex"
+    }
+  },
+  {
+    "file": "082.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+    "names": {
+      "en": "Poipole",
+      "es": "Poipole",
+      "fr": "Poipole",
+      "it": "Poipole",
+      "de": "Poipole",
+      "pt-br": "Poipole",
+      "zh-tw": "波伊波萊"
+    }
+  },
+  {
+    "file": "083.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+    "names": {
+      "en": "Stufful",
+      "es": "Stufful",
+      "fr": "Bourré",
+      "it": "Stupendo",
+      "de": "Stoffig",
+      "pt-br": "Recheado",
+      "zh-tw": "塞滿"
+    }
+  },
+  {
+    "file": "084.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+    "names": {
+      "en": "Tapu Koko ex",
+      "es": "Tapu Koko ex",
+      "fr": "Tapu Koko ex",
+      "it": "Tapu Koko ex",
+      "de": "Tapu Koko ex",
+      "pt-br": "Tapu Koko ex",
+      "zh-tw": "塔普科科EX"
+    }
+  },
+  {
+    "file": "085.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+    "names": {
+      "en": "Vanillite",
+      "es": "Vanillite",
+      "fr": "Vanillite",
+      "it": "Vanillite",
+      "de": "Vanillit",
+      "pt-br": "Vanilita",
+      "zh-tw": "香蘭石"
+    }
+  },
+  {
+    "file": "086.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+    "names": {
+      "en": "Jolteon",
+      "es": "Jolteon",
+      "fr": "Joltéon",
+      "it": "Jolteon",
+      "de": "Ruck",
+      "pt-br": "Jolteon",
+      "zh-tw": "雷頓"
+    }
+  },
+  {
+    "file": "087.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+    "names": {
+      "en": "Alcremie",
+      "es": "Alcremie",
+      "fr": "Alcrémie",
+      "it": "Alcremie",
+      "de": "Alcremie",
+      "pt-br": "Alcremie",
+      "zh-tw": "阿爾克雷米"
+    }
+  },
+  {
+    "file": "088.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+    "names": {
+      "en": "Dragonair",
+      "es": "Dragonair",
+      "fr": "Dragonair",
+      "it": "Dragonair",
+      "de": "Dragonair",
+      "pt-br": "Dragonair",
+      "zh-tw": "港龍航空"
+    }
+  },
+  {
+    "file": "089.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+    "names": {
+      "en": "Audino",
+      "es": "Audino",
+      "fr": "Audino",
+      "it": "Audino",
+      "de": "Audino",
+      "pt-br": "Audino",
+      "zh-tw": "奧迪諾"
+    }
+  },
+  {
+    "file": "090.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+    "names": {
+      "en": "Togedemaru",
+      "es": "Togedemaru",
+      "fr": "Togedemaru",
+      "it": "Togedemaru",
+      "de": "Togedemaru",
+      "pt-br": "Togedemaru",
+      "zh-tw": "托格德丸"
+    }
+  },
+  {
+    "file": "091.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+    "names": {
+      "en": "Greedent",
+      "es": "Greedent",
+      "fr": "Greedent",
+      "it": "Greedent",
+      "de": "Greedent",
+      "pt-br": "Ganancioso",
+      "zh-tw": "格利登特"
+    }
+  },
+  {
+    "file": "092.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+    "names": {
+      "en": "Eevee",
+      "es": "Eevee",
+      "fr": "Évoli",
+      "it": "Eevee",
+      "de": "Evoli",
+      "pt-br": "Eevee",
+      "zh-tw": "伊布"
+    }
+  },
+  {
+    "file": "093.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+    "names": {
+      "en": "Cleffa",
+      "fr": "Cleffa",
+      "es": "Clefa",
+      "it": "Cleffa",
+      "de": "Cleffa",
+      "pt-br": "Clefa",
+      "zh-tw": "克萊法"
+    }
+  },
+  {
+    "file": "094.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+    "names": {
+      "en": "Horsea",
+      "fr": "Horée",
+      "es": "caballoa",
+      "it": "Horsea",
+      "de": "Horsea",
+      "pt-br": "cavalo",
+      "zh-tw": "霍塞亞"
+    }
+  },
+  {
+    "file": "095.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+    "names": {
+      "en": "Chinchou",
+      "fr": "Chinchou",
+      "es": "Chinchú",
+      "it": "Chinchou",
+      "de": "Chinchou",
+      "pt-br": "Chinchou",
+      "zh-tw": "欽州"
+    }
+  },
+  {
+    "file": "096.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+    "names": {
+      "en": "Houndoom",
+      "fr": "Chien de chasse",
+      "es": "Houndoom",
+      "it": "Houndom",
+      "de": "Hundoom",
+      "pt-br": "Houndoom",
+      "zh-tw": "黑杜姆"
+    }
+  },
+  {
+    "file": "097.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+    "names": {
+      "en": "Kangaskhan",
+      "fr": "Kangaskhan",
+      "es": "Kangaskhan",
+      "it": "Kangaskhan",
+      "de": "Kangaschan",
+      "pt-br": "Kangaskhan",
+      "zh-tw": "坎加斯坎"
+    }
+  },
+  {
+    "file": "098.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+    "names": {
+      "en": "Blissey ex",
+      "fr": "Ex-Blissey",
+      "es": "blissey ex",
+      "it": "Blissey es",
+      "de": "Blissey Ex",
+      "pt-br": "Blissey ex",
+      "zh-tw": "布利西EX"
+    }
+  },
+  {
+    "file": "099.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+    "names": {
+      "en": "Marill",
+      "fr": "Marill",
+      "es": "Marill",
+      "it": "Marill",
+      "de": "Marill",
+      "pt-br": "Marill",
+      "zh-tw": "馬里爾"
+    }
+  },
+  {
+    "file": "100.ts",
+    "path": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+    "names": {
+      "en": "Weavile",
+      "fr": "Tisserand",
+      "es": "tejido",
+      "it": "Weavile",
+      "de": "Webbar",
+      "pt-br": "Weavile",
+      "zh-tw": "韋維爾"
+    }
+  }
+]

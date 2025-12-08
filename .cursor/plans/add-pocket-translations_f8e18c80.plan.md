@@ -30,6 +30,11 @@ todos:
     status: completed
     dependencies:
       - verify-mega
+  - id: verify-zh-names
+    content: 全量校验与修复繁体中文名称 (Name/EvolveFrom)
+    status: completed
+    dependencies:
+      - rollout-next
 ---
 
 # 计划（分批全量执行）
@@ -96,3 +101,58 @@ todos:
 ## 下一步
 
 - 下一个批次：`data/Pokémon TCG Pocket/Genetic Apex/**/*.ts`（如需重跑以对齐新增映射，可按需执行；否则进入下一个未处理目录）
+
+## 繁体中文名称全量校验与修复 (Python Workflow)
+
+针对 Traditional Chinese (`zh-tw`) 的卡片名称 (`name`) 和进化来源 (`evolveFrom`) 进行的专项全量校验与自动化修复。
+
+### 依赖文件
+必须确保以下文件在根目录：
+- `en.json`: 英文官方名称列表
+- `zh_tw.json`: 繁体中文官方名称列表 (与英文列表一一对应)
+
+### 脚本说明
+
+#### 1. `fix_all_remaining.py` (核心修复脚本)
+**功能**: 
+- 加载 `en.json` 和 `zh_tw.json` 构建映射表。
+- 内置特殊前缀处理 (如 "Alolan" -> "阿羅拉", "Mega" -> "超級")。
+- 内置特殊名称修正表 (`SPECIAL_MAP`) 处理训练家、道具及特殊宝可梦。
+- 遍历 `TARGET_DIRS` 列表中的所有子目录。
+- 解析 `.ts` 文件中的 `name` 和 `evolveFrom` 字段，提取英文名，匹配官方中文名。
+- 若当前 `zh-tw` 值不匹配，则自动修正。
+
+**执行方式**:
+```bash
+# 直接运行，自动覆盖修改文件
+python3 fix_all_remaining.py
+```
+
+#### 2. `extract_names.py` (提取检查工具)
+**功能**:
+- 扫描指定目录 (如 `Genetic Apex`) 下的 `.ts` 文件。
+- 提取 `name` 字段的所有语言版本。
+- 输出为 JSON 文件 (如 `genetic_apex_names.json`) 供人工核对。
+
+**执行方式**:
+```bash
+# 需按需修改脚本内的 glob 路径
+python3 extract_names.py
+```
+
+#### 3. `generate_corrections.py` (生成补丁工具 - 可选)
+**功能**:
+- 读取提取出的 JSON 和官方列表。
+- 生成待修复的 JSON 映射文件 (如 `corrections.json`)。
+- 主要用于中间调试或生成人工审查清单。
+
+**执行方式**:
+```bash
+python3 generate_corrections.py
+```
+
+### 最佳实践
+日常维护或新增 Set 时：
+1. 更新 `fix_all_remaining.py` 中的 `TARGET_DIRS` 列表，加入新目录。
+2. 运行 `python3 fix_all_remaining.py` 进行全量或增量修复。
+3. 检查控制台输出的 `Warning` 信息（提示未找到翻译的条目），如确实缺失，需更新代码中的 `SPECIAL_MAP` 或补充 `en.json`/`zh_tw.json`。
