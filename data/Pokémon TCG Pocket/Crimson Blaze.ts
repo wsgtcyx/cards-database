@@ -11,6 +11,7 @@ const set: Set = {
 		fr: "Embrasement Écarlate",
 		it: "Fiamme Cremisi",
 		'pt-br': "Chama Carmesim",
+		'zh-tw': "緋紅烈焰",
 		ko: '홍련 블레이즈'
 	},
 
