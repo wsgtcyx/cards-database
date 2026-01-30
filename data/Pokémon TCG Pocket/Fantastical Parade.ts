@@ -11,7 +11,8 @@ const set: Set = {
 		fr: "Parade Onirique",
 		it: "Parata Fantasmagorica",
 		'pt-br': "Desfile Onírico",
-		ko: '몽환 퍼레이드'
+		ko: '몽환 퍼레이드',
+		'zh-tw': '奇幻遊行'
 	},
 
 	serie: serie,
@@ -29,7 +30,8 @@ const set: Set = {
 				es: 'Booster',
 				it: 'Booster',
 				'pt-br': 'Booster',
-				ko: 'Booster'
+				ko: 'Booster',
+				'zh-tw': 'Booster'
 			}
 		}
 	},

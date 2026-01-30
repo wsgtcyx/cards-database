@@ -1,44 +1,57 @@
-import { Card } from "../../../interfaces"
-import Set from "../Fantastical Parade"
-
+import { Card } from "../../../interfaces";
+import Set from "../Fantastical Parade";
 const card: Card = {
-	set: Set,
-
-	name: {
-		en: "Galarian Linoone"
-	},
-
-	illustrator: "nagimiso",
-	rarity: "Two Diamond",
-	category: "Pokemon",
-	hp: 80,
-	types: ["Darkness"],
-
-	evolveFrom: {
-		en: "Galarian Zigzagoon"
-	},
-
-	description: {
-		en: "This very aggressive Pokémon will recklessly\nchallenge opponents stronger than itself."
-	},
-
-	stage: "Stage1",
-
-	attacks: [{
-		name: {
-			en: "Rear Kick"
-		},
-
-		damage: 40,
-		cost: ["Darkness"]
-	}],
-
-	weaknesses: [{
-		type: "Grass",
-		value: "+20"
-	}],
-
-	retreat: 1
-}
-
-export default card
+    set: Set,
+    name: {
+        en: "Galarian Linoone",
+        "fr": "Linéon de Galar",
+        "es": "Linoone de Galar",
+        "it": "Linoone Galariano",
+        "de": "Galarischer Linoone",
+        "pt-br": "Linoone de Galar",
+        "zh-tw": "加拉利安·利努內"
+    },
+    illustrator: "nagimiso",
+    rarity: "Two Diamond",
+    category: "Pokemon",
+    hp: 80,
+    types: ["Darkness"],
+    evolveFrom: {
+        en: "Galarian Zigzagoon",
+        "fr": "Zigzagoon galarien",
+        "es": "Zigzagoon de Galar",
+        "it": "Zigzagoon di Galar",
+        "de": "Galarischer Zickzack",
+        "pt-br": "Ziguezague Galariano",
+        "zh-tw": "加拉利安之字形"
+    },
+    description: {
+        en: "This very aggressive Pokémon will recklessly\nchallenge opponents stronger than itself.",
+        "fr": "Ce Pokémon très agressif va imprudemment\ndéfier des adversaires plus forts que lui.",
+        "es": "Este Pokémon muy agresivo atacará imprudentemente\ndesafiar a oponentes más fuertes que él mismo.",
+        "it": "Questo Pokémon molto aggressivo lo farà incautamente\nsfidare avversari più forti di lui.",
+        "de": "Dieses sehr aggressive Pokémon wird rücksichtslos sein\nFordern Sie Gegner heraus, die stärker sind als Sie selbst.",
+        "pt-br": "Este Pokémon muito agressivo irá imprudentemente\ndesafiar adversários mais fortes do que ele.",
+        "zh-tw": "這種非常具有攻擊性的神奇寶貝會魯莽地\n挑戰比自己更強的對手。"
+    },
+    stage: "Stage1",
+    attacks: [{
+            name: {
+                en: "Rear Kick",
+                "fr": "Coup de pied arrière",
+                "es": "Patada trasera",
+                "it": "Calcio posteriore",
+                "de": "Hinterer Tritt",
+                "pt-br": "Chute traseiro",
+                "zh-tw": "後踢"
+            },
+            damage: 40,
+            cost: ["Darkness"]
+        }],
+    weaknesses: [{
+            type: "Grass",
+            value: "+20"
+        }],
+    retreat: 1
+};
+export default card;
