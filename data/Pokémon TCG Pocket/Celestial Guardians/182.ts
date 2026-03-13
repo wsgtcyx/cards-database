@@ -62,7 +62,7 @@ const card: Card = {
                 ko: "스카스매시",
                 "zh-tw": "傷痕重擊"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Fire", "Fire", "Colorless"],
             effect: {
                 en: "If this Pokémon has damage on it, this attack does 60 more damage.",
