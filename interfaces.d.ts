@@ -132,6 +132,11 @@ export interface Card {
 	name: Languages
 
 	/**
+	 * Card image base URL by language (without the size/extension suffix)
+	 */
+	image?: Languages
+
+	/**
 	 * Card illustrator
 	 */
 	illustrator?: string

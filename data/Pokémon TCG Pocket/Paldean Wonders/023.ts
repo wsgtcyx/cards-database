@@ -2,6 +2,10 @@ import { Card } from "../../../interfaces";
 import Set from "../Paldean Wonders";
 const card: Card = {
     set: Set,
+    image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2a/023",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/023"
+    },
     name: {
         en: "Quaxwell",
         fr: "Canarbello",
