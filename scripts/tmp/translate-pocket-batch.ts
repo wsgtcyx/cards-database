@@ -15,6 +15,10 @@ type Mapping = Record<string, Partial<Record<LangKey | 'en', string>>>
 const TARGETS: LangKey[] = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
 const TODO_FILE_DEFAULT = 'scripts/tmp/pocket-translations.todo.json'
 const OUT_FILE_DEFAULT = 'scripts/tmp/pocket-translations.json'
+const glossaryFile = process.argv.find(a => a.startsWith('--glossary='))?.split('=')[1]
+const glossary: Mapping = glossaryFile && fs.existsSync(glossaryFile)
+	? JSON.parse(fs.readFileSync(glossaryFile, 'utf-8'))
+	: {}
 
 function getArg(name: string, fallback: string): string {
 	const arg = process.argv.find(a => a.startsWith(`--${name}=`))
@@ -35,13 +39,37 @@ function sleep(ms: number) {
 	return new Promise(resolve => setTimeout(resolve, ms))
 }
 
+function protectTerms(text: string, target: LangKey): { text: string, restore: Array<[string, string]> } {
+	const terms = Object.entries(glossary)
+		.filter(([source, translations]) => source && translations[target] && text.includes(source))
+		.sort(([left], [right]) => right.length - left.length)
+	const restore: Array<[string, string]> = []
+	let protectedText = text
+	for (const [source, translations] of terms) {
+		const token = `ZXQTERM${restore.length}QXZ`
+		protectedText = protectedText.split(source).join(token)
+		restore.push([token, translations[target]!])
+	}
+	return { text: protectedText, restore }
+}
+
+function restoreTerms(text: string, restore: Array<[string, string]>): string {
+	let restored = text
+	for (const [token, translation] of restore) {
+		const tokenPattern = token.split('').join('\\s*')
+		restored = restored.replace(new RegExp(tokenPattern, 'gi'), translation)
+	}
+	return restored
+}
+
 async function translate(text: string, target: LangKey, attempt = 1): Promise<string> {
+	const protectedTerms = protectTerms(text, target)
 	const url = new URL('https://translate.googleapis.com/translate_a/single')
 	url.searchParams.set('client', 'gtx')
 	url.searchParams.set('sl', 'en')
 	url.searchParams.set('tl', langToGoogle(target))
 	url.searchParams.set('dt', 't')
-	url.searchParams.set('q', text)
+	url.searchParams.set('q', protectedTerms.text)
 	if (target === 'pt-br') {
 		url.searchParams.set('hl', 'pt-BR')
 	}
@@ -51,7 +79,7 @@ async function translate(text: string, target: LangKey, attempt = 1): Promise<st
 		if (!res.ok) throw new Error(`HTTP ${res.status}`)
 		const data = await res.json() as any
 		const translated = Array.isArray(data?.[0]) ? (data[0].map((chunk: any[]) => chunk?.[0] ?? '').join('')) : ''
-		return translated || text
+		return translated ? restoreTerms(translated, protectedTerms.restore) : text
 	} catch (err) {
 		if (attempt >= 4) throw err
 		const wait = 500 * attempt
@@ -133,4 +161,3 @@ async function main() {
 }
 
 void main()
-

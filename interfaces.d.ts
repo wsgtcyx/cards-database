@@ -115,6 +115,12 @@ export interface Set {
 
 	boosters?: Record<string, {
 		name: Languages<string>
+		/**
+		 * Direct, localized booster image URLs.
+		 */
+		logo?: Languages<string>
+		artwork_front?: Languages<string>
+		artwork_back?: Languages<string>
 	}>
 
 	releaseDate: ISODate | Languages<ISODate>

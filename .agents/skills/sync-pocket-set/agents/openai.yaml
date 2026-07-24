@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sync Pocket Set"
+  short_description: "同步并补齐 Pokémon TCG Pocket 集合数据"
+  default_prompt: "Use $sync-pocket-set to sync and complete a Pokémon TCG Pocket set in this repository."

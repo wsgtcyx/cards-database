@@ -132,7 +132,9 @@ export async function setToSetSingle(set: Set, lang: SupportedLanguages): Promis
 		boosters: set.boosters ? objectMap(set.boosters, (booster, id) => ({
 			id: `boo_${set.id}-${id}`,
 			name: resolveText(booster.name, lang),
-			// images will be coming soon...
+			logo: booster.logo ? resolveText(booster.logo, lang) : undefined,
+			artwork_front: booster.artwork_front ? resolveText(booster.artwork_front, lang) : undefined,
+			artwork_back: booster.artwork_back ? resolveText(booster.artwork_back, lang) : undefined,
 		})) : undefined,
 		thirdParty: set.thirdParty
 	}

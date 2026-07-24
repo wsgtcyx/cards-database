@@ -1,0 +1,71 @@
+import { Card } from "../../../interfaces";
+import Set from "../Promos-B";
+
+const card: Card = {
+    set: Set,
+    image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/077",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/077"
+    },
+    name: {
+        en: "Growlithe",
+        fr: "Caninos",
+        es: "Growlithe",
+        it: "Growlithe",
+        de: "Fukano",
+        "pt-br": "Growlithe",
+        "zh-tw": "卡蒂狗",
+        ko: "가디",
+        ja: "ガーディ"
+    },
+    illustrator: "sowsow",
+    rarity: "None",
+    category: "Pokemon",
+    hp: 80,
+    types: ["Fire"],
+    dexId: [58],
+    stage: "Basic",
+    description: {
+        en: "It’s very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+        fr: "C’est très amical et fidèle aux gens. Il tentera de repousser les ennemis en aboyant et en mordant.",
+        es: "Es muy amigable y fiel con la gente. Intentará repeler a los enemigos ladrando y mordiendo.",
+        it: "È molto amichevole e fedele alle persone. Cercherà di respingere i nemici abbaiando e mordendo.",
+        de: "Es ist den Menschen gegenüber sehr freundlich und treu. Es wird versuchen, Feinde durch Bellen und Beißen abzuwehren.",
+        "pt-br": "É muito amigável e fiel às pessoas. Ele tentará repelir os inimigos latindo e mordendo.",
+        "zh-tw": "它對人非常友好和忠誠。它會嘗試透過吠叫和撕咬來擊退敵人。"
+    },
+    attacks: [
+        {
+            cost: ["Colorless", "Colorless"],
+            name: {
+                en: "Puppy Pile",
+                fr: "Chiots à Gogo",
+                es: "Camada",
+                it: "Cucciolata",
+                de: "Welpenhaufen",
+                "pt-br": "Pilha de Filhotes",
+                "zh-tw": "小狗滿地跑"
+            },
+            effect: {
+                en: "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way.",
+                fr: "Révélez tous vos Pokémon en jeu et dans votre main qui ont l'attaque Puppy Pile, et cette attaque inflige 20 dégâts pour chaque Pokémon que vous avez révélé de cette manière.",
+                es: "Revela todos tus Pokémon en juego y en tu mano que tengan el ataque Puppy Pile, y este ataque hace 20 daños por cada Pokémon que revelaste de esta manera.",
+                it: "Rivela tutti i tuoi Pokémon in gioco e nella tua mano che hanno l'attacco Cuccioli Pile, e questo attacco infligge 20 danni per ogni Pokémon che hai rivelato in questo modo.",
+                de: "Zeige alle deine Pokémon im Spiel und auf deiner Hand vor, die über die Attacke „Welpenhaufen“ verfügen. Diese Attacke verursacht 20 Schadenspunkte für jedes Pokémon, das du auf diese Weise aufgedeckt hast.",
+                "pt-br": "Revele todos os seus Pokémon em jogo e na sua mão que tenham o ataque Puppy Pile, e esse ataque causa 20 de dano para cada Pokémon que você revelou dessa forma.",
+                "zh-tw": "展示你場上和手中所有具有小狗堆攻擊的寶可夢，此攻擊對你以這種方式展示的每隻寶可夢造成 20 點傷害。"
+            },
+            damage: "20x"
+        }
+    ],
+    weaknesses: [
+        {
+            type: "Water",
+            value: "+20"
+        }
+    ],
+    retreat: 3,
+    boosters: []
+};
+
+export default card;
