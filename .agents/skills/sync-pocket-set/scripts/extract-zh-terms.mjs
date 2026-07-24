@@ -1,22 +1,30 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
+function getArg(name) {
+	const exact = process.argv.indexOf(`--${name}`)
+	if (exact >= 0) return process.argv[exact + 1]
+	return process.argv.find(value => value.startsWith(`--${name}=`))?.slice(name.length + 3)
+}
+
+function loadJson(file) {
+	return JSON.parse(fs.readFileSync(file, 'utf8'))
+}
+
 const REPO = process.cwd()
-const OCR_PATH = process.env.POCKET_ZH_OCR ?? '/tmp/pocket-zh-ocr.jsonl'
-const POCKETDEX_ROOT = process.env.POCKETDEX_SOURCE ?? '/tmp'
+const manifestPath = getArg('manifest')
+if (!manifestPath) throw new Error('--manifest is required')
+const manifest = loadJson(manifestPath)
+const OCR_PATH = getArg('ocr') ?? process.env.POCKET_ZH_OCR ?? '/tmp/pocket-zh-ocr.jsonl'
 const POKEAPI_MOVE_NAMES = process.env.POKEAPI_MOVE_NAMES ?? '/tmp/pokeapi-move-names.csv'
 const POKEAPI_ABILITY_NAMES = process.env.POKEAPI_ABILITY_NAMES ?? '/tmp/pokeapi-ability-names.csv'
-const OUTPUT_PATH = path.join(REPO, 'scripts/tmp/pocket-zh-source-terms.json')
-const REPORT_PATH = process.env.POCKET_ZH_REPORT ?? '/tmp/pocket-zh-term-report.json'
+const OUTPUT_PATH = getArg('output')
+	?? manifest?.metadata?.zhTermsFile
+	?? path.join(REPO, 'scripts/tmp/pocket-zh-source-terms.json')
+const REPORT_PATH = getArg('report') ?? process.env.POCKET_ZH_REPORT ?? '/tmp/pocket-zh-term-report.json'
 const WRITE = process.argv.includes('--write')
 
-const SETS = {
-	B2b: 'B2b',
-	B3: 'B3',
-	B3a: 'B3a',
-	B3b: 'B3b',
-	'PROMO-B': 'P-B',
-}
+const SETS = { [manifest.set.sourceId]: manifest.set.id }
 
 // Add only values visually checked against the source image when OCR cannot
 // reliably read decorative text.
@@ -68,10 +76,6 @@ const MANUAL = {
 		'Venomous Hit': '毒液一擊',
 		'Windup Cannon': '機關加農炮',
 	},
-}
-
-function loadJson(file) {
-	return JSON.parse(fs.readFileSync(file, 'utf8'))
 }
 
 function parseNameCsv(file) {
@@ -128,16 +132,16 @@ function isPlausibleTerm(value) {
 }
 
 function cardKey(file) {
-	const match = file.match(/zh-TW\/([^/]+)\/(\d+)\.png$/)
+	const match = file.match(/zh-TW\/([^/]+)\/(\d+)\.(?:png|webp)$/)
 	if (!match || !SETS[match[1]]) throw new Error(`Unknown OCR source path: ${file}`)
 	return { sourceSet: match[1], number: Number(match[2]) }
 }
 
 function pocketCardsBySet() {
 	return Object.fromEntries(
-		Object.entries(SETS).map(([sourceSet, set]) => [
+		Object.keys(SETS).map(sourceSet => [
 			sourceSet,
-			new Map(loadJson(path.join(POCKETDEX_ROOT, `pocketdex-${set}.json`))
+			new Map(loadJson(manifest.metadata.detailsFile)
 				.map(card => [Number(card.ID.split('-').at(-1)), card])),
 		]),
 	)
@@ -344,7 +348,16 @@ const report = {
 	},
 }
 
-if (WRITE) fs.writeFileSync(OUTPUT_PATH, `${JSON.stringify(output, null, 2)}\n`)
+if (WRITE) {
+	const existing = fs.existsSync(OUTPUT_PATH)
+		? loadJson(OUTPUT_PATH)
+		: { abilities: {}, attacks: {} }
+	const merged = {
+		abilities: { ...existing.abilities, ...output.abilities },
+		attacks: { ...existing.attacks, ...output.attacks },
+	}
+	fs.writeFileSync(OUTPUT_PATH, `${JSON.stringify(merged, null, 2)}\n`)
+}
 fs.writeFileSync(REPORT_PATH, `${JSON.stringify(report, null, 2)}\n`)
 console.log(JSON.stringify({
 	mode: WRITE ? 'write' : 'dry-run',

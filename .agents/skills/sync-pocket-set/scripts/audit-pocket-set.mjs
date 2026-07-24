@@ -70,18 +70,76 @@ function extractObject(source, property) {
 }
 
 const options = parseArguments(process.argv.slice(2))
-const setDirectory = options['set-dir']
-const setId = options['set-id']
-const expectedCount = Number.parseInt(options['expected-count'], 10)
-const nameLanguages = splitList(options['name-languages'])
-const imageLanguages = splitList(options['image-languages'])
-const boosterIds = splitList(options['booster-ids'])
-const imageOrigin = options['image-origin']?.replace(/\/$/, '')
+const manifest = options.manifest
+  ? JSON.parse(fs.readFileSync(path.resolve(options.manifest), 'utf8'))
+  : undefined
+const setDirectoryValue = options['set-dir']
+  ?? (manifest && `data/Pokémon TCG Pocket/${manifest.set.file}`)
+const setDirectory = setDirectoryValue ? path.resolve(setDirectoryValue) : undefined
+const setId = options['set-id'] ?? manifest?.set?.id
+const expectedCount = Number.parseInt(
+  options['expected-count'] ?? String(manifest?.set?.total),
+  10,
+)
+const nameLanguages = splitList(
+  options['name-languages']
+    ?? (manifest ? 'en,fr,es,it,de,pt-br,zh-tw' : ''),
+)
+const imageLanguages = splitList(
+  options['image-languages']
+    ?? (manifest ? [...new Set(Object.values(manifest.images.cardLanguages))].join(',') : ''),
+)
+const packImageLanguages = manifest
+  ? [...new Set(Object.values(manifest.images.packLanguages))]
+  : []
+const boosterIds = splitList(
+  options['booster-ids']
+    ?? (manifest ? manifest.set.boosters.map((booster) => booster.id).join(',') : ''),
+)
+const imageOrigin = (options['image-origin'] ?? manifest?.r2?.origin)?.replace(/\/$/, '')
 
 assert.ok(setDirectory, '--set-dir is required')
+const setFile = path.join(path.dirname(setDirectory), `${path.basename(setDirectory)}.ts`)
 assert.ok(setId, '--set-id is required')
 assert.ok(Number.isInteger(expectedCount), '--expected-count must be an integer')
 assert.ok(fs.statSync(setDirectory).isDirectory(), `${setDirectory} is not a directory`)
+assert.ok(fs.statSync(setFile).isFile(), `${setFile} is not a file`)
+
+const setSource = fs.readFileSync(setFile, 'utf8')
+assert.match(
+  setSource,
+  new RegExp(`\\bid\\s*:\\s*["']${escapeRegExp(setId)}["']`),
+  `${setFile}: incorrect set ID`,
+)
+
+if (manifest) {
+  assert.match(
+    setSource,
+    new RegExp(`\\bofficial\\s*:\\s*${manifest.set.official}\\b`),
+    `${setFile}: incorrect official count`,
+  )
+  assert.match(
+    setSource,
+    new RegExp(`\\breleaseDate\\s*:\\s*["']${escapeRegExp(manifest.set.releaseDate)}["']`),
+    `${setFile}: incorrect release date`,
+  )
+  const setName = extractObject(setSource, 'name')
+  for (const language of Object.keys(manifest.set.names)) {
+    assert.ok(hasObjectKey(setName, language), `${setFile}: missing name.${language}`)
+  }
+}
+
+const setBoosters = extractObject(setSource, 'boosters')
+for (const boosterId of boosterIds) {
+  assert.ok(hasObjectKey(setBoosters, boosterId), `${setFile}: missing booster ${boosterId}`)
+  for (const language of packImageLanguages) {
+    assert.ok(imageOrigin, 'manifest.r2.origin is required for booster image checks')
+    for (const file of ['logo.webp', 'artwork_front.webp']) {
+      const expectedUrl = `${imageOrigin}/${language}/tcgp/${setId}/boosters/${boosterId}/${file}`
+      assert.ok(setBoosters.includes(expectedUrl), `${setFile}: missing ${expectedUrl}`)
+    }
+  }
+}
 
 const files = fs
   .readdirSync(setDirectory)
@@ -138,6 +196,7 @@ console.log(
     `cards=${files.length}`,
     `nameLanguages=${nameLanguages.length}`,
     `imageLanguages=${imageLanguages.length}`,
+    `packImageLanguages=${packImageLanguages.length}`,
     `boosterMode=${boosterIds.length <= 1 ? 'single' : 'multi'}`,
     'status=ok',
   ].join(' '),

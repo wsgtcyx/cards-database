@@ -33,6 +33,16 @@ R2 object key：
 <language>/tcgp/<set-id>/<NNN>/<size>.webp
 ```
 
+Booster 图片固定为：
+
+```text
+<language>/tcgp/<set-id>/boosters/<booster-id>/logo.webp
+<language>/tcgp/<set-id>/boosters/<booster-id>/artwork_front.webp
+```
+
+Set metadata 中保存 booster 图片的完整 WebP URL；Card metadata 中只保存
+不含 `/high.webp`、`/low.webp` 的图片基址。
+
 ## Booster
 
 `Set.boosters` 表示集合有哪些可开卡包：
@@ -74,6 +84,7 @@ boosters: [] // 不从该 set 的普通 booster 掉落
 - `cardCount.official`：正式编号范围，不含 secret cards；
 - total：目录中实际卡牌数，包括 secret cards；
 - 图片与逐卡 metadata 必须按 total 覆盖。
+- 图片对象总数还要包含每个 booster、每个可用语言的 logo 与 artwork。
 
 例如集合有 93 张正式卡和 38 张 secret cards 时：
 

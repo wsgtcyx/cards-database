@@ -1,9 +1,17 @@
 import fs from 'node:fs'
 import path from 'node:path'
 
+function getArg(name) {
+	const exact = process.argv.indexOf(`--${name}`)
+	if (exact >= 0) return process.argv[exact + 1]
+	return process.argv.find(value => value.startsWith(`--${name}=`))?.slice(name.length + 3)
+}
+
 const REPO = process.cwd()
-const ASSET_SOURCE = process.env.PTCGP_ASSET_SOURCE ?? '/tmp/tcgp-b2a-r2.QMONV8/source'
-const POKEDEX_SOURCE = process.env.POCKETDEX_SOURCE ?? '/tmp'
+const manifestPath = getArg('manifest')
+if (!manifestPath) throw new Error('--manifest is required')
+const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'))
+const ASSET_SOURCE = manifest.source?.checkout
 const POKEAPI_FLAVOR = process.env.POKEAPI_FLAVOR ?? '/tmp/pokeapi-flavor.csv'
 const POKEAPI_SPECIES_NAMES = process.env.POKEAPI_SPECIES_NAMES ?? '/tmp/pokeapi-species-names.csv'
 const POKEAPI_MOVE_NAMES = process.env.POKEAPI_MOVE_NAMES ?? '/tmp/pokeapi-move-names.csv'
@@ -12,9 +20,12 @@ const POKEAPI_ABILITY_NAMES = process.env.POKEAPI_ABILITY_NAMES ?? '/tmp/pokeapi
 // https://wiki.52poke.com/wiki/招式列表（TCGP）
 const POCKET_WIKI_MOVES = process.env.POCKET_WIKI_MOVES ?? '/tmp/52poke-tcgp-moves.html'
 const TRANSLATIONS = path.join(REPO, 'scripts/tmp/pocket-translations.json')
-const ZH_SOURCE_TERMS = path.join(REPO, 'scripts/tmp/pocket-zh-source-terms.json')
-const TODO_PATH = process.env.POCKET_TRANSLATION_TODO ?? '/tmp/pocket-2026-translations.todo.json'
-const GLOSSARY_PATH = process.env.POCKET_TRANSLATION_GLOSSARY ?? '/tmp/pocket-2026-terms.json'
+const ZH_SOURCE_TERMS = manifest?.metadata?.zhTermsFile
+	?? path.join(REPO, 'scripts/tmp/pocket-zh-source-terms.json')
+const TODO_PATH = process.env.POCKET_TRANSLATION_TODO
+	?? `/tmp/pocket-${manifest.set.id}-translations.todo.json`
+const GLOSSARY_PATH = process.env.POCKET_TRANSLATION_GLOSSARY
+	?? `/tmp/pocket-${manifest.set.id}-terms.json`
 const WRITE = process.argv.includes('--write')
 
 const TARGET_LANGS = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
@@ -29,58 +40,95 @@ const LANGUAGES = [
 	['ko', 'ko-KR'],
 	['ja', 'ja-JP'],
 ]
-const R2_ORIGIN = 'https://game.pokemontcgpocket.app'
-
-const SETS = [
-	{
-		code: 'B2b',
-		sourceCode: 'B2b',
-		file: 'Mega Shine',
-		total: 117,
-		official: 69,
-		releaseDate: '2026-03-26',
-		boosters: [{ id: 'mega-shine', sku: 'B2b_1' }],
-	},
-	{
-		code: 'B3',
-		sourceCode: 'B3',
-		file: 'Pulsing Aura',
-		total: 234,
-		official: 155,
-		releaseDate: '2026-04-28',
-		boosters: [{ id: 'pulsing-aura', sku: 'B3_1' }],
-	},
-	{
-		code: 'B3a',
-		sourceCode: 'B3a',
-		file: 'Paradox Drive',
-		total: 109,
-		official: 74,
-		releaseDate: '2026-05-28',
-		boosters: [{ id: 'paradox-drive', sku: 'B3a_1' }],
-	},
-	{
-		code: 'B3b',
-		sourceCode: 'B3b',
-		file: 'Everyday Wonders',
-		total: 106,
-		official: 69,
-		releaseDate: '2026-06-30',
-		boosters: [{ id: 'everyday-wonders', sku: 'B3b_1' }],
-	},
-	{
-		code: 'P-B',
-		sourceCode: 'PROMO-B',
-		file: 'Promos-B',
-		total: 78,
-		official: 0,
-		releaseDate: '2025-10-30',
-		boosters: Array.from({ length: 10 }, (_, index) => ({
-			id: `vol${index + 1}`,
-			sku: `PROMO-B_${index + 1}`,
-		})),
-	},
+const R2_ORIGIN = manifest.r2?.origin ?? 'https://game.pokemontcgpocket.app'
+const CARD_IMAGE_LANGUAGES = [
+	...new Set(Object.values(manifest.images.cardLanguages)),
 ]
+const PACK_IMAGE_LANGUAGES = [
+	...new Set(Object.values(manifest.images.packLanguages)),
+]
+
+const SETS = [{
+	code: manifest.set.id,
+	sourceCode: manifest.set.sourceId,
+	file: manifest.set.file,
+	total: manifest.set.total,
+	official: manifest.set.official,
+	releaseDate: manifest.set.releaseDate,
+	boosters: manifest.set.boosters,
+	detailsFile: manifest.metadata?.detailsFile,
+	detailsSetId: manifest.metadata?.detailsSetId ?? manifest.set.id,
+}]
+
+if (manifest.status !== 'ready') {
+	throw new Error(`Manifest status must be "ready" after research, got ${JSON.stringify(manifest.status)}`)
+}
+const required = [
+		['source.checkout', ASSET_SOURCE],
+		['set.id', manifest.set?.id],
+		['set.sourceId', manifest.set?.sourceId],
+		['set.file', manifest.set?.file],
+		['set.total', manifest.set?.total],
+		['set.official', manifest.set?.official],
+		['set.releaseDate', manifest.set?.releaseDate],
+		['set.boosters', manifest.set?.boosters],
+		['metadata.detailsFile', manifest.metadata?.detailsFile],
+		['metadata.detailsSource.repo', manifest.metadata?.detailsSource?.repo],
+		['metadata.detailsSource.commit', manifest.metadata?.detailsSource?.commit],
+		['metadata.detailsSource.license', manifest.metadata?.detailsSource?.license],
+		['metadata.detailsSource.url', manifest.metadata?.detailsSource?.url],
+	]
+const missing = required
+	.filter(([key, value]) => value === undefined || value === null || value === '')
+	.map(([key]) => key)
+if (missing.length) throw new Error(`Manifest needs researched fields: ${missing.join(', ')}`)
+if (!Number.isInteger(manifest.set.total) || !Number.isInteger(manifest.set.official)) {
+	throw new Error('Manifest set.total and set.official must be integers')
+}
+if (manifest.set.total < 1 || manifest.set.official < 0 || manifest.set.official > manifest.set.total) {
+	throw new Error('Manifest requires 1 <= set.total and 0 <= set.official <= set.total')
+}
+if (!/^\d{4}-\d{2}-\d{2}$/.test(manifest.set.releaseDate)) {
+	throw new Error('Manifest set.releaseDate must use YYYY-MM-DD')
+}
+if (!/^[0-9a-f]{40}$/i.test(manifest.source?.commit ?? '')) {
+	throw new Error('Manifest source.commit must be a full 40-character Git commit')
+}
+if (!/^[0-9a-f]{40}$/i.test(manifest.metadata.detailsSource.commit)) {
+	throw new Error('Manifest metadata.detailsSource.commit must be a full 40-character Git commit')
+}
+if (!/^https?:\/\//.test(manifest.metadata.detailsSource.repo)
+	|| !/^https?:\/\//.test(manifest.metadata.detailsSource.url)) {
+	throw new Error('Manifest detailed metadata source must include HTTP repo and file URLs')
+}
+if (!fs.existsSync(ASSET_SOURCE) || !fs.statSync(ASSET_SOURCE).isDirectory()) {
+	throw new Error(`Manifest source.checkout is not a directory: ${ASSET_SOURCE}`)
+}
+if (!fs.existsSync(manifest.metadata.detailsFile)
+	|| !fs.statSync(manifest.metadata.detailsFile).isFile()) {
+	throw new Error(`Manifest metadata.detailsFile is not a file: ${manifest.metadata.detailsFile}`)
+}
+const evidence = manifest.research?.evidence ?? []
+const requiredEvidenceFields = [
+	'set.releaseDate',
+	'set.official',
+	'metadata.detailsFile',
+	'metadata.detailsSource.commit',
+	'metadata.detailsSource.license',
+]
+const undeclaredEvidence = requiredEvidenceFields
+	.filter(field => !(manifest.research?.required ?? []).includes(field))
+if (undeclaredEvidence.length) {
+	throw new Error(`Manifest research.required is missing: ${undeclaredEvidence.join(', ')}`)
+}
+const missingEvidence = requiredEvidenceFields
+	.filter(field => !evidence.some(item => item?.field === field && /^https?:\/\//.test(item?.url)))
+if (missingEvidence.length) {
+	throw new Error(`Manifest is missing URL evidence for: ${missingEvidence.join(', ')}`)
+}
+if (!manifest.research?.verifiedAt || Number.isNaN(Date.parse(manifest.research.verifiedAt))) {
+	throw new Error('Manifest research.verifiedAt must be a valid timestamp')
+}
 
 const RARITIES = {
 	C: 'One Diamond',
@@ -377,17 +425,20 @@ function loadSetMetadata() {
 }
 
 function setEntry(source, sourceCode) {
-	const group = sourceCode === 'PROMO-B' ? 'P' : 'B'
-	return source[group].find(entry => entry.code === sourceCode)
+	const entry = Object.values(source)
+		.filter(Array.isArray)
+		.flat()
+		.find(candidate => candidate.code === sourceCode)
+	if (!entry) throw new Error(`Set ${sourceCode} is missing from source metadata`)
+	return entry
 }
 
 function getLocalizedSetName(config, setMetadata) {
 	const result = {}
 	for (const [lang, locale] of LANGUAGES) {
 		const entry = setEntry(setMetadata[locale], config.sourceCode)
-		const sourceName = config.sourceCode === 'PROMO-B'
-			? entry.name.en
-			: entry.packs[0].name
+		const sourceName = entry.name?.en ?? entry.packs[0]?.name
+		if (!sourceName) throw new Error(`${config.sourceCode}: missing set name for ${locale}`)
 		result[lang] = SET_NAME_OVERRIDES[config.code]?.[lang] ?? sourceName
 	}
 	return result
@@ -396,9 +447,16 @@ function getLocalizedSetName(config, setMetadata) {
 function localizedCardName(config, number, pocketCard, cardMetadata) {
 	const result = {}
 	const englishSource = cardMetadata['en-US'].get(`${config.sourceCode}-${number}`).name
-	const canonicalEnglish = normalizeText(englishSource) === normalizeText(pocketCard.Name)
+	const sourceMatches = normalizeText(englishSource) === normalizeText(pocketCard.Name)
+	const canonicalEnglish = sourceMatches
 		? englishSource
 		: pocketCard.Name
+	if (!sourceMatches && !FORM_RULES[canonicalEnglish] && !FORM_NAME_OVERRIDES[canonicalEnglish]) {
+		throw new Error(
+			`${pocketCard.ID}: detailed name ${JSON.stringify(canonicalEnglish)} differs from source `
+			+ `${JSON.stringify(englishSource)} without a verified form localization rule`,
+		)
+	}
 	result.en = canonicalEnglish
 
 	for (const [lang, locale] of LANGUAGES.slice(1)) {
@@ -657,7 +715,7 @@ function render(value, level = 0) {
 function buildPackImages(config, booster) {
 	const logo = {}
 	const artworkFront = {}
-	for (const [lang] of LANGUAGES) {
+	for (const lang of PACK_IMAGE_LANGUAGES) {
 		logo[lang] = `${R2_ORIGIN}/${lang}/tcgp/${config.code}/boosters/${booster.id}/logo.webp`
 		artworkFront[lang] = `${R2_ORIGIN}/${lang}/tcgp/${config.code}/boosters/${booster.id}/artwork_front.webp`
 	}
@@ -671,9 +729,8 @@ function buildBoosters(config, setMetadata) {
 		for (const [lang, locale] of LANGUAGES) {
 			const entry = setEntry(setMetadata[locale], config.sourceCode)
 			const sourcePack = entry.packs.find(pack => pack.skuId === booster.sku)
-			name[lang] = config.sourceCode === 'PROMO-B'
-				? sourcePack.name
-				: SET_NAME_OVERRIDES[config.code]?.[lang] ?? sourcePack.name
+			if (!sourcePack) throw new Error(`${config.sourceCode}: missing ${booster.sku} for ${locale}`)
+			name[lang] = SET_NAME_OVERRIDES[config.code]?.[lang] ?? sourcePack.name
 		}
 		result[booster.id] = {
 			name,
@@ -683,28 +740,32 @@ function buildBoosters(config, setMetadata) {
 	return result
 }
 
-function promoBoosters(config, sourceCard) {
-	if (config.code !== 'P-B') return undefined
-	return sourceCard.packs.map(packName => {
-		const match = packName.match(/Vol\. (\d+)$/)
-		if (!match) throw new Error(`Unknown Promo-B pack: ${packName}`)
-		return `vol${match[1]}`
-	})
+function cardBoosters(config, sourceCard, setMetadata) {
+	if (config.boosters.length <= 1) return undefined
+	const entry = setEntry(setMetadata['en-US'], config.sourceCode)
+	const sourcePacks = new Set((sourceCard.packs ?? []).map(normalizeText))
+	return config.boosters
+		.filter(booster => {
+			const sourcePack = entry.packs.find(pack => pack.skuId === booster.sku)
+			if (!sourcePack) throw new Error(`${config.sourceCode}: missing ${booster.sku} in English set metadata`)
+			return sourcePacks.has(normalizeText(sourcePack.name))
+		})
+		.map(booster => booster.id)
 }
 
-function buildCard(config, number, pocketCard, cardMetadata, mapping, todo, dexMap, zhSourceTerms) {
+function buildCard(config, number, pocketCard, cardMetadata, setMetadata, mapping, todo, dexMap, zhSourceTerms) {
 	const sourceCard = cardMetadata['en-US'].get(`${config.sourceCode}-${number}`)
 	const file = `data/Pokémon TCG Pocket/${config.file}/${String(number).padStart(3, '0')}.ts`
 	const context = field => ({ file, path: field })
 	const card = {
 		set: new Raw('Set'),
-		image: {
-			en: `${R2_ORIGIN}/en/tcgp/${config.code}/${String(number).padStart(3, '0')}`,
-			'zh-tw': `${R2_ORIGIN}/zh-tw/tcgp/${config.code}/${String(number).padStart(3, '0')}`,
-		},
+		image: Object.fromEntries(CARD_IMAGE_LANGUAGES.map(language => [
+			language,
+			`${R2_ORIGIN}/${language}/tcgp/${config.code}/${String(number).padStart(3, '0')}`,
+		])),
 		name: localizedCardName(config, number, pocketCard, cardMetadata),
 		illustrator: pocketCard.Illustrator || undefined,
-		rarity: config.code === 'P-B' ? 'None' : RARITIES[sourceCard.rarity],
+		rarity: config.sourceCode.startsWith('PROMO-') ? 'None' : RARITIES[sourceCard.rarity],
 		category: pocketCard['Card-Type'] === 'Pokemon' ? 'Pokemon' : 'Trainer',
 	}
 
@@ -760,15 +821,51 @@ function buildCard(config, number, pocketCard, cardMetadata, mapping, todo, dexM
 		card.trainerType = pocketCard['Card-Type']
 	}
 
-	const boosters = promoBoosters(config, sourceCard)
+	const boosters = cardBoosters(config, sourceCard, setMetadata)
 	if (boosters !== undefined) card.boosters = boosters
 	return card
+}
+
+function detailsFile(config) {
+	return config.detailsFile
 }
 
 function writeFile(file, content) {
 	if (!WRITE) return
 	fs.mkdirSync(path.dirname(file), { recursive: true })
 	fs.writeFileSync(file, content)
+}
+
+function validateDetailedCards(config, cards) {
+	if (cards.length !== config.total) {
+		throw new Error(`${config.code}: expected ${config.total} detailed cards, got ${cards.length}`)
+	}
+	for (const [index, card] of cards.entries()) {
+		const expectedId = `${config.detailsSetId ?? config.code}-${String(index + 1).padStart(3, '0')}`
+		if (card.ID !== expectedId) {
+			throw new Error(`${config.code}: non-contiguous detailed card ID ${card.ID}, expected ${expectedId}`)
+		}
+		if (!card.Name || !card['Card-Type']) {
+			throw new Error(`${card.ID}: detailed metadata requires Name and Card-Type`)
+		}
+		if (card['Card-Type'] === 'Pokemon') {
+			const moveCount = card.Moves?.length ?? 0
+			for (const field of ['Move-Energy', 'Move-Damage', 'Effects']) {
+				if (!Array.isArray(card[field]) || card[field].length !== moveCount) {
+					throw new Error(`${card.ID}: ${field} must align with Moves`)
+				}
+			}
+			const abilities = Array.isArray(card.Ability) ? card.Ability : card.Ability ? [card.Ability] : []
+			const abilityEffects = Array.isArray(card['Ability-Effect'])
+				? card['Ability-Effect']
+				: card['Ability-Effect'] ? [card['Ability-Effect']] : []
+			if (abilities.length !== abilityEffects.length) {
+				throw new Error(`${card.ID}: Ability-Effect must align with Ability`)
+			}
+		} else if (typeof card.Description !== 'string' || !card.Description) {
+			throw new Error(`${card.ID}: Trainer metadata requires Description`)
+		}
+	}
 }
 
 function main() {
@@ -781,8 +878,12 @@ function main() {
 	const pocketMoveNames = buildPocketMoveNameMap()
 	const dexMap = buildDexMap()
 	const usedRuleTerms = new Set()
+	const detailedCards = new Map()
 	for (const config of SETS) {
-		for (const card of loadJson(path.join(POKEDEX_SOURCE, `pocketdex-${config.code}.json`))) {
+		const cards = loadJson(detailsFile(config))
+		validateDetailedCards(config, cards)
+		detailedCards.set(config, cards)
+		for (const card of cards) {
 			for (const move of card.Moves ?? []) usedRuleTerms.add(move)
 			const abilities = Array.isArray(card.Ability) ? card.Ability : card.Ability ? [card.Ability] : []
 			for (const ability of abilities) usedRuleTerms.add(ability)
@@ -799,11 +900,7 @@ function main() {
 	let cardsWritten = 0
 
 	for (const config of SETS) {
-		const pocketId = config.code
-		const pocketCards = loadJson(path.join(POKEDEX_SOURCE, `pocketdex-${pocketId}.json`))
-		if (pocketCards.length !== config.total) {
-			throw new Error(`${config.code}: expected ${config.total} PocketDex cards, got ${pocketCards.length}`)
-		}
+		const pocketCards = detailedCards.get(config)
 		const sourceCards = [...cardMetadata['en-US'].values()]
 			.filter(card => card.set === config.sourceCode && card.number <= config.total)
 		if (sourceCards.length !== config.total) {
@@ -823,13 +920,11 @@ function main() {
 		const setContent = `import { Set } from '../../interfaces'\nimport serie from '../Pokémon TCG Pocket'\n\nconst set: Set = ${render(setObject)}\n\nexport default set\n`
 		writeFile(path.join(REPO, `data/Pokémon TCG Pocket/${config.file}.ts`), setContent)
 
+		const usedBoosters = new Set()
 		for (const pocketCard of pocketCards) {
 			const number = Number(pocketCard.ID.split('-').at(-1))
-			const expectedId = `${config.code}-${String(number).padStart(3, '0')}`
-			if (pocketCard.ID !== expectedId) {
-				throw new Error(`${config.code}: non-contiguous card ID ${pocketCard.ID}, expected ${expectedId}`)
-			}
-			const card = buildCard(config, number, pocketCard, cardMetadata, mapping, todo, dexMap, zhSourceTerms)
+			const card = buildCard(config, number, pocketCard, cardMetadata, setMetadata, mapping, todo, dexMap, zhSourceTerms)
+			for (const booster of card.boosters ?? []) usedBoosters.add(booster)
 			const content = `import { Card } from "../../../interfaces";\nimport Set from "../${config.file}";\n\nconst card: Card = ${render(card)};\n\nexport default card;\n`
 			writeFile(
 				path.join(REPO, `data/Pokémon TCG Pocket/${config.file}/${String(number).padStart(3, '0')}.ts`),
@@ -842,6 +937,14 @@ function main() {
 				TARGET_LANGS.filter(lang => names[lang]).map(lang => [lang, names[lang]]),
 			)
 		}
+		if (config.boosters.length > 1) {
+			const unusedBoosters = config.boosters
+				.map(booster => booster.id)
+				.filter(booster => !usedBoosters.has(booster))
+			if (unusedBoosters.length) {
+				throw new Error(`${config.code}: no cards were assigned to boosters ${unusedBoosters.join(', ')}`)
+			}
+		}
 	}
 
 	const todoEntries = [...todo.values()]
@@ -853,11 +956,11 @@ function main() {
 		}))
 		.sort((left, right) => left.en.localeCompare(right.en))
 
-	if (WRITE) {
-		fs.writeFileSync(TRANSLATIONS, `${JSON.stringify(mapping, null, 2)}\n`)
-		fs.writeFileSync(TODO_PATH, `${JSON.stringify(todoEntries, null, 2)}\n`)
-		fs.writeFileSync(GLOSSARY_PATH, `${JSON.stringify(glossary, null, 2)}\n`)
-	}
+	fs.mkdirSync(path.dirname(TODO_PATH), { recursive: true })
+	fs.mkdirSync(path.dirname(GLOSSARY_PATH), { recursive: true })
+	fs.writeFileSync(TODO_PATH, `${JSON.stringify(todoEntries, null, 2)}\n`)
+	fs.writeFileSync(GLOSSARY_PATH, `${JSON.stringify(glossary, null, 2)}\n`)
+	if (WRITE) fs.writeFileSync(TRANSLATIONS, `${JSON.stringify(mapping, null, 2)}\n`)
 
 	console.log(JSON.stringify({
 		mode: WRITE ? 'write' : 'dry-run',

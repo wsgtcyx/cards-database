@@ -2,42 +2,54 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { pathToFileURL } from 'node:url'
 
-const INPUT_ROOT = process.env.POCKET_ASSET_INPUT ?? '/tmp/tcgp-import-assets'
-const OUTPUT_ROOT = process.env.POCKET_ASSET_OUTPUT ?? '/tmp/tcgp-r2-2026'
-const SHARP_ENTRY = process.env.SHARP_ENTRY
-	?? '/Users/andy/sohu/独立开发/tcgp/node_modules/sharp/lib/index.js'
+function getArg(name) {
+	const exact = process.argv.indexOf(`--${name}`)
+	if (exact >= 0) return process.argv[exact + 1]
+	return process.argv.find(value => value.startsWith(`--${name}=`))?.slice(name.length + 3)
+}
+
+function loadJson(file) {
+	return JSON.parse(fs.readFileSync(file, 'utf8'))
+}
+
+const manifestPath = getArg('manifest')
+if (!manifestPath) throw new Error('--manifest is required')
+const config = loadJson(manifestPath)
+if (!config.set?.id
+	|| !config.set?.sourceId
+	|| !Number.isInteger(config.set?.total)
+	|| !Array.isArray(config.set?.boosters)
+	|| !config.images?.cardLanguages
+	|| !config.images?.cardSourceFormats
+	|| !config.images?.packLanguages) {
+	throw new Error('Manifest is missing source set or image discovery fields')
+}
+const INPUT_ROOT = getArg('input')
+	?? process.env.POCKET_ASSET_INPUT
+	?? `/tmp/tcgp-import-${config.set.id}`
+const OUTPUT_ROOT = getArg('output')
+	?? process.env.POCKET_ASSET_OUTPUT
+	?? `/tmp/tcgp-r2-${config.set.id}`
+const sharpCandidates = [
+	process.env.SHARP_ENTRY,
+	path.resolve(process.cwd(), 'node_modules/sharp/lib/index.js'),
+	path.resolve(process.cwd(), '../tcgp/node_modules/sharp/lib/index.js'),
+].filter(Boolean)
+const SHARP_ENTRY = sharpCandidates.find(candidate => fs.existsSync(candidate))
+if (!SHARP_ENTRY) {
+	throw new Error(`Sharp not found. Set SHARP_ENTRY. Checked: ${sharpCandidates.join(', ')}`)
+}
 const sharp = (await import(pathToFileURL(SHARP_ENTRY).href)).default
 
-const CARD_LANGUAGES = {
-	'en-US': 'en',
-	'zh-TW': 'zh-tw',
-}
-const PACK_LANGUAGES = {
-	'en-US': 'en',
-	'fr-FR': 'fr',
-	'es-ES': 'es',
-	'it-IT': 'it',
-	'de-DE': 'de',
-	'pt-BR': 'pt-br',
-	'zh-TW': 'zh-tw',
-	'ko-KR': 'ko',
-	'ja-JP': 'ja',
-}
-const SETS = [
-	{ source: 'B2b', id: 'B2b', count: 117, boosters: [{ source: 'B2b_1', id: 'mega-shine' }] },
-	{ source: 'B3', id: 'B3', count: 234, boosters: [{ source: 'B3_1', id: 'pulsing-aura' }] },
-	{ source: 'B3a', id: 'B3a', count: 109, boosters: [{ source: 'B3a_1', id: 'paradox-drive' }] },
-	{ source: 'B3b', id: 'B3b', count: 106, boosters: [{ source: 'B3b_1', id: 'everyday-wonders' }] },
-	{
-		source: 'PROMO-B',
-		id: 'P-B',
-		count: 78,
-		boosters: Array.from({ length: 10 }, (_, index) => ({
-			source: `PROMO-B_${index + 1}`,
-			id: `vol${index + 1}`,
-		})),
-	},
-]
+const CARD_LANGUAGES = config.images.cardLanguages
+const CARD_SOURCE_FORMATS = config.images.cardSourceFormats
+const PACK_LANGUAGES = config.images.packLanguages
+const SETS = [{
+	source: config.set.sourceId,
+	id: config.set.id,
+	count: config.set.total,
+	boosters: config.set.boosters.map(booster => ({ source: booster.sku, id: booster.id })),
+}]
 
 async function runPool(tasks, concurrency = 8) {
 	let cursor = 0
@@ -66,18 +78,31 @@ function outputPath(key) {
 	return file
 }
 
+function listWebpKeys(root, directory = root) {
+	if (!fs.existsSync(directory)) return []
+	return fs.readdirSync(directory, { withFileTypes: true }).flatMap(entry => {
+		const absolute = path.join(directory, entry.name)
+		if (entry.isDirectory()) return listWebpKeys(root, absolute)
+		if (entry.isFile() && entry.name.endsWith('.webp')) {
+			return [path.relative(root, absolute).split(path.sep).join('/')]
+		}
+		return []
+	})
+}
+
 const tasks = []
 const manifest = []
 
 for (const set of SETS) {
 	for (const [sourceLanguage, outputLanguage] of Object.entries(CARD_LANGUAGES)) {
+		const sourceFormat = CARD_SOURCE_FORMATS[sourceLanguage] ?? 'png'
 		for (let number = 1; number <= set.count; number++) {
 			const localId = String(number).padStart(3, '0')
-			const input = path.join(INPUT_ROOT, 'cards', sourceLanguage, set.source, `${number}.png`)
+			const input = path.join(INPUT_ROOT, 'cards', sourceLanguage, set.source, `${number}.${sourceFormat}`)
 			const highKey = `${outputLanguage}/tcgp/${set.id}/${localId}/high.webp`
 			const lowKey = `${outputLanguage}/tcgp/${set.id}/${localId}/low.webp`
 			tasks.push(async () => {
-				const source = await ensureImage(input, 'png')
+				const source = await ensureImage(input, sourceFormat)
 				await Promise.all([
 					sharp(input)
 						.webp({ quality: 90, effort: 4 })
@@ -129,15 +154,29 @@ for (const set of SETS) {
 	}
 }
 
-console.log(`Preparing ${tasks.length} R2 objects...`)
+console.log(`Running ${tasks.length} image conversion tasks...`)
 await runPool(tasks)
 
 manifest.sort((left, right) => left.key.localeCompare(right.key))
-const expectedCards = SETS.reduce((total, set) => total + set.count, 0) * 2 * 2
-const expectedBoosters = SETS.reduce((total, set) => total + set.boosters.length, 0) * 9 * 2
+const expectedCards = SETS.reduce((total, set) => total + set.count, 0)
+	* Object.keys(CARD_LANGUAGES).length
+	* 2
+const expectedBoosters = SETS.reduce((total, set) => total + set.boosters.length, 0)
+	* Object.keys(PACK_LANGUAGES).length
+	* 2
 const expectedTotal = expectedCards + expectedBoosters
+if (config.images.expectedObjects?.cards !== expectedCards
+	|| config.images.expectedObjects?.boosters !== expectedBoosters
+	|| config.images.expectedObjects?.total !== expectedTotal) {
+	throw new Error('Manifest expected object counts do not match its set and image fields')
+}
 if (manifest.length !== expectedTotal) {
 	throw new Error(`Expected ${expectedTotal} objects, prepared ${manifest.length}`)
+}
+const preparedKeys = manifest.map(object => object.key).sort()
+const actualKeys = listWebpKeys(OUTPUT_ROOT).sort()
+if (JSON.stringify(actualKeys) !== JSON.stringify(preparedKeys)) {
+	throw new Error('Output directory contains missing or stale WebP objects; use a fresh output directory')
 }
 
 fs.writeFileSync(path.join(OUTPUT_ROOT, 'manifest.json'), `${JSON.stringify(manifest, null, 2)}\n`)

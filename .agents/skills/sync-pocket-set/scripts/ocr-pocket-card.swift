@@ -2,6 +2,8 @@ import AppKit
 import Foundation
 import Vision
 
+// Emits one JSON line per image for extract-zh-terms.mjs.
+
 guard CommandLine.arguments.count >= 2 else {
     fputs("usage: swift ocr-pocket-card.swift [--output <jsonl>] <image>...\n", stderr)
     exit(2)

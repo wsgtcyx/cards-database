@@ -2,24 +2,55 @@ import { spawn } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
 
-const SOURCE_COMMIT = 'e76e7962090dcbebbd33978a231a6227c16e7367'
-const SOURCE_ROOT = `https://raw.githubusercontent.com/shelken/ptcgp-assets/${SOURCE_COMMIT}/images`
-const OUTPUT_ROOT = process.env.POCKET_ASSET_INPUT ?? '/tmp/tcgp-import-assets'
+function getArg(name) {
+	const exact = process.argv.indexOf(`--${name}`)
+	if (exact >= 0) return process.argv[exact + 1]
+	return process.argv.find(value => value.startsWith(`--${name}=`))?.slice(name.length + 3)
+}
 
-const CARD_LANGUAGES = ['en-US', 'zh-TW']
-const PACK_LANGUAGES = ['en-US', 'fr-FR', 'es-ES', 'it-IT', 'de-DE', 'pt-BR', 'zh-TW', 'ko-KR', 'ja-JP']
-const SETS = [
-	{ source: 'B2b', count: 117, boosters: ['B2b_1'] },
-	{ source: 'B3', count: 234, boosters: ['B3_1'] },
-	{ source: 'B3a', count: 109, boosters: ['B3a_1'] },
-	{ source: 'B3b', count: 106, boosters: ['B3b_1'] },
-	{
-		source: 'PROMO-B',
-		count: 78,
-		boosters: Array.from({ length: 10 }, (_, index) => `PROMO-B_${index + 1}`),
-	},
-]
+function loadJson(file) {
+	return JSON.parse(fs.readFileSync(file, 'utf8'))
+}
 
+function normalizeRepo(value) {
+	return value
+		.replace(/^https:\/\/github\.com\//, '')
+		.replace(/^git@github\.com:/, '')
+		.replace(/\.git$/, '')
+}
+
+const manifestPath = getArg('manifest')
+if (!manifestPath) throw new Error('--manifest is required')
+const manifest = loadJson(manifestPath)
+if (!manifest.source?.repo
+	|| !manifest.set?.id
+	|| !manifest.set?.sourceId
+	|| !Number.isInteger(manifest.set?.total)
+	|| !Array.isArray(manifest.set?.boosters)
+	|| !manifest.images?.cardLanguages
+	|| !manifest.images?.cardSourceFormats
+	|| !manifest.images?.packLanguages) {
+	throw new Error('Manifest is missing source, set, or image discovery fields')
+}
+const SOURCE_COMMIT = manifest.source?.commit
+const SOURCE_REPO = normalizeRepo(manifest.source?.repo)
+const SOURCE_ROOT = manifest.source?.rawImagesBase
+	?? `https://raw.githubusercontent.com/${SOURCE_REPO}/${SOURCE_COMMIT}/images`
+const OUTPUT_ROOT = getArg('output')
+	?? process.env.POCKET_ASSET_INPUT
+	?? `/tmp/tcgp-import-${manifest.set.id}`
+const CARD_LANGUAGES = Object.keys(manifest.images.cardLanguages)
+const PACK_LANGUAGES = Object.keys(manifest.images.packLanguages)
+const CARD_SOURCE_FORMATS = manifest.images.cardSourceFormats
+const SETS = [{
+	source: manifest.set.sourceId,
+	count: manifest.set.total,
+	boosters: manifest.set.boosters.map(booster => booster.sku),
+}]
+
+if (!SOURCE_COMMIT || !/^[0-9a-f]{40}$/i.test(SOURCE_COMMIT)) {
+	throw new Error('Manifest source.commit must be a full 40-character Git commit')
+}
 function isValidImage(file, format) {
 	if (!fs.existsSync(file)) return false
 	const bytes = fs.readFileSync(file)
@@ -84,11 +115,12 @@ async function runPool(tasks, concurrency = 4) {
 const tasks = []
 for (const set of SETS) {
 	for (const language of CARD_LANGUAGES) {
+		const format = CARD_SOURCE_FORMATS[language] ?? 'png'
 		for (let number = 1; number <= set.count; number++) {
 			tasks.push(download({
-				source: `${SOURCE_ROOT}/${language}/cards-by-set/${set.source}/${number}.png`,
-				output: path.join(OUTPUT_ROOT, 'cards', language, set.source, `${number}.png`),
-				format: 'png',
+				source: `${SOURCE_ROOT}/${language}/cards-by-set/${set.source}/${number}.${format}`,
+				output: path.join(OUTPUT_ROOT, 'cards', language, set.source, `${number}.${format}`),
+				format,
 			}))
 		}
 	}

@@ -1,36 +1,46 @@
 ---
 name: sync-pocket-set
-description: Sync and complete a specific Pokémon TCG Pocket set in this cards-database fork. Use when importing upstream set commits, filling multilingual card data, sourcing and hosting missing card images, adding per-card image metadata, deciding booster assignments, validating a Pocket set, or publishing the resulting scoped changes.
+description: Prepare and publish one Pokémon TCG Pocket set from only its set ID in this cards-database fork. Use when the user gives an ID such as B4, B4a, P-B, or Promo-B and wants the set discovered, researched, localized, added to repository metadata, converted to WebP, uploaded to the existing game R2 bucket, audited, and optionally committed or pushed.
 ---
 
 # Sync Pocket Set
 
-在仓库根目录执行。以“目标集合的数据、图片和 API 输出完整且不破坏下游”为完成标准。
+在仓库根目录执行。用户在“同步、接入或使用本 skill”的语境里只需提供
+set ID；不要再向用户索要可从来源发现的英文名、卡数、booster、语言、
+图片路径、bucket 或公开域名。
 
-## 1. 建立范围
+## 默认完成标准
 
-先读取最近的 `AGENTS.md` 并执行：
+`$sync-pocket-set B4a` 默认表示完成整条链路：
+
+1. 固定真实来源版本并生成 set manifest；
+2. 联网核实发布日期、official count 和详细卡牌数据；
+3. 新增 set 与 `001..total` 全部卡牌 metadata；
+4. 补齐 `fr/es/it/de/pt-br/zh-tw`，专名使用官方译法；
+5. 判断并写入真实 booster 归属；
+6. 将所有可用卡图和 pack 图统一转为 WebP；
+7. 上传到既有 Cloudflare R2 `game` bucket；
+8. 写入逐卡 `image` 和 booster 图片 URL；
+9. 运行审计、TypeScript 检查和公网验证。
+
+只读询问（例如“看看 B4 有什么”）不触发仓库或 R2 写入。commit/push 仍只在用户明确要求时执行。
+
+默认图片公开域名是 `https://game.pokemontcgpocket.app`。默认素材索引是
+[`shelken/ptcgp-assets`](https://github.com/shelken/ptcgp-assets)，但每次必须固定到
+完整 commit，不使用浮动分支 URL。
+
+## 1. 范围与工作树
+
+先读取最近的 `AGENTS.md`，然后：
 
 ```bash
 git status -sb
 git remote -v
 ```
 
-明确并记录：
+保护用户现有改动。目标 set、实际修改路径和 staged paths 必须一致。不得自动修改下游应用。
 
-- set ID、英文名、发布日期；
-- official card count 与 total card count；
-- booster ID 列表；
-- 需要同步的上游 commits；
-- 目标语言；
-- 图片来源、R2 bucket、公开域名；
-- 用户是否要求 commit/push。
-
-保护已有工作树。目标、实际修改路径、staged paths 必须一致。未经明确要求，不修改下游应用。
-
-## 2. 同步上游
-
-先 fetch 上游，再只查影响目标 Pocket set 的 commits：
+如果配置了上游，先只读检查目标 set 是否已有可复用提交：
 
 ```bash
 git fetch upstream
@@ -38,152 +48,273 @@ git log --oneline --name-only HEAD..upstream/master -- \
   'data/Pokémon TCG Pocket*' 'data-asia/Pokémon TCG Pocket*'
 ```
 
-逐个检查 commit diff，按依赖顺序 cherry-pick。不要 merge 整个上游，也不要把无关 set 带入。
+逐个检查 diff。只 cherry-pick 目标 set 所需提交，不 merge 整个上游。上游不完整时继续本流程补齐，不能把“上游已有文件”等同于完成。
 
-## 3. 补齐集合与卡牌文本
+## 2. 只用 set ID 自动发现
 
-保持现有 TypeScript schema、字段顺序、数值和英文原文。目标 Pocket 本地化通常包括：
+准备隔离的临时目录和 source checkout：
 
-```text
-fr, es, it, de, pt-br, zh-tw
+```bash
+SET_ID='B4a' # 替换为用户给出的唯一输入
+SKILL_DIR="$PWD/.agents/skills/sync-pocket-set"
+WORK_ROOT=$(mktemp -d /tmp/pocket-set.XXXXXX)
+SOURCE_ROOT="$WORK_ROOT/ptcgp-assets"
+MANIFEST="$WORK_ROOT/set.manifest.json"
+
+git clone --depth 1 --filter=blob:none --sparse \
+  https://github.com/shelken/ptcgp-assets "$SOURCE_ROOT"
+git -C "$SOURCE_ROOT" sparse-checkout set metadata
+
+node "$SKILL_DIR/scripts/discover-pocket-set.mjs" \
+  --set-id "$SET_ID" \
+  --source-root "$SOURCE_ROOT" \
+  --output "$MANIFEST"
 ```
 
-联网核对 Pokémon、Trainer、Item、Ability、Attack、Set 和 Booster 的官方专名。优先 Pokémon 官方页面或游戏内一手数据；再用高质量卡表交叉验证。区分已验证翻译与推断，不把英文占位伪装成本地化。
+`P-B`、`Promo-B` 和 `PROMO-B` 会归一为项目 ID `P-B`、source ID `PROMO-B`。
 
-检查整个 set 的：
+发现脚本自动确定：
 
-- set/booster 名称；
-- card name、description、evolveFrom；
-- attack/ability/item/effect；
-- Trainer 和 Energy 相关字段。
+- 大小写准确的 source/project ID；
+- set 文件名、total、九种语言的 set/pack 名；
+- booster SKU 与稳定 slug；
+- 连续的卡牌 metadata；
+- 完整可用的卡图语言和源格式；
+- 完整可用的 pack/logo 语言；
+- 精确 R2 对象数；
+- 素材仓库完整 commit。
 
-若当前环境提供 `add-pocket-translations`，同时遵循该 Skill 的术语与验证规则。
+读取 [references/manifest.md](references/manifest.md)。manifest 初始状态必须是
+`needs-research`，不能直接改成 `ready`。
 
-## 4. 判断 boosters
+## 3. 联网研究门禁
 
-读取 [references/data-contract.md](references/data-contract.md) 的 booster 约定。
+对时效性事实必须联网。优先级：
 
-- Set 级始终声明真实 booster。
-- 单 booster set：卡牌不重复写 `boosters`。
-- 多 booster set：每张卡按真实获取方式显式写 `boosters`；公共卡可包含多个 ID，不从普通包掉落的卡可写空数组。
+1. Pokémon 官方公告、游戏内一手数据；
+2. 固定版本的游戏资源或公开数据仓库；
+3. Limitless 等完整卡表用于交叉验证。
 
-不要因为 set API 返回一个 booster，就给单包集合的所有卡机械添加相同字段。若产品要求单包卡牌也显式返回 booster，应做适用于所有单包集合的统一编译策略，不做目标 set 特判。
+必须核实并回填：
 
-## 5. 补齐图片
+- `set.releaseDate`：正式发布日期，格式 `YYYY-MM-DD`；
+- `set.official`：正式编号数量，不含 secret cards；
+- `metadata.detailsFile`：覆盖全部卡牌的本地英文详细 metadata；
+- `metadata.detailsSource`：repo、40 位 commit、license 和固定文件 URL；
+- `research.evidence`：每个 `research.required` 字段对应的 URL 证据；
+- `research.verifiedAt`：本次核实时间。
 
-先检查 TCGdex 图片索引是否已有目标 set。缺失时联网寻找完整来源，并核对：
+详细 metadata 必须包含规则文本、招式、能量、伤害、illustrator、flavor text
+等生成 `Card` 所需信息。先联网确认当前仍完整、许可证允许使用的来源；可复用
+PocketDex-Codex 或更可靠的新来源，但不得假设旧来源一定已更新。
 
-- 图片数等于 total card count；
-- 文件编号与卡牌 local ID 一一对应；
-- 可用语言；
-- 来源声明与使用边界。
+下载后验证：
 
-不要把 GitHub Raw 当生产 CDN。需要自托管时：
+- 数量严格等于 `set.total`；
+- ID 严格连续，且 set 前缀与 `metadata.detailsSetId` 一致；
+- 内容确实属于目标集合；
+- 来源 URL 固定到 manifest 中的 commit；
+- 不用搜索摘要或二手文章替代源文件。
 
-1. 先确认用户授权外部写入和 Cloudflare 凭据；
-2. 转为 WebP，不放大源图；
-3. 生成 `high.webp` 与 `low.webp`；
-4. 上传到既有 `game` R2 bucket；
-5. 使用不可变缓存头。
+所有字段有证据后才设置：
 
-项目 R2 key：
-
-```text
-<image-lang>/tcgp/<set-id>/<card-id>/high.webp
-<image-lang>/tcgp/<set-id>/<card-id>/low.webp
+```json
+{
+  "status": "ready"
+}
 ```
 
-公开基址：
+来源冲突无法消解、详细机制数据不完整或许可证不清楚时停止并报告缺口；禁止猜测。
 
-```text
-https://game.pokemontcgpocket.app/<image-lang>/tcgp/<set-id>/<card-id>
+## 4. 下载素材与中文术语
+
+下载 manifest 中声明的全部原图：
+
+```bash
+ASSET_INPUT="$WORK_ROOT/assets"
+
+node "$SKILL_DIR/scripts/download-assets.mjs" \
+  --manifest "$MANIFEST" \
+  --output "$ASSET_INPUT"
 ```
 
-推荐转换参数：
+下载器会按 manifest 的真实卡图格式处理 PNG/WebP，并验证文件 magic bytes。
 
-- high：保留源尺寸，WebP quality 90；
-- low：宽 245px、保持比例、不放大，WebP quality 82；
+若 `zh-TW` 卡图完整，使用游戏卡面 OCR 辅助确认繁体中文招式和特性：
+
+```bash
+OCR_FILE="$WORK_ROOT/zh-ocr.jsonl"
+
+find "$ASSET_INPUT/cards/zh-TW" -type f \
+  \( -name '*.png' -o -name '*.webp' \) -print0 |
+  xargs -0 swift "$SKILL_DIR/scripts/ocr-pocket-card.swift" \
+    --output "$OCR_FILE"
+
+node "$SKILL_DIR/scripts/extract-zh-terms.mjs" \
+  --manifest "$MANIFEST" \
+  --ocr "$OCR_FILE" \
+  --report "$WORK_ROOT/zh-term-report.json" \
+  --write
+```
+
+OCR 只是候选证据。逐项处理 unresolved、ambiguous 和 diagnostics；装饰字体识别不清时人工查看卡面，不凭 OCR 猜专名。
+
+## 5. 生成 metadata 与多语言
+
+导入器从 `ptcgp-assets` 读取九语名称、进化前名称、稀有度和 pack 归属，从
+固定的详细来源读取英文机制数据。
+
+先 dry-run：
+
+```bash
+POCKET_TRANSLATION_TODO="$WORK_ROOT/translations.todo.json" \
+POCKET_TRANSLATION_GLOSSARY="$WORK_ROOT/terms.json" \
+node "$SKILL_DIR/scripts/import-metadata.mjs" \
+  --manifest "$MANIFEST"
+```
+
+按照待办更新 `scripts/tmp/pocket-translations.json`，再重复 dry-run，直到
+`todoStrings: 0`。若当前环境提供 `add-pocket-translations`，同时遵循该 skill。
+
+翻译要求：
+
+- 目标语言：`fr/es/it/de/pt-br/zh-tw`；
+- Pokémon、Trainer、Item、Ability、Attack、Set、Booster 使用官方专名；
+- 卡名、`evolveFrom` 和 pack 名优先采用游戏资源中的本地化；
+- 详细来源与游戏资源的英文卡名不一致时，先核实地区形态/特殊形态，并补
+  `FORM_RULES` 或 `FORM_NAME_OVERRIDES`；不要丢掉形态前缀；
+- 规则文本保持伤害、能量、状态、回合条件和占位符语义；
+- 英文占位、漏语言或未经核实的机器翻译都不算完成。
+
+翻译清零后写入：
+
+```bash
+POCKET_TRANSLATION_TODO="$WORK_ROOT/translations.todo.json" \
+POCKET_TRANSLATION_GLOSSARY="$WORK_ROOT/terms.json" \
+node "$SKILL_DIR/scripts/import-metadata.mjs" \
+  --manifest "$MANIFEST" \
+  --write
+```
+
+读取 [references/data-contract.md](references/data-contract.md)，特别检查 booster：
+
+- Set 级始终声明真实 booster；
+- 单 booster set 的卡牌不重复写 `boosters`；
+- 多 booster set 每张卡按来源显式写数组，非普通包掉落可为 `[]`。
+
+不要在 compiler 中添加目标 set 特判。
+
+## 6. 转换 WebP 并预检 R2
+
+```bash
+ASSET_OUTPUT="$WORK_ROOT/r2"
+UPLOAD_RESULTS="$WORK_ROOT/upload-results"
+
+node "$SKILL_DIR/scripts/prepare-r2-assets.mjs" \
+  --manifest "$MANIFEST" \
+  --input "$ASSET_INPUT" \
+  --output "$ASSET_OUTPUT"
+```
+
+脚本会依次查找本仓库 `sharp`、唯一的 sibling 下游 `../tcgp` 中的 `sharp`，
+也可用 `SHARP_ENTRY` 指向现有安装；不要仅为本步骤擅自升级依赖。
+
+转换约定：
+
+- card high：不放大、保留源尺寸、WebP quality 90；
+- card low：宽 245px、保持比例、不放大、WebP quality 82；
+- booster logo/artwork：WebP quality 90；
 - `Content-Type: image/webp`；
 - `Cache-Control: public, max-age=31536000, immutable`。
 
-上传前抽查目标 key 是否已存在，避免未知覆盖。上传后核对对象数、零字节文件、首张/边界/末张的 high/low、响应类型和尺寸。
-
-## 6. 写入逐卡 image
-
-将图片基址写进每张卡的源数据，不含 `/high.webp` 或 `/low.webp`：
-
-```ts
-image: {
-    en: "https://game.pokemontcgpocket.app/en/tcgp/B2a/001",
-    "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/001"
-},
-```
-
-使用通用 schema：
-
-```ts
-image?: Languages
-```
-
-编译器优先读取卡牌自身图片，并回退英文：
-
-```ts
-const cardPicture = card.image?.[lang] ?? card.image?.en
-```
-
-保留原 TCGdex lookup 作为没有逐卡 `image` 时的 fallback。不要在编译器中硬编码某个 set ID 或第三方 Raw URL。
-
-## 7. 验证
-
-先运行只读审计脚本：
+上传前验证本地 object manifest 并检查未知覆盖：
 
 ```bash
-node .agents/skills/sync-pocket-set/scripts/audit-pocket-set.mjs \
-  --set-dir 'data/Pokémon TCG Pocket/Paldean Wonders' \
-  --set-id B2a \
-  --expected-count 131 \
-  --name-languages en,fr,es,it,de,pt-br,zh-tw \
-  --image-origin https://game.pokemontcgpocket.app \
-  --image-languages en,zh-tw \
-  --booster-ids paldea
+node "$SKILL_DIR/scripts/preflight-r2.mjs" \
+  --manifest "$MANIFEST" \
+  --objects "$ASSET_OUTPUT/manifest.json" \
+  --receipts "$UPLOAD_RESULTS"
 ```
 
-再执行：
+已有本次 receipts 的对象可幂等跳过；公开域名已存在但没有本次 receipts 的 key
+视为未知碰撞，禁止覆盖。
+
+## 7. 上传到既有 game R2
+
+`$sync-pocket-set <ID>` 的完整同步语境已包含本步骤，不再让用户逐项确认
+bucket、域名或每张图片。若 Cloudflare 登录态/权限缺失，报告为唯一凭据阻塞；
+不得上传到新 bucket 或改域名绕过。
 
 ```bash
+export POCKET_R2_OUTPUT_ROOT="$ASSET_OUTPUT"
+export POCKET_R2_RESULTS_ROOT="$UPLOAD_RESULTS"
+export POCKET_R2_BUCKET="game"
+
+find "$ASSET_OUTPUT" -type f -name '*.webp' -print0 |
+  xargs -0 -n 1 -P 4 zsh "$SKILL_DIR/scripts/upload-r2-object.zsh"
+```
+
+上传器为每个成功对象保存 `.ok` receipt。失败后可原命令重试，已成功对象不会重复写入。
+
+## 8. 强制验证
+
+先检查本地 metadata、准备清单、upload receipts 和公网对象：
+
+```bash
+node "$SKILL_DIR/scripts/audit-pocket-set.mjs" \
+  --manifest "$MANIFEST"
+
+node "$SKILL_DIR/scripts/verify-r2.mjs" \
+  --manifest "$MANIFEST" \
+  --objects "$ASSET_OUTPUT/manifest.json" \
+  --receipts "$UPLOAD_RESULTS"
+
 git diff --check
+npm run validate
 ```
 
-运行与仓库环境相符的 TypeScript 检查。若没有本仓库 `node_modules`，可使用已存在的 TypeScript 运行时做目标文件检查，但不要为了验证擅自升级依赖。
+`verify-r2.mjs` 必须确认：
 
-交付前对抗式检查：
+- 本地 keys 与 manifest 推导结果完全一致；
+- 每个对象都有 upload receipt；
+- 首张、中间、末张的各语言 high/low 可公网读取；
+- 所有 booster 的各语言 logo/artwork 可公网读取；
+- 响应是 WebP 且带一年 immutable cache。
 
-- card files、图片对象和翻译覆盖数是否一致；
-- card ID 是否连续且三位补零；
-- image language 与 R2 key 是否一致；
+交付前以最挑剔的审查者检查：
+
+- set/card/图片数量、ID 与 source commit 是否闭环；
+- official/total 是否混淆；
+- 多语言是否全量且专名可信；
 - 单包/多包 booster 规则是否正确；
-- API 输出是否为 base URL；
-- 下游的 `/{high|low}.webp` 契约是否保持；
-- 工作树是否只包含目标仓库和目标 set。
+- Card image 是不含尺寸后缀的 base URL；
+- Set booster 图片是完整 `.webp` URL；
+- 没有 GitHub Raw 生产 URL；
+- 没有改下游或夹带其他工作树改动。
 
-## 8. 发布
+任何目标范围内失败都先修复并重跑；不能只凭 build 通过宣称完成。
 
-仅在用户明确要求时 commit/push。显式暂存目标文件，复核 cached diff，再推送当前约定分支。不要使用 `git add -A` 夹带用户改动。
+## 9. 发布与报告
+
+仅在用户明确要求时 commit/push。显式暂存目标 set、必要 schema/compiler
+变更、翻译映射和本 skill 的目标文件；禁止 `git add -A`。
 
 最终报告：
 
-- 上游 commits；
-- 翻译语言和覆盖数；
-- 图片来源、R2 对象数与公开 URL；
-- booster 判断；
-- 验证结果；
-- commit 与 push 状态。
+- set ID、official/total、release date、booster 数；
+- 两个数据来源的 repo + commit 和关键事实证据；
+- metadata 与翻译覆盖数；
+- R2 bucket、对象数、公开 URL 样例；
+- audit、R2 verify、`npm run validate` 结果；
+- commit/push 状态。
 
 ## 禁止事项
 
-- 不自动修改下游应用；
-- 不把单包集合的重复 booster 字段当作必填；
-- 不把 set 特判塞进通用 compiler；
+- 不要求用户重复提供能自动发现的 set 属性；
+- 不把浮动分支、搜索摘要或记忆当事实源；
+- 不在 manifest 仍为 `needs-research` 时写 metadata；
+- 不用 GitHub Raw 作为生产图片 CDN；
 - 不覆盖未知 R2 对象；
-- 不在未验证图片数量或术语时宣称完成；
-- 不在未获授权时 commit、push 或写外部服务。
+- 不把单包集合的逐卡 booster 当必填；
+- 不自动修改下游应用；
+- 不在未明确要求时 commit/push。
