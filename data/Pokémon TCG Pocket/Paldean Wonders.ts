@@ -5,12 +5,13 @@ const set: Set = {
 	id: "B2a",
 
 	name: {
-		de: "Paldean Wonders",
 		en: "Paldean Wonders",
-		es: "Paldean Wonders",
 		fr: "Merveilles de Paldea",
-		it: "Paldean Wonders",
-		'pt-br': "Paldean Wonders",
+		es: "Encantos de Paldea",
+		it: "Meraviglie di Paldea",
+		de: "Wundervolles Paldea",
+		'pt-br': "Maravilhas de Paldea",
+		'zh-tw': "帕底亞驚奇",
 		ko: "Paldean Wonders",
 	},
 
@@ -23,12 +24,13 @@ const set: Set = {
 	boosters: {
 		paldea: {
 			name: {
-				de: "Paldea",
 				en: "Paldea",
 				fr: "Paldea",
 				es: "Paldea",
 				it: "Paldea",
+				de: "Paldea",
 				'pt-br': "Paldea",
+				'zh-tw': "帕底亞",
 				ko: "Paldea",
 			}
 		}

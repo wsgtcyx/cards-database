@@ -1,54 +1,59 @@
 import { Card } from "../../../interfaces";
 import Set from "../Paldean Wonders";
-
 const card: Card = {
     set: Set,
-
-	name: {
-		fr: "Carmadura",
-		en: "Armarouge",
-		es: "Armarouge",
-		it: "Armarouge",
-		pt: "Armarouge",
-		de: "Crimanzo"
-	},
-
+    name: {
+        en: "Armarouge",
+        fr: "Carmadura",
+        es: "Armarouge",
+        it: "Armarouge",
+        de: "Crimanzo",
+        "pt-br": "Armarouge",
+        "zh-tw": "紅蓮鎧騎",
+        pt: "Armarouge"
+    },
     suffix: "EX",
     illustrator: "takuyoa",
     rarity: "Two Star",
     category: "Pokemon",
-
     hp: 140,
     types: ["Fire"],
     evolveFrom: {
-		fr: "Charbambin",
-		en: "Charcadet",
-		es: "Charcadet",
-		it: "Charcadet",
-		pt: "Charcadet",
-		de: "Knarbon"
-	},
+        en: "Charcadet",
+        fr: "Charbambin",
+        es: "Charcadet",
+        it: "Charcadet",
+        de: "Knarbon",
+        "pt-br": "Charcadet",
+        "zh-tw": "炭小侍",
+        pt: "Charcadet"
+    },
     dexId: [936],
-
     stage: "Stage1",
-
     abilities: [
         {
             type: "Ability",
             name: {
-				en: "Armor",
-				fr: "Cuirasse",
-				es: "Armadura",
-				it: "Corazza",
-				pt: "Armadura",
-				de: "Rüstung"
-			},
+                en: "Armor",
+                fr: "Cuirasse",
+                es: "Armadura",
+                it: "Corazza",
+                de: "Rüstung",
+                "pt-br": "Armadura",
+                "zh-tw": "盔甲",
+                pt: "Armadura"
+            },
             effect: {
                 en: "This Pokémon takes –30 damage from attacks.",
+                "fr": "Ce Pokémon subit -30 dégâts des attaques.",
+                "es": "Este Pokémon recibe -30 de daño por ataques.",
+                "it": "Questo Pokémon subisce -30 danni dagli attacchi.",
+                "de": "Dieses Pokémon erleidet –30 Schaden durch Angriffe.",
+                "pt-br": "Este Pokémon sofre –30 de dano de ataques.",
+                "zh-tw": "該寶可夢受到 –30 點攻擊傷害。"
             },
         },
     ],
-
     attacks: [
         {
             name: {
@@ -56,8 +61,10 @@ const card: Card = {
                 fr: "Canon Armure",
                 es: "Cañón Armadura",
                 it: "Corazza Cannone",
-                pt: "Canhão de Armadura",
-                de: "Rüstungskanone"
+                de: "Rüstungskanone",
+                "pt-br": "Canhão de Armadura",
+                "zh-tw": "裝甲砲",
+                pt: "Canhão de Armadura"
             },
             damage: "120",
             cost: ["Fire", "Colorless", "Colorless"],
@@ -66,20 +73,19 @@ const card: Card = {
                 fr: "Défaussez une Énergie {R} de ce Pokémon.",
                 es: "Descarta 1 Energía {R} de este Pokémon.",
                 it: "Scarta un'Energia {R} da questo Pokémon.",
-                pt: "Descarte uma Energia {R} deste Pokémon.",
-                de: "Lege 1 {R}-Energie von diesem Pokémon auf deinen Ablagestapel."
+                de: "Lege 1 {R}-Energie von diesem Pokémon auf deinen Ablagestapel.",
+                "pt-br": "Descarte uma Energia {R} deste Pokémon.",
+                "zh-tw": "丟棄該寶可夢的 {R} 能量。",
+                pt: "Descarte uma Energia {R} deste Pokémon."
             },
         },
     ],
-
     weaknesses: [
         {
             type: "Water",
             value: "+20",
         },
     ],
-
     retreat: 2,
-}
-
-export default card
+};
+export default card;

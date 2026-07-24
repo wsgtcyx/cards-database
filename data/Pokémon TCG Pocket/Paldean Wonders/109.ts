@@ -1,28 +1,29 @@
 import { Card } from "../../../interfaces";
 import Set from "../Paldean Wonders";
-
 const card: Card = {
     set: Set,
-
-	name: {
-		en: "Penny",
-		fr: "Pania",
-		es: "Noa",
-		it: "Penny",
-		de: "Cosima",
-		pt: "Penélope"
-	},
-
+    name: {
+        en: "Penny",
+        fr: "Pania",
+        es: "Noa",
+        it: "Penny",
+        de: "Cosima",
+        "pt-br": "Penélope",
+        "zh-tw": "牡丹",
+        pt: "Penélope"
+    },
     illustrator: "yuu",
     rarity: "Two Star",
     category: "Trainer",
-
     effect: {
         en: "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
-		fr: "Regardez une des cartes Supporter du deck de votre adversaire au hasard qui n'est pas Pania et mélangez-la avec son deck. Utilisez son effet en tant qu'effet de cette carte."
+        fr: "Regardez une des cartes Supporter du deck de votre adversaire au hasard qui n'est pas Pania et mélangez-la avec son deck. Utilisez son effet en tant qu'effet de cette carte.",
+        "es": "Mira una carta de Partidario aleatoria que no sea Noa del mazo de tu oponente y barájala nuevamente en su mazo. Usa el efecto de esa carta como efecto de esta carta.",
+        "it": "Guarda una carta Aiuto casuale che non sia Penny dal mazzo del tuo avversario e rimescolala nel suo mazzo. Usa l'effetto di quella carta come effetto di questa carta.",
+        "de": "Schauen Sie sich eine zufällige Unterstützerkarte aus dem Deck Ihres Gegners an, die nicht Cosima ist, und mischen Sie sie zurück in sein Deck. Benutze den Effekt dieser Karte als Effekt dieser Karte.",
+        "pt-br": "Olhe uma carta de Apoiador aleatória que não seja Penélope do baralho do seu oponente e embaralhe-a de volta no baralho dele. Use o efeito daquela carta como o efeito desta carta.",
+        "zh-tw": "從對手的牌組中隨機查看一張非 牡丹 的支持者牌，然後將其洗回對手的牌組中。那張卡的效果當作這張卡的效果。"
     },
-    
     trainerType: "Supporter",
-}
-
-export default card
+};
+export default card;
