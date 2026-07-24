@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Fantastical Parade";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/094"
+    },
     name: {
         en: "Alolan Meowth",
         "fr": "Miaouss d'Alola",

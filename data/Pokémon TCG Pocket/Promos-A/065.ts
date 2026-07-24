@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/065"
+    },
     name: {
         en: "Rayquaza ex",
         fr: "Rayquaza-ex",

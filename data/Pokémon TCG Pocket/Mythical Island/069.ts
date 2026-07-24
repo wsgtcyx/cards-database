@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Mythical Island";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/069"
+    },
     name: {
         en: "Exeggutor",
         fr: "Noadkoko",

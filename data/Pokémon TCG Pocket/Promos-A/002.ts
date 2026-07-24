@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/002"
+    },
     name: {
         en: "X Speed",
         fr: "Vitesse +",

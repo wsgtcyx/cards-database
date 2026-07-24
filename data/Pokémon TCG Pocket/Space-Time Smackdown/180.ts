@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Space-Time Smackdown";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/180"
+    },
     name: {
         en: "Yanmega ex",
         fr: "Yanmega-ex",

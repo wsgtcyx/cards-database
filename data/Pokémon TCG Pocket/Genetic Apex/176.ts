@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Genetic Apex";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/176"
+    },
     name: {
         en: "Koffing",
         fr: "Smogo",

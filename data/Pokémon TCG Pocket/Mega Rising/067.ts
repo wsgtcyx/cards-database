@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Mega Rising";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/067"
+    },
     name: {
         en: "Carracosta",
         "fr": "Carracosta",

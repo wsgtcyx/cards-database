@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Fantastical Parade";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/167"
+    },
     name: {
         en: "Galarian Ponyta",
         "fr": "Ponyta de Galar",

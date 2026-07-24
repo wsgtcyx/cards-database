@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Mythical Island";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/070"
+    },
     name: {
         en: "Serperior",
         fr: "Majaspic",

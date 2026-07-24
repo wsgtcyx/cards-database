@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Secluded Springs";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/060"
+    },
     name: {
         en: "Teddiursa",
         "fr": "Teddiursa",

@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Celestial Guardians";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/144"
+    },
     name: {
         en: "Rare Candy",
         fr: "Super Bonbon",

@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Extradimensional Crisis";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/049"
+    },
     name: {
         en: "Lairon",
         "fr": "Lairon",

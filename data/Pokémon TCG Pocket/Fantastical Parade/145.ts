@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Fantastical Parade";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/145"
+    },
     name: {
         en: "Lucky Ice Pop",
         "fr": "Sucette glacée porte-bonheur",

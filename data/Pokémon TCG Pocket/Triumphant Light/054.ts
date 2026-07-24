@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Triumphant Light";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/054"
+    },
     name: {
         en: "Magneton",
         fr: "Magnéton",

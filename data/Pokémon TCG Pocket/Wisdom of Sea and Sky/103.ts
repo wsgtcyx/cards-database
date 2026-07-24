@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Wisdom of Sea and Sky";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/103"
+    },
     name: {
         en: "Larvitar",
         "fr": "Larvitar",

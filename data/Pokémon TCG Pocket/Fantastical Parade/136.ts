@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Fantastical Parade";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/136"
+    },
     name: {
         en: "Slaking",
         "fr": "L'extinction",

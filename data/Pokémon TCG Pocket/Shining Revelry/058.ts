@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Shining Revelry";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/058"
+    },
     name: {
         en: "Rattata",
         fr: "Rattata",

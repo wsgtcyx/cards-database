@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Promos-A";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/078"
+    },
     name: {
         en: "Dawn Wings Necrozma",
         es: "Necrozma Alas del Alba",

@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Eevee Grove";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/015"
+    },
     name: {
         en: "Salazzle",
         "fr": "Salazzle",

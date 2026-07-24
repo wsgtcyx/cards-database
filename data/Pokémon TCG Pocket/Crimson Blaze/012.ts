@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Crimson Blaze";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/012"
+    },
     name: {
         en: "Charmeleon",
         "fr": "Reptincel",

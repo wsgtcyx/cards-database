@@ -2,6 +2,9 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
+    image: {
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/107"
+    },
     name: {
         en: "Palkia ex",
         "fr": "Palkia ex",
