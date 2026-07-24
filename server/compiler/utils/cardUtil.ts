@@ -8,16 +8,30 @@ import { DB_PATH, cardIsLegal, fetchRemoteFile, getDataFolder, getLastEdit, reso
 import { objectMap, objectPick } from '@dzeio/object-util'
 import { variant_detailed } from "../../public/v2/api";
 
+const OWNED_POCKET_IMAGE_BASE_URL = 'https://game.pokemontcgpocket.app'
+
+function getOwnedPocketCardPicture(cardId: string, card: Card, lang: SupportedLanguages): string | undefined {
+	if (card.set.serie.id !== 'tcgp' || card.set.id !== 'B2a') {
+		return undefined
+	}
+
+	const imageLanguage = lang === 'zh-tw' ? 'zh-tw' : 'en'
+	return `${OWNED_POCKET_IMAGE_BASE_URL}/${imageLanguage}/tcgp/B2a/${cardId.padStart(3, '0')}`
+}
+
 export async function getCardPictures(cardId: string, card: Card, lang: SupportedLanguages): Promise<string | undefined> {
+	const ownedPicture = getOwnedPocketCardPicture(cardId, card, lang)
+	if (ownedPicture) {
+		return ownedPicture
+	}
+
 	try {
 		const file = await fetchRemoteFile('https://assets.tcgdex.net/datas.json')
 		const fileExists = Boolean(file[lang]?.[card.set.serie.id]?.[card.set.id]?.[cardId])
 		if (fileExists) {
 			return `https://assets.tcgdex.net/${lang}/${card.set.serie.id}/${card.set.id}/${cardId}`
 		}
-	} catch {
-		return undefined
-	}
+	} catch {}
 	return undefined
 }
 
