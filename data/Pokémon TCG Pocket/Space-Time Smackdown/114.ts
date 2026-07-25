@@ -3,6 +3,11 @@ import Set from "../Space-Time Smackdown";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A2/114",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A2/114",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/114",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A2/114",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/114",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/114"
     },
     name: {

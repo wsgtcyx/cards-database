@@ -3,6 +3,11 @@ import Set from "../Genetic Apex";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A1/239",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A1/239",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/239",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A1/239",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/239",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/239"
     },
     name: {

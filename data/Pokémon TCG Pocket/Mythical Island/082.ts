@@ -3,6 +3,11 @@ import Set from "../Mythical Island";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A1a/082",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A1a/082",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1a/082",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/082",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/082"
     },
     name: {

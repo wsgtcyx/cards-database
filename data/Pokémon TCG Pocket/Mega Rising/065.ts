@@ -3,6 +3,10 @@ import Set from "../Mega Rising";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B1/065",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B1/065",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/065",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B1/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/065"
     },
     name: {

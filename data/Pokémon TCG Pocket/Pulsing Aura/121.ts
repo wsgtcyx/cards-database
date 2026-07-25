@@ -4,7 +4,11 @@ import Set from "../Pulsing Aura";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B3/121",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B3/121",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B3/121",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/121",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B3/121",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/121"
     },
     name: {

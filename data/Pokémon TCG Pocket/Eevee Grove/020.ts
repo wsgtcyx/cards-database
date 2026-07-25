@@ -3,6 +3,10 @@ import Set from "../Eevee Grove";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A3b/020",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A3b/020",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/020",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/020",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/020"
     },
     name: {

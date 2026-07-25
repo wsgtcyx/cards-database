@@ -3,6 +3,11 @@ import Set from "../Shining Revelry";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A2b/082",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A2b/082",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2b/082",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/082",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/082",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/082"
     },
     name: {

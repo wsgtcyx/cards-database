@@ -3,6 +3,10 @@ import Set from "../Fantastical Parade";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B2/129",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B2/129",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/129",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B2/129",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/129"
     },
     name: {

@@ -3,6 +3,11 @@ import Set from "../Celestial Guardians";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A3/131",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A3/131",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3/131",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A3/131",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/131",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/131"
     },
     name: {

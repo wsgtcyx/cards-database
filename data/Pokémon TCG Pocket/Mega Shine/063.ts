@@ -4,7 +4,11 @@ import Set from "../Mega Shine";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B2b/063",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2b/063",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B2b/063",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/063",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/063",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/063"
     },
     name: {

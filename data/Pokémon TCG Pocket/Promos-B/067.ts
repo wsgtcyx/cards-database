@@ -4,7 +4,11 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/067",
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/067",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/067",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/067",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/067",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/067"
     },
     name: {

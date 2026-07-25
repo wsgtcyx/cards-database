@@ -3,7 +3,11 @@ import Set from "../Paldean Wonders";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B2a/079",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2a/079",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B2a/079",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/079",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/079"
     },
     name: {

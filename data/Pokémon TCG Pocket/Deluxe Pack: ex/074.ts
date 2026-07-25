@@ -3,6 +3,10 @@ import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/074",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/074",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/074",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/074"
     },
     name: {

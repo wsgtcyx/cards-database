@@ -3,6 +3,11 @@ import Set from "../Wisdom of Sea and Sky";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A4/225",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A4/225",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4/225",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A4/225",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/225",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/225"
     },
     name: {

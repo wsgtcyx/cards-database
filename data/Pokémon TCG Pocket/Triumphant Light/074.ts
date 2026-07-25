@@ -3,6 +3,11 @@ import Set from "../Triumphant Light";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A2a/074",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A2a/074",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2a/074",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/074",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/074",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/074"
     },
     name: {

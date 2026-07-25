@@ -4,7 +4,11 @@ import Set from "../Everyday Wonders";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B3b/084",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B3b/084",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/084",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/084",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/084",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/084"
     },
     name: {

@@ -3,6 +3,11 @@ import Set from "../Extradimensional Crisis";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A3a/014",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A3a/014",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3a/014",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/014",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/014",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/014"
     },
     name: {

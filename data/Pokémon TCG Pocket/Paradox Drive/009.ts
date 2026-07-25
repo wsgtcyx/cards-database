@@ -4,7 +4,11 @@ import Set from "../Paradox Drive";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B3a/009",
         en: "https://game.pokemontcgpocket.app/en/tcgp/B3a/009",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B3a/009",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/009",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/009",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/009"
     },
     name: {

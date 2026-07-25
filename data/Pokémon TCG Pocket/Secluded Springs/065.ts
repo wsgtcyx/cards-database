@@ -3,6 +3,10 @@ import Set from "../Secluded Springs";
 const card: Card = {
     set: Set,
     image: {
+        de: "https://game.pokemontcgpocket.app/de/tcgp/A4a/065",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/A4a/065",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/065",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/065",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/065"
     },
     name: {
