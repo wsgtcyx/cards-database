@@ -109,6 +109,61 @@ const set: Set = {
 				'pt-br': 'Vol. 8',
 				'zh-tw': 'Vol. 8'
 			}
+		},
+		vol9: {
+			name: {
+				en: 'Promo Pack A Series Vol. 9',
+				fr: 'Booster promo série A, vol. 9',
+				es: 'Sobre de promoción serie A vol. 9',
+				it: 'Busta promozionale (serie A, vol. 9)',
+				de: 'Promopack Serie A, Vol. 9',
+				'pt-br': 'Pacote Promocional da Série A (Vol. 9)',
+				'zh-tw': '特典卡牌包 A系列第9波'
+			}
+		},
+		vol10: {
+			name: {
+				en: 'Promo Pack A Series Vol. 10',
+				fr: 'Booster promo série A, vol. 10',
+				es: 'Sobre de promoción serie A vol. 10',
+				it: 'Busta promo (serie A, vol. 10)',
+				de: 'Promopack Serie A, Vol. 10',
+				'pt-br': 'Pacote Promocional da Série A (Vol. 10)',
+				'zh-tw': '特典卡牌包 A系列第10波'
+			}
+		},
+		vol11: {
+			name: {
+				en: 'Promo Pack A Series Vol. 11',
+				fr: 'Booster promo série A, vol. 11',
+				es: 'Sobre de promoción serie A vol. 11',
+				it: 'Busta promo (serie A, vol. 11)',
+				de: 'Promopack Serie A, Vol. 11',
+				'pt-br': 'Pacote Promocional da Série A (Vol. 11)',
+				'zh-tw': '特典卡牌包 A系列第11波'
+			}
+		},
+		vol12: {
+			name: {
+				en: 'Promo Pack A Series Vol. 12',
+				fr: 'Booster promo série A, vol. 12',
+				es: 'Sobre de promoción serie A vol. 12',
+				it: 'Busta promo (serie A, vol. 12)',
+				de: 'Promopack Serie A, Vol. 12',
+				'pt-br': 'Pacote Promocional da Série A (Vol. 12)',
+				'zh-tw': '特典卡牌包 A系列第12波'
+			}
+		},
+		vol13: {
+			name: {
+				en: 'Promo Pack A Series Vol. 13',
+				fr: 'Booster promo série A, vol. 13',
+				es: 'Sobre de promoción serie A vol. 13',
+				it: 'Busta promo (serie A, vol. 13)',
+				de: 'Ein Promopack aus Serie A, Vol. 13',
+				'pt-br': 'Pacote Promocional da Série A (Vol. 13)',
+				'zh-tw': '特典卡牌包 A系列第13波'
+			}
 		}
 	},
 

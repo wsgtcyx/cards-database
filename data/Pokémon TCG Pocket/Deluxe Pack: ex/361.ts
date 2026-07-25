@@ -2,10 +2,14 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
-    image: {
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/361"
-    },
-    name: {
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/361",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/361",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/361",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/361",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/361"
+	},
+	name: {
         en: "Charizard ex",
         "fr": "Dracaufeu ex",
         "es": "ex charizard",

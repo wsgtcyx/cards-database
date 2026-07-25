@@ -2,10 +2,14 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
-    image: {
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/315"
-    },
-    name: {
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/315",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/315",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/315",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/315",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/315"
+	},
+	name: {
         en: "Rare Candy",
         "fr": "Bonbons rares",
         "es": "Caramelo raro",

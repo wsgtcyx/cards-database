@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T14:55:33.910Z",
+  "generatedAt": "2026-07-25T10:46:40.170Z",
   "policy": {
     "metadata": "English fallback images are not referenced by locale-specific card image metadata.",
     "downstream": "English fallback images do not replace existing downstream locale index images.",
@@ -4306,7 +4306,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-6.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/006",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4404,7 +4404,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-13.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/013",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4446,7 +4446,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-16.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/016",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4474,7 +4474,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-18.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/018",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4502,7 +4502,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-20.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/020",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4558,7 +4558,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-24.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/024",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4572,7 +4572,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-25.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/025",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4628,7 +4628,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-29.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/029",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4698,7 +4698,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-34.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/034",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4754,7 +4754,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-38.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/038",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4782,7 +4782,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-40.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/040",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4810,7 +4810,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-42.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/042",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4824,7 +4824,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-43.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/043",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4908,7 +4908,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-49.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/049",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -4964,7 +4964,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-53.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/053",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5020,7 +5020,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-57.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/057",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5104,7 +5104,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-63.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/063",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5146,7 +5146,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-66.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/066",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5174,7 +5174,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-68.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/068",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5188,7 +5188,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-69.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/069",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5272,7 +5272,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-75.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/075",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5384,7 +5384,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-83.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/083",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5412,7 +5412,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-85.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/085",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5440,7 +5440,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-87.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/087",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5510,7 +5510,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-92.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/092",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5608,7 +5608,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-99.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/099",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5636,7 +5636,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-101.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/101",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5650,7 +5650,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-102.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/102",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5678,7 +5678,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-104.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/104",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5762,7 +5762,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-110.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/110",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5790,7 +5790,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-112.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/112",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5818,7 +5818,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-114.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/114",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5846,7 +5846,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-116.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/116",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5874,7 +5874,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-118.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/118",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5916,7 +5916,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-121.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/121",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -5958,7 +5958,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-124.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/124",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6112,7 +6112,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-135.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/135",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6140,7 +6140,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-137.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/137",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6182,7 +6182,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-140.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/140",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6294,7 +6294,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-148.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/148",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6308,7 +6308,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-149.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/149",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6336,7 +6336,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-151.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/151",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6364,7 +6364,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-153.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/153",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6392,7 +6392,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-155.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/155",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6448,7 +6448,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-159.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/159",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6476,7 +6476,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-161.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/161",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6602,7 +6602,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-170.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/170",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6630,7 +6630,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-172.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/172",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6714,7 +6714,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-178.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/178",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6770,7 +6770,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-182.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/182",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6840,7 +6840,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-187.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/187",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6966,7 +6966,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-196.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/196",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6980,7 +6980,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-197.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/197",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -6994,7 +6994,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-198.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/198",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7064,7 +7064,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-203.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/203",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7190,7 +7190,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-212.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/212",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7218,7 +7218,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-214.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/214",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7232,7 +7232,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-215.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/215",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7246,7 +7246,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-216.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/216",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7344,7 +7344,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-223.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/223",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7386,7 +7386,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-226.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/226",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7414,7 +7414,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-228.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/228",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7470,7 +7470,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-232.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/232",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7484,7 +7484,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-233.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/233",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7596,7 +7596,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-241.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/241",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7638,7 +7638,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-244.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/244",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7652,7 +7652,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-245.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/245",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7666,7 +7666,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-246.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/246",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7694,7 +7694,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-248.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/248",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7708,7 +7708,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-249.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/249",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7736,7 +7736,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-251.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/251",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7764,7 +7764,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-253.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/253",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7848,7 +7848,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-259.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/259",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7890,7 +7890,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-262.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/262",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -7960,7 +7960,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-267.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/267",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -8100,7 +8100,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-277.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/277",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -8128,7 +8128,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-279.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/279",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -8170,7 +8170,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-282.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/282",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -8198,7 +8198,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-284.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/284",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -8240,7 +8240,7 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/A4b-287.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/287",
-      "localCardPresent": false,
+      "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false
     },
@@ -28456,6 +28456,132 @@
       "reason": "localized-source-unavailable",
       "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-B-78.webp",
       "r2BaseUrl": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/078",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-109",
+      "setId": "P-A",
+      "localId": "109",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-109.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/109",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-110",
+      "setId": "P-A",
+      "localId": "110",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-110.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/110",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-111",
+      "setId": "P-A",
+      "localId": "111",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-111.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/111",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-112",
+      "setId": "P-A",
+      "localId": "112",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-112.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/112",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-113",
+      "setId": "P-A",
+      "localId": "113",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-113.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/113",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-114",
+      "setId": "P-A",
+      "localId": "114",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-114.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/114",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-115",
+      "setId": "P-A",
+      "localId": "115",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-115.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/115",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-116",
+      "setId": "P-A",
+      "localId": "116",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-116.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/116",
+      "localCardPresent": true,
+      "referencedByMetadata": false,
+      "referencedByDownstream": false
+    },
+    {
+      "cardId": "P-A-117",
+      "setId": "P-A",
+      "localId": "117",
+      "locale": "zh-tw",
+      "r2Locale": "zh-tw",
+      "actualLanguage": "en",
+      "reason": "localized-source-unavailable",
+      "sourceUrl": "https://raw.githubusercontent.com/marcelpanse/tcg-pocket-collection-tracker/main/frontend/public/images/en-US/P-A-117.webp",
+      "r2BaseUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/117",
       "localCardPresent": true,
       "referencedByMetadata": false,
       "referencedByDownstream": false

@@ -2,10 +2,14 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
-    image: {
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/333"
-    },
-    name: {
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/333",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/333",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/333",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/333",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/333"
+	},
+	name: {
         en: "Lyra",
         "fr": "Lyre",
         "es": "Lira",

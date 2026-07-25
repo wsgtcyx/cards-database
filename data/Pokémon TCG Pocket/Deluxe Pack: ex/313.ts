@@ -2,10 +2,14 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
-    image: {
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/313"
-    },
-    name: {
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/313",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/313",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/313",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/313",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/313"
+	},
+	name: {
         en: "Old Amber",
         "fr": "Vieil Ambre",
         "es": "Ámbar viejo",

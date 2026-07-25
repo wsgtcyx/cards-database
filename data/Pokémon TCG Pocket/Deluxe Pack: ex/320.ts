@@ -2,10 +2,14 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
-    image: {
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/320"
-    },
-    name: {
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/320",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/320",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/320",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/320",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/320"
+	},
+	name: {
         en: "Giant Cape",
         "fr": "Cape géante",
         "es": "Cabo gigante",

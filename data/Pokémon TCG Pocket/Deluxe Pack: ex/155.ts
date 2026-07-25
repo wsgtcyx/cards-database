@@ -1,0 +1,88 @@
+import { Card } from "../../../interfaces";
+import Set from "../Deluxe Pack: ex";
+
+const card: Card = {
+	set: Set,
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/155",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/155",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/155",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/155",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/155"
+	},
+	name: {
+		en: "Gengar ex",
+		fr: "Ectoplasma-ex",
+		es: "Gengar ex",
+		it: "Gengar-ex",
+		de: "Gengar-ex",
+		"pt-br": "Gengar ex",
+		"zh-tw": "耿鬼ex"
+	},
+	illustrator: "PLANETA CG Works",
+	category: "Pokemon",
+	hp: 170,
+	types: ["Psychic"],
+	stage: "Stage2",
+	evolveFrom: {
+		en: "Haunter",
+		fr: "Spectrum",
+		es: "Haunter",
+		it: "Haunter",
+		de: "Alpollo",
+		"pt-br": "Haunter",
+		"zh-tw": "鬼斯通"
+	},
+	suffix: "EX",
+	abilities: [
+		{
+			type: "Ability",
+			name: {
+				en: "Shadowy Spellbind",
+				fr: "Maléfice des Ombres",
+				es: "Hechizo Sombrío",
+				it: "Maledizione Oscura",
+				de: "Schattenbann",
+				"pt-br": "Enfeitiçamento Sombrio",
+				ko: "그림자 속박",
+				"zh-tw": "陰暗咒語"
+			},
+			effect: {
+				en: "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand.",
+				fr: "Tant que ce Pokémon est sur le Poste Actif, votre adversaire ne peut pas jouer de carte Supporter de sa main.",
+				es: "Mientras este Pokémon esté en el Puesto Activo, tu rival no puede jugar ninguna carta de Partidario de su mano.",
+				it: "Fintanto che questo Pokémon è in posizione attiva, il tuo avversario non può giocare le carte Aiuto che ha in mano.",
+				de: "Solange dieses Pokémon in der Aktiven Position ist, kann dein Gegner keine Unterstützerkarten aus seiner Hand spielen.",
+				"pt-br": "Enquanto este Pokémon estiver no Campo Ativo, o seu oponente não poderá usar nenhuma carta de Apoiador da mão dele.",
+				ko: "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 서포트를 꺼내서 사용할 수 없다.",
+				"zh-tw": "只要這只神奇寶貝在活動區域​​，對手就不能使用手牌中的任何支持者卡。"
+			}
+		}
+	],
+	attacks: [
+		{
+			cost: ["Psychic", "Psychic", "Psychic"],
+			name: {
+				en: "Spooky Shot",
+				fr: "Tir Effrayant",
+				es: "Disparo Embrujado",
+				it: "Colpomistero",
+				de: "Spukschuss",
+				"pt-br": "Tiro Assustador",
+				ko: "홀로숏",
+				"zh-tw": "幽靈射擊"
+			},
+			damage: "100"
+		}
+	],
+	weaknesses: [
+		{
+			type: "Darkness",
+			value: "+20"
+		}
+	],
+	retreat: 2,
+	rarity: "Four Diamond"
+};
+
+export default card;

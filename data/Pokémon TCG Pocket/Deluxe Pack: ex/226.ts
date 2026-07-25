@@ -1,0 +1,63 @@
+import { Card } from "../../../interfaces";
+import Set from "../Deluxe Pack: ex";
+
+const card: Card = {
+	set: Set,
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/226",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/226",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/226",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/226",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/226"
+	},
+	name: {
+		en: "Zubat",
+		fr: "Nosferapti",
+		es: "Zubat",
+		it: "Zubat",
+		de: "Zubat",
+		"pt-br": "Zubat",
+		"zh-tw": "超音蝠"
+	},
+	illustrator: "Sekio",
+	rarity: "One Diamond",
+	category: "Pokemon",
+	hp: 50,
+	types: ["Darkness"],
+	description: {
+		en: "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+		fr: "Il sonde les environs en émettant des ultrasons\navec sa bouche, et peut ainsi se frayer un chemin\nmême dans les grottes les plus étroites.",
+		es: "Emite ondas ultrasónicas por la boca\npara escrutar el entorno, lo que le permite\nvolar con pericia por cuevas angostas.",
+		it: "Sonda l'ambiente circostante emettendo\nultrasuoni dalla bocca. In questo modo riesce\na volteggiare agilmente anche in caverne strette.",
+		de: "Über den Mund stößt es Ultraschallwellen aus,\num seine Umgebung zu erkunden. So kann es\nselbst in engen Höhlen geschickt umherfliegen.",
+		"pt-br": "Emite ondas ultrassônicas de sua boca para\nverificar os arredores. Zubat voa com certa\ndestreza mesmo em cavernas apertadas.",
+		ko: "입에서 내보내는 초음파로\n주위의 상황을 살핀다. 좁은\n동굴에서도 능숙하게 날아다닌다.",
+		"zh-tw": "它從嘴裡發射超聲波來檢查周圍的情況。即使在狹窄的洞穴中，祖巴特也能熟練地飛行。"
+	},
+	stage: "Basic",
+	attacks: [
+		{
+			name: {
+				en: "Bite",
+				fr: "Morsure",
+				es: "Mordisco",
+				it: "Morso",
+				de: "Biss",
+				"pt-br": "Mordida",
+				ko: "물기",
+				"zh-tw": "咬"
+			},
+			damage: 20,
+			cost: ["Darkness"]
+		}
+	],
+	weaknesses: [
+		{
+			type: "Fighting",
+			value: "+20"
+		}
+	],
+	retreat: 1
+};
+
+export default card;

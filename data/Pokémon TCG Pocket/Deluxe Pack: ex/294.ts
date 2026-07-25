@@ -1,0 +1,63 @@
+import { Card } from "../../../interfaces";
+import Set from "../Deluxe Pack: ex";
+
+const card: Card = {
+	set: Set,
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/294",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/294",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/294",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/294",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/294"
+	},
+	name: {
+		en: "Bidoof",
+		fr: "Keunotor",
+		es: "Bidoof",
+		it: "Bidoof",
+		de: "Bidiza",
+		"pt-br": "Bidoof",
+		"zh-tw": "大牙狸"
+	},
+	illustrator: "Sekio",
+	rarity: "One Diamond",
+	category: "Pokemon",
+	hp: 70,
+	types: ["Colorless"],
+	description: {
+		en: "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+		fr: "Rien ne peut perturber ses nerfs d'acier.\nIl est plus agile et énergique qu'il n'y paraît.",
+		es: "Tiene nervios de acero y nada puede perturbarlo.\nEs más ágil y activo de lo que aparenta.",
+		it: "Ha i nervi d'acciaio e niente può turbarlo.\nÈ più agile e attivo di quanto sembri.",
+		de: "Es hat Nerven wie Drahtseile, nichts kann es erschüttern.\nEs ist agiler und aktiver, als es scheint.",
+		"pt-br": "Com nervos de aço, nada pode perturbá-lo.\nÉ mais ágil e ativo do que parece.",
+		ko: "어떤 것에도 동요하지 않는\n대담한 신경의 소유자다.\n보기보다는 기민하게 활동한다.",
+		"zh-tw": "有著鋼鐵般的意志，沒有什麼可以擾亂它。它比看上去更加敏捷和活躍。"
+	},
+	stage: "Basic",
+	attacks: [
+		{
+			name: {
+				en: "Headbutt",
+				fr: "Coup d'Boule",
+				es: "Golpe Cabeza",
+				it: "Bottintesta",
+				de: "Kopfnuss",
+				"pt-br": "Cabeçada",
+				ko: "박치기",
+				"zh-tw": "頭撞"
+			},
+			damage: 30,
+			cost: ["Colorless", "Colorless"]
+		}
+	],
+	weaknesses: [
+		{
+			type: "Fighting",
+			value: "+20"
+		}
+	],
+	retreat: 2
+};
+
+export default card;

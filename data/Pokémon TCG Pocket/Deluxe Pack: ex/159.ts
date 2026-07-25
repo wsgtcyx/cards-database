@@ -1,0 +1,77 @@
+import { Card } from "../../../interfaces";
+import Set from "../Deluxe Pack: ex";
+
+const card: Card = {
+	set: Set,
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/159",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/159",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/159",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/159",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/159"
+	},
+	name: {
+		en: "Mew ex",
+		fr: "Mew-ex",
+		es: "Mew ex",
+		it: "Mew-ex",
+		de: "Mew-ex",
+		"pt-br": "Mew ex",
+		"zh-tw": "夢幻ex"
+	},
+	illustrator: "PLANETA CG Works",
+	category: "Pokemon",
+	hp: 130,
+	types: ["Psychic"],
+	stage: "Basic",
+	suffix: "EX",
+	attacks: [
+		{
+			name: {
+				en: "Psyshot",
+				fr: "Piqûre Psy",
+				es: "Disparo Psi",
+				it: "Psicosparo",
+				de: "Psychoschuss",
+				"pt-br": "Tiro Psíquico",
+				ko: "사이코숏",
+				"zh-tw": "心理射擊"
+			},
+			damage: 20,
+			cost: ["Psychic"]
+		},
+		{
+			name: {
+				en: "Genome Hacking",
+				fr: "Piratage de Génome",
+				es: "Hackeo Genoma",
+				it: "Hacking del Genoma",
+				de: "Genom-Hacking",
+				"pt-br": "Hackear Genoma",
+				ko: "게놈핵",
+				"zh-tw": "基因組黑客"
+			},
+			cost: ["Colorless", "Colorless", "Colorless"],
+			effect: {
+				en: "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+				fr: "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+				es: "Elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque.",
+				it: "Scegli un attacco del Pokémon attivo del tuo avversario e usalo al posto di questo attacco.",
+				de: "Wähle 1 Attacke des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.",
+				"pt-br": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque.",
+				ko: "상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다.",
+				"zh-tw": "選擇對手的1只活躍神奇寶貝的攻擊並將其用作這次攻擊。"
+			}
+		}
+	],
+	weaknesses: [
+		{
+			type: "Darkness",
+			value: "+20"
+		}
+	],
+	retreat: 1,
+	rarity: "Four Diamond"
+};
+
+export default card;

@@ -1,0 +1,72 @@
+import { Card } from "../../../interfaces";
+import Set from "../Deluxe Pack: ex";
+
+const card: Card = {
+	set: Set,
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/040",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/040",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/040",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/040",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/040"
+	},
+	name: {
+		en: "Dartrix",
+		fr: "Efflèche",
+		es: "Dartrix",
+		it: "Dartrix",
+		de: "Arboretoss",
+		"pt-br": "Dartrix",
+		"zh-tw": "投羽梟"
+	},
+	illustrator: "Mizue",
+	rarity: "Two Diamond",
+	category: "Pokemon",
+	hp: 80,
+	types: ["Grass"],
+	evolveFrom: {
+		en: "Rowlet",
+		fr: "Brindibou",
+		es: "Rowlet",
+		it: "Rowlet",
+		de: "Bauz",
+		"pt-br": "Rowlet",
+		"zh-tw": "木木梟"
+	},
+	description: {
+		en: "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.",
+		fr: "Ce Pokémon narcissique accorde énormément\nd'importance à la propreté. Il refuse parfois\nd'obéir si l'on ne prend pas grand soin de lui.",
+		es: "Es narcisista y bastante pulcro, por lo que, si no se le dedica\nsuficiente atención a su aseo, se niega a obedecer cualquier orden.",
+		it: "È un narciso e ama la pulizia al punto di smettere di\nobbedire se non ci si prende cura di lui come si deve.",
+		de: "Es ist selbstverliebt und legt großen Wert auf\nSauberkeit. Wenn man es nicht ordentlich pflegt,\nwidersetzt es sich manchmal sogar Befehlen.",
+		"pt-br": "Este Pokémon narcisista é maníaco por limpeza.\nSe não cuidar da sua higiene com muita atenção,\ntalvez ele não obedeça mais a você.",
+		ko: "나르시스트로 깔끔한 걸 좋아한다.\n자주 관리해 주지 않으면\n말을 안 듣기도 한다.",
+		"zh-tw": "這只自戀的神奇寶貝是個乾淨的怪人。如果你不勤奮地照顧它，它可能會不再聽你的。"
+	},
+	stage: "Stage1",
+	attacks: [
+		{
+			name: {
+				en: "Razor Wing",
+				fr: "Aile Tranchante",
+				es: "Ala Cortante",
+				it: "Ala Tagliente",
+				de: "Rasierflügel",
+				"pt-br": "Asa Cortante",
+				ko: "날카로운날개",
+				"zh-tw": "剃刀之翼"
+			},
+			damage: 30,
+			cost: ["Grass"]
+		}
+	],
+	weaknesses: [
+		{
+			type: "Fire",
+			value: "+20"
+		}
+	],
+	retreat: 1
+};
+
+export default card;

@@ -2,10 +2,14 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
-    image: {
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/357"
-    },
-    name: {
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/357",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/357",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/357",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/357",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/357"
+	},
+	name: {
         en: "Gardevoir",
         "fr": "Gardevoir",
         "es": "Gardevoir",

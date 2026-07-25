@@ -2,10 +2,14 @@ import { Card } from "../../../interfaces";
 import Set from "../Deluxe Pack: ex";
 const card: Card = {
     set: Set,
-    image: {
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/324"
-    },
-    name: {
+	image: {
+		de: "https://game.pokemontcgpocket.app/de/tcgp/A4b/324",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/324",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/324",
+		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/324",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/324"
+	},
+	name: {
         en: "Leaf Cape",
         "fr": "Cape Feuille",
         "es": "Capa de hoja",
