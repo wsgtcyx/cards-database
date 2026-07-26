@@ -186,95 +186,70 @@ const SET_NAME_OVERRIDES = {
 	},
 }
 
-const FORM_RULES = {
-	'Paldean Tauros': {
-		base: 'Tauros',
-		fr: base => `${base} de Paldea`,
-		es: base => `${base} de Paldea`,
-		it: base => `${base} di Paldea`,
-		de: base => `Paldea-${base}`,
-		'pt-br': base => `${base} de Paldea`,
-		'zh-tw': base => `帕底亞的${base}`,
-		ko: base => `팔데아 ${base}`,
-		ja: base => `パルデア ${base}`,
-	},
-	'Hisuian Lilligant': {
-		base: 'Lilligant',
-		fr: base => `${base} de Hisui`,
-		es: base => `${base} de Hisui`,
-		it: base => `${base} di Hisui`,
-		de: base => `Hisui-${base}`,
-		'pt-br': base => `${base} de Hisui`,
-		'zh-tw': base => `洗翠的${base}`,
-		ko: base => `히스이 ${base}`,
-		ja: base => `ヒスイ ${base}`,
-	},
-	'Hisuian Sliggoo': {
-		base: 'Sliggoo',
-		fr: base => `${base} de Hisui`,
-		es: base => `${base} de Hisui`,
-		it: base => `${base} di Hisui`,
-		de: base => `Hisui-${base}`,
-		'pt-br': base => `${base} de Hisui`,
-		'zh-tw': base => `洗翠的${base}`,
-		ko: base => `히스이 ${base}`,
-		ja: base => `ヒスイ ${base}`,
-	},
-	'Hisuian Goodra': {
-		base: 'Goodra',
-		fr: base => `${base} de Hisui`,
-		es: base => `${base} de Hisui`,
-		it: base => `${base} di Hisui`,
-		de: base => `Hisui-${base}`,
-		'pt-br': base => `${base} de Hisui`,
-		'zh-tw': base => `洗翠的${base}`,
-		ko: base => `히스이 ${base}`,
-		ja: base => `ヒスイ ${base}`,
-	},
-	'Hisuian Zorua': {
-		base: 'Zorua',
-		fr: base => `${base} de Hisui`,
-		es: base => `${base} de Hisui`,
-		it: base => `${base} di Hisui`,
-		de: base => `Hisui-${base}`,
-		'pt-br': base => `${base} de Hisui`,
-		'zh-tw': base => `洗翠的${base}`,
-		ko: base => `히스이 ${base}`,
-		ja: base => `ヒスイ ${base}`,
-	},
-	'Hisuian Zoroark ex': {
-		base: 'Zoroark ex',
-		fr: base => `${base.replace(/ ex$/, '')} de Hisui-ex`,
-		es: base => `${base.replace(/ ex$/, '')} de Hisui ex`,
-		it: base => `${base.replace(/ ex$/, '')} di Hisui-ex`,
-		de: base => `Hisui-${base}`,
-		'pt-br': base => `${base.replace(/ ex$/, '')} de Hisui ex`,
-		'zh-tw': base => `洗翠的${base}`,
-		ko: base => `히스이 ${base}`,
-		ja: base => `ヒスイ ${base}`,
-	},
-	'Alolan Vulpix': {
-		base: 'Vulpix',
-		fr: base => `${base} d'Alola`,
-		es: base => `${base} de Alola`,
-		it: base => `${base} di Alola`,
+/** Regional form name builders: always keep a space before de/di/d'. */
+function alolanRule(englishBase, { ex = false } = {}) {
+	const stripEx = base => base.replace(/\s*-?ex$/i, '').trim()
+	return {
+		base: ex ? `${englishBase} ex` : englishBase,
+		fr: base => `${stripEx(base)} d'Alola${ex ? '-ex' : ''}`,
+		es: base => `${stripEx(base)} de Alola${ex ? ' ex' : ''}`,
+		it: base => `${stripEx(base)} di Alola${ex ? '-ex' : ''}`,
 		de: base => `Alola-${base}`,
-		'pt-br': base => `${base} de Alola`,
+		'pt-br': base => `${stripEx(base)} de Alola${ex ? ' ex' : ''}`,
 		'zh-tw': base => `阿羅拉的${base}`,
 		ko: base => `알로라 ${base}`,
 		ja: base => `アローラ ${base}`,
-	},
-	'Paldean Clodsire': {
-		base: 'Clodsire',
-		fr: base => `${base} de Paldea`,
-		es: base => `${base} de Paldea`,
-		it: base => `${base} di Paldea`,
+	}
+}
+
+function hisuianRule(englishBase, { ex = false } = {}) {
+	const stripEx = base => base.replace(/\s*-?ex$/i, '').trim()
+	return {
+		base: ex ? `${englishBase} ex` : englishBase,
+		fr: base => `${stripEx(base)} de Hisui${ex ? '-ex' : ''}`,
+		es: base => `${stripEx(base)} de Hisui${ex ? ' ex' : ''}`,
+		it: base => `${stripEx(base)} di Hisui${ex ? '-ex' : ''}`,
+		de: base => `Hisui-${base}`,
+		'pt-br': base => `${stripEx(base)} de Hisui${ex ? ' ex' : ''}`,
+		'zh-tw': base => `洗翠的${base}`,
+		ko: base => `히스이 ${base}`,
+		ja: base => `ヒスイ ${base}`,
+	}
+}
+
+function paldeanRule(englishBase, { ex = false } = {}) {
+	const stripEx = base => base.replace(/\s*-?ex$/i, '').trim()
+	return {
+		base: ex ? `${englishBase} ex` : englishBase,
+		fr: base => `${stripEx(base)} de Paldea${ex ? '-ex' : ''}`,
+		es: base => `${stripEx(base)} de Paldea${ex ? ' ex' : ''}`,
+		it: base => `${stripEx(base)} di Paldea${ex ? '-ex' : ''}`,
 		de: base => `Paldea-${base}`,
-		'pt-br': base => `${base} de Paldea`,
+		'pt-br': base => `${stripEx(base)} de Paldea${ex ? ' ex' : ''}`,
 		'zh-tw': base => `帕底亞的${base}`,
 		ko: base => `팔데아 ${base}`,
 		ja: base => `パルデア ${base}`,
-	},
+	}
+}
+
+const ALOLAN_BASES = [
+	'Diglett', 'Dugtrio', 'Exeggutor', 'Geodude', 'Graveler', 'Golem',
+	'Grimer', 'Muk', 'Marowak', 'Meowth', 'Persian', 'Ninetales',
+	'Raichu', 'Rattata', 'Raticate', 'Sandshrew', 'Sandslash', 'Vulpix',
+]
+const ALOLAN_EX_BASES = ['Dugtrio', 'Muk', 'Ninetales', 'Raichu']
+const HISUIAN_BASES = ['Lilligant', 'Sliggoo', 'Goodra', 'Zorua']
+const HISUIAN_EX_BASES = ['Zoroark']
+const PALDEAN_BASES = ['Tauros', 'Wooper', 'Clodsire']
+const PALDEAN_EX_BASES = ['Clodsire']
+
+const FORM_RULES = {
+	...Object.fromEntries(ALOLAN_BASES.map(base => [`Alolan ${base}`, alolanRule(base)])),
+	...Object.fromEntries(ALOLAN_EX_BASES.map(base => [`Alolan ${base} ex`, alolanRule(base, { ex: true })])),
+	...Object.fromEntries(HISUIAN_BASES.map(base => [`Hisuian ${base}`, hisuianRule(base)])),
+	...Object.fromEntries(HISUIAN_EX_BASES.map(base => [`Hisuian ${base} ex`, hisuianRule(base, { ex: true })])),
+	...Object.fromEntries(PALDEAN_BASES.map(base => [`Paldean ${base}`, paldeanRule(base)])),
+	...Object.fromEntries(PALDEAN_EX_BASES.map(base => [`Paldean ${base} ex`, paldeanRule(base, { ex: true })])),
 }
 
 const FORM_NAME_OVERRIDES = {

@@ -12,11 +12,11 @@ const card: Card = {
     },
     name: {
         en: "Paldean Wooper",
-        fr: "Axolotode Paldea",
-        es: "Wooperde Paldea",
-        it: "Wooperdi Paldea",
+        fr: "Axoloto de Paldea",
+        es: "Wooper de Paldea",
+        it: "Wooper di Paldea",
         de: "Paldea-Felino",
-        'pt-br': "Wooperde Paldea",
+        'pt-br': "Wooper de Paldea",
         ko: "팔데아우파",
         "zh-tw": "帕底亞烏波"
     },

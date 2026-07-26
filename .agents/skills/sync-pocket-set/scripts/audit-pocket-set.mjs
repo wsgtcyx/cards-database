@@ -162,6 +162,18 @@ for (let index = 0; index < files.length; index += 1) {
     for (const language of nameLanguages) {
       assert.ok(hasObjectKey(name, language), `${filename}: missing name.${language}`)
     }
+    // Regional forms must keep a space before de/di/d' (e.g. "Exeggutor de Alola", not "Exeggutorde Alola").
+    const brokenRegionalSpacing = [
+      ...name.matchAll(/([A-Za-zÀ-ÿœŒ])(de|di) (Alola|Hisui|Paldea)/g),
+      ...name.matchAll(/([A-Za-zÀ-ÿœŒ])d'(Alola|Hisui|Paldea)/g),
+    ]
+    assert.equal(
+      brokenRegionalSpacing.length,
+      0,
+      `${filename}: regional form name missing space before de/di/d' (${brokenRegionalSpacing
+        .map((match) => match[0])
+        .join(', ')})`,
+    )
   }
 
   if (imageLanguages.length > 0) {
