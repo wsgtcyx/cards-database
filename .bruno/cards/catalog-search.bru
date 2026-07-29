@@ -1,0 +1,18 @@
+meta {
+  name: Card catalog search
+  type: http
+  seq: 6
+}
+
+get {
+  url: {{BASE_URL}}/v2/en/cards/search?q=Vine%20Whip&set=A1&type=Grass&pageSize=10
+  body: none
+  auth: none
+}
+
+assert {
+  res.status: eq 200
+  res.body.items.length: gt 0
+  res.body.items[0].set.id: eq A1
+  res.body.pagination.pageSize: eq 10
+}

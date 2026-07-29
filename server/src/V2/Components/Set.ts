@@ -44,6 +44,10 @@ export const sets = {
 
 type MappedSet = any // (typeof en)[number]
 
+export function getCompiledSets(lang: SupportedLanguages): Array<MappedSet> {
+	return sets[lang] as Array<MappedSet>
+}
+
 export async function getAllSets(lang: SupportedLanguages): Promise<Array<SDKSet>> {
 	return Promise.all((sets[lang] as Array<MappedSet>).map(transformSet))
 }

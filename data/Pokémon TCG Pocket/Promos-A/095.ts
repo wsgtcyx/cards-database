@@ -3,6 +3,7 @@ import Set from "../Promos-A";
 const card: Card = {
     set: Set,
     image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/095",
         de: "https://game.pokemontcgpocket.app/de/tcgp/P-A/095",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/095",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/095",

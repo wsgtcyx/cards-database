@@ -10,6 +10,7 @@ import { getAllCards, findOneCard, findCards, toBrief, getCardById, getCompiledC
 import { findOneSet, findSets, setToBrief } from '../Components/Set'
 import { findOneSerie, findSeries, serieToBrief } from '../Components/Serie'
 import { listSKUs } from '../../libs/providers/tcgplayer'
+import { CatalogSearchValidationError, getCatalogSearchOptions, searchCatalogCards } from '../Components/CardSearch'
 
 type CustomRequest = Request & {
 	/**
@@ -42,7 +43,11 @@ const endpointToField: Record<string, keyof SDKCard> = {
 
 server
 	// Midleware that handle caching only in production and on GET requests
-	.use(apicache.middleware('1 day', (req: CustomRequest, res: Response) => !req.DO_NOT_CACHE && res.status < 400 && process.env.NODE_ENV === 'production' && req.method === 'GET', {}))
+	.use(apicache.middleware('1 day', (req: CustomRequest, res: Response) => !req.DO_NOT_CACHE
+		&& !req.path.endsWith('/cards/search')
+		&& res.status < 400
+		&& process.env.NODE_ENV === 'production'
+		&& req.method === 'GET', {}))
 
 	// .get('/cache/performance', (req, res) => {
 	// 	res.json(apicache.getPerformance())
@@ -105,6 +110,59 @@ server
 		const item = Math.min(data.length - 1, Math.max(0, Math.round(Math.random() * data.length)))
 		req.DO_NOT_CACHE = true
 		res.json(data[item])
+	})
+
+	/**
+	 * Facets used by card catalog filters. Values stay canonical while labels
+	 * follow the requested language.
+	 */
+	.get('/:lang/cards/search/options', (req: CustomRequest, res): void => {
+		const { lang } = req.params
+		if (!checkLanguage(lang)) {
+			sendError(Errors.LANGUAGE_INVALID, res, { lang })
+			return
+		}
+		if (Object.keys(req.query).length > 0) {
+			res.type('application/problem+json').status(400).json({
+				type: 'https://tcgdex.dev/errors/catalog-search-invalid',
+				title: 'Invalid card catalog search parameters',
+				status: 400,
+				detail: 'search options does not accept query parameters',
+				endpoint: req.url,
+				method: req.method,
+			}).end()
+			return
+		}
+		res.json(getCatalogSearchOptions(lang))
+	})
+
+	/**
+	 * Purpose-built card catalog search. It avoids third-party pricing calls and
+	 * supports nested gameplay fields that the generic query engine cannot filter.
+	 */
+	.get('/:lang/cards/search', (req: CustomRequest, res): void => {
+		const { lang } = req.params
+		req.DO_NOT_CACHE = true
+		if (!checkLanguage(lang)) {
+			sendError(Errors.LANGUAGE_INVALID, res, { lang })
+			return
+		}
+		try {
+			res.json(searchCatalogCards(lang, req.query))
+		} catch (error) {
+			if (error instanceof CatalogSearchValidationError) {
+				res.type('application/problem+json').status(400).json({
+					type: 'https://tcgdex.dev/errors/catalog-search-invalid',
+					title: 'Invalid card catalog search parameters',
+					status: 400,
+					detail: error.details.join('; '),
+					endpoint: req.url,
+					method: req.method,
+				}).end()
+				return
+			}
+			throw error
+		}
 	})
 
 

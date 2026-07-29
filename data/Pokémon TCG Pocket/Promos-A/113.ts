@@ -3,6 +3,9 @@ import Set from "../Promos-A";
 
 const card: Card = {
 	set: Set,
+	image: {
+		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/113"
+	},
 	name: {
 		en: "Mimikyu",
 		fr: "Mimiqui",

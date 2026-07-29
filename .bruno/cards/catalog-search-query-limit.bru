@@ -1,0 +1,17 @@
+meta {
+  name: Card catalog query length limit
+  type: http
+  seq: 10
+}
+
+get {
+  url: {{BASE_URL}}/v2/en/cards/search?q=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  body: none
+  auth: none
+}
+
+assert {
+  res.status: eq 400
+  res.headers.content-type: contains application/problem+json
+  res.body.status: eq 400
+}

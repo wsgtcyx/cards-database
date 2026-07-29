@@ -85,6 +85,14 @@ type MappedCard = SDKCard // (typeof en)[number]
 
 export type Card = SDKCard
 
+/**
+ * Returns the compiled database records without loading third-party pricing.
+ * Catalog search only needs the static card data and must stay deterministic.
+ */
+export function getCompiledCards(lang: SupportedLanguages): Array<any> {
+	return cards[lang] as Array<any>
+}
+
 export async function getAllCards(lang: SupportedLanguages): Promise<Array<SDKCard>> {
 	return Promise.all((cards[lang] as Array<MappedCard>).map((it) => loadCard(lang, it.id))) as Promise<Array<SDKCard>>
 }

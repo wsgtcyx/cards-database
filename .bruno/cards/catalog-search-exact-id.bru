@@ -1,0 +1,18 @@
+meta {
+  name: Card catalog exact ID search
+  type: http
+  seq: 8
+}
+
+get {
+  url: {{BASE_URL}}/v2/en/cards/search?q=A1-001
+  body: none
+  auth: none
+}
+
+assert {
+  res.status: eq 200
+  res.body.items.length: eq 1
+  res.body.items[0].id: eq A1-001
+  res.body.pagination.total: eq 1
+}

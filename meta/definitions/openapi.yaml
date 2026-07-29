@@ -78,6 +78,124 @@ paths:
           $ref: '#/components/responses/BadRequest'
         '500':
           $ref: '#/components/responses/InternalServerError'
+  /cards/search:
+    get:
+      tags:
+        - cards
+      summary: Search the card catalog
+      description: Searches localized card names and rules text, with canonical gameplay and collection filters. Repeating a filter or separating values with commas matches any value within that filter; different filters are combined with AND.
+      operationId: searchCardCatalog
+      parameters:
+        - name: q
+          in: query
+          schema: { type: string, maxLength: 200 }
+          description: Accent-insensitive search across localized and English names, attacks, abilities, effects, descriptions, IDs, and illustrators.
+        - name: set
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: booster
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: category
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: type
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: rarity
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: stage
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: trainerType
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: suffix
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: hasAbility
+          in: query
+          schema: { type: boolean }
+        - name: hpMin
+          in: query
+          schema: { type: number, minimum: 0 }
+        - name: hpMax
+          in: query
+          schema: { type: number, minimum: 0 }
+        - name: retreat
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: weakness
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: attackCostType
+          in: query
+          style: form
+          explode: true
+          schema: { type: array, items: { type: string } }
+        - name: damageMin
+          in: query
+          schema: { type: number, minimum: 0 }
+        - name: damageMax
+          in: query
+          schema: { type: number, minimum: 0 }
+        - name: illustrator
+          in: query
+          schema: { type: string, maxLength: 120 }
+        - name: page
+          in: query
+          schema: { type: integer, minimum: 1, default: 1 }
+        - name: pageSize
+          in: query
+          schema: { type: integer, minimum: 1, maximum: 100, default: 48 }
+      responses:
+        '200':
+          description: Successful request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CardCatalogSearchResponse'
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+  /cards/search/options:
+    get:
+      tags:
+        - cards
+      summary: Get card catalog filter options
+      description: Returns canonical filter values, localized labels, counts, and numeric ranges for the requested language.
+      operationId: getCardCatalogSearchOptions
+      responses:
+        '200':
+          description: Successful request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CardCatalogSearchOptions'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
   /cards/{cardId}:
     get:
       tags:
@@ -1442,6 +1560,129 @@ components:
           type: string
           description: Name of the card (including any suffix)
           example: "Alakazam"
+    CardCatalogOption:
+      type: object
+      required: [value, label, count]
+      properties:
+        value: { type: string }
+        label: { type: string }
+        count: { type: integer, minimum: 0 }
+    CardCatalogValue:
+      type: object
+      required: [value, label]
+      properties:
+        value: { type: string }
+        label: { type: string }
+    CardCatalogRange:
+      type: object
+      required: [min, max]
+      properties:
+        min: { type: [number, null], minimum: 0 }
+        max: { type: [number, null], minimum: 0 }
+    CardCatalogItem:
+      allOf:
+        - $ref: '#/components/schemas/CardResume'
+        - type: object
+          required: [set, boosters, category, types, hasAbility]
+          properties:
+            set:
+              type: object
+              required: [id, name]
+              properties:
+                id: { type: string }
+                name: { type: string }
+            boosters:
+              type: array
+              items:
+                type: object
+                required: [id, name]
+                properties:
+                  id: { type: string }
+                  name: { type: string }
+            category:
+              $ref: '#/components/schemas/CardCatalogValue'
+            types:
+              type: array
+              items: { $ref: '#/components/schemas/CardCatalogValue' }
+            rarity:
+              anyOf:
+                - $ref: '#/components/schemas/CardCatalogValue'
+                - { type: 'null' }
+            stage:
+              anyOf:
+                - $ref: '#/components/schemas/CardCatalogValue'
+                - { type: 'null' }
+            trainerType:
+              anyOf:
+                - $ref: '#/components/schemas/CardCatalogValue'
+                - { type: 'null' }
+            suffix:
+              anyOf:
+                - $ref: '#/components/schemas/CardCatalogValue'
+                - { type: 'null' }
+            hp: { type: [number, null] }
+            retreat: { type: [number, null] }
+            illustrator: { type: [string, null] }
+            hasAbility: { type: boolean }
+    CardCatalogSearchResponse:
+      type: object
+      required: [items, pagination]
+      properties:
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/CardCatalogItem'
+        pagination:
+          type: object
+          required: [page, pageSize, total, totalPages]
+          properties:
+            page: { type: integer, minimum: 1 }
+            pageSize: { type: integer, minimum: 1, maximum: 100 }
+            total: { type: integer, minimum: 0 }
+            totalPages: { type: integer, minimum: 1 }
+    CardCatalogSearchOptions:
+      type: object
+      required: [total, sets, boosters, categories, types, rarities, stages, trainerTypes, suffixes, weaknesses, retreats, attackCostTypes, hasAbility, ranges]
+      properties:
+        total: { type: integer, minimum: 0 }
+        sets:
+          type: array
+          items:
+            allOf:
+              - $ref: '#/components/schemas/CardCatalogOption'
+              - type: object
+                properties:
+                  releaseDate: { type: string, format: date }
+        boosters:
+          type: array
+          items:
+            allOf:
+              - $ref: '#/components/schemas/CardCatalogOption'
+              - type: object
+                required: [set]
+                properties:
+                  set:
+                    type: object
+                    required: [id, name]
+                    properties:
+                      id: { type: string }
+                      name: { type: string }
+        categories: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        types: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        rarities: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        stages: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        trainerTypes: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        suffixes: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        weaknesses: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        retreats: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        attackCostTypes: { type: array, items: { $ref: '#/components/schemas/CardCatalogOption' } }
+        hasAbility: { type: integer, minimum: 0 }
+        ranges:
+          type: object
+          required: [hp, damage]
+          properties:
+            hp: { $ref: '#/components/schemas/CardCatalogRange' }
+            damage: { $ref: '#/components/schemas/CardCatalogRange' }
     Card:
       description: Detailed information about a Pokemon TCG card, including game mechanics
       required:

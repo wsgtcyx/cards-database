@@ -1,0 +1,17 @@
+meta {
+  name: Card catalog scalar query with comma
+  type: http
+  seq: 9
+}
+
+get {
+  url: {{BASE_URL}}/v2/en/cards/search?q=Vine%20Whip%2C%20impossible-token
+  body: none
+  auth: none
+}
+
+assert {
+  res.status: eq 200
+  res.body.items.length: eq 0
+  res.body.pagination.total: eq 0
+}

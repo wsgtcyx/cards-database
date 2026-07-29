@@ -3,6 +3,7 @@ import Set from "../Crimson Blaze";
 const card: Card = {
     set: Set,
     image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1a/088",
         de: "https://game.pokemontcgpocket.app/de/tcgp/B1a/088",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1a/088",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1a/088",

@@ -1,0 +1,19 @@
+meta {
+  name: Card catalog search options
+  type: http
+  seq: 7
+}
+
+get {
+  url: {{BASE_URL}}/v2/en/cards/search/options
+  body: none
+  auth: none
+}
+
+assert {
+  res.status: eq 200
+  res.body.total: gt 3000
+  res.body.sets.length: gt 20
+  res.body.types.length: gt 5
+  res.body.boosters.length: gt 10
+}

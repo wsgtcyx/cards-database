@@ -153,6 +153,57 @@ export interface CardResume {
 	image?: string;
 }
 
+export interface CardCatalogOption {
+	value: string;
+	label: string;
+	count: number;
+}
+
+export interface CardCatalogItem extends CardResume {
+	set: { id: string; name: string };
+	boosters: Array<{ id: string; name: string }>;
+	category: { value: string; label: string };
+	types: Array<{ value: string; label: string }>;
+	rarity?: { value: string; label: string };
+	stage?: { value: string; label: string };
+	trainerType?: { value: string; label: string };
+	suffix?: { value: string; label: string };
+	hp?: number;
+	retreat?: number;
+	illustrator?: string;
+	hasAbility: boolean;
+}
+
+export interface CardCatalogSearchResponse {
+	items: Array<CardCatalogItem>;
+	pagination: {
+		page: number;
+		pageSize: number;
+		total: number;
+		totalPages: number;
+	};
+}
+
+export interface CardCatalogSearchOptions {
+	total: number;
+	sets: Array<CardCatalogOption & { releaseDate?: string }>;
+	boosters: Array<CardCatalogOption & { set: { id: string; name: string } }>;
+	categories: Array<CardCatalogOption>;
+	types: Array<CardCatalogOption>;
+	rarities: Array<CardCatalogOption>;
+	stages: Array<CardCatalogOption>;
+	trainerTypes: Array<CardCatalogOption>;
+	suffixes: Array<CardCatalogOption>;
+	weaknesses: Array<CardCatalogOption>;
+	retreats: Array<CardCatalogOption>;
+	attackCostTypes: Array<CardCatalogOption>;
+	hasAbility: number;
+	ranges: {
+		hp: { min: number | null; max: number | null };
+		damage: { min: number | null; max: number | null };
+	};
+}
+
 /**
  * /cards/:id
  * /sets/:set/:localId
