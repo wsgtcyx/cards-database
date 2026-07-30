@@ -21,7 +21,8 @@ set ID；不要再向用户索要可从来源发现的英文名、卡数、boost
 6. 将所有可用卡图和 pack 图统一转为 WebP；
 7. 上传到既有 Cloudflare R2 `game` bucket；
 8. 写入逐卡 `image` 和 booster 图片 URL；
-9. 运行审计、TypeScript 检查和公网验证。
+9. 运行审计、TypeScript 检查和公网验证；
+10. 若用户同时要求同步下游，必须把逐卡 rarity 写入下游 gacha 增量索引，并通过全卡覆盖测试。
 
 只读询问（例如“看看 B4 有什么”）不触发仓库或 R2 写入。commit/push 仍只在用户明确要求时执行。
 
@@ -183,6 +184,8 @@ node "$SKILL_DIR/scripts/import-metadata.mjs" \
 - 卡名、`evolveFrom` 和 pack 名优先采用游戏资源中的本地化；
 - 详细来源与游戏资源的英文卡名不一致时，先核实地区形态/特殊形态，并补
   `FORM_RULES` 或 `FORM_NAME_OVERRIDES`；不要丢掉形态前缀；
+- 每张卡必须有可映射的 rarity；未知 rarity 直接停止，不能让 importer 或下游
+  gacha 静默跳过该卡；
 - 规则文本保持伤害、能量、状态、回合条件和占位符语义；
 - 英文占位、漏语言或未经核实的机器翻译都不算完成。
 
@@ -294,6 +297,10 @@ npm run validate
 
 任何目标范围内失败都先修复并重跑；不能只凭 build 通过宣称完成。
 
+若用户明确把下游应用纳入范围，还必须运行下游的 `card-catalog:test`。该测试要求
+全部卡片 key 与 `cardRarity.json + cardRarity.additions.json` 完全一致；新增 set
+缺少任意 rarity、rarity code 非法或 runtime 未加载增量索引都不能交付。
+
 ## 9. 发布与报告
 
 仅在用户明确要求时 commit/push。显式暂存目标 set、必要 schema/compiler
@@ -304,6 +311,7 @@ npm run validate
 - set ID、official/total、release date、booster 数；
 - 两个数据来源的 repo + commit 和关键事实证据；
 - metadata 与翻译覆盖数；
+- 若下游在范围内，rarity 覆盖数和 gacha 回归结果；
 - R2 bucket、对象数、公开 URL 样例；
 - audit、R2 verify、`npm run validate` 结果；
 - commit/push 状态。
@@ -316,5 +324,6 @@ npm run validate
 - 不用 GitHub Raw 作为生产图片 CDN；
 - 不覆盖未知 R2 对象；
 - 不把单包集合的逐卡 booster 当必填；
+- 不在下游 rarity 索引未覆盖新 set 时宣称下游同步完成；
 - 不自动修改下游应用；
 - 不在未明确要求时 commit/push。

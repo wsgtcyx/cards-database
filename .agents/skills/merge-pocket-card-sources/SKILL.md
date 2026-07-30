@@ -27,7 +27,7 @@ description: Build auditable Pokémon TCG Pocket card metadata by merging fields
 4. 当固定的结构化 metadata 上游尚未发布该卡集时，用 `build-importer-source.mjs` 从 canonical 结果和历史九语官方卡名生成 importer 兼容源；其 `unresolvedLocalizedNames` 必须人工裁决到 0。
 5. 用输出的 `*.details.json` 作为 `sync-pocket-set` 的 `metadata.detailsFile`，并把 `*.provenance.json` 固定到 manifest。
 6. 在任何 metadata/R2 写入前，再运行一次相同命令；输入 hash 或审计结果变化时停止复核。
-7. R2 公网验证通过后，用 `sync-downstream-locales.mjs` 把已审定的七语卡名和实际存在的图片语言写入下游；先 dry-run，再加 `--write`，并逐 locale 检查数量与连续性。
+7. R2 公网验证通过后，用 `sync-downstream-locales.mjs` 把已审定的七语卡名、实际存在的图片语言和逐卡 gacha rarity 一起写入下游；先 dry-run，再加 `--write`，并逐 locale 检查数量、连续性以及下游 rarity 全卡覆盖测试。脚本写入固定的 `cardRarity.additions.json`，不得再为新 set 新建需要手工接线的 rarity shard。
 
 ```bash
 node .agents/skills/merge-pocket-card-sources/scripts/merge-pocket-card-sources.mjs \

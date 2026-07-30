@@ -79,6 +79,26 @@ boosters: [] // 不从该 set 的普通 booster 掉落
 
 因此 `Card.boosters === undefined` 在单包集合中表示“属于该 set 的唯一 booster”，不是数据缺失。
 
+## 下游 gacha rarity
+
+上游每张 Card 的 `rarity` 是 gacha 的必需数据，不只是卡片详情展示字段。用户明确
+要求同步下游时，必须同时把目标 set 的全部 rarity 写入下游
+`lib/config/cardRarity.additions.json`。运行时合并历史基础索引与该增量索引。
+
+固定映射：
+
+```text
+One/Two/Three/Four Diamond -> d1/d2/d3/d4
+One/Two/Three Star         -> s1/s2/s3
+One/Two Shiny              -> h1/h2
+Crown                      -> cr
+None (Promo)               -> pr
+```
+
+下游全卡覆盖测试必须证明：卡片 key 与合并后的 rarity key 完全一致，且每个 value
+属于上述 code 集。不能仅为当前 set 写一个 set-specific 断言，因为那无法阻止下一
+个 set 再次漏配。
+
 ## 数量
 
 - `cardCount.official`：正式编号范围，不含 secret cards；
