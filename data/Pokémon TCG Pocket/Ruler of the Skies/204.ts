@@ -8,14 +8,14 @@ const card: Card = {
     },
     name: {
         en: "Alolan Vulpix",
-        fr: "Goupix d'Alola d'Alola",
-        es: "Vulpix de Alola de Alola",
-        it: "Vulpix di Alola di Alola",
-        de: "Alola-Alola-Vulpix",
-        "pt-br": "Vulpix de Alola de Alola",
+        fr: "Goupix d'Alola",
+        es: "Vulpix de Alola",
+        it: "Vulpix di Alola",
+        de: "Alola-Vulpix",
+        "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉的六尾",
         ko: "알로라 식스테일",
-        ja: "アローラ アローラ ロコン"
+        ja: "アローラ ロコン"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

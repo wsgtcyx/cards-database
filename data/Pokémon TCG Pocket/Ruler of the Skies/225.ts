@@ -8,11 +8,11 @@ const card: Card = {
     },
     name: {
         en: "Alolan Ninetales ex",
-        fr: "Feunard d'Alola d'Alola-ex",
-        es: "Ninetales de Alola de Alola ex",
-        it: "Ninetales di Alola di Alola-ex",
-        de: "Alola-Alola-Vulnona ex",
-        "pt-br": "Ninetales de Alola de Alola ex",
+        fr: "Feunard d'Alola-ex",
+        es: "Ninetales de Alola ex",
+        it: "Ninetales di Alola-ex",
+        de: "Alola-Vulnona-ex",
+        "pt-br": "Ninetales de Alola ex",
         "zh-tw": "阿羅拉的九尾ex",
         ko: "알로라 나인테일 ex",
         ja: "アローラ キュウコンex"
@@ -32,7 +32,7 @@ const card: Card = {
         "pt-br": "Vulpix de Alola",
         "zh-tw": "阿羅拉的六尾",
         ko: "알로라 식스테일",
-        ja: "アローラ アローラ ロコン"
+        ja: "アローラ ロコン"
     },
     stage: "Stage1",
     attacks: [

@@ -437,27 +437,34 @@ function localizedCardName(config, number, pocketCard, cardMetadata) {
 	for (const [lang, locale] of LANGUAGES.slice(1)) {
 		const sourceCard = cardMetadata[locale].get(`${config.sourceCode}-${number}`)
 		const baseName = sourceCard.name
-		if (['zh-tw', 'ko', 'ja'].includes(lang)) {
-			result[lang] = baseName
-			continue
-		}
-		const rule = FORM_RULES[canonicalEnglish]
+		const rule = sourceMatches ? undefined : FORM_RULES[canonicalEnglish]
 		if (rule) {
 			const localizedBase = baseName.replace(/\s*-?ex$/i, '').trim()
 			const withSuffix = rule.base.endsWith(' ex') ? `${localizedBase} ex` : localizedBase
-			result[lang] = rule[lang](withSuffix)
+			result[lang] = normalizeRegionalFormName(rule[lang](withSuffix))
 		} else {
-			result[lang] = FORM_NAME_OVERRIDES[canonicalEnglish]?.[lang] ?? baseName
+			result[lang] = normalizeRegionalFormName(
+				FORM_NAME_OVERRIDES[canonicalEnglish]?.[lang] ?? baseName,
+			)
 		}
 	}
 	return result
+}
+
+function normalizeRegionalFormName(name) {
+	return name
+		.replace(/^(Alola-|Hisui-|Paldea-)\1+/i, '$1')
+		.replace(/^(\u30a2\u30ed\u30fc\u30e9 |\u30d2\u30b9\u30a4 |\u30d1\u30eb\u30c7\u30a2 )\1+/, '$1')
+		.replace(/^(\uc54c\ub85c\ub77c |\ud788\uc2a4\uc774 |\ud314\ub370\uc544 )\1+/, '$1')
+		.replace(/^(\u963f\u7f85\u62c9\u7684|\u6d17\u7fe0\u7684|\u5e15\u5e95\u4e9e\u7684)\1+/, '$1')
+		.replace(/( (?:d'|de |di )(?:Alola|Hisui|Paldea))\1+/gi, '$1')
 }
 
 function localizedEvolvesFrom(config, number, cardMetadata) {
 	const result = {}
 	for (const [lang, locale] of LANGUAGES) {
 		const value = cardMetadata[locale].get(`${config.sourceCode}-${number}`).evolvesFrom
-		if (value) result[lang] = value
+		if (value) result[lang] = normalizeRegionalFormName(value)
 	}
 	return Object.keys(result).length ? result : undefined
 }
