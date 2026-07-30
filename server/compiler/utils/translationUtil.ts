@@ -12,6 +12,7 @@ const translations: Record<string, Record<translatable, Record<string, string>>>
 	fr,
 	it,
 	pt,
+	'pt-br': pt,
 	de
 }
 
