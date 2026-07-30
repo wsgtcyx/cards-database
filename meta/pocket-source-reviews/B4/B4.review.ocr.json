@@ -1,0 +1,3423 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "cards": {
+    "B4-001": {
+      "fields": {
+        "illustrator": {
+          "value": "ryoma uratsuka",
+          "raw": "ryoma uratsuka",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=1"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+          "raw": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=1",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-002": {
+      "fields": {
+        "illustrator": {
+          "value": "Satoshi Shirai",
+          "raw": "Saloshi Shira",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=2"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+          "raw": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=2",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-003": {
+      "fields": {
+        "illustrator": {
+          "value": "Suwama Chiaki",
+          "raw": "Suwama Chiaki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=3"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
+          "raw": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=3",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-004": {
+      "fields": {
+        "illustrator": {
+          "value": "Aya Kusube",
+          "raw": "Aya Kusubo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=4"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+          "raw": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=4",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-005": {
+      "fields": {
+        "illustrator": {
+          "value": "Midori Harada",
+          "raw": "Midori Harada",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=5"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+          "raw": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=5",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-006": {
+      "fields": {
+        "illustrator": {
+          "value": "Kouki Saitou",
+          "raw": "Kooki Saitou",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=6"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+          "raw": "Lilooe clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=6",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-007": {
+      "fields": {
+        "illustrator": {
+          "value": "Midori Harada",
+          "raw": "Midori Harada",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=7"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+          "raw": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=7",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-008": {
+      "fields": {
+        "illustrator": {
+          "value": "Sumiyoshi Kizuki",
+          "raw": "Sumiyoshi Kizuki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=8"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "When its antennae hit each other, it sounds like the music of a xylophone.",
+          "raw": "When its antennae hit each other, it sounds like the music of a xylophone.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=8",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-009": {
+      "fields": {
+        "illustrator": {
+          "value": "Anesaki Dynamic",
+          "raw": "Aneosaki Dynamic",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=9"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+          "raw": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=9",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-010": {
+      "fields": {
+        "illustrator": {
+          "value": "Yoriyuki Ikegami",
+          "raw": "Yoriyuki Ikegami",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=10"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+          "raw": "The trio is together from birth. It constantly gathers nectar from flowers to please Vespiquen.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=10",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-011": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=11"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-012": {
+      "fields": {
+        "illustrator": {
+          "value": "sowsow",
+          "raw": "sowsow",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=12"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
+          "raw": "It spits a liquid from its mouth to melt through Shelmet's shell. Karrablast doesn't eat the shell— it eats only the contents.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=12",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-013": {
+      "fields": {
+        "description": {
+          "value": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+          "raw": "It has a strange physiology that responds to electricity. When together with Karnblast, Shelmet evolves for some reason.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=1",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-014": {
+      "fields": {
+        "illustrator": {
+          "value": "Hasuno",
+          "raw": "Hasuno",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=14"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+          "raw": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=14",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-015": {
+      "fields": {
+        "illustrator": {
+          "value": "Kyoko Umemoto",
+          "raw": "Kyoko Umemoto",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=15"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
+          "raw": "After lowering its anchor, it waits for its prey. It catches large Wallord and drains their life-force.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=15",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-016": {
+      "fields": {
+        "illustrator": {
+          "value": "Hitoshi Ariga",
+          "raw": "Hitoshi Arigo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=16"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+          "raw": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=16",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-017": {
+      "fields": {
+        "illustrator": {
+          "value": "Miki Tanaka",
+          "raw": "Miki Tanaka",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=17"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+          "raw": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=17",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-018": {
+      "fields": {
+        "illustrator": {
+          "value": "Tomokazu Komiya",
+          "raw": "Tomokazu Komiya",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=18"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+          "raw": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=18",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-019": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoyo Kimura",
+          "raw": "Naoyo Kimura",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=19"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-020": {
+      "fields": {
+        "illustrator": {
+          "value": "Saya Tsuruta",
+          "raw": "Saya Tsuruta",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=20"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+          "raw": "If you've been accepted by Ponyya, its burning mane is mysteriously no longer hot to the touch.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-021": {
+      "fields": {
+        "illustrator": {
+          "value": "Yukiko Baba",
+          "raw": "Yukiko Baba",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=21"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
+          "raw": "The fastest runner becomes the leader, and it decides the herd's pace and direction of travel.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=21",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-022": {
+      "fields": {
+        "illustrator": {
+          "value": "AKIRA EGAWA",
+          "raw": "AKIRA EGAWA",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=22"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+          "raw": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=22",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-023": {
+      "fields": {
+        "illustrator": {
+          "value": "Ken Sugimori",
+          "raw": "Kan Sugimori",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=23"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
+          "raw": "There are stories of this Pokémon using ics radiant, flame-claked wings to light up paths for those lost in the mountains.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=23",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-024": {
+      "fields": {
+        "illustrator": {
+          "value": "Teeziro",
+          "raw": "Teeziro",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=24"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+          "raw": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=24",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-025": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoyo Kimura",
+          "raw": "Naoyo Kimura",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=25"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-026": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=26"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-027": {
+      "fields": {
+        "illustrator": {
+          "value": "Kurata So",
+          "raw": "Kurata So",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=27"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+          "raw": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=27",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-028": {
+      "fields": {
+        "description": {
+          "value": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
+          "raw": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=2",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-029": {
+      "fields": {
+        "illustrator": {
+          "value": "Kouki Saitou",
+          "raw": "Kooki Saitou",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=29"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+          "raw": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=29",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-030": {
+      "fields": {
+        "illustrator": {
+          "value": "Mousho",
+          "raw": "Mousho",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=30"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+          "raw": "If its chronic headache peaks, it may exhibit add powers. It seems unable to recall such an episode.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=30",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-031": {
+      "fields": {
+        "illustrator": {
+          "value": "Shigenori Negishi",
+          "raw": "Shigenori Negishi",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=1"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+          "raw": "It swims gracefully along on the quiez, slow-moving rivers and lakes of which it is so fond.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=1",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-032": {
+      "fields": {
+        "illustrator": {
+          "value": "Shigenori Negishi",
+          "raw": "Shigenori Negishi",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=2"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+          "raw": "Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=2",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-033": {
+      "fields": {
+        "illustrator": {
+          "value": "Akira Komayama",
+          "raw": "Akira Kamayama",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=3"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+          "raw": "Carmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=3",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-034": {
+      "fields": {
+        "illustrator": {
+          "value": "Jerky",
+          "raw": "Jerky",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=4"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+          "raw": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=4",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-035": {
+      "fields": {}
+    },
+    "B4-036": {
+      "fields": {
+        "illustrator": {
+          "value": "kodama",
+          "raw": "kodama",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=6"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+          "raw": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=6",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-037": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=7"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-038": {
+      "fields": {
+        "description": {
+          "value": "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
+          "raw": "As it drifts among the waves. Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=4",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-039": {
+      "fields": {
+        "illustrator": {
+          "value": "Masakazu Fukuda",
+          "raw": "Masakazu Fukuda",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=9"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+          "raw": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=9",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-040": {
+      "fields": {
+        "illustrator": {
+          "value": "Satoshi Shirai",
+          "raw": "Saloshi Shira",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=10"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+          "raw": "Valrein's tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=10",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-041": {
+      "fields": {
+        "illustrator": {
+          "value": "Shin Nagasawa",
+          "raw": "Shin Nagasawa",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=11"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+          "raw": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=11",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-042": {
+      "fields": {
+        "illustrator": {
+          "value": "kurumitsu",
+          "raw": "kurumitsu",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=12"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-043": {
+      "fields": {}
+    },
+    "B4-044": {
+      "fields": {
+        "illustrator": {
+          "value": "Masakazu Fukuda",
+          "raw": "Masakazu Fukuda",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=14"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-045": {
+      "fields": {
+        "illustrator": {
+          "value": "Kagemaru Himeno",
+          "raw": "Kagemaru Himeno",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=15"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+          "raw": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=15",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-046": {
+      "fields": {}
+    },
+    "B4-047": {
+      "fields": {
+        "illustrator": {
+          "value": "match",
+          "raw": "match",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=17"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-048": {
+      "fields": {
+        "illustrator": {
+          "value": "Misa Tsutsui",
+          "raw": "Misa Tsutsu",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=18"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-049": {
+      "fields": {
+        "illustrator": {
+          "value": "Kariya",
+          "raw": "Kaniya",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=19"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
+          "raw": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=19",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-050": {
+      "fields": {
+        "illustrator": {
+          "value": "GIDORA",
+          "raw": "GIDORA",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=20"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+          "raw": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-051": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoki Saito",
+          "raw": "Nacki Saito",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=21"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
+          "raw": "The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=21",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-052": {
+      "fields": {
+        "illustrator": {
+          "value": "Eri Yamaki",
+          "raw": "Eri Yamaki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=22"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+          "raw": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=22",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-053": {
+      "fields": {
+        "illustrator": {
+          "value": "aoki",
+          "raw": "ooki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=23"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+          "raw": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=23",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-054": {
+      "fields": {
+        "illustrator": {
+          "value": "Keisin",
+          "raw": "Keisin",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=24"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+          "raw": "A pair may be seen rubbing their check pouches together in an effort to share stored electricity.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=24",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-055": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=25"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-056": {
+      "fields": {
+        "illustrator": {
+          "value": "Akira Komayama",
+          "raw": "Akira Kamayama",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=26"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+          "raw": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=26",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-057": {
+      "fields": {
+        "illustrator": {
+          "value": "NC Empire",
+          "raw": "NC Empire",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=27"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+          "raw": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=27",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-058": {
+      "fields": {
+        "illustrator": {
+          "value": "Shin Nagasawa",
+          "raw": "Shin Nagasawa",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=28"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+          "raw": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=28",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-059": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Souichirou Gunjima",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=29"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+          "raw": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=29",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-060": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kayama",
+          "raw": "Taigo Kayama",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=30"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+          "raw": "The sun powers this Pokémon's electricity generation. Interruption of that process stresses Helicoptile to the point of weakness.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=30",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-061": {
+      "fields": {
+        "illustrator": {
+          "value": "5ban Graphics",
+          "raw": "5ban Graphics",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=1"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+          "raw": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=1",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-062": {
+      "fields": {
+        "illustrator": {
+          "value": "Shin Nagasawa",
+          "raw": "Shin Nagasawa",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=2"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+          "raw": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=2",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-063": {
+      "fields": {}
+    },
+    "B4-064": {
+      "fields": {
+        "illustrator": {
+          "value": "sowsow",
+          "raw": "sowow",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=4"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+          "raw": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=4",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-065": {
+      "fields": {
+        "illustrator": {
+          "value": "ryoma uratsuka",
+          "raw": "ryoma uratsuka",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=5"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+          "raw": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=5",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-066": {
+      "fields": {
+        "illustrator": {
+          "value": "Tomokazu Komiya",
+          "raw": "Tomokazu Komiya",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=6"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+          "raw": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=6",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-067": {
+      "fields": {
+        "illustrator": {
+          "value": "Shinji Kanda",
+          "raw": "Shinji Kanda",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=7"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+          "raw": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=7",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-068": {
+      "fields": {
+        "illustrator": {
+          "value": "Miki Tanaka",
+          "raw": "Miki Tanaka",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=8"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
+          "raw": "It looks for a Mr. Rime that's a good dancer and carefully copies the Mr. Rime's steps like an apprentice.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=8",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-069": {
+      "fields": {
+        "illustrator": {
+          "value": "OOYAMA",
+          "raw": "OOYAMA",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=9"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+          "raw": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=9",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-070": {
+      "fields": {
+        "illustrator": {
+          "value": "Kouki Saitou",
+          "raw": "Kouki Saitou",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=10"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-071": {
+      "fields": {
+        "illustrator": {
+          "value": "Nagomi Nijo",
+          "raw": "Nagomi Nijo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=11"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+          "raw": "It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=11",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-072": {
+      "fields": {
+        "illustrator": {
+          "value": "kawayoo",
+          "raw": "kamayoo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=12"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+          "raw": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=12",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-073": {
+      "fields": {
+        "illustrator": {
+          "value": "Shibuzoh.",
+          "raw": "Shibuzoh.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=13"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+          "raw": "Ics cries echo inside ics hollow body to emerge as beautiful notes for startling and repelling foes.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=13",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-074": {
+      "fields": {
+        "illustrator": {
+          "value": "Kagemaru Himeno",
+          "raw": "Kagemaru Himeno",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=14"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+          "raw": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=14",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-075": {
+      "fields": {
+        "illustrator": {
+          "value": "Shibuzoh.",
+          "raw": "Shibuzoh.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=15"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+          "raw": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=15",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-076": {
+      "fields": {
+        "illustrator": {
+          "value": "Narumi Sato",
+          "raw": "Norumi Sato",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=16"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.",
+          "raw": "The auspicious shape of this Pokémon's nose apparently led some regions to consider Swoobat a symbol of good luck.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=16",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-077": {
+      "fields": {
+        "illustrator": {
+          "value": "akagi",
+          "raw": "akogi",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=17"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+          "raw": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=17",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-078": {
+      "fields": {
+        "illustrator": {
+          "value": "mingo",
+          "raw": "mingo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=18"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-079": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoyo Kimura",
+          "raw": "Naoyo Kimura",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=19"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+          "raw": "toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=19",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-080": {
+      "fields": {
+        "illustrator": {
+          "value": "Hisao Nakamura",
+          "raw": "Hisoo Nakamura",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=20"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+          "raw": "It stamps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-081": {
+      "fields": {
+        "illustrator": {
+          "value": "Kouki Saitou",
+          "raw": "Kooki Saitou",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=21"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+          "raw": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=21",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-082": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Souichirou Gunjima",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=22"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+          "raw": "Though it lives on land, it's also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=22",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-083": {
+      "fields": {
+        "illustrator": {
+          "value": "Shin Nagasawa",
+          "raw": "Shin Nagasawa",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=23"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
+          "raw": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=23",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-084": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=24"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-085": {
+      "fields": {
+        "illustrator": {
+          "value": "tetsuya koizumi",
+          "raw": "Letsuya koizumi",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=25"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+          "raw": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=25",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-086": {
+      "fields": {
+        "illustrator": {
+          "value": "Anesaki Dynamic",
+          "raw": "Anesaki Dynamic",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=26"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-087": {
+      "fields": {
+        "illustrator": {
+          "value": "Tomokazu Komiya",
+          "raw": "Tomokazu Komiya",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=27"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+          "raw": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle heavy lumber without difficulty.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=27",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-088": {
+      "fields": {
+        "illustrator": {
+          "value": "Sumiyoshi Kizuki",
+          "raw": "Sumiyoshi Kizuki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=28"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+          "raw": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=28",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-089": {
+      "fields": {
+        "illustrator": {
+          "value": "Masakazu Fukuda",
+          "raw": "Masakazu Fukuda",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=29"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-090": {
+      "fields": {
+        "illustrator": {
+          "value": "OKUBO",
+          "raw": "OKUBO",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=30"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-091": {
+      "fields": {
+        "illustrator": {
+          "value": "Nisota Niso",
+          "raw": "Niseto Niso",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=1"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-092": {
+      "fields": {
+        "description": {
+          "value": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+          "raw": "It's so stinky! Mak's body contains 10x10 elements, and any plans will will when it",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=8",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-093": {
+      "fields": {}
+    },
+    "B4-094": {
+      "fields": {}
+    },
+    "B4-095": {
+      "fields": {}
+    },
+    "B4-096": {
+      "fields": {}
+    },
+    "B4-097": {
+      "fields": {}
+    },
+    "B4-098": {
+      "fields": {}
+    },
+    "B4-099": {
+      "fields": {}
+    },
+    "B4-100": {
+      "fields": {
+        "description": {
+          "value": "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom.",
+          "raw": "Because of this Pokémon's ability to detect danger, people mistook Absol as a bringer",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=16",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-101": {
+      "fields": {}
+    },
+    "B4-102": {
+      "fields": {}
+    },
+    "B4-103": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=13"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-104": {
+      "fields": {
+        "illustrator": {
+          "value": "Sanosuke Sakuma",
+          "raw": "Sanosuke Sakuma",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=14"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-105": {
+      "fields": {
+        "illustrator": {
+          "value": "0313",
+          "raw": "0313",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=15"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+          "raw": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=15",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-106": {
+      "fields": {
+        "illustrator": {
+          "value": "Aya Kusube",
+          "raw": "Ayo Kusube",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=16"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-107": {
+      "fields": {
+        "illustrator": {
+          "value": "Kazuma Koda",
+          "raw": "Kazuma Koda",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=17"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
+          "raw": "I adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=17",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-108": {
+      "fields": {
+        "illustrator": {
+          "value": "kawayoo",
+          "raw": "kawayoo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=18"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.",
+          "raw": "It firmly pins its prey using its four claws and large body. Then Metagross uses the mouth on its stomach to chew its prey to bits.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=18",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-109": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA Yamashita",
+          "raw": "PLANETA Yamashita",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=19"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-110": {
+      "fields": {
+        "illustrator": {
+          "value": "Nurikabe",
+          "raw": "Nurikabe",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=20"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+          "raw": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-111": {
+      "fields": {
+        "illustrator": {
+          "value": "Nelnal",
+          "raw": "Nelfal",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=21"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+          "raw": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=21",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-112": {
+      "fields": {
+        "illustrator": {
+          "value": "kawayoo",
+          "raw": "kawayoo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=22"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-113": {
+      "fields": {
+        "illustrator": {
+          "value": "Takumi Wada",
+          "raw": "Takumi Wada",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=23"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.",
+          "raw": "It digs holes on mountains, searching for food. It's so durable that being caught in a cave-in won't faze it.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=23",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-114": {
+      "fields": {
+        "illustrator": {
+          "value": "Mina Nakai",
+          "raw": "Mina Nakai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=24"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.",
+          "raw": "The steel section is Varoom's actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=24",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-115": {
+      "fields": {
+        "illustrator": {
+          "value": "Sanosuke Sakuma",
+          "raw": "Sanosuke Sakuma",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=25"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.",
+          "raw": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=25",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-116": {
+      "fields": {
+        "illustrator": {
+          "value": "Sekio",
+          "raw": "Sekio",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=19"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.",
+          "raw": "le is born large to start with. It repeatedly sheds ies skin as it steadily grows longer.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=19",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-117": {
+      "fields": {
+        "description": {
+          "value": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+          "raw": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-118": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoyo Kimura",
+          "raw": "Naoyo Kimura",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=28"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+          "raw": "It can fly in spice of ics big and bulky physique. It circles the globe in just 16 hours.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=28",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-119": {
+      "fields": {
+        "illustrator": {
+          "value": "kawayoo",
+          "raw": "kawayoo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=29"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+          "raw": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=29",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-120": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA Igarashi",
+          "raw": "PLANETA Igarashi",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=30"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-121": {
+      "fields": {}
+    },
+    "B4-122": {
+      "fields": {
+        "illustrator": {
+          "value": "aoki",
+          "raw": "ooki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=2"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-123": {
+      "fields": {
+        "illustrator": {
+          "value": "Anesaki Dynamic",
+          "raw": "Anesaki Dynamic",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=3"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
+          "raw": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. its droppings are also dangerously explosive.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=3",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-124": {
+      "fields": {
+        "illustrator": {
+          "value": "match",
+          "raw": "match",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=4"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
+          "raw": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=4",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-125": {
+      "fields": {
+        "illustrator": {
+          "value": "Miki Tanaka",
+          "raw": "Miki Tanaka",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=5"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-126": {
+      "fields": {
+        "illustrator": {
+          "value": "Tomomi Ozaki",
+          "raw": "Tomomi Ozaki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=6"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+          "raw": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=6",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-127": {
+      "fields": {
+        "illustrator": {
+          "value": "Kuroimori",
+          "raw": "Kuroimori",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=7"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+          "raw": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=7",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-128": {
+      "fields": {
+        "illustrator": {
+          "value": "Iori Suzuki",
+          "raw": "Iovi Suzuki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=8"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+          "raw": "It can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=8",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-129": {
+      "fields": {
+        "illustrator": {
+          "value": "Yukiko Baba",
+          "raw": "Yukiko Baba",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=9"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+          "raw": "This Pokémon is common but hazardous. les sharp incisors can easily cut right through hard wood.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=9",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-130": {
+      "fields": {
+        "illustrator": {
+          "value": "sowsow",
+          "raw": "sowsow",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=10"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+          "raw": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=10",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-131": {
+      "fields": {
+        "illustrator": {
+          "value": "Sumiyoshi Kizuki",
+          "raw": "Sumiyoshi Kizuki",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=11"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+          "raw": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=11",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-132": {
+      "fields": {
+        "illustrator": {
+          "value": "Sekio",
+          "raw": "Sekio",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=12"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-133": {
+      "fields": {
+        "illustrator": {
+          "value": "Atsuko Nishida",
+          "raw": "Atsuko Nishida",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=13"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+          "raw": "Split into two, the tails are so adept at handling and doing things that Ambipom rarely uses its hands.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=13",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-134": {
+      "fields": {
+        "illustrator": {
+          "value": "kawayoo",
+          "raw": "kamayoo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=14"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It shows its cute side by chasing its own tail until it gets dizzy.",
+          "raw": "It shows its cute side by chasing its own tail until it gets dizzy.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=14",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-135": {
+      "fields": {
+        "illustrator": {
+          "value": "Shin Nagasawa",
+          "raw": "Shin Nagasawa",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=15"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+          "raw": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=15",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-136": {
+      "fields": {
+        "illustrator": {
+          "value": "Midori Harada",
+          "raw": "Midori Harada",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=16"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-137": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoki Saito",
+          "raw": "Nooki Saito",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=17"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+          "raw": "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=17",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-138": {
+      "fields": {
+        "illustrator": {
+          "value": "Midori Harada",
+          "raw": "Midori Harada",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=18"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+          "raw": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=18",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-139": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoyo Kimura",
+          "raw": "Naoyo Kimura",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=19"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+          "raw": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=19",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-140": {
+      "fields": {
+        "illustrator": {
+          "value": "Shinya Komatsu",
+          "raw": "Shinya Komatsu",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=20"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-141": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=21"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-142": {
+      "fields": {
+        "illustrator": {
+          "value": "HYOGONOSUKE",
+          "raw": "HYOGONOSUKE",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=22"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+          "raw": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=22",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-143": {
+      "fields": {
+        "illustrator": {
+          "value": "KEIICHIRO ITO",
+          "raw": "KEUCHIRO ITO",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=23"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+          "raw": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=23",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-144": {
+      "fields": {
+        "illustrator": {
+          "value": "Kazumasa Yasukuni",
+          "raw": "Kazumasa Yasukuni",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=24"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.",
+          "raw": "The final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=24",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-145": {
+      "fields": {
+        "illustrator": {
+          "value": "Studio Bora Inc.",
+          "raw": "Studio Bara Inc.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=25"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-146": {
+      "fields": {
+        "illustrator": {
+          "value": "Toyste Beach",
+          "raw": "Toyste Beach",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=26"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-147": {
+      "fields": {
+        "illustrator": {
+          "value": "5ban Graphics",
+          "raw": "5ban Graphics",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=27"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-148": {
+      "fields": {
+        "illustrator": {
+          "value": "Studio Bora Inc.",
+          "raw": "Studio Bara Inc.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=28"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-149": {
+      "fields": {
+        "illustrator": {
+          "value": "Toyste Beach",
+          "raw": "Toyste Beach",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=29"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-150": {
+      "fields": {
+        "illustrator": {
+          "value": "GIDORA",
+          "raw": "GIDORA",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=30"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-151": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Souchirou Gunjima",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=1"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-152": {
+      "fields": {
+        "illustrator": {
+          "value": "Nobusawa/Mochipuyo",
+          "raw": "Nobusawa/Mochipyo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=2"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-153": {
+      "fields": {
+        "illustrator": {
+          "value": "Teeziro",
+          "raw": "Teeziro",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=3"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-154": {
+      "fields": {
+        "illustrator": {
+          "value": "AYUMI ODASHIMA",
+          "raw": "AYUMI ODASHIMA",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=4"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-155": {
+      "fields": {
+        "illustrator": {
+          "value": "AYUMI ODASHIMA",
+          "raw": "AYUMI ODASHIMA",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=5"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-156": {
+      "fields": {
+        "description": {
+          "value": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+          "raw": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=1",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Wurmple"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-157": {
+      "fields": {
+        "description": {
+          "value": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+          "raw": "Lilooe clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=6",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Lileep"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-158": {
+      "fields": {
+        "illustrator": {
+          "value": "OKACHEKE",
+          "raw": "OKACHEKE",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=8"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+          "raw": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=9",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Kricketune"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-159": {
+      "fields": {
+        "illustrator": {
+          "value": "NC Empire",
+          "raw": "XC Empire",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=9"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+          "raw": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-1-30.json#page=14",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Accelgor"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-160": {
+      "fields": {
+        "illustrator": {
+          "value": "Yoko Hishida",
+          "raw": "Yoka Wishida",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=10"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+          "raw": "If you've been accepted by Bangra, I'm burning made is mysteriously no longer hot so the house.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=10",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-161": {
+      "fields": {}
+    },
+    "B4-162": {
+      "fields": {
+        "description": {
+          "value": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+          "raw": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=11",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Kyogre"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-163": {
+      "fields": {}
+    },
+    "B4-164": {
+      "fields": {
+        "description": {
+          "value": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+          "raw": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Raichu"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-165": {
+      "fields": {
+        "description": {
+          "value": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+          "raw": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=2",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Wattrel"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-166": {
+      "fields": {
+        "description": {
+          "value": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+          "raw": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=4",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Clefairy"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-167": {
+      "fields": {
+        "description": {
+          "value": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+          "raw": "It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=11",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Ralts"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-168": {
+      "fields": {
+        "description": {
+          "value": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+          "raw": "In rends ra moce in a pack with others. They closer in a light group to sleep in a case.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-2.json#page=6",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-169": {
+      "fields": {}
+    },
+    "B4-170": {
+      "fields": {
+        "description": {
+          "value": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+          "raw": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-61-90.json#page=21",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Anorith"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-171": {
+      "fields": {}
+    },
+    "B4-172": {
+      "fields": {}
+    },
+    "B4-173": {
+      "fields": {}
+    },
+    "B4-174": {
+      "fields": {
+        "description": {
+          "value": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+          "raw": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-91-120.json#page=21",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Genesect"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-175": {
+      "fields": {
+        "description": {
+          "value": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+          "raw": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Dragonair"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-176": {
+      "fields": {}
+    },
+    "B4-177": {
+      "fields": {
+        "description": {
+          "value": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+          "raw": "It can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-121-150.json#page=8",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Cyclizar"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-178": {
+      "fields": {
+        "illustrator": {
+          "value": "MINAMINAMI Take",
+          "raw": "MINAMINAMU Take",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=28"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+          "raw": "Its whiskers be essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-151-180.json#page=28",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-179": {
+      "fields": {}
+    },
+    "B4-180": {
+      "fields": {}
+    },
+    "B4-181": {
+      "fields": {}
+    },
+    "B4-182": {
+      "fields": {}
+    },
+    "B4-183": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=3"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-184": {
+      "fields": {}
+    },
+    "B4-185": {
+      "fields": {}
+    },
+    "B4-186": {
+      "fields": {}
+    },
+    "B4-187": {
+      "fields": {}
+    },
+    "B4-188": {
+      "fields": {}
+    },
+    "B4-189": {
+      "fields": {}
+    },
+    "B4-190": {
+      "fields": {
+        "illustrator": {
+          "value": "GIDORA",
+          "raw": "GIDOR4",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=10"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-191": {
+      "fields": {}
+    },
+    "B4-192": {
+      "fields": {}
+    },
+    "B4-193": {
+      "fields": {
+        "illustrator": {
+          "value": "Teeziro",
+          "raw": "Teeziro",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=13"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-194": {
+      "fields": {}
+    },
+    "B4-195": {
+      "fields": {}
+    },
+    "B4-196": {
+      "fields": {}
+    },
+    "B4-197": {
+      "fields": {}
+    },
+    "B4-198": {
+      "fields": {}
+    },
+    "B4-199": {
+      "fields": {}
+    },
+    "B4-200": {
+      "fields": {}
+    },
+    "B4-201": {
+      "fields": {}
+    },
+    "B4-202": {
+      "fields": {}
+    },
+    "B4-203": {
+      "fields": {}
+    },
+    "B4-204": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Souichirou Gunjima",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=24"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-205": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Taiga Kasai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=25"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-206": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Taiga Kasai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=26"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-207": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Taiga Kasai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=27"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-208": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Taigo Kasai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=28"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+          "raw": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=28",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-209": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "MAHOU",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=29"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-210": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "MAHOU",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=30"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+          "raw": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-181-210.json#page=30",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-211": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "MAHOU",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=1"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+          "raw": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=1",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-212": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Souichirou Gunjima",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=2"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-213": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Toigo Kasai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=3"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+          "raw": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=3",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-214": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Taiga Kasai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=4"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
+          "raw": "It relies on sound in order to monitor what's in its vicinity. When angered, it will attack without ever changing the direction it's facing.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=4",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-215": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "MAHOU",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-3.json#page=13"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-216": {
+      "fields": {
+        "description": {
+          "value": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+          "raw": "Toxic gas is held within its th n, balloon-shaped body. So it can cause massive explosions.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-3.json#page=14",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-217": {
+      "fields": {
+        "description": {
+          "value": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
+          "raw": "When it inhales poisonous gases from garbage, its body expands, and its insides screll much worse.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-3.json#page=15",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-218": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "MAHOU",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=8"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-219": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "MAHOU",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=9"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+          "raw": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=9",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-220": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Souichirou Gunjima",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=10"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+          "raw": "This Pokémon is common but hazardous. les sharp incisors can easily cut right through hard wood.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=10",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-221": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Souichirou Gunjima",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=11"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+          "raw": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=11",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-222": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Taigo Kasai",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=12"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.",
+          "raw": "The color of the mysterious fluid secreted from the tip of the tail is predetermined for each Smeargle.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=12",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR corrected to the closest pinned PokeAPI Pokédex entry for this species."
+        }
+      }
+    },
+    "B4-223": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "MAHOU",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=13"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        },
+        "description": {
+          "value": "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+          "raw": "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=13",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv"
+          ],
+          "note": "OCR exactly matches a pinned PokeAPI Pokédex entry."
+        }
+      }
+    },
+    "B4-224": {
+      "fields": {
+        "illustrator": {
+          "value": "5ban Graphics",
+          "raw": "5bar-Graphics",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=14"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        }
+      }
+    },
+    "B4-225": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-3.json#page=16"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-226": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=16"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-227": {
+      "fields": {}
+    },
+    "B4-228": {
+      "fields": {}
+    },
+    "B4-229": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=19"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-230": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=20"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-231": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "PLANETA CG Works",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=21"
+          ],
+          "note": "OCR matches the repository artist corpus."
+        }
+      }
+    },
+    "B4-232": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA Mamiya",
+          "raw": "PLANETA Mambigo",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-211-233.json#page=22"
+          ],
+          "note": "OCR spelling corrected against the repository artist corpus."
+        },
+        "description": {
+          "value": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+          "raw": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/bottom-31-60.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Raichu"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    },
+    "B4-233": {
+      "fields": {
+        "description": {
+          "value": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+          "raw": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/enhanced-bottom-1.json#page=20",
+            "https://github.com/PokeAPI/pokeapi/tree/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv",
+            "same-card:Dragonair"
+          ],
+          "note": "Reused the verified flavor text from another printing of the same card in this set."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4007 @@
+[
+  {
+    "en": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/122.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/176.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/029.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/054.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Abyssal Drop",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/082.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Acceleration Drive",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/128.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/177.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/015.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/219.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Air Cutter",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/075.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/106.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/081.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/170.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/038.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/059.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "At the end of each player's turn, that player heals 20 damage from each of their Pokémon that has any {W} Energy attached.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/154.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "At the end of your turn, if the {D} Pokémon this card is attached to is in the Active Spot, do 10 damage to your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/148.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Bass Control",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/097.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bedrock Breaker",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/089.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/077.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Blizzlock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/040.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bone Rush",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/102.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Bullet Punch",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/107.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Burning Tail",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/022.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/052.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Chase Order",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/011.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/180.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/194.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Cocoon Collector",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/002.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/004.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Conductive Body",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/106.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Cosmic Tackle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/090.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Crackling Snap",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/054.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Deck and Cover",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/014.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/159.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Destructive Inferno",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/026.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/181.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/195.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/043.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Disaster Volt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/059.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/041.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/162.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard a Fire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/022.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard all {R} and {L} Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/120.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/188.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/203.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/082.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/054.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/014.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/159.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Dragon Impact",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/119.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Dragon's Blessing",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/117.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/175.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/233.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/124.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Draw a card for each Poochyena you have in play.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/093.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/171.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Dual Customization",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/115.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/151.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/191.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "During your next turn, this Pokémon's Overacceleration attack does +70 damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/115.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/049.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/134.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "During your opponent's next turn, this Pokémon takes +50 damage from attacks.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/080.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/123.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Electrispark",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/061.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Energy Blender",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Enhanced Blade",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/100.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Evoflight",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/003.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Evoshock",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/050.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/164.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/232.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Extrasensory",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/073.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fickle Beam",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/127.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/032.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Flip 2 coins. If both of them are heads, this attack does 100 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/127.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, put a random Item card from your deck into your hand.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/145.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/030.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Frozen Splash",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/039.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gatling Slug",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/109.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/187.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/200.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Gold Breaker",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/144.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Heal 10 damage from each of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/045.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/007.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Heat Wave",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/025.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/161.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Hospitality",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/017.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/136.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/069.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/211.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If this Pokémon has damage on it, this attack does 80 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/113.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/106.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes -20 damage from attacks from your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/215.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/073.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If you haven't gotten any points, this attack does 60 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/016.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/099.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a {F} Pokémon, this attack does 70 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/039.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/144.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/122.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/176.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Iron Lance",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/110.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/107.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/128.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/177.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/099.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/136.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/105.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/113.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/002.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/075.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/097.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/090.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+    "missing": [
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/087.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/108.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/119.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/022.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/077.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/098.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/172.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/013.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/065.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/003.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/206.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/117.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/175.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/233.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/071.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/167.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/041.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/162.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/058.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/047.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/001.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/156.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/068.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/085.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/004.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/018.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/214.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It shows its cute side by chasing its own tail until it gets dizzy.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/134.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/012.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/080.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/140.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/046.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/031.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/074.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/168.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/079.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/027.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/005.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/143.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/137.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/069.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/211.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It's said that Oshawott learned to maintain its scalchop with riverbed stones by mimicking humans it saw using whetstones.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/042.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/092.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/073.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/210.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/086.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/131.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/112.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/132.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/179.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/130.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/178.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/221.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Jet Wing",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/141.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/189.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/201.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Junk Spark",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/055.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/184.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/202.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/006.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/157.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/053.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Mega Burst",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/120.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/188.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/203.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Migraine",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/030.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mime-y Shuffle",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/068.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mind Bend",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/076.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mineral Pump",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/045.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mini-Metronome",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/064.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/166.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Mischievous Ring",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/077.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/121.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Ogre's Whip",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/019.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/064.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/166.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/007.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Once during each player's turn, that player may discard the Energy that has been generated in their Energy Zone. If they do, the next Energy is produced.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/155.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/117.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/175.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/233.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/050.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/164.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/232.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/130.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/178.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/221.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all damage from—and effects of—attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/044.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/163.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may heal 20 damage from your Active {G} Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/017.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once during your turn, you may use this Ability. 1 Special Condition from among Burned, Confused, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/005.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "Once it's caught the scent of faraway prey, the leader gives a sign, and its whole pack moves out.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/094.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/016.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Pivot Throw",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/080.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Play this card as if it were a 40-HP Basic {C} Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/146.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/147.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/017.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/093.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/171.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Prelude",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/016.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/149.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/002.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/004.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Raging Blade",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/113.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Rather than rely on their strength, they master moves that make good use of centrifugal force to swing around concrete.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/089.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Razor Shell",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/043.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Resonating Blade",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/084.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/185.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/198.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Retaliate",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/142.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Revenge Blast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/053.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Samesies Slap",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/136.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/044.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/163.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Scald",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/018.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Seashell Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/013.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Shadow Bullet",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/103.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/186.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/199.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Sharp Claws",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/027.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Since the feathers that it sheds are thin and sharp, people apparently once used them as swords.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/104.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Slam",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/116.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/133.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Squared Attack",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/108.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Stance",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/044.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/163.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/033.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Stick and Absorb",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/007.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Stompy Jammer",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/074.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/168.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Supernatural Feather",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/078.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/169.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Swallow Up",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/099.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/207.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/152.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/192.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Synchro Dance",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/069.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/211.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Take a {C} Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/153.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/193.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "Team Hunt",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/093.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/171.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Techno Blast",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/111.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/174.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/076.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/072.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/222.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/078.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/169.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/051.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/144.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/024.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/025.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/161.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/126.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/215.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/070.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/212.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/060.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/010.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/023.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/009.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/158.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/138.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/127.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/218.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/110.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/057.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/034.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/062.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/165.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+    "missing": [
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/056.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/045.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This attack does 10 more damage for each {M} Energy attached to this Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/109.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/187.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/200.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 10 more damage for each Item card in your discard pile.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/055.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/184.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/202.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/058.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/070.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/212.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 50 more damage for each point your opponent has gotten.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/053.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does 80 damage to 1 of your opponent's Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/097.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/019.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/231.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/083.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/019.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/111.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/174.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/039.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/129.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/220.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/139.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/088.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/115.ts"
+    ],
+    "paths": [
+      "abilities[0].effect"
+    ]
+  },
+  {
+    "en": "This Pokémon recovers from all Special Conditions.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/037.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/183.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/197.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/096.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/082.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/095.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Tidal Blast",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/041.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/162.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Treasure Collecting",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/130.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/178.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/221.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Turbo Shark",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/035.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/182.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/196.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/028.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Variety Powder",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/005.ts"
+    ],
+    "paths": [
+      "abilities[0].name"
+    ]
+  },
+  {
+    "en": "Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/040.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/213.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+    "missing": [
+      "pt-br"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/036.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When its antennae hit each other, it sounds like the music of a xylophone.",
+    "missing": [
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/008.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/049.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/048.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "When two of these Pokémon's bodies are combined together, new poisons are created.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/091.ts"
+    ],
+    "paths": [
+      "description"
+    ]
+  },
+  {
+    "en": "Wondrous Waves",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/037.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/183.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/197.ts"
+    ],
+    "paths": [
+      "attacks[0].name"
+    ]
+  },
+  {
+    "en": "You can use this card only if your Pokémon in the Active Spot has the Psychic attack.Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/150.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/190.ts"
+    ],
+    "paths": [
+      "effect"
+    ]
+  },
+  {
+    "en": "You may discard 1 of your Benched Basic {G} Pokémon. If you do, this attack does 70 more damage.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/011.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/180.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/194.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  },
+  {
+    "en": "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck.",
+    "missing": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "files": [
+      "data/Pokémon TCG Pocket/Ruler of the Skies/014.ts",
+      "data/Pokémon TCG Pocket/Ruler of the Skies/159.ts"
+    ],
+    "paths": [
+      "attacks[0].effect"
+    ]
+  }
+]

@@ -1,0 +1,4739 @@
+[
+  {
+    "ID": "B4-001",
+    "Name": "Wurmple",
+    "Card-Type": "Pokemon",
+    "Illustrator": "ryoma uratsuka",
+    "Flavor-Text": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gnaw"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-002",
+    "Name": "Silcoon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Satoshi Shirai",
+    "Flavor-Text": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Cocoon Collector"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench."
+    ]
+  },
+  {
+    "ID": "B4-003",
+    "Name": "Beautifly",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Suwama Chiaki",
+    "Flavor-Text": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Evoflight"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+    ]
+  },
+  {
+    "ID": "B4-004",
+    "Name": "Cascoon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Aya Kusube",
+    "Flavor-Text": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Cocoon Collector"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench."
+    ]
+  },
+  {
+    "ID": "B4-005",
+    "Name": "Dustox",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Midori Harada",
+    "Flavor-Text": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+    "Ability": [
+      "Variety Powder"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, you may use this Ability. 1 Special Condition from among Burned, Confused, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen."
+    ],
+    "Moves": [
+      "Cutting Wind"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-006",
+    "Name": "Lileep",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Blot"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Heal 10 damage from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-007",
+    "Name": "Cradily",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Midori Harada",
+    "Flavor-Text": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Stick and Absorb"
+    ],
+    "Move-Energy": [
+      "GG"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat."
+    ]
+  },
+  {
+    "ID": "B4-008",
+    "Name": "Kricketot",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sumiyoshi Kizuki",
+    "Flavor-Text": "When its antennae hit each other, it sounds like the music of a xylophone.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Beat"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-009",
+    "Name": "Kricketune",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Anesaki Dynamic",
+    "Flavor-Text": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bug Buzz"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-010",
+    "Name": "Combee",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yoriyuki Ikegami",
+    "Flavor-Text": "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Reckless Charge"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "This Pokémon also does 10 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4-011",
+    "Name": "Vespiquen ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Chase Order"
+    ],
+    "Move-Energy": [
+      "GG"
+    ],
+    "Move-Damage": [
+      "70+"
+    ],
+    "Effects": [
+      "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+    ]
+  },
+  {
+    "ID": "B4-012",
+    "Name": "Karrablast",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sowsow",
+    "Flavor-Text": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Peck"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-013",
+    "Name": "Shelmet",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sui",
+    "Flavor-Text": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Seashell Attack"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-014",
+    "Name": "Accelgor",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Hasuno",
+    "Flavor-Text": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Deck and Cover"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck."
+    ]
+  },
+  {
+    "ID": "B4-015",
+    "Name": "Dhelmise",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kyoko Umemoto",
+    "Flavor-Text": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Spinning Attack"
+    ],
+    "Move-Energy": [
+      "GGC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-016",
+    "Name": "Pheromosa",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Hitoshi Ariga",
+    "Flavor-Text": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Prelude"
+    ],
+    "Move-Energy": [
+      "GG"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "If you haven't gotten any points, this attack does 60 more damage."
+    ]
+  },
+  {
+    "ID": "B4-017",
+    "Name": "Poltchageist",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Miki Tanaka",
+    "Flavor-Text": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+    "Ability": [
+      "Hospitality"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may heal 20 damage from your Active [G] Pokémon."
+    ],
+    "Moves": [
+      "Spray Fluid"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-018",
+    "Name": "Sinistcha",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Tomokazu Komiya",
+    "Flavor-Text": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Scald"
+    ],
+    "Move-Energy": [
+      "GC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Burned."
+    ]
+  },
+  {
+    "ID": "B4-019",
+    "Name": "Teal Mask Ogerpon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoyo Kimura",
+    "Flavor-Text": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ogre's Whip"
+    ],
+    "Move-Energy": [
+      "GGC"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP."
+    ]
+  },
+  {
+    "ID": "B4-020",
+    "Name": "Ponyta",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Saya Tsuruta",
+    "Flavor-Text": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Stoke"
+    ],
+    "Move-Energy": [
+      "R"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Take a [R] Energy from your Energy Zone and attach it to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-021",
+    "Name": "Rapidash",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yukiko Baba",
+    "Flavor-Text": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heat Blast"
+    ],
+    "Move-Energy": [
+      "RRC"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-022",
+    "Name": "Flareon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "AKIRA EGAWA",
+    "Flavor-Text": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Burning Tail"
+    ],
+    "Move-Energy": [
+      "RRC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Discard a Fire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
+    ]
+  },
+  {
+    "ID": "B4-023",
+    "Name": "Moltres",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Ken Sugimori",
+    "Flavor-Text": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sky Attack"
+    ],
+    "Move-Energy": [
+      "RCCC"
+    ],
+    "Move-Damage": [
+      "150"
+    ],
+    "Effects": [
+      "Flip a coin. If tails, this attack does nothing."
+    ]
+  },
+  {
+    "ID": "B4-024",
+    "Name": "Cyndaquil",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Teeziro",
+    "Flavor-Text": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Singe"
+    ],
+    "Move-Energy": [
+      "R"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Burned."
+    ]
+  },
+  {
+    "ID": "B4-025",
+    "Name": "Quilava",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoyo Kimura",
+    "Flavor-Text": "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heat Wave"
+    ],
+    "Move-Energy": [
+      "RR"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Burned."
+    ]
+  },
+  {
+    "ID": "B4-026",
+    "Name": "Typhlosion ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Destructive Inferno"
+    ],
+    "Move-Energy": [
+      "RRC"
+    ],
+    "Move-Damage": [
+      "110"
+    ],
+    "Effects": [
+      "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-027",
+    "Name": "Houndour",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kurata So",
+    "Flavor-Text": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sharp Claws"
+    ],
+    "Move-Energy": [
+      "R"
+    ],
+    "Move-Damage": [
+      "10+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 20 more damage."
+    ]
+  },
+  {
+    "ID": "B4-028",
+    "Name": "Houndoom",
+    "Card-Type": "Pokemon",
+    "Illustrator": "hncl",
+    "Flavor-Text": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Crunch"
+    ],
+    "Move-Energy": [
+      "RR"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-029",
+    "Name": "Heatmor",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Fire Claws"
+    ],
+    "Move-Energy": [
+      "RC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-030",
+    "Name": "Psyduck",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mousho",
+    "Flavor-Text": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Migraine"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused."
+    ]
+  },
+  {
+    "ID": "B4-031",
+    "Name": "Golduck",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shigenori Negishi",
+    "Flavor-Text": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Surf"
+    ],
+    "Move-Energy": [
+      "WWC"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-032",
+    "Name": "Staryu",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shigenori Negishi",
+    "Flavor-Text": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Swift"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-033",
+    "Name": "Starmie",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Akira Komayama",
+    "Flavor-Text": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Swift"
+    ],
+    "Move-Energy": [
+      "WC"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-034",
+    "Name": "Carvanha",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Jerky",
+    "Flavor-Text": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sharp Fang"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-035",
+    "Name": "Mega Sharpedo ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Turbo Shark"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Take a [W] Energy from your Energy Zone and attach it to 1 of your Benched [W] Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-036",
+    "Name": "Wailmer",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kodama",
+    "Flavor-Text": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wave Splash"
+    ],
+    "Move-Energy": [
+      "WWW"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-037",
+    "Name": "Wailord ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wondrous Waves"
+    ],
+    "Move-Energy": [
+      "WWWW"
+    ],
+    "Move-Damage": [
+      "100"
+    ],
+    "Effects": [
+      "This Pokémon recovers from all Special Conditions."
+    ]
+  },
+  {
+    "ID": "B4-038",
+    "Name": "Spheal",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sui",
+    "Flavor-Text": "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Rollout"
+    ],
+    "Move-Energy": [
+      "WC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-039",
+    "Name": "Sealeo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Masakazu Fukuda",
+    "Flavor-Text": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Frozen Splash"
+    ],
+    "Move-Energy": [
+      "WWC"
+    ],
+    "Move-Damage": [
+      "50+"
+    ],
+    "Effects": [
+      "If your opponent's Active Pokémon is a [F] Pokémon, this attack does 70 more damage."
+    ]
+  },
+  {
+    "ID": "B4-040",
+    "Name": "Walrein",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Satoshi Shirai",
+    "Flavor-Text": "Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Blizzlock"
+    ],
+    "Move-Energy": [
+      "WWCC"
+    ],
+    "Move-Damage": [
+      "110"
+    ],
+    "Effects": [
+      "Your opponent can't use any Supporter cards from their hand during their next turn."
+    ]
+  },
+  {
+    "ID": "B4-041",
+    "Name": "Kyogre",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shin Nagasawa",
+    "Flavor-Text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tidal Blast"
+    ],
+    "Move-Energy": [
+      "WWWW"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Discard 3 [W] Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-042",
+    "Name": "Oshawott",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kurumitsu",
+    "Flavor-Text": "It's said that Oshawott learned to maintain its scalchop with riverbed stones by mimicking humans it saw using whetstones.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Water Gun"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-043",
+    "Name": "Dewott",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Megumi Higuchi",
+    "Flavor-Text": "Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Razor Shell"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "20+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 30 more damage."
+    ]
+  },
+  {
+    "ID": "B4-044",
+    "Name": "Samurott",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Masakazu Fukuda",
+    "Flavor-Text": "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing.",
+    "Ability": [
+      "Stance"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all damage from—and effects of—attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn."
+    ],
+    "Moves": [
+      "Pike"
+    ],
+    "Move-Energy": [
+      "WW"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-045",
+    "Name": "Alomomola",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kagemaru Himeno",
+    "Flavor-Text": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mineral Pump"
+    ],
+    "Move-Energy": [
+      "WW"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Heal 10 damage from each of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-046",
+    "Name": "Dewpider",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sui",
+    "Flavor-Text": "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wave Splash"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-047",
+    "Name": "Araquanid",
+    "Card-Type": "Pokemon",
+    "Illustrator": "match",
+    "Flavor-Text": "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Corner"
+    ],
+    "Move-Energy": [
+      "WC"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "During your opponent's next turn, the Defending Pokémon can't retreat."
+    ]
+  },
+  {
+    "ID": "B4-048",
+    "Name": "Bruxish",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Misa Tsutsui",
+    "Flavor-Text": "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bite"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-049",
+    "Name": "Pikachu",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kariya",
+    "Flavor-Text": "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Growl"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
+    ]
+  },
+  {
+    "ID": "B4-050",
+    "Name": "Raichu",
+    "Card-Type": "Pokemon",
+    "Illustrator": "GIDORA",
+    "Flavor-Text": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "Ability": [
+      "Evoshock"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    ],
+    "Moves": [
+      "Electro Ball"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-051",
+    "Name": "Shinx",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoki Saito",
+    "Flavor-Text": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Static Shock"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-052",
+    "Name": "Luxio",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Eri Yamaki",
+    "Flavor-Text": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Zap Kick"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-053",
+    "Name": "Luxray",
+    "Card-Type": "Pokemon",
+    "Illustrator": "aoki",
+    "Flavor-Text": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Revenge Blast"
+    ],
+    "Move-Energy": [
+      "LLC"
+    ],
+    "Move-Damage": [
+      "80+"
+    ],
+    "Effects": [
+      "This attack does 50 more damage for each point your opponent has gotten."
+    ]
+  },
+  {
+    "ID": "B4-054",
+    "Name": "Pachirisu",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Keisin",
+    "Flavor-Text": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Crackling Snap"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+    ]
+  },
+  {
+    "ID": "B4-055",
+    "Name": "Rotom ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Junk Spark"
+    ],
+    "Move-Energy": [
+      "LL"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "This attack does 10 more damage for each Item card in your discard pile."
+    ]
+  },
+  {
+    "ID": "B4-056",
+    "Name": "Tynamo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Akira Komayama",
+    "Flavor-Text": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tackle"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-057",
+    "Name": "Eelektrik",
+    "Card-Type": "Pokemon",
+    "Illustrator": "NC Empire",
+    "Flavor-Text": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Headbutt"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-058",
+    "Name": "Eelektross",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shin Nagasawa",
+    "Flavor-Text": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Energy Crush"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "50+"
+    ],
+    "Effects": [
+      "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-059",
+    "Name": "Thundurus",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Disaster Volt"
+    ],
+    "Move-Energy": [
+      "LCC"
+    ],
+    "Move-Damage": [
+      "100"
+    ],
+    "Effects": [
+      "Discard a Lightning Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-060",
+    "Name": "Helioptile",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kayama",
+    "Flavor-Text": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Jumping Kick"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "This attack does 10 damage to 1 of your opponent's Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-061",
+    "Name": "Heliolisk",
+    "Card-Type": "Pokemon",
+    "Illustrator": "5ban Graphics",
+    "Flavor-Text": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Electrispark"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-062",
+    "Name": "Wattrel",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shin Nagasawa",
+    "Flavor-Text": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Peck"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-063",
+    "Name": "Kilowattrel",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "It uses its throat sac to store electricity generated by its wings. There's hardly any oil in its feathers, so it is a poor swimmer.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Electro Ball"
+    ],
+    "Move-Energy": [
+      "LL"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-064",
+    "Name": "Clefairy",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sowsow",
+    "Flavor-Text": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mini-Metronome"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+    ]
+  },
+  {
+    "ID": "B4-065",
+    "Name": "Clefable",
+    "Card-Type": "Pokemon",
+    "Illustrator": "ryoma uratsuka",
+    "Flavor-Text": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Hyper Voice"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-066",
+    "Name": "Drowzee",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Tomokazu Komiya",
+    "Flavor-Text": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ram"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-067",
+    "Name": "Hypno",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shinji Kanda",
+    "Flavor-Text": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Psychic"
+    ],
+    "Move-Energy": [
+      "PPC"
+    ],
+    "Move-Damage": [
+      "60+"
+    ],
+    "Effects": [
+      "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-068",
+    "Name": "Mime Jr.",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Miki Tanaka",
+    "Flavor-Text": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mime-y Shuffle"
+    ],
+    "Move-Energy": [
+      ""
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
+    ]
+  },
+  {
+    "ID": "B4-069",
+    "Name": "Mr. Mime",
+    "Card-Type": "Pokemon",
+    "Illustrator": "OOYAMA",
+    "Flavor-Text": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Synchro Dance"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "40+"
+    ],
+    "Effects": [
+      "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+    ]
+  },
+  {
+    "ID": "B4-070",
+    "Name": "Mewtwo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Psychic"
+    ],
+    "Move-Energy": [
+      "PPP"
+    ],
+    "Move-Damage": [
+      "10+"
+    ],
+    "Effects": [
+      "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-071",
+    "Name": "Ralts",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Nagomi Nijo",
+    "Flavor-Text": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Lead"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Put a random Supporter card from your deck into your hand."
+    ]
+  },
+  {
+    "ID": "B4-072",
+    "Name": "Kirlia",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kawayoo",
+    "Flavor-Text": "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Double Spin"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 20 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-073",
+    "Name": "Chimecho",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shibuzoh.",
+    "Flavor-Text": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Extrasensory"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "40+"
+    ],
+    "Effects": [
+      "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage."
+    ]
+  },
+  {
+    "ID": "B4-074",
+    "Name": "Wynaut",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kagemaru Himeno",
+    "Flavor-Text": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Stompy Jammer"
+    ],
+    "Move-Energy": [
+      ""
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 [C] more."
+    ]
+  },
+  {
+    "ID": "B4-075",
+    "Name": "Woobat",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shibuzoh.",
+    "Flavor-Text": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Air Cutter"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Flip a coin. If tails, this attack does nothing."
+    ]
+  },
+  {
+    "ID": "B4-076",
+    "Name": "Swoobat",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Narumi Sato",
+    "Flavor-Text": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mind Bend"
+    ],
+    "Move-Energy": [
+      "P"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Confused."
+    ]
+  },
+  {
+    "ID": "B4-077",
+    "Name": "Hoopa",
+    "Card-Type": "Pokemon",
+    "Illustrator": "akagi",
+    "Flavor-Text": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mischievous Ring"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck."
+    ]
+  },
+  {
+    "ID": "B4-078",
+    "Name": "Oricorio",
+    "Card-Type": "Pokemon",
+    "Illustrator": "mingo",
+    "Flavor-Text": "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Supernatural Feather"
+    ],
+    "Move-Energy": [
+      "P"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      "Discard a card from your hand. If you can't, this attack does nothing."
+    ]
+  },
+  {
+    "ID": "B4-079",
+    "Name": "Makuhita",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoyo Kimura",
+    "Flavor-Text": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Magnum Punch"
+    ],
+    "Move-Energy": [
+      "FC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-080",
+    "Name": "Hariyama",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Hisao Nakamura",
+    "Flavor-Text": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Pivot Throw"
+    ],
+    "Move-Energy": [
+      "FFC"
+    ],
+    "Move-Damage": [
+      "120"
+    ],
+    "Effects": [
+      "During your opponent's next turn, this Pokémon takes +50 damage from attacks."
+    ]
+  },
+  {
+    "ID": "B4-081",
+    "Name": "Anorith",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Slash"
+    ],
+    "Move-Energy": [
+      "F"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-082",
+    "Name": "Armaldo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Abyssal Drop"
+    ],
+    "Move-Energy": [
+      "FCC"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose."
+    ]
+  },
+  {
+    "ID": "B4-083",
+    "Name": "Groudon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shin Nagasawa",
+    "Flavor-Text": "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Earthquake"
+    ],
+    "Move-Energy": [
+      "FFF"
+    ],
+    "Move-Damage": [
+      "100"
+    ],
+    "Effects": [
+      "This attack also does 10 damage to each of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-084",
+    "Name": "Mega Gallade ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Resonating Blade"
+    ],
+    "Move-Energy": [
+      "FCC"
+    ],
+    "Move-Damage": [
+      "100+"
+    ],
+    "Effects": [
+      "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+    ]
+  },
+  {
+    "ID": "B4-085",
+    "Name": "Drilbur",
+    "Card-Type": "Pokemon",
+    "Illustrator": "tetsuya koizumi",
+    "Flavor-Text": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mud-Slap"
+    ],
+    "Move-Energy": [
+      "F"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-086",
+    "Name": "Excadrill",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Anesaki Dynamic",
+    "Flavor-Text": "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mud Shot"
+    ],
+    "Move-Energy": [
+      "F"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-087",
+    "Name": "Timburr",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Tomokazu Komiya",
+    "Flavor-Text": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Confront"
+    ],
+    "Move-Energy": [
+      "FC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-088",
+    "Name": "Gurdurr",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sumiyoshi Kizuki",
+    "Flavor-Text": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Pummel"
+    ],
+    "Move-Energy": [
+      "FC"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 30 more damage."
+    ]
+  },
+  {
+    "ID": "B4-089",
+    "Name": "Conkeldurr",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Masakazu Fukuda",
+    "Flavor-Text": "Rather than rely on their strength, they master moves that make good use of centrifugal force to swing around concrete.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bedrock Breaker"
+    ],
+    "Move-Energy": [
+      "FFC"
+    ],
+    "Move-Damage": [
+      "100"
+    ],
+    "Effects": [
+      "Discard a Stadium in play."
+    ]
+  },
+  {
+    "ID": "B4-090",
+    "Name": "Minior",
+    "Card-Type": "Pokemon",
+    "Illustrator": "OKUBO",
+    "Flavor-Text": "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Cosmic Tackle"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10+"
+    ],
+    "Effects": [
+      "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage."
+    ]
+  },
+  {
+    "ID": "B4-091",
+    "Name": "Grimer",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Nisota Niso",
+    "Flavor-Text": "When two of these Pokémon's bodies are combined together, new poisons are created.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gentle Slap"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-092",
+    "Name": "Muk",
+    "Card-Type": "Pokemon",
+    "Illustrator": "moki",
+    "Flavor-Text": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ambush"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 30 more damage."
+    ]
+  },
+  {
+    "ID": "B4-093",
+    "Name": "Poochyena",
+    "Card-Type": "Pokemon",
+    "Illustrator": "ryoma uratsuka",
+    "Flavor-Text": "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Team Hunt"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Draw a card for each Poochyena you have in play."
+    ]
+  },
+  {
+    "ID": "B4-094",
+    "Name": "Mightyena",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Aya Kusube",
+    "Flavor-Text": "Once it's caught the scent of faraway prey, the leader gives a sign, and its whole pack moves out.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bite"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-095",
+    "Name": "Galarian Zigzagoon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "En Morikura",
+    "Flavor-Text": "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tackle"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-096",
+    "Name": "Galarian Linoone",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sowsow",
+    "Flavor-Text": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Night Slash"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "Switch this Pokémon with 1 of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-097",
+    "Name": "Galarian Obstagoon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bass Control"
+    ],
+    "Move-Energy": [
+      "DCC"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "This attack does 80 damage to 1 of your opponent's Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-098",
+    "Name": "Gulpin",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sumiyoshi Kizuki",
+    "Flavor-Text": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sludge Bomb"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-099",
+    "Name": "Swalot",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yuka Morii",
+    "Flavor-Text": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Swallow Up"
+    ],
+    "Move-Energy": [
+      "DC"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage."
+    ]
+  },
+  {
+    "ID": "B4-100",
+    "Name": "Absol",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Ebila",
+    "Flavor-Text": "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Enhanced Blade"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "20+"
+    ],
+    "Effects": [
+      "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+    ]
+  },
+  {
+    "ID": "B4-101",
+    "Name": "Vullaby",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shigenori Negishi",
+    "Flavor-Text": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Run Around"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Switch this Pokémon with 1 of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-102",
+    "Name": "Mandibuzz",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Narumi Sato",
+    "Flavor-Text": "Watching from the sky, they attack weakened prey on the ground. They have a habit of decorating themselves with bones.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bone Rush"
+    ],
+    "Move-Energy": [
+      "DC"
+    ],
+    "Move-Damage": [
+      "60x"
+    ],
+    "Effects": [
+      "Flip a coin until you get tails. This attack does 60 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-103",
+    "Name": "Hoopa ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Shadow Bullet",
+      "Dynamite Punch"
+    ],
+    "Move-Energy": [
+      "D",
+      "DDC"
+    ],
+    "Move-Damage": [
+      "30",
+      "100"
+    ],
+    "Effects": [
+      "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+      "This Pokémon also does 20 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4-104",
+    "Name": "Skarmory",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sanosuke Sakuma",
+    "Flavor-Text": "Since the feathers that it sheds are thin and sharp, people apparently once used them as swords.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Drill Peck"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-105",
+    "Name": "Mawile",
+    "Card-Type": "Pokemon",
+    "Illustrator": "0313",
+    "Flavor-Text": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Play Rough"
+    ],
+    "Move-Energy": [
+      "MC"
+    ],
+    "Move-Damage": [
+      "40+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 20 more damage."
+    ]
+  },
+  {
+    "ID": "B4-106",
+    "Name": "Beldum",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Aya Kusube",
+    "Flavor-Text": "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+    "Ability": [
+      "Conductive Body"
+    ],
+    "Ability-Effect": [
+      "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less."
+    ],
+    "Moves": [
+      "Ram"
+    ],
+    "Move-Energy": [
+      "M"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-107",
+    "Name": "Metang",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kazuma Koda",
+    "Flavor-Text": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bullet Punch"
+    ],
+    "Move-Energy": [
+      "MC"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 20 more damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-108",
+    "Name": "Metagross",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kawayoo",
+    "Flavor-Text": "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Squared Attack"
+    ],
+    "Move-Energy": [
+      "MCC"
+    ],
+    "Move-Damage": [
+      "50x"
+    ],
+    "Effects": [
+      "Flip 4 coins. This attack does 50 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-109",
+    "Name": "Mega Metagross ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Yamashita",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gatling Slug"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "100+"
+    ],
+    "Effects": [
+      "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-110",
+    "Name": "Escavalier",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Nurikabe",
+    "Flavor-Text": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Iron Lance"
+    ],
+    "Move-Energy": [
+      "MM"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-111",
+    "Name": "Genesect",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Nelnal",
+    "Flavor-Text": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Techno Blast"
+    ],
+    "Move-Energy": [
+      "MM"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "During your next turn, this Pokémon can't attack."
+    ]
+  },
+  {
+    "ID": "B4-112",
+    "Name": "Duraludon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kawayoo",
+    "Flavor-Text": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Metal Claw"
+    ],
+    "Move-Energy": [
+      "MMC"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-113",
+    "Name": "Archaludon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Takumi Wada",
+    "Flavor-Text": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Raging Blade"
+    ],
+    "Move-Energy": [
+      "MMCC"
+    ],
+    "Move-Damage": [
+      "80+"
+    ],
+    "Effects": [
+      "If this Pokémon has damage on it, this attack does 80 more damage."
+    ]
+  },
+  {
+    "ID": "B4-114",
+    "Name": "Varoom",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mina Nakai",
+    "Flavor-Text": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Headbutt Bounce"
+    ],
+    "Move-Energy": [
+      "MC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-115",
+    "Name": "Revavroom",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sanosuke Sakuma",
+    "Flavor-Text": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.",
+    "Ability": [
+      "Dual Customization"
+    ],
+    "Ability-Effect": [
+      "This Pokémon may have up to 2 Pokémon Tool cards attached to it."
+    ],
+    "Moves": [
+      "Overacceleration"
+    ],
+    "Move-Energy": [
+      "MMCC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "During your next turn, this Pokémon's Overacceleration attack does +70 damage."
+    ]
+  },
+  {
+    "ID": "B4-116",
+    "Name": "Dratini",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sekio",
+    "Flavor-Text": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Slam"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 20 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-117",
+    "Name": "Dragonair",
+    "Card-Type": "Pokemon",
+    "Illustrator": "HACCAN",
+    "Flavor-Text": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+    "Ability": [
+      "Dragon's Blessing"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon."
+    ],
+    "Moves": [
+      "Draconic Whip"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-118",
+    "Name": "Dragonite",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoyo Kimura",
+    "Flavor-Text": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Hyper Beam"
+    ],
+    "Move-Energy": [
+      "WLC"
+    ],
+    "Move-Damage": [
+      "110"
+    ],
+    "Effects": [
+      "Discard a random Energy from your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-119",
+    "Name": "Rayquaza",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kawayoo",
+    "Flavor-Text": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Dragon Impact"
+    ],
+    "Move-Energy": [
+      "RLCC"
+    ],
+    "Move-Damage": [
+      "140"
+    ],
+    "Effects": [
+      "Discard 2 random Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-120",
+    "Name": "Mega Rayquaza ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Igarashi",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mega Burst"
+    ],
+    "Move-Energy": [
+      "RL"
+    ],
+    "Move-Damage": [
+      "50x"
+    ],
+    "Effects": [
+      "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+    ]
+  },
+  {
+    "ID": "B4-121",
+    "Name": "Noibat",
+    "Card-Type": "Pokemon",
+    "Illustrator": "UKUMO uiti",
+    "Flavor-Text": "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wing Attack"
+    ],
+    "Move-Energy": [
+      "PD"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-122",
+    "Name": "Noivern",
+    "Card-Type": "Pokemon",
+    "Illustrator": "aoki",
+    "Flavor-Text": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Draco Meteor"
+    ],
+    "Move-Energy": [
+      "PDD"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it."
+    ]
+  },
+  {
+    "ID": "B4-123",
+    "Name": "Turtonator",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Anesaki Dynamic",
+    "Flavor-Text": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Searing Flame"
+    ],
+    "Move-Energy": [
+      "RFC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Burned."
+    ]
+  },
+  {
+    "ID": "B4-124",
+    "Name": "Drampa",
+    "Card-Type": "Pokemon",
+    "Illustrator": "match",
+    "Flavor-Text": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Power Blast"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Discard a random Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-125",
+    "Name": "Applin",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Miki Tanaka",
+    "Flavor-Text": "Applin lives inside an apple. When an Applin is separated from its apple, its body loses moisture and the Pokémon grows weak.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Rolling Tackle"
+    ],
+    "Move-Energy": [
+      "GR"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-126",
+    "Name": "Dipplin",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Tomomi Ozaki",
+    "Flavor-Text": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Double Hit"
+    ],
+    "Move-Energy": [
+      "GR"
+    ],
+    "Move-Damage": [
+      "60x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 60 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-127",
+    "Name": "Hydrapple",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kuroimori",
+    "Flavor-Text": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Fickle Beam"
+    ],
+    "Move-Energy": [
+      "GR"
+    ],
+    "Move-Damage": [
+      "100+"
+    ],
+    "Effects": [
+      "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+    ]
+  },
+  {
+    "ID": "B4-128",
+    "Name": "Cyclizar",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Iori Suzuki",
+    "Flavor-Text": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Acceleration Drive"
+    ],
+    "Move-Energy": [
+      "GDC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-129",
+    "Name": "Rattata",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yukiko Baba",
+    "Flavor-Text": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Surprise Attack"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Flip a coin. If tails, this attack does nothing."
+    ]
+  },
+  {
+    "ID": "B4-130",
+    "Name": "Raticate",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sowsow",
+    "Flavor-Text": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+    "Ability": [
+      "Treasure Collecting"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck."
+    ],
+    "Moves": [
+      "Speed Attack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-131",
+    "Name": "Eevee",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sumiyoshi Kizuki",
+    "Flavor-Text": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tail Rap"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 20 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-132",
+    "Name": "Aipom",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sekio",
+    "Flavor-Text": "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Playful Kick"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-133",
+    "Name": "Ambipom",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Atsuko Nishida",
+    "Flavor-Text": "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Smack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-134",
+    "Name": "Skitty",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kawayoo",
+    "Flavor-Text": "It shows its cute side by chasing its own tail until it gets dizzy.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Charm"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
+    ]
+  },
+  {
+    "ID": "B4-135",
+    "Name": "Delcatty",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shin Nagasawa",
+    "Flavor-Text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Energy Blender"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like."
+    ]
+  },
+  {
+    "ID": "B4-136",
+    "Name": "Kecleon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Midori Harada",
+    "Flavor-Text": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Samesies Slap"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20+"
+    ],
+    "Effects": [
+      "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage."
+    ]
+  },
+  {
+    "ID": "B4-137",
+    "Name": "Pidove",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoki Saito",
+    "Flavor-Text": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gust"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-138",
+    "Name": "Tranquill",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Midori Harada",
+    "Flavor-Text": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Speed Dive"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-139",
+    "Name": "Unfezant",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoyo Kimura",
+    "Flavor-Text": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Fly"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "90"
+    ],
+    "Effects": [
+      "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-140",
+    "Name": "Ducklett",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shinya Komatsu",
+    "Flavor-Text": "It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wing Attack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-141",
+    "Name": "Swanna ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Jet Wing"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "140"
+    ],
+    "Effects": [
+      "During your next turn, this Pokémon can't attack."
+    ]
+  },
+  {
+    "ID": "B4-142",
+    "Name": "Furfrou",
+    "Card-Type": "Pokemon",
+    "Illustrator": "HYOGONOSUKE",
+    "Flavor-Text": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+    "Ability": [
+      "Fur Coat"
+    ],
+    "Ability-Effect": [
+      "This Pokémon takes -20 damage from attacks."
+    ],
+    "Moves": [
+      "Retaliate"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20+"
+    ],
+    "Effects": [
+      "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage."
+    ]
+  },
+  {
+    "ID": "B4-143",
+    "Name": "Type: Null",
+    "Card-Type": "Pokemon",
+    "Illustrator": "KEIICHIRO ITO",
+    "Flavor-Text": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tackle"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-144",
+    "Name": "Silvally",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kazumasa Yasukuni",
+    "Flavor-Text": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gold Breaker"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "60+"
+    ],
+    "Effects": [
+      "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage."
+    ]
+  },
+  {
+    "ID": "B4-145",
+    "Name": "Order Pad",
+    "Card-Type": "Item",
+    "Illustrator": "Studio Bora Inc.",
+    "Description": "Flip a coin. If heads, put a random Item card from your deck into your hand."
+  },
+  {
+    "ID": "B4-146",
+    "Name": "Claw Fossil",
+    "Card-Type": "Item",
+    "Illustrator": "Toyste Beach",
+    "Description": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat."
+  },
+  {
+    "ID": "B4-147",
+    "Name": "Root Fossil",
+    "Card-Type": "Item",
+    "Illustrator": "5ban Graphics",
+    "Description": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat."
+  },
+  {
+    "ID": "B4-148",
+    "Name": "Deceptive Needle",
+    "Card-Type": "Tool",
+    "Illustrator": "Studio Bora Inc.",
+    "Description": "At the end of your turn, if the [D] Pokémon this card is attached to is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+  },
+  {
+    "ID": "B4-149",
+    "Name": "Clear Veil",
+    "Card-Type": "Tool",
+    "Illustrator": "Toyste Beach",
+    "Description": "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed.)"
+  },
+  {
+    "ID": "B4-150",
+    "Name": "Psychic",
+    "Card-Type": "Supporter",
+    "Illustrator": "GIDORA",
+    "Description": "You can use this card only if your Pokémon in the Active Spot has the Psychic attack.Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon."
+  },
+  {
+    "ID": "B4-151",
+    "Name": "Drayden",
+    "Card-Type": "Supporter",
+    "Illustrator": "Souichirou Gunjima",
+    "Description": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon."
+  },
+  {
+    "ID": "B4-152",
+    "Name": "Skyla",
+    "Card-Type": "Supporter",
+    "Illustrator": "Nobusawa/Mochipuyo",
+    "Description": "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon."
+  },
+  {
+    "ID": "B4-153",
+    "Name": "Wally",
+    "Card-Type": "Supporter",
+    "Illustrator": "Teeziro",
+    "Description": "Take a [C] Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon."
+  },
+  {
+    "ID": "B4-154",
+    "Name": "Soothing Shore",
+    "Card-Type": "Stadium",
+    "Illustrator": "AYUMI ODASHIMA",
+    "Description": "At the end of each player's turn, that player heals 20 damage from each of their Pokémon that has any [W] Energy attached."
+  },
+  {
+    "ID": "B4-155",
+    "Name": "Rainbow Cave",
+    "Card-Type": "Stadium",
+    "Illustrator": "AYUMI ODASHIMA",
+    "Description": "Once during each player's turn, that player may discard the Energy that has been generated in their Energy Zone. If they do, the next Energy is produced."
+  },
+  {
+    "ID": "B4-156",
+    "Name": "Wurmple",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Ounishi",
+    "Flavor-Text": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gnaw"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-157",
+    "Name": "Lileep",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Gapao",
+    "Flavor-Text": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Blot"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Heal 10 damage from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-158",
+    "Name": "Kricketune",
+    "Card-Type": "Pokemon",
+    "Illustrator": "OKACHEKE",
+    "Flavor-Text": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bug Buzz"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-159",
+    "Name": "Accelgor",
+    "Card-Type": "Pokemon",
+    "Illustrator": "NC Empire",
+    "Flavor-Text": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Deck and Cover"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck."
+    ]
+  },
+  {
+    "ID": "B4-160",
+    "Name": "Ponyta",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yoko Hishida",
+    "Flavor-Text": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Stoke"
+    ],
+    "Move-Energy": [
+      "R"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Take a [R] Energy from your Energy Zone and attach it to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-161",
+    "Name": "Quilava",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mizue",
+    "Flavor-Text": "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heat Wave"
+    ],
+    "Move-Energy": [
+      "RR"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Burned."
+    ]
+  },
+  {
+    "ID": "B4-162",
+    "Name": "Kyogre",
+    "Card-Type": "Pokemon",
+    "Illustrator": "akagi",
+    "Flavor-Text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tidal Blast"
+    ],
+    "Move-Energy": [
+      "WWWW"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Discard 3 [W] Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-163",
+    "Name": "Samurott",
+    "Card-Type": "Pokemon",
+    "Illustrator": "sowsow",
+    "Flavor-Text": "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing.",
+    "Ability": [
+      "Stance"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all damage from—and effects of—attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn."
+    ],
+    "Moves": [
+      "Pike"
+    ],
+    "Move-Energy": [
+      "WW"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-164",
+    "Name": "Raichu",
+    "Card-Type": "Pokemon",
+    "Illustrator": "HYOGONOSUKE",
+    "Flavor-Text": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "Ability": [
+      "Evoshock"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    ],
+    "Moves": [
+      "Electro Ball"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-165",
+    "Name": "Wattrel",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Natsumi Yoshida",
+    "Flavor-Text": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Peck"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-166",
+    "Name": "Clefairy",
+    "Card-Type": "Pokemon",
+    "Illustrator": "REND",
+    "Flavor-Text": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mini-Metronome"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+    ]
+  },
+  {
+    "ID": "B4-167",
+    "Name": "Ralts",
+    "Card-Type": "Pokemon",
+    "Illustrator": "OKUBO",
+    "Flavor-Text": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Lead"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Put a random Supporter card from your deck into your hand."
+    ]
+  },
+  {
+    "ID": "B4-168",
+    "Name": "Wynaut",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yoshimoto Yoshimon",
+    "Flavor-Text": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Stompy Jammer"
+    ],
+    "Move-Energy": [
+      ""
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 [C] more."
+    ]
+  },
+  {
+    "ID": "B4-169",
+    "Name": "Oricorio",
+    "Card-Type": "Pokemon",
+    "Illustrator": "SIE NANAHARA",
+    "Flavor-Text": "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Supernatural Feather"
+    ],
+    "Move-Energy": [
+      "P"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      "Discard a card from your hand. If you can't, this attack does nothing."
+    ]
+  },
+  {
+    "ID": "B4-170",
+    "Name": "Anorith",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yuriko Akase",
+    "Flavor-Text": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Slash"
+    ],
+    "Move-Energy": [
+      "F"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-171",
+    "Name": "Poochyena",
+    "Card-Type": "Pokemon",
+    "Illustrator": "okayamatakatoshi",
+    "Flavor-Text": "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Team Hunt"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Draw a card for each Poochyena you have in play."
+    ]
+  },
+  {
+    "ID": "B4-172",
+    "Name": "Gulpin",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mékayu",
+    "Flavor-Text": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sludge Bomb"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-173",
+    "Name": "Vullaby",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Rianti Hidayat",
+    "Flavor-Text": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Run Around"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Switch this Pokémon with 1 of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-174",
+    "Name": "Genesect",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kazumasa Yasukuni",
+    "Flavor-Text": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Techno Blast"
+    ],
+    "Move-Energy": [
+      "MM"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "During your next turn, this Pokémon can't attack."
+    ]
+  },
+  {
+    "ID": "B4-175",
+    "Name": "Dragonair",
+    "Card-Type": "Pokemon",
+    "Illustrator": "rika",
+    "Flavor-Text": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+    "Ability": [
+      "Dragon's Blessing"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon."
+    ],
+    "Moves": [
+      "Draconic Whip"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-176",
+    "Name": "Noivern",
+    "Card-Type": "Pokemon",
+    "Illustrator": "aky CG Works",
+    "Flavor-Text": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Draco Meteor"
+    ],
+    "Move-Energy": [
+      "PDD"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it."
+    ]
+  },
+  {
+    "ID": "B4-177",
+    "Name": "Cyclizar",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Natsumi Yoshida",
+    "Flavor-Text": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Acceleration Drive"
+    ],
+    "Move-Energy": [
+      "GDC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-178",
+    "Name": "Raticate",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MINAMINAMI Take",
+    "Flavor-Text": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+    "Ability": [
+      "Treasure Collecting"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck."
+    ],
+    "Moves": [
+      "Speed Attack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-179",
+    "Name": "Aipom",
+    "Card-Type": "Pokemon",
+    "Illustrator": "osare",
+    "Flavor-Text": "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Playful Kick"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-180",
+    "Name": "Vespiquen ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Chase Order"
+    ],
+    "Move-Energy": [
+      "GG"
+    ],
+    "Move-Damage": [
+      "70+"
+    ],
+    "Effects": [
+      "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+    ]
+  },
+  {
+    "ID": "B4-181",
+    "Name": "Typhlosion ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Destructive Inferno"
+    ],
+    "Move-Energy": [
+      "RRC"
+    ],
+    "Move-Damage": [
+      "110"
+    ],
+    "Effects": [
+      "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-182",
+    "Name": "Mega Sharpedo ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Turbo Shark"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Take a [W] Energy from your Energy Zone and attach it to 1 of your Benched [W] Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-183",
+    "Name": "Wailord ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wondrous Waves"
+    ],
+    "Move-Energy": [
+      "WWWW"
+    ],
+    "Move-Damage": [
+      "100"
+    ],
+    "Effects": [
+      "This Pokémon recovers from all Special Conditions."
+    ]
+  },
+  {
+    "ID": "B4-184",
+    "Name": "Rotom ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Junk Spark"
+    ],
+    "Move-Energy": [
+      "LL"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "This attack does 10 more damage for each Item card in your discard pile."
+    ]
+  },
+  {
+    "ID": "B4-185",
+    "Name": "Mega Gallade ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Resonating Blade"
+    ],
+    "Move-Energy": [
+      "FCC"
+    ],
+    "Move-Damage": [
+      "100+"
+    ],
+    "Effects": [
+      "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+    ]
+  },
+  {
+    "ID": "B4-186",
+    "Name": "Hoopa ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Shadow Bullet",
+      "Dynamite Punch"
+    ],
+    "Move-Energy": [
+      "D",
+      "DDC"
+    ],
+    "Move-Damage": [
+      "30",
+      "100"
+    ],
+    "Effects": [
+      "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+      "This Pokémon also does 20 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4-187",
+    "Name": "Mega Metagross ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Yamashita",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gatling Slug"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "100+"
+    ],
+    "Effects": [
+      "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-188",
+    "Name": "Mega Rayquaza ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Igarashi",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mega Burst"
+    ],
+    "Move-Energy": [
+      "RL"
+    ],
+    "Move-Damage": [
+      "50x"
+    ],
+    "Effects": [
+      "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+    ]
+  },
+  {
+    "ID": "B4-189",
+    "Name": "Swanna ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Jet Wing"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "140"
+    ],
+    "Effects": [
+      "During your next turn, this Pokémon can't attack."
+    ]
+  },
+  {
+    "ID": "B4-190",
+    "Name": "Psychic",
+    "Card-Type": "Supporter",
+    "Illustrator": "GIDORA",
+    "Description": "You can use this card only if your Pokémon in the Active Spot has the Psychic attack.Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon."
+  },
+  {
+    "ID": "B4-191",
+    "Name": "Drayden",
+    "Card-Type": "Supporter",
+    "Illustrator": "Souichirou Gunjima",
+    "Description": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon."
+  },
+  {
+    "ID": "B4-192",
+    "Name": "Skyla",
+    "Card-Type": "Supporter",
+    "Illustrator": "Nobusawa/Mochipuyo",
+    "Description": "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon."
+  },
+  {
+    "ID": "B4-193",
+    "Name": "Wally",
+    "Card-Type": "Supporter",
+    "Illustrator": "Teeziro",
+    "Description": "Take a [C] Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon."
+  },
+  {
+    "ID": "B4-194",
+    "Name": "Vespiquen ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "mashu",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Chase Order"
+    ],
+    "Move-Energy": [
+      "GG"
+    ],
+    "Move-Damage": [
+      "70+"
+    ],
+    "Effects": [
+      "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+    ]
+  },
+  {
+    "ID": "B4-195",
+    "Name": "Typhlosion ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Ryota Murayama",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Destructive Inferno"
+    ],
+    "Move-Energy": [
+      "RRC"
+    ],
+    "Move-Damage": [
+      "110"
+    ],
+    "Effects": [
+      "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-196",
+    "Name": "Mega Sharpedo ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Nurikabe",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Turbo Shark"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      "Take a [W] Energy from your Energy Zone and attach it to 1 of your Benched [W] Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-197",
+    "Name": "Wailord ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "USGMEN",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wondrous Waves"
+    ],
+    "Move-Energy": [
+      "WWWW"
+    ],
+    "Move-Damage": [
+      "100"
+    ],
+    "Effects": [
+      "This Pokémon recovers from all Special Conditions."
+    ]
+  },
+  {
+    "ID": "B4-198",
+    "Name": "Mega Gallade ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kuroimori",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Resonating Blade"
+    ],
+    "Move-Energy": [
+      "FCC"
+    ],
+    "Move-Damage": [
+      "100+"
+    ],
+    "Effects": [
+      "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+    ]
+  },
+  {
+    "ID": "B4-199",
+    "Name": "Hoopa ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yano Keiji",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Shadow Bullet",
+      "Dynamite Punch"
+    ],
+    "Move-Energy": [
+      "D",
+      "DDC"
+    ],
+    "Move-Damage": [
+      "30",
+      "100"
+    ],
+    "Effects": [
+      "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+      "This Pokémon also does 20 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4-200",
+    "Name": "Mega Metagross ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "GOSSAN",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gatling Slug"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "100+"
+    ],
+    "Effects": [
+      "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-201",
+    "Name": "Swanna ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "KASSEN",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Jet Wing"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "140"
+    ],
+    "Effects": [
+      "During your next turn, this Pokémon can't attack."
+    ]
+  },
+  {
+    "ID": "B4-202",
+    "Name": "Rotom ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Akino Fukuji",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Junk Spark"
+    ],
+    "Move-Energy": [
+      "LL"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "This attack does 10 more damage for each Item card in your discard pile."
+    ]
+  },
+  {
+    "ID": "B4-203",
+    "Name": "Mega Rayquaza ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Iwamoto05",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mega Burst"
+    ],
+    "Move-Energy": [
+      "RL"
+    ],
+    "Move-Damage": [
+      "50x"
+    ],
+    "Effects": [
+      "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+    ]
+  },
+  {
+    "ID": "B4-204",
+    "Name": "Alolan Vulpix",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gnaw"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-205",
+    "Name": "Mudkip",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "When it uses its large tail fin, it picks up speed rapidly in the water. It is strong in spite of its small size.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tackle"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-206",
+    "Name": "Marshtomp",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Surf"
+    ],
+    "Move-Energy": [
+      "WC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-207",
+    "Name": "Swampert",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Large Whirlpool"
+    ],
+    "Move-Energy": [
+      "WWW"
+    ],
+    "Move-Damage": [
+      "100"
+    ],
+    "Effects": [
+      "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+    ]
+  },
+  {
+    "ID": "B4-208",
+    "Name": "Electabuzz",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Head Bolt"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-209",
+    "Name": "Plusle",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "This Pokémon absorbs electricity from telephone poles. It shorts out the electricity stored inside its body to create noises.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Electric Tail"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    ]
+  },
+  {
+    "ID": "B4-210",
+    "Name": "Minun",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Buddy Spark"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-211",
+    "Name": "Mr. Mime",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Synchro Dance"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "40+"
+    ],
+    "Effects": [
+      "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+    ]
+  },
+  {
+    "ID": "B4-212",
+    "Name": "Mewtwo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Psychic"
+    ],
+    "Move-Energy": [
+      "PPP"
+    ],
+    "Move-Damage": [
+      "10+"
+    ],
+    "Effects": [
+      "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-213",
+    "Name": "Roggenrola",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mud-Slap"
+    ],
+    "Move-Energy": [
+      "FC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-214",
+    "Name": "Boldore",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Power Gem"
+    ],
+    "Move-Energy": [
+      "FFC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-215",
+    "Name": "Falinks",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation.",
+    "Ability": [
+      "Coordinated Unit"
+    ],
+    "Ability-Effect": [
+      "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes -20 damage from attacks from your opponent's Pokémon."
+    ],
+    "Moves": [
+      "Invade"
+    ],
+    "Move-Energy": [
+      "F"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-216",
+    "Name": "Koffing",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gas Bomb"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "This Pokémon also does 10 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4-217",
+    "Name": "Weezing",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sludge Bomb"
+    ],
+    "Move-Energy": [
+      "DD"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-218",
+    "Name": "Galarian Meowth",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Slash"
+    ],
+    "Move-Energy": [
+      "M"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-219",
+    "Name": "Galarian Perrserker",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+    "Ability": [
+      "Dig Up"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand."
+    ],
+    "Moves": [
+      "Metal Claw"
+    ],
+    "Move-Energy": [
+      "MM"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-220",
+    "Name": "Rattata",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Surprise Attack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Flip a coin. If tails, this attack does nothing."
+    ]
+  },
+  {
+    "ID": "B4-221",
+    "Name": "Raticate",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+    "Ability": [
+      "Treasure Collecting"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck."
+    ],
+    "Moves": [
+      "Speed Attack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-222",
+    "Name": "Smeargle",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.",
+    "Ability": [
+      "Portrait"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, if this Pokémon is in the Active Spot, you may look at a random Supporter card from your opponent's hand. Use the effect of that card as the effect of this Ability."
+    ],
+    "Moves": [
+      "Tail Whap"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-223",
+    "Name": "Buneary",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Double Kick"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 20 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4-224",
+    "Name": "Blacephalon ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "5ban Graphics",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Singe",
+      "Pop-Punk"
+    ],
+    "Move-Energy": [
+      "R",
+      "RRR"
+    ],
+    "Move-Damage": [
+      "",
+      "140"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Burned.",
+      "Discard 3 [R] Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-225",
+    "Name": "Alolan Ninetales ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Binding Snow"
+    ],
+    "Move-Energy": [
+      "WW"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-226",
+    "Name": "Mega Swampert ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Strong-Armed Destroyer"
+    ],
+    "Move-Energy": [
+      "WWW"
+    ],
+    "Move-Damage": [
+      "150"
+    ],
+    "Effects": [
+      "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+    ]
+  },
+  {
+    "ID": "B4-227",
+    "Name": "Mega Gardevoir ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Fantasia Force"
+    ],
+    "Move-Energy": [
+      "PP"
+    ],
+    "Move-Damage": [
+      "110"
+    ],
+    "Effects": [
+      "Take 3 [P] Energy from your Energy Zone and attach it to your [P] Pokémon in any way you like."
+    ]
+  },
+  {
+    "ID": "B4-228",
+    "Name": "Mega Lopunny ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Yamashita",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Rapid Smashers"
+    ],
+    "Move-Energy": [
+      "FF"
+    ],
+    "Move-Damage": [
+      "90x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+    ]
+  },
+  {
+    "ID": "B4-229",
+    "Name": "Gigalith ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Megaton Cannon"
+    ],
+    "Move-Energy": [
+      "FFFF"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
+    ]
+  },
+  {
+    "ID": "B4-230",
+    "Name": "Zoroark ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Brutal Bash"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "30x"
+    ],
+    "Effects": [
+      "This attack does 30 damage for each of your Benched [D] Pokémon."
+    ]
+  },
+  {
+    "ID": "B4-231",
+    "Name": "Mega Kangaskhan ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Double-Punching Family"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+    ]
+  },
+  {
+    "ID": "B4-232",
+    "Name": "Raichu",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Mamiya",
+    "Flavor-Text": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "Ability": [
+      "Evoshock"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    ],
+    "Moves": [
+      "Electro Ball"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4-233",
+    "Name": "Dragonair",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Mamiya",
+    "Flavor-Text": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+    "Ability": [
+      "Dragon's Blessing"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon."
+    ],
+    "Moves": [
+      "Draconic Whip"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  }
+]

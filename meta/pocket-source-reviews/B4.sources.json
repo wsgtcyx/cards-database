@@ -1,0 +1,68 @@
+{
+  "officialAnnouncement": {
+    "role": "set identity and launch date",
+    "url": "https://www.pokemon.com/us/news/pokemon-tcg-pocket-ruler-of-the-skies-expansion-coming-soon"
+  },
+  "pinnedCardImage": {
+    "role": "primary visual evidence and production image",
+    "repo": "https://github.com/flibustier/pokemon-tcg-pocket-database",
+    "commit": "5313e5d23349ec01b4d968bc0955fd4cc1da0e1c",
+    "release": "https://github.com/flibustier/pokemon-tcg-pocket-database/releases/tag/2.9.1",
+    "releaseSha256": "a04d62cec7a3bdc5875ccc35d8e0062c604fc93934a8f35998247ba53e2a8b3d",
+    "license": "MIT"
+  },
+  "index": {
+    "role": "number, name, rarity, and image index",
+    "repo": "https://github.com/flibustier/pokemon-tcg-pocket-database",
+    "commit": "5313e5d23349ec01b4d968bc0955fd4cc1da0e1c",
+    "license": "MIT"
+  },
+  "deckGym": {
+    "role": "mechanics validation candidate only; content is not copied without card review",
+    "repo": "https://github.com/bcollazo/deckgym-core",
+    "commit": "edf22f2f8014b6631784933986f631a1750a5952",
+    "license": "AGPL-3.0"
+  },
+  "pokemonMeta": {
+    "role": "independent mechanics validation candidate",
+    "url": "https://www.pokemonmeta.com/api/v1/cards?pokemonId%5B%24regex%5D=%5EB4-&limit=400",
+    "retrievedAt": "2026-07-30T04:00:00.000Z"
+  },
+  "pokeOS": {
+    "role": "independent count, numbering, rarity, and set-name validation only",
+    "url": "https://www.pokeos.com/tcg/pocket/b/583/Ruler+of+the+Skies",
+    "limitation": "B4 localized card-name fields are null and the public Master.json path returns 404; not used as a translation or production-image source."
+  },
+  "cardImageOcr": {
+    "role": "illustrator, flavor, and targeted conflict evidence",
+    "engine": "PaddleOCR Text Recognition API"
+  },
+  "serebii": {
+    "role": "targeted manual conflict adjudication only",
+    "urlTemplate": "https://www.serebii.net/tcgpocket/ruleroftheskies/{number}.shtml"
+  },
+  "pokemonZone": {
+    "role": "four targeted ambiguous illustrator checks only",
+    "url": "https://www.pokemon-zone.com/sets/ruler-of-the-skies/",
+    "limitation": "Terms prohibit scraper use, so it was not used for batch ingestion."
+  },
+  "pokeApi": {
+    "role": "official franchise species, move, ability, and Pokédex flavor localization lookup",
+    "repo": "https://github.com/PokeAPI/pokeapi",
+    "files": [
+      "data/v2/csv/pokemon_species_names.csv",
+      "data/v2/csv/move_names.csv",
+      "data/v2/csv/ability_names.csv",
+      "data/v2/csv/pokemon_species_flavor_text.csv"
+    ]
+  },
+  "tcgDex": {
+    "role": "historical official Trainer-name validation",
+    "url": "https://api.tcgdex.net/v2/en/cards/sm5-131",
+    "limitation": "B4 endpoints returned 404 in all target languages during this run."
+  },
+  "setNames": {
+    "role": "multilingual set-name cross-check",
+    "url": "https://bulbapedia.bulbagarden.net/wiki/Ruler_of_the_Skies_(TCG_Pocket)"
+  }
+}

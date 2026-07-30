@@ -1,0 +1,4504 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "range": "001-233",
+  "generatedAt": "2026-07-30T06:11:09.343Z",
+  "inputHashes": {
+    "index": "95bfaed09eeeca5cd5197fd94c82af31e830eb3d1c490607ebc52502d593818e",
+    "deckGym": "d8d88140a5add393c285c3c8e4d02ff1d6b1df0b6659f809eacf379e9c33a61b",
+    "pokemonMeta": "18c3e0df53d03ec06a62eb90b89fad5e2dace475f512622d9dce6099011d7fb9",
+    "review": "d22fd8445d792341e3686a98e72411cc9f6532e03adde5c057c23ce772385caa",
+    "sources": "cf64111d0bc6b9e79c9360045268a5df8f09f7e07a53f558720dbe7f76afa9e7",
+    "images": {
+      "count": 233,
+      "sha256": "60cdeaaa954d2c2c0dcf004fa8c2a2edd9b6853e6ad930f4da63a776c30cd31e"
+    }
+  },
+  "counts": {
+    "cards": 233,
+    "detailsRecords": 233,
+    "provenanceRecords": 233,
+    "indexRecords": 233,
+    "deckGymRecords": 233,
+    "pokemonMetaRecords": 233,
+    "imageFiles": 233
+  },
+  "idsContinuous": true,
+  "missingFields": [],
+  "resolvedConflicts": [
+    {
+      "id": "B4-003",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Evoflight",
+          "cost": [
+            "Grass"
+          ],
+          "damage": "30+",
+          "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Evoflight",
+              "cost": [
+                "Grass"
+              ],
+              "damage": 30,
+              "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Evoflight",
+              "cost": [
+                "Grass"
+              ],
+              "damage": "30+",
+              "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-004",
+      "field": "retreat",
+      "chosen": 3,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 3
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/004.shtml"
+      ]
+    },
+    {
+      "id": "B4-007",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Stick and Absorb",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "damage": 70,
+          "effect": "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Stick and Absorb",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": 70,
+              "effect": "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Stick and Absorb",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": 70,
+              "effect": "Heal 30 damage from this Pokémon. During your opponent's turn, the Defending Pokémon can't retreat."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/007.shtml"
+      ]
+    },
+    {
+      "id": "B4-011",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Chase Order",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "damage": "70+",
+          "effect": "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Chase Order",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": 70,
+              "effect": "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Chase Order",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": "70+",
+              "effect": "You may discard 1 of your Benched Basic Grass Pokémon. If you do, this attack does 70 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-016",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Prelude",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "damage": "30+",
+          "effect": "If you haven't gotten any points, this attack does 60 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Prelude",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": 30,
+              "effect": "If you haven't gotten any points, this attack does 60 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Prelude",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": "30+",
+              "effect": "If you haven't gotten any points, this attack does 60 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-019",
+      "field": "name",
+      "chosen": "Teal Mask Ogerpon",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "Teal MaskOgerpon"
+        },
+        {
+          "source": "deckGym",
+          "value": "Teal Mask Ogerpon"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Teal Mask Ogerpon"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-022",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Burning Tail",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "damage": 70,
+          "effect": "Discard a Fire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Bursting Tail",
+              "cost": [
+                "Fire",
+                "Fire"
+              ],
+              "damage": 70,
+              "effect": "Discard Fire[R] Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Bursting Tail",
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "damage": 70,
+              "effect": "Discard a Fire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/022.shtml"
+      ]
+    },
+    {
+      "id": "B4-027",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Sharp Claws",
+          "cost": [
+            "Fire"
+          ],
+          "damage": "10+",
+          "effect": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Sharp Claws",
+              "cost": [
+                "Fire"
+              ],
+              "damage": 10,
+              "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Sharp Claws",
+              "cost": [
+                "Fire"
+              ],
+              "damage": "10+",
+              "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-039",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Frozen Splash",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "damage": "50+",
+          "effect": "If your opponent's Active Pokémon is a [F] Pokémon, this attack does 70 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Frozen Splash",
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "damage": 50,
+              "effect": "If your opponent's Active Pokémon is a [F] Pokémon, this attack does 70 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Frozen Splash",
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "damage": "50+",
+              "effect": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 70 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-043",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Razor Shell",
+          "cost": [
+            "Water"
+          ],
+          "damage": "20+",
+          "effect": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Razor Shell",
+              "cost": [
+                "Water"
+              ],
+              "damage": 20,
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Razor Shell",
+              "cost": [
+                "Water"
+              ],
+              "damage": "20+",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-052",
+      "field": "retreat",
+      "chosen": 0,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 0
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/052.shtml"
+      ]
+    },
+    {
+      "id": "B4-053",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Revenge Blast",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": "80+",
+          "effect": "This attack does 50 more damage for each point your opponent has gotten."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Revenge Blast",
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "damage": 80,
+              "effect": "This attack does 50 more damage for each point your opponent has gotten."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Revenge Blast",
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "damage": "80+",
+              "effect": "This attack does 50 more damage for each point your opponent has gotten."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-054",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Crackling Snap",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": "30+",
+          "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Crackling Snap",
+              "cost": [
+                "Lightning"
+              ],
+              "damage": 30,
+              "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Crackling Snap",
+              "cost": [
+                "Lightning"
+              ],
+              "damage": "30+",
+              "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-055",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Junk Spark",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "damage": "30+",
+          "effect": "This attack does 10 more damage for each Item card in your discard pile."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Junk Spark",
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "damage": 30,
+              "effect": "This attack does 10 more damage for each Item card in your discard pile."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Junk Spark",
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "damage": "30+",
+              "effect": "This attack does 10 more damage for each Item card in your discard pile."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-058",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Energy Crush",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": "50+",
+          "effect": "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Energy Crush",
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "damage": 50,
+              "effect": "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Energy Crush",
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "damage": "50+",
+              "effect": "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-059",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Disaster Volt",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 100,
+          "effect": "Discard a Lightning Energy from this Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Disaster Volt",
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "Discard a [L] Energy from this Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Disaster Volt",
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "Discard a Lightning Energy from this Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/059.shtml",
+        "https://github.com/flibustier/pokemon-tcg-pocket-database/releases/tag/2.9.1"
+      ]
+    },
+    {
+      "id": "B4-067",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": 60,
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": "60+",
+              "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-069",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Synchro Dance",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Synchro Dance",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Synchro Dance",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": "40+",
+              "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-070",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": "10+",
+          "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "damage": 10,
+              "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "damage": "10+",
+              "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-070",
+      "field": "retreat",
+      "chosen": 2,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 2
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/070.shtml"
+      ]
+    },
+    {
+      "id": "B4-072",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Double Spin",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Double Spin",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Double Spin",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-073",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Extrasensory",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Extrasensory",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Extrasensory",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": "40+",
+              "effect": "If you hav the same number of cards in your hand as your opponent, this attack does 40 more damage"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/073.shtml"
+      ]
+    },
+    {
+      "id": "B4-076",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Mind Bend",
+          "cost": [
+            "Psychic"
+          ],
+          "damage": 40,
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Mind Bend",
+              "cost": [
+                "Psychic"
+              ],
+              "damage": 40,
+              "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Mind Bend",
+              "cost": [
+                "Psychic"
+              ],
+              "damage": 40,
+              "effect": "Your oppoennt's Active Pokémon is now Confused"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/076.shtml"
+      ]
+    },
+    {
+      "id": "B4-084",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Resonating Blade",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "100+",
+          "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Resonating Blade",
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Resonating Blade",
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "100+",
+              "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-088",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Pummel",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "damage": "30+",
+          "effect": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Pummel",
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "damage": 30,
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Pummel",
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "damage": "30+",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-090",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Cosmic Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "10+",
+          "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Cosmic Tackle",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 10,
+              "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Cosmic Tackle",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "10+",
+              "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-092",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Ambush",
+          "cost": [
+            "Darkness"
+          ],
+          "damage": "30+",
+          "effect": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Ambush",
+              "cost": [
+                "Darkness"
+              ],
+              "damage": 30,
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Ambush",
+              "cost": [
+                "Darkness"
+              ],
+              "damage": "30+",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-095",
+      "field": "name",
+      "chosen": "Galarian Zigzagoon",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "GalarianZigzagoon"
+        },
+        {
+          "source": "deckGym",
+          "value": "Galarian Zigzagoon"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Galarian Zigzagoon"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-096",
+      "field": "name",
+      "chosen": "Galarian Linoone",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "GalarianLinoone"
+        },
+        {
+          "source": "deckGym",
+          "value": "Galarian Linoone"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Galarian Linoone"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-097",
+      "field": "name",
+      "chosen": "Galarian Obstagoon",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "GalarianObstagoon"
+        },
+        {
+          "source": "deckGym",
+          "value": "Galarian Obstagoon"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Galarian Obstagoon"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-099",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Swallow Up",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": "30+",
+          "effect": "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Swallow Up",
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": 30,
+              "effect": "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Swallow Up",
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": "30+",
+              "effect": "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-100",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Enhanced Blade",
+          "cost": [
+            "Darkness"
+          ],
+          "damage": "20+",
+          "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Enhanced Blade",
+              "cost": [
+                "Darkness"
+              ],
+              "damage": 20,
+              "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Enhanced Blade",
+              "cost": [
+                "Darkness"
+              ],
+              "damage": "20+",
+              "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-102",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Bone Rush",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": "60x",
+          "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Bone Rush",
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": 60,
+              "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Bone Rush",
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": "60x",
+              "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-105",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Play Rough",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Play Rough",
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Play Rough",
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "damage": "40+",
+              "effect": "Flip a coin. If heads, this attack does 20 more damage"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-106",
+      "field": "retreat",
+      "chosen": 2,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 2
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/106.shtml"
+      ]
+    },
+    {
+      "id": "B4-107",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Bullet Punch",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "damage": "30+",
+          "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Bullet Punch",
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "damage": 30,
+              "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Bullet Punch",
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "damage": "30+",
+              "effect": "Flip 2 coins. This attack does 20 more damage for each heads"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-108",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Squared Attack",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "50x",
+          "effect": "Flip 4 coins. This attack does 50 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Squared Attack",
+              "cost": [
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 50,
+              "effect": "Flip 4 coins. This attack does 50 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Squared Attack",
+              "cost": [
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "50x",
+              "effect": "Flip 4 coins. This attack does 50 damage for each heads"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-109",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Gatling Slug",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "100+",
+          "effect": "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Gatling Slug",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Gatling Slug",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "100+",
+              "effect": "This attack does 10 more damage for each Metal Energy attached to this Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-113",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Raging Blade",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "80+",
+          "effect": "If this Pokémon has damage on it, this attack does 80 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Raging Blade",
+              "cost": [
+                "Metal",
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 80,
+              "effect": "If this Pokémon has damage on it, this attack does 80 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Raging Blade",
+              "cost": [
+                "Metal",
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "80+",
+              "effect": "If this Pokémon has damage on it, this attack does 80 more damage"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-115",
+      "field": "abilities",
+      "chosen": [
+        {
+          "type": "Ability",
+          "name": "Dual Customization",
+          "effect": "This Pokémon may have up to 2 Pokémon Tool cards attached to it."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Dual Customization",
+              "effect": "This Pokémon may have up to 2 Pokémon Tool cards attached to it."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Dual Customisation",
+              "effect": "This Pokémon may have up to 2 Pokémon Tool cards attached to it"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://github.com/flibustier/pokemon-tcg-pocket-database/releases/tag/2.9.1",
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/115.shtml"
+      ]
+    },
+    {
+      "id": "B4-116",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Slam",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Slam",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Slam",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-120",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Mega Burst",
+          "cost": [
+            "Fire",
+            "Lightning"
+          ],
+          "damage": "50x",
+          "effect": "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Mega Burst",
+              "cost": [
+                "Fire",
+                "Lightning"
+              ],
+              "damage": 50,
+              "effect": "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Mega Burst",
+              "cost": [
+                "Fire",
+                "Lightning"
+              ],
+              "damage": "50x",
+              "effect": "Discard all Fire and Lightning Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-126",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Double Hit",
+          "cost": [
+            "Grass",
+            "Fire"
+          ],
+          "damage": "60x",
+          "effect": "Flip 2 coins. This attack does 60 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Double Hit",
+              "cost": [
+                "Grass",
+                "Fire"
+              ],
+              "damage": 60,
+              "effect": "Flip 2 coins. This attack does 60 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Double Hit",
+              "cost": [
+                "Grass",
+                "Fire"
+              ],
+              "damage": "60x",
+              "effect": "Flip 2 coins. This attack does 60 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-127",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Fickle Beam",
+          "cost": [
+            "Grass",
+            "Fire"
+          ],
+          "damage": "100+",
+          "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Fickle Beam",
+              "cost": [
+                "Grass",
+                "Fire"
+              ],
+              "damage": 100,
+              "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Fickle Beam",
+              "cost": [
+                "Grass",
+                "Fire"
+              ],
+              "damage": "100+",
+              "effect": "Flip 2coins. If both of them are heads, this attack does 100 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/127.shtml"
+      ]
+    },
+    {
+      "id": "B4-131",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Tail Rap",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Tail Rap",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Tail Rap",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-135",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Energy Blender",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 50,
+          "effect": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Energy Blender",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 50,
+              "effect": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Emergy Blender",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 50,
+              "effect": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/135.shtml"
+      ]
+    },
+    {
+      "id": "B4-136",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Samesies Slap",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20+",
+          "effect": "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Samesies Slap",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Samesies Slap",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20+",
+              "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attackdoes 20 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/136.shtml"
+      ]
+    },
+    {
+      "id": "B4-142",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Retaliate",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20+",
+          "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Retaliate",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Retaliate",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20+",
+              "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-144",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Gold Breaker",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Gold Breaker",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 60,
+              "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Gold Breaker",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "60+",
+              "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-145",
+      "field": "effect",
+      "chosen": "Flip a coin. If heads, put a random Item card from your deck into your hand.",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Flip a coin. If heads, put a random Item card from your deck into your hand."
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Flip a coin. If heads, ptu a random Item card from your deck into your hand"
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/145.shtml"
+      ]
+    },
+    {
+      "id": "B4-146",
+      "field": "rarity",
+      "chosen": "One Diamond",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "One Diamond"
+        },
+        {
+          "source": "deckGym",
+          "value": "One Diamond"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Two Diamond"
+        }
+      ],
+      "evidence": [
+        "index",
+        "deckGym"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-147",
+      "field": "rarity",
+      "chosen": "One Diamond",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "One Diamond"
+        },
+        {
+          "source": "deckGym",
+          "value": "One Diamond"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Two Diamond"
+        }
+      ],
+      "evidence": [
+        "index",
+        "deckGym"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-149",
+      "field": "effect",
+      "chosen": "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed.)",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed.)"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon thiscard is attached to. (Existing effects are not remove)"
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/149.shtml"
+      ]
+    },
+    {
+      "id": "B4-151",
+      "field": "effect",
+      "chosen": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon.",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon."
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor atack used by uour Pokémon"
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/151.shtml"
+      ]
+    },
+    {
+      "id": "B4-180",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Chase Order",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "damage": "70+",
+          "effect": "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Chase Order",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": 70,
+              "effect": "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Chase Order",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": "70+",
+              "effect": "You may discard 1 of your Benched Basic Grass Pokémon. If you do, this attack does 70 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-184",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Junk Spark",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "damage": "30+",
+          "effect": "This attack does 10 more damage for each Item card in your discard pile."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Junk Spark",
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "damage": 30,
+              "effect": "This attack does 10 more damage for each Item card in your discard pile."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Junk Spark",
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "damage": "30+",
+              "effect": "This attack does 10 more damage for each Item card in your discard pile."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-185",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Resonating Blade",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "100+",
+          "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Resonating Blade",
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Resonating Blade",
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "100+",
+              "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-187",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Gatling Slug",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "100+",
+          "effect": "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Gatling Slug",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Gatling Slug",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "100+",
+              "effect": "This attack does 10 more damage for each Metal Energy attached to this Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-188",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Mega Burst",
+          "cost": [
+            "Fire",
+            "Lightning"
+          ],
+          "damage": "50x",
+          "effect": "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Mega Burst",
+              "cost": [
+                "Fire",
+                "Lightning"
+              ],
+              "damage": 50,
+              "effect": "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Mega Burst",
+              "cost": [
+                "Fire",
+                "Lightning"
+              ],
+              "damage": "50x",
+              "effect": "Discard all Fire and Lightning Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-191",
+      "field": "effect",
+      "chosen": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon.",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon."
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor atack used by uour Pokémon"
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/191.shtml"
+      ]
+    },
+    {
+      "id": "B4-194",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Chase Order",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "damage": "70+",
+          "effect": "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Chase Order",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": 70,
+              "effect": "You may discard 1 of your Benched Basic [G] Pokémon. If you do, this attack does 70 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Chase Order",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": "70+",
+              "effect": "You may discard 1 of your Benched Basic Grass Pokémon. If you do, this attack does 70 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-198",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Resonating Blade",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "100+",
+          "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Resonating Blade",
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Resonating Blade",
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "100+",
+              "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-200",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Gatling Slug",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "100+",
+          "effect": "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Gatling Slug",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 100,
+              "effect": "This attack does 10 more damage for each [M] Energy attached to this Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Gatling Slug",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "100+",
+              "effect": "This attack does 10 more damage for each Metal Energy attached to this Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-202",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Junk Spark",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "damage": "30+",
+          "effect": "This attack does 10 more damage for each Item card in your discard pile."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Junk Spark",
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "damage": 30,
+              "effect": "This attack does 10 more damage for each Item card in your discard pile."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Junk Spark",
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "damage": "30+",
+              "effect": "This attack does 10 more damage for each Item card in your discard pile."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-203",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Mega Burst",
+          "cost": [
+            "Fire",
+            "Lightning"
+          ],
+          "damage": "50x",
+          "effect": "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Mega Burst",
+              "cost": [
+                "Fire",
+                "Lightning"
+              ],
+              "damage": 50,
+              "effect": "Discard all [R] and [L] Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Mega Burst",
+              "cost": [
+                "Fire",
+                "Lightning"
+              ],
+              "damage": "50x",
+              "effect": "Discard all Fire and Lightning Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-204",
+      "field": "name",
+      "chosen": "Alolan Vulpix",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "AlolanVulpix"
+        },
+        {
+          "source": "deckGym",
+          "value": "Alolan Vulpix"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Alolan Vulpix"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-204",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Water"
+          ],
+          "damage": 20
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Gnaw",
+              "cost": [
+                "Water"
+              ],
+              "damage": 20
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": []
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/204.shtml"
+      ]
+    },
+    {
+      "id": "B4-210",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Buddy Spark",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": 30,
+          "effect": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Buddy Spark",
+              "cost": [
+                "Lightning"
+              ],
+              "damage": 30,
+              "effect": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Buddy Spark",
+              "cost": [
+                "Lightning"
+              ],
+              "damage": 30,
+              "effect": "If Plusle in on your Bench, this attack does 10 more damage to each of your opponent's Benched Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/210.shtml"
+      ]
+    },
+    {
+      "id": "B4-211",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Synchro Dance",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Synchro Dance",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Synchro Dance",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": "40+",
+              "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-212",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": "10+",
+          "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "damage": 10,
+              "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "damage": "10+",
+              "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-217",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Sludge Bomb",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "damage": 70
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Sludge Bomb",
+              "cost": [
+                "Darkness",
+                "Darkness"
+              ],
+              "damage": 70
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Sludge Bombe",
+              "cost": [
+                "Darkness",
+                "Darkness"
+              ],
+              "damage": 70
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/217.shtml"
+      ]
+    },
+    {
+      "id": "B4-218",
+      "field": "name",
+      "chosen": "Galarian Meowth",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "GalarianMeowth"
+        },
+        {
+          "source": "deckGym",
+          "value": "Galarian Meowth"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Galarian Meowth"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-219",
+      "field": "name",
+      "chosen": "Galarian Perrserker",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "GalarianPerrserker"
+        },
+        {
+          "source": "deckGym",
+          "value": "Galarian Perrserker"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Galarian Perrserker"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-219",
+      "field": "abilities",
+      "chosen": [
+        {
+          "type": "Ability",
+          "name": "Dig Up",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Dig Up",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Dig Up",
+              "effect": "Once during your turn, when you play this Pokémon from our hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/219.shtml"
+      ]
+    },
+    {
+      "id": "B4-220",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Surprise Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 40,
+          "effect": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Surprise Attack",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Surprise Attack",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/220.shtml"
+      ]
+    },
+    {
+      "id": "B4-223",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Double Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Double Kick",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Double Kick",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-225",
+      "field": "name",
+      "chosen": "Alolan Ninetales ex",
+      "candidates": [
+        {
+          "source": "index",
+          "value": "AlolanNinetales ex"
+        },
+        {
+          "source": "deckGym",
+          "value": "Alolan Ninetales ex"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Alolan Ninetales ex"
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Two independent candidates agree against one outlier."
+    },
+    {
+      "id": "B4-225",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Binding Snow",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "damage": 80,
+          "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Binding Snow",
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "damage": 80,
+              "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Binding Snow",
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "damage": 80,
+              "effect": "During you opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://www.serebii.net/tcgpocket/ruleroftheskies/225.shtml"
+      ]
+    },
+    {
+      "id": "B4-228",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Rapid Smashers",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "damage": "90x",
+          "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Rapid Smashers",
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "damage": 90,
+              "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Rapid Smashers",
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "damage": "90x",
+              "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now confused."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4-230",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Brutal Bash",
+          "cost": [
+            "Darkness"
+          ],
+          "damage": "30x",
+          "effect": "This attack does 30 damage for each of your Benched [D] Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Brutal Bash",
+              "cost": [
+                "Darkness"
+              ],
+              "damage": 30,
+              "effect": "This attack does 30 damage for each of your Benched [D] Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Brutal Bash",
+              "cost": [
+                "Darkness"
+              ],
+              "damage": "30x",
+              "effect": "This attack does 30 damage for each of your Benched Darkness Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    }
+  ],
+  "unresolvedConflicts": [],
+  "diagnostics": [
+    {
+      "id": "B4-006",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-008",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-009",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-013",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-016",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-017",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-018",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-024",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-025",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-026",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-027",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-028",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-029",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-030",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-032",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-033",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-034",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-035",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-038",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-039",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-042",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-043",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-044",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-045",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-046",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-047",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-048",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-049",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-050",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-051",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-052",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-053",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-054",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-055",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-056",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-057",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-058",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-059",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-060",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-061",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-062",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-063",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-064",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-065",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-066",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-067",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-068",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-069",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-070",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-071",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-072",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-073",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-074",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-075",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-076",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-077",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-078",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-079",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-080",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-081",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-082",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-083",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-085",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-086",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-087",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-088",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-089",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-090",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-091",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-092",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-093",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-094",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-095",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-096",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-097",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-098",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-099",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-100",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-101",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-102",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-103",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-104",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-105",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-106",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-107",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-108",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-109",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-110",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-111",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-112",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-114",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-116",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-117",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-118",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-120",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-121",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-122",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-123",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-124",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-125",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-126",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-127",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-128",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-129",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-130",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-131",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-132",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-133",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-134",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-135",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-136",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-137",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-138",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-139",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-140",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-142",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-143",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-144",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-157",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-158",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-161",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-163",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-164",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-165",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-166",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-167",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-168",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-169",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-170",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-171",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-172",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-173",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-174",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-175",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-176",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-177",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-178",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-179",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-181",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-182",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-184",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-186",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-187",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-188",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-195",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-196",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-199",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-200",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-202",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-203",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-205",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-206",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-207",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-208",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-209",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-210",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-211",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-212",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-213",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-214",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-215",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-216",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-217",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-218",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-219",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-220",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-221",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-222",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-223",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-224",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-228",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-230",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-231",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-232",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4-233",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    }
+  ],
+  "confidence": {
+    "high": 0,
+    "medium": 233,
+    "low": 0
+  },
+  "passed": true
+}

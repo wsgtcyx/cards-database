@@ -1,0 +1,5650 @@
+{
+  "ok": true,
+  "text": "llos. UKUMO viti\n\nNoibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.\n\nllus. ooki\n\nIn the dark, even Hydroigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.\n\nIllus. Anesaki Dynamic\n♦ ♦\n\nEating sulfur in its volcanic habitat is what causes\nexplosive compounds to develop in its shell.\nits droppings are also dangerously explosive.\n\nIllus. match\n\nDrampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.\n\nIllus. Miki Tanaka\n♦\n\nAppin lives inside an apple. When an Appin is separated from its apple, its body loses moisture and the Pokémon grows weak.\n\nIllus. Tomomi Ozaki\n♦ ♦\n\nThe head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.\n\nIllus. Kuroimori\n♦ ♦ ♦\n\nThese capricious syrpents have banded together.\nOn the rare occasion that their moods align,\ntheir true power is unleashed.\n\nIllus. Iovi Suzuki\n\nIt can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.\n\nIlus. Yukiko Baba\n◇\n\nThis Pokémon is common but hazardous. les sharp incisors can easily cut right through hard wood.\n\nIllus. sowsow\n◇ ◇ ◇\n\nIts whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.\n\nIllus. Sumiyoshi Kizuki\n◇\n\nIts genetic code is irregular. It may mutate if it is exposed to radiation from element stones.\n\nIllus. Sekio\n◇\n\nIts tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.\n\nIlus. Atsuko Nishida\n◇\nSplit into two, the tails are so adept at handling and\ndoing things that Ambipom rarely uses its hands.\n\nIllus. kamayoo\n◇\n\nIt shows its cute side by chasing its own tail\nuntil it gets dizzy.\n\nIllus. Shin Nagasawa\n◇ ◇\n\nIt is highly popular among female Trainers for its sublime fur. It does not keep a nest.\n\nIllus. Midori Harada\n◇\n\nIt changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.\n\nIllus. Nooki Saito\n◇\n\nIt's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.\n\nIllus. Midori Harada\n◇\n\nThese bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.\n\nIllus. Naoyo Kimura\n◇ ◇\n\nThis Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.\n\nIllus. Shinya Komatsu\n◇\n\nIt strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.\n\nweakness\n\nIllus. PLANETA CG Works\n♡ ♡ ♡ ♡\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nIllus. HYOGONOSUKE\n◇ ◇\n\nLeft alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.\n\nIllus. KEUCHIRO ITO\n◇ ◇\n\nIt was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.\n\nIlus. Kazumasa Yasukuni\n◇ ◇ ◇\n\nThe final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.\n\nIlios. Studio Bara Inc.\n◇ ◇\nYou may play any number of Item cards during your\nturn.\n\nIlios. Toyste Beach\n◇\nYou may play any number of Item cards during your\nturn.\n\nIlios. 5ban Graphics\n◇\nYou may play any number of Item cards during your\nturn.\n\nIlus. Studio Bara Inc.\n◇ ◇\nYou use Pokémon Tools by attaching them to your\nPokémon. You may attach only 1 Pokémon Tool to\neach Pokémon, and it stays attached.\n\nIUs. Toyste Beach\n✂️ ✂️\nYou use Pokémon Tools by attaching them to your\nPokémon. You may attach only 1 Pokémon Tool to\neach Pokémon, and it stays attached.\n\nIlios. GIDORA\n◇ ◇\nYou may play only 1 Supporter card during your turn.",
+  "result": {
+    "logId": "1289d31d-137a-404e-99c3-e5e7a87acb0d",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "llos. UKUMO viti",
+                "block_bbox": [
+                  397,
+                  134,
+                  1363,
+                  562
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    134.0
+                  ],
+                  [
+                    1363.0,
+                    134.0
+                  ],
+                  [
+                    1363.0,
+                    562.0
+                  ],
+                  [
+                    397.0,
+                    562.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.",
+                "block_bbox": [
+                  2490,
+                  177,
+                  5514,
+                  777
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2490.0,
+                    177.0
+                  ],
+                  [
+                    5514.0,
+                    177.0
+                  ],
+                  [
+                    5514.0,
+                    777.0
+                  ],
+                  [
+                    2490.0,
+                    777.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4417524039745331,
+                  "coordinate": [
+                    397,
+                    134,
+                    1363,
+                    562
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      134.0
+                    ],
+                    [
+                      1363.0,
+                      134.0
+                    ],
+                    [
+                      1363.0,
+                      562.0
+                    ],
+                    [
+                      397.0,
+                      562.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5978599190711975,
+                  "coordinate": [
+                    2490,
+                    177,
+                    5514,
+                    777
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2490.0,
+                      177.0
+                    ],
+                    [
+                      5514.0,
+                      177.0
+                    ],
+                    [
+                      5514.0,
+                      777.0
+                    ],
+                    [
+                      2490.0,
+                      777.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "llos. UKUMO viti\n\nNoibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "llus. ooki",
+                "block_bbox": [
+                  398,
+                  138,
+                  1107,
+                  565
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    398.0,
+                    138.0
+                  ],
+                  [
+                    1107.0,
+                    138.0
+                  ],
+                  [
+                    1107.0,
+                    565.0
+                  ],
+                  [
+                    398.0,
+                    565.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "In the dark, even Hydroigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+                "block_bbox": [
+                  2438,
+                  180,
+                  5502,
+                  748
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2438.0,
+                    180.0
+                  ],
+                  [
+                    5502.0,
+                    180.0
+                  ],
+                  [
+                    5502.0,
+                    748.0
+                  ],
+                  [
+                    2438.0,
+                    748.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.449288934469223,
+                  "coordinate": [
+                    398,
+                    138,
+                    1107,
+                    565
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      398.0,
+                      138.0
+                    ],
+                    [
+                      1107.0,
+                      138.0
+                    ],
+                    [
+                      1107.0,
+                      565.0
+                    ],
+                    [
+                      398.0,
+                      565.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.571119487285614,
+                  "coordinate": [
+                    2438,
+                    180,
+                    5502,
+                    748
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2438.0,
+                      180.0
+                    ],
+                    [
+                      5502.0,
+                      180.0
+                    ],
+                    [
+                      5502.0,
+                      748.0
+                    ],
+                    [
+                      2438.0,
+                      748.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "llus. ooki\n\nIn the dark, even Hydroigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Anesaki Dynamic\n♦ ♦",
+                "block_bbox": [
+                  392,
+                  135,
+                  1646,
+                  569
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    391.99993896484375,
+                    146.00001525878906
+                  ],
+                  [
+                    1646.564453125,
+                    151.00628662109375
+                  ],
+                  [
+                    1644.91845703125,
+                    563.462646484375
+                  ],
+                  [
+                    390.35406494140625,
+                    558.4563598632812
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Eating sulfur in its volcanic habitat is what causes\nexplosive compounds to develop in its shell.\nits droppings are also dangerously explosive.",
+                "block_bbox": [
+                  2580,
+                  172,
+                  5500,
+                  775
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2580.00048828125,
+                    171.99998474121094
+                  ],
+                  [
+                    5506.69677734375,
+                    214.1107177734375
+                  ],
+                  [
+                    5498.2294921875,
+                    802.59326171875
+                  ],
+                  [
+                    2571.533203125,
+                    760.4825439453125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5688998103141785,
+                  "coordinate": [
+                    392,
+                    135,
+                    1646,
+                    569
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      391.99993896484375,
+                      146.00001525878906
+                    ],
+                    [
+                      1646.564453125,
+                      151.00628662109375
+                    ],
+                    [
+                      1644.91845703125,
+                      563.462646484375
+                    ],
+                    [
+                      390.35406494140625,
+                      558.4563598632812
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6401457190513611,
+                  "coordinate": [
+                    2580,
+                    172,
+                    5500,
+                    775
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2580.00048828125,
+                      171.99998474121094
+                    ],
+                    [
+                      5506.69677734375,
+                      214.1107177734375
+                    ],
+                    [
+                      5498.2294921875,
+                      802.59326171875
+                    ],
+                    [
+                      2571.533203125,
+                      760.4825439453125
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Anesaki Dynamic\n\n♦ ♦\n\nEating sulfur in its volcanic habitat is what causes\n\nexplosive compounds to develop in its shell.\n\nits droppings are also dangerously explosive.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. match",
+                "block_bbox": [
+                  394,
+                  135,
+                  1025,
+                  562
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    394.0,
+                    135.0
+                  ],
+                  [
+                    1025.0,
+                    135.0
+                  ],
+                  [
+                    1025.0,
+                    562.0
+                  ],
+                  [
+                    394.0,
+                    562.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
+                "block_bbox": [
+                  2527,
+                  180,
+                  5515,
+                  773
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2527.0,
+                    180.0
+                  ],
+                  [
+                    5515.0,
+                    180.0
+                  ],
+                  [
+                    5515.0,
+                    773.0
+                  ],
+                  [
+                    2527.0,
+                    773.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.32145053148269653,
+                  "coordinate": [
+                    394,
+                    135,
+                    1025,
+                    562
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      394.0,
+                      135.0
+                    ],
+                    [
+                      1025.0,
+                      135.0
+                    ],
+                    [
+                      1025.0,
+                      562.0
+                    ],
+                    [
+                      394.0,
+                      562.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5486986637115479,
+                  "coordinate": [
+                    2527,
+                    180,
+                    5515,
+                    773
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2527.0,
+                      180.0
+                    ],
+                    [
+                      5515.0,
+                      180.0
+                    ],
+                    [
+                      5515.0,
+                      773.0
+                    ],
+                    [
+                      2527.0,
+                      773.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. match\n\nDrampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Miki Tanaka\n♦",
+                "block_bbox": [
+                  397,
+                  133,
+                  1379,
+                  558
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    133.0
+                  ],
+                  [
+                    1379.0,
+                    133.0
+                  ],
+                  [
+                    1379.0,
+                    558.0
+                  ],
+                  [
+                    397.0,
+                    558.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Appin lives inside an apple. When an Appin is separated from its apple, its body loses moisture and the Pokémon grows weak.",
+                "block_bbox": [
+                  2547,
+                  185,
+                  5504,
+                  770
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2547.21337890625,
+                    184.49493408203125
+                  ],
+                  [
+                    5504.87744140625,
+                    194.6031494140625
+                  ],
+                  [
+                    5503.0,
+                    743.9999389648438
+                  ],
+                  [
+                    2545.3359375,
+                    733.8917236328125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.47448456287384033,
+                  "coordinate": [
+                    397,
+                    133,
+                    1379,
+                    558
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      133.0
+                    ],
+                    [
+                      1379.0,
+                      133.0
+                    ],
+                    [
+                      1379.0,
+                      558.0
+                    ],
+                    [
+                      397.0,
+                      558.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7104724645614624,
+                  "coordinate": [
+                    2547,
+                    185,
+                    5504,
+                    770
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2547.21337890625,
+                      184.49493408203125
+                    ],
+                    [
+                      5504.87744140625,
+                      194.6031494140625
+                    ],
+                    [
+                      5503.0,
+                      743.9999389648438
+                    ],
+                    [
+                      2545.3359375,
+                      733.8917236328125
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Miki Tanaka\n\n♦\n\nAppin lives inside an apple. When an Appin is separated from its apple, its body loses moisture and the Pokémon grows weak.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Tomomi Ozaki\n♦ ♦",
+                "block_bbox": [
+                  391,
+                  132,
+                  1497,
+                  573
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    391.0,
+                    132.0
+                  ],
+                  [
+                    1497.0,
+                    132.0
+                  ],
+                  [
+                    1497.0,
+                    573.0
+                  ],
+                  [
+                    391.0,
+                    573.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+                "block_bbox": [
+                  2494,
+                  176,
+                  5505,
+                  765
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2494.0,
+                    176.0
+                  ],
+                  [
+                    5505.0,
+                    176.0
+                  ],
+                  [
+                    5505.0,
+                    765.0
+                  ],
+                  [
+                    2494.0,
+                    765.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5825504064559937,
+                  "coordinate": [
+                    391,
+                    132,
+                    1497,
+                    573
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      391.0,
+                      132.0
+                    ],
+                    [
+                      1497.0,
+                      132.0
+                    ],
+                    [
+                      1497.0,
+                      573.0
+                    ],
+                    [
+                      391.0,
+                      573.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7381317019462585,
+                  "coordinate": [
+                    2494,
+                    176,
+                    5505,
+                    765
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2494.0,
+                      176.0
+                    ],
+                    [
+                      5505.0,
+                      176.0
+                    ],
+                    [
+                      5505.0,
+                      765.0
+                    ],
+                    [
+                      2494.0,
+                      765.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Tomomi Ozaki\n\n♦ ♦\n\nThe head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Kuroimori\n♦ ♦ ♦",
+                "block_bbox": [
+                  398,
+                  140,
+                  1234,
+                  559
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    398.0,
+                    140.0
+                  ],
+                  [
+                    1234.0,
+                    140.0
+                  ],
+                  [
+                    1234.0,
+                    559.0
+                  ],
+                  [
+                    398.0,
+                    559.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "These capricious syrpents have banded together.\nOn the rare occasion that their moods align,\ntheir true power is unleashed.",
+                "block_bbox": [
+                  2574,
+                  184,
+                  5490,
+                  759
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2574.0,
+                    184.0
+                  ],
+                  [
+                    5490.0,
+                    184.0
+                  ],
+                  [
+                    5490.0,
+                    759.0
+                  ],
+                  [
+                    2574.0,
+                    759.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5354886651039124,
+                  "coordinate": [
+                    398,
+                    140,
+                    1234,
+                    559
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      398.0,
+                      140.0
+                    ],
+                    [
+                      1234.0,
+                      140.0
+                    ],
+                    [
+                      1234.0,
+                      559.0
+                    ],
+                    [
+                      398.0,
+                      559.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.662368893623352,
+                  "coordinate": [
+                    2574,
+                    184,
+                    5490,
+                    759
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2574.0,
+                      184.0
+                    ],
+                    [
+                      5490.0,
+                      184.0
+                    ],
+                    [
+                      5490.0,
+                      759.0
+                    ],
+                    [
+                      2574.0,
+                      759.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Kuroimori\n\n♦ ♦ ♦\n\nThese capricious syrpents have banded together.\n\nOn the rare occasion that their moods align,\n\ntheir true power is unleashed.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Iovi Suzuki",
+                "block_bbox": [
+                  388,
+                  136,
+                  1292,
+                  567
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    388.0,
+                    136.0
+                  ],
+                  [
+                    1292.0,
+                    136.0
+                  ],
+                  [
+                    1292.0,
+                    567.0
+                  ],
+                  [
+                    388.0,
+                    567.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.",
+                "block_bbox": [
+                  2648,
+                  186,
+                  5521,
+                  760
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2648.0,
+                    186.0
+                  ],
+                  [
+                    5521.0,
+                    186.0
+                  ],
+                  [
+                    5521.0,
+                    760.0
+                  ],
+                  [
+                    2648.0,
+                    760.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.466044545173645,
+                  "coordinate": [
+                    388,
+                    136,
+                    1292,
+                    567
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      388.0,
+                      136.0
+                    ],
+                    [
+                      1292.0,
+                      136.0
+                    ],
+                    [
+                      1292.0,
+                      567.0
+                    ],
+                    [
+                      388.0,
+                      567.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6335528492927551,
+                  "coordinate": [
+                    2648,
+                    186,
+                    5521,
+                    760
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2648.0,
+                      186.0
+                    ],
+                    [
+                      5521.0,
+                      186.0
+                    ],
+                    [
+                      5521.0,
+                      760.0
+                    ],
+                    [
+                      2648.0,
+                      760.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Iovi Suzuki\n\nIt can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1647,
+                  0,
+                  2410,
+                  117
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1647.0,
+                    -1.0
+                  ],
+                  [
+                    2410.0,
+                    -1.0
+                  ],
+                  [
+                    2410.0,
+                    117.0
+                  ],
+                  [
+                    1647.0,
+                    117.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Ilus. Yukiko Baba\n◇",
+                "block_bbox": [
+                  396,
+                  139,
+                  1399,
+                  551
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    396.0,
+                    139.0
+                  ],
+                  [
+                    1399.0,
+                    139.0
+                  ],
+                  [
+                    1399.0,
+                    551.0
+                  ],
+                  [
+                    396.0,
+                    551.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "This Pokémon is common but hazardous. les sharp incisors can easily cut right through hard wood.",
+                "block_bbox": [
+                  2819,
+                  186,
+                  5487,
+                  740
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    2819.0,
+                    186.0
+                  ],
+                  [
+                    5487.0,
+                    186.0
+                  ],
+                  [
+                    5487.0,
+                    740.0
+                  ],
+                  [
+                    2819.0,
+                    740.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.319762259721756,
+                  "coordinate": [
+                    1647,
+                    0,
+                    2410,
+                    117
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1647.0,
+                      -1.0
+                    ],
+                    [
+                      2410.0,
+                      -1.0
+                    ],
+                    [
+                      2410.0,
+                      117.0
+                    ],
+                    [
+                      1647.0,
+                      117.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3636014461517334,
+                  "coordinate": [
+                    390,
+                    140,
+                    1398,
+                    301
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      390.1993408203125,
+                      145.85699462890625
+                    ],
+                    [
+                      1397.715576171875,
+                      150.85955810546875
+                    ],
+                    [
+                      1396.9998779296875,
+                      295.0
+                    ],
+                    [
+                      389.483642578125,
+                      289.9974365234375
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.35949113965034485,
+                  "coordinate": [
+                    396,
+                    139,
+                    1399,
+                    551
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      396.0,
+                      139.0
+                    ],
+                    [
+                      1399.0,
+                      139.0
+                    ],
+                    [
+                      1399.0,
+                      551.0
+                    ],
+                    [
+                      396.0,
+                      551.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4676347076892853,
+                  "coordinate": [
+                    2819,
+                    186,
+                    5487,
+                    740
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2819.0,
+                      186.0
+                    ],
+                    [
+                      5487.0,
+                      186.0
+                    ],
+                    [
+                      5487.0,
+                      740.0
+                    ],
+                    [
+                      2819.0,
+                      740.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.30045172572135925,
+                  "coordinate": [
+                    2946,
+                    385,
+                    5477,
+                    561
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      4121.8896484375,
+                      885.3175659179688
+                    ],
+                    [
+                      2976.0,
+                      550.0
+                    ],
+                    [
+                      3005.0,
+                      555.0
+                    ],
+                    [
+                      5447.0,
+                      550.0
+                    ],
+                    [
+                      5447.0,
+                      391.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3091835677623749,
+                  "coordinate": [
+                    4740,
+                    565,
+                    5459,
+                    728
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      4740.0,
+                      565.0
+                    ],
+                    [
+                      5459.0,
+                      565.0
+                    ],
+                    [
+                      5459.0,
+                      728.0
+                    ],
+                    [
+                      4740.0,
+                      728.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1647_0_2410_117.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIlus. Yukiko Baba\n\n◇\n\nThis Pokémon is common but hazardous. les sharp incisors can easily cut right through hard wood.",
+            "images": {
+              "imgs/img_in_image_box_1647_0_2410_117.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//75c379f8-9694-4c76-9f9b-e854f9eda602/markdown_0/imgs/img_in_image_box_1647_0_2410_117.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A01Z%2F-1%2F%2Fd88c936fbd262f23898b12ecc2836212d008aadde80c8d0d093696f9a55a3c66"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. sowsow\n◇ ◇ ◇",
+                "block_bbox": [
+                  397,
+                  145,
+                  1142,
+                  558
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    145.0
+                  ],
+                  [
+                    1142.0,
+                    145.0
+                  ],
+                  [
+                    1142.0,
+                    558.0
+                  ],
+                  [
+                    397.0,
+                    558.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+                "block_bbox": [
+                  2582,
+                  186,
+                  5476,
+                  761
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2576.076171875,
+                    188.79916381835938
+                  ],
+                  [
+                    5469.07568359375,
+                    158.79898071289062
+                  ],
+                  [
+                    5474.9990234375,
+                    729.9998779296875
+                  ],
+                  [
+                    2581.99951171875,
+                    760.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5420721173286438,
+                  "coordinate": [
+                    397,
+                    145,
+                    1142,
+                    558
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      145.0
+                    ],
+                    [
+                      1142.0,
+                      145.0
+                    ],
+                    [
+                      1142.0,
+                      558.0
+                    ],
+                    [
+                      397.0,
+                      558.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8176915049552917,
+                  "coordinate": [
+                    2582,
+                    186,
+                    5476,
+                    761
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2576.076171875,
+                      188.79916381835938
+                    ],
+                    [
+                      5469.07568359375,
+                      158.79898071289062
+                    ],
+                    [
+                      5474.9990234375,
+                      729.9998779296875
+                    ],
+                    [
+                      2581.99951171875,
+                      760.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. sowsow\n\n◇ ◇ ◇\n\nIts whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1650,
+                  0,
+                  2403,
+                  120
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1650.0,
+                    -1.0
+                  ],
+                  [
+                    2403.0,
+                    -1.0
+                  ],
+                  [
+                    2403.0,
+                    120.0
+                  ],
+                  [
+                    1650.0,
+                    120.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. Sumiyoshi Kizuki\n◇",
+                "block_bbox": [
+                  397,
+                  138,
+                  1611,
+                  550
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    138.0
+                  ],
+                  [
+                    1611.0,
+                    138.0
+                  ],
+                  [
+                    1611.0,
+                    550.0
+                  ],
+                  [
+                    397.0,
+                    550.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
+                "block_bbox": [
+                  2578,
+                  287,
+                  5476,
+                  654
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    2578.0,
+                    287.0
+                  ],
+                  [
+                    5476.0,
+                    287.0
+                  ],
+                  [
+                    5476.0,
+                    654.0
+                  ],
+                  [
+                    2578.0,
+                    654.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.3211410343647003,
+                  "coordinate": [
+                    1650,
+                    0,
+                    2403,
+                    120
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1650.0,
+                      -1.0
+                    ],
+                    [
+                      2403.0,
+                      -1.0
+                    ],
+                    [
+                      2403.0,
+                      120.0
+                    ],
+                    [
+                      1650.0,
+                      120.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4007500410079956,
+                  "coordinate": [
+                    388,
+                    139,
+                    1623,
+                    307
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      388.0,
+                      139.0
+                    ],
+                    [
+                      1623.0,
+                      139.0
+                    ],
+                    [
+                      1623.0,
+                      307.0
+                    ],
+                    [
+                      388.0,
+                      307.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3657262325286865,
+                  "coordinate": [
+                    397,
+                    138,
+                    1611,
+                    550
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      138.0
+                    ],
+                    [
+                      1611.0,
+                      138.0
+                    ],
+                    [
+                      1611.0,
+                      550.0
+                    ],
+                    [
+                      397.0,
+                      550.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7399691343307495,
+                  "coordinate": [
+                    2578,
+                    287,
+                    5476,
+                    654
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2578.0,
+                      287.0
+                    ],
+                    [
+                      5476.0,
+                      287.0
+                    ],
+                    [
+                      5476.0,
+                      654.0
+                    ],
+                    [
+                      2578.0,
+                      654.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1650_0_2403_120.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIllus. Sumiyoshi Kizuki\n\n◇\n\nIts genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
+            "images": {
+              "imgs/img_in_image_box_1650_0_2403_120.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//c5bda7b3-74df-4669-8e08-143ad84aeaa4/markdown_0/imgs/img_in_image_box_1650_0_2403_120.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A50%3A56Z%2F-1%2F%2F35b2902868c5b4d9e66f44ce2fe5650a368677a06573b1c293e7c09879389852"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Sekio\n◇",
+                "block_bbox": [
+                  391,
+                  139,
+                  1013,
+                  554
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    391.0,
+                    139.0
+                  ],
+                  [
+                    1013.0,
+                    139.0
+                  ],
+                  [
+                    1013.0,
+                    554.0
+                  ],
+                  [
+                    391.0,
+                    554.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+                "block_bbox": [
+                  2687,
+                  185,
+                  5498,
+                  771
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2687.0,
+                    200.99998474121094
+                  ],
+                  [
+                    5497.94970703125,
+                    206.001708984375
+                  ],
+                  [
+                    5496.9912109375,
+                    744.7882080078125
+                  ],
+                  [
+                    2686.04150390625,
+                    739.7864990234375
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.39594289660453796,
+                  "coordinate": [
+                    391,
+                    139,
+                    1013,
+                    554
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      391.0,
+                      139.0
+                    ],
+                    [
+                      1013.0,
+                      139.0
+                    ],
+                    [
+                      1013.0,
+                      554.0
+                    ],
+                    [
+                      391.0,
+                      554.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7328092455863953,
+                  "coordinate": [
+                    2687,
+                    185,
+                    5498,
+                    771
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2687.0,
+                      200.99998474121094
+                    ],
+                    [
+                      5497.94970703125,
+                      206.001708984375
+                    ],
+                    [
+                      5496.9912109375,
+                      744.7882080078125
+                    ],
+                    [
+                      2686.04150390625,
+                      739.7864990234375
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Sekio\n\n◇\n\nIts tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1649,
+                  0,
+                  2406,
+                  116
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1649.0,
+                    -1.0
+                  ],
+                  [
+                    2406.0,
+                    -1.0
+                  ],
+                  [
+                    2406.0,
+                    116.0
+                  ],
+                  [
+                    1649.0,
+                    116.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Ilus. Atsuko Nishida\n◇\nSplit into two, the tails are so adept at handling and\ndoing things that Ambipom rarely uses its hands.",
+                "block_bbox": [
+                  396,
+                  140,
+                  1519,
+                  553
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    396.0,
+                    140.0
+                  ],
+                  [
+                    1519.0,
+                    140.0
+                  ],
+                  [
+                    1519.0,
+                    553.0
+                  ],
+                  [
+                    396.0,
+                    553.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2388,
+                  288,
+                  5483,
+                  663
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2388.0,
+                    294.0
+                  ],
+                  [
+                    5482.0,
+                    294.0
+                  ],
+                  [
+                    5482.0,
+                    647.0
+                  ],
+                  [
+                    2388.0,
+                    647.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.34971556067466736,
+                  "coordinate": [
+                    1649,
+                    0,
+                    2406,
+                    116
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1649.0,
+                      -1.0
+                    ],
+                    [
+                      2406.0,
+                      -1.0
+                    ],
+                    [
+                      2406.0,
+                      116.0
+                    ],
+                    [
+                      1649.0,
+                      116.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3934537172317505,
+                  "coordinate": [
+                    390,
+                    140,
+                    1528,
+                    299
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      390.06658935546875,
+                      145.8683624267578
+                    ],
+                    [
+                      1527.64697265625,
+                      150.87091064453125
+                    ],
+                    [
+                      1527.0,
+                      298.0
+                    ],
+                    [
+                      389.41961669921875,
+                      292.9974365234375
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.38773882389068604,
+                  "coordinate": [
+                    396,
+                    140,
+                    1519,
+                    553
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      396.0,
+                      140.0
+                    ],
+                    [
+                      1519.0,
+                      140.0
+                    ],
+                    [
+                      1519.0,
+                      553.0
+                    ],
+                    [
+                      396.0,
+                      553.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7462931275367737,
+                  "coordinate": [
+                    2388,
+                    288,
+                    5483,
+                    663
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2388.0,
+                      294.0
+                    ],
+                    [
+                      5482.0,
+                      294.0
+                    ],
+                    [
+                      5482.0,
+                      647.0
+                    ],
+                    [
+                      2388.0,
+                      647.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1649_0_2406_116.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIlus. Atsuko Nishida\n\n◇\n\nSplit into two, the tails are so adept at handling and\n\ndoing things that Ambipom rarely uses its hands.\n\n",
+            "images": {
+              "imgs/img_in_image_box_1649_0_2406_116.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//476920e7-a754-436e-a212-b56dadababb4/markdown_0/imgs/img_in_image_box_1649_0_2406_116.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A50%3A57Z%2F-1%2F%2F8581f61b30b18b2cef96711091bfcb3a1ea6bce507391ea540afe97c48936663"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1650,
+                  0,
+                  2406,
+                  113
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1650.0,
+                    -1.0
+                  ],
+                  [
+                    2406.0,
+                    -1.0
+                  ],
+                  [
+                    2406.0,
+                    113.0
+                  ],
+                  [
+                    1650.0,
+                    113.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. kamayoo\n◇",
+                "block_bbox": [
+                  396,
+                  142,
+                  1212,
+                  552
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    396.0,
+                    142.0
+                  ],
+                  [
+                    1212.0,
+                    142.0
+                  ],
+                  [
+                    1212.0,
+                    552.0
+                  ],
+                  [
+                    396.0,
+                    552.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It shows its cute side by chasing its own tail\nuntil it gets dizzy.",
+                "block_bbox": [
+                  2846,
+                  283,
+                  5482,
+                  661
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    2846.0,
+                    283.0
+                  ],
+                  [
+                    5482.0,
+                    283.0
+                  ],
+                  [
+                    5482.0,
+                    661.0
+                  ],
+                  [
+                    2846.0,
+                    661.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.3331834077835083,
+                  "coordinate": [
+                    1650,
+                    0,
+                    2406,
+                    113
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1650.0,
+                      -1.0
+                    ],
+                    [
+                      2406.0,
+                      -1.0
+                    ],
+                    [
+                      2406.0,
+                      113.0
+                    ],
+                    [
+                      1650.0,
+                      113.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4022151827812195,
+                  "coordinate": [
+                    394,
+                    143,
+                    1218,
+                    312
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      394.0,
+                      143.0
+                    ],
+                    [
+                      1218.0,
+                      143.0
+                    ],
+                    [
+                      1218.0,
+                      312.0
+                    ],
+                    [
+                      394.0,
+                      312.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3256978690624237,
+                  "coordinate": [
+                    396,
+                    142,
+                    1212,
+                    552
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      396.0,
+                      142.0
+                    ],
+                    [
+                      1212.0,
+                      142.0
+                    ],
+                    [
+                      1212.0,
+                      552.0
+                    ],
+                    [
+                      396.0,
+                      552.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3764985501766205,
+                  "coordinate": [
+                    2837,
+                    287,
+                    5471,
+                    472
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2837.0,
+                      287.0
+                    ],
+                    [
+                      5470.330078125,
+                      292.0006103515625
+                    ],
+                    [
+                      5470.0,
+                      466.0
+                    ],
+                    [
+                      2836.669921875,
+                      460.9993896484375
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4570062756538391,
+                  "coordinate": [
+                    2846,
+                    283,
+                    5482,
+                    661
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      2846.0,
+                      283.0
+                    ],
+                    [
+                      5482.0,
+                      283.0
+                    ],
+                    [
+                      5482.0,
+                      661.0
+                    ],
+                    [
+                      2846.0,
+                      661.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.40323564410209656,
+                  "coordinate": [
+                    4390,
+                    482,
+                    5466,
+                    657
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      4390.0,
+                      482.0
+                    ],
+                    [
+                      5466.0,
+                      482.0
+                    ],
+                    [
+                      5466.0,
+                      657.0
+                    ],
+                    [
+                      4390.0,
+                      657.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1650_0_2406_113.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIllus. kamayoo\n\n◇\n\nIt shows its cute side by chasing its own tail\n\nuntil it gets dizzy.",
+            "images": {
+              "imgs/img_in_image_box_1650_0_2406_113.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//ee5e2ba7-f91c-43a7-82da-670bc5323d81/markdown_0/imgs/img_in_image_box_1650_0_2406_113.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A50%3A58Z%2F-1%2F%2Fb4c6d7cd44a066c6f60007b893768bc49dc323a8663c0cca0ac32882163e422a"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Shin Nagasawa\n◇ ◇",
+                "block_bbox": [
+                  391,
+                  137,
+                  1568,
+                  561
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    391.0,
+                    137.0
+                  ],
+                  [
+                    1568.0,
+                    137.0
+                  ],
+                  [
+                    1568.0,
+                    561.0
+                  ],
+                  [
+                    391.0,
+                    561.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+                "block_bbox": [
+                  2558,
+                  283,
+                  5480,
+                  656
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2558.00048828125,
+                    289.0000305175781
+                  ],
+                  [
+                    5480.7255859375,
+                    304.0089111328125
+                  ],
+                  [
+                    5478.97607421875,
+                    644.6968994140625
+                  ],
+                  [
+                    2556.2509765625,
+                    629.6880493164062
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4752717912197113,
+                  "coordinate": [
+                    391,
+                    137,
+                    1568,
+                    561
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      391.0,
+                      137.0
+                    ],
+                    [
+                      1568.0,
+                      137.0
+                    ],
+                    [
+                      1568.0,
+                      561.0
+                    ],
+                    [
+                      391.0,
+                      561.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6758483052253723,
+                  "coordinate": [
+                    2558,
+                    283,
+                    5480,
+                    656
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2558.00048828125,
+                      289.0000305175781
+                    ],
+                    [
+                      5480.7255859375,
+                      304.0089111328125
+                    ],
+                    [
+                      5478.97607421875,
+                      644.6968994140625
+                    ],
+                    [
+                      2556.2509765625,
+                      629.6880493164062
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Shin Nagasawa\n\n◇ ◇\n\nIt is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Midori Harada\n◇",
+                "block_bbox": [
+                  396,
+                  138,
+                  1503,
+                  553
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    396.0,
+                    138.0
+                  ],
+                  [
+                    1503.0,
+                    138.0
+                  ],
+                  [
+                    1503.0,
+                    553.0
+                  ],
+                  [
+                    396.0,
+                    553.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+                "block_bbox": [
+                  2539,
+                  183,
+                  5490,
+                  764
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2539.0,
+                    183.0
+                  ],
+                  [
+                    5490.0,
+                    183.0
+                  ],
+                  [
+                    5490.0,
+                    764.0
+                  ],
+                  [
+                    2539.0,
+                    764.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.33336034417152405,
+                  "coordinate": [
+                    387,
+                    140,
+                    1508,
+                    302
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      387.0,
+                      151.0
+                    ],
+                    [
+                      1507.0,
+                      151.0
+                    ],
+                    [
+                      1507.0,
+                      301.0
+                    ],
+                    [
+                      387.0,
+                      301.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.40075865387916565,
+                  "coordinate": [
+                    396,
+                    138,
+                    1503,
+                    553
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      396.0,
+                      138.0
+                    ],
+                    [
+                      1503.0,
+                      138.0
+                    ],
+                    [
+                      1503.0,
+                      553.0
+                    ],
+                    [
+                      396.0,
+                      553.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6639028787612915,
+                  "coordinate": [
+                    2539,
+                    183,
+                    5490,
+                    764
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2539.0,
+                      183.0
+                    ],
+                    [
+                      5490.0,
+                      183.0
+                    ],
+                    [
+                      5490.0,
+                      764.0
+                    ],
+                    [
+                      2539.0,
+                      764.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Midori Harada\n\n◇\n\nIt changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Nooki Saito\n◇",
+                "block_bbox": [
+                  396,
+                  138,
+                  1344,
+                  554
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    396.0,
+                    138.0
+                  ],
+                  [
+                    1344.0,
+                    138.0
+                  ],
+                  [
+                    1344.0,
+                    554.0
+                  ],
+                  [
+                    396.0,
+                    554.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+                "block_bbox": [
+                  2913,
+                  184,
+                  5494,
+                  755
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2913.0,
+                    184.00003051757812
+                  ],
+                  [
+                    5497.38671875,
+                    205.0357666015625
+                  ],
+                  [
+                    5493.0,
+                    744.0
+                  ],
+                  [
+                    2908.61328125,
+                    722.9642333984375
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.30281728506088257,
+                  "coordinate": [
+                    392,
+                    140,
+                    1347,
+                    300
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      392.1055908203125,
+                      144.8485870361328
+                    ],
+                    [
+                      1346.755615234375,
+                      149.85198974609375
+                    ],
+                    [
+                      1346.0001220703125,
+                      294.00006103515625
+                    ],
+                    [
+                      391.35009765625,
+                      288.99664306640625
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3847038745880127,
+                  "coordinate": [
+                    396,
+                    138,
+                    1344,
+                    554
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      396.0,
+                      138.0
+                    ],
+                    [
+                      1344.0,
+                      138.0
+                    ],
+                    [
+                      1344.0,
+                      554.0
+                    ],
+                    [
+                      396.0,
+                      554.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6175523996353149,
+                  "coordinate": [
+                    2913,
+                    184,
+                    5494,
+                    755
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2913.0,
+                      184.00003051757812
+                    ],
+                    [
+                      5497.38671875,
+                      205.0357666015625
+                    ],
+                    [
+                      5493.0,
+                      744.0
+                    ],
+                    [
+                      2908.61328125,
+                      722.9642333984375
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Nooki Saito\n\n◇\n\nIt's forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Midori Harada\n◇",
+                "block_bbox": [
+                  398,
+                  138,
+                  1508,
+                  554
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    398.0,
+                    138.0
+                  ],
+                  [
+                    1508.0,
+                    138.0
+                  ],
+                  [
+                    1508.0,
+                    554.0
+                  ],
+                  [
+                    398.0,
+                    554.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+                "block_bbox": [
+                  2565,
+                  182,
+                  5497,
+                  759
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2565.364990234375,
+                    181.14837646484375
+                  ],
+                  [
+                    5499.1640625,
+                    198.18682861328125
+                  ],
+                  [
+                    5496.0,
+                    742.9999389648438
+                  ],
+                  [
+                    2562.200927734375,
+                    725.9614868164062
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3499870300292969,
+                  "coordinate": [
+                    389,
+                    140,
+                    1509,
+                    302
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      389.19232177734375,
+                      139.47445678710938
+                    ],
+                    [
+                      1509.35400390625,
+                      149.48483276367188
+                    ],
+                    [
+                      1508.0,
+                      300.9999694824219
+                    ],
+                    [
+                      387.83831787109375,
+                      290.9895935058594
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3973527252674103,
+                  "coordinate": [
+                    398,
+                    138,
+                    1508,
+                    554
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      398.0,
+                      138.0
+                    ],
+                    [
+                      1508.0,
+                      138.0
+                    ],
+                    [
+                      1508.0,
+                      554.0
+                    ],
+                    [
+                      398.0,
+                      554.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6333372592926025,
+                  "coordinate": [
+                    2565,
+                    182,
+                    5497,
+                    759
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2565.364990234375,
+                      181.14837646484375
+                    ],
+                    [
+                      5499.1640625,
+                      198.18682861328125
+                    ],
+                    [
+                      5496.0,
+                      742.9999389648438
+                    ],
+                    [
+                      2562.200927734375,
+                      725.9614868164062
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Midori Harada\n\n◇\n\nThese bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Naoyo Kimura\n◇ ◇",
+                "block_bbox": [
+                  393,
+                  141,
+                  1498,
+                  562
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    393.0,
+                    141.0
+                  ],
+                  [
+                    1498.0,
+                    141.0
+                  ],
+                  [
+                    1498.0,
+                    562.0
+                  ],
+                  [
+                    393.0,
+                    562.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+                "block_bbox": [
+                  2582,
+                  180,
+                  5483,
+                  760
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2582.0,
+                    186.00003051757812
+                  ],
+                  [
+                    5483.87353515625,
+                    196.1075439453125
+                  ],
+                  [
+                    5481.966796875,
+                    743.5888671875
+                  ],
+                  [
+                    2580.09326171875,
+                    733.4813842773438
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5441930294036865,
+                  "coordinate": [
+                    393,
+                    141,
+                    1498,
+                    562
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      393.0,
+                      141.0
+                    ],
+                    [
+                      1498.0,
+                      141.0
+                    ],
+                    [
+                      1498.0,
+                      562.0
+                    ],
+                    [
+                      393.0,
+                      562.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6534057855606079,
+                  "coordinate": [
+                    2582,
+                    180,
+                    5483,
+                    760
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2582.0,
+                      186.00003051757812
+                    ],
+                    [
+                      5483.87353515625,
+                      196.1075439453125
+                    ],
+                    [
+                      5481.966796875,
+                      743.5888671875
+                    ],
+                    [
+                      2580.09326171875,
+                      733.4813842773438
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Naoyo Kimura\n\n◇ ◇\n\nThis Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Shinya Komatsu\n◇",
+                "block_bbox": [
+                  394,
+                  136,
+                  1571,
+                  555
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    394.0,
+                    136.0
+                  ],
+                  [
+                    1571.0,
+                    136.0
+                  ],
+                  [
+                    1571.0,
+                    555.0
+                  ],
+                  [
+                    394.0,
+                    555.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.",
+                "block_bbox": [
+                  2615,
+                  181,
+                  5488,
+                  761
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2615.0,
+                    181.0
+                  ],
+                  [
+                    5490.93359375,
+                    202.02880859375
+                  ],
+                  [
+                    5486.9306640625,
+                    749.4931640625
+                  ],
+                  [
+                    2610.9970703125,
+                    728.46435546875
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.38158294558525085,
+                  "coordinate": [
+                    386,
+                    139,
+                    1576,
+                    311
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      386.0,
+                      139.0
+                    ],
+                    [
+                      1576.0,
+                      139.0
+                    ],
+                    [
+                      1576.0,
+                      311.0
+                    ],
+                    [
+                      386.0,
+                      311.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.40452834963798523,
+                  "coordinate": [
+                    394,
+                    136,
+                    1571,
+                    555
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      394.0,
+                      136.0
+                    ],
+                    [
+                      1571.0,
+                      136.0
+                    ],
+                    [
+                      1571.0,
+                      555.0
+                    ],
+                    [
+                      394.0,
+                      555.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5580115914344788,
+                  "coordinate": [
+                    2615,
+                    181,
+                    5488,
+                    761
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2615.0,
+                      181.0
+                    ],
+                    [
+                      5490.93359375,
+                      202.02880859375
+                    ],
+                    [
+                      5486.9306640625,
+                      749.4931640625
+                    ],
+                    [
+                      2610.9970703125,
+                      728.46435546875
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.339608371257782,
+                  "coordinate": [
+                    4429,
+                    570,
+                    5462,
+                    747
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      4429.0,
+                      570.0
+                    ],
+                    [
+                      5462.0,
+                      570.0
+                    ],
+                    [
+                      5462.0,
+                      747.0
+                    ],
+                    [
+                      4429.0,
+                      747.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Shinya Komatsu\n\n◇\n\nIt strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "weakness",
+                "block_bbox": [
+                  689,
+                  0,
+                  2423,
+                  115
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    689.0,
+                    0.0
+                  ],
+                  [
+                    2422.0,
+                    0.0
+                  ],
+                  [
+                    2422.0,
+                    109.0
+                  ],
+                  [
+                    689.0,
+                    109.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. PLANETA CG Works\n♡ ♡ ♡ ♡\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  382,
+                  137,
+                  1751,
+                  562
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    382.0,
+                    137.0
+                  ],
+                  [
+                    1751.0,
+                    137.0
+                  ],
+                  [
+                    1751.0,
+                    562.0
+                  ],
+                  [
+                    382.0,
+                    562.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2058,
+                  270,
+                  4980,
+                  666
+                ],
+                "block_id": 2,
+                "block_order": 3,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2058.574462890625,
+                    275.6946716308594
+                  ],
+                  [
+                    4979.6787109375,
+                    285.89764404296875
+                  ],
+                  [
+                    4978.388671875,
+                    655.200439453125
+                  ],
+                  [
+                    2057.284423828125,
+                    644.9974975585938
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.31339123845100403,
+                  "coordinate": [
+                    689,
+                    0,
+                    2423,
+                    115
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      689.0,
+                      0.0
+                    ],
+                    [
+                      2422.0,
+                      0.0
+                    ],
+                    [
+                      2422.0,
+                      109.0
+                    ],
+                    [
+                      689.0,
+                      109.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5952372550964355,
+                  "coordinate": [
+                    382,
+                    137,
+                    1751,
+                    562
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      382.0,
+                      137.0
+                    ],
+                    [
+                      1751.0,
+                      137.0
+                    ],
+                    [
+                      1751.0,
+                      562.0
+                    ],
+                    [
+                      382.0,
+                      562.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6054028868675232,
+                  "coordinate": [
+                    2058,
+                    270,
+                    4980,
+                    666
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2058.574462890625,
+                      275.6946716308594
+                    ],
+                    [
+                      4979.6787109375,
+                      285.89764404296875
+                    ],
+                    [
+                      4978.388671875,
+                      655.200439453125
+                    ],
+                    [
+                      2057.284423828125,
+                      644.9974975585938
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "weakness\n\nIllus. PLANETA CG Works\n\n♡ ♡ ♡ ♡\n\nexrule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1649,
+                  0,
+                  2407,
+                  116
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1649.0,
+                    -1.0
+                  ],
+                  [
+                    2407.0,
+                    -1.0
+                  ],
+                  [
+                    2407.0,
+                    116.0
+                  ],
+                  [
+                    1649.0,
+                    116.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. HYOGONOSUKE\n◇ ◇",
+                "block_bbox": [
+                  394,
+                  143,
+                  1622,
+                  561
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    394.0,
+                    143.0
+                  ],
+                  [
+                    1622.0,
+                    143.0
+                  ],
+                  [
+                    1622.0,
+                    561.0
+                  ],
+                  [
+                    394.0,
+                    561.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+                "block_bbox": [
+                  2565,
+                  286,
+                  5479,
+                  657
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    2565.0,
+                    286.0
+                  ],
+                  [
+                    5479.0,
+                    286.0
+                  ],
+                  [
+                    5479.0,
+                    657.0
+                  ],
+                  [
+                    2565.0,
+                    657.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.30854302644729614,
+                  "coordinate": [
+                    1649,
+                    0,
+                    2407,
+                    116
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1649.0,
+                      -1.0
+                    ],
+                    [
+                      2407.0,
+                      -1.0
+                    ],
+                    [
+                      2407.0,
+                      116.0
+                    ],
+                    [
+                      1649.0,
+                      116.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5541091561317444,
+                  "coordinate": [
+                    394,
+                    143,
+                    1622,
+                    561
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      394.0,
+                      143.0
+                    ],
+                    [
+                      1622.0,
+                      143.0
+                    ],
+                    [
+                      1622.0,
+                      561.0
+                    ],
+                    [
+                      394.0,
+                      561.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.725921630859375,
+                  "coordinate": [
+                    2565,
+                    286,
+                    5479,
+                    657
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2565.0,
+                      286.0
+                    ],
+                    [
+                      5479.0,
+                      286.0
+                    ],
+                    [
+                      5479.0,
+                      657.0
+                    ],
+                    [
+                      2565.0,
+                      657.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1649_0_2407_116.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIllus. HYOGONOSUKE\n\n◇ ◇\n\nLeft alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+            "images": {
+              "imgs/img_in_image_box_1649_0_2407_116.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//80d7a7e9-434e-46d2-8d09-a0b9d7f7965d/markdown_0/imgs/img_in_image_box_1649_0_2407_116.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A50%3A54Z%2F-1%2F%2F5745ebb9b48c11c1cbd31561ca1df2929db8a388e5f28f54cf08860281fee82c"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. KEUCHIRO ITO\n◇ ◇",
+                "block_bbox": [
+                  394,
+                  142,
+                  1486,
+                  559
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    394.0,
+                    142.0
+                  ],
+                  [
+                    1486.0,
+                    142.0
+                  ],
+                  [
+                    1486.0,
+                    559.0
+                  ],
+                  [
+                    394.0,
+                    559.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+                "block_bbox": [
+                  2492,
+                  183,
+                  5478,
+                  755
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2492.0,
+                    183.0
+                  ],
+                  [
+                    5478.0,
+                    183.0
+                  ],
+                  [
+                    5478.0,
+                    755.0
+                  ],
+                  [
+                    2492.0,
+                    755.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5668038725852966,
+                  "coordinate": [
+                    394,
+                    142,
+                    1486,
+                    559
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      394.0,
+                      142.0
+                    ],
+                    [
+                      1486.0,
+                      142.0
+                    ],
+                    [
+                      1486.0,
+                      559.0
+                    ],
+                    [
+                      394.0,
+                      559.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6176722049713135,
+                  "coordinate": [
+                    2492,
+                    183,
+                    5478,
+                    755
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2492.0,
+                      183.0
+                    ],
+                    [
+                      5478.0,
+                      183.0
+                    ],
+                    [
+                      5478.0,
+                      755.0
+                    ],
+                    [
+                      2492.0,
+                      755.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. KEUCHIRO ITO\n\n◇ ◇\n\nIt was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilus. Kazumasa Yasukuni\n◇ ◇ ◇",
+                "block_bbox": [
+                  390,
+                  141,
+                  1787,
+                  558
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    390.0,
+                    141.0
+                  ],
+                  [
+                    1787.0,
+                    141.0
+                  ],
+                  [
+                    1787.0,
+                    558.0
+                  ],
+                  [
+                    390.0,
+                    558.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "The final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.",
+                "block_bbox": [
+                  2915,
+                  181,
+                  5478,
+                  744
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2915.0,
+                    181.0
+                  ],
+                  [
+                    5478.0,
+                    181.0
+                  ],
+                  [
+                    5478.0,
+                    744.0
+                  ],
+                  [
+                    2915.0,
+                    744.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5279064774513245,
+                  "coordinate": [
+                    390,
+                    141,
+                    1787,
+                    558
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      390.0,
+                      141.0
+                    ],
+                    [
+                      1787.0,
+                      141.0
+                    ],
+                    [
+                      1787.0,
+                      558.0
+                    ],
+                    [
+                      390.0,
+                      558.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6247534155845642,
+                  "coordinate": [
+                    2915,
+                    181,
+                    5478,
+                    744
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2915.0,
+                      181.0
+                    ],
+                    [
+                      5478.0,
+                      181.0
+                    ],
+                    [
+                      5478.0,
+                      744.0
+                    ],
+                    [
+                      2915.0,
+                      744.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilus. Kazumasa Yasukuni\n\n◇ ◇ ◇\n\nThe final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilios. Studio Bara Inc.\n◇ ◇\nYou may play any number of Item cards during your\nturn.",
+                "block_bbox": [
+                  398,
+                  132,
+                  1543,
+                  570
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    398.0,
+                    132.0
+                  ],
+                  [
+                    1543.0,
+                    132.0
+                  ],
+                  [
+                    1543.0,
+                    570.0
+                  ],
+                  [
+                    398.0,
+                    570.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1977,
+                  136,
+                  5377,
+                  515
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1977.0,
+                    136.0
+                  ],
+                  [
+                    5377.0,
+                    136.0
+                  ],
+                  [
+                    5377.0,
+                    515.0
+                  ],
+                  [
+                    1977.0,
+                    515.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6244508624076843,
+                  "coordinate": [
+                    398,
+                    132,
+                    1543,
+                    570
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      398.0,
+                      132.0
+                    ],
+                    [
+                      1543.0,
+                      132.0
+                    ],
+                    [
+                      1543.0,
+                      570.0
+                    ],
+                    [
+                      398.0,
+                      570.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.678534984588623,
+                  "coordinate": [
+                    1977,
+                    136,
+                    5377,
+                    515
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1977.0,
+                      136.0
+                    ],
+                    [
+                      5377.0,
+                      136.0
+                    ],
+                    [
+                      5377.0,
+                      515.0
+                    ],
+                    [
+                      1977.0,
+                      515.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilios. Studio Bara Inc.\n\n◇ ◇\n\nYou may play any number of Item cards during your\n\nturn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilios. Toyste Beach\n◇\nYou may play any number of Item cards during your\nturn.",
+                "block_bbox": [
+                  397,
+                  131,
+                  1394,
+                  556
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    131.0
+                  ],
+                  [
+                    1394.0,
+                    131.0
+                  ],
+                  [
+                    1394.0,
+                    556.0
+                  ],
+                  [
+                    397.0,
+                    556.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1978,
+                  138,
+                  5377,
+                  515
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1978.0,
+                    138.0
+                  ],
+                  [
+                    5377.0,
+                    138.0
+                  ],
+                  [
+                    5377.0,
+                    515.0
+                  ],
+                  [
+                    1978.0,
+                    515.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6206185817718506,
+                  "coordinate": [
+                    397,
+                    131,
+                    1394,
+                    556
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      131.0
+                    ],
+                    [
+                      1394.0,
+                      131.0
+                    ],
+                    [
+                      1394.0,
+                      556.0
+                    ],
+                    [
+                      397.0,
+                      556.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7058215141296387,
+                  "coordinate": [
+                    1978,
+                    138,
+                    5377,
+                    515
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1978.0,
+                      138.0
+                    ],
+                    [
+                      5377.0,
+                      138.0
+                    ],
+                    [
+                      5377.0,
+                      515.0
+                    ],
+                    [
+                      1978.0,
+                      515.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilios. Toyste Beach\n\n◇\n\nYou may play any number of Item cards during your\n\nturn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilios. 5ban Graphics\n◇\nYou may play any number of Item cards during your\nturn.",
+                "block_bbox": [
+                  395,
+                  127,
+                  1505,
+                  556
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    395.0,
+                    127.0
+                  ],
+                  [
+                    1505.0,
+                    127.0
+                  ],
+                  [
+                    1505.0,
+                    556.0
+                  ],
+                  [
+                    395.0,
+                    556.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1976,
+                  135,
+                  5383,
+                  516
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1976.0,
+                    135.0
+                  ],
+                  [
+                    5383.0,
+                    135.0
+                  ],
+                  [
+                    5383.0,
+                    516.0
+                  ],
+                  [
+                    1976.0,
+                    516.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6045872569084167,
+                  "coordinate": [
+                    395,
+                    127,
+                    1505,
+                    556
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      395.0,
+                      127.0
+                    ],
+                    [
+                      1505.0,
+                      127.0
+                    ],
+                    [
+                      1505.0,
+                      556.0
+                    ],
+                    [
+                      395.0,
+                      556.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6444665193557739,
+                  "coordinate": [
+                    1976,
+                    135,
+                    5383,
+                    516
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1976.0,
+                      135.0
+                    ],
+                    [
+                      5383.0,
+                      135.0
+                    ],
+                    [
+                      5383.0,
+                      516.0
+                    ],
+                    [
+                      1976.0,
+                      516.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilios. 5ban Graphics\n\n◇\n\nYou may play any number of Item cards during your\n\nturn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilus. Studio Bara Inc.\n◇ ◇\nYou use Pokémon Tools by attaching them to your\nPokémon. You may attach only 1 Pokémon Tool to\neach Pokémon, and it stays attached.",
+                "block_bbox": [
+                  409,
+                  131,
+                  1537,
+                  571
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    409.0,
+                    131.0
+                  ],
+                  [
+                    1537.0,
+                    131.0
+                  ],
+                  [
+                    1537.0,
+                    571.0
+                  ],
+                  [
+                    409.0,
+                    571.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1976,
+                  35,
+                  5357,
+                  638
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1976.0,
+                    35.0
+                  ],
+                  [
+                    5357.0,
+                    35.0
+                  ],
+                  [
+                    5357.0,
+                    638.0
+                  ],
+                  [
+                    1976.0,
+                    638.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5381792783737183,
+                  "coordinate": [
+                    409,
+                    131,
+                    1537,
+                    571
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      409.0,
+                      131.0
+                    ],
+                    [
+                      1537.0,
+                      131.0
+                    ],
+                    [
+                      1537.0,
+                      571.0
+                    ],
+                    [
+                      409.0,
+                      571.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.852152407169342,
+                  "coordinate": [
+                    1976,
+                    35,
+                    5357,
+                    638
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1976.0,
+                      35.0
+                    ],
+                    [
+                      5357.0,
+                      35.0
+                    ],
+                    [
+                      5357.0,
+                      638.0
+                    ],
+                    [
+                      1976.0,
+                      638.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilus. Studio Bara Inc.\n\n◇ ◇\n\nYou use Pokémon Tools by attaching them to your\n\nPokémon. You may attach only 1 Pokémon Tool to\n\neach Pokémon, and it stays attached.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "IUs. Toyste Beach\n✂️ ✂️\nYou use Pokémon Tools by attaching them to your\nPokémon. You may attach only 1 Pokémon Tool to\neach Pokémon, and it stays attached.",
+                "block_bbox": [
+                  404,
+                  131,
+                  1396,
+                  566
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    404.0,
+                    131.0
+                  ],
+                  [
+                    1396.0,
+                    131.0
+                  ],
+                  [
+                    1396.0,
+                    566.0
+                  ],
+                  [
+                    404.0,
+                    566.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1976,
+                  34,
+                  5355,
+                  641
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1976.0,
+                    34.0
+                  ],
+                  [
+                    5355.0,
+                    34.0
+                  ],
+                  [
+                    5355.0,
+                    641.0
+                  ],
+                  [
+                    1976.0,
+                    641.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.45596832036972046,
+                  "coordinate": [
+                    404,
+                    131,
+                    1396,
+                    566
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      404.0,
+                      131.0
+                    ],
+                    [
+                      1396.0,
+                      131.0
+                    ],
+                    [
+                      1396.0,
+                      566.0
+                    ],
+                    [
+                      404.0,
+                      566.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8543899059295654,
+                  "coordinate": [
+                    1976,
+                    34,
+                    5355,
+                    641
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1976.0,
+                      34.0
+                    ],
+                    [
+                      5355.0,
+                      34.0
+                    ],
+                    [
+                      5355.0,
+                      641.0
+                    ],
+                    [
+                      1976.0,
+                      641.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "IUs. Toyste Beach\n\n✂️ ✂️\n\nYou use Pokémon Tools by attaching them to your\n\nPokémon. You may attach only 1 Pokémon Tool to\n\neach Pokémon, and it stays attached.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilios. GIDORA\n◇ ◇\nYou may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  396,
+                  133,
+                  1177,
+                  566
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    396.0,
+                    133.0
+                  ],
+                  [
+                    1177.0,
+                    133.0
+                  ],
+                  [
+                    1177.0,
+                    566.0
+                  ],
+                  [
+                    396.0,
+                    566.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1979,
+                  226,
+                  5502,
+                  455
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1979.0,
+                    231.99998474121094
+                  ],
+                  [
+                    5501.79638671875,
+                    247.00338745117188
+                  ],
+                  [
+                    5500.8525390625,
+                    468.62030029296875
+                  ],
+                  [
+                    1978.05615234375,
+                    453.6169128417969
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4822191894054413,
+                  "coordinate": [
+                    396,
+                    133,
+                    1177,
+                    566
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      396.0,
+                      133.0
+                    ],
+                    [
+                      1177.0,
+                      133.0
+                    ],
+                    [
+                      1177.0,
+                      566.0
+                    ],
+                    [
+                      396.0,
+                      566.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6241885423660278,
+                  "coordinate": [
+                    1979,
+                    226,
+                    5502,
+                    455
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1979.0,
+                      231.99998474121094
+                    ],
+                    [
+                      5501.79638671875,
+                      247.00338745117188
+                    ],
+                    [
+                      5500.8525390625,
+                      468.62030029296875
+                    ],
+                    [
+                      1978.05615234375,
+                      453.6169128417969
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilios. GIDORA\n\n◇ ◇\n\nYou may play only 1 Supporter card during your turn.\n\n",
+            "images": {}
+          }
+        }
+      ],
+      "dataInfo": {
+        "type": "pdf",
+        "numPages": 30,
+        "pages": [
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          }
+        ]
+      }
+    }
+  },
+  "error": null
+}

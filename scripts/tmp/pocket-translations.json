@@ -36261,7 +36261,11 @@
   "Dynamite Punch": {
     "en": "Dynamite Punch",
     "pt-br": "Soco Dinamite",
-    "zh-tw": "炸藥沖頭"
+    "zh-tw": "炸藥沖頭",
+    "es": "Puño Dinamita",
+    "fr": "Poing Dynamite",
+    "de": "Dynamitstoß",
+    "it": "Pugno Dinamite"
   },
   "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life.": {
     "en": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life.",
@@ -36846,7 +36850,11 @@
   "Playful Kick": {
     "en": "Playful Kick",
     "pt-br": "Chute brincalhão",
-    "zh-tw": "俏皮踢"
+    "zh-tw": "俏皮踢",
+    "es": "Patada Juguetona",
+    "fr": "Coup de Pied de Garnement",
+    "de": "Verspielter Kick",
+    "it": "Calcio Briccone"
   },
   "Rage": {
     "en": "Rage",
@@ -43385,5 +43393,592 @@
     "pt-br": "Imprensa de Energia",
     "it": "Stampa energetica",
     "zh-tw": "能源出版社"
+  },
+  "Slam": {
+    "en": "Slam",
+    "fr": "Souplesse",
+    "es": "Atizar",
+    "it": "Schianto",
+    "de": "Slam",
+    "zh-tw": "摔打"
+  },
+  "Bone Rush": {
+    "en": "Bone Rush",
+    "fr": "Charge Os",
+    "es": "Ataque Óseo",
+    "it": "Ossoraffica",
+    "de": "Knochenhatz",
+    "zh-tw": "骨棒亂打"
+  },
+  "Heat Wave": {
+    "en": "Heat Wave",
+    "fr": "Canicule",
+    "es": "Onda Ígnea",
+    "it": "Ondacalda",
+    "de": "Hitzewelle",
+    "zh-tw": "熱風"
+  },
+  "Air Cutter": {
+    "en": "Air Cutter",
+    "fr": "Tranch’Air",
+    "es": "Aire Afilado",
+    "it": "Aerasoio",
+    "de": "Windschnitt",
+    "zh-tw": "空氣利刃"
+  },
+  "Extrasensory": {
+    "en": "Extrasensory",
+    "fr": "Extrasenseur",
+    "es": "Paranormal",
+    "it": "Extrasenso",
+    "de": "Sondersensor",
+    "zh-tw": "神通力"
+  },
+  "Bullet Punch": {
+    "en": "Bullet Punch",
+    "fr": "Pisto-Poing",
+    "es": "Puño Bala",
+    "it": "Pugnoscarica",
+    "de": "Patronenhieb",
+    "zh-tw": "子彈拳"
+  },
+  "Scald": {
+    "en": "Scald",
+    "fr": "Ébullition",
+    "es": "Escaldar",
+    "it": "Idrovampata",
+    "de": "Siedewasser",
+    "zh-tw": "熱水"
+  },
+  "Retaliate": {
+    "en": "Retaliate",
+    "fr": "Vengeance",
+    "es": "Represalia",
+    "it": "Nemesi",
+    "de": "Heimzahlung",
+    "zh-tw": "報仇"
+  },
+  "Razor Shell": {
+    "en": "Razor Shell",
+    "fr": "Coqui-Lame",
+    "es": "Concha Filo",
+    "it": "Conchilama",
+    "de": "Kalkklinge",
+    "zh-tw": "貝殼刃"
+  },
+  "Techno Blast": {
+    "en": "Techno Blast",
+    "fr": "Techno-Buster",
+    "es": "Tecno Shock",
+    "it": "Tecnobotto",
+    "de": "Techblaster",
+    "zh-tw": "高科技光炮"
+  },
+  "Fickle Beam": {
+    "en": "Fickle Beam",
+    "fr": "Laser Hasard",
+    "es": "Láser Veleidoso",
+    "it": "Irregolaser",
+    "de": "Launenlaser",
+    "zh-tw": "隨機光"
+  },
+  "Hospitality": {
+    "en": "Hospitality",
+    "fr": "Aux Petits Soins",
+    "es": "Hospitalidad",
+    "it": "Ospitalità",
+    "de": "Gastlichkeit",
+    "zh-tw": "款待"
+  },
+  "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.": {
+    "en": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+    "fr": "Il habite les forêts et les hautes herbes. Attaqué,\nil riposte avec les piquants de son postérieur.",
+    "es": "Vive en bosques y zonas de hierba alta. Si le atacan,\nse defiende con las púas venenosas de su cola.",
+    "it": "Vive nelle foreste e tra l’erba alta. Se è attaccato,\nusa gli aculei velenosi che ha sulla parte posteriore.",
+    "de": "Es haust in Wäldern und auf Wiesen. Bei Angriffen\nwehrt es sich mit den Giftstacheln auf seinem\nHinterteil."
+  },
+  "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.": {
+    "en": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+    "fr": "Il boit la rosée récoltée par sa soie en attendant\nd’évoluer. Il est à l’abri dans son robuste cocon.",
+    "es": "Bebe el rocío que recoge con su seda mientras espera\nevolucionar. Se defiende en su capullo.",
+    "it": "Beve la rugiada che si posa sulla seta e aspetta\nl’evoluzione. Il suo bozzolo duro respinge gli attacchi.",
+    "de": "Es trinkt den Tau, der sich in der Seide fängt, und\nwartet auf seine Entwicklung. Sein Kokon schützt es."
+  },
+  "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.": {
+    "en": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
+    "fr": "Il est très agressif. Il pique sa proie avec son long\nmuseau étroit et absorbe sa vitalité.",
+    "es": "Es un Pokémon agresivo. Con su boca larga y afilada\nataca a sus rivales para drenar sus fluidos.",
+    "it": "Ha un’indole aggressiva. Conficca la sua bocca\nlunga e sottile nelle prede e ne succhia i fluidi.",
+    "de": "Es besitzt ein aggressives Wesen. Es sticht seinen\nRüssel in seine Beute und saugt sie aus."
+  },
+  "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.": {
+    "en": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+    "fr": "Rancunier, il n’oublie aucune des attaques subies\ndans le cocon et se venge une fois qu’il a évolué.",
+    "es": "Jamás olvida a quienes lo atacaron mientras estaba\nen su capullo. Cuando evoluciona, busca venganza.",
+    "it": "Non dimentica mai gli attacchi subiti dentro il bozzolo.\nDopo l’evoluzione cerca di vendicarsi.",
+    "de": "Es vergisst keinen Angriff, den es im Kokon erdulden\nmusste. Nach der Entwicklung sinnt es auf Rache."
+  },
+  "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.": {
+    "en": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+    "fr": "Quand on l’attaque, il bat des ailes pour répandre sa\npoudre toxique. Il sort après le coucher du soleil.",
+    "es": "Cuando se le ataca, bate las alas con fuerza para\nesparcir polvo tóxico. Es un Pokémon nocturno.",
+    "it": "Se attaccato, sbatte con forza le ali e sparge una\npolvere tossica. Lo si vede in giro dopo il tramonto.",
+    "de": "Wird es angegriffen, flattert es mit den Flügeln\nund verteilt giftigen Puder. Es ist nachtaktiv."
+  },
+  "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.": {
+    "en": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+    "fr": "Accroché aux rochers des profondeurs, il attend\nqu’une proie s’approche de lui pour l’attraper\navec ses tentacules en forme de pétales.",
+    "es": "Se ancla a una roca en el lecho marino y atrapa\na las presas que se le acercan con sus tentáculos\nen forma de pétalos.",
+    "it": "Si attacca alle rocce dei fondali marini e usa\ni tentacoli simili a petali per catturare le prede\nche si avvicinano.",
+    "de": "Liliep heftet sich an Felsen am Meeresgrund.\nNähert sich Beute, fängt es diese mit seinen\nwie Blütenblätter geformten Tentakeln.",
+    "zh-tw": "會吸附在海底的岩石上，\n並用花瓣般的觸手纏住\n接近自己的獵物。"
+  },
+  "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.": {
+    "en": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+    "fr": "Il attrape ses proies à l’aide de ses tentacules,\npuis les dissout immédiatement avec ses sucs\ndigestifs pour en absorber les nutriments.",
+    "es": "Atrapa a sus presas con los tentáculos y\nenseguida las disuelve con sus jugos gástricos\npara absorber los nutrientes.",
+    "it": "Cattura le prede con i tentacoli e le scioglie\ncon un fluido digestivo, assorbendone così\nle sostanze nutritive.",
+    "de": "Sobald es mit seinen Tentakeln Beute erfasst hat,\nlöst es diese mit seiner Verdauungsflüssigkeit auf\nund absorbiert ihre Nährstoffe.",
+    "zh-tw": "用觸手捕捉到獵物時，\n會直接用消化液溶解\n獵物然後吸收養分。"
+  },
+  "When its antennae hit each other, it sounds like the music of a xylophone.": {
+    "en": "When its antennae hit each other, it sounds like the music of a xylophone.",
+    "fr": "Quand ses antennes s’entrechoquent, elles laissent échapper\nun bruit de xylophone.",
+    "es": "Si choca sus antenas, emite un sonido similar al de un\nxilófono.",
+    "it": "Le antenne, scontrandosi, producono un suono simile allo\nxilofono: klon, klon!",
+    "de": "Wenn seine zwei Antennen sich berühren, erklingt ein Ruf\nwie das Spiel eines Xylophons."
+  },
+  "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.": {
+    "en": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
+    "fr": "Il crache un liquide qui dissout les coquilles\ndes Escargaume pour se régaler de leur contenu.",
+    "es": "Escupe un líquido corrosivo con el que disuelve\nel caparazón de los Shelmet para luego devorar\nel contenido.",
+    "it": "Scioglie la conchiglia di Shelmet con il liquido\nche spruzza dalla bocca e ne mangia il contenuto.",
+    "de": "Es nutzt die Flüssigkeit aus seinem Mund,\num die Muschel von Schnuthelm aufzulösen.\nDann verspeist es den Inhalt.",
+    "zh-tw": "用嘴裡吐出的液體\n來融化小嘴蝸的殼，\n只會去吃裡面的身體。"
+  },
+  "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.": {
+    "en": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+    "fr": "Il a l’étrange faculté de réagir à l’énergie\nélectrique. On ne sait trop pourquoi, mais quand\nil se trouve aux côtés de Carabing, il évolue.",
+    "es": "Debido a su peculiar constitución, reacciona\nante la energía eléctrica. Por alguna misteriosa\nrazón, evoluciona en presencia de Karrablast.",
+    "it": "Il suo corpo reagisce misteriosamente all’energia\nelettrica. Pare che si evolva se si trova in\npresenza di Karrablast.",
+    "de": "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Es heißt, die Anwesenheit von\nLaukaps löse bei ihm die Entwicklung aus.",
+    "zh-tw": "有著會對電能產生反應\n的奇異體質。不知為何，\n和蓋蓋蟲待在一起就會進化。"
+  },
+  "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.": {
+    "en": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+    "fr": "Il est bien plus agile sans sa coquille.\nLa membrane en forme de bandelettes\nqui l’entoure l’empêche de se dessécher.",
+    "es": "Tras deshacerse del caparazón, su agilidad ha\naumentado. Las membranas que le recubren el\ncuerpo evitan que se deshidrate.",
+    "it": "Si è liberato della conchiglia, diventando più\nleggero. Le membrane a forma di fasce che\nricoprono il suo corpo evitano che si secchi.",
+    "de": "Seit es seine Muschel abgestreift hat, ist es viel\nleichter und agiler. Es umhüllt sich mit einer\nSchleimhaut, die es vor dem Austrocknen schützt.",
+    "zh-tw": "脫殼後變得更輕巧了。\n為了防止乾燥，會將\n帶狀的黏膜裹在身上。"
+  },
+  "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.": {
+    "en": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
+    "fr": "Il tend des guets-apens à ses proies en larguant\nson ancre dans la mer. Il peut absorber l’énergie\nvitale de grosses proies comme Wailord.",
+    "es": "Acecha a su presa hundiendo el ancla en el mar.\nEs capaz de drenar la vitalidad incluso de presas\ndel tamaño de un Wailord.",
+    "it": "Cattura le prede calando la sua ancora in mare.\nRiesce ad assorbire l’energia vitale persino\ndi Pokémon enormi come Wailord.",
+    "de": "Im Meer wirft es seinen Anker aus und legt sich\nauf die Lauer. Es fängt sich möglichst große Beute\nwie Wailord und saugt ihr die Lebensenergie aus.",
+    "zh-tw": "把錨拋到海裡，伏擊獵物。\n會去捕捉巨大的吼鯨王，\n吸取牠們的精氣。"
+  },
+  "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.": {
+    "en": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world.",
+    "fr": "L’une des Ultra-Chimères. Elle semble refuser\nde toucher les choses de ce monde, comme si\ntout était souillé à ses yeux.",
+    "es": "Este Ultraente se muestra reacio al contacto,\nprobablemente porque percibe inmundicia en\ntodo cuanto le rodea.",
+    "it": "Un’Ultracreatura che cerca di evitare ogni\ncontatto con le cose di questo mondo, come\nse lo considerasse contaminato.",
+    "de": "Diese Ultrabestie scheint diese Welt für unrein\nzu halten und zieht es daher vor, mit nichts und\nniemandem in Berührung zu kommen.",
+    "zh-tw": "ＵＢ的一種。\n或許是覺得這個世界上萬物污穢不堪，\n因此不願用手觸及分毫。"
+  },
+  "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.": {
+    "en": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
+    "fr": "On raconte qu’il a sauvé des personnes perdues\nen montagne en illuminant les sentiers à l’aide\nde ses splendides ailes flamboyantes.",
+    "es": "Se cuenta que alguna vez ha iluminado el camino\ncon sus alas flamígeras para rescatar a alguien\nque se había perdido en la montaña.",
+    "it": "Si narra che abbia aiutato dei viandanti che si\nerano persi illuminando i sentieri montuosi con\nle splendide ali infuocate.",
+    "de": "Überlieferungen nach soll Lavados mit seinen\nwunderschön lodernden Flügeln Bergpfade\nerleuchtet und dadurch Verirrten geholfen haben.",
+    "zh-tw": "相傳牠會以美麗燃燒的\n翅膀照亮山路，救助在\n山中遇險的人。"
+  },
+  "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.": {
+    "en": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+    "fr": "Il se sert de sa flamme comme d’une langue.\nIl fait fondre peu à peu l’exosquelette des Fermite\npour se délecter de leur chair.",
+    "es": "Usa llamas a modo de lengua para derretir\nel duro exoesqueleto de los Durant antes de\ndevorarlos.",
+    "it": "Usa la fiamma a mo’ di lingua. Liquefà il duro\nesoscheletro dei Durant e poi ne fa un sol\nboccone.",
+    "de": "Es nutzt eine Flamme als Zunge. Damit bringt es\ndie Panzer von Fermicula zum Schmelzen und\nverspeist im Anschluss ihr Inneres.",
+    "zh-tw": "將火焰當成舌頭來使用。\n會一點一點地熔化鐵蟻\n堅硬的外骨骼，然後把牠吃掉。"
+  },
+  "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.": {
+    "en": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+    "fr": "Il ne se soucie guère des Pokémon poissons\nqui viennent le grignoter, car même si son corps\nest déchiqueté, il se régénère aussitôt.",
+    "es": "No le importa que le mordisqueen el cuerpo los\nPokémon pez, ya que las partes desgarradas se\nregeneran casi al instante.",
+    "it": "Viene mangiucchiato dai Pokémon acquatici,\nma non ci dà peso, perché le parti danneggiate\ndel suo corpo si rigenerano subito.",
+    "de": "Ihm macht es nichts aus, von Fisch-Pokémon\nangeknabbert zu werden, da sich sein Körper\nbei Verletzungen im Nu regeneriert.",
+    "zh-tw": "會被魚寶可夢啄食，但是\n即使身體被咬斷也能很快就\n再生，所以一點都不在意。"
+  },
+  "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.": {
+    "en": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+    "fr": "Il aspire du plancton quand il nage dans la mer\nen faisant tourner son corps à grande vitesse.",
+    "es": "Starmie absorbe plancton al tiempo que nada\npor el mar haciendo girar su cuerpo a gran\nvelocidad.",
+    "it": "Risucchia il plancton mentre nuota nel mare\nfacendo ruotare il suo corpo ad alta velocità.",
+    "de": "Starmie bewegt sich im Wasser fort, indem es\nseinen Körper mit hoher Geschwindigkeit rotieren\nlässt. Unterwegs absorbiert es winziges Plankton.",
+    "zh-tw": "會高速旋轉著身體在\n海裡游泳，並且同時\n吸食微小的浮游生物。"
+  },
+  "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.": {
+    "en": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+    "fr": "Il possède une mâchoire puissante garnie de\ndents acérées. Les marins ne s’approchent\njamais des eaux habitées par les Carvanha.",
+    "es": "Los marineros evitan por completo las zonas\ndonde habita este Pokémon de afilados colmillos\ny fuertes mandíbulas.",
+    "it": "È dotato di denti affilati e mascelle robuste.\nChi viaggia per mare si tiene accuratamente\nalla larga dalle tane di Carvanha.",
+    "de": "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis.",
+    "zh-tw": "擁有銳利的牙齒和結實的\n下巴。船員們絕對不會去\n靠近利牙魚棲息的地方。"
+  },
+  "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.": {
+    "en": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+    "fr": "Il ressemble à un énorme ballon quand il avale\nde très grandes quantités d’eau de mer.\nIl dévore une tonne de nourriture par jour.",
+    "es": "Cuando traga una gran cantidad de agua marina,\nse hincha hasta parecer una pelota. Necesita una\ntonelada de alimento al día.",
+    "it": "Se inghiotte molta acqua diventa una specie\ndi palla rimbalzante. Ha bisogno di una\ntonnellata di cibo al giorno.",
+    "de": "Verschluckt es eine große Menge Meerwasser,\nwird sein Körper elastisch wie ein Ball. Es frisst\ntäglich eine Tonne Nahrung.",
+    "zh-tw": "喝入大量的海水之後，\n身體會鼓成像球一樣。\n每天要吃掉１噸的食物。"
+  },
+  "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.": {
+    "en": "As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.",
+    "fr": "Il scrute la mer en se laissant porter par\nles vagues. Lorsqu’il repère des proies,\nil avertit les Kaimorse du groupe.",
+    "es": "Flota entre las olas para examinar el océano.\nSi encuentra una presa, avisa enseguida a los\nWalrein de su manada.",
+    "it": "Fluttua tra le onde ispezionando il mare.\nQuando individua una preda, avverte i Walrein\ndel suo gruppo.",
+    "de": "Seemops lässt sich von den Wellen treiben, um\ndas Meer zu erkunden. Entdeckt es Beute, setzt\nes die Walraisa seiner Herde davon in Kenntnis.",
+    "zh-tw": "會漂浮在波浪間探查\n周圍的狀況。一旦發現獵物，\n就會通知群體的帝牙海獅。"
+  },
+  "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.": {
+    "en": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+    "fr": "Il ne peut pas s’empêcher de faire tourner sur\nson museau tout ce qui a une forme sphérique,\ncomme les Obalie ou les Poké Balls.",
+    "es": "Tiene la costumbre de hacer girar en la punta del\nmorro cualquier objeto redondeado, ya sea una\nPoké Ball o un Spheal.",
+    "it": "È solito giocare facendo ruotare sulla punta\ndel naso qualsiasi cosa rotonda gli capiti a tiro,\ncompresi Spheal e Poké Ball.",
+    "de": "Seejong balanciert gerne Pokébälle, Seemops\nund alles, was sonst noch rund ist, auf seiner\nNasenspitze.",
+    "zh-tw": "牠只要看見了圓形的東西，\n不論那是海豹球或是精靈球，\n都會把它頂在鼻子上轉轉看。"
+  },
+  "Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.": {
+    "en": "Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+    "fr": "Ses défenses poussent tout au long de sa vie.\nSi l’une d’elles se brise au cours d’un combat,\nau bout d’un an, elle aura repoussé entièrement.",
+    "es": "Sus colmillos nunca dejan de crecer. Aunque los\npierda en un combate, al cabo de un año ya los\nhabrá regenerado por completo.",
+    "it": "Le sue zanne continuano a crescere per tutta la\nvita. Se si spezzano mentre lotta, tornano\nforti e robuste nell’arco di un anno.",
+    "de": "Die Stoßzähne wachsen sein Leben lang. Selbst,\nwenn sie im Kampf abbrechen, erreichen sie nach\nnur einem Jahr wieder ihre alte imposante Größe.",
+    "zh-tw": "獠牙會一輩子不停地成長。\n即使在戰鬥中折斷，也只需要\n１年的時間就又能長得巨大如初。"
+  },
+  "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.": {
+    "en": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+    "fr": "On dit qu’il a fait monter les eaux en causant des\npluies diluviennes. Il somnolait dans une fosse marine.",
+    "es": "Se dice que aumentó el nivel del mar a base de\naguaceros. Ha estado durmiendo en una fosa marina.",
+    "it": "Si dice che abbia ampliato i mari provocando piogge\ntorrenziali. Si è assopito in una fossa marina.",
+    "de": "Man sagt, es habe die Meere vergrößert, indem es\nes regnen ließ. Es schlief in einem Meeresgraben."
+  },
+  "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.": {
+    "en": "They float upon the open sea. Many water Pokémon gather in the area around Alomomola.",
+    "fr": "Il se laisse dériver au gré des courants\nocéaniques profonds. De nombreux Pokémon\nEau se rassemblent toujours autour de lui.",
+    "es": "Vive flotando a la deriva en mar abierto. Muchos\nPokémon de tipo Agua se arremolinan a su\nalrededor.",
+    "it": "Vive in mare aperto, lasciandosi trasportare\ndalle onde. Attorno gli si radunano molti\nPokémon di tipo Acqua.",
+    "de": "Es treibt durch den Ozean. Um Mamolida\nversammeln sich stets viele Wasser-Pokémon.",
+    "zh-tw": "漂浮在汪洋大海上生活。\n保母曼波的周圍\n會聚集起許多水屬性寶可夢。"
+  },
+  "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.": {
+    "en": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "fr": "Il arrive que deux Pachirisu se frottent les joues pour partager\nl’électricité qu’ils ont accumulée.",
+    "es": "A veces se ve a dos frotándose las bolsas de las mejillas\npara compartir electricidad almacenada.",
+    "it": "Talvolta due esemplari si sfregano le guance per condividere\nl’elettricità immagazzinata.",
+    "de": "Um gespeicherte Elektrizität zu teilen, reiben zwei von ihnen\nihre Backentaschen aneinander."
+  },
+  "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.": {
+    "en": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+    "fr": "Ils agissent en groupes. Ils possèdent\nun organe produisant de l’électricité et\nlancent des décharges en cas de danger."
+  },
+  "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.": {
+    "en": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+    "fr": "Un Pokémon doté d’un gros appétit. Il paralyse ses proies\navec des décharges électriques avant de les manger.",
+    "es": "Pokémon de apetito voraz. En cuanto encuentra una presa, la\nparaliza con electricidad y la engulle.",
+    "it": "Pokémon dal grande appetito. Quando attacca, immobilizza\nil nemico paralizzandolo con l’elettricità.",
+    "de": "Hat es seine Beute erspäht, lähmt es sie mit Elektrizität und\nverspeist sie anschließend."
+  },
+  "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.": {
+    "en": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+    "fr": "Il vole dans le ciel d’Unys et fait tomber des éclairs,\nprovoquant des incendies qui font sa mauvaise réputation.",
+    "es": "Su gusto por surcar el cielo lanzando rayos y provocando\nincendios forestales le ha granjeado pocas simpatías.",
+    "it": "Non è molto amato perché durante il suo peregrinare nei cieli\nfa cadere fulmini qua e là che causano incendi nei boschi.",
+    "de": "Es ist bei den Leuten verhasst, weil es auf seinen Rundflügen\nimmer wieder Blitze erzeugt, die Waldbrände verursachen."
+  },
+  "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.": {
+    "en": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+    "fr": "Il peut générer de l’électricité grâce au soleil.\nSi on le dérange en pleine production d’énergie,\ncela le stresse et l’affaiblit.",
+    "es": "Es capaz de generar electricidad a partir de la\nluz del sol. Si lo interrumpen en pleno proceso,\nse pone nervioso y pierde las fuerzas.",
+    "it": "Possiede un organo con cui genera energia\nelettrica fotovoltaica. Se viene disturbato mentre\nla produce, si stressa e si indebolisce.",
+    "de": "Es kann aus Sonnenlicht Elektrizität erzeugen.\nUnterbricht man es jedoch bei diesem Prozess,\nverliert es vor lauter Stress all seine Kraft.",
+    "zh-tw": "擁有太陽能發電的結構。\n如果有人打擾牠發電，\n牠就會因心理壓力而衰弱。"
+  },
+  "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.": {
+    "en": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+    "fr": "Ce Pokémon retrouve ses congénères et danse\nlors des nuits de pleine lune. Un champ\nmagnétique mystérieux s’étend alors alentour.",
+    "es": "Cuando hay luna llena, los Clefairy salen en\ngrupo a bailar. A su alrededor se genera un\nmisterioso campo magnético.",
+    "it": "Nelle notti di luna piena, i Clefairy si radunano\nper danzare. Intorno a loro si crea un misterioso\ncampo magnetico.",
+    "de": "Bei Vollmond versammeln sie sich und tanzen\ngemeinsam. Um sie herum entsteht dadurch\nein ungewöhnliches Magnetfeld.",
+    "zh-tw": "在月圓之夜聚集，和夥伴一起跳舞。\n周圍被異常的磁場包圍著。"
+  },
+  "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.": {
+    "en": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
+    "fr": "Il considère les meilleurs danseurs parmi\nles M. Glaquette comme ses maîtres\net s’évertue à mimer leurs mouvements.",
+    "es": "Su admiración por Mr. Rime, un consumado\ndanzarín, lo lleva a seguirlo para aprender de él\ne imitar con esmero sus pasos de baile.",
+    "it": "Considera Mr. Rime il proprio maestro\nper le sue doti di ballerino, e ne imita\ndiligentemente i passi di danza.",
+    "de": "Es folgt dem talentierten Tänzer Pantifrost wie\nein Schüler und imitiert seine Schritte.",
+    "zh-tw": "像徒弟一樣跟隨著\n擅長跳舞的踏冰人偶，\n拼命模仿牠的舞步。"
+  },
+  "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.": {
+    "en": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "fr": "Son talent pour le mime est indéniable.\nIl émet des ondes du bout des doigts pour créer\nun mur qui le protège de nombreuses attaques.",
+    "es": "Domina con maestría la pantomima. La barrera\ngenerada con las ondas que emite por los dedos\nle permite protegerse de numerosos ataques.",
+    "it": "È un ottimo mimo. Con le onde che emette\ndalle dita può creare una barriera che lo\nprotegge da molti attacchi.",
+    "de": "Es ist für die Pantomime geboren. Zur Abwehr\nunterschiedlichster Angriffe erzeugt es mit einem\nKraftfeld aus seinen Fingerspitzen Schutzwände.",
+    "zh-tw": "擅長表演默劇。\n用手指放出的波動製造牆壁，\n保護自己免於大多數的攻擊。"
+  },
+  "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.": {
+    "en": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+    "fr": "Ces Pokémon adorent se déplacer en groupe.\nIls se blottissent les uns contre les autres\ndans des cavernes pour dormir.",
+    "es": "Suelen ir en grupo y, a la hora de dormir, se\npegan unos a otros para descansar resguardados\nen cuevas.",
+    "it": "Hanno l’abitudine di spostarsi in gruppo.\nQuando è ora di dormire, si radunano in\nuna grotta e riposano stretti l’uno all’altro.",
+    "de": "Sie ziehen normalerweise im Rudel umher. Zum\nSchlafen drängen sie sich ganz eng in einer Höhle\nzusammen.",
+    "zh-tw": "具有集體行動的習性。\n睡覺的時候會在洞窟中\n和夥伴們把身體挨在一起。"
+  },
+  "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.": {
+    "en": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+    "fr": "Il virevolte gaiement et émet des ultrasons\npour trouver des Pokémon Insecte à grignoter.",
+    "es": "Emite ultrasonidos mientras revolotea en busca\nde los Pokémon insecto con los que se sustenta.",
+    "it": "Svolazza emettendo ultrasuoni in cerca\ndi Pokémon di tipo Coleottero, di cui si nutre.",
+    "de": "Es fliegt umher und sendet Ultraschallwellen aus,\num Käfer-Pokémon aufzuspüren, welche ihm als\nNahrung dienen.",
+    "zh-tw": "一邊發出超音波，一邊\n飛來飛去尋找蟲寶可夢\n來填飽自己的肚子。"
+  },
+  "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.": {
+    "en": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.",
+    "fr": "Certaines contrées le vénèrent et pensent\nque la forme de son nez est un symbole\nde chance et de bonheur.",
+    "es": "En algunas regiones se venera a este Pokémon,\nya que consideran la forma de su nariz como un\nsímbolo de felicidad.",
+    "it": "Si dice che in alcune regioni venga venerato\nper via della forma del suo naso, ritenuta\ndi buon auspicio.",
+    "de": "Es wird in manchen Regionen für seine Nasenform\nverehrt, die angeblich Glück bringen soll.",
+    "zh-tw": "據說有些地區的人覺得\n牠鼻子的形狀很吉利，\n而把牠當成幸福的象徵來祭拜。"
+  },
+  "It gathers things it likes and passes them through its loop to teleport them to a secret place.": {
+    "en": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+    "fr": "Il a la faculté de téléporter les choses en les faisant\npasser au travers de ses anneaux. Il envoie les objets\nqui lui plaisent dans une cachette connue de lui seul.",
+    "es": "Reúne los objetos que le atraen para esconderlos\nen una guarida secreta, teletransportándolos a\ntravés de sus anillos.",
+    "it": "Usa i suoi anelli per intrappolare qualunque cosa\ngli piaccia e teletrasportarla in un luogo segreto.",
+    "de": "Mithilfe seiner Ringe hortet es Dinge, die ihm gefallen,\nan einem geheimen Ort. Es teleportiert diese, indem es\nsie durch seine Ringe bewegt."
+  },
+  "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.": {
+    "en": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+    "fr": "Il fonce sur des arbres larges pour fortifier son corps\nrobuste et son cœur vaillant.",
+    "es": "Endurece su cuerpo golpeando grandes árboles sin\nperder jamás el ánimo.",
+    "it": "Sbattendo a ripetizione contro enormi alberi, si\ncostruisce un corpo e uno spirito indistruttibili.",
+    "de": "Indem es wieder und wieder Bäume rammt,\nerhält es einen zähen Körper und einen\nstahlharten Willen."
+  },
+  "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.": {
+    "en": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+    "fr": "Il piétine le sol violemment pour concentrer son\nénergie. Il peut envoyer en l’air un camion de 10 t\nd’un seul coup de poing.",
+    "es": "Para aumentar su fuerza, da un pisotón en el suelo.\nPuede lanzar un camión de 10 toneladas por los aires\nde un puñetazo.",
+    "it": "Pesta i piedi sul terreno per accumulare energia.\nCon uno dei suoi schiaffi può far prendere il volo\na un camion di 10 t.",
+    "de": "Es stampft auf den Boden, um Energie zu\ngenerieren. Ein einziger Armschlag reicht aus, um\neinen 10 t schweren LKW durch die Luft zu wirbeln."
+  },
+  "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.": {
+    "en": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+    "fr": "Ce Pokémon peut nager très vite en agitant\nses huit ailes comme des rames de bateau.\nIl fait partie des ancêtres des Pokémon Insecte.",
+    "es": "Puede nadar rápidamente gracias a sus ocho\nalas que usa a modo de remo. Es uno de los\nantepasados de los Pokémon insecto.",
+    "it": "Nuota rapidamente utilizzando le sue otto ali\ncome fossero remi di una barca. È uno degli\nantenati dei Pokémon di tipo Coleottero.",
+    "de": "Anorith schwimmt sehr schnell, indem es seine\nacht Flügel wie die Ruder eines Bootes bewegt.\nEs ist einer der Vorfahren von Käfer-Pokémon.",
+    "zh-tw": "會像船槳般划動８片\n翅膀在水中快速游動。\n是蟲寶可夢祖先的一種。"
+  },
+  "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.": {
+    "en": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+    "fr": "Bien que vivant sur la terre ferme, il est très\nbon nageur. Il plonge dans la mer à la recherche\nde proies et les abat avec ses pinces acérées.",
+    "es": "Vive en tierra firme, pero es un hábil nadador.\nSe zambulle en el agua en busca de presas y las\natrapa con sus afiladas pinzas.",
+    "it": "Vive sulla terraferma, ma è un abile nuotatore.\nSi tuffa in mare alla ricerca di prede, che abbatte\ncon i suoi artigli affilati.",
+    "de": "Es lebt an Land, kann aber auch gut schwimmen.\nZum Jagen taucht es ins Meer und erledigt Beute\nmit seinen scharfen Klauen.",
+    "zh-tw": "生活在陸地上，但也擅長游泳。\n會為了尋找獵物而潛入海中，\n用銳利的爪子解決對方。"
+  },
+  "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.": {
+    "en": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+    "fr": "Il se propulse à grande vitesse sous la terre en joignant\nses griffes et en tourbillonnant sur lui-même.",
+    "es": "Cuando junta las garras y comienza a dar vueltas frenéticas,\navanza bajo tierra a gran velocidad.",
+    "it": "Sfreccia a gran velocità sotto terra, avvitandosi su se stesso,\nmentre si apre un passaggio scavando con le unghie.",
+    "de": "Es führt seine beiden Klauen zusammen, dreht sich rapide um\ndie eigene Achse und gräbt sich ratzfatz durch das Erdreich."
+  },
+  "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.": {
+    "en": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+    "fr": "Il combat avec une poutre. Quand il en\narrive à transporter de lourds madriers\nsans problème, l’évolution est proche."
+  },
+  "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.": {
+    "en": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+    "fr": "Même une armée de catcheurs se jetant sur son corps\nhyper musclé ne le ferait pas ciller.",
+    "es": "Sus músculos están tan desarrollados que no se inmuta\naunque lo ataquen varios luchadores.",
+    "it": "Il suo corpo muscolosissimo resisterebbe senza battere\nciglio all’assalto di un lottatore di wrestling.",
+    "de": "Selbst wenn es mit voller Wucht von einem Profi-Ringer\nangegriffen wird, lässt es dies dank seines Muskeltrainings kalt."
+  },
+  "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.": {
+    "en": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
+    "fr": "Il a évolué après avoir enchaîné de nombreux\ncombats. Le cri qu’il pousse lorsqu’il fait un « X »\navec ses bras ébranle n’importe quel ennemi.",
+    "es": "Evoluciona tras haber librado numerosas peleas.\nEl grito de guerra que profiere mientras pone los\nbrazos en cruz atemoriza a cualquier rival.",
+    "it": "Si è evoluto a forza di lottare. L’urlo di guerra\nche lancia mentre mette le braccia a X è in\ngrado di terrorizzare qualsiasi avversario.",
+    "de": "Durch das Austragen unzähliger Kämpfe hat es\nsich entwickelt. Formt es mit den Armen ein „X“\nund stößt einen Schrei aus, verschreckt das jeden.",
+    "zh-tw": "在不斷的鬥爭中得到了進化。\n牠交叉著雙臂發出的怒吼\n能讓一切對手都為之膽怯。"
+  },
+  "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.": {
+    "en": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+    "fr": "Son corps est principalement constitué d’un estomac\ndont les sucs digestifs dissolvent tout.",
+    "es": "Sus sesos y corazón son diminutos; es casi todo\nestómago. Sus jugos gástricos disuelven lo que sea.",
+    "it": "Ha cuore e cervello mini: lo stomaco prende troppo\nspazio! Con i succhi gastrici scioglie qualunque cosa.",
+    "de": "Sein Körper besteht fast nur aus Magen. Herz und\nHirn sind winzig. Sein Magensaft verdaut alles."
+  },
+  "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.": {
+    "en": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+    "fr": "Ses cornes d’acier forment une grande mâchoire\navec laquelle il mord férocement ses adversaires.",
+    "es": "Sus otrora cuernos de acero se han transformado\nen grandes fauces con las que muerde a sus\nenemigos.",
+    "it": "Le sue corna d’acciaio si sono trasformate in\nenormi mascelle, con cui morde i nemici.",
+    "de": "Sein riesiger Kiefer hat sich aus stählernen\nHörnern entwickelt. Mit ihm beißt es seine\nGegner.",
+    "zh-tw": "大嘴娃能用自己那由鋼角\n變化而成的巨大顎部\n將對手一口緊緊咬住。"
+  },
+  "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.": {
+    "en": "It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.",
+    "fr": "Il raffole des minéraux qui émettent des ondes\nmagnétiques. Il peut s’élancer à la poursuite\nd’un Tarinor à 100 km/h.",
+    "es": "Le encanta comer minerales con propiedades\nmagnéticas. Puede rastrear a un Nosepass\ndesplazándose a más de 100 km/h.",
+    "it": "È ghiotto di minerali dotati di proprietà\nmagnetiche. Quando dà la caccia ai Nosepass,\npuò raggiungere i 100 km/h.",
+    "de": "Es liebt Mineralien, die Magnetfelder erzeugen.\nKein Wunder, dass es Nasgnet mit 100 km/h\nhinterherjagt.",
+    "zh-tw": "非常喜歡能放出磁力的礦物。\n會以１００公里的時速窮追朝北鼻。"
+  },
+  "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.": {
+    "en": "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits.",
+    "fr": "Avec ses quatre groupes de griffes et son\ncorps imposant, il immobilise ses victimes\npour ensuite mieux les dévorer.",
+    "es": "Con sus cuatro garras y su descomunal cuerpo\naprisiona a sus presas para luego devorarlas\ncon sus dientes.",
+    "it": "Blocca la preda al suolo con le quattro zampe\nartigliate e il corpo massiccio, poi la divora con i\ndenti sulla pancia.",
+    "de": "Mit seinen spitzen Beinkrallen und dem massigen\nKörper drückt es seine Beute zu Boden und\nzerkaut sie dann mit seinen Zähnen am Bauch.",
+    "zh-tw": "用４隻爪子和龐大的身體\n牢牢地按住獵物後，\n用腹部的牙齒嚼食。"
+  },
+  "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.": {
+    "en": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "fr": "Un Pokémon qui a évolué en portant la carapace\nd’un Escargaume. Une armure de fer protège tout\nson corps.",
+    "es": "Pokémon que evolucionó poniéndose el caparazón de\nShelmet. Su armazón de acero le protege todo el cuerpo.",
+    "it": "Pokémon che si è evoluto appropriandosi della conchiglia\ndi Shelmet. Un’armatura d’acciaio protegge tutto il suo corpo.",
+    "de": "Es ist bei der Entwicklung in die Muschel eines Schnuthelm\ngeschlüpft. Die Eisenrüstung schützt seinen ganzen Körper."
+  },
+  "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.": {
+    "en": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+    "fr": "Un Pokémon existant depuis 300 millions d’années, et modifié\npar la Team Plasma. Il a maintenant un canon dans le dos.",
+    "es": "Un Pokémon de hace 300 millones de años y alterado por el\nEquipo Plasma, quienes le han equipado con un cañón en el\nlomo.",
+    "it": "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha\nmodificato il corpo montandogli un cannone sul dorso.",
+    "de": "Es lebte vor 300 Millionen Jahren. Team Plasma modifizierte\nes und pflanzte ihm am Rücken eine Kanone ein."
+  },
+  "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.": {
+    "en": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+    "fr": "On ne l’a vu pour la première fois que très récemment\ncar il vit dans la lointaine couche d’ozone.",
+    "es": "Como hasta hace poco volaba a la altura de la capa\nde ozono, nadie lo había visto nunca.",
+    "it": "Vive in alto, nello strato di ozono, troppo lontano\nperché qualcuno l’abbia mai potuto avvistare.",
+    "de": "Da es in der Ozonschicht hoch über den Wolken lebt,\nbekam es bis vor Kurzem noch niemand zu Gesicht."
+  },
+  "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.": {
+    "en": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
+    "fr": "Il vit dans les volcans. Le soufre dont il se nourrit\nrend sa carapace explosive. Même ses selles\nsont dangereuses, car elles sont instables.",
+    "es": "El material explosivo de su caparazón está\ncompuesto por el azufre del que se alimenta.\nSus excrementos explosivos son muy peligrosos.",
+    "it": "Vive nei vulcani. Lo zolfo di cui si nutre rende\nesplosivo il suo carapace e i suoi escrementi.\nQuesti ultimi sono molto pericolosi.",
+    "de": "Da es in Vulkanen lebt, nimmt es mit der Nahrung\nviel Schwefel auf, was seinen Panzer und seinen\nKot explosiv macht. Letzterer ist ein Gefahrengut.",
+    "zh-tw": "在火山上生活，吃下的硫磺\n就是甲殼上炸藥的原料。\n連糞便也會爆炸，十分危險。"
+  },
+  "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.": {
+    "en": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
+    "fr": "Il est d’un naturel sociable et aimable, mais quand\nil se met en colère, il déchaîne des bourrasques\nqui emportent tout sur leur passage.",
+    "es": "Es de naturaleza mansa y amable, pero, si se\nenfurece, puede desatar fuertes vientos capaces\nde llevarse cualquier cosa por delante.",
+    "it": "È socievole e di indole gentile ma quando\nsi arrabbia provoca venti dalla terribile\nforza distruttiva.",
+    "de": "Ein zutrauliches und gutmütiges Pokémon. Wird\nes jedoch wütend, beschwört es heftige Stürme\nherauf, die alles und jeden davonfegen.",
+    "zh-tw": "心地善良愛親近人，\n但只要生氣就會\n颳起強風吹倒一切。"
+  },
+  "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.": {
+    "en": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+    "fr": "Prenez garde à ce Pokémon très répandu :\nses puissantes incisives sont si acérées\nqu’elles peuvent couper des troncs d’arbre.",
+    "es": "Un Pokémon muy extendido con el que conviene\ntener cuidado ya que sus afilados incisivos son\ncapaces de roer maderas nobles sin problema.",
+    "it": "È un Pokémon molto comune con il quale è\nmeglio fare attenzione: con i suoi incisivi affilati\npuò tranciare anche un’asse di legno durissimo.",
+    "de": "Ein weitverbreitetes Pokémon, das nicht ganz\nungefährlich ist. Selbst hartes Holz zerkleinert\nes mit seinen scharfen Nagezähnen mühelos.",
+    "zh-tw": "雖然是常見的寶可夢，但還是要小心。\n銳利的門牙十分堅硬，\n就連木材也能輕易咬斷。"
+  },
+  "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.": {
+    "en": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+    "fr": "Il se sert de ses moustaches pour garder\nl’équilibre. Que le Rattatac soit apprivoisé\nou non, ne le touchez pas ou il vous mordrait !",
+    "es": "Mantiene el equilibrio gracias a sus bigotes.\nAunque le coja confianza a alguien, uno puede\nllevarse un mordisco si intenta tocarlo.",
+    "it": "Usa i baffi per mantenersi in equilibrio.\nSe qualcuno li sfiora, si arrabbia e morde anche\nquelli a cui è molto affezionato.",
+    "de": "Mit seinen Barthaaren hält es die Balance.\nBerührt man sie, wird es wütend und beißt zu,\negal, wie zutraulich es auch sein mag.",
+    "zh-tw": "鬍鬚是用來保持平衡的重要器官。\n就算感情再好，如果摸了牠的鬍鬚，\n牠都會生氣地咬過來。"
+  },
+  "It shows its cute side by chasing its own tail until it gets dizzy.": {
+    "en": "It shows its cute side by chasing its own tail until it gets dizzy.",
+    "fr": "Un Pokémon très mignon qui aime parfois courir\nen cercle en chassant sa propre queue.",
+    "es": "Le gusta jugar persiguiéndose la cola hasta que se\nmarea, mostrando así su lado más mono.",
+    "it": "È davvero carino quando barcolla per i giramenti di\ntesta, dopo aver cercato di mordersi la coda.",
+    "de": "Es zeigt gerne seine niedliche Seite, indem es seinen\neigenen Schweif jagt, bis ihm schwindlig wird."
+  },
+  "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.": {
+    "en": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+    "fr": "Les femmes Dresseurs raffolent de sa sublime\nfourrure. Il ne possède pas de nid.",
+    "es": "Tiene mucho éxito entre las Entrenadoras por su suave\npelaje. No vive en un sitio fijo.",
+    "it": "Ha successo fra gli Allenatori di sesso femminile per\nla sua bellissima pelliccia. Non ha una tana fissa.",
+    "de": "Dieses Pokémon ist bei weiblichen Trainern\naufgrund seines Fells beliebt."
+  },
+  "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.": {
+    "en": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+    "fr": "Il n’est pas très malin et un peu distrait,\nmais beaucoup de Dresseurs l’apprécient pour\nson caractère affectueux et sa bonne volonté.",
+    "es": "Es muy olvidadizo y no demasiado avispado,\npero muchos Entrenadores le tienen simpatía\npor su carácter afable y sincero.",
+    "it": "È un po’ smemorato e non molto sveglio.\nTuttavia è diligente e si affeziona facilmente,\ne per questo molti Allenatori lo adorano.",
+    "de": "Sie sind vergesslich und nicht besonders clever,\naber da sie sehr zutraulich und fleißig sind, haben\nviele Trainer sie ins Herz geschlossen.",
+    "zh-tw": "雖然既健忘又不太聰明，\n因為性格認真且容易親近人，\n所以受到了許多訓練家的喜愛。"
+  },
+  "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.": {
+    "en": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+    "fr": "Il est intelligent et possède une bonne mémoire.\nOn raconte que les livreurs le choisissent souvent\ncomme partenaire.",
+    "es": "Posee una mente ágil y muy buena memoria.\nTal vez por eso muchos repartidores lo eligen\ncomo compañero.",
+    "it": "Pokémon intelligente, dotato di una memoria\ndi ferro. Sembra che molti fattorini lo scelgano\ncome compagno.",
+    "de": "Es ist clever und hat ein gutes Gedächtnis.\nAnscheinend wird es von vielen Lieferanten als\nPartner ausgewählt.",
+    "zh-tw": "頭腦聰明且記性很好。\n似乎有許多快遞員\n將牠選為自己的搭檔。"
+  },
+  "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.": {
+    "en": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+    "fr": "Ce Pokémon est aussi intelligent qu’il est arrogant.\nLes Dresseurs de Déflaisan sont tenus en haute\nestime.",
+    "es": "Es un Pokémon muy inteligente y orgulloso.\nSe tiene en alta estima a aquellos que se\nconvierten en sus Entrenadores.",
+    "it": "È tanto intelligente quanto orgoglioso.\nDiventare Allenatori di questo Pokémon equivale\na guadagnarsi il rispetto e l’ammirazione di tutti.",
+    "de": "Es ist schlau, aber auch sehr stolz. Seine Trainer\ngenießen daher generell großen Respekt.",
+    "zh-tw": "頭腦聰明，所以自尊心也強。\n如果能成為高傲雉雞的訓練家，\n所有人都會對你刮目相看。"
+  },
+  "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.": {
+    "en": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control.",
+    "fr": "Il a été créé artificiellement d’après un Pokémon\nmythique. Il est muni d’un masque afin de contenir\nsa puissance.",
+    "es": "Fue creado a imagen de un Pokémon mitológico.\nLleva una máscara de contención para evitar que\nsu poder se descontrole.",
+    "it": "È stato creato sul modello di un Pokémon\nmitologico. È stato necessario dotarlo di una\nmaschera per tenere a freno la sua potenza.",
+    "de": "Typ:Null ist eine künstliche Nachbildung eines\nPokémon aus einer alten Sage. Die Maske dient\ndazu, seine Kräfte unter Kontrolle zu halten.",
+    "zh-tw": "以神話中的寶可夢為原型所\n創造出的寶可夢，被戴上了\n抑制力量失控的面罩。"
+  },
+  "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.": {
+    "en": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.",
+    "fr": "La relation de confiance qui le lie à son Dresseur\nest le facteur décisif qui lui permet de libérer\ntout son potentiel.",
+    "es": "El factor decisivo que le ha permitido liberar\ntoda su fuerza ha sido el estrecho vínculo y la\nconfianza que profesa a su Entrenador.",
+    "it": "Il fattore decisivo che permette di liberare la sua\nvera potenza è il legame di fiducia che lo unisce\nal suo Allenatore.",
+    "de": "Der entscheidende Faktor, durch den es seine\nwahren Kräfte freisetzen kann, ist die enge\nBindung zu einem Trainer, dem es vertraut.",
+    "zh-tw": "與所信賴的訓練家之間的牽絆\n是解放牠真正力量的\n最後一個要素。"
+  },
+  "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.": {
+    "en": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+    "fr": "Il se déplace en réagissant aux sons environnants.\nSon noyau d’énergie rend son corps légèrement\nchaud au toucher.",
+    "es": "Se dirige hacia cualquier sonido que perciba.\nEs ligeramente cálido al tacto, debido al efecto\nde su núcleo energético.",
+    "it": "Si muove reagendo ai rumori. È tiepido al tatto\nper via del nucleo di energia al suo interno.",
+    "de": "Es bewegt sich stets auf Geräuschquellen zu.\nDank seines Energiekerns fühlt es sich immer\nleicht warm an, wenn man es berührt.",
+    "zh-tw": "會對聲音產生反應而動起來。\n在能量核心的影響下，\n牠摸起來暖暖的。"
+  },
+  "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.": {
+    "en": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
+    "fr": "Il sonde les environs grâce au son. Lorsqu’un\nimportun le met en colère, il se lance à sa\npoursuite sans changer l’orientation de son corps.",
+    "es": "Se vale del sonido para percibir el entorno. Si\nalguien despierta su ira, lo perseguirá sin cambiar\nla orientación del cuerpo.",
+    "it": "Perlustra la zona intorno a sé servendosi dei\nrumori. Se irritato, insegue chi lo ha importunato\nsenza cambiare orientamento del corpo.",
+    "de": "Es nimmt die Umgebung über akustische Reize\nwahr. Ärgerliche Störenfriede kann es verfolgen,\nohne sich ihnen zuwenden zu müssen.",
+    "zh-tw": "透過聲音來探測四周。\n要是惹牠生氣了，牠會連\n身體方向也不轉就朝你追來。"
+  },
+  "After many battles, it evolved dangerous claws that come together to form daggers when extended.": {
+    "en": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+    "fr": "Il s’est tant adonné au combat qu’il a évolué :\nil est désormais doté de griffes redoutables\nqui prennent la forme de dagues en s’allongeant.",
+    "es": "Su devoción por la lucha ha propiciado que\nevolucionara y le ha conferido unas peligrosas\ngarras que se convierten en dagas al extenderse.",
+    "it": "Si è evoluto dopo aver passato giorni interi\na lottare e ha sviluppato degli artigli che,\nuna volta sfoderati, diventano temibili pugnali.",
+    "de": "Es entwickelte sich nach einer langen Zeit voller\nKämpfe. Nun kann es seine Krallen ausfahren,\num sie als Dolche zu nutzen.",
+    "zh-tw": "在日復一日的戰鬥中得以進化。\n進化的結果是那危險的指甲，\n留長後能當作短劍來用。"
   }
 }

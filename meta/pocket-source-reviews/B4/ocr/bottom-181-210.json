@@ -1,0 +1,4558 @@
+{
+  "ok": true,
+  "text": "Illes. PRIXEMA CG Works\n★★\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nMega Evolution EX rule / When your Mega Evolution\nFekèmon EX is Knocked Out, your assessment gets 3 points.\n\nII.IX. PLANETA CG Works\n☆☆\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nIdea: TVXHAN EG Worlds\n⭐⭐\nexrule When your Pokémon EX is\nKnocked Out, your opponent gets 2 points.\n\nex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nUlm. PLATENIA (provisin\n★ ★\nMega Evolution EX rule\nFekémon EX is Knocked Out. pour assomment gets 3 points.\n\nIdea. PRIXETA EG Works\n⭐⭐\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\n115. GIDOR4\n⭐⭐\nYou may play only 1 Supporter card during your turn.\n\nYou may play only 1 Supporter card during your turn.\n\nWest Stäunig, Mordtugno\n☆☆\nYou may play only 1 Supporter card during your turn.\n\nWos. Teeziro\n☆☆\nYou may play only 1 Supporter card during your turn.\n\nex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nIma. Sposob Nizozemsko\n☆☆\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nMega Evolution EX rule / When your Mega Evolution\nFekémon EX is Knocked Out, your assessment gets 3 points.\n\nex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nMega Evolution EX rule\nFekèmon EX is Knocked Out, your assessment gets 3 points.\n\nex rule When your Pokémon eX is\nKnocked Out, your opponent gets 2 points.\n\nFekèmon êX is Knocked Out, your account gets 3 points.\n\nex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.\n\nIllus. Souichirou Gunjima\nIn hot weather, this Pokémon makes ice shards\nwith its six tails and sprays them around to cool\nitself off.\n\nIllus. Taiga Kasai\n\nWhen it uses its large call fin, it picks up speed rapidly in the water. It is strong in spite of its small size.\n\nIllus. Taiga Kasai\n\nIt is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.\n\nIllus. Taiga Kasai\n\nSwampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.\n\nIllus. Taigo Kasai\n*\n\nResearch is progressing on storing lightning in Electabuzz so this energy can be used at any time.\n\nIllus. MAHOU\n*\n\nThis Pokémon absorbs electricity from telephone poles. It shorts out the electricity stored inside its body to create noises.\n\nIllus. MAHOU\n*\n\nIts dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+  "result": {
+    "logId": "98101e8e-38f3-4bc3-8789-87fca802e633",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illes. PRIXEMA CG Works\n★★\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  372,
+                  127,
+                  1796,
+                  576
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    372.0,
+                    127.0
+                  ],
+                  [
+                    1796.0,
+                    127.0
+                  ],
+                  [
+                    1796.0,
+                    576.0
+                  ],
+                  [
+                    372.0,
+                    576.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2035,
+                  250,
+                  4979,
+                  675
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2065.7529296875,
+                    242.12185668945312
+                  ],
+                  [
+                    4979.0693359375,
+                    257.5853271484375
+                  ],
+                  [
+                    4976.962890625,
+                    654.456298828125
+                  ],
+                  [
+                    2063.646484375,
+                    638.9928588867188
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.316047728061676,
+                  "coordinate": [
+                    377,
+                    133,
+                    1792,
+                    306
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      377.0,
+                      144.0
+                    ],
+                    [
+                      1791.0,
+                      144.0
+                    ],
+                    [
+                      1791.0,
+                      300.0
+                    ],
+                    [
+                      377.0,
+                      300.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3480747938156128,
+                  "coordinate": [
+                    372,
+                    127,
+                    1796,
+                    576
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      372.0,
+                      127.0
+                    ],
+                    [
+                      1796.0,
+                      127.0
+                    ],
+                    [
+                      1796.0,
+                      576.0
+                    ],
+                    [
+                      372.0,
+                      576.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.42054349184036255,
+                  "coordinate": [
+                    2035,
+                    250,
+                    4979,
+                    675
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2065.7529296875,
+                      242.12185668945312
+                    ],
+                    [
+                      4979.0693359375,
+                      257.5853271484375
+                    ],
+                    [
+                      4976.962890625,
+                      654.456298828125
+                    ],
+                    [
+                      2063.646484375,
+                      638.9928588867188
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illes. PRIXEMA CG Works\n\n★★\n\nexrule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Mega Evolution EX rule / When your Mega Evolution\nFekèmon EX is Knocked Out, your assessment gets 3 points.",
+                "block_bbox": [
+                  2059,
+                  254,
+                  5350,
+                  657
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2059.778564453125,
+                    270.8088073730469
+                  ],
+                  [
+                    5350.65625,
+                    285.950927734375
+                  ],
+                  [
+                    5349.0,
+                    646.0
+                  ],
+                  [
+                    2058.121826171875,
+                    630.85791015625
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.32430508732795715,
+                  "coordinate": [
+                    2059,
+                    254,
+                    5350,
+                    657
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2059.778564453125,
+                      270.8088073730469
+                    ],
+                    [
+                      5350.65625,
+                      285.950927734375
+                    ],
+                    [
+                      5349.0,
+                      646.0
+                    ],
+                    [
+                      2058.121826171875,
+                      630.85791015625
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Mega Evolution EX rule / When your Mega Evolution\n\nFekèmon EX is Knocked Out, your assessment gets 3 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "II.IX. PLANETA CG Works\n☆☆\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  382,
+                  129,
+                  1778,
+                  559
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    382.0,
+                    129.0
+                  ],
+                  [
+                    1778.0,
+                    129.0
+                  ],
+                  [
+                    1778.0,
+                    559.0
+                  ],
+                  [
+                    382.0,
+                    559.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2052,
+                  248,
+                  4973,
+                  671
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2051.436767578125,
+                    254.3099822998047
+                  ],
+                  [
+                    4971.78955078125,
+                    244.20481872558594
+                  ],
+                  [
+                    4973.1416015625,
+                    634.9960327148438
+                  ],
+                  [
+                    2052.7890625,
+                    645.1011962890625
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.30463406443595886,
+                  "coordinate": [
+                    387,
+                    134,
+                    1772,
+                    301
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      386.4639587402344,
+                      144.89859008789062
+                    ],
+                    [
+                      1770.869873046875,
+                      139.78631591796875
+                    ],
+                    [
+                      1771.4429931640625,
+                      294.9984130859375
+                    ],
+                    [
+                      387.037109375,
+                      300.1106872558594
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.302262544631958,
+                  "coordinate": [
+                    382,
+                    129,
+                    1778,
+                    559
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      382.0,
+                      129.0
+                    ],
+                    [
+                      1778.0,
+                      129.0
+                    ],
+                    [
+                      1778.0,
+                      559.0
+                    ],
+                    [
+                      382.0,
+                      559.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.37050890922546387,
+                  "coordinate": [
+                    2052,
+                    248,
+                    4973,
+                    671
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2051.436767578125,
+                      254.3099822998047
+                    ],
+                    [
+                      4971.78955078125,
+                      244.20481872558594
+                    ],
+                    [
+                      4973.1416015625,
+                      634.9960327148438
+                    ],
+                    [
+                      2052.7890625,
+                      645.1011962890625
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "II.IX. PLANETA CG Works\n\n☆☆\n\nexrule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Idea: TVXHAN EG Worlds\n⭐⭐\nexrule When your Pokémon EX is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  383,
+                  134,
+                  1786,
+                  555
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    383.0,
+                    134.0
+                  ],
+                  [
+                    1786.0,
+                    134.0
+                  ],
+                  [
+                    1786.0,
+                    555.0
+                  ],
+                  [
+                    383.0,
+                    555.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2045,
+                  284,
+                  4971,
+                  668
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2044.71728515625,
+                    284.15411376953125
+                  ],
+                  [
+                    4969.94677734375,
+                    279.10205078125
+                  ],
+                  [
+                    4970.56494140625,
+                    636.9991455078125
+                  ],
+                  [
+                    2045.33544921875,
+                    642.0512084960938
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3227846026420593,
+                  "coordinate": [
+                    383,
+                    134,
+                    1786,
+                    555
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      383.0,
+                      134.0
+                    ],
+                    [
+                      1786.0,
+                      134.0
+                    ],
+                    [
+                      1786.0,
+                      555.0
+                    ],
+                    [
+                      383.0,
+                      555.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.36898407340049744,
+                  "coordinate": [
+                    2045,
+                    284,
+                    4971,
+                    668
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2044.71728515625,
+                      284.15411376953125
+                    ],
+                    [
+                      4969.94677734375,
+                      279.10205078125
+                    ],
+                    [
+                      4970.56494140625,
+                      636.9991455078125
+                    ],
+                    [
+                      2045.33544921875,
+                      642.0512084960938
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Idea: TVXHAN EG Worlds\n\n⭐⭐\n\nexrule When your Pokémon EX is\n\nKnocked Out, your opponent gets 2 points.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  0,
+                  0,
+                  5861,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    -11.0,
+                    0.0
+                  ],
+                  [
+                    5861.0,
+                    0.0
+                  ],
+                  [
+                    5861.0,
+                    1024.0
+                  ],
+                  [
+                    -11.0,
+                    1024.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.6764881014823914,
+                  "coordinate": [
+                    0,
+                    0,
+                    5861,
+                    1024
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      -11.0,
+                      0.0
+                    ],
+                    [
+                      5861.0,
+                      0.0
+                    ],
+                    [
+                      5861.0,
+                      1024.0
+                    ],
+                    [
+                      -11.0,
+                      1024.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_0_0_5861_1024.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_0_0_5861_1024.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//79c6f5fd-f0fb-4115-b0c4-3f4f06cf403f/markdown_0/imgs/img_in_image_box_0_0_5861_1024.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A08Z%2F-1%2F%2Fbc95f101e996679aedb89e24a124697d4c03792e65fbfa708f703549865811b3"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "ex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  2048,
+                  286,
+                  4969,
+                  667
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2048.9150390625,
+                    285.51300048828125
+                  ],
+                  [
+                    4969.7880859375,
+                    301.66229248046875
+                  ],
+                  [
+                    4967.7958984375,
+                    661.9775390625
+                  ],
+                  [
+                    2046.9229736328125,
+                    645.8282470703125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.39945757389068604,
+                  "coordinate": [
+                    2048,
+                    286,
+                    4969,
+                    667
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2048.9150390625,
+                      285.51300048828125
+                    ],
+                    [
+                      4969.7880859375,
+                      301.66229248046875
+                    ],
+                    [
+                      4967.7958984375,
+                      661.9775390625
+                    ],
+                    [
+                      2046.9229736328125,
+                      645.8282470703125
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "ex rule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  0,
+                  0,
+                  5869,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    -3.0,
+                    0.0
+                  ],
+                  [
+                    5869.0,
+                    0.0
+                  ],
+                  [
+                    5869.0,
+                    1024.0
+                  ],
+                  [
+                    -3.0,
+                    1024.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.5782001614570618,
+                  "coordinate": [
+                    0,
+                    0,
+                    5869,
+                    1024
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      -3.0,
+                      0.0
+                    ],
+                    [
+                      5869.0,
+                      0.0
+                    ],
+                    [
+                      5869.0,
+                      1024.0
+                    ],
+                    [
+                      -3.0,
+                      1024.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_0_0_5869_1024.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_0_0_5869_1024.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2de5d5a8-8d6a-4019-adc7-1d18beefac41/markdown_0/imgs/img_in_image_box_0_0_5869_1024.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A09Z%2F-1%2F%2F01c39fe033ea7ef46a7757c057a60d52773e291bf7ffcdae58ced93292375006"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ulm. PLATENIA (provisin\n★ ★\nMega Evolution EX rule\nFekémon EX is Knocked Out. pour assomment gets 3 points.",
+                "block_bbox": [
+                  381,
+                  135,
+                  1688,
+                  540
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    381.0,
+                    135.0
+                  ],
+                  [
+                    1688.0,
+                    135.0
+                  ],
+                  [
+                    1688.0,
+                    540.0
+                  ],
+                  [
+                    381.0,
+                    540.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2046,
+                  255,
+                  5351,
+                  656
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2047.1737060546875,
+                    259.8890380859375
+                  ],
+                  [
+                    5352.72509765625,
+                    284.9007568359375
+                  ],
+                  [
+                    5350.00048828125,
+                    645.0
+                  ],
+                  [
+                    2044.4490966796875,
+                    619.98828125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.32280662655830383,
+                  "coordinate": [
+                    381,
+                    135,
+                    1688,
+                    540
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      381.0,
+                      135.0
+                    ],
+                    [
+                      1688.0,
+                      135.0
+                    ],
+                    [
+                      1688.0,
+                      540.0
+                    ],
+                    [
+                      381.0,
+                      540.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3109154999256134,
+                  "coordinate": [
+                    2046,
+                    255,
+                    5351,
+                    656
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2047.1737060546875,
+                      259.8890380859375
+                    ],
+                    [
+                      5352.72509765625,
+                      284.9007568359375
+                    ],
+                    [
+                      5350.00048828125,
+                      645.0
+                    ],
+                    [
+                      2044.4490966796875,
+                      619.98828125
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ulm. PLATENIA (provisin\n\n★ ★\n\nMega Evolution EX rule\n\nFekémon EX is Knocked Out. pour assomment gets 3 points.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Idea. PRIXETA EG Works\n⭐⭐\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  387,
+                  130,
+                  1770,
+                  560
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    387.0,
+                    130.0
+                  ],
+                  [
+                    1770.0,
+                    130.0
+                  ],
+                  [
+                    1770.0,
+                    560.0
+                  ],
+                  [
+                    387.0,
+                    560.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2031,
+                  247,
+                  4977,
+                  689
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2061.453857421875,
+                    240.61192321777344
+                  ],
+                  [
+                    4976.7216796875,
+                    250.9205322265625
+                  ],
+                  [
+                    4975.28125,
+                    658.3050537109375
+                  ],
+                  [
+                    2060.013427734375,
+                    647.9964599609375
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.33096420764923096,
+                  "coordinate": [
+                    384,
+                    135,
+                    1776,
+                    304
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      384.0,
+                      135.0
+                    ],
+                    [
+                      1776.0,
+                      135.0
+                    ],
+                    [
+                      1776.0,
+                      304.0
+                    ],
+                    [
+                      384.0,
+                      304.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.329372763633728,
+                  "coordinate": [
+                    387,
+                    130,
+                    1770,
+                    560
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      387.0,
+                      130.0
+                    ],
+                    [
+                      1770.0,
+                      130.0
+                    ],
+                    [
+                      1770.0,
+                      560.0
+                    ],
+                    [
+                      387.0,
+                      560.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4672512710094452,
+                  "coordinate": [
+                    2031,
+                    247,
+                    4977,
+                    689
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2061.453857421875,
+                      240.61192321777344
+                    ],
+                    [
+                      4976.7216796875,
+                      250.9205322265625
+                    ],
+                    [
+                      4975.28125,
+                      658.3050537109375
+                    ],
+                    [
+                      2060.013427734375,
+                      647.9964599609375
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Idea. PRIXETA EG Works\n\n⭐⭐\n\nexrule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "115. GIDOR4\n⭐⭐\nYou may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  371,
+                  5,
+                  1177,
+                  558
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    371.0,
+                    5.0
+                  ],
+                  [
+                    1177.0,
+                    5.0
+                  ],
+                  [
+                    1177.0,
+                    558.0
+                  ],
+                  [
+                    371.0,
+                    558.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1970,
+                  230,
+                  5497,
+                  451
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1970.02294921875,
+                    225.1244659423828
+                  ],
+                  [
+                    5496.27880859375,
+                    230.16775512695312
+                  ],
+                  [
+                    5496.0,
+                    425.0
+                  ],
+                  [
+                    1969.744140625,
+                    419.9566955566406
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3216992914676666,
+                  "coordinate": [
+                    371,
+                    5,
+                    1177,
+                    558
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      371.0,
+                      5.0
+                    ],
+                    [
+                      1177.0,
+                      5.0
+                    ],
+                    [
+                      1177.0,
+                      558.0
+                    ],
+                    [
+                      371.0,
+                      558.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5487720966339111,
+                  "coordinate": [
+                    1970,
+                    230,
+                    5497,
+                    451
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1970.02294921875,
+                      225.1244659423828
+                    ],
+                    [
+                      5496.27880859375,
+                      230.16775512695312
+                    ],
+                    [
+                      5496.0,
+                      425.0
+                    ],
+                    [
+                      1969.744140625,
+                      419.9566955566406
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "115. GIDOR4\n\n⭐⭐\n\nYou may play only 1 Supporter card during your turn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "You may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  1976,
+                  225,
+                  5494,
+                  450
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1975.999755859375,
+                    235.99998474121094
+                  ],
+                  [
+                    5493.7373046875,
+                    251.00314331054688
+                  ],
+                  [
+                    5492.8935546875,
+                    448.87158203125
+                  ],
+                  [
+                    1975.156005859375,
+                    433.8684387207031
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6173093318939209,
+                  "coordinate": [
+                    1976,
+                    225,
+                    5494,
+                    450
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      1975.999755859375,
+                      235.99998474121094
+                    ],
+                    [
+                      5493.7373046875,
+                      251.00314331054688
+                    ],
+                    [
+                      5492.8935546875,
+                      448.87158203125
+                    ],
+                    [
+                      1975.156005859375,
+                      433.8684387207031
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "You may play only 1 Supporter card during your turn.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "West Stäunig, Mordtugno\n☆☆\nYou may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  368,
+                  102,
+                  1809,
+                  544
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    368.0,
+                    102.0
+                  ],
+                  [
+                    1809.0,
+                    102.0
+                  ],
+                  [
+                    1809.0,
+                    544.0
+                  ],
+                  [
+                    368.0,
+                    544.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1976,
+                  225,
+                  5496,
+                  453
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1975.5390625,
+                    236.00169372558594
+                  ],
+                  [
+                    5494.79736328125,
+                    224.7183074951172
+                  ],
+                  [
+                    5495.49072265625,
+                    440.9981689453125
+                  ],
+                  [
+                    1976.232421875,
+                    452.28155517578125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.40173593163490295,
+                  "coordinate": [
+                    368,
+                    102,
+                    1809,
+                    544
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      368.0,
+                      102.0
+                    ],
+                    [
+                      1809.0,
+                      102.0
+                    ],
+                    [
+                      1809.0,
+                      544.0
+                    ],
+                    [
+                      368.0,
+                      544.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6700068712234497,
+                  "coordinate": [
+                    1976,
+                    225,
+                    5496,
+                    453
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1975.5390625,
+                      236.00169372558594
+                    ],
+                    [
+                      5494.79736328125,
+                      224.7183074951172
+                    ],
+                    [
+                      5495.49072265625,
+                      440.9981689453125
+                    ],
+                    [
+                      1976.232421875,
+                      452.28155517578125
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "West Stäunig, Mordtugno\n\n☆☆\n\nYou may play only 1 Supporter card during your turn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Wos. Teeziro\n☆☆\nYou may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  371,
+                  81,
+                  1102,
+                  550
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    370.99993896484375,
+                    107.0
+                  ],
+                  [
+                    1100.999755859375,
+                    107.0
+                  ],
+                  [
+                    1100.999755859375,
+                    548.9999389648438
+                  ],
+                  [
+                    370.99993896484375,
+                    548.9999389648438
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1974,
+                  220,
+                  5499,
+                  451
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1973.34033203125,
+                    235.2649383544922
+                  ],
+                  [
+                    5497.76806640625,
+                    219.61021423339844
+                  ],
+                  [
+                    5498.68017578125,
+                    424.99700927734375
+                  ],
+                  [
+                    1974.25244140625,
+                    440.6517333984375
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3229917287826538,
+                  "coordinate": [
+                    371,
+                    81,
+                    1102,
+                    550
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      370.99993896484375,
+                      107.0
+                    ],
+                    [
+                      1100.999755859375,
+                      107.0
+                    ],
+                    [
+                      1100.999755859375,
+                      548.9999389648438
+                    ],
+                    [
+                      370.99993896484375,
+                      548.9999389648438
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.557030200958252,
+                  "coordinate": [
+                    1974,
+                    220,
+                    5499,
+                    451
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1973.34033203125,
+                      235.2649383544922
+                    ],
+                    [
+                      5497.76806640625,
+                      219.61021423339844
+                    ],
+                    [
+                      5498.68017578125,
+                      424.99700927734375
+                    ],
+                    [
+                      1974.25244140625,
+                      440.6517333984375
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Wos. Teeziro\n\n☆☆\n\nYou may play only 1 Supporter card during your turn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "ex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  2042,
+                  252,
+                  4977,
+                  689
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2043.0126953125,
+                    272.3753356933594
+                  ],
+                  [
+                    4976.21875,
+                    293.20037841796875
+                  ],
+                  [
+                    4973.623046875,
+                    658.813720703125
+                  ],
+                  [
+                    2040.4169921875,
+                    637.9887084960938
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3448798656463623,
+                  "coordinate": [
+                    2042,
+                    252,
+                    4977,
+                    689
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2043.0126953125,
+                      272.3753356933594
+                    ],
+                    [
+                      4976.21875,
+                      293.20037841796875
+                    ],
+                    [
+                      4973.623046875,
+                      658.813720703125
+                    ],
+                    [
+                      2040.4169921875,
+                      637.9887084960938
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "ex rule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1646,
+                  0,
+                  2407,
+                  112
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1646.0,
+                    -1.0
+                  ],
+                  [
+                    2407.0,
+                    -1.0
+                  ],
+                  [
+                    2407.0,
+                    112.0
+                  ],
+                  [
+                    1646.0,
+                    112.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Ima. Sposob Nizozemsko\n☆☆\nexrule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  383,
+                  140,
+                  1713,
+                  566
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    383.0,
+                    140.0
+                  ],
+                  [
+                    1713.0,
+                    140.0
+                  ],
+                  [
+                    1713.0,
+                    566.0
+                  ],
+                  [
+                    383.0,
+                    566.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2055,
+                  267,
+                  4973,
+                  674
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2054.7431640625,
+                    267.1026916503906
+                  ],
+                  [
+                    4971.92041015625,
+                    262.0502014160156
+                  ],
+                  [
+                    4972.57177734375,
+                    637.9989013671875
+                  ],
+                  [
+                    2055.39453125,
+                    643.0513916015625
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.3484500050544739,
+                  "coordinate": [
+                    1646,
+                    0,
+                    2407,
+                    112
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1646.0,
+                      -1.0
+                    ],
+                    [
+                      2407.0,
+                      -1.0
+                    ],
+                    [
+                      2407.0,
+                      112.0
+                    ],
+                    [
+                      1646.0,
+                      112.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.41380026936531067,
+                  "coordinate": [
+                    383,
+                    140,
+                    1713,
+                    566
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      383.0,
+                      140.0
+                    ],
+                    [
+                      1713.0,
+                      140.0
+                    ],
+                    [
+                      1713.0,
+                      566.0
+                    ],
+                    [
+                      383.0,
+                      566.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4406847059726715,
+                  "coordinate": [
+                    2055,
+                    267,
+                    4973,
+                    674
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2054.7431640625,
+                      267.1026916503906
+                    ],
+                    [
+                      4971.92041015625,
+                      262.0502014160156
+                    ],
+                    [
+                      4972.57177734375,
+                      637.9989013671875
+                    ],
+                    [
+                      2055.39453125,
+                      643.0513916015625
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1646_0_2407_112.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIma. Sposob Nizozemsko\n\n☆☆\n\nexrule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.\n\n",
+            "images": {
+              "imgs/img_in_image_box_1646_0_2407_112.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//86cf46a6-a6ec-4be6-9f2c-0d0fb2616cba/markdown_0/imgs/img_in_image_box_1646_0_2407_112.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A07Z%2F-1%2F%2F563ec239f35997cf1ba1d89c80fc464e5a1cbd74d71d8b0bcf98841bff32c8c2"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Mega Evolution EX rule / When your Mega Evolution\nFekémon EX is Knocked Out, your assessment gets 3 points.",
+                "block_bbox": [
+                  2061,
+                  257,
+                  5347,
+                  672
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2062.062744140625,
+                    262.4646301269531
+                  ],
+                  [
+                    5348.2744140625,
+                    282.47198486328125
+                  ],
+                  [
+                    5346.0,
+                    656.0001220703125
+                  ],
+                  [
+                    2059.788818359375,
+                    635.9927368164062
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3717045783996582,
+                  "coordinate": [
+                    2061,
+                    257,
+                    5347,
+                    672
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2062.062744140625,
+                      262.4646301269531
+                    ],
+                    [
+                      5348.2744140625,
+                      282.47198486328125
+                    ],
+                    [
+                      5346.0,
+                      656.0001220703125
+                    ],
+                    [
+                      2059.788818359375,
+                      635.9927368164062
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Mega Evolution EX rule / When your Mega Evolution\n\nFekémon EX is Knocked Out, your assessment gets 3 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "ex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  2038,
+                  248,
+                  4984,
+                  695
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2040.574951171875,
+                    246.70556640625
+                  ],
+                  [
+                    4983.376953125,
+                    273.26513671875
+                  ],
+                  [
+                    4979.8388671875,
+                    665.2800903320312
+                  ],
+                  [
+                    2037.036865234375,
+                    638.7205200195312
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.37154102325439453,
+                  "coordinate": [
+                    2038,
+                    248,
+                    4984,
+                    695
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2040.574951171875,
+                      246.70556640625
+                    ],
+                    [
+                      4983.376953125,
+                      273.26513671875
+                    ],
+                    [
+                      4979.8388671875,
+                      665.2800903320312
+                    ],
+                    [
+                      2037.036865234375,
+                      638.7205200195312
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "ex rule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Mega Evolution EX rule\nFekèmon EX is Knocked Out, your assessment gets 3 points.",
+                "block_bbox": [
+                  2042,
+                  251,
+                  5353,
+                  676
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2042.6412353515625,
+                    249.78189086914062
+                  ],
+                  [
+                    5353.80712890625,
+                    264.9244384765625
+                  ],
+                  [
+                    5352.00048828125,
+                    660.0
+                  ],
+                  [
+                    2040.8345947265625,
+                    644.857421875
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.34518545866012573,
+                  "coordinate": [
+                    2042,
+                    251,
+                    5353,
+                    676
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2042.6412353515625,
+                      249.78189086914062
+                    ],
+                    [
+                      5353.80712890625,
+                      264.9244384765625
+                    ],
+                    [
+                      5352.00048828125,
+                      660.0
+                    ],
+                    [
+                      2040.8345947265625,
+                      644.857421875
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.31012579798698425,
+                  "coordinate": [
+                    2058,
+                    471,
+                    5361,
+                    654
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2058.0,
+                      482.0
+                    ],
+                    [
+                      2088.0,
+                      638.0
+                    ],
+                    [
+                      5331.0,
+                      643.0
+                    ],
+                    [
+                      5331.0,
+                      492.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Mega Evolution EX rule\n\nFekèmon EX is Knocked Out, your assessment gets 3 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "ex rule When your Pokémon eX is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  2052,
+                  260,
+                  4968,
+                  658
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2053.6650390625,
+                    258.719482421875
+                  ],
+                  [
+                    4969.06298828125,
+                    284.23046875
+                  ],
+                  [
+                    4965.84033203125,
+                    652.497314453125
+                  ],
+                  [
+                    2050.4423828125,
+                    626.986328125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.37438952922821045,
+                  "coordinate": [
+                    2052,
+                    260,
+                    4968,
+                    658
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2053.6650390625,
+                      258.719482421875
+                    ],
+                    [
+                      4969.06298828125,
+                      284.23046875
+                    ],
+                    [
+                      4965.84033203125,
+                      652.497314453125
+                    ],
+                    [
+                      2050.4423828125,
+                      626.986328125
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.31223711371421814,
+                  "coordinate": [
+                    2069,
+                    474,
+                    4940,
+                    657
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2069.0,
+                      480.0
+                    ],
+                    [
+                      2099.0,
+                      506.0
+                    ],
+                    [
+                      2069.0,
+                      636.0
+                    ],
+                    [
+                      4939.0,
+                      646.0
+                    ],
+                    [
+                      4939.0,
+                      490.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "ex rule When your Pokémon eX is\n\nKnocked Out, your opponent gets 2 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Fekèmon êX is Knocked Out, your account gets 3 points.",
+                "block_bbox": [
+                  2057,
+                  472,
+                  5362,
+                  652
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2057.0,
+                    483.0
+                  ],
+                  [
+                    5332.45166015625,
+                    493.00140380859375
+                  ],
+                  [
+                    5332.0,
+                    641.0
+                  ],
+                  [
+                    2056.54833984375,
+                    630.9985961914062
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3038707375526428,
+                  "coordinate": [
+                    2057,
+                    472,
+                    5362,
+                    652
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2057.0,
+                      483.0
+                    ],
+                    [
+                      5332.45166015625,
+                      493.00140380859375
+                    ],
+                    [
+                      5332.0,
+                      641.0
+                    ],
+                    [
+                      2056.54833984375,
+                      630.9985961914062
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Fekèmon êX is Knocked Out, your account gets 3 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "ex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  2051,
+                  263,
+                  4979,
+                  680
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2052.397705078125,
+                    262.2376403808594
+                  ],
+                  [
+                    4979.390625,
+                    288.00341796875
+                  ],
+                  [
+                    4976.1181640625,
+                    659.749267578125
+                  ],
+                  [
+                    2049.125244140625,
+                    633.9835205078125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.43000277876853943,
+                  "coordinate": [
+                    2051,
+                    263,
+                    4979,
+                    680
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2052.397705078125,
+                      262.2376403808594
+                    ],
+                    [
+                      4979.390625,
+                      288.00341796875
+                    ],
+                    [
+                      4976.1181640625,
+                      659.749267578125
+                    ],
+                    [
+                      2049.125244140625,
+                      633.9835205078125
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "ex rule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "ex rule When your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  2052,
+                  259,
+                  4978,
+                  679
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2053.82275390625,
+                    257.902587890625
+                  ],
+                  [
+                    4978.232421875,
+                    280.00933837890625
+                  ],
+                  [
+                    4975.40625,
+                    653.8724365234375
+                  ],
+                  [
+                    2050.99658203125,
+                    631.7656860351562
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3910101056098938,
+                  "coordinate": [
+                    2052,
+                    259,
+                    4978,
+                    679
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2053.82275390625,
+                      257.902587890625
+                    ],
+                    [
+                      4978.232421875,
+                      280.00933837890625
+                    ],
+                    [
+                      4975.40625,
+                      653.8724365234375
+                    ],
+                    [
+                      2050.99658203125,
+                      631.7656860351562
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "ex rule When your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  107,
+                  1,
+                  5837,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    107.0,
+                    1.0
+                  ],
+                  [
+                    5837.0,
+                    1.0
+                  ],
+                  [
+                    5837.0,
+                    1025.0
+                  ],
+                  [
+                    107.0,
+                    1025.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.5325086116790771,
+                  "coordinate": [
+                    107,
+                    1,
+                    5837,
+                    1024
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      107.0,
+                      1.0
+                    ],
+                    [
+                      5837.0,
+                      1.0
+                    ],
+                    [
+                      5837.0,
+                      1025.0
+                    ],
+                    [
+                      107.0,
+                      1025.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_107_1_5837_1024.jpg\" alt=\"Image\" width=\"97%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_107_1_5837_1024.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//3359ea67-8d5e-4bef-9a55-31e311dd8cc3/markdown_0/imgs/img_in_image_box_107_1_5837_1024.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A11Z%2F-1%2F%2F95695f2f8f134b7ecc64f316be3975e91d7751ca6b058aa04074e58f1e87278c"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Souichirou Gunjima\nIn hot weather, this Pokémon makes ice shards\nwith its six tails and sprays them around to cool\nitself off.",
+                "block_bbox": [
+                  400,
+                  139,
+                  1757,
+                  538
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    400.0,
+                    139.0
+                  ],
+                  [
+                    1757.0,
+                    139.0
+                  ],
+                  [
+                    1757.0,
+                    538.0
+                  ],
+                  [
+                    400.0,
+                    538.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2582,
+                  195,
+                  5496,
+                  761
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2582.0,
+                    195.0
+                  ],
+                  [
+                    5496.0,
+                    195.0
+                  ],
+                  [
+                    5496.0,
+                    761.0
+                  ],
+                  [
+                    2582.0,
+                    761.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3717942535877228,
+                  "coordinate": [
+                    390,
+                    141,
+                    1754,
+                    307
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      390.0,
+                      141.0
+                    ],
+                    [
+                      1754.0,
+                      141.0
+                    ],
+                    [
+                      1754.0,
+                      307.0
+                    ],
+                    [
+                      390.0,
+                      307.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.40591368079185486,
+                  "coordinate": [
+                    400,
+                    139,
+                    1757,
+                    538
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      400.0,
+                      139.0
+                    ],
+                    [
+                      1757.0,
+                      139.0
+                    ],
+                    [
+                      1757.0,
+                      538.0
+                    ],
+                    [
+                      400.0,
+                      538.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4875709116458893,
+                  "coordinate": [
+                    2582,
+                    195,
+                    5496,
+                    761
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2582.0,
+                      195.0
+                    ],
+                    [
+                      5496.0,
+                      195.0
+                    ],
+                    [
+                      5496.0,
+                      761.0
+                    ],
+                    [
+                      2582.0,
+                      761.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Souichirou Gunjima\n\nIn hot weather, this Pokémon makes ice shards\n\nwith its six tails and sprays them around to cool\n\nitself off.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Taiga Kasai",
+                "block_bbox": [
+                  376,
+                  138,
+                  1349,
+                  544
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    376.0,
+                    138.0
+                  ],
+                  [
+                    1349.0,
+                    138.0
+                  ],
+                  [
+                    1349.0,
+                    544.0
+                  ],
+                  [
+                    376.0,
+                    544.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "When it uses its large call fin, it picks up speed rapidly in the water. It is strong in spite of its small size.",
+                "block_bbox": [
+                  2723,
+                  193,
+                  5510,
+                  766
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2723.0,
+                    193.0
+                  ],
+                  [
+                    5510.0,
+                    193.0
+                  ],
+                  [
+                    5510.0,
+                    766.0
+                  ],
+                  [
+                    2723.0,
+                    766.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.354559063911438,
+                  "coordinate": [
+                    376,
+                    138,
+                    1349,
+                    544
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      376.0,
+                      138.0
+                    ],
+                    [
+                      1349.0,
+                      138.0
+                    ],
+                    [
+                      1349.0,
+                      544.0
+                    ],
+                    [
+                      376.0,
+                      544.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4117096960544586,
+                  "coordinate": [
+                    2723,
+                    193,
+                    5510,
+                    766
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2723.0,
+                      193.0
+                    ],
+                    [
+                      5510.0,
+                      193.0
+                    ],
+                    [
+                      5510.0,
+                      766.0
+                    ],
+                    [
+                      2723.0,
+                      766.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Taiga Kasai\n\nWhen it uses its large call fin, it picks up speed rapidly in the water. It is strong in spite of its small size.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Taiga Kasai",
+                "block_bbox": [
+                  381,
+                  137,
+                  1348,
+                  543
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    381.0,
+                    137.0
+                  ],
+                  [
+                    1348.0,
+                    137.0
+                  ],
+                  [
+                    1348.0,
+                    543.0
+                  ],
+                  [
+                    381.0,
+                    543.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.",
+                "block_bbox": [
+                  2550,
+                  194,
+                  5510,
+                  765
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2550.18505859375,
+                    178.1695556640625
+                  ],
+                  [
+                    5509.38134765625,
+                    195.3616943359375
+                  ],
+                  [
+                    5506.19091796875,
+                    744.4890747070312
+                  ],
+                  [
+                    2546.99462890625,
+                    727.2969360351562
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.342214435338974,
+                  "coordinate": [
+                    388,
+                    140,
+                    1347,
+                    311
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      388.1894226074219,
+                      145.8394012451172
+                    ],
+                    [
+                      1346.77587890625,
+                      151.00421142578125
+                    ],
+                    [
+                      1345.91748046875,
+                      310.31207275390625
+                    ],
+                    [
+                      387.3310241699219,
+                      305.14727783203125
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3840341866016388,
+                  "coordinate": [
+                    381,
+                    137,
+                    1348,
+                    543
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      381.0,
+                      137.0
+                    ],
+                    [
+                      1348.0,
+                      137.0
+                    ],
+                    [
+                      1348.0,
+                      543.0
+                    ],
+                    [
+                      381.0,
+                      543.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6590719223022461,
+                  "coordinate": [
+                    2550,
+                    194,
+                    5510,
+                    765
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2550.18505859375,
+                      178.1695556640625
+                    ],
+                    [
+                      5509.38134765625,
+                      195.3616943359375
+                    ],
+                    [
+                      5506.19091796875,
+                      744.4890747070312
+                    ],
+                    [
+                      2546.99462890625,
+                      727.2969360351562
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Taiga Kasai\n\nIt is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Illus. Taiga Kasai",
+                "block_bbox": [
+                  376,
+                  138,
+                  1343,
+                  541
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    376.0,
+                    138.0
+                  ],
+                  [
+                    1343.0,
+                    138.0
+                  ],
+                  [
+                    1343.0,
+                    541.0
+                  ],
+                  [
+                    376.0,
+                    541.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+                "block_bbox": [
+                  2577,
+                  191,
+                  5512,
+                  750
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2576.425537109375,
+                    212.10784912109375
+                  ],
+                  [
+                    5510.18408203125,
+                    206.78948974609375
+                  ],
+                  [
+                    5511.1396484375,
+                    733.9473266601562
+                  ],
+                  [
+                    2577.38134765625,
+                    739.2656860351562
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3522532284259796,
+                  "coordinate": [
+                    390,
+                    142,
+                    1347,
+                    309
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      390.0,
+                      142.0
+                    ],
+                    [
+                      1347.0,
+                      142.0
+                    ],
+                    [
+                      1347.0,
+                      309.0
+                    ],
+                    [
+                      390.0,
+                      309.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.343103289604187,
+                  "coordinate": [
+                    376,
+                    138,
+                    1343,
+                    541
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      376.0,
+                      138.0
+                    ],
+                    [
+                      1343.0,
+                      138.0
+                    ],
+                    [
+                      1343.0,
+                      541.0
+                    ],
+                    [
+                      376.0,
+                      541.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5635979175567627,
+                  "coordinate": [
+                    2577,
+                    191,
+                    5512,
+                    750
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2576.425537109375,
+                      212.10784912109375
+                    ],
+                    [
+                      5510.18408203125,
+                      206.78948974609375
+                    ],
+                    [
+                      5511.1396484375,
+                      733.9473266601562
+                    ],
+                    [
+                      2577.38134765625,
+                      739.2656860351562
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Illus. Taiga Kasai\n\nSwampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1651,
+                  0,
+                  2400,
+                  119
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1651.0,
+                    -1.0
+                  ],
+                  [
+                    2400.0,
+                    -1.0
+                  ],
+                  [
+                    2400.0,
+                    119.0
+                  ],
+                  [
+                    1651.0,
+                    119.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. Taigo Kasai\n*",
+                "block_bbox": [
+                  396,
+                  139,
+                  1351,
+                  551
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    396.0,
+                    139.0
+                  ],
+                  [
+                    1351.0,
+                    139.0
+                  ],
+                  [
+                    1351.0,
+                    551.0
+                  ],
+                  [
+                    396.0,
+                    551.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+                "block_bbox": [
+                  2472,
+                  294,
+                  5511,
+                  666
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    2472.0,
+                    294.0
+                  ],
+                  [
+                    5511.0,
+                    294.0
+                  ],
+                  [
+                    5511.0,
+                    666.0
+                  ],
+                  [
+                    2472.0,
+                    666.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.35735806822776794,
+                  "coordinate": [
+                    1651,
+                    0,
+                    2400,
+                    119
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1651.0,
+                      -1.0
+                    ],
+                    [
+                      2400.0,
+                      -1.0
+                    ],
+                    [
+                      2400.0,
+                      119.0
+                    ],
+                    [
+                      1651.0,
+                      119.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3586024045944214,
+                  "coordinate": [
+                    391,
+                    140,
+                    1348,
+                    312
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      391.05474853515625,
+                      145.84388732910156
+                    ],
+                    [
+                      1347.80908203125,
+                      151.00436401367188
+                    ],
+                    [
+                      1346.944580078125,
+                      311.31256103515625
+                    ],
+                    [
+                      390.19012451171875,
+                      306.152099609375
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.355215460062027,
+                  "coordinate": [
+                    396,
+                    139,
+                    1351,
+                    551
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      396.0,
+                      139.0
+                    ],
+                    [
+                      1351.0,
+                      139.0
+                    ],
+                    [
+                      1351.0,
+                      551.0
+                    ],
+                    [
+                      396.0,
+                      551.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.740648627281189,
+                  "coordinate": [
+                    2472,
+                    294,
+                    5511,
+                    666
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2472.0,
+                      294.0
+                    ],
+                    [
+                      5511.0,
+                      294.0
+                    ],
+                    [
+                      5511.0,
+                      666.0
+                    ],
+                    [
+                      2472.0,
+                      666.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1651_0_2400_119.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIllus. Taigo Kasai\n\n*\n\nResearch is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+            "images": {
+              "imgs/img_in_image_box_1651_0_2400_119.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//d07e4be0-beec-4311-b88d-cee60a128acd/markdown_0/imgs/img_in_image_box_1651_0_2400_119.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A05Z%2F-1%2F%2F7babc6b1b7ca5d84f6b5735a81272b4381d1dcece2e385b3cd487b54d2d39b4e"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1648,
+                  0,
+                  2399,
+                  117
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1648.0,
+                    -1.0
+                  ],
+                  [
+                    2399.0,
+                    -1.0
+                  ],
+                  [
+                    2399.0,
+                    117.0
+                  ],
+                  [
+                    1648.0,
+                    117.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. MAHOU\n*",
+                "block_bbox": [
+                  392,
+                  138,
+                  1196,
+                  552
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    392.0,
+                    138.0
+                  ],
+                  [
+                    1196.0,
+                    138.0
+                  ],
+                  [
+                    1196.0,
+                    552.0
+                  ],
+                  [
+                    392.0,
+                    552.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "This Pokémon absorbs electricity from telephone poles. It shorts out the electricity stored inside its body to create noises.",
+                "block_bbox": [
+                  2466,
+                  189,
+                  5513,
+                  763
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    2465.5390625,
+                    189.10098266601562
+                  ],
+                  [
+                    5510.166015625,
+                    179.00607299804688
+                  ],
+                  [
+                    5512.0,
+                    732.0
+                  ],
+                  [
+                    2467.373046875,
+                    742.0948486328125
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.40634864568710327,
+                  "coordinate": [
+                    1648,
+                    0,
+                    2399,
+                    117
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1648.0,
+                      -1.0
+                    ],
+                    [
+                      2399.0,
+                      -1.0
+                    ],
+                    [
+                      2399.0,
+                      117.0
+                    ],
+                    [
+                      1648.0,
+                      117.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3806905746459961,
+                  "coordinate": [
+                    392,
+                    138,
+                    1196,
+                    552
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      392.0,
+                      138.0
+                    ],
+                    [
+                      1196.0,
+                      138.0
+                    ],
+                    [
+                      1196.0,
+                      552.0
+                    ],
+                    [
+                      392.0,
+                      552.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.673584520816803,
+                  "coordinate": [
+                    2466,
+                    189,
+                    5513,
+                    763
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2465.5390625,
+                      189.10098266601562
+                    ],
+                    [
+                      5510.166015625,
+                      179.00607299804688
+                    ],
+                    [
+                      5512.0,
+                      732.0
+                    ],
+                    [
+                      2467.373046875,
+                      742.0948486328125
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1648_0_2399_117.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIllus. MAHOU\n\n*\n\nThis Pokémon absorbs electricity from telephone poles. It shorts out the electricity stored inside its body to create noises.",
+            "images": {
+              "imgs/img_in_image_box_1648_0_2399_117.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//28d7436b-24d5-4b49-933a-bb693a1735b3/markdown_0/imgs/img_in_image_box_1648_0_2399_117.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A05Z%2F-1%2F%2F527b649f66c7422325293a64cc8c54c99df1ecd3cd2045cca077df43fa7b656c"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1647,
+                  0,
+                  2401,
+                  115
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1647.0,
+                    -1.0
+                  ],
+                  [
+                    2401.0,
+                    -1.0
+                  ],
+                  [
+                    2401.0,
+                    115.0
+                  ],
+                  [
+                    1647.0,
+                    115.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. MAHOU\n*",
+                "block_bbox": [
+                  395,
+                  138,
+                  1200,
+                  548
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    395.0,
+                    138.0
+                  ],
+                  [
+                    1200.0,
+                    138.0
+                  ],
+                  [
+                    1200.0,
+                    548.0
+                  ],
+                  [
+                    395.0,
+                    548.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+                "block_bbox": [
+                  2690,
+                  191,
+                  5525,
+                  768
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    2690.0,
+                    191.0
+                  ],
+                  [
+                    5525.0,
+                    191.0
+                  ],
+                  [
+                    5525.0,
+                    768.0
+                  ],
+                  [
+                    2690.0,
+                    768.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.3871987462043762,
+                  "coordinate": [
+                    1647,
+                    0,
+                    2401,
+                    115
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1647.0,
+                      -1.0
+                    ],
+                    [
+                      2401.0,
+                      -1.0
+                    ],
+                    [
+                      2401.0,
+                      115.0
+                    ],
+                    [
+                      1647.0,
+                      115.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4047200381755829,
+                  "coordinate": [
+                    395,
+                    138,
+                    1200,
+                    548
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      395.0,
+                      138.0
+                    ],
+                    [
+                      1200.0,
+                      138.0
+                    ],
+                    [
+                      1200.0,
+                      548.0
+                    ],
+                    [
+                      395.0,
+                      548.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6723191738128662,
+                  "coordinate": [
+                    2690,
+                    191,
+                    5525,
+                    768
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2690.0,
+                      191.0
+                    ],
+                    [
+                      5525.0,
+                      191.0
+                    ],
+                    [
+                      5525.0,
+                      768.0
+                    ],
+                    [
+                      2690.0,
+                      768.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1647_0_2401_115.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\nIllus. MAHOU\n\n*\n\nIts dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+            "images": {
+              "imgs/img_in_image_box_1647_0_2401_115.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//d75f752e-331e-4bcd-b1e0-29c877756b77/markdown_0/imgs/img_in_image_box_1647_0_2401_115.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A07Z%2F-1%2F%2Fb0c4e94cc63562e2e102d991a954787692750bf0855803796d7e9ae7e94736b0"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "type": "pdf",
+        "numPages": 30,
+        "pages": [
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          }
+        ]
+      }
+    }
+  },
+  "error": null
+}

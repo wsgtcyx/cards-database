@@ -1,0 +1,3648 @@
+{
+  "ok": true,
+  "text": "Ilios. Souchirou Gunjima\n◇ ◇\nYou may play only 1 Supporter card during your turn.\n\nIUs. Nobusawa/Mochipyo\n◇ ◇\nYou may play only 1 Supporter card during your turn.\n\nIUs. Teeziro\n◇ ◇\nYou may play only 1 Supporter card during your turn.\n\nIlios. AYUMI ODASHIMA\nYou may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.\n\nIlios. AYUMI ODASHIMA\nYou may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.\n\nIII. OKACHEKE\n\nTieves le a village d'une boasté a connué l'ancien\ndes sunnagly! versilie entre est gits Predunser.\n\n112. XC Empire\nDiscovering the small origin of the emis. The king\nhad it from delivering it to the body in\nlamin of men's men.\n\nWes. Yoka Wishida\n☆\n\nIf you've been accepted by Bangra, I'm burning\nmade is mysteriously no longer hot so the house.\n\nle la vial ce have whinned che see by exuding\ndownpouram. le l'est le bain est lep de a uniteux craché.\n\n1122\n\nIn rends to move in a pack with others.\nThey closer in a tight group to sleep in a case.\n\nUa. SE 9400444\n\nYuzho Alosc\n\nPoochyera purpurea their prey in packs. Once the prey is exhausted, the pack finishes to off. But sometimes the prey realizes, and the pack tells,\n\n1100, 11000\n\n1111. Kozumurve Yozoviyev\nHiv Petkinov arkaed III) million year ago. Tamm\nFlammar abraed it and suscided a summer so to back.\n\nI've: MINAMINAMU Take\nIts whiskers be essential for maintaining its\nbalance. No matter how friendly you are, it will\nget angry and bite you if you touch its whiskers.\n\nl'air est mors 2000 gouron chèvant, il est\n\nex rule\nWhen your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+  "result": {
+    "logId": "3c54dd40-f30e-4f40-a46c-1a80e79d1085",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilios. Souchirou Gunjima\n◇ ◇\nYou may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  397,
+                  127,
+                  1758,
+                  567
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    127.0
+                  ],
+                  [
+                    1758.0,
+                    127.0
+                  ],
+                  [
+                    1758.0,
+                    567.0
+                  ],
+                  [
+                    397.0,
+                    567.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1977,
+                  225,
+                  5494,
+                  457
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1977.0,
+                    225.0
+                  ],
+                  [
+                    5494.0,
+                    225.0
+                  ],
+                  [
+                    5494.0,
+                    457.0
+                  ],
+                  [
+                    1977.0,
+                    457.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6685439944267273,
+                  "coordinate": [
+                    397,
+                    127,
+                    1758,
+                    567
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      127.0
+                    ],
+                    [
+                      1758.0,
+                      127.0
+                    ],
+                    [
+                      1758.0,
+                      567.0
+                    ],
+                    [
+                      397.0,
+                      567.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6519732475280762,
+                  "coordinate": [
+                    1977,
+                    225,
+                    5494,
+                    457
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1977.0,
+                      225.0
+                    ],
+                    [
+                      5494.0,
+                      225.0
+                    ],
+                    [
+                      5494.0,
+                      457.0
+                    ],
+                    [
+                      1977.0,
+                      457.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilios. Souchirou Gunjima\n\n◇ ◇\n\nYou may play only 1 Supporter card during your turn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "IUs. Nobusawa/Mochipyo\n◇ ◇\nYou may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  397,
+                  130,
+                  1798,
+                  566
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    130.0
+                  ],
+                  [
+                    1798.0,
+                    130.0
+                  ],
+                  [
+                    1798.0,
+                    566.0
+                  ],
+                  [
+                    397.0,
+                    566.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1978,
+                  225,
+                  5501,
+                  456
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1978.0,
+                    225.0
+                  ],
+                  [
+                    5501.0,
+                    225.0
+                  ],
+                  [
+                    5501.0,
+                    456.0
+                  ],
+                  [
+                    1978.0,
+                    456.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6639663577079773,
+                  "coordinate": [
+                    397,
+                    130,
+                    1798,
+                    566
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      130.0
+                    ],
+                    [
+                      1798.0,
+                      130.0
+                    ],
+                    [
+                      1798.0,
+                      566.0
+                    ],
+                    [
+                      397.0,
+                      566.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6179643869400024,
+                  "coordinate": [
+                    1978,
+                    225,
+                    5501,
+                    456
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1978.0,
+                      225.0
+                    ],
+                    [
+                      5501.0,
+                      225.0
+                    ],
+                    [
+                      5501.0,
+                      456.0
+                    ],
+                    [
+                      1978.0,
+                      456.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "IUs. Nobusawa/Mochipyo\n\n◇ ◇\n\nYou may play only 1 Supporter card during your turn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "IUs. Teeziro\n◇ ◇\nYou may play only 1 Supporter card during your turn.",
+                "block_bbox": [
+                  399,
+                  132,
+                  1111,
+                  567
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    399.0,
+                    132.0
+                  ],
+                  [
+                    1111.0,
+                    132.0
+                  ],
+                  [
+                    1111.0,
+                    567.0
+                  ],
+                  [
+                    399.0,
+                    567.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1977,
+                  225,
+                  5500,
+                  457
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1977.000244140625,
+                    231.00003051757812
+                  ],
+                  [
+                    5499.5537109375,
+                    241.00161743164062
+                  ],
+                  [
+                    5498.916015625,
+                    465.7471008300781
+                  ],
+                  [
+                    1976.362060546875,
+                    455.7455139160156
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4845772683620453,
+                  "coordinate": [
+                    399,
+                    132,
+                    1111,
+                    567
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      399.0,
+                      132.0
+                    ],
+                    [
+                      1111.0,
+                      132.0
+                    ],
+                    [
+                      1111.0,
+                      567.0
+                    ],
+                    [
+                      399.0,
+                      567.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6223070621490479,
+                  "coordinate": [
+                    1977,
+                    225,
+                    5500,
+                    457
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1977.000244140625,
+                      231.00003051757812
+                    ],
+                    [
+                      5499.5537109375,
+                      241.00161743164062
+                    ],
+                    [
+                      5498.916015625,
+                      465.7471008300781
+                    ],
+                    [
+                      1976.362060546875,
+                      455.7455139160156
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "IUs. Teeziro\n\n◇ ◇\n\nYou may play only 1 Supporter card during your turn.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilios. AYUMI ODASHIMA\nYou may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.",
+                "block_bbox": [
+                  401,
+                  123,
+                  1731,
+                  570
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    401.0,
+                    123.0
+                  ],
+                  [
+                    1731.0,
+                    123.0
+                  ],
+                  [
+                    1731.0,
+                    570.0
+                  ],
+                  [
+                    401.0,
+                    570.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1972,
+                  30,
+                  5550,
+                  663
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1972.0,
+                    30.0
+                  ],
+                  [
+                    5550.0,
+                    30.0
+                  ],
+                  [
+                    5550.0,
+                    663.0
+                  ],
+                  [
+                    1972.0,
+                    663.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.620566725730896,
+                  "coordinate": [
+                    401,
+                    123,
+                    1731,
+                    570
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      401.0,
+                      123.0
+                    ],
+                    [
+                      1731.0,
+                      123.0
+                    ],
+                    [
+                      1731.0,
+                      570.0
+                    ],
+                    [
+                      401.0,
+                      570.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7953418493270874,
+                  "coordinate": [
+                    1972,
+                    30,
+                    5550,
+                    663
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1972.0,
+                      30.0
+                    ],
+                    [
+                      5550.0,
+                      30.0
+                    ],
+                    [
+                      5550.0,
+                      663.0
+                    ],
+                    [
+                      1972.0,
+                      663.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilios. AYUMI ODASHIMA\n\nYou may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Ilios. AYUMI ODASHIMA\nYou may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.",
+                "block_bbox": [
+                  397,
+                  122,
+                  1730,
+                  570
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    397.0,
+                    122.0
+                  ],
+                  [
+                    1730.0,
+                    122.0
+                  ],
+                  [
+                    1730.0,
+                    570.0
+                  ],
+                  [
+                    397.0,
+                    570.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  1971,
+                  27,
+                  5552,
+                  664
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1971.0,
+                    27.0
+                  ],
+                  [
+                    5552.0,
+                    27.0
+                  ],
+                  [
+                    5552.0,
+                    664.0
+                  ],
+                  [
+                    1971.0,
+                    664.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6167328357696533,
+                  "coordinate": [
+                    397,
+                    122,
+                    1730,
+                    570
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      397.0,
+                      122.0
+                    ],
+                    [
+                      1730.0,
+                      122.0
+                    ],
+                    [
+                      1730.0,
+                      570.0
+                    ],
+                    [
+                      397.0,
+                      570.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.793649435043335,
+                  "coordinate": [
+                    1971,
+                    27,
+                    5552,
+                    664
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      1971.0,
+                      27.0
+                    ],
+                    [
+                      5552.0,
+                      27.0
+                    ],
+                    [
+                      5552.0,
+                      664.0
+                    ],
+                    [
+                      1971.0,
+                      664.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Ilios. AYUMI ODASHIMA\n\nYou may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  3,
+                  0,
+                  5872,
+                  1023
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    3.0,
+                    -1.0
+                  ],
+                  [
+                    5875.0,
+                    -1.0
+                  ],
+                  [
+                    5875.0,
+                    1023.0
+                  ],
+                  [
+                    3.0,
+                    1023.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.5874531865119934,
+                  "coordinate": [
+                    3,
+                    0,
+                    5872,
+                    1023
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      3.0,
+                      -1.0
+                    ],
+                    [
+                      5875.0,
+                      -1.0
+                    ],
+                    [
+                      5875.0,
+                      1023.0
+                    ],
+                    [
+                      3.0,
+                      1023.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_3_0_5872_1023.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_3_0_5872_1023.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//acaf1406-b7f9-4b51-9bd0-b21ca5c5cfb9/markdown_0/imgs/img_in_image_box_3_0_5872_1023.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A02Z%2F-1%2F%2F5a0aad040a33b13ddf3fde35bb441864e35b577f78dbe1f82ccdd7fab03a5117"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  13,
+                  0,
+                  5872,
+                  1022
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    13.0,
+                    -2.0
+                  ],
+                  [
+                    5885.0,
+                    -2.0
+                  ],
+                  [
+                    5885.0,
+                    1022.0
+                  ],
+                  [
+                    13.0,
+                    1022.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.8009845018386841,
+                  "coordinate": [
+                    13,
+                    0,
+                    5872,
+                    1022
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      13.0,
+                      -2.0
+                    ],
+                    [
+                      5885.0,
+                      -2.0
+                    ],
+                    [
+                      5885.0,
+                      1022.0
+                    ],
+                    [
+                      13.0,
+                      1022.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_13_0_5872_1022.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_13_0_5872_1022.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//6cf697c5-c41c-4229-9f16-0508f2c92e43/markdown_0/imgs/img_in_image_box_13_0_5872_1022.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A04Z%2F-1%2F%2F15bdd3f0755c2a72003680d05e5909e04e7781ba1f62f88b0cd6dc33863d320f"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "III. OKACHEKE",
+                "block_bbox": [
+                  381,
+                  140,
+                  1355,
+                  309
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    380.2188415527344,
+                    156.00408935546875
+                  ],
+                  [
+                    1353.9998779296875,
+                    150.99993896484375
+                  ],
+                  [
+                    1354.7808837890625,
+                    302.99591064453125
+                  ],
+                  [
+                    380.9998779296875,
+                    308.00006103515625
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Tieves le a village d'une boasté a connué l'ancien\ndes sunnagly! versilie entre est gits Predunser.",
+                "block_bbox": [
+                  2660,
+                  273,
+                  5500,
+                  672
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2660.0,
+                    273.0
+                  ],
+                  [
+                    5500.0,
+                    273.0
+                  ],
+                  [
+                    5500.0,
+                    672.0
+                  ],
+                  [
+                    2660.0,
+                    672.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3599012792110443,
+                  "coordinate": [
+                    381,
+                    140,
+                    1355,
+                    309
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      380.2188415527344,
+                      156.00408935546875
+                    ],
+                    [
+                      1353.9998779296875,
+                      150.99993896484375
+                    ],
+                    [
+                      1354.7808837890625,
+                      302.99591064453125
+                    ],
+                    [
+                      380.9998779296875,
+                      308.00006103515625
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5339344143867493,
+                  "coordinate": [
+                    2660,
+                    273,
+                    5500,
+                    672
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2660.0,
+                      273.0
+                    ],
+                    [
+                      5500.0,
+                      273.0
+                    ],
+                    [
+                      5500.0,
+                      672.0
+                    ],
+                    [
+                      2660.0,
+                      672.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "III. OKACHEKE\n\nTieves le a village d'une boasté a connué l'ancien\n\ndes sunnagly! versilie entre est gits Predunser.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "doc_title",
+                "block_content": "112. XC Empire\nDiscovering the small origin of the emis. The king\nhad it from delivering it to the body in\nlamin of men's men.",
+                "block_bbox": [
+                  0,
+                  0,
+                  5854,
+                  1023
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    -17.0,
+                    -1.0
+                  ],
+                  [
+                    5854.0,
+                    -1.0
+                  ],
+                  [
+                    5854.0,
+                    1023.0
+                  ],
+                  [
+                    -17.0,
+                    1023.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.5302777290344238,
+                  "coordinate": [
+                    0,
+                    0,
+                    5854,
+                    1023
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      -17.0,
+                      -1.0
+                    ],
+                    [
+                      5854.0,
+                      -1.0
+                    ],
+                    [
+                      5854.0,
+                      1023.0
+                    ],
+                    [
+                      -17.0,
+                      1023.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# 112. XC Empire Discovering the small origin of the emis. The king had it from delivering it to the body in lamin of men's men.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Wes. Yoka Wishida\n☆",
+                "block_bbox": [
+                  384,
+                  129,
+                  1440,
+                  549
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    384.0,
+                    129.0
+                  ],
+                  [
+                    1440.0,
+                    129.0
+                  ],
+                  [
+                    1440.0,
+                    549.0
+                  ],
+                  [
+                    384.0,
+                    549.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "If you've been accepted by Bangra, I'm burning\nmade is mysteriously no longer hot so the house.",
+                "block_bbox": [
+                  2492,
+                  264,
+                  5489,
+                  1024
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    2492.0,
+                    264.0
+                  ],
+                  [
+                    5489.0,
+                    264.0
+                  ],
+                  [
+                    5489.0,
+                    1027.0
+                  ],
+                  [
+                    2492.0,
+                    1027.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.33716779947280884,
+                  "coordinate": [
+                    384,
+                    133,
+                    1427,
+                    308
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      384.19158935546875,
+                      129.5738983154297
+                    ],
+                    [
+                      1426.4453125,
+                      139.85250854492188
+                    ],
+                    [
+                      1424.794189453125,
+                      307.26422119140625
+                    ],
+                    [
+                      382.54058837890625,
+                      296.9856262207031
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4568338096141815,
+                  "coordinate": [
+                    384,
+                    129,
+                    1440,
+                    549
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      384.0,
+                      129.0
+                    ],
+                    [
+                      1440.0,
+                      129.0
+                    ],
+                    [
+                      1440.0,
+                      549.0
+                    ],
+                    [
+                      384.0,
+                      549.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6652697920799255,
+                  "coordinate": [
+                    2487,
+                    270,
+                    5484,
+                    666
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      2485.78564453125,
+                      291.0042419433594
+                    ],
+                    [
+                      5483.00048828125,
+                      280.9999084472656
+                    ],
+                    [
+                      5484.21533203125,
+                      644.995849609375
+                    ],
+                    [
+                      2487.00048828125,
+                      655.000244140625
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.32625675201416016,
+                  "coordinate": [
+                    2492,
+                    264,
+                    5489,
+                    1024
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      2492.0,
+                      264.0
+                    ],
+                    [
+                      5489.0,
+                      264.0
+                    ],
+                    [
+                      5489.0,
+                      1027.0
+                    ],
+                    [
+                      2492.0,
+                      1027.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Wes. Yoka Wishida\n\n☆\n\nIf you've been accepted by Bangra, I'm burning\n\nmade is mysteriously no longer hot so the house.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  27,
+                  0,
+                  5872,
+                  1022
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    27.0,
+                    -2.0
+                  ],
+                  [
+                    5899.0,
+                    -2.0
+                  ],
+                  [
+                    5899.0,
+                    1022.0
+                  ],
+                  [
+                    27.0,
+                    1022.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.8354859948158264,
+                  "coordinate": [
+                    27,
+                    0,
+                    5872,
+                    1022
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      27.0,
+                      -2.0
+                    ],
+                    [
+                      5899.0,
+                      -2.0
+                    ],
+                    [
+                      5899.0,
+                      1022.0
+                    ],
+                    [
+                      27.0,
+                      1022.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_27_0_5872_1022.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_27_0_5872_1022.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//a0f041e0-4916-4d53-b448-ea447be5dd05/markdown_0/imgs/img_in_image_box_27_0_5872_1022.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A05Z%2F-1%2F%2F2d4c0d28998a70ad8ca130fc3911f3833061c05895f09dea4a2452903ff8f688"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "le la vial ce have whinned che see by exuding\ndownpouram. le l'est le bain est lep de a uniteux craché.",
+                "block_bbox": [
+                  2429,
+                  268,
+                  5550,
+                  668
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2427.79248046875,
+                    280.04229736328125
+                  ],
+                  [
+                    5548.0517578125,
+                    270.04150390625
+                  ],
+                  [
+                    5549.259765625,
+                    646.9992065429688
+                  ],
+                  [
+                    2429.00048828125,
+                    657.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3701969385147095,
+                  "coordinate": [
+                    2429,
+                    268,
+                    5550,
+                    668
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2427.79248046875,
+                      280.04229736328125
+                    ],
+                    [
+                      5548.0517578125,
+                      270.04150390625
+                    ],
+                    [
+                      5549.259765625,
+                      646.9992065429688
+                    ],
+                    [
+                      2429.00048828125,
+                      657.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "le la vial ce have whinned che see by exuding\n\ndownpouram. le l'est le bain est lep de a uniteux craché.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "doc_title",
+                "block_content": "1122",
+                "block_bbox": [
+                  7,
+                  0,
+                  5872,
+                  1023
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    7.0,
+                    -1.0
+                  ],
+                  [
+                    5879.0,
+                    -1.0
+                  ],
+                  [
+                    5879.0,
+                    1023.0
+                  ],
+                  [
+                    7.0,
+                    1023.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.486817866563797,
+                  "coordinate": [
+                    7,
+                    0,
+                    5872,
+                    1023
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      7.0,
+                      -1.0
+                    ],
+                    [
+                      5879.0,
+                      -1.0
+                    ],
+                    [
+                      5879.0,
+                      1023.0
+                    ],
+                    [
+                      7.0,
+                      1023.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# 1122",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1646,
+                  0,
+                  2398,
+                  101
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1646.0,
+                    -1.0
+                  ],
+                  [
+                    2398.0,
+                    -1.0
+                  ],
+                  [
+                    2398.0,
+                    101.0
+                  ],
+                  [
+                    1646.0,
+                    101.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.30553311109542847,
+                  "coordinate": [
+                    1646,
+                    0,
+                    2398,
+                    101
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1646.0,
+                      -1.0
+                    ],
+                    [
+                      2398.0,
+                      -1.0
+                    ],
+                    [
+                      2398.0,
+                      101.0
+                    ],
+                    [
+                      1646.0,
+                      101.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1646_0_2398_101.jpg\" alt=\"Image\" width=\"12%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_1646_0_2398_101.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//c1c8d084-0a23-4eb8-9fe5-5c8697fe9144/markdown_0/imgs/img_in_image_box_1646_0_2398_101.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A06Z%2F-1%2F%2Fb2c40d280bba05a06f25d81f732fc1709dfc78f0b2754f029ac2851a671d46c0"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  0,
+                  0,
+                  5828,
+                  1022
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    -43.0,
+                    -2.0
+                  ],
+                  [
+                    5828.0,
+                    -2.0
+                  ],
+                  [
+                    5828.0,
+                    1022.0
+                  ],
+                  [
+                    -43.0,
+                    1022.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.4768714904785156,
+                  "coordinate": [
+                    0,
+                    0,
+                    5828,
+                    1022
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      -43.0,
+                      -2.0
+                    ],
+                    [
+                      5828.0,
+                      -2.0
+                    ],
+                    [
+                      5828.0,
+                      1022.0
+                    ],
+                    [
+                      -43.0,
+                      1022.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_0_0_5828_1022.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_0_0_5828_1022.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//c9408079-6d1e-44d7-952d-3cc0615ac3ec/markdown_0/imgs/img_in_image_box_0_0_5828_1022.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A01Z%2F-1%2F%2Ff090fa9f96d3b46dbd5feb23c200d8b38757383bd79fad44c7bd688a66e57190"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  37,
+                  1,
+                  5872,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    37.0,
+                    1.0
+                  ],
+                  [
+                    5908.0,
+                    1.0
+                  ],
+                  [
+                    5908.0,
+                    1025.0
+                  ],
+                  [
+                    37.0,
+                    1025.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.5942397117614746,
+                  "coordinate": [
+                    37,
+                    1,
+                    5872,
+                    1024
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      37.0,
+                      1.0
+                    ],
+                    [
+                      5908.0,
+                      1.0
+                    ],
+                    [
+                      5908.0,
+                      1025.0
+                    ],
+                    [
+                      37.0,
+                      1025.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_37_1_5872_1024.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_37_1_5872_1024.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//43a6a594-8b86-4cf0-8c76-aa591c6867fa/markdown_0/imgs/img_in_image_box_37_1_5872_1024.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A01Z%2F-1%2F%2F5bb268fe425225bc6943975e0989f65e5c4070b99043b1393ba87afeff24a725"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [],
+            "layout_det_res": {
+              "boxes": []
+            }
+          },
+          "markdown": {
+            "text": "",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "In rends to move in a pack with others.\nThey closer in a tight group to sleep in a case.",
+                "block_bbox": [
+                  2528,
+                  104,
+                  5741,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2528.0,
+                    104.0
+                  ],
+                  [
+                    5741.0,
+                    104.0
+                  ],
+                  [
+                    5741.0,
+                    1024.0
+                  ],
+                  [
+                    2528.0,
+                    1024.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3373030722141266,
+                  "coordinate": [
+                    2624,
+                    124,
+                    5572,
+                    688
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2653.42626953125,
+                      128.34768676757812
+                    ],
+                    [
+                      5569.94775390625,
+                      118.24874877929688
+                    ],
+                    [
+                      5571.83056640625,
+                      661.9969482421875
+                    ],
+                    [
+                      2655.30908203125,
+                      672.095947265625
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.38288751244544983,
+                  "coordinate": [
+                    2528,
+                    104,
+                    5741,
+                    1024
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2528.0,
+                      104.0
+                    ],
+                    [
+                      5741.0,
+                      104.0
+                    ],
+                    [
+                      5741.0,
+                      1024.0
+                    ],
+                    [
+                      2528.0,
+                      1024.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "In rends to move in a pack with others.\n\nThey closer in a tight group to sleep in a case.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  1640,
+                  0,
+                  2406,
+                  112
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    1640.0,
+                    -1.0
+                  ],
+                  [
+                    2406.0,
+                    -1.0
+                  ],
+                  [
+                    2406.0,
+                    112.0
+                  ],
+                  [
+                    1640.0,
+                    112.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Ua. SE 9400444",
+                "block_bbox": [
+                  385,
+                  141,
+                  1570,
+                  300
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    385.13311767578125,
+                    131.24606323242188
+                  ],
+                  [
+                    1570.332275390625,
+                    141.25619506835938
+                  ],
+                  [
+                    1569.0,
+                    299.0
+                  ],
+                  [
+                    383.80084228515625,
+                    288.9898681640625
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.34485939145088196,
+                  "coordinate": [
+                    1640,
+                    0,
+                    2406,
+                    112
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      1640.0,
+                      -1.0
+                    ],
+                    [
+                      2406.0,
+                      -1.0
+                    ],
+                    [
+                      2406.0,
+                      112.0
+                    ],
+                    [
+                      1640.0,
+                      112.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3402446508407593,
+                  "coordinate": [
+                    385,
+                    141,
+                    1570,
+                    300
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      385.13311767578125,
+                      131.24606323242188
+                    ],
+                    [
+                      1570.332275390625,
+                      141.25619506835938
+                    ],
+                    [
+                      1569.0,
+                      299.0
+                    ],
+                    [
+                      383.80084228515625,
+                      288.9898681640625
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1640_0_2406_112.jpg\" alt=\"Image\" width=\"13%\" /></div>\n\n\nUa. SE 9400444",
+            "images": {
+              "imgs/img_in_image_box_1640_0_2406_112.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//a4fd8774-0571-47c9-bb8f-9d8192f6eae7/markdown_0/imgs/img_in_image_box_1640_0_2406_112.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A05Z%2F-1%2F%2Fb83bf5049b9abb6461fc49b3a5e117ccef2b0b164a98cf1a5d793162b7f34b0e"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Yuzho Alosc",
+                "block_bbox": [
+                  128,
+                  1,
+                  5702,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    128.0,
+                    1.0
+                  ],
+                  [
+                    5702.0,
+                    1.0
+                  ],
+                  [
+                    5702.0,
+                    1025.0
+                  ],
+                  [
+                    128.0,
+                    1025.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.3594840168952942,
+                  "coordinate": [
+                    128,
+                    1,
+                    5702,
+                    1024
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      128.0,
+                      1.0
+                    ],
+                    [
+                      5702.0,
+                      1.0
+                    ],
+                    [
+                      5702.0,
+                      1025.0
+                    ],
+                    [
+                      128.0,
+                      1025.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "## Yuzho Alosc",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "Poochyera purpurea their prey in packs. Once the prey is exhausted, the pack finishes to off. But sometimes the prey realizes, and the pack tells,",
+                "block_bbox": [
+                  2450,
+                  176,
+                  5493,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2450.0,
+                    176.0
+                  ],
+                  [
+                    5493.0,
+                    176.0
+                  ],
+                  [
+                    5493.0,
+                    1024.0
+                  ],
+                  [
+                    2450.0,
+                    1024.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7030097246170044,
+                  "coordinate": [
+                    2450,
+                    176,
+                    5493,
+                    1024
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2450.0,
+                      176.0
+                    ],
+                    [
+                      5493.0,
+                      176.0
+                    ],
+                    [
+                      5493.0,
+                      1024.0
+                    ],
+                    [
+                      2450.0,
+                      1024.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "Poochyera purpurea their prey in packs. Once the prey is exhausted, the pack finishes to off. But sometimes the prey realizes, and the pack tells,",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "doc_title",
+                "block_content": "1100, 11000",
+                "block_bbox": [
+                  143,
+                  5,
+                  5741,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    143.0,
+                    5.0
+                  ],
+                  [
+                    5741.0,
+                    5.0
+                  ],
+                  [
+                    5741.0,
+                    1029.0
+                  ],
+                  [
+                    143.0,
+                    1029.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.4097467064857483,
+                  "coordinate": [
+                    143,
+                    5,
+                    5741,
+                    1024
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      143.0,
+                      5.0
+                    ],
+                    [
+                      5741.0,
+                      5.0
+                    ],
+                    [
+                      5741.0,
+                      1029.0
+                    ],
+                    [
+                      143.0,
+                      1029.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# 1100, 11000",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  0,
+                  0,
+                  5846,
+                  1022
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    -26.0,
+                    -2.0
+                  ],
+                  [
+                    5846.0,
+                    -2.0
+                  ],
+                  [
+                    5846.0,
+                    1022.0
+                  ],
+                  [
+                    -26.0,
+                    1022.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.6456836462020874,
+                  "coordinate": [
+                    0,
+                    0,
+                    5846,
+                    1022
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      -26.0,
+                      -2.0
+                    ],
+                    [
+                      5846.0,
+                      -2.0
+                    ],
+                    [
+                      5846.0,
+                      1022.0
+                    ],
+                    [
+                      -26.0,
+                      1022.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_0_0_5846_1022.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_0_0_5846_1022.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//54215049-daf6-478f-b44d-9b954c6ac9fd/markdown_0/imgs/img_in_image_box_0_0_5846_1022.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A02Z%2F-1%2F%2Fa0efcfbaaf0cc90999dc2db847ea6ebebe4acdfcc81cd815ba6c1d7e0a1bdfaf"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "doc_title",
+                "block_content": "1111. Kozumurve Yozoviyev\nHiv Petkinov arkaed III) million year ago. Tamm\nFlammar abraed it and suscided a summer so to back.",
+                "block_bbox": [
+                  20,
+                  3,
+                  5872,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    20.0,
+                    3.0
+                  ],
+                  [
+                    5891.0,
+                    3.0
+                  ],
+                  [
+                    5891.0,
+                    1027.0
+                  ],
+                  [
+                    20.0,
+                    1027.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.5560665726661682,
+                  "coordinate": [
+                    20,
+                    3,
+                    5872,
+                    1024
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      20.0,
+                      3.0
+                    ],
+                    [
+                      5891.0,
+                      3.0
+                    ],
+                    [
+                      5891.0,
+                      1027.0
+                    ],
+                    [
+                      20.0,
+                      1027.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# 1111. Kozumurve Yozoviyev Hiv Petkinov arkaed III) million year ago. Tamm Flammar abraed it and suscided a summer so to back.",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  25,
+                  0,
+                  5872,
+                  1023
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    25.0,
+                    -1.0
+                  ],
+                  [
+                    5897.0,
+                    -1.0
+                  ],
+                  [
+                    5897.0,
+                    1023.0
+                  ],
+                  [
+                    25.0,
+                    1023.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.7935376763343811,
+                  "coordinate": [
+                    25,
+                    0,
+                    5872,
+                    1023
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      25.0,
+                      -1.0
+                    ],
+                    [
+                      5897.0,
+                      -1.0
+                    ],
+                    [
+                      5897.0,
+                      1023.0
+                    ],
+                    [
+                      25.0,
+                      1023.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_25_0_5872_1023.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_25_0_5872_1023.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//c7043445-6c0b-460e-96af-cb4eb4fa73cf/markdown_0/imgs/img_in_image_box_25_0_5872_1023.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A09Z%2F-1%2F%2F05992dde6c0f53fa942714b5291549522015cd236827286c6f9a56e065b7c390"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  28,
+                  0,
+                  5872,
+                  1023
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    28.0,
+                    -1.0
+                  ],
+                  [
+                    5900.0,
+                    -1.0
+                  ],
+                  [
+                    5900.0,
+                    1023.0
+                  ],
+                  [
+                    28.0,
+                    1023.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.7370246052742004,
+                  "coordinate": [
+                    28,
+                    0,
+                    5872,
+                    1023
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      28.0,
+                      -1.0
+                    ],
+                    [
+                      5900.0,
+                      -1.0
+                    ],
+                    [
+                      5900.0,
+                      1023.0
+                    ],
+                    [
+                      28.0,
+                      1023.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_28_0_5872_1023.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_28_0_5872_1023.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//4fd11455-493b-4c97-8491-05b70c2c70f9/markdown_0/imgs/img_in_image_box_28_0_5872_1023.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A07Z%2F-1%2F%2F4c66edaf3c9f187655983521a9b4af41d41d55a40a8a860485aa7a93f556e82a"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  0,
+                  0,
+                  5852,
+                  1023
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    -19.0,
+                    -1.0
+                  ],
+                  [
+                    5852.0,
+                    -1.0
+                  ],
+                  [
+                    5852.0,
+                    1023.0
+                  ],
+                  [
+                    -19.0,
+                    1023.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.3515947759151459,
+                  "coordinate": [
+                    0,
+                    0,
+                    5852,
+                    1023
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      -19.0,
+                      -1.0
+                    ],
+                    [
+                      5852.0,
+                      -1.0
+                    ],
+                    [
+                      5852.0,
+                      1023.0
+                    ],
+                    [
+                      -19.0,
+                      1023.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_0_0_5852_1023.jpg\" alt=\"Image\" width=\"99%\" /></div>\n",
+            "images": {
+              "imgs/img_in_image_box_0_0_5852_1023.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//a7b02549-4d43-438d-b079-fc58cc0fd4b1/markdown_0/imgs/img_in_image_box_0_0_5852_1023.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-30T04%3A51%3A00Z%2F-1%2F%2F520a95e2348ada23662004ea4e7df6302fb9cbc2d4a90a61076ba2f5077a4725"
+            }
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "I've: MINAMINAMU Take\nIts whiskers be essential for maintaining its\nbalance. No matter how friendly you are, it will\nget angry and bite you if you touch its whiskers.",
+                "block_bbox": [
+                  389,
+                  130,
+                  1754,
+                  304
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    389.0,
+                    130.0
+                  ],
+                  [
+                    1754.0,
+                    130.0
+                  ],
+                  [
+                    1754.0,
+                    304.0
+                  ],
+                  [
+                    389.0,
+                    304.0
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  2558,
+                  144,
+                  5488,
+                  1024
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2558.0,
+                    144.0
+                  ],
+                  [
+                    5488.0,
+                    144.0
+                  ],
+                  [
+                    5488.0,
+                    1025.0
+                  ],
+                  [
+                    2558.0,
+                    1025.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3670961260795593,
+                  "coordinate": [
+                    389,
+                    130,
+                    1754,
+                    304
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      389.0,
+                      130.0
+                    ],
+                    [
+                      1754.0,
+                      130.0
+                    ],
+                    [
+                      1754.0,
+                      304.0
+                    ],
+                    [
+                      389.0,
+                      304.0
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6524882912635803,
+                  "coordinate": [
+                    2558,
+                    144,
+                    5488,
+                    1024
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      2558.0,
+                      144.0
+                    ],
+                    [
+                      5488.0,
+                      144.0
+                    ],
+                    [
+                      5488.0,
+                      1025.0
+                    ],
+                    [
+                      2558.0,
+                      1025.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "I've: MINAMINAMU Take\n\nIts whiskers be essential for maintaining its\n\nbalance. No matter how friendly you are, it will\n\nget angry and bite you if you touch its whiskers.\n\n",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "doc_title",
+                "block_content": "l'air est mors 2000 gouron chèvant, il est",
+                "block_bbox": [
+                  73,
+                  7,
+                  5677,
+                  1024
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    73.0,
+                    7.0
+                  ],
+                  [
+                    5677.0,
+                    7.0
+                  ],
+                  [
+                    5677.0,
+                    1031.0
+                  ],
+                  [
+                    73.0,
+                    1031.0
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.5204731225967407,
+                  "coordinate": [
+                    73,
+                    7,
+                    5677,
+                    1024
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      73.0,
+                      7.0
+                    ],
+                    [
+                      5677.0,
+                      7.0
+                    ],
+                    [
+                      5677.0,
+                      1031.0
+                    ],
+                    [
+                      73.0,
+                      1031.0
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# l'air est mors 2000 gouron chèvant, il est",
+            "images": {}
+          }
+        },
+        {
+          "prunedResult": {
+            "page_count": 1,
+            "width": 5872,
+            "height": 1024,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "text",
+                "block_content": "ex rule\nWhen your Pokémon ex is\nKnocked Out, your opponent gets 2 points.",
+                "block_bbox": [
+                  2042,
+                  256,
+                  4968,
+                  677
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    2041.7261962890625,
+                    262.67633056640625
+                  ],
+                  [
+                    4966.89404296875,
+                    256.61358642578125
+                  ],
+                  [
+                    4967.67822265625,
+                    634.9984741210938
+                  ],
+                  [
+                    2042.51025390625,
+                    641.0612182617188
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.390298068523407,
+                  "coordinate": [
+                    2042,
+                    256,
+                    4968,
+                    677
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      2041.7261962890625,
+                      262.67633056640625
+                    ],
+                    [
+                      4966.89404296875,
+                      256.61358642578125
+                    ],
+                    [
+                      4967.67822265625,
+                      634.9984741210938
+                    ],
+                    [
+                      2042.51025390625,
+                      641.0612182617188
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "ex rule\n\nWhen your Pokémon ex is\n\nKnocked Out, your opponent gets 2 points.",
+            "images": {}
+          }
+        }
+      ],
+      "dataInfo": {
+        "type": "pdf",
+        "numPages": 30,
+        "pages": [
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          },
+          {
+            "width": 5872,
+            "height": 1024
+          }
+        ]
+      }
+    }
+  },
+  "error": null
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Merge Pocket Card Sources"
+  short_description: "跨上游逐字段合并 Pocket 卡牌数据并审计冲突"
+  default_prompt: "Use $merge-pocket-card-sources to build an auditable canonical details file for a Pokémon TCG Pocket set."

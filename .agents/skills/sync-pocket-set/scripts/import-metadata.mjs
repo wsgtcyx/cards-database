@@ -584,14 +584,14 @@ function applyOfficialRuleTranslations(mapping, officialNames, usedRuleTerms) {
 	let applied = 0
 	for (const [english, translations] of officialNames) {
 		if (usedRuleTerms && !usedRuleTerms.has(english)) continue
-		const bucket = mapping[english]
-		if (!bucket) continue
+		const bucket = mapping[english] ?? { en: english }
 		for (const [language, value] of Object.entries(translations)) {
-			if (bucket[language] !== value) {
+			if (!bucket[language]) {
 				bucket[language] = value
 				applied++
 			}
 		}
+		mapping[english] = bucket
 	}
 	return applied
 }
