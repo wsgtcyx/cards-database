@@ -133,7 +133,7 @@ jobs:
       - name: Commit probe report
         shell: bash
         run: |
-          if git diff --quiet -- meta/pocket-source-reviews/B4.api-probe.json; then
+          if [[ -z "$(git status --porcelain -- meta/pocket-source-reviews/B4.api-probe.json)" ]]; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
