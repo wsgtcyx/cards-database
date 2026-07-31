@@ -2,15 +2,32 @@
 import { describe, expect, test } from 'bun:test'
 import type { SupportedLanguages } from '../../../interfaces'
 import firstCard from '../../../data/Pokémon TCG Pocket/Ruler of the Skies/001'
+import ancientTechnicalMachine from '../../../data/Pokémon TCG Pocket/Ruler of the Skies/146'
+import psychicTechnicalMachine from '../../../data/Pokémon TCG Pocket/Ruler of the Skies/150'
 import alolanVulpix from '../../../data/Pokémon TCG Pocket/Ruler of the Skies/204'
 import alolanNinetalesEx from '../../../data/Pokémon TCG Pocket/Ruler of the Skies/225'
 import rulerOfTheSkies from '../../../data/Pokémon TCG Pocket/Ruler of the Skies'
 import translate from './translationUtil'
+import { getDataFolder } from './util'
 
 describe('B4 catalog metadata regressions', () => {
 	test('declares one set-level booster without repeating it on cards', () => {
 		expect(Object.keys(rulerOfTheSkies.boosters ?? {})).toEqual(['ruler-of-the-skies'])
 		expect(firstCard.boosters).toBeUndefined()
+		const booster = rulerOfTheSkies.boosters?.['ruler-of-the-skies']
+		expect(booster?.logo?.en).toBe('https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp')
+		expect(booster?.artwork_front?.en).toBe('https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp')
+	})
+
+	test('uses the canonical Pocket data tree for every supported locale', () => {
+		for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ko', 'ja', 'id', 'th', 'zh-cn'] as SupportedLanguages[]) {
+			expect(getDataFolder(lang)).toBe('data')
+		}
+	})
+
+	test('keeps sentence boundaries in imported Trainer effects', () => {
+		expect(ancientTechnicalMachine.effect?.en).not.toMatch(/\.(?=[A-Z])/u)
+		expect(psychicTechnicalMachine.effect?.en).not.toMatch(/\.(?=[A-Z])/u)
 	})
 
 	test.each([

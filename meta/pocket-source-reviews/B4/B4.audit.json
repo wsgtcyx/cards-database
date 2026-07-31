@@ -8,11 +8,22 @@
     "deckGym": "d8d88140a5add393c285c3c8e4d02ff1d6b1df0b6659f809eacf379e9c33a61b",
     "pokemonMeta": "18c3e0df53d03ec06a62eb90b89fad5e2dace475f512622d9dce6099011d7fb9",
     "review": "d22fd8445d792341e3686a98e72411cc9f6532e03adde5c057c23ce772385caa",
-    "sources": "cf64111d0bc6b9e79c9360045268a5df8f09f7e07a53f558720dbe7f76afa9e7",
+    "sources": "7b7cb9ac4b3a4e8e44338c8d10e6f809be22c4c5f0a97739ea8c9d94d0ea2936",
+    "translationMap": "7ec84b458fa075d1c11fa7a761fc75c8e079fe4d32714df0d5332f27f979f4ac",
+    "translationTodo": "eacdb7b7d026da823796a1bac7a9e3afd8474ab6f44b758904e22f59deb08833",
     "images": {
       "count": 233,
       "sha256": "60cdeaaa954d2c2c0dcf004fa8c2a2edd9b6853e6ad930f4da63a776c30cd31e"
     }
+  },
+  "localizationStatus": {
+    "complete": false,
+    "runtimeFallback": null,
+    "targetLanguages": ["fr", "es", "it", "de", "pt-br", "zh-tw"],
+    "missingStrings": 251,
+    "missingValues": 1150,
+    "affectedCards": 208,
+    "todoFile": "meta/pocket-source-reviews/B4.translations.todo.json"
   },
   "counts": {
     "cards": 233,

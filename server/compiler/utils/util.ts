@@ -20,17 +20,21 @@ const fileCache: fileCacheInterface = {}
  */
 export async function fetchRemoteFile<T = any>(url: string): Promise<T> {
 	if (!fileCache[url]) {
-		const signal = new AbortController()
+		const controller = new AbortController()
 
 		const finished = setTimeout(() => {
-			signal.abort()
-		}, 60 * 1000);
+			controller.abort()
+		}, 60 * 1000)
 
-		const resp = await fetch(url, {
-			signal: signal.signal
-		})
-		clearTimeout(finished)
-		fileCache[url] = resp.json()
+		try {
+			const response = await fetch(url, { signal: controller.signal })
+			if (!response.ok) {
+				throw new Error(`${url}: ${response.status} ${response.statusText}`)
+			}
+			fileCache[url] = await response.json()
+		} finally {
+			clearTimeout(finished)
+		}
 	}
 	return fileCache[url]
 }
@@ -87,7 +91,8 @@ export function setIsLegal(type: 'standard' | 'expanded', set: Set): boolean {
 }
 
 export function getDataFolder(lang: SupportedLanguages) {
-	return ['ja', 'ko', 'id', 'th', 'zh-cn'].includes(lang) ? 'data-asia' : 'data'
+	// This fork keeps every Pocket locale in the single canonical data tree.
+	return 'data'
 }
 
 /**
@@ -134,8 +139,6 @@ export async function loadLastEdits() {
 	console.log('Loading Git File Tree...')
 	const firstCommand = 'git ls-tree -r --name-only HEAD ../data'
 	const files = (await runCommand(firstCommand)).split('\n')
-	const secondCommand = 'git ls-tree -r --name-only HEAD ../data-asia'
-	files.push(...(await runCommand(secondCommand)).split('\n'))
 	console.log('Loaded files tree', files.length, 'files')
 	console.log('Loading their last edit time')
 	let processed = 0
@@ -183,7 +186,7 @@ export function getLastEdit(path: string): string {
 
 export function resolveText<T>(text: Languages<T> | undefined, lang: SupportedLanguages): T | undefined {
 	if (!text) return text as undefined
-	let res: T | undefined = text[lang]
+	const res: T | undefined = text[lang]
 	if (typeof res === 'undefined' && !lang.includes('-')) {
 		const key = Object.keys(text).find(key => key.startsWith(lang))
 		return text[key as keyof Languages<T>]

@@ -25,38 +25,35 @@ import { getTCGPlayerPrice } from '../../libs/providers/tcgplayer'
 import { executeQuery, type Query } from '../../libs/QueryEngine/filter'
 
 // any is CompiledCard that is currently not mapped correctly
-const list: Record<`${string | any}${SupportedLanguages | string}`, any> = {}
+const list: Record<string, any> = {}
 
-// @ts-ignore ts can't load file
-en.forEach((it) => list[`${it.id.toLowerCase()}en`] = it)
-// @ts-ignore ts can't load file
-fr.forEach((it) => list[`${it.id.toLowerCase()}fr`] = it)
-// @ts-ignore ts can't load file
-es.forEach((it) => list[`${it.id.toLowerCase()}es`] = it)
-esmx.forEach((it) => list[`${it.id.toLowerCase()}es-mx`] = it)
-// @ts-ignore ts can't load file
-it.forEach((it) => list[`${it.id.toLowerCase()}it`] = it)
-// @ts-ignore ts can't load file
-pt.forEach((it) => list[`${it.id.toLowerCase()}pt`] = it)
-ptbr.forEach((it) => list[`${it.id.toLowerCase()}pt-br`] = it)
-// @ts-expect-error there is currently not cards here
-ptpt.forEach((it) => list[`${it.id.toLowerCase()}pt-pt`] = it)
-// @ts-ignore ts can't load file
-de.forEach((it) => list[`${it.id.toLowerCase()}de`] = it)
-// @ts-expect-error there is currently not cards here
-nl.forEach((it) => list[`${it.id.toLowerCase()}nl`] = it)
-// @ts-expect-error there is currently not cards here
-pl.forEach((it) => list[`${it.id.toLowerCase()}pl`] = it)
-// @ts-expect-error there is currently not cards here
-ru.forEach((it) => list[`${it.id.toLowerCase()}ru`] = it)
-ja.forEach((it) => list[`${it.id.toLowerCase()}ja`] = it)
-// @ts-expect-error there is currently not cards here
-ko.forEach((it) => list[`${it.id.toLowerCase()}ko`] = it)
-// @ts-ignore ts can't load file
-zhtw.forEach((it) => list[`${it.id.toLowerCase()}zh-tw`] = it)
-id.forEach((it) => list[`${it.id.toLowerCase()}id`] = it)
-th.forEach((it) => list[`${it.id.toLowerCase()}th`] = it)
-zhcn.forEach((it) => list[`${it.id.toLowerCase()}zh-cn`] = it)
+function indexCards(items: readonly unknown[], lang: string): void {
+	for (const item of items) {
+		if (!item || typeof item !== 'object' || !('id' in item) || typeof item.id !== 'string') {
+			throw new TypeError(`Compiled ${lang} card is missing a string id`)
+		}
+		list[`${item.id.toLowerCase()}${lang}`] = item
+	}
+}
+
+indexCards(en, 'en')
+indexCards(fr, 'fr')
+indexCards(es, 'es')
+indexCards(esmx, 'es-mx')
+indexCards(it, 'it')
+indexCards(pt, 'pt')
+indexCards(ptbr, 'pt-br')
+indexCards(ptpt, 'pt-pt')
+indexCards(de, 'de')
+indexCards(nl, 'nl')
+indexCards(pl, 'pl')
+indexCards(ru, 'ru')
+indexCards(ja, 'ja')
+indexCards(ko, 'ko')
+indexCards(zhtw, 'zh-tw')
+indexCards(id, 'id')
+indexCards(th, 'th')
+indexCards(zhcn, 'zh-cn')
 
 const cards = {
 	en: en,
@@ -120,7 +117,6 @@ async function loadCard(lang: SupportedLanguages, id: string): Promise<SDKCard |
 	// console.time(`loading card ${id}${lang}`)
 
 	// console.time('fetching DB')
-	// @ts-expect-error flemme
 	const card = list[key]
 	if (!card) {
 		return null

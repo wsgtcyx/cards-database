@@ -9,6 +9,9 @@ description: Prepare and publish one Pokémon TCG Pocket set from only its set I
 set ID；不要再向用户索要可从来源发现的英文名、卡数、booster、语言、
 图片路径、bucket 或公开域名。
 
+开始前完整读取 [references/end-to-end-playbook.md](references/end-to-end-playbook.md)。
+该 playbook 是新 set 的跨仓完成门禁；本文件负责具体命令和写入顺序。
+
 ## 默认完成标准
 
 `$sync-pocket-set B4a` 默认表示完成整条链路：
@@ -165,6 +168,10 @@ OCR 只是候选证据。逐项处理 unresolved、ambiguous 和 diagnostics；�
 导入器从 `ptcgp-assets` 读取九语名称、进化前名称、稀有度和 pack 归属，从
 固定的详细来源读取英文机制数据。
 
+所有本地化输入同样属于审计输入：game-assets/template checkout、PokeAPI CSV、百科
+HTML 和人工翻译表都要记录固定 commit/抓取时间及 SHA-256，并进入最终 input hashes。
+只固定英文 details 和卡图来源，不能证明本地化结果可复现。
+
 先 dry-run：
 
 ```bash
@@ -175,7 +182,9 @@ node "$SKILL_DIR/scripts/import-metadata.mjs" \
 ```
 
 按照待办更新 `scripts/tmp/pocket-translations.json`，再重复 dry-run，直到
-`todoStrings: 0`。若当前环境提供 `add-pocket-translations`，同时遵循该 skill。
+`todoStrings: 0`。`--write` 必须是两阶段提交：先在内存构建并验证全部卡；只要
+`todoStrings > 0` 就以非零退出且不得改 metadata。若当前环境提供
+`add-pocket-translations`，同时遵循该 skill。
 
 翻译要求：
 
@@ -274,7 +283,21 @@ node "$SKILL_DIR/scripts/verify-r2.mjs" \
 
 git diff --check
 npm run validate
+
+node --test \
+  .agents/skills/merge-pocket-card-sources/scripts/persist-ocr-evidence.test.mjs \
+  .agents/skills/merge-pocket-card-sources/scripts/sync-downstream-locales.test.mjs
+
+if rg -n '(authorization=|x-amz-signature=|Bearer[[:space:]]+|token=)' \
+  meta/pocket-source-reviews; then
+  echo 'credential-like material found in persisted review evidence' >&2
+  exit 1
+fi
 ```
+
+若在修复旧 set 时没有 discovery manifest，必须显式传入
+`--booster-ids`、`--pack-image-languages` 与 `--image-origin`；不能因为走手工审计路径而
+跳过 booster `logo` / `artwork_front` 门禁。
 
 `verify-r2.mjs` 必须确认：
 
@@ -289,11 +312,16 @@ npm run validate
 - set/card/图片数量、ID 与 source commit 是否闭环；
 - official/total 是否混淆；
 - 多语言是否全量且专名可信；
+- `translations.todo.json` 是否为空，本地化输入 hash 是否进入审计；
+- 每个 advertised API language 是否真的编译出目标 set；
+- 每个要求的图片语言是否有全量对象，locale 是否引用自己的真实语言而非统一英文；
 - 单包/多包 booster 规则是否正确；
 - Card image 是不含尺寸后缀的 base URL；
 - Set booster 图片是完整 `.webp` URL；
 - 没有 GitHub Raw 生产 URL；
+- 没有签名 URL、token、cookie、本机绝对路径或其他临时 capability；
 - 没有改下游或夹带其他工作树改动。
+- 仓库只保留项目既定的单一包管理器和 lockfile；不能因一次本地验证引入第二套依赖真源。
 
 任何目标范围内失败都先修复并重跑；不能只凭 build 通过宣称完成。
 
@@ -325,5 +353,7 @@ npm run validate
 - 不覆盖未知 R2 对象；
 - 不把单包集合的逐卡 booster 当必填；
 - 不在下游 rarity 索引未覆盖新 set 时宣称下游同步完成；
+- 不把整个 `P-*` set 统一当作 `pr`；逐卡根据 canonical rarity 映射；
+- 不在翻译待办非零或本地化图片缺口未解决时宣称本地化完成；
 - 不自动修改下游应用；
 - 不在未明确要求时 commit/push。

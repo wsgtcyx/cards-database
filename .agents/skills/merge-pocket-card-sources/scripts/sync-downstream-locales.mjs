@@ -20,6 +20,7 @@ const setId = getArg('set-id')
 const setName = getArg('set-name')
 const origin = (getArg('origin') ?? 'https://game.pokemontcgpocket.app').replace(/\/+$/u, '')
 const imageLanguage = getArg('image-language') ?? 'en'
+const imageLanguagesArg = getArg('image-languages')
 const baseRef = getArg('base-ref')
 const expectedCount = Number(getArg('expected-count'))
 const write = process.argv.includes('--write')
@@ -37,6 +38,18 @@ const LOCALES = {
 	'zh-TW': { source: 'zh-TW', file: 'zh-TW.json' },
 }
 
+const imageLanguages = imageLanguagesArg
+	? Object.fromEntries(imageLanguagesArg.split(',').map(pair => {
+		const [locale, language, ...extra] = pair.split('=')
+		if (!locale || !language || extra.length) throw new Error(`Invalid --image-languages entry: ${pair}`)
+		return [locale, language]
+	}))
+	: Object.fromEntries(Object.keys(LOCALES).map(locale => [locale, imageLanguage]))
+const missingImageLanguages = Object.keys(LOCALES).filter(locale => !imageLanguages[locale])
+if (missingImageLanguages.length) {
+	throw new Error(`--image-languages is missing downstream locales: ${missingImageLanguages.join(', ')}`)
+}
+
 const RARITY_CODES = {
 	C: 'd1',
 	U: 'd2',
@@ -49,6 +62,55 @@ const RARITY_CODES = {
 	S: 'h1',
 	SSR: 'h2',
 	UR: 'cr',
+}
+
+const PROMO_RARITIES = new Set(['None', 'Promo', 'PR'])
+
+function readTargetText(targetFile, downstreamRoot, baseRef) {
+	const relativeTarget = path.relative(downstreamRoot, targetFile).split(path.sep).join('/')
+	const currentText = fs.readFileSync(targetFile, 'utf8')
+	if (!baseRef) return currentText
+	const baseText = execFileSync('git', ['-C', downstreamRoot, 'show', `${baseRef}:${relativeTarget}`], { encoding: 'utf8' })
+	if (currentText !== baseText) {
+		throw new Error(`${relativeTarget}: worktree differs from ${baseRef}; refusing to overwrite user changes`)
+	}
+	return baseText
+}
+
+function atomicWrite(targetFile, contents) {
+	const temporary = `${targetFile}.pocket-sync-${process.pid}.tmp`
+	fs.writeFileSync(temporary, contents)
+	fs.renameSync(temporary, targetFile)
+}
+
+function replaceTopLevelEntries(source, shouldRemove, additions) {
+	const parsed = JSON.parse(source)
+	const matches = [...source.matchAll(/^  ("(?:[^"\\]|\\.)+"):/gmu)]
+	if (matches.length !== Object.keys(parsed).length) {
+		throw new Error('target JSON must be a two-space-indented top-level object')
+	}
+
+	const objectEnd = source.trimEnd().lastIndexOf('}')
+	if (objectEnd < 0) throw new Error('target JSON is missing its closing brace')
+	const lineEnding = source.includes('\r\n') ? '\r\n' : '\n'
+	const opening = matches.length ? source.slice(0, matches[0].index) : `{${lineEnding}`
+	const ending = source.slice(objectEnd)
+	const kept = matches.flatMap((match, index) => {
+		const key = JSON.parse(match[1])
+		if (shouldRemove(key)) return []
+		const end = matches[index + 1]?.index ?? objectEnd
+		return [source.slice(match.index, end).trimEnd().replace(/,$/u, '')]
+	})
+	const additionsText = JSON.stringify(additions, null, 2).replaceAll('\n', lineEnding)
+	const firstLineEnd = additionsText.indexOf(lineEnding)
+	const lastLineStart = additionsText.lastIndexOf(lineEnding)
+	const additionsBody = firstLineEnd >= 0 && lastLineStart > firstLineEnd
+		? additionsText.slice(firstLineEnd + lineEnding.length, lastLineStart)
+		: ''
+	const entries = additionsBody ? [...kept, additionsBody] : kept
+	const result = `${opening}${entries.join(`,${lineEnding}`)}${entries.length ? lineEnding : ''}${ending}`
+	JSON.parse(result)
+	return result
 }
 
 function sourceCardsFor(config) {
@@ -74,26 +136,24 @@ const englishSourceCards = sourceCardsByLocale.en
 const rarityAdditions = Object.fromEntries(englishSourceCards.map(card => {
 	const number = String(card.number).padStart(3, '0')
 	const id = `${setId}-${number}`
-	const code = setId.startsWith('P-') ? 'pr' : RARITY_CODES[card.rarity]
+	const code = PROMO_RARITIES.has(card.rarity) ? 'pr' : RARITY_CODES[card.rarity]
 	if (!code) throw new Error(`${id}: unsupported gacha rarity ${JSON.stringify(card.rarity)}`)
 	return [id, code]
 }))
 
 const rarityTargetFile = path.join(path.resolve(downstreamRoot), 'lib/config/cardRarity.additions.json')
-const rarityRelativeTarget = path.relative(path.resolve(downstreamRoot), rarityTargetFile).split(path.sep).join('/')
-const rarityTargetText = baseRef
-	? execFileSync('git', ['-C', path.resolve(downstreamRoot), 'show', `${baseRef}:${rarityRelativeTarget}`], { encoding: 'utf8' })
-	: fs.readFileSync(rarityTargetFile, 'utf8')
+const rarityTargetText = readTargetText(rarityTargetFile, path.resolve(downstreamRoot), baseRef)
 const currentRarity = JSON.parse(rarityTargetText)
 const existingRarity = Object.keys(currentRarity).filter(id => id.startsWith(`${setId}-`))
 if (existingRarity.length && !baseRef) {
 	throw new Error(`rarity: ${setId} already exists; provide a reviewed --base-ref to replace it`)
 }
-const nextRarity = {
-	...Object.fromEntries(Object.entries(currentRarity).filter(([id]) => !id.startsWith(`${setId}-`))),
-	...rarityAdditions,
-}
-const nextRarityText = `${JSON.stringify(nextRarity, null, 2)}\n`
+const nextRarityText = replaceTopLevelEntries(
+	rarityTargetText,
+	id => id.startsWith(`${setId}-`),
+	rarityAdditions,
+)
+const nextRarity = JSON.parse(nextRarityText)
 
 const summary = {}
 const writes = []
@@ -101,10 +161,7 @@ for (const [locale, config] of Object.entries(LOCALES)) {
 	const sourceCards = sourceCardsByLocale[locale]
 
 	const targetFile = path.join(path.resolve(downstreamRoot), 'locales/card', config.file)
-	const relativeTarget = path.relative(path.resolve(downstreamRoot), targetFile).split(path.sep).join('/')
-	const targetText = baseRef
-		? execFileSync('git', ['-C', path.resolve(downstreamRoot), 'show', `${baseRef}:${relativeTarget}`], { encoding: 'utf8' })
-		: fs.readFileSync(targetFile, 'utf8')
+	const targetText = readTargetText(targetFile, path.resolve(downstreamRoot), baseRef)
 	const current = JSON.parse(targetText)
 	const existing = Object.keys(current).filter(id => id.startsWith(`${setId}-`))
 	if (existing.length && !baseRef) {
@@ -117,14 +174,15 @@ for (const [locale, config] of Object.entries(LOCALES)) {
 			localId: id,
 			id,
 			name: card.name,
-			image: `${origin}/${imageLanguage}/tcgp/${setId}/${number}`,
+			image: `${origin}/${imageLanguages[locale]}/tcgp/${setId}/${number}`,
 			set: setName,
 		}]
 	}))
-	const trimmed = targetText.trimEnd()
-	if (!trimmed.endsWith('}')) throw new Error(`${locale}: target is not a JSON object`)
-	const additionLines = JSON.stringify(additions, null, 2).split('\n').slice(1, -1)
-	const nextText = `${trimmed.slice(0, -1).trimEnd()},\n${additionLines.join('\n')}\n}\n`
+	const nextText = replaceTopLevelEntries(
+		targetText,
+		id => id.startsWith(`${setId}-`),
+		additions,
+	)
 	const next = JSON.parse(nextText)
 	writes.push([targetFile, nextText])
 	summary[locale] = { existing: existing.length, added: sourceCards.length, total: Object.keys(next).length }
@@ -132,7 +190,7 @@ for (const [locale, config] of Object.entries(LOCALES)) {
 
 writes.push([rarityTargetFile, nextRarityText])
 if (write) {
-	for (const [targetFile, contents] of writes) fs.writeFileSync(targetFile, contents)
+	for (const [targetFile, contents] of writes) atomicWrite(targetFile, contents)
 }
 const raritySummary = {
 	existing: existingRarity.length,

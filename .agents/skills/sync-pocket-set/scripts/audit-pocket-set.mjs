@@ -89,9 +89,10 @@ const imageLanguages = splitList(
   options['image-languages']
     ?? (manifest ? [...new Set(Object.values(manifest.images.cardLanguages))].join(',') : ''),
 )
-const packImageLanguages = manifest
-  ? [...new Set(Object.values(manifest.images.packLanguages))]
-  : []
+const packImageLanguages = splitList(
+  options['pack-image-languages']
+    ?? (manifest ? [...new Set(Object.values(manifest.images.packLanguages))].join(',') : ''),
+)
 const boosterIds = splitList(
   options['booster-ids']
     ?? (manifest ? manifest.set.boosters.map((booster) => booster.id).join(',') : ''),

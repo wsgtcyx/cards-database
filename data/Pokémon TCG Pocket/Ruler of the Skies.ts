@@ -30,6 +30,12 @@ const set: Set = {
                 "zh-tw": "天空主宰",
                 ko: "천공의 지배자",
                 ja: "天空の支配者"
+            },
+            logo: {
+                en: "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp"
+            },
+            artwork_front: {
+                en: "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp"
             }
         }
     },

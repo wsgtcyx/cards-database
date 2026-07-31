@@ -197,7 +197,24 @@ export async function getCard(set: Set, id: string, lang: SupportedLanguages): P
  * @param set the set to filter in (optional)
  * @returns An array with the 0 = localId, 1 = Card Object
  */
+const cardsCache = new Map<string, Promise<Array<[string, Card]>>>()
+
 export async function getCards(lang: SupportedLanguages, set?: Set): Promise<Array<[string, Card]>> {
+	const cacheKey = `${lang}:${set?.id ?? '*'}`
+	const cached = cardsCache.get(cacheKey)
+	if (cached) return cached
+
+	const pending = loadCards(lang, set)
+	cardsCache.set(cacheKey, pending)
+	try {
+		return await pending
+	} catch (error) {
+		cardsCache.delete(cacheKey)
+		throw error
+	}
+}
+
+async function loadCards(lang: SupportedLanguages, set?: Set): Promise<Array<[string, Card]>> {
 	let cards = await smartGlob(`${DB_PATH}/${getDataFolder(lang)}/${(set && (set.serie.name.en ?? set.serie.name[lang])) ?? '*'}/${(set && (set.name.en ?? set.name[lang])) ?? '*'}/*.ts`)
 	if (cards.length === 0) {
 		cards = await smartGlob(`${DB_PATH}/${getDataFolder(lang)}/${(set && set.serie.id) ?? '*'}/${(set && set.id) ?? '*'}/*.ts`)

@@ -38,7 +38,7 @@ export async function updateTCGPlayerDatas(): Promise<boolean> {
 		return false
 	}
 
-	const products = sets.en
+	const products = (sets.en as Array<{ thirdParty?: { tcgplayer?: number } }>)
 		.filter((it) => it?.thirdParty?.tcgplayer)
 		.map((it) => it!.thirdParty!.tcgplayer)
 

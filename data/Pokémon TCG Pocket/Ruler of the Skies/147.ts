@@ -21,7 +21,7 @@ const card: Card = {
     rarity: "One Diamond",
     category: "Trainer",
     effect: {
-        en: "Play this card as if it were a 40-HP Basic {C} Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat."
+        en: "Play this card as if it were a 40-HP Basic {C} Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat."
     },
     trainerType: "Item"
 };

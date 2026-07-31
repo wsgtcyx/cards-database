@@ -812,10 +812,19 @@ function detailsFile(config) {
 	return config.detailsFile
 }
 
+const pendingWrites = new Map()
+
 function writeFile(file, content) {
-	if (!WRITE) return
-	fs.mkdirSync(path.dirname(file), { recursive: true })
-	fs.writeFileSync(file, content)
+	if (WRITE) pendingWrites.set(file, content)
+}
+
+function flushPendingWrites() {
+	for (const [file, content] of pendingWrites) {
+		fs.mkdirSync(path.dirname(file), { recursive: true })
+		const temporary = `${file}.pocket-import-${process.pid}.tmp`
+		fs.writeFileSync(temporary, content)
+		fs.renameSync(temporary, file)
+	}
 }
 
 function validateDetailedCards(config, cards) {
@@ -942,7 +951,13 @@ function main() {
 	fs.mkdirSync(path.dirname(GLOSSARY_PATH), { recursive: true })
 	fs.writeFileSync(TODO_PATH, `${JSON.stringify(todoEntries, null, 2)}\n`)
 	fs.writeFileSync(GLOSSARY_PATH, `${JSON.stringify(glossary, null, 2)}\n`)
-	if (WRITE) fs.writeFileSync(TRANSLATIONS, `${JSON.stringify(mapping, null, 2)}\n`)
+	if (WRITE && todoEntries.length) {
+		throw new Error(`Refusing to write metadata with ${todoEntries.length} unresolved translation strings; resolve ${TODO_PATH} first`)
+	}
+	if (WRITE) {
+		pendingWrites.set(TRANSLATIONS, `${JSON.stringify(mapping, null, 2)}\n`)
+		flushPendingWrites()
+	}
 
 	console.log(JSON.stringify({
 		mode: WRITE ? 'write' : 'dry-run',

@@ -13,7 +13,9 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest, macos-latest]
+        # Pocket set paths contain upstream names that are invalid on Windows
+        # (for example "Deluxe Pack: ex"), so Windows cannot check out this repo.
+        os: [ubuntu-latest, macos-latest]
 
     steps:
     - name: Checkout

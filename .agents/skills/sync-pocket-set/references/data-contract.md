@@ -95,6 +95,9 @@ Crown                      -> cr
 None (Promo)               -> pr
 ```
 
+`P-*` 是 set ID 命名，不是逐卡 rarity。Promo set 内也可能存在 Diamond、Star 等正常
+rarity；必须逐卡使用 canonical rarity，不能按 set 前缀统一写成 `pr`。
+
 下游全卡覆盖测试必须证明：卡片 key 与合并后的 rarity key 完全一致，且每个 value
 属于上述 code 集。不能仅为当前 set 写一个 set-specific 断言，因为那无法阻止下一
 个 set 再次漏配。

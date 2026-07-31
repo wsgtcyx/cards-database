@@ -21,7 +21,7 @@ const card: Card = {
     rarity: "Two Diamond",
     category: "Trainer",
     effect: {
-        en: "You can use this card only if your Pokémon in the Active Spot has the Psychic attack.Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon."
+        en: "You can use this card only if your Pokémon in the Active Spot has the Psychic attack. Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon."
     },
     trainerType: "Supporter"
 };

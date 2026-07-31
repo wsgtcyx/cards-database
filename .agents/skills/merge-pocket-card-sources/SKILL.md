@@ -7,6 +7,10 @@ description: Build auditable Pokémon TCG Pocket card metadata by merging fields
 
 在仓库根目录执行。目标不是“挑一个最全上游”，而是为每张卡、每个字段保存候选值、选择值和证据，再生成 `sync-pocket-set` importer 兼容的英文 details JSON。
 
+同时读取 `$sync-pocket-set` 的
+[端到端门禁](../sync-pocket-set/references/end-to-end-playbook.md)，先按其中的十张 pilot
+验证新来源/schema，再扩大到全 set。
+
 ## 输入门禁
 
 先固定所有可变来源的完整 commit、release checksum 或抓取 URL/时间。读取 [references/source-contract.md](references/source-contract.md)，准备：
@@ -24,10 +28,10 @@ description: Build auditable Pokémon TCG Pocket card metadata by merging fields
 1. 先运行合并器生成冲突队列；允许它以退出码 2 停止。
 2. 只对 `unresolvedConflicts` 做定点卡面 OCR或网页核验，把裁决写进 review overlay。
 3. 重跑直到 `passed: true`、`unresolvedConflicts: 0`、`missingFields: 0`。
-4. 当固定的结构化 metadata 上游尚未发布该卡集时，用 `build-importer-source.mjs` 从 canonical 结果和历史九语官方卡名生成 importer 兼容源；其 `unresolvedLocalizedNames` 必须人工裁决到 0。
+4. 当固定的结构化 metadata 上游尚未发布该卡集时，从 canonical 结果和历史九语官方卡名生成 importer 兼容源；其 `unresolvedLocalizedNames` 必须人工裁决到 0。当前 `build-importer-source.mjs` 是 B4 已审定 adapter，只能作为实现样例；新 set 必须提供显式 set 配置或通用化 adapter，禁止直接改 B4 常量后复用。
 5. 用输出的 `*.details.json` 作为 `sync-pocket-set` 的 `metadata.detailsFile`，并把 `*.provenance.json` 固定到 manifest。
 6. 在任何 metadata/R2 写入前，再运行一次相同命令；输入 hash 或审计结果变化时停止复核。
-7. R2 公网验证通过后，用 `sync-downstream-locales.mjs` 把已审定的七语卡名、实际存在的图片语言和逐卡 gacha rarity 一起写入下游；先 dry-run，再加 `--write`，并逐 locale 检查数量、连续性以及下游 rarity 全卡覆盖测试。脚本写入固定的 `cardRarity.additions.json`，不得再为新 set 新建需要手工接线的 rarity shard。
+7. R2 公网验证通过后，用 `sync-downstream-locales.mjs` 把已审定的七语卡名、实际存在的图片语言和逐卡 gacha rarity 一起写入下游；先 dry-run，再加 `--write`，并逐 locale 检查数量、连续性以及下游 rarity 全卡覆盖测试。脚本写入固定的 `cardRarity.additions.json`，不得再为新 set 新建需要手工接线的 rarity shard。Promo set 也必须按每张卡的真实 rarity 映射，只有源 rarity 为 `None/Promo` 的卡才是 `pr`。
 
 ```bash
 node .agents/skills/merge-pocket-card-sources/scripts/merge-pocket-card-sources.mjs \
@@ -74,16 +78,22 @@ node .agents/skills/merge-pocket-card-sources/scripts/sync-downstream-locales.mj
   --set-id B4 \
   --set-name "Ruler of the Skies" \
   --expected-count 233 \
-  --image-language en
+  --image-languages en=en,fr=fr,es=es,it=it,de=de,pt=pt-br,zh-TW=zh-tw
 ```
+
+`--image-languages` 只能列出已完成全量 R2 smoke 的语言映射。确实只有英文素材时可显式
+使用 `--image-language en` 作为 fallback，但若用户要求本地化图片，不得用该 fallback
+宣称完成。
 
 `persist-ocr-evidence.mjs` 只接受位于 `--ocr-dir` 内、且确实被 review 引用的
 PaddleOCR JSON；它把这些原始结果复制到持久目录并将 evidence 改写为仓库相对路径。
-持久化输出中不得残留 `/tmp`、`/private/tmp` 或本机用户目录。
+复制时必须删除签名 URL 的 query capability。持久化输出中不得残留 `/tmp`、
+`/private/tmp`、本机用户目录、authorization、token、cookie 或 credential。
 
-若本轮已确认下游工作树初始干净，但需要从 dry-run 产生的错误格式恢复后重写，显式加
-`--base-ref HEAD`。脚本会从该基线读取原文本并只在根对象末尾追加新 set，避免重排
-数值形态的旧 JSON key；不要在未确认目标文件无用户改动时使用该选项。
+需要替换已存在的 set 时显式加 `--base-ref <reviewed-commit>`。脚本会确认每个目标文件
+仍与该 commit 完全一致，删除旧 set keys 后原子写入新值，并保持所有无关顶层 key 的
+原顺序；任一 worktree 漂移都会停止，不得以基线内容覆盖用户修改。重跑后还要扫描原始
+JSON，确认没有重复 key。
 
 输出固定为：
 
@@ -99,6 +109,7 @@ PaddleOCR JSON；它把这些原始结果复制到持久目录并将 evidence �
 - 候选不一致必须写 `review.cards.<id>.fields.<field>`；不得在脚本里添加目标 set 或卡号特判。
 - OCR 原文与纠正值同时保留。illustrator 可用仓库既有 artist corpus 纠错；flavor text 只能纠正明确 OCR 错字并保留说明。
 - 任一必填字段缺失、任一冲突未裁决或 ID 不连续时，输出审计但以非零退出，禁止生产写入。
+- canonical adapter 若根据数组位置生成卡号，必须先断言每一项 ID 都等于预期的 `<set>-NNN` 且无重复；只有数量相等不够。
 
 ## 联动约束
 

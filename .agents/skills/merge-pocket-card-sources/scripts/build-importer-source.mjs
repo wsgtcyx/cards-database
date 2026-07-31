@@ -29,6 +29,16 @@ const canonical = loadJson(canonicalPath)
 if (canonical.setId !== 'B4' || canonical.cards?.length !== 233) {
 	throw new Error('This reviewed source builder expects the complete 233-card B4 canonical file')
 }
+const canonicalIds = new Set()
+for (let index = 0; index < canonical.cards.length; index++) {
+	const expectedId = `B4-${String(index + 1).padStart(3, '0')}`
+	const actualId = canonical.cards[index]?.id
+	if (actualId !== expectedId) {
+		throw new Error(`Canonical card order is unsafe: expected ${expectedId} at position ${index + 1}, got ${actualId}`)
+	}
+	if (canonicalIds.has(actualId)) throw new Error(`Duplicate canonical card id: ${actualId}`)
+	canonicalIds.add(actualId)
+}
 
 const LOCALES = ['en-US', 'fr-FR', 'es-ES', 'it-IT', 'de-DE', 'pt-BR', 'zh-TW', 'ko-KR', 'ja-JP']
 const LANG_BY_LOCALE = {

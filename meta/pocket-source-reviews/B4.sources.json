@@ -11,6 +11,28 @@
     "releaseSha256": "a04d62cec7a3bdc5875ccc35d8e0062c604fc93934a8f35998247ba53e2a8b3d",
     "license": "MIT"
   },
+  "boosterAssets": {
+    "role": "production booster logo and front artwork",
+    "logo": {
+      "repo": "https://github.com/flibustier/pokemon-tcg-pocket-database",
+      "commit": "5313e5d23349ec01b4d968bc0955fd4cc1da0e1c",
+      "path": "dist/images/sets/LOGO_expansion_B4_en_US.webp",
+      "sha256": "2d85f4ec8de8a1cac1a33f5532ba4efe00d79121885108a15df2b784041bd22a",
+      "license": "MIT"
+    },
+    "artworkFront": {
+      "repo": "https://github.com/wsgtcyx/tcgp",
+      "commit": "fe0e9ccdbc516b777fbd724ac74b1c337f67447e",
+      "path": "public/images/pack/ruler-of-the-skies-pack.webp",
+      "sha256": "65862b625912e09f55e31684c2f3775343d02ac673537906956674b09e358878"
+    },
+    "published": {
+      "language": "en",
+      "origin": "https://game.pokemontcgpocket.app",
+      "cacheControl": "public, max-age=31536000, immutable",
+      "verifiedAt": "2026-07-30T15:00:00.000Z"
+    }
+  },
   "index": {
     "role": "number, name, rarity, and image index",
     "repo": "https://github.com/flibustier/pokemon-tcg-pocket-database",
