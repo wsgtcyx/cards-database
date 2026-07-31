@@ -19,7 +19,6 @@ permissions:
 
 jobs:
   probe:
-    if: ${{ github.event_name == 'pull_request' || !contains(github.event.head_commit.message, '[skip b4-probe]') }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -31,6 +30,9 @@ jobs:
       - name: Probe structured metadata and localized assets
         shell: bash
         run: |
+          if git log -1 --pretty=%s | grep -Fq '[skip b4-probe]'; then
+            exit 0
+          fi
           node <<'NODE'
           const fs = require('node:fs')
           const path = require('node:path')
