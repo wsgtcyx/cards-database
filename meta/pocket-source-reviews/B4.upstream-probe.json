@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "setId": "B4",
-  "generatedAt": "2026-07-31T05:21:58.936Z",
+  "generatedAt": "2026-07-31T05:34:42.775Z",
   "completionPolicy": {
     "noEnglishImageFallback": true,
     "noCircularApiAsCanonicalSource": true,
@@ -27,7 +27,7 @@
       "cacheControl": null,
       "lastModified": null,
       "bytes": 5549,
-      "sha256": "65a583f178a5f5d64e90fda23e31fea053f68603d6b4e059c73bdc7d8e76f479",
+      "sha256": "4319db5c029f8abaa300bf6f5d904aa7c3ef687b9569904e8d885e67ee3c90ae",
       "magicHex": "3c21444f43545950452068746d6c3e3c"
     },
     "set": null,
