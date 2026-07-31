@@ -13,6 +13,7 @@ on:
     paths:
       - .github/workflows/b4-localization-probe.yml
       - .agents/skills/b4-card-localization/**
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,139 +21,38 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
           ref: agent/b4-localization-pipeline
           fetch-depth: 0
 
-      - name: Probe structured metadata and localized assets
+      - name: Skip report-only commits
+        id: guard
         shell: bash
         run: |
           if git log -1 --pretty=%s | grep -Fq '[skip b4-probe]'; then
-            exit 0
+            echo 'skip=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'skip=false' >> "$GITHUB_OUTPUT"
           fi
-          node <<'NODE'
-          const fs = require('node:fs')
-          const path = require('node:path')
-          const crypto = require('node:crypto')
 
-          ;(async () => {
-            const locales = ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
-            const imageLocaleCandidates = {
-              en: ['en'], fr: ['fr'], es: ['es'], it: ['it'], de: ['de'],
-              'pt-br': ['pt-br', 'pt'], 'zh-tw': ['zh-tw'],
-            }
-            const sampleIds = ['B4-001', 'B4-154', 'B4-233']
-            const timeoutMs = 20_000
-
-            async function request(url, method = 'GET') {
-              const controller = new AbortController()
-              const timeout = setTimeout(() => controller.abort(), timeoutMs)
-              try {
-                const response = await fetch(url, {
-                  method,
-                  headers: {
-                    accept: method === 'HEAD' ? '*/*' : 'application/json',
-                    'user-agent': 'wsgtcyx/cards-database-b4-probe/1.0',
-                  },
-                  signal: controller.signal,
-                })
-                const result = {
-                  url,
-                  method,
-                  status: response.status,
-                  ok: response.ok,
-                  contentType: response.headers.get('content-type'),
-                  contentLength: response.headers.get('content-length'),
-                  etag: response.headers.get('etag'),
-                  cacheControl: response.headers.get('cache-control'),
-                }
-                if (method !== 'HEAD') {
-                  const text = await response.text()
-                  result.bytes = Buffer.byteLength(text)
-                  result.sha256 = crypto.createHash('sha256').update(text).digest('hex')
-                  try {
-                    const json = JSON.parse(text)
-                    result.jsonType = Array.isArray(json) ? 'array' : typeof json
-                    if (Array.isArray(json)) {
-                      const b4 = json.filter(card => String(card?.id ?? '').startsWith('B4-'))
-                      result.count = json.length
-                      result.b4Count = b4.length
-                      result.sample = b4.slice(0, 3)
-                    } else if (json && typeof json === 'object') {
-                      result.keys = Object.keys(json).sort()
-                      result.sample = json
-                    } else {
-                      result.sample = json
-                    }
-                  } catch {
-                    result.bodyPreview = text.slice(0, 500)
-                  }
-                }
-                return result
-              } catch (error) {
-                return { url, method, ok: false, error: `${error.name}: ${error.message}` }
-              } finally {
-                clearTimeout(timeout)
-              }
-            }
-
-            const report = {
-              schemaVersion: 1,
-              setId: 'B4',
-              generatedAt: new Date().toISOString(),
-              structured: {},
-              assets: {},
-            }
-
-            for (const locale of locales) {
-              report.structured[locale] = {
-                pocketAppList: await request(`https://api.pokemontcgpocket.app/v2/${locale}/cards`),
-                pocketAppCards: {},
-                tcgdexSet: await request(`https://api.tcgdex.net/v2/${locale}/sets/B4`),
-                tcgdexCards: {},
-              }
-              for (const id of sampleIds) {
-                report.structured[locale].pocketAppCards[id] = await request(
-                  `https://api.pokemontcgpocket.app/v2/${locale}/cards/${id}`,
-                )
-                report.structured[locale].tcgdexCards[id] = await request(
-                  `https://api.tcgdex.net/v2/${locale}/cards/${id}`,
-                )
-              }
-
-              report.assets[locale] = {}
-              for (const id of sampleIds) {
-                const number = id.slice(-3)
-                report.assets[locale][id] = {}
-                for (const assetLocale of imageLocaleCandidates[locale]) {
-                  report.assets[locale][id][assetLocale] = await request(
-                    `https://game.pokemontcgpocket.app/${assetLocale}/tcgp/B4/${number}/high.webp`,
-                    'HEAD',
-                  )
-                }
-              }
-            }
-
-            const output = path.join('meta', 'pocket-source-reviews', 'B4.api-probe.json')
-            fs.mkdirSync(path.dirname(output), { recursive: true })
-            fs.writeFileSync(output, `${JSON.stringify(report, null, 2)}\n`)
-          })().catch(error => {
-            console.error(error)
-            process.exitCode = 1
-          })
-          NODE
+      - name: Probe B4 upstreams
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          node .agents/skills/b4-card-localization/scripts/probe-upstreams.mjs \
+            --output meta/pocket-source-reviews/B4.upstream-probe.json
 
       - name: Commit probe report
+        if: steps.guard.outputs.skip != 'true'
         shell: bash
         run: |
-          if [[ -z "$(git status --porcelain -- meta/pocket-source-reviews/B4.api-probe.json)" ]]; then
+          if [[ -z "$(git status --porcelain -- meta/pocket-source-reviews/B4.upstream-probe.json)" ]]; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add meta/pocket-source-reviews/B4.api-probe.json
-          git commit -m "[skip b4-probe] Capture B4 upstream schema"
+          git add meta/pocket-source-reviews/B4.upstream-probe.json
+          git commit -m "[skip b4-probe] Capture B4 upstream availability"
           git push origin HEAD:agent/b4-localization-pipeline
