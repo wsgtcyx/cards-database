@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "setId": "B4",
-  "generatedAt": "2026-08-02T05:53:56.343Z",
+  "generatedAt": "2026-08-02T06:02:34.152Z",
   "methodology": {
     "imageIndex": "Pinned B4 illustration index used only to derive internal game card IDs.",
     "discovery": "Inspect public RaenonX HTML, Next.js RSC responses, same-origin JavaScript chunks, and discovered /api/data endpoints.",
@@ -68,10 +68,10 @@
         "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
         "etag": null,
         "lastModified": null,
-        "bytes": 500073,
-        "retainedBytes": 500073,
+        "bytes": 500116,
+        "retainedBytes": 500116,
         "truncated": false,
-        "sha256": "7c30c42e1fabf356c5157c51f47eaa3c9098e78da9369e527178491c07c35b22",
+        "sha256": "f8b68d99295854e34d870b6738cdcf53f955cd4a63bebe768d90339f43611044",
         "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
         "identifiers": {
           "B4": 45,
@@ -96,10 +96,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 506384,
-            "retainedBytes": 506384,
+            "bytes": 506470,
+            "retainedBytes": 506470,
             "truncated": false,
-            "sha256": "ca4ab991528af992a618a0cebc3b9cd203d7eef6f67e9c6ad9f65b10159d8ecd",
+            "sha256": "6548588d7144de56e6f8d90ceeb703959bd4b34505e04aafb0ebd49642b0fb84",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -124,7 +124,7 @@
             "bytes": 447942,
             "retainedBytes": 447942,
             "truncated": false,
-            "sha256": "102180aa47c79e4879aac767030f193b7bb99619b5bb60bd2b6cd0b90358c83d",
+            "sha256": "d6b43118519aa3b30f617203ef1c368f8ec8bf16a2d9e60de29e43e89674d3f7",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_019620_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -151,7 +151,7 @@
             "bytes": 506279,
             "retainedBytes": 506279,
             "truncated": false,
-            "sha256": "3b5a14eb979af82d5bf9030fac07d856d21b0f90d0f6e16f9c120dcf0858e066",
+            "sha256": "ab89bbc2ebf4090a598e1906346e09cbf8d47ebe0b7f9c697959449f945ad499",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -176,7 +176,7 @@
             "bytes": 447832,
             "retainedBytes": 447832,
             "truncated": false,
-            "sha256": "7fa77c2a513c1ee4e4e9e5c6c5f9f2c0fb73d2286f5451c2bab562904e106f41",
+            "sha256": "2c9a891897eb9e099dbf3352a2bebffa956b1d90888802e9c55e4f8df277e40d",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020430_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -200,10 +200,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 506473,
-            "retainedBytes": 506473,
+            "bytes": 506387,
+            "retainedBytes": 506387,
             "truncated": false,
-            "sha256": "5b4686dd3f05a0181204ddb09042d41e6efbdffa22efe876a7d828ce2ded5d48",
+            "sha256": "be6720f61bdc6f548795bcac805701cb43044695cfbe16ef5d6513207a9bb926",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -228,7 +228,7 @@
             "bytes": 447926,
             "retainedBytes": 447926,
             "truncated": false,
-            "sha256": "81e83250e47e028d0bf3ccd32586a0a02e2f780801357a9e0e7fe81a46e9df36",
+            "sha256": "43dbc924abbb871b3580a2b89a47af92b922a1f7ad8a7aaa5687349bf9925ab2",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020830_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -252,10 +252,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 506780,
-            "retainedBytes": 506780,
+            "bytes": 506737,
+            "retainedBytes": 506737,
             "truncated": false,
-            "sha256": "98d4a01aa1c521bb5822441055aaa3a991c07d3471858b8645b3b45fb8919e2b",
+            "sha256": "92b4f01ab44d53da9a656afcc9e1d53d6a0113d38dd1de1b324da27d8f90266b",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -280,7 +280,7 @@
             "bytes": 448256,
             "retainedBytes": 448256,
             "truncated": false,
-            "sha256": "96c8082f8b6586a9ac6871ed1fb06e62bf8471f73e8970b16357822cf72f7ff2",
+            "sha256": "ffc7b465015137f24222675ded097cf07b35080dac54c1f68f8e78319033466b",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020230_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -304,10 +304,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 506779,
-            "retainedBytes": 506779,
+            "bytes": 506736,
+            "retainedBytes": 506736,
             "truncated": false,
-            "sha256": "bcba471479bfbb31f0a8435a1979c9c2c8bc1f1f3aae8459876c5ea9382abfa7",
+            "sha256": "8b5782fc3bfb3b753b8d4f51408ad8158039f94d31932a324c152ed30c8c1d93",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -332,7 +332,7 @@
             "bytes": 448255,
             "retainedBytes": 448255,
             "truncated": false,
-            "sha256": "dde30c2421293a6d08ccd28ddfb3a8c1b8062a05d8e2abc6fce406718878cedd",
+            "sha256": "0d9399bb613a793a521bd186fd0a9791faab1ed9e5e836e4e3640158f79dd047",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020700_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -366,7 +366,7 @@
         "bytes": 555588,
         "retainedBytes": 555588,
         "truncated": false,
-        "sha256": "710350b51378efcdc8558bc7e756d7a478d3c4d21a1d577ae9bf7af4f1625798",
+        "sha256": "ead94f2e2c4e6af1370052d028d6dd39c4625b0c1910983c166157eb5b5780a2",
         "preview": "<!DOCTYPE html><html lang=\"fr\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
         "identifiers": {
           "B4": 45,
@@ -391,10 +391,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 562302,
-            "retainedBytes": 562302,
+            "bytes": 562259,
+            "retainedBytes": 562259,
             "truncated": false,
-            "sha256": "de8b1d79a634f9cb04c321b54628a517086878b618ee7b0982c0689cf519fb64",
+            "sha256": "5bc8ba7f3c9e0c80747ce0f78d88fd086d5bdfb60aa36434afc41c68ac86f962",
             "preview": "<!DOCTYPE html><html lang=\"fr\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -419,7 +419,7 @@
             "bytes": 500290,
             "retainedBytes": 500290,
             "truncated": false,
-            "sha256": "4c58f6f0da5b7896b925207c845959aedcbb2c4f483a4a79f042d53e0c7dae97",
+            "sha256": "ae6323bae7cb41ddac47256496f23348984070329054c45114fd7de50a0a9eb1",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"fr\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_019620_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -446,7 +446,7 @@
             "bytes": 562038,
             "retainedBytes": 562038,
             "truncated": false,
-            "sha256": "5f0569c4eec1937baa908ba67a49e7d1599bfe998050b5597319266238aa60c5",
+            "sha256": "2f6af9fabd922085b00df4ea32d2826a87d2edec4694a20553b45760c8df93f9",
             "preview": "<!DOCTYPE html><html lang=\"fr\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -471,7 +471,7 @@
             "bytes": 500165,
             "retainedBytes": 500165,
             "truncated": false,
-            "sha256": "b6c07570f538ab39a465f84c5145cb96ff022cdf1f51c1e55f8677d921257538",
+            "sha256": "f6bacb3ba99328234f1caf4372f7e0d3c70b2ccca271fdcfa841d795b4611457",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"fr\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020430_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -498,7 +498,7 @@
             "bytes": 562209,
             "retainedBytes": 562209,
             "truncated": false,
-            "sha256": "bb4609b5098c35cd04f759dbb325dc4295a7fad58d8ac5c8c6cc2beaf40ed54f",
+            "sha256": "cc61d8532f7cca7514611a0bbf759783cdec584c4945ac5e4046e84ee7a9741b",
             "preview": "<!DOCTYPE html><html lang=\"fr\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -523,7 +523,7 @@
             "bytes": 500269,
             "retainedBytes": 500269,
             "truncated": false,
-            "sha256": "cd16baf97cc2f017eae04e41cfdbf17ec08df3dcc08dc5ec28e697feb4ad995b",
+            "sha256": "0f9d196e722b5eafd3f4232683a352dec53f8bb50b06ea6d9df6bf58ad5203c4",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"fr\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020830_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -550,7 +550,7 @@
             "bytes": 562516,
             "retainedBytes": 562516,
             "truncated": false,
-            "sha256": "66ea0eb6dcdf8cd9858ddcb4282fc101b9555ac24ee1f57a627ee85520bbcabb",
+            "sha256": "5dabb68fd9889cc3ab104a7fe2e5e9a85e538ef32f5070b88e120567465f6dd4",
             "preview": "<!DOCTYPE html><html lang=\"fr\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -575,7 +575,7 @@
             "bytes": 500599,
             "retainedBytes": 500599,
             "truncated": false,
-            "sha256": "ce2340cc1dbca50bfdd141b4fa91d420266845bdaea91497bf16362bea9c97dd",
+            "sha256": "fa97218890759d3647e541c86cc7c12a389117505b13394b6e7cb0c0bf377045",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"fr\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020230_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -599,10 +599,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 562558,
-            "retainedBytes": 562558,
+            "bytes": 562601,
+            "retainedBytes": 562601,
             "truncated": false,
-            "sha256": "c17c0eaa15e8647c530ff5340c2175084c41dc1043f12506f98caf50bd48ff71",
+            "sha256": "88743382e2fe5173464c43f211921aadc7b63983d208a3686feb7b362fc8221e",
             "preview": "<!DOCTYPE html><html lang=\"fr\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -627,7 +627,7 @@
             "bytes": 500598,
             "retainedBytes": 500598,
             "truncated": false,
-            "sha256": "6e0a8b586f131c5a5d4673cbc3bdbe3c5842b75214640ad497dd1481fd81dc20",
+            "sha256": "fa92063378145ce3024c898376a2443e183aa1751a1825994e17ac775b20c3dc",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"fr\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020700_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -658,10 +658,10 @@
         "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
         "etag": null,
         "lastModified": null,
-        "bytes": 520679,
-        "retainedBytes": 520679,
+        "bytes": 520722,
+        "retainedBytes": 520722,
         "truncated": false,
-        "sha256": "a9dbb790a5087ed9d2244831c154baaec18c61a6d8ef21a4c9a55e0d73f193ef",
+        "sha256": "7a8e6509c7d018edecad0fe2266b100cc6688a8f9cf6f9f4788809c38cbf3b4c",
         "preview": "<!DOCTYPE html><html lang=\"es\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
         "identifiers": {
           "B4": 45,
@@ -686,10 +686,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 527234,
-            "retainedBytes": 527234,
+            "bytes": 527277,
+            "retainedBytes": 527277,
             "truncated": false,
-            "sha256": "679bb57cee75c8120930c8344c9cefecea9b3460f546dabad9c3eeaaded87e01",
+            "sha256": "467b9bcddb166fd4fb4fba6bbba624cddf0641ca6875722c9d1e28a743c11ace",
             "preview": "<!DOCTYPE html><html lang=\"es\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -714,7 +714,7 @@
             "bytes": 470567,
             "retainedBytes": 470567,
             "truncated": false,
-            "sha256": "6ba86219088658aa9897c52c438875b91ff9486f3ef299d9788075acf72ca090",
+            "sha256": "4aa21e0ad0bb6f38bbb2b1b6333f356b101e9969db692cee1acd49bd3d24f19c",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"es\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_019620_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -741,7 +741,7 @@
             "bytes": 527086,
             "retainedBytes": 527086,
             "truncated": false,
-            "sha256": "87203c9f74415047b925add7ad0e0f4b81bb8d09b49efc4d3be1315211e93a68",
+            "sha256": "dfa6bd7f9d0d510acb9ca7cf4b9fe0683ff5d59b5a3c9b2599bad88a11609155",
             "preview": "<!DOCTYPE html><html lang=\"es\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -766,7 +766,7 @@
             "bytes": 470457,
             "retainedBytes": 470457,
             "truncated": false,
-            "sha256": "3dc643f9b33eba28b0e78372db808c73abd1fb4506f65064a73cdd3b13951035",
+            "sha256": "06ea35feed9c20766b921c26906e633dcb284557c009993ecf30680ab4cd5350",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"es\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020430_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -793,7 +793,7 @@
             "bytes": 527194,
             "retainedBytes": 527194,
             "truncated": false,
-            "sha256": "b19902345043c94e5402fd0130b64454acef05a4b7f5aec8dfb5c4c8dd016127",
+            "sha256": "94bc281f677e049dfa2059698fd2f7c69548b2c3b625ea7e6409e114951ef46e",
             "preview": "<!DOCTYPE html><html lang=\"es\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -818,7 +818,7 @@
             "bytes": 470551,
             "retainedBytes": 470551,
             "truncated": false,
-            "sha256": "d90573923abe6030525bbcaf4fe4ca2ea8db87928e7259b95168e942bbc2fdeb",
+            "sha256": "48a766b6a55d7332d7c3ef348d940694a869893e1b0fa94c30b158445e6dbe83",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"es\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020830_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -845,7 +845,7 @@
             "bytes": 527587,
             "retainedBytes": 527587,
             "truncated": false,
-            "sha256": "caa423d6860f6358d9d3097c4dfe0dfcc54c0cbac675729ec5fb62b7d05e3f23",
+            "sha256": "a978295ebd17c18299827beeb6ee87e56f3af4ec63c261949e46cece3bb74c79",
             "preview": "<!DOCTYPE html><html lang=\"es\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -870,7 +870,7 @@
             "bytes": 470881,
             "retainedBytes": 470881,
             "truncated": false,
-            "sha256": "562171ecdf629935d5c2f50f1663e0cc7900fc76d39fb985a4f23ce7c2d1544c",
+            "sha256": "d12eca326c0b8e4f63d2ea7eff3f9bb0d5bf08324cc17f95d6edcf9e72ef8597",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"es\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020230_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -897,7 +897,7 @@
             "bytes": 527586,
             "retainedBytes": 527586,
             "truncated": false,
-            "sha256": "9305be43b942e585ecfae4ce7c8af9cdfc4916570ae6c9f2ae241aac312d4155",
+            "sha256": "21677df9583eb7d7a5edd95c7866c9a62f66c4727fde190ae3305cb9852c15af",
             "preview": "<!DOCTYPE html><html lang=\"es\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -922,7 +922,7 @@
             "bytes": 470880,
             "retainedBytes": 470880,
             "truncated": false,
-            "sha256": "39b00753129fbc400eecdc579da778911348a281cdbe2b56f004c867fe0e35a0",
+            "sha256": "4c51b1110b3accbfd9e56837ad07dd5ab3a39136fbdfa890946183f73d8c2cfd",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"es\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020700_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -956,7 +956,7 @@
         "bytes": 460542,
         "retainedBytes": 460542,
         "truncated": false,
-        "sha256": "78d1c8db9e2497ab7cab8bc3285e05525e1740e265f681b082cf8a8d05a7a0d2",
+        "sha256": "2b2c1ced12e5d3cee508634f68bc99f77454ba9ba066f0956182e307b7c43135",
         "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
         "identifiers": {
           "B4": 45,
@@ -984,7 +984,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "83bc66bb77bec36cf27f81a0e7d48f3acca6c87247486628b7d5243c6c9267dd",
+            "sha256": "8b399fdf33ca9c016587be1edd65d773406e082bc2e067db7147bd0a51f401c6",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1009,7 +1009,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "c527268f8db0025e36fad90ba178ff669d767a314280e9a4050b8c86cb05fe64",
+            "sha256": "57d37b8ef1ed4e015501769a0b7d24b77cc34da533f3d3325933cb5efab7f94a",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"it/card/PK_10_019620_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1036,7 +1036,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "6df6fdcdaefdb200e354b3e526c7b6c34d9ebbf8542e3b887c67905b5ec68b72",
+            "sha256": "2b122980de4ba0ba5f69bffd2a3f1b940be8a7580cbdbbed907a3db4d76b59f5",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1061,7 +1061,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "9cf7c37c8b61670a058f986b389ed8bf0701cab7e0afa45e7258ad1bb735dd81",
+            "sha256": "8d6686605d3a083fa74c78ebdbf2d2ff3bd31e039dd4ebf50cbc4b0c165de40b",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"it/card/PK_10_020430_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1088,7 +1088,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "5ef99892b4e585bc8d53acc7f3e992e97df208ecab50c9c472b7d95007b62565",
+            "sha256": "efb33de66386f1ff2d2fbf5c1c7323dae5371ed6bfc2e0091d171d61b429d6e4",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1113,7 +1113,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "1e796304841463bf253c5aabbac30bec74d2ba4e7737a865c39730f8830c8a11",
+            "sha256": "6856b8d1b3caab4e9ce1c3efcae84ba692ce97c24683a302aa199f2dff2fa540",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"it/card/PK_10_020830_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1140,7 +1140,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "f4b85f77e96fa674b0329c03b73979eaca8b2e4adab63845ed25d5cbbb862265",
+            "sha256": "af9c9b10eb8f61d45033c496fc34c259e858594d177700b236cc5932eb5d58d9",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1165,7 +1165,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "4a20440796ecc7b969b088d4104d0699570fe75013b6b8a69e667629d5e75ac7",
+            "sha256": "1f639a5fbff440a0a728467fc2c351daf394659316ff89a37141a17839d7712e",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"it/card/PK_20_020230_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1192,7 +1192,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "bf265afb96f504ae9d46e565fed2bbab5015ee59b3f1a6dc2229725de4ef4221",
+            "sha256": "4d7e39fcfff1efd64984c863ade690fd28c56547f41d239a347d1db8ce5bd303",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1217,7 +1217,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "6d259b4de3cec3cabcfd0fef0c583c8164f022b3b195dd6f1a5b664461c9c40d",
+            "sha256": "249f554db42269e743805f7f7364af7d8e5e0a1f276d9acad993640069bcef59",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"it/card/PK_20_020700_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1251,7 +1251,7 @@
         "bytes": 460542,
         "retainedBytes": 460542,
         "truncated": false,
-        "sha256": "a79d97492f873ea6bedd595473452ed426592415825ca54f42fbd5bea09868f0",
+        "sha256": "6d22736564e188a4866cfccafd8fe8c90b919715f24cd47081ac1cf9406bfc45",
         "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
         "identifiers": {
           "B4": 45,
@@ -1279,7 +1279,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "12e5851e1893fa18073d8daaeb867f06e4dc4f95a0ed8972135eaac7b3a20d96",
+            "sha256": "463f02be181df2e7c79609db68e9fb45624419128479eec2e1adf6dbccaaa057",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1304,7 +1304,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "59329e7a481ec9031e67ec20cc13fb1e717c6c2b1575aed60f10dc0004f484ff",
+            "sha256": "bf4d6a9b106aa8f4d1ce06151b7955f3b6711b48caa59691657f83b35f0de897",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"de/card/PK_10_019620_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1331,7 +1331,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "af6bca26e4ec58032c10a52b6cb1b0a9e8d489531a5226575e084c29d9136e14",
+            "sha256": "7d278391a5bd6329a43c3b8f83a2db11b87485594e05743e54f6cecccdb71dca",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1356,7 +1356,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "d7fbb1ed8da8aa037135474d3ebb1d386a2227a43c18da1977e62ba10dea4f25",
+            "sha256": "efc376fde66688c3f1e406828797df84682ecc4cee22dc6a5d14500d5b9ecf01",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"de/card/PK_10_020430_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1383,7 +1383,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "166830e584988d69fce120d0a6af1b128e1c3b5be49030f0b6bde1bd18424c85",
+            "sha256": "290a5bfac3e8c30f0c204bd8696e34c1260e84304078510fa4008f016993b5a3",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1408,7 +1408,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "d3287a89d8ba4426c71c6f72c5e171d9641faff1e119a940c01e779fec22c3c0",
+            "sha256": "622fe944364405a670298e17023bed1bf6a2871b25200bb9e0e2f60e1c82f444",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"de/card/PK_10_020830_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1435,7 +1435,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "0bca916900947b84b4eb54f693797931f70a68738e046134d2686a3c4319b87f",
+            "sha256": "faf5c63fcfde0ec0ab0f6b00f8e818f6858110f4483c595be64a6af071c62f39",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1460,7 +1460,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "1e3d34d3569c4b26d9e97bce428ed44fba1c210ad6f33e89d4903b99b0433bba",
+            "sha256": "5b51c900cc9f6c8925875770c2ed897127abec5ea30e03cc04bf4c57d6739ef3",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"de/card/PK_20_020230_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1487,7 +1487,7 @@
             "bytes": 460594,
             "retainedBytes": 460594,
             "truncated": false,
-            "sha256": "872e33c2bae8bcf3de3ae5d1e9c5c547a21974968f68d86be6182e5cf7adbc02",
+            "sha256": "849ba61a1eb3ff3842dff1dd4338e7061d5fa7fb89375864934438dcaa3518bd",
             "preview": "<!DOCTYPE html><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 45,
@@ -1512,7 +1512,7 @@
             "bytes": 410201,
             "retainedBytes": 410201,
             "truncated": false,
-            "sha256": "858a005a6b5c96f8c66bdc44a35809259748580c1fc7740a09e542d6a1f7e9f7",
+            "sha256": "2c57f2a88cb124a4b11e9c67ebebf7bfe596823dd4057b61d2238bc33601b059",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"en\",\"d\"],{\"children\":[[\"rest\",\"de/card/PK_20_020700_00\",\"c\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\"",
             "identifiers": {
               "B4": 45,
@@ -1546,7 +1546,7 @@
         "bytes": 530441,
         "retainedBytes": 530441,
         "truncated": false,
-        "sha256": "0f2a935bcd1f287b35d38c321af6b7f6298e019e99ea209eca9a55b8b7c6d279",
+        "sha256": "59ef469819819c386d0ac4405038b0971cda7b4624b1142eda533734847bf238",
         "preview": "<!DOCTYPE html><html lang=\"pt\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
         "identifiers": {
           "B4": 45,
@@ -1571,10 +1571,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 537006,
-            "retainedBytes": 537006,
+            "bytes": 537049,
+            "retainedBytes": 537049,
             "truncated": false,
-            "sha256": "e6cacd0c9dc26e1af85080c5887bee115f61a5c87b53e9763b4e9d31735097d4",
+            "sha256": "5808e9769618eb9de2420c39e59d51df214666d16390aaf5b4455a530755a363",
             "preview": "<!DOCTYPE html><html lang=\"pt\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1599,7 +1599,7 @@
             "bytes": 480291,
             "retainedBytes": 480291,
             "truncated": false,
-            "sha256": "dc1f9c5e4632c7bc5cc32e1b1c451c11f3b33e651f8d079dcd51bc239f8ee05d",
+            "sha256": "068a567645b083e119f78708e084dff5d4a7114a9f0efdc71145237179efe077",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"pt\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_019620_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -1626,7 +1626,7 @@
             "bytes": 536901,
             "retainedBytes": 536901,
             "truncated": false,
-            "sha256": "d4167eed442ff9b4fe1f264ed40d2fae210c80359dbf1beae9a97044793923fa",
+            "sha256": "e2ecde12ff9d51e75dc8c905f68ec751a432ec00ddb0a323a1e4c35bde5de2c5",
             "preview": "<!DOCTYPE html><html lang=\"pt\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1651,7 +1651,7 @@
             "bytes": 480181,
             "retainedBytes": 480181,
             "truncated": false,
-            "sha256": "fc187cbd1ef0bef1374b16f11b8c37e9959b0d5ad73568623d253049fba4f5ae",
+            "sha256": "f84c706b8c54e6b9276a7e3418696511c652cbc90f1574fc5a786acbf5db9076",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"pt\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020430_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -1675,10 +1675,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 536966,
-            "retainedBytes": 536966,
+            "bytes": 537009,
+            "retainedBytes": 537009,
             "truncated": false,
-            "sha256": "ea9f3a9a83c9710ba97a7ef322f79fbb993f9107c875644d25dbc50ba60f855a",
+            "sha256": "73002ef95b74931684717a6f5f36eeddccedac8f42f53e47dab65904de32ab6a",
             "preview": "<!DOCTYPE html><html lang=\"pt\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1703,7 +1703,7 @@
             "bytes": 480275,
             "retainedBytes": 480275,
             "truncated": false,
-            "sha256": "f494a9bfa7331adfbaa3e01718f7dabeace52c93acc746043e0578a2dc8e4d7e",
+            "sha256": "f0452ff6e9e2a549980404721cbc44c989da29e9ddba2112492059f6894b3eea",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"pt\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020830_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -1727,10 +1727,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 537316,
-            "retainedBytes": 537316,
+            "bytes": 537402,
+            "retainedBytes": 537402,
             "truncated": false,
-            "sha256": "905a044fb2cebe6839f51059beb943998f29b6aaaf1e0965730fe1d3bb25598b",
+            "sha256": "ced7d71c50505f1e03063b92e5b3fa332b348e1246429201ef8033f59a2f597a",
             "preview": "<!DOCTYPE html><html lang=\"pt\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1755,7 +1755,7 @@
             "bytes": 480605,
             "retainedBytes": 480605,
             "truncated": false,
-            "sha256": "95683d3f5ff670c46df1c05f6b77866c9dd208f6dd7c151aa880578092d94df9",
+            "sha256": "7da92be4705503611b6aa593be7b3af22ffde1d0753f3c6d5e313fb9b7e8b91d",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"pt\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020230_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -1782,7 +1782,7 @@
             "bytes": 537388,
             "retainedBytes": 537388,
             "truncated": false,
-            "sha256": "821a6fac1b993cc74e06ca1e93136ee69ba7f09e52d71b521ffba2d987949011",
+            "sha256": "fc0ac09a917226b084df5e69afd37ef50e5f4be7261be5f210a1c27d152f34e0",
             "preview": "<!DOCTYPE html><html lang=\"pt\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1807,7 +1807,7 @@
             "bytes": 480594,
             "retainedBytes": 480594,
             "truncated": false,
-            "sha256": "6fe0816cc58cbe1a31bb98c101757175e5c7ead0500af24f0435cc39d4734d0a",
+            "sha256": "d298a2a47bdc86d854c141f880cbe662ad0e8ae036bbd1a29d1f7b7762308001",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"pt\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020700_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -1838,10 +1838,10 @@
         "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
         "etag": null,
         "lastModified": null,
-        "bytes": 497629,
-        "retainedBytes": 497629,
+        "bytes": 497672,
+        "retainedBytes": 497672,
         "truncated": false,
-        "sha256": "9313130670be114d4dcd32b5750306cb26231c68496fd2e4dfcc38bc42e72679",
+        "sha256": "fdb98e47b8f4cf9bc428c741bec653ec2100170365964c8388addcbd657d0b7f",
         "preview": "<!DOCTYPE html><html lang=\"zh\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
         "identifiers": {
           "B4": 45,
@@ -1866,10 +1866,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 503934,
-            "retainedBytes": 503934,
+            "bytes": 503977,
+            "retainedBytes": 503977,
             "truncated": false,
-            "sha256": "c2f4a096182157f658a1702dd2b7c80834a4a1c35fb40faf77c9fb39f92960a9",
+            "sha256": "46036e3c5ecc52a6bc68657891f80823b199826e532c1d5f05f0f8e801ae4737",
             "preview": "<!DOCTYPE html><html lang=\"zh\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1894,10 +1894,10 @@
             "bytes": 449553,
             "retainedBytes": 449553,
             "truncated": false,
-            "sha256": "e1dd15b1fc445f2b173abd8b30010e3dfbee9bc554975644e5c7317a1b527e9f",
+            "sha256": "bbc8b7387d1cc4881191175db97c9aa62c7ee3dd82a18a4438f605c8f33736ba",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"zh\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_019620_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
-              "B4": 46,
+              "B4": 48,
               "PK_10_019620_00": 44,
               "PK_10_020430_00": 0,
               "PK_10_020830_00": 0,
@@ -1918,10 +1918,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 503816,
-            "retainedBytes": 503816,
+            "bytes": 503859,
+            "retainedBytes": 503859,
             "truncated": false,
-            "sha256": "f74b08d98af935dfdd8a74acdb2d925f13dba2593458c70eab8f5ef3fd55970e",
+            "sha256": "5f55d5c08f05edc05c3421ea3921a4800bcfacfbf9bbcd0a6aa017c59b2faeea",
             "preview": "<!DOCTYPE html><html lang=\"zh\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1946,7 +1946,7 @@
             "bytes": 449458,
             "retainedBytes": 449458,
             "truncated": false,
-            "sha256": "75a6663ae975c5c0b99ef642150ac27a1f50711418bb18f58139a2c596f849f3",
+            "sha256": "a54010c81785fbcff118b4bde27ef738d815a4c13019a67ade6b3f0e4d4a7955",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"zh\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020430_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -1970,10 +1970,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 503894,
-            "retainedBytes": 503894,
+            "bytes": 503937,
+            "retainedBytes": 503937,
             "truncated": false,
-            "sha256": "d79376e7235d9deb3e1e7b55737d75a8d12ef14ba880a028ce977dd1bc6288fd",
+            "sha256": "58706a20616ba9260d7f57581f173fbae2c0bea51cc9087a9e1af853cd4adea8",
             "preview": "<!DOCTYPE html><html lang=\"zh\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -1998,7 +1998,7 @@
             "bytes": 449537,
             "retainedBytes": 449537,
             "truncated": false,
-            "sha256": "d0cb6a4d5dfcbc0a5b30fc7f1c5fa8454d2f71725f6f5150d00b8db37c458960",
+            "sha256": "9c9161cccaef0f6650936cbb928acf287c0d79746e69e0c0eb88c9e8cce7ea57",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"zh\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_10_020830_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -2025,7 +2025,7 @@
             "bytes": 504244,
             "retainedBytes": 504244,
             "truncated": false,
-            "sha256": "e2120d5b521a6c040585235af97347cc9760e1c6f43ad0f6da0bc9f52341f326",
+            "sha256": "76c79b81a0e6dba45a0bac120c542fd8c69c8f8344591937624fff25249ef042",
             "preview": "<!DOCTYPE html><html lang=\"zh\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -2050,7 +2050,7 @@
             "bytes": 449867,
             "retainedBytes": 449867,
             "truncated": false,
-            "sha256": "ea2c81f0d9cd22c890dbdb6bdad675f608504d1b91a9f9a6af5de17403e5f4a3",
+            "sha256": "7691727cfecb379c0979d7fbbe33bc3f737d453ad1ba43e2da2565dcc89fa166",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"zh\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020230_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -2074,10 +2074,10 @@
             "cacheControl": "private, no-cache, no-store, max-age=0, must-revalidate",
             "etag": null,
             "lastModified": null,
-            "bytes": 504210,
-            "retainedBytes": 504210,
+            "bytes": 504253,
+            "retainedBytes": 504253,
             "truncated": false,
-            "sha256": "9719f96538ddac91915feeb2f925f2d252efcb5474242f4af5f0abc8236ab32e",
+            "sha256": "cca1fad4323def1ea54533bdec698f87c6bfb9b4f305dec0a8706a6d025c729d",
             "preview": "<!DOCTYPE html><html lang=\"zh\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ae049b21683ff04d.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e0617c58abf9b8b4.css?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-908a7918ff0a5c84.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><script src=\"/_next/static/chunks/4696-7bc4ea3ab6e73891.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\" async=\"\"></script><scrip",
             "identifiers": {
               "B4": 46,
@@ -2102,7 +2102,7 @@
             "bytes": 449846,
             "retainedBytes": 449846,
             "truncated": false,
-            "sha256": "438d5c0337738aee62b27ff4b87e3085d18c0c7be4fa6eecd8153e83122de9a3",
+            "sha256": "02c673bab862a9bd146019ab54a31c33c883f53d68e1c251abb7d29dfcc7f03a",
             "preview": "1:\"$Sreact.fragment\" 2:I[48788,[\"1328\",\"static/chunks/1328-bf904f37290913b8.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\",\"7177\",\"static/chunks/app/layout-3079a7b2f4f04bd9.js?dpl=96dbdaa-2026-07-30T22-25-25-04-00\"],\"PolyfillContext\"] 3:I[9766,[],\"\"] 4:I[98924,[],\"\"] 8:I[24431,[],\"OutletBoundary\"] a:I[15278,[],\"AsyncMetadataOutlet\"] c:I[24431,[],\"ViewportBoundary\"] e:I[24431,[],\"MetadataBoundary\"] f:\"$Sreact.suspense\" 0:{\"b\":\"96dbdaa-2026-07-30T22-25-25-04-00\",\"f\":[[[\"\",{\"children\":[[\"locale\",\"zh\",\"d\"],{\"children\":[\"card\",{\"children\":[[\"id\",\"PK_20_020700_00\",\"d\"],{\"children\":[\"__PAGE__?{\\\"dpl\\\":\\\"96dbdaa-2026-07-30T22-25-25-04-00\\\"}\",{}]}]}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L2\",null,{\"children\":[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":",
             "identifiers": {
               "B4": 46,
@@ -3099,12 +3099,12 @@
       "contentLength": null,
       "cacheControl": "public, max-age=60, immutable",
       "etag": null,
-      "lastModified": "Sun, 02 Aug 2026 05:47:14 GMT",
-      "bytes": 88154,
-      "retainedBytes": 88154,
+      "lastModified": "Sun, 02 Aug 2026 06:02:47 GMT",
+      "bytes": 86173,
+      "retainedBytes": 86173,
       "truncated": false,
-      "sha256": "9ad27297dad45f3e35beca2098de8419b1180941d2f3783c253d5aa299a73000",
-      "preview": "[{\"type\":\"itemShop\",\"data\":{\"id\":\"EVENT_HISUIZORUA_PROMO\",\"nameI18nId\":\"110\",\"timeframe\":{\"startEpoch\":1784181600,\"endEpoch\":1785650400},\"products\":[{\"id\":\"SH_CG_EV_2606000_01\",\"nameI18nId\":\"558\",\"timeframe\":{\"startEpoch\":1784181600,\"endEpoch\":1785650400},\"limit\":{\"amount\":1,\"period\":\"oneTime\"},\"contents\":[{\"meta\":{\"type\":\"card\",\"id\":\"PK_90_018960_00\",\"key\":\"card-PK_90_018960_00\"},\"count\":1,\"key\":\"card-PK_90_018960_00x1\"}],\"price\":{\"type\":\"rewardTicket\",\"value\":1,\"id\":\"TICKET_2606000_EV_01\"}},{\"id\":\"SH_CG_EV_2606000_02\",\"nameI18nId\":\"559\",\"timeframe\":{\"startEpoch\":1784181600,\"endEpoch\":1785650400},\"limit\":{\"amount\":1,\"period\":\"oneTime\"},\"contents\":[{\"meta\":{\"type\":\"card\",\"id\":\"PK_90_018970_00\",\"key\":\"card-PK_90_018970_00\"},\"count\":1,\"key\":\"card-PK_90_018970_00x1\"}],\"price\":{\"type\":\"rewardT",
+      "sha256": "c20ea55f6af9a16aae2b3ff285832d552cf77b829534a4c6930f4a786848a425",
+      "preview": "[{\"type\":\"itemShop\",\"data\":{\"id\":\"EVENT_MEGAHELLGAR_PROMO\",\"nameI18nId\":\"110\",\"timeframe\":{\"startEpoch\":1786514400,\"endEpoch\":1787983200},\"products\":[{\"id\":\"SH_CG_EV_2607000_01\",\"nameI18nId\":\"547\",\"timeframe\":{\"startEpoch\":1786514400,\"endEpoch\":1787983200},\"limit\":{\"amount\":1,\"period\":\"oneTime\"},\"contents\":[{\"meta\":{\"type\":\"card\",\"id\":\"PK_90_021060_00\",\"key\":\"card-PK_90_021060_00\"},\"count\":1,\"key\":\"card-PK_90_021060_00x1\"}],\"price\":{\"type\":\"rewardTicket\",\"value\":1,\"id\":\"TICKET_2607000_EV_01\"}},{\"id\":\"SH_CG_EV_2607000_02\",\"nameI18nId\":\"548\",\"timeframe\":{\"startEpoch\":1786514400,\"endEpoch\":1787983200},\"limit\":{\"amount\":1,\"period\":\"oneTime\"},\"contents\":[{\"meta\":{\"type\":\"card\",\"id\":\"PK_90_021070_00\",\"key\":\"card-PK_90_021070_00\"},\"count\":1,\"key\":\"card-PK_90_021070_00x1\"}],\"price\":{\"type\":\"reward",
       "identifiers": {
         "B4": 60,
         "PK_10_019620_00": 0,
@@ -3123,166 +3123,8 @@
           "PK_20_020230_00": 0,
           "PK_20_020700_00": 0
         },
-        "count": 18,
+        "count": 17,
         "sample": [
-          {
-            "type": "itemShop",
-            "data": {
-              "id": "EVENT_HISUIZORUA_PROMO",
-              "nameI18nId": "110",
-              "timeframe": {
-                "startEpoch": 1784181600,
-                "endEpoch": 1785650400
-              },
-              "products": [
-                {
-                  "id": "SH_CG_EV_2606000_01",
-                  "nameI18nId": "558",
-                  "timeframe": {
-                    "startEpoch": 1784181600,
-                    "endEpoch": 1785650400
-                  },
-                  "limit": {
-                    "amount": 1,
-                    "period": "oneTime"
-                  },
-                  "contents": [
-                    {
-                      "meta": {
-                        "type": "card",
-                        "id": "PK_90_018960_00",
-                        "key": "card-PK_90_018960_00"
-                      },
-                      "count": 1,
-                      "key": "card-PK_90_018960_00x1"
-                    }
-                  ],
-                  "price": {
-                    "type": "rewardTicket",
-                    "value": 1,
-                    "id": "TICKET_2606000_EV_01"
-                  }
-                },
-                {
-                  "id": "SH_CG_EV_2606000_02",
-                  "nameI18nId": "559",
-                  "timeframe": {
-                    "startEpoch": 1784181600,
-                    "endEpoch": 1785650400
-                  },
-                  "limit": {
-                    "amount": 1,
-                    "period": "oneTime"
-                  },
-                  "contents": [
-                    {
-                      "meta": {
-                        "type": "card",
-                        "id": "PK_90_018970_00",
-                        "key": "card-PK_90_018970_00"
-                      },
-                      "count": 1,
-                      "key": "card-PK_90_018970_00x1"
-                    }
-                  ],
-                  "price": {
-                    "type": "rewardTicket",
-                    "value": 1,
-                    "id": "TICKET_2606000_EV_01"
-                  }
-                },
-                {
-                  "id": "SH_CG_EV_2606000_03",
-                  "nameI18nId": "560",
-                  "timeframe": {
-                    "startEpoch": 1784181600,
-                    "endEpoch": 1785650400
-                  },
-                  "limit": {
-                    "amount": 1,
-                    "period": "oneTime"
-                  },
-                  "contents": [
-                    {
-                      "meta": {
-                        "type": "card",
-                        "id": "PK_90_018980_00",
-                        "key": "card-PK_90_018980_00"
-                      },
-                      "count": 1,
-                      "key": "card-PK_90_018980_00x1"
-                    }
-                  ],
-                  "price": {
-                    "type": "rewardTicket",
-                    "value": 1,
-                    "id": "TICKET_2606000_EV_01"
-                  }
-                },
-                {
-                  "id": "SH_CG_EV_2606000_04",
-                  "nameI18nId": "561",
-                  "timeframe": {
-                    "startEpoch": 1784181600,
-                    "endEpoch": 1785650400
-                  },
-                  "limit": {
-                    "amount": 1,
-                    "period": "oneTime"
-                  },
-                  "contents": [
-                    {
-                      "meta": {
-                        "type": "card",
-                        "id": "PK_90_018990_00",
-                        "key": "card-PK_90_018990_00"
-                      },
-                      "count": 1,
-                      "key": "card-PK_90_018990_00x1"
-                    }
-                  ],
-                  "price": {
-                    "type": "rewardTicket",
-                    "value": 1,
-                    "id": "TICKET_2606000_EV_01"
-                  }
-                },
-                {
-                  "id": "SH_CG_EV_2606000_05",
-                  "nameI18nId": "562",
-                  "timeframe": {
-                    "startEpoch": 1784181600,
-                    "endEpoch": 1785650400
-                  },
-                  "limit": {
-                    "amount": 1,
-                    "period": "oneTime"
-                  },
-                  "contents": [
-                    {
-                      "meta": {
-                        "type": "card",
-                        "id": "PK_90_019000_00",
-                        "key": "card-PK_90_019000_00"
-                      },
-                      "count": 1,
-                      "key": "card-PK_90_019000_00x1"
-                    }
-                  ],
-                  "price": {
-                    "type": "rewardTicket",
-                    "value": 1,
-                    "id": "TICKET_2606000_EV_01"
-                  }
-                }
-              ],
-              "icon": {
-                "type": "rewardTicket",
-                "id": "TICKET_2606000_EV_01"
-              },
-              "nextReleaseEpochMs": null
-            }
-          },
           {
             "type": "itemShop",
             "data": {
@@ -5182,6 +5024,2252 @@
               ],
               "nextReleaseEpochMs": null
             }
+          },
+          {
+            "type": "pokeGoldShop",
+            "data": {
+              "id": "SH_CG_PG_002",
+              "nameI18nId": "SHOP_POKEGOLD_EXTRA_ITEM",
+              "timeframe": {
+                "startEpoch": 1730250000,
+                "endEpoch": 1787792400
+              },
+              "products": [
+                {
+                  "id": "SH_CG_PG_002_001",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_7",
+                  "timeframe": {
+                    "startEpoch": 1730250000,
+                    "endEpoch": 1738216800
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100130_SIRNIGHT",
+                        "key": "peripheral-COIN_100130_SIRNIGHT"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100130_SIRNIGHTx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100090_SIRNIGHT",
+                        "key": "peripheral-PLAYMAT_100090_SIRNIGHT"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100090_SIRNIGHTx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100090_SIRNIGHT",
+                        "key": "peripheral-DECKSHIELD_100090_SIRNIGHT"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100090_SIRNIGHTx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100180_SIRNIGHT",
+                        "key": "peripheral-BOARD_100180_SIRNIGHT"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100180_SIRNIGHTx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100120_SIRNIGHT",
+                        "key": "peripheral-FILE_100120_SIRNIGHT"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100120_SIRNIGHTx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": false,
+                      "price": 22.99
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": false,
+                      "price": 3200
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": false,
+                      "price": 22.99
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": false,
+                      "price": 109.9
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": false,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": false,
+                      "price": 178
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": false,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_002",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_26",
+                  "timeframe": {
+                    "startEpoch": 1738216800,
+                    "endEpoch": 1745992800
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100290_SHIRONA",
+                        "key": "peripheral-COIN_100290_SHIRONA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100290_SHIRONAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100180_SHIRONA_GABURIAS",
+                        "key": "peripheral-PLAYMAT_100180_SHIRONA_GABURIAS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100180_SHIRONA_GABURIASx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100180_SHIRONA",
+                        "key": "peripheral-DECKSHIELD_100180_SHIRONA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100180_SHIRONAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100460_SHIRONA_MIKARUGE",
+                        "key": "peripheral-BOARD_100460_SHIRONA_MIKARUGE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100460_SHIRONA_MIKARUGEx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100360_SHIRONA_GABURIAS",
+                        "key": "peripheral-FILE_100360_SHIRONA_GABURIAS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100360_SHIRONA_GABURIASx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_003",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_27",
+                  "timeframe": {
+                    "startEpoch": 1743055200,
+                    "endEpoch": 1745992800
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100400_SHINY_MEWTWO",
+                        "key": "peripheral-COIN_100400_SHINY_MEWTWO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100400_SHINY_MEWTWOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100270_SHINY_MEWTWO",
+                        "key": "peripheral-PLAYMAT_100270_SHINY_MEWTWO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100270_SHINY_MEWTWOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100270_SHINY_MEWTWO",
+                        "key": "peripheral-DECKSHIELD_100270_SHINY_MEWTWO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100270_SHINY_MEWTWOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100610_Shiny_glare",
+                        "key": "peripheral-BOARD_100610_Shiny_glare"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100610_Shiny_glarex1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100480_SHINY_GLARE",
+                        "key": "peripheral-FILE_100480_SHINY_GLARE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100480_SHINY_GLAREx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "card",
+                        "id": "PK_90_001290_00",
+                        "key": "card-PK_90_001290_00"
+                      },
+                      "count": 1,
+                      "key": "card-PK_90_001290_00x1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_004",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_28",
+                  "timeframe": {
+                    "startEpoch": 1745992800,
+                    "endEpoch": 1753855200
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100430_LILIE",
+                        "key": "peripheral-COIN_100430_LILIE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100430_LILIEx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100300_LILIE",
+                        "key": "peripheral-PLAYMAT_100300_LILIE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100300_LILIEx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100300_LILIE",
+                        "key": "peripheral-DECKSHIELD_100300_LILIE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100300_LILIEx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100650_LILIE",
+                        "key": "peripheral-BOARD_100650_LILIE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100650_LILIEx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100520_LILIE_LUNALA",
+                        "key": "peripheral-FILE_100520_LILIE_LUNALA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100520_LILIE_LUNALAx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_005",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_31",
+                  "timeframe": {
+                    "startEpoch": 1753855200,
+                    "endEpoch": 1756360800
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100530_EIFIE_BRACKY",
+                        "key": "peripheral-COIN_100530_EIFIE_BRACKY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100530_EIFIE_BRACKYx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100380_EIFIE_BRACKY",
+                        "key": "peripheral-PLAYMAT_100380_EIFIE_BRACKY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100380_EIFIE_BRACKYx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100380_EIFIE_BRACKY",
+                        "key": "peripheral-DECKSHIELD_100380_EIFIE_BRACKY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100380_EIFIE_BRACKYx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100760_EIFIE_BRACKY",
+                        "key": "peripheral-BOARD_100760_EIFIE_BRACKY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100760_EIFIE_BRACKYx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100640_EIFIE_BRACKY",
+                        "key": "peripheral-FILE_100640_EIFIE_BRACKY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100640_EIFIE_BRACKYx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_006",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_41",
+                  "timeframe": {
+                    "startEpoch": 1748498400,
+                    "endEpoch": 1750917600
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100710_ACEROLA",
+                        "key": "peripheral-COIN_100710_ACEROLA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100710_ACEROLAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100340_ACEROLA_MIMIKKYU",
+                        "key": "peripheral-PLAYMAT_100340_ACEROLA_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100340_ACEROLA_MIMIKKYUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100340_ACEROLA",
+                        "key": "peripheral-DECKSHIELD_100340_ACEROLA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100340_ACEROLAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100710_ACEROLA_MIMIKKYU",
+                        "key": "peripheral-BOARD_100710_ACEROLA_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100710_ACEROLA_MIMIKKYUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100580_ACEROLA_MIMIKKYU",
+                        "key": "peripheral-FILE_100580_ACEROLA_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100580_ACEROLA_MIMIKKYUx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_007",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_42",
+                  "timeframe": {
+                    "startEpoch": 1750917600,
+                    "endEpoch": 1753855200
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100720_NYMPHIA",
+                        "key": "peripheral-COIN_100720_NYMPHIA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100720_NYMPHIAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100370_NYMPHIA",
+                        "key": "peripheral-PLAYMAT_100370_NYMPHIA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100370_NYMPHIAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100370_NYMPHIA",
+                        "key": "peripheral-DECKSHIELD_100370_NYMPHIA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100370_NYMPHIAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100750_NYMPHIA",
+                        "key": "peripheral-BOARD_100750_NYMPHIA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100750_NYMPHIAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100620_NYMPHIA",
+                        "key": "peripheral-FILE_100620_NYMPHIA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100620_NYMPHIAx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_008",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_43",
+                  "timeframe": {
+                    "startEpoch": 1756360800,
+                    "endEpoch": 1759212000
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100730_PICHU",
+                        "key": "peripheral-COIN_100730_PICHU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100730_PICHUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100430_PICHU_PY_BUBY_RURIRI",
+                        "key": "peripheral-PLAYMAT_100430_PICHU_PY_BUBY_RURIRI"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100430_PICHU_PY_BUBY_RURIRIx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100430_PICHU",
+                        "key": "peripheral-DECKSHIELD_100430_PICHU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100430_PICHUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100840_PICHU_PY_BUBY_RURIRI",
+                        "key": "peripheral-BOARD_100840_PICHU_PY_BUBY_RURIRI"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100840_PICHU_PY_BUBY_RURIRIx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100710_PICHU_PY_BUBY_RURIRI",
+                        "key": "peripheral-FILE_100710_PICHU_PY_BUBY_RURIRI"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100710_PICHU_PY_BUBY_RURIRIx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_010",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_57",
+                  "timeframe": {
+                    "startEpoch": 1759212000,
+                    "endEpoch": 1761804000
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100630_GEKKOUGA",
+                        "key": "peripheral-COIN_100630_GEKKOUGA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100630_GEKKOUGAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100530_GEKKOUGA",
+                        "key": "peripheral-PLAYMAT_100530_GEKKOUGA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100530_GEKKOUGAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100530_GEKKOUGA",
+                        "key": "peripheral-DECKSHIELD_100530_GEKKOUGA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100530_GEKKOUGAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101000_GEKKOUGA",
+                        "key": "peripheral-BOARD_101000_GEKKOUGA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101000_GEKKOUGAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100870_GEKKOUGA",
+                        "key": "peripheral-FILE_100870_GEKKOUGA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100870_GEKKOUGAx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_011",
+                  "nameI18nId": "SHOP_POKEGOLD_PRODUCT_NAME_44",
+                  "timeframe": {
+                    "startEpoch": 1761804000,
+                    "endEpoch": 1765951200
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100640_MEGATYLTALIS",
+                        "key": "peripheral-COIN_100640_MEGATYLTALIS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100640_MEGATYLTALISx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100440_MEGATYLTALIS",
+                        "key": "peripheral-PLAYMAT_100440_MEGATYLTALIS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100440_MEGATYLTALISx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100440_MEGATYLTALIS",
+                        "key": "peripheral-DECKSHIELD_100440_MEGATYLTALIS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100440_MEGATYLTALISx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_100860_MEGATYLTALIS",
+                        "key": "peripheral-BOARD_100860_MEGATYLTALIS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_100860_MEGATYLTALISx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100730_MEGATYLTALIS",
+                        "key": "peripheral-FILE_100730_MEGATYLTALIS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100730_MEGATYLTALISx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_012",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_60",
+                  "timeframe": {
+                    "startEpoch": 1765951200,
+                    "endEpoch": 1769648400
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100790_SERENA",
+                        "key": "peripheral-COIN_100790_SERENA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100790_SERENAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100600_SERENA",
+                        "key": "peripheral-PLAYMAT_100600_SERENA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100600_SERENAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100600_SERENA",
+                        "key": "peripheral-DECKSHIELD_100600_SERENA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100600_SERENAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101090_SERENA",
+                        "key": "peripheral-BOARD_101090_SERENA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101090_SERENAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100970_SERENA",
+                        "key": "peripheral-FILE_100970_SERENA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100970_SERENAx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_013",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_59",
+                  "timeframe": {
+                    "startEpoch": 1769648400,
+                    "endEpoch": 1772067600
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100740_MIMIKKYU",
+                        "key": "peripheral-COIN_100740_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100740_MIMIKKYUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100550_MIMIKKYU",
+                        "key": "peripheral-PLAYMAT_100550_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100550_MIMIKKYUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100550_MIMIKKYU",
+                        "key": "peripheral-DECKSHIELD_100550_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100550_MIMIKKYUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101040_MIMIKKYU",
+                        "key": "peripheral-BOARD_101040_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101040_MIMIKKYUx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100900_MIMIKKYU",
+                        "key": "peripheral-FILE_100900_MIMIKKYU"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100900_MIMIKKYUx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_014",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_63",
+                  "timeframe": {
+                    "startEpoch": 1767247200,
+                    "endEpoch": 1767852000
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 50,
+                      "key": "currency-POKEGOLD_PAIDx50"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 22,
+                      "key": "currency-POKEGOLD_FREEx22"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100620_PIKACHU_2",
+                        "key": "peripheral-COIN_100620_PIKACHU_2"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100620_PIKACHU_2x1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100540_1st_ANNIVERSARY",
+                        "key": "peripheral-PLAYMAT_100540_1st_ANNIVERSARY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100540_1st_ANNIVERSARYx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100540_1st_ANNIVERSARY",
+                        "key": "peripheral-DECKSHIELD_100540_1st_ANNIVERSARY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100540_1st_ANNIVERSARYx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101010_1st_ANNIVERSARY",
+                        "key": "peripheral-BOARD_101010_1st_ANNIVERSARY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101010_1st_ANNIVERSARYx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_100880_1st_ANNIVERSARY",
+                        "key": "peripheral-FILE_100880_1st_ANNIVERSARY"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_100880_1st_ANNIVERSARYx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods2",
+                  "paidGold": 50,
+                  "totalGold": 72,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 10
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 1400
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 10
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 50
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 300
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 78.8
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 499
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_015",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_64",
+                  "timeframe": {
+                    "startEpoch": 1772067600,
+                    "endEpoch": 1774486800
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100820_NANJYAMO",
+                        "key": "peripheral-COIN_100820_NANJYAMO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100820_NANJYAMOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100630_NANJYAMO_HARABARIE",
+                        "key": "peripheral-PLAYMAT_100630_NANJYAMO_HARABARIE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100630_NANJYAMO_HARABARIEx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100630_NANJYAMO",
+                        "key": "peripheral-DECKSHIELD_100630_NANJYAMO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100630_NANJYAMOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101140_NANJYAMO",
+                        "key": "peripheral-BOARD_101140_NANJYAMO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101140_NANJYAMOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_101010_NANJYAMO_HARABARIE",
+                        "key": "peripheral-FILE_101010_NANJYAMO_HARABARIE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_101010_NANJYAMO_HARABARIEx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_016",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_65",
+                  "timeframe": {
+                    "startEpoch": 1777338000,
+                    "endEpoch": 1779930000
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100860_ZOROARK",
+                        "key": "peripheral-COIN_100860_ZOROARK"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100860_ZOROARKx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100670_ZOROARK_ZORUA",
+                        "key": "peripheral-PLAYMAT_100670_ZOROARK_ZORUA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100670_ZOROARK_ZORUAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100670_ZOROARK",
+                        "key": "peripheral-DECKSHIELD_100670_ZOROARK"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100670_ZOROARKx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101190_ZOROARK_ZORUA",
+                        "key": "peripheral-BOARD_101190_ZOROARK_ZORUA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101190_ZOROARK_ZORUAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_101070_ZOROARK_ZORUA",
+                        "key": "peripheral-FILE_101070_ZOROARK_ZORUA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_101070_ZOROARK_ZORUAx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_017",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_66",
+                  "timeframe": {
+                    "startEpoch": 1774486800,
+                    "endEpoch": 1777338000
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100850_MORPEKO",
+                        "key": "peripheral-COIN_100850_MORPEKO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100850_MORPEKOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100660_MORPEKO",
+                        "key": "peripheral-PLAYMAT_100660_MORPEKO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100660_MORPEKOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100660_MORPEKO",
+                        "key": "peripheral-DECKSHIELD_100660_MORPEKO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100660_MORPEKOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101180_MORPEKO",
+                        "key": "peripheral-BOARD_101180_MORPEKO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101180_MORPEKOx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_101050_MORPEKO",
+                        "key": "peripheral-FILE_101050_MORPEKO"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_101050_MORPEKOx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_018",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_68",
+                  "timeframe": {
+                    "startEpoch": 1785373200,
+                    "endEpoch": 1787792400
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100990_METAGROSS",
+                        "key": "peripheral-COIN_100990_METAGROSS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100990_METAGROSSx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100800_METAGROSS",
+                        "key": "peripheral-PLAYMAT_100800_METAGROSS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100800_METAGROSSx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100800_METAGROSS",
+                        "key": "peripheral-DECKSHIELD_100800_METAGROSS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100800_METAGROSSx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101390_METAGROSS",
+                        "key": "peripheral-BOARD_101390_METAGROSS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101390_METAGROSSx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_101230_METAGROSS",
+                        "key": "peripheral-FILE_101230_METAGROSS"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_101230_METAGROSSx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_019",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_67",
+                  "timeframe": {
+                    "startEpoch": 1779930000,
+                    "endEpoch": 1782781200
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100930_KORAIDON",
+                        "key": "peripheral-COIN_100930_KORAIDON"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100930_KORAIDONx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100740_KORAIDON",
+                        "key": "peripheral-PLAYMAT_100740_KORAIDON"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100740_KORAIDONx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100740_KORAIDON",
+                        "key": "peripheral-DECKSHIELD_100740_KORAIDON"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100740_KORAIDONx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101290_KORAIDON",
+                        "key": "peripheral-BOARD_101290_KORAIDON"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101290_KORAIDONx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_101170_KORAIDON",
+                        "key": "peripheral-FILE_101170_KORAIDON"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_101170_KORAIDONx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                },
+                {
+                  "id": "sh_cg_pg_002_020",
+                  "nameI18nId": "SHOP_POLEGOLD_PRODUCT_NAME_71",
+                  "timeframe": {
+                    "startEpoch": 1782781200,
+                    "endEpoch": 1785373200
+                  },
+                  "limit": {
+                    "amount": 1,
+                    "period": "oneTime"
+                  },
+                  "contents": [
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_PAID",
+                        "key": "currency-POKEGOLD_PAID"
+                      },
+                      "count": 115,
+                      "key": "currency-POKEGOLD_PAIDx115"
+                    },
+                    {
+                      "meta": {
+                        "type": "currency",
+                        "id": "POKEGOLD_FREE",
+                        "key": "currency-POKEGOLD_FREE"
+                      },
+                      "count": 5,
+                      "key": "currency-POKEGOLD_FREEx5"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "COIN_100900_KAMITSURE",
+                        "key": "peripheral-COIN_100900_KAMITSURE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-COIN_100900_KAMITSUREx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "PLAYMAT_100710_KAMITSURE_EMOLGA",
+                        "key": "peripheral-PLAYMAT_100710_KAMITSURE_EMOLGA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-PLAYMAT_100710_KAMITSURE_EMOLGAx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "DECKSHIELD_100710_KAMITSURE",
+                        "key": "peripheral-DECKSHIELD_100710_KAMITSURE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-DECKSHIELD_100710_KAMITSUREx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "BOARD_101250_KAMITSURE",
+                        "key": "peripheral-BOARD_101250_KAMITSURE"
+                      },
+                      "count": 1,
+                      "key": "peripheral-BOARD_101250_KAMITSUREx1"
+                    },
+                    {
+                      "meta": {
+                        "type": "peripheral",
+                        "id": "FILE_101120_KAMITSURE_EMOLGA",
+                        "key": "peripheral-FILE_101120_KAMITSURE_EMOLGA"
+                      },
+                      "count": 1,
+                      "key": "peripheral-FILE_101120_KAMITSURE_EMOLGAx1"
+                    }
+                  ],
+                  "imageName": "ShopBoxGoods3",
+                  "paidGold": 115,
+                  "totalGold": 120,
+                  "price": {
+                    "USD": {
+                      "currency": "USD",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "JPY": {
+                      "currency": "JPY",
+                      "isEstimate": true,
+                      "price": 3220
+                    },
+                    "EUR": {
+                      "currency": "EUR",
+                      "isEstimate": true,
+                      "price": 23
+                    },
+                    "BRL": {
+                      "currency": "BRL",
+                      "isEstimate": true,
+                      "price": 115
+                    },
+                    "TWD": {
+                      "currency": "TWD",
+                      "isEstimate": true,
+                      "price": 690
+                    },
+                    "HKD": {
+                      "currency": "HKD",
+                      "isEstimate": true,
+                      "price": 181.24
+                    },
+                    "PHP": {
+                      "currency": "PHP",
+                      "isEstimate": true,
+                      "price": 1147.7
+                    }
+                  }
+                }
+              ],
+              "nextReleaseEpochMs": null
+            }
           }
         ]
       }
@@ -5195,7 +7283,7 @@
       "contentLength": null,
       "cacheControl": "public, max-age=60, immutable",
       "etag": null,
-      "lastModified": "Sun, 02 Aug 2026 05:47:14 GMT",
+      "lastModified": "Sun, 02 Aug 2026 06:02:47 GMT",
       "bytes": 5443645,
       "retainedBytes": 5443645,
       "truncated": false,
