@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "setId": "B4",
-  "generatedAt": "2026-07-31T05:50:48Z",
+  "generatedAt": "2026-08-02T05:47:20Z",
   "method": "dhash-match-known-B4-001",
   "knownImage": {
     "url": "https://game.pokemontcgpocket.app/en/tcgp/B4/001/high.webp",
@@ -16,7 +16,7 @@
     "checkedIds": 401,
     "imageResponses": 20,
     "decodableImages": 20,
-    "elapsedSeconds": 4.397
+    "elapsedSeconds": 2.744
   },
   "discoveredSetId": null,
   "confidence": "none",
