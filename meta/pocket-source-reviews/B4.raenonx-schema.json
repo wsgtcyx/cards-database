@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "setId": "B4",
-  "generatedAt": "2026-08-02T06:14:18.913Z",
+  "generatedAt": "2026-08-02T06:20:55.425Z",
   "source": {
     "globalMaster": {
       "url": "https://ptcgp.raenonx.cc/api/data/global-master",
@@ -33,8 +33,8 @@
         "ok": true,
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
-        "bytes": 500116,
-        "sha256": "eb4b9afb57ed44f0288fb42cba987959d7956444ffe7ff34dd5cf784fb70b698"
+        "bytes": 500073,
+        "sha256": "e5770e6d1379847bb91cc507a7dde1526b1b8344bcd4db1efd9b2c7335c7409d"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/en/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -44,7 +44,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 442602,
-        "sha256": "a4f655d06f5485b9cb5a2e7ee1fe3bfe8a7defe6f577dfccf4dfda0080f32a36"
+        "sha256": "ffe05055195bf097b043d993cd830bf4eeb776493df0fae9f2f8b07698366566"
       },
       "messageLeafCount": 7977
     },
@@ -58,8 +58,8 @@
         "ok": true,
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
-        "bytes": 555588,
-        "sha256": "1baffeef93e0edd25c2082f35a5f1d6a1e9145c564fe96ea2c671b36987bef6c"
+        "bytes": 555631,
+        "sha256": "402675db51e1368ed22652c69f9c8e954e4371080050b36e1d7230e0da01becb"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/fr/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -69,7 +69,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 494707,
-        "sha256": "4acd791310e82b644024025ee894469c97dea126b780b70041f7ca14870c36b6"
+        "sha256": "1ba923248acc100b7ee431c9ea3c407587fe17de90432f380dcd25f923a5ac0c"
       },
       "messageLeafCount": 7977
     },
@@ -83,8 +83,8 @@
         "ok": true,
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
-        "bytes": 520722,
-        "sha256": "c0b505ad6588b97242179b128ab6a8297efc7bfc6e4987f5479e4d880b5207c9"
+        "bytes": 520679,
+        "sha256": "69099785f4fd5e89b07afd9613365bb0e4b0ff32b426dad17679fffac2571d11"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/es/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -94,7 +94,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 465024,
-        "sha256": "657803584bcccf1a2c9ad145cf5b7346cd723c59a76c4c0f47fbff31192b3e62"
+        "sha256": "fe263e6c82ac81e37f08ed2a6a1f9ea015ce0078c2eb489e5e4412866a7810ef"
       },
       "messageLeafCount": 7964
     },
@@ -109,7 +109,7 @@
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
         "bytes": 460542,
-        "sha256": "da8daf04d7289b68d2245202963ad7ee987d284adcf37464471fbe22a2ee43f0"
+        "sha256": "4daf6448d436093a7632a7a6d2d4e97fea8df8f759065abacc79d83feeeac68a"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/it/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -119,7 +119,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 410169,
-        "sha256": "3230592f7ab4b46207a47f24137c586fb2b0831807847bcf4999b910fa4a0371"
+        "sha256": "d8d20c80c9ced129d7f0abad89f77bae83955719ce5b1affe7b1a82f6cf9a95d"
       },
       "messageLeafCount": 7977
     },
@@ -134,7 +134,7 @@
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
         "bytes": 460542,
-        "sha256": "9ef390250842a257377edcdbf761307bd9f23f947d2e54877e09575f4313d1d1"
+        "sha256": "a579d3b3672059da41ff75b86a79f18bfd5c0e564ca3c5649e98b525d6087049"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/de/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -144,7 +144,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 410169,
-        "sha256": "abcd5ef471c20b7c50a47f7a23ccde7d3b19c2c381a643c7be9c687471ea9881"
+        "sha256": "9a4265b185903380cba4c6d41eeb757384a45580bc0a4aed4cfda355dc9856f1"
       },
       "messageLeafCount": 7977
     },
@@ -158,8 +158,8 @@
         "ok": true,
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
-        "bytes": 530441,
-        "sha256": "a852915436721e7ceadf9ff8fc2c7ed5b81b2330a91364c7f1ef98d07c2eaf30"
+        "bytes": 530484,
+        "sha256": "98c658820f1e59bbff00d2a45942b47182b37c3610ed14756a87f3d5349d8d97"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/pt/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -169,7 +169,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 474743,
-        "sha256": "8159efc99d50f1fea0b61767ec17ab9c17aaa277f9dc56a971a6b93a37cbe783"
+        "sha256": "736af054000fde4ec65f81b85d45565dc3ad8b04130069cd6dc874ff96b13081"
       },
       "messageLeafCount": 7977
     },
@@ -184,7 +184,7 @@
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
         "bytes": 497629,
-        "sha256": "05e9716796290b66f1a4229e83fd828ff63746dfd4430fac89171173476e88a5"
+        "sha256": "e906b534d7e13bacbcfd2bc7bb8a4443c58bd4e43712c7921f147ad0a1756ac4"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/zh/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -194,7 +194,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 444223,
-        "sha256": "b8e36e706618dc6d2d0622db067505a3ddd4fae695bccc2613ded56018f792e5"
+        "sha256": "61d8fc8c74d08a3be89fe8fc4b50282ac7957926ff6fcaac014a826e4c314c58"
       },
       "messageLeafCount": 7977
     },
@@ -209,7 +209,7 @@
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
         "bytes": 534933,
-        "sha256": "b6648664c8b5e33141c4a8538d733b906f7b5cb71552a7541c0a0a7786d84c7f"
+        "sha256": "ee95bc7570d2734c4cf6c1630e296289f04f8556ca9b66fde3bd4f6c9d952515"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/ko/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -219,7 +219,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 478556,
-        "sha256": "3a814945ff01e5d2c95923bc6dec6d7e065437cfa0c7b767f92347eca5c611f8"
+        "sha256": "e962a3a5c7b8b2ad3eb73153a2201c93d8ac00f253e5e47eb5cba0050e150e7d"
       },
       "messageLeafCount": 7977
     },
@@ -233,8 +233,8 @@
         "ok": true,
         "contentType": "text/html; charset=utf-8",
         "lastModified": null,
-        "bytes": 582861,
-        "sha256": "37c86681f804402d7c5ea94e5a7719db7b21c37454a18a43922148c73f2a1757"
+        "bytes": 582818,
+        "sha256": "6b9765e55409b84503dc2e13f0378b69e2e03263f97f377cb989ce4fa88d848b"
       },
       "rsc": {
         "url": "https://ptcgp.raenonx.cc/ja/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
@@ -244,7 +244,7 @@
         "contentType": "text/x-component",
         "lastModified": null,
         "bytes": 529432,
-        "sha256": "bac9e90f4c7a98e9d9560682f0d7c3ae5dff957dd0403628f293fede88208fe5"
+        "sha256": "db27530a2a65f489cd94d2aee03a828b717fb7455b941b62271e2ba251e3cf25"
       },
       "messageLeafCount": 7977
     }
