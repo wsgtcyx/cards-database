@@ -1,0 +1,4347 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "generatedAt": "2026-08-02T06:18:39.753Z",
+  "source": {
+    "url": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "status": 200,
+    "contentType": "application/json",
+    "lastModified": "Sun, 02 Aug 2026 06:13:44 GMT",
+    "bytes": 5443645,
+    "sha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532"
+  },
+  "mapSummaries": {
+    "pokemonMap": {
+      "count": 2087,
+      "keySamples": [
+        "PK_000010",
+        "PK_000020",
+        "PK_000030",
+        "PK_000040",
+        "PK_000050",
+        "PK_000060",
+        "PK_000070",
+        "PK_000080",
+        "PK_000090",
+        "PK_000100",
+        "PK_000110",
+        "PK_000120",
+        "PK_000130",
+        "PK_000140",
+        "PK_000150",
+        "PK_000160",
+        "PK_000170",
+        "PK_000180",
+        "PK_000190",
+        "PK_000200"
+      ],
+      "valueSamples": [
+        {
+          "key": "PK_000010",
+          "value": {
+            "characterId": "FUSHIGIDANE",
+            "characterI18nId": "1",
+            "cardIds": [
+              "PK_10_000010_00",
+              "PK_10_000010_01",
+              "PK_20_000010_00",
+              "PK_20_000010_01",
+              "PK_90_000010_00"
+            ],
+            "pokemonId": "PK_000010",
+            "hp": 70,
+            "types": [
+              1
+            ],
+            "evolution": {
+              "stage": 1,
+              "prev": [],
+              "next": [
+                {
+                  "type": "pokemon",
+                  "id": "PK_000020"
+                },
+                {
+                  "type": "pokemon",
+                  "id": "PK_013080"
+                }
+              ]
+            },
+            "retreat": 1,
+            "weakness": {
+              "id": 2,
+              "bonus": 20
+            },
+            "attacks": [
+              {
+                "id": "PK_000010_ATK_01",
+                "nameI18nId": "1",
+                "descriptionI18nId": null,
+                "energy": {
+                  "1": 1,
+                  "2": 1
+                },
+                "energyTotal": 2,
+                "damageMarking": {
+                  "symbol": null,
+                  "value": 40
+                },
+                "move": {
+                  "damage": [
+                    {
+                      "type": "direct",
+                      "value": 40
+                    }
+                  ]
+                }
+              }
+            ],
+            "abilities": [],
+            "variant": "normal",
+            "category": {}
+          }
+        },
+        {
+          "key": "PK_000020",
+          "value": {
+            "characterId": "FUSHIGISOU",
+            "characterI18nId": "2",
+            "cardIds": [
+              "PK_10_000020_00",
+              "PK_10_000020_01",
+              "PK_20_000020_00"
+            ],
+            "pokemonId": "PK_000020",
+            "hp": 90,
+            "types": [
+              1
+            ],
+            "evolution": {
+              "stage": 2,
+              "prev": [
+                {
+                  "type": "pokemon",
+                  "id": "PK_000010"
+                },
+                {
+                  "type": "pokemon",
+                  "id": "PK_013070"
+                }
+              ],
+              "next": [
+                {
+                  "type": "pokemon",
+                  "id": "PK_000030"
+                },
+                {
+                  "type": "pokemon",
+                  "id": "PK_000040"
+                },
+                {
+                  "type": "pokemon",
+                  "id": "PK_013090"
+                },
+                {
+                  "type": "pokemon",
+                  "id": "PK_013100"
+                }
+              ]
+            },
+            "retreat": 2,
+            "weakness": {
+              "id": 2,
+              "bonus": 20
+            },
+            "attacks": [
+              {
+                "id": "PK_000020_ATK_01",
+                "nameI18nId": "2",
+                "descriptionI18nId": null,
+                "energy": {
+                  "1": 2,
+                  "2": 1
+                },
+                "energyTotal": 3,
+                "damageMarking": {
+                  "symbol": null,
+                  "value": 60
+                },
+                "move": {
+                  "damage": [
+                    {
+                      "type": "direct",
+                      "value": 60
+                    }
+                  ]
+                }
+              }
+            ],
+            "abilities": [],
+            "variant": "normal",
+            "category": {}
+          }
+        },
+        {
+          "key": "PK_000030",
+          "value": {
+            "characterId": "FUSHIGIBANA",
+            "characterI18nId": "3",
+            "cardIds": [
+              "PK_10_000030_00",
+              "PK_20_000030_00",
+              "PK_90_000030_00"
+            ],
+            "pokemonId": "PK_000030",
+            "hp": 160,
+            "types": [
+              1
+            ],
+            "evolution": {
+              "stage": 3,
+              "prev": [
+                {
+                  "type": "pokemon",
+                  "id": "PK_000020"
+                },
+                {
+                  "type": "pokemon",
+                  "id": "PK_013080"
+                }
+              ],
+              "next": []
+            },
+            "retreat": 3,
+            "weakness": {
+              "id": 2,
+              "bonus": 20
+            },
+            "attacks": [
+              {
+                "id": "PK_000030_ATK_01",
+                "nameI18nId": "3",
+                "descriptionI18nId": "21",
+                "energy": {
+                  "1": 2,
+                  "2": 2
+                },
+                "energyTotal": 4,
+                "damageMarking": {
+                  "symbol": null,
+                  "value": 80
+                },
+                "move": {
+                  "damage": [
+                    {
+                      "type": "direct",
+                      "value": 80
+                    }
+                  ],
+                  "heal": {
+                    "target": "self",
+                    "pokemonType": null,
+                    "targetCount": null,
+                    "amount": 30
+                  }
+                }
+              }
+            ],
+            "abilities": [],
+            "variant": "normal",
+            "category": {}
+          }
+        }
+      ]
+    },
+    "trainerMap": {
+      "count": 157,
+      "keySamples": [
+        "TR_000010",
+        "TR_000020",
+        "TR_000030",
+        "TR_000040",
+        "TR_000050",
+        "TR_000060",
+        "TR_000070",
+        "TR_000080",
+        "TR_000090",
+        "TR_000100",
+        "TR_000110",
+        "TR_000120",
+        "TR_000130",
+        "TR_000140",
+        "TR_000150",
+        "TR_000160",
+        "TR_000170",
+        "TR_000180",
+        "TR_000190",
+        "TR_000200"
+      ],
+      "valueSamples": [
+        {
+          "key": "TR_000010",
+          "value": {
+            "characterId": "KIZUGUSURI",
+            "characterI18nId": "226",
+            "cardIds": [
+              "TR_90_000010_00"
+            ],
+            "trainerId": "TR_000010",
+            "descriptionI18nId": "10",
+            "type": "item",
+            "cardType": "item",
+            "move": {
+              "heal": {
+                "target": "oneOfTeam",
+                "pokemonType": null,
+                "targetCount": 1,
+                "amount": 20
+              }
+            }
+          }
+        },
+        {
+          "key": "TR_000020",
+          "value": {
+            "characterId": "SPEEDER",
+            "characterI18nId": "227",
+            "cardIds": [
+              "TR_90_000020_00"
+            ],
+            "trainerId": "TR_000020",
+            "descriptionI18nId": "11",
+            "type": "item",
+            "cardType": "item",
+            "move": {
+              "energyCostReduction": {
+                "action": "retreat",
+                "amount": 1
+              }
+            }
+          }
+        },
+        {
+          "key": "TR_000030",
+          "value": {
+            "characterId": "MONSTERBALL",
+            "characterI18nId": "228",
+            "cardIds": [
+              "TR_20_000030_00",
+              "TR_90_000030_00"
+            ],
+            "trainerId": "TR_000030",
+            "descriptionI18nId": "12",
+            "type": "item",
+            "cardType": "item",
+            "move": {
+              "deckToHand": {
+                "type": "pokemon",
+                "pokemonType": null,
+                "count": 1,
+                "isBasicOnly": true
+              }
+            }
+          }
+        }
+      ]
+    },
+    "characterMap": {
+      "count": 1333,
+      "keySamples": [
+        "ABAGOURA",
+        "ABSOL",
+        "ABULY",
+        "ABURIBBON",
+        "ACEBURN",
+        "ACEROLA",
+        "ACHAMO",
+        "ACHIGATOR",
+        "AGEHUNT",
+        "AGILDER",
+        "AGNOME",
+        "AGOJIMUSHI",
+        "AGONOKASEKI",
+        "AGOYON",
+        "AIANT",
+        "AIRMD",
+        "AIRMD_EX",
+        "AKAGI",
+        "AKANE",
+        "AKUZIKING"
+      ],
+      "valueSamples": [
+        {
+          "key": "ABAGOURA",
+          "value": {
+            "id": "ABAGOURA",
+            "i18nId": "876"
+          }
+        },
+        {
+          "key": "ABSOL",
+          "value": {
+            "id": "ABSOL",
+            "i18nId": "571"
+          }
+        },
+        {
+          "key": "ABULY",
+          "value": {
+            "id": "ABULY",
+            "i18nId": "540"
+          }
+        }
+      ]
+    }
+  },
+  "samples": {
+    "1": {
+      "number": 1,
+      "cardId": "PK_10_019620_00",
+      "cardType": "pokemon",
+      "needles": [
+        "PK_10_019620_00",
+        "PK_019620",
+        "KEMUSSO",
+        "BN009_0010_00_000",
+        "PK_20_019620_00",
+        "PK_010860",
+        "PK_010880",
+        "PK_019630",
+        "PK_019650",
+        "PK_019620_ATK_01"
+      ],
+      "entry": {
+        "cardId": "PK_10_019620_00",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "C",
+        "illustratorI18nId": [
+          "62"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 1
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": true,
+        "cardType": "pokemon",
+        "play": {
+          "characterId": "KEMUSSO",
+          "characterI18nId": "833",
+          "cardIds": [
+            "PK_10_019620_00",
+            "PK_20_019620_00"
+          ],
+          "pokemonId": "PK_019620",
+          "hp": 60,
+          "types": [
+            1
+          ],
+          "evolution": {
+            "stage": 1,
+            "prev": [],
+            "next": [
+              {
+                "type": "pokemon",
+                "id": "PK_010860"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_010880"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019630"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019650"
+              }
+            ]
+          },
+          "retreat": 1,
+          "weakness": {
+            "id": 2,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_019620_ATK_01",
+              "nameI18nId": "41",
+              "descriptionI18nId": null,
+              "energy": {
+                "1": 1
+              },
+              "energyTotal": 1,
+              "damageMarking": {
+                "symbol": null,
+                "value": 10
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "direct",
+                    "value": 10
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": {
+          "characterId": "KEMUSSO",
+          "characterI18nId": "833",
+          "cardIds": [
+            "PK_10_019620_00",
+            "PK_20_019620_00"
+          ],
+          "pokemonId": "PK_019620",
+          "hp": 60,
+          "types": [
+            1
+          ],
+          "evolution": {
+            "stage": 1,
+            "prev": [],
+            "next": [
+              {
+                "type": "pokemon",
+                "id": "PK_010860"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_010880"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019630"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019650"
+              }
+            ]
+          },
+          "retreat": 1,
+          "weakness": {
+            "id": 2,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_019620_ATK_01",
+              "nameI18nId": "41",
+              "descriptionI18nId": null,
+              "energy": {
+                "1": 1
+              },
+              "energyTotal": 1,
+              "damageMarking": {
+                "symbol": null,
+                "value": 10
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "direct",
+                    "value": 10
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        },
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "KEMUSSO",
+          "i18nId": "833"
+        }
+      },
+      "matches": {
+        "pokemonMap": [
+          {
+            "key": "PK_010850",
+            "value": {
+              "characterId": "KEMUSSO",
+              "characterI18nId": "833",
+              "cardIds": [
+                "PK_10_010850_00"
+              ],
+              "pokemonId": "PK_010850",
+              "hp": 50,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010850_ATK_01",
+                  "nameI18nId": "9",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 20
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 20
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010860",
+            "value": {
+              "characterId": "KARASALIS",
+              "characterI18nId": "834",
+              "cardIds": [
+                "PK_10_010860_00"
+              ],
+              "pokemonId": "PK_010860",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010870"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019640"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010860_ATK_01",
+                  "nameI18nId": "620",
+                  "descriptionI18nId": "184",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010870",
+            "value": {
+              "characterId": "AGEHUNT",
+              "characterI18nId": "835",
+              "cardIds": [
+                "PK_10_010870_00",
+                "PK_20_010870_00"
+              ],
+              "pokemonId": "PK_010870",
+              "hp": 130,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010870_ATK_01",
+                  "nameI18nId": "259",
+                  "descriptionI18nId": "5",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "indirect",
+                        "target": "anyOfTeam",
+                        "count": 1,
+                        "value": 50
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010880",
+            "value": {
+              "characterId": "MAYULD",
+              "characterI18nId": "836",
+              "cardIds": [
+                "PK_10_010880_00"
+              ],
+              "pokemonId": "PK_010880",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010890"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019660"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010880_ATK_01",
+                  "nameI18nId": "620",
+                  "descriptionI18nId": "184",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010890",
+            "value": {
+              "characterId": "DOKUCALE",
+              "characterI18nId": "837",
+              "cardIds": [
+                "PK_10_010890_00"
+              ],
+              "pokemonId": "PK_010890",
+              "hp": 130,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010890_ATK_01",
+                  "nameI18nId": "621",
+                  "descriptionI18nId": "185",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 60
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019620",
+            "value": {
+              "characterId": "KEMUSSO",
+              "characterI18nId": "833",
+              "cardIds": [
+                "PK_10_019620_00",
+                "PK_20_019620_00"
+              ],
+              "pokemonId": "PK_019620",
+              "hp": 60,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019620_ATK_01",
+                  "nameI18nId": "41",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 10
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 10
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019630",
+            "value": {
+              "characterId": "KARASALIS",
+              "characterI18nId": "834",
+              "cardIds": [
+                "PK_10_019630_00"
+              ],
+              "pokemonId": "PK_019630",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010870"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019640"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019630_ATK_01",
+                  "nameI18nId": "1022",
+                  "descriptionI18nId": "119",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019640",
+            "value": {
+              "characterId": "AGEHUNT",
+              "characterI18nId": "835",
+              "cardIds": [
+                "PK_10_019640_00"
+              ],
+              "pokemonId": "PK_019640",
+              "hp": 130,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019640_ATK_01",
+                  "nameI18nId": "1023",
+                  "descriptionI18nId": "136",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": "+",
+                    "value": 30
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019650",
+            "value": {
+              "characterId": "MAYULD",
+              "characterI18nId": "836",
+              "cardIds": [
+                "PK_10_019650_00"
+              ],
+              "pokemonId": "PK_019650",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010890"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019660"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019650_ATK_01",
+                  "nameI18nId": "1022",
+                  "descriptionI18nId": "119",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019660",
+            "value": {
+              "characterId": "DOKUCALE",
+              "characterI18nId": "837",
+              "cardIds": [
+                "PK_10_019660_00"
+              ],
+              "pokemonId": "PK_019660",
+              "hp": 120,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019660_ATK_01",
+                  "nameI18nId": "482",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 2
+                  },
+                  "energyTotal": 2,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 60
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 60
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [
+                {
+                  "id": "PK_019660_ABL_01",
+                  "nameI18nId": "150",
+                  "descriptionI18nId": "141",
+                  "move": null
+                }
+              ],
+              "variant": "normal",
+              "category": {}
+            }
+          }
+        ],
+        "trainerMap": [],
+        "characterMap": [
+          {
+            "key": "KEMUSSO",
+            "value": {
+              "id": "KEMUSSO",
+              "i18nId": "833"
+            }
+          }
+        ]
+      }
+    },
+    "3": {
+      "number": 3,
+      "cardId": "PK_10_019640_00",
+      "cardType": "pokemon",
+      "needles": [
+        "PK_10_019640_00",
+        "PK_019640",
+        "AGEHUNT",
+        "BN009_0010_00_000",
+        "PK_010860",
+        "PK_019630",
+        "PK_019640_ATK_01"
+      ],
+      "entry": {
+        "cardId": "PK_10_019640_00",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "U",
+        "illustratorI18nId": [
+          "39"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 3
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": true,
+        "cardType": "pokemon",
+        "play": {
+          "characterId": "AGEHUNT",
+          "characterI18nId": "835",
+          "cardIds": [
+            "PK_10_019640_00"
+          ],
+          "pokemonId": "PK_019640",
+          "hp": 130,
+          "types": [
+            1
+          ],
+          "evolution": {
+            "stage": 3,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_010860"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019630"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 1,
+          "weakness": {
+            "id": 2,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_019640_ATK_01",
+              "nameI18nId": "1023",
+              "descriptionI18nId": "136",
+              "energy": {
+                "2": 1
+              },
+              "energyTotal": 1,
+              "damageMarking": {
+                "symbol": "+",
+                "value": 30
+              },
+              "move": null
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": {
+          "characterId": "AGEHUNT",
+          "characterI18nId": "835",
+          "cardIds": [
+            "PK_10_019640_00"
+          ],
+          "pokemonId": "PK_019640",
+          "hp": 130,
+          "types": [
+            1
+          ],
+          "evolution": {
+            "stage": 3,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_010860"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019630"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 1,
+          "weakness": {
+            "id": 2,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_019640_ATK_01",
+              "nameI18nId": "1023",
+              "descriptionI18nId": "136",
+              "energy": {
+                "2": 1
+              },
+              "energyTotal": 1,
+              "damageMarking": {
+                "symbol": "+",
+                "value": 30
+              },
+              "move": null
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        },
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "AGEHUNT",
+          "i18nId": "835"
+        }
+      },
+      "matches": {
+        "pokemonMap": [
+          {
+            "key": "PK_010850",
+            "value": {
+              "characterId": "KEMUSSO",
+              "characterI18nId": "833",
+              "cardIds": [
+                "PK_10_010850_00"
+              ],
+              "pokemonId": "PK_010850",
+              "hp": 50,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010850_ATK_01",
+                  "nameI18nId": "9",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 20
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 20
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010860",
+            "value": {
+              "characterId": "KARASALIS",
+              "characterI18nId": "834",
+              "cardIds": [
+                "PK_10_010860_00"
+              ],
+              "pokemonId": "PK_010860",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010870"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019640"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010860_ATK_01",
+                  "nameI18nId": "620",
+                  "descriptionI18nId": "184",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010870",
+            "value": {
+              "characterId": "AGEHUNT",
+              "characterI18nId": "835",
+              "cardIds": [
+                "PK_10_010870_00",
+                "PK_20_010870_00"
+              ],
+              "pokemonId": "PK_010870",
+              "hp": 130,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010870_ATK_01",
+                  "nameI18nId": "259",
+                  "descriptionI18nId": "5",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "indirect",
+                        "target": "anyOfTeam",
+                        "count": 1,
+                        "value": 50
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019620",
+            "value": {
+              "characterId": "KEMUSSO",
+              "characterI18nId": "833",
+              "cardIds": [
+                "PK_10_019620_00",
+                "PK_20_019620_00"
+              ],
+              "pokemonId": "PK_019620",
+              "hp": 60,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019620_ATK_01",
+                  "nameI18nId": "41",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 10
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 10
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019630",
+            "value": {
+              "characterId": "KARASALIS",
+              "characterI18nId": "834",
+              "cardIds": [
+                "PK_10_019630_00"
+              ],
+              "pokemonId": "PK_019630",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010870"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019640"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019630_ATK_01",
+                  "nameI18nId": "1022",
+                  "descriptionI18nId": "119",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019640",
+            "value": {
+              "characterId": "AGEHUNT",
+              "characterI18nId": "835",
+              "cardIds": [
+                "PK_10_019640_00"
+              ],
+              "pokemonId": "PK_019640",
+              "hp": 130,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019640_ATK_01",
+                  "nameI18nId": "1023",
+                  "descriptionI18nId": "136",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": "+",
+                    "value": 30
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          }
+        ],
+        "trainerMap": [],
+        "characterMap": [
+          {
+            "key": "AGEHUNT",
+            "value": {
+              "id": "AGEHUNT",
+              "i18nId": "835"
+            }
+          }
+        ]
+      }
+    },
+    "5": {
+      "number": 5,
+      "cardId": "PK_10_019660_00",
+      "cardType": "pokemon",
+      "needles": [
+        "PK_10_019660_00",
+        "PK_019660",
+        "DOKUCALE",
+        "BN009_0010_00_000",
+        "PK_010880",
+        "PK_019650",
+        "PK_019660_ATK_01",
+        "PK_019660_ABL_01"
+      ],
+      "entry": {
+        "cardId": "PK_10_019660_00",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "R",
+        "illustratorI18nId": [
+          "20"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 5
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": true,
+        "cardType": "pokemon",
+        "play": {
+          "characterId": "DOKUCALE",
+          "characterI18nId": "837",
+          "cardIds": [
+            "PK_10_019660_00"
+          ],
+          "pokemonId": "PK_019660",
+          "hp": 120,
+          "types": [
+            1
+          ],
+          "evolution": {
+            "stage": 3,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_010880"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019650"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 1,
+          "weakness": {
+            "id": 2,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_019660_ATK_01",
+              "nameI18nId": "482",
+              "descriptionI18nId": null,
+              "energy": {
+                "1": 2
+              },
+              "energyTotal": 2,
+              "damageMarking": {
+                "symbol": null,
+                "value": 60
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "direct",
+                    "value": 60
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [
+            {
+              "id": "PK_019660_ABL_01",
+              "nameI18nId": "150",
+              "descriptionI18nId": "141",
+              "move": null
+            }
+          ],
+          "variant": "normal",
+          "category": {}
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": {
+          "characterId": "DOKUCALE",
+          "characterI18nId": "837",
+          "cardIds": [
+            "PK_10_019660_00"
+          ],
+          "pokemonId": "PK_019660",
+          "hp": 120,
+          "types": [
+            1
+          ],
+          "evolution": {
+            "stage": 3,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_010880"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_019650"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 1,
+          "weakness": {
+            "id": 2,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_019660_ATK_01",
+              "nameI18nId": "482",
+              "descriptionI18nId": null,
+              "energy": {
+                "1": 2
+              },
+              "energyTotal": 2,
+              "damageMarking": {
+                "symbol": null,
+                "value": 60
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "direct",
+                    "value": 60
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [
+            {
+              "id": "PK_019660_ABL_01",
+              "nameI18nId": "150",
+              "descriptionI18nId": "141",
+              "move": null
+            }
+          ],
+          "variant": "normal",
+          "category": {}
+        },
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "DOKUCALE",
+          "i18nId": "837"
+        }
+      },
+      "matches": {
+        "pokemonMap": [
+          {
+            "key": "PK_010850",
+            "value": {
+              "characterId": "KEMUSSO",
+              "characterI18nId": "833",
+              "cardIds": [
+                "PK_10_010850_00"
+              ],
+              "pokemonId": "PK_010850",
+              "hp": 50,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010850_ATK_01",
+                  "nameI18nId": "9",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 20
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 20
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010880",
+            "value": {
+              "characterId": "MAYULD",
+              "characterI18nId": "836",
+              "cardIds": [
+                "PK_10_010880_00"
+              ],
+              "pokemonId": "PK_010880",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010890"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019660"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010880_ATK_01",
+                  "nameI18nId": "620",
+                  "descriptionI18nId": "184",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_010890",
+            "value": {
+              "characterId": "DOKUCALE",
+              "characterI18nId": "837",
+              "cardIds": [
+                "PK_10_010890_00"
+              ],
+              "pokemonId": "PK_010890",
+              "hp": 130,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_010890_ATK_01",
+                  "nameI18nId": "621",
+                  "descriptionI18nId": "185",
+                  "energy": {
+                    "2": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 60
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019620",
+            "value": {
+              "characterId": "KEMUSSO",
+              "characterI18nId": "833",
+              "cardIds": [
+                "PK_10_019620_00",
+                "PK_20_019620_00"
+              ],
+              "pokemonId": "PK_019620",
+              "hp": 60,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010860"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019630"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019620_ATK_01",
+                  "nameI18nId": "41",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 10
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 10
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019650",
+            "value": {
+              "characterId": "MAYULD",
+              "characterI18nId": "836",
+              "cardIds": [
+                "PK_10_019650_00"
+              ],
+              "pokemonId": "PK_019650",
+              "hp": 80,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019620"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010890"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019660"
+                  }
+                ]
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019650_ATK_01",
+                  "nameI18nId": "1022",
+                  "descriptionI18nId": "119",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_019660",
+            "value": {
+              "characterId": "DOKUCALE",
+              "characterI18nId": "837",
+              "cardIds": [
+                "PK_10_019660_00"
+              ],
+              "pokemonId": "PK_019660",
+              "hp": 120,
+              "types": [
+                1
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_010880"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_019650"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 2,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_019660_ATK_01",
+                  "nameI18nId": "482",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 2
+                  },
+                  "energyTotal": 2,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 60
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 60
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [
+                {
+                  "id": "PK_019660_ABL_01",
+                  "nameI18nId": "150",
+                  "descriptionI18nId": "141",
+                  "move": null
+                }
+              ],
+              "variant": "normal",
+              "category": {}
+            }
+          }
+        ],
+        "trainerMap": [],
+        "characterMap": [
+          {
+            "key": "DOKUCALE",
+            "value": {
+              "id": "DOKUCALE",
+              "i18nId": "837"
+            }
+          }
+        ]
+      }
+    },
+    "82": {
+      "number": 82,
+      "cardId": "PK_10_020430_00",
+      "cardType": "pokemon",
+      "needles": [
+        "PK_10_020430_00",
+        "PK_020430",
+        "ARMALDO",
+        "BN009_0010_00_000",
+        "PK_020420",
+        "PK_020430_ATK_01"
+      ],
+      "entry": {
+        "cardId": "PK_10_020430_00",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "R",
+        "illustratorI18nId": [
+          "92"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 82
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": true,
+        "cardType": "pokemon",
+        "play": {
+          "characterId": "ARMALDO",
+          "characterI18nId": "1307",
+          "cardIds": [
+            "PK_10_020430_00"
+          ],
+          "pokemonId": "PK_020430",
+          "hp": 150,
+          "types": [
+            6
+          ],
+          "evolution": {
+            "stage": 3,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_020420"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 3,
+          "weakness": {
+            "id": 1,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_020430_ATK_01",
+              "nameI18nId": "1058",
+              "descriptionI18nId": "328",
+              "energy": {
+                "1": 2,
+                "7": 1
+              },
+              "energyTotal": 3,
+              "damageMarking": {
+                "symbol": null,
+                "value": 0
+              },
+              "move": null
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": {
+          "characterId": "ARMALDO",
+          "characterI18nId": "1307",
+          "cardIds": [
+            "PK_10_020430_00"
+          ],
+          "pokemonId": "PK_020430",
+          "hp": 150,
+          "types": [
+            6
+          ],
+          "evolution": {
+            "stage": 3,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_020420"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 3,
+          "weakness": {
+            "id": 1,
+            "bonus": 20
+          },
+          "attacks": [
+            {
+              "id": "PK_020430_ATK_01",
+              "nameI18nId": "1058",
+              "descriptionI18nId": "328",
+              "energy": {
+                "1": 2,
+                "7": 1
+              },
+              "energyTotal": 3,
+              "damageMarking": {
+                "symbol": null,
+                "value": 0
+              },
+              "move": null
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        },
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "ARMALDO",
+          "i18nId": "1307"
+        }
+      },
+      "matches": {
+        "pokemonMap": [
+          {
+            "key": "PK_020420",
+            "value": {
+              "characterId": "ANOPTH",
+              "characterI18nId": "1306",
+              "cardIds": [
+                "PK_10_020420_00",
+                "PK_20_020420_00"
+              ],
+              "pokemonId": "PK_020420",
+              "hp": 90,
+              "types": [
+                6
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "trainer",
+                    "id": "TR_001500"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020430"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": {
+                "id": 1,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_020420_ATK_01",
+                  "nameI18nId": "13",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "7": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 40
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 40
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_020430",
+            "value": {
+              "characterId": "ARMALDO",
+              "characterI18nId": "1307",
+              "cardIds": [
+                "PK_10_020430_00"
+              ],
+              "pokemonId": "PK_020430",
+              "hp": 150,
+              "types": [
+                6
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020420"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 3,
+              "weakness": {
+                "id": 1,
+                "bonus": 20
+              },
+              "attacks": [
+                {
+                  "id": "PK_020430_ATK_01",
+                  "nameI18nId": "1058",
+                  "descriptionI18nId": "328",
+                  "energy": {
+                    "1": 2,
+                    "7": 1
+                  },
+                  "energyTotal": 3,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          }
+        ],
+        "trainerMap": [],
+        "characterMap": [
+          {
+            "key": "ARMALDO",
+            "value": {
+              "id": "ARMALDO",
+              "i18nId": "1307"
+            }
+          }
+        ]
+      }
+    },
+    "122": {
+      "number": 122,
+      "cardId": "PK_10_020830_00",
+      "cardType": "pokemon",
+      "needles": [
+        "PK_10_020830_00",
+        "PK_020830",
+        "ONVERN",
+        "BN009_0010_00_000",
+        "PK_20_020830_00",
+        "PK_90_020830_00",
+        "PK_020820",
+        "PK_020830_ATK_01"
+      ],
+      "entry": {
+        "cardId": "PK_10_020830_00",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "R",
+        "illustratorI18nId": [
+          "63"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 122
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": true,
+        "cardType": "pokemon",
+        "play": {
+          "characterId": "ONVERN",
+          "characterI18nId": "1320",
+          "cardIds": [
+            "PK_10_020830_00",
+            "PK_20_020830_00",
+            "PK_90_020830_00"
+          ],
+          "pokemonId": "PK_020830",
+          "hp": 100,
+          "types": [
+            9
+          ],
+          "evolution": {
+            "stage": 2,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_020820"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 1,
+          "weakness": null,
+          "attacks": [
+            {
+              "id": "PK_020830_ATK_01",
+              "nameI18nId": "144",
+              "descriptionI18nId": "6",
+              "energy": {
+                "6": 1,
+                "8": 2
+              },
+              "energyTotal": 3,
+              "damageMarking": {
+                "symbol": null,
+                "value": 0
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "indirect",
+                    "target": "anyOfTeam",
+                    "count": 3,
+                    "value": 60
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": {
+          "characterId": "ONVERN",
+          "characterI18nId": "1320",
+          "cardIds": [
+            "PK_10_020830_00",
+            "PK_20_020830_00",
+            "PK_90_020830_00"
+          ],
+          "pokemonId": "PK_020830",
+          "hp": 100,
+          "types": [
+            9
+          ],
+          "evolution": {
+            "stage": 2,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_020820"
+              }
+            ],
+            "next": []
+          },
+          "retreat": 1,
+          "weakness": null,
+          "attacks": [
+            {
+              "id": "PK_020830_ATK_01",
+              "nameI18nId": "144",
+              "descriptionI18nId": "6",
+              "energy": {
+                "6": 1,
+                "8": 2
+              },
+              "energyTotal": 3,
+              "damageMarking": {
+                "symbol": null,
+                "value": 0
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "indirect",
+                    "target": "anyOfTeam",
+                    "count": 3,
+                    "value": 60
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [],
+          "variant": "normal",
+          "category": {}
+        },
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "ONVERN",
+          "i18nId": "1320"
+        }
+      },
+      "matches": {
+        "pokemonMap": [
+          {
+            "key": "PK_020820",
+            "value": {
+              "characterId": "ONBAT",
+              "characterI18nId": "1319",
+              "cardIds": [
+                "PK_10_020820_00"
+              ],
+              "pokemonId": "PK_020820",
+              "hp": 60,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020830"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_020820_ATK_01",
+                  "nameI18nId": "70",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "6": 1,
+                    "8": 1
+                  },
+                  "energyTotal": 2,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 40
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 40
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_020830",
+            "value": {
+              "characterId": "ONVERN",
+              "characterI18nId": "1320",
+              "cardIds": [
+                "PK_10_020830_00",
+                "PK_20_020830_00",
+                "PK_90_020830_00"
+              ],
+              "pokemonId": "PK_020830",
+              "hp": 100,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020820"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_020830_ATK_01",
+                  "nameI18nId": "144",
+                  "descriptionI18nId": "6",
+                  "energy": {
+                    "6": 1,
+                    "8": 2
+                  },
+                  "energyTotal": 3,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "indirect",
+                        "target": "anyOfTeam",
+                        "count": 3,
+                        "value": 60
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          }
+        ],
+        "trainerMap": [],
+        "characterMap": [
+          {
+            "key": "ONVERN",
+            "value": {
+              "id": "ONVERN",
+              "i18nId": "1320"
+            }
+          }
+        ]
+      }
+    },
+    "145": {
+      "number": 145,
+      "cardId": "TR_10_001490_00",
+      "cardType": "trainer",
+      "needles": [
+        "TR_10_001490_00",
+        "OTORIYOSEPADDO",
+        "BN009_0010_00_000",
+        "TR_001490"
+      ],
+      "entry": {
+        "cardId": "TR_10_001490_00",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "U",
+        "illustratorI18nId": [
+          "183"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 145
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": true,
+        "cardType": "trainer",
+        "play": {
+          "characterId": "OTORIYOSEPADDO",
+          "characterI18nId": "1328",
+          "cardIds": [
+            "TR_10_001490_00"
+          ],
+          "trainerId": "TR_001490",
+          "descriptionI18nId": "137",
+          "type": "item",
+          "cardType": "item",
+          "move": null
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": null,
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "OTORIYOSEPADDO",
+          "i18nId": "1328"
+        }
+      },
+      "matches": {
+        "pokemonMap": [],
+        "trainerMap": [
+          {
+            "key": "TR_001490",
+            "value": {
+              "characterId": "OTORIYOSEPADDO",
+              "characterI18nId": "1328",
+              "cardIds": [
+                "TR_10_001490_00"
+              ],
+              "trainerId": "TR_001490",
+              "descriptionI18nId": "137",
+              "type": "item",
+              "cardType": "item",
+              "move": null
+            }
+          }
+        ],
+        "characterMap": [
+          {
+            "key": "OTORIYOSEPADDO",
+            "value": {
+              "id": "OTORIYOSEPADDO",
+              "i18nId": "1328"
+            }
+          }
+        ]
+      }
+    },
+    "154": {
+      "number": 154,
+      "cardId": "TR_10_001580_00",
+      "cardType": "trainer",
+      "needles": [
+        "TR_10_001580_00",
+        "IYASHINOUMIBE",
+        "BN009_0010_00_000",
+        "TR_001580"
+      ],
+      "entry": {
+        "cardId": "TR_10_001580_00",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "U",
+        "illustratorI18nId": [
+          "122"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 154
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": true,
+        "cardType": "trainer",
+        "play": {
+          "characterId": "IYASHINOUMIBE",
+          "characterI18nId": "1337",
+          "cardIds": [
+            "TR_10_001580_00"
+          ],
+          "trainerId": "TR_001580",
+          "descriptionI18nId": "144",
+          "type": "stadium",
+          "cardType": "stadium",
+          "move": null
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": null,
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "IYASHINOUMIBE",
+          "i18nId": "1337"
+        }
+      },
+      "matches": {
+        "pokemonMap": [],
+        "trainerMap": [
+          {
+            "key": "TR_001580",
+            "value": {
+              "characterId": "IYASHINOUMIBE",
+              "characterI18nId": "1337",
+              "cardIds": [
+                "TR_10_001580_00"
+              ],
+              "trainerId": "TR_001580",
+              "descriptionI18nId": "144",
+              "type": "stadium",
+              "cardType": "stadium",
+              "move": null
+            }
+          }
+        ],
+        "characterMap": [
+          {
+            "key": "IYASHINOUMIBE",
+            "value": {
+              "id": "IYASHINOUMIBE",
+              "i18nId": "1337"
+            }
+          }
+        ]
+      }
+    },
+    "233": {
+      "number": 233,
+      "cardId": "PK_20_020780_01",
+      "cardType": "pokemon",
+      "needles": [
+        "PK_20_020780_01",
+        "PK_020780",
+        "HAKURYU",
+        "BN009_0010_00_000",
+        "PK_10_020780_00",
+        "PK_20_020780_00",
+        "PK_001830",
+        "PK_008430",
+        "PK_016550",
+        "PK_020770",
+        "PK_001850",
+        "PK_008450",
+        "PK_016570",
+        "PK_020790",
+        "PK_020780_ATK_01",
+        "PK_020780_ABL_01"
+      ],
+      "entry": {
+        "cardId": "PK_20_020780_01",
+        "source": {
+          "pack": [
+            "BN009_0010_00_000"
+          ],
+          "itemShop": [],
+          "goldShop": [],
+          "mission": [],
+          "wonderPick": {
+            "chansey": [],
+            "free": []
+          }
+        },
+        "rarity": "UR",
+        "illustratorI18nId": [
+          "226"
+        ],
+        "seriesId": "B",
+        "promotion": null,
+        "collectionNums": [
+          {
+            "expansion": {
+              "id": "B4",
+              "nameI18nId": "22"
+            },
+            "num": 233
+          }
+        ],
+        "mirrorType": "normal",
+        "isTradable": false,
+        "cardType": "pokemon",
+        "play": {
+          "characterId": "HAKURYU",
+          "characterI18nId": "184",
+          "cardIds": [
+            "PK_10_020780_00",
+            "PK_20_020780_00",
+            "PK_20_020780_01"
+          ],
+          "pokemonId": "PK_020780",
+          "hp": 80,
+          "types": [
+            9
+          ],
+          "evolution": {
+            "stage": 2,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_001830"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_008430"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_016550"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_020770"
+              }
+            ],
+            "next": [
+              {
+                "type": "pokemon",
+                "id": "PK_001850"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_008450"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_016570"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_020790"
+              }
+            ]
+          },
+          "retreat": 2,
+          "weakness": null,
+          "attacks": [
+            {
+              "id": "PK_020780_ATK_01",
+              "nameI18nId": "678",
+              "descriptionI18nId": null,
+              "energy": {
+                "1": 2
+              },
+              "energyTotal": 2,
+              "damageMarking": {
+                "symbol": null,
+                "value": 40
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "direct",
+                    "value": 40
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [
+            {
+              "id": "PK_020780_ABL_01",
+              "nameI18nId": "156",
+              "descriptionI18nId": "147",
+              "move": null
+            }
+          ],
+          "variant": "normal",
+          "category": {}
+        }
+      },
+      "exact": {
+        "pokemonByPlayId": {
+          "characterId": "HAKURYU",
+          "characterI18nId": "184",
+          "cardIds": [
+            "PK_10_020780_00",
+            "PK_20_020780_00",
+            "PK_20_020780_01"
+          ],
+          "pokemonId": "PK_020780",
+          "hp": 80,
+          "types": [
+            9
+          ],
+          "evolution": {
+            "stage": 2,
+            "prev": [
+              {
+                "type": "pokemon",
+                "id": "PK_001830"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_008430"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_016550"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_020770"
+              }
+            ],
+            "next": [
+              {
+                "type": "pokemon",
+                "id": "PK_001850"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_008450"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_016570"
+              },
+              {
+                "type": "pokemon",
+                "id": "PK_020790"
+              }
+            ]
+          },
+          "retreat": 2,
+          "weakness": null,
+          "attacks": [
+            {
+              "id": "PK_020780_ATK_01",
+              "nameI18nId": "678",
+              "descriptionI18nId": null,
+              "energy": {
+                "1": 2
+              },
+              "energyTotal": 2,
+              "damageMarking": {
+                "symbol": null,
+                "value": 40
+              },
+              "move": {
+                "damage": [
+                  {
+                    "type": "direct",
+                    "value": 40
+                  }
+                ]
+              }
+            }
+          ],
+          "abilities": [
+            {
+              "id": "PK_020780_ABL_01",
+              "nameI18nId": "156",
+              "descriptionI18nId": "147",
+              "move": null
+            }
+          ],
+          "variant": "normal",
+          "category": {}
+        },
+        "pokemonByCardId": null,
+        "trainerByCardId": null,
+        "characterById": {
+          "id": "HAKURYU",
+          "i18nId": "184"
+        }
+      },
+      "matches": {
+        "pokemonMap": [
+          {
+            "key": "PK_001830",
+            "value": {
+              "characterId": "MINIRYU",
+              "characterI18nId": "183",
+              "cardIds": [
+                "PK_10_001830_00"
+              ],
+              "pokemonId": "PK_001830",
+              "hp": 70,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_001830_ATK_01",
+                  "nameI18nId": "9",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "4": 1,
+                    "5": 1
+                  },
+                  "energyTotal": 2,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 40
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 40
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_001840",
+            "value": {
+              "characterId": "HAKURYU",
+              "characterI18nId": "184",
+              "cardIds": [
+                "PK_10_001840_00"
+              ],
+              "pokemonId": "PK_001840",
+              "hp": 100,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001830"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008430"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016550"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020770"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008450"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016570"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020790"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_001840_ATK_01",
+                  "nameI18nId": "143",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 1,
+                    "4": 1,
+                    "5": 1
+                  },
+                  "energyTotal": 3,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 80
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 80
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_001850",
+            "value": {
+              "characterId": "KAIRYU",
+              "characterI18nId": "185",
+              "cardIds": [
+                "PK_10_001850_00",
+                "PK_20_001850_00"
+              ],
+              "pokemonId": "PK_001850",
+              "hp": 160,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 3,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_001850_ATK_01",
+                  "nameI18nId": "144",
+                  "descriptionI18nId": "6",
+                  "energy": {
+                    "1": 2,
+                    "4": 1,
+                    "5": 1
+                  },
+                  "energyTotal": 4,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "indirect",
+                        "target": "anyOfTeam",
+                        "count": 4,
+                        "value": 50
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_007350",
+            "value": {
+              "characterId": "HAKURYU",
+              "characterI18nId": "184",
+              "cardIds": [
+                "PK_90_007350_00"
+              ],
+              "pokemonId": "PK_007350",
+              "hp": 100,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001830"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008430"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016550"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020770"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008450"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016570"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020790"
+                  }
+                ]
+              },
+              "retreat": 2,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_007350_ATK_01",
+                  "nameI18nId": "444",
+                  "descriptionI18nId": "21",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 0
+                      }
+                    ],
+                    "heal": {
+                      "target": "self",
+                      "pokemonType": null,
+                      "targetCount": null,
+                      "amount": 30
+                    }
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_008430",
+            "value": {
+              "characterId": "MINIRYU",
+              "characterI18nId": "183",
+              "cardIds": [
+                "PK_10_008430_00",
+                "PK_10_008430_01"
+              ],
+              "pokemonId": "PK_008430",
+              "hp": 60,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_008430_ATK_01",
+                  "nameI18nId": "312",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 20
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 20
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_008440",
+            "value": {
+              "characterId": "HAKURYU",
+              "characterI18nId": "184",
+              "cardIds": [
+                "PK_10_008440_00",
+                "PK_10_008440_01"
+              ],
+              "pokemonId": "PK_008440",
+              "hp": 90,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001830"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008430"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016550"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020770"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008450"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016570"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020790"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_008440_ATK_01",
+                  "nameI18nId": "227",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "4": 1,
+                    "5": 1
+                  },
+                  "energyTotal": 2,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 60
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 60
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_008450",
+            "value": {
+              "characterId": "KAIRYU_EX",
+              "characterI18nId": "684",
+              "cardIds": [
+                "PK_10_008450_00",
+                "PK_20_008450_00",
+                "PK_20_008450_01"
+              ],
+              "pokemonId": "PK_008450",
+              "hp": 180,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 2,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_008450_ATK_01",
+                  "nameI18nId": "475",
+                  "descriptionI18nId": "63",
+                  "energy": {
+                    "1": 1,
+                    "4": 1,
+                    "5": 1
+                  },
+                  "energyTotal": 3,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 180
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "ex",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_016550",
+            "value": {
+              "characterId": "MINIRYU",
+              "characterI18nId": "183",
+              "cardIds": [
+                "PK_10_016550_00",
+                "PK_20_016550_00"
+              ],
+              "pokemonId": "PK_016550",
+              "hp": 60,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_016550_ATK_01",
+                  "nameI18nId": "875",
+                  "descriptionI18nId": "2",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": "+",
+                    "value": 10
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "coinFlip",
+                        "base": 10,
+                        "count": 1,
+                        "perHead": 20,
+                        "allHead": 0
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_016560",
+            "value": {
+              "characterId": "HAKURYU",
+              "characterI18nId": "184",
+              "cardIds": [
+                "PK_10_016560_00",
+                "PK_20_016560_00"
+              ],
+              "pokemonId": "PK_016560",
+              "hp": 80,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001830"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008430"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016550"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020770"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008450"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016570"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020790"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_016560_ATK_01",
+                  "nameI18nId": "876",
+                  "descriptionI18nId": "273",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 0
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_016570",
+            "value": {
+              "characterId": "KAIRYU",
+              "characterI18nId": "185",
+              "cardIds": [
+                "PK_10_016570_00",
+                "PK_20_016570_00"
+              ],
+              "pokemonId": "PK_016570",
+              "hp": 150,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 3,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_016570_ATK_01",
+                  "nameI18nId": "877",
+                  "descriptionI18nId": "274",
+                  "energy": {
+                    "1": 1,
+                    "4": 1,
+                    "5": 1
+                  },
+                  "energyTotal": 3,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 150
+                  },
+                  "move": null
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_020770",
+            "value": {
+              "characterId": "MINIRYU",
+              "characterI18nId": "183",
+              "cardIds": [
+                "PK_10_020770_00"
+              ],
+              "pokemonId": "PK_020770",
+              "hp": 60,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 1,
+                "prev": [],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ]
+              },
+              "retreat": 1,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_020770_ATK_01",
+                  "nameI18nId": "1074",
+                  "descriptionI18nId": "1",
+                  "energy": {
+                    "1": 1
+                  },
+                  "energyTotal": 1,
+                  "damageMarking": {
+                    "symbol": "x",
+                    "value": 20
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "coinFlip",
+                        "base": 0,
+                        "count": 2,
+                        "perHead": 20,
+                        "allHead": 0
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_020780",
+            "value": {
+              "characterId": "HAKURYU",
+              "characterI18nId": "184",
+              "cardIds": [
+                "PK_10_020780_00",
+                "PK_20_020780_00",
+                "PK_20_020780_01"
+              ],
+              "pokemonId": "PK_020780",
+              "hp": 80,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 2,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001830"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008430"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016550"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020770"
+                  }
+                ],
+                "next": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001850"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008450"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016570"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020790"
+                  }
+                ]
+              },
+              "retreat": 2,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_020780_ATK_01",
+                  "nameI18nId": "678",
+                  "descriptionI18nId": null,
+                  "energy": {
+                    "1": 2
+                  },
+                  "energyTotal": 2,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 40
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 40
+                      }
+                    ]
+                  }
+                }
+              ],
+              "abilities": [
+                {
+                  "id": "PK_020780_ABL_01",
+                  "nameI18nId": "156",
+                  "descriptionI18nId": "147",
+                  "move": null
+                }
+              ],
+              "variant": "normal",
+              "category": {}
+            }
+          },
+          {
+            "key": "PK_020790",
+            "value": {
+              "characterId": "KAIRYU",
+              "characterI18nId": "185",
+              "cardIds": [
+                "PK_10_020790_00"
+              ],
+              "pokemonId": "PK_020790",
+              "hp": 150,
+              "types": [
+                9
+              ],
+              "evolution": {
+                "stage": 3,
+                "prev": [
+                  {
+                    "type": "pokemon",
+                    "id": "PK_001840"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_007350"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_008440"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_016560"
+                  },
+                  {
+                    "type": "pokemon",
+                    "id": "PK_020780"
+                  }
+                ],
+                "next": []
+              },
+              "retreat": 3,
+              "weakness": null,
+              "attacks": [
+                {
+                  "id": "PK_020790_ATK_01",
+                  "nameI18nId": "64",
+                  "descriptionI18nId": "33",
+                  "energy": {
+                    "1": 1,
+                    "4": 1,
+                    "5": 1
+                  },
+                  "energyTotal": 3,
+                  "damageMarking": {
+                    "symbol": null,
+                    "value": 110
+                  },
+                  "move": {
+                    "damage": [
+                      {
+                        "type": "direct",
+                        "value": 110
+                      }
+                    ],
+                    "energyDrop": {
+                      "condition": "guaranteed",
+                      "side": "enemy",
+                      "target": "active",
+                      "energyType": null,
+                      "count": 1
+                    }
+                  }
+                }
+              ],
+              "abilities": [],
+              "variant": "normal",
+              "category": {}
+            }
+          }
+        ],
+        "trainerMap": [],
+        "characterMap": [
+          {
+            "key": "HAKURYU",
+            "value": {
+              "id": "HAKURYU",
+              "i18nId": "184"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
