@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "setId": "B4",
-  "generatedAt": "2026-08-02T06:07:57Z",
+  "generatedAt": "2026-08-02T06:14:25Z",
   "candidateSetId": 583,
   "candidateVerified": true,
   "verificationPolicy": {
@@ -235,32 +235,6 @@
             512
           ]
         },
-        "122": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_en.png",
-          "status": 200,
-          "contentType": "image/png",
-          "ok": true,
-          "bytes": 318712,
-          "sha256": "0ce0bad6791f47637f29d1a6272aad397941f8b160bbeb80ad800e8592d21ec7",
-          "format": "PNG",
-          "size": [
-            367,
-            512
-          ]
-        },
-        "233": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/233_en.png",
-          "status": 200,
-          "contentType": "image/png",
-          "ok": true,
-          "bytes": 388791,
-          "sha256": "670af778d3b7c63cd5a818b4f0d5d630a539f7e33a5d7cc92bb9277aa5e9e735",
-          "format": "PNG",
-          "size": [
-            367,
-            512
-          ]
-        },
         "176": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_en.png",
           "status": 200,
@@ -286,27 +260,39 @@
             367,
             512
           ]
+        },
+        "122": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_en.png",
+          "status": 200,
+          "contentType": "image/png",
+          "ok": true,
+          "bytes": 318712,
+          "sha256": "0ce0bad6791f47637f29d1a6272aad397941f8b160bbeb80ad800e8592d21ec7",
+          "format": "PNG",
+          "size": [
+            367,
+            512
+          ]
+        },
+        "233": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/233_en.png",
+          "status": 200,
+          "contentType": "image/png",
+          "ok": true,
+          "bytes": 388791,
+          "sha256": "670af778d3b7c63cd5a818b4f0d5d630a539f7e33a5d7cc92bb9277aa5e9e735",
+          "format": "PNG",
+          "size": [
+            367,
+            512
+          ]
         }
       }
     },
     "fr": {
       "fr": {
-        "122": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_fr.png",
-          "status": 404,
-          "contentType": "application/xml",
-          "ok": false,
-          "error": "HTTPError: 404"
-        },
-        "1": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_fr.png",
-          "status": 404,
-          "contentType": "application/xml",
-          "ok": false,
-          "error": "HTTPError: 404"
-        },
-        "154": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_fr.png",
+        "176": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_fr.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -319,6 +305,20 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
+        "1": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_fr.png",
+          "status": 404,
+          "contentType": "application/xml",
+          "ok": false,
+          "error": "HTTPError: 404"
+        },
+        "122": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_fr.png",
+          "status": 404,
+          "contentType": "application/xml",
+          "ok": false,
+          "error": "HTTPError: 404"
+        },
         "82": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_fr.png",
           "status": 404,
@@ -326,8 +326,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "176": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_fr.png",
+        "154": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_fr.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -344,8 +344,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "82": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_es.png",
+        "233": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/233_es.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -358,8 +358,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "233": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/233_es.png",
+        "154": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_es.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -372,8 +372,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "154": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_es.png",
+        "82": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_es.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -390,8 +390,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "154": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_it.png",
+        "82": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_it.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -404,15 +404,15 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "82": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_it.png",
+        "176": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_it.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "176": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_it.png",
+        "154": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_it.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -429,13 +429,6 @@
     },
     "de": {
       "de": {
-        "122": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_de.png",
-          "status": 404,
-          "contentType": "application/xml",
-          "ok": false,
-          "error": "HTTPError: 404"
-        },
         "154": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_de.png",
           "status": 404,
@@ -443,8 +436,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "233": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/233_de.png",
+        "176": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_de.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -457,15 +450,22 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "82": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_de.png",
+        "233": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/233_de.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "176": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_de.png",
+        "122": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_de.png",
+          "status": 404,
+          "contentType": "application/xml",
+          "ok": false,
+          "error": "HTTPError: 404"
+        },
+        "82": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_de.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -482,13 +482,6 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "176": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_pt.png",
-          "status": 404,
-          "contentType": "application/xml",
-          "ok": false,
-          "error": "HTTPError: 404"
-        },
         "1": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_pt.png",
           "status": 404,
@@ -496,8 +489,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "122": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_pt.png",
+        "176": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_pt.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -505,6 +498,13 @@
         },
         "154": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_pt.png",
+          "status": 404,
+          "contentType": "application/xml",
+          "ok": false,
+          "error": "HTTPError: 404"
+        },
+        "122": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_pt.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -540,15 +540,15 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "122": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_pt-br.png",
+        "154": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_pt-br.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "154": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_pt-br.png",
+        "122": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_pt-br.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -563,6 +563,13 @@
         }
       },
       "br": {
+        "154": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_br.png",
+          "status": 404,
+          "contentType": "application/xml",
+          "ok": false,
+          "error": "HTTPError: 404"
+        },
         "82": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_br.png",
           "status": 404,
@@ -584,8 +591,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "154": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_br.png",
+        "176": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_br.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -597,20 +604,13 @@
           "contentType": "application/xml",
           "ok": false,
           "error": "HTTPError: 404"
-        },
-        "176": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_br.png",
-          "status": 404,
-          "contentType": "application/xml",
-          "ok": false,
-          "error": "HTTPError: 404"
         }
       }
     },
     "zh-tw": {
       "zh": {
-        "122": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_zh.png",
+        "1": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_zh.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -623,8 +623,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "1": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_zh.png",
+        "122": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/122_zh.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -704,6 +704,13 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
+        "1": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_tw.png",
+          "status": 404,
+          "contentType": "application/xml",
+          "ok": false,
+          "error": "HTTPError: 404"
+        },
         "176": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/176_tw.png",
           "status": 404,
@@ -718,8 +725,8 @@
           "ok": false,
           "error": "HTTPError: 404"
         },
-        "1": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_tw.png",
+        "154": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_tw.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -727,13 +734,6 @@
         },
         "82": {
           "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/82_tw.png",
-          "status": 404,
-          "contentType": "application/xml",
-          "ok": false,
-          "error": "HTTPError: 404"
-        },
-        "154": {
-          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/154_tw.png",
           "status": 404,
           "contentType": "application/xml",
           "ok": false,
@@ -757,5 +757,5 @@
       "complete": true
     }
   },
-  "elapsedSeconds": 2.337
+  "elapsedSeconds": 0.91
 }

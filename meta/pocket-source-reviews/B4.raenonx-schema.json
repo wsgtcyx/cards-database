@@ -1,0 +1,4566 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "generatedAt": "2026-08-02T06:14:18.913Z",
+  "source": {
+    "globalMaster": {
+      "url": "https://ptcgp.raenonx.cc/api/data/global-master",
+      "finalUrl": "https://ptcgp.raenonx.cc/api/data/global-master",
+      "status": 200,
+      "ok": true,
+      "contentType": "application/json",
+      "lastModified": "Sun, 02 Aug 2026 06:13:44 GMT",
+      "bytes": 5443645,
+      "sha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532"
+    },
+    "localePages": "https://ptcgp.raenonx.cc",
+    "licenseStatus": "unverified-community-endpoint; data identifies live game master records"
+  },
+  "coverage": {
+    "expected": 233,
+    "actual": 233,
+    "contiguous": true,
+    "uniqueCardIds": 233
+  },
+  "localeResults": {
+    "en": {
+      "routeLocale": "en",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/en/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/en/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 500116,
+        "sha256": "eb4b9afb57ed44f0288fb42cba987959d7956444ffe7ff34dd5cf784fb70b698"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/en/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/en/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 442602,
+        "sha256": "a4f655d06f5485b9cb5a2e7ee1fe3bfe8a7defe6f577dfccf4dfda0080f32a36"
+      },
+      "messageLeafCount": 7977
+    },
+    "fr": {
+      "routeLocale": "fr",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/fr/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/fr/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 555588,
+        "sha256": "1baffeef93e0edd25c2082f35a5f1d6a1e9145c564fe96ea2c671b36987bef6c"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/fr/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/fr/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 494707,
+        "sha256": "4acd791310e82b644024025ee894469c97dea126b780b70041f7ca14870c36b6"
+      },
+      "messageLeafCount": 7977
+    },
+    "es": {
+      "routeLocale": "es",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/es/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/es/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 520722,
+        "sha256": "c0b505ad6588b97242179b128ab6a8297efc7bfc6e4987f5479e4d880b5207c9"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/es/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/es/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 465024,
+        "sha256": "657803584bcccf1a2c9ad145cf5b7346cd723c59a76c4c0f47fbff31192b3e62"
+      },
+      "messageLeafCount": 7964
+    },
+    "it": {
+      "routeLocale": "it",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/it/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/en/it/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 460542,
+        "sha256": "da8daf04d7289b68d2245202963ad7ee987d284adcf37464471fbe22a2ee43f0"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/it/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/en/it/card?dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 410169,
+        "sha256": "3230592f7ab4b46207a47f24137c586fb2b0831807847bcf4999b910fa4a0371"
+      },
+      "messageLeafCount": 7977
+    },
+    "de": {
+      "routeLocale": "de",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/de/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/en/de/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 460542,
+        "sha256": "9ef390250842a257377edcdbf761307bd9f23f947d2e54877e09575f4313d1d1"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/de/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/en/de/card?dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 410169,
+        "sha256": "abcd5ef471c20b7c50a47f7a23ccde7d3b19c2c381a643c7be9c687471ea9881"
+      },
+      "messageLeafCount": 7977
+    },
+    "pt-br": {
+      "routeLocale": "pt",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/pt/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/pt/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 530441,
+        "sha256": "a852915436721e7ceadf9ff8fc2c7ed5b81b2330a91364c7f1ef98d07c2eaf30"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/pt/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/pt/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 474743,
+        "sha256": "8159efc99d50f1fea0b61767ec17ab9c17aaa277f9dc56a971a6b93a37cbe783"
+      },
+      "messageLeafCount": 7977
+    },
+    "zh-tw": {
+      "routeLocale": "zh",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/zh/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/zh/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 497629,
+        "sha256": "05e9716796290b66f1a4229e83fd828ff63746dfd4430fac89171173476e88a5"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/zh/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/zh/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 444223,
+        "sha256": "b8e36e706618dc6d2d0622db067505a3ddd4fae695bccc2613ded56018f792e5"
+      },
+      "messageLeafCount": 7977
+    },
+    "ko": {
+      "routeLocale": "ko",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/ko/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/ko/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 534933,
+        "sha256": "b6648664c8b5e33141c4a8538d733b906f7b5cb71552a7541c0a0a7786d84c7f"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/ko/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/ko/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 478556,
+        "sha256": "3a814945ff01e5d2c95923bc6dec6d7e065437cfa0c7b767f92347eca5c611f8"
+      },
+      "messageLeafCount": 7977
+    },
+    "ja": {
+      "routeLocale": "ja",
+      "dpl": "96dbdaa-2026-07-30T22-25-25-04-00",
+      "html": {
+        "url": "https://ptcgp.raenonx.cc/ja/card",
+        "finalUrl": "https://ptcgp.raenonx.cc/ja/card",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/html; charset=utf-8",
+        "lastModified": null,
+        "bytes": 582861,
+        "sha256": "37c86681f804402d7c5ea94e5a7719db7b21c37454a18a43922148c73f2a1757"
+      },
+      "rsc": {
+        "url": "https://ptcgp.raenonx.cc/ja/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "finalUrl": "https://ptcgp.raenonx.cc/ja/card?_rsc=1&dpl=96dbdaa-2026-07-30T22-25-25-04-00",
+        "status": 200,
+        "ok": true,
+        "contentType": "text/x-component",
+        "lastModified": null,
+        "bytes": 529432,
+        "sha256": "bac9e90f4c7a98e9d9560682f0d7c3ae5dff957dd0403628f293fede88208fe5"
+      },
+      "messageLeafCount": 7977
+    }
+  },
+  "namespacePresence": {
+    "en": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "fr": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "es": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "it": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "de": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "pt-br": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "zh-tw": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "ko": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    },
+    "ja": {
+      "cardNames": 1333,
+      "cardDescriptions": 0,
+      "trainerDescriptions": 143,
+      "attackNames": 1080,
+      "attackDescriptions": 327,
+      "abilityNames": 159,
+      "abilityDescriptions": 137,
+      "illustratorKeys": [
+        "Game.Master.Card.Illustrator.1",
+        "Game.Master.Card.Illustrator.2",
+        "Game.Master.Card.Illustrator.3",
+        "Game.Master.Card.Illustrator.4",
+        "Game.Master.Card.Illustrator.5",
+        "Game.Master.Card.Illustrator.6",
+        "Game.Master.Card.Illustrator.7",
+        "Game.Master.Card.Illustrator.8",
+        "Game.Master.Card.Illustrator.9",
+        "Game.Master.Card.Illustrator.10",
+        "Game.Master.Card.Illustrator.11",
+        "Game.Master.Card.Illustrator.12",
+        "Game.Master.Card.Illustrator.13",
+        "Game.Master.Card.Illustrator.14",
+        "Game.Master.Card.Illustrator.15",
+        "Game.Master.Card.Illustrator.16",
+        "Game.Master.Card.Illustrator.17",
+        "Game.Master.Card.Illustrator.18",
+        "Game.Master.Card.Illustrator.19",
+        "Game.Master.Card.Illustrator.20",
+        "Game.Master.Card.Illustrator.21",
+        "Game.Master.Card.Illustrator.22",
+        "Game.Master.Card.Illustrator.23",
+        "Game.Master.Card.Illustrator.24",
+        "Game.Master.Card.Illustrator.25",
+        "Game.Master.Card.Illustrator.26",
+        "Game.Master.Card.Illustrator.27",
+        "Game.Master.Card.Illustrator.28",
+        "Game.Master.Card.Illustrator.29",
+        "Game.Master.Card.Illustrator.30",
+        "Game.Master.Card.Illustrator.31",
+        "Game.Master.Card.Illustrator.32",
+        "Game.Master.Card.Illustrator.33",
+        "Game.Master.Card.Illustrator.34",
+        "Game.Master.Card.Illustrator.35",
+        "Game.Master.Card.Illustrator.36",
+        "Game.Master.Card.Illustrator.37",
+        "Game.Master.Card.Illustrator.38",
+        "Game.Master.Card.Illustrator.39",
+        "Game.Master.Card.Illustrator.40",
+        "Game.Master.Card.Illustrator.41",
+        "Game.Master.Card.Illustrator.42",
+        "Game.Master.Card.Illustrator.43",
+        "Game.Master.Card.Illustrator.44",
+        "Game.Master.Card.Illustrator.45",
+        "Game.Master.Card.Illustrator.46",
+        "Game.Master.Card.Illustrator.47",
+        "Game.Master.Card.Illustrator.48",
+        "Game.Master.Card.Illustrator.49",
+        "Game.Master.Card.Illustrator.50"
+      ]
+    }
+  },
+  "samples": {
+    "1": {
+      "number": 1,
+      "cardId": "PK_10_019620_00",
+      "cardType": "pokemon",
+      "rarity": "C",
+      "illustratorI18nId": [
+        "62"
+      ],
+      "collectionNums": [
+        {
+          "expansion": {
+            "id": "B4",
+            "nameI18nId": "22"
+          },
+          "num": 1
+        }
+      ],
+      "play": {
+        "characterId": "KEMUSSO",
+        "characterI18nId": "833",
+        "cardIds": [
+          "PK_10_019620_00",
+          "PK_20_019620_00"
+        ],
+        "pokemonId": "PK_019620",
+        "hp": 60,
+        "types": [
+          1
+        ],
+        "evolution": {
+          "stage": 1,
+          "prev": [],
+          "next": [
+            {
+              "type": "pokemon",
+              "id": "PK_010860"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_010880"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_019630"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_019650"
+            }
+          ]
+        },
+        "retreat": 1,
+        "weakness": {
+          "id": 2,
+          "bonus": 20
+        },
+        "attacks": [
+          {
+            "id": "PK_019620_ATK_01",
+            "nameI18nId": "41",
+            "descriptionI18nId": null,
+            "energy": {
+              "1": 1
+            },
+            "energyTotal": 1,
+            "damageMarking": {
+              "symbol": null,
+              "value": 10
+            },
+            "move": {
+              "damage": [
+                {
+                  "type": "direct",
+                  "value": 10
+                }
+              ]
+            }
+          }
+        ],
+        "abilities": [],
+        "variant": "normal",
+        "category": {}
+      },
+      "references": [
+        {
+          "path": "illustratorI18nId",
+          "id": "62",
+          "expectedKeys": [
+            "Game.Master.Card.Illustrator.62",
+            "Game.Master.Illustrator.62",
+            "Game.Master.Card.Artist.62"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Illustrator.62",
+                "value": "ryoma uratsuka"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.62",
+              "value": "Once during your turn, you may put [Gr:Count s=\"a \" ][Num:Int plural_only=\" \" ]random Pokémon Tool [Gr:Count s=\"card\" p=\"cards\" ] from your deck into your hand."
+            },
+            {
+              "key": "Game.Master.Ability.Name.62",
+              "value": "Ultra Thrusters"
+            },
+            {
+              "key": "Game.Master.Attack.Description.62",
+              "value": "Put [Num:Int id=\"1\" max_length=\"1\" ] random [Text:EvolutionPokemon id=\"0\" num_ref=\"1\" ] from your deck onto your Bench."
+            },
+            {
+              "key": "Game.Master.Attack.Name.62",
+              "value": "Hydro Splash"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.62",
+              "value": "ryoma uratsuka"
+            },
+            {
+              "key": "Game.Master.Card.Name.62",
+              "value": "Tentacool"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.62",
+              "value": "Glaceon & Mamoswine Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.62",
+              "value": "Bibarel ex Deck (Shining Revelry)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.62",
+              "value": "AlolanMuk ex Deck (Celestial Guardians)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.62",
+              "value": "Mewtwo (playmat)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.62",
+              "value": "Move a [Img:Element id=\"0\" ], [Img:Element id=\"1\" ], or [Img:Element id=\"2\" ] Energy from 1 of your Benched Pokémon to your Active Pokémon."
+            }
+          ]
+        },
+        {
+          "path": "collectionNums[0].expansion.nameI18nId",
+          "id": "22",
+          "expectedKeys": [
+            "Game.Master.Expansion.22"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.22",
+              "value": "Attacks used by your [Img:Element id=\"0\" ] Pokémon do +[Num:Int id=\"1\" max_length=\"3\" ] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.22",
+              "value": "Levitate"
+            },
+            {
+              "key": "Game.Master.Attack.Description.22",
+              "value": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.22",
+              "value": "Attach"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.22",
+              "value": "Kanako Eo"
+            },
+            {
+              "key": "Game.Master.Card.Name.22",
+              "value": "Exeggutor"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.22",
+              "value": "Mewtwo ex & Gardevoir Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.22",
+              "value": "Lt. Surge Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.22",
+              "value": "Cynthia Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.22",
+              "value": "B4"
+            },
+            {
+              "key": "Game.Master.Shop.Product.22",
+              "value": "Special Set 01 (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.22",
+              "value": "The Pokémon this card is attached to gets +[Num:Int id=\"0\" max_length=\"3\" ] HP."
+            }
+          ]
+        },
+        {
+          "path": "play.characterI18nId",
+          "id": "833",
+          "expectedKeys": [
+            "Game.Master.Card.Name.833"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "Wurmple"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "Chenipotte"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "Wurmple"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "Wurmple"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "Wurmple"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "Wurmple"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "刺尾蟲"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "개무소"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Name.833",
+                "value": "ケムッソ"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Name.833",
+              "value": "Adrenaline Hammer"
+            },
+            {
+              "key": "Game.Master.Card.Name.833",
+              "value": "Wurmple"
+            }
+          ]
+        },
+        {
+          "path": "play.attacks[0].nameI18nId",
+          "id": "41",
+          "expectedKeys": [
+            "Game.Master.Attack.Name.41"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "Gnaw"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "Ronge"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "Roer"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "Gnaw"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "Gnaw"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "Roída"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "咬"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "갉기"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Attack.Name.41",
+                "value": "かじる"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.41",
+              "value": "During your first turn, this Pokémon has no Retreat Cost."
+            },
+            {
+              "key": "Game.Master.Ability.Name.41",
+              "value": "Broken-Space Bellow"
+            },
+            {
+              "key": "Game.Master.Attack.Description.41",
+              "value": "Put [Num:Int id=\"1\" max_length=\"1\"] random [Img:Element id=\"0\"] Pokémon from your deck into your hand."
+            },
+            {
+              "key": "Game.Master.Attack.Name.41",
+              "value": "Gnaw"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.41",
+              "value": "GOSSAN"
+            },
+            {
+              "key": "Game.Master.Card.Name.41",
+              "value": "Arcanine ex"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.41",
+              "value": "Aerodactyl ex Deck (Mythical Island)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.41",
+              "value": "Weavile ex Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.41",
+              "value": "Probopass ex Deck (Triumphant Light)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.41",
+              "value": "Choose [Num:Int id=\"0\" max_length=\"1\"] of your Basic Pokémon in play. If you have [Gr:Count s=\"a \" ref=\"0\" ]Stage 2 [Gr:Count s=\"card\" p=\"cards\" ref=\"0\" ] in your hand that [Gr:Count s=\"evolves\" p=\"evolve\" ref=\"0\" ] from [Gr:Count s=\"that\" p=\"those\" ref=\"0\" ] Pokémon, put [Gr:Count s=\"that card\" p=\"those cards\" ref=\"0\" ] onto the Basic Pokémon to evolve [Gr:Count s=\"it\" p=\"them\" ref=\"0\" ], skipping the Stage 1. You can't use this card during your first turn or on [Gr:Count s=\"a \" ref=\"0\" ]Basic Pokémon that [Gr:Count s=\"was\" p=\"were\" ref=\"0\" ] put into play this turn."
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "number": 3,
+      "cardId": "PK_10_019640_00",
+      "cardType": "pokemon",
+      "rarity": "U",
+      "illustratorI18nId": [
+        "39"
+      ],
+      "collectionNums": [
+        {
+          "expansion": {
+            "id": "B4",
+            "nameI18nId": "22"
+          },
+          "num": 3
+        }
+      ],
+      "play": {
+        "characterId": "AGEHUNT",
+        "characterI18nId": "835",
+        "cardIds": [
+          "PK_10_019640_00"
+        ],
+        "pokemonId": "PK_019640",
+        "hp": 130,
+        "types": [
+          1
+        ],
+        "evolution": {
+          "stage": 3,
+          "prev": [
+            {
+              "type": "pokemon",
+              "id": "PK_010860"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_019630"
+            }
+          ],
+          "next": []
+        },
+        "retreat": 1,
+        "weakness": {
+          "id": 2,
+          "bonus": 20
+        },
+        "attacks": [
+          {
+            "id": "PK_019640_ATK_01",
+            "nameI18nId": "1023",
+            "descriptionI18nId": "136",
+            "energy": {
+              "2": 1
+            },
+            "energyTotal": 1,
+            "damageMarking": {
+              "symbol": "+",
+              "value": 30
+            },
+            "move": null
+          }
+        ],
+        "abilities": [],
+        "variant": "normal",
+        "category": {}
+      },
+      "references": [
+        {
+          "path": "illustratorI18nId",
+          "id": "39",
+          "expectedKeys": [
+            "Game.Master.Card.Illustrator.39",
+            "Game.Master.Illustrator.39",
+            "Game.Master.Card.Artist.39"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Illustrator.39",
+                "value": "Suwama Chiaki"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.39",
+              "value": "Once during your turn, you may take [Gr:Count s=\"a \" ref=\"1\" ][Num:Int id=\"1\" plural_only=\" \" ][Img:Element id=\"0\" ] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+            },
+            {
+              "key": "Game.Master.Ability.Name.39",
+              "value": "Defensive Whirlwind"
+            },
+            {
+              "key": "Game.Master.Attack.Description.39",
+              "value": "Draw [Num:Int plural_only=\" \" ][Gr:Count s=\"a card\" p=\"cards\" ]."
+            },
+            {
+              "key": "Game.Master.Attack.Name.39",
+              "value": "Inferno Dance"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.39",
+              "value": "Suwama Chiaki"
+            },
+            {
+              "key": "Game.Master.Card.Name.39",
+              "value": "Growlithe"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.39",
+              "value": "Raichu & Lt. Surge Deck (Mythical Island)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.39",
+              "value": "Lickilicky ex Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.39",
+              "value": "Garchomp ex Deck (Triumphant Light)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.39",
+              "value": "Heal [Num:Int id=\"0\" max_length=\"3\" ] damage and remove [Num:Int id=\"1\" plural_only=\" \" ][Gr:Count s=\"a random Special Condition\" p=\"random Special Conditions\" ref=\"1\" ] from your Active Pokémon."
+            }
+          ]
+        },
+        {
+          "path": "collectionNums[0].expansion.nameI18nId",
+          "id": "22",
+          "expectedKeys": [
+            "Game.Master.Expansion.22"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.22",
+              "value": "Attacks used by your [Img:Element id=\"0\" ] Pokémon do +[Num:Int id=\"1\" max_length=\"3\" ] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.22",
+              "value": "Levitate"
+            },
+            {
+              "key": "Game.Master.Attack.Description.22",
+              "value": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.22",
+              "value": "Attach"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.22",
+              "value": "Kanako Eo"
+            },
+            {
+              "key": "Game.Master.Card.Name.22",
+              "value": "Exeggutor"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.22",
+              "value": "Mewtwo ex & Gardevoir Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.22",
+              "value": "Lt. Surge Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.22",
+              "value": "Cynthia Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.22",
+              "value": "B4"
+            },
+            {
+              "key": "Game.Master.Shop.Product.22",
+              "value": "Special Set 01 (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.22",
+              "value": "The Pokémon this card is attached to gets +[Num:Int id=\"0\" max_length=\"3\" ] HP."
+            }
+          ]
+        },
+        {
+          "path": "play.characterI18nId",
+          "id": "835",
+          "expectedKeys": [
+            "Game.Master.Card.Name.835"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "Beautifly"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "Charmillon"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "Beautifly"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "Beautifly"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "Beautifly"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "Beautifly"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "狩獵鳳蝶"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "뷰티플라이"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Name.835",
+                "value": "アゲハント"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Name.835",
+              "value": "Rampaging Fang"
+            },
+            {
+              "key": "Game.Master.Card.Name.835",
+              "value": "Beautifly"
+            }
+          ]
+        },
+        {
+          "path": "play.attacks[0].nameI18nId",
+          "id": "1023",
+          "expectedKeys": [
+            "Game.Master.Attack.Name.1023"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "Evoflight"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "Envol Évo"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "Evovuelo"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "Evoflight"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "Evoflight"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "Evoluvoo"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "進化飛行"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "이볼브 플라이트"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Attack.Name.1023",
+                "value": "エボルフライト"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Name.1023",
+              "value": "Evoflight"
+            },
+            {
+              "key": "Game.Master.Card.Name.1023",
+              "value": "Cornerstone MaskOgerpon"
+            }
+          ]
+        },
+        {
+          "path": "play.attacks[0].descriptionI18nId",
+          "id": "136",
+          "expectedKeys": [
+            "Game.Master.Attack.Description.136"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "This attack does [Num:Int id=\"0\" max_length=\"3\"] more damage for each Evolution Pokémon on your Bench."
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "Cette attaque inflige [Num:Int id=\"0\" max_length=\"3\" ][C:Nbsp id=\"0\" ref=\"0\" ]dégâts supplémentaires pour chaque Pokémon Évolutif sur votre Banc."
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "Este ataque hace [Num:Int id=\"0\" max_length=\"3\" ] puntos de daño más por cada Pokémon Evolución en tu Banca."
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "This attack does [Num:Int id=\"0\" max_length=\"3\"] more damage for each Evolution Pokémon on your Bench."
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "This attack does [Num:Int id=\"0\" max_length=\"3\"] more damage for each Evolution Pokémon on your Bench."
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "Este ataque causa [Num:Int id=\"0\" max_length=\"3\" ] pontos de dano a mais para cada Pokémon de Evolução no seu Banco."
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "增加自己的備戰區的進化寶可夢的數量×[Num:Int id=\"0\" max_length=\"3\"]點傷害。"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "자신의 벤치의 진화 포켓몬의 수 × [Num:Int id=\"0\" max_length=\"3\" ]데미지를 추가한다."
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Attack.Description.136",
+                "value": "自分のベンチの進化ポケモンの数×[Num:Int id=\"0\" max_length=\"3\"]ダメージ追加。"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.136",
+              "value": "During Pokémon Checkup, heal [Num:Int id=\"0\" max_length=\"3\"] damage from each of your Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.136",
+              "value": "Sand Slammer"
+            },
+            {
+              "key": "Game.Master.Attack.Description.136",
+              "value": "This attack does [Num:Int id=\"0\" max_length=\"3\"] more damage for each Evolution Pokémon on your Bench."
+            },
+            {
+              "key": "Game.Master.Attack.Name.136",
+              "value": "Poison Gas"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.136",
+              "value": "takashi shiraishi"
+            },
+            {
+              "key": "Game.Master.Card.Name.136",
+              "value": "Golurk"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.136",
+              "value": "Crabominable ex Deck (Celestial Guardians)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.136",
+              "value": "Melmetal ex Deck (Mega Rising)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.136",
+              "value": "Gholdengo ex Deck (Paldean Wonders)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.136",
+              "value": "Triumphant Light: Arceus (cover)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.136",
+              "value": "Once during each player's turn, that player may choose [Num:Int id=\"0\" max_length=\"1\" plural_only=\" \"][Gr:Count s=\"a card\" p=\"cards\" id=\"0\" ref=\"0\" ] in their hand and switch [Gr:Count s=\"it\" p=\"them\" id=\"0\" ref=\"0\" ] with [Num:Int id=\"0\" max_length=\"1\" plural_only=\" \"][Gr:Count s=\"a random\" p=\"random\" id=\"0\" ref=\"0\" ] Pokémon Tool [Gr:Count s=\"card\" p=\"cards\" id=\"0\" ref=\"0\" ] in their deck."
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "number": 5,
+      "cardId": "PK_10_019660_00",
+      "cardType": "pokemon",
+      "rarity": "R",
+      "illustratorI18nId": [
+        "20"
+      ],
+      "collectionNums": [
+        {
+          "expansion": {
+            "id": "B4",
+            "nameI18nId": "22"
+          },
+          "num": 5
+        }
+      ],
+      "play": {
+        "characterId": "DOKUCALE",
+        "characterI18nId": "837",
+        "cardIds": [
+          "PK_10_019660_00"
+        ],
+        "pokemonId": "PK_019660",
+        "hp": 120,
+        "types": [
+          1
+        ],
+        "evolution": {
+          "stage": 3,
+          "prev": [
+            {
+              "type": "pokemon",
+              "id": "PK_010880"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_019650"
+            }
+          ],
+          "next": []
+        },
+        "retreat": 1,
+        "weakness": {
+          "id": 2,
+          "bonus": 20
+        },
+        "attacks": [
+          {
+            "id": "PK_019660_ATK_01",
+            "nameI18nId": "482",
+            "descriptionI18nId": null,
+            "energy": {
+              "1": 2
+            },
+            "energyTotal": 2,
+            "damageMarking": {
+              "symbol": null,
+              "value": 60
+            },
+            "move": {
+              "damage": [
+                {
+                  "type": "direct",
+                  "value": 60
+                }
+              ]
+            }
+          }
+        ],
+        "abilities": [
+          {
+            "id": "PK_019660_ABL_01",
+            "nameI18nId": "150",
+            "descriptionI18nId": "141",
+            "move": null
+          }
+        ],
+        "variant": "normal",
+        "category": {}
+      },
+      "references": [
+        {
+          "path": "illustratorI18nId",
+          "id": "20",
+          "expectedKeys": [
+            "Game.Master.Card.Illustrator.20",
+            "Game.Master.Illustrator.20",
+            "Game.Master.Card.Artist.20"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Illustrator.20",
+                "value": "Midori Harada"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.20",
+              "value": "As often as you like during your turn, you may choose 1 of your Pokémon that has damage on it, and move all of its damage to this Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.20",
+              "value": "Crystal Body"
+            },
+            {
+              "key": "Game.Master.Attack.Description.20",
+              "value": "Flip [Num:Int plural_only=\" \" ][Gr:Count s=\"a coin\" p=\"coins\" ]. If [Gr:Count one=\"it is\" two=\"both of them are\" p=\"all of them are\" ref=\"0\" ] heads, this attack does [Num:Int id=\"1\" max_length=\"3\" ] more damage."
+            },
+            {
+              "key": "Game.Master.Attack.Name.20",
+              "value": "Sharp Scythe"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.20",
+              "value": "Midori Harada"
+            },
+            {
+              "key": "Game.Master.Card.Name.20",
+              "value": "Victreebel"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.20",
+              "value": "Machamp ex Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.20",
+              "value": "Kanto Fossils Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.20",
+              "value": "Infernape ex Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.20",
+              "value": "B3a"
+            },
+            {
+              "key": "Game.Master.Shop.Product.20",
+              "value": "Special Set 01 (card sleeve)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.20",
+              "value": "During your opponent's next turn, all of your Pokémon take −[Num:Int id=\"0\" max_length=\"3\" ] damage from attacks from your opponent's Pokémon."
+            }
+          ]
+        },
+        {
+          "path": "collectionNums[0].expansion.nameI18nId",
+          "id": "22",
+          "expectedKeys": [
+            "Game.Master.Expansion.22"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.22",
+              "value": "Attacks used by your [Img:Element id=\"0\" ] Pokémon do +[Num:Int id=\"1\" max_length=\"3\" ] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.22",
+              "value": "Levitate"
+            },
+            {
+              "key": "Game.Master.Attack.Description.22",
+              "value": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.22",
+              "value": "Attach"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.22",
+              "value": "Kanako Eo"
+            },
+            {
+              "key": "Game.Master.Card.Name.22",
+              "value": "Exeggutor"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.22",
+              "value": "Mewtwo ex & Gardevoir Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.22",
+              "value": "Lt. Surge Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.22",
+              "value": "Cynthia Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.22",
+              "value": "B4"
+            },
+            {
+              "key": "Game.Master.Shop.Product.22",
+              "value": "Special Set 01 (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.22",
+              "value": "The Pokémon this card is attached to gets +[Num:Int id=\"0\" max_length=\"3\" ] HP."
+            }
+          ]
+        },
+        {
+          "path": "play.characterI18nId",
+          "id": "837",
+          "expectedKeys": [
+            "Game.Master.Card.Name.837"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "Dustox"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "Papinox"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "Dustox"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "Dustox"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "Dustox"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "Dustox"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "毒粉蛾"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "독케일"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Name.837",
+                "value": "ドクケイル"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Name.837",
+              "value": "Rocket Jump"
+            },
+            {
+              "key": "Game.Master.Card.Name.837",
+              "value": "Dustox"
+            }
+          ]
+        },
+        {
+          "path": "play.attacks[0].nameI18nId",
+          "id": "482",
+          "expectedKeys": [
+            "Game.Master.Attack.Name.482"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "Cutting Wind"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "Vent Glacial"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "Viento Helado"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "Cutting Wind"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "Cutting Wind"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "Vento Dilacerante"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "利刃之風"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "커터윈드"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Attack.Name.482",
+                "value": "カッターウインド"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Name.482",
+              "value": "Cutting Wind"
+            },
+            {
+              "key": "Game.Master.Card.Name.482",
+              "value": "Pokémon Center Lady"
+            },
+            {
+              "key": "Game.Master.Shop.Product.482",
+              "value": "Eevee (054/P-B)"
+            }
+          ]
+        },
+        {
+          "path": "play.abilities[0].nameI18nId",
+          "id": "150",
+          "expectedKeys": [
+            "Game.Master.Ability.Name.150"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "Variety Powder"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "Poudres Variées"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "Polvo Variado"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "Variety Powder"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "Variety Powder"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "Pó Variado"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "多變粉"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "버라이어티 파우더"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Ability.Name.150",
+                "value": "バラエティパウダー"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Name.150",
+              "value": "Variety Powder"
+            },
+            {
+              "key": "Game.Master.Attack.Description.150",
+              "value": "You may discard any number of your Benched [Img:Element id=\"0\"] Pokémon. This attack does [Num:Int id=\"1\" max_length=\"3\"] more damage for each Benched Pokémon you discarded in this way."
+            },
+            {
+              "key": "Game.Master.Attack.Name.150",
+              "value": "Leek Slap"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.150",
+              "value": "Minahamu"
+            },
+            {
+              "key": "Game.Master.Card.Name.150",
+              "value": "Onix"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.150",
+              "value": "AlolanDugtrio Deck (Celestial Guardians)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.150",
+              "value": "Piers Deck (Fantastical Parade)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.150",
+              "value": "Flygon ex Deck (Pulsing Aura)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.150",
+              "value": "Solgaleo (Pokémon coin)"
+            }
+          ]
+        },
+        {
+          "path": "play.abilities[0].descriptionI18nId",
+          "id": "141",
+          "expectedKeys": [
+            "Game.Master.Ability.Description.141"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "Once during your turn, you may use this Ability. [Num:Int id=\"0\" max_length=\"1\"] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ] from among Burned, Confused, and Poisoned [Gr:Count s=\"is\" p=\"are\" ref=\"0\" ] chosen at random, and your opponent's Active Pokémon is now affected by [Gr:Count s=\"that\" p=\"those\" ref=\"0\" ] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ]. Any Special Conditions already affecting that Pokémon will not be chosen."
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "Une fois pendant votre tour, vous pouvez utiliser ce talent. Le Pokémon Actif de votre adversaire est maintenant affecté par [Num:Int plural_only=\"\" ][Gr:Count s=\"un\" ] État[Gr:Count p=\"s\" ] Spécia[Gr:Count s=\"l\" p=\"ux\" ] choisi[Gr:Count p=\"s\" ] au hasard parmi Brûlé, Confus et Empoisonné. Tout État Spécial qui affecte déjà ce Pokémon ne sera pas choisi."
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "Una vez durante tu turno, puedes usar esta habilidad. Se elige[Gr:Count p=\"n\" ] [Num:Int id=\"0\" max_length=\"1\" ] [Gr:Count s=\"Condición\" p=\"Condiciones\" ] Especial[Gr:Count p=\"es\" ] aleatoria[Gr:Count p=\"s\" ] de entre Quemado, Confundido y Envenenado. El Pokémon Activo de tu rival pasa a estar afectado por esa[Gr:Count p=\"s\" ] [Gr:Count s=\"Condición\" p=\"Condiciones\" ] Especial[Gr:Count p=\"es\" ]. No se elegirá ninguna Condición Especial que ya esté afectando a ese Pokémon."
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "Once during your turn, you may use this Ability. [Num:Int id=\"0\" max_length=\"1\"] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ] from among Burned, Confused, and Poisoned [Gr:Count s=\"is\" p=\"are\" ref=\"0\" ] chosen at random, and your opponent's Active Pokémon is now affected by [Gr:Count s=\"that\" p=\"those\" ref=\"0\" ] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ]. Any Special Conditions already affecting that Pokémon will not be chosen."
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "Once during your turn, you may use this Ability. [Num:Int id=\"0\" max_length=\"1\"] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ] from among Burned, Confused, and Poisoned [Gr:Count s=\"is\" p=\"are\" ref=\"0\" ] chosen at random, and your opponent's Active Pokémon is now affected by [Gr:Count s=\"that\" p=\"those\" ref=\"0\" ] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ]. Any Special Conditions already affecting that Pokémon will not be chosen."
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "Uma vez durante o seu turno, você poderá usar esta Habilidade. [Num:Int id=\"0\" max_length=\"1\" ] [Gr:Count s=\"Condição Especial\" p=\"Condições Especiais\" ] dentre Queimado, Confuso e Envenenado [Gr:Count s=\"será escolhida aleatoriamente\" p=\"serão escolhidas aleatoriamente\" ], e o Pokémon Ativo do seu oponente agora estará afetado por [Gr:Count s=\"aquela\" p=\"aquelas\" ] [Gr:Count s=\"Condição Especial\" p=\"Condições Especiais\" ]. Nenhuma Condição Especial que já estiver afetando aquele Pokémon será escolhida."
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "在自己的回合時，可使用1次。從[Ctrl:Bold]中毒[/Ctrl:Bold]、[Ctrl:Bold]灼傷[/Ctrl:Bold]、[Ctrl:Bold]混亂[/Ctrl:Bold]中會隨機被選出[Num:Int id=\"0\" max_length=\"1\"]種，讓對手的戰鬥寶可夢陷入該特殊狀態。不會選出已經受到的特殊狀態。"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "자신의 차례에 1번 사용할 수 있다. [Ctrl:Bold]독[/Ctrl:Bold]・[Ctrl:Bold]화상[/Ctrl:Bold]・[Ctrl:Bold]혼란[/Ctrl:Bold] 중에서 랜덤으로 [Num:Int id=\"0\" max_length=\"1\" ]개가 선택되어 상대의 배틀 포켓몬을 그 특수 상태로 만든다. 이미 받고 있는 특수 상태는 선택되지 않는다."
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Ability.Description.141",
+                "value": "自分の番に1回使える。[Ctrl:Bold]どく[/Ctrl:Bold]・[Ctrl:Bold]やけど[/Ctrl:Bold]・[Ctrl:Bold]こんらん[/Ctrl:Bold]の中からランダムに[Num:Int id=\"0\" max_length=\"1\"]つが選ばれ、相手のバトルポケモンをその特殊状態にする。すでに受けている特殊状態は、選ばれない。"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.141",
+              "value": "Once during your turn, you may use this Ability. [Num:Int id=\"0\" max_length=\"1\"] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ] from among Burned, Confused, and Poisoned [Gr:Count s=\"is\" p=\"are\" ref=\"0\" ] chosen at random, and your opponent's Active Pokémon is now affected by [Gr:Count s=\"that\" p=\"those\" ref=\"0\" ] Special [Gr:Count s=\"Condition\" p=\"Conditions\" ref=\"0\" ]. Any Special Conditions already affecting that Pokémon will not be chosen."
+            },
+            {
+              "key": "Game.Master.Ability.Name.141",
+              "value": "Blessed Salt"
+            },
+            {
+              "key": "Game.Master.Attack.Description.141",
+              "value": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now [Text:SpecialCondition id=\"0\"]."
+            },
+            {
+              "key": "Game.Master.Attack.Name.141",
+              "value": "Amass"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.141",
+              "value": "matazo"
+            },
+            {
+              "key": "Game.Master.Card.Name.141",
+              "value": "Mankey"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.141",
+              "value": "Necrozma Deck (Celestial Guardians)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.141",
+              "value": "Mega Lopunny ex Deck (Crimson Blaze)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.141",
+              "value": "Mega Scizor ex Deck (Mega Shine)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.141",
+              "value": "Arceus (card sleeve)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.141",
+              "value": "During this turn, 1 of your opponent's Pokémon is chosen [Num:Int id=\"1\" max_length=\"2\"] more [Gr:Count s=\"time\" p=\"times\" ref=\"1\" ] for the [Text:AttackName id=\"0\"] attack used by your Pokémon."
+            }
+          ]
+        }
+      ]
+    },
+    "82": {
+      "number": 82,
+      "cardId": "PK_10_020430_00",
+      "cardType": "pokemon",
+      "rarity": "R",
+      "illustratorI18nId": [
+        "92"
+      ],
+      "collectionNums": [
+        {
+          "expansion": {
+            "id": "B4",
+            "nameI18nId": "22"
+          },
+          "num": 82
+        }
+      ],
+      "play": {
+        "characterId": "ARMALDO",
+        "characterI18nId": "1307",
+        "cardIds": [
+          "PK_10_020430_00"
+        ],
+        "pokemonId": "PK_020430",
+        "hp": 150,
+        "types": [
+          6
+        ],
+        "evolution": {
+          "stage": 3,
+          "prev": [
+            {
+              "type": "pokemon",
+              "id": "PK_020420"
+            }
+          ],
+          "next": []
+        },
+        "retreat": 3,
+        "weakness": {
+          "id": 1,
+          "bonus": 20
+        },
+        "attacks": [
+          {
+            "id": "PK_020430_ATK_01",
+            "nameI18nId": "1058",
+            "descriptionI18nId": "328",
+            "energy": {
+              "1": 2,
+              "7": 1
+            },
+            "energyTotal": 3,
+            "damageMarking": {
+              "symbol": null,
+              "value": 0
+            },
+            "move": null
+          }
+        ],
+        "abilities": [],
+        "variant": "normal",
+        "category": {}
+      },
+      "references": [
+        {
+          "path": "illustratorI18nId",
+          "id": "92",
+          "expectedKeys": [
+            "Game.Master.Card.Illustrator.92",
+            "Game.Master.Illustrator.92",
+            "Game.Master.Card.Artist.92"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Illustrator.92",
+                "value": "Souichirou Gunjima"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.92",
+              "value": "If this Pokémon has full HP, it takes −[Num:Int id=\"0\" max_length=\"3\"] damage from attacks from your opponent's Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.92",
+              "value": "Shifting Stream"
+            },
+            {
+              "key": "Game.Master.Attack.Description.92",
+              "value": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+            },
+            {
+              "key": "Game.Master.Attack.Name.92",
+              "value": "Thunder Shock"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.92",
+              "value": "Souichirou Gunjima"
+            },
+            {
+              "key": "Game.Master.Card.Name.92",
+              "value": "Snom"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.92",
+              "value": "Glaceon ex & Palkia ex Deck (Triumphant Light)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.92",
+              "value": "Donphan ex Deck (Wisdom of Sea and Sky)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.92",
+              "value": "Charizard ex & Moltres ex Deck (Deluxe Pack: ex)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.92",
+              "value": "Chimchar, Monferno, and Infernape (playmat)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.92",
+              "value": "Choose 1 of your [Img:Element id=\"0\"] Pokémon in play. Put a random [Img:Element id=\"1\"] Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn."
+            }
+          ]
+        },
+        {
+          "path": "collectionNums[0].expansion.nameI18nId",
+          "id": "22",
+          "expectedKeys": [
+            "Game.Master.Expansion.22"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.22",
+              "value": "Attacks used by your [Img:Element id=\"0\" ] Pokémon do +[Num:Int id=\"1\" max_length=\"3\" ] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.22",
+              "value": "Levitate"
+            },
+            {
+              "key": "Game.Master.Attack.Description.22",
+              "value": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.22",
+              "value": "Attach"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.22",
+              "value": "Kanako Eo"
+            },
+            {
+              "key": "Game.Master.Card.Name.22",
+              "value": "Exeggutor"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.22",
+              "value": "Mewtwo ex & Gardevoir Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.22",
+              "value": "Lt. Surge Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.22",
+              "value": "Cynthia Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.22",
+              "value": "B4"
+            },
+            {
+              "key": "Game.Master.Shop.Product.22",
+              "value": "Special Set 01 (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.22",
+              "value": "The Pokémon this card is attached to gets +[Num:Int id=\"0\" max_length=\"3\" ] HP."
+            }
+          ]
+        },
+        {
+          "path": "play.characterI18nId",
+          "id": "1307",
+          "expectedKeys": [
+            "Game.Master.Card.Name.1307"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "Armaldo"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "Armaldo"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "Armaldo"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "Armaldo"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "Armaldo"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "Armaldo"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "太古盔甲"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "아말도"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Name.1307",
+                "value": "アーマルド"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Card.Name.1307",
+              "value": "Armaldo"
+            }
+          ]
+        },
+        {
+          "path": "play.attacks[0].nameI18nId",
+          "id": "1058",
+          "expectedKeys": [
+            "Game.Master.Attack.Name.1058"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "Abyssal Drop"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "Chute Abyssale"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "Caída Abisal"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "Abyssal Drop"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "Abyssal Drop"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "Queda Abissal"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "擊落深淵"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "나락떨구기"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Attack.Name.1058",
+                "value": "ならくおとし"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Name.1058",
+              "value": "Abyssal Drop"
+            },
+            {
+              "key": "Game.Master.Card.Name.1058",
+              "value": "Juggler"
+            }
+          ]
+        },
+        {
+          "path": "play.attacks[0].descriptionI18nId",
+          "id": "328",
+          "expectedKeys": [
+            "Game.Master.Attack.Description.328"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "Discard all Energy from this Pokémon. Choose [Num:Int id=\"0\" plural_only=\" \" ][Gr:Count s=\"a spot\" p=\"spots\" ref=\"0\" ] from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the [Gr:Count s=\"spot\" p=\"spots\" ref=\"0\" ] you chose."
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "Défaussez toutes les Énergies de ce Pokémon. Choisissez [Gr:Count s=\"un\" ][Num:Int plural_only=\"\" ] emplacement[Gr:Count p=\"s\" ] parmi ceux situés sur le Poste Actif et sur le Banc de votre adversaire. À la fin du prochain tour de votre adversaire, mettez K.O. le[Gr:Count p=\"s\" ] Pokémon situé[Gr:Count p=\"s\" ] sur [Gr:Count s=\"l'emplacement\" p=\"les emplacements\" ] choisi[Gr:Count p=\"s\" ]."
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "Descarta todas las Energías de este Pokémon. Elige [Num:Int id=\"0\" max_length=\"1\" ] puesto[Gr:Count p=\"s\" ref=\"0\" ] de entre el Puesto Activo y la Banca de tu rival. Al final del próximo turno de tu rival, deja Fuera de Combate [Gr:Count s=\"al\" p=\"a los\" ] Pokémon [Gr:Count s=\"del\" p=\"de los\" ] puesto[Gr:Count p=\"s\" ref=\"0\" ] elegido[Gr:Count p=\"s\" ref=\"0\" ]."
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "Discard all Energy from this Pokémon. Choose [Num:Int id=\"0\" plural_only=\" \" ][Gr:Count s=\"a spot\" p=\"spots\" ref=\"0\" ] from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the [Gr:Count s=\"spot\" p=\"spots\" ref=\"0\" ] you chose."
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "Discard all Energy from this Pokémon. Choose [Num:Int id=\"0\" plural_only=\" \" ][Gr:Count s=\"a spot\" p=\"spots\" ref=\"0\" ] from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the [Gr:Count s=\"spot\" p=\"spots\" ref=\"0\" ] you chose."
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "Descarte todas as Energias deste Pokémon. Escolha [Num:Int ] lugar[Gr:Count p=\"es\" ] dentre o Campo Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, Nocauteie o[Gr:Count p=\"s\" ] Pokémon no[Gr:Count p=\"s\" ] lugar[Gr:Count p=\"es\" ] que você escolheu."
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "將這隻寶可夢身上的能量全部丟棄。選擇對手的戰鬥場或[Num:Int id=\"0\" max_length=\"1\"]個備戰區位置。在下個對手的回合結束時，將位於所選位置的寶可夢[Ctrl:Bold]昏厥[/Ctrl:Bold]。"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "이 포켓몬에서 에너지를 모두 트래쉬한다. 상대 배틀필드 또는 벤치를 [Num:Int id=\"0\" max_length=\"1\" ]군데 선택한다. 상대의 다음 차례 마지막에 선택한 장소에 있는 포켓몬을 [Ctrl:Bold]기절[/Ctrl:Bold]시킨다."
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Attack.Description.328",
+                "value": "このポケモンからエネルギーをすべてトラッシュ。相手のバトル場またはベンチを[Num:Int id=\"0\" max_length=\"1\"]か所選ぶ。次の相手の番の終わりに、選んだ場所にいるポケモンを[Ctrl:Bold]きぜつ[/Ctrl:Bold]させる。"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Description.328",
+              "value": "Discard all Energy from this Pokémon. Choose [Num:Int id=\"0\" plural_only=\" \" ][Gr:Count s=\"a spot\" p=\"spots\" ref=\"0\" ] from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the [Gr:Count s=\"spot\" p=\"spots\" ref=\"0\" ] you chose."
+            },
+            {
+              "key": "Game.Master.Attack.Name.328",
+              "value": "Power Press"
+            },
+            {
+              "key": "Game.Master.Card.Name.328",
+              "value": "Togepi"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.328",
+              "value": "Brionne Deck (Eevee Grove)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.328",
+              "value": "Machamp (055/P-A)"
+            }
+          ]
+        }
+      ]
+    },
+    "145": {
+      "number": 145,
+      "cardId": "TR_10_001490_00",
+      "cardType": "trainer",
+      "rarity": "U",
+      "illustratorI18nId": [
+        "183"
+      ],
+      "collectionNums": [
+        {
+          "expansion": {
+            "id": "B4",
+            "nameI18nId": "22"
+          },
+          "num": 145
+        }
+      ],
+      "play": {
+        "characterId": "OTORIYOSEPADDO",
+        "characterI18nId": "1328",
+        "cardIds": [
+          "TR_10_001490_00"
+        ],
+        "trainerId": "TR_001490",
+        "descriptionI18nId": "137",
+        "type": "item",
+        "cardType": "item",
+        "move": null
+      },
+      "references": [
+        {
+          "path": "illustratorI18nId",
+          "id": "183",
+          "expectedKeys": [
+            "Game.Master.Card.Illustrator.183",
+            "Game.Master.Illustrator.183",
+            "Game.Master.Card.Artist.183"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Illustrator.183",
+                "value": "Studio Bora Inc."
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Description.183",
+              "value": "Heal [Num:Int id=\"1\" max_length=\"3\"] damage from [Num:Int id=\"0\" max_length=\"1\"] of your Benched Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.183",
+              "value": "Hypnotic Gaze"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.183",
+              "value": "Studio Bora Inc."
+            },
+            {
+              "key": "Game.Master.Card.Name.183",
+              "value": "Dratini"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.183",
+              "value": "Sweets Relay Deck (Eevee Grove)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.183",
+              "value": "Mega Diancie ex Deck (Everyday Wonders)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.183",
+              "value": "AlolanVulpix & AlolanNinetales (cover)"
+            }
+          ]
+        },
+        {
+          "path": "collectionNums[0].expansion.nameI18nId",
+          "id": "22",
+          "expectedKeys": [
+            "Game.Master.Expansion.22"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.22",
+              "value": "Attacks used by your [Img:Element id=\"0\" ] Pokémon do +[Num:Int id=\"1\" max_length=\"3\" ] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.22",
+              "value": "Levitate"
+            },
+            {
+              "key": "Game.Master.Attack.Description.22",
+              "value": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.22",
+              "value": "Attach"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.22",
+              "value": "Kanako Eo"
+            },
+            {
+              "key": "Game.Master.Card.Name.22",
+              "value": "Exeggutor"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.22",
+              "value": "Mewtwo ex & Gardevoir Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.22",
+              "value": "Lt. Surge Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.22",
+              "value": "Cynthia Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.22",
+              "value": "B4"
+            },
+            {
+              "key": "Game.Master.Shop.Product.22",
+              "value": "Special Set 01 (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.22",
+              "value": "The Pokémon this card is attached to gets +[Num:Int id=\"0\" max_length=\"3\" ] HP."
+            }
+          ]
+        },
+        {
+          "path": "play.characterI18nId",
+          "id": "1328",
+          "expectedKeys": [
+            "Game.Master.Card.Name.1328"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "Order Pad"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "Terminal de Commande"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "Dispositivo de Pedidos"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "Order Pad"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "Order Pad"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "Tablet de Pedido"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "訂購平板"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "끌어당기기 패드"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Name.1328",
+                "value": "おとりよせパッド"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Card.Name.1328",
+              "value": "Order Pad"
+            }
+          ]
+        },
+        {
+          "path": "play.descriptionI18nId",
+          "id": "137",
+          "expectedKeys": [
+            "Game.Master.Trainer.Description.137",
+            "Game.Master.Card.Description.137"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "Flip a coin. If heads, put [Gr:Count s=\"a \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"2\" plural_only=\" \" ]random Item [Gr:Count s=\"card\" p=\"cards\" ref=\"0\" ] from your deck into your hand."
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "Lancez une pièce. Si c'est face, ajoutez [Gr:Count s=\"une\" ][Num:Int max_length=\"2\" plural_only=\"\" ] carte[Gr:Count p=\"s\" ] Objet au hasard de votre deck à votre main."
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "Lanza 1 moneda. Si sale cara, pon [Num:Int id=\"0\" max_length=\"2\" ] carta[Gr:Count p=\"s\" ref=\"0\" ] de Objeto aleatoria[Gr:Count p=\"s\" ref=\"0\" ] de tu baraja en tu mano."
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "Flip a coin. If heads, put [Gr:Count s=\"a \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"2\" plural_only=\" \" ]random Item [Gr:Count s=\"card\" p=\"cards\" ref=\"0\" ] from your deck into your hand."
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "Flip a coin. If heads, put [Gr:Count s=\"a \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"2\" plural_only=\" \" ]random Item [Gr:Count s=\"card\" p=\"cards\" ref=\"0\" ] from your deck into your hand."
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "Jogue uma moeda. Se sair cara, coloque [Num:Int max_length=\"2\" ] [Gr:Count s=\"carta de Item\" p=\"cartas de Item\" ] aleatória[Gr:Count p=\"s\" ] do seu baralho na sua mão."
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "擲1次硬幣若為正面，則從自己的牌庫隨機將[Num:Int id=\"0\" max_length=\"2\"]張物品卡加入手牌。"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "동전을 1번 던져서 앞면이 나오면 자신의 덱에서 아이템을 랜덤으로 [Num:Int id=\"0\" max_length=\"2\" ]장 패로 가져온다."
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Trainer.Description.137",
+                "value": "コインを1回投げオモテなら、自分の山札からグッズをランダムに[Num:Int id=\"0\" max_length=\"2\"]枚、手札に加える。"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.137",
+              "value": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. [Ctrl:Italic](Your opponent chooses the new Active Pokémon.)[/Ctrl:Italic]"
+            },
+            {
+              "key": "Game.Master.Ability.Name.137",
+              "value": "Happiness Supplement"
+            },
+            {
+              "key": "Game.Master.Attack.Description.137",
+              "value": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            },
+            {
+              "key": "Game.Master.Attack.Name.137",
+              "value": "Venoshock"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.137",
+              "value": "Shimaris Yukichi"
+            },
+            {
+              "key": "Game.Master.Card.Name.137",
+              "value": "Sandshrew"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.137",
+              "value": "Crabominable ex & Primarina Deck (Celestial Guardians)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.137",
+              "value": "Mega Venusaur ex Deck (Crimson Blaze)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.137",
+              "value": "Mega Charizard X ex Deck (Mega Shine)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.137",
+              "value": "Full-Bloom Sakura (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.137",
+              "value": "Flip a coin. If heads, put [Gr:Count s=\"a \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"2\" plural_only=\" \" ]random Item [Gr:Count s=\"card\" p=\"cards\" ref=\"0\" ] from your deck into your hand."
+            }
+          ]
+        }
+      ]
+    },
+    "154": {
+      "number": 154,
+      "cardId": "TR_10_001580_00",
+      "cardType": "trainer",
+      "rarity": "U",
+      "illustratorI18nId": [
+        "122"
+      ],
+      "collectionNums": [
+        {
+          "expansion": {
+            "id": "B4",
+            "nameI18nId": "22"
+          },
+          "num": 154
+        }
+      ],
+      "play": {
+        "characterId": "IYASHINOUMIBE",
+        "characterI18nId": "1337",
+        "cardIds": [
+          "TR_10_001580_00"
+        ],
+        "trainerId": "TR_001580",
+        "descriptionI18nId": "144",
+        "type": "stadium",
+        "cardType": "stadium",
+        "move": null
+      },
+      "references": [
+        {
+          "path": "illustratorI18nId",
+          "id": "122",
+          "expectedKeys": [
+            "Game.Master.Card.Illustrator.122",
+            "Game.Master.Illustrator.122",
+            "Game.Master.Card.Artist.122"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Illustrator.122",
+                "value": "AYUMI ODASHIMA"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.122",
+              "value": "If this Pokémon's remaining HP is [Num:Int id=\"0\" max_length=\"3\"] or less, attacks used by this Pokémon do +[Num:Int id=\"1\" max_length=\"3\"] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.122",
+              "value": "Passionate Voice"
+            },
+            {
+              "key": "Game.Master.Attack.Description.122",
+              "value": "Discard the top [Num:Int id=\"0\" plural_only=\" \" ][Gr:Count s=\"card\" p=\"cards\" ref=\"0\" ] of each player's deck."
+            },
+            {
+              "key": "Game.Master.Attack.Name.122",
+              "value": "Stretch Kick"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.122",
+              "value": "AYUMI ODASHIMA"
+            },
+            {
+              "key": "Game.Master.Card.Name.122",
+              "value": "Gengar"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.122",
+              "value": "Tinkaton ex & Skarmory Deck (Shining Revelry)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.122",
+              "value": "Lucario ex Starter Deck (Shining Revelry)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.122",
+              "value": "Teal MaskOgerpon ex Deck (Fantastical Parade)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.122",
+              "value": "Giratina ex Starter Deck (Shining Revelry)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.122",
+              "value": "Once during each player's turn, that player may put [Gr:Count s=\"a \" ref=\"1\" ][Num:Int id=\"1\" plural_only=\" \" ]random Basic [Img:Element id=\"0\" ] Pokémon from their deck into their hand."
+            }
+          ]
+        },
+        {
+          "path": "collectionNums[0].expansion.nameI18nId",
+          "id": "22",
+          "expectedKeys": [
+            "Game.Master.Expansion.22"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.22",
+              "value": "Attacks used by your [Img:Element id=\"0\" ] Pokémon do +[Num:Int id=\"1\" max_length=\"3\" ] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.22",
+              "value": "Levitate"
+            },
+            {
+              "key": "Game.Master.Attack.Description.22",
+              "value": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.22",
+              "value": "Attach"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.22",
+              "value": "Kanako Eo"
+            },
+            {
+              "key": "Game.Master.Card.Name.22",
+              "value": "Exeggutor"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.22",
+              "value": "Mewtwo ex & Gardevoir Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.22",
+              "value": "Lt. Surge Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.22",
+              "value": "Cynthia Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.22",
+              "value": "B4"
+            },
+            {
+              "key": "Game.Master.Shop.Product.22",
+              "value": "Special Set 01 (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.22",
+              "value": "The Pokémon this card is attached to gets +[Num:Int id=\"0\" max_length=\"3\" ] HP."
+            }
+          ]
+        },
+        {
+          "path": "play.characterI18nId",
+          "id": "1337",
+          "expectedKeys": [
+            "Game.Master.Card.Name.1337"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "Soothing Shore"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "Côte Apaisante"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "Orilla Reparadora"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "Soothing Shore"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "Soothing Shore"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "Litoral Calmante"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "療癒海邊"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "치유의 바닷가"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Name.1337",
+                "value": "いやしの海辺"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Card.Name.1337",
+              "value": "Soothing Shore"
+            }
+          ]
+        },
+        {
+          "path": "play.descriptionI18nId",
+          "id": "144",
+          "expectedKeys": [
+            "Game.Master.Trainer.Description.144",
+            "Game.Master.Card.Description.144"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "At the end of each player's turn, that player heals [Num:Int id=\"1\" max_length=\"3\"] damage from each of their Pokémon that has any [Img:Element id=\"0\"] Energy attached."
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "À la fin du tour de chaque joueur, ce joueur soigne [Num:Int id=\"1\" max_length=\"3\" ][C:Nbsp id=\"0\" ref=\"0\" ]dégâts de chacun de ses Pokémon auquel de l'Énergie[C:Nbsp id=\"0\" ref=\"0\" ][Img:Element id=\"0\" ] est attachée."
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "Al final del turno de cada jugador, ese jugador cura [Num:Int id=\"1\" max_length=\"3\" ] puntos de daño a cada uno de sus Pokémon que tenga alguna Energía [Img:Element id=\"0\" ] unida a él."
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "At the end of each player's turn, that player heals [Num:Int id=\"1\" max_length=\"3\"] damage from each of their Pokémon that has any [Img:Element id=\"0\"] Energy attached."
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "At the end of each player's turn, that player heals [Num:Int id=\"1\" max_length=\"3\"] damage from each of their Pokémon that has any [Img:Element id=\"0\"] Energy attached."
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "No final do turno de cada jogador, aquele jogador curará [Num:Int id=\"1\" max_length=\"3\" ] pontos de dano de cada um dos seus próprios Pokémon que tiver alguma Energia [Img:Element id=\"0\" ] ligadas a ele."
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "雙方玩家在自己的回合結束時，將自己的所有身上附有[Ctrl:NoBreak ][Img:Element id=\"0\" ]能量[/Ctrl:NoBreak]的寶可夢恢復[Num:Int id=\"1\" max_length=\"3\" ]HP。"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "서로의 플레이어는 자신의 차례의 마지막에 [Img:Element id=\"0\" ]에너지가 붙어 있는 자신의 포켓몬 전원의 HP를 [Num:Int id=\"1\" max_length=\"3\" ]회복."
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Trainer.Description.144",
+                "value": "おたがいのプレイヤーは、自分の番の終わりに、[Img:Element id=\"0\"]エネルギーがついている自分のポケモン全員のHPを[Num:Int id=\"1\" max_length=\"3\"]回復。"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.144",
+              "value": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now [Text:SpecialCondition id=\"0\"]."
+            },
+            {
+              "key": "Game.Master.Ability.Name.144",
+              "value": "Ancient Roar"
+            },
+            {
+              "key": "Game.Master.Attack.Description.144",
+              "value": "This attack does [Num:Int id=\"0\" max_length=\"3\" ] more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+            },
+            {
+              "key": "Game.Master.Attack.Name.144",
+              "value": "Draco Meteor"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.144",
+              "value": "N-DESIGN Inc."
+            },
+            {
+              "key": "Game.Master.Card.Name.144",
+              "value": "Machoke"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.144",
+              "value": "Lycanroc Deck (Celestial Guardians)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.144",
+              "value": "Blacephalon ex Deck (Fantastical Parade)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.144",
+              "value": "Vaporeon ex Deck (Pulsing Aura)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.144",
+              "value": "Solgaleo (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.144",
+              "value": "At the end of each player's turn, that player heals [Num:Int id=\"1\" max_length=\"3\"] damage from each of their Pokémon that has any [Img:Element id=\"0\"] Energy attached."
+            }
+          ]
+        }
+      ]
+    },
+    "233": {
+      "number": 233,
+      "cardId": "PK_20_020780_01",
+      "cardType": "pokemon",
+      "rarity": "UR",
+      "illustratorI18nId": [
+        "226"
+      ],
+      "collectionNums": [
+        {
+          "expansion": {
+            "id": "B4",
+            "nameI18nId": "22"
+          },
+          "num": 233
+        }
+      ],
+      "play": {
+        "characterId": "HAKURYU",
+        "characterI18nId": "184",
+        "cardIds": [
+          "PK_10_020780_00",
+          "PK_20_020780_00",
+          "PK_20_020780_01"
+        ],
+        "pokemonId": "PK_020780",
+        "hp": 80,
+        "types": [
+          9
+        ],
+        "evolution": {
+          "stage": 2,
+          "prev": [
+            {
+              "type": "pokemon",
+              "id": "PK_001830"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_008430"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_016550"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_020770"
+            }
+          ],
+          "next": [
+            {
+              "type": "pokemon",
+              "id": "PK_001850"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_008450"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_016570"
+            },
+            {
+              "type": "pokemon",
+              "id": "PK_020790"
+            }
+          ]
+        },
+        "retreat": 2,
+        "weakness": null,
+        "attacks": [
+          {
+            "id": "PK_020780_ATK_01",
+            "nameI18nId": "678",
+            "descriptionI18nId": null,
+            "energy": {
+              "1": 2
+            },
+            "energyTotal": 2,
+            "damageMarking": {
+              "symbol": null,
+              "value": 40
+            },
+            "move": {
+              "damage": [
+                {
+                  "type": "direct",
+                  "value": 40
+                }
+              ]
+            }
+          }
+        ],
+        "abilities": [
+          {
+            "id": "PK_020780_ABL_01",
+            "nameI18nId": "156",
+            "descriptionI18nId": "147",
+            "move": null
+          }
+        ],
+        "variant": "normal",
+        "category": {}
+      },
+      "references": [
+        {
+          "path": "illustratorI18nId",
+          "id": "226",
+          "expectedKeys": [
+            "Game.Master.Card.Illustrator.226",
+            "Game.Master.Illustrator.226",
+            "Game.Master.Card.Artist.226"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Illustrator.226",
+                "value": "PLANETA Mamiya"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Description.226",
+              "value": "Your opponent's Active Pokémon is now [Text:SpecialCondition id=\"0\"]. During your opponent's next turn, that Pokémon can't retreat."
+            },
+            {
+              "key": "Game.Master.Attack.Name.226",
+              "value": "Elegant Swim"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.226",
+              "value": "PLANETA Mamiya"
+            },
+            {
+              "key": "Game.Master.Card.Name.226",
+              "value": "Potion"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.226",
+              "value": "Milotic Deck (Secluded Springs)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.226",
+              "value": "Halloween (backdrop)"
+            }
+          ]
+        },
+        {
+          "path": "collectionNums[0].expansion.nameI18nId",
+          "id": "22",
+          "expectedKeys": [
+            "Game.Master.Expansion.22"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Expansion.22",
+                "value": "B4"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.22",
+              "value": "Attacks used by your [Img:Element id=\"0\" ] Pokémon do +[Num:Int id=\"1\" max_length=\"3\" ] damage to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.22",
+              "value": "Levitate"
+            },
+            {
+              "key": "Game.Master.Attack.Description.22",
+              "value": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.22",
+              "value": "Attach"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.22",
+              "value": "Kanako Eo"
+            },
+            {
+              "key": "Game.Master.Card.Name.22",
+              "value": "Exeggutor"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.22",
+              "value": "Mewtwo ex & Gardevoir Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.22",
+              "value": "Lt. Surge Deck (Genetic Apex)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.22",
+              "value": "Cynthia Deck (Space-Time Smackdown)"
+            },
+            {
+              "key": "Game.Master.Expansion.22",
+              "value": "B4"
+            },
+            {
+              "key": "Game.Master.Shop.Product.22",
+              "value": "Special Set 01 (backdrop)"
+            },
+            {
+              "key": "Game.Master.Trainer.Description.22",
+              "value": "The Pokémon this card is attached to gets +[Num:Int id=\"0\" max_length=\"3\" ] HP."
+            }
+          ]
+        },
+        {
+          "path": "play.characterI18nId",
+          "id": "184",
+          "expectedKeys": [
+            "Game.Master.Card.Name.184"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "Dragonair"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "Draco"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "Dragonair"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "Dragonair"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "Dragonair"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "Dragonair"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "哈克龍"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "신뇽"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Card.Name.184",
+                "value": "ハクリュー"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Description.184",
+              "value": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is [Num:Int id=\"0\" max_length=\"3\"] or less."
+            },
+            {
+              "key": "Game.Master.Attack.Name.184",
+              "value": "Leaf Drain"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.184",
+              "value": "Fujimoto Gold"
+            },
+            {
+              "key": "Game.Master.Card.Name.184",
+              "value": "Dragonair"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.184",
+              "value": "Umbreon Deck (Eevee Grove)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.184",
+              "value": "Mega Sableye ex Deck (Everyday Wonders)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.184",
+              "value": "Extradimensional Crisis: Ultra Beast (cover)"
+            }
+          ]
+        },
+        {
+          "path": "play.attacks[0].nameI18nId",
+          "id": "678",
+          "expectedKeys": [
+            "Game.Master.Attack.Name.678"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "Draconic Whip"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "Fouet Draconien"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "Látigo Dracónico"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "Draconic Whip"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "Draconic Whip"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "Chicote Dracônico"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "龍之鞭打"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "드래곤휩"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Attack.Name.678",
+                "value": "ドラゴンウィップ"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Attack.Name.678",
+              "value": "Draconic Whip"
+            },
+            {
+              "key": "Game.Master.Card.Name.678",
+              "value": "Primarina ex"
+            }
+          ]
+        },
+        {
+          "path": "play.abilities[0].nameI18nId",
+          "id": "156",
+          "expectedKeys": [
+            "Game.Master.Ability.Name.156"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "Dragon's Blessing"
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "Bénédiction du Dragon"
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "Bendición Dragontina"
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "Dragon's Blessing"
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "Dragon's Blessing"
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "Bênção do Dragão"
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "龍恩"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "용의 은혜"
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Ability.Name.156",
+                "value": "りゅうのめぐみ"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Name.156",
+              "value": "Dragon's Blessing"
+            },
+            {
+              "key": "Game.Master.Attack.Description.156",
+              "value": "This attack does [Num:Int id=\"0\" max_length=\"3\"] damage for each Energy attached to your opponent's Active Pokémon."
+            },
+            {
+              "key": "Game.Master.Attack.Name.156",
+              "value": "Primal Wingbeat"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.156",
+              "value": "okayamatakatoshi"
+            },
+            {
+              "key": "Game.Master.Card.Name.156",
+              "value": "Rhyhorn"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.156",
+              "value": "Buzzwole ex Deck (Extradimensional Crisis)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.156",
+              "value": "Bellibolt ex Deck (Paldean Wonders)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.156",
+              "value": "Koraidon ex Deck (Paradox Drive)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.156",
+              "value": "Rowlet (Pokémon coin)"
+            }
+          ]
+        },
+        {
+          "path": "play.abilities[0].descriptionI18nId",
+          "id": "147",
+          "expectedKeys": [
+            "Game.Master.Ability.Description.147"
+          ],
+          "locales": {
+            "en": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "Once during your turn, if this Pokémon is on your Bench, you may attach [Gr:Count s=\"an \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"1\" plural_only=\" \" ]Energy from your discard pile to your Active [Img:Element id=\"1\"] Pokémon."
+              }
+            ],
+            "fr": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "Une fois pendant votre tour, si ce Pokémon est sur votre Banc, vous pouvez attacher [Num:Int plural_only=\"\" ][Gr:Count s=\"une\" ] Énergie[Gr:Count p=\"s\" ] de votre pile de défausse à votre Pokémon[C:Nbsp id=\"0\" ref=\"0\" ][Img:Element id=\"1\" ] Actif."
+              }
+            ],
+            "es": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "Una vez durante tu turno, si este Pokémon está en tu Banca, puedes unir [Num:Int id=\"0\" max_length=\"1\" ] Energía[Gr:Count p=\"s\" ref=\"0\" ] de tu pila de descartes a tu Pokémon [Img:Element id=\"1\" ] Activo."
+              }
+            ],
+            "it": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "Once during your turn, if this Pokémon is on your Bench, you may attach [Gr:Count s=\"an \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"1\" plural_only=\" \" ]Energy from your discard pile to your Active [Img:Element id=\"1\"] Pokémon."
+              }
+            ],
+            "de": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "Once during your turn, if this Pokémon is on your Bench, you may attach [Gr:Count s=\"an \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"1\" plural_only=\" \" ]Energy from your discard pile to your Active [Img:Element id=\"1\"] Pokémon."
+              }
+            ],
+            "pt-br": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "Uma vez durante o seu turno, se este Pokémon estiver no seu Banco, você poderá ligar [Num:Int ] Energia[Gr:Count p=\"s\" ] da sua pilha de descarte ao seu Pokémon [Img:Element id=\"1\" ] Ativo."
+              }
+            ],
+            "zh-tw": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "若這隻寶可夢在備戰區，則在自己的回合時可使用1次。從自己的棄牌區選擇[Num:Int id=\"0\" max_length=\"1\"]個能量，附於戰鬥場的[Img:Element id=\"1\"]寶可夢身上。"
+              }
+            ],
+            "ko": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에서 에너지를 [Num:Int id=\"0\" max_length=\"1\" ]개 선택해서 배틀필드의 [Img:Element id=\"1\" ]포켓몬에게 붙인다."
+              }
+            ],
+            "ja": [
+              {
+                "key": "Game.Master.Ability.Description.147",
+                "value": "このポケモンがベンチにいるなら、自分の番に1回使える。自分のトラッシュからエネルギーを[Num:Int id=\"0\" max_length=\"1\"]個選び、バトル場の[Img:Element id=\"1\"]ポケモンにつける。"
+              }
+            ]
+          },
+          "allEnglishCandidates": [
+            {
+              "key": "Game.Master.Ability.Description.147",
+              "value": "Once during your turn, if this Pokémon is on your Bench, you may attach [Gr:Count s=\"an \" ref=\"0\" ][Num:Int id=\"0\" max_length=\"1\" plural_only=\" \" ]Energy from your discard pile to your Active [Img:Element id=\"1\"] Pokémon."
+            },
+            {
+              "key": "Game.Master.Ability.Name.147",
+              "value": "Soothing Ribbon"
+            },
+            {
+              "key": "Game.Master.Attack.Description.147",
+              "value": "Take [Gr:Count s=\"a \" ref=\"1\" ][Num:Int id=\"1\" plural_only=\" \" ][Img:Element id=\"0\" ] Energy from your Energy Zone and attach it to 1 of your Benched [Text:EvolutionPokemon id=\"2\" ]."
+            },
+            {
+              "key": "Game.Master.Attack.Name.147",
+              "value": "Sleepy Song"
+            },
+            {
+              "key": "Game.Master.Card.Illustrator.147",
+              "value": "tetsuya koizumi"
+            },
+            {
+              "key": "Game.Master.Card.Name.147",
+              "value": "Geodude"
+            },
+            {
+              "key": "Game.Master.Deck.Npc.147",
+              "value": "AlolanPersian Deck (Celestial Guardians)"
+            },
+            {
+              "key": "Game.Master.Deck.Preset.147",
+              "value": "Toxtricity ex Deck (Fantastical Parade)"
+            },
+            {
+              "key": "Game.Master.Deck.Rental.147",
+              "value": "Crustle ex Deck (Pulsing Aura)"
+            },
+            {
+              "key": "Game.Master.Shop.Product.147",
+              "value": "Solgaleo (card sleeve)"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
