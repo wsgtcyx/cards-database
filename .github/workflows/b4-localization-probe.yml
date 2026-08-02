@@ -64,6 +64,12 @@ jobs:
           node .agents/skills/b4-card-localization/scripts/summarize-raenonx-b4.mjs \
             --output meta/pocket-source-reviews/B4.raenonx-summary.json
 
+      - name: Qualify B4 locale message resolution
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          node .agents/skills/b4-card-localization/scripts/qualify-raenonx-b4.mjs \
+            --output meta/pocket-source-reviews/B4.raenonx-qualification.json
+
       - name: Discover and verify PokeOS B4 assets
         if: steps.guard.outputs.skip != 'true'
         shell: bash
@@ -91,6 +97,7 @@ jobs:
             meta/pocket-source-reviews/B4.upstream-probe.json \
             meta/pocket-source-reviews/B4.raenonx-probe.json \
             meta/pocket-source-reviews/B4.raenonx-summary.json \
+            meta/pocket-source-reviews/B4.raenonx-qualification.json \
             meta/pocket-source-reviews/B4.pokeos-discovery.json \
             meta/pocket-source-reviews/B4.pokeos-verification.json \
             meta/pocket-source-reviews/B4.localization-audit.json)" ]]; then
@@ -103,6 +110,7 @@ jobs:
             meta/pocket-source-reviews/B4.upstream-probe.json \
             meta/pocket-source-reviews/B4.raenonx-probe.json \
             meta/pocket-source-reviews/B4.raenonx-summary.json \
+            meta/pocket-source-reviews/B4.raenonx-qualification.json \
             meta/pocket-source-reviews/B4.pokeos-discovery.json \
             meta/pocket-source-reviews/B4.pokeos-verification.json \
             meta/pocket-source-reviews/B4.localization-audit.json
