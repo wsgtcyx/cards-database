@@ -1,0 +1,58 @@
+name: B4 live source inspection
+
+on:
+  push:
+    branches:
+      - agent/b4-localization-pipeline
+    paths:
+      - .github/workflows/b4-live-source-inspection.yml
+      - .github/scripts/inspect-b4-live-sources.mjs
+  workflow_dispatch:
+
+concurrency:
+  group: b4-live-source-inspection
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/b4-localization-pipeline
+          fetch-depth: 0
+
+      - name: Skip report-only commits
+        id: guard
+        shell: bash
+        run: |
+          if git log -1 --pretty=%s | grep -Fq '[skip b4-live-inspection]'; then
+            echo 'skip=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'skip=false' >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Inspect live sources
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          node .github/scripts/inspect-b4-live-sources.mjs \
+            meta/pocket-source-reviews/B4.live-source-inspection.json
+
+      - name: Commit report
+        if: steps.guard.outputs.skip != 'true'
+        shell: bash
+        run: |
+          if [[ -z "$(git status --porcelain -- meta/pocket-source-reviews/B4.live-source-inspection.json)" ]]; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add meta/pocket-source-reviews/B4.live-source-inspection.json
+          git commit -m "[skip b4-live-inspection] Capture B4 live source evidence"
+          git fetch origin agent/b4-localization-pipeline
+          git rebase origin/agent/b4-localization-pipeline
+          git push origin HEAD:agent/b4-localization-pipeline
