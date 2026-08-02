@@ -111,3 +111,5 @@ jobs:
           git fetch origin agent/b4-localization-pipeline
           git rebase origin/agent/b4-localization-pipeline
           git push origin HEAD:agent/b4-localization-pipeline
+
+# This workflow is intentionally branch-pinned while B4 source qualification is in progress.
