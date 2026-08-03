@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/035",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/035",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/035"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/035",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/035"
     },
     name: {
         en: "Charcadet",

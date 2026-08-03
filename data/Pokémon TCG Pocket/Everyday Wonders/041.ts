@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/041",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/041",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/041",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/041"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/041",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/041"
     },
     name: {
         en: "Mega Sableye ex",

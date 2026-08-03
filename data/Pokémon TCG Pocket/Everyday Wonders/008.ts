@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/008",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/008",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/008",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/008"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/008",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/008"
     },
     name: {
         en: "Vulpix",

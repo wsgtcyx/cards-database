@@ -8,7 +8,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2a/124",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/124",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/124",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/124"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/124",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/124"
     },
     name: {
         en: "Tinkatuff",

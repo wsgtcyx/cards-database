@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/025",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/025",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/025",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/025"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/025",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/025"
     },
     name: {
         en: "Jirachi",

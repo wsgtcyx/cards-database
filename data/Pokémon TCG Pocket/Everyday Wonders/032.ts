@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/032",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/032",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/032",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/032"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/032",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/032"
     },
     name: {
         en: "Mega Diancie ex",

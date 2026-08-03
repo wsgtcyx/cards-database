@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4a/014",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/014",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/014",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/014"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/014",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/014"
     },
     name: {
         en: "Poliwhirl",

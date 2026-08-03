@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4a/034",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/034",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/034",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/034"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/034",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/034"
     },
     name: {
         en: "Galarian Corsola",

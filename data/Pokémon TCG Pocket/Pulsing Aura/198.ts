@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/198",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/198",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/198",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/198"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/198",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/198"
     },
     name: {
         en: "Crustle ex",

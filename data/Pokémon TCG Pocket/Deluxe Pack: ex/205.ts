@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/205",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/205",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/205",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/205"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/205",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/205"
     },
     name: {
         en: "Gible",

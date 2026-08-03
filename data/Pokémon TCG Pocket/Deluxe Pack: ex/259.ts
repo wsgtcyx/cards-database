@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/259",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/259",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/259",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/259"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/259",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/259"
 	},
 	name: {
 		en: "Solgaleo ex",

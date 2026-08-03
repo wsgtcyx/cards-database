@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/060",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/060",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/060",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/060"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/060",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/060"
     },
     name: {
         en: "Hisuian Zoroark ex",

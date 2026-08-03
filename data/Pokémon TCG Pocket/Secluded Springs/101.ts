@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4a/101",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/101",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/101",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/101"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/101",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/101"
     },
     name: {
         en: "Infernape ex",

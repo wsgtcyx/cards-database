@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3a/057",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/057",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/057",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/057"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/057",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/057"
     },
     name: {
         en: "Girafarig",

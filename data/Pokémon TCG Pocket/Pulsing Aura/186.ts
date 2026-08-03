@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/186",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/186",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/186",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/186"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/186",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/186"
     },
     name: {
         en: "Zoroark ex",

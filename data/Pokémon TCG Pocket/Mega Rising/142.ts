@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1/142",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/142",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/142",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/142"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/142",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/142"
     },
     name: {
         en: "Bewear",

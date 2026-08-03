@@ -5,7 +5,10 @@ const card: Card = {
     set: Set,
     image: {
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/041",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/041"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/041",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/041",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/041",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/041"
     },
     name: {
         en: "Chien-Pao ex",

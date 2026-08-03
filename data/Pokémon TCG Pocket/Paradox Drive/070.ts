@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3a/070",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/070",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/070",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/070"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/070",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/070"
     },
     name: {
         en: "Future Booster Energy Capsule",

@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/026",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/026",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/026",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/026"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/026",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/026"
     },
     name: {
         en: "Mudkip",

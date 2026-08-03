@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3a/018",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/018",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/018",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/018"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/018",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/018"
     },
     name: {
         en: "Iron Thorns",

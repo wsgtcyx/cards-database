@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/119",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/119",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/119",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/119"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/119",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/119"
     },
     name: {
         en: "Doublade",

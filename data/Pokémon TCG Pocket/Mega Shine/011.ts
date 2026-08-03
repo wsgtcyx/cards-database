@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2b/011",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/011",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/011",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/011"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/011",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/011"
     },
     name: {
         en: "Rapidash",

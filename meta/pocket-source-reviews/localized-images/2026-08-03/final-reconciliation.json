@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "reconciledAt": "2026-08-03T12:57:42+08:00",
+  "runId": "2026-08-03",
+  "fallbackManifest": {
+    "file": "meta/pocket-image-fallbacks.json",
+    "sha256": "29e47ccc71d34f0ba18728cb3161f6537f1898c33cb5438ac0dcabe8cc5ee4bf",
+    "entries": 44,
+    "byLocale": { "de": 22, "it": 22 }
+  },
+  "r2": {
+    "manifestFile": "r2-manifest.json",
+    "verifyFile": "r2-verify.json",
+    "verifiedObjects": 4246,
+    "verifyStatus": "ok",
+    "verifyFailures": 0,
+    "preflightFile": "r2-preflight.json",
+    "preflightStatus": "ok"
+  },
+  "receipt": {
+    "file": "apply-receipt.json",
+    "previousRemainingFallbackObjectEntries": 1996,
+    "reconciledRemainingFallbackObjectEntries": 44,
+    "status": "reconciled"
+  },
+  "scope": {
+    "localizedSource": "RaenonX",
+    "pokeOS": "validation-only; not used as a localized image resolver",
+    "englishFallbacksRetained": true
+  },
+  "note": "Historical phase artifacts predate digest binding. The sync script now rejects unbound artifacts and requires a fresh audit/download/prepare/preflight/verify chain before apply.",
+  "artifactSha256": "1ba81a4b48c4664fb5173cb0a54c9fb73e1b7b1d5cd28a227ffca661d505e860"
+}

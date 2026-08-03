@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/020",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/020",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/020",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/020"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/020",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/020"
 	},
 	name: {
 		en: "Yanma",

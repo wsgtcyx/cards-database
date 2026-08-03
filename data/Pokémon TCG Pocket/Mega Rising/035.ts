@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1/035",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/035",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/035"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/035",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/035"
     },
     name: {
         en: "Blaziken",

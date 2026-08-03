@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3a/011",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/011",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/011",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/011"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/011",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/011"
     },
     name: {
         en: "Snom",

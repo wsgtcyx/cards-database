@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/099",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/099",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/099"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/099",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/099"
     },
     name: {
         en: "Golbat",

@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/045",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/045",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/045",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/045"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/045",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/045"
     },
     name: {
         en: "Pheromosa",

@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/035",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/035",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/035"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/035",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/035"
     },
     name: {
         en: "Swampert",

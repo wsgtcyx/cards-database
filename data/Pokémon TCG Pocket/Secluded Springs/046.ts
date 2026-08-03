@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4a/046",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/046",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/046",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/046"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/046",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/046"
     },
     name: {
         en: "Dwebble",

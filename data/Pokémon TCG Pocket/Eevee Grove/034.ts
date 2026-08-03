@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A3b/034",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/034",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/034",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/034"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/034",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/034"
     },
     name: {
         en: "Sylveon ex",

@@ -7,7 +7,9 @@ const card: Card = {
         en: "https://game.pokemontcgpocket.app/en/tcgp/B2a/068",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2a/068",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/068",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/068"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/068",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/068",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/068"
     },
     name: {
         en: "Mabosstiff",

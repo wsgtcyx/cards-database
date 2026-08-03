@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/103",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/103",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/103",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/103"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/103",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/103"
 	},
 	name: {
 		en: "Poliwag",

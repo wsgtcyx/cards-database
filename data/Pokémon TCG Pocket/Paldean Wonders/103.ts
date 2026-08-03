@@ -8,7 +8,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2a/103",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/103",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/103",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/103"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/103",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/103"
     },
     name: {
         en: "Bellibolt",

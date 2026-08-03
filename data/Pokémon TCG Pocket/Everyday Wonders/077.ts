@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/077",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/077",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/077",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/077"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/077",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/077"
     },
     name: {
         en: "Greedent",

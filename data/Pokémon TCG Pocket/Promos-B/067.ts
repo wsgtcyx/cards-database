@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/067",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/067",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/067",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/067"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/067",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/067"
     },
     name: {
         en: "Pawniard",

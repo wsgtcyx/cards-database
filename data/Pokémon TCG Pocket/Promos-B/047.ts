@@ -5,7 +5,10 @@ const card: Card = {
     set: Set,
     image: {
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/047",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/047"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/047",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/047",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/047",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/047"
     },
     name: {
         en: "Gastly",

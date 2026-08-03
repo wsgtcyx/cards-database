@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/070",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/070",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/070",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/070"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/070",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/070"
     },
     name: {
         en: "Meloetta",

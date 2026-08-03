@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1a/084",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1a/084",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/084",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/084"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/084",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/084"
     },
     name: {
         en: "Mega Blastoise ex",

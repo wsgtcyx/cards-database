@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/098",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/098",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/098",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/098"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/098",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/098"
     },
     name: {
         en: "Galarian Zigzagoon",

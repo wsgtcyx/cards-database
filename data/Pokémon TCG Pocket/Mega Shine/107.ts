@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2b/107",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/107",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/107",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/107"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/107",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/107"
     },
     name: {
         en: "Dragonite",

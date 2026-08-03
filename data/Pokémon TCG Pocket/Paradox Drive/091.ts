@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3a/091",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/091",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/091",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/091"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/091",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/091"
     },
     name: {
         en: "Flutter Mane ex",

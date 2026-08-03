@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A3b/013",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/013",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/013",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/013"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/013",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/013"
     },
     name: {
         en: "Incineroar",

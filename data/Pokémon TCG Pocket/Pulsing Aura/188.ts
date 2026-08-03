@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/188",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/188",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/188",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/188"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/188",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/188"
     },
     name: {
         en: "Flygon ex",

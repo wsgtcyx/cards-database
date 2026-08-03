@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/204",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/204",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/204",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/204"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/204",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/204"
     },
     name: {
         en: "Meowth",

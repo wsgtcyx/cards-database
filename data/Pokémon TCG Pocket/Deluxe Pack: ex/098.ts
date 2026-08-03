@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/098",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/098",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/098",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/098"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/098",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/098"
     },
     name: {
         en: "Gyarados ex",

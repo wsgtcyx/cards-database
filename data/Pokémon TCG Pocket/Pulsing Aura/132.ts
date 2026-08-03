@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/132",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/132",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/132",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/132"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/132",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/132"
     },
     name: {
         en: "Ursaring",

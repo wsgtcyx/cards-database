@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-08-03",
+  "method": "native-image-understanding-spot-check",
+  "scope": "Representative source-backed localized card images; full batch is governed by source URL, PNG signature, SHA-256, R2 hash verification, and exact set/number joins.",
+  "samples": [
+    {
+      "cardId": "A3b-001",
+      "locale": "pt",
+      "sourceLocale": "pt",
+      "sourceUrl": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/pt/PK_10_007970_00.png",
+      "observed": "Portuguese card title and Portuguese attack/rules text are visible; artwork and card number correspond to Tropius."
+    },
+    {
+      "cardId": "B2a-068",
+      "locale": "fr",
+      "sourceLocale": "fr",
+      "sourceUrl": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/fr/PK_10_015770_00.png",
+      "observed": "French title Dogrino, evolution line, attack title and rules text are visible; artwork and card number correspond to Mabosstiff."
+    },
+    {
+      "cardId": "P-A-109",
+      "locale": "zh-TW",
+      "sourceLocale": "zh",
+      "sourceUrl": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/zh/PK_90_008480_00.png",
+      "observed": "繁體中文卡名、特性、招式與卡面編號可見；插畫與伊布 ex 對應。"
+    }
+  ]
+}

@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/108",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/108",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/108",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/108"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/108",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/108"
 	},
 	name: {
 		en: "Phanpy",

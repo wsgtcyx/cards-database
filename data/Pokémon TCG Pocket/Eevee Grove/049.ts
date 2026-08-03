@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A3b/049",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/049",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/049",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/049"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/049",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/049"
     },
     name: {
         en: "Meltan",

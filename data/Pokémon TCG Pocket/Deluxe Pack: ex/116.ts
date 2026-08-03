@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/116",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/116",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/116",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/116"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/116",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/116"
 	},
 	name: {
 		en: "Popplio",

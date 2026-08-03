@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/205",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/205",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/205",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/205"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/205",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/205"
     },
     name: {
         en: "Cottonee",

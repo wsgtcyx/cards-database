@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1/001",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/001",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/001",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/001"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/001",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/001"
     },
     name: {
         en: "Pinsir",

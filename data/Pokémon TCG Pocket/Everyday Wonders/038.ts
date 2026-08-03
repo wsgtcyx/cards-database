@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/038",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/038",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/038",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/038"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/038",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/038"
     },
     name: {
         en: "Rockruff",

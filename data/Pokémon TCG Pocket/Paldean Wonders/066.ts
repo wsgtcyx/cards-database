@@ -8,7 +8,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2a/066",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/066",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/066",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/066"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/066",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/066"
     },
     name: {
         en: "Lokix",

@@ -7,7 +7,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/317",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/317",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/317",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/317"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/317",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/317"
 	},
 	name: {
         en: "Pokémon Communication",

@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1a/033",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1a/033",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/033",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/033"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/033",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/033"
     },
     name: {
         en: "Duosion",

@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/094",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/094",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/094",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/094"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/094",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/094"
     },
     name: {
         en: "Alolan Meowth",

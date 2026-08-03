@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/130",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/130",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/130",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/130"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/130",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/130"
     },
     name: {
         en: "Dunsparce",

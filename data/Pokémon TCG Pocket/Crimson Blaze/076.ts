@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1a/076",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1a/076",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/076",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/076"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/076",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/076"
     },
     name: {
         en: "Mega Venusaur ex",

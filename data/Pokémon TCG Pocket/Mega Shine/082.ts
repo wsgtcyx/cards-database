@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2b/082",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2b/082",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2b/082",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/082"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2b/082",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2b/082"
     },
     name: {
         en: "Calem",

@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4a/072",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/072",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/072",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/072"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/072",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/072"
     },
     name: {
         en: "Milotic",

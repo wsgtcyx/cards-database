@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/015",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/015",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/015",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/015"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/015",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/015"
     },
     name: {
         en: "Mareep",

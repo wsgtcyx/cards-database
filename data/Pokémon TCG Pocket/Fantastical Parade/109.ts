@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/109",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/109",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/109",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/109"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/109",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/109"
     },
     name: {
         en: "Guzzlord",

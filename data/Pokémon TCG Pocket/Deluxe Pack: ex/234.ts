@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/234",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/234",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/234",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/234"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/234",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/234"
     },
     name: {
         en: "Alolan Grimer",

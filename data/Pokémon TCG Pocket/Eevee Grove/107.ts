@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A3b/107",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/107",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/107",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/107"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/107",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/107"
     },
     name: {
         en: "Eevee Bag",

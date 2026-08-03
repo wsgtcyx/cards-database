@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/107",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/107",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/107",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/107"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/107",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/107"
 	},
 	name: {
 		en: "Miltank",

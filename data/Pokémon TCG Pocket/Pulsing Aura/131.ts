@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/131",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/131",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/131",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/131"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/131",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/131"
     },
     name: {
         en: "Teddiursa",

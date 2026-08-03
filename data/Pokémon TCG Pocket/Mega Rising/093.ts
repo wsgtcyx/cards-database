@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1/093",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/093",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/093",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/093"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/093",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/093"
     },
     name: {
         en: "Galvantula",

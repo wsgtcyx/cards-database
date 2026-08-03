@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1/183",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/183",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/183",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/183"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/183",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/183"
     },
     name: {
         en: "Tauros ex",

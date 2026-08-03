@@ -5,7 +5,10 @@ const card: Card = {
     set: Set,
     image: {
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/060",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/060"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/060",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/060",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/060",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/060"
     },
     name: {
         en: "Zarude",

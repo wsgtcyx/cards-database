@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B1a/077",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1a/077",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1a/077",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/077"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1a/077",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1a/077"
     },
     name: {
         en: "Mega Charizard Y ex",

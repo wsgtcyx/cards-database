@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/023",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/023",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/023",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/023"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/023",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/023"
     },
     name: {
         en: "Genesect",

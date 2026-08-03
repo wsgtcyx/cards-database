@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3a/102",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3a/102",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3a/102",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/102"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3a/102",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3a/102"
     },
     name: {
         en: "Swablu",

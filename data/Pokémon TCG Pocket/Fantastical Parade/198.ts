@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/198",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/198",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/198",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/198"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/198",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/198"
     },
     name: {
         en: "Toxtricity ex",

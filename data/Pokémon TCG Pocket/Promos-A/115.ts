@@ -4,7 +4,11 @@ import Set from "../Promos-A";
 const card: Card = {
 	set: Set,
 	image: {
-		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/115"
+		en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/115",
+		fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/115",
+		es: "https://game.pokemontcgpocket.app/es/tcgp/P-A/115",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/115",
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/115"
 	},
 	name: {
 		en: "Regigigas",

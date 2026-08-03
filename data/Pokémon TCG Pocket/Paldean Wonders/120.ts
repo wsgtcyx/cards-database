@@ -8,7 +8,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2a/120",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/120",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/120",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/120"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/120",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/120"
     },
     name: {
         en: "Pawmo",

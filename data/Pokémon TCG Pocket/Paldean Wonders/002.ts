@@ -8,7 +8,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2a/002",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2a/002",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2a/002",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/002"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2a/002",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/002"
     },
     name: {
         en: "Floragato",

@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/284",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/284",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/284",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/284"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/284",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/284"
 	},
 	name: {
 		en: "Lickilicky ex",

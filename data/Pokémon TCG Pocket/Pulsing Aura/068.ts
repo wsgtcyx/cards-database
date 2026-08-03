@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3/068",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3/068",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3/068",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/068"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3/068",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3/068"
     },
     name: {
         en: "Oricorio",

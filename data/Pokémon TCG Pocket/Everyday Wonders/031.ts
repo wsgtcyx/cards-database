@@ -9,7 +9,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B3b/031",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B3b/031",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B3b/031",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/031"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B3b/031",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/031"
     },
     name: {
         en: "Carbink",

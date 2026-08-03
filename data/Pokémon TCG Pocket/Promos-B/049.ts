@@ -5,7 +5,10 @@ const card: Card = {
     set: Set,
     image: {
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/049",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/049"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/049",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/049",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/049",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/049"
     },
     name: {
         en: "Victini",

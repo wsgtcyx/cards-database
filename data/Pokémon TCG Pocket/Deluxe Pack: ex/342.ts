@@ -9,7 +9,8 @@ const card: Card = {
 		es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/342",
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/342",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/342",
-		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/342"
+		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/342",
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/342"
 	},
 	name: {
 		en: "Dawn",

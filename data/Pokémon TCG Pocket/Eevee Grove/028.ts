@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A3b/028",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/028",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/028",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/028"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/028",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/028"
     },
     name: {
         en: "Espeon",

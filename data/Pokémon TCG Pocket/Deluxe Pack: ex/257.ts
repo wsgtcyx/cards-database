@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/A4b/257",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/257",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/257",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/257"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/257",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/257"
     },
     name: {
         en: "Klefki",

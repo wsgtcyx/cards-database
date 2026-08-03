@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/174",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/174",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/174",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/174"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/174",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/174"
     },
     name: {
         en: "Purrloin",

@@ -7,7 +7,8 @@ const card: Card = {
         es: "https://game.pokemontcgpocket.app/es/tcgp/B2/211",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/211",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/211",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/211"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/211",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/211"
     },
     name: {
         en: "Omanyte",
