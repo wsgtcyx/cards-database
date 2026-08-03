@@ -12,10 +12,10 @@ const card: Card = {
 	},
 	name: {
         en: "Slurpuff",
-        "fr": "Slurpuff",
-        "es": "sorbete",
+        "fr": "Cupcanaille",
+        "es": "Slurpuff",
         "it": "Slurpuff",
-        "de": "Slurpuff",
+        "de": "Sabbaione",
         "pt-br": "Slurpuff",
         "zh-tw": "胖甜妮",
     },

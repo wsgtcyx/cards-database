@@ -15,9 +15,9 @@ const card: Card = {
         "fr": "Mélodelfe",
         "es": "Clefable",
         "it": "Clefable",
-        "de": "Schlüsselbar",
-        "pt-br": "Clefável",
-        "zh-tw": "克萊夫布爾"
+        "de": "Pixi",
+        "pt-br": "Clefable",
+        "zh-tw": "皮可西"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

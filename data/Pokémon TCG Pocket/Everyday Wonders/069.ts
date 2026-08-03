@@ -13,7 +13,7 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B3b/069"
     },
     name: {
-        en: "Kid’s Room",
+        en: "Kid's Room",
         fr: "Chambre d'Enfant",
         es: "Habitación Infantil",
         it: "Cameretta",

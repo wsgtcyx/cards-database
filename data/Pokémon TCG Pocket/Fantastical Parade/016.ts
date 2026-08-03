@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Eldegoss",
-        "fr": "Eldegoss",
+        "fr": "Blancoton",
         "es": "Eldegoss",
         "it": "Eldegoss",
-        "de": "Eldegoss",
+        "de": "Cottomi",
         "pt-br": "Eldegoss",
-        "zh-tw": "埃爾德戈斯"
+        "zh-tw": "白蓬蓬"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",

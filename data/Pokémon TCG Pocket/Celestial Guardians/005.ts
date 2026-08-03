@@ -18,7 +18,7 @@ const card: Card = {
         de: "Maracamba",
         'pt-br': "Maractus",
         ko: "마라카치",
-        "zh-tw": "街頭沙鈴",
+        "zh-tw": "沙鈴仙人掌",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

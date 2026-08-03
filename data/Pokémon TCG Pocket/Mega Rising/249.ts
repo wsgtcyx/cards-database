@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Stoutland",
-        "fr": "Pays robuste",
-        "es": "Tierra robusta",
+        "fr": "Mastouffe",
+        "es": "Stoutland",
         "it": "Stoutland",
-        "de": "Stoutland",
+        "de": "Bissbark",
         "pt-br": "Stoutland",
         "zh-tw": "長毛狗",
     },

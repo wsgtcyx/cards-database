@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Cornerstone Mask Ogerpon",
-        "fr": "Masque Pierre angulaire Ogerpon",
-        "es": "Máscara de piedra angular Ogerpon",
+        "fr": "Ogerpon Masque de la Pierre",
+        "es": "Ogerpon Máscara Cimiento",
         "it": "Maschera della pietra angolare Ogerpon",
         "de": "Ecksteinmaske Ogerpon",
-        "pt-br": "Máscara da Pedra Angular Ogerpon",
-        "zh-tw": "基石面具奧傑彭"
+        "pt-br": "Ogerpon Máscara Alicerce",
+        "zh-tw": "厄鬼椪礎石面具"
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Doublade",
-        "fr": "Doublade",
-        "es": "doble hoja",
-        "it": "Doppia lama",
-        "de": "Doublade",
-        "pt-br": "Lâmina Dupla",
-        "zh-tw": "雙刃"
+        "fr": "Dimoclès",
+        "es": "Doublade",
+        "it": "Doublade",
+        "de": "Duokles",
+        "pt-br": "Doublade",
+        "zh-tw": "雙劍鞘"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

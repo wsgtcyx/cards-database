@@ -18,7 +18,7 @@ const card: Card = {
         de: "Zwirrlicht",
         'pt-br': "Duskull",
         ko: "해골몽",
-        "zh-tw": "夜骷顱",
+        "zh-tw": "夜巡靈",
     },
     illustrator: "ryoma uratsuka",
     rarity: "One Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Ferroseed",
-        "fr": "Graine de fer",
-        "es": "Ferrosa",
-        "it": "Ferroseme",
-        "de": "Ferroseed",
-        "pt-br": "Ferrosemente",
-        "zh-tw": "鐵玫瑰"
+        "fr": "Grindur",
+        "es": "Ferroseed",
+        "it": "Ferroseed",
+        "de": "Kastadur",
+        "pt-br": "Ferroseed",
+        "zh-tw": "種子鐵球"
     },
     illustrator: "Satoshi Shirai",
     rarity: "One Diamond",

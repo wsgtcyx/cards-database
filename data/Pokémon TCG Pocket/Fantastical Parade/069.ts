@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Chandelure",
-        "fr": "Lustre",
-        "es": "candelabro",
-        "it": "Lampadario",
-        "de": "Kronleuchter",
-        "pt-br": "Lustre",
-        "zh-tw": "枝形吊燈"
+        "fr": "Lugulabre",
+        "es": "Chandelure",
+        "it": "Chandelure",
+        "de": "Skelabra",
+        "pt-br": "Chandelure",
+        "zh-tw": "水晶燈火靈"
     },
     illustrator: "Naoyo Kimura",
     rarity: "Three Diamond",

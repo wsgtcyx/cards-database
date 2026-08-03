@@ -13,11 +13,11 @@ const card: Card = {
     name: {
         en: "Roselia",
         "fr": "Rosélia",
-        "es": "rosalia",
+        "es": "Roselia",
         "it": "Roselia",
         "de": "Roselia",
-        "pt-br": "Rosélia",
-        "zh-tw": "羅塞利亞"
+        "pt-br": "Roselia",
+        "zh-tw": "毒薔薇"
     },
     illustrator: "Hajime Kusajima",
     rarity: "One Diamond",

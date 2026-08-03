@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Crawdaunt",
-        "fr": "Crawdaunt",
+        "fr": "Colhomard",
         "es": "Crawdaunt",
         "it": "Crawdaunt",
-        "de": "Crawdaunt",
+        "de": "Krebutack",
         "pt-br": "Crawdaunt",
         "zh-tw": "鐵螯龍蝦",
     },

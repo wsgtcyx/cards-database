@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Espeon ex",
-        "fr": "Espeon ex",
+        "fr": "Mentali-ex",
         "es": "Espeon ex",
-        "it": "Espeon es",
-        "de": "Espeon ex",
+        "it": "Espeon-ex",
+        "de": "Psiana-ex",
         "pt-br": "Espeon ex",
-        "zh-tw": "埃斯彭EX"
+        "zh-tw": "太陽伊布ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

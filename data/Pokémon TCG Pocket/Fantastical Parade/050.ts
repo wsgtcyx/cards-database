@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Raichu d'Alola",
         "es": "Raichu de Alola",
         "it": "Raichu di Alola",
-        "de": "Alolan Raichu",
+        "de": "Alola-Raichu",
         "pt-br": "Raichu de Alola",
         "zh-tw": "阿羅拉雷丘"
     },

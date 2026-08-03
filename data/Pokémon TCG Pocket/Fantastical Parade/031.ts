@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Galarian Mr. Rime",
-        "fr": "Galarien M. Rime",
-        "es": "Sr. Rime de Galar",
-        "it": "Il signor Brina di Galar",
-        "de": "Galarischer Mr. Rime",
-        "pt-br": "Galarian Sr.",
-        "zh-tw": "伽勒安·萊姆先生"
+        "fr": "M. Glaquette de Galar",
+        "es": "Mr. Rime de Galar",
+        "it": "Mr. Rime di Galar",
+        "de": "Galar-Pantifrost",
+        "pt-br": "Mr. Rime de Galar",
+        "zh-tw": "伽勒爾踏冰人偶"
     },
     illustrator: "Naoki Saito",
     rarity: "Two Diamond",

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Ramoth",
         'pt-br': "Volcarona",
         ko: "불카모스",
-        "zh-tw": "火神蟲",
+        "zh-tw": "火神蛾",
     },
     illustrator: "DOM",
     category: "Pokemon",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Morgrem",
-        "fr": "Morgrem",
+        "fr": "Fourbelin",
         "es": "Morgrem",
         "it": "Morgrem",
-        "de": "Morgrem",
+        "de": "Pelzebub",
         "pt-br": "Morgrem",
         "zh-tw": "詐唬魔",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Peculiar Plaza",
-        "fr": "Place particulière",
+        "fr": "Place Étrange",
         "es": "Plaza Peculiar",
-        "it": "Piazza peculiare",
-        "de": "Eigenartiger Platz",
+        "it": "Piazza Arcana",
+        "de": "Geheimnisvoller Platz",
         "pt-br": "Praça Peculiar",
-        "zh-tw": "奇特廣場"
+        "zh-tw": "神奇廣場"
     },
     illustrator: "AYUMI ODASHIMA",
     rarity: "Two Diamond",

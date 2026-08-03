@@ -18,7 +18,7 @@ const card: Card = {
         de: "Galagladi-ex",
         'pt-br': "Gallade ex",
         ko: "엘레이드 ex",
-        "zh-tw": "艾路雷朵 ex",
+        "zh-tw": "艾路雷朵ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

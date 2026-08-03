@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Dragonite ex",
-        "fr": "Dragonite ex",
-        "es": "Dragonita ex",
-        "it": "Dragonite ex",
-        "de": "Dragonite ex",
-        "pt-br": "Ex-dragonita",
-        "zh-tw": "快龍 ex",
+        "fr": "Dracolosse-ex",
+        "es": "Dragonite ex",
+        "it": "Dragonite-ex",
+        "de": "Dragoran-ex",
+        "pt-br": "Dragonite ex",
+        "zh-tw": "快龍ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",
@@ -56,10 +56,6 @@ const card: Card = {
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
                 "zh-tw": "在你的下一個回合中，這只神奇寶貝無法攻擊。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 2
 };

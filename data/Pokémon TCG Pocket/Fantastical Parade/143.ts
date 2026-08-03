@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Maushold",
-        "fr": "Maushold",
+        "fr": "Famignol",
         "es": "Maushold",
         "it": "Maushold",
-        "de": "Maushold",
+        "de": "Famieps",
         "pt-br": "Maushold",
-        "zh-tw": "莫霍德"
+        "zh-tw": "一家鼠"
     },
     illustrator: "MINAMINAMI Take",
     rarity: "Two Diamond",

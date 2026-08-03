@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Totodile",
-        "fr": "Totodile",
-        "es": "totodile",
+        "fr": "Kaiminus",
+        "es": "Totodile",
         "it": "Totodile",
-        "de": "Totodile",
+        "de": "Karnimani",
         "pt-br": "Totodile",
         "zh-tw": "小鋸鱷",
     },

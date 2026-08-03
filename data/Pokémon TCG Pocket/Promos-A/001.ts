@@ -18,7 +18,7 @@ const card: Card = {
         de: "Trank",
         'pt-br': "Poção",
         ko: "상처약",
-        "zh-tw": "藥水"
+        "zh-tw": "傷藥"
     },
     illustrator: "5ban Graphics",
     rarity: "None",

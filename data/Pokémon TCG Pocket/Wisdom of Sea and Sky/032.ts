@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Magby",
         "de": "Magby",
         "pt-br": "Magby",
-        "zh-tw": "小鴨嘴龍",
+        "zh-tw": "鴨嘴寶寶",
     },
     illustrator: "Yukiko Baba",
     rarity: "Three Diamond",
@@ -53,10 +53,6 @@ const card: Card = {
                 "pt-br": "Pegue uma Energia {R} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco.",
                 "zh-tw": "從你的能量區取出一個{R}能量並將其附加到你的1只後備基礎神奇寶貝上。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0,
     boosters: ["ho-oh"]

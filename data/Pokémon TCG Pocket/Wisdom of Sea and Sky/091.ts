@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Musharna",
-        "fr": "Musharna",
+        "fr": "Mushana",
         "es": "Musharna",
         "it": "Musharna",
-        "de": "Musharna",
+        "de": "Somnivora",
         "pt-br": "Musharna",
         "zh-tw": "夢夢蝕",
     },

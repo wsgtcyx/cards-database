@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Krookodile",
         "fr": "Crocorible",
-        "es": "krookodile",
+        "es": "Krookodile",
         "it": "Krookodile",
-        "de": "Krookodile",
-        "pt-br": "Crookodile",
+        "de": "Rabigator",
+        "pt-br": "Krookodile",
         "zh-tw": "流氓鱷",
     },
     illustrator: "Naoki Saito",

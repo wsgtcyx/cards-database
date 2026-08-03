@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Sightseer",
-        "fr": "Touriste",
-        "es": "Turista",
-        "it": "Turista",
-        "de": "Touristen",
-        "pt-br": "Turista",
-        "zh-tw": "觀光者"
+        "fr": "Vacancière",
+        "es": "Veraneante",
+        "it": "Vacanziera",
+        "de": "Urlauberin",
+        "pt-br": "Excursionista",
+        "zh-tw": "觀光客"
     },
     illustrator: "yuu",
     rarity: "Two Diamond",

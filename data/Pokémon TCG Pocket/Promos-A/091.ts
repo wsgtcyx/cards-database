@@ -14,10 +14,10 @@ const card: Card = {
     name: {
         en: "Greedent",
         es: "Greedent",
-        "fr": "Greedent",
+        "fr": "Rongrigou",
         "it": "Greedent",
-        "de": "Greedent",
-        "pt-br": "Ganancioso",
+        "de": "Schlaraffel",
+        "pt-br": "Greedent",
         "zh-tw": "藏飽栗鼠",
     },
     illustrator: "HYOGONOSUKE",

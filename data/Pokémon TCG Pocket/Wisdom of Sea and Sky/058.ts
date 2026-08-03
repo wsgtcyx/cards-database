@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Mantine",
-        "fr": "Mantine",
-        "es": "mantina",
+        "fr": "Démanta",
+        "es": "Mantine",
         "it": "Mantine",
-        "de": "Mantine",
+        "de": "Mantax",
         "pt-br": "Mantine",
         "zh-tw": "巨翅飛魚",
     },

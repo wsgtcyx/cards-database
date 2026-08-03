@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Corviknight",
         "fr": "Corvaillus",
-        "es": "noche de corvik",
+        "es": "Corviknight",
         "it": "Corviknight",
-        "de": "Corviknight",
-        "pt-br": "Noite de Corvik",
+        "de": "Krarmor",
+        "pt-br": "Corviknight",
         "zh-tw": "鋼鎧鴉",
     },
     illustrator: "hncl",

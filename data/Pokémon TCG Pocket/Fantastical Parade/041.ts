@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Amaura",
-        "fr": "Amaura",
+        "fr": "Amagara",
         "es": "Amaura",
         "it": "Amaura",
-        "de": "Amaura",
+        "de": "Amarino",
         "pt-br": "Amaura",
-        "zh-tw": "阿莫拉"
+        "zh-tw": "冰雪龍"
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Bagon",
-        "fr": "Bagon",
-        "es": "bagón",
-        "it": "Bagón",
-        "de": "Bagon",
-        "pt-br": "Bagão",
-        "zh-tw": "巴貢"
+        "fr": "Draby",
+        "es": "Bagon",
+        "it": "Bagon",
+        "de": "Kindwurm",
+        "pt-br": "Bagon",
+        "zh-tw": "寶貝龍"
     },
     illustrator: "sui",
     rarity: "One Diamond",
@@ -46,10 +46,6 @@ const card: Card = {
             },
             damage: 20,
             cost: ["Colorless"]
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 1
 };

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Jaw Fossil",
-        "fr": "Fossile de mâchoire",
-        "es": "Fósil de mandíbula",
-        "it": "Mascella fossile",
+        "fr": "Fossile Mâchoire",
+        "es": "Fósil Mandíbula",
+        "it": "Fossilmascella",
         "de": "Kieferfossil",
-        "pt-br": "Fóssil de mandíbula",
-        "zh-tw": "下頜化石"
+        "pt-br": "Fóssil de Mandíbula",
+        "zh-tw": "顎之化石"
     },
     illustrator: "Toyste Beach",
     rarity: "One Diamond",

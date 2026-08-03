@@ -18,7 +18,7 @@ const card: Card = {
         de: "Furnifraß",
         'pt-br': "Heatmor",
         ko: "앤티골",
-        "zh-tw": "食蟻爐",
+        "zh-tw": "熔蟻獸",
     },
     illustrator: "Suwama Chiaki",
     category: "Pokemon",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Persian",
-        "fr": "persan",
-        "es": "persa",
-        "it": "persiano",
-        "de": "persisch",
-        "pt-br": "persa",
-        "zh-tw": "波斯語"
+        "fr": "Persian",
+        "es": "Persian",
+        "it": "Persian",
+        "de": "Snobilikat",
+        "pt-br": "Persian",
+        "zh-tw": "貓老大"
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",

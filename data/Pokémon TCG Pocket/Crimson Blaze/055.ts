@@ -12,11 +12,11 @@ const card: Card = {
     },
     name: {
         en: "Ditto",
-        "fr": "Idem",
-        "es": "Ídem",
-        "it": "Idem",
-        "de": "Dito",
-        "pt-br": "Idem",
+        "fr": "Métamorph",
+        "es": "Ditto",
+        "it": "Ditto",
+        "de": "Ditto",
+        "pt-br": "Ditto",
         "zh-tw": "百變怪"
     },
     illustrator: "Yuka Morii",

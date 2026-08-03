@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Indeedee",
-        "fr": "En effet",
-        "es": "De hecho",
-        "it": "Effettivamente",
-        "de": "Tatsächlich",
-        "pt-br": "De fato",
-        "zh-tw": "確實"
+        "fr": "Wimessir",
+        "es": "Indeedee",
+        "it": "Indeedee",
+        "de": "Servol",
+        "pt-br": "Indeedee",
+        "zh-tw": "愛管侍"
     },
     illustrator: "saino misaki",
     rarity: "One Star",

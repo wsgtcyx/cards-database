@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Blastoise ex",
-        "fr": "Méga-Tortank ex",
-        "es": "Mega Blastoise ex",
-        "it": "Mega Blastoise ex",
-        "de": "Mega-Turtok ex",
+        "fr": "Méga-Tortank-ex",
+        "es": "Mega-Blastoise ex",
+        "it": "Mega Blastoise-ex",
+        "de": "Mega-Turtok-ex",
         "pt-br": "Mega Blastoise ex",
-        "zh-tw": "超級水箭龜 ex"
+        "zh-tw": "超級水箭龜ex"
     },
     illustrator: "Kazumasa Yasukuni",
     rarity: "Two Star",

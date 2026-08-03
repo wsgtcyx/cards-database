@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Pangoro",
-        "fr": "Pangoro",
+        "fr": "Pandarbare",
         "es": "Pangoro",
         "it": "Pangoro",
-        "de": "Pangoro",
+        "de": "Pandagro",
         "pt-br": "Pangoro",
         "zh-tw": "流氓熊貓",
     },

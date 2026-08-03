@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Boltund",
-        "fr": "Boltund",
+        "fr": "Fulgudog",
         "es": "Boltund",
         "it": "Boltund",
-        "de": "Boltund",
+        "de": "Bellektro",
         "pt-br": "Boltund",
         "zh-tw": "逐電犬",
     },

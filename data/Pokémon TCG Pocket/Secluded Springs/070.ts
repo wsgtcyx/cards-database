@@ -12,11 +12,11 @@ const card: Card = {
     },
     name: {
         en: "Traveling Merchant",
-        "fr": "Marchand ambulant",
-        "es": "Comerciante ambulante",
-        "it": "Mercante ambulante",
-        "de": "Reisender Kaufmann",
-        "pt-br": "Comerciante Viajante",
+        "fr": "Marchande Ambulante",
+        "es": "Mercader Ambulante",
+        "it": "Venditrice Itinerante",
+        "de": "Reisende Händlerin",
+        "pt-br": "Mercadora Viajante",
         "zh-tw": "旅行商人"
     },
     illustrator: "GOSSAN",

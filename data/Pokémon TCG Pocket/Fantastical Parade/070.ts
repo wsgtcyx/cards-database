@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Meloetta",
-        "fr": "Méloetta",
-        "es": "meloeta",
+        "fr": "Meloetta",
+        "es": "Meloetta",
         "it": "Meloetta",
         "de": "Meloetta",
-        "pt-br": "Meloeta",
-        "zh-tw": "梅洛埃塔"
+        "pt-br": "Meloetta",
+        "zh-tw": "美洛耶塔"
     },
     illustrator: "REND",
     rarity: "Two Diamond",

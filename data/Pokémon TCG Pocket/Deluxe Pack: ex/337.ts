@@ -12,11 +12,11 @@ const card: Card = {
 	},
 	name: {
         en: "Silver",
-        "fr": "Argent",
+        "fr": "Silver",
         "es": "Plata",
         "it": "Argento",
         "de": "Silber",
-        "pt-br": "Prata",
+        "pt-br": "Silver",
         "zh-tw": "小銀",
     },
     illustrator: "Hideki Ishikawa",

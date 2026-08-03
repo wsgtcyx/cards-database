@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Kangaskhan ex",
-        "fr": "Ex-Méga Kangaskhan",
-        "es": "Mega Kangaskhan ex",
-        "it": "Mega Kangaskhan es",
-        "de": "Mega Kangaskhan ex",
-        "pt-br": "Ex de Mega Kangaskhan",
-        "zh-tw": "巨型袋鼠前"
+        "fr": "Méga-Kangourex-ex",
+        "es": "Mega-Kangaskhan ex",
+        "it": "Mega Kangaskhan-ex",
+        "de": "Mega-Kangama-ex",
+        "pt-br": "Mega Kangaskhan ex",
+        "zh-tw": "超級袋獸ex"
     },
     illustrator: "hncl",
     rarity: "Two Star",

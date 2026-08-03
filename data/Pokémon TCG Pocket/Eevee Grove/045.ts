@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Purrloin",
-        "fr": "Pourrondi",
-        "es": "ronroneo",
+        "fr": "Chacripan",
+        "es": "Purrloin",
         "it": "Purrloin",
-        "de": "Schnurren",
+        "de": "Felilou",
         "pt-br": "Purrloin",
         "zh-tw": "扒手貓",
     },

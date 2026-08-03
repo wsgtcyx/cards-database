@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Inflatable Boat",
-        "fr": "Bateau pneumatique",
-        "es": "Barco inflable",
-        "it": "Barca gonfiabile",
-        "de": "Schlauchboot",
-        "pt-br": "Barco inflável",
-        "zh-tw": "充氣船"
+        "fr": "Canot Gonflable",
+        "es": "Balsa Hinchable",
+        "it": "Canotto Gonfiabile",
+        "de": "Gummiboot",
+        "pt-br": "Bote Inflável",
+        "zh-tw": "水上小艇"
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

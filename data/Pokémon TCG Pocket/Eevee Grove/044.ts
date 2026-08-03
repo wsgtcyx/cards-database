@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Sableye",
-        "fr": "Sableye",
+        "fr": "Ténéfix",
         "es": "Sableye",
         "it": "Sableye",
-        "de": "Sableye",
+        "de": "Zobiris",
         "pt-br": "Sableye",
         "zh-tw": "勾魂眼",
     },

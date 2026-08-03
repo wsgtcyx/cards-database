@@ -18,7 +18,7 @@ const card: Card = {
         de: "Mew-ex",
         'pt-br': "Mew ex",
         ko: "뮤 ex",
-        "zh-tw": "夢幻 ex",
+        "zh-tw": "夢幻ex",
     },
     illustrator: "HYOGONOSUKE",
     category: "Pokemon",

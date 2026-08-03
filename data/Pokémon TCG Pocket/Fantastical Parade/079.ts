@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Machop",
-        "fr": "Machop",
+        "fr": "Machoc",
         "es": "Machop",
         "it": "Machop",
-        "de": "Machop",
+        "de": "Machollo",
         "pt-br": "Machop",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力"
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",

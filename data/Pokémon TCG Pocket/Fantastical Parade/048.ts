@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Wellspring Mask Ogerpon",
-        "fr": "Masque Wellspring Ogerpon",
-        "es": "Máscara de fuente Ogerpon",
+        "fr": "Ogerpon Masque du Puits",
+        "es": "Ogerpon Máscara Fuente",
         "it": "Maschera della Sorgente Ogerpon",
         "de": "Quellmaske Ogerpon",
-        "pt-br": "Máscara de Fonte Ogerpon",
-        "zh-tw": "泉水面具奧傑彭"
+        "pt-br": "Ogerpon Máscara Nascente",
+        "zh-tw": "厄鬼椪水井面具"
     },
     illustrator: "Mina Nakai",
     rarity: "Three Diamond",

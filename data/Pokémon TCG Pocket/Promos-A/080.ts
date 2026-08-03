@@ -14,9 +14,9 @@ const card: Card = {
     name: {
         en: "Stakataka",
         es: "Stakataka",
-        "fr": "Stakataka",
+        "fr": "Ama-Ama",
         "it": "Stakataka",
-        "de": "Stakataka",
+        "de": "Muramura",
         "pt-br": "Stakataka",
         "zh-tw": "壘磊石",
     },

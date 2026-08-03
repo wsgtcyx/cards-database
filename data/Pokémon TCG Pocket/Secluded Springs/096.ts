@@ -12,8 +12,8 @@ const card: Card = {
     },
     name: {
         en: "Kingler",
-        "fr": "Kingler",
-        "es": "reyer",
+        "fr": "Krabboss",
+        "es": "Kingler",
         "it": "Kingler",
         "de": "Kingler",
         "pt-br": "Kingler",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Wobbuffet",
-        "fr": "Wobbuffet",
+        "fr": "Qulbutoké",
         "es": "Wobbuffet",
         "it": "Wobbuffet",
-        "de": "Wobbuffet",
+        "de": "Woingenau",
         "pt-br": "Wobbuffet",
         "zh-tw": "果然翁",
     },

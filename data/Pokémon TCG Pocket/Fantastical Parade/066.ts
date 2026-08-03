@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Gardevoir ex",
-        "fr": "Méga Gardevoir ex",
-        "es": "Mega Gardevoir ex",
-        "it": "Mega Gardevoir ex",
-        "de": "Mega Guardevoir ex",
+        "fr": "Méga-Gardevoir-ex",
+        "es": "Mega-Gardevoir ex",
+        "it": "Mega Gardevoir-ex",
+        "de": "Mega-Guardevoir-ex",
         "pt-br": "Mega Gardevoir ex",
-        "zh-tw": "Mega Gardevoir 前"
+        "zh-tw": "超級沙奈朵ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

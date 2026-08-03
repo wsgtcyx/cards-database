@@ -14,10 +14,10 @@ const card: Card = {
     name: {
         en: "Vanillite",
         es: "Vanillite",
-        "fr": "Vanillite",
+        "fr": "Sorbébé",
         "it": "Vanillite",
-        "de": "Vanillit",
-        "pt-br": "Vanilita",
+        "de": "Gelatini",
+        "pt-br": "Vanillite",
         "zh-tw": "迷你冰",
     },
     illustrator: "OOYAMA",

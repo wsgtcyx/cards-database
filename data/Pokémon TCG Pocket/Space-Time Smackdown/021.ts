@@ -18,7 +18,7 @@ const card: Card = {
         de: "Schneid-Rotom",
         'pt-br': "Rotom Corte",
         ko: "커트로토무",
-        "zh-tw": "除草洛托姆",
+        "zh-tw": "切割洛托姆",
     },
     illustrator: "kawayoo",
     rarity: "One Diamond",

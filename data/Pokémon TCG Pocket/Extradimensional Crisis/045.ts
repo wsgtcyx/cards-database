@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Naganadel",
-        "fr": "Naganadel",
+        "fr": "Mandrillon",
         "es": "Naganadel",
         "it": "Naganadel",
-        "de": "Naganadel",
+        "de": "Agoyon",
         "pt-br": "Naganadel",
         "zh-tw": "四顎針龍",
     },

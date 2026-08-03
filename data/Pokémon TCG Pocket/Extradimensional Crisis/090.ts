@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Arcanine",
         "fr": "Arcanin",
-        "es": "arcanino",
-        "it": "Arcano",
+        "es": "Arcanine",
+        "it": "Arcanine",
         "de": "Arkani",
-        "pt-br": "Arcano",
+        "pt-br": "Arcanine",
         "zh-tw": "風速狗",
     },
     illustrator: "Saya Tsuruta",

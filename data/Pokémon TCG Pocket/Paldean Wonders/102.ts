@@ -12,14 +12,14 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/102"
     },
     name: {
-        en: "Chien-Pao",
-        fr: "Baojian",
-        es: "Chien-Pao",
-        it: "Chien-Pao",
-        de: "Baojian",
-        "pt-br": "Chien-Pao",
-        "zh-tw": "古劍豹",
-        pt: "Chien-Pao"
+        en: "Chien-Pao ex",
+        fr: "Baojian-ex",
+        es: "Chien-Pao ex",
+        it: "Chien-Pao-ex",
+        de: "Baojian-ex",
+        "pt-br": "Chien-Pao ex",
+        "zh-tw": "古劍豹ex",
+        pt: "Chien-Pao ex"
     },
     suffix: "EX",
     illustrator: "aky CG Works",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Cherrim",
-        "fr": "Cherrim",
+        "fr": "Ceriflor",
         "es": "Cherrim",
         "it": "Cherrim",
-        "de": "Cherrim",
+        "de": "Kinoso",
         "pt-br": "Cherrim",
         "zh-tw": "櫻花兒",
     },

@@ -12,8 +12,8 @@ const card: Card = {
     },
     name: {
         en: "Celebi",
-        "fr": "Célébi",
-        "es": "celeb",
+        "fr": "Celebi",
+        "es": "Celebi",
         "it": "Celebi",
         "de": "Celebi",
         "pt-br": "Celebi",

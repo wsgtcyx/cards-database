@@ -18,7 +18,7 @@ const card: Card = {
         de: "Riesige Robe",
         'pt-br': "Capa Gigante",
         ko: "커다란망토",
-        "zh-tw": "巨大的斗篷",
+        "zh-tw": "大斗蓬",
     },
     illustrator: "Ryo Ueda",
     rarity: "Two Diamond",

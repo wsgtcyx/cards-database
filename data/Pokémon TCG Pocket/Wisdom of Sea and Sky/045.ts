@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Léviator",
         "es": "Gyarados",
         "it": "Gyarados",
-        "de": "Gyarados",
+        "de": "Garados",
         "pt-br": "Gyarados",
         "zh-tw": "暴鯉龍"
     },

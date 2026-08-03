@@ -13,8 +13,8 @@ const card: Card = {
     name: {
         en: "Meltan",
         "fr": "Meltan",
-        "es": "Meltán",
-        "it": "Meltano",
+        "es": "Meltan",
+        "it": "Meltan",
         "de": "Meltan",
         "pt-br": "Meltan",
         "zh-tw": "美錄坦",

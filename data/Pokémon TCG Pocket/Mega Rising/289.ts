@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Victreebel",
-        "fr": "Victreebel",
+        "fr": "Empiflor",
         "es": "Victreebel",
         "it": "Victreebel",
-        "de": "Victreebel",
+        "de": "Sarzenia",
         "pt-br": "Victreebel",
         "zh-tw": "大食花",
     },

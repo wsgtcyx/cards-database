@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Falinks",
-        "fr": "Falinks",
-        "es": "falinks",
-        "it": "Falink",
-        "de": "Falinks",
+        "fr": "Hexadron",
+        "es": "Falinks",
+        "it": "Falinks",
+        "de": "Legios",
         "pt-br": "Falinks",
-        "zh-tw": "法林克斯"
+        "zh-tw": "列陣兵"
     },
     illustrator: "okayamatakatoshi",
     rarity: "One Star",

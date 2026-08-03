@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Tadbulb",
-        "fr": "Tadbulbe",
-        "es": "renacuajo",
+        "fr": "Têtampoule",
+        "es": "Tadbulb",
         "it": "Tadbulb",
-        "de": "Kaulzwiebel",
-        "pt-br": "Tabulbo",
-        "zh-tw": "塔德燈泡"
+        "de": "Blipp",
+        "pt-br": "Tadbulb",
+        "zh-tw": "光蚪仔"
     },
     illustrator: "okayamatakatoshi",
     rarity: "One Diamond",

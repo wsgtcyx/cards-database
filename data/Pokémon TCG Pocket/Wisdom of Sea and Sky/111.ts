@@ -12,9 +12,9 @@ const card: Card = {
     },
     name: {
         en: "Ariados",
-        "fr": "Ariados",
-        "es": "Ariadós",
-        "it": "Ariadi",
+        "fr": "Migalos",
+        "es": "Ariados",
+        "it": "Ariados",
         "de": "Ariados",
         "pt-br": "Ariados",
         "zh-tw": "阿利多斯",

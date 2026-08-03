@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Giocoliere",
         "de": "Jongleur",
         "pt-br": "Malabarista",
-        "zh-tw": "雜耍者"
+        "zh-tw": "雜耍藝人"
     },
     illustrator: "Teeziro",
     rarity: "Two Star",

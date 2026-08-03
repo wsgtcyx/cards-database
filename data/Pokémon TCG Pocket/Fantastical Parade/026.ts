@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Cinderace",
-        "fr": "Cendre",
-        "es": "ceniza",
-        "it": "Cenerentola",
-        "de": "Aschenputtel",
-        "pt-br": "Cinderela",
-        "zh-tw": "灰姑娘"
+        "fr": "Pyrobut",
+        "es": "Cinderace",
+        "it": "Cinderace",
+        "de": "Liberlo",
+        "pt-br": "Cinderace",
+        "zh-tw": "閃焰王牌"
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",

@@ -12,14 +12,14 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/127"
     },
     name: {
-        en: "Suicune",
-        fr: "Suicune",
-        es: "Suicune",
-        it: "Suicune",
-        de: "Suicune",
-        "pt-br": "Suicune",
-        "zh-tw": "水君",
-        pt: "Suicune"
+        en: "Suicune ex",
+        fr: "Suicune-ex",
+        es: "Suicune ex",
+        it: "Suicune-ex",
+        de: "Suicune-ex",
+        "pt-br": "Suicune ex",
+        "zh-tw": "水君ex",
+        pt: "Suicune ex"
     },
     suffix: "EX",
     illustrator: "PLANETA CG Works",

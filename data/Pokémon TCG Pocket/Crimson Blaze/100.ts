@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Guzzlord ex",
-        "fr": "Engloutyran ex",
+        "fr": "Engloutyran-ex",
         "es": "Guzzlord ex",
-        "it": "Guzzlord ex",
-        "de": "Schlingking ex",
+        "it": "Guzzlord-ex",
+        "de": "Schlingking-ex",
         "pt-br": "Guzzlord ex",
-        "zh-tw": "惡食大王 ex"
+        "zh-tw": "惡食大王ex"
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Shiny",

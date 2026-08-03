@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Terrakion",
-        "fr": "Terrakion",
-        "es": "Terrakión",
+        "fr": "Terrakium",
+        "es": "Terrakion",
         "it": "Terrakion",
-        "de": "Terrakion",
+        "de": "Terrakium",
         "pt-br": "Terrakion",
         "zh-tw": "代拉基翁",
     },

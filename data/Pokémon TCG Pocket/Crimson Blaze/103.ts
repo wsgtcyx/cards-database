@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Quick-Grow Extract",
-        "fr": "Extrait à croissance rapide",
-        "es": "Extracto de crecimiento rápido",
-        "it": "Estratto a crescita rapida",
-        "de": "Schnellwachstumsextrakt",
-        "pt-br": "Extrato de crescimento rápido",
-        "zh-tw": "快速生長提取物"
+        "fr": "Extrait de Croissance",
+        "es": "Extracto de Maduración",
+        "it": "Fialetta di Fertilizzante",
+        "de": "Wachstumsextrakt",
+        "pt-br": "Extrato de Adubo",
+        "zh-tw": "早熟精華"
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Crown",

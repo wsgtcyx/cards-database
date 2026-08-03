@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Kabutops",
         "de": "Kabutops",
         "pt-br": "Kabutops",
-        "zh-tw": "兜帽"
+        "zh-tw": "鐮刀盔"
     },
     illustrator: "Krgc",
     rarity: "One Shiny",

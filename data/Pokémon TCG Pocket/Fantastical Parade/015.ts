@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Gossifleur",
-        "fr": "Gossifleur",
-        "es": "chismoso",
+        "fr": "Tournicoton",
+        "es": "Gossifleur",
         "it": "Gossifleur",
-        "de": "Gossifleur",
-        "pt-br": "fofoqueiro",
-        "zh-tw": "棉花"
+        "de": "Cottini",
+        "pt-br": "Gossifleur",
+        "zh-tw": "幼棉棉"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Excadrill",
-        "fr": "Excadrille",
-        "es": "excadril",
+        "fr": "Minotaupe",
+        "es": "Excadrill",
         "it": "Excadrill",
-        "de": "Excadrill",
+        "de": "Stalobor",
         "pt-br": "Excadrill",
         "zh-tw": "龍頭地鼠",
     },

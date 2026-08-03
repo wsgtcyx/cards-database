@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Bulbasaur",
         "fr": "Bulbizarre",
-        "es": "bulbasaur",
-        "it": "Bulbasauro",
+        "es": "Bulbasaur",
+        "it": "Bulbasaur",
         "de": "Bisasam",
-        "pt-br": "Bulbasauro",
+        "pt-br": "Bulbasaur",
         "zh-tw": "妙蛙種子"
     },
     illustrator: "Narumi Sato",

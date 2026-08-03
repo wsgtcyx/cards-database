@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Charmeleon",
-        "fr": "Charméléon",
+        "fr": "Reptincel",
         "es": "Charmeleon",
         "it": "Charmeleon",
-        "de": "Charmeleon",
+        "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
     },

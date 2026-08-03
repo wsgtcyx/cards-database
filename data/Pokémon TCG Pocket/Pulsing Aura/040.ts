@@ -19,7 +19,7 @@ const card: Card = {
         it: "Castform Forma Pioggia",
         de: "Formeo Regenform",
         "pt-br": "Castform Forma Chuvosa",
-        "zh-tw": "飄浮泡泡 雨水的樣子",
+        "zh-tw": "飄浮泡泡雨水的樣子",
         ko: "캐스퐁 빗방울의 모습",
         ja: "ポワルン あまみずのすがた"
     },

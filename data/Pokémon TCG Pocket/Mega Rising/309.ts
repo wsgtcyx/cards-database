@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Golem",
-        "fr": "Golem",
-        "es": "gólem",
+        "fr": "Grolem",
+        "es": "Golem",
         "it": "Golem",
-        "de": "Golem",
+        "de": "Geowaz",
         "pt-br": "Golem",
         "zh-tw": "隆隆岩",
     },

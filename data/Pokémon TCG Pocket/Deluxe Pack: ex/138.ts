@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Magnezone",
         "fr": "Magnézone",
-        "es": "magnezona",
+        "es": "Magnezone",
         "it": "Magnezone",
         "de": "Magnezone",
-        "pt-br": "Magnezona",
+        "pt-br": "Magnezone",
         "zh-tw": "自爆磁怪",
     },
     illustrator: "Yoshinobu Saito",

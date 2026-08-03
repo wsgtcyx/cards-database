@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Guzzlord",
-        "fr": "Seigneur des gourmandises",
-        "es": "Señor devorador",
+        "fr": "Engloutyran",
+        "es": "Guzzlord",
         "it": "Guzzlord",
-        "de": "Guzzlord",
+        "de": "Schlingking",
         "pt-br": "Guzzlord",
-        "zh-tw": "古茲領主"
+        "zh-tw": "惡食大王"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",

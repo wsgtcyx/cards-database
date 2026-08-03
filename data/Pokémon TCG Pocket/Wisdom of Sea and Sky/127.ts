@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Klang",
-        "fr": "Kuala Lumpur",
+        "fr": "Clic",
         "es": "Klang",
         "it": "Klang",
-        "de": "Klang",
+        "de": "Kliklak",
         "pt-br": "Klang",
         "zh-tw": "齒輪組",
     },

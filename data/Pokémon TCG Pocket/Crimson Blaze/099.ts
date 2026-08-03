@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Lunala ex",
-        "fr": "Lunala ex",
+        "fr": "Lunala-ex",
         "es": "Lunala ex",
-        "it": "Lunala ex",
-        "de": "Lunala ex",
+        "it": "Lunala-ex",
+        "de": "Lunala-ex",
         "pt-br": "Lunala ex",
-        "zh-tw": "露奈雅拉 ex"
+        "zh-tw": "露奈雅拉ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

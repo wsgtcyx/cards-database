@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Furret",
-        "fr": "Furet",
-        "es": "furret",
+        "fr": "Fouinar",
+        "es": "Furret",
         "it": "Furret",
-        "de": "Furret",
+        "de": "Wiesenior",
         "pt-br": "Furret",
         "zh-tw": "大尾立",
     },

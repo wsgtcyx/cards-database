@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Panpour",
-        "fr": "Panpour",
-        "es": "panpur",
+        "fr": "Flotajou",
+        "es": "Panpour",
         "it": "Panpour",
-        "de": "Panpour",
+        "de": "Sodamak",
         "pt-br": "Panpour",
         "zh-tw": "冷水猴",
     },

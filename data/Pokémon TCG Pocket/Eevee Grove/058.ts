@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Aipom",
-        "fr": "Aipom",
+        "fr": "Capumain",
         "es": "Aipom",
         "it": "Aipom",
-        "de": "Aipom",
+        "de": "Griffel",
         "pt-br": "Aipom",
         "zh-tw": "長尾怪手",
     },

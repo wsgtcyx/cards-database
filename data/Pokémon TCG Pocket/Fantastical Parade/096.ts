@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Alolan Grimer",
-        "fr": "Alolan Grimer",
+        "fr": "Tadmorv d'Alola",
         "es": "Grimer de Alola",
         "it": "Grimer di Alola",
-        "de": "Alolan Grimer",
-        "pt-br": "Alola Grimer",
-        "zh-tw": "阿羅蘭·格里默"
+        "de": "Alola-Sleima",
+        "pt-br": "Grimer de Alola",
+        "zh-tw": "阿羅拉臭泥"
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

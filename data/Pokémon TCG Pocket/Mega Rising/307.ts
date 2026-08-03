@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Geodude",
-        "fr": "Géodude",
-        "es": "geodudo",
+        "fr": "Racaillou",
+        "es": "Geodude",
         "it": "Geodude",
-        "de": "Geodude",
+        "de": "Kleinstein",
         "pt-br": "Geodude",
         "zh-tw": "小拳石",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mudkip",
-        "fr": "Boue",
+        "fr": "Gobou",
         "es": "Mudkip",
         "it": "Mudkip",
-        "de": "Schlammkippe",
+        "de": "Hydropi",
         "pt-br": "Mudkip",
-        "zh-tw": "水雀"
+        "zh-tw": "水躍魚"
     },
     illustrator: "Aya Kusube",
     rarity: "One Diamond",

@@ -12,8 +12,8 @@ const card: Card = {
     },
     name: {
         en: "Zubat",
-        "fr": "Zoubat",
-        "es": "zubat",
+        "fr": "Nosferapti",
+        "es": "Zubat",
         "it": "Zubat",
         "de": "Zubat",
         "pt-br": "Zubat",

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Knakrack-ex",
         'pt-br': "Garchomp ex",
         ko: "한카리아스 ex",
-        "zh-tw": "烈咬陸鯊 ex",
+        "zh-tw": "烈咬陸鯊ex",
     },
     illustrator: "toriyufu",
     rarity: "Two Star",

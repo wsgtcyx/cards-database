@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Machoke",
-        "fr": "Machoke",
+        "fr": "Machopeur",
         "es": "Machoke",
         "it": "Machoke",
-        "de": "Machoke",
+        "de": "Maschock",
         "pt-br": "Machoke",
-        "zh-tw": "馬喬克"
+        "zh-tw": "豪力"
     },
     illustrator: "AKIRA EGAWA",
     rarity: "One Diamond",

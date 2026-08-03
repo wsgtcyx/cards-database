@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Ludicolo",
         "fr": "Ludicolo",
-        "es": "ludicolo",
+        "es": "Ludicolo",
         "it": "Ludicolo",
-        "de": "Ludicolo",
+        "de": "Kappalores",
         "pt-br": "Ludicolo",
         "zh-tw": "樂天河童",
     },

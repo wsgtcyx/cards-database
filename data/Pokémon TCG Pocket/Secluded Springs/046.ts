@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Dwebble",
-        "fr": "Bavarder",
+        "fr": "Crabicoque",
         "es": "Dwebble",
         "it": "Dwebble",
-        "de": "Dwebble",
+        "de": "Lithomith",
         "pt-br": "Dwebble",
         "zh-tw": "石居蟹",
     },

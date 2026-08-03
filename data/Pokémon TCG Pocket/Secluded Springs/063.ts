@@ -12,9 +12,9 @@ const card: Card = {
     },
     name: {
         en: "Azurill",
-        "fr": "Azurille",
-        "es": "azurill",
-        "it": "Azuril",
+        "fr": "Azurill",
+        "es": "Azurill",
+        "it": "Azurill",
         "de": "Azurill",
         "pt-br": "Azurill",
         "zh-tw": "露力麗",
@@ -53,10 +53,6 @@ const card: Card = {
                 "pt-br": "Cure 50 de dano de 1 dos seus Pokémon no Banco.",
                 "zh-tw": "治療你 1 只後備神奇寶貝造成的 50 點傷害。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0
 };

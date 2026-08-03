@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Dark Pendant",
-        "fr": "Pendentif sombre",
-        "es": "Colgante oscuro",
-        "it": "Ciondolo scuro",
+        "fr": "Pendentif des Ténèbres",
+        "es": "Colgante Sombrío",
+        "it": "Pendente Oscuro",
         "de": "Dunkler Anhänger",
-        "pt-br": "Pingente Escuro",
-        "zh-tw": "深色吊墜"
+        "pt-br": "Pingente Sombrio",
+        "zh-tw": "暗黑吊墜"
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

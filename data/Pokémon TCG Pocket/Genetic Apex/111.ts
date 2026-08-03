@@ -18,7 +18,7 @@ const card: Card = {
         de: "Elezard",
         'pt-br': "Heliolisk",
         ko: "일레도리자드",
-        "zh-tw": "電傘查特",
+        "zh-tw": "光電傘蜥",
     },
     illustrator: "otumami",
     category: "Pokemon",

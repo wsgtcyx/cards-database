@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Tropius",
         "fr": "Tropius",
-        "es": "Tropio",
-        "it": "Tropio",
+        "es": "Tropius",
+        "it": "Tropius",
         "de": "Tropius",
-        "pt-br": "Trópio",
+        "pt-br": "Tropius",
         "zh-tw": "熱帶龍",
     },
     illustrator: "Oswaldo KATO",

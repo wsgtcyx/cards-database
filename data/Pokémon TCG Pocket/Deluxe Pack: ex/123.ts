@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Wishiwashi",
-        "fr": "Wishiwashi",
+        "fr": "Froussardine",
         "es": "Wishiwashi",
         "it": "Wishiwashi",
-        "de": "Wishiwashi",
+        "de": "Lusardin",
         "pt-br": "Wishiwashi",
         "zh-tw": "弱丁魚",
     },

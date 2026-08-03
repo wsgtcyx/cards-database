@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mantyke",
-        "fr": "Mantyke",
+        "fr": "Babimanta",
         "es": "Mantyke",
         "it": "Mantyke",
-        "de": "Mantyke",
+        "de": "Mantirps",
         "pt-br": "Mantyke",
-        "zh-tw": "曼蒂克"
+        "zh-tw": "小球飛魚"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",
@@ -53,10 +53,6 @@ const card: Card = {
                 "pt-br": "Pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Básicos no Banco.",
                 "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只基礎神奇寶貝上。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0
 };

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Shuckle",
-        "fr": "Rire",
-        "es": "lanzadera",
+        "fr": "Caratroc",
+        "es": "Shuckle",
         "it": "Shuckle",
-        "de": "Shuckle",
+        "de": "Pottrott",
         "pt-br": "Shuckle",
-        "zh-tw": "沙克爾"
+        "zh-tw": "壺壺"
     },
     illustrator: "Yuriko Akase",
     rarity: "One Diamond",

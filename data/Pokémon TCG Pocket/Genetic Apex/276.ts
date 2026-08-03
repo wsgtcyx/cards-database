@@ -18,7 +18,7 @@ const card: Card = {
         de: "Zapdos-ex",
         'pt-br': "Zapdos ex",
         ko: "썬더 ex",
-        "zh-tw": "閃電鳥 ex",
+        "zh-tw": "閃電鳥ex",
     },
     illustrator: "GOSSAN",
     category: "Pokemon",

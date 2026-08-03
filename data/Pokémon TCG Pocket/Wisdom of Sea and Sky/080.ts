@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Togekiss",
         "es": "Togekiss",
         "it": "Togekiss",
-        "de": "Togekuss",
+        "de": "Togekiss",
         "pt-br": "Togekiss",
         "zh-tw": "波克基斯",
     },

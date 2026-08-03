@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Polteageist",
-        "fr": "Poltéageniste",
-        "es": "polteageista",
+        "fr": "Polthégeist",
+        "es": "Polteageist",
         "it": "Polteageist",
-        "de": "Polteageist",
-        "pt-br": "Polteageista",
-        "zh-tw": "波爾泰吉斯特"
+        "de": "Mortipot",
+        "pt-br": "Polteageist",
+        "zh-tw": "怖思壺"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

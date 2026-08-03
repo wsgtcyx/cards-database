@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Lampent",
-        "fr": "Lampe",
-        "es": "lámpara",
-        "it": "Lampada",
-        "de": "Lampent",
-        "pt-br": "Lampente",
-        "zh-tw": "燈籠"
+        "fr": "Mélancolux",
+        "es": "Lampent",
+        "it": "Lampent",
+        "de": "Laternecto",
+        "pt-br": "Lampent",
+        "zh-tw": "燈火幽靈"
     },
     illustrator: "MAHOU",
     rarity: "Two Diamond",

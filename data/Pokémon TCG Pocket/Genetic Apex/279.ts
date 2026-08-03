@@ -18,7 +18,7 @@ const card: Card = {
         de: "Knuddeluff-ex",
         'pt-br': "Wigglytuff ex",
         ko: "푸크린 ex",
-        "zh-tw": "胖可丁 ex",
+        "zh-tw": "胖可丁ex",
     },
     illustrator: "Shibuzoh.",
     category: "Pokemon",
@@ -64,7 +64,7 @@ const card: Card = {
             value: "+20"
         }],
     retreat: 2,
-    rarity: "None",
+    rarity: "Two Star",
     boosters: ["pikachu"]
 };
 export default card;

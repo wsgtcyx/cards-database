@@ -12,7 +12,7 @@ const card: Card = {
     },
     name: {
         en: "Elekid",
-        "fr": "Elekid",
+        "fr": "Élekid",
         "es": "Elekid",
         "it": "Elekid",
         "de": "Elekid",
@@ -53,10 +53,6 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
                 "zh-tw": "這次攻擊對對手後備隊的 1 只寶可夢造成 20 點傷害。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0,
     boosters: ["lugia"]

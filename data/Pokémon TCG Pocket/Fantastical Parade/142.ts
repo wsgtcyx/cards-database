@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Tandemaus",
-        "fr": "Tandémaus",
-        "es": "tandemaus",
-        "it": "Tandemau",
-        "de": "Tandemaus",
+        "fr": "Compagnol",
+        "es": "Tandemaus",
+        "it": "Tandemaus",
+        "de": "Zwieps",
         "pt-br": "Tandemaus",
-        "zh-tw": "坦德莫斯"
+        "zh-tw": "一對鼠"
     },
     illustrator: "Shimaris Yukichi",
     rarity: "One Diamond",

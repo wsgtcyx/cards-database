@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Weavile",
-        "fr": "Tisserand",
-        "es": "tejido",
+        "fr": "Dimoret",
+        "es": "Weavile",
         "it": "Weavile",
-        "de": "Webbar",
+        "de": "Snibunna",
         "pt-br": "Weavile",
         "zh-tw": "瑪狃拉",
     },

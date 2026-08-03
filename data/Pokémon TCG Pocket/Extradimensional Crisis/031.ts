@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Claydol",
-        "fr": "Claydol",
+        "fr": "Kaorine",
         "es": "Claydol",
         "it": "Claydol",
-        "de": "Claydol",
+        "de": "Lepumentas",
         "pt-br": "Claydol",
         "zh-tw": "念力土偶",
     },

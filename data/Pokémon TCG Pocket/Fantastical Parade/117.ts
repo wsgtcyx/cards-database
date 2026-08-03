@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Galarian Stunfisk",
-        "fr": "Stunfisk de Galar",
+        "fr": "Limonde de Galar",
         "es": "Stunfisk de Galar",
         "it": "Stunfisk di Galar",
-        "de": "Galarischer Stunfisk",
+        "de": "Galar-Flunschlik",
         "pt-br": "Stunfisk de Galar",
-        "zh-tw": "加拉利安魚"
+        "zh-tw": "伽勒爾泥巴魚"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "Two Diamond",

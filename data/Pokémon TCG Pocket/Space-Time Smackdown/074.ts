@@ -18,7 +18,7 @@ const card: Card = {
         de: "Drifzepeli",
         'pt-br': "Drifblim",
         ko: "둥실라이드",
-        "zh-tw": "附和氣球",
+        "zh-tw": "隨風球",
     },
     illustrator: "Miki Tanaka",
     rarity: "Two Diamond",

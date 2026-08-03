@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Feraligatr",
-        "fr": "Feraligatr",
-        "es": "feraligatr",
+        "fr": "Aligatueur",
+        "es": "Feraligatr",
         "it": "Feraligatr",
-        "de": "Feraligatr",
+        "de": "Impergator",
         "pt-br": "Feraligatr",
         "zh-tw": "大力鱷",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Purrloin",
-        "fr": "Pourrondi",
-        "es": "ronroneo",
+        "fr": "Chacripan",
+        "es": "Purrloin",
         "it": "Purrloin",
-        "de": "Schnurren",
+        "de": "Felilou",
         "pt-br": "Purrloin",
-        "zh-tw": "珀朗"
+        "zh-tw": "扒手貓"
     },
     illustrator: "sowsow",
     rarity: "One Diamond",

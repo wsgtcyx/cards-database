@@ -18,7 +18,7 @@ const card: Card = {
         de: "Yanmega-ex",
         'pt-br': "Yanmega ex",
         ko: "메가자리 ex",
-        "zh-tw": "梅卡陽瑪 ex",
+        "zh-tw": "遠古巨蜓ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Star",

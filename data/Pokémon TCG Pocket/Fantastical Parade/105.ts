@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Liepard",
-        "fr": "Liépard",
-        "es": "Liepardo",
+        "fr": "Léopardus",
+        "es": "Liepard",
         "it": "Liepard",
-        "de": "Liepard",
+        "de": "Kleoparda",
         "pt-br": "Liepard",
-        "zh-tw": "利帕德"
+        "zh-tw": "酷豹"
     },
     illustrator: "sui",
     rarity: "Two Diamond",

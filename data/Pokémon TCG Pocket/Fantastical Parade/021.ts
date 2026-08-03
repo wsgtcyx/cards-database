@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Pyroar",
-        "fr": "Pyroar",
-        "es": "piroar",
+        "fr": "Némélios",
+        "es": "Pyroar",
         "it": "Pyroar",
-        "de": "Pyroar",
-        "pt-br": "Piroar",
-        "zh-tw": "火神"
+        "de": "Pyroleo",
+        "pt-br": "Pyroar",
+        "zh-tw": "火炎獅"
     },
     illustrator: "Hasuno",
     rarity: "Two Diamond",

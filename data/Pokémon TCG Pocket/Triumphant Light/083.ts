@@ -18,7 +18,7 @@ const card: Card = {
         de: "Glaziola-ex",
         'pt-br': "Glaceon ex",
         ko: "글레이시아 ex",
-        "zh-tw": "冰精靈 ex",
+        "zh-tw": "冰伊布ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

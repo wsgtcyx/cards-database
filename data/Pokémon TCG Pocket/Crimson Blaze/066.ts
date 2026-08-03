@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Clemont's Backpack",
         "fr": "Sac de Lem",
-        "es": "Clemont's Backpack",
-        "it": "Clemont's Backpack",
-        "de": "Citros Tasche",
-        "pt-br": "Clemont's Backpack",
+        "es": "Mochila de Lem",
+        "it": "Zaino di Lem",
+        "de": "Citros Rucksack",
+        "pt-br": "Mochila do Clemont",
         "zh-tw": "希特隆的背包"
     },
     illustrator: "AYUMI ODASHIMA",

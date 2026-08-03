@@ -18,7 +18,7 @@ const card: Card = {
         de: "Kapoera",
         'pt-br': "Hitmontop",
         ko: "카포에라",
-        "zh-tw": "柯波朗",
+        "zh-tw": "戰舞郎",
     },
     illustrator: "sowsow",
     rarity: "One Diamond",

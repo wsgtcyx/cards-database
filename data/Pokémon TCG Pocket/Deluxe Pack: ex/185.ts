@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Milcery",
-        "fr": "Milcery",
-        "es": "milcería",
+        "fr": "Crèmy",
+        "es": "Milcery",
         "it": "Milcery",
-        "de": "Milchwaren",
+        "de": "Hokumil",
         "pt-br": "Milcery",
         "zh-tw": "小仙奶",
     },

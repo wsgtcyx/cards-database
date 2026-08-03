@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Simipour",
-        "fr": "Simipour",
+        "fr": "Flotoutan",
         "es": "Simipour",
         "it": "Simipour",
-        "de": "Simipour",
+        "de": "Sodachita",
         "pt-br": "Simipour",
         "zh-tw": "冷水猿",
     },

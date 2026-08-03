@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Clefairy",
-        "fr": "Cléfée",
+        "fr": "Mélofée",
         "es": "Clefairy",
         "it": "Clefairy",
-        "de": "Clefairy",
+        "de": "Piepi",
         "pt-br": "Clefairy",
-        "zh-tw": "克萊菲爾"
+        "zh-tw": "皮皮"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

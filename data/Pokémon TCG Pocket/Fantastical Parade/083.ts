@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Meditite",
-        "fr": "Méditer",
-        "es": "meditar",
-        "it": "Medita",
-        "de": "Meditit",
-        "pt-br": "Medite",
-        "zh-tw": "麥迪泰"
+        "fr": "Méditikka",
+        "es": "Meditite",
+        "it": "Meditite",
+        "de": "Meditie",
+        "pt-br": "Meditite",
+        "zh-tw": "瑪沙那"
     },
     illustrator: "sui",
     rarity: "One Diamond",

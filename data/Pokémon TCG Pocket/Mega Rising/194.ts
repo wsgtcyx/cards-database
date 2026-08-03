@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Delcatty",
         "es": "Delcatty",
         "it": "Delcatty",
-        "de": "Delcatty",
+        "de": "Enekoro",
         "pt-br": "Delcatty",
         "zh-tw": "優雅貓",
     },

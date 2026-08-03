@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Honedge",
-        "fr": "Honedge",
-        "es": "afilar",
+        "fr": "Monorpale",
+        "es": "Honedge",
         "it": "Honedge",
-        "de": "Honedge",
+        "de": "Gramokles",
         "pt-br": "Honedge",
-        "zh-tw": "霍內奇"
+        "zh-tw": "獨劍鞘"
     },
     illustrator: "Atsuko Nishida",
     rarity: "One Diamond",

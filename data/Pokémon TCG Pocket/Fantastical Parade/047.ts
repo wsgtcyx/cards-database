@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Barraskewda",
-        "fr": "Barraskewda",
+        "fr": "Hastacuda",
         "es": "Barraskewda",
         "it": "Barraskewda",
-        "de": "Barraskewda",
+        "de": "Barrakiefa",
         "pt-br": "Barraskewda",
-        "zh-tw": "巴拉斯科達"
+        "zh-tw": "戽斗尖梭"
     },
     illustrator: "Kouki Saitou",
     rarity: "One Diamond",

@@ -35,7 +35,7 @@ const card: Card = {
         "zh-tw": "霍塞亞"
     },
     attacks: [{
-            cost: ["Water", "Water", "Colorless"],
+            cost: ["Water", "Water", "Water"],
             name: {
                 en: "Water Arrow",
                 fr: "Flèche d'Eau",

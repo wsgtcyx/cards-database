@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Durant",
-        "fr": "Durant",
-        "es": "durante",
+        "fr": "Fermite",
+        "es": "Durant",
         "it": "Durant",
-        "de": "Durant",
+        "de": "Fermicula",
         "pt-br": "Durant",
         "zh-tw": "鐵蟻",
     },

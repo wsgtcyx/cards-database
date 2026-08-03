@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Mamoswine",
-        "fr": "Mamoswine",
-        "es": "Mamosvino",
+        "fr": "Mammochon",
+        "es": "Mamoswine",
         "it": "Mamoswine",
-        "de": "Mamoswine",
+        "de": "Mamutel",
         "pt-br": "Mamoswine",
         "zh-tw": "象牙豬",
     },

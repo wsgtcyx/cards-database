@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Metal Core Barrier",
-        "fr": "Barrière à noyau métallique",
-        "es": "Barrera de núcleo metálico",
-        "it": "Barriera con nucleo metallico",
+        "fr": "Barrière de Métal Renforcé",
+        "es": "Barrera Núcleo Metálico",
+        "it": "Barriera Metallica",
         "de": "Metallkernbarriere",
-        "pt-br": "Barreira de núcleo metálico",
-        "zh-tw": "金屬芯屏障"
+        "pt-br": "Barreira de Núcleo Metálico",
+        "zh-tw": "金屬核心屏障"
     },
     illustrator: "Studio Bora Inc.",
     rarity: "Two Diamond",

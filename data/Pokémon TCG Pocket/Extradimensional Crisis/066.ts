@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Beastite",
-        "fr": "Bêteite",
-        "es": "Beastita",
-        "it": "Bestia",
-        "de": "Beastit",
-        "pt-br": "Besta",
-        "zh-tw": "獸石"
+        "fr": "Chimérite",
+        "es": "Entita",
+        "it": "Pietra Ultracreatura",
+        "de": "Bestienit",
+        "pt-br": "Criaturita",
+        "zh-tw": "異獸秘石"
     },
     illustrator: "inose yukie",
     rarity: "Two Diamond",

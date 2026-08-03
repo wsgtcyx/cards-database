@@ -18,7 +18,7 @@ const card: Card = {
         de: "Magnetilo",
         'pt-br': "Magnemite",
         ko: "코일",
-        "zh-tw": "磁鐵礦"
+        "zh-tw": "小磁怪"
     },
     illustrator: "Miki Tanaka",
     rarity: "None",

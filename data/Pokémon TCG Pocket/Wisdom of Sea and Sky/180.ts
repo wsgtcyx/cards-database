@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Scizor",
-        "fr": "Ciseleur",
-        "es": "scizor",
+        "fr": "Cizayox",
+        "es": "Scizor",
         "it": "Scizor",
-        "de": "Scherz",
+        "de": "Scherox",
         "pt-br": "Scizor",
         "zh-tw": "巨鉗螳螂",
     },

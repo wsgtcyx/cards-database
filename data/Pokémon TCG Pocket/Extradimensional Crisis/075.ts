@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Celesteela",
-        "fr": "Célesteela",
+        "fr": "Bamboiselle",
         "es": "Celesteela",
         "it": "Celesteela",
-        "de": "Celesteela",
+        "de": "Kaguron",
         "pt-br": "Celesteela",
         "zh-tw": "鐵火輝夜",
     },

@@ -12,14 +12,14 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/101"
     },
     name: {
-        en: "Armarouge",
-        fr: "Carmadura",
-        es: "Armarouge",
-        it: "Armarouge",
-        de: "Crimanzo",
-        "pt-br": "Armarouge",
-        "zh-tw": "紅蓮鎧騎",
-        pt: "Armarouge"
+        en: "Armarouge ex",
+        fr: "Carmadura-ex",
+        es: "Armarouge ex",
+        it: "Armarouge-ex",
+        de: "Crimanzo-ex",
+        "pt-br": "Armarouge ex",
+        "zh-tw": "紅蓮鎧騎ex",
+        pt: "Armarouge ex"
     },
     suffix: "EX",
     illustrator: "takuyoa",

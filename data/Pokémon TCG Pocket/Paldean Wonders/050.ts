@@ -48,7 +48,7 @@ const card: Card = {
                 "pt-br": "Fracasso",
                 "zh-tw": "翻牌"
             },
-            damage: "10",
+            damage: "20",
             cost: ["Psychic"],
         },
     ],

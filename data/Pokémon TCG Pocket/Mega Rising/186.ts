@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Ambipom",
-        "fr": "Ambipome",
-        "es": "ambipom",
+        "fr": "Capidextre",
+        "es": "Ambipom",
         "it": "Ambipom",
-        "de": "Ambipom",
+        "de": "Ambidiffel",
         "pt-br": "Ambipom",
         "zh-tw": "雙尾怪手",
     },

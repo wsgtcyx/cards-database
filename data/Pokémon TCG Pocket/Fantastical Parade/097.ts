@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Alolan Muk",
-        "fr": "Alolan Muk",
+        "fr": "Grotadmorv d'Alola",
         "es": "Muk de Alola",
         "it": "Muk di Alola",
-        "de": "Alolan Muk",
-        "pt-br": "Alola Muk",
-        "zh-tw": "阿羅蘭·穆克"
+        "de": "Alola-Sleimok",
+        "pt-br": "Muk de Alola",
+        "zh-tw": "阿羅拉臭臭泥"
     },
     illustrator: "Hitoshi Ariga",
     rarity: "Three Diamond",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Bayleef",
-        "fr": "Bayleef",
+        "fr": "Macronium",
         "es": "Bayleef",
         "it": "Bayleef",
-        "de": "Lorbeerblatt",
+        "de": "Lorblatt",
         "pt-br": "Bayleef",
         "zh-tw": "月桂葉"
     },

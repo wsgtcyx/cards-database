@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Bellibolt",
-        "fr": "Bellibolt",
+        "fr": "Ampibidou",
         "es": "Bellibolt",
         "it": "Bellibolt",
-        "de": "Bellibolt",
+        "de": "Wampitz",
         "pt-br": "Bellibolt",
-        "zh-tw": "貝利博爾特"
+        "zh-tw": "電肚蛙"
     },
     illustrator: "Oswaldo KATO",
     rarity: "Two Diamond",

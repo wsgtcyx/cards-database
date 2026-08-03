@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Smoochum",
-        "fr": "Smoochum",
-        "es": "Beso",
+        "fr": "Lippouti",
+        "es": "Smoochum",
         "it": "Smoochum",
-        "de": "Knutschfleck",
+        "de": "Kussilla",
         "pt-br": "Smoochum",
         "zh-tw": "迷唇娃",
     },
@@ -54,10 +54,6 @@ const card: Card = {
                 "pt-br": "Este ataque causa 20 pontos de dano para cada Energia ligada ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "對手的活躍寶可夢身上附加的每一個能量都會造成 20 點傷害。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0,
     boosters: ["ho-oh"]

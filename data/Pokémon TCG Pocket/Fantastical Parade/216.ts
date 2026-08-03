@@ -13,11 +13,11 @@ const card: Card = {
     name: {
         en: "Latias",
         "fr": "Latias",
-        "es": "Latías",
+        "es": "Latias",
         "it": "Latias",
         "de": "Latias",
-        "pt-br": "Lácias",
-        "zh-tw": "拉蒂亞斯"
+        "pt-br": "Latias",
+        "zh-tw": "拉帝亞斯"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

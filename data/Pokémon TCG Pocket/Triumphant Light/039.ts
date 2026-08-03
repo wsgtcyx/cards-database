@@ -18,7 +18,7 @@ const card: Card = {
         de: "Larvitar",
         'pt-br': "Larvitar",
         ko: "애버라스",
-        "zh-tw": "由基拉",
+        "zh-tw": "幼基拉斯",
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",

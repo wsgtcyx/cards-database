@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Tentacruel",
         "fr": "Tentacruel",
-        "es": "tentacruel",
-        "it": "Tentacrudele",
-        "de": "Tentacruel",
+        "es": "Tentacruel",
+        "it": "Tentacruel",
+        "de": "Tentoxa",
         "pt-br": "Tentacruel",
         "zh-tw": "毒刺水母",
     },

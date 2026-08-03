@@ -12,7 +12,7 @@ const card: Card = {
     },
     name: {
         en: "Lapras",
-        "fr": "Lapras",
+        "fr": "Lokhlass",
         "es": "Lapras",
         "it": "Lapras",
         "de": "Lapras",

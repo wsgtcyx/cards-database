@@ -18,7 +18,7 @@ const card: Card = {
         de: "Handperiskop",
         'pt-br': "Luneta",
         ko: "핸드스코프",
-        "zh-tw": "手持瞄準鏡"
+        "zh-tw": "窺手鏡"
     },
     illustrator: "Toyste Beach",
     rarity: "None",

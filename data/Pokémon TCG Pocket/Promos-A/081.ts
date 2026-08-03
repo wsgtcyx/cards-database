@@ -14,11 +14,11 @@ const card: Card = {
     name: {
         en: "Ultra Necrozma ex",
         es: "Ultra-Necrozma ex",
-        "fr": "Ultra Necrozma ex",
-        "it": "UltraNecrozma es",
-        "de": "Ultra Necrozma ex",
+        "fr": "Ultra-Necrozma-ex",
+        "it": "UltraNecrozma-ex",
+        "de": "Ultra-Necrozma-ex",
         "pt-br": "Ultra Necrozma ex",
-        "zh-tw": "究極奈克洛茲瑪 ex"
+        "zh-tw": "究極奈克洛茲瑪ex"
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",
@@ -63,10 +63,6 @@ const card: Card = {
             }
         }],
     retreat: 2,
-    boosters: ["vol9"],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
-        }]
+    boosters: ["vol9"]
 };
 export default card;

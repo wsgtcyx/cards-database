@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Stunfisk",
-        "fr": "Stunfisk",
-        "es": "aturdidor",
+        "fr": "Limonde",
+        "es": "Stunfisk",
         "it": "Stunfisk",
-        "de": "Stunfisk",
+        "de": "Flunschlik",
         "pt-br": "Stunfisk",
         "zh-tw": "泥巴魚",
     },

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Igglybuff",
-        "fr": "Igglybuff",
+        "fr": "Toudoudou",
         "es": "Igglybuff",
         "it": "Igglybuff",
-        "de": "Igglybuff",
+        "de": "Fluffeluff",
         "pt-br": "Igglybuff",
         "zh-tw": "寶寶丁",
     },
@@ -54,10 +54,6 @@ const card: Card = {
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
                 "zh-tw": "你對手的活躍神奇寶貝現在處於睡眠狀態。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0
 };

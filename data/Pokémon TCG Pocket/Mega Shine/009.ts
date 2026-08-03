@@ -16,7 +16,7 @@ const card: Card = {
         en: "Mega Charizard X ex",
         fr: "Méga-Dracaufeu X-ex",
         es: "Mega-Charizard X ex",
-        it: "Mega Charizard[C:Nbsp ]X-ex",
+        it: "Mega Charizard X-ex",
         de: "Mega-Glurak X-ex",
         "pt-br": "Mega Charizard X ex",
         "zh-tw": "超級噴火龍Xex",

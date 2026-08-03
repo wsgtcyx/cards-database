@@ -18,7 +18,7 @@ const card: Card = {
         de: "Bidifas-ex",
         'pt-br': "Bibarel ex",
         ko: "비버통 ex",
-        "zh-tw": "大尾狸 ex"
+        "zh-tw": "大尾狸ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

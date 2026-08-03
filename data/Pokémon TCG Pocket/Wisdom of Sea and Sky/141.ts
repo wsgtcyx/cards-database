@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Noctowl",
-        "fr": "Noctowl",
-        "es": "noctowl",
+        "fr": "Noarfang",
+        "es": "Noctowl",
         "it": "Noctowl",
-        "de": "Nachtschwärmer",
+        "de": "Noctuh",
         "pt-br": "Noctowl",
         "zh-tw": "貓頭夜鷹",
     },

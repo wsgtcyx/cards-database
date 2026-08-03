@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Tyrunt",
-        "fr": "tyran",
-        "es": "tirano",
+        "fr": "Ptyranidur",
+        "es": "Tyrunt",
         "it": "Tyrunt",
-        "de": "Tyrunt",
-        "pt-br": "Tirano",
-        "zh-tw": "泰倫特"
+        "de": "Balgoras",
+        "pt-br": "Tyrunt",
+        "zh-tw": "寶寶暴龍"
     },
     illustrator: "SATOSHI NAKAI",
     rarity: "Two Diamond",

@@ -13,6 +13,8 @@ test('normalizes only missing separators in localized form names', () => {
 	assert.equal(normalizeRaenonxName('es', 'Zigzagoonde Galar'), 'Zigzagoon de Galar')
 	assert.equal(normalizeRaenonxName('pt', 'Ninetalesde Alola ex'), 'Ninetales de Alola ex')
 	assert.equal(normalizeRaenonxName('zh', '阿羅拉六尾'), '阿羅拉六尾')
+	assert.equal(normalizeRaenonxName('it', 'Mega Charizard[C:Nbsp ]Y-ex'), 'Mega Charizard Y-ex')
+	assert.equal(normalizeRaenonxName('es', 'Fase[C:Nbsp ]2'), 'Fase 2')
 })
 
 test('B4 writers refuse write mode without a reviewed base ref', () => {

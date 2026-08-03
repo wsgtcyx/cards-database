@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Hitmonlee",
         "de": "Kicklee",
         "pt-br": "Hitmonlee",
-        "zh-tw": "希特蒙利"
+        "zh-tw": "飛腿郎"
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Ninetales",
-        "fr": "Ninetales",
-        "es": "nuevetales",
+        "fr": "Feunard",
+        "es": "Ninetales",
         "it": "Ninetales",
-        "de": "Ninetales",
+        "de": "Vulnona",
         "pt-br": "Ninetales",
         "zh-tw": "九尾"
     },

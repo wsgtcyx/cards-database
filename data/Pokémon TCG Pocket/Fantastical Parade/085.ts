@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Roggenrola",
-        "fr": "Roggenrola",
+        "fr": "Nodulithe",
         "es": "Roggenrola",
         "it": "Roggenrola",
-        "de": "Roggenrola",
+        "de": "Kiesling",
         "pt-br": "Roggenrola",
-        "zh-tw": "羅根羅拉"
+        "zh-tw": "石丸子"
     },
     illustrator: "Kanako Eo",
     rarity: "One Diamond",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Sudowoodo",
-        "fr": "Sudowoodo",
+        "fr": "Simularbre",
         "es": "Sudowoodo",
         "it": "Sudowoodo",
-        "de": "Sudowoodo",
+        "de": "Mogelbaum",
         "pt-br": "Sudowoodo",
         "zh-tw": "樹才怪",
     },

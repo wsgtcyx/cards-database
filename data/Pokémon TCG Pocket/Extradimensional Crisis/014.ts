@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Luxio",
         "fr": "Luxio",
-        "es": "lucio",
+        "es": "Luxio",
         "it": "Luxio",
         "de": "Luxio",
-        "pt-br": "Luxo",
+        "pt-br": "Luxio",
         "zh-tw": "勒克貓",
     },
     illustrator: "Kouki Saitou",

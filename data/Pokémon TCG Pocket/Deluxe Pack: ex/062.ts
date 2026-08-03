@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Growlithe",
-        "fr": "Growlithe",
-        "es": "crecer",
+        "fr": "Caninos",
+        "es": "Growlithe",
         "it": "Growlithe",
-        "de": "Growlithe",
+        "de": "Fukano",
         "pt-br": "Growlithe",
         "zh-tw": "卡蒂狗",
     },

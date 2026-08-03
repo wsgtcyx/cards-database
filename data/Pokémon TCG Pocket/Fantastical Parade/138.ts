@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Tornadus",
-        "fr": "Tornade",
-        "es": "Tornado",
+        "fr": "Boréas",
+        "es": "Tornadus",
         "it": "Tornadus",
-        "de": "Tornadus",
-        "pt-br": "Tornado",
-        "zh-tw": "龍捲風"
+        "de": "Boreos",
+        "pt-br": "Tornadus",
+        "zh-tw": "龍捲雲"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

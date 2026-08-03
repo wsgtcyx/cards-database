@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Rockruff",
-        "fr": "Rockruff",
-        "es": "rockruff",
+        "fr": "Rocabot",
+        "es": "Rockruff",
         "it": "Rockruff",
-        "de": "Rockruff",
+        "de": "Wuffels",
         "pt-br": "Rockruff",
         "zh-tw": "岩狗狗",
     },

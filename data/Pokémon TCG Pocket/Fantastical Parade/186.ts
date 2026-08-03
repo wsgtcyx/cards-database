@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mimikyu ex",
-        "fr": "Mimiqui ex",
+        "fr": "Mimiqui-ex",
         "es": "Mimikyu ex",
-        "it": "Mimikyu ex",
-        "de": "Mimikyu ex",
+        "it": "Mimikyu-ex",
+        "de": "Mimigma-ex",
         "pt-br": "Mimikyu ex",
-        "zh-tw": "謎擬久前任"
+        "zh-tw": "謎擬Ｑex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

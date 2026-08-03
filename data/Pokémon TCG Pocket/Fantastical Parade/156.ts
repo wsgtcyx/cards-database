@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Cacnea",
-        "fr": "Cacnéie",
-        "es": "cacnea",
+        "fr": "Cacnea",
+        "es": "Cacnea",
         "it": "Cacnea",
-        "de": "Cacnea",
-        "pt-br": "Cacneia",
-        "zh-tw": "卡內亞"
+        "de": "Tuska",
+        "pt-br": "Cacnea",
+        "zh-tw": "刺球仙人掌"
     },
     illustrator: "Mina Nakai",
     rarity: "One Star",

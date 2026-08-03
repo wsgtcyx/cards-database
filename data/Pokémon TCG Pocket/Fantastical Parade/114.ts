@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Excadrill",
-        "fr": "Excadrille",
-        "es": "excadril",
+        "fr": "Minotaupe",
+        "es": "Excadrill",
         "it": "Excadrill",
-        "de": "Excadrill",
+        "de": "Stalobor",
         "pt-br": "Excadrill",
-        "zh-tw": "埃克斯卡德里爾"
+        "zh-tw": "龍頭地鼠"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

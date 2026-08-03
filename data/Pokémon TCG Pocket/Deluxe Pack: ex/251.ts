@@ -13,13 +13,13 @@ const card: Card = {
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/251"
 	},
 	name: {
-		en: "Dugtrio ex",
-		fr: "Triopikeur -ex",
-		es: "Dugtrio ex",
-		it: "Dugtrio -ex",
-		de: "Digdri-ex",
-		"pt-br": "Dugtrio ex",
-		"zh-tw": "阿羅拉 三地鼠ex"
+		en: "Alolan Dugtrio ex",
+		fr: "Triopikeur d'Alola-ex",
+		es: "Dugtrio de Alola ex",
+		it: "Dugtrio di Alola-ex",
+		de: "Alola-Digdri-ex",
+		"pt-br": "Dugtrio de Alola ex",
+		"zh-tw": "阿羅拉三地鼠ex"
 	},
 	illustrator: "PLANETA CG Works",
 	rarity: "Four Diamond",

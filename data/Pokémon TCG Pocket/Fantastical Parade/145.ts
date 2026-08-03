@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Lucky Ice Pop",
-        "fr": "Sucette glacée porte-bonheur",
-        "es": "Paletas de hielo de la suerte",
-        "it": "Ghiacciolo fortunato",
-        "de": "Glückseis am Stiel",
-        "pt-br": "Sorvete da Sorte",
-        "zh-tw": "幸運冰棒"
+        "fr": "Glace Chanceuse",
+        "es": "Helado Suerte",
+        "it": "Ghiacciolo della Fortuna",
+        "de": "Glücks-Eis",
+        "pt-br": "Picolé da Sorte",
+        "zh-tw": "可抽獎的冰棒"
     },
     illustrator: "inose yukie",
     rarity: "Two Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Hearthflame Mask Ogerpon",
-        "fr": "Masque Hearthflame Ogerpon",
-        "es": "Máscara de llama de hogar Ogerpon",
+        "fr": "Ogerpon Masque du Fourneau",
+        "es": "Ogerpon Máscara Horno",
         "it": "Maschera di Focolare Ogerpon",
         "de": "Hearthflame-Maske Ogerpon",
-        "pt-br": "Máscara Hearthflame Ogerpon",
-        "zh-tw": "爐火面具奧傑彭"
+        "pt-br": "Ogerpon Máscara Fornalha",
+        "zh-tw": "厄鬼椪火灶面具"
     },
     illustrator: "Nurikabe",
     rarity: "Three Diamond",

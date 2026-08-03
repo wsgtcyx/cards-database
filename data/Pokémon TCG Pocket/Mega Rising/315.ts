@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Dodrio",
         "es": "Dodrio",
         "it": "Dodrio",
-        "de": "Dodrio",
+        "de": "Dodri",
         "pt-br": "Dodrio",
         "zh-tw": "嘟嘟利",
     },

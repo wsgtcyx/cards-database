@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Swampert ex",
-        "fr": "Méga Swampert ex",
-        "es": "Mega Swampert ex",
-        "it": "Mega Swampert ex",
-        "de": "Mega Swampert ex",
-        "pt-br": "Ex de Mega Swampert",
-        "zh-tw": "巨型沼澤前"
+        "fr": "Méga-Laggron-ex",
+        "es": "Mega-Swampert ex",
+        "it": "Mega Swampert-ex",
+        "de": "Mega-Sumpex-ex",
+        "pt-br": "Mega Swampert ex",
+        "zh-tw": "超級巨沼怪ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

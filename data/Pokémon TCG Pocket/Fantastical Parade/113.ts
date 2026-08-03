@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Mawile ex",
-        "fr": "Méga Mawile ex",
-        "es": "Mega Mawile ex",
-        "it": "Mega Mawile ex",
-        "de": "Mega Mawile ex",
+        "fr": "Méga-Mysdibule-ex",
+        "es": "Mega-Mawile ex",
+        "it": "Mega Mawile-ex",
+        "de": "Mega-Flunkifer-ex",
         "pt-br": "Mega Mawile ex",
-        "zh-tw": "超級馬維爾前"
+        "zh-tw": "超級大嘴娃ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

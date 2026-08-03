@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Umbreon ex",
-        "fr": "Umbreon ex",
+        "fr": "Noctali-ex",
         "es": "Umbreon ex",
-        "it": "Umbreon es",
-        "de": "Umbreon ex",
+        "it": "Umbreon-ex",
+        "de": "Nachtara-ex",
         "pt-br": "Umbreon ex",
-        "zh-tw": "傘EX"
+        "zh-tw": "月亮伊布ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

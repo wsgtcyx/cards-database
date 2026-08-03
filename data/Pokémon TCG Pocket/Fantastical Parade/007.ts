@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Cacturne",
-        "fr": "Cactus",
-        "es": "cacturne",
+        "fr": "Cacturne",
+        "es": "Cacturne",
         "it": "Cacturne",
-        "de": "Kakturne",
+        "de": "Noktuska",
         "pt-br": "Cacturne",
-        "zh-tw": "仙人掌"
+        "zh-tw": "夢歌仙人掌"
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",

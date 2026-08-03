@@ -12,15 +12,15 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/126"
     },
     name: {
-        en: "Entei",
-        fr: "Entei",
-        es: "Entei",
-        it: "Entei",
-        de: "Entei",
-        "pt-br": "Entei",
-        "zh-tw": "炎帝",
+        en: "Entei ex",
+        fr: "Entei-ex",
+        es: "Entei ex",
+        it: "Entei-ex",
+        de: "Entei-ex",
+        "pt-br": "Entei ex",
+        "zh-tw": "炎帝ex",
         'es-mx': "Entei",
-        pt: "Entei"
+        pt: "Entei ex"
     },
     suffix: "EX",
     illustrator: "PLANETA CG Works",

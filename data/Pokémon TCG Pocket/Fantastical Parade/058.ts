@@ -14,10 +14,10 @@ const card: Card = {
         en: "Galarian Ponyta",
         "fr": "Ponyta de Galar",
         "es": "Ponyta de Galar",
-        "it": "Ponyta Galariano",
-        "de": "Galarischer Ponyta",
+        "it": "Ponyta di Galar",
+        "de": "Galar-Ponita",
         "pt-br": "Ponyta de Galar",
-        "zh-tw": "加拉利安·波尼塔"
+        "zh-tw": "伽勒爾小火馬"
     },
     illustrator: "Saya Tsuruta",
     rarity: "One Diamond",

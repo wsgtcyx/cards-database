@@ -2,7 +2,7 @@
 	"private": true,
 	"scripts": {
 		"validate": "tsc --noEmit --project tsconfig.json",
-		"test": "node --test scripts/sync-localized-card-images.test.mjs",
+		"test": "node --test scripts/sync-localized-card-images.test.mjs scripts/apply-pocket-card-integrity-fixes.test.mjs .agents/skills/merge-pocket-card-sources/scripts/raenonx-b4-safety.test.mjs",
 		"check-missing": "ts-node meta/scripts/check-missing.ts",
 		"check-missing:help": "echo 'Usage: npm run check-missing \"<pattern>\" \"<property>\" [output-file]'",
 		"link-cardmarket": "ts-node meta/scripts/linkCardToCardmarket.ts"

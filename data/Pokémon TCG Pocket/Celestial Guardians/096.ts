@@ -18,7 +18,7 @@ const card: Card = {
         de: "Meistagrif",
         'pt-br': "Conkeldurr",
         ko: "노보청",
-        "zh-tw": "修繕老頭",
+        "zh-tw": "修建老匠",
     },
     illustrator: "kawayoo",
     rarity: "Three Diamond",

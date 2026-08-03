@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Zangoose",
-        "fr": "Zangoose",
-        "es": "Zangosta",
+        "fr": "Mangriff",
+        "es": "Zangoose",
         "it": "Zangoose",
-        "de": "Zangoose",
+        "de": "Sengo",
         "pt-br": "Zangoose",
         "zh-tw": "貓鼬斬",
     },

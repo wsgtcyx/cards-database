@@ -12,14 +12,14 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/129"
     },
     name: {
-        en: "Tinkaton",
-        fr: "Forgelina",
-        es: "Tinkaton",
-        it: "Tinkaton",
-        de: "Granforgita",
-        "pt-br": "Tinkaton",
-        "zh-tw": "巨鍛匠",
-        pt: "Tinkaton"
+        en: "Tinkaton ex",
+        fr: "Forgelina-ex",
+        es: "Tinkaton ex",
+        it: "Tinkaton-ex",
+        de: "Granforgita-ex",
+        "pt-br": "Tinkaton ex",
+        "zh-tw": "巨鍛匠ex",
+        pt: "Tinkaton ex"
     },
     suffix: "EX",
     illustrator: "PLANETA Igarashi",

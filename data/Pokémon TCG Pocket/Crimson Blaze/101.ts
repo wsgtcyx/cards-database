@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Solgaleo ex",
-        "fr": "Solgaleo ex",
+        "fr": "Solgaleo-ex",
         "es": "Solgaleo ex",
-        "it": "Solgaleo es",
-        "de": "Solgaleo ex",
+        "it": "Solgaleo-ex",
+        "de": "Solgaleo-ex",
         "pt-br": "Solgaleo ex",
-        "zh-tw": "索爾迦雷歐EX"
+        "zh-tw": "索爾迦雷歐ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

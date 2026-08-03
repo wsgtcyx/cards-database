@@ -19,7 +19,7 @@ const card: Card = {
         it: "Goodra di Hisui",
         de: "Hisui-Viscogon",
         "pt-br": "Goodra de Hisui",
-        "zh-tw": "洗翠 黏美龍",
+        "zh-tw": "洗翠黏美龍",
         ko: "히스이 미끄래곤",
         ja: "ヒスイ ヌメルゴン"
     },

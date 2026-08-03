@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Gliscor",
-        "fr": "Gliscor",
+        "fr": "Scorvol",
         "es": "Gliscor",
         "it": "Gliscor",
-        "de": "Gliscor",
+        "de": "Skorgro",
         "pt-br": "Gliscor",
         "zh-tw": "天蠍王",
     },

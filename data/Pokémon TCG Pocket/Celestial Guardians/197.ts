@@ -26,7 +26,7 @@ const card: Card = {
     effect: {
         en: "Heal 60 damage from 1 of your Stage 2 Pokémon.",
         fr: "Soignez 60 dégâts d'un de vos Pokémon de Niveau 2.",
-        es: "Cura 60 puntos de daño a 1 de tus Pokémon de Fase[C:Nbsp ]2.",
+        es: "Cura 60 puntos de daño a 1 de tus Pokémon de Fase 2.",
         it: "Cura uno dei tuoi Pokémon di Fase 2 da 60 danni.",
         de: "Heile 60 Schadenspunkte bei 1 deiner Phase-2-Pokémon.",
         'pt-br': "Cure 60 pontos de dano de 1 dos seus Pokémon Estágio 2.",

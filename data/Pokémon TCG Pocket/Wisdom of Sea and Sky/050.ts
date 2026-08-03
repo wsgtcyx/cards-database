@@ -13,7 +13,7 @@ const card: Card = {
     name: {
         en: "Azumarill",
         "fr": "Azumarill",
-        "es": "azumaril",
+        "es": "Azumarill",
         "it": "Azumarill",
         "de": "Azumarill",
         "pt-br": "Azumarill",

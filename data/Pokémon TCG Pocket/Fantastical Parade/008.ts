@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Chespin",
-        "fr": "Chespin",
+        "fr": "Marisson",
         "es": "Chespin",
         "it": "Chespin",
-        "de": "Chespin",
+        "de": "Igamaro",
         "pt-br": "Chespin",
-        "zh-tw": "切斯平"
+        "zh-tw": "哈力栗"
     },
     illustrator: "5ban Graphics",
     rarity: "One Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Spewpa",
-        "fr": "Spewpa",
-        "es": "spewpa",
+        "fr": "Pérégrain",
+        "es": "Spewpa",
         "it": "Spewpa",
-        "de": "Spewpa",
+        "de": "Puponcho",
         "pt-br": "Spewpa",
-        "zh-tw": "斯佩帕"
+        "zh-tw": "粉蝶蛹"
     },
     illustrator: "Sumiyoshi Kizuki",
     rarity: "One Diamond",

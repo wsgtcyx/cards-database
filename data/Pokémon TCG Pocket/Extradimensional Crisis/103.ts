@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Nihilego",
-        "fr": "Nihilego",
+        "fr": "Zéroïd",
         "es": "Nihilego",
         "it": "Nihilego",
-        "de": "Nihilego",
+        "de": "Anego",
         "pt-br": "Nihilego",
         "zh-tw": "虛吾伊德",
     },

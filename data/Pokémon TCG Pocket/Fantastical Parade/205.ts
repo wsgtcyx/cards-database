@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Tangela",
-        "fr": "Tangela",
+        "fr": "Saquedeneu",
         "es": "Tangela",
         "it": "Tangela",
         "de": "Tangela",
         "pt-br": "Tangela",
-        "zh-tw": "坦格拉"
+        "zh-tw": "蔓藤怪"
     },
     illustrator: "Taiga Kasai",
     rarity: "One Shiny",

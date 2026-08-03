@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Sulfura",
         "es": "Moltres",
         "it": "Moltres",
-        "de": "Moltres",
+        "de": "Lavados",
         "pt-br": "Moltres",
         "zh-tw": "火焰鳥",
     },

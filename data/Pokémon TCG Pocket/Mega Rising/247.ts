@@ -12,11 +12,11 @@ const card: Card = {
     },
     name: {
         en: "Goomy",
-        "fr": "Goomy",
-        "es": "goomy",
-        "it": "Buono",
-        "de": "Goomy",
-        "pt-br": "Pegajoso",
+        "fr": "Mucuscule",
+        "es": "Goomy",
+        "it": "Goomy",
+        "de": "Viscora",
+        "pt-br": "Goomy",
         "zh-tw": "黏黏寶",
     },
     illustrator: "Kariya",
@@ -67,10 +67,6 @@ const card: Card = {
             },
             damage: 30,
             cost: ["Water", "Psychic"]
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 1
 };

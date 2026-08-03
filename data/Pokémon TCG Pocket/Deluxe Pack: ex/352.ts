@@ -12,11 +12,11 @@ const card: Card = {
 	},
 	name: {
         en: "Red",
-        "fr": "Rouge",
+        "fr": "Red",
         "es": "Rojo",
         "it": "Rosso",
         "de": "Rot",
-        "pt-br": "Vermelho",
+        "pt-br": "Red",
         "zh-tw": "赤紅",
     },
     illustrator: "Teeziro",

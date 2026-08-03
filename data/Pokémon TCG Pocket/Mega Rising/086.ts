@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Shinx",
-        "fr": "Shinx",
+        "fr": "Lixy",
         "es": "Shinx",
         "it": "Shinx",
-        "de": "Shinx",
+        "de": "Sheinux",
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
     },

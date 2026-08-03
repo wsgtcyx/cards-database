@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Linoone",
         "fr": "Linéon",
-        "es": "linoone",
+        "es": "Linoone",
         "it": "Linoone",
-        "de": "Linoone",
+        "de": "Geradaks",
         "pt-br": "Linoone",
         "zh-tw": "直衝熊",
     },

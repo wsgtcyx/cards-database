@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Swampert",
-        "fr": "Swampert",
+        "fr": "Laggron",
         "es": "Swampert",
         "it": "Swampert",
-        "de": "Swampert",
+        "de": "Sumpex",
         "pt-br": "Swampert",
-        "zh-tw": "沼澤"
+        "zh-tw": "巨沼怪"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

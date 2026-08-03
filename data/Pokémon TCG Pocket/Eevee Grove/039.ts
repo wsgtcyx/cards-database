@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Whiscash",
-        "fr": "Whiscash",
+        "fr": "Barbicha",
         "es": "Whiscash",
-        "it": "Whiskey",
-        "de": "Whiscash",
+        "it": "Whiscash",
+        "de": "Welsar",
         "pt-br": "Whiscash",
         "zh-tw": "鯰魚王",
     },

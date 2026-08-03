@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Carkol",
-        "fr": "Carkol",
+        "fr": "Wagomine",
         "es": "Carkol",
         "it": "Carkol",
-        "de": "Carkol",
+        "de": "Wagong",
         "pt-br": "Carkol",
         "zh-tw": "大炭車",
     },

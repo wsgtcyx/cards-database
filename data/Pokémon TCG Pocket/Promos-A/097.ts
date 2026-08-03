@@ -13,10 +13,10 @@ const card: Card = {
     },
     name: {
         en: "Kangaskhan",
-        "fr": "Kangaskhan",
+        "fr": "Kangourex",
         "es": "Kangaskhan",
         "it": "Kangaskhan",
-        "de": "Kangaschan",
+        "de": "Kangama",
         "pt-br": "Kangaskhan",
         "zh-tw": "袋獸",
     },

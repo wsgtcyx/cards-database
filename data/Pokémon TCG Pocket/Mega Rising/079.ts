@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Barraskewda",
-        "fr": "Barraskewda",
+        "fr": "Hastacuda",
         "es": "Barraskewda",
         "it": "Barraskewda",
-        "de": "Barraskewda",
+        "de": "Barrakiefa",
         "pt-br": "Barraskewda",
         "zh-tw": "戽斗尖梭",
     },

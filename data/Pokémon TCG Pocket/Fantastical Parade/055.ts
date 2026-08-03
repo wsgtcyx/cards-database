@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Toxtricity ex",
-        "fr": "Toxicité ex",
-        "es": "Toxtricidad ex",
-        "it": "Tossicità es",
-        "de": "Toxizität ex",
-        "pt-br": "Toxtricidade ex",
-        "zh-tw": "毒性前"
+        "fr": "Salarsen-ex",
+        "es": "Toxtricity ex",
+        "it": "Toxtricity-ex",
+        "de": "Riffex-ex",
+        "pt-br": "Toxtricity ex",
+        "zh-tw": "顫弦蠑螈ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Scrafty",
-        "fr": "Astucieux",
-        "es": "astuto",
-        "it": "Astuto",
-        "de": "Geschickt",
-        "pt-br": "Astuto",
-        "zh-tw": "狡猾的"
+        "fr": "Baggaïd",
+        "es": "Scrafty",
+        "it": "Scrafty",
+        "de": "Irokex",
+        "pt-br": "Scrafty",
+        "zh-tw": "頭巾混混"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",

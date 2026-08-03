@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Delibird",
-        "fr": "Délibird",
+        "fr": "Cadoizo",
         "es": "Delibird",
         "it": "Delibird",
-        "de": "Delibird",
+        "de": "Botogel",
         "pt-br": "Delibird",
-        "zh-tw": "熟食鳥"
+        "zh-tw": "信使鳥"
     },
     illustrator: "USGMEN",
     rarity: "Two Diamond",

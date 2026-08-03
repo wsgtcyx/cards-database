@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Tauros",
         "de": "Tauros",
         "pt-br": "Tauros",
-        "zh-tw": "金牛座"
+        "zh-tw": "肯泰羅"
     },
     illustrator: "Nisota Niso",
     rarity: "One Shiny",

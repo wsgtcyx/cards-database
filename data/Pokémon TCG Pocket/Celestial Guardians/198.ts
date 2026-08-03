@@ -18,7 +18,7 @@ const card: Card = {
         de: "Silvarro-ex",
         'pt-br': "Decidueye ex",
         ko: "모크나이퍼 ex",
-        "zh-tw": "狙射樹梟 ex",
+        "zh-tw": "狙射樹梟ex",
     },
     illustrator: "Takumi Wada",
     rarity: "Two Star",

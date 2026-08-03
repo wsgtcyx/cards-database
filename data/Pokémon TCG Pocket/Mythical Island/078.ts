@@ -18,7 +18,7 @@ const card: Card = {
         de: "Aerodactyl-ex",
         'pt-br': "Aerodactyl ex",
         ko: "프테라 ex",
-        "zh-tw": "化石翼龍 ex",
+        "zh-tw": "化石翼龍ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

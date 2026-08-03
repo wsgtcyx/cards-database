@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Arrokuda",
-        "fr": "Arrokuda",
+        "fr": "Embrochet",
         "es": "Arrokuda",
         "it": "Arrokuda",
-        "de": "Arrokuda",
+        "de": "Pikuda",
         "pt-br": "Arrokuda",
         "zh-tw": "刺梭魚",
     },

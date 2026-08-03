@@ -17,8 +17,8 @@ const card: Card = {
         es: "Clodsire de Paldea",
         it: "Clodsire di Paldea",
         de: "Paldea-Suelord",
-        "pt-br": "Clodsire",
-        "zh-tw": "帕底亞 土王",
+        "pt-br": "Clodsire de Paldea",
+        "zh-tw": "帕底亞土王",
         pt: "Clodsire de Paldea"
     },
     illustrator: "Shin Nagasawa",

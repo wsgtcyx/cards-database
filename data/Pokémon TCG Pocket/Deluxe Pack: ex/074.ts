@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Monferno",
-        "fr": "Montferno",
+        "fr": "Chimpenfeu",
         "es": "Monferno",
         "it": "Monferno",
-        "de": "Monferno",
+        "de": "Panpyro",
         "pt-br": "Monferno",
         "zh-tw": "猛火猴",
     },

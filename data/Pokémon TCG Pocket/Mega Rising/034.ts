@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Combusken",
-        "fr": "Combusken",
+        "fr": "Galifeu",
         "es": "Combusken",
         "it": "Combusken",
-        "de": "Combusken",
+        "de": "Jungglut",
         "pt-br": "Combusken",
         "zh-tw": "力壯雞",
     },

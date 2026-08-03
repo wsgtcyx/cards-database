@@ -18,7 +18,7 @@ const card: Card = {
         de: "Knuddeluff-ex",
         'pt-br': "Wigglytuff ex",
         ko: "푸크린 ex",
-        "zh-tw": "胖可丁 ex",
+        "zh-tw": "胖可丁ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Shiny",

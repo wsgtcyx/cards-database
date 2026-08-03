@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Alolan Ninetales ex",
-        "fr": "Alolan Ninetales ex",
+        "fr": "Feunard d'Alola-ex",
         "es": "Ninetales de Alola ex",
-        "it": "Ninetales di Alola ex",
-        "de": "Alolan Ninetales ex",
-        "pt-br": "Ex-Alolan Ninetales",
-        "zh-tw": "阿羅拉九尾前"
+        "it": "Ninetales di Alola-ex",
+        "de": "Alola-Vulnona-ex",
+        "pt-br": "Ninetales de Alola ex",
+        "zh-tw": "阿羅拉九尾ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

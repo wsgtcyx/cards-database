@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Lopunny ex",
-        "fr": "Méga-Lockpin ex",
-        "es": "Mega Lopunny ex",
-        "it": "Mega Lopunny ex",
-        "de": "Mega-Schlapor ex",
+        "fr": "Méga-Lockpin-ex",
+        "es": "Mega-Lopunny ex",
+        "it": "Mega Lopunny-ex",
+        "de": "Mega-Schlapor-ex",
         "pt-br": "Mega Lopunny ex",
-        "zh-tw": "超級長耳兔 ex"
+        "zh-tw": "超級長耳兔ex"
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Star",

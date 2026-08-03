@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Marshtomp",
-        "fr": "Marais",
+        "fr": "Flobio",
         "es": "Marshtomp",
         "it": "Marshtomp",
-        "de": "Marshtomp",
+        "de": "Moorabbel",
         "pt-br": "Marshtomp",
-        "zh-tw": "馬什托姆普"
+        "zh-tw": "沼躍魚"
     },
     illustrator: "sui",
     rarity: "Two Diamond",

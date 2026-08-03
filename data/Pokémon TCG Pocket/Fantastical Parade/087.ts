@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Gigalith ex",
-        "fr": "Gigalithe ex",
-        "es": "ex gigalito",
-        "it": "Gigalite es",
-        "de": "Gigalith ex",
-        "pt-br": "Gigalito ex",
-        "zh-tw": "吉加利斯前"
+        "fr": "Gigalithe-ex",
+        "es": "Gigalith ex",
+        "it": "Gigalith-ex",
+        "de": "Brockoloss-ex",
+        "pt-br": "Gigalith ex",
+        "zh-tw": "龐岩怪ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

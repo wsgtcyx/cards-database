@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Lugia",
         "de": "Lugia",
         "pt-br": "Lugia",
-        "zh-tw": "盧基亞"
+        "zh-tw": "洛奇亞"
     },
     illustrator: "Anesaki Dynamic",
     rarity: "Three Diamond",

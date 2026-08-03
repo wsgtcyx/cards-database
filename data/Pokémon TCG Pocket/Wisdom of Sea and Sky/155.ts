@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Rescue Scarf",
-        "fr": "Sauvetage Foulard",
-        "es": "Rescate Pañuelo",
-        "it": "Sciarpa di salvataggio",
-        "de": "Rettungsschal",
-        "pt-br": "Lenço de resgate",
-        "zh-tw": "救援圍巾"
+        "fr": "Foulard de Sauvetage",
+        "es": "Bufanda Rescatadora",
+        "it": "Sciarpa Salvagente",
+        "de": "Rettender Schal",
+        "pt-br": "Cachecol de Resgate",
+        "zh-tw": "救援領巾"
     },
     illustrator: "Ryo Ueda",
     rarity: "Two Diamond",

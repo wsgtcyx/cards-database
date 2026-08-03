@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Seismitoad",
-        "fr": "Sismique",
+        "fr": "Crapustule",
         "es": "Seismitoad",
-        "it": "Seistomad",
-        "de": "Erdbeben",
+        "it": "Seismitoad",
+        "de": "Branawarz",
         "pt-br": "Seismitoad",
         "zh-tw": "蟾蜍王",
     },

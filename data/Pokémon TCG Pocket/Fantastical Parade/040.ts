@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Cryogonal",
-        "fr": "Cryogonal",
-        "es": "criogonal",
-        "it": "Criogonale",
-        "de": "Kryogonal",
-        "pt-br": "Criogonal",
-        "zh-tw": "冷凍"
+        "fr": "Hexagel",
+        "es": "Cryogonal",
+        "it": "Cryogonal",
+        "de": "Frigometri",
+        "pt-br": "Cryogonal",
+        "zh-tw": "幾何雪花"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "One Diamond",

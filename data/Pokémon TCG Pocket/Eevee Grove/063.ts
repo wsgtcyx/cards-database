@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Cinccino",
-        "fr": "Cinccino",
+        "fr": "Pashmilla",
         "es": "Cinccino",
-        "it": "Cincino",
-        "de": "Cinccino",
+        "it": "Cinccino",
+        "de": "Chillabell",
         "pt-br": "Cinccino",
         "zh-tw": "奇諾栗鼠",
     },

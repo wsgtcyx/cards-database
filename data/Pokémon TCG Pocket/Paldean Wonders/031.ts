@@ -22,7 +22,7 @@ const card: Card = {
         pt: "Veluza"
     },
     illustrator: "Oswaldo KATO",
-    rarity: "One Diamond",
+    rarity: "Two Diamond",
     category: "Pokemon",
     hp: 100,
     types: ["Water"],

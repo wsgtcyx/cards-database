@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Chansey",
-        "fr": "Chansey",
+        "fr": "Leveinard",
         "es": "Chansey",
         "it": "Chansey",
-        "de": "Chansey",
+        "de": "Chaneira",
         "pt-br": "Chansey",
         "zh-tw": "吉利蛋",
     },

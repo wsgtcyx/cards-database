@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Blaziken",
-        "fr": "Blaziken",
+        "fr": "Braségali",
         "es": "Blaziken",
         "it": "Blaziken",
-        "de": "Blaziken",
+        "de": "Lohgock",
         "pt-br": "Blaziken",
         "zh-tw": "火焰雞",
     },

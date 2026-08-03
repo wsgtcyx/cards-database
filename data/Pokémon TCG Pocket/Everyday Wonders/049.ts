@@ -19,7 +19,7 @@ const card: Card = {
         it: "Sliggoo di Hisui",
         de: "Hisui-Viscargot",
         "pt-br": "Sliggoo de Hisui",
-        "zh-tw": "洗翠 黏美兒",
+        "zh-tw": "洗翠黏美兒",
         ko: "히스이 미끄네일",
         ja: "ヒスイ ヌメイル"
     },

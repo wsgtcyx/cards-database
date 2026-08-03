@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Porygon2",
         "de": "Porygon2",
         "pt-br": "Porygon2",
-        "zh-tw": "3D龍2",
+        "zh-tw": "多邊獸Ⅱ",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Two Diamond",

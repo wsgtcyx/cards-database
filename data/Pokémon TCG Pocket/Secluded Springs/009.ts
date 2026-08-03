@@ -12,7 +12,7 @@ const card: Card = {
     },
     name: {
         en: "Magcargo",
-        "fr": "Cargaison",
+        "fr": "Volcaropod",
         "es": "Magcargo",
         "it": "Magcargo",
         "de": "Magcargo",

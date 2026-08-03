@@ -18,7 +18,7 @@ const card: Card = {
         de: "Magbrant",
         'pt-br': "Magmortar",
         ko: "마그마번",
-        "zh-tw": "鴨嘴焰龍",
+        "zh-tw": "鴨嘴炎獸",
     },
     illustrator: "KEIICHIRO ITO",
     rarity: "Three Diamond",

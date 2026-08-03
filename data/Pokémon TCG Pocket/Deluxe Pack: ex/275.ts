@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Pidgeotto",
-        "fr": "Piègeotto",
+        "fr": "Roucoups",
         "es": "Pidgeotto",
         "it": "Pidgeotto",
-        "de": "Pidgeotto",
+        "de": "Tauboga",
         "pt-br": "Pidgeotto",
         "zh-tw": "比比鳥"
     },

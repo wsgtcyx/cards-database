@@ -12,7 +12,7 @@ const card: Card = {
     },
     name: {
         en: "Dratini",
-        "fr": "Dratini",
+        "fr": "Minidraco",
         "es": "Dratini",
         "it": "Dratini",
         "de": "Dratini",
@@ -46,10 +46,6 @@ const card: Card = {
             },
             damage: 20,
             cost: ["Colorless"]
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 1
 };

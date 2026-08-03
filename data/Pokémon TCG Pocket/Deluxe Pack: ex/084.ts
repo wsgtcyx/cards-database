@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Squirtle",
         "fr": "Carapuce",
-        "es": "squirtle",
+        "es": "Squirtle",
         "it": "Squirtle",
-        "de": "Eichhörnchen",
+        "de": "Schiggy",
         "pt-br": "Squirtle",
         "zh-tw": "傑尼龜"
     },

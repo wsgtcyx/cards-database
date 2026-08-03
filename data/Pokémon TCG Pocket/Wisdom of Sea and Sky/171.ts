@@ -54,10 +54,6 @@ const card: Card = {
                 "zh-tw": "從你的能量區取出一個{L}能量並將其附加到你的1只後備基礎神奇寶貝上。"
             }
         }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
-        }],
     retreat: 0,
     boosters: ["lugia"]
 };

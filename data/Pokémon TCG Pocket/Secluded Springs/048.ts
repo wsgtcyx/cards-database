@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Seviper",
-        "fr": "Sévipère",
-        "es": "Sevíper",
+        "fr": "Séviper",
+        "es": "Seviper",
         "it": "Seviper",
-        "de": "Seviper",
+        "de": "Vipitis",
         "pt-br": "Seviper",
         "zh-tw": "飯匙蛇",
     },

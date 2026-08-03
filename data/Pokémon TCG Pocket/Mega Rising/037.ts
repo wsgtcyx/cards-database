@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Pansear",
-        "fr": "Panséar",
+        "fr": "Flamajou",
         "es": "Pansear",
         "it": "Pansear",
-        "de": "Pansear",
+        "de": "Grillmak",
         "pt-br": "Pansear",
         "zh-tw": "爆香猴",
     },

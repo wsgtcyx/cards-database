@@ -18,7 +18,7 @@ const card: Card = {
         de: "Celebi-ex",
         'pt-br': "Celebi ex",
         ko: "세레비 ex",
-        "zh-tw": "時拉比 ex",
+        "zh-tw": "時拉比ex",
     },
     illustrator: "kantaro",
     category: "Pokemon",

@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Munna",
         "es": "Munna",
         "it": "Munna",
-        "de": "Munna",
+        "de": "Somniam",
         "pt-br": "Munna",
         "zh-tw": "食夢夢",
     },

@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Leftovers",
         "fr": "Restes",
-        "es": "Sobras",
+        "es": "Restos",
         "it": "Avanzi",
-        "de": "Reste",
+        "de": "Überreste",
         "pt-br": "Sobras",
         "zh-tw": "吃剩的東西",
     },

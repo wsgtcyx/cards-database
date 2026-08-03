@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Magmar",
         "de": "Magmar",
         "pt-br": "Magmar",
-        "zh-tw": "瑪格瑪"
+        "zh-tw": "鴨嘴火獸"
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

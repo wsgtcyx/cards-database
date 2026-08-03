@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Aurorus",
-        "fr": "Aurore",
-        "es": "auroro",
-        "it": "Auroro",
-        "de": "Aurorus",
-        "pt-br": "Aurora",
-        "zh-tw": "金星"
+        "fr": "Dragmara",
+        "es": "Aurorus",
+        "it": "Aurorus",
+        "de": "Amagarga",
+        "pt-br": "Aurorus",
+        "zh-tw": "冰雪巨龍"
     },
     illustrator: "sui",
     rarity: "One Star",

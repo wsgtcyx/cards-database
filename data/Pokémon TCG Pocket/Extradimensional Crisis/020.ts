@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Xurkitree",
-        "fr": "Xurkitree",
+        "fr": "Câblifère",
         "es": "Xurkitree",
         "it": "Xurkitree",
-        "de": "Xurkitree",
+        "de": "Voltriant",
         "pt-br": "Xurkitree",
         "zh-tw": "電束木",
     },

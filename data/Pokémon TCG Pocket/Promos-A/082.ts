@@ -14,9 +14,9 @@ const card: Card = {
     name: {
         en: "Poipole",
         es: "Poipole",
-        "fr": "Poipole",
+        "fr": "Vémini",
         "it": "Poipole",
-        "de": "Poipole",
+        "de": "Venicro",
         "pt-br": "Poipole",
         "zh-tw": "毒貝比",
     },

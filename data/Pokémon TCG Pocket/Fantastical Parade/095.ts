@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Alolan Persian",
-        "fr": "Persan alolan",
-        "es": "Persa de Alola",
-        "it": "Persiano di Alola",
-        "de": "Alolan-Persisch",
-        "pt-br": "Persa de Alola",
-        "zh-tw": "阿羅拉波斯語"
+        "fr": "Persian d'Alola",
+        "es": "Persian de Alola",
+        "it": "Persian di Alola",
+        "de": "Alola-Snobilikat",
+        "pt-br": "Persian de Alola",
+        "zh-tw": "阿羅拉貓老大"
     },
     illustrator: "Hideki Ishikawa",
     rarity: "Two Diamond",

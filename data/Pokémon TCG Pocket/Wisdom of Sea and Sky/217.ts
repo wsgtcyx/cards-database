@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Magnemite",
-        "fr": "Magnétie",
-        "es": "magnemita",
+        "fr": "Magnéti",
+        "es": "Magnemite",
         "it": "Magnemite",
-        "de": "Magnemit",
+        "de": "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
     },

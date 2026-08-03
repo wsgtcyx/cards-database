@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Decidueye",
-        "fr": "Décidueye",
+        "fr": "Archéduc",
         "es": "Decidueye",
         "it": "Decidueye",
-        "de": "Decidueye",
+        "de": "Silvarro",
         "pt-br": "Decidueye",
         "zh-tw": "狙射樹梟",
     },

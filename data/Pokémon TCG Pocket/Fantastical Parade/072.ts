@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Gourgeist",
-        "fr": "Gourgeiste",
-        "es": "goloso",
+        "fr": "Banshitrouye",
+        "es": "Gourgeist",
         "it": "Gourgeist",
-        "de": "Gourgeist",
+        "de": "Pumpdjinn",
         "pt-br": "Gourgeist",
-        "zh-tw": "美食家"
+        "zh-tw": "南瓜怪人"
     },
     illustrator: "kirisAki",
     rarity: "Three Diamond",

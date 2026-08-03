@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Plusle",
-        "fr": "Plusle",
+        "fr": "Posipi",
         "es": "Plusle",
-        "it": "Inoltre",
-        "de": "Pluspunkt",
-        "pt-br": "Mais",
-        "zh-tw": "加勒"
+        "it": "Plusle",
+        "de": "Plusle",
+        "pt-br": "Plusle",
+        "zh-tw": "正電拍拍"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Corsola",
-        "fr": "Corsola",
+        "fr": "Corayon",
         "es": "Corsola",
         "it": "Corsola",
-        "de": "Corsola",
+        "de": "Corasonn",
         "pt-br": "Corsola",
         "zh-tw": "太陽珊瑚",
     },

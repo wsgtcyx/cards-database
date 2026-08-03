@@ -18,7 +18,7 @@ const card: Card = {
         de: "Tauboss-ex",
         'pt-br': "Pidgeot ex",
         ko: "피죤투 ex",
-        "zh-tw": "大比鳥 ex",
+        "zh-tw": "大比鳥ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

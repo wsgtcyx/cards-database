@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Mareep",
-        "fr": "Mareep",
+        "fr": "Wattouat",
         "es": "Mareep",
         "it": "Mareep",
-        "de": "Mareep",
+        "de": "Voltilamm",
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
     },

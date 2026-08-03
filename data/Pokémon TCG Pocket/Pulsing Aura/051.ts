@@ -15,10 +15,10 @@ const card: Card = {
     name: {
         en: "Rapid Strike Urshifu",
         fr: "Shifours Mille Poings",
-        es: "Urshifu Estilo Fluido",
+        es: "Urshifu Golpe Fluido",
         it: "Urshifu Stile Pluricolpo",
         de: "Wulaosu Fließender Stil",
-        "pt-br": "Urshifu Estilo Golpe Fluido",
+        "pt-br": "Urshifu Golpe Fluido",
         "zh-tw": "連擊武道熊師",
         ko: "연격 우라오스",
         ja: "れんげきウーラオス"

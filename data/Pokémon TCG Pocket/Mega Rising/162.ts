@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Toxapex",
         "fr": "Prédastérie",
-        "es": "toxapex",
+        "es": "Toxapex",
         "it": "Toxapex",
-        "de": "Toxapex",
+        "de": "Aggrostella",
         "pt-br": "Toxapex",
         "zh-tw": "超壞星",
     },

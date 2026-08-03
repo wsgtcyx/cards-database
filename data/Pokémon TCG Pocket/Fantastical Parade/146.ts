@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Sail Fossil",
-        "fr": "Fossile de voile",
-        "es": "Fósil de vela",
-        "it": "Vela fossile",
-        "de": "Segelfossil",
-        "pt-br": "Vela Fóssil",
-        "zh-tw": "風帆化石"
+        "fr": "Fossile Nageoire",
+        "es": "Fósil Aleta",
+        "it": "Fossilpinna",
+        "de": "Flossenfossil",
+        "pt-br": "Fóssil de Vela",
+        "zh-tw": "鰭之化石"
     },
     illustrator: "Toyste Beach",
     rarity: "One Diamond",

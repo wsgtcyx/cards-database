@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Appletun",
-        "fr": "Appletun",
-        "es": "Appletún",
+        "fr": "Dratatin",
+        "es": "Appletun",
         "it": "Appletun",
-        "de": "Appletun",
+        "de": "Schlapfel",
         "pt-br": "Appletun",
         "zh-tw": "豐蜜龍",
     },

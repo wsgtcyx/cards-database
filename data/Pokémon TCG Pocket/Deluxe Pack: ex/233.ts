@@ -13,13 +13,13 @@ const card: Card = {
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/233"
 	},
 	name: {
-		en: "Grimer",
-		fr: "Tadmorv",
-		es: "Grimer",
-		it: "Grimer",
-		de: "Sleima",
-		"pt-br": "Grimer",
-		"zh-tw": "阿羅拉 臭泥"
+		en: "Alolan Grimer",
+		fr: "Tadmorv d'Alola",
+		es: "Grimer de Alola",
+		it: "Grimer di Alola",
+		de: "Alola-Sleima",
+		"pt-br": "Grimer de Alola",
+		"zh-tw": "阿羅拉臭泥"
 	},
 	illustrator: "Akira Komayama",
 	rarity: "One Diamond",

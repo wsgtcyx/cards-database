@@ -15,10 +15,10 @@ const card: Card = {
     name: {
         en: "Single Strike Urshifu",
         fr: "Shifours Poing Final",
-        es: "Urshifu Estilo Brusco",
+        es: "Urshifu Golpe Brusco",
         it: "Urshifu Stile Singolcolpo",
         de: "Wulaosu Fokussierter Stil",
-        "pt-br": "Urshifu Estilo Golpe Decisivo",
+        "pt-br": "Urshifu Golpe Decisivo",
         "zh-tw": "一擊武道熊師",
         ko: "일격 우라오스",
         ja: "いちげきウーラオス"

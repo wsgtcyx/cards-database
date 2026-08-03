@@ -18,7 +18,7 @@ const card: Card = {
         de: "Menki",
         'pt-br': "Mankey",
         ko: "망키",
-        "zh-tw": "曼基"
+        "zh-tw": "猴怪"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "None",

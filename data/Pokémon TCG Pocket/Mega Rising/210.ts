@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Corvisquire",
-        "fr": "Corvisquire",
+        "fr": "Bleuseille",
         "es": "Corvisquire",
         "it": "Corvisquire",
-        "de": "Corvisquire",
+        "de": "Kranoviz",
         "pt-br": "Corvisquire",
         "zh-tw": "藍鴉",
     },

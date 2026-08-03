@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Audino",
-        "fr": "Audino",
+        "fr": "Nanméouïe",
         "es": "Audino",
         "it": "Audino",
-        "de": "Audino",
+        "de": "Ohrdoch",
         "pt-br": "Audino",
         "zh-tw": "差不多娃娃",
     },

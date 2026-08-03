@@ -14,9 +14,9 @@ const card: Card = {
     name: {
         en: "Jolteon",
         es: "Jolteon",
-        "fr": "Joltéon",
+        "fr": "Voltali",
         "it": "Jolteon",
-        "de": "Ruck",
+        "de": "Blitza",
         "pt-br": "Jolteon",
         "zh-tw": "雷伊布",
     },

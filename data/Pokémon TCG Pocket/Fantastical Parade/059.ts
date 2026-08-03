@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Galarian Rapidash",
-        "fr": "Rapidash galarien",
+        "fr": "Galopa de Galar",
         "es": "Rapidash de Galar",
-        "it": "Rapidash galariano",
-        "de": "Galarischer Rapidash",
+        "it": "Rapidash di Galar",
+        "de": "Galar-Gallopa",
         "pt-br": "Rapidash de Galar",
-        "zh-tw": "加拉利安·拉皮達什"
+        "zh-tw": "伽勒爾烈焰馬"
     },
     illustrator: "You Iribi",
     rarity: "Two Diamond",

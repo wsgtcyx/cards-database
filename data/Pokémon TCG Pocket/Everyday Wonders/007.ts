@@ -19,7 +19,7 @@ const card: Card = {
         it: "Lilligant di Hisui",
         de: "Hisui-Dressella",
         "pt-br": "Lilligant de Hisui",
-        "zh-tw": "洗翠 裙兒小姐",
+        "zh-tw": "洗翠裙兒小姐",
         ko: "히스이 드레디어",
         ja: "ヒスイ ドレディア"
     },

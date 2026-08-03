@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Cofagrigus",
-        "fr": "Cofagrigus",
+        "fr": "Tutankafer",
         "es": "Cofagrigus",
         "it": "Cofagrigus",
-        "de": "Cofagrigus",
+        "de": "Echnatoll",
         "pt-br": "Cofagrigus",
         "zh-tw": "死神棺",
     },

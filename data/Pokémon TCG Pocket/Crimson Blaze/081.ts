@@ -13,8 +13,8 @@ const card: Card = {
     name: {
         en: "Clemont",
         "fr": "Lem",
-        "es": "Clemont",
-        "it": "Clemont",
+        "es": "Lem",
+        "it": "Lem",
         "de": "Citro",
         "pt-br": "Clemont",
         "zh-tw": "希特隆"

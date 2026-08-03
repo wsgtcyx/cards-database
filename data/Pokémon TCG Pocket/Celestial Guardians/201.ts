@@ -18,7 +18,7 @@ const card: Card = {
         de: "Krawell-ex",
         'pt-br': "Crabominable ex",
         ko: "모단단게 ex",
-        "zh-tw": "好勝毛蟹 ex",
+        "zh-tw": "好勝毛蟹ex",
     },
     illustrator: "Miki Tanaka",
     rarity: "Two Star",

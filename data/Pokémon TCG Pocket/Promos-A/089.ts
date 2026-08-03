@@ -14,9 +14,9 @@ const card: Card = {
     name: {
         en: "Audino",
         es: "Audino",
-        "fr": "Audino",
+        "fr": "Nanméouïe",
         "it": "Audino",
-        "de": "Audino",
+        "de": "Ohrdoch",
         "pt-br": "Audino",
         "zh-tw": "差不多娃娃",
     },

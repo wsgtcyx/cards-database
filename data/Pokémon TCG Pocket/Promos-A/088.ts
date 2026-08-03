@@ -14,9 +14,9 @@ const card: Card = {
     name: {
         en: "Dragonair",
         es: "Dragonair",
-        "fr": "Dragonair",
+        "fr": "Draco",
         "it": "Dragonair",
-        "de": "Dragonair",
+        "de": "Dragonir",
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
     },
@@ -66,10 +66,6 @@ const card: Card = {
             }
         }],
     retreat: 2,
-    boosters: ["vol10"],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
-        }]
+    boosters: ["vol10"]
 };
 export default card;

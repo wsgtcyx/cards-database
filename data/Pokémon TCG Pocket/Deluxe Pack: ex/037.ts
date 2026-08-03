@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Serperior",
-        "fr": "Serviteur",
+        "fr": "Majaspic",
         "es": "Serperior",
         "it": "Serperior",
-        "de": "Serperior",
+        "de": "Serpiroyal",
         "pt-br": "Serperior",
         "zh-tw": "君主蛇",
     },

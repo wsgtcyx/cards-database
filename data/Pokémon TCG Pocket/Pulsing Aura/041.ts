@@ -19,7 +19,7 @@ const card: Card = {
         it: "Castform Forma Neve",
         de: "Formeo Schneeform",
         "pt-br": "Castform Forma Nevada",
-        "zh-tw": "飄浮泡泡 雪雲的樣子",
+        "zh-tw": "飄浮泡泡雪雲的樣子",
         ko: "캐스퐁 설운의 모습",
         ja: "ポワルン ゆきぐものすがた"
     },

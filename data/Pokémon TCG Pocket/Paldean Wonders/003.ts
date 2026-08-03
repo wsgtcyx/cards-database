@@ -12,13 +12,13 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/003"
     },
     name: {
-        en: "Meowscarada",
-        fr: "Miascarade",
-        es: "Meowscarada",
-        it: "Meowscarada",
-        de: "Maskagato",
-        'pt-br': "Meowscarada",
-        "zh-tw": "魔幻假面喵",
+        en: "Meowscarada ex",
+        fr: "Miascarade-ex",
+        es: "Meowscarada ex",
+        it: "Meowscarada-ex",
+        de: "Maskagato-ex",
+        'pt-br': "Meowscarada ex",
+        "zh-tw": "魔幻假面喵ex",
         ko: "마스카나"
     },
     suffix: "EX",

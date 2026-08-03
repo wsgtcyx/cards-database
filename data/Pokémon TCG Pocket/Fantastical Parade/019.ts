@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Reshiram",
-        "fr": "Réshiram",
+        "fr": "Reshiram",
         "es": "Reshiram",
         "it": "Reshiram",
         "de": "Reshiram",
         "pt-br": "Reshiram",
-        "zh-tw": "雷希拉姆"
+        "zh-tw": "萊希拉姆"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Three Diamond",

@@ -17,9 +17,9 @@ const card: Card = {
         fr: "Zoroark de Hisui-ex",
         es: "Zoroark de Hisui ex",
         it: "Zoroark di Hisui-ex",
-        de: "Hisui-Zoroark ex",
+        de: "Hisui-Zoroark-ex",
         "pt-br": "Zoroark de Hisui ex",
-        "zh-tw": "洗翠 索羅亞克ex",
+        "zh-tw": "洗翠索羅亞克ex",
         ko: "히스이 조로아크 ex",
         ja: "ヒスイ ゾロアークex"
     },

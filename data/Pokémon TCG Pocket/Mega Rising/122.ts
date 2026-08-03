@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Sandshrew",
-        "fr": "Musaraigne des sables",
+        "fr": "Sabelette",
         "es": "Sandshrew",
         "it": "Sandshrew",
-        "de": "Sandspitzmaus",
+        "de": "Sandan",
         "pt-br": "Sandshrew",
         "zh-tw": "穿山鼠",
     },

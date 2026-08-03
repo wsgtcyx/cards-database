@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Scorbunny",
-        "fr": "Scorlapin",
+        "fr": "Flambino",
         "es": "Scorbunny",
         "it": "Scorbunny",
-        "de": "Scorbunny",
+        "de": "Hopplo",
         "pt-br": "Scorbunny",
-        "zh-tw": "斯科兔"
+        "zh-tw": "炎兔兒"
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",

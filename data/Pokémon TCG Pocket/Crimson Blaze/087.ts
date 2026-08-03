@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Charizard Y ex",
-        "fr": "Méga-Dracaufeu Y ex",
-        "es": "Mega Charizard Y ex",
-        "it": "Mega Charizard Y ex",
-        "de": "Mega-Glurak Y ex",
+        "fr": "Méga-Dracaufeu Y-ex",
+        "es": "Mega-Charizard Y ex",
+        "it": "Mega Charizard Y-ex",
+        "de": "Mega-Glurak Y-ex",
         "pt-br": "Mega Charizard Y ex",
-        "zh-tw": "超級噴火龍Y ex"
+        "zh-tw": "超級噴火龍Yex"
     },
     illustrator: "Nurikabe",
     rarity: "Three Star",

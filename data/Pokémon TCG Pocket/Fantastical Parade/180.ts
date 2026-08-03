@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Teal Mask Ogerpon ex",
-        "fr": "Masque Sarcelle Ogerpon ex",
-        "es": "Máscara Verde Azulado Ogerpon ex",
+        "fr": "Ogerpon Masque Turquoise-ex",
+        "es": "Ogerpon Máscara Turquesa ex",
         "it": "Maschera verde acqua Ogerpon ex",
         "de": "Blaugrüne Maske Ogerpon ex",
-        "pt-br": "Máscara Teal Ogerpon ex",
-        "zh-tw": "青色面具 Ogerpon ex"
+        "pt-br": "Ogerpon Máscara Turquesa ex",
+        "zh-tw": "厄鬼椪碧草面具ex"
     },
     illustrator: "5ban Graphics",
     rarity: "Two Star",

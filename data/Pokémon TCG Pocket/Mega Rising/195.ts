@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Spinda",
         "es": "Spinda",
         "it": "Spinda",
-        "de": "Spinda",
+        "de": "Pandir",
         "pt-br": "Spinda",
         "zh-tw": "晃晃斑",
     },

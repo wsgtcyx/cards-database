@@ -18,7 +18,7 @@ const card: Card = {
         de: "Lapras-ex",
         'pt-br': "Lapras ex",
         ko: "라프라스 ex",
-        "zh-tw": "拉普拉斯 ex",
+        "zh-tw": "拉普拉斯ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "None",

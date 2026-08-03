@@ -12,11 +12,11 @@ const card: Card = {
     },
     name: {
         en: "Hala",
-        "fr": "Hala",
-        "es": "hala",
+        "fr": "Pectorius",
+        "es": "Kaudan",
         "it": "Hala",
         "de": "Hala",
-        "pt-br": "Olá",
+        "pt-br": "Pandam",
         "zh-tw": "哈拉"
     },
     illustrator: "Teeziro",

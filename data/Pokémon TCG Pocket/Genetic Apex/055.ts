@@ -35,7 +35,7 @@ const card: Card = {
         "zh-tw": "疣龜"
     },
     attacks: [{
-            cost: ["Water", "Colorless"],
+            cost: ["Water", "Water", "Colorless"],
             name: {
                 en: "Hydro Pump",
                 fr: "Hydrocanon",

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Dialga-ex",
         'pt-br': "Dialga ex",
         ko: "디아루가 ex",
-        "zh-tw": "帝牙盧卡 ex",
+        "zh-tw": "帝牙盧卡ex",
     },
     illustrator: "N-DESIGN Inc.",
     rarity: "Three Star",

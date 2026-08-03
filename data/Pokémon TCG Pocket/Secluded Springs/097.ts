@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Pyukumuku",
-        "fr": "Pyukumuku",
+        "fr": "Concombaffe",
         "es": "Pyukumuku",
         "it": "Pyukumuku",
-        "de": "Pyukumuku",
+        "de": "Gufa",
         "pt-br": "Pyukumuku",
         "zh-tw": "拳海參",
     },

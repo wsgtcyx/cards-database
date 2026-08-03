@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Spiritomb",
         "de": "Kryppuk",
         "pt-br": "Spiritomb",
-        "zh-tw": "靈墓"
+        "zh-tw": "花岩怪"
     },
     illustrator: "Kouki Saitou",
     rarity: "Three Diamond",

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Bamelin",
         'pt-br': "Buizel",
         ko: "브이젤",
-        "zh-tw": "泳氣鼬",
+        "zh-tw": "泳圈鼬",
     },
     illustrator: "OKUBO",
     rarity: "One Diamond",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Quagsire",
-        "fr": "Marapère",
+        "fr": "Maraiste",
         "es": "Quagsire",
         "it": "Quagsire",
-        "de": "Quagsire",
+        "de": "Morlord",
         "pt-br": "Quagsire",
         "zh-tw": "沼王",
     },

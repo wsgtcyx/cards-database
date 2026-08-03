@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Dartrix",
-        "fr": "Dartrix",
-        "es": "dartrix",
+        "fr": "Efflèche",
+        "es": "Dartrix",
         "it": "Dartrix",
-        "de": "Dartrix",
+        "de": "Arboretoss",
         "pt-br": "Dartrix",
         "zh-tw": "投羽梟",
     },

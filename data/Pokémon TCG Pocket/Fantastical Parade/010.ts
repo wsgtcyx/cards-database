@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Chesnaught",
-        "fr": "Chesnaught",
+        "fr": "Blindépique",
         "es": "Chesnaught",
         "it": "Chesnaught",
-        "de": "Chesnaught",
+        "de": "Brigaron",
         "pt-br": "Chesnaught",
-        "zh-tw": "切斯諾特"
+        "zh-tw": "布里卡隆"
     },
     illustrator: "5ban Graphics",
     rarity: "Three Diamond",

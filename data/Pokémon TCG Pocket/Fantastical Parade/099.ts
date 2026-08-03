@@ -14,10 +14,10 @@ const card: Card = {
         en: "Galarian Linoone",
         "fr": "Linéon de Galar",
         "es": "Linoone de Galar",
-        "it": "Linoone Galariano",
-        "de": "Galarischer Linoone",
+        "it": "Linoone di Galar",
+        "de": "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
-        "zh-tw": "加拉利安·利努內"
+        "zh-tw": "伽勒爾直衝熊"
     },
     illustrator: "nagimiso",
     rarity: "Two Diamond",

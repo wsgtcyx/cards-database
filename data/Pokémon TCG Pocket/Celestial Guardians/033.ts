@@ -18,7 +18,7 @@ const card: Card = {
         de: "Fuegro-ex",
         'pt-br': "Incineroar ex",
         ko: "어흥염 ex",
-        "zh-tw": "熾焰咆哮虎 ex",
+        "zh-tw": "熾焰咆哮虎ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

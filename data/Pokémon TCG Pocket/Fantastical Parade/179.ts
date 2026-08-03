@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Slakoth",
-        "fr": "Slakoth",
-        "es": "slakoth",
+        "fr": "Parecool",
+        "es": "Slakoth",
         "it": "Slakoth",
-        "de": "Slakoth",
+        "de": "Bummelz",
         "pt-br": "Slakoth",
-        "zh-tw": "斯拉科斯"
+        "zh-tw": "懶人獺"
     },
     illustrator: "Miki Tanaka",
     rarity: "One Star",

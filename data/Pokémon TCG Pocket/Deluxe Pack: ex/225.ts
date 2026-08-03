@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Marshadow",
         "fr": "Marshadow",
-        "es": "Sombra de mar",
+        "es": "Marshadow",
         "it": "Marshadow",
         "de": "Marshadow",
-        "pt-br": "sombra de mar",
+        "pt-br": "Marshadow",
         "zh-tw": "瑪夏多"
     },
     illustrator: "kantaro",

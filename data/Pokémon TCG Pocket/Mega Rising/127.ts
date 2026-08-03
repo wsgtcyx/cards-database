@@ -13,11 +13,11 @@ const card: Card = {
     name: {
         en: "Hariyama",
         "fr": "Hariyama",
-        "es": "hariyama",
+        "es": "Hariyama",
         "it": "Hariyama",
         "de": "Hariyama",
         "pt-br": "Hariyama",
-        "zh-tw": "超力王",
+        "zh-tw": "鐵掌力士",
     },
     illustrator: "Scav",
     rarity: "Two Diamond",

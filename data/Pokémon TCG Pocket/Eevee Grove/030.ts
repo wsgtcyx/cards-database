@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Swoobat",
-        "fr": "Swoobat",
+        "fr": "Rhinolove",
         "es": "Swoobat",
         "it": "Swoobat",
-        "de": "Swoobat",
+        "de": "Fletiamo",
         "pt-br": "Swoobat",
         "zh-tw": "心蝙蝠",
     },

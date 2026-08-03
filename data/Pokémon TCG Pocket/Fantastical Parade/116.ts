@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Ferrothorn",
-        "fr": "Ferroépine",
-        "es": "ferroespino",
+        "fr": "Noacier",
+        "es": "Ferrothorn",
         "it": "Ferrothorn",
-        "de": "Ferrothorn",
-        "pt-br": "Ferroespinho",
-        "zh-tw": "鐵松"
+        "de": "Tentantel",
+        "pt-br": "Ferrothorn",
+        "zh-tw": "堅果啞鈴"
     },
     illustrator: "Midori Harada",
     rarity: "One Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Buzzwole ex",
-        "fr": "Mouscoto ex",
+        "fr": "Mouscoto-ex",
         "es": "Buzzwole ex",
-        "it": "Buzzwole ex",
-        "de": "Masskito ex",
+        "it": "Buzzwole-ex",
+        "de": "Masskito-ex",
         "pt-br": "Buzzwole ex",
-        "zh-tw": "爆肌蚊 ex"
+        "zh-tw": "爆肌蚊ex"
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "Two Shiny",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Buzzwole",
-        "fr": "Buzzwole",
+        "fr": "Mouscoto",
         "es": "Buzzwole",
         "it": "Buzzwole",
-        "de": "Buzzwole",
+        "de": "Masskito",
         "pt-br": "Buzzwole",
-        "zh-tw": "巴斯沃勒"
+        "zh-tw": "爆肌蚊"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

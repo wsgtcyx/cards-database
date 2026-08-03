@@ -12,14 +12,14 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/128"
     },
     name: {
-        en: "Raikou",
-        fr: "Raikou",
-        es: "Raikou",
-        it: "Raikou",
-        de: "Raikou",
-        "pt-br": "Raikou",
-        "zh-tw": "雷公",
-        pt: "Raikou",
+        en: "Raikou ex",
+        fr: "Raikou-ex",
+        es: "Raikou ex",
+        it: "Raikou-ex",
+        de: "Raikou-ex",
+        "pt-br": "Raikou ex",
+        "zh-tw": "雷公ex",
+        pt: "Raikou ex",
         'es-mx': "Raikou"
     },
     suffix: "EX",

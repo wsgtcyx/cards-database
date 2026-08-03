@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Galarian Perrserker",
-        "fr": "Perrserker de Galar",
+        "fr": "Berserkatt de Galar",
         "es": "Perrserker de Galar",
         "it": "Perrserker di Galar",
-        "de": "Galarischer Perrserker",
+        "de": "Galar-Mauzinger",
         "pt-br": "Perrserker de Galar",
-        "zh-tw": "加拉利安·佩爾塞克"
+        "zh-tw": "伽勒爾喵頭目"
     },
     illustrator: "Shigenori Negishi",
     rarity: "Three Diamond",

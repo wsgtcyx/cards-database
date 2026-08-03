@@ -19,7 +19,7 @@ const card: Card = {
         it: "Clodsire di Paldea",
         de: "Paldea-Suelord",
         "pt-br": "Clodsire de Paldea",
-        "zh-tw": "帕底亞 土王",
+        "zh-tw": "帕底亞土王",
         ko: "팔데아 토오",
         ja: "パルデア ドオー"
     },

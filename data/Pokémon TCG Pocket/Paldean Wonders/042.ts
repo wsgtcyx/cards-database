@@ -12,14 +12,14 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/042"
     },
     name: {
-        en: "Bellibolt",
-        fr: "Ampibidou",
-        es: "Bellibolt",
-        it: "Bellibolt",
-        de: "Wampitz",
-        "pt-br": "Bellibolt",
-        "zh-tw": "電肚蛙",
-        pt: "Bellibolt"
+        en: "Bellibolt ex",
+        fr: "Ampibidou-ex",
+        es: "Bellibolt ex",
+        it: "Bellibolt-ex",
+        de: "Wampitz-ex",
+        "pt-br": "Bellibolt ex",
+        "zh-tw": "電肚蛙ex",
+        pt: "Bellibolt ex"
     },
     suffix: "EX",
     illustrator: "PLANETA Yamashita",

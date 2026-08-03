@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Delibird",
-        "fr": "Délibird",
+        "fr": "Cadoizo",
         "es": "Delibird",
         "it": "Delibird",
-        "de": "Delibird",
+        "de": "Botogel",
         "pt-br": "Delibird",
         "zh-tw": "信使鳥",
     },

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Sunflora",
-        "fr": "Flore solaire",
-        "es": "flora solar",
+        "fr": "Héliatronc",
+        "es": "Sunflora",
         "it": "Sunflora",
-        "de": "Sonnenflora",
+        "de": "Sonnflora",
         "pt-br": "Sunflora",
         "zh-tw": "向日花怪",
     },

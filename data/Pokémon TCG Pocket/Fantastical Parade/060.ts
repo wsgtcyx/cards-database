@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Wobbuffet",
-        "fr": "Wobbuffet",
+        "fr": "Qulbutoké",
         "es": "Wobbuffet",
         "it": "Wobbuffet",
-        "de": "Wobbuffet",
+        "de": "Woingenau",
         "pt-br": "Wobbuffet",
-        "zh-tw": "沃布自助餐"
+        "zh-tw": "果然翁"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",

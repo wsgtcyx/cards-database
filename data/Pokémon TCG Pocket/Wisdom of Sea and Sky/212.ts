@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Yanma",
         "de": "Yanma",
         "pt-br": "Yanma",
-        "zh-tw": "陽陽瑪",
+        "zh-tw": "蜻蜻蜓",
     },
     illustrator: "MAHOU",
     rarity: "One Shiny",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Baltoy",
-        "fr": "Baltoy",
-        "es": "baltoy",
+        "fr": "Balbuto",
+        "es": "Baltoy",
         "it": "Baltoy",
-        "de": "Baltoy",
+        "de": "Puppance",
         "pt-br": "Baltoy",
         "zh-tw": "天秤偶",
     },

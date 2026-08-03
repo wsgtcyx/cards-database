@@ -50,7 +50,7 @@ const card: Card = {
                 pt: "Golpe Duplo"
             },
             damage: "30×",
-            cost: ["Colorless", "Colorless"],
+            cost: ["Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 30 damage for each heads.",
                 "fr": "Lancez 2 pièces. Cette attaque inflige 30 dégâts pour chaque tête.",
@@ -68,5 +68,6 @@ const card: Card = {
             value: "+20",
         },
     ],
+    retreat: 0
 };
 export default card;

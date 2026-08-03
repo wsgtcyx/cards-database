@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Hippowdon",
         "fr": "Hippodocus",
-        "es": "hippowdon",
+        "es": "Hippowdon",
         "it": "Hippowdon",
-        "de": "Hippowdon",
+        "de": "Hippoterus",
         "pt-br": "Hippowdon",
         "zh-tw": "河馬獸",
     },

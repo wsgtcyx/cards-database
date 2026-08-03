@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Articuno",
-        "fr": "Articuno",
+        "fr": "Artikodin",
         "es": "Articuno",
         "it": "Articuno",
-        "de": "Artikuno",
+        "de": "Arktos",
         "pt-br": "Articuno",
         "zh-tw": "急凍鳥"
     },

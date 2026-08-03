@@ -13,11 +13,11 @@ const card: Card = {
     name: {
         en: "Yveltal",
         "fr": "Yveltal",
-        "es": "yveltal",
+        "es": "Yveltal",
         "it": "Yveltal",
         "de": "Yveltal",
         "pt-br": "Yveltal",
-        "zh-tw": "伊韋爾塔爾"
+        "zh-tw": "伊裴爾塔爾"
     },
     illustrator: "Hajime Kusajima",
     rarity: "Three Diamond",

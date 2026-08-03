@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Ledyba",
-        "fr": "Lédyba",
+        "fr": "Coxy",
         "es": "Ledyba",
         "it": "Ledyba",
         "de": "Ledyba",
         "pt-br": "Ledyba",
-        "zh-tw": "萊迪巴"
+        "zh-tw": "芭瓢蟲"
     },
     illustrator: "Yuka Morii",
     rarity: "One Diamond",

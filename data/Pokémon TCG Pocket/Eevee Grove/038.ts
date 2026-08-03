@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Barboach",
-        "fr": "Barboach",
-        "es": "barboach",
+        "fr": "Barloche",
+        "es": "Barboach",
         "it": "Barboach",
-        "de": "Barboach",
+        "de": "Schmerbe",
         "pt-br": "Barboach",
         "zh-tw": "泥泥鰍",
     },

@@ -13,13 +13,13 @@ const card: Card = {
 		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/249"
 	},
 	name: {
-		en: "Diglett",
-		fr: "Taupiqueur",
-		es: "Diglett",
-		it: "Diglett",
-		de: "Digda",
-		"pt-br": "Diglett",
-		"zh-tw": "阿羅拉 地鼠"
+		en: "Alolan Diglett",
+		fr: "Taupiqueur d'Alola",
+		es: "Diglett de Alola",
+		it: "Diglett di Alola",
+		de: "Alola-Digda",
+		"pt-br": "Diglett de Alola",
+		"zh-tw": "阿羅拉地鼠"
 	},
 	illustrator: "Megumi Mizutani",
 	rarity: "One Diamond",

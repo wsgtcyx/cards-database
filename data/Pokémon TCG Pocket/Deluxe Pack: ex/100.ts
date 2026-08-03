@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Vaporeon",
-        "fr": "Vaporéon",
-        "es": "vaporeon",
+        "fr": "Aquali",
+        "es": "Vaporeon",
         "it": "Vaporeon",
-        "de": "Vaporeon",
+        "de": "Aquana",
         "pt-br": "Vaporeon",
         "zh-tw": "水伊布",
     },

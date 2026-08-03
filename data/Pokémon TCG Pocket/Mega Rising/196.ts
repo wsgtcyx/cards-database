@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Swablu",
-        "fr": "Swablu",
-        "es": "swablu",
+        "fr": "Tylton",
+        "es": "Swablu",
         "it": "Swablu",
-        "de": "Schwablu",
+        "de": "Wablu",
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
     },

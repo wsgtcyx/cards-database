@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Mimikyu",
         "fr": "Mimiqui",
-        "es": "Mimikyû",
+        "es": "Mimikyu",
         "it": "Mimikyu",
-        "de": "Mimikyu",
+        "de": "Mimigma",
         "pt-br": "Mimikyu",
         "zh-tw": "謎擬Ｑ",
     },

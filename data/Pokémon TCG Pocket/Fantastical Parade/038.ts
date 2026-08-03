@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Vanillish",
-        "fr": "Vanillé",
-        "es": "vainilla",
+        "fr": "Sorboul",
+        "es": "Vanillish",
         "it": "Vanillish",
-        "de": "Vanillin",
-        "pt-br": "Vanilizado",
-        "zh-tw": "香草味"
+        "de": "Gelatroppo",
+        "pt-br": "Vanillish",
+        "zh-tw": "多多冰"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Chewtle",
-        "fr": "Mâcher",
-        "es": "masticar",
-        "it": "Masticare",
-        "de": "Chewtle",
-        "pt-br": "Mastigar",
-        "zh-tw": "咀嚼"
+        "fr": "Khélocrok",
+        "es": "Chewtle",
+        "it": "Chewtle",
+        "de": "Kamehaps",
+        "pt-br": "Chewtle",
+        "zh-tw": "咬咬龜"
     },
     illustrator: "Mina Nakai",
     rarity: "One Diamond",

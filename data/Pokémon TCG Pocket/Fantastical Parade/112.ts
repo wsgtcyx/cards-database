@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mawile",
-        "fr": "Mawile",
-        "es": "mawile",
+        "fr": "Mysdibule",
+        "es": "Mawile",
         "it": "Mawile",
-        "de": "Mawile",
+        "de": "Flunkifer",
         "pt-br": "Mawile",
-        "zh-tw": "馬維勒"
+        "zh-tw": "大嘴娃"
     },
     illustrator: "kurumitsu",
     rarity: "One Diamond",

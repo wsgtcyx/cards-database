@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Piers",
-        "fr": "Piliers",
-        "es": "Muelles",
-        "it": "Moli",
-        "de": "Pfeiler",
-        "pt-br": "Cais",
-        "zh-tw": "皮爾斯"
+        "fr": "Peterson",
+        "es": "Nerio",
+        "it": "Ginepro",
+        "de": "Nezz",
+        "pt-br": "Pietro",
+        "zh-tw": "聶梓"
     },
     illustrator: "hncl",
     rarity: "Two Diamond",

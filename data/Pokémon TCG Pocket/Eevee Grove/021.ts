@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Alomomola",
-        "fr": "Alomomola",
+        "fr": "Mamanbo",
         "es": "Alomomola",
         "it": "Alomomola",
-        "de": "Alomomola",
+        "de": "Mamolida",
         "pt-br": "Alomomola",
         "zh-tw": "保母曼波",
     },

@@ -24,7 +24,7 @@ const card: Card = {
     illustrator: "PLANETA Igarashi",
     rarity: "Crown",
     category: "Pokemon",
-    hp: 170,
+    hp: 140,
     types: ["Water"],
     dexId: [998],
     evolveFrom: {

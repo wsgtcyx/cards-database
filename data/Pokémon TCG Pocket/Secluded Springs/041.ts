@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Dugtrio",
-        "fr": "Dugtrio",
+        "fr": "Triopikeur",
         "es": "Dugtrio",
         "it": "Dugtrio",
-        "de": "Dugtrio",
+        "de": "Digdri",
         "pt-br": "Dugtrio",
         "zh-tw": "三地鼠",
     },

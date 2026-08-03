@@ -23,7 +23,7 @@ const card: Card = {
         'es-mx': "Bombirdier"
     },
     illustrator: "nagimiso",
-    rarity: "Three Diamond",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 90,
     types: ["Darkness"],

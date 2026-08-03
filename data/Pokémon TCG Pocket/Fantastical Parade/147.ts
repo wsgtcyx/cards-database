@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Protective Poncho",
-        "fr": "Poncho de protection",
+        "fr": "Poncho Protecteur",
         "es": "Poncho Protector",
-        "it": "Poncho protettivo",
-        "de": "Schutzponcho",
-        "pt-br": "Poncho protetor",
-        "zh-tw": "防護雨披"
+        "it": "Poncho Protettivo",
+        "de": "Schützender Poncho",
+        "pt-br": "Poncho Protetor",
+        "zh-tw": "守護披風"
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

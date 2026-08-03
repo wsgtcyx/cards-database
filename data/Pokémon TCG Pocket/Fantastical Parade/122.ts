@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Shelgon",
-        "fr": "Shelgon",
-        "es": "shelgon",
+        "fr": "Drackhaus",
+        "es": "Shelgon",
         "it": "Shelgon",
-        "de": "Shelgon",
+        "de": "Draschel",
         "pt-br": "Shelgon",
-        "zh-tw": "謝爾貢"
+        "zh-tw": "甲殼龍"
     },
     illustrator: "tetsuya koizumi",
     rarity: "Two Diamond",
@@ -55,10 +55,6 @@ const card: Card = {
             },
             damage: 60,
             cost: ["Fire", "Water"]
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 3
 };

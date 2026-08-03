@@ -18,7 +18,7 @@ const card: Card = {
         de: "Machomei-ex",
         'pt-br': "Machamp ex",
         ko: "괴력몬 ex",
-        "zh-tw": "怪力 ex",
+        "zh-tw": "怪力ex",
     },
     illustrator: "PLANETA CG Works",
     category: "Pokemon",

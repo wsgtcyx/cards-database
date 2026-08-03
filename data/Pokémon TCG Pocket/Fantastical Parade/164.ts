@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Cramorant",
         "de": "Urgl",
         "pt-br": "Cramorant",
-        "zh-tw": "克拉莫蘭特"
+        "zh-tw": "古月鳥"
     },
     illustrator: "osare",
     rarity: "One Star",

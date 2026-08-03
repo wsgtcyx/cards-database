@@ -18,7 +18,7 @@ const card: Card = {
         de: "Darkrai-ex",
         'pt-br': "Darkrai ex",
         ko: "다크라이 ex",
-        "zh-tw": "達克萊伊 ex",
+        "zh-tw": "達克萊伊ex",
     },
     illustrator: "PLANETA Mochizuki",
     rarity: "None",

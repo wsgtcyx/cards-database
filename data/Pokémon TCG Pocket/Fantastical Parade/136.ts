@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Slaking",
-        "fr": "L'extinction",
-        "es": "Apagar",
-        "it": "Schiacciamento",
-        "de": "Löschen",
-        "pt-br": "Abrandamento",
-        "zh-tw": "熟化"
+        "fr": "Monaflèmit",
+        "es": "Slaking",
+        "it": "Slaking",
+        "de": "Letarking",
+        "pt-br": "Slaking",
+        "zh-tw": "請假王"
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

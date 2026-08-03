@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Breloom",
-        "fr": "Breloom",
+        "fr": "Chapignon",
         "es": "Breloom",
         "it": "Breloom",
-        "de": "Breloom",
+        "de": "Kapilz",
         "pt-br": "Breloom",
         "zh-tw": "斗笠菇",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Galarian Zigzagoon",
-        "fr": "Zigzagoon galarien",
+        "fr": "Zigzaton de Galar",
         "es": "Zigzagoon de Galar",
         "it": "Zigzagoon di Galar",
-        "de": "Galarischer Zickzack",
-        "pt-br": "Ziguezague Galariano",
-        "zh-tw": "加拉利安之字形"
+        "de": "Galar-Zigzachs",
+        "pt-br": "Zigzagoon de Galar",
+        "zh-tw": "伽勒爾蛇紋熊"
     },
     illustrator: "kirisAki",
     rarity: "One Diamond",

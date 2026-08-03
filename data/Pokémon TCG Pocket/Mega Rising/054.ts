@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Lombre",
         "es": "Lombre",
         "it": "Lombre",
-        "de": "Lombard",
+        "de": "Lombrero",
         "pt-br": "Lombre",
         "zh-tw": "蓮帽小童",
     },

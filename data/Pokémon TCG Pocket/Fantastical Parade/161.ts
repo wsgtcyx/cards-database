@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Oricorio",
-        "fr": "Oricorio",
-        "es": "oricorio",
+        "fr": "Plumeline",
+        "es": "Oricorio",
         "it": "Oricorio",
-        "de": "Oricorio",
-        "pt-br": "Oricório",
-        "zh-tw": "奧里科里奧"
+        "de": "Choreogel",
+        "pt-br": "Oricorio",
+        "zh-tw": "花舞鳥"
     },
     illustrator: "0313",
     rarity: "One Star",

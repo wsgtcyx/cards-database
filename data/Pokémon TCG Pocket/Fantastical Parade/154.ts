@@ -12,11 +12,11 @@ const card: Card = {
     },
     name: {
         en: "Starting Plains",
-        "fr": "Plaines de départ",
-        "es": "Llanuras iniciales",
-        "it": "Pianura iniziale",
-        "de": "Startebenen",
-        "pt-br": "Começando Planícies",
+        "fr": "Plaine du Départ",
+        "es": "Planicie Inicial",
+        "it": "Pianura degli Esordi",
+        "de": "Feld des Anfangs",
+        "pt-br": "Planície Primordial",
         "zh-tw": "起始平原"
     },
     illustrator: "AYUMI ODASHIMA",

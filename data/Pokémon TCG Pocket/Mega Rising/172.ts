@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Aegislash",
-        "fr": "Coup d'égide",
+        "fr": "Exagide",
         "es": "Aegislash",
         "it": "Aegislash",
-        "de": "Aegislash",
+        "de": "Durengard",
         "pt-br": "Aegislash",
         "zh-tw": "堅盾劍怪",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Taillow",
-        "fr": "Queue",
-        "es": "cola",
+        "fr": "Nirondelle",
+        "es": "Taillow",
         "it": "Taillow",
-        "de": "Taillow",
-        "pt-br": "Rabo",
-        "zh-tw": "尾洛"
+        "de": "Schwalbini",
+        "pt-br": "Taillow",
+        "zh-tw": "傲骨燕"
     },
     illustrator: "Ayaka Yoshida",
     rarity: "One Diamond",

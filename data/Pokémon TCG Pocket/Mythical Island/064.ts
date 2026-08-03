@@ -18,7 +18,7 @@ const card: Card = {
         de: "Pokémon-Flöte",
         'pt-br': "Flauta Pokémon",
         ko: "포켓몬피리",
-        "zh-tw": "神奇寶貝笛子"
+        "zh-tw": "寶可夢之笛"
     },
     illustrator: "Toyste Beach",
     category: "Trainer",

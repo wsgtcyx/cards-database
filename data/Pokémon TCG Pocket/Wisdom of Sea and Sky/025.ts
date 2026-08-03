@@ -13,7 +13,7 @@ const card: Card = {
     name: {
         en: "Vulpix",
         "fr": "Goupix",
-        "es": "vulpix",
+        "es": "Vulpix",
         "it": "Vulpix",
         "de": "Vulpix",
         "pt-br": "Vulpix",

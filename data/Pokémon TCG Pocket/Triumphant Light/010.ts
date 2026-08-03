@@ -18,7 +18,7 @@ const card: Card = {
         de: "Folipurba-ex",
         'pt-br': "Leafeon ex",
         ko: "리피아 ex",
-        "zh-tw": "葉精靈 ex",
+        "zh-tw": "葉伊布ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

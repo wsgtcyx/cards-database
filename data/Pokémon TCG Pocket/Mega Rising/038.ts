@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Simisear",
-        "fr": "Simisear",
-        "es": "Simear",
+        "fr": "Flamoutan",
+        "es": "Simisear",
         "it": "Simisear",
-        "de": "Simisear",
+        "de": "Grillchita",
         "pt-br": "Simisear",
         "zh-tw": "爆香猿",
     },

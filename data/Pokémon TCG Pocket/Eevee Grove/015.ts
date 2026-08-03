@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Salazzle",
-        "fr": "Salazzle",
+        "fr": "Malamandre",
         "es": "Salazzle",
         "it": "Salazzle",
-        "de": "Salazzle",
+        "de": "Amfira",
         "pt-br": "Salazzle",
         "zh-tw": "焰后蜥",
     },

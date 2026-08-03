@@ -14,7 +14,7 @@ const card: Card = {
         en: "Zoroark ex",
         fr: "Zoroark-ex",
         es: "Zoroark ex",
-        it: "Zoroark -ex",
+        it: "Zoroark-ex",
         de: "Zoroark-ex",
         "pt-br": "Zoroark ex",
         "zh-tw": "索羅亞克ex",

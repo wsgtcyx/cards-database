@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Rillaboom",
-        "fr": "Rillaboom",
-        "es": "rillaboom",
+        "fr": "Gorythmic",
+        "es": "Rillaboom",
         "it": "Rillaboom",
-        "de": "Rillaboom",
+        "de": "Gortrom",
         "pt-br": "Rillaboom",
         "zh-tw": "轟擂金剛猩",
     },

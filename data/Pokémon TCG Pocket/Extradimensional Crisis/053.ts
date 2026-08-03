@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Stakataka",
-        "fr": "Stakataka",
-        "es": "estakataka",
+        "fr": "Ama-Ama",
+        "es": "Stakataka",
         "it": "Stakataka",
-        "de": "Stakataka",
+        "de": "Muramura",
         "pt-br": "Stakataka",
         "zh-tw": "壘磊石",
     },

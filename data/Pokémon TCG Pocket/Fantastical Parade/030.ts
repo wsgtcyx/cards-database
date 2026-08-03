@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Galarian Mr. Mime",
-        "fr": "Galarien M. Mime",
-        "es": "Señor Mimo de Galar",
-        "it": "Il signor Mime di Galar",
-        "de": "Galarischer Mr. Mime",
-        "pt-br": "Galarian Sr. Mime",
-        "zh-tw": "伽勒安啞劇先生"
+        "fr": "M. Mime de Galar",
+        "es": "Mr. Mime de Galar",
+        "it": "Mr. Mime di Galar",
+        "de": "Galar-Pantimos",
+        "pt-br": "Mr. Mime de Galar",
+        "zh-tw": "伽勒爾魔牆人偶"
     },
     illustrator: "Misa Tsutsui",
     rarity: "One Diamond",

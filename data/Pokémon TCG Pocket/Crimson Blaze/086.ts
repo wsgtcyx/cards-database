@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Steelix ex",
-        "fr": "Méga-Steelix ex",
-        "es": "Mega Steelix ex",
-        "it": "Mega Steelix ex",
-        "de": "Mega-Stahlos ex",
+        "fr": "Méga-Steelix-ex",
+        "es": "Mega-Steelix ex",
+        "it": "Mega Steelix-ex",
+        "de": "Mega-Stahlos-ex",
         "pt-br": "Mega Steelix ex",
-        "zh-tw": "超級大鋼蛇 ex"
+        "zh-tw": "超級大鋼蛇ex"
     },
     illustrator: "matazo",
     rarity: "Two Star",

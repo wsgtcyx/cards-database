@@ -15,9 +15,9 @@ const card: Card = {
         "fr": "Gardevoir",
         "es": "Gardevoir",
         "it": "Gardevoir",
-        "de": "Gardevoir",
+        "de": "Guardevoir",
         "pt-br": "Gardevoir",
-        "zh-tw": "加爾德瓦"
+        "zh-tw": "沙奈朵"
     },
     illustrator: "mingo",
     rarity: "Three Diamond",

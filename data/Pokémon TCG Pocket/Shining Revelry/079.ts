@@ -18,7 +18,7 @@ const card: Card = {
         de: "Bibor-ex",
         'pt-br': "Beedrill ex",
         ko: "독침붕 ex",
-        "zh-tw": "大針蜂 ex"
+        "zh-tw": "大針蜂ex"
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Star",

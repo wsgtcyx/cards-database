@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Zebstrika",
-        "fr": "Zebstrika",
+        "fr": "Zéblitz",
         "es": "Zebstrika",
         "it": "Zebstrika",
-        "de": "Zebstrika",
+        "de": "Zebritz",
         "pt-br": "Zebstrika",
         "zh-tw": "雷電斑馬",
     },

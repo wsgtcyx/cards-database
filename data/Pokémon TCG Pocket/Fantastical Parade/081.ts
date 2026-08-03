@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Machamp",
         "de": "Machomei",
         "pt-br": "Machamp",
-        "zh-tw": "馬尚普"
+        "zh-tw": "怪力"
     },
     illustrator: "Shin Nagasawa",
     rarity: "Two Diamond",

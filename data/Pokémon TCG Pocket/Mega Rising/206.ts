@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Furfrou",
-        "fr": "Furfrou",
+        "fr": "Couafarel",
         "es": "Furfrou",
         "it": "Furfrou",
-        "de": "Furfrou",
+        "de": "Coiffwaff",
         "pt-br": "Furfrou",
         "zh-tw": "多麗米亞",
     },

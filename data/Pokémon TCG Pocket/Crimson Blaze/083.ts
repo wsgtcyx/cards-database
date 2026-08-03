@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Mega Venusaur ex",
-        "fr": "Méga-Florizarre ex",
-        "es": "Mega Venusaur ex",
-        "it": "Mega Venusaur ex",
-        "de": "Mega-Bisaflor ex",
+        "fr": "Méga-Florizarre-ex",
+        "es": "Mega-Venusaur ex",
+        "it": "Mega Venusaur-ex",
+        "de": "Mega-Bisaflor-ex",
         "pt-br": "Mega Venusaur ex",
-        "zh-tw": "超級妙蛙花 ex"
+        "zh-tw": "超級妙蛙花ex"
     },
     illustrator: "Mori Yuu",
     rarity: "Two Star",

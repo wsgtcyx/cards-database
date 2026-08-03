@@ -18,7 +18,7 @@ const card: Card = {
         de: "Voluminas-ex",
         'pt-br': "Probopass ex",
         ko: "대코파스 ex",
-        "zh-tw": "大朝北鼻 ex",
+        "zh-tw": "大朝北鼻ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Four Diamond",

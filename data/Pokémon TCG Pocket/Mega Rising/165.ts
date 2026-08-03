@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Grimmsnarl",
-        "fr": "Grimmsnarl",
+        "fr": "Angoliath",
         "es": "Grimmsnarl",
         "it": "Grimmsnarl",
-        "de": "Grimmsnarl",
+        "de": "Olangaar",
         "pt-br": "Grimmsnarl",
         "zh-tw": "長毛巨魔",
     },

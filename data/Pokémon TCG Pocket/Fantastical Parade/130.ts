@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Smeargle",
-        "fr": "Diffuser",
-        "es": "untar",
+        "fr": "Queulorior",
+        "es": "Smeargle",
         "it": "Smeargle",
-        "de": "Schmiere",
-        "pt-br": "Espalhar",
-        "zh-tw": "斯米爾格爾"
+        "de": "Farbeagle",
+        "pt-br": "Smeargle",
+        "zh-tw": "圖圖犬"
     },
     illustrator: "Sekio",
     rarity: "Two Diamond",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Mienshao",
-        "fr": "Mienshao",
+        "fr": "Shaofouine",
         "es": "Mienshao",
         "it": "Mienshao",
-        "de": "Mienshao",
+        "de": "Wie-Shu",
         "pt-br": "Mienshao",
         "zh-tw": "師父鼬",
     },

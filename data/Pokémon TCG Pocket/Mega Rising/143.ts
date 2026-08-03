@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Sandygast",
-        "fr": "Sandygast",
-        "es": "sandygast",
+        "fr": "Bacabouh",
+        "es": "Sandygast",
         "it": "Sandygast",
-        "de": "Sandygast",
+        "de": "Sankabuh",
         "pt-br": "Sandygast",
         "zh-tw": "沙丘娃",
     },

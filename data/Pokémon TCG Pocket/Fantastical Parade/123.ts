@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Salamence",
-        "fr": "Salamence",
+        "fr": "Drattak",
         "es": "Salamence",
         "it": "Salamence",
-        "de": "Salamence",
-        "pt-br": "Salamência",
-        "zh-tw": "薩拉曼斯"
+        "de": "Brutalanda",
+        "pt-br": "Salamence",
+        "zh-tw": "暴飛龍"
     },
     illustrator: "kodama",
     rarity: "Three Diamond",
@@ -64,10 +64,6 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda. Se sair coroa, este Pokémon também causa 50 de dano a si mesmo.",
                 "zh-tw": "拋一枚硬幣。如果是反面，這只神奇寶貝也會對自己造成 50 點傷害。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 2
 };

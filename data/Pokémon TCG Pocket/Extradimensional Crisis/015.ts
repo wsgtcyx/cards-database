@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Luxray",
         "fr": "Luxray",
-        "es": "luxray",
+        "es": "Luxray",
         "it": "Luxray",
-        "de": "Luxray",
+        "de": "Luxtra",
         "pt-br": "Luxray",
         "zh-tw": "倫琴貓",
     },

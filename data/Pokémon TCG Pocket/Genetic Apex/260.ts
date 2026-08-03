@@ -18,7 +18,7 @@ const card: Card = {
         de: "Zapdos-ex",
         'pt-br': "Zapdos ex",
         ko: "썬더 ex",
-        "zh-tw": "閃電鳥 ex",
+        "zh-tw": "閃電鳥ex",
     },
     illustrator: "PLANETA Saito",
     category: "Pokemon",
@@ -27,29 +27,44 @@ const card: Card = {
     stage: "Basic",
     suffix: "EX",
     attacks: [{
-            cost: ["Lightning", "Lightning", "Colorless"],
-            name: {
-                en: "Raging Thunder",
-                fr: "Tonnerre Déchaîné",
-                es: "Trueno Rabioso",
-                it: "Rombotuono",
-                de: "Tosender Donner",
-                'pt-br': "Trovão Devastador",
-                ko: "낙뢰",
-                "zh-tw": "憤怒的雷霆"
-            },
-            effect: {
-                en: "This attack also does 30 damage to 1 of your Benched Pokémon.",
-                fr: "Cette attaque inflige aussi 30 dégâts à un de vos Pokémon de Banc.",
-                es: "Este ataque también hace 30 puntos de daño a 1 de tus Pokémon en Banca.",
-                it: "Questo attacco infligge anche 30 danni a uno dei tuoi Pokémon in panchina.",
-                de: "Diese Attacke fügt auch 1 Pokémon auf deiner Bank 30 Schadenspunkte zu.",
-                'pt-br': "Este ataque também causa 30 pontos de dano a 1 dos seus Pokémon no Banco.",
-                ko: "자신의 벤치 포켓몬 1마리에게도 30데미지를 준다.",
-                "zh-tw": "這次攻擊還會對你的 1 只後備神奇寶貝造成 30 點傷害。"
-            },
-            damage: "100"
-        }],
+        cost: ["Lightning"],
+
+        name: {
+            en: "Peck",
+            fr: "Picpic",
+            es: "Picotazo",
+            it: "Beccata",
+            de: "Picken",
+            "pt-br": "Bicada",
+            "zh-tw": "啄"
+        },
+
+        damage: "20"
+    }, {
+        cost: ["Lightning", "Lightning", "Lightning"],
+
+        name: {
+            en: "Thundering Hurricane",
+            fr: "Rafale d'Éclairs",
+            es: "Huracán Atronador",
+            it: "Uragano Tonante",
+            de: "Donnernder Orkan",
+            "pt-br": "Furacão Trovejante",
+            "zh-tw": "颶風雷電"
+        },
+
+        effect: {
+            en: "Flip 4 coins. This attack does 50 damage for each heads.",
+            fr: "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+            es: "Lanza 4 monedas. Este ataque hace 50 puntos de daño por cada cara.",
+            it: "Lancia 4 monete. Questa mossa infligge 50 danni per ogni testa.",
+            de: "Wirf 4 Münzen. Diese Attacke fügt für jede Kopfseite 50 Schadenspunkte zu.",
+            "pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
+            "zh-tw": "擲4次硬幣，造成正面出現的次數×50點傷害。"
+        },
+
+        damage: "50×"
+    }],
     weaknesses: [{
             type: "Lightning",
             value: "+20"

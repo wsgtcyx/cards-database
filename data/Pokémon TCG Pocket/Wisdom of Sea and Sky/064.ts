@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Chinchou",
-        "fr": "Chinchou",
-        "es": "Chinchú",
+        "fr": "Loupio",
+        "es": "Chinchou",
         "it": "Chinchou",
-        "de": "Chinchou",
+        "de": "Lampi",
         "pt-br": "Chinchou",
         "zh-tw": "燈籠魚",
     },

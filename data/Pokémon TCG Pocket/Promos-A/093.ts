@@ -13,12 +13,12 @@ const card: Card = {
     },
     name: {
         en: "Cleffa",
-        "fr": "Cleffa",
-        "es": "Clefa",
+        "fr": "Mélo",
+        "es": "Cleffa",
         "it": "Cleffa",
-        "de": "Cleffa",
-        "pt-br": "Clefa",
-        "zh-tw": "寶寶丁",
+        "de": "Pii",
+        "pt-br": "Cleffa",
+        "zh-tw": "皮寶寶",
     },
     illustrator: "Tika Matsuno",
     rarity: "One Star",
@@ -54,10 +54,6 @@ const card: Card = {
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0
 };

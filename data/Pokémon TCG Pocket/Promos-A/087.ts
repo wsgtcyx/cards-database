@@ -14,9 +14,9 @@ const card: Card = {
     name: {
         en: "Alcremie",
         es: "Alcremie",
-        "fr": "Alcrémie",
+        "fr": "Charmilly",
         "it": "Alcremie",
-        "de": "Alcremie",
+        "de": "Pokusan",
         "pt-br": "Alcremie",
         "zh-tw": "霜奶仙",
     },

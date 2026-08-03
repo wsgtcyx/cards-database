@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Palpitoad",
-        "fr": "Palpitoad",
-        "es": "palpitante",
+        "fr": "Batracné",
+        "es": "Palpitoad",
         "it": "Palpitoad",
-        "de": "Palpitoad",
+        "de": "Mebrana",
         "pt-br": "Palpitoad",
         "zh-tw": "藍蟾蜍",
     },

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Lickilicky",
-        "fr": "Lickilicky",
+        "fr": "Coudlangue",
         "es": "Lickilicky",
-        "it": "Lecca-lecca",
-        "de": "Lecker",
+        "it": "Lickilicky",
+        "de": "Schlurplek",
         "pt-br": "Lickilicky",
         "zh-tw": "大舌舔",
     },

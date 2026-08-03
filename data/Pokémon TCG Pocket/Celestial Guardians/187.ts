@@ -18,7 +18,7 @@ const card: Card = {
         de: "Quartermak-ex",
         'pt-br': "Passimian ex",
         ko: "내던숭이 ex",
-        "zh-tw": "投擲猴 ex",
+        "zh-tw": "投擲猴ex",
     },
     illustrator: "PLANETA Tsuji",
     rarity: "Two Star",

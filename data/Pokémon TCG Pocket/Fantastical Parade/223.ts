@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Tyrogue",
-        "fr": "Tyrogue",
-        "es": "tirogo",
-        "it": "Tirogue",
-        "de": "Tyrogue",
+        "fr": "Debugant",
+        "es": "Tyrogue",
+        "it": "Tyrogue",
+        "de": "Rabauz",
         "pt-br": "Tyrogue",
-        "zh-tw": "泰羅格"
+        "zh-tw": "無畏小子"
     },
     illustrator: "Nisota Niso",
     rarity: "One Shiny",
@@ -45,10 +45,6 @@ const card: Card = {
                 "zh-tw": "斯拉皮指關節"
             },
             damage: 20
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0
 };

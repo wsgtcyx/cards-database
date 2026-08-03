@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Tinkatuff",
-        "fr": "Tinkatuff",
+        "fr": "Forgella",
         "es": "Tinkatuff",
         "it": "Tinkatuff",
-        "de": "Tinkatuff",
+        "de": "Tafforgita",
         "pt-br": "Tinkatuff",
         "zh-tw": "巧鍛匠",
     },

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Blätterumhang",
         'pt-br': "Capa de Folha",
         ko: "리프망토",
-        "zh-tw": "葉隱披風",
+        "zh-tw": "葉綠斗蓬",
     },
     illustrator: "Toyste Beach",
     rarity: "Two Diamond",

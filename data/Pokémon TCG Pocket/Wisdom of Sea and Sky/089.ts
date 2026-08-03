@@ -13,11 +13,11 @@ const card: Card = {
     name: {
         en: "Granbull",
         "fr": "Granbull",
-        "es": "granbull",
+        "es": "Granbull",
         "it": "Granbull",
         "de": "Granbull",
         "pt-br": "Granbull",
-        "zh-tw": "布盧皇",
+        "zh-tw": "布魯皇",
     },
     illustrator: "Suwama Chiaki",
     rarity: "Two Diamond",

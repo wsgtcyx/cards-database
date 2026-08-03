@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Medicham",
-        "fr": "Médicham",
-        "es": "médico",
+        "fr": "Charmina",
+        "es": "Medicham",
         "it": "Medicham",
-        "de": "Medicham",
+        "de": "Meditalis",
         "pt-br": "Medicham",
-        "zh-tw": "麥迪查姆"
+        "zh-tw": "恰雷姆"
     },
     illustrator: "Shigenori Negishi",
     rarity: "Two Diamond",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Drednaw",
-        "fr": "Drednaw",
+        "fr": "Torgamord",
         "es": "Drednaw",
         "it": "Drednaw",
-        "de": "Drednaw",
+        "de": "Kamalm",
         "pt-br": "Drednaw",
-        "zh-tw": "德雷德諾"
+        "zh-tw": "暴噬龜"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",

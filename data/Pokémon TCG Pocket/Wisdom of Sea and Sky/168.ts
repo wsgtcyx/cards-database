@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Qwilfish",
         "es": "Qwilfish",
         "it": "Qwilfish",
-        "de": "Qwilfish",
+        "de": "Baldorfish",
         "pt-br": "Qwilfish",
         "zh-tw": "千針魚",
     },

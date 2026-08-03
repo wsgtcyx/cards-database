@@ -18,7 +18,7 @@ const card: Card = {
         de: "Starmie-ex",
         'pt-br': "Starmie ex",
         ko: "아쿠스타 ex",
-        "zh-tw": "寶石海星 ex",
+        "zh-tw": "寶石海星ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Two Shiny",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Diglett",
-        "fr": "Diglett",
-        "es": "diglett",
+        "fr": "Taupiqueur",
+        "es": "Diglett",
         "it": "Diglett",
-        "de": "Diglett",
+        "de": "Digda",
         "pt-br": "Diglett",
         "zh-tw": "地鼠",
     },

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Litwick",
-        "fr": "Litwick",
-        "es": "litwick",
+        "fr": "Funécire",
+        "es": "Litwick",
         "it": "Litwick",
-        "de": "Litwick",
+        "de": "Lichtel",
         "pt-br": "Litwick",
         "zh-tw": "燭光靈",
     },

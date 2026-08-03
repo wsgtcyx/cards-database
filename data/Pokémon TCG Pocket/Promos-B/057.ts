@@ -17,7 +17,7 @@ const card: Card = {
         it: "Castform Forma Sole",
         de: "Formeo Sonnenform",
         "pt-br": "Castform Forma Ensolarada",
-        "zh-tw": "飄浮泡泡 太陽的樣子",
+        "zh-tw": "飄浮泡泡太陽的樣子",
         ko: "캐스퐁 태양의 모습",
         ja: "ポワルン たいようのすがた"
     },

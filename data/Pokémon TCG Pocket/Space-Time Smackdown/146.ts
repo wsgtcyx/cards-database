@@ -18,7 +18,7 @@ const card: Card = {
         de: "Pokémon-Kommunikation",
         'pt-br': "Comunicação Pokémon",
         ko: "포켓몬통신",
-        "zh-tw": "寶可夢通訊",
+        "zh-tw": "寶可夢通信",
     },
     illustrator: "Ayaka Yoshida",
     rarity: "Two Diamond",

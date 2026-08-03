@@ -65,10 +65,6 @@ const card: Card = {
                 "zh-tw": "如果該神奇寶貝附加了 2 種或以上不同類型的能量，則此攻擊造成的傷害增加 60 點。"
             }
         }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
-        }],
     retreat: 2
 };
 export default card;

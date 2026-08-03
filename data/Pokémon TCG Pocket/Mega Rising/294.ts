@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Torracat",
-        "fr": "Torracat",
-        "es": "torracat",
+        "fr": "Matoufeu",
+        "es": "Torracat",
         "it": "Torracat",
-        "de": "Torracat",
+        "de": "Miezunder",
         "pt-br": "Torracat",
         "zh-tw": "炎熱喵",
     },

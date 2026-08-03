@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Quilladin",
-        "fr": "Quilladin",
-        "es": "Quilladín",
+        "fr": "Boguérisse",
+        "es": "Quilladin",
         "it": "Quilladin",
-        "de": "Quilladin",
+        "de": "Igastarnish",
         "pt-br": "Quilladin",
-        "zh-tw": "奎拉丁"
+        "zh-tw": "胖胖哈力"
     },
     illustrator: "5ban Graphics",
     rarity: "Two Diamond",

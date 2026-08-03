@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Vanilluxe",
-        "fr": "Vanilluxe",
-        "es": "vainilla",
+        "fr": "Sorbouboul",
+        "es": "Vanilluxe",
         "it": "Vanilluxe",
-        "de": "Vanilluxe",
-        "pt-br": "Vanilluxo",
-        "zh-tw": "香草"
+        "de": "Gelatwino",
+        "pt-br": "Vanilluxe",
+        "zh-tw": "雙倍多多冰"
     },
     illustrator: "kodama",
     rarity: "Two Diamond",

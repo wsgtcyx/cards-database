@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Sliggoo",
-        "fr": "Sliggoo",
+        "fr": "Colimucus",
         "es": "Sliggoo",
-        "it": "Sligoo",
-        "de": "Sliggoo",
+        "it": "Sliggoo",
+        "de": "Viscargot",
         "pt-br": "Sliggoo",
-        "zh-tw": "黏美伊兒",
+        "zh-tw": "黏美兒",
     },
     illustrator: "Atsuko Nishida",
     rarity: "Two Diamond",
@@ -55,10 +55,6 @@ const card: Card = {
             },
             damage: 60,
             cost: ["Water", "Psychic"]
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 2
 };

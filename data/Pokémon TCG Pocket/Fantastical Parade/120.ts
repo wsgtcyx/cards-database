@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Aegislash",
-        "fr": "Coup d'égide",
+        "fr": "Exagide",
         "es": "Aegislash",
         "it": "Aegislash",
-        "de": "Aegislash",
+        "de": "Durengard",
         "pt-br": "Aegislash",
-        "zh-tw": "神盾斬"
+        "zh-tw": "堅盾劍怪"
     },
     illustrator: "Ryuta Fuse",
     rarity: "Three Diamond",

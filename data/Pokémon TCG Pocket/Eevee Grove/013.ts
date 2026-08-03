@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Incineroar",
-        "fr": "Incineroar",
+        "fr": "Félinferno",
         "es": "Incineroar",
         "it": "Incineroar",
-        "de": "Verbrennungsanlage",
+        "de": "Fuegro",
         "pt-br": "Incineroar",
         "zh-tw": "熾焰咆哮虎",
     },

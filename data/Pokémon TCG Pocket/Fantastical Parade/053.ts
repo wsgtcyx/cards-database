@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Minun",
-        "fr": "Minun",
-        "es": "minún",
+        "fr": "Négapi",
+        "es": "Minun",
         "it": "Minun",
         "de": "Minun",
         "pt-br": "Minun",
-        "zh-tw": "米努"
+        "zh-tw": "負電拍拍"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",

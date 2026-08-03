@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Donphan ex",
-        "fr": "Donphan ex",
-        "es": "ex donphan",
-        "it": "Donphan ex",
-        "de": "Donphan ex",
+        "fr": "Donphan-ex",
+        "es": "Donphan ex",
+        "it": "Donphan-ex",
+        "de": "Donphan-ex",
         "pt-br": "Donphan ex",
-        "zh-tw": "唐凡EX"
+        "zh-tw": "頓甲ex"
     },
     illustrator: "PLANETA Yamashita",
     rarity: "Two Shiny",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Yamask",
-        "fr": "Yamask",
+        "fr": "Tutafeh",
         "es": "Yamask",
         "it": "Yamask",
-        "de": "Yamask",
+        "de": "Makabaja",
         "pt-br": "Yamask",
         "zh-tw": "哭哭面具",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Diantha",
-        "fr": "Diantha",
+        "fr": "Dianthéa",
         "es": "Dianta",
-        "it": "Dianta",
+        "it": "Diantha",
         "de": "Diantha",
-        "pt-br": "Dianta",
-        "zh-tw": "石竹屬"
+        "pt-br": "Diantha",
+        "zh-tw": "卡露妮"
     },
     illustrator: "saino misaki",
     rarity: "Two Star",

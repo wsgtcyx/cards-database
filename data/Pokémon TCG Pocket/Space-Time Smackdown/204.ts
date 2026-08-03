@@ -18,7 +18,7 @@ const card: Card = {
         de: "Palkia-ex",
         'pt-br': "Palkia ex",
         ko: "펄기아 ex",
-        "zh-tw": "帕路奇犽 ex",
+        "zh-tw": "帕路奇亞ex",
     },
     illustrator: "N-DESIGN Inc.",
     rarity: "Three Star",

@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Petilil",
-        "fr": "Pétilil",
+        "fr": "Chlorobule",
         "es": "Petilil",
         "it": "Petilil",
-        "de": "Petilil",
+        "de": "Lilminip",
         "pt-br": "Petilil",
         "zh-tw": "百合根娃娃",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Ledian",
-        "fr": "Lédian",
+        "fr": "Coxyclaque",
         "es": "Ledian",
-        "it": "Lediano",
+        "it": "Ledian",
         "de": "Ledian",
-        "pt-br": "Lediano",
-        "zh-tw": "樂典"
+        "pt-br": "Ledian",
+        "zh-tw": "安瓢蟲"
     },
     illustrator: "mashu",
     rarity: "One Diamond",

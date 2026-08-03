@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Sandslash",
-        "fr": "Tranche de sable",
-        "es": "barra de arena",
+        "fr": "Sablaireau",
+        "es": "Sandslash",
         "it": "Sandslash",
-        "de": "Sandhieb",
-        "pt-br": "Barra de areia",
-        "zh-tw": "沙斬"
+        "de": "Sandamer",
+        "pt-br": "Sandslash",
+        "zh-tw": "穿山王"
     },
     illustrator: "Yukiko Baba",
     rarity: "One Diamond",

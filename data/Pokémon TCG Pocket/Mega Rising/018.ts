@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Lilligant",
-        "fr": "Liligant",
-        "es": "liligant",
+        "fr": "Fragilady",
+        "es": "Lilligant",
         "it": "Lilligant",
-        "de": "Lilligant",
+        "de": "Dressella",
         "pt-br": "Lilligant",
         "zh-tw": "裙兒小姐",
     },

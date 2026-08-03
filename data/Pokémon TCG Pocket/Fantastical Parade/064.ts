@@ -13,11 +13,11 @@ const card: Card = {
     name: {
         en: "Kirlia",
         "fr": "Kirlia",
-        "es": "kirlia",
+        "es": "Kirlia",
         "it": "Kirlia",
         "de": "Kirlia",
         "pt-br": "Kirlia",
-        "zh-tw": "基利亞"
+        "zh-tw": "奇魯莉安"
     },
     illustrator: "mingo",
     rarity: "Two Diamond",

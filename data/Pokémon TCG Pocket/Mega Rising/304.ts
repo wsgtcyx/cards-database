@@ -12,7 +12,7 @@ const card: Card = {
     },
     name: {
         en: "Zeraora",
-        "fr": "Zéraora",
+        "fr": "Zeraora",
         "es": "Zeraora",
         "it": "Zeraora",
         "de": "Zeraora",

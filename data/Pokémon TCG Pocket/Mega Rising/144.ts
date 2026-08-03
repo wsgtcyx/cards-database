@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Palossand",
-        "fr": "Palosse",
+        "fr": "Trépassable",
         "es": "Palossand",
         "it": "Palossand",
-        "de": "Palossand",
+        "de": "Colossand",
         "pt-br": "Palossand",
         "zh-tw": "噬沙堡爺",
     },

@@ -15,9 +15,9 @@ const card: Card = {
         "fr": "Miaouss d'Alola",
         "es": "Meowth de Alola",
         "it": "Meowth di Alola",
-        "de": "Alola-Miau",
+        "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
-        "zh-tw": "阿羅拉喵"
+        "zh-tw": "阿羅拉喵喵"
     },
     illustrator: "Megumi Mizutani",
     rarity: "One Diamond",

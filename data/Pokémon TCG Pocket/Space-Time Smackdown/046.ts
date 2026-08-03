@@ -18,7 +18,7 @@ const card: Card = {
         de: "Glaziola",
         'pt-br': "Glaceon",
         ko: "글레이시아",
-        "zh-tw": "冰精靈",
+        "zh-tw": "冰伊布",
     },
     illustrator: "Naoyo Kimura",
     rarity: "Three Diamond",

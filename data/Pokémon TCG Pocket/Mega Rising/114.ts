@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Gothitelle",
-        "fr": "Gothitelle",
+        "fr": "Sidérella",
         "es": "Gothitelle",
         "it": "Gothitelle",
-        "de": "Gothitelle",
+        "de": "Morbitesse",
         "pt-br": "Gothitelle",
         "zh-tw": "哥德小姐",
     },

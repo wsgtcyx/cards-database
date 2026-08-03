@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Lillipup",
-        "fr": "Lilipup",
-        "es": "lilipup",
+        "fr": "Ponchiot",
+        "es": "Lillipup",
         "it": "Lillipup",
-        "de": "Lillipup",
+        "de": "Yorkleff",
         "pt-br": "Lillipup",
         "zh-tw": "小約克",
     },

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Furfrou",
-        "fr": "Furfrou",
+        "fr": "Couafarel",
         "es": "Furfrou",
         "it": "Furfrou",
-        "de": "Furfrou",
+        "de": "Coiffwaff",
         "pt-br": "Furfrou",
-        "zh-tw": "弗弗魯"
+        "zh-tw": "多麗米亞"
     },
     illustrator: "Kariya",
     rarity: "Two Diamond",

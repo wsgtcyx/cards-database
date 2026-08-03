@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Diggersby",
-        "fr": "Diggersby",
-        "es": "excavadoras",
+        "fr": "Excavarenne",
+        "es": "Diggersby",
         "it": "Diggersby",
-        "de": "Diggersby",
-        "pt-br": "Escavador",
-        "zh-tw": "迪格斯比"
+        "de": "Grebbit",
+        "pt-br": "Diggersby",
+        "zh-tw": "掘地兔"
     },
     illustrator: "Mina Nakai",
     rarity: "Two Diamond",

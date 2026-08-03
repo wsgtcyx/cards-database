@@ -13,7 +13,7 @@ const card: Card = {
     name: {
         en: "Nidoqueen",
         "fr": "Nidoqueen",
-        "es": "nidoqueen",
+        "es": "Nidoqueen",
         "it": "Nidoqueen",
         "de": "Nidoqueen",
         "pt-br": "Nidoqueen",

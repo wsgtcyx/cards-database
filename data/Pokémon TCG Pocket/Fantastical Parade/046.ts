@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Arrokuda",
-        "fr": "Arrokuda",
+        "fr": "Embrochet",
         "es": "Arrokuda",
         "it": "Arrokuda",
-        "de": "Arrokuda",
+        "de": "Pikuda",
         "pt-br": "Arrokuda",
-        "zh-tw": "阿羅庫達"
+        "zh-tw": "刺梭魚"
     },
     illustrator: "Hitoshi Ariga",
     rarity: "One Diamond",

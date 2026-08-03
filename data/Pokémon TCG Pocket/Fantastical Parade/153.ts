@@ -12,9 +12,9 @@ const card: Card = {
     },
     name: {
         en: "Training Area",
-        "fr": "Zone de formation",
+        "fr": "Zone d'Entraînement",
         "es": "Área de Entrenamiento",
-        "it": "Area Formazione",
+        "it": "Campo di Allenamento",
         "de": "Trainingsbereich",
         "pt-br": "Área de Treinamento",
         "zh-tw": "訓練區"

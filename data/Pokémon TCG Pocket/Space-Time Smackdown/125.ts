@@ -18,7 +18,7 @@ const card: Card = {
         de: "Schlurplek-ex",
         'pt-br': "Lickilicky ex",
         ko: "내룸벨트 ex",
-        "zh-tw": "大舌舔 ex",
+        "zh-tw": "大舌舔ex",
     },
     illustrator: "PLANETA Igarashi",
     rarity: "Four Diamond",

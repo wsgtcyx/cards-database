@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Archen",
-        "fr": "Archéen",
-        "es": "arco",
+        "fr": "Arkéapti",
+        "es": "Archen",
         "it": "Archen",
-        "de": "Archen",
+        "de": "Flapteryx",
         "pt-br": "Archen",
         "zh-tw": "始祖小鳥",
     },

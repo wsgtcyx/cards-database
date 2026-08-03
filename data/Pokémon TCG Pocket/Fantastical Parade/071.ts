@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Pumpkaboo",
-        "fr": "Citrouille",
-        "es": "calabaza",
+        "fr": "Pitrouille",
+        "es": "Pumpkaboo",
         "it": "Pumpkaboo",
-        "de": "Kürbis",
-        "pt-br": "Abóbora",
-        "zh-tw": "南瓜布"
+        "de": "Irrbis",
+        "pt-br": "Pumpkaboo",
+        "zh-tw": "南瓜精"
     },
     illustrator: "Mousho",
     rarity: "One Diamond",

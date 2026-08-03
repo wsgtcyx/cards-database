@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Avalugg",
-        "fr": "Avalugg",
+        "fr": "Séracrawl",
         "es": "Avalugg",
-        "it": "Valuta",
-        "de": "Avalugg",
+        "it": "Avalugg",
+        "de": "Arktilas",
         "pt-br": "Avalugg",
         "zh-tw": "冰岩怪",
     },

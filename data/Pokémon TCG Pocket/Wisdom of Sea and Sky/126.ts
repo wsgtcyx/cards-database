@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Klink",
-        "fr": "Klink",
-        "es": "klink",
+        "fr": "Tic",
+        "es": "Klink",
         "it": "Klink",
-        "de": "Klink",
+        "de": "Klikk",
         "pt-br": "Klink",
         "zh-tw": "齒輪兒",
     },

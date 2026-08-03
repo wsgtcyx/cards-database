@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Dragonair",
-        "fr": "Dragonair",
+        "fr": "Draco",
         "es": "Dragonair",
         "it": "Dragonair",
-        "de": "Dragonair",
+        "de": "Dragonir",
         "pt-br": "Dragonair",
         "zh-tw": "哈克龍",
     },
@@ -55,10 +55,6 @@ const card: Card = {
             },
             damage: 60,
             cost: ["Water", "Lightning"]
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 1
 };

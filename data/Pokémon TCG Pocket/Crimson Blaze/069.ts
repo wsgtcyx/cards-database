@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Serena",
-        "fr": "Séréna",
-        "es": "serena",
+        "fr": "Serena",
+        "es": "Serena",
         "it": "Serena",
         "de": "Serena",
         "pt-br": "Serena",
-        "zh-tw": "瑟琳娜"
+        "zh-tw": "莎莉娜"
     },
     illustrator: "En Morikura",
     rarity: "Two Diamond",

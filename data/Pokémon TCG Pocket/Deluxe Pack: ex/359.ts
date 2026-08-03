@@ -12,10 +12,10 @@ const card: Card = {
 	},
 	name: {
         en: "Farfetch'd",
-        "fr": "Farfetch'd",
+        "fr": "Canarticho",
         "es": "Farfetch'd",
-        "it": "Inverosimile",
-        "de": "Farfetch'd",
+        "it": "Farfetch'd",
+        "de": "Porenta",
         "pt-br": "Farfetch'd",
         "zh-tw": "大蔥鴨",
     },

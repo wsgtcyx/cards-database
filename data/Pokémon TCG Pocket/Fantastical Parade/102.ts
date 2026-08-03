@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Skuntank",
         "de": "Skuntank",
         "pt-br": "Skuntank",
-        "zh-tw": "臭鼬罐"
+        "zh-tw": "坦克臭鼬"
     },
     illustrator: "sowsow",
     rarity: "Two Diamond",

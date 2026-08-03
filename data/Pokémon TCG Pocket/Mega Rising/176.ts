@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Druddigon",
-        "fr": "Druddigon",
+        "fr": "Drakkarmin",
         "es": "Druddigon",
         "it": "Druddigon",
-        "de": "Druddigon",
+        "de": "Shardrago",
         "pt-br": "Druddigon",
         "zh-tw": "赤面龍",
     },
@@ -55,10 +55,6 @@ const card: Card = {
                 "pt-br": "Jogue 2 moedas. Se ambos derem coroa, este ataque não fará nada.",
                 "zh-tw": "翻轉 2 個硬幣。如果兩者都是反面，則此攻擊不起作用。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 2
 };

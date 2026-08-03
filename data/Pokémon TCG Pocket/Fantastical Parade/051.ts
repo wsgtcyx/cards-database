@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Zapdos",
-        "fr": "Zapdos",
+        "fr": "Électhor",
         "es": "Zapdos",
         "it": "Zapdos",
         "de": "Zapdos",
         "pt-br": "Zapdos",
-        "zh-tw": "扎普多斯"
+        "zh-tw": "閃電鳥"
     },
     illustrator: "Ken Sugimori",
     rarity: "Three Diamond",

@@ -13,7 +13,7 @@ const card: Card = {
     name: {
         en: "Zorua",
         "fr": "Zorua",
-        "es": "Zorúa",
+        "es": "Zorua",
         "it": "Zorua",
         "de": "Zorua",
         "pt-br": "Zorua",

@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Bunnelby",
-        "fr": "Bunnelby",
+        "fr": "Sapereau",
         "es": "Bunnelby",
         "it": "Bunnelby",
-        "de": "Bunnelby",
+        "de": "Scoppel",
         "pt-br": "Bunnelby",
-        "zh-tw": "邦內爾比"
+        "zh-tw": "掘掘兔"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

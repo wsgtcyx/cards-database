@@ -14,7 +14,7 @@ const card: Card = {
     name: {
         en: "Zeraora",
         es: "Zeraora",
-        "fr": "Zéraora",
+        "fr": "Zeraora",
         "it": "Zeraora",
         "de": "Zeraora",
         "pt-br": "Zeraora",

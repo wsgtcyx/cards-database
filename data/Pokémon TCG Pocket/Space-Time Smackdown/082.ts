@@ -18,7 +18,7 @@ const card: Card = {
         de: "Rihornior",
         'pt-br': "Rhyperior",
         ko: "거대코뿌리",
-        "zh-tw": "超鐵暴龍",
+        "zh-tw": "超甲狂犀",
     },
     illustrator: "Naoki Saito",
     rarity: "Three Diamond",

@@ -12,13 +12,13 @@ const card: Card = {
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2a/078"
     },
     name: {
-        en: "Gholdengo",
-        fr: "Gromago",
-        es: "Gholdengo",
-        it: "Gholdengo",
-        de: "Monetigo",
-        'pt-br': "Gholdengo",
-        "zh-tw": "賽富豪",
+        en: "Gholdengo ex",
+        fr: "Gromago-ex",
+        es: "Gholdengo ex",
+        it: "Gholdengo-ex",
+        de: "Monetigo-ex",
+        'pt-br': "Gholdengo ex",
+        "zh-tw": "賽富豪ex",
         ko: "타부자고"
     },
     suffix: "EX",
@@ -51,7 +51,6 @@ const card: Card = {
                 "pt-br": "Corrida de gastos",
                 "zh-tw": "消費熱潮"
             },
-            damage: "40",
             cost: ["Metal"],
             effect: {
                 en: "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it. ",
@@ -61,7 +60,7 @@ const card: Card = {
                 "de": "Für jede an dieses Pokémon angelegte Metal-Energie wird zufällig 1 Pokémon deines Gegners ausgewählt. Füge ihm jedes Mal, wenn ein Pokémon ausgewählt wurde, 40 Schadenspunkte zu.",
                 "pt-br": "1 dos Pokémon do seu oponente é escolhido aleatoriamente para cada Energia Metal ligada a este Pokémon. Para cada vez que um Pokémon for escolhido, cause 40 de dano a ele.",
                 "zh-tw": "對手的寶可夢每附有一個金屬能量，就會隨機選出 1 隻對手的寶可夢。每選擇一隻寶可夢，就會對其造成 40 點傷害。"
-            },
+            }
         },
     ],
     weaknesses: [

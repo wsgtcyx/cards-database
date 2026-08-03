@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Roserade",
         "de": "Roserade",
         "pt-br": "Roserade",
-        "zh-tw": "羅斯拉德"
+        "zh-tw": "羅絲雷朵"
     },
     illustrator: "chibi",
     rarity: "Three Diamond",

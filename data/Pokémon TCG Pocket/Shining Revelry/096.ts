@@ -18,7 +18,7 @@ const card: Card = {
         de: "Giratina-ex",
         ko: "기라티나 ex",
         'pt-br': "Giratina ex",
-        "zh-tw": "騎拉帝納 ex"
+        "zh-tw": "騎拉帝納ex"
     },
     illustrator: "Shinji Kanda",
     rarity: "Three Star",

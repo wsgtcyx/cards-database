@@ -13,9 +13,9 @@ const card: Card = {
     name: {
         en: "Voltorb",
         "fr": "Voltorbe",
-        "es": "voltorb",
+        "es": "Voltorb",
         "it": "Voltorb",
-        "de": "Voltorb",
+        "de": "Voltobal",
         "pt-br": "Voltorb",
         "zh-tw": "霹靂電球",
     },

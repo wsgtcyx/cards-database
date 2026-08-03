@@ -13,11 +13,11 @@ const card: Card = {
     name: {
         en: "Vigoroth",
         "fr": "Vigoroth",
-        "es": "Vigorot",
+        "es": "Vigoroth",
         "it": "Vigoroth",
-        "de": "Vigoroth",
+        "de": "Muntier",
         "pt-br": "Vigoroth",
-        "zh-tw": "維戈羅斯"
+        "zh-tw": "過動猿"
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Two Diamond",

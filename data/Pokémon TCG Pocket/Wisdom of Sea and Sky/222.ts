@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Primeape",
-        "fr": "Primeape",
-        "es": "primape",
+        "fr": "Colossinge",
+        "es": "Primeape",
         "it": "Primeape",
-        "de": "Primeape",
+        "de": "Rasaff",
         "pt-br": "Primeape",
         "zh-tw": "火爆猴",
     },

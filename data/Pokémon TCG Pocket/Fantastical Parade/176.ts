@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Galarian Obstagoon",
-        "fr": "Obstagoon galarien",
+        "fr": "Ixon de Galar",
         "es": "Obstagoon de Galar",
-        "it": "Ostacolo Galarian",
-        "de": "Galarischer Obstagoon",
-        "pt-br": "Obstagoon Galariano",
-        "zh-tw": "伽勒安障礙"
+        "it": "Obstagoon di Galar",
+        "de": "Galar-Barrikadax",
+        "pt-br": "Obstagoon de Galar",
+        "zh-tw": "伽勒爾堵攔熊"
     },
     illustrator: "Mousho",
     rarity: "One Star",

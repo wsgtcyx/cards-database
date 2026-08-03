@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Chingling",
-        "fr": "Chingling",
-        "es": "tintineo",
+        "fr": "Korillon",
+        "es": "Chingling",
         "it": "Chingling",
-        "de": "Chingling",
+        "de": "Klingplim",
         "pt-br": "Chingling",
-        "zh-tw": "鈴噹響",
+        "zh-tw": "鈴鐺響",
     },
     illustrator: "Kagemaru Himeno",
     rarity: "Three Diamond",
@@ -54,10 +54,6 @@ const card: Card = {
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá jogar nenhuma carta de Item da sua mão.",
                 "zh-tw": "在對手的下一個回合中，他們不能從手上打出任何物品卡。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 0
 };

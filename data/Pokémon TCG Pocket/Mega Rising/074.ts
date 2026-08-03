@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Bergmite",
-        "fr": "Bergmite",
-        "es": "bergmita",
+        "fr": "Grelaçon",
+        "es": "Bergmite",
         "it": "Bergmite",
-        "de": "Bergmite",
+        "de": "Arktip",
         "pt-br": "Bergmite",
         "zh-tw": "冰寶",
     },

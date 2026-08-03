@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Deino",
-        "fr": "Déino",
+        "fr": "Solochi",
         "es": "Deino",
         "it": "Deino",
-        "de": "Deino",
+        "de": "Kapuno",
         "pt-br": "Deino",
         "zh-tw": "單首龍",
     },

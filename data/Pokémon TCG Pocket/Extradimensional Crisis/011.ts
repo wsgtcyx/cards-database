@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Carvanha",
         "es": "Carvanha",
         "it": "Carvanha",
-        "de": "Carvanha",
+        "de": "Kanivanha",
         "pt-br": "Carvanha",
         "zh-tw": "利牙魚",
     },

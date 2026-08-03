@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Goodra",
-        "fr": "Goodra",
-        "es": "buenara",
+        "fr": "Muplodocus",
+        "es": "Goodra",
         "it": "Goodra",
-        "de": "Goodra",
+        "de": "Viscogon",
         "pt-br": "Goodra",
-        "zh-tw": "黏美露龍",
+        "zh-tw": "黏美龍",
     },
     illustrator: "Nagomi Nijo",
     rarity: "Three Diamond",
@@ -64,10 +64,6 @@ const card: Card = {
                 "pt-br": "Cure 40 de dano deste Pokémon.",
                 "zh-tw": "治療該神奇寶貝造成的 40 點傷害。"
             }
-        }],
-    weaknesses: [{
-            type: "Colorless",
-            value: "+20"
         }],
     retreat: 3
 };

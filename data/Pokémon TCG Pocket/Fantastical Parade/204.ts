@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Meowth",
         "fr": "Miaouss",
-        "es": "maullido",
-        "it": "Miaoth",
-        "de": "Miau",
-        "pt-br": "Miau",
+        "es": "Meowth",
+        "it": "Meowth",
+        "de": "Mauzi",
+        "pt-br": "Meowth",
         "zh-tw": "喵喵"
     },
     illustrator: "Teeziro",

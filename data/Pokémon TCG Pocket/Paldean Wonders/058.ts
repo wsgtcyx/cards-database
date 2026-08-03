@@ -17,8 +17,8 @@ const card: Card = {
         es: "Tauros de Paldea",
         it: "Tauros di Paldea",
         de: "Paldea-Tauros",
-        "pt-br": "Tauros",
-        "zh-tw": "帕底亞 肯泰羅",
+        "pt-br": "Tauros de Paldea",
+        "zh-tw": "帕底亞肯泰羅",
         pt: "Tauros de Paldea"
     },
     illustrator: "Shin Nagasawa",

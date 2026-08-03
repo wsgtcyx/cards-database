@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Malamar",
-        "fr": "Malamar",
+        "fr": "Sepiatroce",
         "es": "Malamar",
         "it": "Malamar",
-        "de": "Malamar",
+        "de": "Calamanero",
         "pt-br": "Malamar",
         "zh-tw": "烏賊王",
     },

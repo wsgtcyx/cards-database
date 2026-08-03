@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Torkoal",
-        "fr": "Torkoal",
+        "fr": "Chartor",
         "es": "Torkoal",
         "it": "Torkoal",
-        "de": "Torkoal",
+        "de": "Qurtel",
         "pt-br": "Torkoal",
         "zh-tw": "煤炭龜",
     },

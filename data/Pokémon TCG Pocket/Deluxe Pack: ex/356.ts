@@ -12,10 +12,10 @@ const card: Card = {
 	},
 	name: {
         en: "Greninja",
-        "fr": "Greninja",
-        "es": "greninja",
+        "fr": "Amphinobi",
+        "es": "Greninja",
         "it": "Greninja",
-        "de": "Greninja",
+        "de": "Quajutsu",
         "pt-br": "Greninja",
         "zh-tw": "甲賀忍蛙",
     },

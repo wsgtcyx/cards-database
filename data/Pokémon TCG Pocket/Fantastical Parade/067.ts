@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Litwick",
-        "fr": "Litwick",
-        "es": "litwick",
+        "fr": "Funécire",
+        "es": "Litwick",
         "it": "Litwick",
-        "de": "Litwick",
+        "de": "Lichtel",
         "pt-br": "Litwick",
-        "zh-tw": "利特威克"
+        "zh-tw": "燭光靈"
     },
     illustrator: "saino misaki",
     rarity: "One Diamond",

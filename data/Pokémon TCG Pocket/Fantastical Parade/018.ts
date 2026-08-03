@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Marowak di Alola",
         "de": "Alola-Knogga",
         "pt-br": "Marowak de Alola",
-        "zh-tw": "阿羅蘭·馬洛瓦克"
+        "zh-tw": "阿羅拉嘎啦嘎啦"
     },
     illustrator: "Dsuke",
     rarity: "Two Diamond",

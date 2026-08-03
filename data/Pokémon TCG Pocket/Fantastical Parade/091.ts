@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Passimian",
-        "fr": "Passimien",
-        "es": "Passimiano",
-        "it": "Passimiano",
-        "de": "Passimian",
-        "pt-br": "Passimiano",
-        "zh-tw": "帕西米安"
+        "fr": "Quartermac",
+        "es": "Passimian",
+        "it": "Passimian",
+        "de": "Quartermak",
+        "pt-br": "Passimian",
+        "zh-tw": "投擲猴"
     },
     illustrator: "HYOGONOSUKE",
     rarity: "One Diamond",

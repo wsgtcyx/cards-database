@@ -12,8 +12,8 @@ const card: Card = {
     },
     name: {
         en: "Giratina",
-        "fr": "Giratine",
-        "es": "giratina",
+        "fr": "Giratina",
+        "es": "Giratina",
         "it": "Giratina",
         "de": "Giratina",
         "pt-br": "Giratina",

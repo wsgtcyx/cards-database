@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Drampa",
-        "fr": "Drampa",
+        "fr": "Draïeul",
         "es": "Drampa",
         "it": "Drampa",
-        "de": "Drampa",
+        "de": "Sen-Long",
         "pt-br": "Drampa",
         "zh-tw": "老翁龍",
     },

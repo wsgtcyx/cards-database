@@ -12,8 +12,8 @@ const card: Card = {
     },
     name: {
         en: "Entei",
-        "fr": "Entéi",
-        "es": "entei",
+        "fr": "Entei",
+        "es": "Entei",
         "it": "Entei",
         "de": "Entei",
         "pt-br": "Entei",

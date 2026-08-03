@@ -18,7 +18,7 @@ const card: Card = {
         de: "Gastrodon",
         'pt-br': "Gastrodon",
         ko: "트리토돈",
-        "zh-tw": "海牛獸",
+        "zh-tw": "海兔獸",
     },
     illustrator: "takashi shiraishi",
     rarity: "One Star",

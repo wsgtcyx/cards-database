@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Latias",
         "fr": "Latias",
-        "es": "Latías",
+        "es": "Latias",
         "it": "Latias",
         "de": "Latias",
-        "pt-br": "Lácias",
+        "pt-br": "Latias",
         "zh-tw": "拉帝亞斯",
     },
     illustrator: "rika",

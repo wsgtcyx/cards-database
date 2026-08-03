@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Klefki",
-        "fr": "Klefki",
+        "fr": "Trousselin",
         "es": "Klefki",
         "it": "Klefki",
-        "de": "Klefki",
+        "de": "Clavion",
         "pt-br": "Klefki",
         "zh-tw": "鑰圈兒",
     },

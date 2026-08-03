@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Golurk",
-        "fr": "Golurk",
+        "fr": "Golemastoc",
         "es": "Golurk",
         "it": "Golurk",
-        "de": "Golurk",
+        "de": "Golgantes",
         "pt-br": "Golurk",
         "zh-tw": "泥偶巨人",
     },

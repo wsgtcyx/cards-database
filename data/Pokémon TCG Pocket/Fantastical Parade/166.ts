@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Toxel",
-        "fr": "Toxel",
-        "es": "Tóxel",
+        "fr": "Toxizap",
+        "es": "Toxel",
         "it": "Toxel",
         "de": "Toxel",
         "pt-br": "Toxel",
-        "zh-tw": "托克塞爾"
+        "zh-tw": "毒電嬰"
     },
     illustrator: "Taiga Kayama",
     rarity: "One Star",

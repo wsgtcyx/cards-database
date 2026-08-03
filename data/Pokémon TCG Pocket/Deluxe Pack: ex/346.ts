@@ -12,11 +12,11 @@ const card: Card = {
 	},
 	name: {
         en: "Leaf",
-        "fr": "Feuille",
+        "fr": "Leaf",
         "es": "Hoja",
-        "it": "Foglia",
-        "de": "Blatt",
-        "pt-br": "Folha",
+        "it": "Leaf",
+        "de": "Leaf",
+        "pt-br": "Leaf",
         "zh-tw": "葉子"
     },
     illustrator: "En Morikura",

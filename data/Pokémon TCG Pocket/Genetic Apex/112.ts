@@ -47,7 +47,7 @@ const card: Card = {
                 'pt-br': "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
                 "zh-tw": "拋一枚硬幣。如果正面，則對手的活躍神奇寶貝現在處於麻痺狀態。"
             },
-            damage: "40"
+            damage: "30"
         }],
     weaknesses: [{
             type: "Fighting",

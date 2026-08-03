@@ -18,7 +18,7 @@ const card: Card = {
         de: "Alola-Sleimok-ex",
         'pt-br': "Muk de Alola ex",
         ko: "알로라질뻐기 ex",
-        "zh-tw": "阿羅拉臭臭泥 ex",
+        "zh-tw": "阿羅拉臭臭泥ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

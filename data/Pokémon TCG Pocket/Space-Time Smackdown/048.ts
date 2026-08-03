@@ -18,7 +18,7 @@ const card: Card = {
         de: "Frost-Rotom",
         'pt-br': "Rotom Congelante",
         ko: "프로스트로토무",
-        "zh-tw": "結凍洛托姆",
+        "zh-tw": "結冰洛托姆",
     },
     illustrator: "MAHOU",
     rarity: "One Diamond",

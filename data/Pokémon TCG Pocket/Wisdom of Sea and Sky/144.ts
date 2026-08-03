@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Dunsparce",
-        "fr": "Dunsparce",
+        "fr": "Insolourdo",
         "es": "Dunsparce",
         "it": "Dunsparce",
-        "de": "Dunsparce",
+        "de": "Dummisel",
         "pt-br": "Dunsparce",
         "zh-tw": "土龍弟弟",
     },

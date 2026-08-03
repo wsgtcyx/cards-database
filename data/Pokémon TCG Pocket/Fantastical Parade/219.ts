@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Hitmonchan",
         "de": "Nockchan",
         "pt-br": "Hitmonchan",
-        "zh-tw": "希特蒙醬"
+        "zh-tw": "快拳郎"
     },
     illustrator: "Shigenori Negishi",
     rarity: "One Shiny",

@@ -15,9 +15,9 @@ const card: Card = {
         "fr": "Miaouss de Galar",
         "es": "Meowth de Galar",
         "it": "Meowth di Galar",
-        "de": "Galarisches Miauen",
+        "de": "Galar-Mauzi",
         "pt-br": "Meowth de Galar",
-        "zh-tw": "加拉瑞喵喵"
+        "zh-tw": "伽勒爾喵喵"
     },
     illustrator: "0313",
     rarity: "One Diamond",

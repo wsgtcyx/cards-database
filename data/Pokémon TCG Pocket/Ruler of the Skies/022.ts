@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -44,7 +43,7 @@ const card: Card = {
     },
     attacks: [
         {
-            cost: ["Fire", "Fire", "Colorless"],
+            cost: ["Fire", "Fire"],
             name: {
                 en: "Bursting Tail",
                 fr: "Queue Détonante",
@@ -70,5 +69,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

@@ -12,7 +12,7 @@ const card: Card = {
     },
     name: {
         en: "Miltank",
-        "fr": "Réservoir à lait",
+        "fr": "Écrémeuh",
         "es": "Miltank",
         "it": "Miltank",
         "de": "Miltank",

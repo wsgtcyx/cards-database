@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Poliwag",
-        "fr": "Poliwag",
+        "fr": "Ptitard",
         "es": "Poliwag",
         "it": "Poliwag",
-        "de": "Poliwag",
+        "de": "Quapsel",
         "pt-br": "Poliwag",
         "zh-tw": "蚊香蝌蚪",
     },

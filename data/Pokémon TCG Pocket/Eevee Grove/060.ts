@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Chatot",
-        "fr": "Chatot",
+        "fr": "Pijako",
         "es": "Chatot",
         "it": "Chatot",
-        "de": "Chatot",
+        "de": "Plaudagei",
         "pt-br": "Chatot",
         "zh-tw": "聒噪鳥",
     },

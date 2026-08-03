@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Trubbish",
-        "fr": "Trubbish",
-        "es": "basura",
-        "it": "Sciocchezza",
-        "de": "Trubbisch",
-        "pt-br": "Trubo",
-        "zh-tw": "垃圾"
+        "fr": "Miamiasme",
+        "es": "Trubbish",
+        "it": "Trubbish",
+        "de": "Unratütox",
+        "pt-br": "Trubbish",
+        "zh-tw": "破破袋"
     },
     illustrator: "Shibuzoh.",
     rarity: "One Diamond",

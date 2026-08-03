@@ -18,7 +18,7 @@ const card: Card = {
         de: "Lusardin-ex",
         'pt-br': "Wishiwashi ex",
         ko: "약어리 ex",
-        "zh-tw": "弱丁魚 ex",
+        "zh-tw": "弱丁魚ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

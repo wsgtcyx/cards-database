@@ -14,10 +14,10 @@ const card: Card = {
         en: "Latios",
         "fr": "Latios",
         "es": "Latios",
-        "it": "Lazio",
+        "it": "Latios",
         "de": "Latios",
-        "pt-br": "Lácio",
-        "zh-tw": "拉蒂奧斯"
+        "pt-br": "Latios",
+        "zh-tw": "拉帝歐斯"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

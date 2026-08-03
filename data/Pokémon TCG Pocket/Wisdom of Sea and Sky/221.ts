@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Mankey",
-        "fr": "Mankey",
-        "es": "mankey",
+        "fr": "Férosinge",
+        "es": "Mankey",
         "it": "Mankey",
-        "de": "Mankey",
+        "de": "Menki",
         "pt-br": "Mankey",
         "zh-tw": "猴怪",
     },

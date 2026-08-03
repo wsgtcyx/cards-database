@@ -14,9 +14,9 @@ const card: Card = {
     name: {
         en: "Kartana",
         es: "Kartana",
-        "fr": "Kartana",
+        "fr": "Katagami",
         "it": "Kartana",
-        "de": "Kartana",
+        "de": "Katagami",
         "pt-br": "Kartana",
         "zh-tw": "紙御劍",
     },

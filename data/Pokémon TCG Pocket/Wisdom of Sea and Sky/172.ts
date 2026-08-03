@@ -12,8 +12,8 @@ const card: Card = {
     },
     name: {
         en: "Ampharos",
-        "fr": "Ampharos",
-        "es": "Amfaros",
+        "fr": "Pharamp",
+        "es": "Ampharos",
         "it": "Ampharos",
         "de": "Ampharos",
         "pt-br": "Ampharos",

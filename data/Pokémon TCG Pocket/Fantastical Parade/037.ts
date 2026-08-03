@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Vanillite",
-        "fr": "Vanillite",
-        "es": "vainillita",
+        "fr": "Sorbébé",
+        "es": "Vanillite",
         "it": "Vanillite",
-        "de": "Vanillit",
-        "pt-br": "Vanilita",
-        "zh-tw": "香蘭石"
+        "de": "Gelatini",
+        "pt-br": "Vanillite",
+        "zh-tw": "迷你冰"
     },
     illustrator: "Orca",
     rarity: "One Diamond",

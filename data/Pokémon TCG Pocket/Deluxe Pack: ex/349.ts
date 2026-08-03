@@ -13,9 +13,9 @@ const card: Card = {
 	name: {
         en: "Lillie",
         "fr": "Lilie",
-        "es": "lilia",
-        "it": "Lillie",
-        "de": "Lillie",
+        "es": "Lylia",
+        "it": "Lylia",
+        "de": "Lilly",
         "pt-br": "Lílian",
         "zh-tw": "莉莉艾",
     },

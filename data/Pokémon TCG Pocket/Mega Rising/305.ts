@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Drowzee",
-        "fr": "Somnolent",
-        "es": "adormilado",
+        "fr": "Soporifik",
+        "es": "Drowzee",
         "it": "Drowzee",
-        "de": "Drowzee",
+        "de": "Traumato",
         "pt-br": "Drowzee",
         "zh-tw": "催眠貘",
     },

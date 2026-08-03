@@ -18,7 +18,7 @@ const card: Card = {
         de: "Moruda-ex",
         'pt-br': "Dhelmise ex",
         ko: "타타륜 ex",
-        "zh-tw": "破破舵輪 ex",
+        "zh-tw": "破破舵輪ex",
     },
     illustrator: "IKEDA Saki",
     rarity: "Two Star",

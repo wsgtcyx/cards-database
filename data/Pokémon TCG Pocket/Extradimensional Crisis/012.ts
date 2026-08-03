@@ -15,7 +15,7 @@ const card: Card = {
         "fr": "Sharpedo",
         "es": "Sharpedo",
         "it": "Sharpedo",
-        "de": "Sharpedo",
+        "de": "Tohaido",
         "pt-br": "Sharpedo",
         "zh-tw": "巨牙鯊",
     },

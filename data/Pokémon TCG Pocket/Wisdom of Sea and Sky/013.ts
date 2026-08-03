@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Hoppip",
-        "fr": "Hoppip",
+        "fr": "Granivol",
         "es": "Hoppip",
         "it": "Hoppip",
-        "de": "Hoppip",
+        "de": "Hoppspross",
         "pt-br": "Hoppip",
         "zh-tw": "毽子草",
     },

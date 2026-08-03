@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Fletchling",
-        "fr": "Empennage",
+        "fr": "Passerouge",
         "es": "Fletchling",
         "it": "Fletchling",
-        "de": "Fletchling",
+        "de": "Dartiri",
         "pt-br": "Fletchling",
         "zh-tw": "小箭雀",
     },

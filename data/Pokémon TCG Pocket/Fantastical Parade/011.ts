@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Scatterbug",
-        "fr": "Insecte à dispersion",
-        "es": "dispersor",
+        "fr": "Lépidonille",
+        "es": "Scatterbug",
         "it": "Scatterbug",
-        "de": "Scatterbug",
-        "pt-br": "Espalhador",
-        "zh-tw": "飛蟲"
+        "de": "Purmel",
+        "pt-br": "Scatterbug",
+        "zh-tw": "粉蝶蟲"
     },
     illustrator: "Akira Komayama",
     rarity: "One Diamond",

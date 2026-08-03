@@ -19,7 +19,7 @@ const card: Card = {
         it: "Tauros di Paldea",
         de: "Paldea-Tauros",
         "pt-br": "Tauros de Paldea",
-        "zh-tw": "帕底亞 肯泰羅",
+        "zh-tw": "帕底亞肯泰羅",
         ko: "팔데아 켄타로스",
         ja: "パルデア ケンタロス"
     },

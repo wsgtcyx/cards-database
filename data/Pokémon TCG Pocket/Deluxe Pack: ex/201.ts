@@ -13,10 +13,10 @@ const card: Card = {
     name: {
         en: "Phanpy",
         "fr": "Phanpy",
-        "es": "fanpy",
-        "it": "Fanpy",
+        "es": "Phanpy",
+        "it": "Phanpy",
         "de": "Phanpy",
-        "pt-br": "Fanpy",
+        "pt-br": "Phanpy",
         "zh-tw": "小小象",
     },
     illustrator: "Midori Harada",

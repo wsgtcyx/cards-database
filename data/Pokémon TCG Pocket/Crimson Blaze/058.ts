@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Porygon-Z",
         "de": "Porygon-Z",
         "pt-br": "Porygon-Z",
-        "zh-tw": "多邊獸Z"
+        "zh-tw": "多邊獸Ｚ"
     },
     illustrator: "Shibuzoh.",
     rarity: "Three Diamond",

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Pachirisu-ex",
         'pt-br': "Pachirisu ex",
         ko: "파치리스 ex",
-        "zh-tw": "帕奇利茲 ex",
+        "zh-tw": "帕奇利茲ex",
     },
     illustrator: "Nurikabe",
     rarity: "Two Star",

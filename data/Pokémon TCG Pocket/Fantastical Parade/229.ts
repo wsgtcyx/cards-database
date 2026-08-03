@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Sylveon ex",
-        "fr": "Sylvéon ex",
+        "fr": "Nymphali-ex",
         "es": "Sylveon ex",
-        "it": "Sylveone es",
-        "de": "Sylveon ex",
+        "it": "Sylveon-ex",
+        "de": "Feelinara-ex",
         "pt-br": "Sylveon ex",
-        "zh-tw": "西爾文EX"
+        "zh-tw": "仙子伊布ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Shiny",

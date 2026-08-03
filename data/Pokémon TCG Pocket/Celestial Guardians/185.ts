@@ -18,7 +18,7 @@ const card: Card = {
         de: "Alola-Raichu-ex",
         'pt-br': "Raichu de Alola ex",
         ko: "알로라라이츄 ex",
-        "zh-tw": "阿羅拉雷丘 ex",
+        "zh-tw": "阿羅拉雷丘ex",
     },
     illustrator: "PLANETA CG Works",
     rarity: "Two Star",

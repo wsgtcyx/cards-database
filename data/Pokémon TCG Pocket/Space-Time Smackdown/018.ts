@@ -18,7 +18,7 @@ const card: Card = {
         de: "Honweisel",
         'pt-br': "Vespiquen",
         ko: "비퀸",
-        "zh-tw": "蜂后",
+        "zh-tw": "蜂女王",
     },
     illustrator: "chibi",
     rarity: "Two Diamond",

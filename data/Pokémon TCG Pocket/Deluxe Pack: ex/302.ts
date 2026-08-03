@@ -12,10 +12,10 @@ const card: Card = {
 	},
 	name: {
         en: "Silvally",
-        "fr": "Silvallie",
+        "fr": "Silvallié",
         "es": "Silvally",
-        "it": "Silvalmente",
-        "de": "Silvally",
+        "it": "Silvally",
+        "de": "Amigento",
         "pt-br": "Silvally",
         "zh-tw": "銀伴戰獸",
     },

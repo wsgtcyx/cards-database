@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Ralts",
-        "fr": "Ralts",
+        "fr": "Tarsal",
         "es": "Ralts",
         "it": "Ralts",
-        "de": "Ralts",
+        "de": "Trasla",
         "pt-br": "Ralts",
-        "zh-tw": "拉爾茨"
+        "zh-tw": "拉魯拉絲"
     },
     illustrator: "mingo",
     rarity: "One Diamond",

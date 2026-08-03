@@ -70,5 +70,6 @@ const card: Card = {
             value: "+20",
         },
     ],
+    retreat: 0
 };
 export default card;

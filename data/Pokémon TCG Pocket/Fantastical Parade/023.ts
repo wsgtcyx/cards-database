@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Blacephalon ex",
-        "fr": "Blacéphale ex",
-        "es": "Blacéfalo ex",
-        "it": "Blacephalon es",
-        "de": "Blacephalon ex",
-        "pt-br": "Ex de Blacéfalo",
-        "zh-tw": "布拉塞法倫前身"
+        "fr": "Pierroteknik-ex",
+        "es": "Blacephalon ex",
+        "it": "Blacephalon-ex",
+        "de": "Kopplosio-ex",
+        "pt-br": "Blacephalon ex",
+        "zh-tw": "砰頭小丑ex"
     },
     illustrator: "5ban Graphics",
     rarity: "Four Diamond",

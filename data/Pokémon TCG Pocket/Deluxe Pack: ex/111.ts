@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Froakie",
-        "fr": "Froakie",
+        "fr": "Grenousse",
         "es": "Froakie",
         "it": "Froakie",
-        "de": "Froakie",
+        "de": "Froxy",
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
     },

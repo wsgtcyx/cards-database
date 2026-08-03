@@ -13,10 +13,10 @@ const card: Card = {
     },
     name: {
         en: "Houndoom",
-        "fr": "Chien de chasse",
+        "fr": "Démolosse",
         "es": "Houndoom",
-        "it": "Houndom",
-        "de": "Hundoom",
+        "it": "Houndoom",
+        "de": "Hundemon",
         "pt-br": "Houndoom",
         "zh-tw": "黑魯加",
     },

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Lucario-ex",
         'pt-br': "Lucario ex",
         ko: "루카리오 ex",
-        "zh-tw": "路卡利歐 ex"
+        "zh-tw": "路卡利歐ex"
     },
     illustrator: "PLANETA CG Works",
     rarity: "Four Diamond",

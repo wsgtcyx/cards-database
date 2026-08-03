@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Vivillon",
-        "fr": "Vivillon",
-        "es": "Vivillón",
+        "fr": "Prismillon",
+        "es": "Vivillon",
         "it": "Vivillon",
         "de": "Vivillon",
         "pt-br": "Vivillon",
-        "zh-tw": "維維永"
+        "zh-tw": "彩粉蝶"
     },
     illustrator: "mingo",
     rarity: "One Star",

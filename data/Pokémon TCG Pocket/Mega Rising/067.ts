@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Carracosta",
-        "fr": "Carracosta",
+        "fr": "Mégapagos",
         "es": "Carracosta",
         "it": "Carracosta",
-        "de": "Carracosta",
+        "de": "Karippas",
         "pt-br": "Carracosta",
         "zh-tw": "肋骨海龜",
     },

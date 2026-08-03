@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Scraggy",
-        "fr": "Décharné",
-        "es": "Flaco",
-        "it": "Scarso",
-        "de": "Mager",
-        "pt-br": "Desgrenhado",
-        "zh-tw": "瘦弱的"
+        "fr": "Baggiguane",
+        "es": "Scraggy",
+        "it": "Scraggy",
+        "de": "Zurrokex",
+        "pt-br": "Scraggy",
+        "zh-tw": "滑滑小子"
     },
     illustrator: "Sekio",
     rarity: "One Diamond",

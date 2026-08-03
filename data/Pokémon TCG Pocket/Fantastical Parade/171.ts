@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Tyrantrum",
-        "fr": "Tyrantre",
-        "es": "tirano",
-        "it": "Tiranno",
-        "de": "Tyrantrum",
-        "pt-br": "Tirano",
-        "zh-tw": "暴君"
+        "fr": "Rexillius",
+        "es": "Tyrantrum",
+        "it": "Tyrantrum",
+        "de": "Monargoras",
+        "pt-br": "Tyrantrum",
+        "zh-tw": "怪顎龍"
     },
     illustrator: "Yuriko Akase",
     rarity: "One Star",

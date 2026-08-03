@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Stunky",
-        "fr": "Puant",
-        "es": "apestoso",
-        "it": "Puzzolente",
-        "de": "Stunkig",
-        "pt-br": "Fedorento",
-        "zh-tw": "臭臭"
+        "fr": "Moufouette",
+        "es": "Stunky",
+        "it": "Stunky",
+        "de": "Skunkapuh",
+        "pt-br": "Stunky",
+        "zh-tw": "臭鼬噗"
     },
     illustrator: "Naoyo Kimura",
     rarity: "One Diamond",

@@ -18,7 +18,7 @@ const card: Card = {
         de: "Chaneira",
         'pt-br': "Chansey",
         ko: "럭키",
-        "zh-tw": "錢西"
+        "zh-tw": "吉利蛋"
     },
     illustrator: "sowsow",
     rarity: "None",

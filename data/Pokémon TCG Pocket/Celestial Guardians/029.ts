@@ -18,7 +18,7 @@ const card: Card = {
         de: "Fiaro",
         'pt-br': "Talonflame",
         ko: "파이어로",
-        "zh-tw": "烈箭鶲",
+        "zh-tw": "烈箭鷹",
     },
     illustrator: "Masakazu Fukuda",
     rarity: "Three Diamond",

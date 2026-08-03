@@ -18,7 +18,7 @@ const card: Card = {
         de: "Pokédex",
         'pt-br': "Pokédex",
         ko: "포켓몬 도감",
-        "zh-tw": "圖鑑"
+        "zh-tw": "寶可夢圖鑑"
     },
     illustrator: "Ryo Ueda",
     rarity: "None",

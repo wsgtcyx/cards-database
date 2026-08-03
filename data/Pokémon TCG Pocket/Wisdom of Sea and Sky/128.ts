@@ -12,10 +12,10 @@ const card: Card = {
     },
     name: {
         en: "Klinklang",
-        "fr": "Klinklang",
-        "es": "klinklang",
+        "fr": "Cliticlic",
+        "es": "Klinklang",
         "it": "Klinklang",
-        "de": "Klinklang",
+        "de": "Klikdiklak",
         "pt-br": "Klinklang",
         "zh-tw": "齒輪怪",
     },

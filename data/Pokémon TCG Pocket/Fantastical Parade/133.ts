@@ -12,12 +12,12 @@ const card: Card = {
     },
     name: {
         en: "Swellow",
-        "fr": "Gonfler",
-        "es": "hincharse",
+        "fr": "Hélédelle",
+        "es": "Swellow",
         "it": "Swellow",
-        "de": "Schwelgen",
-        "pt-br": "Inchar",
-        "zh-tw": "膨脹"
+        "de": "Schwalboss",
+        "pt-br": "Swellow",
+        "zh-tw": "大王燕"
     },
     illustrator: "Mizue",
     rarity: "Three Diamond",

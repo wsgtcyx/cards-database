@@ -17,7 +17,7 @@ const card: Card = {
         "it": "Omastar",
         "de": "Amoroso",
         "pt-br": "Omastar",
-        "zh-tw": "奧馬斯塔"
+        "zh-tw": "多刺菊石獸"
     },
     illustrator: "Souichirou Gunjima",
     rarity: "One Shiny",

@@ -12,11 +12,11 @@ const card: Card = {
     },
     name: {
         en: "Melmetal",
-        "fr": "Melmétal",
+        "fr": "Melmetal",
         "es": "Melmetal",
         "it": "Melmetal",
         "de": "Melmetal",
-        "pt-br": "Melmetálico",
+        "pt-br": "Melmetal",
         "zh-tw": "美錄梅塔",
     },
     illustrator: "NC Empire",
