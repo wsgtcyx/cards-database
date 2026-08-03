@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/037"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/037",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/037",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/037",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/037",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/037"
     },
     name: {
         en: "Wailord ex",
@@ -39,10 +43,18 @@ const card: Card = {
         {
             cost: ["Water", "Water", "Water", "Water"],
             name: {
-                en: "Wondrous Waves"
+                en: "Wondrous Waves",
+                fr: "Éclaboussure Miracle",
+                es: "Olas Milagrosas",
+                "pt-br": "Ondas Encantadas",
+                "zh-tw": "奇跡鯨濤"
             },
             effect: {
-                en: "This Pokémon recovers from all Special Conditions."
+                en: "This Pokémon recovers from all Special Conditions.",
+                fr: "Ce Pokémon guérit de tous les États Spéciaux.",
+                es: "Este Pokémon se recupera de todas las Condiciones Especiales.",
+                "pt-br": "Este Pokémon se recupera de todas as Condições Especiais.",
+                "zh-tw": "將這隻寶可夢的特殊狀態全部恢復。"
             },
             damage: 100
         }

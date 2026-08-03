@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/032"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/032",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/032",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/032",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/032",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/032"
     },
     name: {
         en: "Staryu",
@@ -37,21 +41,21 @@ const card: Card = {
             cost: ["Water"],
             name: {
                 en: "Swift",
-                fr: "Rapide",
-                es: "Rápido",
+                fr: "Météores",
+                es: "Meteoros",
                 it: "Veloce",
                 de: "Schnell",
-                "pt-br": "Rápido",
+                "pt-br": "Ataque Veloz",
                 "zh-tw": "高速星星"
             },
             effect: {
                 en: "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon.",
-                fr: "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ni par aucun effet sur le Pokémon Actif de votre adversaire.",
-                es: "El daño de este ataque no se ve afectado por la Debilidad ni por ningún efecto en el Pokémon Activo de tu rival.",
+                fr: "Les dégâts de cette attaque ne sont pas affectés par la Faiblesse ou tout effet en action sur le Pokémon Actif de votre adversaire.",
+                es: "El daño de este ataque no se ve afectado por Debilidad ni ningún efecto en el Pokémon Activo de tu rival.",
                 it: "Il danno di questo attacco non è influenzato dalla debolezza o da eventuali effetti sul Pokémon attivo del tuo avversario.",
                 de: "Der Schaden dieses Angriffs wird nicht durch Schwäche oder irgendwelche Effekte auf das Aktive Pokémon deines Gegners beeinflusst.",
-                "pt-br": "O dano deste ataque não é afetado pela Fraqueza ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
-                "zh-tw": "這次攻擊的傷害不受弱點或對手的活躍寶可夢的任何影響的影響。"
+                "pt-br": "O dano deste ataque não é afetado por Fraqueza ou por quaisquer efeitos no Pokémon Ativo do seu oponente.",
+                "zh-tw": "這個招式的傷害不計算弱點與對手的戰鬥寶可夢身上的附加效果。"
             },
             damage: 20
         }

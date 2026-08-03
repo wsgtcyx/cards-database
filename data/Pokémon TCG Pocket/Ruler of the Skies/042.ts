@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/042"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/042",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/042",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/042",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/042",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/042"
     },
     name: {
         en: "Oshawott",

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/014"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/014",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/014",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/014",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/014",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/014"
     },
     name: {
         en: "Accelgor",
@@ -47,10 +51,18 @@ const card: Card = {
         {
             cost: ["Colorless", "Colorless"],
             name: {
-                en: "Deck and Cover"
+                en: "Deck and Cover",
+                fr: "Délit de Fuite",
+                es: "Golpe y Huida",
+                "pt-br": "Adornar e Cobrir",
+                "zh-tw": "打完就閃"
             },
             effect: {
-                en: "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck."
+                en: "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck.",
+                fr: "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Paralysé. Mélangez avec votre deck ce Pokémon et toutes les cartes attachées.",
+                es: "El Pokémon Activo de tu rival pasa a estar Envenenado y Paralizado. Pon este Pokémon y todas las cartas unidas a él en tu baraja y baraja todas las cartas.",
+                "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Paralisado. Embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho.",
+                "zh-tw": "將對手的戰鬥寶可夢中毒與麻痺。將這隻寶可夢與附加的卡,全部放回牌庫。"
             },
             damage: 50
         }

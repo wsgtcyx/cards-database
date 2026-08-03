@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "expectedObjects": 1864,
+  "preparedManifest": true,
+  "uploadReceipts": true,
+  "publicObjectsChecked": 1864,
+  "fullPublicHead": "meta/pocket-source-reviews/B4/raenonx.r2.full-verify.json",
+  "publicMagicAndCacheSamples": 24,
+  "publicSample": "fr/es/pt/zh-tw × first/middle/last card × high/low",
+  "checks": [
+    "prepared manifest exactly matches the 1,864 expected R2 keys",
+    "all 1,864 upload receipts are present",
+    "all public keys return 2xx and image/webp",
+    "public samples return image/webp with RIFF/WEBP magic bytes",
+    "public samples return immutable one-year cache-control"
+  ],
+  "status": "ok",
+  "verifiedAt": "2026-08-02T15:57:01Z"
+}

@@ -2,6 +2,10 @@
 import { existsSync, promises as fs } from 'fs'
 import { SupportedLanguages } from '../../interfaces'
 import { FileFunction } from './compilerInterfaces'
+import cards from './endpoints/cards'
+import series from './endpoints/series'
+import sets from './endpoints/sets'
+import stats from './endpoints/stats'
 import { fetchRemoteFile, loadLastEdits } from './utils/util'
 
 const LANGS: Array<SupportedLanguages> = [
@@ -10,6 +14,12 @@ const LANGS: Array<SupportedLanguages> = [
 ]
 
 const DIST_FOLDER = './generated'
+const ENDPOINTS: Record<string, FileFunction> = {
+	'cards.ts': cards,
+	'series.ts': series,
+	'sets.ts': sets,
+	'stats.ts': stats,
+}
 
 ;(async () => {
 	const paths = (await fs.readdir('./compiler/endpoints')).filter((p) => p.endsWith('.ts'))
@@ -50,11 +60,15 @@ const DIST_FOLDER = './generated'
 			}
 
 			// Import the """Endpoint"""
-			const fn = (await import(`./endpoints/${file}`)).default as FileFunction
+			const fn = ENDPOINTS[file]
+			if (!fn) throw new Error(`Unknown compiler endpoint: ${file}`)
 
 			// Run the function
 			console.log('      ', 'Compiling', lang, file)
 			const item = await fn(lang)
+			if (lang === 'en' && Array.isArray(item) && item.length === 0) {
+				throw new Error(`Compiler endpoint produced no records: ${lang}/${file}`)
+			}
 
 			// Write to file
 			await fs.writeFile(`${folder}/${file.replace('.ts', '')}.json`, JSON.stringify(

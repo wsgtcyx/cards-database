@@ -1,6 +1,6 @@
 ---
 name: merge-pocket-card-sources
-description: Build auditable Pokémon TCG Pocket card metadata by merging fields from multiple upstreams, pinned card images, OCR review, and per-conflict evidence. Use when no single licensed source covers a new set, when sources disagree, or before feeding a composite details file into sync-pocket-set.
+description: Build auditable Pokémon TCG Pocket card metadata by merging PokeOS, RaenonX, and other pinned upstreams, localized card images, PaddleOCR review, multi-source cross-validation, and per-conflict evidence. Use when no single source covers a set, when sources disagree, or before feeding a composite details file into sync-pocket-set.
 ---
 
 # Merge Pocket Card Sources
@@ -17,21 +17,60 @@ description: Build auditable Pokémon TCG Pocket card metadata by merging fields
 
 - 基础索引：连续编号、英文名、稀有度和卡图；
 - 两个独立机制候选源；
-- 卡面 OCR/review：所有卡的 illustrator，Pokémon 的 flavor text；
+- 卡面 OCR/review：抽取几个代表性卡图 case，覆盖 Pokémon、Trainer、能力/招式和不同语言；
 - review overlay：所有候选冲突的卡面或独立页面裁决；
 - source registry：每个来源的角色、版本、许可证和固定 URL。
+
+RaenonX 是除 PokeOS 外的可用上游，角色是 localized metadata/image candidate，不是
+自动替代 canonical 详情的唯一真源：
+
+- `https://ptcgp.raenonx.cc/api/data/global-master` 提供 cardEntryMap、结构引用和 i18n IDs；
+- `https://ptcgp.raenonx.cc/{locale}/card/{cardId}` 提供页面内 `messages.Game.Master` 本地化 payload；
+- `https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/{locale}/{cardId}.png` 提供 PNG 原图；
+- 当前可用 overlap 为 `en/fr/es/pt/zh`，不要以英文 fallback 填充 RaenonX 缺失的 `de/it`；
+- 记录抓取时间、响应 headers、body SHA-256、固定 URL 和 `https://ptcgp.raenonx.cc` 归因。
+  未找到正式复制许可证时，只按明确授权、署名发布的范围使用，并在 provenance 标出限制。
+
+metadata 必须多源交叉验证：编号、数量、稀有度、结构和规则字段至少保留两个独立候选源；
+RaenonX localized value 必须通过 card ID + collection number join 到 canonical，而不是
+按数组位置合并。任何冲突都写入 review overlay，未裁决前禁止生产写入。
+
+RaenonX 表单名只允许经过通用的缺失分隔符规范化；不得按卡号写特判。适配器保留原始
+`sourceName`，cross-source audit 必须确认最终值已经规范化，未规范化的值阻断写入。
 
 禁止批量导入明确禁止 scraper 的站点。许可证不允许复制的来源只能作为校验候选，不能标为生成内容的直接来源。
 
 ## 工作流
 
 1. 先运行合并器生成冲突队列；允许它以退出码 2 停止。
-2. 只对 `unresolvedConflicts` 做定点卡面 OCR或网页核验，把裁决写进 review overlay。
+2. 只对 `unresolvedConflicts` 做定点卡面 OCR或网页核验，把裁决写进 review overlay；RaenonX
+   新来源还必须先完成十卡 localized metadata/image pilot，检查 token binding、source
+   coverage 和跨源一致性；B4 还要运行
+   `scripts/audit-raenonx-b4-cross-source.mjs`，确认 RaenonX 的稳定机制字段与既有
+   多源审计后的 API baseline 一致。
 3. 重跑直到 `passed: true`、`unresolvedConflicts: 0`、`missingFields: 0`。
 4. 当固定的结构化 metadata 上游尚未发布该卡集时，从 canonical 结果和历史九语官方卡名生成 importer 兼容源；其 `unresolvedLocalizedNames` 必须人工裁决到 0。当前 `build-importer-source.mjs` 是 B4 已审定 adapter，只能作为实现样例；新 set 必须提供显式 set 配置或通用化 adapter，禁止直接改 B4 常量后复用。
 5. 用输出的 `*.details.json` 作为 `sync-pocket-set` 的 `metadata.detailsFile`，并把 `*.provenance.json` 固定到 manifest。
 6. 在任何 metadata/R2 写入前，再运行一次相同命令；输入 hash 或审计结果变化时停止复核。
 7. R2 公网验证通过后，用 `sync-downstream-locales.mjs` 把已审定的七语卡名、实际存在的图片语言和逐卡 gacha rarity 一起写入下游；先 dry-run，再加 `--write`，并逐 locale 检查数量、连续性以及下游 rarity 全卡覆盖测试。脚本写入固定的 `cardRarity.additions.json`，不得再为新 set 新建需要手工接线的 rarity shard。Promo set 也必须按每张卡的真实 rarity 映射，只有源 rarity 为 `None/Promo` 的卡才是 `pr`。
+
+8. 图片与 metadata 的图文一致性必须通过 `$paddleocr-text-recognition`：抽取几个代表性
+   localized card cases，覆盖卡号/卡名、招式/特性名和可读规则文本的大致对应；不要求对全量
+   卡图逐张 OCR。PaddleOCR API 失败就停止，不得换用其他 OCR 或本地视觉。原始 JSON 用
+ `persist-ocr-evidence.mjs` 固化；低置信度、unresolved、ambiguous 或 OCR/metadata
+   mismatch 只要记录到 review，不能拿 OCR 噪声静默改写 metadata。
+
+B4 的稳定字段交叉审计示例：
+
+```bash
+node .agents/skills/merge-pocket-card-sources/scripts/audit-raenonx-b4-cross-source.mjs \
+  --base-ref <reviewed-api-commit> \
+  --output meta/pocket-source-reviews/B4/raenonx.cross-source.json
+```
+
+该审计复用既有 `B4.audit.json` 的 PokeOS/index、deckGym、PokemonMeta 和定点裁决证据；
+RaenonX 只接管本次新增的 `en/fr/es/pt/zh` 本地化字段和图片，不会静默覆盖已审定的稳定
+机制字段。审计不通过时禁止写入生产 metadata/R2。
 
 ```bash
 node .agents/skills/merge-pocket-card-sources/scripts/merge-pocket-card-sources.mjs \
@@ -85,7 +124,11 @@ node .agents/skills/merge-pocket-card-sources/scripts/sync-downstream-locales.mj
 使用 `--image-language en` 作为 fallback，但若用户要求本地化图片，不得用该 fallback
 宣称完成。
 
-`persist-ocr-evidence.mjs` 只接受位于 `--ocr-dir` 内、且确实被 review 引用的
+RaenonX 的 `fr/es/pt/zh` 卡图只有在下载、WebP 转换、R2 公网 HEAD/Content-Type 验证和
+OCR 图文一致性全部通过后，才能进入 `--image-languages`；`de/it` 必须继续使用其他已审定
+来源或保持现有对象，不得伪造 RaenonX 映射。
+
+`persist-ocr-evidence.mjs` 只接受位于 `--ocr-dir` 内、且确实被抽检 review 引用的
 PaddleOCR JSON；它把这些原始结果复制到持久目录并将 evidence 改写为仓库相对路径。
 复制时必须删除签名 URL 的 query capability。持久化输出中不得残留 `/tmp`、
 `/private/tmp`、本机用户目录、authorization、token、cookie 或 credential。
@@ -108,7 +151,12 @@ JSON，确认没有重复 key。
 - 两源规范化后一致可自动通过；只忽略大小写、Unicode、Pokémon 重音和末尾标点，不忽略数字、回合条件、能量、伤害后缀或卡牌对象。
 - 候选不一致必须写 `review.cards.<id>.fields.<field>`；不得在脚本里添加目标 set 或卡号特判。
 - OCR 原文与纠正值同时保留。illustrator 可用仓库既有 artist corpus 纠错；flavor text 只能纠正明确 OCR 错字并保留说明。
+- OCR audit 必须以卡名匹配作为身份信号；只有检测到明确的 `<NNN>/233` 或 `B4-NNN` 卡号且编号不匹配时才阻断，不能把宝可梦全国编号当作卡组编号。
 - 任一必填字段缺失、任一冲突未裁决或 ID 不连续时，输出审计但以非零退出，禁止生产写入。
+- RaenonX 的 source-exact 模板若出现未绑定 token、动态 token 数变化无法按 ID/ref 对齐、
+  或 English oracle 与现有 canonical 语义无法对齐，必须停止；不得直接 strip 标签或回退英文。
+- OCR 只用于图文一致性证据，不能绕过多源冲突裁决；image identity/number/name mismatch
+  必须阻断 metadata/R2 写入。
 - canonical adapter 若根据数组位置生成卡号，必须先断言每一项 ID 都等于预期的 `<set>-NNN` 且无重复；只有数量相等不够。
 
 ## 联动约束

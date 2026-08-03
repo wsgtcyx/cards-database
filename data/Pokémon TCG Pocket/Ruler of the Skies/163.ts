@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/163"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/163",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/163",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/163",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/163",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/163"
     },
     name: {
         en: "Samurott",
@@ -42,10 +46,18 @@ const card: Card = {
         {
             type: "Ability",
             name: {
-                en: "Stance"
+                en: "Stance",
+                fr: "Position",
+                es: "Afirmación",
+                "pt-br": "Em Posição",
+                "zh-tw": "試探"
             },
             effect: {
-                en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all damage from—and effects of—attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn."
+                en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all damage from—and effects of—attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn.",
+                fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez éviter tous les dégâts et les effets d'attaques infligés à ce Pokémon par les Pokémon de votre adversaire jusqu'à la fin du prochain tour de votre adversaire.",
+                es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes evitar todo el daño y todos los efectos de los ataques de los Pokémon de tu rival infligidos a este Pokémon hasta el final del próximo turno de tu rival.",
+                "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá prevenir todo o dano e os efeitos de ataques dos Pokémon do seu oponente causados a este Pokémon até o final do próximo turno do seu oponente.",
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。在下個對手的回合結束前,這隻寶可夢不會受到對手的寶可夢招式的傷害與效果的影響。"
             }
         }
     ],
@@ -63,12 +75,12 @@ const card: Card = {
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
-                fr: "Cette attaque inflige également 20 dégâts à l'un des Pokémon de Banc de votre adversaire.",
+                fr: "Cette attaque inflige aussi 20 dégâts à un20 des Pokémon de Banc de votre adversaire.",
                 es: "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
                 it: "Questo attacco infligge anche 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 de: "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 20 點傷害。"
+                "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。"
             },
             damage: 60
         }

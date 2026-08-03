@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/157"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/157",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/157",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/157",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/157",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/157"
     },
     name: {
         en: "Lileep",
@@ -48,8 +52,8 @@ const card: Card = {
             cost: ["Grass"],
             name: {
                 en: "Blot",
-                fr: "Tache",
-                es: "Mancha",
+                fr: "Pâté",
+                es: "Absorción",
                 it: "Macchia",
                 de: "Fleck",
                 "pt-br": "Borrão",
@@ -58,11 +62,11 @@ const card: Card = {
             effect: {
                 en: "Heal 10 damage from this Pokémon.",
                 fr: "Soignez 10 dégâts de ce Pokémon.",
-                es: "Cura 10 puntos de daño de este Pokémon.",
+                es: "Cura 10 puntos de daño a este Pokémon.",
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
                 "pt-br": "Cure 10 pontos de dano deste Pokémon.",
-                "zh-tw": "治療該寶可夢造成的 10 點傷害。"
+                "zh-tw": "將這隻寶可夢恢復10HP。"
             },
             damage: 40
         }

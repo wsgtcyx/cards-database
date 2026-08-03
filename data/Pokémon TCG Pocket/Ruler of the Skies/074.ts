@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/074"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/074",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/074",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/074",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/074",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/074"
     },
     name: {
         en: "Wynaut",
@@ -35,16 +39,20 @@ const card: Card = {
     attacks: [
         {
             name: {
-                en: "Stompy Jammer"
+                en: "Stompy Jammer",
+                fr: "Piétinement qui Bloque",
+                es: "Pisotón Obstructor",
+                "pt-br": "Pisada Bloqueante",
+                "zh-tw": "踩踩干擾"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more.",
-                fr: "Lors du prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent 1 {C} de plus.",
-                es: "Durante el próximo turno de tu rival, los ataques utilizados por el Pokémon Defensor cuestan 1 {C} más.",
+                fr: "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent une Énergie {C} de plus.",
+                es: "Durante el próximo turno de tu rival, los ataques usados por el Pokémon Defensor cuestan 1 {C} más.",
                 it: "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore costano 1 {C} in più.",
                 de: "Während des nächsten Zuges deines Gegners kosten Angriffe des verteidigenden Pokémon 1 {C} mehr.",
-                "pt-br": "Durante o próximo turno do seu oponente, os ataques usados ​​pelo Pokémon Defensor custarão 1 {C} a mais.",
-                "zh-tw": "在對手的下一個回合中，防御寶可夢使用的攻擊額外花費 1 {C} 點。"
+                "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 1 {C} a mais.",
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量增加1個{C}能量。"
             },
             damage: 10
         }

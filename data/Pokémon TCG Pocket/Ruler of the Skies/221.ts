@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/221"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/221",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/221",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/221",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/221",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/221"
     },
     name: {
         en: "Raticate",
@@ -47,10 +51,18 @@ const card: Card = {
         {
             type: "Ability",
             name: {
-                en: "Treasure Collecting"
+                en: "Treasure Collecting",
+                fr: "Collecte de Trésors",
+                es: "Coleccionar Tesoros",
+                "pt-br": "Colecionar Tesouro",
+                "zh-tw": "集寶"
             },
             effect: {
-                en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck."
+                en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck.",
+                fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez regarder les 4 cartes du dessus de votre deck et ajouter toutes les cartes Objet que vous y trouvez à votre main. Mélangez les autres cartes avec votre deck.",
+                es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes mirar las 4 primeras cartas de tu baraja. Pon en tu mano todas las cartas de Objeto que encuentres entre ellas. Pon el resto de cartas de nuevo en tu baraja y barájalas todas.",
+                "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá olhar as 4 cartas de cima do seu baralho e colocar todas as cartas de Item que você encontrar lá na sua mão. Embaralhe as outras cartas de volta no seu baralho.",
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。查看自己的牌庫上方4張卡,從其中將物品卡全部加入手牌。將剩餘卡放回牌庫。"
             }
         }
     ],

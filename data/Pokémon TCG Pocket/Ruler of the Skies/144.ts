@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/144"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/144",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/144",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/144",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/144",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/144"
     },
     name: {
         en: "Silvally",
@@ -47,10 +51,18 @@ const card: Card = {
         {
             cost: ["Colorless", "Colorless", "Colorless"],
             name: {
-                en: "Gold Breaker"
+                en: "Gold Breaker",
+                fr: "Goliastruction",
+                es: "Golpe de Oro",
+                "pt-br": "Quebrador de Ouro",
+                "zh-tw": "黃金破壞"
             },
             effect: {
-                en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage."
+                en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.",
+                fr: "Si le Pokémon Actif de votre adversaire est un Pokémon‐ex, cette attaque inflige 90 dégâts supplémentaires.",
+                es: "Si el Pokémon Activo de tu rival es un Pokémon ex, este ataque hace 90 puntos de daño más.",
+                "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 90 pontos de dano a mais.",
+                "zh-tw": "若對手的戰鬥寶可夢為「寶可夢ex」,則增加90點傷害。"
             },
             damage: "60+"
         }

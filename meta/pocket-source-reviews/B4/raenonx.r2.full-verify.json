@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "expectedObjects": 1864,
+  "checkedObjects": 1864,
+  "concurrency": 8,
+  "origin": "https://game.pokemontcgpocket.app",
+  "failureCount": 0,
+  "status": "ok",
+  "failures": []
+}

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/084"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/084",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/084",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/084",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/084",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/084"
     },
     name: {
         en: "Mega Gallade ex",
@@ -39,16 +43,20 @@ const card: Card = {
         {
             cost: ["Fighting", "Colorless", "Colorless"],
             name: {
-                en: "Resonating Blade"
+                en: "Resonating Blade",
+                fr: "Lame Résonante",
+                es: "Hoja Resonante",
+                "pt-br": "Lâmina Ressonante",
+                "zh-tw": "共鳴刃"
             },
             effect: {
                 en: "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
                 fr: "Si vous avez joué une carte Supporter de votre main pendant ce tour, cette attaque inflige 50 dégâts supplémentaires.",
-                es: "Si jugaste una carta de Partidario de tu mano durante este turno, este ataque causa 50 puntos de daño más.",
+                es: "Si has jugado 1 carta de Partidario de tu mano durante este turno, este ataque hace 50 puntos de daño más.",
                 it: "Se hai giocato una carta Aiuto dalla tua mano durante questo turno, questo attacco infligge 50 danni in più.",
                 de: "Wenn du in diesem Zug eine Unterstützerkarte aus deiner Hand gespielt hast, fügt dieser Angriff 50 Schadenspunkte mehr zu.",
-                "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 50 de dano a mais.",
-                "zh-tw": "如果你在本回合中從手牌中打出了支持者卡，則此攻擊造成的傷害增加 50 點。"
+                "pt-br": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 50 pontos de dano a mais.",
+                "zh-tw": "在這個回合,若從手牌使出了支援者卡,則增加50點傷害。"
             },
             damage: "100+"
         }

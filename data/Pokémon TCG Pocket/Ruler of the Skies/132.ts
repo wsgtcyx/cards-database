@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/132"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/132",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/132",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/132",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/132",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/132"
     },
     name: {
         en: "Aipom",
@@ -36,7 +40,7 @@ const card: Card = {
                 es: "Patada Juguetona",
                 it: "Calcio Briccone",
                 de: "Verspielter Kick",
-                "pt-br": "Chute brincalhão",
+                "pt-br": "Chute Brincalhão",
                 "zh-tw": "調皮踢"
             },
             damage: 40

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/101"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/101",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/101",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/101",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/101",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/101"
     },
     name: {
         en: "Vullaby",
@@ -38,21 +42,21 @@ const card: Card = {
             cost: ["Darkness"],
             name: {
                 en: "Run Around",
-                fr: "Courir partout",
-                es: "Correr por todas partes",
+                fr: "Course Effrénée",
+                es: "Correr Alrededor",
                 it: "Corri in giro",
                 de: "Herumlaufen",
-                "pt-br": "Correr",
+                "pt-br": "Zoar",
                 "zh-tw": "雀躍"
             },
             effect: {
                 en: "Switch this Pokémon with 1 of your Benched Pokémon.",
-                fr: "Échangez ce Pokémon avec 1 de vos Pokémon de Banc.",
+                fr: "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
                 es: "Cambia este Pokémon por 1 de tus Pokémon en Banca.",
                 it: "Scambia questo Pokémon con 1 dei tuoi Pokémon in panchina.",
                 de: "Tausche dieses Pokémon gegen eines deiner Bank-Pokémon aus.",
                 "pt-br": "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-                "zh-tw": "將此寶可夢與你的 1 個備戰寶可夢交換。"
+                "zh-tw": "將這隻寶可夢與備戰寶可夢互換。"
             }
         }
     ],

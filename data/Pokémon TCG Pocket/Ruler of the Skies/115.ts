@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/115"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/115",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/115",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/115",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/115",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/115"
     },
     name: {
         en: "Revavroom",
@@ -48,10 +52,18 @@ const card: Card = {
         {
             type: "Ability",
             name: {
-                en: "Dual Customization"
+                en: "Dual Customization",
+                fr: "Double Personnalisation",
+                es: "Doble Personalización",
+                "pt-br": "Personalização Dupla",
+                "zh-tw": "雙重改造"
             },
             effect: {
-                en: "This Pokémon may have up to 2 Pokémon Tool cards attached to it."
+                en: "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
+                fr: "Jusqu'à 2 cartes Outil Pokémon peuvent être attachées à ce Pokémon.",
+                es: "Este Pokémon puede tener hasta 2 cartas de Herramienta Pokémon unidas a él.",
+                "pt-br": "Este Pokémon pode ter até 2 cartas de Ferramenta Pokémon ligadas a ele.",
+                "zh-tw": "這隻寶可夢身上最多可附有2張「寶可夢道具」卡。"
             }
         }
     ],
@@ -60,15 +72,19 @@ const card: Card = {
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
             name: {
                 en: "Overacceleration",
-                fr: "Suraccélération",
-                es: "Sobreaceleración",
+                fr: "Hyperaccélération",
+                es: "Alta Aceleración",
                 it: "Accelerazione eccessiva",
                 de: "Überbeschleunigung",
                 "pt-br": "Superaceleração",
                 "zh-tw": "失控暴衝"
             },
             effect: {
-                en: "During your next turn, this Pokémon's Overacceleration attack does +70 damage."
+                en: "During your next turn, this Pokémon's Overacceleration attack does +70 damage.",
+                fr: "Pendant votre prochain tour, l'attaque Hyperaccélération de ce Pokémon inflige + 70 dégâts.",
+                es: "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace +70 puntos de daño.",
+                "pt-br": "Durante o seu próximo turno, o ataque Superaceleração deste Pokémon causará + 70 pontos de dano.",
+                "zh-tw": "在下個自己的回合,這隻寶可夢「失控暴衝」的傷害+70點。"
             },
             damage: 70
         }

@@ -1,0 +1,544 @@
+{
+  "ok": true,
+  "text": "7阶进化\n\n特性 龍恩\n\n若這隻寶可夢在備戰區，則在自己的回合時可使用1次，從自己的\n象牌區選擇個能量，附於戰門場的C寶可夢身上。\n\n★ ★\n\n龍之鞭打\n\n站\n\nNos. PLANETA Mamiya\n\n核槍托是過架的真可\n當全運期來微部發出，\n國冠天氣比過名之一更",
+  "result": {
+    "logId": "f6f2fb76-2895-4f0a-aaa3-e47317e24ce3",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "header",
+                "block_content": "7阶进化",
+                "block_bbox": [
+                  16,
+                  23,
+                  57,
+                  37
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    16,
+                    23
+                  ],
+                  [
+                    56,
+                    23
+                  ],
+                  [
+                    56,
+                    36
+                  ],
+                  [
+                    16,
+                    36
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "特性 龍恩",
+                "block_bbox": [
+                  47,
+                  273,
+                  149,
+                  292
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    46.99999237060547,
+                    272.9999694824219
+                  ],
+                  [
+                    147.99996948242188,
+                    272.9999694824219
+                  ],
+                  [
+                    147.99996948242188,
+                    290.9999694824219
+                  ],
+                  [
+                    46.99999237060547,
+                    290.9999694824219
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "若這隻寶可夢在備戰區，則在自己的回合時可使用1次，從自己的\n象牌區選擇個能量，附於戰門場的C寶可夢身上。",
+                "block_bbox": [
+                  23,
+                  292,
+                  343,
+                  327
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    23,
+                    292
+                  ],
+                  [
+                    343,
+                    292
+                  ],
+                  [
+                    343,
+                    327
+                  ],
+                  [
+                    23,
+                    327
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "★ ★",
+                "block_bbox": [
+                  25,
+                  355,
+                  65,
+                  373
+                ],
+                "block_id": 3,
+                "block_order": 3,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    25,
+                    355
+                  ],
+                  [
+                    64,
+                    355
+                  ],
+                  [
+                    64,
+                    372
+                  ],
+                  [
+                    25,
+                    372
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "龍之鞭打",
+                "block_bbox": [
+                  111,
+                  353,
+                  181,
+                  375
+                ],
+                "block_id": 4,
+                "block_order": 4,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    111,
+                    353
+                  ],
+                  [
+                    180,
+                    353
+                  ],
+                  [
+                    180,
+                    374
+                  ],
+                  [
+                    111,
+                    374
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "站",
+                "block_bbox": [
+                  58,
+                  441,
+                  85,
+                  453
+                ],
+                "block_id": 5,
+                "block_order": 5,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    58,
+                    441
+                  ],
+                  [
+                    84,
+                    441
+                  ],
+                  [
+                    84,
+                    452
+                  ],
+                  [
+                    58,
+                    452
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "Nos. PLANETA Mamiya",
+                "block_bbox": [
+                  25,
+                  456,
+                  105,
+                  467
+                ],
+                "block_id": 6,
+                "block_order": null,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    25,
+                    456
+                  ],
+                  [
+                    104,
+                    456
+                  ],
+                  [
+                    104,
+                    466
+                  ],
+                  [
+                    25,
+                    466
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "核槍托是過架的真可\n當全運期來微部發出，\n國冠天氣比過名之一更",
+                "block_bbox": [
+                  248,
+                  460,
+                  341,
+                  497
+                ],
+                "block_id": 7,
+                "block_order": null,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    250,
+                    460
+                  ],
+                  [
+                    340,
+                    460
+                  ],
+                  [
+                    340,
+                    496
+                  ],
+                  [
+                    250,
+                    496
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.3924994468688965,
+                  "coordinate": [
+                    16,
+                    23,
+                    57,
+                    37
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      16,
+                      23
+                    ],
+                    [
+                      56,
+                      23
+                    ],
+                    [
+                      56,
+                      36
+                    ],
+                    [
+                      16,
+                      36
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.44694504141807556,
+                  "coordinate": [
+                    47,
+                    273,
+                    149,
+                    292
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      46.99999237060547,
+                      272.9999694824219
+                    ],
+                    [
+                      147.99996948242188,
+                      272.9999694824219
+                    ],
+                    [
+                      147.99996948242188,
+                      290.9999694824219
+                    ],
+                    [
+                      46.99999237060547,
+                      290.9999694824219
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7660214900970459,
+                  "coordinate": [
+                    23,
+                    292,
+                    343,
+                    327
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      23,
+                      292
+                    ],
+                    [
+                      343,
+                      292
+                    ],
+                    [
+                      343,
+                      327
+                    ],
+                    [
+                      23,
+                      327
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4145240783691406,
+                  "coordinate": [
+                    25,
+                    355,
+                    65,
+                    373
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      25,
+                      355
+                    ],
+                    [
+                      64,
+                      355
+                    ],
+                    [
+                      64,
+                      372
+                    ],
+                    [
+                      25,
+                      372
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4636797308921814,
+                  "coordinate": [
+                    111,
+                    353,
+                    181,
+                    375
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      111,
+                      353
+                    ],
+                    [
+                      180,
+                      353
+                    ],
+                    [
+                      180,
+                      374
+                    ],
+                    [
+                      111,
+                      374
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.33911120891571045,
+                  "coordinate": [
+                    58,
+                    441,
+                    85,
+                    453
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      58,
+                      441
+                    ],
+                    [
+                      84,
+                      441
+                    ],
+                    [
+                      84,
+                      452
+                    ],
+                    [
+                      58,
+                      452
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.3344285488128662,
+                  "coordinate": [
+                    25,
+                    456,
+                    105,
+                    467
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      25,
+                      456
+                    ],
+                    [
+                      104,
+                      456
+                    ],
+                    [
+                      104,
+                      466
+                    ],
+                    [
+                      25,
+                      466
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.39597854018211365,
+                  "coordinate": [
+                    248,
+                    460,
+                    341,
+                    497
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      250,
+                      460
+                    ],
+                    [
+                      340,
+                      460
+                    ],
+                    [
+                      340,
+                      496
+                    ],
+                    [
+                      250,
+                      496
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "特性 龍恩\n\n若這隻寶可夢在備戰區，則在自己的回合時可使用1次，從自己的\n\n象牌區選擇個能量，附於戰門場的C寶可夢身上。\n\n★ ★\n\n龍之鞭打\n\n站",
+            "images": {}
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

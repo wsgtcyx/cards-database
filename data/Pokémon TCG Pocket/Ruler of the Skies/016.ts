@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/016"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/016",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/016",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/016",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/016",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/016"
     },
     name: {
         en: "Pheromosa",
@@ -36,10 +40,18 @@ const card: Card = {
         {
             cost: ["Grass", "Grass"],
             name: {
-                en: "Prelude"
+                en: "Prelude",
+                fr: "Prélude",
+                es: "Preludio",
+                "pt-br": "Prelúdio",
+                "zh-tw": "前驟曲"
             },
             effect: {
-                en: "If you haven't gotten any points, this attack does 60 more damage."
+                en: "If you haven't gotten any points, this attack does 60 more damage.",
+                fr: "Si vous n'avez gagné aucun point, cette attaque inflige 60 dégâts supplémentaires.",
+                es: "Si no has conseguido ningún punto, este ataque hace 60 puntos de daño más.",
+                "pt-br": "Se você não recebeu nenhum ponto, este ataque causará 60 pontos de dano a mais.",
+                "zh-tw": "若自己還未得分,則增加60點傷害。"
             },
             damage: "30+"
         }

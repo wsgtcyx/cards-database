@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/067"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/067",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/067",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/067",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/067",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/067"
     },
     name: {
         en: "Hypno",
@@ -58,12 +62,12 @@ const card: Card = {
             },
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
-                fr: "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+                fr: "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
                 es: "Este ataque hace 20 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
                 it: "Questo attacco infligge 20 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
                 de: "Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energie zu, die an das Aktive Pokémon deines Gegners angelegt ist.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "對手的戰鬥寶可夢身上每附加一個能量，此攻擊就會造成 20 點額外傷害。"
+                "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×20點傷害。"
             },
             damage: "60+"
         }

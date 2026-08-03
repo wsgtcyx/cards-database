@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/082",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/082",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/082",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/082",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/082"
     },
     name: {
         en: "Armaldo",
@@ -47,10 +51,18 @@ const card: Card = {
         {
             cost: ["Fighting", "Colorless", "Colorless"],
             name: {
-                en: "Abyssal Drop"
+                en: "Abyssal Drop",
+                fr: "Chute Abyssale",
+                es: "Caída Abisal",
+                "pt-br": "Queda Abissal",
+                "zh-tw": "擊落深淵"
             },
             effect: {
-                en: "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose."
+                en: "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose.",
+                fr: "Défaussez toutes les Énergies de ce Pokémon. Choisissez un emplacement parmi ceux situés sur le Poste Actif et sur le Banc de votre adversaire. À la fin du prochain tour de votre adversaire, mettez K.O. le Pokémon situé sur l'emplacement choisi.",
+                es: "Descarta todas las Energías de este Pokémon. Elige 1 puesto de entre el Puesto Activo y la Banca de tu rival. Al final del próximo turno de tu rival, deja Fuera de Combate al Pokémon del puesto elegido.",
+                "pt-br": "Descarte todas as Energias deste Pokémon. Escolha 1 lugar dentre o Campo Ativo e o Banco do seu oponente. No final do próximo turno do seu oponente, Nocauteie o Pokémon no lugar que você escolheu.",
+                "zh-tw": "將這隻寶可夢身上的能量全部丟棄。選擇對手的戰鬥場或1個備戰區位置。在下個對手的回合結束時,將位於所選位置的寶可夢昏厥。"
             }
         }
     ],

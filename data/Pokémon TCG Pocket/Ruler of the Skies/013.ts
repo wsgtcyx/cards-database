@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/013"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/013",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/013",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/013",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/013",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/013"
     },
     name: {
         en: "Shelmet",
@@ -36,7 +40,11 @@ const card: Card = {
         {
             cost: ["Colorless"],
             name: {
-                en: "Seashell Attack"
+                en: "Seashell Attack",
+                fr: "Carap'Attaque",
+                es: "Conchaataque",
+                "pt-br": "Ataque de Concha do Mar",
+                "zh-tw": "硬殼攻擊"
             },
             damage: 20
         }

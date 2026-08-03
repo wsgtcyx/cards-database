@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/189"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/189",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/189",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/189",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/189",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/189"
     },
     name: {
         en: "Swanna ex",
@@ -39,16 +43,20 @@ const card: Card = {
         {
             cost: ["Colorless", "Colorless", "Colorless"],
             name: {
-                en: "Jet Wing"
+                en: "Jet Wing",
+                fr: "Aile Jet",
+                es: "Ala Propulsión",
+                "pt-br": "Asa a Jato",
+                "zh-tw": "噴射之翼"
             },
             effect: {
                 en: "During your next turn, this Pokémon can't attack.",
-                fr: "Lors de votre prochain tour, ce Pokémon ne peut pas attaquer.",
+                fr: "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
                 es: "Durante tu próximo turno, este Pokémon no puede atacar.",
                 it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
                 de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
                 "pt-br": "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-                "zh-tw": "在你的下一個回合中，這隻寶可夢無法攻擊。"
+                "zh-tw": "在下個自己的回合,這隻寶可夢無法使用招式。"
             },
             damage: 140
         }

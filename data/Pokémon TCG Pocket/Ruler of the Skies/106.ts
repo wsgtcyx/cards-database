@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/106"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/106",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/106",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/106",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/106",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/106"
     },
     name: {
         en: "Beldum",
@@ -31,10 +35,18 @@ const card: Card = {
         {
             type: "Ability",
             name: {
-                en: "Conductive Body"
+                en: "Conductive Body",
+                fr: "Corps Conducteur",
+                es: "Cuerpo Conductor",
+                "pt-br": "Corpo Condutor",
+                "zh-tw": "牽引身軀"
             },
             effect: {
-                en: "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less."
+                en: "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less.",
+                fr: "Si vous avez un autre Terhal en jeu, le Coût de Retraite de ce Pokémon est diminué de 2.",
+                es: "Si tienes otro Beldum en juego, el Coste de Retirada de este Pokémon es de 2 menos.",
+                "pt-br": "Se você tiver outro Beldum em jogo, o Custo de Recuo deste Pokémon será 2 a menos.",
+                "zh-tw": "若自己的場上有其他的「鐵啞鈴」,則這隻寶可夢撤退所需的能量減少2個。"
             }
         }
     ],

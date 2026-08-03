@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/102"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/102",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/102",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/102",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/102",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/102"
     },
     name: {
         en: "Mandibuzz",
@@ -53,7 +57,8 @@ const card: Card = {
                 es: "Ataque Óseo",
                 it: "Ossoraffica",
                 de: "Knochenhatz",
-                "zh-tw": "骨棒亂打"
+                "zh-tw": "骨棒亂打",
+                "pt-br": "Fúria de Ossos"
             },
             effect: {
                 en: "Flip a coin until you get tails. This attack does 60 damage for each heads.",
@@ -62,7 +67,7 @@ const card: Card = {
                 it: "Lancia una moneta finché non esce croce. Questo attacco infligge 60 danni ogni volta che esce testa.",
                 de: "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu.",
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 60 pontos de dano para cada cara.",
-                "zh-tw": "拋一枚硬幣，直到出現反面。這次攻擊對每個頭造成 60 點傷害。"
+                "zh-tw": "擲硬幣直到出現反面,造成正面出現的次數×60點傷害。"
             },
             damage: "60x"
         }

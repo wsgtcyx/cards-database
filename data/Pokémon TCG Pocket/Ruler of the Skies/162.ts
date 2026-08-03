@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/162"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/162",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/162",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/162",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/162",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/162"
     },
     name: {
         en: "Kyogre",
@@ -35,10 +39,18 @@ const card: Card = {
         {
             cost: ["Water", "Water", "Water", "Water"],
             name: {
-                en: "Tidal Blast"
+                en: "Tidal Blast",
+                fr: "Marée Explosive",
+                es: "Explosión Marina",
+                "pt-br": "Maré Explosiva",
+                "zh-tw": "潮汐爆破"
             },
             effect: {
-                en: "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon."
+                en: "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.",
+                fr: "Défaussez 3 Énergies {W} de ce Pokémon. Cette attaque inflige 50 dégâts à chacun des Pokémon de votre adversaire.",
+                es: "Descarta 3 Energías {W} de este Pokémon. Este ataque hace 50 puntos de daño a cada uno de los Pokémon de tu rival.",
+                "pt-br": "Descarte 3 Energias {W} deste Pokémon, e este ataque causa 50 pontos de dano a cada um dos Pokémon do seu oponente.",
+                "zh-tw": "將這隻寶可夢身上的3個{W}能量丟棄,對手的所有寶可夢受到50點傷害。"
             }
         }
     ],

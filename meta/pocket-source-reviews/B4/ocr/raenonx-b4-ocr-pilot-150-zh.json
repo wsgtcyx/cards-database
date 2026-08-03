@@ -1,0 +1,668 @@
+{
+  "ok": true,
+  "text": "The quick brown fox jumps over the lazy dog.\n\n支援者\n\n訓縗家\n\n超能力者\n\n這張卡只有在自己的戰鬥場上有持有「精神強念」招式的寶可夢時才可使用。\n\n選擇1隻對手的備戰實可夢，將該實可夢身上的隨機1個能量，改附於對手的戰鬥實可夢身上。\n\nIllus. GIDORA\n◇ ◇\n\n在自己的回合時·支援者卡只可使用1張\n\n1",
+  "result": {
+    "logId": "3ecf1c20-afd6-4234-918d-959fdb53dd8e",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "aside_text",
+                "block_content": "The quick brown fox jumps over the lazy dog.",
+                "block_bbox": [
+                  10,
+                  75,
+                  25,
+                  497
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    14.000167846679688,
+                    74.9659652709961
+                  ],
+                  [
+                    24.063190460205078,
+                    75.01492309570312
+                  ],
+                  [
+                    22.014434814453125,
+                    496.0340881347656
+                  ],
+                  [
+                    11.951412200927734,
+                    495.9851379394531
+                  ]
+                ]
+              },
+              {
+                "block_label": "header",
+                "block_content": "支援者",
+                "block_bbox": [
+                  15,
+                  14,
+                  70,
+                  30
+                ],
+                "block_id": 1,
+                "block_order": null,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    15,
+                    14
+                  ],
+                  [
+                    69,
+                    14
+                  ],
+                  [
+                    69,
+                    29
+                  ],
+                  [
+                    15,
+                    29
+                  ]
+                ]
+              },
+              {
+                "block_label": "header",
+                "block_content": "訓縗家",
+                "block_bbox": [
+                  291,
+                  14,
+                  350,
+                  31
+                ],
+                "block_id": 2,
+                "block_order": null,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    291,
+                    14
+                  ],
+                  [
+                    349,
+                    14
+                  ],
+                  [
+                    349,
+                    30
+                  ],
+                  [
+                    291,
+                    30
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "超能力者",
+                "block_bbox": [
+                  16,
+                  41,
+                  96,
+                  63
+                ],
+                "block_id": 3,
+                "block_order": 1,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    16,
+                    41
+                  ],
+                  [
+                    95,
+                    41
+                  ],
+                  [
+                    95,
+                    62
+                  ],
+                  [
+                    16,
+                    62
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  28,
+                  72,
+                  338,
+                  267
+                ],
+                "block_id": 4,
+                "block_order": null,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    28,
+                    72
+                  ],
+                  [
+                    338,
+                    72
+                  ],
+                  [
+                    338,
+                    267
+                  ],
+                  [
+                    28,
+                    267
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "這張卡只有在自己的戰鬥場上有持有「精神強念」招式的寶可夢時才可使用。",
+                "block_bbox": [
+                  41,
+                  313,
+                  326,
+                  346
+                ],
+                "block_id": 5,
+                "block_order": 2,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    41,
+                    313
+                  ],
+                  [
+                    326,
+                    313
+                  ],
+                  [
+                    326,
+                    346
+                  ],
+                  [
+                    41,
+                    346
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "選擇1隻對手的備戰實可夢，將該實可夢身上的隨機1個能量，改附於對手的戰鬥實可夢身上。",
+                "block_bbox": [
+                  41,
+                  364,
+                  326,
+                  398
+                ],
+                "block_id": 6,
+                "block_order": 3,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    41,
+                    364
+                  ],
+                  [
+                    326,
+                    364
+                  ],
+                  [
+                    326,
+                    398
+                  ],
+                  [
+                    41,
+                    398
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Illus. GIDORA\n◇ ◇",
+                "block_bbox": [
+                  25,
+                  456,
+                  74,
+                  484
+                ],
+                "block_id": 7,
+                "block_order": 4,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    25,
+                    456
+                  ],
+                  [
+                    73,
+                    456
+                  ],
+                  [
+                    73,
+                    483
+                  ],
+                  [
+                    25,
+                    483
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "在自己的回合時·支援者卡只可使用1張",
+                "block_bbox": [
+                  123,
+                  462,
+                  283,
+                  475
+                ],
+                "block_id": 8,
+                "block_order": 5,
+                "group_id": 8,
+                "block_polygon_points": [
+                  [
+                    123,
+                    462
+                  ],
+                  [
+                    281.9999694824219,
+                    462
+                  ],
+                  [
+                    281.9999694824219,
+                    474
+                  ],
+                  [
+                    123,
+                    474
+                  ]
+                ]
+              },
+              {
+                "block_label": "aside_text",
+                "block_content": "1",
+                "block_bbox": [
+                  341,
+                  73,
+                  354,
+                  459
+                ],
+                "block_id": 9,
+                "block_order": null,
+                "group_id": 9,
+                "block_polygon_points": [
+                  [
+                    341.05224609375,
+                    72.96993255615234
+                  ],
+                  [
+                    353.0301513671875,
+                    73.00283813476562
+                  ],
+                  [
+                    351.99993896484375,
+                    447.9999694824219
+                  ],
+                  [
+                    340.02203369140625,
+                    447.9670715332031
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 2,
+                  "label": "aside_text",
+                  "score": 0.6581990122795105,
+                  "coordinate": [
+                    10,
+                    75,
+                    25,
+                    497
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      14.000167846679688,
+                      74.9659652709961
+                    ],
+                    [
+                      24.063190460205078,
+                      75.01492309570312
+                    ],
+                    [
+                      22.014434814453125,
+                      496.0340881347656
+                    ],
+                    [
+                      11.951412200927734,
+                      495.9851379394531
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.689863920211792,
+                  "coordinate": [
+                    15,
+                    14,
+                    70,
+                    30
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      15,
+                      14
+                    ],
+                    [
+                      69,
+                      14
+                    ],
+                    [
+                      69,
+                      29
+                    ],
+                    [
+                      15,
+                      29
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.7435615658760071,
+                  "coordinate": [
+                    291,
+                    14,
+                    350,
+                    31
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      291,
+                      14
+                    ],
+                    [
+                      349,
+                      14
+                    ],
+                    [
+                      349,
+                      30
+                    ],
+                    [
+                      291,
+                      30
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.4993095397949219,
+                  "coordinate": [
+                    16,
+                    41,
+                    96,
+                    63
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      16,
+                      41
+                    ],
+                    [
+                      95,
+                      41
+                    ],
+                    [
+                      95,
+                      62
+                    ],
+                    [
+                      16,
+                      62
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.8893172144889832,
+                  "coordinate": [
+                    28,
+                    72,
+                    338,
+                    267
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      28,
+                      72
+                    ],
+                    [
+                      338,
+                      72
+                    ],
+                    [
+                      338,
+                      267
+                    ],
+                    [
+                      28,
+                      267
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8425767421722412,
+                  "coordinate": [
+                    41,
+                    313,
+                    326,
+                    346
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      41,
+                      313
+                    ],
+                    [
+                      326,
+                      313
+                    ],
+                    [
+                      326,
+                      346
+                    ],
+                    [
+                      41,
+                      346
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8567817807197571,
+                  "coordinate": [
+                    41,
+                    364,
+                    326,
+                    398
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      41,
+                      364
+                    ],
+                    [
+                      326,
+                      364
+                    ],
+                    [
+                      326,
+                      398
+                    ],
+                    [
+                      41,
+                      398
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.38744401931762695,
+                  "coordinate": [
+                    25,
+                    456,
+                    74,
+                    484
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      25,
+                      456
+                    ],
+                    [
+                      73,
+                      456
+                    ],
+                    [
+                      73,
+                      483
+                    ],
+                    [
+                      25,
+                      483
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6810832619667053,
+                  "coordinate": [
+                    123,
+                    462,
+                    283,
+                    475
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      123,
+                      462
+                    ],
+                    [
+                      281.9999694824219,
+                      462
+                    ],
+                    [
+                      281.9999694824219,
+                      474
+                    ],
+                    [
+                      123,
+                      474
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 2,
+                  "label": "aside_text",
+                  "score": 0.5075111985206604,
+                  "coordinate": [
+                    341,
+                    73,
+                    354,
+                    459
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      341.05224609375,
+                      72.96993255615234
+                    ],
+                    [
+                      353.0301513671875,
+                      73.00283813476562
+                    ],
+                    [
+                      351.99993896484375,
+                      447.9999694824219
+                    ],
+                    [
+                      340.02203369140625,
+                      447.9670715332031
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "## 超能力者\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_28_72_338_267.jpg\" alt=\"Image\" width=\"84%\" /></div>\n\n\n這張卡只有在自己的戰鬥場上有持有「精神強念」招式的寶可夢時才可使用。\n\n選擇1隻對手的備戰實可夢，將該實可夢身上的隨機1個能量，改附於對手的戰鬥實可夢身上。\n\nIllus. GIDORA\n\n◇ ◇\n\n在自己的回合時·支援者卡只可使用1張",
+            "images": {
+              "imgs/img_in_image_box_28_72_338_267.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//c9ef7cd2-e9bb-4a2d-a43e-b396ae34c58c/markdown_0/imgs/img_in_image_box_28_72_338_267.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

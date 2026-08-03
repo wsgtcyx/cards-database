@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/099"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/099",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/099",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/099",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/099",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/099"
     },
     name: {
         en: "Swalot",
@@ -42,10 +46,18 @@ const card: Card = {
         {
             cost: ["Darkness", "Colorless"],
             name: {
-                en: "Swallow Up"
+                en: "Swallow Up",
+                fr: "Engloutissement",
+                es: "Engullir",
+                "pt-br": "Engolir por Inteiro",
+                "zh-tw": "大口吞"
             },
             effect: {
-                en: "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage."
+                en: "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage.",
+                fr: "S'il reste moins de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 80 dégâts supplémentaires.",
+                es: "Si al Pokémon Activo de tu rival le quedan menos PS que a este Pokémon, este ataque hace 80 puntos de daño más.",
+                "pt-br": "Se o Pokémon Ativo do seu oponente tiver menos PS restante do que este Pokémon, este ataque causará 80 pontos de dano a mais.",
+                "zh-tw": "若對手的戰鬥寶可夢的剩餘HP比這隻寶可夢的剩餘HP少,則增加80點傷害。"
             },
             damage: "30+"
         }

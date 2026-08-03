@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/009"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/009",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/009",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/009",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/009",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/009"
     },
     name: {
         en: "Kricketune",
@@ -43,11 +47,11 @@ const card: Card = {
             cost: ["Grass"],
             name: {
                 en: "Bug Buzz",
-                fr: "Buzz aux insectes",
-                es: "Zumbido de insectos",
+                fr: "Bourdon",
+                es: "Zumbido",
                 it: "Bug Buzz",
                 de: "Bug Buzz",
-                "pt-br": "Zumbido de insetos",
+                "pt-br": "Zumbido de Inseto",
                 "zh-tw": "蟲鳴"
             },
             damage: 50

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/218"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/218",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/218",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/218",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/218",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/218"
     },
     name: {
         en: "Galarian Meowth",
@@ -13,7 +17,7 @@ const card: Card = {
         it: "Meowth di Galar",
         de: "Galar-Mauzi",
         "pt-br": "Meowth de Galar",
-        "zh-tw": "伽勒爾的喵喵",
+        "zh-tw": "伽勒爾喵喵",
         ko: "가라르 나옹",
         ja: "ガラル ニャース"
     },

@@ -1,0 +1,546 @@
+{
+  "ok": true,
+  "text": "[Table_Page_Number]\n\n物品\n\n詡縗家\n\n訂購平板\n\n擲1次硬幣若為正面，則從自己的牌庫隨機將1張物品卡加入手牌。\n\n在自己的回合时·物品卡可不限强数使用\n\n1",
+  "result": {
+    "logId": "ad45c478-feee-4484-93ac-673c70fde06f",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "aside_text",
+                "block_content": "[Table_Page_Number]",
+                "block_bbox": [
+                  12,
+                  74,
+                  26,
+                  480
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    11.984659194946289,
+                    74.04679870605469
+                  ],
+                  [
+                    23.09345054626465,
+                    73.98912048339844
+                  ],
+                  [
+                    25.108793258666992,
+                    461.94232177734375
+                  ],
+                  [
+                    14.000001907348633,
+                    462
+                  ]
+                ]
+              },
+              {
+                "block_label": "header",
+                "block_content": "物品",
+                "block_bbox": [
+                  15,
+                  14,
+                  52,
+                  30
+                ],
+                "block_id": 1,
+                "block_order": null,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    15,
+                    14
+                  ],
+                  [
+                    51,
+                    14
+                  ],
+                  [
+                    51,
+                    29
+                  ],
+                  [
+                    15,
+                    29
+                  ]
+                ]
+              },
+              {
+                "block_label": "header",
+                "block_content": "詡縗家",
+                "block_bbox": [
+                  291,
+                  14,
+                  349,
+                  31
+                ],
+                "block_id": 2,
+                "block_order": null,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    291,
+                    14
+                  ],
+                  [
+                    348,
+                    14
+                  ],
+                  [
+                    348,
+                    30
+                  ],
+                  [
+                    291,
+                    30
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "訂購平板",
+                "block_bbox": [
+                  16,
+                  41,
+                  96,
+                  63
+                ],
+                "block_id": 3,
+                "block_order": 1,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    16,
+                    41
+                  ],
+                  [
+                    95,
+                    41
+                  ],
+                  [
+                    95,
+                    62
+                  ],
+                  [
+                    16,
+                    62
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  26,
+                  72,
+                  339,
+                  266
+                ],
+                "block_id": 4,
+                "block_order": null,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    26,
+                    72
+                  ],
+                  [
+                    339,
+                    72
+                  ],
+                  [
+                    339,
+                    266
+                  ],
+                  [
+                    26,
+                    266
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "擲1次硬幣若為正面，則從自己的牌庫隨機將1張物品卡加入手牌。",
+                "block_bbox": [
+                  41,
+                  339,
+                  326,
+                  371
+                ],
+                "block_id": 5,
+                "block_order": 2,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    41,
+                    339
+                  ],
+                  [
+                    326,
+                    339
+                  ],
+                  [
+                    326,
+                    371
+                  ],
+                  [
+                    41,
+                    371
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "在自己的回合时·物品卡可不限强数使用",
+                "block_bbox": [
+                  123,
+                  462,
+                  286,
+                  475
+                ],
+                "block_id": 6,
+                "block_order": 3,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    123,
+                    462
+                  ],
+                  [
+                    285,
+                    462
+                  ],
+                  [
+                    285,
+                    474
+                  ],
+                  [
+                    123,
+                    474
+                  ]
+                ]
+              },
+              {
+                "block_label": "aside_text",
+                "block_content": "1",
+                "block_bbox": [
+                  341,
+                  72,
+                  354,
+                  445
+                ],
+                "block_id": 7,
+                "block_order": null,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    340.89794921875,
+                    72.03465270996094
+                  ],
+                  [
+                    352.69305419921875,
+                    71.96763610839844
+                  ],
+                  [
+                    354.79534912109375,
+                    441.984130859375
+                  ],
+                  [
+                    343.000244140625,
+                    442.0511474609375
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 2,
+                  "label": "aside_text",
+                  "score": 0.5212200880050659,
+                  "coordinate": [
+                    12,
+                    74,
+                    26,
+                    480
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      11.984659194946289,
+                      74.04679870605469
+                    ],
+                    [
+                      23.09345054626465,
+                      73.98912048339844
+                    ],
+                    [
+                      25.108793258666992,
+                      461.94232177734375
+                    ],
+                    [
+                      14.000001907348633,
+                      462
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.57880699634552,
+                  "coordinate": [
+                    15,
+                    14,
+                    52,
+                    30
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      15,
+                      14
+                    ],
+                    [
+                      51,
+                      14
+                    ],
+                    [
+                      51,
+                      29
+                    ],
+                    [
+                      15,
+                      29
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.7540956139564514,
+                  "coordinate": [
+                    291,
+                    14,
+                    349,
+                    31
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      291,
+                      14
+                    ],
+                    [
+                      348,
+                      14
+                    ],
+                    [
+                      348,
+                      30
+                    ],
+                    [
+                      291,
+                      30
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.5875738263130188,
+                  "coordinate": [
+                    16,
+                    41,
+                    96,
+                    63
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      16,
+                      41
+                    ],
+                    [
+                      95,
+                      41
+                    ],
+                    [
+                      95,
+                      62
+                    ],
+                    [
+                      16,
+                      62
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.8483973145484924,
+                  "coordinate": [
+                    26,
+                    72,
+                    339,
+                    266
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      26,
+                      72
+                    ],
+                    [
+                      339,
+                      72
+                    ],
+                    [
+                      339,
+                      266
+                    ],
+                    [
+                      26,
+                      266
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8391176462173462,
+                  "coordinate": [
+                    41,
+                    339,
+                    326,
+                    371
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      41,
+                      339
+                    ],
+                    [
+                      326,
+                      339
+                    ],
+                    [
+                      326,
+                      371
+                    ],
+                    [
+                      41,
+                      371
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6482434868812561,
+                  "coordinate": [
+                    123,
+                    462,
+                    286,
+                    475
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      123,
+                      462
+                    ],
+                    [
+                      285,
+                      462
+                    ],
+                    [
+                      285,
+                      474
+                    ],
+                    [
+                      123,
+                      474
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 2,
+                  "label": "aside_text",
+                  "score": 0.6274216771125793,
+                  "coordinate": [
+                    341,
+                    72,
+                    354,
+                    445
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      340.89794921875,
+                      72.03465270996094
+                    ],
+                    [
+                      352.69305419921875,
+                      71.96763610839844
+                    ],
+                    [
+                      354.79534912109375,
+                      441.984130859375
+                    ],
+                    [
+                      343.000244140625,
+                      442.0511474609375
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "## 訂購平板\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_26_72_339_266.jpg\" alt=\"Image\" width=\"85%\" /></div>\n\n\n擲1次硬幣若為正面，則從自己的牌庫隨機將1張物品卡加入手牌。\n\n在自己的回合时·物品卡可不限强数使用",
+            "images": {
+              "imgs/img_in_image_box_26_72_339_266.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//6d909f6e-7295-44a5-b538-512e6b359652/markdown_0/imgs/img_in_image_box_26_72_339_266.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

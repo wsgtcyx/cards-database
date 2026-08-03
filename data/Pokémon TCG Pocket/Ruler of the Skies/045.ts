@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/045"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/045",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/045",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/045",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/045",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/045"
     },
     name: {
         en: "Alomomola",
@@ -36,10 +40,18 @@ const card: Card = {
         {
             cost: ["Water", "Water"],
             name: {
-                en: "Mineral Pump"
+                en: "Mineral Pump",
+                fr: "Pompe Minérale",
+                es: "Bombeo Mineral",
+                "pt-br": "Bomba Mineral",
+                "zh-tw": "礦質水炮"
             },
             effect: {
-                en: "Heal 10 damage from each of your Benched Pokémon."
+                en: "Heal 10 damage from each of your Benched Pokémon.",
+                fr: "Soignez 10 dégâts de chacun de vos Pokémon de Banc.",
+                es: "Cura 10 puntos de daño a cada uno de tus Pokémon en Banca.",
+                "pt-br": "Cure 10 pontos de dano de cada um dos seus Pokémon no Banco.",
+                "zh-tw": "將自己的所有備戰寶可夢恢復10HP。"
             },
             damage: 40
         }

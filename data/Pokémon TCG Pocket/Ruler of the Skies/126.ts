@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/126"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/126",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/126",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/126",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/126",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/126"
     },
     name: {
         en: "Dipplin",
@@ -52,12 +56,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip 2 coins. This attack does 60 damage for each heads.",
-                fr: "Lancez 2 pièces. Cette attaque inflige 60 dégâts pour chaque tête.",
-                es: "Lanza 2 monedas. Este ataque hace 60 de daño por cada cabeza.",
+                fr: "Lancez 2 pièces. Cette attaque inflige 60 dégâts pour chaque côté face.",
+                es: "Lanza 2 monedas. Este ataque hace 60 puntos de daño por cada cara.",
                 it: "Lancia 2 monete. Questo attacco infligge 60 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 60 Schaden pro Kopf.",
-                "pt-br": "Jogue 2 moedas. Este ataque causa 60 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 60 點傷害。"
+                "pt-br": "Jogue 2 moedas. Este ataque causa 60 pontos de dano para cada cara.",
+                "zh-tw": "擲2次硬幣,造成正面出現的次數×60點傷害。"
             },
             damage: "60x"
         }

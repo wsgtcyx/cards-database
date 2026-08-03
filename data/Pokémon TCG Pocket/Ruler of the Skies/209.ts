@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/209"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/209",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/209",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/209",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/209",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/209"
     },
     name: {
         en: "Plusle",
@@ -47,12 +51,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
-                fr: "Lancez une pièce de monnaie. Si c'est face, le Pokémon Actif de votre adversaire est désormais Paralysé.",
-                es: "Lanza una moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+                fr: "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+                es: "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
                 it: "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario è paralizzato.",
                 de: "Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.",
-                "pt-br": "Jogue uma moeda. Se der cara, o Pokémon Ativo do seu oponente ficará Paralisado.",
-                "zh-tw": "拋一枚硬幣。如果正面，則對手的戰鬥寶可夢現在處於麻痺狀態。"
+                "pt-br": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
+                "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。"
             },
             damage: 10
         }

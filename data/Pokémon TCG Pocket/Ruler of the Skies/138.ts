@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/138"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/138",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/138",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/138",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/138",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/138"
     },
     name: {
         en: "Tranquill",

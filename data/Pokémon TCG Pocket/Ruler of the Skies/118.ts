@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/118"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/118",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/118",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/118",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/118",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/118"
     },
     name: {
         en: "Dragonite",
@@ -58,12 +62,12 @@ const card: Card = {
             },
             effect: {
                 en: "Discard a random Energy from your opponent's Active Pokémon.",
-                fr: "Défaussez une Énergie aléatoire du Pokémon Actif de votre adversaire.",
-                es: "Descarta una Energía aleatoria del Pokémon Activo de tu rival.",
+                fr: "Défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+                es: "Descarta Energía aleatoria del Pokémon Activo de tu rival.",
                 it: "Scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 de: "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
-                "pt-br": "Descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "丟棄對手的活躍寶可夢中的隨機能量。"
+                "pt-br": "Descarte Energia aleatória do Pokémon Ativo do seu oponente.",
+                "zh-tw": "將對手的戰鬥寶可夢身上的隨機個能量丟棄。"
             },
             damage: 110
         }

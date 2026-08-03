@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "cards": {
+    "B4-001": {
+      "fields": {
+        "image.en": {
+          "raw": "",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-001-en.json"
+          ],
+          "status": "pass"
+        }
+      }
+    },
+    "B4-005": {
+      "fields": {
+        "image.fr": {
+          "raw": "",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-005-fr.json"
+          ],
+          "status": "pass"
+        }
+      }
+    },
+    "B4-145": {
+      "fields": {
+        "image.zh": {
+          "raw": "",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-145-zh.json"
+          ],
+          "status": "pass"
+        }
+      }
+    },
+    "B4-150": {
+      "fields": {
+        "image.zh": {
+          "raw": "",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-150-zh.json"
+          ],
+          "status": "pass"
+        }
+      }
+    },
+    "B4-224": {
+      "fields": {
+        "image.pt": {
+          "raw": "",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-224-pt.json"
+          ],
+          "status": "pass"
+        }
+      }
+    },
+    "B4-233": {
+      "fields": {
+        "image.en": {
+          "raw": "",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-233-en.json"
+          ],
+          "status": "pass"
+        }
+      }
+    }
+  }
+}

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/127"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/127",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/127",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/127",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/127",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/127"
     },
     name: {
         en: "Hydrapple",
@@ -47,10 +51,15 @@ const card: Card = {
                 es: "Láser Veleidoso",
                 it: "Irregolaser",
                 de: "Launenlaser",
-                "zh-tw": "隨機光"
+                "zh-tw": "隨機光",
+                "pt-br": "Feixe Volúvel"
             },
             effect: {
-                en: "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+                en: "Flip 2 coins. If all of them are heads, this attack does 100 more damage.",
+                fr: "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 100 dégâts de plus.",
+                es: "Lanza 2 monedas. Si en todas sale cara, este ataque hace 100 puntos de daño más.",
+                "pt-br": "Jogue 2 moedas. Se todas elas saírem cara, este ataque causará 100 pontos de dano a mais.",
+                "zh-tw": "擲2次硬幣,若全部為正面,則增加100點傷害。"
             },
             damage: "100+"
         }

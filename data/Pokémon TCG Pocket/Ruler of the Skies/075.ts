@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/075"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/075",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/075",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/075",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/075",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/075"
     },
     name: {
         en: "Woobat",
@@ -37,20 +41,21 @@ const card: Card = {
             cost: ["Colorless"],
             name: {
                 en: "Air Cutter",
-                fr: "Tranch’Air",
+                fr: "Tranch'Air",
                 es: "Aire Afilado",
                 it: "Aerasoio",
                 de: "Windschnitt",
-                "zh-tw": "空氣利刃"
+                "zh-tw": "空氣利刃",
+                "pt-br": "Cortador de Ar"
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing.",
-                fr: "Lancez une pièce de monnaie. Si c’est pile, cette attaque ne fait rien.",
-                es: "Lanza una moneda. Si sale cruz, este ataque no hace nada.",
+                fr: "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+                es: "Lanza 1 moneda. Si sale cruz, este ataque no hace nada.",
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts.",
-                "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。"
+                "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada.",
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。"
             },
             damage: 40
         }

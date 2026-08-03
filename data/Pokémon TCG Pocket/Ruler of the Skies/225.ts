@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/225"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/225",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/225",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/225",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/225",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/225"
     },
     name: {
         en: "Alolan Ninetales ex",
@@ -13,7 +17,7 @@ const card: Card = {
         it: "Ninetales di Alola-ex",
         de: "Alola-Vulnona-ex",
         "pt-br": "Ninetales de Alola ex",
-        "zh-tw": "阿羅拉的九尾ex",
+        "zh-tw": "阿羅拉九尾ex",
         ko: "알로라 나인테일 ex",
         ja: "アローラ キュウコンex"
     },
@@ -40,11 +44,11 @@ const card: Card = {
             cost: ["Water", "Water"],
             name: {
                 en: "Binding Snow",
-                fr: "Neige contraignante",
-                es: "Nieve vinculante",
+                fr: "Entrave Enneigée",
+                es: "Nieve Confinadora",
                 it: "Legare la neve",
                 de: "Schnee binden",
-                "pt-br": "Neve Vinculante",
+                "pt-br": "Detenção Nevada",
                 "zh-tw": "冰雪制約"
             },
             effect: {
@@ -54,7 +58,7 @@ const card: Card = {
                 it: "Durante il suo prossimo turno, il tuo avversario non può prendere nessuna Energia dalla sua Zona Energia per assegnarla al suo Pokémon attivo.",
                 de: "Dein Gegner kann während seines nächsten Zuges keine Energie aus seinem Energiebereich an sein Aktives Pokémon anlegen.",
                 "pt-br": "Durante o próximo turno do seu oponente, ele não poderá pegar nenhuma Energia da Zona de Energia para ligar ao Pokémon Ativo dele.",
-                "zh-tw": "在你的對手的下一個回合中，他們不能從能量區獲取任何能量來附加到他們的活躍寶可夢上。"
+                "zh-tw": "在下個對手的回合,對手無法從能量區抽出能量,附於戰鬥寶可夢身上。"
             },
             damage: 80
         }

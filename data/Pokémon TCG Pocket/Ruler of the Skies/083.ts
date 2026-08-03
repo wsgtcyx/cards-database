@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/083",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/083",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/083",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/083",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/083"
     },
     name: {
         en: "Groudon",
@@ -32,7 +36,7 @@ const card: Card = {
             cost: ["Fighting", "Fighting", "Fighting"],
             name: {
                 en: "Earthquake",
-                fr: "Tremblement de terre",
+                fr: "Séisme",
                 es: "Terremoto",
                 it: "Terremoto",
                 de: "Erdbeben",
@@ -41,12 +45,12 @@ const card: Card = {
             },
             effect: {
                 en: "This attack also does 10 damage to each of your Benched Pokémon.",
-                fr: "Cette attaque inflige également 10 dégâts à chacun de vos Pokémon de Banc.",
+                fr: "Cette attaque inflige aussi 10 dégâts à chacun de vos Pokémon de Banc.",
                 es: "Este ataque también hace 10 puntos de daño a cada uno de tus Pokémon en Banca.",
                 it: "Questo attacco infligge anche 10 danni a ciascuno dei tuoi Pokémon in panchina.",
                 de: "Dieser Angriff fügt außerdem jedem Pokémon auf deiner Bank 10 Schadenspunkte zu.",
-                "pt-br": "Este ataque também causa 10 de dano a cada um dos seus Pokémon no Banco.",
-                "zh-tw": "這次攻擊還會對你的每隻後備寶可夢造成 10 點傷害。"
+                "pt-br": "Este ataque também causa 10 pontos de dano a cada um dos seus Pokémon no Banco.",
+                "zh-tw": "自己的所有備戰寶可夢也受到10點傷害。"
             },
             damage: 100
         }

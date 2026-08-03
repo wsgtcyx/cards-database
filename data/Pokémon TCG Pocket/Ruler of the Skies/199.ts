@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/199"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/199",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/199",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/199",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/199",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/199"
     },
     name: {
         en: "Hoopa ex",
@@ -28,16 +32,20 @@ const card: Card = {
         {
             cost: ["Darkness"],
             name: {
-                en: "Shadow Bullet"
+                en: "Shadow Bullet",
+                fr: "Kunaï Sournois",
+                es: "Bala Sombra",
+                "pt-br": "Projétil Sombrio",
+                "zh-tw": "暗影子彈"
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
-                fr: "Cette attaque inflige également 20 dégâts à l'un des Pokémon de Banc de votre adversaire.",
+                fr: "Cette attaque inflige aussi 20 dégâts à un20 des Pokémon de Banc de votre adversaire.",
                 es: "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival.",
                 it: "Questo attacco infligge anche 20 danni a 1 dei Pokémon nella panchina del tuo avversario.",
                 de: "Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",
                 "pt-br": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊也會對對手後備的 1 只寶可夢造成 20 點傷害。"
+                "zh-tw": "對手的1隻備戰寶可夢也受到20點傷害。"
             },
             damage: 30
         },
@@ -54,12 +62,12 @@ const card: Card = {
             },
             effect: {
                 en: "This Pokémon also does 20 damage to itself.",
-                fr: "Ce Pokémon s'inflige également 20 dégâts.",
-                es: "Este Pokémon también se hace 20 daños a sí mismo.",
+                fr: "Ce Pokémon s'inflige aussi 20 dégâts.",
+                es: "Este Pokémon también se hace 20 puntos de daño a sí mismo.",
                 it: "Questo Pokémon infligge anche 20 danni a se stesso.",
                 de: "Dieses Pokémon fügt sich selbst außerdem 20 Schadenspunkte zu.",
-                "pt-br": "Este Pokémon também causa 20 de dano a si mesmo.",
-                "zh-tw": "這隻寶可夢也會對自身造成 20 點傷害。"
+                "pt-br": "Este Pokémon também causa 20 pontos de dano a si mesmo.",
+                "zh-tw": "這隻寶可夢也受到20點傷害。"
             },
             damage: 100
         }

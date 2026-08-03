@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/087"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/087",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/087",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/087",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/087",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/087"
     },
     name: {
         en: "Timburr",
@@ -33,11 +37,11 @@ const card: Card = {
             cost: ["Fighting", "Colorless"],
             name: {
                 en: "Confront",
-                fr: "Affronter",
+                fr: "Confrontation",
                 es: "Confrontar",
                 it: "Confrontarsi",
                 de: "Konfrontieren",
-                "pt-br": "Enfrentar",
+                "pt-br": "Confrontar",
                 "zh-tw": "正面對決"
             },
             damage: 30

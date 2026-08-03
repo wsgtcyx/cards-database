@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "status": "passed",
+  "checkedCards": 233,
+  "baseRef": "HEAD",
+  "policy": {
+    "stableFields": "RaenonX raw mechanics are compared against the pre-sync API baseline.",
+    "localizedFields": "RaenonX owns en/fr/es/pt/zh names and rules for this sync.",
+    "images": "RaenonX owns the four newly added localized image variants; existing English R2 objects are preserved."
+  },
+  "priorMultiSourceAudit": {
+    "file": "meta/pocket-source-reviews/B4/B4.audit.json",
+    "passed": true,
+    "confidence": {
+      "high": 0,
+      "medium": 233,
+      "low": 0
+    },
+    "counts": {
+      "cards": 233,
+      "detailsRecords": 233,
+      "provenanceRecords": 233,
+      "indexRecords": 233,
+      "deckGymRecords": 233,
+      "pokemonMetaRecords": 233,
+      "imageFiles": 233
+    },
+    "resolvedConflicts": 80,
+    "unresolvedConflicts": 0
+  },
+  "independentSources": {
+    "officialAnnouncement": {
+      "role": "set identity and launch date",
+      "url": "https://www.pokemon.com/us/news/pokemon-tcg-pocket-ruler-of-the-skies-expansion-coming-soon"
+    },
+    "pinnedCardImage": {
+      "role": "primary visual evidence and production image",
+      "url": "https://github.com/flibustier/pokemon-tcg-pocket-database"
+    },
+    "boosterAssets": {
+      "role": "production booster logo and front artwork"
+    },
+    "index": {
+      "role": "number, name, rarity, and image index",
+      "url": "https://github.com/flibustier/pokemon-tcg-pocket-database"
+    },
+    "deckGym": {
+      "role": "mechanics validation candidate only; content is not copied without card review",
+      "url": "https://github.com/bcollazo/deckgym-core"
+    },
+    "pokemonMeta": {
+      "role": "independent mechanics validation candidate",
+      "url": "https://www.pokemonmeta.com/api/v1/cards?pokemonId%5B%24regex%5D=%5EB4-&limit=400"
+    },
+    "pokeOS": {
+      "role": "independent count, numbering, rarity, and set-name validation only",
+      "url": "https://www.pokeos.com/tcg/pocket/b/583/Ruler+of+the+Skies",
+      "limitation": "B4 localized card-name fields are null and the public Master.json path returns 404; not used as a translation or production-image source."
+    },
+    "raenonX": {
+      "role": "source-exact localized names, attack/ability/trainer text, and localized card-image candidate",
+      "limitation": "No formal repository licence was found; use is limited to the user's authorized, attributed direct mirror. It does not provide the project's de/it B4 localization."
+    },
+    "cardImageOcr": {
+      "role": "illustrator, flavor, and targeted conflict evidence"
+    },
+    "serebii": {
+      "role": "targeted manual conflict adjudication only"
+    },
+    "pokemonZone": {
+      "role": "four targeted ambiguous illustrator checks only",
+      "url": "https://www.pokemon-zone.com/sets/ruler-of-the-skies/",
+      "limitation": "Terms prohibit scraper use, so it was not used for batch ingestion."
+    },
+    "pokeApi": {
+      "role": "official franchise species, move, ability, and Pokédex flavor localization lookup",
+      "url": "https://github.com/PokeAPI/pokeapi"
+    },
+    "tcgDex": {
+      "role": "historical official Trainer-name validation",
+      "url": "https://api.tcgdex.net/v2/en/cards/sm5-131",
+      "limitation": "B4 endpoints returned 404 in all target languages during this run."
+    },
+    "setNames": {
+      "role": "multilingual set-name cross-check",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Ruler_of_the_Skies_(TCG_Pocket)"
+    }
+  },
+  "raenonx": {
+    "credit": "https://ptcgp.raenonx.cc",
+    "masterUrl": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "pageUrlTemplate": "https://ptcgp.raenonx.cc/{locale}/card/{cardId}",
+    "accessedAt": "2026-08-02T14:17:54.132Z"
+  },
+  "mismatchCount": 0,
+  "mismatches": []
+}

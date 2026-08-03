@@ -1,6 +1,6 @@
 ---
 name: sync-pocket-set
-description: Prepare and publish one Pokémon TCG Pocket set from only its set ID in this cards-database fork. Use when the user gives an ID such as B4, B4a, P-B, or Promo-B and wants the set discovered, researched, localized, added to repository metadata, converted to WebP, uploaded to the existing game R2 bucket, audited, and optionally committed or pushed.
+description: Prepare and publish one Pokémon TCG Pocket set from only its set ID in this cards-database fork, including PokeOS and RaenonX localized metadata/image sources, multi-source provenance, PaddleOCR image-text checks, WebP/R2 publishing, downstream indexes, and optional commit/push.
 ---
 
 # Sync Pocket Set
@@ -32,6 +32,21 @@ set ID；不要再向用户索要可从来源发现的英文名、卡数、boost
 默认图片公开域名是 `https://game.pokemontcgpocket.app`。默认素材索引是
 [`shelken/ptcgp-assets`](https://github.com/shelken/ptcgp-assets)，但每次必须固定到
 完整 commit，不使用浮动分支 URL。
+
+### 可用上游与来源角色
+
+除 PokeOS 外，RaenonX 也是可用的本地化数据源，但它不是默认的唯一真源：
+
+- master/index：`https://ptcgp.raenonx.cc/api/data/global-master`；
+- 页面本地化 payload：`https://ptcgp.raenonx.cc/{locale}/card/{cardId}`；
+- 卡图源：`https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/{locale}/{cardId}.png`；
+  下载原图后由本项目统一转换为 WebP，再上传 R2；
+- 当前可复用语言为 `en/fr/es/pt/zh`；RaenonX 页面不提供本项目 B4 所需的 `de/it`，不得把英文 fallback 冒充为德/意本地化；
+- 每次抓取必须保存访问时间、URL、HTTP metadata、response SHA-256 和归因
+  `https://ptcgp.raenonx.cc`。RaenonX 相关仓库未发现正式复制许可证时，只能按用户已授权、署名发布的范围使用，并在 provenance 中保留该限制。
+
+RaenonX 可以提供 localized card names、attack/ability/trainer text 和 localized card
+images；英文规则字段、编号、稀有度和完整 schema 仍须与至少一个独立结构化来源交叉核对。
 
 ## 1. 范围与工作树
 
@@ -112,6 +127,15 @@ node "$SKILL_DIR/scripts/discover-pocket-set.mjs" \
 等生成 `Card` 所需信息。先联网确认当前仍完整、许可证允许使用的来源；可复用
 PocketDex-Codex 或更可靠的新来源，但不得假设旧来源一定已更新。
 
+### 多源交叉验证
+
+生产写入前必须建立 source registry 和逐字段 provenance：
+
+- 编号、数量、稀有度、卡类型、能量、伤害和结构字段至少由两个独立候选源支持；
+- RaenonX 的本地化字段必须与 canonical card ID/collection number 一一 join，不能按页面顺序盲合并；
+- localized effect template 必须以英文 canonical 作为 token binding oracle，再用目标语言模板渲染；`Num:Int`、`Gr:Count`、`Text:CardName`、`Text:AttackName`、`Text:SpecialCondition` 等 token 未绑定时，停止，不删除标签或回退英文；
+- 冲突写入 review overlay，保留候选、选择值、证据和裁决原因；任一必填冲突未裁决，不得进入 metadata/R2。
+
 下载后验证：
 
 - 数量严格等于 `set.total`；
@@ -144,24 +168,22 @@ node "$SKILL_DIR/scripts/download-assets.mjs" \
 
 下载器会按 manifest 的真实卡图格式处理 PNG/WebP，并验证文件 magic bytes。
 
-若 `zh-TW` 卡图完整，使用游戏卡面 OCR 辅助确认繁体中文招式和特性：
+若 `zh-TW` 或 RaenonX 任一本地化卡图完整，只抽取几个代表性 case，使用
+`$paddleocr-text-recognition` 通过 PaddleOCR API 辅助确认图文一致性：
 
 ```bash
-OCR_FILE="$WORK_ROOT/zh-ocr.jsonl"
-
-find "$ASSET_INPUT/cards/zh-TW" -type f \
-  \( -name '*.png' -o -name '*.webp' \) -print0 |
-  xargs -0 swift "$SKILL_DIR/scripts/ocr-pocket-card.swift" \
-    --output "$OCR_FILE"
-
-node "$SKILL_DIR/scripts/extract-zh-terms.mjs" \
-  --manifest "$MANIFEST" \
-  --ocr "$OCR_FILE" \
-  --report "$WORK_ROOT/zh-term-report.json" \
-  --write
+# 仅把挑出的代表性图片送入 PaddleOCR skill，保存原始 JSON 后再审计：
+node .agents/skills/merge-pocket-card-sources/scripts/audit-raenonx-ocr.mjs \
+  --overlay meta/pocket-source-reviews/B4/raenonx.overlay.json \
+  --ocr-root "$WORK_ROOT/ocr" \
+  --output meta/pocket-source-reviews/B4/raenonx.ocr.audit.json
 ```
 
-OCR 只是候选证据。逐项处理 unresolved、ambiguous 和 diagnostics；装饰字体识别不清时人工查看卡面，不凭 OCR 猜专名。
+OCR 只能通过 PaddleOCR skill 执行，不得用本地视觉、ImageMagick OCR 或其他识别器替代；API 失败就停止整个同步。
+只抽取几个代表性 pilot case，覆盖卡号/卡名、招式/特性名和可读规则文本的大致对应，不要求对最终全量卡图逐张 OCR；
+把原始 OCR JSON 通过 `persist-ocr-evidence.mjs` 固化到 review 目录，并在 provenance 标明 image URL、语言、
+OCR 结果路径和 mismatch。OCR 是证据而不是自动改字工具：低置信度、unresolved、ambiguous 和 diagnostics
+只记录到 review，不能凭 OCR 噪声猜专名或改写 metadata。
 
 ## 5. 生成 metadata 与多语言
 
@@ -171,6 +193,12 @@ OCR 只是候选证据。逐项处理 unresolved、ambiguous 和 diagnostics；�
 所有本地化输入同样属于审计输入：game-assets/template checkout、PokeAPI CSV、百科
 HTML 和人工翻译表都要记录固定 commit/抓取时间及 SHA-256，并进入最终 input hashes。
 只固定英文 details 和卡图来源，不能证明本地化结果可复现。
+
+RaenonX 本地化导入使用项目内的 source adapter；先生成 `raenonx.snapshot.json` 和
+`raenonx.overlay.json`，通过十卡 pilot，再扩大到 B4 全量。`de/it` 保留已有数据，
+RaenonX 不存在的 localized field 不得用英文补齐，也不得把“源内覆盖完整”写成“七语完整”。
+B4 全量写入前还要运行 `audit-raenonx-b4-cross-source.mjs`，把既有多源 baseline 与
+RaenonX stable mechanics 的逐卡结果固化到 `raenonx.cross-source.json`。
 
 先 dry-run：
 
@@ -280,6 +308,12 @@ node "$SKILL_DIR/scripts/verify-r2.mjs" \
   --manifest "$MANIFEST" \
   --objects "$ASSET_OUTPUT/manifest.json" \
   --receipts "$UPLOAD_RESULTS"
+
+# 生产前还必须通过：
+# 1) source registry / provenance 的多源冲突为 0；
+# 2) RaenonX overlay 的 token binding 与源覆盖审计；
+# 3) PaddleOCR image-text consistency gate；
+# 4) 下游各语言索引与实际 R2 image-language mapping 完全一致。
 
 git diff --check
 npm run validate

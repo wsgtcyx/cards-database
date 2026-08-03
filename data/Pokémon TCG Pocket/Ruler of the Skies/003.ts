@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/003"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/003",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/003",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/003",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/003",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/003"
     },
     name: {
         en: "Beautifly",
@@ -46,16 +50,20 @@ const card: Card = {
         {
             cost: ["Grass"],
             name: {
-                en: "Evoflight"
+                en: "Evoflight",
+                fr: "Envol Évo",
+                es: "Evovuelo",
+                "pt-br": "Evoluvoo",
+                "zh-tw": "進化飛行"
             },
             effect: {
                 en: "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
-                fr: "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon Evolution sur votre Banc.",
-                es: "Este ataque hace 30 daños más por cada Pokémon de Evolución en tu Banca.",
+                fr: "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon Évolutif sur votre Banc.",
+                es: "Este ataque hace 30 puntos de daño más por cada Pokémon Evolución en tu Banca.",
                 it: "Questo attacco infligge 30 danni in più per ogni Pokémon Evoluzione nella tua panchina.",
                 de: "Dieser Angriff fügt jedem Evolutions-Pokémon auf deiner Bank 30 weitere Schadenspunkte zu.",
-                "pt-br": "Este ataque causa 30 danos a mais para cada Pokémon de Evolução no seu Banco.",
-                "zh-tw": "此攻擊對你替補席上的每個進化寶可夢造成 30 點額外傷害。"
+                "pt-br": "Este ataque causa 30 pontos de dano a mais para cada Pokémon de Evolução no seu Banco.",
+                "zh-tw": "增加自己的備戰區的進化寶可夢的數量×30點傷害。"
             },
             damage: "30+"
         }

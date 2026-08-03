@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/040"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/040",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/040",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/040",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/040",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/040"
     },
     name: {
         en: "Walrein",
@@ -47,16 +51,20 @@ const card: Card = {
         {
             cost: ["Water", "Water", "Colorless", "Colorless"],
             name: {
-                en: "Blizzlock"
+                en: "Blizzlock",
+                fr: "Blizzard Bloqueur",
+                es: "Bloqueo Ventisca",
+                "pt-br": "Bloqueio Nevasca",
+                "zh-tw": "暴雪封鎖"
             },
             effect: {
                 en: "Your opponent can't use any Supporter cards from their hand during their next turn.",
-                fr: "Votre adversaire ne peut utiliser aucune carte Supporter de sa main lors de son prochain tour.",
-                es: "Tu oponente no puede usar ninguna carta de Partidario de su mano durante su próximo turno.",
+                fr: "Votre adversaire ne peut pas jouer de carte Supporter de sa main pendant son prochain tour.",
+                es: "Tu rival no puede jugar ninguna carta de Partidario de su mano durante su próximo turno.",
                 it: "Il tuo avversario non può utilizzare alcuna carta Aiuto dalla sua mano durante il suo prossimo turno.",
                 de: "Dein Gegner kann in seinem nächsten Zug keine Unterstützerkarten aus seiner Hand verwenden.",
-                "pt-br": "Seu oponente não pode usar nenhuma carta de Apoiador de sua mão durante o próximo turno.",
-                "zh-tw": "你的對手在下回合中不能使用手上的任何支持者卡。"
+                "pt-br": "Seu oponente não poderá usar nenhuma carta de Apoiador durante o próximo turno dele.",
+                "zh-tw": "在下個對手的回合,對手無法從手牌使出支援者卡。"
             },
             damage: 110
         }

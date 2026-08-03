@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/029"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/029",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/029",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/029",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/029",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/029"
     },
     name: {
         en: "Heatmor",
@@ -37,8 +41,8 @@ const card: Card = {
             cost: ["Fire", "Colorless"],
             name: {
                 en: "Fire Claws",
-                fr: "Griffes de Feu",
-                es: "Garras de fuego",
+                fr: "Griffes Enflammées",
+                es: "Garras de Fuego",
                 it: "Artigli di fuoco",
                 de: "Feuerkrallen",
                 "pt-br": "Garras de Fogo",

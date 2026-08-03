@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/080",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/080",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/080",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/080",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/080"
     },
     name: {
         en: "Hariyama",
@@ -46,10 +50,18 @@ const card: Card = {
         {
             cost: ["Fighting", "Fighting", "Colorless"],
             name: {
-                en: "Pivot Throw"
+                en: "Pivot Throw",
+                fr: "Lancer Tournant",
+                es: "Lanzamiento de Pívot",
+                "pt-br": "Arremesso Articulado",
+                "zh-tw": "逆轉摔"
             },
             effect: {
-                en: "During your opponent's next turn, this Pokémon takes +50 damage from attacks."
+                en: "During your opponent's next turn, this Pokémon takes +50 damage from attacks.",
+                fr: "Pendant le prochain tour de votre adversaire, ce Pokémon subit + 50 dégâts provenant des attaques.",
+                es: "Durante el próximo turno de tu rival, los ataques hacen +50 puntos de daño a este Pokémon.",
+                "pt-br": "Durante o próximo turno do seu oponente, este Pokémon receberá +50 pontos de dano de ataques.",
+                "zh-tw": "在下個對手的回合,這隻寶可夢受到招式的傷害+50點。"
             },
             damage: 120
         }

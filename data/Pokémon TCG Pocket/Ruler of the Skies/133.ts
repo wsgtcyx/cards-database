@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/133"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/133",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/133",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/133",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/133",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/133"
     },
     name: {
         en: "Ambipom",

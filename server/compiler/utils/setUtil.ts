@@ -24,9 +24,9 @@ export async function getSet(name: string, serie = '*', lang: SupportedLanguages
 	if (!setCache[name]) {
 		const file = `${DB_PATH}/${getDataFolder(lang)}/${serie}/${name}.ts`
 		try {
-			const [path] = await smartGlob(file)
+			const [filePath] = await smartGlob(file)
 			// console.log(`${DB_PATH}/${getDataFolder(lang)}/${serie}/${name}.ts`)
-			setCache[name] = (await import(`../../${path}`)).default
+			setCache[name] = (await import(path.join(process.cwd(), filePath))).default
 		} catch (error) {
 			console.error(error)
 			console.error(`Error trying to import importing (${file})`)

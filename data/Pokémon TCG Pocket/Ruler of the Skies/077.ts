@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/077"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/077",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/077",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/077",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/077",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/077"
     },
     name: {
         en: "Hoopa",
@@ -35,10 +39,18 @@ const card: Card = {
         {
             cost: ["Colorless"],
             name: {
-                en: "Mischievous Ring"
+                en: "Mischievous Ring",
+                fr: "Anneau Facétieux",
+                es: "Anillo Travieso",
+                "pt-br": "Anel Travesso",
+                "zh-tw": "惡作劇圓環"
             },
             effect: {
-                en: "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck."
+                en: "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck.",
+                fr: "Avant d'infliger des dégâts, mélangez tous les Outils Pokémon de chacun des Pokémon de votre adversaire avec son deck.",
+                es: "Antes de infligir daño, pon todas las Herramientas Pokémon de cada uno de los Pokémon de tu rival en su baraja y baraja todas las cartas.",
+                "pt-br": "Antes de causar dano, embaralhe todas as Ferramentas Pokémon de cada um dos Pokémon do seu oponente no baralho dele.",
+                "zh-tw": "在造成傷害前,將對手的所有寶可夢身上的「寶可夢道具」卡全部放回對手的牌庫。"
             },
             damage: 20
         }

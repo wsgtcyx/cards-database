@@ -1,0 +1,241 @@
+{
+  "ok": true,
+  "text": "Wurmple\n\nNO. 0265 Wamt Poklinton HT: 1' W/T: 7.9 lbs",
+  "result": {
+    "logId": "d6c6d1f0-77f7-4c14-ad0a-e467cb5ef7c5",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "doc_title",
+                "block_content": "Wurmple",
+                "block_bbox": [
+                  64,
+                  20,
+                  178,
+                  45
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    64,
+                    20
+                  ],
+                  [
+                    178,
+                    20
+                  ],
+                  [
+                    178,
+                    45
+                  ],
+                  [
+                    64,
+                    45
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  14,
+                  48,
+                  351,
+                  495
+                ],
+                "block_id": 1,
+                "block_order": null,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    14,
+                    48
+                  ],
+                  [
+                    351,
+                    48
+                  ],
+                  [
+                    351,
+                    495
+                  ],
+                  [
+                    14,
+                    495
+                  ]
+                ]
+              },
+              {
+                "block_label": "vision_footnote",
+                "block_content": "NO. 0265 Wamt Poklinton HT: 1' W/T: 7.9 lbs",
+                "block_bbox": [
+                  109,
+                  245,
+                  257,
+                  255
+                ],
+                "block_id": 2,
+                "block_order": null,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    111,
+                    245
+                  ],
+                  [
+                    111,
+                    254
+                  ],
+                  [
+                    256,
+                    254
+                  ],
+                  [
+                    256,
+                    245
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.3995620906352997,
+                  "coordinate": [
+                    64,
+                    20,
+                    178,
+                    45
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      64,
+                      20
+                    ],
+                    [
+                      178,
+                      20
+                    ],
+                    [
+                      178,
+                      45
+                    ],
+                    [
+                      64,
+                      45
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.7724334597587585,
+                  "coordinate": [
+                    14,
+                    48,
+                    351,
+                    495
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      14,
+                      48
+                    ],
+                    [
+                      351,
+                      48
+                    ],
+                    [
+                      351,
+                      495
+                    ],
+                    [
+                      14,
+                      495
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 24,
+                  "label": "vision_footnote",
+                  "score": 0.35729941725730896,
+                  "coordinate": [
+                    109,
+                    245,
+                    257,
+                    255
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      111,
+                      245
+                    ],
+                    [
+                      111,
+                      254
+                    ],
+                    [
+                      256,
+                      254
+                    ],
+                    [
+                      256,
+                      245
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# Wurmple\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_14_48_351_495.jpg\" alt=\"Image\" width=\"91%\" /></div>\n\n\nNO. 0265 Wamt Poklinton HT: 1' W/T: 7.9 lbs",
+            "images": {
+              "imgs/img_in_image_box_14_48_351_495.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//56fdba38-4c0c-4da3-99e3-4fd5366e7472/markdown_0/imgs/img_in_image_box_14_48_351_495.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

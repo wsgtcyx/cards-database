@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/113"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/113",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/113",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/113",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/113",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/113"
     },
     name: {
         en: "Archaludon",
@@ -42,10 +46,18 @@ const card: Card = {
         {
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
             name: {
-                en: "Raging Blade"
+                en: "Raging Blade",
+                fr: "Lame en Furie",
+                es: "Tajo Furioso",
+                "pt-br": "Lâmina Devastadora",
+                "zh-tw": "憤怒之刃"
             },
             effect: {
-                en: "If this Pokémon has damage on it, this attack does 80 more damage."
+                en: "If this Pokémon has damage on it, this attack does 80 more damage.",
+                fr: "Si ce Pokémon a subi des dégâts, cette attaque inflige 80 dégâts de plus.",
+                es: "Si este Pokémon ya tiene daño, este ataque hace 80 puntos de daño más.",
+                "pt-br": "Se este Pokémon estiver danificado, este ataque causará 80 pontos de dano a mais.",
+                "zh-tw": "若這隻寶可夢有受到傷害,則增加80點傷害。"
             },
             damage: "80+"
         }

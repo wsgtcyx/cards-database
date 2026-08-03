@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/062"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/062",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/062",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/062",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/062",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/062"
     },
     name: {
         en: "Wattrel",

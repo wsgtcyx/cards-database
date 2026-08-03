@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/214"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/214",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/214",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/214",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/214",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/214"
     },
     name: {
         en: "Boldore",
@@ -48,11 +52,11 @@ const card: Card = {
             cost: ["Fighting", "Fighting", "Colorless"],
             name: {
                 en: "Power Gem",
-                fr: "Gemme de puissance",
-                es: "Gema de poder",
+                fr: "Rayon Gemme",
+                es: "Joya de Luz",
                 it: "Gemma del potere",
                 de: "Kraftjuwel",
-                "pt-br": "Gema de Poder",
+                "pt-br": "Gema Poderosa",
                 "zh-tw": "力量寶石"
             },
             damage: 70

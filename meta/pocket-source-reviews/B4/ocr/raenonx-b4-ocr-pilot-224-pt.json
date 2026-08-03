@@ -1,0 +1,1234 @@
+{
+  "ok": true,
+  "text": "BASICO\n\nBlacephalon EX PS 140\n\nUltracriatura\n\nChamuscada\n\nO Pokémon Ativo do seu oponente agora está Queimado.\n\nDescarte 3 Energias ✩ deste Pokémon:\n140\n\nFraqueza +20\n\nHost. Ston-Graphos\n\nRecuo\n\n* *\n\nRegraex Quando seu Pokémon ex é\nNocauteado, seu oponente recebe 2 pontos.",
+  "result": {
+    "logId": "4da1242c-af0d-406a-97e0-4a2f61581b54",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "header",
+                "block_content": "BASICO",
+                "block_bbox": [
+                  13,
+                  24,
+                  60,
+                  37
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    13,
+                    24
+                  ],
+                  [
+                    59,
+                    24
+                  ],
+                  [
+                    59,
+                    36
+                  ],
+                  [
+                    13,
+                    36
+                  ]
+                ]
+              },
+              {
+                "block_label": "doc_title",
+                "block_content": "Blacephalon EX PS 140",
+                "block_bbox": [
+                  65,
+                  19,
+                  320,
+                  46
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    65,
+                    19
+                  ],
+                  [
+                    320,
+                    19
+                  ],
+                  [
+                    320,
+                    46
+                  ],
+                  [
+                    65,
+                    46
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Ultracriatura",
+                "block_bbox": [
+                  229,
+                  62,
+                  339,
+                  78
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    229,
+                    62
+                  ],
+                  [
+                    337,
+                    62
+                  ],
+                  [
+                    337,
+                    77
+                  ],
+                  [
+                    229,
+                    77
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  21,
+                  294,
+                  46,
+                  314
+                ],
+                "block_id": 3,
+                "block_order": null,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    21,
+                    294
+                  ],
+                  [
+                    45,
+                    294
+                  ],
+                  [
+                    45,
+                    313
+                  ],
+                  [
+                    21,
+                    313
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Chamuscada",
+                "block_bbox": [
+                  110,
+                  296,
+                  229,
+                  315
+                ],
+                "block_id": 4,
+                "block_order": 3,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    110,
+                    296
+                  ],
+                  [
+                    228,
+                    296
+                  ],
+                  [
+                    228,
+                    314
+                  ],
+                  [
+                    110,
+                    314
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "O Pokémon Ativo do seu oponente agora está Queimado.",
+                "block_bbox": [
+                  22,
+                  316,
+                  344,
+                  351
+                ],
+                "block_id": 5,
+                "block_order": 4,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    21.78834342956543,
+                    316.0262145996094
+                  ],
+                  [
+                    342.968994140625,
+                    314.0250549316406
+                  ],
+                  [
+                    343.1806945800781,
+                    347.9988098144531
+                  ],
+                  [
+                    22.000030517578125,
+                    349.9999694824219
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  22,
+                  361,
+                  88,
+                  383
+                ],
+                "block_id": 6,
+                "block_order": null,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    22,
+                    361
+                  ],
+                  [
+                    87,
+                    361
+                  ],
+                  [
+                    87,
+                    382
+                  ],
+                  [
+                    22,
+                    382
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  110,
+                  364,
+                  207,
+                  384
+                ],
+                "block_id": 7,
+                "block_order": null,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    110,
+                    364
+                  ],
+                  [
+                    206,
+                    364
+                  ],
+                  [
+                    206,
+                    383
+                  ],
+                  [
+                    110,
+                    383
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Descarte 3 Energias ✩ deste Pokémon:\n140",
+                "block_bbox": [
+                  23,
+                  385,
+                  257,
+                  401
+                ],
+                "block_id": 8,
+                "block_order": 5,
+                "group_id": 8,
+                "block_polygon_points": [
+                  [
+                    23,
+                    385
+                  ],
+                  [
+                    256,
+                    385
+                  ],
+                  [
+                    256,
+                    400
+                  ],
+                  [
+                    23,
+                    400
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  307,
+                  362,
+                  343,
+                  383
+                ],
+                "block_id": 9,
+                "block_order": 6,
+                "group_id": 8,
+                "block_polygon_points": [
+                  [
+                    307,
+                    362
+                  ],
+                  [
+                    342,
+                    362
+                  ],
+                  [
+                    342,
+                    382
+                  ],
+                  [
+                    307,
+                    382
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Fraqueza +20",
+                "block_bbox": [
+                  52,
+                  442,
+                  90,
+                  453
+                ],
+                "block_id": 10,
+                "block_order": 7,
+                "group_id": 10,
+                "block_polygon_points": [
+                  [
+                    52,
+                    442
+                  ],
+                  [
+                    89,
+                    442
+                  ],
+                  [
+                    89,
+                    452
+                  ],
+                  [
+                    52,
+                    452
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  102,
+                  439,
+                  151,
+                  455
+                ],
+                "block_id": 11,
+                "block_order": 8,
+                "group_id": 10,
+                "block_polygon_points": [
+                  [
+                    102,
+                    439
+                  ],
+                  [
+                    150,
+                    439
+                  ],
+                  [
+                    150,
+                    454
+                  ],
+                  [
+                    102,
+                    454
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Host. Ston-Graphos",
+                "block_bbox": [
+                  24,
+                  457,
+                  95,
+                  467
+                ],
+                "block_id": 12,
+                "block_order": 9,
+                "group_id": 12,
+                "block_polygon_points": [
+                  [
+                    24,
+                    457
+                  ],
+                  [
+                    94,
+                    457
+                  ],
+                  [
+                    94,
+                    466
+                  ],
+                  [
+                    24,
+                    466
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Recuo",
+                "block_bbox": [
+                  210,
+                  442,
+                  238,
+                  453
+                ],
+                "block_id": 13,
+                "block_order": 10,
+                "group_id": 13,
+                "block_polygon_points": [
+                  [
+                    210,
+                    442
+                  ],
+                  [
+                    237,
+                    442
+                  ],
+                  [
+                    237,
+                    452
+                  ],
+                  [
+                    210,
+                    452
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  251,
+                  440,
+                  285,
+                  455
+                ],
+                "block_id": 14,
+                "block_order": null,
+                "group_id": 14,
+                "block_polygon_points": [
+                  [
+                    251,
+                    440
+                  ],
+                  [
+                    284,
+                    440
+                  ],
+                  [
+                    284,
+                    454
+                  ],
+                  [
+                    251,
+                    454
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "* *",
+                "block_bbox": [
+                  25,
+                  467,
+                  56,
+                  483
+                ],
+                "block_id": 15,
+                "block_order": 11,
+                "group_id": 15,
+                "block_polygon_points": [
+                  [
+                    25,
+                    467
+                  ],
+                  [
+                    55,
+                    467
+                  ],
+                  [
+                    55,
+                    482
+                  ],
+                  [
+                    25,
+                    482
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Regraex Quando seu Pokémon ex é\nNocauteado, seu oponente recebe 2 pontos.",
+                "block_bbox": [
+                  129,
+                  466,
+                  313,
+                  489
+                ],
+                "block_id": 16,
+                "block_order": 12,
+                "group_id": 16,
+                "block_polygon_points": [
+                  [
+                    131,
+                    479
+                  ],
+                  [
+                    131,
+                    488
+                  ],
+                  [
+                    312,
+                    488
+                  ],
+                  [
+                    312,
+                    466
+                  ],
+                  [
+                    193,
+                    466
+                  ],
+                  [
+                    195,
+                    473
+                  ],
+                  [
+                    192,
+                    477
+                  ],
+                  [
+                    184,
+                    477
+                  ],
+                  [
+                    181,
+                    473
+                  ],
+                  [
+                    181,
+                    466
+                  ],
+                  [
+                    135,
+                    466
+                  ],
+                  [
+                    133,
+                    469
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.34323155879974365,
+                  "coordinate": [
+                    13,
+                    24,
+                    60,
+                    37
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      13,
+                      24
+                    ],
+                    [
+                      59,
+                      24
+                    ],
+                    [
+                      59,
+                      36
+                    ],
+                    [
+                      13,
+                      36
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.4687778949737549,
+                  "coordinate": [
+                    65,
+                    19,
+                    320,
+                    46
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      65,
+                      19
+                    ],
+                    [
+                      320,
+                      19
+                    ],
+                    [
+                      320,
+                      46
+                    ],
+                    [
+                      65,
+                      46
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6516814827919006,
+                  "coordinate": [
+                    229,
+                    62,
+                    339,
+                    78
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      229,
+                      62
+                    ],
+                    [
+                      337,
+                      62
+                    ],
+                    [
+                      337,
+                      77
+                    ],
+                    [
+                      229,
+                      77
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.31081560254096985,
+                  "coordinate": [
+                    21,
+                    294,
+                    46,
+                    314
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      21,
+                      294
+                    ],
+                    [
+                      45,
+                      294
+                    ],
+                    [
+                      45,
+                      313
+                    ],
+                    [
+                      21,
+                      313
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.774511456489563,
+                  "coordinate": [
+                    110,
+                    296,
+                    229,
+                    315
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      110,
+                      296
+                    ],
+                    [
+                      228,
+                      296
+                    ],
+                    [
+                      228,
+                      314
+                    ],
+                    [
+                      110,
+                      314
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8007752895355225,
+                  "coordinate": [
+                    22,
+                    316,
+                    344,
+                    351
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      21.78834342956543,
+                      316.0262145996094
+                    ],
+                    [
+                      342.968994140625,
+                      314.0250549316406
+                    ],
+                    [
+                      343.1806945800781,
+                      347.9988098144531
+                    ],
+                    [
+                      22.000030517578125,
+                      349.9999694824219
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.6576946973800659,
+                  "coordinate": [
+                    22,
+                    361,
+                    88,
+                    383
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      22,
+                      361
+                    ],
+                    [
+                      87,
+                      361
+                    ],
+                    [
+                      87,
+                      382
+                    ],
+                    [
+                      22,
+                      382
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.35570216178894043,
+                  "coordinate": [
+                    110,
+                    364,
+                    207,
+                    384
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      110,
+                      364
+                    ],
+                    [
+                      206,
+                      364
+                    ],
+                    [
+                      206,
+                      383
+                    ],
+                    [
+                      110,
+                      383
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7450361847877502,
+                  "coordinate": [
+                    23,
+                    385,
+                    257,
+                    401
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      23,
+                      385
+                    ],
+                    [
+                      256,
+                      385
+                    ],
+                    [
+                      256,
+                      400
+                    ],
+                    [
+                      23,
+                      400
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7052348852157593,
+                  "coordinate": [
+                    307,
+                    362,
+                    343,
+                    383
+                  ],
+                  "order": 6,
+                  "polygon_points": [
+                    [
+                      307,
+                      362
+                    ],
+                    [
+                      342,
+                      362
+                    ],
+                    [
+                      342,
+                      382
+                    ],
+                    [
+                      307,
+                      382
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6979702115058899,
+                  "coordinate": [
+                    52,
+                    442,
+                    90,
+                    453
+                  ],
+                  "order": 7,
+                  "polygon_points": [
+                    [
+                      52,
+                      442
+                    ],
+                    [
+                      89,
+                      442
+                    ],
+                    [
+                      89,
+                      452
+                    ],
+                    [
+                      52,
+                      452
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4819091558456421,
+                  "coordinate": [
+                    102,
+                    439,
+                    151,
+                    455
+                  ],
+                  "order": 8,
+                  "polygon_points": [
+                    [
+                      102,
+                      439
+                    ],
+                    [
+                      150,
+                      439
+                    ],
+                    [
+                      150,
+                      454
+                    ],
+                    [
+                      102,
+                      454
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4396500885486603,
+                  "coordinate": [
+                    24,
+                    457,
+                    95,
+                    467
+                  ],
+                  "order": 9,
+                  "polygon_points": [
+                    [
+                      24,
+                      457
+                    ],
+                    [
+                      94,
+                      457
+                    ],
+                    [
+                      94,
+                      466
+                    ],
+                    [
+                      24,
+                      466
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6791158318519592,
+                  "coordinate": [
+                    210,
+                    442,
+                    238,
+                    453
+                  ],
+                  "order": 10,
+                  "polygon_points": [
+                    [
+                      210,
+                      442
+                    ],
+                    [
+                      237,
+                      442
+                    ],
+                    [
+                      237,
+                      452
+                    ],
+                    [
+                      210,
+                      452
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.4343687891960144,
+                  "coordinate": [
+                    251,
+                    440,
+                    285,
+                    455
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      251,
+                      440
+                    ],
+                    [
+                      284,
+                      440
+                    ],
+                    [
+                      284,
+                      454
+                    ],
+                    [
+                      251,
+                      454
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.45133161544799805,
+                  "coordinate": [
+                    25,
+                    467,
+                    56,
+                    483
+                  ],
+                  "order": 11,
+                  "polygon_points": [
+                    [
+                      25,
+                      467
+                    ],
+                    [
+                      55,
+                      467
+                    ],
+                    [
+                      55,
+                      482
+                    ],
+                    [
+                      25,
+                      482
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5239880681037903,
+                  "coordinate": [
+                    134,
+                    464,
+                    182,
+                    476
+                  ],
+                  "order": 12,
+                  "polygon_points": [
+                    [
+                      133.99998474121094,
+                      464
+                    ],
+                    [
+                      180.99998474121094,
+                      464
+                    ],
+                    [
+                      180.99998474121094,
+                      475
+                    ],
+                    [
+                      133.99998474121094,
+                      475
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3591556251049042,
+                  "coordinate": [
+                    129,
+                    466,
+                    313,
+                    489
+                  ],
+                  "order": 13,
+                  "polygon_points": [
+                    [
+                      131,
+                      479
+                    ],
+                    [
+                      131,
+                      488
+                    ],
+                    [
+                      312,
+                      488
+                    ],
+                    [
+                      312,
+                      466
+                    ],
+                    [
+                      193,
+                      466
+                    ],
+                    [
+                      195,
+                      473
+                    ],
+                    [
+                      192,
+                      477
+                    ],
+                    [
+                      184,
+                      477
+                    ],
+                    [
+                      181,
+                      473
+                    ],
+                    [
+                      181,
+                      466
+                    ],
+                    [
+                      135,
+                      466
+                    ],
+                    [
+                      133,
+                      469
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4125167429447174,
+                  "coordinate": [
+                    129,
+                    477,
+                    312,
+                    489
+                  ],
+                  "order": 14,
+                  "polygon_points": [
+                    [
+                      311,
+                      480
+                    ],
+                    [
+                      282,
+                      477
+                    ],
+                    [
+                      261,
+                      477
+                    ],
+                    [
+                      260,
+                      480
+                    ],
+                    [
+                      131,
+                      480
+                    ],
+                    [
+                      131,
+                      488
+                    ],
+                    [
+                      311,
+                      488
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# Blacephalon EX PS 140\n\nUltracriatura\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_21_294_46_314.jpg\" alt=\"Image\" width=\"6%\" /></div>\n\n\n## Chamuscada\n\nO Pokémon Ativo do seu oponente agora está Queimado.\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_22_361_88_383.jpg\" alt=\"Image\" width=\"17%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_110_364_207_384.jpg\" alt=\"Image\" width=\"26%\" /></div>\n\n\nDescarte 3 Energias ✩ deste Pokémon:\n\n140\n\n\n\nFraqueza +20\n\n\n\nHost. Ston-Graphos\n\nRecuo\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_251_440_285_455.jpg\" alt=\"Image\" width=\"9%\" /></div>\n\n\n* *\n\nRegraex Quando seu Pokémon ex é\n\nNocauteado, seu oponente recebe 2 pontos.",
+            "images": {
+              "imgs/img_in_image_box_21_294_46_314.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//da7cb69a-6b43-408b-b7e8-0d903d2102e7/markdown_0/imgs/img_in_image_box_21_294_46_314.jpg",
+              "imgs/img_in_image_box_22_361_88_383.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//da7cb69a-6b43-408b-b7e8-0d903d2102e7/markdown_0/imgs/img_in_image_box_22_361_88_383.jpg",
+              "imgs/img_in_image_box_110_364_207_384.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//da7cb69a-6b43-408b-b7e8-0d903d2102e7/markdown_0/imgs/img_in_image_box_110_364_207_384.jpg",
+              "imgs/img_in_image_box_251_440_285_455.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//da7cb69a-6b43-408b-b7e8-0d903d2102e7/markdown_0/imgs/img_in_image_box_251_440_285_455.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

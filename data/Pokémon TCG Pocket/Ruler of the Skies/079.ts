@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/079"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/079",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/079",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/079",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/079",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/079"
     },
     name: {
         en: "Makuhita",
@@ -36,8 +40,8 @@ const card: Card = {
             cost: ["Fighting", "Colorless"],
             name: {
                 en: "Magnum Punch",
-                fr: "Coup de poing Magnum",
-                es: "Puñetazo magnum",
+                fr: "Poing Magnum",
+                es: "Puño Mágnum",
                 it: "Pugno Magnum",
                 de: "Magnum Punch",
                 "pt-br": "Soco Magnum",

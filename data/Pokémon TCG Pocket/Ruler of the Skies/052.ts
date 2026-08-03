@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/052"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/052",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/052",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/052",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/052",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/052"
     },
     name: {
         en: "Luxio",
@@ -43,8 +47,8 @@ const card: Card = {
             cost: ["Lightning", "Colorless"],
             name: {
                 en: "Zap Kick",
-                fr: "Coup de pied Zap",
-                es: "Patada rápida",
+                fr: "Coup de Pied Ravageur",
+                es: "Electropatada",
                 it: "Calcio di zap",
                 de: "Zap-Kick",
                 "pt-br": "Chute Zap",

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/021"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/021",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/021",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/021",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/021",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/021"
     },
     name: {
         en: "Rapidash",
@@ -49,11 +53,11 @@ const card: Card = {
             cost: ["Fire", "Fire", "Colorless"],
             name: {
                 en: "Heat Blast",
-                fr: "Coup de chaleur",
-                es: "Explosión de calor",
+                fr: "Explosion de Chaleur",
+                es: "Explosión de Calor",
                 it: "Colpo di calore",
                 de: "Hitzestoß",
-                "pt-br": "Explosão de calor",
+                "pt-br": "Raio de Calor",
                 "zh-tw": "高溫爆破"
             },
             damage: 80

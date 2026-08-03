@@ -55,6 +55,15 @@
     "url": "https://www.pokeos.com/tcg/pocket/b/583/Ruler+of+the+Skies",
     "limitation": "B4 localized card-name fields are null and the public Master.json path returns 404; not used as a translation or production-image source."
   },
+  "raenonX": {
+    "role": "source-exact localized names, attack/ability/trainer text, and localized card-image candidate",
+    "masterUrl": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "pageUrlTemplate": "https://ptcgp.raenonx.cc/{locale}/card/{cardId}",
+    "imageUrlTemplate": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/{locale}/{cardId}.png",
+    "locales": ["en", "fr", "es", "pt", "zh"],
+    "snapshot": "meta/pocket-source-reviews/B4/raenonx.snapshot.json",
+    "limitation": "No formal repository licence was found; use is limited to the user's authorized, attributed direct mirror. It does not provide the project's de/it B4 localization."
+  },
   "cardImageOcr": {
     "role": "illustrator, flavor, and targeted conflict evidence",
     "engine": "PaddleOCR Text Recognition API"

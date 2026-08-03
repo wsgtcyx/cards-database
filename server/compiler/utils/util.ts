@@ -3,6 +3,8 @@ import Queue from '@dzeio/queue'
 import { glob } from 'glob'
 import { exec, spawn } from 'node:child_process'
 import { writeFileSync } from 'node:fs'
+import { readdir, stat } from 'node:fs/promises'
+import path from 'node:path'
 import { Card, Languages, Set, SupportedLanguages } from '../../../interfaces'
 import * as legals from '../../../meta/legals'
 interface fileCacheInterface {
@@ -41,9 +43,70 @@ export async function fetchRemoteFile<T = any>(url: string): Promise<T> {
 
 const globCache: Record<string, Array<string>> = {}
 
+function wildcardRegex(segment: string): RegExp {
+	let source = '^'
+	for (const character of segment) {
+		if (character === '*') source += '.*'
+		else if (character === '?') source += '.'
+		else source += character.replace(/[\\^$+{}()[\].|]/gu, '\\$&')
+	}
+	return new RegExp(`${source}$`, 'u')
+}
+
+async function filesystemGlob(query: string): Promise<Array<string>> {
+	const absoluteQuery = path.join(process.cwd(), query)
+	const segments = absoluteQuery.split(path.sep)
+	const wildcardIndex = segments.findIndex(segment => /[*?]/u.test(segment))
+	if (wildcardIndex < 0) {
+		try {
+			if ((await stat(absoluteQuery)).isFile()) return [path.relative(process.cwd(), absoluteQuery)]
+		} catch {}
+		return []
+	}
+	const prefix = segments.slice(0, wildcardIndex).join(path.sep) || path.parse(absoluteQuery).root
+	const patterns = segments.slice(wildcardIndex)
+	const matches: Array<string> = []
+	const walk = async (directory: string, index: number): Promise<void> => {
+		if (index >= patterns.length) {
+			matches.push(directory)
+			return
+		}
+		const pattern = patterns[index]
+		try {
+			if (/[*?]/u.test(pattern)) {
+				const entries = await readdir(directory, { withFileTypes: true })
+				const matcher = wildcardRegex(pattern)
+				for (const entry of entries) {
+					if (!matcher.test(entry.name)) continue
+					const next = path.join(directory, entry.name)
+					if (index === patterns.length - 1) {
+						if (entry.isFile()) matches.push(next)
+					} else if (entry.isDirectory()) {
+						await walk(next, index + 1)
+					}
+				}
+				return
+			}
+			const next = path.join(directory, pattern)
+			if (index === patterns.length - 1) {
+				if ((await stat(next)).isFile()) matches.push(next)
+			} else if ((await stat(next)).isDirectory()) {
+				await walk(next, index + 1)
+			}
+		} catch {}
+	}
+	await walk(prefix, 0)
+	return matches.sort().map(file => path.relative(process.cwd(), file))
+}
+
 export async function smartGlob(query: string): Promise<Array<string>> {
 	if (!globCache[query]) {
-		globCache[query] = await glob(query)
+		try {
+			globCache[query] = await glob(query)
+		} catch {
+			globCache[query] = []
+		}
+		if (globCache[query].length === 0) globCache[query] = await filesystemGlob(query)
 	}
 	return globCache[query]
 }

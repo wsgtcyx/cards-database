@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/219"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/219",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/219",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/219",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/219",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/219"
     },
     name: {
         en: "Galarian Perrserker",
@@ -13,7 +17,7 @@ const card: Card = {
         it: "Perrserker di Galar",
         de: "Galar-Mauzinger",
         "pt-br": "Perrserker de Galar",
-        "zh-tw": "伽勒爾的伽勒爾 喵頭目",
+        "zh-tw": "伽勒爾喵頭目",
         ko: "가라르 가라르 나이킹",
         ja: "ガラル ガラル ニャイキング"
     },
@@ -47,21 +51,21 @@ const card: Card = {
             type: "Ability",
             name: {
                 en: "Dig Up",
-                fr: "Déterrer",
-                es: "Desenterrar",
+                fr: "Désenfouir",
+                es: "Hozar",
                 it: "Scavare",
                 de: "Ausgraben",
-                "pt-br": "Desenterrar",
-                "zh-tw": "挖掘"
+                "pt-br": "Desencavar",
+                "zh-tw": "抓取"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand.",
-                fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon depuis votre main pour faire évoluer 1 de vos Pokémon, vous pouvez mettre 2 cartes Outil Pokémon aléatoires de votre pile de défausse dans votre main.",
-                es: "Una vez durante tu turno, cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon, puedes poner en tu mano 2 cartas de Herramientas Pokémon aleatorias de tu pila de descartes.",
+                fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez placer au hasard 2 cartes Outil Pokémon de votre pile de défausse dans votre main.",
+                es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes poner 2 cartas de Herramienta Pokémon aleatorias de tu pila de descartes en tu mano.",
                 it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere 1 dei tuoi Pokémon, puoi mettere nella tua mano due carte Oggetto Pokémon casuali dalla tua pila degli scarti.",
                 de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 2 zufällige Pokémon-Ausrüstungskarten von deinem Ablagestapel auf deine Hand nehmen.",
-                "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá colocar 2 cartas aleatórias de Ferramenta Pokémon da sua pilha de descarte em sua mão.",
-                "zh-tw": "在你的回合中，當你從手牌中使用這只寶可夢來進化你的1只寶可夢時，你可以從你的棄牌堆中隨機將2張寶可夢工具卡放入你的手牌。"
+                "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá colocar 2 cartas de Ferramenta Pokémon aleatórias da sua pilha de descarte na sua mão.",
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。從自己的棄牌區隨機將2張「寶可夢道具」卡加入手牌。"
             }
         }
     ],

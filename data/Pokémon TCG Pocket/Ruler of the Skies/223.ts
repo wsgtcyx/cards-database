@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/223"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/223",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/223",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/223",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/223",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/223"
     },
     name: {
         en: "Buneary",
@@ -47,12 +51,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",
-                fr: "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque tête.",
-                es: "Lanza 2 monedas. Este ataque hace 20 daños por cada cabeza.",
+                fr: "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+                es: "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara.",
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 Schaden pro Kopf.",
-                "pt-br": "Jogue 2 moedas. Este ataque causa 20 de dano para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。這次攻擊對每個頭造成 20 點傷害。"
+                "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara.",
+                "zh-tw": "擲2次硬幣,造成正面出現的次數×20點傷害。"
             },
             damage: "20x"
         }

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/047"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/047",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/047",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/047",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/047",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/047"
     },
     name: {
         en: "Araquanid",
@@ -43,21 +47,21 @@ const card: Card = {
             cost: ["Water", "Colorless"],
             name: {
                 en: "Corner",
-                fr: "Coin",
-                es: "Esquina",
+                fr: "Coinçage",
+                es: "Arrinconar",
                 it: "Angolo",
                 de: "Ecke",
-                "pt-br": "Canto",
+                "pt-br": "Quina",
                 "zh-tw": "窮追不捨"
             },
             effect: {
                 en: "During your opponent's next turn, the Defending Pokémon can't retreat.",
-                fr: "Lors du prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+                fr: "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
                 es: "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
                 it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
                 de: "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen.",
                 "pt-br": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
-                "zh-tw": "在對手的下一個回合中，守方寶可夢不能撤退。"
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢無法撤退。"
             },
             damage: 60
         }

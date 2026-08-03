@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/107"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/107",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/107",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/107",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/107",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/107"
     },
     name: {
         en: "Metang",
@@ -52,16 +56,17 @@ const card: Card = {
                 es: "Puño Bala",
                 it: "Pugnoscarica",
                 de: "Patronenhieb",
-                "zh-tw": "子彈拳"
+                "zh-tw": "子彈拳",
+                "pt-br": "Soco Projétil"
             },
             effect: {
                 en: "Flip 2 coins. This attack does 20 more damage for each heads.",
-                fr: "Lancez 2 pièces. Cette attaque inflige 20 dégâts supplémentaires pour chaque tête.",
-                es: "Lanza 2 monedas. Este ataque hace 20 daños más por cada cabeza.",
+                fr: "Lancez 2 pièces. Cette attaque inflige 20 dégâts supplémentaires pour chaque côté face.",
+                es: "Lanza 2 monedas. Este ataque hace 20 puntos de daño más por cada cara.",
                 it: "Lancia 2 monete. Questo attacco infligge 20 danni in più per ogni testa.",
                 de: "Wirf 2 Münzen. Dieser Angriff verursacht 20 weitere Schadenspunkte pro Kopf.",
-                "pt-br": "Jogue 2 moedas. Este ataque causa mais 20 danos para cada cabeça.",
-                "zh-tw": "翻轉 2 個硬幣。此攻擊對每個頭造成 20 點額外傷害。"
+                "pt-br": "Jogue 2 moedas. Este ataque causa 20 pontos de dano a mais para cada cara.",
+                "zh-tw": "擲2次硬幣,增加正面出現的次數×20點傷害。"
             },
             damage: "30+"
         }

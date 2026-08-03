@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/065"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/065",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/065",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/065",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/065",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/065"
     },
     name: {
         en: "Clefable",
@@ -43,11 +47,11 @@ const card: Card = {
             cost: ["Colorless", "Colorless", "Colorless"],
             name: {
                 en: "Hyper Voice",
-                fr: "Hyper voix",
-                es: "Hipervoz",
+                fr: "Mégaphone",
+                es: "Vozarrón",
                 it: "Ipervoce",
                 de: "Hyperstimme",
-                "pt-br": "Hiper Voz",
+                "pt-br": "Hipervoz",
                 "zh-tw": "巨聲"
             },
             damage: 70

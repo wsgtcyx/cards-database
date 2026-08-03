@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/110"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/110",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/110",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/110",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/110",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/110"
     },
     name: {
         en: "Escavalier",
@@ -46,7 +50,11 @@ const card: Card = {
         {
             cost: ["Metal", "Metal"],
             name: {
-                en: "Iron Lance"
+                en: "Iron Lance",
+                fr: "Lance de Fer",
+                es: "Lanza de Hierro",
+                "pt-br": "Lança de Ferro",
+                "zh-tw": "鐵槍"
             },
             damage: 70
         }

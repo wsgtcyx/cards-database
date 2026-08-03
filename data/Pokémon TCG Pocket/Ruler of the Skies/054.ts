@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/054"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/054",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/054",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/054",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/054",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/054"
     },
     name: {
         en: "Pachirisu",
@@ -35,10 +39,18 @@ const card: Card = {
         {
             cost: ["Lightning"],
             name: {
-                en: "Crackling Snap"
+                en: "Crackling Snap",
+                fr: "Crépitement Démolissant",
+                es: "Chasquido Chispeante",
+                "pt-br": "Estalo Estalante",
+                "zh-tw": "啪滋打亂"
             },
             effect: {
-                en: "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+                en: "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.",
+                fr: "Défaussez la carte du dessus de votre deck. Si c'est une carte Objet, cette attaque inflige 20 dégâts supplémentaires.",
+                es: "Descarta la primera carta de tu baraja. Si es una carta de Objeto, este ataque hace 20 puntos de daño más.",
+                "pt-br": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 20 pontos de dano a mais.",
+                "zh-tw": "將自己的牌庫上方1張卡丟棄,若那張卡為物品卡,則增加20點傷害。"
             },
             damage: "30+"
         }

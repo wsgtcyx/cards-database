@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/010"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/010",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/010",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/010",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/010",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/010"
     },
     name: {
         en: "Combee",
@@ -41,12 +45,12 @@ const card: Card = {
             },
             effect: {
                 en: "This Pokémon also does 10 damage to itself.",
-                fr: "Ce Pokémon s'inflige également 10 dégâts.",
-                es: "Este Pokémon también se hace 10 daños a sí mismo.",
+                fr: "Ce Pokémon s'inflige aussi 10 dégâts.",
+                es: "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
                 it: "Questo Pokémon infligge anche 10 danni a se stesso.",
                 de: "Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.",
-                "pt-br": "Este Pokémon também causa 10 de dano a si mesmo.",
-                "zh-tw": "該寶可夢也會對其自身造成 10 點傷害。"
+                "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+                "zh-tw": "這隻寶可夢也受到10點傷害。"
             },
             damage: 30
         }

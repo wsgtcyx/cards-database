@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/059"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/059",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/059",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/059",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/059",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/059"
     },
     name: {
         en: "Thundurus",
@@ -35,16 +39,20 @@ const card: Card = {
         {
             cost: ["Lightning", "Colorless", "Colorless"],
             name: {
-                en: "Disaster Volt"
+                en: "Disaster Volt",
+                fr: "Éclair Désastre",
+                es: "Voltio Catastrófico",
+                "pt-br": "Voltagem do Desastre",
+                "zh-tw": "災難伏特"
             },
             effect: {
-                en: "Discard a Lightning Energy from this Pokémon.",
-                fr: "Défaussez une Énergie Foudre de ce Pokémon.",
-                es: "Descarta una Energía Rayo de este Pokémon.",
+                en: "Discard a {L} Energy from this Pokémon.",
+                fr: "Défaussez une Énergie {L} de ce Pokémon.",
+                es: "Descarta 1 Energía {L} de este Pokémon.",
                 it: "Scarta un'Energia Lightning da questo Pokémon.",
                 de: "Lege eine Lightning-Energie von diesem Pokémon ab.",
-                "pt-br": "Descarte uma Energia Relâmpago deste Pokémon.",
-                "zh-tw": "丟棄這隻寶可夢的閃電能量。"
+                "pt-br": "Descarte 1 Energia {L} deste Pokémon.",
+                "zh-tw": "將這隻寶可夢身上的1個{L}能量丟棄。"
             },
             damage: 100
         }

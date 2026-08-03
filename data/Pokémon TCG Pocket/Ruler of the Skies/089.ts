@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/089"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/089",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/089",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/089",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/089",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/089"
     },
     name: {
         en: "Conkeldurr",
@@ -42,16 +46,20 @@ const card: Card = {
         {
             cost: ["Fighting", "Fighting", "Colorless"],
             name: {
-                en: "Bedrock Breaker"
+                en: "Bedrock Breaker",
+                fr: "Brise Fondation",
+                es: "Rompecimientos",
+                "pt-br": "Quebrador de Alicerce",
+                "zh-tw": "岩盤崩裂"
             },
             effect: {
                 en: "Discard a Stadium in play.",
-                fr: "Défaussez un stade en jeu.",
-                es: "Descartar un Estadio en juego.",
+                fr: "Défaussez un Stade en jeu.",
+                es: "Descarta un Estadio en juego.",
                 it: "Scarta uno Stadio in gioco.",
                 de: "Wirf ein im Spiel befindliches Stadion ab.",
                 "pt-br": "Descarte um Estádio em jogo.",
-                "zh-tw": "丟棄正在進行中的體育場。"
+                "zh-tw": "將場上的競技場卡丟棄。"
             },
             damage: 100
         }

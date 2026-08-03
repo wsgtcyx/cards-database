@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/076"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/076",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/076",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/076",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/076",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/076"
     },
     name: {
         en: "Swoobat",
@@ -47,16 +51,20 @@ const card: Card = {
         {
             cost: ["Psychic"],
             name: {
-                en: "Mind Bend"
+                en: "Mind Bend",
+                fr: "Contrôleur d'Esprit",
+                es: "Fusión Mental",
+                "pt-br": "Dobra Mentes",
+                "zh-tw": "精神歪曲"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
-                fr: "Le Pokémon Actif de votre adversaire est désormais Confus.",
-                es: "El Pokémon Activo de tu rival ahora está Confundido.",
+                fr: "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+                es: "El Pokémon Activo de tu rival pasa a estar Confundido.",
                 it: "Il Pokémon attivo del tuo avversario è ora confuso.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verwirrt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Confuso.",
-                "zh-tw": "你對手的戰鬥寶可夢現在處於混亂狀態。"
+                "zh-tw": "將對手的戰鬥寶可夢混亂。"
             },
             damage: 40
         }

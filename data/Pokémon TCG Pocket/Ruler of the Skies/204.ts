@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/204"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/204",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/204",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/204",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/204",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/204"
     },
     name: {
         en: "Alolan Vulpix",
@@ -13,7 +17,7 @@ const card: Card = {
         it: "Vulpix di Alola",
         de: "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
-        "zh-tw": "阿羅拉的六尾",
+        "zh-tw": "阿羅拉六尾",
         ko: "알로라 식스테일",
         ja: "アローラ ロコン"
     },

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/100"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/100",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/100",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/100",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/100",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/100"
     },
     name: {
         en: "Absol",
@@ -37,7 +41,11 @@ const card: Card = {
         {
             cost: ["Darkness"],
             name: {
-                en: "Enhanced Blade"
+                en: "Enhanced Blade",
+                fr: "Lame Améliorée",
+                es: "Tajo Mejorado",
+                "pt-br": "Espada Melhorada",
+                "zh-tw": "強化斬"
             },
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
@@ -46,7 +54,7 @@ const card: Card = {
                 it: "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 30 danni in più.",
                 de: "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 30 pontos de dano a mais.",
-                "zh-tw": "如果該寶可夢附加了寶可夢工具，則此攻擊造成的傷害增加 30 點。"
+                "zh-tw": "若這隻寶可夢身上附有「寶可夢道具」,則增加30點傷害。"
             },
             damage: "20+"
         }

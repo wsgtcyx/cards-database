@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/196"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/196",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/196",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/196",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/196",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/196"
     },
     name: {
         en: "Mega Sharpedo ex",
@@ -39,16 +43,20 @@ const card: Card = {
         {
             cost: ["Water"],
             name: {
-                en: "Turbo Shark"
+                en: "Turbo Shark",
+                fr: "Turbo Requin",
+                es: "Turboescualo",
+                "pt-br": "Turbarão",
+                "zh-tw": "增能鯊擊"
             },
             effect: {
                 en: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched {W} Pokémon.",
-                fr: "Prenez une Énergie {W} de votre Zone d'Énergie et attachez-la à l'un de vos Pokémon {W} de Banc.",
-                es: "Toma una Energía {W} de tu Zona de Energía y únela a 1 de tus Pokémon {W} en Banca.",
+                fr: "Prenez une Énergie {W} de votre zone Énergie et attachez-la à l'un de vos Pokémon {W} de Banc.",
+                es: "Une 1 Energía {W} de tu área de Energía a 1 de tus Pokémon {W} en Banca.",
                 it: "Prendi un'Energia {W} dalla tua Zona Energetica e assegnala a 1 dei tuoi Pokémon {W} in panchina.",
                 de: "Nimm eine {W}-Energie aus deiner Energiezone und lege sie an eines deiner {W}-Pokémon auf deiner Bank an.",
-                "pt-br": "Pegue uma Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {W} no Banco.",
-                "zh-tw": "從你的能量區取出一個 {W} 能量並將其附加到你後備的 1 只 {W} 寶可夢上。"
+                "pt-br": "Pegue 1 Energia {W} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon {W} no Banco.",
+                "zh-tw": "從自己的能量區抽出1個{W}能量,附於備戰區的{W}寶可夢身上。"
             },
             damage: 70
         }

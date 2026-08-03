@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/068"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/068",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/068",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/068",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/068",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/068"
     },
     name: {
         en: "Mime Jr.",
@@ -35,16 +39,20 @@ const card: Card = {
     attacks: [
         {
             name: {
-                en: "Mime-y Shuffle"
+                en: "Mime-y Shuffle",
+                fr: "Danse qui Copie",
+                es: "Mimomezcla",
+                "pt-br": "Embaralhada Imitante",
+                "zh-tw": "擬擬重抽"
             },
             effect: {
                 en: "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
-                fr: "Mélangez votre main dans votre deck. Piochez une carte pour chaque carte de la main de votre adversaire.",
-                es: "Mezcla tu mano en tu mazo. Roba una carta por cada carta en la mano de tu oponente.",
+                fr: "Mélangez votre main avec votre deck. Piochez une carte pour chaque carte dans la main de votre adversaire.",
+                es: "Pon las cartas de tu mano en tu baraja y barájalas todas. Roba 1 carta por cada carta en la mano de tu rival.",
                 it: "Mescola la tua mano nel tuo mazzo. Pesca una carta per ogni carta nella mano del tuo avversario.",
                 de: "Mische deine Hand in dein Deck. Ziehe für jede Karte in der Hand deines Gegners eine Karte.",
-                "pt-br": "Embaralhe sua mão em seu deck. Compre uma carta para cada carta na mão do seu oponente.",
-                "zh-tw": "將你的手牌洗入牌庫。對手手上每有一張牌，就抽一張牌。"
+                "pt-br": "Embaralhe a sua mão no seu baralho. Compre uma carta para cada carta na mão do seu oponente.",
+                "zh-tw": "將自己的手牌全部放回牌庫。從自己的牌庫抽出與對手的手牌張數相同數量的卡。"
             }
         }
     ],

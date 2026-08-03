@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/104"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/104",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/104",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/104",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/104",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/104"
     },
     name: {
         en: "Skarmory",
@@ -32,11 +36,11 @@ const card: Card = {
             cost: ["Colorless", "Colorless"],
             name: {
                 en: "Drill Peck",
-                fr: "Forage à pic",
-                es: "Picoteo de taladro",
+                fr: "Bec Vrille",
+                es: "Pico Taladro",
                 it: "Perforare Peck",
                 de: "Drill Peck",
-                "pt-br": "Broca Peck",
+                "pt-br": "Bico Broca",
                 "zh-tw": "啄鑽"
             },
             damage: 40

@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/114"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/114",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/114",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/114",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/114",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/114"
     },
     name: {
         en: "Varoom",
@@ -38,11 +42,11 @@ const card: Card = {
             cost: ["Metal", "Colorless"],
             name: {
                 en: "Headbutt Bounce",
-                fr: "Rebond de coup de tête",
-                es: "Rebote de cabezazo",
+                fr: "Culbute Surprise",
+                es: "Bote Cabezazo",
                 it: "Rimbalzo della testata",
                 de: "Kopfstoß-Abprall",
-                "pt-br": "Salto de cabeçada",
+                "pt-br": "Cabeçada Ricochete",
                 "zh-tw": "魯莽頭擊"
             },
             damage: 30

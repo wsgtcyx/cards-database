@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/124"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/124",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/124",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/124",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/124",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/124"
     },
     name: {
         en: "Drampa",
@@ -46,12 +50,12 @@ const card: Card = {
             },
             effect: {
                 en: "Discard a random Energy from this Pokémon.",
-                fr: "Défaussez une Énergie aléatoire de ce Pokémon.",
-                es: "Descarta una Energía aleatoria de este Pokémon.",
+                fr: "Défaussez une Énergie au hasard de ce Pokémon.",
+                es: "Descarta Energía aleatoria de este Pokémon.",
                 it: "Scarta un'Energia casuale da questo Pokémon.",
                 de: "Lege eine zufällige Energie von diesem Pokémon ab.",
-                "pt-br": "Descarte uma Energia aleatória deste Pokémon.",
-                "zh-tw": "丟棄該寶可夢的隨機能量。"
+                "pt-br": "Descarte Energia aleatória deste Pokémon.",
+                "zh-tw": "將這隻寶可夢身上的隨機個能量丟棄。"
             },
             damage: 70
         }

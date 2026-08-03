@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/091"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/091",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/091",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/091",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/091",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/091"
     },
     name: {
         en: "Grimer",
@@ -13,7 +17,7 @@ const card: Card = {
         it: "Grimer",
         de: "Sleima",
         "pt-br": "Grimer",
-        "zh-tw": "阿羅拉 臭泥",
+        "zh-tw": "臭泥",
         ko: "알로라 질퍽이",
         ja: "アローラ ベトベター"
     },

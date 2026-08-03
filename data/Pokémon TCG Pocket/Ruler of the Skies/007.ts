@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/007"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/007",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/007",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/007",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/007",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/007"
     },
     name: {
         en: "Cradily",
@@ -47,10 +51,18 @@ const card: Card = {
         {
             cost: ["Grass", "Grass"],
             name: {
-                en: "Stick and Absorb"
+                en: "Stick and Absorb",
+                fr: "Colle et Absorbe",
+                es: "Adherirse y Absorber",
+                "pt-br": "Grudar e Absorver",
+                "zh-tw": "纏繞吸取"
             },
             effect: {
-                en: "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat."
+                en: "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat.",
+                fr: "Soignez 30 dégâts de ce Pokémon. Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+                es: "Cura 30 puntos de daño a este Pokémon. Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse.",
+                "pt-br": "Cure 30 pontos de dano deste Pokémon. Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+                "zh-tw": "將這隻寶可夢恢復30HP。在下個對手的回合,受到這個招式的寶可夢無法撤退。"
             },
             damage: 70
         }

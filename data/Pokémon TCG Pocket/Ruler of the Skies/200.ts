@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/200"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/200",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/200",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/200",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/200",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/200"
     },
     name: {
         en: "Mega Metagross ex",
@@ -39,10 +43,18 @@ const card: Card = {
         {
             cost: ["Colorless", "Colorless", "Colorless"],
             name: {
-                en: "Gatling Slug"
+                en: "Gatling Slug",
+                fr: "Frappe Répétée",
+                es: "Ráfaga de Puñetazos",
+                "pt-br": "Chumbo Grosso",
+                "zh-tw": "機槍猛擊"
             },
             effect: {
-                en: "This attack does 10 more damage for each {M} Energy attached to this Pokémon."
+                en: "This attack does 10 more damage for each {M} Energy attached to this Pokémon.",
+                fr: "Cette attaque inflige 10 dégâts supplémentaires pour chaque Énergie {M} attachée à ce Pokémon.",
+                es: "Este ataque hace 10 puntos de daño más por cada Energía {M} unida a este Pokémon.",
+                "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
+                "zh-tw": "增加這隻寶可夢身上的{M}能量的數量×10點傷害。"
             },
             damage: "100+"
         }

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "source": "PaddleOCR Text Recognition API",
+  "overlay": "meta/pocket-source-reviews/B4/raenonx.overlay.json",
+  "locales": [
+    "en",
+    "fr",
+    "es",
+    "pt",
+    "zh"
+  ],
+  "cards": {
+    "B4-001": {
+      "en": {
+        "status": "pass",
+        "evidence": "meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-001-en.json",
+        "image": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/en/PK_10_019620_00.png",
+        "sha256": "f9220530f0de7aba14f25f50eabcf4e321820fab9709bba04382cd36c4d58f87",
+        "ok": true,
+        "textLength": 52,
+        "numberSignal": false,
+        "numberMatch": true,
+        "numberCandidates": [],
+        "nameSignal": true,
+        "nameScore": 1,
+        "labels": [
+          {
+            "value": "Wurmple",
+            "score": 1,
+            "matched": true
+          },
+          {
+            "value": "Gnaw",
+            "score": 0.33333333333333337,
+            "matched": false
+          }
+        ],
+        "effectCoverage": 1
+      }
+    },
+    "B4-005": {
+      "fr": {
+        "status": "pass",
+        "evidence": "meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-005-fr.json",
+        "image": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/fr/PK_10_019660_00.png",
+        "sha256": "2b99bc56a5e89bbeb756bd639520e81611732936b6832d1a311ab59117e4dba3",
+        "ok": true,
+        "textLength": 563,
+        "numberSignal": false,
+        "numberMatch": true,
+        "numberCandidates": [],
+        "nameSignal": true,
+        "nameScore": 1,
+        "labels": [
+          {
+            "value": "Papinox",
+            "score": 1,
+            "matched": true
+          },
+          {
+            "value": "Vent Glacial",
+            "score": 1,
+            "matched": true
+          },
+          {
+            "value": "Poudres Variées",
+            "score": 1,
+            "matched": true
+          }
+        ],
+        "effectCoverage": 1
+      }
+    },
+    "B4-145": {
+      "zh": {
+        "status": "pass",
+        "evidence": "meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-145-zh.json",
+        "image": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/zh/TR_10_001490_00.png",
+        "sha256": "21bd19766a440dd3757dc0c1af5f526cbf33f65da98a31e8113481d38dc3a484",
+        "ok": true,
+        "textLength": 89,
+        "numberSignal": false,
+        "numberMatch": true,
+        "numberCandidates": [],
+        "nameSignal": true,
+        "nameScore": 1,
+        "labels": [
+          {
+            "value": "訂購平板",
+            "score": 1,
+            "matched": true
+          }
+        ],
+        "effectCoverage": 1
+      }
+    },
+    "B4-150": {
+      "zh": {
+        "status": "pass",
+        "evidence": "meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-150-zh.json",
+        "image": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/zh/TR_10_001540_00.png",
+        "sha256": "675dfefa30f26bbdbf302d3176b79538d5c9d5f2da042160a28df8f29a046af0",
+        "ok": true,
+        "textLength": 182,
+        "numberSignal": false,
+        "numberMatch": true,
+        "numberCandidates": [],
+        "nameSignal": true,
+        "nameScore": 1,
+        "labels": [
+          {
+            "value": "超能力者",
+            "score": 1,
+            "matched": true
+          }
+        ],
+        "effectCoverage": 1
+      }
+    },
+    "B4-224": {
+      "pt": {
+        "status": "pass",
+        "evidence": "meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-224-pt.json",
+        "image": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/pt/PK_20_013890_02.png",
+        "sha256": "ef99158d6fa9fd1c0eb98cad222590a4b56461a46f042b80015d7a9c863a1e5e",
+        "ok": true,
+        "textLength": 273,
+        "numberSignal": false,
+        "numberMatch": true,
+        "numberCandidates": [],
+        "nameSignal": true,
+        "nameScore": 1,
+        "labels": [
+          {
+            "value": "Blacephalon ex",
+            "score": 1,
+            "matched": true
+          },
+          {
+            "value": "Chamuscada",
+            "score": 1,
+            "matched": true
+          },
+          {
+            "value": "Pop-Punk",
+            "score": 0.4285714285714286,
+            "matched": false
+          }
+        ],
+        "effectCoverage": 1
+      }
+    },
+    "B4-233": {
+      "en": {
+        "status": "pass",
+        "evidence": "meta/pocket-source-reviews/B4/ocr/raenonx-b4-ocr-pilot-233-en.json",
+        "image": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/en/PK_20_020780_01.png",
+        "sha256": "412c7a8b3231a1581d180ca29fc4f920248cd4c3cea7971d8271d00a141c28f5",
+        "ok": true,
+        "textLength": 298,
+        "numberSignal": false,
+        "numberMatch": true,
+        "numberCandidates": [],
+        "nameSignal": true,
+        "nameScore": 1,
+        "labels": [
+          {
+            "value": "Dragonair",
+            "score": 1,
+            "matched": true
+          },
+          {
+            "value": "Draconic Whip",
+            "score": 1,
+            "matched": true
+          },
+          {
+            "value": "Dragon's Blessing",
+            "score": 1,
+            "matched": true
+          }
+        ],
+        "effectCoverage": 1
+      }
+    }
+  },
+  "summary": {
+    "pass": 6,
+    "review": 0,
+    "fail": 0
+  },
+  "status": "sampled"
+}

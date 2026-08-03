@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/207"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/207",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/207",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/207",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/207",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/207"
     },
     name: {
         en: "Swampert",
@@ -43,21 +47,21 @@ const card: Card = {
             cost: ["Water", "Water", "Water"],
             name: {
                 en: "Large Whirlpool",
-                fr: "Grand bain à remous",
-                es: "Bañera de hidromasaje grande",
+                fr: "Grand Tourbillon",
+                es: "Gran Remolino",
                 it: "Grande idromassaggio",
                 de: "Großer Whirlpool",
-                "pt-br": "Hidromassagem Grande",
+                "pt-br": "Redemoinho Enorme",
                 "zh-tw": "大潮旋"
             },
             effect: {
                 en: "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
-                fr: "Défaussez une Énergie aléatoire parmi les Énergies attachées à tous les Pokémon (le vôtre et celui de votre adversaire).",
-                es: "Descarta una Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto los tuyos como los de tu rival).",
+                fr: "Défaussez une Énergie au hasard parmi celles attachées à tous les Pokémon en jeu (les vôtres et ceux de votre adversaire).",
+                es: "Descarta Energía aleatoria de entre las Energías unidas a todos los Pokémon (tanto tuyos como de tu rival).",
                 it: "Scarta un'Energia casuale tra quelle assegnate a tutti i Pokémon (sia i tuoi che quelli del tuo avversario).",
                 de: "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
-                "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                "zh-tw": "從所有寶可夢（你的和對手的）所附帶的能量中隨機丟棄一個能量。"
+                "pt-br": "Descarte Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
+                "zh-tw": "從雙方的所有寶可夢身上附加的能量中隨機丟棄個能量。"
             },
             damage: 100
         }

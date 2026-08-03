@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/211"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/211",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/211",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/211",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/211",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/211"
     },
     name: {
         en: "Mr. Mime",
@@ -36,10 +40,18 @@ const card: Card = {
         {
             cost: ["Psychic", "Colorless"],
             name: {
-                en: "Synchro Dance"
+                en: "Synchro Dance",
+                fr: "Danse Synchronisée",
+                es: "Danza Sincronizada",
+                "pt-br": "Dança Sincronizada",
+                "zh-tw": "同步舞"
             },
             effect: {
-                en: "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
+                en: "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage.",
+                fr: "Si ce Pokémon et le Pokémon Actif de votre adversaire ont le même nombre d'Énergies attachées, cette attaque inflige 40 dégâts supplémentaires.",
+                es: "Si este Pokémon y el Pokémon Activo de tu rival tienen la misma cantidad de Energías unidas a ellos, este ataque hace 40 puntos de daño más.",
+                "pt-br": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem a mesma quantidade de Energia ligadas a eles, este ataque causará 40 pontos de dano a mais.",
+                "zh-tw": "若這隻寶可夢與對手的戰鬥寶可夢身上的能量數量相同,則增加40點傷害。"
             },
             damage: "40+"
         }

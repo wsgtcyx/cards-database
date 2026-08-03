@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/038"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/038",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/038",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/038",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/038",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/038"
     },
     name: {
         en: "Spheal",

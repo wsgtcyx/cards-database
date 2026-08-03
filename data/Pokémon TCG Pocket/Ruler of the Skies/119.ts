@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/119"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/119",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/119",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/119",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/119",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/119"
     },
     name: {
         en: "Rayquaza",
@@ -35,7 +39,11 @@ const card: Card = {
         {
             cost: ["Fire", "Lightning", "Colorless", "Colorless"],
             name: {
-                en: "Dragon Impact"
+                en: "Dragon Impact",
+                fr: "Impact du Dragon",
+                es: "Impacto Dragón",
+                "pt-br": "Impacto do Dragão",
+                "zh-tw": "狂龍衝擊"
             },
             effect: {
                 en: "Discard 2 random Energy from this Pokémon.",
@@ -44,7 +52,7 @@ const card: Card = {
                 it: "Rimuovi 2 Energie a caso da questo Pokémon.",
                 de: "Lege 2 zufällige Energien von diesem Pokémon ab.",
                 "pt-br": "Descarte 2 Energias aleatórias deste Pokémon.",
-                "zh-tw": "丟棄該寶可夢的 2 個隨機能量。"
+                "zh-tw": "將這隻寶可夢身上的隨機2個能量丟棄。"
             },
             damage: 140
         }

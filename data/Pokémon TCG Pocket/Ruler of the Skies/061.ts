@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/061"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/061",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/061",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/061",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/061",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/061"
     },
     name: {
         en: "Heliolisk",
@@ -48,16 +52,20 @@ const card: Card = {
         {
             cost: ["Lightning"],
             name: {
-                en: "Electrispark"
+                en: "Electrispark",
+                fr: "Arc Électrique",
+                es: "Chispa Eléctrica",
+                "pt-br": "Centelha Elétrica",
+                "zh-tw": "電電光"
             },
             effect: {
                 en: "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
-                fr: "Cette attaque inflige également 10 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+                fr: "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
                 es: "Este ataque también hace 10 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
                 it: "Questo attacco infligge anche 10 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 de: "Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.",
-                "pt-br": "Este ataque também causa 10 pontos de dano a cada um dos Pokémon no Banco do seu oponente.",
-                "zh-tw": "這次攻擊還會對對手的後備寶可夢各造成 10 點傷害。"
+                "pt-br": "Este ataque também causa 10 pontos de dano a cada Pokémon no Banco do seu oponente.",
+                "zh-tw": "對手的所有備戰寶可夢也受到10點傷害。"
             },
             damage: 40
         }

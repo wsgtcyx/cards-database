@@ -184,10 +184,12 @@ export async function cardToCardSingle(localId: string, card: Card, lang: Suppor
  * @returns [the local id, the Card object]
  */
 export async function getCard(set: Set, id: string, lang: SupportedLanguages): Promise<Card> {
+	const cardPath = pathLib.join(process.cwd(), DB_PATH, getDataFolder(lang), set.serie.name.en ?? set.serie.name[lang], set.name.en ?? set.name[lang], `${id}.ts`)
 	try {
-		return (await import(`../../${DB_PATH}/${getDataFolder(lang)}/${set.serie.name.en ?? set.serie.name[lang]}/${set.name.en ?? set.name[lang]}/${id}.ts`)).default
+		return (await import(cardPath)).default
 	} catch {
-		return (await import(`../../${DB_PATH}/${getDataFolder(lang)}/${set.serie.id}/${set.id}/${id}.ts`)).default
+		const fallbackPath = pathLib.join(process.cwd(), DB_PATH, getDataFolder(lang), set.serie.id, set.id, `${id}.ts`)
+		return (await import(fallbackPath)).default
 	}
 }
 

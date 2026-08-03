@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/020"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/020",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/020",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/020",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/020",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/020"
     },
     name: {
         en: "Ponyta",
@@ -52,7 +56,7 @@ const card: Card = {
                 it: "Prendi un'Energia {R} dalla tua Zona Energia e assegnala a questo Pokémon.",
                 de: "Lege 1 {R}-Energie aus deinem Energiebereich an dieses Pokémon an.",
                 "pt-br": "Pegue 1 Energia {R} da sua Zona de Energia e ligue-a a este Pokémon.",
-                "zh-tw": "從你的能量區取出一個{R}能量並將其附加到該寶可夢上。"
+                "zh-tw": "從自己的能量區抽出1個{R}能量,附於這隻寶可夢身上。"
             }
         }
     ],

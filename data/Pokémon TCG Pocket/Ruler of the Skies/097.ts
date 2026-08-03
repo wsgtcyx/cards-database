@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/097"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/097",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/097",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/097",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/097",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/097"
     },
     name: {
         en: "Galarian Obstagoon",
@@ -13,7 +17,7 @@ const card: Card = {
         it: "Obstagoon di Galar",
         de: "Galar-Barrikadax",
         "pt-br": "Obstagoon de Galar",
-        "zh-tw": "伽勒爾的伽勒爾 堵攔熊",
+        "zh-tw": "伽勒爾堵攔熊",
         ko: "가라르 가라르 가로막구리",
         ja: "ガラル ガラル タチフサグマ"
     },
@@ -46,10 +50,18 @@ const card: Card = {
         {
             cost: ["Darkness", "Colorless", "Colorless"],
             name: {
-                en: "Bass Control"
+                en: "Bass Control",
+                fr: "Super Basse",
+                es: "Control de Bajos",
+                "pt-br": "Controle de Baixo",
+                "zh-tw": "重低音"
             },
             effect: {
-                en: "This attack does 80 damage to 1 of your opponent's Pokémon."
+                en: "This attack does 80 damage to 1 of your opponent's Pokémon.",
+                fr: "Cette attaque inflige 80 dégâts à l'un des Pokémon de votre adversaire.",
+                es: "Este ataque hace 80 puntos de daño a 1 de los Pokémon de tu rival.",
+                "pt-br": "Este ataque causa 80 pontos de dano a 1 dos Pokémon do seu oponente.",
+                "zh-tw": "對手的1隻寶可夢受到80點傷害。"
             }
         }
     ],

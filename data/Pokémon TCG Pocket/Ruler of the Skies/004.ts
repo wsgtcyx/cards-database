@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/004"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/004",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/004",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/004",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/004",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/004"
     },
     name: {
         en: "Cascoon",
@@ -46,10 +50,18 @@ const card: Card = {
         {
             cost: ["Colorless"],
             name: {
-                en: "Cocoon Collector"
+                en: "Cocoon Collector",
+                fr: "Collectionneur de Cocons",
+                es: "Colección de Crisálidas",
+                "pt-br": "Colecionador de Casulos",
+                "zh-tw": "繭聚一堂"
             },
             effect: {
-                en: "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench."
+                en: "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.",
+                fr: "Placez 3 cartes au hasard parmi Armulys et Blindalys de votre deck sur votre Banc.",
+                es: "Pon 3 cartas aleatorias de entre Silcoon y Cascoon de tu baraja en tu Banca.",
+                "pt-br": "Coloque 3 cartas aleatórias dentre Silcoon e Cascoon do seu baralho no seu Banco.",
+                "zh-tw": "從自己的牌庫隨機將3張「甲殼繭」或「盾甲繭」放置於備戰區。"
             }
         }
     ],

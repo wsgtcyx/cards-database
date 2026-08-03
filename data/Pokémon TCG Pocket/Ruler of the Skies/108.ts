@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/108"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/108",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/108",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/108",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/108",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/108"
     },
     name: {
         en: "Metagross",
@@ -47,16 +51,20 @@ const card: Card = {
         {
             cost: ["Metal", "Colorless", "Colorless"],
             name: {
-                en: "Squared Attack"
+                en: "Squared Attack",
+                fr: "Attaque Carrée",
+                es: "Ataque al Cuadrado",
+                "pt-br": "Ataque Alinhado",
+                "zh-tw": "宏偉十字擊"
             },
             effect: {
                 en: "Flip 4 coins. This attack does 50 damage for each heads.",
-                fr: "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque tête.",
-                es: "Lanza 4 monedas. Este ataque hace 50 daños por cada cabeza.",
+                fr: "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+                es: "Lanza 4 monedas. Este ataque hace 50 puntos de daño por cada cara.",
                 it: "Lancia 4 monete. Questo attacco infligge 50 danni per ogni testa.",
                 de: "Wirf 4 Münzen. Dieser Angriff verursacht 50 Schaden pro Kopf.",
-                "pt-br": "Jogue 4 moedas. Este ataque causa 50 de dano para cada cabeça.",
-                "zh-tw": "翻轉 4 個硬幣。這次攻擊對每個頭造成 50 點傷害。"
+                "pt-br": "Jogue 4 moedas. Este ataque causa 50 pontos de dano para cada cara.",
+                "zh-tw": "擲4次硬幣,造成正面出現的次數×50點傷害。"
             },
             damage: "50x"
         }

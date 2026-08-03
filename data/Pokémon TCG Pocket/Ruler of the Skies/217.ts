@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/217"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/217",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/217",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/217",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/217",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/217"
     },
     name: {
         en: "Weezing",

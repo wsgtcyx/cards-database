@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/008"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/008",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/008",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/008",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/008",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/008"
     },
     name: {
         en: "Kricketot",
@@ -36,11 +40,11 @@ const card: Card = {
             cost: ["Colorless"],
             name: {
                 en: "Beat",
-                fr: "Battre",
-                es: "Derrotar",
+                fr: "Bataille",
+                es: "Toque",
                 it: "Colpo",
                 de: "Schlagen",
-                "pt-br": "Bater",
+                "pt-br": "Pulso",
                 "zh-tw": "敲擊"
             },
             damage: 10

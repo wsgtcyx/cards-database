@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/140"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/140",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/140",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/140",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/140",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/140"
     },
     name: {
         en: "Ducklett",
@@ -32,11 +36,11 @@ const card: Card = {
             cost: ["Colorless", "Colorless"],
             name: {
                 en: "Wing Attack",
-                fr: "Attaque d'aile",
-                es: "Ataque de ala",
+                fr: "Cru-Ailes",
+                es: "Ataque Ala",
                 it: "Attacco d'ala",
                 de: "Flügelangriff",
-                "pt-br": "Ataque de asa",
+                "pt-br": "Ataque de Asa",
                 "zh-tw": "翅膀攻擊"
             },
             damage: 30

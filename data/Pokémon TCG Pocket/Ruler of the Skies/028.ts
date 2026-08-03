@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/028"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/028",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/028",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/028",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/028",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/028"
     },
     name: {
         en: "Houndoom",
@@ -43,21 +47,21 @@ const card: Card = {
             cost: ["Fire", "Fire"],
             name: {
                 en: "Crunch",
-                fr: "Croquer",
-                es: "Crujido",
+                fr: "Mâchouille",
+                es: "Triturar",
                 it: "Crunch",
                 de: "Knirschen",
-                "pt-br": "Trituração",
+                "pt-br": "Mastigada",
                 "zh-tw": "咬碎"
             },
             effect: {
                 en: "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
-                fr: "Lancez une pièce de monnaie. Si c'est face, défaussez une Énergie aléatoire du Pokémon Actif de votre adversaire.",
-                es: "Lanza una moneda. Si sale cara, descarta una Energía aleatoria del Pokémon Activo de tu rival.",
+                fr: "Lancez une pièce. Si c'est face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+                es: "Lanza 1 moneda. Si sale cara, descarta Energía aleatoria del Pokémon Activo de tu rival.",
                 it: "Lancia una moneta. Se esce testa, scarta un'Energia casuale dal Pokémon attivo del tuo avversario.",
                 de: "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
-                "pt-br": "Jogue uma moeda. Se sair cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
-                "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍寶可夢中的隨機能量。"
+                "pt-br": "Jogue uma moeda. Se sair cara, descarte Energia aleatória do Pokémon Ativo do seu oponente.",
+                "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢身上的隨機個能量丟棄。"
             },
             damage: 60
         }

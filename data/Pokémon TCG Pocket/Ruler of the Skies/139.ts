@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/139"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/139",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/139",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/139",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/139",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/139"
     },
     name: {
         en: "Unfezant",
@@ -57,12 +61,12 @@ const card: Card = {
             },
             effect: {
                 en: "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-                fr: "Lancez une pièce de monnaie. Si c’est pile, cette attaque ne fait rien. Si c'est face, lors du prochain tour de votre adversaire, prévenez tous les dégâts et effets des attaques infligées à ce Pokémon.",
-                es: "Lanza una moneda. Si sale cruz, este ataque no hace nada. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y los efectos de los ataques realizados a este Pokémon.",
+                fr: "Lancez une pièce. Si c'est pile, cette attaque ne fait rien. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+                es: "Lanza 1 moneda. Si sale cruz, este ataque no hace nada. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon.",
                 it: "Lancia una moneta. Se esce croce, questo attacco non ha alcun effetto. Se esce testa, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 de: "Wirf eine Münze. Bei „Zahl“ bewirkt dieser Angriff nichts. Bei „Kopf“ verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
-                "pt-br": "Jogue uma moeda. Se der coroa, este ataque não faz nada. Se sair cara, durante o próximo turno do seu oponente, evite todos os danos e efeitos de ataques feitos a este Pokémon.",
-                "zh-tw": "拋一枚硬幣。如果是反面，則此攻擊不會執行任何操作。如果正面朝上，則在對手的下一回合中，阻止對該寶可夢造成的所有攻擊傷害及其效果。"
+                "pt-br": "Jogue uma moeda. Se sair coroa, este ataque não fará nada. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon.",
+                "zh-tw": "擲1次硬幣若為反面,則這個招式失敗。若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
             },
             damage: 90
         }

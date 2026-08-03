@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/060"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/060",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/060",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/060",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/060",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/060"
     },
     name: {
         en: "Helioptile",
@@ -46,12 +50,12 @@ const card: Card = {
             },
             effect: {
                 en: "This attack does 10 damage to 1 of your opponent's Pokémon.",
-                fr: "Cette attaque inflige 10 dégâts à 1 des Pokémon de votre adversaire.",
+                fr: "Cette attaque inflige 10 dégâts à l'un des Pokémon de votre adversaire.",
                 es: "Este ataque hace 10 puntos de daño a 1 de los Pokémon de tu rival.",
                 it: "Questo attacco infligge 10 danni a 1 dei Pokémon del tuo avversario.",
                 de: "Dieser Angriff fügt 1 Pokémon deines Gegners 10 Schadenspunkte zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "這次攻擊對對手的 1 只寶可夢造成 10 點傷害。"
+                "zh-tw": "對手的1隻寶可夢受到10點傷害。"
             }
         }
     ],

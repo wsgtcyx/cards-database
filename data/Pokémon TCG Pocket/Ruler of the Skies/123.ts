@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/123"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/123",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/123",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/123",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/123",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/123"
     },
     name: {
         en: "Turtonator",
@@ -37,21 +41,21 @@ const card: Card = {
             cost: ["Fire", "Fighting", "Colorless"],
             name: {
                 en: "Searing Flame",
-                fr: "Flamme brûlante",
-                es: "Llama abrasadora",
+                fr: "Flammes Calcinantes",
+                es: "Llama Abrasadora",
                 it: "Fiamma Ardente",
                 de: "Sengende Flamme",
-                "pt-br": "Chama Abrasadora",
+                "pt-br": "Chama Cauterizante",
                 "zh-tw": "灼燒"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Burned.",
-                fr: "Le Pokémon Actif de votre adversaire est désormais Brûlé.",
-                es: "El Pokémon Activo de tu rival ahora está Quemado.",
+                fr: "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+                es: "El Pokémon Activo de tu rival pasa a estar Quemado.",
                 it: "Il Pokémon attivo del tuo avversario è ora bruciato.",
                 de: "Das aktive Pokémon deines Gegners ist jetzt verbrannt.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "你對手的活躍寶可夢現在被燒毀了。"
+                "zh-tw": "將對手的戰鬥寶可夢灼傷。"
             },
             damage: 70
         }

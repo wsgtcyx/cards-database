@@ -4,7 +4,11 @@ import Set from "../Ruler of the Skies";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/164"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4/164",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/164",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4/164",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/164",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/164"
     },
     name: {
         en: "Raichu",
@@ -48,10 +52,18 @@ const card: Card = {
         {
             type: "Ability",
             name: {
-                en: "Evoshock"
+                en: "Evoshock",
+                fr: "Choc Évolutif",
+                es: "Evoimpacto",
+                "pt-br": "Evochoque",
+                "zh-tw": "進化衝擊"
             },
             effect: {
-                en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+                en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+                fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez lancer une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+                es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
+                "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá jogar uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。"
             }
         }
     ],
