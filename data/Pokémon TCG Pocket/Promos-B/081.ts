@@ -3,6 +3,13 @@ import Set from "../Promos-B";
 
 const card: Card = {
     set: Set,
+    image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/081",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/081",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/081",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/081",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/081"
+    },
     name: {
         en: "Carvanha",
         fr: "Carvanha",

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "cardId": "P-B-081",
+  "gameCardId": "PK_90_021070_00",
+  "fetchedAt": "2026-08-07T06:29:00.000Z",
+  "source": {
+    "name": "RaenonX Pokémon TCG Pocket Wiki",
+    "credit": "https://ptcgp.raenonx.cc",
+    "urlTemplate": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/{locale}/PK_90_021070_00.png",
+    "permission": "User authorized attributed publication for this project; no repository license was found."
+  },
+  "objects": [
+    { "locale": "en", "sourceSha256": "fdba5a5ad05febfeea4b2b61f43447f055e0cbf18c98df1825e51674249cf532", "highSha256": "029ca91ba330cfdb49b9ce3bc5bef88ce96c65c1aefa994243509f32905f4c4d", "lowSha256": "5c9de23375c8c729d39ff495e5e44c393ce361b693b89e3737b0a56fc9cffcdb" },
+    { "locale": "fr", "sourceSha256": "015b89e85ea12311c88e18b117fc665da143b7a6ab29bc78b2aabfc6e8500196", "highSha256": "621b41603dd23414449a40d87fb34608e1633e7358eccbb00e3bbc7662b6bd38", "lowSha256": "3f3ec308290b0e11eda198f0d62123fa53be69baa164f21de5b4db2045833618" },
+    { "locale": "es", "sourceSha256": "706d67ca05e27390307790e07da5594fd04824ef05cca99e0fb7ec404c4c1a49", "highSha256": "f2c678baf10aa5aec4f63e4abb2c022a9ee8d67522e7ed21b0cee343cbf8f995", "lowSha256": "0b86c8503b747ce9aed7b9fabc4339d0a5c16a436f6b01f53ff2f4e7f54cc409" },
+    { "locale": "pt-br", "sourceSha256": "485da2abd2c0450a5207a5cdbf6fc5e85dd488be8a3cf9dd761029be47bb37d7", "highSha256": "4a64d4fcf8703a9ae0b1db5be4fadb6563a1913f3acf5b5e476483fbf8306fb2", "lowSha256": "3ad3259e87bd047ec86d1337ffddec388bde0839cfb8cc794ce084cf9db10ea7" },
+    { "locale": "zh-tw", "sourceSha256": "ba3a4acc8de24d97a4cd78f5ed5e7598809673df9a80077f202f11ad61f4cb77", "highSha256": "4c416c4493f3a04f6f015300be66d6359b0b8b4d8cc92fa37d00857a2368a11f", "lowSha256": "4a92ef5b3ea5dd2fe142a730924abae3a6db890d663e5dd59fdf713b1b745bb3" }
+  ],
+  "fallbacks": [
+    { "locale": "de", "to": "en", "reason": "No source-backed German image was available." },
+    { "locale": "it", "to": "en", "reason": "No source-backed Italian image was available." }
+  ]
+}
