@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2a/058",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/058",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/058",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/058"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/058",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/058"
     },
     name: {
         en: "Bronzor",

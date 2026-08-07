@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/362",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/362",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/362",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/362"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/362",
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/362"
 	},
 	name: {
         en: "Ho-Oh ex",

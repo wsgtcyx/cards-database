@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3/126",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/126",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/126"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/126",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/126"
     },
     name: {
         en: "Hakamo-o",

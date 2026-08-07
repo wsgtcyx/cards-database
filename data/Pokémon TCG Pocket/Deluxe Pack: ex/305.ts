@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/305",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/305",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/305",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/305"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/305",
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/305"
 	},
 	name: {
         en: "Celesteela",

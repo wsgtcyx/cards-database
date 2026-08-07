@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/004",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/004",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/004",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/004"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/004",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/004"
     },
     name: {
         en: "Venusaur ex",

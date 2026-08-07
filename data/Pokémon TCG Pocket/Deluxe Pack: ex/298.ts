@@ -8,7 +8,8 @@ const card: Card = {
 		fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/298",
 		it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/298",
 		"zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/298",
-		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/298"
+		"pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/298",
+		en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/298"
 	},
 	name: {
         en: "Shaymin",

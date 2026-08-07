@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2b/085",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/085",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/085",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/085"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/085",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/085"
     },
     name: {
         en: "Paldean Clodsire ex",

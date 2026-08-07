@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/299",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/299",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/299",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/299"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/299",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/299"
     },
     name: {
         en: "Manaphy",

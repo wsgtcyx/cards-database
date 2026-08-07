@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/140",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/140",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/140",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/140"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/140",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/140"
     },
     name: {
         en: "Purugly",

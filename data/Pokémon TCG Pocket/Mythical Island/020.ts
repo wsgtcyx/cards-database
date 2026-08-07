@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1a/020",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/020",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/020"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/020",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/020"
     },
     name: {
         en: "Finneon",

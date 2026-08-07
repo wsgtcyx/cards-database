@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/261",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/261",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/261",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/261"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/261",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/261"
     },
     name: {
         en: "Hitmonchan ex",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4/020",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/020",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/020",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/020"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/020",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/020"
     },
     name: {
         en: "Pineco",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/188",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/188",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/188",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/188"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/188",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/188"
     },
     name: {
         en: "Alcremie",

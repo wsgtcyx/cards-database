@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/001",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/001",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/001",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/001"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/001",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/001"
     },
     name: {
         en: "Bulbasaur",

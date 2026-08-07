@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3/188",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/188",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/188",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/188"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/188",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/188"
     },
     name: {
         en: "Alolan Muk ex",

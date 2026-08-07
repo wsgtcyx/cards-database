@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4/171",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/171",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/171",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/171"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/171",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/171"
     },
     name: {
         en: "Pichu",

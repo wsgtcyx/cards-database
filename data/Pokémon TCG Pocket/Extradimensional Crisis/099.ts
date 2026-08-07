@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3a/099",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/099",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/099",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/099"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/099",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/099"
     },
     name: {
         en: "Celebi ex",

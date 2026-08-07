@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/218",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/218",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/218",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/218"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/218",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/218"
     },
     name: {
         en: "Hitmonlee",

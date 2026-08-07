@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1a/068",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/068",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/068",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/068"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/068",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/068"
     },
     name: {
         en: "Leaf",

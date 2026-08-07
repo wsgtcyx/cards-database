@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-07T08:45:50.000Z",
+  "status": "blocked",
+  "blockingIssues": [
+    {
+      "scope": ["P-B-079", "P-B-082", "P-B-083", "P-B-084", "P-B-085", "P-B-086"],
+      "locales": ["de", "it"],
+      "reason": "The fixed RaenonX master contains mechanics and token IDs but no German or Italian strings; the corresponding RaenonX locale pages currently return English tokens. Only P-B-080 has user authorization for an English fallback. The remaining German and Italian strings require a pinned official card face or an explicit, reproducible mapping to previously adjudicated translations before release."
+    },
+    {
+      "scope": ["P-B-079", "P-B-080", "P-B-082", "P-B-083", "P-B-084", "P-B-085", "P-B-086"],
+      "reason": "The OCR summary below records the completed review but the repository does not retain the OCR input/output hashes. It must not be treated as independently reproducible evidence."
+    }
+  ],
+  "scope": ["P-B-079", "P-B-080", "P-B-081", "P-B-082", "P-B-083", "P-B-084", "P-B-085", "P-B-086"],
+  "sources": {
+    "flibustier": {
+      "commit": "d317957f5c18c4b05d11c24a9ef796edd598f87a",
+      "release": "https://github.com/flibustier/pokemon-tcg-pocket-database/releases/tag/2.9.2",
+      "archive": "https://github.com/flibustier/pokemon-tcg-pocket-database/releases/download/2.9.2/release.zip",
+      "archiveBytes": 379897345,
+      "archiveSha256": "ecacdb189b6ffb95df61fd71867742f997d9466266b3108918b51e87efa8d0ec",
+      "license": "https://github.com/flibustier/pokemon-tcg-pocket-database/blob/d317957f5c18c4b05d11c24a9ef796edd598f87a/LICENSE",
+      "role": ["base index", "rarity cross-check", "English card image"]
+    },
+    "raenonx": {
+      "masterUrl": "https://raw.githubusercontent.com/RaenonX-PokemonTCGP/global-master-data/master/ptcgp/data.json",
+      "masterSha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532",
+      "cardPageTemplate": "https://ptcgp.raenonx.cc/{locale}/card/{gameCardId}",
+      "role": ["mechanics", "promotion source", "pack membership", "supported localized tokens"]
+    },
+    "pokeos": {
+      "setUrl": "https://www.pokeos.com/tcg/pocket/b/551/promo-b",
+      "setApi": "https://www.pokeos.com/api/tcg/setInfo?id=551",
+      "role": ["independent set count and collection-number cross-check"]
+    }
+  },
+  "cards": {
+    "P-B-079": { "gameCardId": "PK_90_016690_00", "rarity": "AR", "boosters": [] },
+    "P-B-080": { "gameCardId": "PK_90_021060_00", "rarity": "RR", "boosters": ["vol11"] },
+    "P-B-081": { "gameCardId": "PK_90_021070_00", "rarity": "C", "boosters": ["vol11"] },
+    "P-B-082": { "gameCardId": "PK_90_020100_00", "rarity": "C", "boosters": ["vol11"] },
+    "P-B-083": { "gameCardId": "PK_90_020830_00", "rarity": "R", "boosters": ["vol11"] },
+    "P-B-084": { "gameCardId": "PK_90_021080_00", "rarity": "C", "boosters": ["vol11"] },
+    "P-B-085": { "gameCardId": "PK_90_020150_00", "rarity": "R", "boosters": [] },
+    "P-B-086": { "gameCardId": "PK_90_020670_00", "rarity": "R", "boosters": [] }
+  },
+  "localizationExceptions": [
+    {
+      "cardId": "P-B-080",
+      "locales": ["de", "it"],
+      "fields": ["attacks[0].name", "attacks[0].effect"],
+      "fallbackLocale": "en",
+      "reason": "RaenonX returned English for these locale pages and no independently verifiable localized card face was available.",
+      "authorization": "User explicitly approved this single-card English fallback on 2026-08-07."
+    }
+  ],
+  "ocr": {
+    "engine": "PaddleOCR",
+    "verifiedCards": ["P-B-079", "P-B-080", "P-B-082", "P-B-083", "P-B-084", "P-B-085", "P-B-086"],
+    "verifiedFields": ["collection number", "name", "HP", "attacks or abilities", "readable rule text"],
+    "conflicts": []
+  }
+}

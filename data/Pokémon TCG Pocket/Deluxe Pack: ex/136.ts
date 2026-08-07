@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/136",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/136",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/136",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/136"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/136",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/136"
     },
     name: {
         en: "Magneton",

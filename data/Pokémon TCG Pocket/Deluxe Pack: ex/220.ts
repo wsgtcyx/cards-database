@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/220",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/220",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/220",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/220"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/220",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/220"
     },
     name: {
         en: "Rockruff",

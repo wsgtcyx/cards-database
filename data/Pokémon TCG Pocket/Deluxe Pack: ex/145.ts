@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/145",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/145",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/145",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/145"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/145",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/145"
     },
     name: {
         en: "Pachirisu ex",

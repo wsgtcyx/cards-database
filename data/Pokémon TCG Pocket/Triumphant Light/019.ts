@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2a/019",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/019",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/019",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/019"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/019",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/019"
     },
     name: {
         en: "Froslass",

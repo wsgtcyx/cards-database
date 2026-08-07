@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/135",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/135",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/135",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/135"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/135",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/135"
     },
     name: {
         en: "Golett",

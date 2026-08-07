@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/190",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/190",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/190",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/190"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/190",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/190"
     },
     name: {
         en: "Machop",

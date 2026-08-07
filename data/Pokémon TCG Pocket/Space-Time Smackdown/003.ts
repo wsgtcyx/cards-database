@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/003",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/003",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/003",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/003"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/003",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/003"
     },
     name: {
         en: "Bellossom",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/062",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/062",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/062"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/062",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/062"
     },
     name: {
         en: "Farfetch'd",

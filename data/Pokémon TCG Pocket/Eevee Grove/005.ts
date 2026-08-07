@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/005",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/005",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/005",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/005"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/005",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/005"
     },
     name: {
         en: "Tsareena",

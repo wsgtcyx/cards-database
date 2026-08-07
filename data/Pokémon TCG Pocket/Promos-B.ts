@@ -368,6 +368,19 @@ const set: Set = {
                 ko: "https://game.pokemontcgpocket.app/ko/tcgp/P-B/boosters/vol10/artwork_front.webp",
                 ja: "https://game.pokemontcgpocket.app/ja/tcgp/P-B/boosters/vol10/artwork_front.webp"
             }
+        },
+        vol11: {
+            name: {
+                en: "Promo Pack B Series Vol. 11",
+                fr: "Booster promo série B, vol. 11",
+                es: "Sobre de promoción serie B vol. 11",
+                it: "Busta promo (serie B, vol. 11)",
+                de: "Promopack aus Serie B, Vol. 11",
+                "pt-br": "Pacote Promocional da Série B (Vol. 11)",
+                "zh-tw": "特典卡牌包 B系列第11波",
+                ko: "프로모 카드 팩 B시리즈 제11탄",
+                ja: "プロモカードパック Bシリーズ 第11弾"
+            }
         }
     },
     releaseDate: "2025-10-30"

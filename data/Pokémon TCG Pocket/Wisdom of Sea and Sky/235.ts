@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4/235",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/235",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/235",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/235"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/235",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/235"
     },
     name: {
         en: "Glaceon ex",

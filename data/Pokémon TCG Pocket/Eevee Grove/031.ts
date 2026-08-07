@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/031",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/031",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/031",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/031"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/031",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/031"
     },
     name: {
         en: "Swirlix",

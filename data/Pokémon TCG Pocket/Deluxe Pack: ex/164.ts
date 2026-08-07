@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4b/164",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4b/164",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4b/164",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/164"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4b/164",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4b/164"
     },
     name: {
         en: "Ralts",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3/176",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/176",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/176",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/176"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/176",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/176"
     },
     name: {
         en: "Drampa",

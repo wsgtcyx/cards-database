@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/114",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/114",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/114",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/114"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/114",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/114"
     },
     name: {
         en: "Clefable",

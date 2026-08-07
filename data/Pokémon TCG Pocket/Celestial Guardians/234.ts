@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3/234",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/234",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/234",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/234"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/234",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/234"
     },
     name: {
         en: "Gengar ex",

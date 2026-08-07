@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/016",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/016",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/016",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/016"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/016",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/016"
     },
     name: {
         en: "Wormadam",

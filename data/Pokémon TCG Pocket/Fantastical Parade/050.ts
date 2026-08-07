@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/050",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/050",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/050",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/050"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/050",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/050"
     },
     name: {
         en: "Alolan Raichu",

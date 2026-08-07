@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/166",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/166",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/166",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/166"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/166",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/166"
     },
     name: {
         en: "Nidoran♀",

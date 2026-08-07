@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/189",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/189",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/189",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/189"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/189",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/189"
     },
     name: {
         en: "Mega Kangaskhan ex",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/017",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/017",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/017",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/017"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/017",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/017"
     },
     name: {
         en: "Slowpoke",

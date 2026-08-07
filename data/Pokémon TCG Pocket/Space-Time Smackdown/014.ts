@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/014",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/014",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/014"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/014",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/014"
     },
     name: {
         en: "Kricketune",

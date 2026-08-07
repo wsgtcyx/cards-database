@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/032",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/032",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/032",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/032"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/032",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/032"
     },
     name: {
         en: "Charmander",

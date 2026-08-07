@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-07T08:58:45.312Z",
+  "auditSha256": "3b583fc96d88a6e792a3fd517924c37667e4e2e71f35c1447033113ff22ca39a",
+  "manifestSha256": "07330cfdb03f423415effb9c29126616774b0c5722969d4e7fcea12218f847cb",
+  "preflightSha256": "609e453e2fb8e032c88a2e5dca568577268fed8980760fac2a3f7dd34320b707",
+  "selection": null,
+  "objects": 5232,
+  "downstreamOnlyObjects": 0,
+  "downstreamOnlyChecks": [],
+  "failures": [],
+  "status": "ok",
+  "artifactSha256": "9b8a2327df62ddfa15c4d6b8e37319628465c2d3b05cbd0fa4865409796eb0fb"
+}

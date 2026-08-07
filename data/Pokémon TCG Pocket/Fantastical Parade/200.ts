@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/200",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/200",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/200",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/200"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/200",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/200"
     },
     name: {
         en: "Gigalith ex",

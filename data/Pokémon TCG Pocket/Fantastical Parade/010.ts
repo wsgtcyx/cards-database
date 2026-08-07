@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/010",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/010",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/010",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/010"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/010",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/010"
     },
     name: {
         en: "Chesnaught",

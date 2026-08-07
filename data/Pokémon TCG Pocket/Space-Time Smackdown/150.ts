@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/150",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/150",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/150",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/150"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/150",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/150"
     },
     name: {
         en: "Cyrus",

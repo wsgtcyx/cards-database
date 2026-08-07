@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B1/177",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B1/177",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B1/177",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/177"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B1/177",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B1/177"
     },
     name: {
         en: "Goomy",

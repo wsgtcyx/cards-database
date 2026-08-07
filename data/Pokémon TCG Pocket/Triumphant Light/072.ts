@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2a/072",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2a/072",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2a/072",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/072"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2a/072",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2a/072"
     },
     name: {
         en: "Irida",

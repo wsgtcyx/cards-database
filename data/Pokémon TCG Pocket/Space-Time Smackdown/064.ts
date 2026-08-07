@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/064",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/064",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/064",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/064"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/064",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/064"
     },
     name: {
         en: "Togetic",

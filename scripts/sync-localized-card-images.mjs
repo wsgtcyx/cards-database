@@ -31,6 +31,12 @@ const R2_BUCKET = 'game'
 const RAENONX_IMAGE_BASE = 'https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full'
 const RAENONX_MASTER_URL = 'https://ptcgp.raenonx.cc/api/data/global-master'
 const RAENONX_MASTER_FALLBACK = process.env.POCKET_IMAGE_SYNC_MASTER_FALLBACK || '/tmp/pocket-localization-raenonx-master.json'
+const FLIBUSTIER_RELEASE_URL = 'https://github.com/flibustier/pokemon-tcg-pocket-database/releases/download/2.9.2/release.zip'
+const FLIBUSTIER_COMMIT = 'd317957f5c18c4b05d11c24a9ef796edd598f87a'
+const FLIBUSTIER_ARCHIVE = process.env.POCKET_IMAGE_SYNC_ARCHIVE || '/tmp/flibustier-pocket-release-2.9.2.zip'
+const FLIBUSTIER_ARCHIVE_BYTES = 379897345
+const FLIBUSTIER_ARCHIVE_SHA256 = 'ecacdb189b6ffb95df61fd71867742f997d9466266b3108918b51e87efa8d0ec'
+const FLIBUSTIER_CARD_COUNT = 3761
 const MAX_SOURCE_BYTES = 8 * 1024 * 1024
 
 if (!/^[A-Za-z0-9._-]+$/.test(RUN_ID)) {
@@ -47,23 +53,6 @@ if (
 ) {
 	throw new Error('POCKET_IMAGE_SYNC_WORK_ROOT must be inside os.tmpdir() unless POCKET_IMAGE_SYNC_ALLOW_EXTERNAL_WORK_ROOT=1')
 }
-
-const SET_FOLDERS = Object.freeze({
-	A3b: 'Eevee Grove',
-	A4a: 'Secluded Springs',
-	A4b: 'Deluxe Pack: ex',
-	B1: 'Mega Rising',
-	B1a: 'Crimson Blaze',
-	B2: 'Fantastical Parade',
-	B2a: 'Paldean Wonders',
-	B2b: 'Mega Shine',
-	B3: 'Pulsing Aura',
-	B3a: 'Paradox Drive',
-	B3b: 'Everyday Wonders',
-	B4: 'Ruler of the Skies',
-	'P-A': 'Promos-A',
-	'P-B': 'Promos-B',
-})
 
 const LOCALE_CONFIG = Object.freeze({
 	en: { apiLocale: 'en', sourceLocale: 'en', r2Locale: 'en', file: 'en.json' },
@@ -93,6 +82,8 @@ Phases:
 
 Options:
   --master <file>       Frozen RaenonX master JSON (default: run snapshot, then ${RAENONX_MASTER_FALLBACK})
+  --source <name>       raenonx-localized (default) or flibustier-en
+  --archive <file>      Fixed flibustier release.zip (default: ${FLIBUSTIER_ARCHIVE})
   --cards <id,...>      Limit download/prepare/verify to card IDs (pilot)
   --write               Required for upload/apply
   --help                Show this help
@@ -101,13 +92,19 @@ Options:
 
 function parseArgs(argv) {
 	const phase = argv.find((arg) => !arg.startsWith('--'))
-	const options = { phase, master: null, cards: [], write: false, shard: null, shards: 1 }
+	const options = { phase, master: null, source: 'raenonx-localized', archive: FLIBUSTIER_ARCHIVE, cards: [], write: false, shard: null, shards: 1 }
 	for (let index = 0; index < argv.length; index += 1) {
 		const arg = argv[index]
 		if (arg === '--help') options.help = true
 		if (arg === '--write') options.write = true
 		if (arg === '--master' || arg.startsWith('--master=')) {
 			options.master = arg.startsWith('--master=') ? arg.slice('--master='.length) : argv[++index]
+		}
+		if (arg === '--source' || arg.startsWith('--source=')) {
+			options.source = arg.startsWith('--source=') ? arg.slice('--source='.length) : argv[++index]
+		}
+		if (arg === '--archive' || arg.startsWith('--archive=')) {
+			options.archive = arg.startsWith('--archive=') ? arg.slice('--archive='.length) : argv[++index]
 		}
 		if (arg === '--cards' || arg.startsWith('--cards=')) {
 			const value = arg.startsWith('--cards=') ? arg.slice('--cards='.length) : argv[++index]
@@ -127,6 +124,12 @@ function parseArgs(argv) {
 
 function sha256(buffer) {
 	return crypto.createHash('sha256').update(buffer).digest('hex')
+}
+
+async function sha256File(file) {
+	const hash = crypto.createHash('sha256')
+	for await (const chunk of fs.createReadStream(file)) hash.update(chunk)
+	return hash.digest('hex')
 }
 
 function canonicalJson(value) {
@@ -226,6 +229,60 @@ function assertSourceUrl(value, sourceLocale, sourceCardId) {
 	return value
 }
 
+function flibustierSetId(setId) {
+	return setId === 'P-A' ? 'PROMO-A' : setId === 'P-B' ? 'PROMO-B' : setId
+}
+
+function projectSetId(setId) {
+	return setId === 'PROMO-A' ? 'P-A' : setId === 'PROMO-B' ? 'P-B' : setId
+}
+
+function flibustierArchiveMember(setId, localId) {
+	const member = `dist/images/cards-by-set/${flibustierSetId(setId)}/${Number(localId)}.webp`
+	if (!/^dist\/images\/cards-by-set\/[A-Za-z0-9-]+\/[1-9][0-9]*\.webp$/.test(member)) {
+		throw new Error(`Invalid flibustier archive member: ${member}`)
+	}
+	return member
+}
+
+async function readZipMember(archive, member, maxBytes = MAX_SOURCE_BYTES) {
+	if (typeof member !== 'string' || (!/^dist\/images\/cards-by-set\/[A-Za-z0-9-]+\/[1-9][0-9]*\.webp$/.test(member) && member !== 'dist/cards.json')) {
+		throw new Error(`Archive member is outside the allowlist: ${String(member)}`)
+	}
+	return new Promise((resolve, reject) => {
+		const child = spawn('unzip', ['-p', archive, member], { cwd: ROOT, stdio: ['ignore', 'pipe', 'pipe'] })
+		const chunks = []
+		let bytes = 0
+		let stderr = ''
+		child.stdout.on('data', (chunk) => {
+			bytes += chunk.length
+			if (bytes > maxBytes) child.kill('SIGKILL')
+			else chunks.push(chunk)
+		})
+		child.stderr.on('data', (chunk) => { stderr += chunk })
+		child.on('error', reject)
+		child.on('close', (code) => {
+			if (bytes > maxBytes) return reject(new Error(`Archive member exceeds ${maxBytes} bytes: ${member}`))
+			if (code !== 0) return reject(new Error(`unzip failed for ${member}: ${stderr.trim() || `exit ${code}`}`))
+			resolve(Buffer.concat(chunks, bytes))
+		})
+	})
+}
+
+async function validateFlibustierArchive(archive) {
+	const stat = await fsp.stat(archive)
+	if (stat.size !== FLIBUSTIER_ARCHIVE_BYTES) throw new Error(`flibustier archive size mismatch: ${stat.size}`)
+	const digest = await sha256File(archive)
+	if (digest !== FLIBUSTIER_ARCHIVE_SHA256) throw new Error(`flibustier archive SHA-256 mismatch: ${digest}`)
+	const { stdout } = await runCommand('unzip', ['-Z1', archive])
+	const members = stdout.split(/\r?\n/).filter((member) => member.endsWith('.webp') && member.startsWith('dist/images/cards-by-set/'))
+	const invalid = members.filter((member) => !/^dist\/images\/cards-by-set\/[A-Za-z0-9-]+\/[1-9][0-9]*\.webp$/.test(member))
+	if (invalid.length || members.length !== FLIBUSTIER_CARD_COUNT || new Set(members).size !== members.length) {
+		throw new Error(`flibustier image inventory mismatch: count=${members.length} invalid=${invalid.length}`)
+	}
+	return { bytes: stat.size, sha256: digest, members: new Set(members) }
+}
+
 async function readLimitedBody(response, maxBytes = MAX_SOURCE_BYTES) {
 	const declared = Number(response.headers.get('content-length'))
 	if (Number.isFinite(declared) && declared > maxBytes) throw new Error(`Response exceeds ${maxBytes} bytes`)
@@ -308,26 +365,34 @@ async function fetchWithRetry(url, options = {}, retries = 3, acceptedStatuses =
 
 async function mapWithConcurrency(items, concurrency, worker) {
 	let cursor = 0
+	let failure = null
 	const results = new Array(items.length)
 	const workers = Array.from({ length: Math.min(concurrency, Math.max(items.length, 1)) }, async () => {
-		while (cursor < items.length) {
+		while (!failure && cursor < items.length) {
 			const index = cursor++
-			results[index] = await worker(items[index], index)
+			try {
+				results[index] = await worker(items[index], index)
+			} catch (error) {
+				failure ||= error
+			}
 		}
 	})
 	await Promise.all(workers)
+	if (failure) throw failure
 	return results
 }
 
 function loadSetFolders() {
 	if (cachedSetFolders) return cachedSetFolders
 	const result = new Map()
-	for (const [setId, folder] of Object.entries(SET_FOLDERS)) {
-		const file = path.join(DATA_ROOT, `${folder}.ts`)
+	for (const name of fs.readdirSync(DATA_ROOT).filter((file) => file.endsWith('.ts'))) {
+		const folder = name.slice(0, -3)
+		const file = path.join(DATA_ROOT, name)
 		const source = fs.readFileSync(file, 'utf8')
 		const found = source.match(/\bid:\s*["']([^"']+)["']/)?.[1]
-		if (found !== setId) throw new Error(`Set ID mismatch for ${file}: expected ${setId}, got ${found}`)
-		result.set(setId, folder)
+		if (!found) continue
+		if (result.has(found)) throw new Error(`Duplicate set ID ${found}: ${file}`)
+		result.set(found, folder)
 	}
 	cachedSetFolders = result
 	return result
@@ -427,12 +492,13 @@ function loadMetadataImage(setFolders, setId, localId) {
 
 function targetCards(downstream) {
 	const english = downstream.en.cards
+	const setFolders = loadSetFolders()
 	const cards = []
 	const unsupportedSetIds = new Set()
 	for (const [key, card] of Object.entries(english)) {
 		if (!card?.id) continue
 		const { setId, localId } = cardIdParts(card.id)
-		if (!SET_FOLDERS[setId]) {
+		if (!setFolders.has(setId)) {
 			unsupportedSetIds.add(setId)
 			continue
 		}
@@ -485,7 +551,114 @@ async function loadMaster(options) {
 	return { master: JSON.parse(buffer), sha256: sha256(buffer), file: masterFile }
 }
 
+async function auditFlibustierEnglish(options) {
+	const archive = await validateFlibustierArchive(options.archive)
+	const upstreamBytes = await readZipMember(options.archive, 'dist/cards.json')
+	const upstream = JSON.parse(upstreamBytes)
+	if (!Array.isArray(upstream) || upstream.length !== FLIBUSTIER_CARD_COUNT) {
+		throw new Error(`flibustier cards.json count mismatch: ${upstream?.length}`)
+	}
+	const setFolders = loadSetFolders()
+	const downstream = loadDownstream()
+	const targetInventory = targetCards(downstream)
+	const currentIds = new Set(targetInventory.cards.map((card) => card.id))
+	const upstreamCards = upstream.map((card) => {
+		const setId = projectSetId(card.set)
+		const localId = String(card.number).padStart(3, '0')
+		const id = `${setId}-${localId}`
+		if (!setFolders.has(setId) || !Number.isInteger(card.number) || card.number < 1) throw new Error(`Invalid flibustier card identity: ${JSON.stringify(card)}`)
+		const archiveMember = flibustierArchiveMember(setId, localId)
+		if (!archive.members.has(archiveMember)) throw new Error(`flibustier image missing: ${id}`)
+		return { id, setId, localId, number: card.number, archiveMember, sourceName: card.name ?? null, sourceRarity: card.rarity ?? null }
+	})
+	if (new Set(upstreamCards.map((card) => card.id)).size !== upstreamCards.length) throw new Error('Duplicate flibustier card identity')
+
+	const targets = []
+	for (const card of targetInventory.cards) {
+		const upstreamCard = upstreamCards.find((item) => item.id === card.id)
+		if (!upstreamCard) throw new Error(`Local card missing from flibustier release: ${card.id}`)
+		const metadata = loadMetadataImage(setFolders, card.setId, card.localId)
+		if (metadata.images.en) {
+			assertExactR2Url(metadata.images.en, 'en', card.setId, card.localId, 'existing English image')
+			continue
+		}
+		let current
+		try { current = new URL(downstream.en.cards[card.key]?.image) } catch { throw new Error(`Invalid English downstream image: ${card.id}`) }
+		if (current.origin !== 'https://assets.tcgdex.net' || current.pathname !== `/en/tcgp/${card.setId}/${card.localId}`) {
+			throw new Error(`Missing image.en is not backed by the expected TCGdex fallback: ${card.id}`)
+		}
+		targets.push({
+			...card,
+			locale: 'en',
+			status: 'source-available',
+			sourceKind: 'flibustier-release',
+			currentImage: downstream.en.cards[card.key].image,
+			desiredImage: r2BaseUrl('en', card.setId, card.localId),
+			metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
+			metadataSha256: sha256(Buffer.from(metadata.source, 'utf8')),
+			archiveMember: upstreamCard.archiveMember,
+			sourceName: upstreamCard.sourceName,
+			sourceRarity: upstreamCard.sourceRarity,
+			r2HighKey: r2Key('en', card.setId, card.localId, 'high'),
+			r2LowKey: r2Key('en', card.setId, card.localId, 'low'),
+		})
+	}
+	const missingCards = upstreamCards.filter((card) => !currentIds.has(card.id))
+	for (const card of missingCards) {
+		const metadataFile = metadataCardFile(setFolders, card.setId, card.localId)
+		if (fs.existsSync(metadataFile)) throw new Error(`Missing downstream card already has metadata: ${card.id}`)
+		targets.push({
+			...card,
+			key: card.id,
+			set: null,
+			locale: 'en',
+			status: 'source-available',
+			sourceKind: 'flibustier-release',
+			currentImage: null,
+			desiredImage: r2BaseUrl('en', card.setId, card.localId),
+			metadataFile: path.relative(ROOT, metadataFile).split(path.sep).join('/'),
+			metadataSha256: null,
+			pendingMetadata: true,
+			r2HighKey: r2Key('en', card.setId, card.localId, 'high'),
+			r2LowKey: r2Key('en', card.setId, card.localId, 'low'),
+		})
+	}
+	const existingTargets = targets.filter((target) => !target.pendingMetadata)
+	const migrationState = existingTargets.length === 2609 && missingCards.length === 7 && targets.length === 2616
+	const completedState = existingTargets.length === 0 && missingCards.length === 0 && targets.length === 0 && targetInventory.cards.length === FLIBUSTIER_CARD_COUNT
+	if (!migrationState && !completedState) {
+		throw new Error(`Fixed migration scope mismatch: existing=${existingTargets.length} missing=${missingCards.length} total=${targets.length}`)
+	}
+	const audit = {
+		schemaVersion: 2,
+		generatedAt: new Date().toISOString(),
+		runId: RUN_ID,
+		policy: { localizedSourceOnly: false, language: 'en', unknownR2Collision: 'block' },
+		source: {
+			kind: 'flibustier-release',
+			name: 'pokemon-tcg-pocket-database',
+			release: '2.9.2',
+			commit: FLIBUSTIER_COMMIT,
+			releaseUrl: FLIBUSTIER_RELEASE_URL,
+			archiveBytes: archive.bytes,
+			archiveSha256: archive.sha256,
+			cardsJsonSha256: sha256(upstreamBytes),
+			license: 'MIT',
+			licenseUrl: `https://github.com/flibustier/pokemon-tcg-pocket-database/blob/${FLIBUSTIER_COMMIT}/LICENSE`,
+			attribution: 'https://github.com/flibustier/pokemon-tcg-pocket-database',
+		},
+		scope: { resolver: 'set ID plus collection number', unsupportedSetIds: targetInventory.unsupportedSetIds },
+		counts: { targetCards: targetInventory.cards.length, sourceCards: upstreamCards.length, existingFallbacks: existingTargets.length, missingCards: missingCards.length, sourceAvailable: targets.length },
+		targets: targets.sort((left, right) => left.id.localeCompare(right.id, 'en', { numeric: true })),
+	}
+	await writeArtifact(path.join(RUN_DIR, 'localized-image-audit.json'), audit)
+	await writeArtifact(path.join(RUN_DIR, 'unresolved.json'), { schemaVersion: 2, generatedAt: audit.generatedAt, auditSha256: artifactDigest(audit), entries: [] })
+	console.log(JSON.stringify(audit.counts, null, 2))
+}
+
 async function audit(options) {
+	if (options.source === 'flibustier-en') return auditFlibustierEnglish(options)
+	if (options.source !== 'raenonx-localized') throw new Error(`Unknown source mode: ${options.source}`)
 	const setFolders = loadSetFolders()
 	const downstream = loadDownstream()
 	const targetInventory = targetCards(downstream)
@@ -626,17 +799,38 @@ function validateAuditTarget(target) {
 	if (target.metadataFile !== expectedMetadata) throw new Error(`Audit metadata path mismatch for ${target.id}/${target.locale}`)
 	resolveInside(ROOT, target.metadataFile, 'audit metadata path')
 	if (target.status === 'source-available') {
-		if (!target.sourceLocale || !SOURCE_LOCALES.includes(target.sourceLocale)) throw new Error(`Invalid source locale for ${target.id}/${target.locale}`)
-		assertSourceCardId(target.sourceCardId)
-		assertSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceCardId)
+		if (target.sourceKind === 'flibustier-release') {
+			if (target.locale !== 'en' || target.archiveMember !== flibustierArchiveMember(setId, localId)) throw new Error(`Invalid flibustier target: ${target.id}`)
+			if (target.pendingMetadata !== true && !/^[a-f0-9]{64}$/.test(target.metadataSha256)) throw new Error(`Missing metadata baseline: ${target.id}`)
+		} else {
+			if (!target.sourceLocale || !SOURCE_LOCALES.includes(target.sourceLocale)) throw new Error(`Invalid source locale for ${target.id}/${target.locale}`)
+			assertSourceCardId(target.sourceCardId)
+			assertSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceCardId)
+		}
 		assertR2Key(target.r2HighKey, config.r2Locale, setId, localId, 'high')
 		assertR2Key(target.r2LowKey, config.r2Locale, setId, localId, 'low')
 	}
 	return target
 }
 
+function assertMetadataApplyBaseline(target, source) {
+	const locale = LOCALE_CONFIG[target.locale].apiLocale
+	if (parseImageBlock(source)[locale] === target.desiredImage) return
+	if (target.pendingMetadata || sha256(Buffer.from(source, 'utf8')) !== target.metadataSha256) {
+		throw new Error(`Metadata changed after audit: ${target.id}/${target.locale}`)
+	}
+}
+
+function assertDownstreamApplyBaseline(target, card) {
+	if (!card) throw new Error(`Downstream card missing: ${target.locale}/${target.key}`)
+	if (card.image !== target.currentImage && card.image !== target.desiredImage) {
+		throw new Error(`Downstream image changed after audit: ${target.locale}/${target.key}`)
+	}
+}
+
 function expectedDownloadPath(target) {
-	return `source/${LOCALE_CONFIG[target.locale].r2Locale}/tcgp/${target.setId}/${target.localId}.png`
+	const extension = target.sourceKind === 'flibustier-release' ? 'webp' : 'png'
+	return `source/${LOCALE_CONFIG[target.locale].r2Locale}/tcgp/${target.setId}/${target.localId}.${extension}`
 }
 
 function expectedPreparedPath(key) {
@@ -650,30 +844,43 @@ async function download(options) {
 	const audit = loadAudit()
 	const targets = selectedTargets(audit, options)
 	for (const target of targets) validateAuditTarget(target)
+	if (audit.source.kind === 'flibustier-release') await validateFlibustierArchive(options.archive)
 	const records = await mapWithConcurrency(targets, 8, async (target) => {
 		const relativeOutput = expectedDownloadPath(target)
 		const output = resolveInside(WORK_ROOT, relativeOutput, 'download output')
 		await fsp.mkdir(path.dirname(output), { recursive: true })
-		assertSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceCardId)
-		const response = await fetchWithRetry(target.sourceUrl)
-		if (response.url) assertSourceUrl(response.url, target.sourceLocale, target.sourceCardId)
-		const contentType = response.headers.get('content-type') || ''
-		if (!/^image\/png(?:;|$)/i.test(contentType)) throw new Error(`Unexpected source content type for ${target.id}/${target.locale}: ${contentType}`)
-		const buffer = await readLimitedBody(response)
-		if (buffer.length < 16 || buffer.subarray(0, 8).toString('hex') !== '89504e470d0a1a0a') {
-			throw new Error(`Invalid PNG source: ${target.id}/${target.locale}`)
+		let buffer
+		let contentType
+		let lastModified = null
+		let etag = null
+		if (target.sourceKind === 'flibustier-release') {
+			buffer = await readZipMember(options.archive, target.archiveMember)
+			contentType = 'image/webp'
+			if (buffer.length < 16 || buffer.subarray(0, 4).toString('ascii') !== 'RIFF' || buffer.subarray(8, 12).toString('ascii') !== 'WEBP') throw new Error(`Invalid WebP source: ${target.id}`)
+		} else {
+			assertSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceCardId)
+			const response = await fetchWithRetry(target.sourceUrl)
+			if (response.url) assertSourceUrl(response.url, target.sourceLocale, target.sourceCardId)
+			contentType = response.headers.get('content-type') || ''
+			if (!/^image\/png(?:;|$)/i.test(contentType)) throw new Error(`Unexpected source content type for ${target.id}/${target.locale}: ${contentType}`)
+			buffer = await readLimitedBody(response)
+			if (buffer.length < 16 || buffer.subarray(0, 8).toString('hex') !== '89504e470d0a1a0a') throw new Error(`Invalid PNG source: ${target.id}/${target.locale}`)
+			lastModified = response.headers.get('last-modified')
+			etag = response.headers.get('etag')
 		}
 		await fsp.writeFile(output, buffer)
 		return {
 			id: target.id,
 			locale: target.locale,
-			sourceUrl: target.sourceUrl,
+			sourceKind: target.sourceKind || 'raenonx',
+			sourceUrl: target.sourceUrl || null,
+			archiveMember: target.archiveMember || null,
 			path: relativeOutput,
 			bytes: buffer.length,
 			sha256: sha256(buffer),
 			contentType,
-			lastModified: response.headers.get('last-modified'),
-			etag: response.headers.get('etag'),
+			lastModified,
+			etag,
 		}
 	})
 	await writeArtifact(path.join(RUN_DIR, 'downloads.json'), {
@@ -709,7 +916,9 @@ async function prepare(options) {
 		validateAuditTarget(target)
 		if (record.path !== expectedDownloadPath(target)) throw new Error(`Download path mismatch: ${record.path}`)
 		resolveInside(WORK_ROOT, record.path, 'download input')
-		assertSourceUrl(record.sourceUrl, target.sourceLocale, target.sourceCardId)
+		if (target.sourceKind === 'flibustier-release') {
+			if (record.sourceKind !== 'flibustier-release' || record.archiveMember !== target.archiveMember) throw new Error(`Archive source mismatch: ${record.id}`)
+		} else assertSourceUrl(record.sourceUrl, target.sourceLocale, target.sourceCardId)
 		const input = resolveInside(WORK_ROOT, record.path, 'download input')
 		const inputBytes = await fsp.readFile(input)
 		if (record.bytes !== inputBytes.length || record.sha256 !== sha256(inputBytes)) throw new Error(`Download checksum mismatch: ${record.id}/${record.locale}`)
@@ -740,6 +949,7 @@ async function prepare(options) {
 		generatedAt: new Date().toISOString(),
 		origin: R2_ORIGIN,
 		bucket: R2_BUCKET,
+		sourceKind: audit.source.kind || 'raenonx-localized',
 		workRoot: 'runtime-work-root',
 		auditSha256: audit.artifactSha256,
 		downloadsSha256: downloadManifest.artifactSha256,
@@ -788,6 +998,34 @@ function loadUploadSummary(manifest) {
 	return summary
 }
 
+function matchingUploadReceipt(object) {
+	const receipt = resolveInside(WORK_ROOT, `upload-receipts/${object.key}.ok`, 'upload receipt')
+	if (!fs.existsSync(receipt)) return false
+	const value = readJson(receipt)
+	return value.key === object.key && value.sha256 === object.sha256
+}
+
+async function inspectRemoteObject(object) {
+	const response = await fetchWithRetry(`${R2_ORIGIN}/${object.key}?sha256=${object.sha256}`, {}, 3, [404])
+	if (response.status === 404) return { status: 404, matches: false }
+	const bytes = await readLimitedBody(response)
+	const contentType = response.headers.get('content-type') || ''
+	const cacheControl = response.headers.get('cache-control') || ''
+	const immutableYear = /(?:^|,)\s*public\s*(?:,|$)/i.test(cacheControl) && /(?:^|,)\s*max-age=31536000\s*(?:,|$)/i.test(cacheControl) && /(?:^|,)\s*immutable\s*(?:,|$)/i.test(cacheControl)
+	return {
+		status: response.status,
+		matches: response.ok && /^image\/webp(?:;|$)/i.test(contentType) && immutableYear && bytes.subarray(0, 4).toString('ascii') === 'RIFF' && bytes.subarray(8, 12).toString('ascii') === 'WEBP' && sha256(bytes) === object.sha256,
+	}
+}
+
+async function writeUploadReceipt(object, extra = {}) {
+	const receipt = resolveInside(WORK_ROOT, `upload-receipts/${object.key}.ok`, 'upload receipt')
+	await fsp.mkdir(path.dirname(receipt), { recursive: true })
+	const temp = `${receipt}.${process.pid}.${crypto.randomBytes(6).toString('hex')}.tmp`
+	await fsp.writeFile(temp, `${JSON.stringify({ key: object.key, sha256: object.sha256, ...extra })}\n`, 'utf8')
+	await fsp.rename(temp, receipt)
+}
+
 async function preflight(options) {
 	const manifest = loadR2Manifest()
 	const audit = loadAudit()
@@ -804,7 +1042,16 @@ async function preflight(options) {
 		if (!response.ok) throw new Error(`R2 preflight ${object.key}: HTTP ${response.status}`)
 		const contentType = response.headers.get('content-type') || ''
 		if (!/^image\/webp(?:;|$)/i.test(contentType)) failures.push({ key: object.key, status: response.status, contentType, reason: 'unexpected-content-type' })
-		if (!fallback.keys.has(object.key) && !uploadedKeys.has(object.key)) collisions.push(object.key)
+		const receiptMatches = matchingUploadReceipt(object)
+		let reusable = uploadedKeys.has(object.key) || receiptMatches
+		if (!reusable && manifest.sourceKind === 'flibustier-release') {
+			const remote = await inspectRemoteObject(object)
+			if (remote.matches) {
+				await writeUploadReceipt(object, { recoveredAt: new Date().toISOString() })
+				reusable = true
+			}
+		}
+		if (manifest.sourceKind === 'flibustier-release' ? !reusable : (!fallback.keys.has(object.key) && !reusable)) collisions.push(object.key)
 	})
 	const result = {
 		schemaVersion: 1,
@@ -813,13 +1060,17 @@ async function preflight(options) {
 		manifestSha256: manifest.artifactSha256,
 		selection: manifest.selection,
 		objects: objects.length,
-		allowedFallbackCollisions: objects.filter((object) => fallback.keys.has(object.key)).length,
-		reusedUploadedObjects: objects.filter((object) => uploadedKeys.has(object.key)).length,
+		allowedFallbackCollisions: manifest.sourceKind === 'flibustier-release' ? 0 : objects.filter((object) => fallback.keys.has(object.key)).length,
+		reusedUploadedObjects: objects.filter((object) => uploadedKeys.has(object.key) || matchingUploadReceipt(object)).length,
 		collisions,
 		failures,
 		status: collisions.length || failures.length ? 'blocked' : 'ok',
 	}
-	await writeArtifact(path.join(RUN_DIR, 'r2-preflight.json'), result)
+	const initialPreflight = path.join(RUN_DIR, 'r2-preflight.json')
+	const output = fs.existsSync(initialPreflight) && result.reusedUploadedObjects > 0
+		? path.join(RUN_DIR, 'r2-postflight.json')
+		: initialPreflight
+	await writeArtifact(output, result)
 	if (collisions.length) throw new Error(`Unknown R2 collisions: ${collisions.slice(0, 20).join(', ')}`)
 	if (failures.length) throw new Error(`R2 preflight content checks failed for ${failures.length} objects`)
 	console.log(JSON.stringify(result, null, 2))
@@ -835,6 +1086,17 @@ function runCommand(command, args, options = {}) {
 		child.on('error', reject)
 		child.on('close', (code) => code === 0 ? resolve({ stdout, stderr }) : reject(new Error(`${command} ${args.join(' ')} exited ${code}: ${stderr || stdout}`)))
 	})
+}
+
+async function runUploadCommand(command, args, retries = 8) {
+	for (let attempt = 0; ; attempt++) {
+		try {
+			return await runCommand(command, args)
+		} catch (error) {
+			if (!String(error?.message).includes('429: Too Many Requests') || attempt === retries) throw error
+			await new Promise((resolve) => setTimeout(resolve, Math.min(2000 * 2 ** attempt, 30000) + Math.floor(Math.random() * 1000)))
+		}
+	}
 }
 
 async function upload(options) {
@@ -855,22 +1117,30 @@ async function upload(options) {
 	)
 	const receiptsRoot = resolveInside(WORK_ROOT, 'upload-receipts', 'upload receipts root')
 	const wrangler = process.env.WRANGLER_BIN || '/usr/local/bin/wrangler'
-	await mapWithConcurrency(objects, 4, async (object) => {
+	await mapWithConcurrency(objects, 12, async (object) => {
 		validateManifestObject(object, audit)
 		const receipt = resolveInside(WORK_ROOT, `upload-receipts/${object.key}.ok`, 'upload receipt')
 		if (fs.existsSync(receipt)) {
 			const previous = readJson(receipt)
-			if (previous.key === object.key && previous.sha256 === object.sha256) return
-			throw new Error(`Upload receipt does not match manifest: ${object.key}`)
+			if (previous.key !== object.key || previous.sha256 !== object.sha256) throw new Error(`Upload receipt does not match manifest: ${object.key}`)
 		}
 		const file = resolveInside(WORK_ROOT, object.path, 'upload input')
 		const localBytes = await fsp.readFile(file)
 		if (localBytes.length !== object.bytes || sha256(localBytes) !== object.sha256) throw new Error(`Upload input checksum mismatch: ${object.key}`)
+		const remote = await inspectRemoteObject(object)
+		if (remote.status !== 404) {
+			if (!remote.matches) throw new Error(`Existing R2 object differs from manifest: ${object.key}`)
+			if (!matchingUploadReceipt(object)) await writeUploadReceipt(object, { recoveredAt: new Date().toISOString() })
+			return
+		}
 		await fsp.mkdir(path.dirname(receipt), { recursive: true })
 		const log = resolveInside(WORK_ROOT, `upload-receipts/${object.key}.log`, 'upload log')
-		const result = await runCommand(wrangler, ['r2', 'object', 'put', `${R2_BUCKET}/${object.key}`, `--file=${file}`, '--content-type=image/webp', '--cache-control=public, max-age=31536000, immutable', '--remote'])
+		// ponytail: Wrangler has no conditional create; this immediate GET narrows but cannot eliminate a cross-machine create race.
+		const immediatelyBeforePut = await inspectRemoteObject(object)
+		if (immediatelyBeforePut.status !== 404) throw new Error(`R2 object appeared before upload: ${object.key}`)
+		const result = await runUploadCommand(wrangler, ['r2', 'object', 'put', `${R2_BUCKET}/${object.key}`, `--file=${file}`, '--content-type=image/webp', '--cache-control=public, max-age=31536000, immutable', '--remote'])
 		await fsp.writeFile(log, `${result.stdout}${result.stderr}`, 'utf8')
-		await fsp.writeFile(receipt, `${JSON.stringify({ key: object.key, uploadedAt: new Date().toISOString(), sha256: object.sha256 })}\n`, 'utf8')
+		await writeUploadReceipt(object, { uploadedAt: new Date().toISOString() })
 	})
 	if (options.shards === 1 && options.shard === null) {
 		await writeArtifact(path.join(RUN_DIR, 'upload-summary.json'), {
@@ -878,6 +1148,7 @@ async function upload(options) {
 			generatedAt: new Date().toISOString(),
 			auditSha256: audit.artifactSha256,
 			manifestSha256: manifest.artifactSha256,
+			preflightSha256: preflight.artifactSha256,
 			selection: manifest.selection,
 			objects: manifest.objects.map(({ key, sha256: digest }) => ({ key, sha256: digest })),
 		})
@@ -904,22 +1175,26 @@ async function verify(options) {
 		const response = await fetchWithRetry(url)
 		const bytes = await readLimitedBody(response)
 		const contentType = response.headers.get('content-type') || ''
+		const cacheControl = response.headers.get('cache-control') || ''
 		const actualSha256 = sha256(bytes)
+		const immutableYear = /(?:^|,)\s*public\s*(?:,|$)/i.test(cacheControl) && /(?:^|,)\s*max-age=31536000\s*(?:,|$)/i.test(cacheControl) && /(?:^|,)\s*immutable\s*(?:,|$)/i.test(cacheControl)
 		return {
-			ok: response.ok && /^image\/webp(?:;|$)/i.test(contentType) && bytes.subarray(0, 4).toString('ascii') === 'RIFF' && bytes.subarray(8, 12).toString('ascii') === 'WEBP' && (!expectedSha256 || actualSha256 === expectedSha256),
+			ok: response.ok && /^image\/webp(?:;|$)/i.test(contentType) && immutableYear && bytes.subarray(0, 4).toString('ascii') === 'RIFF' && bytes.subarray(8, 12).toString('ascii') === 'WEBP' && (!expectedSha256 || actualSha256 === expectedSha256),
 			status: response.status,
 			contentType,
+			cacheControl,
 			actualSha256,
 			bytes: bytes.length,
 		}
 	}
 	await mapWithConcurrency(objects, 16, async (object) => {
 		validateManifestObject(object, audit)
+		if (manifest.sourceKind === 'flibustier-release' && !matchingUploadReceipt(object)) throw new Error(`Missing matching upload receipt: ${object.key}`)
 		const expected = await fsp.readFile(resolveInside(WORK_ROOT, object.path, 'verify input'))
 		if (expected.length !== object.bytes || sha256(expected) !== object.sha256) throw new Error(`Prepared input checksum mismatch: ${object.key}`)
 		for (const url of [`${R2_ORIGIN}/${object.key}?v=${object.sha256.slice(0, 16)}`, `${R2_ORIGIN}/${object.key}`]) {
 			const check = await checkWebp(url, object.sha256)
-			if (!check.ok) failures.push({ key: object.key, url, status: check.status, contentType: check.contentType, expectedSha256: object.sha256, actualSha256: check.actualSha256, expectedBytes: expected.length, actualBytes: check.bytes })
+			if (!check.ok) failures.push({ key: object.key, url, status: check.status, contentType: check.contentType, cacheControl: check.cacheControl, expectedSha256: object.sha256, actualSha256: check.actualSha256, expectedBytes: expected.length, actualBytes: check.bytes })
 		}
 	})
 	const selectedDownstreamOnly = selectedTargets(audit, options, ['downstream-only'])
@@ -956,20 +1231,22 @@ async function writeFilesAtomically(entries) {
 	const unique = new Map()
 	for (const entry of entries) {
 		if (unique.has(entry.file)) throw new Error(`Duplicate atomic-write target: ${entry.file}`)
-		unique.set(entry.file, entry.content)
+		unique.set(entry.file, entry)
 	}
 	const staged = []
 	const committed = []
 	try {
-		for (const [file, content] of unique) {
+		for (const [file, entry] of unique) {
 			await fsp.mkdir(path.dirname(file), { recursive: true })
 			const temp = path.join(path.dirname(file), `.${path.basename(file)}.${process.pid}.${crypto.randomBytes(6).toString('hex')}.tmp`)
-			const item = { file, temp, existed: fs.existsSync(file), previous: null }
+			const item = { file, temp, existed: fs.existsSync(file), previous: null, expectedSha256: entry.expectedSha256 ?? null }
 			staged.push(item)
-			await fsp.writeFile(temp, content, 'utf8')
+			await fsp.writeFile(temp, entry.content, 'utf8')
 			if (item.existed) item.previous = await fsp.readFile(file, 'utf8')
+			if (item.expectedSha256 && sha256(Buffer.from(item.previous ?? '', 'utf8')) !== item.expectedSha256) throw new Error(`Atomic-write baseline changed: ${file}`)
 		}
 		for (const item of staged) {
+			if (item.expectedSha256 && sha256(await fsp.readFile(item.file)) !== item.expectedSha256) throw new Error(`Atomic-write target changed before commit: ${item.file}`)
 			await fsp.rename(item.temp, item.file)
 			committed.push(item)
 		}
@@ -995,6 +1272,7 @@ async function apply(options) {
 	assertManifestScope(manifest, audit, options)
 	const preflight = readArtifact(path.join(RUN_DIR, 'r2-preflight.json'))
 	const verification = readArtifact(path.join(RUN_DIR, 'r2-verify.json'))
+	const uploadSummary = loadUploadSummary(manifest)
 	if (
 		preflight.status !== 'ok' || verification.status !== 'ok' ||
 		preflight.auditSha256 !== audit.artifactSha256 || preflight.manifestSha256 !== manifest.artifactSha256 ||
@@ -1013,10 +1291,14 @@ async function apply(options) {
 	for (const target of applyTargets) validateAuditTarget(target)
 	const changedMetadata = []
 	const metadataFiles = new Map()
+	const metadataBaselines = new Map()
 	for (const target of applyTargets) {
 		const config = LOCALE_CONFIG[target.locale]
 		const file = metadataCardFile(setFolders, target.setId, target.localId)
-		const original = metadataFiles.get(file) ?? fs.readFileSync(file, 'utf8')
+		const initial = fs.readFileSync(file, 'utf8')
+		assertMetadataApplyBaseline(target, initial)
+		metadataBaselines.set(file, sha256(Buffer.from(initial, 'utf8')))
+		const original = metadataFiles.get(file) ?? initial
 		const updated = patchImageBlock(original, config.apiLocale, target.desiredImage)
 		metadataFiles.set(file, updated)
 		if (updated !== original) changedMetadata.push({ cardId: target.id, locale: target.locale, file: path.relative(ROOT, file), image: target.desiredImage })
@@ -1024,28 +1306,40 @@ async function apply(options) {
 
 	const downstreamChanges = []
 	const downstreamFiles = new Map()
+	const downstreamBaselines = new Map()
 	for (const [locale, config] of Object.entries(LOCALE_CONFIG)) {
 		const updates = new Map()
-		for (const target of applyTargets.filter((item) => item.locale === locale)) updates.set(target.key, target.desiredImage)
-		if (!updates.size) continue
 		const file = path.join(DOWNSTREAM, 'locales', 'card', config.file)
 		const beforeText = fs.readFileSync(file, 'utf8')
 		const before = JSON.parse(beforeText)
+		for (const target of applyTargets.filter((item) => item.locale === locale)) {
+			assertDownstreamApplyBaseline(target, before[target.key])
+			updates.set(target.key, target.desiredImage)
+		}
+		if (!updates.size) continue
 		const afterText = patchJsonImages(beforeText, updates)
 		const after = JSON.parse(afterText)
 		for (const key of Object.keys(before)) {
 			if (comparableWithoutImage(before[key]) !== comparableWithoutImage(after[key])) throw new Error(`Downstream non-image field changed: ${locale}/${key}`)
 		}
 		downstreamFiles.set(file, afterText)
+		downstreamBaselines.set(file, sha256(Buffer.from(beforeText, 'utf8')))
 		for (const [key, image] of updates) downstreamChanges.push({ locale, key, id: after[key].id, image })
 	}
 
 	const fallback = knownFallbackKeys()
+	const fallbackBaseline = sha256(fs.readFileSync(fallback.file))
 	const resolvedIds = new Set(applyTargets.map((target) => `${target.id}:${LOCALE_CONFIG[target.locale].apiLocale}`))
 	const remainingFallback = fallback.manifest.entries.filter((entry) => !resolvedIds.has(`${entry.cardId}:${entry.locale}`))
 	const nextFallback = { ...fallback.manifest, generatedAt: new Date().toISOString(), entries: remainingFallback }
 	const nextFallbackText = `${JSON.stringify(nextFallback, null, 2)}\n`
 	const unresolved = audit.targets.filter((target) => target.status === 'unresolved-english-fallback')
+	const downstreamCatalog = Object.values(LOCALE_CONFIG).map((config) => {
+		const file = path.join(DOWNSTREAM, 'locales', 'card', config.file)
+		const content = downstreamFiles.get(file) ?? fs.readFileSync(file, 'utf8')
+		return { file: path.relative(DOWNSTREAM, file).split(path.sep).join('/'), sha256: sha256(Buffer.from(content, 'utf8')) }
+	})
+	const rarityFile = path.join(DOWNSTREAM, 'lib', 'config', 'cardRarity.additions.json')
 	const receipt = {
 		schemaVersion: 1,
 		appliedAt: new Date().toISOString(),
@@ -1053,18 +1347,24 @@ async function apply(options) {
 		manifestSha256: manifest.artifactSha256,
 		preflightSha256: preflight.artifactSha256,
 		verificationSha256: verification.artifactSha256,
+		preUploadCollisionEvidence: uploadSummary?.preflightSha256 === preflight.artifactSha256
+			? { status: 'bound', preflightSha256: preflight.artifactSha256 }
+			: { status: 'unavailable', reason: 'The retained preflight was generated after upload and the original pre-upload artifact was overwritten.' },
 		selection: manifest.selection,
+		processedTargets: applyTargets.map(({ id, locale, key, desiredImage }) => ({ id, locale, key, desiredImage })),
 		metadataChanges: changedMetadata,
 		downstreamChanges,
+		downstreamCatalog,
+		downstreamRarity: { file: path.relative(DOWNSTREAM, rarityFile).split(path.sep).join('/'), sha256: sha256(fs.readFileSync(rarityFile)) },
 		unresolvedCount: unresolved.length,
 		remainingFallbackObjectEntries: remainingFallback.length,
 		finalFallbackManifestSha256: sha256(Buffer.from(nextFallbackText, 'utf8')),
 	}
 
 	await writeFilesAtomically([
-		...([...metadataFiles].map(([file, content]) => ({ file, content }))),
-		...([...downstreamFiles].map(([file, content]) => ({ file, content }))),
-		{ file: fallback.file, content: nextFallbackText },
+		...([...metadataFiles].map(([file, content]) => ({ file, content, expectedSha256: metadataBaselines.get(file) }))),
+		...([...downstreamFiles].map(([file, content]) => ({ file, content, expectedSha256: downstreamBaselines.get(file) }))),
+		{ file: fallback.file, content: nextFallbackText, expectedSha256: fallbackBaseline },
 		{ file: path.join(RUN_DIR, 'apply-receipt.json'), content: `${JSON.stringify(withArtifactDigest(receipt), null, 2)}\n` },
 	])
 
@@ -1093,10 +1393,14 @@ if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve(fileURLToP
 
 export {
 	assertExactR2Url,
+	assertDownstreamApplyBaseline,
+	assertMetadataApplyBaseline,
 	assertR2Key,
 	assertSourceUrl,
 	assertSelection,
 	artifactDigest,
+	flibustierArchiveMember,
+	inspectRemoteObject,
 	patchImageBlock,
 	resolveInside,
 	selectionIds,

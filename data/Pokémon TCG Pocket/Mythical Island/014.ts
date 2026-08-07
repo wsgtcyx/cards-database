@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1a/014",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1a/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1a/014",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/014"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1a/014",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1a/014"
     },
     name: {
         en: "Volcarona",

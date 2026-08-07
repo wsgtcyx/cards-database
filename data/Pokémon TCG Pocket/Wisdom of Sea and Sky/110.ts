@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4/110",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/110",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/110",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/110"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/110",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/110"
     },
     name: {
         en: "Spinarak",

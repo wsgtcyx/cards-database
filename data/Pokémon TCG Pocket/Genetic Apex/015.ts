@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/015",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/015",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/015",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/015"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/015",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/015"
     },
     name: {
         en: "Parasect",

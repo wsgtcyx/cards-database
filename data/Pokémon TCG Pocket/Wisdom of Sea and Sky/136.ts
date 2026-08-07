@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4/136",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/136",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/136",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/136"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/136",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/136"
     },
     name: {
         en: "Porygon2",

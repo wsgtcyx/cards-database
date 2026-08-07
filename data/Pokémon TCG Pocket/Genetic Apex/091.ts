@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/091",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/091",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/091",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/091"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/091",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/091"
     },
     name: {
         en: "Bruxish",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3a/103",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/103",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/103",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/103"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/103",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/103"
     },
     name: {
         en: "Nihilego",

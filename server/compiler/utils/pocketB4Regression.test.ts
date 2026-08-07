@@ -7,10 +7,30 @@ import psychicTechnicalMachine from '../../../data/Pokémon TCG Pocket/Ruler of 
 import alolanVulpix from '../../../data/Pokémon TCG Pocket/Ruler of the Skies/204'
 import alolanNinetalesEx from '../../../data/Pokémon TCG Pocket/Ruler of the Skies/225'
 import rulerOfTheSkies from '../../../data/Pokémon TCG Pocket/Ruler of the Skies'
+import promo79 from '../../../data/Pokémon TCG Pocket/Promos-B/079'
+import promo80 from '../../../data/Pokémon TCG Pocket/Promos-B/080'
+import promo81 from '../../../data/Pokémon TCG Pocket/Promos-B/081'
+import promo82 from '../../../data/Pokémon TCG Pocket/Promos-B/082'
+import promo83 from '../../../data/Pokémon TCG Pocket/Promos-B/083'
+import promo84 from '../../../data/Pokémon TCG Pocket/Promos-B/084'
+import promo85 from '../../../data/Pokémon TCG Pocket/Promos-B/085'
+import promo86 from '../../../data/Pokémon TCG Pocket/Promos-B/086'
+import promosB from '../../../data/Pokémon TCG Pocket/Promos-B'
 import translate from './translationUtil'
 import { getDataFolder } from './util'
 
 describe('B4 catalog metadata regressions', () => {
+	test('keeps Promo-B 79–86 rarity and Vol. 11 membership aligned', () => {
+		expect(promosB.boosters?.vol11?.logo).toBeUndefined()
+		expect(promosB.boosters?.vol11?.artwork_front).toBeUndefined()
+		expect([promo79, promo80, promo81, promo82, promo83, promo84, promo85, promo86].map((card) => card.rarity)).toEqual([
+			'One Star', 'Four Diamond', 'One Diamond', 'One Diamond', 'Three Diamond', 'One Diamond', 'Three Diamond', 'Three Diamond',
+		])
+		expect([promo79, promo80, promo81, promo82, promo83, promo84, promo85, promo86].map((card) => card.boosters ?? [])).toEqual([
+			[], ['vol11'], ['vol11'], ['vol11'], ['vol11'], ['vol11'], [], [],
+		])
+	})
+
 	test('declares one set-level booster without repeating it on cards', () => {
 		expect(Object.keys(rulerOfTheSkies.boosters ?? {})).toEqual(['ruler-of-the-skies'])
 		expect(firstCard.boosters).toBeUndefined()

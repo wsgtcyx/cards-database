@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/202",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/202",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/202",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/202"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/202",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/202"
     },
     name: {
         en: "Chansey",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A1/262",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A1/262",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A1/262",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/262"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A1/262",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A1/262"
     },
     name: {
         en: "Mewtwo ex",

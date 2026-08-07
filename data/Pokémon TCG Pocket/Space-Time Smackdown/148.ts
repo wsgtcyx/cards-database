@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/148",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/148",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/148",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/148"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/148",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/148"
     },
     name: {
         en: "Rocky Helmet",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/117",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/117",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/117",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/117"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/117",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/117"
     },
     name: {
         en: "Bronzong",

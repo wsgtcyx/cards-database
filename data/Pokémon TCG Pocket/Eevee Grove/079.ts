@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3b/079",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3b/079",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3b/079",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/079"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3b/079",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3b/079"
     },
     name: {
         en: "Flareon ex",

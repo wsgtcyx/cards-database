@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2b/035",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2b/035",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2b/035",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/035"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2b/035",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2b/035"
     },
     name: {
         en: "Giratina ex",

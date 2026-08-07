@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3a/063",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3a/063",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3a/063",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/063"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3a/063",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3a/063"
     },
     name: {
         en: "Beast Wall",

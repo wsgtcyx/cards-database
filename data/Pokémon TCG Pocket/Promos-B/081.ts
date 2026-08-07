@@ -22,7 +22,7 @@ const card: Card = {
         ja: "キバニア"
     },
     illustrator: "Masakazu Fukuda",
-    rarity: "None",
+    rarity: "One Diamond",
     category: "Pokemon",
     hp: 50,
     types: ["Water"],
@@ -66,7 +66,8 @@ const card: Card = {
             value: "+20"
         }
     ],
-    retreat: 1
+    retreat: 1,
+    boosters: ["vol11"]
 };
 
 export default card;

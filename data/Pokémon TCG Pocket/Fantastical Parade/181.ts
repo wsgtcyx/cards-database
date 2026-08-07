@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B2/181",
         it: "https://game.pokemontcgpocket.app/it/tcgp/B2/181",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B2/181",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/181"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B2/181",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B2/181"
     },
     name: {
         en: "Blacephalon ex",

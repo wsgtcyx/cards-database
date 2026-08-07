@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4/065",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4/065",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4/065",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/065"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4/065",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4/065"
     },
     name: {
         en: "Lanturn ex",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/201",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/201",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/201",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/201"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/201",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/201"
     },
     name: {
         en: "Weavile ex",

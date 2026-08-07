@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-A/070",
         it: "https://game.pokemontcgpocket.app/it/tcgp/P-A/070",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-A/070",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/070"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-A/070",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-A/070"
     },
     name: {
         en: "Alolan Ninetales",

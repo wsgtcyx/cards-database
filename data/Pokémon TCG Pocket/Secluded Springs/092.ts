@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A4a/092",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A4a/092",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/092",
-        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/092"
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/092",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A4a/092"
     },
     name: {
         en: "Monferno",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A2/104",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A2/104",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A2/104",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/104"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A2/104",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A2/104"
     },
     name: {
         en: "Spiritomb",

@@ -8,7 +8,8 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/A3/026",
         it: "https://game.pokemontcgpocket.app/it/tcgp/A3/026",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/A3/026",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/026"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A3/026",
+        en: "https://game.pokemontcgpocket.app/en/tcgp/A3/026"
     },
     name: {
         en: "Arcanine",
