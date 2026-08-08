@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "generatedAt": "2026-08-08T00:00:00.000Z",
+  "records": [
+    {
+      "id": "B4-106",
+      "field": "description",
+      "locale": "it",
+      "english": "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+      "value": "Le cellule del suo corpo sono calamite. Il suo corpo emette onde magnetiche, tramite le quali comunica con i suoi simili.",
+      "sourceUrl": "https://www.pokemon.com/it/pokedex/beldum",
+      "sourceKind": "official-pokemon-pokedex",
+      "cardImageSha256": "4dea5de55761b70c2b9aed4ee4ddd3f72769567d4e14d525178e46a8d9187fb8",
+      "ocrSupport": ["paddleocr"],
+      "decision": "official-exact-plus-card-ocr"
+    },
+    {
+      "id": "B4-106",
+      "field": "description",
+      "locale": "es",
+      "english": "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+      "value": "Todas sus células cuentan con carga magnética, y se comunica con los suyos a través de pulsos electromagnéticos.",
+      "sourceUrl": "https://www.pokemon.com/es/pokedex/beldum",
+      "sourceKind": "official-pokemon-pokedex",
+      "cardImageSha256": "6d5710c0aef2249df198b78cce6a29402eac9086b62a9a56313dfd24cf431e8a",
+      "ocrSupport": ["apple-vision", "paddleocr"],
+      "decision": "official-exact-plus-card-ocr"
+    },
+    {
+      "id": "B4-106",
+      "field": "description",
+      "locale": "zh-tw",
+      "english": "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+      "value": "全身細胞都由磁鐵構成。會從身體放出磁力藉此和夥伴對話。",
+      "sourceUrl": "https://tw.portal-pokemon.com/play/pokedex/0374",
+      "sourceKind": "official-pokemon-pokedex",
+      "cardImageSha256": "ab48501138de3a1b2f364c389ad32e8654bf400c0f9c32bd38dbb0f6c76e7783",
+      "ocrSupport": ["apple-vision", "paddleocr"],
+      "decision": "official-exact-plus-card-ocr"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-08T12:56:37.808Z",
+  "downloadsFile": "meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/downloads.json",
+  "count": 20,
+  "records": [
+    {
+      "id": "B4-003",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/3_de.png",
+      "sourceSha256": "b740c36bd81cb55a0f4b1532e04910a17063cf86a63fd6ae4b22cf0f5054103b",
+      "bytes": 254141
+    },
+    {
+      "id": "B4-005",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/5_de.png",
+      "sourceSha256": "991f434979c8705c90904131d4455680f0011fa276b4d810e2af398b87ab3512",
+      "bytes": 313713
+    },
+    {
+      "id": "B4-007",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/7_de.png",
+      "sourceSha256": "bcd4d86c437733a132416d0b41d4ca1b6fdd92dc66bb360f8fd771252e277a7b",
+      "bytes": 301842
+    },
+    {
+      "id": "B4-013",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/13_de.png",
+      "sourceSha256": "426d57a79476015ce79026582f02e87cf99a4fd59463850af532a0762e6425ce",
+      "bytes": 273914
+    },
+    {
+      "id": "B4-014",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/14_de.png",
+      "sourceSha256": "8d576d37eae682350ea8d410a7b21c9dbc6b6e67cb5081d2062a3ed4fc986048",
+      "bytes": 299766
+    },
+    {
+      "id": "B4-016",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/16_de.png",
+      "sourceSha256": "a3fd4a6693e1ea1f5c61ba8a758dd01a85ccfc31b71bef8fbf1c97e8412ff6f8",
+      "bytes": 286221
+    },
+    {
+      "id": "B4-017",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/17_de.png",
+      "sourceSha256": "0b5ce3ec8e8832c3e58e547f7b8a723f821d069dd6c4a8c3031dbf1cf3b0e4a8",
+      "bytes": 268775
+    },
+    {
+      "id": "B4-185",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/185_de.png",
+      "sourceSha256": "f834a54d68f98a0ba5d2fa9134ccf9365e10531c22d68731ba55794a6ae840c2",
+      "bytes": 333212
+    },
+    {
+      "id": "B4-186",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/186_de.png",
+      "sourceSha256": "b58ad42ecd9c3251d4fa109adb962b80ed7a4c03fce1b8595636926463a95bd7",
+      "bytes": 380263
+    },
+    {
+      "id": "B4-187",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/187_de.png",
+      "sourceSha256": "f0d5bc55e204b45fa1e733286f78b039f30190d5b6e8bb96004147102054994d",
+      "bytes": 351503
+    },
+    {
+      "id": "B4-188",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/188_de.png",
+      "sourceSha256": "1c5a87b169a68d21d85826e1e53589ae49eab1079e46156aadfdc0bcecf30444",
+      "bytes": 373576
+    },
+    {
+      "id": "B4-189",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/189_de.png",
+      "sourceSha256": "835431347c603a53449491b0a3918f730aeb432aebaa3e2a85547abb07347c94",
+      "bytes": 319284
+    },
+    {
+      "id": "B4-190",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/190_de.png",
+      "sourceSha256": "fed42907301d267052c6c29ef306404f458bfa6500b286670e0ba953e04e0ef1",
+      "bytes": 278697
+    },
+    {
+      "id": "B4-191",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/191_de.png",
+      "sourceSha256": "1e96e98fd38a5b7e40a94f0d06d856d1a6c8455a368d8b0508d0671303a84488",
+      "bytes": 289893
+    },
+    {
+      "id": "B4-192",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/192_de.png",
+      "sourceSha256": "70342da7205bc46b0e1356cd25ebe7ea85afcec752db27c4839e979afd645d0c",
+      "bytes": 272601
+    },
+    {
+      "id": "B4-193",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/193_de.png",
+      "sourceSha256": "7293ed69792f25db1be1dac4a707eb3bf6bbb7acd0b2f4b61956d2f90d0524bd",
+      "bytes": 282931
+    },
+    {
+      "id": "B4-194",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/194_de.png",
+      "sourceSha256": "a75632cbe2a154a42794387a5da3e48bc01e8868d93b101cb373fde0485a3b00",
+      "bytes": 298075
+    },
+    {
+      "id": "B4-195",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/195_de.png",
+      "sourceSha256": "329ad09427a0a6d73f5f87ff94fb30b5b0b56b40fdd26df85f87462096db75f6",
+      "bytes": 320711
+    },
+    {
+      "id": "B4-196",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/196_de.png",
+      "sourceSha256": "ac6f41147b153f0244fa08281e1544e2cf9707dac1ed0d28d0254908f69a30b3",
+      "bytes": 351485
+    },
+    {
+      "id": "B4-197",
+      "locale": "de",
+      "sourceUrl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/197_de.png",
+      "sourceSha256": "bfbecf64313de47d84c647e212995913b7d48e8d2bb63c7cd89203dda07aaadb",
+      "bytes": 204177
+    }
+  ]
+}

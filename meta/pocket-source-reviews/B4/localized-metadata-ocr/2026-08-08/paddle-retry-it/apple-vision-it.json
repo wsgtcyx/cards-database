@@ -1,0 +1,1890 @@
+[
+  {
+    "id": "B4-003",
+    "locale": "it",
+    "sourceSha256": "13783c2f81826fea96a7469e2fd39cce4bee5f8ba742841804509d0cf896530f",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9334246573721853,
+          "x": 0.037990451312856395,
+          "width": 0.11967127219490384,
+          "height": 0.01986943557858467
+        },
+        "text": "FASE2",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.904710828842695,
+          "x": 0.1788596403417069,
+          "width": 0.278150288955025,
+          "height": 0.049953341484069824
+        },
+        "text": "Beautifly",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8906250001302083,
+          "x": 0.16304348607069366,
+          "width": 0.15760868528614871,
+          "height": 0.015625
+        },
+        "text": "Si evolve da Sicoa",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562504687499,
+          "x": 0.717391304347826,
+          "width": 0.15217391304347827,
+          "height": 0.046875
+        },
+        "text": "PS 130",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26086955724637706,
+          "width": 0.4782608695652174,
+          "height": 0.01953125
+        },
+        "text": "N° 0267 Pokémon Farfalla Altezza: 1,0 m Peso: 28,4 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3398437501464844,
+          "x": 0.3097826112771739,
+          "width": 0.2065217391304348,
+          "height": 0.02734375
+        },
+        "text": "Evolvolo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750019531243,
+          "x": 0.8586956528726708,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "30+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078124980468746,
+          "x": 0.07608694793478275,
+          "width": 0.858695652173913,
+          "height": 0.02734375
+        },
+        "text": "Questo attacco infligge 30 danni in più per ogni",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26562499954427077,
+          "x": 0.07065220098567337,
+          "width": 0.630434741144595,
+          "height": 0.02734375
+        },
+        "text": "Pokémon Evoluzione nella tua panchina.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625013020829,
+          "x": 0.46195652961956496,
+          "width": 0.4728260869565218,
+          "height": 0.0234375
+        },
+        "text": "Ha un indole aggressiva. Conficca la sua bocca",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.046875,
+          "x": 0.461956519373357,
+          "width": 0.4619564802750298,
+          "height": 0.015625
+        },
+        "text": "lunga e sottile nelle prede e ne succhia i fluidi",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-007",
+    "locale": "it",
+    "sourceSha256": "341e536e2c6ee938e609f28f167f071bfee8ec2e9a8a4565bbacbb7077a5ec8c",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937501464844,
+          "x": 0.038043479891304306,
+          "width": 0.13043478260869565,
+          "height": 0.01953125
+        },
+        "text": "FASE2",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9043196747981852,
+          "x": 0.17600660057302003,
+          "width": 0.2354719949805218,
+          "height": 0.06072166562080383
+        },
+        "text": "Cradily",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501464844,
+          "x": 0.1684782627038043,
+          "width": 0.14673913043478262,
+          "height": 0.01953125
+        },
+        "text": "Si evolve de Lileep",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562496419271,
+          "x": 0.717391303713768,
+          "width": 0.15217391304347827,
+          "height": 0.04296875
+        },
+        "text": "PS 150",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26086955724637706,
+          "width": 0.4782608695652174,
+          "height": 0.01953125
+        },
+        "text": "N° 0346 Pokémon Lepade Altezza: 1,5 m Pesa: 60,4 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3437499995703125,
+          "x": 0.3043478245652174,
+          "width": 0.4891304347826087,
+          "height": 0.04296875
+        },
+        "text": "Avvinghia e Assorbi",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3515625001464844,
+          "x": 0.8586956519248189,
+          "width": 0.07065217391304346,
+          "height": 0.03515625
+        },
+        "text": "70",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3164062498535156,
+          "x": 0.07065216317934811,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Cura questo Pokémon da 30 danni. Durante il prossimo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.281249999609375,
+          "x": 0.07065218369565197,
+          "width": 0.858695652173913,
+          "height": 0.03125
+        },
+        "text": "turno del tuo avversario, il Pokémon difensore non può",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2529288587448729,
+          "x": 0.07038249821935424,
+          "width": 0.13097413726474927,
+          "height": 0.021486032754182816
+        },
+        "text": "ritirarsi.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065218190402697,
+          "width": 0.16847825050354004,
+          "height": 0.01953125
+        },
+        "text": "Ill. Midori Harado",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750019531243,
+          "x": 0.07065217486413042,
+          "width": 0.1141304347826087,
+          "height": 0.03125
+        },
+        "text": "00•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625013020829,
+          "x": 0.41304348695652143,
+          "width": 0.5217391304347827,
+          "height": 0.0234375
+        },
+        "text": "Cattura le prede con i tentacoli e le scioglie con un",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.050781250097656216,
+          "x": 0.3586956870363974,
+          "width": 0.5652173498402471,
+          "height": 0.01171875
+        },
+        "text": "fluido direstivo, assorbendone cosi le sostanze nutritive",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-009",
+    "locale": "it",
+    "sourceSha256": "7d901f0955b794c2258c057dd350479da03fda8169663cbf74ffe688bb7d4572",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624998535156,
+          "x": 0.03804347214673926,
+          "width": 0.4891304347826087,
+          "height": 0.04296875
+        },
+        "text": "FASET Kricketune",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16304348634243276,
+          "width": 0.17391303311223572,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da Krickator",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.910156250423177,
+          "x": 0.7499999996829709,
+          "width": 0.125,
+          "height": 0.05078125
+        },
+        "text": "PS 90",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26630434003623216,
+          "width": 0.46739130434782605,
+          "height": 0.01953125
+        },
+        "text": "N° 0402 Pokémon Grillo Altezza: 1,0 m Pesa: 25,5 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3046875004104892,
+          "x": 0.30978261306344734,
+          "width": 0.16847825050354004,
+          "height": 0.03124999813735485
+        },
+        "text": "Ronzio",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078124977678566,
+          "x": 0.8586956516692547,
+          "width": 0.07065217391304357,
+          "height": 0.0390625
+        },
+        "text": "50",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217708333323,
+          "width": 0.19021739130434784,
+          "height": 0.01953125
+        },
+        "text": "Ill. Anesaki Dynamic",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375011718748,
+          "x": 0.07608695684782607,
+          "width": 0.03260869565217392,
+          "height": 0.02734375
+        },
+        "text": "•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625019531243,
+          "x": 0.42391304986413025,
+          "width": 0.5108695652173914,
+          "height": 0.0234375
+        },
+        "text": "C'è un villaggio che organizza una gara basata sulle",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.050781250097656216,
+          "x": 0.4184782942374845,
+          "width": 0.505434741144595,
+          "height": 0.01171875
+        },
+        "text": "melodie incred bimente varie di questo Pokémon",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-010",
+    "locale": "it",
+    "sourceSha256": "75d97e13357ff135db75e48a537d833a0bc3cdf2fd7e1c863effc95378b5f568",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937500459559,
+          "x": 0.05434782581521739,
+          "width": 0.09239130434782608,
+          "height": 0.015625
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9129617752204247,
+          "x": 0.17358435415155024,
+          "width": 0.27239650228749157,
+          "height": 0.04517019912600517
+        },
+        "text": "Combee",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562502278646,
+          "x": 0.7500000009963768,
+          "width": 0.11956521739130432,
+          "height": 0.04296875
+        },
+        "text": "PS 50",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26630434003623216,
+          "width": 0.46739130434782605,
+          "height": 0.01953125
+        },
+        "text": "N° 0415 Pokémon Apetta Altezza: 0,3 m Peso: 5,5 kg)",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3203125004104892,
+          "x": 0.3097826067934783,
+          "width": 0.41847826086956524,
+          "height": 0.031249999068677425
+        },
+        "text": "Carica Avventata",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28125000019531243,
+          "x": 0.07608696684782579,
+          "width": 0.8260869565217391,
+          "height": 0.03125
+        },
+        "text": "Questo Pokémon infligge anche 10 danni a se stesso.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31640625019531254,
+          "x": 0.8586956525966183,
+          "width": 0.07608695652173914,
+          "height": 0.04296875
+        },
+        "text": "30",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499984374999,
+          "x": 0.2826086944021739,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217699275353,
+          "width": 0.1847826086956522,
+          "height": 0.01953125
+        },
+        "text": "Ill. Yoriyuki Ikegami",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859374983723953,
+          "x": 0.07608695629528986,
+          "width": 0.027173913043478257,
+          "height": 0.02734375
+        },
+        "text": "•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625039062498,
+          "x": 0.3478260873188406,
+          "width": 0.5869565217391304,
+          "height": 0.0234375
+        },
+        "text": "Il trio è insieme dalla nascita. Passa il tempo a raccogliere",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04296874960937502,
+          "x": 0.49456521702898565,
+          "width": 0.43478260869565216,
+          "height": 0.0234375
+        },
+        "text": "i nettare dei fiori per far felice Vespiquen.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-011",
+    "locale": "it",
+    "sourceSha256": "e1673f7b522a20c32c5cbc607a35722cf1406a58a8f9fae797b85dd168f8defb",
+    "lines": [
+      {
+        "box": {
+          "y": 0.929687500390625,
+          "x": 0.04347826150362316,
+          "width": 0.14673913043478262,
+          "height": 0.0234375
+        },
+        "text": "FASET",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9062499998535156,
+          "x": 0.17934782333559787,
+          "width": 0.4402173913043479,
+          "height": 0.046875
+        },
+        "text": "Vespiquen ex",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.168478268769969,
+          "width": 0.1630434678948444,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da Comber",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562505078125,
+          "x": 0.7173913044021739,
+          "width": 0.15760869565217395,
+          "height": 0.05078125
+        },
+        "text": "PS 140",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33203125019531243,
+          "x": 0.3097826138586956,
+          "width": 0.5163043478260869,
+          "height": 0.03515625
+        },
+        "text": "Ordine di Inseguimento",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3359374998535156,
+          "x": 0.8260869548913042,
+          "width": 0.13043478260869568,
+          "height": 0.03515625
+        },
+        "text": "70+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218464673892,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Puoi scartare uno dei tuoi Pokémon Base e in panchina.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656250005208334,
+          "x": 0.07065217835144914,
+          "width": 0.7445652173913044,
+          "height": 0.031249999068677425
+        },
+        "text": "Se lo fai, questo attacco infligge 70 danni in più.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499984374999,
+          "x": 0.2826086944021739,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593749997495992,
+          "x": 0.07065217418478259,
+          "width": 0.21195652173913043,
+          "height": 0.01953125
+        },
+        "text": "IN. PLANETA CG Works",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.054687499944196416,
+          "x": 0.07065217418478262,
+          "width": 0.15217391304347824,
+          "height": 0.03125
+        },
+        "text": "000•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11718750059586958,
+          "x": 0.5706521751811594,
+          "width": 0.07608695652173914,
+          "height": 0.015624999068677425
+        },
+        "text": "ritirata",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06990458379584386,
+          "x": 0.364006411088913,
+          "width": 0.14698717905127484,
+          "height": 0.02425333298742771
+        },
+        "text": "Regola eX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625019531243,
+          "x": 0.5380434842391303,
+          "width": 0.35869565217391297,
+          "height": 0.01953125
+        },
+        "text": "Il tuo avversario guadagna 2 punti",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04296875019531243,
+          "x": 0.3532608760190216,
+          "width": 0.5163043478260869,
+          "height": 0.0234375
+        },
+        "text": "ogni volta che uno dei tuoi Pokémon-eX va KO.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-016",
+    "locale": "it",
+    "sourceSha256": "61e74ccff33b52c7967cdff6589d0ec7faeadbb711490835f7ad0a4cb98d36bb",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937500459559,
+          "x": 0.05434782581521739,
+          "width": 0.09239130434782608,
+          "height": 0.015625
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625005371094,
+          "x": 0.17391304028532617,
+          "width": 0.36413043478260876,
+          "height": 0.04296875
+        },
+        "text": "Pheromosa",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562502278646,
+          "x": 0.7500000009963768,
+          "width": 0.11956521739130432,
+          "height": 0.04296875
+        },
+        "text": "PS70",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8515625001302083,
+          "x": 0.6630434826992753,
+          "width": 0.2663043478260869,
+          "height": 0.0234375
+        },
+        "text": "Ultracreatura",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001464844,
+          "x": 0.25000000624999985,
+          "width": 0.5,
+          "height": 0.01953125
+        },
+        "text": "N° 0795 Pokémon Leggiadria Altezza: 1,8 m Peso: 25,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3398437501464844,
+          "x": 0.3097826110733695,
+          "width": 0.19021739130434784,
+          "height": 0.02734375
+        },
+        "text": "Prelude",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3359375001464844,
+          "x": 0.8586956534646738,
+          "width": 0.1032608695652174,
+          "height": 0.03515625
+        },
+        "text": "30+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "Se non hai ottenuto alcun punto, questo attacco infligge",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26562500006510414,
+          "x": 0.07065217798913027,
+          "width": 0.24456521739130438,
+          "height": 0.02734375
+        },
+        "text": "60 danni in più.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750014648438,
+          "x": 0.07065217581521735,
+          "width": 0.15217391304347827,
+          "height": 0.01953125
+        },
+        "text": "Ill. Hitoshi Ariga",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624993489586,
+          "x": 0.36413042527173944,
+          "width": 0.5706521739130435,
+          "height": 0.01953125
+        },
+        "text": "Un'Ultracreatura che cerca di evitare ogni contatto con le",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500017269253,
+          "x": 0.33152174967226833,
+          "width": 0.5923912628837253,
+          "height": 0.01171875
+        },
+        "text": "cose ai questo mondo, come seto consocrasse contaminuto",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-017",
+    "locale": "it",
+    "sourceSha256": "0f86e5d1d4977d5f00cd4a48adab1bf99d4855d0f1cad85f66c2175932a2c8d2",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937500459559,
+          "x": 0.04891304322250638,
+          "width": 0.09782608695652174,
+          "height": 0.015625
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9062499999023438,
+          "x": 0.17391303858695667,
+          "width": 0.391304347826087,
+          "height": 0.046875
+        },
+        "text": "Poltchageist",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562505078125,
+          "x": 0.7499999997282609,
+          "width": 0.125,
+          "height": 0.05078125
+        },
+        "text": "PS 40",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26630434003623216,
+          "width": 0.46739130434782605,
+          "height": 0.01953125
+        },
+        "text": "N° 1012 Pokémon Matcha Altezza: 0,1 m Pesa: 1,1 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.43749999980468757,
+          "x": 0.10869564918478271,
+          "width": 0.17934782608695654,
+          "height": 0.01953125
+        },
+        "text": "Abilità",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.42145012265117876,
+          "x": 0.30420467053558453,
+          "width": 0.24485152700672974,
+          "height": 0.043818503618240356
+        },
+        "text": "Ospitalità",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3945312502441407,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "Una sola volta durante il tuo turno, quando giochi",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.359375,
+          "x": 0.07065218831521693,
+          "width": 0.8641304347826088,
+          "height": 0.03125
+        },
+        "text": "questo Pokémon dalla tua mano e lo metti in panchina,",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3242187504104892,
+          "x": 0.0706521616847831,
+          "width": 0.7771739130434783,
+          "height": 0.031249999068677425
+        },
+        "text": "puoi curare il tuo Pokémon © attivo da 20 danni.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.22563033754732498,
+          "x": 0.3041087676926524,
+          "width": 0.2885216008061948,
+          "height": 0.04092682525515556
+        },
+        "text": "Fluidospray",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.23437499980468757,
+          "x": 0.8641304341304349,
+          "width": 0.06521739130434778,
+          "height": 0.03515625
+        },
+        "text": "10",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375013020829,
+          "x": 0.07065217635869558,
+          "width": 0.14673913043478262,
+          "height": 0.015625
+        },
+        "text": "Ill. Miki Tanaka",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625039062498,
+          "x": 0.33152172925724666,
+          "width": 0.6032608695652174,
+          "height": 0.0234375
+        },
+        "text": "Può sembrare una forma regionale di Sinistea, ma di recente si è",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04296875029296876,
+          "x": 0.3478260917798912,
+          "width": 0.5815217391304348,
+          "height": 0.0234375
+        },
+        "text": "scoperto che non c'è alcuna relazione fra questi due Pokémon.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-018",
+    "locale": "it",
+    "sourceSha256": "bc56ff779a99cd6a6b51201d2f268af6719078c82f76fe60881a65d8d7c24c30",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140625005371094,
+          "x": 0.03804347669836964,
+          "width": 0.4184782608695652,
+          "height": 0.04296875
+        },
+        "text": "FASET Sinistcha",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.1684782633152173,
+          "width": 0.1467391304347826,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da Poltch",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562505859375,
+          "x": 0.7499999997282609,
+          "width": 0.11956521739130443,
+          "height": 0.046875
+        },
+        "text": "PS 80",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001464844,
+          "x": 0.2663043536684781,
+          "width": 0.4673913043478261,
+          "height": 0.01953125
+        },
+        "text": "N° 1013 Pokémon Matcha Altezza: 0,2 m Pesa: 2,2 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31333270083812226,
+          "x": 0.3029067290529072,
+          "width": 0.31796772583671234,
+          "height": 0.042934902012348175
+        },
+        "text": "Idrovampata",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28515625045572923,
+          "x": 0.07065216132246423,
+          "width": 0.8206521739130435,
+          "height": 0.02734375
+        },
+        "text": "Il Pokémon attivo del tuo avversario viene bruciato.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3203125001708984,
+          "x": 0.8586956526154891,
+          "width": 0.07065217391304346,
+          "height": 0.03515625
+        },
+        "text": "40",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.28260869408967393,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750014648438,
+          "x": 0.07065217642663038,
+          "width": 0.2010869565217391,
+          "height": 0.01953125
+        },
+        "text": "Ill. Tomokazu Komiya",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812500029296876,
+          "x": 0.4456521679347828,
+          "width": 0.48913043478260876,
+          "height": 0.0234375
+        },
+        "text": "Gli piace stare in posti bui e freschi, ad esempio",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.058593750065104144,
+          "x": 0.42391305190217365,
+          "width": 0.5054347826086957,
+          "height": 0.01953125
+        },
+        "text": "in fondo agli scaffali o sotto i pavimenti delle case.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515624980468757,
+          "x": 0.5108695582427538,
+          "width": 0.4184782608695653,
+          "height": 0.01953125
+        },
+        "text": "Dopo il tramonto vaga in cerca di prede.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-022",
+    "locale": "it",
+    "sourceSha256": "9d4e86f0fe2226ee199ed7f9579f3547308133d5f83fa1498f04ba643ad7d62b",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937505958696,
+          "x": 0.04347826295289849,
+          "width": 0.125,
+          "height": 0.015624999068677425
+        },
+        "text": "FASE?",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9138671269901392,
+          "x": 0.1629859131691751,
+          "width": 0.25554990768432617,
+          "height": 0.03945324569940567
+        },
+        "text": "Flareon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8906250001302083,
+          "x": 0.1684782633152173,
+          "width": 0.1467391304347826,
+          "height": 0.015625
+        },
+        "text": "Si evolve da Eavee",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.7228260881793479,
+          "width": 0.1467391304347826,
+          "height": 0.0390625
+        },
+        "text": "PS 110",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001953124,
+          "x": 0.2554347864130434,
+          "width": 0.2282608695652174,
+          "height": 0.01953125
+        },
+        "text": "N° 0136 Pokémon Fiume",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000000651041,
+          "x": 0.49456522155797084,
+          "width": 0.24999999999999994,
+          "height": 0.01953125
+        },
+        "text": "Altezza: 0,9 m Pesa: 25,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33146165888521384,
+          "x": 0.30965727613007366,
+          "width": 0.30459849730781885,
+          "height": 0.03629543259739876
+        },
+        "text": "Scoppiocoda",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3359375001708984,
+          "x": 0.8586956526154891,
+          "width": 0.07065217391304346,
+          "height": 0.03515625
+        },
+        "text": "70",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "Rimuovi un'Energia & da questo Pokémon. II Pokémon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26953125,
+          "x": 0.06521742263422388,
+          "width": 0.6358695237532905,
+          "height": 0.0234375
+        },
+        "text": "attivo del tuo avversario viene bruciato.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328124975585929,
+          "x": 0.2880434767663044,
+          "width": 0.11956521739130438,
+          "height": 0.02734375
+        },
+        "text": "* +20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031249990234378,
+          "x": 0.4130434860853119,
+          "width": 0.5163043063619861,
+          "height": 0.01171875
+        },
+        "text": "Arruna il toto peo intorno al colo per rarcodare",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04296874986979171,
+          "x": 0.5326086890398551,
+          "width": 0.3967391304347826,
+          "height": 0.0234375
+        },
+        "text": "il corpo, che può raggiungere i 900 °C.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-028",
+    "locale": "it",
+    "sourceSha256": "334be0de0c05ae1f315495002c5ebb3da705b97d62ed5714d488f65879e49c82",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624998535156,
+          "x": 0.03804347194293495,
+          "width": 0.5054347826086956,
+          "height": 0.04296875
+        },
+        "text": "FASET Houndoom",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.16847826886054876,
+          "width": 0.16847825050354,
+          "height": 0.01953125
+        },
+        "text": "Si evolve da Hounder",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562505078125,
+          "x": 0.7173913044021739,
+          "width": 0.15760869565217395,
+          "height": 0.05078125
+        },
+        "text": "PS 100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001464844,
+          "x": 0.27173913614130424,
+          "width": 0.45652173913043476,
+          "height": 0.01953125
+        },
+        "text": "N° 0229 Polémon Buio Alterza: 1,4 m Peso: 35,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32715709867807474,
+          "x": 0.29867834249920305,
+          "width": 0.3048172204390816,
+          "height": 0.04099830240011215
+        },
+        "text": "Sgranocchio",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750019531243,
+          "x": 0.8586956526785714,
+          "width": 0.07065217391304346,
+          "height": 0.03515625
+        },
+        "text": "60",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "Lancia una moneta. Se esce testa, rimuovi un'Energia a",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2695312500976562,
+          "x": 0.07065218254076068,
+          "width": 0.6902173913043479,
+          "height": 0.0234375
+        },
+        "text": "caso dal Pokémon attivo del tuo avversario.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328124975585929,
+          "x": 0.2880434767663044,
+          "width": 0.11956521739130438,
+          "height": 0.02734375
+        },
+        "text": "* +20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375013020829,
+          "x": 0.07065217509057965,
+          "width": 0.07065217391304347,
+          "height": 0.015625
+        },
+        "text": "Ill. hnd",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375014648438,
+          "x": 0.5923913086277173,
+          "width": 0.34239130434782605,
+          "height": 0.01953125
+        },
+        "text": "tremare gli altri Pokémon, che si",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515625014648438,
+          "x": 0.570652178396739,
+          "width": 0.3586956521739131,
+          "height": 0.01953125
+        },
+        "text": "precipitano così nelle proprie tane.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-100",
+    "locale": "it",
+    "sourceSha256": "e0d86e5ca15f87c2a088634f9fb53b8048d4ea2acb0fd9653364be29e44d5f0f",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937505958696,
+          "x": 0.05434782780797096,
+          "width": 0.1032608695652174,
+          "height": 0.015624999068677425
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.91406249984375,
+          "x": 0.15760869358695653,
+          "width": 0.20652173913043484,
+          "height": 0.0390625
+        },
+        "text": "Absol",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.910156249609375,
+          "x": 0.7445652171195654,
+          "width": 0.13043478260869557,
+          "height": 0.046875
+        },
+        "text": "PS 70",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.2445652088768119,
+          "width": 0.5108695652173914,
+          "height": 0.01953125
+        },
+        "text": "N° 0359 Pokémon Castrofe Alterza: 1,2 m Peso: 47,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3253764861188082,
+          "x": 0.3076062351052131,
+          "width": 0.26431241242781933,
+          "height": 0.046450790017843246
+        },
+        "text": "Superlama",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750016276047,
+          "x": 0.8586956529891304,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "20+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.29687500019531243,
+          "x": 0.07065218464673892,
+          "width": 0.8586956521739131,
+          "height": 0.03125
+        },
+        "text": "Se questo Pokémon ha un Oggetto Pokémon assegnato,",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656250005208334,
+          "x": 0.07065217599637671,
+          "width": 0.6032608695652174,
+          "height": 0.031249999068677425
+        },
+        "text": "questo attacco infligge 30 danni in più.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11271333899113845,
+          "x": 0.2877967836098095,
+          "width": 0.12005860909171728,
+          "height": 0.028479572385549545
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031249990234378,
+          "x": 0.4130434862211815,
+          "width": 0.5108695237532905,
+          "height": 0.01171875
+        },
+        "text": "con ca san capace di portire san cate",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04296875013020829,
+          "x": 0.33695653161231853,
+          "width": 0.592391304347826,
+          "height": 0.0234375
+        },
+        "text": "considerato erroneamense un Pokémon portatore di disgrazie,",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-104",
+    "locale": "it",
+    "sourceSha256": "a29eabd7b1b3e0a8053a6062a4ff95ae01d831f84786e8f1db625f9d36fc4d5b",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937500488282,
+          "x": 0.05434782581521739,
+          "width": 0.08695652173913043,
+          "height": 0.015625
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9092768928155353,
+          "x": 0.1728499407089796,
+          "width": 0.3174095361129098,
+          "height": 0.04195856302976608
+        },
+        "text": "Skarmory",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562505078125,
+          "x": 0.744565217173913,
+          "width": 0.13043478260869568,
+          "height": 0.05078125
+        },
+        "text": "P$ 90",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.2391304261775365,
+          "width": 0.5163043478260869,
+          "height": 0.01953125
+        },
+        "text": "N° 0227 Pokémon Armuccello Altezza: 1,7 m Peso: 50,5 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3046875000976562,
+          "x": 0.3097826124320651,
+          "width": 0.2989130434782608,
+          "height": 0.03125
+        },
+        "text": "Perforbecco",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3046875001736111,
+          "x": 0.8586956525966183,
+          "width": 0.07608695652173914,
+          "height": 0.0390625
+        },
+        "text": "40",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "4+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217726449265,
+          "width": 0.20108695652173914,
+          "height": 0.01953125
+        },
+        "text": "Ill. Sanosuke Sakuma",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375011718748,
+          "x": 0.07608695684782607,
+          "width": 0.03260869565217392,
+          "height": 0.02734375
+        },
+        "text": "•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031249990234378,
+          "x": 0.46739131353096414,
+          "width": 0.4619564802750297,
+          "height": 0.01171875
+        },
+        "text": "Le penne che peroe sono sotali e amilate, e sl",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-120",
+    "locale": "it",
+    "sourceSha256": "e3dbaf156c6048b4fdca4ad10e257f6d0bb80967eec3a80690dd8f4d996d0003",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9296875001953124,
+          "x": 0.05434782762681157,
+          "width": 0.09239130434782608,
+          "height": 0.01953125000000011
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9023437495117188,
+          "x": 0.17391304103260877,
+          "width": 0.532608695652174,
+          "height": 0.05859375
+        },
+        "text": "Mega Rayquaza eX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562505859375,
+          "x": 0.6902173915081522,
+          "width": 0.20108695652173914,
+          "height": 0.046875
+        },
+        "text": "PS 180",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8828124998046876,
+          "x": 0.6467391255434783,
+          "width": 0.2934782608695653,
+          "height": 0.01953125
+        },
+        "text": "La forma megsevalute di",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8710937505958696,
+          "x": 0.6467391324275361,
+          "width": 0.11956521739130443,
+          "height": 0.015624999068677425
+        },
+        "text": "Rayquaza",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.34272273269452314,
+          "x": 0.30408752883851436,
+          "width": 0.3211727764295495,
+          "height": 0.04502328485250473
+        },
+        "text": "Megascoppio",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.35156250019531243,
+          "x": 0.8586956528726708,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "50x",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3164062501464844,
+          "x": 0.07065218464673892,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Rimuovi tutte le Energie & e 4 da questo Pokémon.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28125000029296876,
+          "x": 0.07608696725543457,
+          "width": 0.8586956521739131,
+          "height": 0.03125
+        },
+        "text": "Questo attacco infligge 50 danni per ogni Energia che hai",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.25000000019531243,
+          "x": 0.07065217887228249,
+          "width": 0.39673913043478265,
+          "height": 0.0234375
+        },
+        "text": "rimosso in questo modo.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.09782609485692555,
+          "width": 0.16304346789484436,
+          "height": 0.01953125
+        },
+        "text": "PLANETA Igarashi",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.3641304394021737,
+          "width": 0.27717391304347827,
+          "height": 0.0234375
+        },
+        "text": "Regola EX Megaevoluzione",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250019531243,
+          "x": 0.8043478375199685,
+          "width": 0.12499998963397485,
+          "height": 0.01171875
+        },
+        "text": "m33a2ra s pur",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-136",
+    "locale": "it",
+    "sourceSha256": "9ea9f409ba773dc657214ba1f6d57ebc9e3d438ebf2b69c534310654baefeee6",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9335937500488282,
+          "x": 0.05434782581521739,
+          "width": 0.08695652173913043,
+          "height": 0.015625
+        },
+        "text": "BASE",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9134588913745226,
+          "x": 0.17372703884991264,
+          "width": 0.26667636373768683,
+          "height": 0.04417596757411957
+        },
+        "text": "Kecleon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562502232143,
+          "x": 0.7500000008928572,
+          "width": 0.125,
+          "height": 0.046875
+        },
+        "text": "PS 80",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001464844,
+          "x": 0.24456522377717374,
+          "width": 0.5108695652173914,
+          "height": 0.01953125
+        },
+        "text": "N° 0352 Pokémon Mutacolore Altezza: 1,0 m Peso: 22,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3515625001171876,
+          "x": 0.30434782907608693,
+          "width": 0.29891304347826086,
+          "height": 0.03515625
+        },
+        "text": "Schiaffaffine",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3515624998647837,
+          "x": 0.8586956523411371,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "20+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31640625019531243,
+          "x": 0.07065218605072418,
+          "width": 0.7282608695652174,
+          "height": 0.02734375
+        },
+        "text": "Se questo Pokémon e il Pokémon attivo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3200099977753591,
+          "x": 0.7933784804320083,
+          "width": 0.13606912156809925,
+          "height": 0.024042504839599133
+        },
+        "text": "del tuo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28125000015625,
+          "x": 0.07065218249999985,
+          "width": 0.8586956521739131,
+          "height": 0.03125
+        },
+        "text": "avversario hanno in comune uno o più tipi fra le loro",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2460937501302083,
+          "x": 0.07065218831521693,
+          "width": 0.8641304347826088,
+          "height": 0.03125
+        },
+        "text": "Energie assegnate, questo attacco infligge 30 danni in più.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750039062498,
+          "x": 0.07065217646924457,
+          "width": 0.16847825050354004,
+          "height": 0.0234375
+        },
+        "text": "Ill Midori Harada",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375011718748,
+          "x": 0.07608695684782607,
+          "width": 0.03260869565217392,
+          "height": 0.02734375
+        },
+        "text": "•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "@+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625019531243,
+          "x": 0.434782614945652,
+          "width": 0.5,
+          "height": 0.0234375
+        },
+        "text": "Cambia colore per mimetizzarsi e sorprendere la",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078124982730747,
+          "x": 0.40760870809618116,
+          "width": 0.5163043063619863,
+          "height": 0.01171875
+        },
+        "text": "preda i diserno sulla panca rimane sempre visibile",
+        "confidence": 1
+      }
+    ]
+  }
+]

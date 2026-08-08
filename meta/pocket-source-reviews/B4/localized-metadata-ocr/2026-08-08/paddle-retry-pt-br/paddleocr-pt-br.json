@@ -1,0 +1,4350 @@
+[
+  {
+    "id": "B4-004",
+    "locale": "pt-br",
+    "sourceSha256": "a88925b28624c22cae4ddac032fd041376a6a92a1bb0a72fcbc3de9d111c3622",
+    "ok": true,
+    "text": "Cascoon\n\nÉvoluí de Wurmpie\n\nN° 0268 Pokétion Casulo Altura: 0,7 m Pesco: 11,5 kg\n\nColecionador de Casulos\n\nColoque 3 cartas aleatórias dentre Silcoon e Cascoon\ndo seu baralho no seu Banco.\n\nFraqueza\n\n+20\n\nIlust. Ayo Kusube\n\nRecuo\n\nEle nunca se esquece dos ataques sofridos enquanto\nestava no casulo. Após evoluir, ele procura vingança.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              10,
+              18,
+              61,
+              81
+            ],
+            "polygon": [
+              [
+                10,
+                18
+              ],
+              [
+                61,
+                18
+              ],
+              [
+                61,
+                81
+              ],
+              [
+                10,
+                81
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Cascoon",
+            "bbox": [
+              65,
+              22,
+              165,
+              43
+            ],
+            "polygon": [
+              [
+                64.99999237060547,
+                21.999998092651367
+              ],
+              [
+                163.99996948242188,
+                22
+              ],
+              [
+                163.99996948242188,
+                41.99999237060547
+              ],
+              [
+                64.99999237060547,
+                41.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              350,
+              45
+            ],
+            "polygon": [
+              [
+                276,
+                21
+              ],
+              [
+                276,
+                42
+              ],
+              [
+                278,
+                44
+              ],
+              [
+                335,
+                44
+              ],
+              [
+                349,
+                42
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                300,
+                18
+              ],
+              [
+                294,
+                18
+              ],
+              [
+                293,
+                18
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "Évoluí de Wurmpie",
+            "bbox": [
+              62,
+              49,
+              120,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                49
+              ],
+              [
+                119,
+                49
+              ],
+              [
+                119,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              23,
+              55,
+              339,
+              242
+            ],
+            "polygon": [
+              [
+                23,
+                55
+              ],
+              [
+                339,
+                55
+              ],
+              [
+                339,
+                242
+              ],
+              [
+                23,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0268 Pokétion Casulo Altura: 0,7 m Pesco: 11,5 kg",
+            "bbox": [
+              101,
+              246,
+              267,
+              256
+            ],
+            "polygon": [
+              [
+                101,
+                246
+              ],
+              [
+                264.9999694824219,
+                246
+              ],
+              [
+                264.9999694824219,
+                255
+              ],
+              [
+                101,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              319,
+              46,
+              341
+            ],
+            "polygon": [
+              [
+                22,
+                319
+              ],
+              [
+                45,
+                319
+              ],
+              [
+                45,
+                340
+              ],
+              [
+                22,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Colecionador de Casulos",
+            "bbox": [
+              111,
+              321,
+              306,
+              341
+            ],
+            "polygon": [
+              [
+                111,
+                321
+              ],
+              [
+                305,
+                321
+              ],
+              [
+                305,
+                340
+              ],
+              [
+                111,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Coloque 3 cartas aleatórias dentre Silcoon e Cascoon\ndo seu baralho no seu Banco.",
+            "bbox": [
+              23,
+              342,
+              342,
+              377
+            ],
+            "polygon": [
+              [
+                23,
+                342
+              ],
+              [
+                342,
+                342
+              ],
+              [
+                342,
+                377
+              ],
+              [
+                23,
+                377
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza",
+            "bbox": [
+              53,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                53,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                53,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilust. Ayo Kusube",
+            "bbox": [
+              25,
+              457,
+              85,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                84,
+                457
+              ],
+              [
+                84,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              442,
+              237,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                442
+              ],
+              [
+                236,
+                442
+              ],
+              [
+                236,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              41,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                40,
+                467
+              ],
+              [
+                40,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              439,
+              300,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                439
+              ],
+              [
+                299,
+                439
+              ],
+              [
+                299,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ele nunca se esquece dos ataques sofridos enquanto\nestava no casulo. Após evoluir, ele procura vingança.",
+            "bbox": [
+              141,
+              466,
+              342,
+              490
+            ],
+            "polygon": [
+              [
+                141,
+                466
+              ],
+              [
+                342,
+                466
+              ],
+              [
+                342,
+                490
+              ],
+              [
+                141,
+                490
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-005",
+    "locale": "pt-br",
+    "sourceSha256": "739083fb887c53c50bc8e822d6ae3e2559d82fb772e23927e4f4f1c1567546ba",
+    "ok": true,
+    "text": "ESTAGID2\n\nDustox\n\nPS 120\n\nÉvalué de Caccoon\n\nN° 0269 Pokémon Mariposa Venenosa Altura: 1,2 m Pesco: 31,6 kg\n\nHabilidade Pó Variado\n\nUma vez durante o seu turno, você poderá usar esta Habilidade. 1 Condição Especial dentre Queimado, Confuso e Envenenado será escolhida aleatoriamente, e o Pokémon Ativo do seu oponente agora estará afetado por aquela Condição Especial. Nenhuma Condição Especial que já estiver afetando aquele Pokémon será escolhida.\n\nVento Dilacerante\n\n60\n\nFraqueza\n+20\n\nIlust. Midori Harada\n\nRecuo\n\nAgita violentamente suas asas para espalhar poeira tóxica\nao ser atacado. Torna-se ativo após o entardecer.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "ESTAGID2",
+            "bbox": [
+              10,
+              23,
+              63,
+              38
+            ],
+            "polygon": [
+              [
+                10,
+                23
+              ],
+              [
+                62,
+                23
+              ],
+              [
+                62,
+                37
+              ],
+              [
+                10,
+                37
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "Dustox",
+            "bbox": [
+              66,
+              22,
+              152,
+              43
+            ],
+            "polygon": [
+              [
+                65.99999237060547,
+                21.999998092651367
+              ],
+              [
+                150.99996948242188,
+                22
+              ],
+              [
+                150.99996948242188,
+                41.99999237060547
+              ],
+              [
+                65.99999237060547,
+                41.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 120",
+            "bbox": [
+              264,
+              18,
+              349,
+              45
+            ],
+            "polygon": [
+              [
+                264,
+                18
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                349,
+                45
+              ],
+              [
+                264,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "Évalué de Caccoon",
+            "bbox": [
+              62,
+              48,
+              117,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                48
+              ],
+              [
+                116,
+                48
+              ],
+              [
+                116,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              14,
+              49,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                14,
+                49
+              ],
+              [
+                338,
+                49
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                14,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0269 Pokémon Mariposa Venenosa Altura: 1,2 m Pesco: 31,6 kg",
+            "bbox": [
+              81,
+              246,
+              286,
+              256
+            ],
+            "polygon": [
+              [
+                81,
+                246
+              ],
+              [
+                284,
+                246
+              ],
+              [
+                284,
+                255
+              ],
+              [
+                81,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Habilidade Pó Variado",
+            "bbox": [
+              28,
+              274,
+              213,
+              291
+            ],
+            "polygon": [
+              [
+                28,
+                274
+              ],
+              [
+                212,
+                274
+              ],
+              [
+                212,
+                290
+              ],
+              [
+                28,
+                290
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Uma vez durante o seu turno, você poderá usar esta Habilidade. 1 Condição Especial dentre Queimado, Confuso e Envenenado será escolhida aleatoriamente, e o Pokémon Ativo do seu oponente agora estará afetado por aquela Condição Especial. Nenhuma Condição Especial que já estiver afetando aquele Pokémon será escolhida.",
+            "bbox": [
+              23,
+              295,
+              343,
+              398
+            ],
+            "polygon": [
+              [
+                23,
+                295
+              ],
+              [
+                343,
+                295
+              ],
+              [
+                343,
+                398
+              ],
+              [
+                23,
+                398
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              401,
+              67,
+              424
+            ],
+            "polygon": [
+              [
+                22,
+                401
+              ],
+              [
+                66,
+                401
+              ],
+              [
+                66,
+                423
+              ],
+              [
+                22,
+                423
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Vento Dilacerante",
+            "bbox": [
+              110,
+              403,
+              277,
+              422
+            ],
+            "polygon": [
+              [
+                110,
+                403
+              ],
+              [
+                275.9999694824219,
+                403
+              ],
+              [
+                275.9999694824219,
+                421
+              ],
+              [
+                110,
+                421
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "60",
+            "bbox": [
+              316,
+              401,
+              342,
+              422
+            ],
+            "polygon": [
+              [
+                316,
+                401
+              ],
+              [
+                341,
+                401
+              ],
+              [
+                341,
+                421
+              ],
+              [
+                316,
+                421
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza\n+20",
+            "bbox": [
+              52,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              102,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                438
+              ],
+              [
+                102,
+                454
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                149,
+                438
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Ilust. Midori Harada",
+            "bbox": [
+              25,
+              457,
+              94,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                93,
+                457
+              ],
+              [
+                93,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              442,
+              237,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                442
+              ],
+              [
+                236,
+                442
+              ],
+              [
+                236,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              250,
+              440,
+              269,
+              455
+            ],
+            "polygon": [
+              [
+                250,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                250,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              466,
+              70,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                69,
+                466
+              ],
+              [
+                69,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Agita violentamente suas asas para espalhar poeira tóxica\nao ser atacado. Torna-se ativo após o entardecer.",
+            "bbox": [
+              122,
+              466,
+              342,
+              489
+            ],
+            "polygon": [
+              [
+                124,
+                466
+              ],
+              [
+                341,
+                466
+              ],
+              [
+                341,
+                488
+              ],
+              [
+                124,
+                488
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-006",
+    "locale": "pt-br",
+    "sourceSha256": "7f17018ebe8bf55201b525824d18e74fe757772b74a2aa27c4cf522a0ef27580",
+    "ok": true,
+    "text": "ESTÁGIO\n\nLileep\n\nEvolu de Faisal Raa\n\nN° 0345 Pokémon Lirio do Mar Altura: 1,0 m Peso: 23,8 kg\n\nBorrão\n\n40\n\nCure 10 pontos de dano deste Pokémon.\n\nFraqueza\n+20\n\nRecuo\n\nIlust. Kouki Saitou\nLileep se agarra às rochas no fundo do mar. Quando\na presa se aproxima, este Pokémon a envolve com\ntentáculos semelhantes a pétalas.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "ESTÁGIO",
+            "bbox": [
+              12,
+              24,
+              61,
+              36
+            ],
+            "polygon": [
+              [
+                12,
+                24
+              ],
+              [
+                60,
+                24
+              ],
+              [
+                60,
+                35
+              ],
+              [
+                12,
+                35
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "Lileep",
+            "bbox": [
+              66,
+              21,
+              135,
+              45
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                134,
+                21
+              ],
+              [
+                134,
+                44
+              ],
+              [
+                66,
+                44
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              14,
+              41,
+              56,
+              78
+            ],
+            "polygon": [
+              [
+                14,
+                40.999996185302734
+              ],
+              [
+                54.99999237060547,
+                41
+              ],
+              [
+                54.99999237060547,
+                76.99998474121094
+              ],
+              [
+                14,
+                76.99998474121094
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              19,
+              349,
+              44
+            ],
+            "polygon": [
+              [
+                348,
+                19
+              ],
+              [
+                313,
+                19
+              ],
+              [
+                276,
+                22
+              ],
+              [
+                276,
+                43
+              ],
+              [
+                348,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Evolu de Faisal Raa",
+            "bbox": [
+              62,
+              48,
+              121,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                48
+              ],
+              [
+                120,
+                48
+              ],
+              [
+                120,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              23,
+              49,
+              338,
+              243
+            ],
+            "polygon": [
+              [
+                23,
+                49
+              ],
+              [
+                338,
+                49
+              ],
+              [
+                338,
+                243
+              ],
+              [
+                23,
+                243
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0345 Pokémon Lirio do Mar Altura: 1,0 m Peso: 23,8 kg",
+            "bbox": [
+              92,
+              246,
+              275,
+              256
+            ],
+            "polygon": [
+              [
+                92,
+                246
+              ],
+              [
+                274,
+                246
+              ],
+              [
+                274,
+                255
+              ],
+              [
+                92,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              328,
+              46,
+              349
+            ],
+            "polygon": [
+              [
+                22,
+                328
+              ],
+              [
+                45,
+                328
+              ],
+              [
+                45,
+                348
+              ],
+              [
+                22,
+                348
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Borrão",
+            "bbox": [
+              112,
+              330,
+              178,
+              348
+            ],
+            "polygon": [
+              [
+                112,
+                330
+              ],
+              [
+                177,
+                330
+              ],
+              [
+                177,
+                347
+              ],
+              [
+                112,
+                347
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "40",
+            "bbox": [
+              314,
+              328,
+              343,
+              349
+            ],
+            "polygon": [
+              [
+                314,
+                328
+              ],
+              [
+                342,
+                328
+              ],
+              [
+                342,
+                348
+              ],
+              [
+                314,
+                348
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Cure 10 pontos de dano deste Pokémon.",
+            "bbox": [
+              24,
+              351,
+              268,
+              368
+            ],
+            "polygon": [
+              [
+                24,
+                350.9999694824219
+              ],
+              [
+                266.9999694824219,
+                350.9999694824219
+              ],
+              [
+                266.9999694824219,
+                366.9999694824219
+              ],
+              [
+                24,
+                366.9999694824219
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza\n+20",
+            "bbox": [
+              53,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                53,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                53,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              102,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                438
+              ],
+              [
+                102,
+                454
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                149,
+                438
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilust. Kouki Saitou\nLileep se agarra às rochas no fundo do mar. Quando\na presa se aproxima, este Pokémon a envolve com\ntentáculos semelhantes a pétalas.",
+            "bbox": [
+              25,
+              457,
+              87,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                85.99999237060547,
+                457
+              ],
+              [
+                85.99999237060547,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              141,
+              460,
+              343,
+              495
+            ],
+            "polygon": [
+              [
+                141,
+                460
+              ],
+              [
+                343,
+                460
+              ],
+              [
+                343,
+                495
+              ],
+              [
+                141,
+                495
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              284,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                283,
+                440
+              ],
+              [
+                283,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              55,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                54,
+                467
+              ],
+              [
+                54,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-007",
+    "locale": "pt-br",
+    "sourceSha256": "9e93d8201e1a56a076539f920b9ad9e830ac3ec373c8b3d0dbeae4bd4fd93f17",
+    "ok": true,
+    "text": "ESTÁGIO2 Cradily\n\nPS 150\n\nN° 0346 Pokémon Craca Altura: 1.5 m Pesco: 60.4 kg\n\nGrudar e Absorver\n\nCure 30 pontos de dano deste Pokémon. Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.\n\nFraqueza\n\n+20\n\nIlust. Midori Harada\n\nRecuo\n\nAssim que captura a presa com seus tentáculos,\nCradily a digere inteira e absorve seus nutrientes.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "ESTÁGIO2 Cradily",
+            "bbox": [
+              10,
+              20,
+              149,
+              45
+            ],
+            "polygon": [
+              [
+                10,
+                20
+              ],
+              [
+                149,
+                20
+              ],
+              [
+                149,
+                45
+              ],
+              [
+                10,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 150",
+            "bbox": [
+              264,
+              19,
+              349,
+              45
+            ],
+            "polygon": [
+              [
+                264,
+                19
+              ],
+              [
+                349,
+                19
+              ],
+              [
+                349,
+                45
+              ],
+              [
+                264,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              15,
+              41,
+              54,
+              79
+            ],
+            "polygon": [
+              [
+                15,
+                41
+              ],
+              [
+                53,
+                41
+              ],
+              [
+                53,
+                78
+              ],
+              [
+                15,
+                78
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              27,
+              48,
+              339,
+              243
+            ],
+            "polygon": [
+              [
+                27,
+                48
+              ],
+              [
+                339,
+                48
+              ],
+              [
+                339,
+                243
+              ],
+              [
+                27,
+                243
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0346 Pokémon Craca Altura: 1.5 m Pesco: 60.4 kg",
+            "bbox": [
+              102,
+              246,
+              265,
+              256
+            ],
+            "polygon": [
+              [
+                102,
+                246
+              ],
+              [
+                264,
+                246
+              ],
+              [
+                264,
+                255
+              ],
+              [
+                102,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              310,
+              67,
+              332
+            ],
+            "polygon": [
+              [
+                21.999996185302734,
+                309.9999694824219
+              ],
+              [
+                65.99998474121094,
+                309.9999694824219
+              ],
+              [
+                65.99998474121094,
+                330.9999694824219
+              ],
+              [
+                21.999996185302734,
+                330.9999694824219
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Grudar e Absorver",
+            "bbox": [
+              111,
+              313,
+              285,
+              332
+            ],
+            "polygon": [
+              [
+                113,
+                313
+              ],
+              [
+                284,
+                313
+              ],
+              [
+                284,
+                331
+              ],
+              [
+                113,
+                331
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Cure 30 pontos de dano deste Pokémon. Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar.",
+            "bbox": [
+              23,
+              334,
+              343,
+              386
+            ],
+            "polygon": [
+              [
+                23,
+                334
+              ],
+              [
+                343,
+                334
+              ],
+              [
+                343,
+                386
+              ],
+              [
+                23,
+                386
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza",
+            "bbox": [
+              52,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilust. Midori Harada",
+            "bbox": [
+              25,
+              457,
+              94,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                93,
+                457
+              ],
+              [
+                93,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              442,
+              237,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                442
+              ],
+              [
+                236,
+                442
+              ],
+              [
+                236,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              466,
+              70,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                69,
+                466
+              ],
+              [
+                69,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              439,
+              300,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                442
+              ],
+              [
+                299,
+                442
+              ],
+              [
+                299,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Assim que captura a presa com seus tentáculos,\nCradily a digere inteira e absorve seus nutrientes.",
+            "bbox": [
+              152,
+              466,
+              343,
+              490
+            ],
+            "polygon": [
+              [
+                152,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                490
+              ],
+              [
+                152,
+                490
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-008",
+    "locale": "pt-br",
+    "sourceSha256": "4fd7ea29ee77ed40827abb682ab23b19dc77fd37713f0f42a252d3dc8b164dd4",
+    "ok": true,
+    "text": "Kricketot",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "paragraph_title",
+            "text": "Kricketot",
+            "bbox": [
+              66,
+              20,
+              178,
+              43
+            ],
+            "polygon": [
+              [
+                65.99999237060547,
+                19.999998092651367
+              ],
+              [
+                176.99996948242188,
+                20
+              ],
+              [
+                176.99996948242188,
+                41.99999237060547
+              ],
+              [
+                65.99999237060547,
+                41.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              350,
+              45
+            ],
+            "polygon": [
+              [
+                276,
+                18
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                349,
+                44
+              ],
+              [
+                276,
+                44
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              14,
+              48,
+              351,
+              496
+            ],
+            "polygon": [
+              [
+                14,
+                48
+              ],
+              [
+                351,
+                48
+              ],
+              [
+                351,
+                496
+              ],
+              [
+                14,
+                496
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-009",
+    "locale": "pt-br",
+    "sourceSha256": "794c152e147956ab8839167c6418c15b70c2cf0e63114c236d54144451b27e37",
+    "ok": true,
+    "text": "Kricketune\n\nPS 90\n\nEvolu de Kricketat\n\nN° 0402 Pokémon Grito Altura: 1,0 m Peso: 25,5 kg\n\nZumbido de Inseto\n\nFraqueza\n\n+20\n\nIlust. Anesoki Dynamic\n\nRecuo\n\nExiste um vilarejo que realiza um concurso dos sons\nmais impressionantes e diferentes deste Pokémon.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              9,
+              18,
+              60,
+              80
+            ],
+            "polygon": [
+              [
+                9,
+                18
+              ],
+              [
+                60,
+                18
+              ],
+              [
+                60,
+                80
+              ],
+              [
+                9,
+                80
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Kricketune",
+            "bbox": [
+              66,
+              21,
+              195,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                194,
+                21
+              ],
+              [
+                194,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "PS 90",
+            "bbox": [
+              276,
+              21,
+              320,
+              44
+            ],
+            "polygon": [
+              [
+                275.9999694824219,
+                20.999998092651367
+              ],
+              [
+                318.9999694824219,
+                21
+              ],
+              [
+                318.9999694824219,
+                42.99999237060547
+              ],
+              [
+                275.9999694824219,
+                42.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Evolu de Kricketat",
+            "bbox": [
+              62,
+              48,
+              120,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                48
+              ],
+              [
+                119,
+                48
+              ],
+              [
+                119,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              25,
+              47,
+              339,
+              244
+            ],
+            "polygon": [
+              [
+                25,
+                47
+              ],
+              [
+                339,
+                47
+              ],
+              [
+                339,
+                244
+              ],
+              [
+                25,
+                244
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0402 Pokémon Grito Altura: 1,0 m Peso: 25,5 kg",
+            "bbox": [
+              103,
+              245,
+              265,
+              256
+            ],
+            "polygon": [
+              [
+                103,
+                245
+              ],
+              [
+                264,
+                245
+              ],
+              [
+                264,
+                255
+              ],
+              [
+                103,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              335,
+              46,
+              358
+            ],
+            "polygon": [
+              [
+                22,
+                335
+              ],
+              [
+                45,
+                335
+              ],
+              [
+                45,
+                357
+              ],
+              [
+                22,
+                357
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Zumbido de Inseto",
+            "bbox": [
+              110,
+              337,
+              284,
+              359
+            ],
+            "polygon": [
+              [
+                110,
+                337
+              ],
+              [
+                283,
+                337
+              ],
+              [
+                283,
+                358
+              ],
+              [
+                110,
+                358
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza",
+            "bbox": [
+              52,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilust. Anesoki Dynamic",
+            "bbox": [
+              25,
+              457,
+              102,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                101,
+                457
+              ],
+              [
+                101,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              441,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                441
+              ],
+              [
+                237,
+                441
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              250,
+              439,
+              269,
+              455
+            ],
+            "polygon": [
+              [
+                250,
+                442
+              ],
+              [
+                268,
+                442
+              ],
+              [
+                268,
+                454
+              ],
+              [
+                250,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              466,
+              41,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                40,
+                466
+              ],
+              [
+                40,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Existe um vilarejo que realiza um concurso dos sons\nmais impressionantes e diferentes deste Pokémon.",
+            "bbox": [
+              141,
+              466,
+              343,
+              489
+            ],
+            "polygon": [
+              [
+                141,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                489
+              ],
+              [
+                141,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-010",
+    "locale": "pt-br",
+    "sourceSha256": "7ebd6eec9d4b2ed36d07aecab69d1703090a029fc9848e65265255e3e35e0dc5",
+    "ok": true,
+    "text": "Combee\n\nN° 0415 Pokémon Abelhinha Altura: 0,3 m Peso: 5,5 kg\n\nCarga Indomável\n\n30\nEste Pokémon também causa 10 pontos de dano a si\nmesmo.\n\nFraqueza\n\n+20\n\nIlust. Yoriyuki Ikegami\n\nRecuo\n\nO trio está unido desde o nascimento. Coleta néctar\nde flores constantemente para agradar Vespíquen.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              12,
+              15,
+              62,
+              38
+            ],
+            "polygon": [
+              [
+                12,
+                15
+              ],
+              [
+                60.99999237060547,
+                15
+              ],
+              [
+                60.99999237060547,
+                36.999996185302734
+              ],
+              [
+                12,
+                36.999996185302734
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Combee",
+            "bbox": [
+              65,
+              21,
+              165,
+              43
+            ],
+            "polygon": [
+              [
+                66.99999237060547,
+                20.999998092651367
+              ],
+              [
+                163.99996948242188,
+                21
+              ],
+              [
+                163.99996948242188,
+                41.99999237060547
+              ],
+              [
+                66.99999237060547,
+                41.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              19,
+              350,
+              44
+            ],
+            "polygon": [
+              [
+                349,
+                19
+              ],
+              [
+                313,
+                19
+              ],
+              [
+                276,
+                22
+              ],
+              [
+                276,
+                43
+              ],
+              [
+                348,
+                43
+              ],
+              [
+                349,
+                41
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              28,
+              49,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                28,
+                49
+              ],
+              [
+                338,
+                49
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                28,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0415 Pokémon Abelhinha Altura: 0,3 m Peso: 5,5 kg",
+            "bbox": [
+              98,
+              246,
+              269,
+              256
+            ],
+            "polygon": [
+              [
+                98,
+                246
+              ],
+              [
+                268,
+                246
+              ],
+              [
+                268,
+                255
+              ],
+              [
+                98,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              319,
+              46,
+              340
+            ],
+            "polygon": [
+              [
+                22,
+                319
+              ],
+              [
+                45,
+                319
+              ],
+              [
+                45,
+                339
+              ],
+              [
+                22,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Carga Indomável",
+            "bbox": [
+              111,
+              321,
+              265,
+              341
+            ],
+            "polygon": [
+              [
+                111,
+                321
+              ],
+              [
+                264,
+                321
+              ],
+              [
+                264,
+                340
+              ],
+              [
+                111,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "30\nEste Pokémon também causa 10 pontos de dano a si\nmesmo.",
+            "bbox": [
+              315,
+              318,
+              343,
+              340
+            ],
+            "polygon": [
+              [
+                315,
+                318
+              ],
+              [
+                342,
+                318
+              ],
+              [
+                342,
+                339
+              ],
+              [
+                315,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              23,
+              342,
+              343,
+              376
+            ],
+            "polygon": [
+              [
+                23,
+                342
+              ],
+              [
+                343,
+                342
+              ],
+              [
+                343,
+                376
+              ],
+              [
+                23,
+                376
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza",
+            "bbox": [
+              52,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                54,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                54,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilust. Yoriyuki Ikegami",
+            "bbox": [
+              25,
+              457,
+              101,
+              468
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                100,
+                457
+              ],
+              [
+                100,
+                467
+              ],
+              [
+                25,
+                467
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              442,
+              237,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                442
+              ],
+              [
+                236,
+                442
+              ],
+              [
+                236,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              41,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                40,
+                467
+              ],
+              [
+                40,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "O trio está unido desde o nascimento. Coleta néctar\nde flores constantemente para agradar Vespíquen.",
+            "bbox": [
+              139,
+              466,
+              343,
+              489
+            ],
+            "polygon": [
+              [
+                139,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                489
+              ],
+              [
+                139,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-012",
+    "locale": "pt-br",
+    "sourceSha256": "c4f69e53a253a17b7b596795e464267d8099ce4fe698618a42d0e67488781768",
+    "ok": true,
+    "text": "Karrablast\n\nN° 0588 Pokimon Pregador Altura: 0.5 m Peso: 5.9 kg\n\nCospe um líquido de sua boca para derreter\na concha de Shelmet. Karrablast não come\na concha, apenas o conteúdo dela.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "paragraph_title",
+            "text": "Karrablast",
+            "bbox": [
+              66,
+              21,
+              187,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                186,
+                21
+              ],
+              [
+                186,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              350,
+              45
+            ],
+            "polygon": [
+              [
+                276,
+                18
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                349,
+                44
+              ],
+              [
+                276,
+                44
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              13,
+              49,
+              351,
+              496
+            ],
+            "polygon": [
+              [
+                13,
+                49
+              ],
+              [
+                351,
+                49
+              ],
+              [
+                351,
+                496
+              ],
+              [
+                13,
+                496
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0588 Pokimon Pregador Altura: 0.5 m Peso: 5.9 kg",
+            "bbox": [
+              99,
+              245,
+              269,
+              256
+            ],
+            "polygon": [
+              [
+                99,
+                245
+              ],
+              [
+                99,
+                255
+              ],
+              [
+                267,
+                255
+              ],
+              [
+                267,
+                245
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Cospe um líquido de sua boca para derreter\na concha de Shelmet. Karrablast não come\na concha, apenas o conteúdo dela.",
+            "bbox": [
+              171,
+              460,
+              343,
+              495
+            ],
+            "polygon": [
+              [
+                171,
+                460
+              ],
+              [
+                343,
+                460
+              ],
+              [
+                343,
+                495
+              ],
+              [
+                171,
+                495
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-013",
+    "locale": "pt-br",
+    "sourceSha256": "fc9fba0edec41b6b96a1ad9fd4bdd0dfd9f0f029fa96a4faa6f951c922def6e3",
+    "ok": true,
+    "text": "Shelmet\n\nN° 0616 Pokémon Lesma Altura: 0,4 m Peso: 7,7 kg\n\nAtaque de Concha do Mar 20\n\nFraqueza\n\n+20\n\nIlust. sui\n♦\n\nRecuo\n\nA fisiologia estranha deste Pokémon reage à eletricidade.\nPor alguma razão, Shelmet evolui quando está perto\nde Karrablast.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              12,
+              14,
+              62,
+              39
+            ],
+            "polygon": [
+              [
+                12,
+                17
+              ],
+              [
+                61,
+                17
+              ],
+              [
+                61,
+                38
+              ],
+              [
+                12,
+                38
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Shelmet",
+            "bbox": [
+              65,
+              20,
+              162,
+              43
+            ],
+            "polygon": [
+              [
+                64.99999237060547,
+                19.999998092651367
+              ],
+              [
+                160.99996948242188,
+                20
+              ],
+              [
+                160.99996948242188,
+                41.99999237060547
+              ],
+              [
+                64.99999237060547,
+                41.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              350,
+              45
+            ],
+            "polygon": [
+              [
+                276,
+                23
+              ],
+              [
+                276,
+                42
+              ],
+              [
+                293,
+                44
+              ],
+              [
+                304,
+                44
+              ],
+              [
+                320,
+                44
+              ],
+              [
+                326,
+                44
+              ],
+              [
+                349,
+                42
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                311,
+                18
+              ],
+              [
+                278,
+                21
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              27,
+              49,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                27,
+                49
+              ],
+              [
+                338,
+                49
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                27,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0616 Pokémon Lesma Altura: 0,4 m Peso: 7,7 kg",
+            "bbox": [
+              103,
+              245,
+              264,
+              256
+            ],
+            "polygon": [
+              [
+                103,
+                245
+              ],
+              [
+                263,
+                245
+              ],
+              [
+                263,
+                255
+              ],
+              [
+                103,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              335,
+              47,
+              359
+            ],
+            "polygon": [
+              [
+                22,
+                335
+              ],
+              [
+                46,
+                335
+              ],
+              [
+                46,
+                358
+              ],
+              [
+                22,
+                358
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Ataque de Concha do Mar 20",
+            "bbox": [
+              110,
+              336,
+              342,
+              359
+            ],
+            "polygon": [
+              [
+                110,
+                336
+              ],
+              [
+                342,
+                336
+              ],
+              [
+                342,
+                359
+              ],
+              [
+                110,
+                359
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza",
+            "bbox": [
+              53,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                53,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                53,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilust. sui\n♦",
+            "bbox": [
+              25,
+              457,
+              55,
+              484
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                54,
+                457
+              ],
+              [
+                54,
+                483
+              ],
+              [
+                25,
+                483
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              442,
+              237,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                442
+              ],
+              [
+                236,
+                442
+              ],
+              [
+                236,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              439,
+              300,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                439
+              ],
+              [
+                299,
+                439
+              ],
+              [
+                299,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "A fisiologia estranha deste Pokémon reage à eletricidade.\nPor alguma razão, Shelmet evolui quando está perto\nde Karrablast.",
+            "bbox": [
+              123,
+              459,
+              343,
+              494
+            ],
+            "polygon": [
+              [
+                123,
+                459
+              ],
+              [
+                343,
+                459
+              ],
+              [
+                343,
+                494
+              ],
+              [
+                123,
+                494
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-015",
+    "locale": "pt-br",
+    "sourceSha256": "ef67c4faf0ad8ee47fa2c9da1d357a3bceac3c6097ed5a3a696fde1405e0c672",
+    "ok": true,
+    "text": "Dhelmise\n\nPS 110\n\nN° 0781 Pokémon Alga Sinistra Altura: 3,9 m Peso: 210,0 kg\n\nAtaque Giratório\n\n70\n\nFraqueza\n\n+20\n\nIlust. Kyoko Unemoto\n\nRecuo\n\nDepois de lançar sua âncora, espera por sua presa.\nPega Walord grandes e direna suas forças vitais.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              12,
+              14,
+              62,
+              39
+            ],
+            "polygon": [
+              [
+                12,
+                17
+              ],
+              [
+                61,
+                17
+              ],
+              [
+                61,
+                38
+              ],
+              [
+                12,
+                38
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Dhelmise",
+            "bbox": [
+              66,
+              21,
+              174,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                173,
+                21
+              ],
+              [
+                173,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 110",
+            "bbox": [
+              267,
+              21,
+              320,
+              44
+            ],
+            "polygon": [
+              [
+                267,
+                21
+              ],
+              [
+                319,
+                21
+              ],
+              [
+                319,
+                43
+              ],
+              [
+                267,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              48,
+              340,
+              245
+            ],
+            "polygon": [
+              [
+                26,
+                48
+              ],
+              [
+                340,
+                48
+              ],
+              [
+                340,
+                245
+              ],
+              [
+                26,
+                245
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0781 Pokémon Alga Sinistra Altura: 3,9 m Peso: 210,0 kg",
+            "bbox": [
+              90,
+              246,
+              277,
+              256
+            ],
+            "polygon": [
+              [
+                90,
+                246
+              ],
+              [
+                276,
+                246
+              ],
+              [
+                276,
+                255
+              ],
+              [
+                90,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              23,
+              335,
+              88,
+              359
+            ],
+            "polygon": [
+              [
+                23,
+                335
+              ],
+              [
+                87,
+                335
+              ],
+              [
+                87,
+                358
+              ],
+              [
+                23,
+                358
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Ataque Giratório",
+            "bbox": [
+              111,
+              337,
+              268,
+              359
+            ],
+            "polygon": [
+              [
+                111,
+                337
+              ],
+              [
+                267,
+                337
+              ],
+              [
+                267,
+                358
+              ],
+              [
+                111,
+                358
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "70",
+            "bbox": [
+              315,
+              334,
+              343,
+              357
+            ],
+            "polygon": [
+              [
+                315,
+                334
+              ],
+              [
+                342,
+                334
+              ],
+              [
+                342,
+                356
+              ],
+              [
+                315,
+                356
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fraqueza",
+            "bbox": [
+              52,
+              442,
+              89,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                442
+              ],
+              [
+                88,
+                442
+              ],
+              [
+                88,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilust. Kyoko Unemoto",
+            "bbox": [
+              25,
+              457,
+              100,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                99,
+                457
+              ],
+              [
+                99,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Recuo",
+            "bbox": [
+              210,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                210,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                210,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              439,
+              284,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                442
+              ],
+              [
+                283,
+                442
+              ],
+              [
+                283,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Depois de lançar sua âncora, espera por sua presa.\nPega Walord grandes e direna suas forças vitais.",
+            "bbox": [
+              147,
+              466,
+              343,
+              490
+            ],
+            "polygon": [
+              [
+                147,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                490
+              ],
+              [
+                147,
+                490
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-031",
+    "locale": "pt-br",
+    "sourceSha256": "c22786ef78ea273ef3ae9793632e00a6f11a6e39b5a4608e8446837fda460ee9",
+    "ok": true,
+    "text": "ESTAGIO\n\nGolduck\n\nPS 110\n\nN° 0055 Pokémon Pato Altura: 1.7 m Peso: 76.6 kg\n\nNada graciosamente por rios e lagos\ntranquilos e lentos, dos quais gosta muito.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "ESTAGIO",
+            "bbox": [
+              12,
+              24,
+              60,
+              36
+            ],
+            "polygon": [
+              [
+                12,
+                23.999996185302734
+              ],
+              [
+                58.99999237060547,
+                23.999996185302734
+              ],
+              [
+                58.99999237060547,
+                34.999996185302734
+              ],
+              [
+                12,
+                34.999996185302734
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "Golduck",
+            "bbox": [
+              65,
+              21,
+              163,
+              43
+            ],
+            "polygon": [
+              [
+                65,
+                21
+              ],
+              [
+                162,
+                21
+              ],
+              [
+                162,
+                42
+              ],
+              [
+                65,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 110",
+            "bbox": [
+              268,
+              21,
+              320,
+              44
+            ],
+            "polygon": [
+              [
+                267.9999694824219,
+                20.999998092651367
+              ],
+              [
+                318.9999694824219,
+                21
+              ],
+              [
+                318.9999694824219,
+                42.99999237060547
+              ],
+              [
+                267.9999694824219,
+                42.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              13,
+              16,
+              351,
+              496
+            ],
+            "polygon": [
+              [
+                13,
+                16
+              ],
+              [
+                351,
+                16
+              ],
+              [
+                351,
+                496
+              ],
+              [
+                13,
+                496
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0055 Pokémon Pato Altura: 1.7 m Peso: 76.6 kg",
+            "bbox": [
+              103,
+              245,
+              264,
+              256
+            ],
+            "polygon": [
+              [
+                103,
+                245
+              ],
+              [
+                263,
+                245
+              ],
+              [
+                263,
+                255
+              ],
+              [
+                103,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "footer",
+            "text": "Nada graciosamente por rios e lagos\ntranquilos e lentos, dos quais gosta muito.",
+            "bbox": [
+              179,
+              466,
+              342,
+              489
+            ],
+            "polygon": [
+              [
+                179,
+                466
+              ],
+              [
+                342,
+                466
+              ],
+              [
+                342,
+                489
+              ],
+              [
+                179,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

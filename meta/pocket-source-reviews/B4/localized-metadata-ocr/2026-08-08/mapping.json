@@ -1,0 +1,664 @@
+{
+  "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.": {
+    "en": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+    "it": "È chiamato il Pokémon sacro. Quando il corpo emana un lieve bagliore, cambia il tempo.",
+    "es": "Se refieren a él como un Pokémon divino. Cuando le brilla el cuerpo, el tiempo cambia inmediatamente."
+  },
+  "Dragon's Blessing": {
+    "en": "Dragon's Blessing",
+    "it": "Preghiera del Drago",
+    "de": "Drachensegen"
+  },
+  "Evoshock": {
+    "en": "Evoshock",
+    "it": "Evoshock",
+    "de": "Evoschock"
+  },
+  "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.": {
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+    "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
+    "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+  },
+  "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.": {
+    "en": "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.",
+    "de": "Die Farbe des mysteriösen Sekrets, das aus ihrer Schweifspitze austritt, variiert je nach Farbeagle.",
+    "pt-br": "A cor do fluido misterioso secretado da ponta da cauda é predeterminada para cada Smeargle"
+  },
+  "Treasure Collecting": {
+    "en": "Treasure Collecting",
+    "it": "Raccolta Tesori",
+    "de": "Schatzsammler"
+  },
+  "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck.": {
+    "en": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may look at the top 4 cards of your deck and put all Item cards you find there into your hand. Shuffle the other cards back into your deck.",
+    "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi guardare le prime 4 carte del tuo mazzo e aggiungere tutte le carte Strumento che trovi alle carte che hai in mano. Poi rimischia le altre carte nel tuo mazzo.",
+    "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du dir die obersten 4 Karten deines Decks anschauen und alle Itemkarten, die du dort findest, auf deine Hand nehmen. Mische die anderen Karten zurück in dein Deck."
+  },
+  "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.": {
+    "en": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+    "it": "È stato creato da uno scienziato dopo lunghe ricerche. a sua potenza cere specimente nei lott",
+    "de": "Dieses Pokémon ist das Resultat der Experimente eines gewissen Forschers: Es setzt all seine Kraft fürs Kämpfen ein.",
+    "fr": "Ce Pokémon est le fruit des expériences d'un scientifique. Sa puissance se révèle tout particulièrement en combat.",
+    "es": "Este Pokémon es el fruto de la investigación de cierto cientifico. La fuerza que atesora luce en codo su esplendor durante los combates.",
+    "pt-br": "A pesquisa de um certo cientista acabou resultando neste Pokémon. Seus poderes existem unicamente para a batalha."
+  },
+  "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon.": {
+    "en": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon.",
+    "it": "Questo attacco infligge 40 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
+    "de": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 40 Schadenspunkte mehr zu."
+  },
+  "Synchro Dance": {
+    "en": "Synchro Dance",
+    "it": "Danza Sincronizzata",
+    "de": "Synchrontanz"
+  },
+  "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage.": {
+    "en": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage.",
+    "it": "del tuo Se questo Pokémon e il Pokémon attivo avversario hanno la stessa quantità di Energie assegnate, questo attacco infligge 40 danni in più.",
+    "de": "Wenn an dieses Pokémon genauso viel Energie angelegt ist wie an das Aktive Pokémon deines Gegners, fügt diese Attacke 40 Schadenspunkte mehr zu."
+  },
+  "Mega Burst": {
+    "en": "Mega Burst",
+    "it": "Megascoppio",
+    "de": "Mega-Explosion"
+  },
+  "Junk Spark": {
+    "en": "Junk Spark",
+    "it": "Rottami Scintillanti",
+    "de": "Schrottfunken"
+  },
+  "This attack does 10 more damage for each Item card in your discard pile.": {
+    "en": "This attack does 10 more damage for each Item card in your discard pile.",
+    "it": "Questo attacco infligge 10 danni in più per ogni carta Strumento nella tua pila degli scarti.",
+    "de": "Diese Attacke fügt für jede Itemkarte in deinem Ablagestapel 10 Schadenspunkte mehr zu."
+  },
+  "Jet Wing": {
+    "en": "Jet Wing",
+    "it": "Ala Jet",
+    "de": "Jet-Flügel"
+  },
+  "Gatling Slug": {
+    "en": "Gatling Slug",
+    "it": "Pugnolashnikov",
+    "de": "Repetierschlag"
+  },
+  "This attack does 10 more damage for each {M} Energy attached to this Pokémon.": {
+    "en": "This attack does 10 more damage for each {M} Energy attached to this Pokémon.",
+    "it": "Questo attacco infligge 10 danni in più per ogni Energia {M} assegnata a questo Pokémon."
+  },
+  "Shadow Bullet": {
+    "en": "Shadow Bullet",
+    "it": "Dardombra",
+    "de": "Schattenkugel"
+  },
+  "Resonating Blade": {
+    "en": "Resonating Blade",
+    "it": "Lama Risonante",
+    "de": "Resonanzklinge"
+  },
+  "Wondrous Waves": {
+    "en": "Wondrous Waves",
+    "it": "Onde Prodigiose"
+  },
+  "This Pokémon recovers from all Special Conditions.": {
+    "en": "This Pokémon recovers from all Special Conditions.",
+    "it": "Questo Pokémon guarisce da tutte le condizioni speciali."
+  },
+  "Turbo Shark": {
+    "en": "Turbo Shark",
+    "it": "Turbosqualo",
+    "de": "Turbohai"
+  },
+  "Destructive Inferno": {
+    "en": "Destructive Inferno",
+    "it": "Incendio Distruttivo",
+    "de": "Verzehrendes Inferno 110"
+  },
+  "Chase Order": {
+    "en": "Chase Order",
+    "it": "Ordine di Inseguimento",
+    "de": "Jagdbefehl"
+  },
+  "You may discard 1 of your Benched Basic {G} Pokémon. If you do, this attack does 70 more damage.": {
+    "en": "You may discard 1 of your Benched Basic {G} Pokémon. If you do, this attack does 70 more damage.",
+    "de": "Du kannst 1 Basis-{G}-Pokémon von deiner Bank auf deinen Ablagestapel legen. Wenn du das machst, fügt diese Attacke 70 Schadenspunkte mehr zu."
+  },
+  "Take a {C} Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon.": {
+    "en": "Take a {C} Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon.",
+    "it": "Prendi un'Energia {C} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon di Fase 2.",
+    "de": "Lege 1 {C}-Energie aus deinem Energiebereich an 1 deiner Phase 2 Pokémon an."
+  },
+  "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon.": {
+    "en": "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon.",
+    "it": "Scambia il tuo Pokémon attivo di Fase 1 con uno della tua panchina.",
+    "de": "Tausche dein Aktives Phase-1-Pokémon gegen 1 Pokémon auf deiner Bank aus."
+  },
+  "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon.": {
+    "en": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon.",
+    "it": "Durante questo turno, uno dei Pokémon dell'avversario viene scelto una volta in più quando i tuoi Pokémon usano l'attacco Dragobolide.",
+    "de": "Während dieses Zuges wird 1 Pokémon des Gegners 1 Mal mehr ausgewählt, wenn deine Pokémon die Attacke Draco Meteor einsetzen."
+  },
+  "You can use this card only if your Pokémon in the Active Spot has the Psychic attack. Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon.": {
+    "en": "You can use this card only if your Pokémon in the Active Spot has the Psychic attack. Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon.",
+    "it": "Puoi usare questa carta solo se il tuo Pokémon attivo ha l'attacco Psichico. Scegli uno dei Pokémon nella panchina del tuo avversario e sposta un Energia a caso da quel Pokémon al Pokémon attivo del tuo avversario.",
+    "de": "Du kannst diese Karte nur einsetzen, wenn dein Pokémon in der Aktiven Position die Attacke Psychokinese hat. Wähle 1 Pokémon auf der Bank deines Gegners und verschiebe 1 zufällige Energie von diesem auf das Aktive Pokémon deines Gegners."
+  },
+  "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.": {
+    "en": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+    "it": "Trasporta esseri umani sfrecciando a una velocità di 120 km/h. La temperatura corporea di chi trasporta gli scalda il dorso, dandogli energia."
+  },
+  "Acceleration Drive": {
+    "en": "Acceleration Drive",
+    "it": "-Propulsione Rapida",
+    "de": "Schnellganggetriebe"
+  },
+  "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.": {
+    "en": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+    "de": "In der Dunkelheit wird es sogar von Trikephalo gefürchtet. Tagsüber geht es Kämpfen jedoch aus dem Weg.",
+    "es": "Cuando reina la oscuridad, hace temblar incluso a los Hydreigon. En cambio, evita luchar a plena luz."
+  },
+  "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it.": {
+    "en": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it.",
+    "it": "Un Pokémon del tuo avversario viene scelto a caso 3 volte. Per ogni volta che un Pokémon è stato scelto, infliggigli 60 danni.",
+    "de": "1 Pokémon deines Gegners wird 3-mal zufällig ausgewählt. Füge ihm jedes Mal, wenn es ausgewählt wurde, 60 Schadenspunkte zu."
+  },
+  "Team Hunt": {
+    "en": "Team Hunt",
+    "it": "Caccia in Branco",
+    "de": "Teamjagd"
+  },
+  "Draw a card for each Poochyena you have in play.": {
+    "en": "Draw a card for each Poochyena you have in play.",
+    "it": "Pesca una carta per ogni Poochyena che hai in gioco.",
+    "de": "Ziehe 1 Karte für jedes fiffyen, das du im Spiel hast."
+  },
+  "Stompy Jammer": {
+    "en": "Stompy Jammer",
+    "it": "Impedipedata",
+    "de": "Störender Stampfer"
+  },
+  "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.": {
+    "en": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+    "de": "Es hat ein feines Gespür für die Gefühle der Menschen und Pokémon. Wenn es Feindseligkeit wahrnimmt, versteckt es sich.",
+    "es": "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde."
+  },
+  "Mini-Metronome": {
+    "en": "Mini-Metronome",
+    "it": "Minimetronomo,",
+    "de": "Mini-Metronom"
+  },
+  "Stance": {
+    "en": "Stance",
+    "it": "In Guardia",
+    "de": "Abwehrhaltung"
+  },
+  "Tidal Blast": {
+    "en": "Tidal Blast",
+    "it": "Mareggiata Rovinosa",
+    "de": "Gezeitenstoß"
+  },
+  "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.": {
+    "en": "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.",
+    "de": "Lege 3 {W}-Energien von diesem Pokémon auf deinen Ablagestapel, und diese Attacke fügt jedem Pokémon deines Gegners 50 Schadenspunkte zu."
+  },
+  "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.": {
+    "en": "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+    "it": "La pelliccia che ricopre il suo corpo è completamente ignifuga. Può resistere a qualsiasi attacco di fuoco.",
+    "es": "El pelaje de este Pokémon es ignifugo. Puede soportar cualquier ataque con fuego.",
+    "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. E capaz de resistir a qualquer ataque de fogo."
+  },
+  "Deck and Cover": {
+    "en": "Deck and Cover",
+    "de": "Peinigen und Abhauen"
+  },
+  "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck.": {
+    "en": "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck.",
+    "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und ist paralysiert. Mische dieses Pokémon und alle angelegten Karten in dein Deck."
+  },
+  "Once during each player's turn, that player may discard the Energy that has been generated in their Energy Zone. If they do, the next Energy is produced.": {
+    "en": "Once during each player's turn, that player may discard the Energy that has been generated in their Energy Zone. If they do, the next Energy is produced.",
+    "it": "Una sola volta durante il turno di ciascun giocatore, quel giocatore può scartare l'Energia generata nella sua Zona Energia. Se lo fa, verrà creata l'Energia successiva.",
+    "de": "Einmal während des Zuges jedes Spielers kann jener Spieler die Energie, die in seinem Energiebereich generiert wurde, ablegen. Wenn er das macht, wird die nächste Energie generiert."
+  },
+  "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed.)": {
+    "en": "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed.)",
+    "it": "Previeni tutti gli effetti degli attacchi usati dai Pokémon del tuo avversario inflitti al Pokémon a cui è assegnata questa carta. Gli effetti esistenti non vengono rimossi.",
+    "de": "Verhindere alle Effekte der von den Pokémon deines Gegners eingesetzten Attacken, die dem Pokémon zugefügt werden, an das diese Karte angelegt ist. (Bestehende Effekte werden nicht entfernt.)"
+  },
+  "At the end of your turn, if the {D} Pokémon this card is attached to is in the Active Spot, do 10 damage to your opponent's Active Pokémon.": {
+    "en": "At the end of your turn, if the {D} Pokémon this card is attached to is in the Active Spot, do 10 damage to your opponent's Active Pokémon.",
+    "it": "Alla fine del tuo turno, se il Pokémon {D} a cui è assegnata questa carta è in posizione attiva, infliggi 10 danni al Pokémon attivo del tuo avversario."
+  },
+  "Play this card as if it were a 40-HP Basic {C} Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.": {
+    "en": "Play this card as if it were a 40-HP Basic {C} Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
+    "it": "Gioca questa carta come se fosse un Pokémon Base {C} con 40 PS. Durante il tuo turno, in qualsiasi momento, puoi scartare questa carta dal gioco. Questa carta non può ritirarsi.",
+    "de": "Spiele diese Karte, als ob sie ein Basis-{C}-Pokémon mit 40 KP wäre. Du kannst diese Karte jederzeit während deines Zuges aus dem Spiel nehmen und auf deinen Ablagestapel legen. Diese Karte kann sich nicht zurückziehen."
+  },
+  "Flip a coin. If heads, put a random Item card from your deck into your hand.": {
+    "en": "Flip a coin. If heads, put a random Item card from your deck into your hand.",
+    "it": "Lancia una moneta. Se esce testa, prendi una carta Strumento a caso dal tuo mazzo e aggiungila alle carte che hai in mano.",
+    "de": "Wirf 1 Münze. Nimm bei Kopf 1 zufällige Itemkarte aus deinem Deck auf deine Hand."
+  },
+  "Gold Breaker": {
+    "en": "Gold Breaker",
+    "it": "Rompioro",
+    "de": "Goldbrecher"
+  },
+  "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.": {
+    "en": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.",
+    "it": "Se il Pokémon attivo del tuo avversario è un Pokémon-eX, questo attacco infligge 90 danni in più."
+  },
+  "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.": {
+    "en": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+    "de": "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich.",
+    "fr": "Il change de couleur pour se fondre dans son environnement, afin de s'approcher furtivement de ses proies. Seul son motif ventral reste visible."
+  },
+  "Samesies Slap": {
+    "en": "Samesies Slap",
+    "it": "Schiaffaffine"
+  },
+  "Energy Blender": {
+    "en": "Energy Blender",
+    "it": "Miscelenergia",
+    "de": "Energiemix"
+  },
+  "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.": {
+    "en": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
+    "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon."
+  },
+  "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.": {
+    "en": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.",
+    "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
+    "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu."
+  },
+  "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.": {
+    "en": "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+    "de": "Sein Schweif hat sich in zwei gespalten. Es kann so geschickt mit diesen Schweifen umgehen, dass es seine Hände nur noch selten gebraucht.",
+    "fr": "Ses queues jumelles sont si agiles et si efficaces que Capidextre ne se sert que très rarement de ses bras."
+  },
+  "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.": {
+    "en": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+    "it": "Un gruppo di Appliserpi capricciose che occupa un unica dimora. Nelle rare occasioni in cui si trovano d'accordo, sfoderano la loro vera forza.",
+    "es": "Unos Viborappli caprichosos que comparten morada. En raras ocasiones se ponen de acuerdo y son capaces de mostrar su verdadera fuerza."
+  },
+  "Flip 2 coins. If all of them are heads, this attack does 100 more damage.": {
+    "en": "Flip 2 coins. If all of them are heads, this attack does 100 more damage.",
+    "de": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu."
+  },
+  "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.": {
+    "en": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+    "es": "Exterappli, el que saca la cabeza, e Interappli, el que saca la cola, viven juntos dentro de la manzana y se ayudan el uno al otro."
+  },
+  "Dragon Impact": {
+    "en": "Dragon Impact",
+    "it": "Draghimpatto"
+  },
+  "Dual Customization": {
+    "en": "Dual Customization",
+    "de": "Doppel-Modifizierung"
+  },
+  "Raging Blade": {
+    "en": "Raging Blade",
+    "it": "Lama Furente",
+    "de": "Wutklinge"
+  },
+  "If this Pokémon has damage on it, this attack does 80 more damage.": {
+    "en": "If this Pokémon has damage on it, this attack does 80 more damage.",
+    "it": "Se questo Pokémon è danneggiato, questo attacco infligge 80 danni in più.",
+    "de": "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 80 Schadenspunkte mehr zu."
+  },
+  "Iron Lance": {
+    "en": "Iron Lance",
+    "it": "Spunzone Ferreo",
+    "de": "Eisenlanze"
+  },
+  "Squared Attack": {
+    "en": "Squared Attack",
+    "it": "Attacco Squadrato",
+    "de": "Vierkantattacke"
+  },
+  "Conductive Body": {
+    "en": "Conductive Body",
+    "de": "Leitender Körper"
+  },
+  "Enhanced Blade": {
+    "en": "Enhanced Blade",
+    "it": "Superlama",
+    "de": "Verstärkte Klinge"
+  },
+  "Swallow Up": {
+    "en": "Swallow Up",
+    "it": "Inghiottire",
+    "de": "Runterschlucken"
+  },
+  "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage.": {
+    "en": "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage.",
+    "it": "Se il Pokémon attivo del tuo avversario ha meno PS rimanenti di questo Pokémon, questo attacco infligge 80 danni in più.",
+    "de": "Wenn das Aktive Pokémon deines Gegners weniger verbleibende KP als dieses Pokémon hat, fügt diese Attacke 80 Schadenspunkte mehr zu."
+  },
+  "Bass Control": {
+    "en": "Bass Control",
+    "de": "Basskontrolle"
+  },
+  "This attack does 80 damage to 1 of your opponent's Pokémon.": {
+    "en": "This attack does 80 damage to 1 of your opponent's Pokémon.",
+    "de": "Diese Attacke fügt 1 Pokémon deines Gegners 80 Schadenspunkte zu."
+  },
+  "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.": {
+    "en": "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.",
+    "de": "Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab."
+  },
+  "Cosmic Tackle": {
+    "en": "Cosmic Tackle",
+    "it": "Azione Cosmica"
+  },
+  "Bedrock Breaker": {
+    "en": "Bedrock Breaker",
+    "it": "Infrangiroccia",
+    "de": "Felsgrundbrecher"
+  },
+  "Abyssal Drop": {
+    "en": "Abyssal Drop",
+    "it": "Lancio nell'Abisso",
+    "de": "Abgrundtiefer Fall"
+  },
+  "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose.": {
+    "en": "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose.",
+    "it": "Rimuovi tutte le Energie assegnate a questo Pokémon. Scegli una posizione tra quella attiva e quelle nella panchina del tuo avversario. Alla fine del prossimo turno del tuo avversario, metti KO il Pokémon che si trova in quella posizione.",
+    "de": "Lege alle Energien von diesem Pokémon ab. Wähle 1 Position auf der Bank oder die Aktive Position deines Gegners aus. Mache das Pokémon auf der Position, die du gewählt hast, am Ende des nächsten Zuges deines Gegners kampfunfähig."
+  },
+  "Pivot Throw": {
+    "en": "Pivot Throw",
+    "it": "Rotolancio"
+  },
+  "During your opponent's next turn, this Pokémon takes +50 damage from attacks.": {
+    "en": "During your opponent's next turn, this Pokémon takes +50 damage from attacks.",
+    "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce +50 danni dagli attacchi."
+  },
+  "Mischievous Ring": {
+    "en": "Mischievous Ring",
+    "it": "Anello Monello",
+    "de": "Schabernackring"
+  },
+  "Mind Bend": {
+    "en": "Mind Bend",
+    "it": "Fusione Mentale",
+    "de": "Gedankenverbiegung"
+  },
+  "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage.": {
+    "en": "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage.",
+    "it": "Se hai lo stesso numero di carte in mano del tuo avversario, questo attacco infligge 40 danni in più.",
+    "de": "Wenn du genauso viele Karten auf der Hand hast wie dein Gegner, fügt diese Attacke 40 Schadenspunkte mehr zu."
+  },
+  "Mime-y Shuffle": {
+    "en": "Mime-y Shuffle",
+    "it": "Mimimischiata",
+    "de": "Imitierendes Mischen"
+  },
+  "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.": {
+    "en": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+    "de": "Es besitzt ein exzellentes Hörvermögen. Darum kann es eine Nadel fallen hören, selbst wenn sie 1 km entfernt ist."
+  },
+  "Electrispark": {
+    "en": "Electrispark",
+    "it": "Elettroscintilla"
+  },
+  "Disaster Volt": {
+    "en": "Disaster Volt",
+    "it": "Elettrodisastro",
+    "de": "Stromschwall"
+  },
+  "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.": {
+    "en": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+    "de": "Es hakt sich mit seinem Maul, das als Saugnapf fungiert, an seiner Beute fest und verpasst ihr mit seinen Fangzähnen starke Stromschläge.",
+    "pt-br": "Agarra a presa com sua boca sugadora, fincando seus dentes e eletrocutando-a intensamente"
+  },
+  "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon.": {
+    "en": "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon.",
+    "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata ai Pokémon del tuo avversario."
+  },
+  "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.": {
+    "en": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+    "de": "Es besitzt ein Organ, mit dem es im Notfall Elektrizität erzeugen kann. Es tritt stets in Schwärmen auf.",
+    "pt-br": "Estes Pokémon movem-se em cardumes. Possuem um órgão gerador de eletricidade, que é descarregada em caso de perigo."
+  },
+  "Crackling Snap": {
+    "en": "Crackling Snap",
+    "de": "Knisternder Knall"
+  },
+  "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.": {
+    "en": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.",
+    "it": "Scarta la prima carta del tuo mazzo. Se è una carta Strumento, questo attacco infligge 20 danni in più."
+  },
+  "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.": {
+    "en": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+    "de": "Beim Aufspüren von Gefahren ist Luxtras Röntgenblick äußerst hilfreich.",
+    "es": "Tiene la capacidad de ver a través de todo, algo que resulta extremadamente valioso cuando acecha el peligro."
+  },
+  "This attack does 50 more damage for each point your opponent has gotten.": {
+    "en": "This attack does 50 more damage for each point your opponent has gotten.",
+    "de": "Diese Attacke fügt für jeden von deinem Gegner erhaltenen Punkt 50 Schadenspunkte mehr zu."
+  },
+  "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.": {
+    "en": "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.",
+    "it": "Lancia delle bolle d'acqua appiccicose per inglobare il nemico. Quando questi perde i sensi, lo fa a pezzi con le grosse mandibole.",
+    "de": "Es verschießt klebrige Wasserblasen, um Feinde darin einzuschließen. Werden diese bewusstlos. zerlegt es sie mit seinem großen Mundwerkzeug."
+  },
+  "Mineral Pump": {
+    "en": "Mineral Pump",
+    "it": "Pompa Minerale",
+    "de": "Mineralpumpe"
+  },
+  "Heal 10 damage from each of your Benched Pokémon.": {
+    "en": "Heal 10 damage from each of your Benched Pokémon.",
+    "it": "Cura ciascuno dei tuoi Pokémon in panchina da 10 danni.",
+    "de": "Heile 10 Schadenspunkte bei jedem deiner Pokémon auf der Bank."
+  },
+  "Blizzlock": {
+    "en": "Blizzlock",
+    "de": "Blizzardsperre"
+  },
+  "Frozen Splash": {
+    "en": "Frozen Splash",
+    "it": "Spruzzo Artico",
+    "de": "Frostiger Platscher"
+  },
+  "Migraine": {
+    "en": "Migraine",
+    "it": "Mal di Testa",
+    "de": "Migräne"
+  },
+  "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused.": {
+    "en": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused.",
+    "it": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene confuso. Se esce croce, questo Pokémon viene confuso.",
+    "de": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt verwirrt. Bei Zahl ist dieses Pokémon jetzt verwirrt."
+  },
+  "Sharp Claws": {
+    "en": "Sharp Claws",
+    "it": "Artigli Affilati",
+    "de": "Scharfe Krallen"
+  },
+  "Bursting Tail": {
+    "en": "Bursting Tail",
+    "it": "Scoppiocoda",
+    "de": "Berstender Schweif"
+  },
+  "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.": {
+    "en": "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.",
+    "it": "Scarta un'Energia {R} da questo Pokémon. Il Pokémon attivo del tuo avversario è ora bruciato.",
+    "de": "Wirf eine {R}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt verbrannt."
+  },
+  "Ogre's Whip": {
+    "en": "Ogre's Whip",
+    "it": "Frustata dell'Orco",
+    "de": "Ogerpeitsche"
+  },
+  "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP.": {
+    "en": "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP.",
+    "it": "Questo attacco infligge al Pokémon attivo dell'avversario danni pari alla quantità di PS rimasti a questo Pokémon.",
+    "de": "Diese Attacke fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe der verbleibenden KP dieses Pokémon zu."
+  },
+  "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.": {
+    "en": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+    "it": "Gli piace stare in posti bui e freschi, ad esempio in fondo agli scaffali o sotto i pavimenti delle case. Dopo il tramonto vaga in cerca di prede.",
+    "fr": "il aime les endroits frais et sombres, comme le dessous d'un plancher ou le fond d'une étagère. A la nuit tombée, il erre en quête de proies."
+  },
+  "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.": {
+    "en": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+    "it": "Può sembrare una forma regionale di Sinistea, ma di recente si è scoperto che non c'è alcuna relazione fra questi due Pokémon.",
+    "de": "Es sieht aus wie eine Regionalform von Fatalitee. doch vor Kurzem fand man heraus, dass zwischen den beiden Pokémon keine Verbindung besteht."
+  },
+  "Prelude": {
+    "en": "Prelude",
+    "de": "Auftakt"
+  },
+  "If you haven't gotten any points, this attack does 60 more damage.": {
+    "en": "If you haven't gotten any points, this attack does 60 more damage.",
+    "de": "Wenn du noch keine Punkte erhalten hast, fügt diese Attacke 60 Schadenspunkte mehr zu."
+  },
+  "Seashell Attack": {
+    "en": "Seashell Attack",
+    "it": "Conchigliata",
+    "de": "Seemuschelangriff"
+  },
+  "Stick and Absorb": {
+    "en": "Stick and Absorb",
+    "it": "Avvinghia e Assorbi"
+  },
+  "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat.": {
+    "en": "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat.",
+    "it": "Cura questo Pokémon da 30 danni. Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+    "de": "Heile 30 Schadenspunkte bei diesem Pokémon. Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen."
+  },
+  "Variety Powder": {
+    "en": "Variety Powder",
+    "it": "Polvere Multieffetto",
+    "de": "Vielseitiger Puder"
+  },
+  "Once during your turn, you may use this Ability. 1 Special Condition from among Burned, Confused, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.": {
+    "en": "Once during your turn, you may use this Ability. 1 Special Condition from among Burned, Confused, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
+    "it": "Una sola volta durante il tuo turno, puoi usare questa abilità. Il Pokémon attivo dell'avversario viene influenzato da una condizione speciale scelta a caso tra bruciato, confuso e avvelenato. Eventuali condizioni speciali da cui è già influenzato il Pokémon non verranno scelte.",
+    "de": "Einmal während deines Zuges kannst du diese Fähigkeit einsetzen. 1 Spezieller Zustand wird zufällig aus Verbrennung, Verwirrung und Vergiftung ausgewählt. Das Aktive Pokémon deines Gegners ist jetzt von diesem Zustand betroffen. Spezielle Zustände, von denen das Pokémon bereits betroffen ist, werden nicht ausgewählt."
+  },
+  "Cocoon Collector": {
+    "en": "Cocoon Collector",
+    "it": "Collezionista di Crisalidi",
+    "de": "Kokonsammler"
+  },
+  "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.": {
+    "en": "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.",
+    "it": "Prendi 3 Pokémon a caso tra Silcoon e Cascoon dal tuo mazzo e mettili nella tua panchina.",
+    "de": "Lege von den Karten Schaloko und Panekon 3 zufällige aus deinem Deck auf deine Bank."
+  },
+  "Evoflight": {
+    "en": "Evoflight",
+    "de": "Entwicklungsflug"
+  },
+  "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.": {
+    "en": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+    "pt-br": "Seus bigodes são essenciais para manter o equilibrio. Não importa o quão amigável seja, se tocar os bigodes deste Pokémon, ele vai se irritar e morder você."
+  },
+  "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.": {
+    "en": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
+    "pt-br": "Este Pokémon é comum, mas perigoso. Seus incisivos afiados podem cortar madeiras resistentes com facilidade."
+  },
+  "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.": {
+    "en": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
+    "fr": "Plus la pièce de son front est sombre, plus elle est dure et inspire le respect à ses congénères Il est aguerri et ne connait pas la peur."
+  },
+  "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.": {
+    "en": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "pt-br": "Conhecido por suas técnicas de pantomima de alto nível. este Pokémon se protege de todos os tipos de ataque, emitindo auras de seus dedos para criar paredes."
+  },
+  "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.": {
+    "en": "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+    "es": "Tiene unos brazos duros como la roca, con los que puede dejar molido al enemigo de un solo golpe. Construye su nido en playas bonicas.",
+    "pt-br": "Os braços de Swampert são duros como pedra e, com um único golpe, conseguem derrubar os inimigos. Este Pokémon faz ninho em praias maravilhosas."
+  },
+  "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.": {
+    "en": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.",
+    "pt-br": "O último fator necessário para ativar o verdadeiro poder deste Pokémon é uma conexão forte com um Treinador de sua confiança."
+  },
+  "It shows its cute side by chasing its own tail until it gets dizzy.": {
+    "en": "It shows its cute side by chasing its own tail until it gets dizzy.",
+    "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto"
+  },
+  "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.": {
+    "en": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+    "pt-br": "O seu corpo de metal é resistente, mas propenso a reter calor. Libera o calor pelas fendas de sua cauda."
+  },
+  "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.": {
+    "en": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "pt-br": "Estes Pokémon evoluem ao vestir a concha de um Shelmet. A armadura de aço protege seu corpo inteiro."
+  },
+  "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.": {
+    "en": "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+    "es": "Todas sus células cuentan con carga magnética, y se comunica con los suyos a través de pulsos electromagnéticos.",
+    "it": "Le cellule del suo corpo sono calamite. Il suo corpo emette onde magnetiche, tramite le quali comunica con i suoi simili.",
+    "zh-tw": "全身細胞都由磁鐵構成。會從身體放出磁力藉此和夥伴對話。"
+  },
+  "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.": {
+    "en": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+    "pt-br": "Pisoteia o chão para acumular energia. Pode mandar um caminhão de 10 toneladas pelos ares com um soco direto."
+  },
+  "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.": {
+    "en": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "pt-br": "É possivel ver dois deles esfregando seus bolsões nas bochechas um do outro em um esforço para compartilhar a eletricidade armazenada."
+  },
+  "By gathering their tails together, they collectively generate powerful electricity from their claws.": {
+    "en": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+    "fr": "Lorsqu'ils joignent leurs queues, leurs griffes peuvent libérer des décharges électriques encore plus fortes"
+  },
+  "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.": {
+    "en": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
+    "es": "Produce electricidad contrayendo sus músculos. Si siente peligro, su pelaje brilla resplandeciente"
+  },
+  "When several of these POKéMON gather, their electricity can build and cause lightning storms.": {
+    "en": "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
+    "es": "Cuando varios de estos Pokémon se juntan, su energia puede causar fuertes tormentas"
+  },
+  "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.": {
+    "en": "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.",
+    "pt-br": "A bolha de água que envolve sua cabeça é apoiada por suas tres pernas. As vezes, troca sutilmente as pernas que sustentam sua bolha."
+  },
+  "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.": {
+    "en": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+    "pt-br": "Quando suga um grande volume de água do mar, transforma-se em uma bola grande e saltitance. Come uma tonelada de comida diariamente."
+  },
+  "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.": {
+    "en": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+    "pt-br": "Nada graciosamente por rios e lagos tranquilos e lentos, dos quais gosta muito."
+  },
+  "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.": {
+    "en": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+    "pt-br": "A lingua de Heatmor é uma chama capaz de derreter o casco duro de Durant. permitindo que devore tudo o que há dentro."
+  },
+  "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.": {
+    "en": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+    "fr": "Les flammes qui émanent de son dos atteignent leur pic d'intensité lorsqu'il est en colère. Elles lui permettent ainsi d'intimider ses adversaires."
+  },
+  "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.": {
+    "en": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+    "es": "Ahueca el pelaje de su cuello para bajar la temperatura de su cuerpo, que puede llegar a 900°C."
+  },
+  "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.": {
+    "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+    "es": "Es bromista y extremadamente curioso. A la hora de combatir, se sirve del tipo de energia que contenga la máscara que lleve puesta."
+  },
+  "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.": {
+    "en": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+    "pt-br": "A fisiologia estranha deste Pokémon reage à eletricidade. Por alguma razão, Shelmet evolui quando está perto de Karrablast."
+  },
+  "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.": {
+    "en": "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+    "pt-br": "O trio está unido desde o nascimento. Coleta néctar de flores constantemente para agradar Vespiquen"
+  },
+  "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.": {
+    "en": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+    "pt-br": "Assim que captura a presa com seus tentáculos. Cradily a digere inteira e absorve seus nutrientes"
+  },
+  "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.": {
+    "en": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
+    "pt-br": "Sua natureza é agressiva. Ele ataca suas presas com sua boca comprida e estreita para drenar os fluidos do inimigo"
+  }
+}

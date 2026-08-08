@@ -1,0 +1,5570 @@
+[
+  {
+    "id": "B4-003",
+    "locale": "it",
+    "sourceSha256": "13783c2f81826fea96a7469e2fd39cce4bee5f8ba742841804509d0cf896530f",
+    "ok": true,
+    "text": "FASE2\n\nBeautify\n\nPS 130\n\nSi evolve da Sicco\n\nN° 0267 Pokémon Farfalla Altezza: 1,0 m Pesco: 28,4 kg\n\nEvololo\n\n30+\n\nQuesto attacco infligge 30 danni in più per ogni\nPokémon Evoluzione nella tua panchina.\n\ndebolezza\n\nII. Suwama Chiaki\n\n+20\n\nritirata\n\nHa un'indole aggressiva. Conficca la sua bocca\nlunga e sottile nelle prede e ne succhia i fluidi.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "FASE2",
+            "bbox": [
+              13,
+              24,
+              61,
+              37
+            ],
+            "polygon": [
+              [
+                13,
+                23.999996185302734
+              ],
+              [
+                59.99999237060547,
+                23.999996185302734
+              ],
+              [
+                59.99999237060547,
+                35.999996185302734
+              ],
+              [
+                13,
+                35.999996185302734
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Beautify",
+            "bbox": [
+              66,
+              20,
+              168,
+              45
+            ],
+            "polygon": [
+              [
+                66,
+                20
+              ],
+              [
+                168,
+                20
+              ],
+              [
+                168,
+                45
+              ],
+              [
+                66,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "PS 130",
+            "bbox": [
+              264,
+              19,
+              348,
+              45
+            ],
+            "polygon": [
+              [
+                264,
+                19
+              ],
+              [
+                348,
+                19
+              ],
+              [
+                348,
+                45
+              ],
+              [
+                264,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Si evolve da Sicco",
+            "bbox": [
+              61,
+              48,
+              120,
+              57
+            ],
+            "polygon": [
+              [
+                61,
+                48
+              ],
+              [
+                119,
+                48
+              ],
+              [
+                119,
+                56
+              ],
+              [
+                61,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              321,
+              17,
+              348,
+              44
+            ],
+            "polygon": [
+              [
+                321,
+                17
+              ],
+              [
+                347,
+                17
+              ],
+              [
+                347,
+                43
+              ],
+              [
+                321,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              21,
+              46,
+              340,
+              244
+            ],
+            "polygon": [
+              [
+                21,
+                46
+              ],
+              [
+                340,
+                46
+              ],
+              [
+                340,
+                244
+              ],
+              [
+                21,
+                244
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0267 Pokémon Farfalla Altezza: 1,0 m Pesco: 28,4 kg",
+            "bbox": [
+              95,
+              246,
+              271,
+              256
+            ],
+            "polygon": [
+              [
+                95,
+                246
+              ],
+              [
+                270,
+                246
+              ],
+              [
+                270,
+                255
+              ],
+              [
+                95,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              319,
+              46,
+              341
+            ],
+            "polygon": [
+              [
+                22,
+                319
+              ],
+              [
+                45,
+                319
+              ],
+              [
+                45,
+                340
+              ],
+              [
+                22,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Evololo",
+            "bbox": [
+              111,
+              321,
+              191,
+              340
+            ],
+            "polygon": [
+              [
+                111,
+                321
+              ],
+              [
+                190,
+                321
+              ],
+              [
+                190,
+                339
+              ],
+              [
+                111,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "30+",
+            "bbox": [
+              315,
+              318,
+              351,
+              340
+            ],
+            "polygon": [
+              [
+                315,
+                318
+              ],
+              [
+                350,
+                318
+              ],
+              [
+                350,
+                339
+              ],
+              [
+                315,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Questo attacco infligge 30 danni in più per ogni\nPokémon Evoluzione nella tua panchina.",
+            "bbox": [
+              23,
+              342,
+              344,
+              377
+            ],
+            "polygon": [
+              [
+                23,
+                342
+              ],
+              [
+                344,
+                342
+              ],
+              [
+                344,
+                377
+              ],
+              [
+                23,
+                377
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "II. Suwama Chiaki",
+            "bbox": [
+              25,
+              457,
+              90,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                89,
+                457
+              ],
+              [
+                89,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              466,
+              55,
+              484
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                54,
+                466
+              ],
+              [
+                54,
+                483
+              ],
+              [
+                26,
+                483
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ha un'indole aggressiva. Conficca la sua bocca\nlunga e sottile nelle prede e ne succhia i fluidi.",
+            "bbox": [
+              169,
+              466,
+              343,
+              490
+            ],
+            "polygon": [
+              [
+                169,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                490
+              ],
+              [
+                169,
+                490
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-007",
+    "locale": "it",
+    "sourceSha256": "341e536e2c6ee938e609f28f167f071bfee8ec2e9a8a4565bbacbb7077a5ec8c",
+    "ok": true,
+    "text": "FASE2 Cradily\n\nPS 150\n\nN° 0346 Pokémon Lepvde Altezza: 1,5 m Peso: 60,4 kg\n\nAvvinghia e Assorbi\n\nCura questo Pokémon da 30 danni. Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.\n\ndebolezza\n\n+20\n\nIII. Midori Harada\n\nritirata\n\nCattura le prede con i tentacoli e le scioglie con un\nfluido digestivo, assorbendone così le sostanze nutritive.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "FASE2 Cradily",
+            "bbox": [
+              13,
+              20,
+              149,
+              45
+            ],
+            "polygon": [
+              [
+                13,
+                20
+              ],
+              [
+                149,
+                20
+              ],
+              [
+                149,
+                45
+              ],
+              [
+                13,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 150",
+            "bbox": [
+              264,
+              19,
+              349,
+              44
+            ],
+            "polygon": [
+              [
+                264,
+                19
+              ],
+              [
+                348,
+                19
+              ],
+              [
+                348,
+                43
+              ],
+              [
+                264,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              17,
+              41,
+              54,
+              79
+            ],
+            "polygon": [
+              [
+                17,
+                41
+              ],
+              [
+                53,
+                41
+              ],
+              [
+                53,
+                78
+              ],
+              [
+                17,
+                78
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              27,
+              48,
+              339,
+              242
+            ],
+            "polygon": [
+              [
+                27,
+                48
+              ],
+              [
+                339,
+                48
+              ],
+              [
+                339,
+                242
+              ],
+              [
+                27,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0346 Pokémon Lepvde Altezza: 1,5 m Peso: 60,4 kg",
+            "bbox": [
+              95,
+              246,
+              272,
+              256
+            ],
+            "polygon": [
+              [
+                95,
+                246
+              ],
+              [
+                271,
+                246
+              ],
+              [
+                271,
+                255
+              ],
+              [
+                95,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              310,
+              67,
+              332
+            ],
+            "polygon": [
+              [
+                22,
+                310
+              ],
+              [
+                66,
+                310
+              ],
+              [
+                66,
+                331
+              ],
+              [
+                22,
+                331
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Avvinghia e Assorbi",
+            "bbox": [
+              111,
+              312,
+              291,
+              332
+            ],
+            "polygon": [
+              [
+                111,
+                311.9999694824219
+              ],
+              [
+                289.9999694824219,
+                311.9999694824219
+              ],
+              [
+                289.9999694824219,
+                330.9999694824219
+              ],
+              [
+                111,
+                330.9999694824219
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Cura questo Pokémon da 30 danni. Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi.",
+            "bbox": [
+              23,
+              334,
+              343,
+              384
+            ],
+            "polygon": [
+              [
+                23,
+                334
+              ],
+              [
+                343,
+                334
+              ],
+              [
+                343,
+                384
+              ],
+              [
+                23,
+                384
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              439,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                439
+              ],
+              [
+                149,
+                439
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "III. Midori Harada",
+            "bbox": [
+              25,
+              457,
+              88,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                87,
+                457
+              ],
+              [
+                87,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              466,
+              70,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                69,
+                466
+              ],
+              [
+                69,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              439,
+              300,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                442
+              ],
+              [
+                299,
+                442
+              ],
+              [
+                299,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Cattura le prede con i tentacoli e le scioglie con un\nfluido digestivo, assorbendone così le sostanze nutritive.",
+            "bbox": [
+              132,
+              466,
+              343,
+              489
+            ],
+            "polygon": [
+              [
+                132,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                489
+              ],
+              [
+                132,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-009",
+    "locale": "it",
+    "sourceSha256": "7d901f0955b794c2258c057dd350479da03fda8169663cbf74ffe688bb7d4572",
+    "ok": true,
+    "text": "Kricketune\n\nN° 0402 Pokémon Grillo Altezza: 1,0 m Peso: 25.5 kg\n\nC'è un villaggio che organizza una gara basata sulle\nmelodie incredibilmente varie di questo Pokémon.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "doc_title",
+            "text": "Kricketune",
+            "bbox": [
+              66,
+              21,
+              196,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                195,
+                21
+              ],
+              [
+                195,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              13,
+              19,
+              351,
+              493
+            ],
+            "polygon": [
+              [
+                13,
+                19
+              ],
+              [
+                351,
+                19
+              ],
+              [
+                351,
+                493
+              ],
+              [
+                13,
+                493
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0402 Pokémon Grillo Altezza: 1,0 m Peso: 25.5 kg",
+            "bbox": [
+              97,
+              245,
+              270,
+              256
+            ],
+            "polygon": [
+              [
+                97,
+                245
+              ],
+              [
+                97,
+                255
+              ],
+              [
+                269,
+                255
+              ],
+              [
+                269,
+                245
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "C'è un villaggio che organizza una gara basata sulle\nmelodie incredibilmente varie di questo Pokémon.",
+            "bbox": [
+              152,
+              466,
+              343,
+              489
+            ],
+            "polygon": [
+              [
+                152,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                489
+              ],
+              [
+                152,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-010",
+    "locale": "it",
+    "sourceSha256": "75d97e13357ff135db75e48a537d833a0bc3cdf2fd7e1c863effc95378b5f568",
+    "ok": true,
+    "text": "Combee\n\nPS 50\n\nN° 0415 Pokémon Apetta Altezza: 0.3 m Pesco: 5.5 kg\n\nC\n\nQuesto Pokémon infligge anche 10 danni a se stesso.\n\ndebolezza\n\n+20\n\nritirata\n\nIII. Yoriyuki Ikegami\nIl trio è insieme dalla nascita. Passa il tempo a raccogliere\nil nettare dei fiori per far felice Vespiquen.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "doc_title",
+            "text": "Combee",
+            "bbox": [
+              65,
+              21,
+              165,
+              43
+            ],
+            "polygon": [
+              [
+                64.99999237060547,
+                20.999998092651367
+              ],
+              [
+                163.99996948242188,
+                21
+              ],
+              [
+                163.99996948242188,
+                41.99999237060547
+              ],
+              [
+                64.99999237060547,
+                41.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 50",
+            "bbox": [
+              276,
+              18,
+              350,
+              44
+            ],
+            "polygon": [
+              [
+                349,
+                18
+              ],
+              [
+                313,
+                18
+              ],
+              [
+                276,
+                21
+              ],
+              [
+                276,
+                43
+              ],
+              [
+                348,
+                43
+              ],
+              [
+                349,
+                41
+              ],
+              [
+                349,
+                36
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              28,
+              49,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                28,
+                49
+              ],
+              [
+                338,
+                49
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                28,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0415 Pokémon Apetta Altezza: 0.3 m Pesco: 5.5 kg",
+            "bbox": [
+              97,
+              246,
+              269,
+              256
+            ],
+            "polygon": [
+              [
+                97,
+                246
+              ],
+              [
+                268,
+                246
+              ],
+              [
+                268,
+                255
+              ],
+              [
+                97,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              327,
+              45,
+              350
+            ],
+            "polygon": [
+              [
+                22,
+                327
+              ],
+              [
+                44,
+                327
+              ],
+              [
+                44,
+                349
+              ],
+              [
+                22,
+                349
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "C",
+            "bbox": [
+              111,
+              330,
+              269,
+              349
+            ],
+            "polygon": [
+              [
+                111,
+                330
+              ],
+              [
+                111,
+                335
+              ],
+              [
+                113,
+                346
+              ],
+              [
+                184.8311004638672,
+                317.41815185546875
+              ],
+              [
+                268,
+                348
+              ],
+              [
+                268,
+                330
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Questo Pokémon infligge anche 10 danni a se stesso.",
+            "bbox": [
+              23,
+              351,
+              334,
+              368
+            ],
+            "polygon": [
+              [
+                23,
+                351
+              ],
+              [
+                333,
+                351
+              ],
+              [
+                333,
+                367
+              ],
+              [
+                23,
+                367
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              440,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                440
+              ],
+              [
+                118,
+                440
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              439,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                439
+              ],
+              [
+                149,
+                439
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "III. Yoriyuki Ikegami\nIl trio è insieme dalla nascita. Passa il tempo a raccogliere\nil nettare dei fiori per far felice Vespiquen.",
+            "bbox": [
+              25,
+              457,
+              94,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                93,
+                457
+              ],
+              [
+                93,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              128,
+              466,
+              342,
+              490
+            ],
+            "polygon": [
+              [
+                128,
+                466
+              ],
+              [
+                342,
+                466
+              ],
+              [
+                342,
+                490
+              ],
+              [
+                128,
+                490
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              41,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                40,
+                467
+              ],
+              [
+                40,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-011",
+    "locale": "it",
+    "sourceSha256": "e1673f7b522a20c32c5cbc607a35722cf1406a58a8f9fae797b85dd168f8defb",
+    "ok": true,
+    "text": "Puoi scartare uno dei tuoi Pokémon Base ✦ in panchina.\nSe lo fai, questo attacco infligge 70 danni in più.\n\ndebolezza\n\nritirata\n\n+20\n\nRegola EX Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon-ex va KO.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              318,
+              67,
+              341
+            ],
+            "polygon": [
+              [
+                22,
+                318
+              ],
+              [
+                66,
+                318
+              ],
+              [
+                66,
+                340
+              ],
+              [
+                22,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Puoi scartare uno dei tuoi Pokémon Base ✦ in panchina.\nSe lo fai, questo attacco infligge 70 danni in più.",
+            "bbox": [
+              22,
+              342,
+              343,
+              378
+            ],
+            "polygon": [
+              [
+                22.164154052734375,
+                339.9820861816406
+              ],
+              [
+                341.9999694824219,
+                341.9999694824219
+              ],
+              [
+                341.77911376953125,
+                377.0049133300781
+              ],
+              [
+                21.94329833984375,
+                374.9870300292969
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              453
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                452
+              ],
+              [
+                51,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Regola EX Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon-ex va KO.",
+            "bbox": [
+              130,
+              466,
+              331,
+              490
+            ],
+            "polygon": [
+              [
+                130,
+                466
+              ],
+              [
+                331,
+                466
+              ],
+              [
+                331,
+                490
+              ],
+              [
+                130,
+                490
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-016",
+    "locale": "it",
+    "sourceSha256": "61e74ccff33b52c7967cdff6589d0ec7faeadbb711490835f7ad0a4cb98d36bb",
+    "ok": true,
+    "text": "BASE\n\nPheromosa\n\nPS 70\n\nN° 0795 Pokémon Leggiadria Alezza: 1,8 m Peso: 25,0 kg\n\nPrelude\n\n30+\n\nSe non hai ottenuto alcun punto, questo attacco infligge\n60 danni in più.\n\ndebolezza\n\nIII. Hitoshi Ariga\n\n+20\n\nritirata\n\n◇ ◇\nUn'Ultracreatura che cerca di evitare ogni contatto con le\ncose di questo mondo, come se lo considerasse contaminato.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "BASE",
+            "bbox": [
+              18,
+              25,
+              55,
+              36
+            ],
+            "polygon": [
+              [
+                18,
+                25
+              ],
+              [
+                54,
+                25
+              ],
+              [
+                54,
+                35
+              ],
+              [
+                18,
+                35
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Pheromosa",
+            "bbox": [
+              66,
+              22,
+              199,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                22
+              ],
+              [
+                198,
+                22
+              ],
+              [
+                198,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "PS 70",
+            "bbox": [
+              275,
+              19,
+              349,
+              44
+            ],
+            "polygon": [
+              [
+                275,
+                19
+              ],
+              [
+                348,
+                19
+              ],
+              [
+                348,
+                43
+              ],
+              [
+                275,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              27,
+              51,
+              347,
+              242
+            ],
+            "polygon": [
+              [
+                27,
+                51
+              ],
+              [
+                347,
+                51
+              ],
+              [
+                347,
+                242
+              ],
+              [
+                27,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0795 Pokémon Leggiadria Alezza: 1,8 m Peso: 25,0 kg",
+            "bbox": [
+              91,
+              245,
+              276,
+              256
+            ],
+            "polygon": [
+              [
+                91,
+                245
+              ],
+              [
+                275,
+                245
+              ],
+              [
+                275,
+                255
+              ],
+              [
+                91,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              319,
+              67,
+              341
+            ],
+            "polygon": [
+              [
+                22,
+                319
+              ],
+              [
+                66,
+                319
+              ],
+              [
+                66,
+                340
+              ],
+              [
+                22,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Prelude",
+            "bbox": [
+              111,
+              321,
+              184,
+              340
+            ],
+            "polygon": [
+              [
+                113,
+                321
+              ],
+              [
+                183,
+                321
+              ],
+              [
+                183,
+                339
+              ],
+              [
+                113,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "30+",
+            "bbox": [
+              316,
+              318,
+              351,
+              340
+            ],
+            "polygon": [
+              [
+                316,
+                318
+              ],
+              [
+                350,
+                318
+              ],
+              [
+                350,
+                339
+              ],
+              [
+                316,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Se non hai ottenuto alcun punto, questo attacco infligge\n60 danni in più.",
+            "bbox": [
+              23,
+              342,
+              343,
+              377
+            ],
+            "polygon": [
+              [
+                23,
+                342
+              ],
+              [
+                343,
+                342
+              ],
+              [
+                343,
+                377
+              ],
+              [
+                23,
+                377
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "III. Hitoshi Ariga",
+            "bbox": [
+              25,
+              457,
+              82,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                81,
+                457
+              ],
+              [
+                81,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              149,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                148,
+                438
+              ],
+              [
+                148,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "◇ ◇\nUn'Ultracreatura che cerca di evitare ogni contatto con le\ncose di questo mondo, come se lo considerasse contaminato.",
+            "bbox": [
+              26,
+              466,
+              56,
+              484
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                54,
+                466
+              ],
+              [
+                54,
+                483
+              ],
+              [
+                26,
+                483
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              121,
+              466,
+              343,
+              489
+            ],
+            "polygon": [
+              [
+                121,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                489
+              ],
+              [
+                121,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-017",
+    "locale": "it",
+    "sourceSha256": "0f86e5d1d4977d5f00cd4a48adab1bf99d4855d0f1cad85f66c2175932a2c8d2",
+    "ok": true,
+    "text": "BASE\n\nPoltchageist\n\nPS 40\n\nN° 1012 Pokémon Matcha Alezza: 0,1 m Peso: 1,1 kg\n\nAbilità Ospitalità\n\nUna sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano e lo metti in panchina, puoi curare il tuo Pokémon ☻ attivo da 20 danni.\n\nFluidospray\n\n10\n\ndebolezza\n\n+20\n\nIII. Miki Tanaka\n\nritirata\n\nPuò sembrare una forma regionale di Sinistea, ma di recente si è\nscoperto che non c'è alcuna relazione fra questi due Pokémon.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "BASE",
+            "bbox": [
+              18,
+              25,
+              55,
+              36
+            ],
+            "polygon": [
+              [
+                18,
+                25
+              ],
+              [
+                54,
+                25
+              ],
+              [
+                54,
+                35
+              ],
+              [
+                18,
+                35
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Poltchageist",
+            "bbox": [
+              66,
+              20,
+              207,
+              45
+            ],
+            "polygon": [
+              [
+                66,
+                20
+              ],
+              [
+                207,
+                20
+              ],
+              [
+                207,
+                45
+              ],
+              [
+                66,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "PS 40",
+            "bbox": [
+              276,
+              21,
+              320,
+              44
+            ],
+            "polygon": [
+              [
+                276,
+                21
+              ],
+              [
+                319,
+                21
+              ],
+              [
+                319,
+                43
+              ],
+              [
+                276,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              28,
+              50,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                28,
+                50
+              ],
+              [
+                338,
+                50
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                28,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 1012 Pokémon Matcha Alezza: 0,1 m Peso: 1,1 kg",
+            "bbox": [
+              97,
+              246,
+              271,
+              256
+            ],
+            "polygon": [
+              [
+                97,
+                246
+              ],
+              [
+                270,
+                246
+              ],
+              [
+                270,
+                255
+              ],
+              [
+                97,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Abilità Ospitalità",
+            "bbox": [
+              39,
+              273,
+              202,
+              292
+            ],
+            "polygon": [
+              [
+                39,
+                273
+              ],
+              [
+                201,
+                273
+              ],
+              [
+                201,
+                291
+              ],
+              [
+                39,
+                291
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano e lo metti in panchina, puoi curare il tuo Pokémon ☻ attivo da 20 danni.",
+            "bbox": [
+              23,
+              294,
+              342,
+              347
+            ],
+            "polygon": [
+              [
+                23,
+                294
+              ],
+              [
+                342,
+                294
+              ],
+              [
+                342,
+                347
+              ],
+              [
+                23,
+                347
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              370,
+              46,
+              393
+            ],
+            "polygon": [
+              [
+                22,
+                370
+              ],
+              [
+                45,
+                370
+              ],
+              [
+                45,
+                392
+              ],
+              [
+                22,
+                392
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Fluidospray",
+            "bbox": [
+              111,
+              373,
+              218,
+              395
+            ],
+            "polygon": [
+              [
+                111,
+                373
+              ],
+              [
+                217,
+                373
+              ],
+              [
+                217,
+                394
+              ],
+              [
+                111,
+                394
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "10",
+            "bbox": [
+              319,
+              370,
+              343,
+              393
+            ],
+            "polygon": [
+              [
+                319,
+                370
+              ],
+              [
+                342,
+                370
+              ],
+              [
+                342,
+                392
+              ],
+              [
+                319,
+                392
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              453
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                452
+              ],
+              [
+                51,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              149,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                148,
+                438
+              ],
+              [
+                148,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "III. Miki Tanaka",
+            "bbox": [
+              25,
+              457,
+              80,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                79,
+                457
+              ],
+              [
+                79,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              41,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                40,
+                467
+              ],
+              [
+                40,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Può sembrare una forma regionale di Sinistea, ma di recente si è\nscoperto che non c'è alcuna relazione fra questi due Pokémon.",
+            "bbox": [
+              121,
+              466,
+              343,
+              490
+            ],
+            "polygon": [
+              [
+                121,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                490
+              ],
+              [
+                121,
+                490
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-018",
+    "locale": "it",
+    "sourceSha256": "bc56ff779a99cd6a6b51201d2f268af6719078c82f76fe60881a65d8d7c24c30",
+    "ok": true,
+    "text": "Sinistcha\n\nSi evolve da Poltchageat\n\nN° 1013 Pokémon Matcha Alezza: 0,2 m Peso: 2,2 kg\n\nIdrovampata\n\n40\n\nIl Pokémon attivo del tuo avversario viene bruciato.\n\ndebolezza\n\n+20\n\nII. Tomokazu Komiya\n\nritirata\n\nGli piace stare in posti bui e freschi, ad esempio\nin fondo agli scaffali o sotto i pavimenti delle case.\nDopo il tramonto vaga in cerca di prede.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              11,
+              22,
+              60,
+              77
+            ],
+            "polygon": [
+              [
+                11,
+                22
+              ],
+              [
+                60,
+                22
+              ],
+              [
+                60,
+                77
+              ],
+              [
+                11,
+                77
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Sinistcha",
+            "bbox": [
+              65,
+              21,
+              168,
+              43
+            ],
+            "polygon": [
+              [
+                65,
+                21
+              ],
+              [
+                166,
+                21
+              ],
+              [
+                166,
+                42
+              ],
+              [
+                65,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              349,
+              45
+            ],
+            "polygon": [
+              [
+                276,
+                18
+              ],
+              [
+                348,
+                18
+              ],
+              [
+                348,
+                44
+              ],
+              [
+                276,
+                44
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Si evolve da Poltchageat",
+            "bbox": [
+              61,
+              49,
+              133,
+              57
+            ],
+            "polygon": [
+              [
+                61,
+                49
+              ],
+              [
+                132,
+                49
+              ],
+              [
+                132,
+                56
+              ],
+              [
+                61,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              27,
+              50,
+              339,
+              242
+            ],
+            "polygon": [
+              [
+                27,
+                50
+              ],
+              [
+                339,
+                50
+              ],
+              [
+                339,
+                242
+              ],
+              [
+                27,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 1013 Pokémon Matcha Alezza: 0,2 m Peso: 2,2 kg",
+            "bbox": [
+              97,
+              246,
+              270,
+              256
+            ],
+            "polygon": [
+              [
+                97,
+                246
+              ],
+              [
+                269,
+                246
+              ],
+              [
+                269,
+                255
+              ],
+              [
+                97,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              327,
+              67,
+              349
+            ],
+            "polygon": [
+              [
+                22,
+                327
+              ],
+              [
+                66,
+                327
+              ],
+              [
+                66,
+                348
+              ],
+              [
+                22,
+                348
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Idrovampata",
+            "bbox": [
+              111,
+              330,
+              229,
+              350
+            ],
+            "polygon": [
+              [
+                113,
+                330
+              ],
+              [
+                228,
+                330
+              ],
+              [
+                228,
+                349
+              ],
+              [
+                113,
+                349
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "40",
+            "bbox": [
+              315,
+              328,
+              342,
+              348
+            ],
+            "polygon": [
+              [
+                315,
+                328
+              ],
+              [
+                341,
+                328
+              ],
+              [
+                341,
+                347
+              ],
+              [
+                315,
+                347
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Il Pokémon attivo del tuo avversario viene bruciato.",
+            "bbox": [
+              23,
+              351,
+              327,
+              368
+            ],
+            "polygon": [
+              [
+                23,
+                351
+              ],
+              [
+                326,
+                351
+              ],
+              [
+                326,
+                367
+              ],
+              [
+                23,
+                367
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "II. Tomokazu Komiya",
+            "bbox": [
+              25,
+              457,
+              99,
+              468
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                98,
+                457
+              ],
+              [
+                98,
+                467
+              ],
+              [
+                25,
+                467
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              466,
+              55,
+              484
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                54,
+                466
+              ],
+              [
+                54,
+                483
+              ],
+              [
+                26,
+                483
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Gli piace stare in posti bui e freschi, ad esempio\nin fondo agli scaffali o sotto i pavimenti delle case.\nDopo il tramonto vaga in cerca di prede.",
+            "bbox": [
+              155,
+              460,
+              343,
+              495
+            ],
+            "polygon": [
+              [
+                155,
+                460
+              ],
+              [
+                343,
+                460
+              ],
+              [
+                343,
+                495
+              ],
+              [
+                155,
+                495
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-022",
+    "locale": "it",
+    "sourceSha256": "9d4e86f0fe2226ee199ed7f9579f3547308133d5f83fa1498f04ba643ad7d62b",
+    "ok": true,
+    "text": "FASE\n\nFlareon\n\nPS 110\n\nSi evolve da Evas\n\nN° 0136 Pokémon Fiamma Altezza: 0,9 m Peso: 25,0 kg\n\nScoppiocoda\n\n70\nRimuovi un'Energia ♠ da questo Pokémon. Il Pokémon\nattivo del tuo avversario viene bruciato.\n\ndebolezza\n+20\n\nII. AKIRA EGAWA\n\nritirata\n\nArmutta il folto pelo intorno al collo per raffreddare\nil corpo, che può raggiungere i 900 °C.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "FASE",
+            "bbox": [
+              15,
+              24,
+              56,
+              36
+            ],
+            "polygon": [
+              [
+                15,
+                24
+              ],
+              [
+                55,
+                24
+              ],
+              [
+                55,
+                35
+              ],
+              [
+                15,
+                35
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "Flareon",
+            "bbox": [
+              66,
+              21,
+              154,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                153,
+                21
+              ],
+              [
+                153,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 110",
+            "bbox": [
+              268,
+              21,
+              320,
+              44
+            ],
+            "polygon": [
+              [
+                268,
+                21
+              ],
+              [
+                319,
+                21
+              ],
+              [
+                319,
+                43
+              ],
+              [
+                268,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              13,
+              41,
+              56,
+              79
+            ],
+            "polygon": [
+              [
+                13,
+                41
+              ],
+              [
+                56,
+                41
+              ],
+              [
+                56,
+                79
+              ],
+              [
+                13,
+                79
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "Si evolve da Evas",
+            "bbox": [
+              62,
+              49,
+              117,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                49
+              ],
+              [
+                116,
+                49
+              ],
+              [
+                116,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              321,
+              17,
+              349,
+              44
+            ],
+            "polygon": [
+              [
+                321,
+                17
+              ],
+              [
+                348,
+                17
+              ],
+              [
+                348,
+                43
+              ],
+              [
+                321,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              27,
+              50,
+              338,
+              241
+            ],
+            "polygon": [
+              [
+                27,
+                50
+              ],
+              [
+                338,
+                50
+              ],
+              [
+                338,
+                241
+              ],
+              [
+                27,
+                241
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0136 Pokémon Fiamma Altezza: 0,9 m Peso: 25,0 kg",
+            "bbox": [
+              94,
+              246,
+              272,
+              256
+            ],
+            "polygon": [
+              [
+                94,
+                246
+              ],
+              [
+                271,
+                246
+              ],
+              [
+                271,
+                255
+              ],
+              [
+                94,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              319,
+              66,
+              341
+            ],
+            "polygon": [
+              [
+                22,
+                319
+              ],
+              [
+                65,
+                319
+              ],
+              [
+                65,
+                340
+              ],
+              [
+                22,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Scoppiocoda",
+            "bbox": [
+              112,
+              321,
+              227,
+              341
+            ],
+            "polygon": [
+              [
+                112,
+                321
+              ],
+              [
+                226,
+                321
+              ],
+              [
+                226,
+                340
+              ],
+              [
+                112,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "70\nRimuovi un'Energia ♠ da questo Pokémon. Il Pokémon\nattivo del tuo avversario viene bruciato.",
+            "bbox": [
+              316,
+              319,
+              342,
+              340
+            ],
+            "polygon": [
+              [
+                316,
+                319
+              ],
+              [
+                341,
+                319
+              ],
+              [
+                341,
+                339
+              ],
+              [
+                316,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              24,
+              342,
+              342,
+              376
+            ],
+            "polygon": [
+              [
+                24,
+                342
+              ],
+              [
+                342,
+                342
+              ],
+              [
+                342,
+                376
+              ],
+              [
+                24,
+                376
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza\n+20",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              103,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                441
+              ],
+              [
+                103,
+                454
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                105,
+                438
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              118,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                117,
+                439
+              ],
+              [
+                117,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "II. AKIRA EGAWA",
+            "bbox": [
+              25,
+              457,
+              89,
+              466
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                88,
+                457
+              ],
+              [
+                88,
+                465
+              ],
+              [
+                25,
+                465
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              284,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                283,
+                440
+              ],
+              [
+                283,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              55,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                54,
+                467
+              ],
+              [
+                54,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Armutta il folto pelo intorno al collo per raffreddare\nil corpo, che può raggiungere i 900 °C.",
+            "bbox": [
+              149,
+              466,
+              342,
+              489
+            ],
+            "polygon": [
+              [
+                149,
+                466
+              ],
+              [
+                342,
+                466
+              ],
+              [
+                342,
+                489
+              ],
+              [
+                149,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-028",
+    "locale": "it",
+    "sourceSha256": "334be0de0c05ae1f315495002c5ebb3da705b97d62ed5714d488f65879e49c82",
+    "ok": true,
+    "text": "FASE\n\nHoundoom\n\nPS 100\n\nSi evolve da Houndour\n\nN° 0229 Pokémon Buio Alezza: 1,4 m Peso: 35,0 kg\n\nSgranocchio\n\n60\nLancia una moneta. Se esce testa, rimuovi un'Energia a\ncaso dal Pokémon attivo del tuo avversario.\n\ndebolezza\n\n+20\n\nII. hod\n\nritirata\nI suoi terrificanti latrati fanno\ntremare gli altri Pokémon, che si\nprecipitano così nelle proprie tane.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "FASE",
+            "bbox": [
+              15,
+              24,
+              57,
+              36
+            ],
+            "polygon": [
+              [
+                15,
+                23.999996185302734
+              ],
+              [
+                55.99999237060547,
+                23.999996185302734
+              ],
+              [
+                55.99999237060547,
+                34.999996185302734
+              ],
+              [
+                15,
+                34.999996185302734
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Houndoom",
+            "bbox": [
+              66,
+              21,
+              198,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                197,
+                21
+              ],
+              [
+                197,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "PS 100",
+            "bbox": [
+              265,
+              21,
+              320,
+              44
+            ],
+            "polygon": [
+              [
+                264.9999694824219,
+                20.999998092651367
+              ],
+              [
+                318.9999694824219,
+                21
+              ],
+              [
+                318.9999694824219,
+                42.99999237060547
+              ],
+              [
+                264.9999694824219,
+                42.99999237060547
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              321,
+              17,
+              350,
+              44
+            ],
+            "polygon": [
+              [
+                321,
+                17
+              ],
+              [
+                349,
+                17
+              ],
+              [
+                349,
+                43
+              ],
+              [
+                321,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Si evolve da Houndour",
+            "bbox": [
+              62,
+              49,
+              129,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                49
+              ],
+              [
+                128,
+                49
+              ],
+              [
+                128,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              45,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                26,
+                45
+              ],
+              [
+                338,
+                45
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                26,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0229 Pokémon Buio Alezza: 1,4 m Peso: 35,0 kg",
+            "bbox": [
+              99,
+              246,
+              268,
+              255
+            ],
+            "polygon": [
+              [
+                99,
+                246
+              ],
+              [
+                267,
+                246
+              ],
+              [
+                267,
+                254
+              ],
+              [
+                99,
+                254
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              319,
+              66,
+              341
+            ],
+            "polygon": [
+              [
+                22,
+                319
+              ],
+              [
+                65,
+                319
+              ],
+              [
+                65,
+                340
+              ],
+              [
+                22,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Sgranocchio",
+            "bbox": [
+              112,
+              322,
+              222,
+              341
+            ],
+            "polygon": [
+              [
+                112.00000762939453,
+                321.9999694824219
+              ],
+              [
+                221,
+                321.9999694824219
+              ],
+              [
+                221,
+                339.9999694824219
+              ],
+              [
+                112.00000762939453,
+                339.9999694824219
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "60\nLancia una moneta. Se esce testa, rimuovi un'Energia a\ncaso dal Pokémon attivo del tuo avversario.",
+            "bbox": [
+              316,
+              319,
+              342,
+              339
+            ],
+            "polygon": [
+              [
+                316,
+                319
+              ],
+              [
+                341,
+                319
+              ],
+              [
+                341,
+                338
+              ],
+              [
+                316,
+                338
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              24,
+              343,
+              342,
+              376
+            ],
+            "polygon": [
+              [
+                24,
+                343
+              ],
+              [
+                342,
+                343
+              ],
+              [
+                342,
+                376
+              ],
+              [
+                24,
+                376
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              440,
+              118,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                440
+              ],
+              [
+                117,
+                440
+              ],
+              [
+                117,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              118,
+              439,
+              150,
+              454
+            ],
+            "polygon": [
+              [
+                118,
+                439
+              ],
+              [
+                149,
+                439
+              ],
+              [
+                149,
+                453
+              ],
+              [
+                118,
+                453
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "II. hod",
+            "bbox": [
+              25,
+              457,
+              53,
+              466
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                52,
+                457
+              ],
+              [
+                52,
+                465
+              ],
+              [
+                25,
+                465
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata\nI suoi terrificanti latrati fanno\ntremare gli altri Pokémon, che si\nprecipitano così nelle proprie tane.",
+            "bbox": [
+              209,
+              443,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                443
+              ],
+              [
+                237,
+                443
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              210,
+              460,
+              342,
+              495
+            ],
+            "polygon": [
+              [
+                210,
+                460
+              ],
+              [
+                342,
+                460
+              ],
+              [
+                342,
+                495
+              ],
+              [
+                210,
+                495
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              466,
+              55,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                466
+              ],
+              [
+                26,
+                482
+              ],
+              [
+                54,
+                482
+              ],
+              [
+                54,
+                466
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-100",
+    "locale": "it",
+    "sourceSha256": "e0d86e5ca15f87c2a088634f9fb53b8048d4ea2acb0fd9653364be29e44d5f0f",
+    "ok": true,
+    "text": "Absol\n\nN° 0359 Pokémon Catastrofe Altezza: 1,2 m Peso: 47,0 kg\n\nSuperlama\n\nSe questo Pokémon ha un Oggetto Pokémon assegnato,\nquesto attacco infligge 30 danni in più.\n\ndebolezza +20\n\nritirata",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "Absol",
+            "bbox": [
+              65,
+              22,
+              132,
+              43
+            ],
+            "polygon": [
+              [
+                65,
+                22
+              ],
+              [
+                131,
+                22
+              ],
+              [
+                131,
+                42
+              ],
+              [
+                65,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              24,
+              51,
+              342,
+              243
+            ],
+            "polygon": [
+              [
+                24,
+                51
+              ],
+              [
+                342,
+                51
+              ],
+              [
+                342,
+                243
+              ],
+              [
+                24,
+                243
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0359 Pokémon Catastrofe Altezza: 1,2 m Peso: 47,0 kg",
+            "bbox": [
+              90,
+              246,
+              277,
+              256
+            ],
+            "polygon": [
+              [
+                90,
+                246
+              ],
+              [
+                276,
+                246
+              ],
+              [
+                276,
+                255
+              ],
+              [
+                90,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              21,
+              319,
+              47,
+              341
+            ],
+            "polygon": [
+              [
+                21,
+                319
+              ],
+              [
+                46,
+                319
+              ],
+              [
+                46,
+                340
+              ],
+              [
+                21,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Superlama",
+            "bbox": [
+              111,
+              322,
+              210,
+              341
+            ],
+            "polygon": [
+              [
+                111,
+                322
+              ],
+              [
+                209,
+                322
+              ],
+              [
+                209,
+                340
+              ],
+              [
+                111,
+                340
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Se questo Pokémon ha un Oggetto Pokémon assegnato,\nquesto attacco infligge 30 danni in più.",
+            "bbox": [
+              23,
+              343,
+              341,
+              377
+            ],
+            "polygon": [
+              [
+                22.791805267333984,
+                343.0013427734375
+              ],
+              [
+                339.7917785644531,
+                341.00128173828125
+              ],
+              [
+                339.9999694824219,
+                374
+              ],
+              [
+                23,
+                376.00006103515625
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza +20",
+            "bbox": [
+              51,
+              442,
+              91,
+              453
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                452
+              ],
+              [
+                51,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                149,
+                439
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-104",
+    "locale": "it",
+    "sourceSha256": "a29eabd7b1b3e0a8053a6062a4ff95ae01d831f84786e8f1db625f9d36fc4d5b",
+    "ok": true,
+    "text": "BASE\n\nSkarmory\n\nPS 90\n\nN° 0227 Pokémon Armuccello Altezza: 1.7 m Piso: 50.5 kg\n\nLe penne che perde sono sottili e affiliate, e si dice che un tempo fossero usate come spade.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "BASE",
+            "bbox": [
+              18,
+              24,
+              55,
+              36
+            ],
+            "polygon": [
+              [
+                18,
+                24
+              ],
+              [
+                54,
+                24
+              ],
+              [
+                54,
+                35
+              ],
+              [
+                18,
+                35
+              ]
+            ]
+          },
+          {
+            "label": "doc_title",
+            "text": "Skarmory",
+            "bbox": [
+              65,
+              21,
+              181,
+              46
+            ],
+            "polygon": [
+              [
+                65.04270935058594,
+                19.334423065185547
+              ],
+              [
+                180.58213806152344,
+                22.29697036743164
+              ],
+              [
+                179.97569274902344,
+                45.94809341430664
+              ],
+              [
+                64.43626403808594,
+                42.98554611206055
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 90",
+            "bbox": [
+              275,
+              20,
+              349,
+              45
+            ],
+            "polygon": [
+              [
+                275,
+                20
+              ],
+              [
+                348,
+                20
+              ],
+              [
+                348,
+                42
+              ],
+              [
+                275,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              27,
+              48,
+              342,
+              244
+            ],
+            "polygon": [
+              [
+                27,
+                48
+              ],
+              [
+                342,
+                48
+              ],
+              [
+                342,
+                244
+              ],
+              [
+                27,
+                244
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0227 Pokémon Armuccello Altezza: 1.7 m Piso: 50.5 kg",
+            "bbox": [
+              88,
+              245,
+              279,
+              256
+            ],
+            "polygon": [
+              [
+                88,
+                245
+              ],
+              [
+                278,
+                245
+              ],
+              [
+                278,
+                255
+              ],
+              [
+                88,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              14,
+              268,
+              351,
+              496
+            ],
+            "polygon": [
+              [
+                14,
+                268
+              ],
+              [
+                351,
+                268
+              ],
+              [
+                351,
+                496
+              ],
+              [
+                14,
+                496
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Le penne che perde sono sottili e affiliate, e si dice che un tempo fossero usate come spade.",
+            "bbox": [
+              169,
+              465,
+              343,
+              489
+            ],
+            "polygon": [
+              [
+                169,
+                465
+              ],
+              [
+                343,
+                465
+              ],
+              [
+                343,
+                489
+              ],
+              [
+                169,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-120",
+    "locale": "it",
+    "sourceSha256": "e3dbaf156c6048b4fdca4ad10e257f6d0bb80967eec3a80690dd8f4d996d0003",
+    "ok": true,
+    "text": "Megascoppio\n\nRimuovi tutte le Energie & da questo Pokémon.\nQuesto attacco infligge 50 danni per ogni Energia che hai rimosso in questo modo.\n\ndebolezza\n\nritirata",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "paragraph_title",
+            "text": "Megascoppio",
+            "bbox": [
+              111,
+              313,
+              231,
+              334
+            ],
+            "polygon": [
+              [
+                111.00000762939453,
+                312.9999694824219
+              ],
+              [
+                230,
+                312.9999694824219
+              ],
+              [
+                230,
+                332.9999694824219
+              ],
+              [
+                111.00000762939453,
+                332.9999694824219
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Rimuovi tutte le Energie & da questo Pokémon.\nQuesto attacco infligge 50 danni per ogni Energia che hai rimosso in questo modo.",
+            "bbox": [
+              23,
+              333,
+              345,
+              386
+            ],
+            "polygon": [
+              [
+                23,
+                333
+              ],
+              [
+                344,
+                333
+              ],
+              [
+                344,
+                383
+              ],
+              [
+                23,
+                383
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              453
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                452
+              ],
+              [
+                51,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-136",
+    "locale": "it",
+    "sourceSha256": "9ea9f409ba773dc657214ba1f6d57ebc9e3d438ebf2b69c534310654baefeee6",
+    "ok": true,
+    "text": "BASE\n\nKecleon\n\nPS 80\n\nN° 0352 Pokémon Mutacolore Altezza: 1.0 m Peso: 22.0 kg\n\nSchiaffaffine\n\n20+\nSe questo Pokémon e il Pokémon attivo del tuo avversario hanno in comune uno o più tipi fra le loro Energie assegnate, questo attacco infligge 30 danni in più.\n\ndebolezza\n\n+20\n\nIII. Midori Harada\n\nritirata\n\nCambia colore per mimetizzarsi e sorprendere la\npreda. Il disegno sulla pancia rimane sempre visibile.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "BASE",
+            "bbox": [
+              18,
+              24,
+              55,
+              36
+            ],
+            "polygon": [
+              [
+                18,
+                24
+              ],
+              [
+                54,
+                24
+              ],
+              [
+                54,
+                35
+              ],
+              [
+                18,
+                35
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "Kecleon",
+            "bbox": [
+              65,
+              21,
+              160,
+              43
+            ],
+            "polygon": [
+              [
+                65,
+                21
+              ],
+              [
+                159,
+                21
+              ],
+              [
+                159,
+                42
+              ],
+              [
+                65,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "PS 80",
+            "bbox": [
+              275,
+              18,
+              350,
+              45
+            ],
+            "polygon": [
+              [
+                275,
+                18
+              ],
+              [
+                350,
+                18
+              ],
+              [
+                350,
+                45
+              ],
+              [
+                275,
+                45
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              28,
+              50,
+              340,
+              242
+            ],
+            "polygon": [
+              [
+                28,
+                50
+              ],
+              [
+                340,
+                50
+              ],
+              [
+                340,
+                242
+              ],
+              [
+                28,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0352 Pokémon Mutacolore Altezza: 1.0 m Peso: 22.0 kg",
+            "bbox": [
+              88,
+              245,
+              279,
+              256
+            ],
+            "polygon": [
+              [
+                88,
+                245
+              ],
+              [
+                278,
+                245
+              ],
+              [
+                278,
+                255
+              ],
+              [
+                88,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              21,
+              310,
+              46,
+              331
+            ],
+            "polygon": [
+              [
+                21,
+                310
+              ],
+              [
+                45,
+                310
+              ],
+              [
+                45,
+                330
+              ],
+              [
+                21,
+                330
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Schiaffaffine",
+            "bbox": [
+              110,
+              312,
+              222,
+              331
+            ],
+            "polygon": [
+              [
+                110,
+                312
+              ],
+              [
+                221,
+                312
+              ],
+              [
+                221,
+                330
+              ],
+              [
+                110,
+                330
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "20+\nSe questo Pokémon e il Pokémon attivo del tuo avversario hanno in comune uno o più tipi fra le loro Energie assegnate, questo attacco infligge 30 danni in più.",
+            "bbox": [
+              315,
+              310,
+              351,
+              331
+            ],
+            "polygon": [
+              [
+                315,
+                310
+              ],
+              [
+                350,
+                310
+              ],
+              [
+                350,
+                330
+              ],
+              [
+                315,
+                330
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              22,
+              333,
+              346,
+              387
+            ],
+            "polygon": [
+              [
+                22,
+                333
+              ],
+              [
+                346,
+                333
+              ],
+              [
+                346,
+                387
+              ],
+              [
+                22,
+                387
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "debolezza",
+            "bbox": [
+              51,
+              442,
+              91,
+              452
+            ],
+            "polygon": [
+              [
+                51,
+                442
+              ],
+              [
+                90,
+                442
+              ],
+              [
+                90,
+                451
+              ],
+              [
+                51,
+                451
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              119,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                118,
+                439
+              ],
+              [
+                118,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              119,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                119,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                119,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "III. Midori Harada",
+            "bbox": [
+              24,
+              457,
+              88,
+              484
+            ],
+            "polygon": [
+              [
+                24,
+                457
+              ],
+              [
+                87,
+                457
+              ],
+              [
+                87,
+                483
+              ],
+              [
+                24,
+                483
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "ritirata",
+            "bbox": [
+              209,
+              442,
+              238,
+              453
+            ],
+            "polygon": [
+              [
+                209,
+                442
+              ],
+              [
+                237,
+                442
+              ],
+              [
+                237,
+                452
+              ],
+              [
+                209,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              40,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                39,
+                467
+              ],
+              [
+                39,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Cambia colore per mimetizzarsi e sorprendere la\npreda. Il disegno sulla pancia rimane sempre visibile.",
+            "bbox": [
+              147,
+              466,
+              343,
+              490
+            ],
+            "polygon": [
+              [
+                147,
+                466
+              ],
+              [
+                343,
+                466
+              ],
+              [
+                343,
+                490
+              ],
+              [
+                147,
+                490
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

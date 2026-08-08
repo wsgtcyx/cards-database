@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "B4-009",
+    "locale": "es",
+    "sourceSha256": "59fe809cbc18f13c883f7c72b3d61bcf6b2a28caad36a363ca81dce282a8f42d",
+    "ok": true,
+    "text": "Kricketune\n\nEvoluciona de Krickstot\n\nN.° 0402 Pokémon Grillo Akura: 1,0 m Peso: 25.5 kg\n\nDebilidad\n\n+20\n\nRetirada\n\nHay un pueblo en el que celebran\nun concurso basado en la\nincreíble variedad de sus gritos.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "paragraph_title",
+            "text": "Kricketune",
+            "bbox": [
+              66,
+              21,
+              196,
+              43
+            ],
+            "polygon": [
+              [
+                66,
+                21
+              ],
+              [
+                195,
+                21
+              ],
+              [
+                195,
+                42
+              ],
+              [
+                66,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Evoluciona de Krickstot",
+            "bbox": [
+              62,
+              48,
+              133,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                48
+              ],
+              [
+                132,
+                48
+              ],
+              [
+                132,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              11,
+              15,
+              353,
+              494
+            ],
+            "polygon": [
+              [
+                11,
+                15
+              ],
+              [
+                353,
+                15
+              ],
+              [
+                353,
+                494
+              ],
+              [
+                11,
+                494
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N.° 0402 Pokémon Grillo Akura: 1,0 m Peso: 25.5 kg",
+            "bbox": [
+              101,
+              245,
+              266,
+              256
+            ],
+            "polygon": [
+              [
+                101,
+                245
+              ],
+              [
+                101,
+                255
+              ],
+              [
+                265,
+                255
+              ],
+              [
+                265,
+                245
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Debilidad",
+            "bbox": [
+              52,
+              441,
+              90,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                441
+              ],
+              [
+                89,
+                441
+              ],
+              [
+                89,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "+20",
+            "bbox": [
+              118,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                118,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                118,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Retirada",
+            "bbox": [
+              206,
+              441,
+              241,
+              453
+            ],
+            "polygon": [
+              [
+                206,
+                441
+              ],
+              [
+                240,
+                441
+              ],
+              [
+                240,
+                452
+              ],
+              [
+                206,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Hay un pueblo en el que celebran\nun concurso basado en la\nincreíble variedad de sus gritos.",
+            "bbox": [
+              214,
+              459,
+              343,
+              495
+            ],
+            "polygon": [
+              [
+                214,
+                459
+              ],
+              [
+                343,
+                459
+              ],
+              [
+                343,
+                495
+              ],
+              [
+                214,
+                495
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-024",
+    "locale": "es",
+    "sourceSha256": "e4586b2258f713642b00fd94d2b611231e47474e93f5e75c150f38b44410d6be",
+    "ok": true,
+    "text": "Cyndaquil\n\nN° 0155 Poklitelon Ratón Fuego Altura: 0.5 m Peso: 7.9 kg\n\nQuemadura\n\nEl Pokémon Activo de tu rival pasa a estar Quemado.\n\nDebilidad +20\n\nHus. Teeziro\n\nRetirada\n\nCuando se enfada, las llamas que emite\npor el lomo arden con más vigor que\nnunca, lo cual intimida a sus rivales.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              12,
+              14,
+              62,
+              38
+            ],
+            "polygon": [
+              [
+                12,
+                17
+              ],
+              [
+                61,
+                17
+              ],
+              [
+                61,
+                37
+              ],
+              [
+                12,
+                37
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Cyndaquil",
+            "bbox": [
+              65,
+              20,
+              180,
+              46
+            ],
+            "polygon": [
+              [
+                65,
+                20
+              ],
+              [
+                180,
+                20
+              ],
+              [
+                180,
+                46
+              ],
+              [
+                65,
+                46
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              350,
+              45
+            ],
+            "polygon": [
+              [
+                276,
+                18
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                349,
+                44
+              ],
+              [
+                276,
+                44
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              28,
+              49,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                28,
+                49
+              ],
+              [
+                338,
+                49
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                28,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0155 Poklitelon Ratón Fuego Altura: 0.5 m Peso: 7.9 kg",
+            "bbox": [
+              92,
+              245,
+              274,
+              256
+            ],
+            "polygon": [
+              [
+                92,
+                245
+              ],
+              [
+                273,
+                245
+              ],
+              [
+                273,
+                255
+              ],
+              [
+                92,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              328,
+              45,
+              349
+            ],
+            "polygon": [
+              [
+                22,
+                328
+              ],
+              [
+                44,
+                328
+              ],
+              [
+                44,
+                348
+              ],
+              [
+                22,
+                348
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Quemadura",
+            "bbox": [
+              111,
+              330,
+              221,
+              349
+            ],
+            "polygon": [
+              [
+                113.00000762939453,
+                329.9999694824219
+              ],
+              [
+                220,
+                329.9999694824219
+              ],
+              [
+                220,
+                347.9999694824219
+              ],
+              [
+                113.00000762939453,
+                347.9999694824219
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "El Pokémon Activo de tu rival pasa a estar Quemado.",
+            "bbox": [
+              24,
+              351,
+              337,
+              368
+            ],
+            "polygon": [
+              [
+                24,
+                351
+              ],
+              [
+                336,
+                351
+              ],
+              [
+                336,
+                367
+              ],
+              [
+                24,
+                367
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Debilidad +20",
+            "bbox": [
+              52,
+              442,
+              90,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                442
+              ],
+              [
+                89,
+                442
+              ],
+              [
+                89,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              103,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                438
+              ],
+              [
+                103,
+                454
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                149,
+                438
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              103,
+              439,
+              118,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                439
+              ],
+              [
+                117,
+                439
+              ],
+              [
+                117,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Hus. Teeziro",
+            "bbox": [
+              25,
+              457,
+              68,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                67,
+                457
+              ],
+              [
+                67,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Retirada",
+            "bbox": [
+              206,
+              442,
+              241,
+              453
+            ],
+            "polygon": [
+              [
+                206,
+                442
+              ],
+              [
+                240,
+                442
+              ],
+              [
+                240,
+                452
+              ],
+              [
+                206,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              40,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                39,
+                467
+              ],
+              [
+                39,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Cuando se enfada, las llamas que emite\npor el lomo arden con más vigor que\nnunca, lo cual intimida a sus rivales.",
+            "bbox": [
+              195,
+              460,
+              342,
+              495
+            ],
+            "polygon": [
+              [
+                195,
+                460
+              ],
+              [
+                342,
+                460
+              ],
+              [
+                342,
+                495
+              ],
+              [
+                195,
+                495
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-025",
+    "locale": "es",
+    "sourceSha256": "7a13790eca2e33912022a503ad043834b0c666bfcdcb36df1b8f5f19a8d7b88b",
+    "ok": true,
+    "text": "Quilava\n\nEvoluciona de Cyndiquil\n\nNL 0156 Pokémon Valcan Altura: 0.9 m Pesio: 19.0 kg\n\n30\nEl Pokémon Activo de tu rival pasa a estar Quemado.\n\nDebilidad +20\n\nIlus. Nooyo Kimura\n\nRetirada\n\n◇ ◇\n\nEl pelaje de este Pokémon\nes ignifugo. Puede soportar\ncualquier ataque con fuego.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              11,
+              17,
+              60,
+              80
+            ],
+            "polygon": [
+              [
+                11,
+                17
+              ],
+              [
+                60,
+                17
+              ],
+              [
+                60,
+                80
+              ],
+              [
+                11,
+                80
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Quilava",
+            "bbox": [
+              65,
+              21,
+              154,
+              44
+            ],
+            "polygon": [
+              [
+                65,
+                21
+              ],
+              [
+                153,
+                21
+              ],
+              [
+                153,
+                43
+              ],
+              [
+                65,
+                43
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              14,
+              41,
+              57,
+              79
+            ],
+            "polygon": [
+              [
+                14,
+                41
+              ],
+              [
+                57,
+                41
+              ],
+              [
+                57,
+                79
+              ],
+              [
+                14,
+                79
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              350,
+              45
+            ],
+            "polygon": [
+              [
+                276,
+                21
+              ],
+              [
+                276,
+                42
+              ],
+              [
+                278,
+                44
+              ],
+              [
+                282,
+                44
+              ],
+              [
+                337,
+                44
+              ],
+              [
+                349,
+                42
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                291,
+                18
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Evoluciona de Cyndiquil",
+            "bbox": [
+              62,
+              49,
+              134,
+              57
+            ],
+            "polygon": [
+              [
+                62,
+                49
+              ],
+              [
+                133,
+                49
+              ],
+              [
+                133,
+                56
+              ],
+              [
+                62,
+                56
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              24,
+              56,
+              338,
+              243
+            ],
+            "polygon": [
+              [
+                24,
+                56
+              ],
+              [
+                338,
+                56
+              ],
+              [
+                338,
+                243
+              ],
+              [
+                24,
+                243
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "NL 0156 Pokémon Valcan Altura: 0.9 m Pesio: 19.0 kg",
+            "bbox": [
+              100,
+              246,
+              267,
+              256
+            ],
+            "polygon": [
+              [
+                100,
+                246
+              ],
+              [
+                265.9999694824219,
+                246
+              ],
+              [
+                265.9999694824219,
+                255
+              ],
+              [
+                100,
+                255
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              328,
+              66,
+              349
+            ],
+            "polygon": [
+              [
+                22,
+                328
+              ],
+              [
+                65,
+                328
+              ],
+              [
+                65,
+                348
+              ],
+              [
+                22,
+                348
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              111,
+              328,
+              217,
+              350
+            ],
+            "polygon": [
+              [
+                113,
+                328
+              ],
+              [
+                216,
+                328
+              ],
+              [
+                216,
+                349
+              ],
+              [
+                113,
+                349
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "30\nEl Pokémon Activo de tu rival pasa a estar Quemado.",
+            "bbox": [
+              316,
+              327,
+              342,
+              349
+            ],
+            "polygon": [
+              [
+                316,
+                327
+              ],
+              [
+                341,
+                327
+              ],
+              [
+                341,
+                348
+              ],
+              [
+                316,
+                348
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              24,
+              351,
+              337,
+              368
+            ],
+            "polygon": [
+              [
+                24,
+                351
+              ],
+              [
+                336,
+                351
+              ],
+              [
+                336,
+                367
+              ],
+              [
+                24,
+                367
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Debilidad +20",
+            "bbox": [
+              52,
+              442,
+              90,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                442
+              ],
+              [
+                89,
+                442
+              ],
+              [
+                89,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              103,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                103,
+                438
+              ],
+              [
+                149,
+                438
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                103,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilus. Nooyo Kimura",
+            "bbox": [
+              25,
+              457,
+              92,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                91,
+                457
+              ],
+              [
+                91,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Retirada",
+            "bbox": [
+              207,
+              442,
+              241,
+              453
+            ],
+            "polygon": [
+              [
+                207,
+                442
+              ],
+              [
+                240,
+                442
+              ],
+              [
+                240,
+                452
+              ],
+              [
+                207,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "◇ ◇",
+            "bbox": [
+              26,
+              467,
+              55,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                54,
+                467
+              ],
+              [
+                54,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "El pelaje de este Pokémon\nes ignifugo. Puede soportar\ncualquier ataque con fuego.",
+            "bbox": [
+              238,
+              460,
+              342,
+              495
+            ],
+            "polygon": [
+              [
+                238,
+                460
+              ],
+              [
+                342,
+                460
+              ],
+              [
+                342,
+                495
+              ],
+              [
+                238,
+                495
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-027",
+    "locale": "es",
+    "sourceSha256": "4cfc326c0291676454673c6deb9401998546f30f841c7a148991d6adfbfe719f",
+    "ok": true,
+    "text": "BASICO\n\nHoundour\n\nN° 0228 Pokémon Siniestro Altura: 0,6 m Pesco: 10,8 kg\n\nGarras Afiladas\n\n10+\n\nLanza 1 moneda. Si sale cara, este ataque hace 20 puntos\nde daño más.\n\nDebilidad\n+20\n\nIlus. Kwata So\n\nRetirada\n\nUsa diferentes tipos de aulidos para comunicarse\ncon los de su especie o para perseguir a su presa.",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "header",
+            "text": "BASICO",
+            "bbox": [
+              13,
+              24,
+              60,
+              36
+            ],
+            "polygon": [
+              [
+                13,
+                24
+              ],
+              [
+                59,
+                24
+              ],
+              [
+                59,
+                35
+              ],
+              [
+                13,
+                35
+              ]
+            ]
+          },
+          {
+            "label": "header",
+            "text": "Houndour",
+            "bbox": [
+              65,
+              20,
+              187,
+              43
+            ],
+            "polygon": [
+              [
+                67,
+                20
+              ],
+              [
+                186,
+                20
+              ],
+              [
+                186,
+                42
+              ],
+              [
+                67,
+                42
+              ]
+            ]
+          },
+          {
+            "label": "header_image",
+            "text": "",
+            "bbox": [
+              276,
+              18,
+              350,
+              44
+            ],
+            "polygon": [
+              [
+                276,
+                21
+              ],
+              [
+                276,
+                43
+              ],
+              [
+                349,
+                43
+              ],
+              [
+                349,
+                18
+              ],
+              [
+                300,
+                18
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              49,
+              338,
+              242
+            ],
+            "polygon": [
+              [
+                26,
+                49
+              ],
+              [
+                338,
+                49
+              ],
+              [
+                338,
+                242
+              ],
+              [
+                26,
+                242
+              ]
+            ]
+          },
+          {
+            "label": "vision_footnote",
+            "text": "N° 0228 Pokémon Siniestro Altura: 0,6 m Pesco: 10,8 kg",
+            "bbox": [
+              96,
+              246,
+              270,
+              256
+            ],
+            "polygon": [
+              [
+                96.05204010009766,
+                245.0003204345703
+              ],
+              [
+                269.05206298828125,
+                246.0003204345703
+              ],
+              [
+                269.0000305175781,
+                255.00001525878906
+              ],
+              [
+                96.00000762939453,
+                254.00001525878906
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              22,
+              319,
+              45,
+              340
+            ],
+            "polygon": [
+              [
+                22,
+                319
+              ],
+              [
+                44,
+                319
+              ],
+              [
+                44,
+                339
+              ],
+              [
+                22,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "paragraph_title",
+            "text": "Garras Afiladas",
+            "bbox": [
+              111,
+              321,
+              251,
+              340
+            ],
+            "polygon": [
+              [
+                113,
+                321
+              ],
+              [
+                250,
+                321
+              ],
+              [
+                250,
+                339
+              ],
+              [
+                113,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "10+",
+            "bbox": [
+              319,
+              319,
+              351,
+              340
+            ],
+            "polygon": [
+              [
+                319,
+                319
+              ],
+              [
+                350,
+                319
+              ],
+              [
+                350,
+                339
+              ],
+              [
+                319,
+                339
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Lanza 1 moneda. Si sale cara, este ataque hace 20 puntos\nde daño más.",
+            "bbox": [
+              23,
+              342,
+              343,
+              376
+            ],
+            "polygon": [
+              [
+                23,
+                342
+              ],
+              [
+                343,
+                342
+              ],
+              [
+                343,
+                376
+              ],
+              [
+                23,
+                376
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Debilidad\n+20",
+            "bbox": [
+              52,
+              441,
+              90,
+              453
+            ],
+            "polygon": [
+              [
+                52,
+                441
+              ],
+              [
+                89,
+                441
+              ],
+              [
+                89,
+                452
+              ],
+              [
+                52,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "",
+            "bbox": [
+              102,
+              438,
+              150,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                438
+              ],
+              [
+                102,
+                454
+              ],
+              [
+                149,
+                454
+              ],
+              [
+                149,
+                438
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              102,
+              439,
+              118,
+              455
+            ],
+            "polygon": [
+              [
+                102,
+                439
+              ],
+              [
+                117,
+                439
+              ],
+              [
+                117,
+                454
+              ],
+              [
+                102,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Ilus. Kwata So",
+            "bbox": [
+              25,
+              457,
+              77,
+              467
+            ],
+            "polygon": [
+              [
+                25,
+                457
+              ],
+              [
+                76,
+                457
+              ],
+              [
+                76,
+                466
+              ],
+              [
+                25,
+                466
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Retirada",
+            "bbox": [
+              206,
+              441,
+              241,
+              453
+            ],
+            "polygon": [
+              [
+                206,
+                441
+              ],
+              [
+                240,
+                441
+              ],
+              [
+                240,
+                452
+              ],
+              [
+                206,
+                452
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              251,
+              440,
+              268,
+              455
+            ],
+            "polygon": [
+              [
+                251,
+                440
+              ],
+              [
+                267,
+                440
+              ],
+              [
+                267,
+                454
+              ],
+              [
+                251,
+                454
+              ]
+            ]
+          },
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              26,
+              467,
+              40,
+              483
+            ],
+            "polygon": [
+              [
+                26,
+                467
+              ],
+              [
+                39,
+                467
+              ],
+              [
+                39,
+                482
+              ],
+              [
+                26,
+                482
+              ]
+            ]
+          },
+          {
+            "label": "text",
+            "text": "Usa diferentes tipos de aulidos para comunicarse\ncon los de su especie o para perseguir a su presa.",
+            "bbox": [
+              155,
+              466,
+              342,
+              490
+            ],
+            "polygon": [
+              [
+                157,
+                466
+              ],
+              [
+                341,
+                466
+              ],
+              [
+                341,
+                489
+              ],
+              [
+                157,
+                489
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-158",
+    "locale": "es",
+    "sourceSha256": "42105a1542033b25e92fa05d519ac1a8a32a02f82435329dc630514911fbbcb7",
+    "ok": true,
+    "text": "",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "image",
+            "text": "",
+            "bbox": [
+              0,
+              0,
+              365,
+              512
+            ],
+            "polygon": [
+              [
+                -2,
+                0
+              ],
+              [
+                365,
+                0
+              ],
+              [
+                365,
+                512
+              ],
+              [
+                -2,
+                512
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B4-161",
+    "locale": "es",
+    "sourceSha256": "e4b3cf162b8d7538a1a9ea9c0d43c23d9cc2b2e4865c19e282230453a2582168",
+    "ok": true,
+    "text": "FASE",
+    "error": null,
+    "pages": [
+      {
+        "width": 367,
+        "height": 512,
+        "blocks": [
+          {
+            "label": "text",
+            "text": "FASE",
+            "bbox": [
+              16,
+              25,
+              56,
+              35
+            ],
+            "polygon": [
+              [
+                16,
+                25
+              ],
+              [
+                55,
+                25
+              ],
+              [
+                55,
+                34
+              ],
+              [
+                16,
+                34
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

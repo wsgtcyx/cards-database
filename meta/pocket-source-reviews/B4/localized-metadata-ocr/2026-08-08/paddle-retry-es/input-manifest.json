@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-08T13:01:30.056Z",
+  "downloadsFile": "meta/pocket-source-reviews/B4/localized-metadata-ocr/2026-08-08/other-locales-input.json",
+  "count": 6,
+  "records": [
+    {
+      "id": "B4-009",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/009/high.webp",
+      "sourceSha256": "59fe809cbc18f13c883f7c72b3d61bcf6b2a28caad36a363ca81dce282a8f42d",
+      "bytes": 49376
+    },
+    {
+      "id": "B4-024",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/024/high.webp",
+      "sourceSha256": "e4586b2258f713642b00fd94d2b611231e47474e93f5e75c150f38b44410d6be",
+      "bytes": 53466
+    },
+    {
+      "id": "B4-025",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/025/high.webp",
+      "sourceSha256": "7a13790eca2e33912022a503ad043834b0c666bfcdcb36df1b8f5f19a8d7b88b",
+      "bytes": 54166
+    },
+    {
+      "id": "B4-027",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/027/high.webp",
+      "sourceSha256": "4cfc326c0291676454673c6deb9401998546f30f841c7a148991d6adfbfe719f",
+      "bytes": 47884
+    },
+    {
+      "id": "B4-158",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/158/high.webp",
+      "sourceSha256": "42105a1542033b25e92fa05d519ac1a8a32a02f82435329dc630514911fbbcb7",
+      "bytes": 53526
+    },
+    {
+      "id": "B4-161",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/161/high.webp",
+      "sourceSha256": "e4b3cf162b8d7538a1a9ea9c0d43c23d9cc2b2e4865c19e282230453a2582168",
+      "bytes": 73256
+    }
+  ]
+}

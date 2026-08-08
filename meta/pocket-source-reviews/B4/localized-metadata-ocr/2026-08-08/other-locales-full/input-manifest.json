@@ -1,0 +1,2829 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-08T12:44:19.236Z",
+  "downloadsFile": "meta/pocket-source-reviews/B4/localized-metadata-ocr/2026-08-08/other-locales-input.json",
+  "count": 403,
+  "records": [
+    {
+      "id": "B4-009",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/009/high.webp",
+      "sourceSha256": "59fe809cbc18f13c883f7c72b3d61bcf6b2a28caad36a363ca81dce282a8f42d",
+      "bytes": 49376
+    },
+    {
+      "id": "B4-010",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/010/high.webp",
+      "sourceSha256": "eb9a403c8097702c59ec52a18d25c955a0280b5ab1a965e80d4a8f41481efd76",
+      "bytes": 51668
+    },
+    {
+      "id": "B4-017",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/017/high.webp",
+      "sourceSha256": "ad4b39a7083898d75e4d2ee4d32f843e566566d36d929f8f7fa31810a558a8ca",
+      "bytes": 49870
+    },
+    {
+      "id": "B4-018",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/018/high.webp",
+      "sourceSha256": "45623819f835d756857b6b96d4e8ca769beb4502f01e8ea988a7a44af9daeaf3",
+      "bytes": 60114
+    },
+    {
+      "id": "B4-019",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/019/high.webp",
+      "sourceSha256": "35eebb96176708eb3a71c43267673b81f8a6674109ac90d28c23faf16f14e6f1",
+      "bytes": 52836
+    },
+    {
+      "id": "B4-022",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/022/high.webp",
+      "sourceSha256": "9f6c66700209fc3d60b0701e5b426967acc5f9dfd9f685c799a03a879a83b9a1",
+      "bytes": 63946
+    },
+    {
+      "id": "B4-024",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/024/high.webp",
+      "sourceSha256": "e4586b2258f713642b00fd94d2b611231e47474e93f5e75c150f38b44410d6be",
+      "bytes": 53466
+    },
+    {
+      "id": "B4-025",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/025/high.webp",
+      "sourceSha256": "7a13790eca2e33912022a503ad043834b0c666bfcdcb36df1b8f5f19a8d7b88b",
+      "bytes": 54166
+    },
+    {
+      "id": "B4-027",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/027/high.webp",
+      "sourceSha256": "4cfc326c0291676454673c6deb9401998546f30f841c7a148991d6adfbfe719f",
+      "bytes": 47884
+    },
+    {
+      "id": "B4-028",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/028/high.webp",
+      "sourceSha256": "d517d01a562c7894e67e39c3897ee62d4b9f708a999c92296a01856dd8a81325",
+      "bytes": 58056
+    },
+    {
+      "id": "B4-031",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/031/high.webp",
+      "sourceSha256": "f40c77da735eb4229d8aa06f06d8575d2aa2cf6a145bc4533cbe42f008a2d2d4",
+      "bytes": 67550
+    },
+    {
+      "id": "B4-042",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/042/high.webp",
+      "sourceSha256": "d8d1e2c3fcc7b7d7289fe9641eefe8ee8ef4559716c9cba701aac92e78868a74",
+      "bytes": 65772
+    },
+    {
+      "id": "B4-043",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/043/high.webp",
+      "sourceSha256": "213938aea1b211aa513341a0394a5e26b371aa5cf6868c0c648c84549c5a9c33",
+      "bytes": 64194
+    },
+    {
+      "id": "B4-044",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/044/high.webp",
+      "sourceSha256": "d0d011f8ac64e3c1ae08db4c99551aea60f788f4e378d3e6082acb218cc77f3a",
+      "bytes": 71358
+    },
+    {
+      "id": "B4-046",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/046/high.webp",
+      "sourceSha256": "ae701c08b1f063db7b3da5ac491b55e1e64f38e87d88460969c80a43285612e6",
+      "bytes": 63460
+    },
+    {
+      "id": "B4-047",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/047/high.webp",
+      "sourceSha256": "4c07509453455e9c5cf3c7e18d26a6ef3a2b6e747050dc150ab8ae7bb23bccce",
+      "bytes": 64548
+    },
+    {
+      "id": "B4-048",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/048/high.webp",
+      "sourceSha256": "d77e751b3652aa3b2a87b12611a3198247592beae3c8324fcd2ef4bf32800a54",
+      "bytes": 67386
+    },
+    {
+      "id": "B4-049",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/049/high.webp",
+      "sourceSha256": "8e8b7f2e30fe56153c9f86a815ca6695e7246423207530d1e51d3ddb7598ed6a",
+      "bytes": 49694
+    },
+    {
+      "id": "B4-051",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/051/high.webp",
+      "sourceSha256": "17c532196f6d9686d66a35e276f517ae2598278d270cfa3b8052bd782e60f7ce",
+      "bytes": 47656
+    },
+    {
+      "id": "B4-052",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/052/high.webp",
+      "sourceSha256": "c7841442c115d00d7156a0261cfb0a3e29ed32c8c4ad79cae1c37a68dcba6e2b",
+      "bytes": 42778
+    },
+    {
+      "id": "B4-053",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/053/high.webp",
+      "sourceSha256": "397c74cd1772342f38d03e3529676b29ff6650eea5e979100ec0ea0cfc938e90",
+      "bytes": 53380
+    },
+    {
+      "id": "B4-056",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/056/high.webp",
+      "sourceSha256": "a2be2882df64aa100c8392b88f8cc652d3ba0a04d18543d69b2dc75e5a53ea37",
+      "bytes": 39250
+    },
+    {
+      "id": "B4-058",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/058/high.webp",
+      "sourceSha256": "f66fdb27d14b84654bc563c313aab00855220123d80499a64f4f189b978ca2f8",
+      "bytes": 52576
+    },
+    {
+      "id": "B4-062",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/062/high.webp",
+      "sourceSha256": "eca5d9fdea0d8c88c42a995b20892c4b5374ba2dcbf65b8d99509299fda2329c",
+      "bytes": 40378
+    },
+    {
+      "id": "B4-065",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/065/high.webp",
+      "sourceSha256": "3481ae73f850f8adee2e8481bb5646a23b211c3e1adec8787f390c2e673dde7b",
+      "bytes": 50014
+    },
+    {
+      "id": "B4-070",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/070/high.webp",
+      "sourceSha256": "0b46766c146ef3cf229a3f1e3e3c6bff02e74374fd8650938cd9fb0e7b7a2a25",
+      "bytes": 47850
+    },
+    {
+      "id": "B4-071",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/071/high.webp",
+      "sourceSha256": "67f9085056c97e72e7eb7f617386b68987ff469a10335f1006ac0cee50506a86",
+      "bytes": 55180
+    },
+    {
+      "id": "B4-072",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/072/high.webp",
+      "sourceSha256": "0cd0cfd1ba07fcca6dd0bc4e5ddbc849181f16866d686e16f2388684fb079e18",
+      "bytes": 54778
+    },
+    {
+      "id": "B4-073",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/073/high.webp",
+      "sourceSha256": "c39e400dc9712b2c664ac65fe87bd7e5d0c5c684abae54542ac330f97e41cf10",
+      "bytes": 59368
+    },
+    {
+      "id": "B4-078",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/078/high.webp",
+      "sourceSha256": "935327bd51916fbfdd6ddc8562403d285e2fab12ac3e781a5861ea488b5cdd46",
+      "bytes": 62384
+    },
+    {
+      "id": "B4-083",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/083/high.webp",
+      "sourceSha256": "8df60950aebc5e5bb375340dd687365ef3dcc02eea745a6cc97faf4c4278a470",
+      "bytes": 65546
+    },
+    {
+      "id": "B4-086",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/086/high.webp",
+      "sourceSha256": "87db57ebeb0ec84aef6fc07f2eed2a1124775204f32e4a63f366fb4a12bb0846",
+      "bytes": 60902
+    },
+    {
+      "id": "B4-087",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/087/high.webp",
+      "sourceSha256": "275631d65488094210bd326653114e6a6be9b16969b6ef6b59612fde3f96341b",
+      "bytes": 59636
+    },
+    {
+      "id": "B4-089",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/089/high.webp",
+      "sourceSha256": "7d2e9736daa7850d08e3de1bd83f2c1066386c54a9bca7f2190dc4b26c99c2c3",
+      "bytes": 55860
+    },
+    {
+      "id": "B4-090",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/090/high.webp",
+      "sourceSha256": "eebbe855382fe22e26c352d0c7166ef1674d78240c9410e2f8091160c4868502",
+      "bytes": 63580
+    },
+    {
+      "id": "B4-091",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/091/high.webp",
+      "sourceSha256": "585385d4a950862289dfa695a485cbaa53addac9478ef5e5e2333e068f224aee",
+      "bytes": 58866
+    },
+    {
+      "id": "B4-092",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/092/high.webp",
+      "sourceSha256": "b3302e3d1be74bae48b6777685e7e8e2a0c916149a710646f7d775d671b8e796",
+      "bytes": 55522
+    },
+    {
+      "id": "B4-093",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/093/high.webp",
+      "sourceSha256": "ed2287da7869a21934192884ebff31a289c862f8092bd38a6be018bec271777a",
+      "bytes": 62866
+    },
+    {
+      "id": "B4-094",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/094/high.webp",
+      "sourceSha256": "da6a649d3830c01c955d57c15eb0c70b9723689b4522e4e42bc5ea1752068693",
+      "bytes": 58580
+    },
+    {
+      "id": "B4-095",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/095/high.webp",
+      "sourceSha256": "f0458837fd5e0d40e24b3754f20e501abb7ca3769372b2ebf03dfa4a1db1e391",
+      "bytes": 63484
+    },
+    {
+      "id": "B4-096",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/096/high.webp",
+      "sourceSha256": "0646a5fbe5a16a7f9743949146c76c0a8961508109a79fc4e8a6f9dc93be91c7",
+      "bytes": 67158
+    },
+    {
+      "id": "B4-099",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/099/high.webp",
+      "sourceSha256": "be58b0113eb4252b4602efe11a369951829d87f9d1d5d2012d30f5cac2b89846",
+      "bytes": 62346
+    },
+    {
+      "id": "B4-104",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/104/high.webp",
+      "sourceSha256": "e202d80c446fd7e9f8951feab06750905004393ad5d7042361ec054dd48ba936",
+      "bytes": 66318
+    },
+    {
+      "id": "B4-106",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/106/high.webp",
+      "sourceSha256": "6d5710c0aef2249df198b78cce6a29402eac9086b62a9a56313dfd24cf431e8a",
+      "bytes": 63502
+    },
+    {
+      "id": "B4-112",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/112/high.webp",
+      "sourceSha256": "1149261064adc23cb4b4362d0c6ef1097d49c5c7dc1900063dc27e80b245d8aa",
+      "bytes": 56256
+    },
+    {
+      "id": "B4-113",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/113/high.webp",
+      "sourceSha256": "48f4fa69d6b998d135a7b0031277e87ab7b7b734ffc5ccbe6572e88ed0641aca",
+      "bytes": 65794
+    },
+    {
+      "id": "B4-117",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/117/high.webp",
+      "sourceSha256": "82d062ab89f029e8be6e2d81e174a146f7a383a351a3cc131697a771bf950fc1",
+      "bytes": 64442
+    },
+    {
+      "id": "B4-121",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/121/high.webp",
+      "sourceSha256": "d02d55560f71bc063de3356b38ca995d90a59552789436da9ad38e8ac5cfae40",
+      "bytes": 55262
+    },
+    {
+      "id": "B4-122",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/122/high.webp",
+      "sourceSha256": "4c6cf3745b033abd7967c6d1e7abd2f917bfbb250beebbf40ef29bb76a3ef739",
+      "bytes": 58268
+    },
+    {
+      "id": "B4-126",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/126/high.webp",
+      "sourceSha256": "1e55aef76254cfb7bbbf9099eaceed47a12b2ce1790daf5d8032bb029bd18f59",
+      "bytes": 60560
+    },
+    {
+      "id": "B4-127",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/127/high.webp",
+      "sourceSha256": "a9f735e20712c223cd26adfa32d3268a270bdebc1150944de8589843a0b24964",
+      "bytes": 64876
+    },
+    {
+      "id": "B4-128",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/128/high.webp",
+      "sourceSha256": "d16490ddc517fed8e4e2cf71a4cc3fcdb0fdeaaf9cc328f0e0bed6a8794a8a4e",
+      "bytes": 57526
+    },
+    {
+      "id": "B4-131",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/131/high.webp",
+      "sourceSha256": "d2d7c9dc4204d25a4e24510d1c855b8036ddcaebe42f5d3b6a95401b52d9c2ea",
+      "bytes": 48930
+    },
+    {
+      "id": "B4-132",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/132/high.webp",
+      "sourceSha256": "8edb7f3c0e618e8254131dbf602114ec9c8bf41ff63a81b987704015c8850649",
+      "bytes": 53496
+    },
+    {
+      "id": "B4-133",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/133/high.webp",
+      "sourceSha256": "2f695b72198a0324186bd6cf46e3dc5c342e5f2e34f72f20e072f8c4e26593c4",
+      "bytes": 40724
+    },
+    {
+      "id": "B4-136",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/136/high.webp",
+      "sourceSha256": "52201bd55e7b7ed96bc81cdb89227cb9992cfcaf778858b20f5905ad0785e3ba",
+      "bytes": 50350
+    },
+    {
+      "id": "B4-140",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/140/high.webp",
+      "sourceSha256": "633189dc079f5f804c06d142a16ff1db0dfc9072135b63f99c0a40b259262f8b",
+      "bytes": 60500
+    },
+    {
+      "id": "B4-158",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/158/high.webp",
+      "sourceSha256": "42105a1542033b25e92fa05d519ac1a8a32a02f82435329dc630514911fbbcb7",
+      "bytes": 53526
+    },
+    {
+      "id": "B4-161",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/161/high.webp",
+      "sourceSha256": "e4b3cf162b8d7538a1a9ea9c0d43c23d9cc2b2e4865c19e282230453a2582168",
+      "bytes": 73256
+    },
+    {
+      "id": "B4-163",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/163/high.webp",
+      "sourceSha256": "0adaa35343086c89e0350f13bb72b6b966389f01e79e0cd18337b4a5eb570ab7",
+      "bytes": 83332
+    },
+    {
+      "id": "B4-165",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/165/high.webp",
+      "sourceSha256": "f2a8e0fa08bbd05dee3dbdcc841f77ab6b708d2f7dd375ca4e8db73f047d80e4",
+      "bytes": 57954
+    },
+    {
+      "id": "B4-167",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/167/high.webp",
+      "sourceSha256": "52faae750f85e7db0d98e8c2cdbb0b8d1016c801de545667987369f765e39893",
+      "bytes": 69694
+    },
+    {
+      "id": "B4-169",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/169/high.webp",
+      "sourceSha256": "295dd160216651258ed40604a2d1b21453414679329f450d02a0f55118fb192e",
+      "bytes": 63000
+    },
+    {
+      "id": "B4-171",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/171/high.webp",
+      "sourceSha256": "6b02d8b6042c199a112fb84a0557df7f6a0499c4d413c9d7a96fd78b728d7f9f",
+      "bytes": 56926
+    },
+    {
+      "id": "B4-175",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/175/high.webp",
+      "sourceSha256": "643e3d73113c3ab66758b9b74f875723f16d6871ae078cd7e4e11b502459cb72",
+      "bytes": 84880
+    },
+    {
+      "id": "B4-176",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/176/high.webp",
+      "sourceSha256": "68ef00476eb071d9053cb6615e615723dd41a7374b0786a230e5b6d5033e4f31",
+      "bytes": 81278
+    },
+    {
+      "id": "B4-177",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/177/high.webp",
+      "sourceSha256": "2aba04bd3ece05a787dd69173d209ce5bb406c14e9f8d5d7843f0c1b7588b2b6",
+      "bytes": 85020
+    },
+    {
+      "id": "B4-179",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/179/high.webp",
+      "sourceSha256": "1ec67778d521249f253bc3285b22dd840ffcd12276935c52f686ff89d388bb74",
+      "bytes": 72858
+    },
+    {
+      "id": "B4-206",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/206/high.webp",
+      "sourceSha256": "1201a45f3a445101e45317d8cc5980ebd7edbfb97328faa56b1893cf56fb9a9f",
+      "bytes": 61686
+    },
+    {
+      "id": "B4-207",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/207/high.webp",
+      "sourceSha256": "cbdc6679191fd172ff57055670a86daedcc0f07dee612327f8b862a8947fd2c0",
+      "bytes": 68668
+    },
+    {
+      "id": "B4-210",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/210/high.webp",
+      "sourceSha256": "2cd9f60b205c65372fe3b8ca598694b7da30222713290381f691605bcf1c3900",
+      "bytes": 48214
+    },
+    {
+      "id": "B4-212",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/212/high.webp",
+      "sourceSha256": "4ffb727266cec2e5af678d2e6a8d819e8d8da3fe474298abd3992be5ead0967f",
+      "bytes": 54658
+    },
+    {
+      "id": "B4-215",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/215/high.webp",
+      "sourceSha256": "b53e32e1cfcd334e19f7705c1f62798c6ce7fcc2edb5dea5cb52eba1a0e6e7c7",
+      "bytes": 66932
+    },
+    {
+      "id": "B4-218",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/218/high.webp",
+      "sourceSha256": "55b22f4268b3743bbc5920a319eda0c3203ee052209ba9b92231e5699215f056",
+      "bytes": 62080
+    },
+    {
+      "id": "B4-222",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/222/high.webp",
+      "sourceSha256": "2adf1ad465cad8e5d3ee340baff98f047a7032feb46ebdc37c41bf0a71c4a7b2",
+      "bytes": 58970
+    },
+    {
+      "id": "B4-233",
+      "locale": "es",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/233/high.webp",
+      "sourceSha256": "e502c8c52f90f5f31291b268d93eb91a2d94517aae1731fe6741511c8f21008f",
+      "bytes": 70492
+    },
+    {
+      "id": "B4-009",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/009/high.webp",
+      "sourceSha256": "df6ec175ec552460b882421a741719b022a2f6cd1bdf27374567c69e139cf111",
+      "bytes": 48486
+    },
+    {
+      "id": "B4-010",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/010/high.webp",
+      "sourceSha256": "93997a7356a553c3e9b51ac046cf812fd23710c55e2351a6dbbcd67084653096",
+      "bytes": 50262
+    },
+    {
+      "id": "B4-017",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/017/high.webp",
+      "sourceSha256": "109d4713f75b2111f56008f05f4d0ec56898639318e89c8cc818360d8550c4c1",
+      "bytes": 51712
+    },
+    {
+      "id": "B4-018",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/018/high.webp",
+      "sourceSha256": "bcf88c96ba385573f69072a44da46945f6968443d4326fd0c290063d02c62beb",
+      "bytes": 60390
+    },
+    {
+      "id": "B4-019",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/019/high.webp",
+      "sourceSha256": "c60da6b55dd03512b342428a0c548521f85c524c9cb8cf8a35383993acb89402",
+      "bytes": 53104
+    },
+    {
+      "id": "B4-022",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/022/high.webp",
+      "sourceSha256": "43ed66a273beae907730f23f342cca3bf13bc71cd5188f56886ff4d22395d5ff",
+      "bytes": 64200
+    },
+    {
+      "id": "B4-024",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/024/high.webp",
+      "sourceSha256": "c57518a9892b15cd6440acdd22ee2547260398c4712f3c745acecc535bae21b6",
+      "bytes": 53028
+    },
+    {
+      "id": "B4-025",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/025/high.webp",
+      "sourceSha256": "f4c5869f65cd85b167265d4c2dbcd2b25dd20cafce8f7a8018938972c2f0988f",
+      "bytes": 54330
+    },
+    {
+      "id": "B4-027",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/027/high.webp",
+      "sourceSha256": "1d9ba33125f722a48dab799be0bf444376d64fc334b24b6dd20a318cbc3b237e",
+      "bytes": 48190
+    },
+    {
+      "id": "B4-028",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/028/high.webp",
+      "sourceSha256": "28931d8571e783d448e3f78e21bd1ff43cf5937b0b5409bbda5e47a4117e726a",
+      "bytes": 58968
+    },
+    {
+      "id": "B4-031",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/031/high.webp",
+      "sourceSha256": "aa592c0e5732da0ed1d7d9c4f4cfbca96d6f997f8f5f9bdfc8260fc5c4740419",
+      "bytes": 67662
+    },
+    {
+      "id": "B4-042",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/042/high.webp",
+      "sourceSha256": "c0cc1003b8829e4a67bf0db787e389f445c5c96fefa36550857f24d991ca0d77",
+      "bytes": 65822
+    },
+    {
+      "id": "B4-043",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/043/high.webp",
+      "sourceSha256": "4fd33f058f4836ef05aeb17dd58af823e58ca9452a310e9c3b27bc5d6dc27351",
+      "bytes": 65426
+    },
+    {
+      "id": "B4-044",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/044/high.webp",
+      "sourceSha256": "16930ba76deb9aaa95fc5c9a3d7ad1f3f02ed6e034bf29c0daeb0b4fcddc65bb",
+      "bytes": 70600
+    },
+    {
+      "id": "B4-046",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/046/high.webp",
+      "sourceSha256": "b647162fd66ad44f3fa63a6a3707d66af94028eb3131a55f3b65c0a32e25418d",
+      "bytes": 62916
+    },
+    {
+      "id": "B4-047",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/047/high.webp",
+      "sourceSha256": "9439321918cfbaef434f8648826cbb5c4ebe994037ad917e9af97a3f1ee42f37",
+      "bytes": 65032
+    },
+    {
+      "id": "B4-048",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/048/high.webp",
+      "sourceSha256": "11bac1ab33a6fc396b3d90087f0ca50faf98b4dd8f5eb38afc681938f5c95b91",
+      "bytes": 68588
+    },
+    {
+      "id": "B4-049",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/049/high.webp",
+      "sourceSha256": "5fcdc769d3bff075767fdc443f7ca2f23a05747a0bc4234ae83a9d06627130c3",
+      "bytes": 51118
+    },
+    {
+      "id": "B4-051",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/051/high.webp",
+      "sourceSha256": "ca98233df3188761dcab45880ded130331738c1c0bd0ede156b141085e1f0470",
+      "bytes": 47036
+    },
+    {
+      "id": "B4-052",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/052/high.webp",
+      "sourceSha256": "ad6e2c2ca06051a0e3b65cdfa866c5f94ef6ca8806f51959cf42b5504e97c84a",
+      "bytes": 43002
+    },
+    {
+      "id": "B4-053",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/053/high.webp",
+      "sourceSha256": "09106d2f9dd4f2f884d24efac3a27a3fd60a4c206359af3e898df435ff8abf08",
+      "bytes": 53916
+    },
+    {
+      "id": "B4-058",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/058/high.webp",
+      "sourceSha256": "589845ce8679e630b001c87bee04a1e9b761df4c136b50d12c0774ca0ff34cab",
+      "bytes": 54014
+    },
+    {
+      "id": "B4-062",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/062/high.webp",
+      "sourceSha256": "d6733311ea92db10204f5655849c36dce02938d5be0f5f37f111db21d844492c",
+      "bytes": 41504
+    },
+    {
+      "id": "B4-065",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/065/high.webp",
+      "sourceSha256": "3ac7f918f40d2f5f960606d5677ff22be77e990edf82221805b3c6d92de479ed",
+      "bytes": 50460
+    },
+    {
+      "id": "B4-070",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/070/high.webp",
+      "sourceSha256": "c271310470a70d50bdeaa3fdcc173a3955a5b2c685ce1f5113a6f2e4cecd3567",
+      "bytes": 47788
+    },
+    {
+      "id": "B4-071",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/071/high.webp",
+      "sourceSha256": "869494c6d5159db43ac7dbfea7047cd7347fde4825a107c359402a95f8495217",
+      "bytes": 55158
+    },
+    {
+      "id": "B4-072",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/072/high.webp",
+      "sourceSha256": "557656a7354931d8fc5a68e51024a8023af783ebb8f103ca583887b3effb8c3a",
+      "bytes": 55486
+    },
+    {
+      "id": "B4-073",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/073/high.webp",
+      "sourceSha256": "8eede0760bc146c8cf8bf6f6851cee284f82caa5316c485dd2ef46633250fd42",
+      "bytes": 60446
+    },
+    {
+      "id": "B4-078",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/078/high.webp",
+      "sourceSha256": "c307067dc1e44ac06724f78ed4ae7cca9cb15cba7fd48dd43b1f84ce56a73c27",
+      "bytes": 62814
+    },
+    {
+      "id": "B4-083",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/083/high.webp",
+      "sourceSha256": "6d2333214bf16d47a758f2c3cd82fafd33eb898853a11c344281fc7940df50f7",
+      "bytes": 65090
+    },
+    {
+      "id": "B4-086",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/086/high.webp",
+      "sourceSha256": "675906f083911b74f5c000481485f1d2c3d6d4f903b9f665cb32aa306953fa1d",
+      "bytes": 60988
+    },
+    {
+      "id": "B4-089",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/089/high.webp",
+      "sourceSha256": "0ecd48e16d70adf869f2da6f6c1a93b322040e42232168c7c482834f141b5a53",
+      "bytes": 55858
+    },
+    {
+      "id": "B4-090",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/090/high.webp",
+      "sourceSha256": "5d49408acf6e95f6be1e3f225b33fd19ca564ae927dd7d7075277c2a64f7f932",
+      "bytes": 64862
+    },
+    {
+      "id": "B4-091",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/091/high.webp",
+      "sourceSha256": "55519e43dcf1357411ee99afbb1c5386b3104a92f55b55355d9905b5e7c64a8a",
+      "bytes": 58606
+    },
+    {
+      "id": "B4-092",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/092/high.webp",
+      "sourceSha256": "0226942263a1fd8e8698c8c5a0a242dcd06fe1da2916c7ea1bbfb8c840ed43f4",
+      "bytes": 57564
+    },
+    {
+      "id": "B4-093",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/093/high.webp",
+      "sourceSha256": "7c6e92b2941d48978ad5b8d1c463eb4e2884eb41ae74486b7061f5b783ac5aee",
+      "bytes": 62754
+    },
+    {
+      "id": "B4-094",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/094/high.webp",
+      "sourceSha256": "013ba68f027be24d1220f69b8991b3c7e19ff12b4069005430a4d2ad1d97123d",
+      "bytes": 58570
+    },
+    {
+      "id": "B4-095",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/095/high.webp",
+      "sourceSha256": "fe659b1127e1ff866504d53977e130cdad0301b8b72b1939c1e22b48777434fc",
+      "bytes": 63016
+    },
+    {
+      "id": "B4-096",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/096/high.webp",
+      "sourceSha256": "799d86d900a1a91d357a6c54ae6a9365a2ce482e5a821a5ac2d6180cbc5138dc",
+      "bytes": 67094
+    },
+    {
+      "id": "B4-099",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/099/high.webp",
+      "sourceSha256": "a35885ad5d5750e76f1fdc52aec60952636410e2c41815f3bbe4a6dd18338f4b",
+      "bytes": 62932
+    },
+    {
+      "id": "B4-104",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/104/high.webp",
+      "sourceSha256": "4022c67c2cdf83d0dbde6463fae5fcbab55010c9b5a849378a1938b5f8772a23",
+      "bytes": 65990
+    },
+    {
+      "id": "B4-106",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/106/high.webp",
+      "sourceSha256": "08c25b58e83a8ade27b18dede1028a5b84caf892ffbcb3f36f244144482ae057",
+      "bytes": 63066
+    },
+    {
+      "id": "B4-112",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/112/high.webp",
+      "sourceSha256": "b16db8994c2c78613d430af7b09c33e73a7e45b7c6b8b8b613c47340bcd82e12",
+      "bytes": 56128
+    },
+    {
+      "id": "B4-113",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/113/high.webp",
+      "sourceSha256": "52af50d317e5fc03f2e3b9b96165acad3a5a5f650b3879cf589b013c89a245e6",
+      "bytes": 65992
+    },
+    {
+      "id": "B4-117",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/117/high.webp",
+      "sourceSha256": "c36ecd414f48dc50f709b02c707297eb3261fbc99f7f83b22af2b6d37643aac2",
+      "bytes": 64332
+    },
+    {
+      "id": "B4-121",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/121/high.webp",
+      "sourceSha256": "56ae805662902d207f195d1e8efad378e116897e6e82ce3c2b9ff463826943df",
+      "bytes": 55114
+    },
+    {
+      "id": "B4-122",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/122/high.webp",
+      "sourceSha256": "f4749e8056043de4d8f60cb025c951ea295e5dec48b1006ef9d87fcf53625f22",
+      "bytes": 59286
+    },
+    {
+      "id": "B4-126",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/126/high.webp",
+      "sourceSha256": "d3331bd6011edacc5e6e4475a54ff5be74f7a0f45abd95b3c499b281544f0244",
+      "bytes": 60852
+    },
+    {
+      "id": "B4-127",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/127/high.webp",
+      "sourceSha256": "f8a4c889cbc5d79eedbcb6ea34d5f1b234d869676022bbb12b38da404465605b",
+      "bytes": 64930
+    },
+    {
+      "id": "B4-128",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/128/high.webp",
+      "sourceSha256": "4e0f73d150a10f7fbe10536a5d1a8f9d5937db397aabc44f31d29b5086a4cc00",
+      "bytes": 57950
+    },
+    {
+      "id": "B4-131",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/131/high.webp",
+      "sourceSha256": "94cb81c0715ee724fdf9a5c2a825b1042c85c2944d126398b84e0a56123be5aa",
+      "bytes": 49094
+    },
+    {
+      "id": "B4-132",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/132/high.webp",
+      "sourceSha256": "d96301d021ac7c97da5f54a6f21c596f6b8dddfd7ba271ccf0a23af4ab2e4014",
+      "bytes": 53884
+    },
+    {
+      "id": "B4-133",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/133/high.webp",
+      "sourceSha256": "3c876aab23080b571e71913a4b6520b137d892d212308b32c714f07f167fd8ef",
+      "bytes": 41030
+    },
+    {
+      "id": "B4-136",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/136/high.webp",
+      "sourceSha256": "0630b7c768b1656e79fff43d21827dda9ea883f61235cd77ff815fe2574c7740",
+      "bytes": 50390
+    },
+    {
+      "id": "B4-140",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/140/high.webp",
+      "sourceSha256": "11432fc33d9a3a93472719fd625150a3e13494a33100c53b46fdb22e6b8a5c13",
+      "bytes": 60178
+    },
+    {
+      "id": "B4-158",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/158/high.webp",
+      "sourceSha256": "a7479f2aac449e5b6b7ef2e4694d670c46a6004f3b15ad547e2cd2f38576b46f",
+      "bytes": 53210
+    },
+    {
+      "id": "B4-161",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/161/high.webp",
+      "sourceSha256": "0edce4cf6b1d423c814dae70ce6acc4dde071d13dc746c7acc9a5c4914df24df",
+      "bytes": 73420
+    },
+    {
+      "id": "B4-163",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/163/high.webp",
+      "sourceSha256": "0016efbdb74d177149b7d737ef4d9b68e51d136cc2871b8acb0883e17f575cea",
+      "bytes": 81916
+    },
+    {
+      "id": "B4-165",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/165/high.webp",
+      "sourceSha256": "475ca1d88b4423b4418490035cf771de2c504b6159ac7edce5eab72e315bd3f9",
+      "bytes": 58232
+    },
+    {
+      "id": "B4-167",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/167/high.webp",
+      "sourceSha256": "5e8c5da66ec6562f70696221a930ae3587ebe1098de0ab2186eeed8254d20796",
+      "bytes": 69282
+    },
+    {
+      "id": "B4-169",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/169/high.webp",
+      "sourceSha256": "0e9db1e83851611795cef10d1ce894525eb00ec30649e707a90ff242bf7992f6",
+      "bytes": 63654
+    },
+    {
+      "id": "B4-171",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/171/high.webp",
+      "sourceSha256": "eac12b572217a6455a8e0275797be8af76e2b5a1d7c087a586d359bdb9b4f2ac",
+      "bytes": 57076
+    },
+    {
+      "id": "B4-175",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/175/high.webp",
+      "sourceSha256": "e2a177fefac7aec8bceb44d78fe13b75de50e5ad73ddfae367973e9339384cce",
+      "bytes": 85812
+    },
+    {
+      "id": "B4-176",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/176/high.webp",
+      "sourceSha256": "b988a37b6132740b3514f1179a21d3e03e0a55ee9d55d5c320744c18dc439009",
+      "bytes": 82718
+    },
+    {
+      "id": "B4-177",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/177/high.webp",
+      "sourceSha256": "fc1757042dec4fdc3c79e01bc44b129cdc98e6cbf62a8f0290fcd32e0ce32f7a",
+      "bytes": 85736
+    },
+    {
+      "id": "B4-179",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/179/high.webp",
+      "sourceSha256": "0e61ea5e2e352ceaec293dba35c65d8b34664c6332b88aebe7cf4bb1014432d3",
+      "bytes": 73192
+    },
+    {
+      "id": "B4-206",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/206/high.webp",
+      "sourceSha256": "fce03815be4ff9c8c453095f9952c6c74b64dfe0f5d00d5b351b4ef3930987cf",
+      "bytes": 61884
+    },
+    {
+      "id": "B4-207",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/207/high.webp",
+      "sourceSha256": "f47ae1a943abe404245cfd5fac38543af82c7719319ee26454fb9f3e512515c1",
+      "bytes": 67728
+    },
+    {
+      "id": "B4-210",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/210/high.webp",
+      "sourceSha256": "8950eeaf1eebc1d3d8c56d2d392c353461ed63a61f91fc5aa0c0048cf0e1e021",
+      "bytes": 49452
+    },
+    {
+      "id": "B4-212",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/212/high.webp",
+      "sourceSha256": "8b5d19568c9cb148f84914f2a597ade5f5ca86c1bbe9f5863e58da2adb5f87ba",
+      "bytes": 54608
+    },
+    {
+      "id": "B4-215",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/215/high.webp",
+      "sourceSha256": "fd6d32c111a3328cd2b90f2d6c764ca06e389d1d55a13b91ce38b4bd8b7e29ce",
+      "bytes": 67066
+    },
+    {
+      "id": "B4-218",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/218/high.webp",
+      "sourceSha256": "a23cc902fcc03f094b55dec1602a6be8e42e7bdbbf43371b28ed1356e190107f",
+      "bytes": 62038
+    },
+    {
+      "id": "B4-222",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/222/high.webp",
+      "sourceSha256": "1feeef13f519fbae8b6097dda629ea9c1aaf963a28f51fedfcb266638c945195",
+      "bytes": 59130
+    },
+    {
+      "id": "B4-233",
+      "locale": "fr",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/233/high.webp",
+      "sourceSha256": "dd8b834abb99c5bcd0e9eb270cf86387ebe90e9d76387c43e16db87a210dec8a",
+      "bytes": 70654
+    },
+    {
+      "id": "B4-001",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/001/high.webp",
+      "sourceSha256": "eb8c22bd42cb59ef0f12221195bfc2fcadd1b4bcd3e2914d2b295c27b5a7a6e2",
+      "bytes": 44150
+    },
+    {
+      "id": "B4-002",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/002/high.webp",
+      "sourceSha256": "08baed200270ffa913d47ac84963109bcca7138905e1516c492c010f3bae7261",
+      "bytes": 48796
+    },
+    {
+      "id": "B4-003",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/003/high.webp",
+      "sourceSha256": "6f7d4a5ebd7f2634e46d305b396aa9deddd28cc7b22e5f19eaf9c49f1c7933a7",
+      "bytes": 44666
+    },
+    {
+      "id": "B4-004",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/004/high.webp",
+      "sourceSha256": "a88925b28624c22cae4ddac032fd041376a6a92a1bb0a72fcbc3de9d111c3622",
+      "bytes": 42792
+    },
+    {
+      "id": "B4-005",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/005/high.webp",
+      "sourceSha256": "739083fb887c53c50bc8e822d6ae3e2559d82fb772e23927e4f4f1c1567546ba",
+      "bytes": 61496
+    },
+    {
+      "id": "B4-006",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/006/high.webp",
+      "sourceSha256": "7f17018ebe8bf55201b525824d18e74fe757772b74a2aa27c4cf522a0ef27580",
+      "bytes": 43518
+    },
+    {
+      "id": "B4-007",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/007/high.webp",
+      "sourceSha256": "9e93d8201e1a56a076539f920b9ad9e830ac3ec373c8b3d0dbeae4bd4fd93f17",
+      "bytes": 56598
+    },
+    {
+      "id": "B4-008",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/008/high.webp",
+      "sourceSha256": "4fd7ea29ee77ed40827abb682ab23b19dc77fd37713f0f42a252d3dc8b164dd4",
+      "bytes": 40544
+    },
+    {
+      "id": "B4-009",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/009/high.webp",
+      "sourceSha256": "794c152e147956ab8839167c6418c15b70c2cf0e63114c236d54144451b27e37",
+      "bytes": 49488
+    },
+    {
+      "id": "B4-010",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/010/high.webp",
+      "sourceSha256": "7ebd6eec9d4b2ed36d07aecab69d1703090a029fc9848e65265255e3e35e0dc5",
+      "bytes": 51098
+    },
+    {
+      "id": "B4-012",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/012/high.webp",
+      "sourceSha256": "c4f69e53a253a17b7b596795e464267d8099ce4fe698618a42d0e67488781768",
+      "bytes": 45078
+    },
+    {
+      "id": "B4-013",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/013/high.webp",
+      "sourceSha256": "fc9fba0edec41b6b96a1ad9fd4bdd0dfd9f0f029fa96a4faa6f951c922def6e3",
+      "bytes": 42398
+    },
+    {
+      "id": "B4-014",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/014/high.webp",
+      "sourceSha256": "ffbc9656117c86b29d118dfc1cb1369d67037474911b4bb76424caf633800a21",
+      "bytes": 55904
+    },
+    {
+      "id": "B4-015",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/015/high.webp",
+      "sourceSha256": "ef67c4faf0ad8ee47fa2c9da1d357a3bceac3c6097ed5a3a696fde1405e0c672",
+      "bytes": 50578
+    },
+    {
+      "id": "B4-016",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/016/high.webp",
+      "sourceSha256": "27e0ebede8b9b5d2a63c0c8a032989752c3a36be41437d8e38f0faa632161c0b",
+      "bytes": 53682
+    },
+    {
+      "id": "B4-017",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/017/high.webp",
+      "sourceSha256": "9ead5a7d3288b35f4fb9077dad7d265f46b8d50fa68d637aeb6917343c2921fb",
+      "bytes": 50770
+    },
+    {
+      "id": "B4-018",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/018/high.webp",
+      "sourceSha256": "2ae49e258cd43447c73a4a69e3d2db644d660d25599ab62dde80b7c3595ff5ec",
+      "bytes": 60304
+    },
+    {
+      "id": "B4-019",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/019/high.webp",
+      "sourceSha256": "8211739a191d3fa7467d8bbf8b58a28312eff6d4ddcacea25664cbf6032c7b83",
+      "bytes": 51178
+    },
+    {
+      "id": "B4-022",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/022/high.webp",
+      "sourceSha256": "08f8320fa146a4e528ae7e9cfd96cdd66550ece8221c908653b6f6527e99dd29",
+      "bytes": 64502
+    },
+    {
+      "id": "B4-023",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/023/high.webp",
+      "sourceSha256": "33ed04c69f5c688e09832993ea2eaf645afa4fe732d7f7888a96c45f3bd35f3e",
+      "bytes": 54274
+    },
+    {
+      "id": "B4-024",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/024/high.webp",
+      "sourceSha256": "486ce60354806c236c6e4aca0bef144d5fd473ddc184a8c56a1046cf860052f5",
+      "bytes": 53164
+    },
+    {
+      "id": "B4-025",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/025/high.webp",
+      "sourceSha256": "4ec10a172db18aa8b8a5733878c61369e943a65d9607d025dfa7bef0160099c0",
+      "bytes": 55492
+    },
+    {
+      "id": "B4-027",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/027/high.webp",
+      "sourceSha256": "34836207188b417b133a04e1ba557c1823409abf24df30825c0453c6a8106efe",
+      "bytes": 49512
+    },
+    {
+      "id": "B4-028",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/028/high.webp",
+      "sourceSha256": "0c7c5f62b3707905ae1c42e1509f44cce213e4c0a4e0605757a5c81d94cb0091",
+      "bytes": 58844
+    },
+    {
+      "id": "B4-029",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/029/high.webp",
+      "sourceSha256": "4494243b195a82e38d1fe1c20f9860fbc048684d687f8371162f06d7fe680b02",
+      "bytes": 45602
+    },
+    {
+      "id": "B4-031",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/031/high.webp",
+      "sourceSha256": "c22786ef78ea273ef3ae9793632e00a6f11a6e39b5a4608e8446837fda460ee9",
+      "bytes": 67346
+    },
+    {
+      "id": "B4-032",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/032/high.webp",
+      "sourceSha256": "b0642b1703a172df0e89d9284ca778edf1660dcf2df63e12fd81e9dbd15bece1",
+      "bytes": 70912
+    },
+    {
+      "id": "B4-033",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/033/high.webp",
+      "sourceSha256": "f4ffbb8fa55d1f6152c5a18686b2521843a2b24f261eac4a841adfb7dcbcf84b",
+      "bytes": 64282
+    },
+    {
+      "id": "B4-034",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/034/high.webp",
+      "sourceSha256": "3bb2a1f577372172f0b68f0d4b22785bd1d2a9550900baa9fd2249482c32c87f",
+      "bytes": 61626
+    },
+    {
+      "id": "B4-036",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/036/high.webp",
+      "sourceSha256": "3226cb767ab0185d1e5a4e300dca4123de61a0d7cea3bcd319108403100c6d25",
+      "bytes": 62650
+    },
+    {
+      "id": "B4-038",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/038/high.webp",
+      "sourceSha256": "94b18da6cb5017ce399f6aa763008a3c013aa5e114ab518aef42f087dca40a06",
+      "bytes": 50760
+    },
+    {
+      "id": "B4-039",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/039/high.webp",
+      "sourceSha256": "6399cf09ef6867ed22cbf9196099ce5b9df1c371e186a401f1e08b478278041c",
+      "bytes": 63418
+    },
+    {
+      "id": "B4-040",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/040/high.webp",
+      "sourceSha256": "b4b268d1dab8b17f8293906f40bdaa7477250c64b388eb59438276f0f8745fa1",
+      "bytes": 68864
+    },
+    {
+      "id": "B4-041",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/041/high.webp",
+      "sourceSha256": "23d375a29bb1b6b5f78138f195060908724b65051a45af4a91490b33671d9867",
+      "bytes": 77806
+    },
+    {
+      "id": "B4-042",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/042/high.webp",
+      "sourceSha256": "79a9359303b94731f2867b14933df239a0d3800b8453a7f3e90a105a53a92105",
+      "bytes": 66702
+    },
+    {
+      "id": "B4-043",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/043/high.webp",
+      "sourceSha256": "6ac135d491644065c9f4f65773e5ad0731ad116a072d7d98c526693673aa03f3",
+      "bytes": 65370
+    },
+    {
+      "id": "B4-044",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/044/high.webp",
+      "sourceSha256": "a4fddc88e2e8cd9b36fc3b2c71733aea44d0c049482d345f7f50b6fc32eea2cf",
+      "bytes": 71686
+    },
+    {
+      "id": "B4-045",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/045/high.webp",
+      "sourceSha256": "bf65ae13b412233866bd259dd976f5c7dda7ab919631a4b0f600a327efd6418d",
+      "bytes": 61608
+    },
+    {
+      "id": "B4-046",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/046/high.webp",
+      "sourceSha256": "85ac18eb7fe84d255a8acfaa485fbc2b726fa2b0fc0fdc61a3aee270c56d464a",
+      "bytes": 63420
+    },
+    {
+      "id": "B4-047",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/047/high.webp",
+      "sourceSha256": "7b6fcdbc0328324c606af3a9391f256d6feb510a72bead827bab1c99cb733863",
+      "bytes": 64772
+    },
+    {
+      "id": "B4-048",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/048/high.webp",
+      "sourceSha256": "17d482a09195ef14f5a6038d6b7b0d855b7bece32a557d4c502771cd89e38c88",
+      "bytes": 68148
+    },
+    {
+      "id": "B4-049",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/049/high.webp",
+      "sourceSha256": "1e16fc36b3665d8c4b1cbbb0e54dc9a7bc9e69d06736923d82a9fbc3f0b9b2b8",
+      "bytes": 51662
+    },
+    {
+      "id": "B4-051",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/051/high.webp",
+      "sourceSha256": "fcf28c9ca70c05a3e741d526c1b9318332f1d6b6ced751a71e217f2f69c185ba",
+      "bytes": 48696
+    },
+    {
+      "id": "B4-052",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/052/high.webp",
+      "sourceSha256": "7a05eeb4e82f56eb968d1d946fe8fa996a256f6b6104ebedbe6096bbfdc34311",
+      "bytes": 41406
+    },
+    {
+      "id": "B4-053",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/053/high.webp",
+      "sourceSha256": "33342999aaacdcaa5da0626e6f2502cd0dfef0af5e81e31a3ef44f6f16110891",
+      "bytes": 53818
+    },
+    {
+      "id": "B4-054",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/054/high.webp",
+      "sourceSha256": "7db22adc395c50c03c55e6df6dc4d9fd8344438fc8ca7bdc950e2752807260f6",
+      "bytes": 50462
+    },
+    {
+      "id": "B4-056",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/056/high.webp",
+      "sourceSha256": "2cb4d08a76d27402d6735517aa5dc210f8ff59c808ee9cb78b4d5bcd4847f308",
+      "bytes": 39032
+    },
+    {
+      "id": "B4-057",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/057/high.webp",
+      "sourceSha256": "73c45b619ebb81200470d67f83f85b67cdc9c3eae7625a41af170a908c242209",
+      "bytes": 41526
+    },
+    {
+      "id": "B4-058",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/058/high.webp",
+      "sourceSha256": "324532d10812439836161adf8a97a5f9cbf51522cc1f7d76913f4df84faca534",
+      "bytes": 53130
+    },
+    {
+      "id": "B4-059",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/059/high.webp",
+      "sourceSha256": "a5f96ce7752ef4ddd4ec04989c82bf373b3ee5804c77ac7fa5d6891809c36bfe",
+      "bytes": 51658
+    },
+    {
+      "id": "B4-060",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/060/high.webp",
+      "sourceSha256": "a4cc8f39b3eb09dd46d585e7b2e6cd5f6093fc8156b13991eb44b17d7947e136",
+      "bytes": 42808
+    },
+    {
+      "id": "B4-062",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/062/high.webp",
+      "sourceSha256": "cca85ef32b41a9bc985d96a235757101d8c5632a6bebb5862af9f4a30e5d2817",
+      "bytes": 41582
+    },
+    {
+      "id": "B4-064",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/064/high.webp",
+      "sourceSha256": "f7e3a8e19f7dddcf6e69006191f2c73c6441ddf5e00ddc7da3347ea5d30f7772",
+      "bytes": 51236
+    },
+    {
+      "id": "B4-065",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/065/high.webp",
+      "sourceSha256": "441aefe77f87622beb5a1f3347d762bf444ad1f3f9a41e5b0b56dfb7f253a736",
+      "bytes": 49132
+    },
+    {
+      "id": "B4-068",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/068/high.webp",
+      "sourceSha256": "8fc4afa31cd8e13c6f30a96ff4212645b074864d3a99449f5ef106016581632d",
+      "bytes": 48540
+    },
+    {
+      "id": "B4-069",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/069/high.webp",
+      "sourceSha256": "b97a445694439c90df971a29a0d74e48606f663e7ebefe64f2104be1acb996ec",
+      "bytes": 60416
+    },
+    {
+      "id": "B4-070",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/070/high.webp",
+      "sourceSha256": "6217c3022b1933e241086787d7e4349fa11a1da509758ee95e69a3ba476def3f",
+      "bytes": 47886
+    },
+    {
+      "id": "B4-071",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/071/high.webp",
+      "sourceSha256": "3ad6ecabbaa0f059fbb7c43747855228ced0e172c436352489626dc2ed2bf1c5",
+      "bytes": 55372
+    },
+    {
+      "id": "B4-072",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/072/high.webp",
+      "sourceSha256": "0b329293c50ee46a9fe5f7b4e8703d359d9d1dada7b67b8a9b56780fe22f71f8",
+      "bytes": 55374
+    },
+    {
+      "id": "B4-073",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/073/high.webp",
+      "sourceSha256": "1542e58e101f94b631bee764f6f84736614bcaf93d2041bd56684d9ca1952075",
+      "bytes": 60766
+    },
+    {
+      "id": "B4-074",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/074/high.webp",
+      "sourceSha256": "0c0fc235d85a0ecae6b00496dfd4c02eb4c731bd7e1618c32c73a80cd281ae53",
+      "bytes": 50348
+    },
+    {
+      "id": "B4-075",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/075/high.webp",
+      "sourceSha256": "2648fcf34b5eaf5531f1ecfb8b1a8ea8c234502f70e233672b762204a87c0fc0",
+      "bytes": 54570
+    },
+    {
+      "id": "B4-076",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/076/high.webp",
+      "sourceSha256": "8ed7dc294ef814c333330aa8cdb00c67f4cee74def8b55d67ad64a29ffa20e8c",
+      "bytes": 59060
+    },
+    {
+      "id": "B4-077",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/077/high.webp",
+      "sourceSha256": "6c7cc947c319a387614e5817f41594a4523f5bc11bfefd4337089b8a9f167a2f",
+      "bytes": 55454
+    },
+    {
+      "id": "B4-078",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/078/high.webp",
+      "sourceSha256": "5c2973d6278bb9feff7b6cfa57c12f8dfe10d09d9acaeab7bc67d014d88da3f2",
+      "bytes": 62536
+    },
+    {
+      "id": "B4-079",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/079/high.webp",
+      "sourceSha256": "5b3d459d22ffef3fc73ef5a4dff1221616fbcdf18e97b80e539334fed3030388",
+      "bytes": 52392
+    },
+    {
+      "id": "B4-080",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/080/high.webp",
+      "sourceSha256": "77eb7ed98ac5b39a1503c80091872c28ff1b91d4791f095b81958bdc8f89c1c5",
+      "bytes": 62518
+    },
+    {
+      "id": "B4-081",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/081/high.webp",
+      "sourceSha256": "7b9b7d74112ae51729a9157f3dc265c90eaa35c826c1f23d87fd0df12e3c536d",
+      "bytes": 52116
+    },
+    {
+      "id": "B4-082",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/082/high.webp",
+      "sourceSha256": "5d0142e8d92de692ee5b3592d763628620eee53ef270ce2d181e5fb5dd6fc0a1",
+      "bytes": 70980
+    },
+    {
+      "id": "B4-083",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/083/high.webp",
+      "sourceSha256": "8e29702f68ac0fe2d27f81117d3531f49605dd4295d9495f5d593f4be85850bb",
+      "bytes": 65452
+    },
+    {
+      "id": "B4-085",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/085/high.webp",
+      "sourceSha256": "2b9c0326b90e7bfc4043f559dd62171b564a8e8f4cd38a8cdcca9f91b2c385d0",
+      "bytes": 51086
+    },
+    {
+      "id": "B4-086",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/086/high.webp",
+      "sourceSha256": "6bd07f3bf68b267cf627c916e243386ddb37f0a3ac7c3b71729cce45526022e2",
+      "bytes": 60782
+    },
+    {
+      "id": "B4-087",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/087/high.webp",
+      "sourceSha256": "c05937f8fcee03671c41b9423740090b9bb251b3072e896da23dc919ca032061",
+      "bytes": 59754
+    },
+    {
+      "id": "B4-088",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/088/high.webp",
+      "sourceSha256": "5892ad17a0b9650c2f292cd6c5758fc6669262b8545e741e66fda9c5eeda1629",
+      "bytes": 63082
+    },
+    {
+      "id": "B4-089",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/089/high.webp",
+      "sourceSha256": "70307a027ff540cb000bc680f9c1c07814fbe11b4f79d4ea96de8d939ac05873",
+      "bytes": 56358
+    },
+    {
+      "id": "B4-090",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/090/high.webp",
+      "sourceSha256": "b32e8e65a474b20085ded4b369f5524d94e09c3355a84590ff16e59f94b53ad2",
+      "bytes": 65986
+    },
+    {
+      "id": "B4-091",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/091/high.webp",
+      "sourceSha256": "cc854f8bd1b0cc7ae1eb3eeaa45f9b94661d3f9178059546fa8c459239c32aae",
+      "bytes": 58102
+    },
+    {
+      "id": "B4-092",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/092/high.webp",
+      "sourceSha256": "1101307e2ca6c08c5009ee32f4869a87f9e01c5cf1f5b0caed18d7cb306a2465",
+      "bytes": 55944
+    },
+    {
+      "id": "B4-093",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/093/high.webp",
+      "sourceSha256": "dfe68a8a52b40407e47fcfef06c62ad65873d05a3a9ff062e92595f06e956411",
+      "bytes": 62956
+    },
+    {
+      "id": "B4-094",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/094/high.webp",
+      "sourceSha256": "b9ce702517be512bf01d952e76ec781b2be07ea0c3abb6ea584edcd26f6d7ec5",
+      "bytes": 58642
+    },
+    {
+      "id": "B4-095",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/095/high.webp",
+      "sourceSha256": "8d912582616b76397dac0c5a8aeb68aa1d85c5130ddf4a1dfbc94c314847cfce",
+      "bytes": 63352
+    },
+    {
+      "id": "B4-096",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/096/high.webp",
+      "sourceSha256": "b06404b9acfcefcfde43ef3db29c6f1eb0ee00de4874b99f474a94e87dc4c910",
+      "bytes": 67428
+    },
+    {
+      "id": "B4-097",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/097/high.webp",
+      "sourceSha256": "ea61b590b768a0448534b3992a7ac4c889dfad49b1176847563409b5bf7cc6b5",
+      "bytes": 64934
+    },
+    {
+      "id": "B4-098",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/098/high.webp",
+      "sourceSha256": "276eeb0e32506e31ebd1ade085e4587ec9340b5a3b5b9098b486e4d25167aa9a",
+      "bytes": 67128
+    },
+    {
+      "id": "B4-099",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/099/high.webp",
+      "sourceSha256": "44a2f3f79afb26fc6f926235bec696caa3ce9707ad99afc777471dfcb9f6daa9",
+      "bytes": 63112
+    },
+    {
+      "id": "B4-104",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/104/high.webp",
+      "sourceSha256": "f086019e1ae7964ee25e6d9ba494ccdd2921cd0cc295d0f4ba1bbd0c0aeeedf1",
+      "bytes": 67364
+    },
+    {
+      "id": "B4-105",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/105/high.webp",
+      "sourceSha256": "2302236daf2ae116bc66a6e74f7c446f661bbb00f4335faef046f1414a06ef07",
+      "bytes": 60336
+    },
+    {
+      "id": "B4-106",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/106/high.webp",
+      "sourceSha256": "7390b0810b3ac2d21d5e7eb55667cf618c9871e8a2c43db8b7138770cc34ba8f",
+      "bytes": 62710
+    },
+    {
+      "id": "B4-107",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/107/high.webp",
+      "sourceSha256": "2e4644789bb7bf7b284be7d42c67e26feb07538ba924010ee651a0e85b10c083",
+      "bytes": 62778
+    },
+    {
+      "id": "B4-108",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/108/high.webp",
+      "sourceSha256": "219eddf5099fb7bed6fd6fb6429761e0324d990500ef77fde3b2433c3a41f33a",
+      "bytes": 62046
+    },
+    {
+      "id": "B4-110",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/110/high.webp",
+      "sourceSha256": "6e64788e72f975ac98b2348af34e608db9b0e111fa224034d086945dca1835c6",
+      "bytes": 60218
+    },
+    {
+      "id": "B4-111",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/111/high.webp",
+      "sourceSha256": "1ad50ab1eafd4c309e644b7d366b5ae6cae22fbb0c3af3d39d3811776d3a93eb",
+      "bytes": 69424
+    },
+    {
+      "id": "B4-112",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/112/high.webp",
+      "sourceSha256": "2d22b51fc18c46e7e950e8c0e1d93e51a3cf294304e4c94c3c6fe173974c7641",
+      "bytes": 57794
+    },
+    {
+      "id": "B4-113",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/113/high.webp",
+      "sourceSha256": "b91038b40ce9359679809664dc6f8a115575263ab1a78781ffe4715c607abd96",
+      "bytes": 66328
+    },
+    {
+      "id": "B4-117",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/117/high.webp",
+      "sourceSha256": "2549bb21b1289ba8283b7be894179d5215d3c8aa523ab074d9a710876e2004d9",
+      "bytes": 64694
+    },
+    {
+      "id": "B4-119",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/119/high.webp",
+      "sourceSha256": "edfc1d8759e6d4449dd467d39c0df329a3e9984fa44f7fea75a8d8ae80b4181d",
+      "bytes": 58694
+    },
+    {
+      "id": "B4-121",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/121/high.webp",
+      "sourceSha256": "048481e4935cebbfaf8a982d1d1763f53df416caa704ba216866e567b86d2257",
+      "bytes": 55592
+    },
+    {
+      "id": "B4-122",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/122/high.webp",
+      "sourceSha256": "980641136cf3c466f0f1e0b3bae6811899f35d6cd64b0d1764f31dd84909e629",
+      "bytes": 60238
+    },
+    {
+      "id": "B4-123",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/123/high.webp",
+      "sourceSha256": "f1c196b85f7ca966edf00b640088ccd4518e44f47c569d01b5e93db848338a21",
+      "bytes": 54116
+    },
+    {
+      "id": "B4-124",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/124/high.webp",
+      "sourceSha256": "358603d23b2b67f7eee2e57a95acb809e9ce4ebfd2f5d5e5cbc0c7726fc121bc",
+      "bytes": 54452
+    },
+    {
+      "id": "B4-126",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/126/high.webp",
+      "sourceSha256": "d5f4148bf5ea0e164091405779d18d2695dba384351ff0dddd4b9069236ef20b",
+      "bytes": 60940
+    },
+    {
+      "id": "B4-127",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/127/high.webp",
+      "sourceSha256": "777f00a4960d27adeaa2f4ffe97e6af97b6501c62f565039937a8c2c34ba851d",
+      "bytes": 64556
+    },
+    {
+      "id": "B4-128",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/128/high.webp",
+      "sourceSha256": "40695839f1836fccfff2d023984962b43151980f9ba639e11fccb60d956a8a40",
+      "bytes": 57672
+    },
+    {
+      "id": "B4-129",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/129/high.webp",
+      "sourceSha256": "185adec5cf888d8644455844386638a7befc2c1e83e0f595c564f42f7d4365b5",
+      "bytes": 53144
+    },
+    {
+      "id": "B4-130",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/130/high.webp",
+      "sourceSha256": "ff893ce3777985aba877c50958de21616114793a1d3253a55e633b379b3edc22",
+      "bytes": 66236
+    },
+    {
+      "id": "B4-131",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/131/high.webp",
+      "sourceSha256": "99e34bc57454a01637792a2434fa7224df872da38aad6b8ecfebe0f98686e654",
+      "bytes": 50980
+    },
+    {
+      "id": "B4-132",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/132/high.webp",
+      "sourceSha256": "59425a8af63d457f803f186bab334ed440bcad6a2d30574572dd6b0b0b637460",
+      "bytes": 53564
+    },
+    {
+      "id": "B4-133",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/133/high.webp",
+      "sourceSha256": "af73aee68472ba992ca7e84756dac19db97510a733f9f23ced880fb226d0d76c",
+      "bytes": 40886
+    },
+    {
+      "id": "B4-134",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/134/high.webp",
+      "sourceSha256": "c507e5db5bcc312a275adffff0b9228cd15e16bd63d102d8e9dfa5e21e3f69c5",
+      "bytes": 50910
+    },
+    {
+      "id": "B4-135",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/135/high.webp",
+      "sourceSha256": "d4e2d7480082d4bb0f05cdec42720040fb67e799377a88de50c7f0e164eb01ed",
+      "bytes": 48474
+    },
+    {
+      "id": "B4-136",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/136/high.webp",
+      "sourceSha256": "d2dccc027d32502b6780226d73ca84e27b1998e01d9d5e217a10036667e10f66",
+      "bytes": 50752
+    },
+    {
+      "id": "B4-137",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/137/high.webp",
+      "sourceSha256": "96ada402eff4e0656574c3cb75e4a07bbee57142ce6eeebd1c1d6c22452c316c",
+      "bytes": 48552
+    },
+    {
+      "id": "B4-138",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/138/high.webp",
+      "sourceSha256": "cb670955696fafac5feb42603c0f35749491a347f83ab81f4887d5ab30a7b9cd",
+      "bytes": 46760
+    },
+    {
+      "id": "B4-139",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/139/high.webp",
+      "sourceSha256": "d1477c39fa5fbb6c32c52e9348f87ab4647992f82efb116ac8e761e1f511797c",
+      "bytes": 55942
+    },
+    {
+      "id": "B4-140",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/140/high.webp",
+      "sourceSha256": "66991bc60cd02f54dfa38b03b990814ce046091ffcc806a5ecbd5046717b6d70",
+      "bytes": 60792
+    },
+    {
+      "id": "B4-143",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/143/high.webp",
+      "sourceSha256": "8fd359e413942e3257e066caed389724e0ec9c9e7bdda42a840f58dfa1e682ef",
+      "bytes": 52864
+    },
+    {
+      "id": "B4-144",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/144/high.webp",
+      "sourceSha256": "83973f2c5e8a67072c291fb375f1c9ec2dba0d82b252895dd2c37a3944928fd1",
+      "bytes": 58198
+    },
+    {
+      "id": "B4-156",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/156/high.webp",
+      "sourceSha256": "5e50c3d8391a07c147b8ad28221ead0bbf89f8a753152bddccaa139170a3adcf",
+      "bytes": 60478
+    },
+    {
+      "id": "B4-157",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/157/high.webp",
+      "sourceSha256": "a92c019099b969312cffd40d66d624e7072df3b209ba2de71294c023651c011d",
+      "bytes": 74984
+    },
+    {
+      "id": "B4-158",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/158/high.webp",
+      "sourceSha256": "d3100bd5093bcdedcffa43c857c31da1fefce83a8ec8392c076079c5e7919e00",
+      "bytes": 54282
+    },
+    {
+      "id": "B4-159",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/159/high.webp",
+      "sourceSha256": "c7250760fc7efcc55fbdeeaf64f3493e95afdd5c8e16136b4da9d89557f1d4e9",
+      "bytes": 77292
+    },
+    {
+      "id": "B4-161",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/161/high.webp",
+      "sourceSha256": "ecf1b2d8af057d459c043ca3be96ddc6089aae68eb375748a83ebdde74434108",
+      "bytes": 73778
+    },
+    {
+      "id": "B4-162",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/162/high.webp",
+      "sourceSha256": "61020bee8abf9560d365ab736c151c75e50dbb33e17f66ae790d1d87d28a684d",
+      "bytes": 63580
+    },
+    {
+      "id": "B4-163",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/163/high.webp",
+      "sourceSha256": "a961690d8895ad0a79061776ffd0070b8af2f625b6a2580aac949b1f4f881e2c",
+      "bytes": 83170
+    },
+    {
+      "id": "B4-165",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/165/high.webp",
+      "sourceSha256": "f3cf802e53129e3bef888a8cab4047c5a21a633648f7d3f8a28928853af9ad9a",
+      "bytes": 58204
+    },
+    {
+      "id": "B4-166",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/166/high.webp",
+      "sourceSha256": "0bb0f8e7b1e77967d77f7113a28b5c03992f5ddd1fc284d97bd45758e9476a42",
+      "bytes": 84656
+    },
+    {
+      "id": "B4-167",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/167/high.webp",
+      "sourceSha256": "4df0b2db5f290d83cb344f8736f9c1b3470e202341e7319d6cae90775a5f2415",
+      "bytes": 70080
+    },
+    {
+      "id": "B4-168",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/168/high.webp",
+      "sourceSha256": "6994a65b3caa17c60a02733a3f4aabb6985d8d24e865d6e92892fc907a0f2263",
+      "bytes": 62326
+    },
+    {
+      "id": "B4-169",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/169/high.webp",
+      "sourceSha256": "f8803b61a1d9709c24e607be95ccdff0cf96bd57370c1863a8de7abac2b3029c",
+      "bytes": 63262
+    },
+    {
+      "id": "B4-170",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/170/high.webp",
+      "sourceSha256": "51615b4b4d11dd9d2cdc0151400c7cc851e98752fd9f8d527ad003f560156e9f",
+      "bytes": 99342
+    },
+    {
+      "id": "B4-171",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/171/high.webp",
+      "sourceSha256": "78762937ad9111212197156965d2cc95a362df704420ef8d1cac18a456c650c2",
+      "bytes": 57774
+    },
+    {
+      "id": "B4-172",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/172/high.webp",
+      "sourceSha256": "8c19bfda0d1bbf5f6e3d986a9fb36f32f4d74a90bdeff353fb468c5124c66e01",
+      "bytes": 69714
+    },
+    {
+      "id": "B4-174",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/174/high.webp",
+      "sourceSha256": "6a2f4b85229f30fc2a4b3cd6eb969429bc42adb14a8df2df40139b6d9533b6b2",
+      "bytes": 105400
+    },
+    {
+      "id": "B4-175",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/175/high.webp",
+      "sourceSha256": "92c49d1f930309c4183ce32a82918f8a5c87b6bb0197f63ea559f1d083d6412c",
+      "bytes": 85254
+    },
+    {
+      "id": "B4-176",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/176/high.webp",
+      "sourceSha256": "87bc46461de76dc36d6484a3a2607f4f1e7ea6926e33ec33c0bf8d9d01d5c351",
+      "bytes": 83224
+    },
+    {
+      "id": "B4-177",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/177/high.webp",
+      "sourceSha256": "f0cecf68edf805d284122feae03b247cc06d0183aab4ae3d5a51d35d9b6d43f3",
+      "bytes": 85318
+    },
+    {
+      "id": "B4-178",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/178/high.webp",
+      "sourceSha256": "9fa5252205af88ce5a6a6fa4c0a3f8fea7cf43ec53da5f01e3e2b0c7c87cc6bc",
+      "bytes": 86858
+    },
+    {
+      "id": "B4-179",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/179/high.webp",
+      "sourceSha256": "02f8057b3081e4e92fabe4482a0abc339a38a426e0977f76b9e5d58bd12eb4de",
+      "bytes": 72754
+    },
+    {
+      "id": "B4-206",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/206/high.webp",
+      "sourceSha256": "913b07bf910a25495410c3b229d9af50d8d92435dbf7de483b20ca4c26d64805",
+      "bytes": 62440
+    },
+    {
+      "id": "B4-207",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/207/high.webp",
+      "sourceSha256": "daa5e907504b7b289e1012a56703aa4aa8309ce38035698e67109ab061e30cd2",
+      "bytes": 68766
+    },
+    {
+      "id": "B4-210",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/210/high.webp",
+      "sourceSha256": "eff42d1d454b5230edf72f0ba6c280f03be5c2abc58d06179a3aa8fb02185ca0",
+      "bytes": 48922
+    },
+    {
+      "id": "B4-211",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/211/high.webp",
+      "sourceSha256": "84feec477301e48930dc2e7ed50fb759e5f460b825fa14b1c07b5d78795cc978",
+      "bytes": 58290
+    },
+    {
+      "id": "B4-212",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/212/high.webp",
+      "sourceSha256": "ff05f6c0e335d7f2f6a5d7bac9f173e82a703ecfd2216f2e2b69ced6e02f3492",
+      "bytes": 54504
+    },
+    {
+      "id": "B4-213",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/213/high.webp",
+      "sourceSha256": "0947b16758a6099dfccabcf65d4af0bcd2abb9ebf96d1420d49385b66252ddde",
+      "bytes": 56016
+    },
+    {
+      "id": "B4-214",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/214/high.webp",
+      "sourceSha256": "a0597f993957608964d47458162981892368c873fb2915ee6fcb58aeaf8cd2ca",
+      "bytes": 57580
+    },
+    {
+      "id": "B4-215",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/215/high.webp",
+      "sourceSha256": "01d9ae25aaada000bab5dde0ec4a30060b5daf2df2e7c6786f4b1f0e087d0db0",
+      "bytes": 67260
+    },
+    {
+      "id": "B4-218",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/218/high.webp",
+      "sourceSha256": "e8d0d78250eed1e45733c292150a073573b666b97bea187095af55a2bb3fdf3f",
+      "bytes": 61942
+    },
+    {
+      "id": "B4-219",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/219/high.webp",
+      "sourceSha256": "8caf6eafba9eff7731cfcf94cd63bbdaf8c18330c783bb290a67d44b7c7284d0",
+      "bytes": 69906
+    },
+    {
+      "id": "B4-220",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/220/high.webp",
+      "sourceSha256": "f336777ca16489b762d78e479eb46a22bd435ed99fae61842df22fe0a1f6b0c0",
+      "bytes": 53020
+    },
+    {
+      "id": "B4-221",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/221/high.webp",
+      "sourceSha256": "a27b36b83e84e63556cd13028e8b7c9710f71b89d2690f42faa69be18d66d36c",
+      "bytes": 66884
+    },
+    {
+      "id": "B4-222",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/222/high.webp",
+      "sourceSha256": "e9ca4d524be7ed424b05dd67ea3853bffbf5a34ace951608f77f5c270a16bbe2",
+      "bytes": 59392
+    },
+    {
+      "id": "B4-233",
+      "locale": "pt-br",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/B4/233/high.webp",
+      "sourceSha256": "e74b6dee3c4b5816cd069351f4bec5e6eeefb9ecdd4fca7c84777b1bdf6d6d46",
+      "bytes": 70880
+    },
+    {
+      "id": "B4-001",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/001/high.webp",
+      "sourceSha256": "81d2cb66b51a14c5dd5b3e44b9180eb147bbe06d9214f9cb6b4810c063cfb215",
+      "bytes": 42912
+    },
+    {
+      "id": "B4-002",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/002/high.webp",
+      "sourceSha256": "42fbb7e57dfb794a2af1bf4390c0e3ebd3e8cc4de4edb8d17a85992819fbcf55",
+      "bytes": 46622
+    },
+    {
+      "id": "B4-003",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/003/high.webp",
+      "sourceSha256": "e16485bec5c4a7b98afa440665b115e241e8fdc56eeb1449df226c9a28f18321",
+      "bytes": 43244
+    },
+    {
+      "id": "B4-004",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/004/high.webp",
+      "sourceSha256": "ae5e8c9b3a2253854531fb1b5f381813f516a970b725042c54d3f825e7fc64d5",
+      "bytes": 38646
+    },
+    {
+      "id": "B4-005",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/005/high.webp",
+      "sourceSha256": "c6628ff54fc95168c69c2f6dc5e7e7408df56d42912583efd517cd17cc49ce21",
+      "bytes": 54100
+    },
+    {
+      "id": "B4-008",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/008/high.webp",
+      "sourceSha256": "147acff768370ae6dd9b4c47811dd49cadf98d4ae86bfafebe402a9f0314e4cd",
+      "bytes": 39918
+    },
+    {
+      "id": "B4-009",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/009/high.webp",
+      "sourceSha256": "e486c317cf01a091491d9e293613e249ec4380f27bbb03ea98a08bcd63c47181",
+      "bytes": 47836
+    },
+    {
+      "id": "B4-010",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/010/high.webp",
+      "sourceSha256": "9ee1ce2cb1b54a8e5a47f3555286e20874728a1639054f26b4f8eb09642e7813",
+      "bytes": 48536
+    },
+    {
+      "id": "B4-017",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/017/high.webp",
+      "sourceSha256": "56284aee13ba230155745017d381f0ff29f464681f2a317ec38b0242e510b9e5",
+      "bytes": 45542
+    },
+    {
+      "id": "B4-018",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/018/high.webp",
+      "sourceSha256": "78df253475498b33e3edeef612c01e618c13aba9f37941668ad3b98a5e47baac",
+      "bytes": 58864
+    },
+    {
+      "id": "B4-019",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/019/high.webp",
+      "sourceSha256": "cb84cb112e22cd537abc54432e73d6e8361d0b7d85903799ce498a186c5058fd",
+      "bytes": 48506
+    },
+    {
+      "id": "B4-022",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/022/high.webp",
+      "sourceSha256": "01f04015d793b309004f8994892aeb4333b269c51bcd7e661d30ccd8ed0e1908",
+      "bytes": 63062
+    },
+    {
+      "id": "B4-024",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/024/high.webp",
+      "sourceSha256": "dfab00ffd16103a7a989a6d8dac167240198b0365322505b6cc32f071511ff9b",
+      "bytes": 51814
+    },
+    {
+      "id": "B4-025",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/025/high.webp",
+      "sourceSha256": "53df27314b40a23f555606c73856efcf40f7d1b9542ffd1aa0d4c4548514df37",
+      "bytes": 52826
+    },
+    {
+      "id": "B4-027",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/027/high.webp",
+      "sourceSha256": "9495bdd4734d7c875c2c600b093f17c18e1b8a49a27a14e3c813977fa3b03a53",
+      "bytes": 46260
+    },
+    {
+      "id": "B4-028",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/028/high.webp",
+      "sourceSha256": "cbd49f93c06dc9c975750b45e69b82094919cbbecb7905a75c1ec8d4137f5593",
+      "bytes": 56998
+    },
+    {
+      "id": "B4-031",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/031/high.webp",
+      "sourceSha256": "68b2152bf0be4fb4c2edfc1a47df7d156671fb4a1f419fa1a5d868ce7a5a3175",
+      "bytes": 67008
+    },
+    {
+      "id": "B4-041",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/041/high.webp",
+      "sourceSha256": "fcef3aed693e356c1f233574dd373577cae80daac4f480389d050c1c5fe5b68f",
+      "bytes": 75342
+    },
+    {
+      "id": "B4-042",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/042/high.webp",
+      "sourceSha256": "79ab16a82e70f2681d17416acb0db8d33918e9a6602640989e64217bf62e7658",
+      "bytes": 64950
+    },
+    {
+      "id": "B4-043",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/043/high.webp",
+      "sourceSha256": "5ba428e30b6de19097714108d70890c973e357bd689a147aecb01aae3668501d",
+      "bytes": 63110
+    },
+    {
+      "id": "B4-044",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/044/high.webp",
+      "sourceSha256": "92db02a303d22c621ab737065f899861388188f4e5f46464277cfd456ef20268",
+      "bytes": 67606
+    },
+    {
+      "id": "B4-046",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/046/high.webp",
+      "sourceSha256": "c1a9f10eba706d137d5727a18f8e3af310fcbcc6ef6e359ec8a5a27443218ce4",
+      "bytes": 61292
+    },
+    {
+      "id": "B4-047",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/047/high.webp",
+      "sourceSha256": "bea77c50f8caa37dc0233d441b5dad7eea9e3e05ed4605275f1a314e87dd9c20",
+      "bytes": 64024
+    },
+    {
+      "id": "B4-048",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/048/high.webp",
+      "sourceSha256": "202ab4dbb6ebe0c622c258ee94227ae760042f9c702f3a8fc7baa0fce972f445",
+      "bytes": 67446
+    },
+    {
+      "id": "B4-049",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/049/high.webp",
+      "sourceSha256": "1e9b4e57f7006f9dc9db9f25d24c12477d4d31e61bcb8c0a49defbc9118d7cb7",
+      "bytes": 47568
+    },
+    {
+      "id": "B4-051",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/051/high.webp",
+      "sourceSha256": "c88f1817cd6c5b91b390d031d0b207ba979ab3f3243ebdf5472ad0d6cfc07094",
+      "bytes": 47240
+    },
+    {
+      "id": "B4-052",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/052/high.webp",
+      "sourceSha256": "484c283864bf4e886ebade9e8fc758a95ddf069cfb7e309cdc01f70c5f7d0da2",
+      "bytes": 42214
+    },
+    {
+      "id": "B4-053",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/053/high.webp",
+      "sourceSha256": "7cc929be8fd7f0fbbe0757ab9e1aa682dde17028fe0abe7e5da9dcdb9e57bfcf",
+      "bytes": 51014
+    },
+    {
+      "id": "B4-054",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/054/high.webp",
+      "sourceSha256": "de08dadf5cb051c283edf364ffdd41c98511e0cf79112f7683abd6c301cc256e",
+      "bytes": 47324
+    },
+    {
+      "id": "B4-056",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/056/high.webp",
+      "sourceSha256": "f3e36f73e04985ddbb89673b19388f0ce5ff3fd34d48ed2061d7996b78dcc97a",
+      "bytes": 38804
+    },
+    {
+      "id": "B4-057",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/057/high.webp",
+      "sourceSha256": "be579f1fbc2651b839ab98be19fdf9af5b2bb36caa7faecc48731c2aa413f5c8",
+      "bytes": 40122
+    },
+    {
+      "id": "B4-058",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/058/high.webp",
+      "sourceSha256": "32d5f43a7afa42766de1cdddd12e0fd60b1ba3087e6a740bb31a05baecfb0009",
+      "bytes": 50222
+    },
+    {
+      "id": "B4-059",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/059/high.webp",
+      "sourceSha256": "05b63f2b3161b72d29bb8c0db979cde89bdd369c01743f777c306fa2962c6d21",
+      "bytes": 49490
+    },
+    {
+      "id": "B4-062",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/062/high.webp",
+      "sourceSha256": "c424e0c84dbc7d94e56c3a9605b0f3d091f52979afb27bc43f50fbfb4c97bb6a",
+      "bytes": 39180
+    },
+    {
+      "id": "B4-065",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/065/high.webp",
+      "sourceSha256": "806bd84902bcc40781f604f18c17efb1b83f0a61e9e2a8459f829d6915f26afb",
+      "bytes": 49306
+    },
+    {
+      "id": "B4-070",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/070/high.webp",
+      "sourceSha256": "09df97831f9a4b6557771c442828ad2a4667c9004530d21dbd56ac5a9b24dea5",
+      "bytes": 44786
+    },
+    {
+      "id": "B4-071",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/071/high.webp",
+      "sourceSha256": "08895f40458225e30a6c53d4f8cc0819353cd3f92fa9dcddaaa18891dbf14b4a",
+      "bytes": 53712
+    },
+    {
+      "id": "B4-072",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/072/high.webp",
+      "sourceSha256": "f055d624d569ef89c59fc430fcda217c9fa3c6fc99c914f4d79764e909458ca3",
+      "bytes": 54578
+    },
+    {
+      "id": "B4-073",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/073/high.webp",
+      "sourceSha256": "446b2d34fb3097f3fd5622f4e22c6d5b0d3ee2e2955d36afab10ef360d59d5de",
+      "bytes": 57118
+    },
+    {
+      "id": "B4-077",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/077/high.webp",
+      "sourceSha256": "ffca56750a3f0e7697dd05c56ce23611219c670d9012832c487f614b484fa008",
+      "bytes": 52472
+    },
+    {
+      "id": "B4-078",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/078/high.webp",
+      "sourceSha256": "c683957786b5807139900bf48fabe1c9108bd1a09bf3c63c1d7e55d8a2f35757",
+      "bytes": 60548
+    },
+    {
+      "id": "B4-079",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/079/high.webp",
+      "sourceSha256": "0722c3b94668b185cfd70c36304941973eb21608a3994f2249a87d28b0e9fc55",
+      "bytes": 50270
+    },
+    {
+      "id": "B4-080",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/080/high.webp",
+      "sourceSha256": "6445996b1342b7314f404b8e5a227a7d5c29ce41d6dcf7b9f76f9261393e52d3",
+      "bytes": 59014
+    },
+    {
+      "id": "B4-083",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/083/high.webp",
+      "sourceSha256": "debd6738d5c7f40eb0f983f2e73bebdde23a4f3f70d0b3ac3619c5dc1d9ffa64",
+      "bytes": 62906
+    },
+    {
+      "id": "B4-085",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/085/high.webp",
+      "sourceSha256": "cb137775d0b295971a6e8f2b1f1c484c19829da2d0f670fbc078d9af43da3133",
+      "bytes": 51556
+    },
+    {
+      "id": "B4-086",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/086/high.webp",
+      "sourceSha256": "692b34ead32ba761e62b3618e93336b38f27a29a544b00d1a7625b84dec5c0f7",
+      "bytes": 60686
+    },
+    {
+      "id": "B4-087",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/087/high.webp",
+      "sourceSha256": "a9e0a7bc0a5b7ef658667ca93ffb97287f4d46aa4aaeb0f9d42594ac0ac23854",
+      "bytes": 59956
+    },
+    {
+      "id": "B4-088",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/088/high.webp",
+      "sourceSha256": "8bb4bdf2c98479f783f1516c74a104c3cbd8c78f416a03214b0a1bc1d777d9af",
+      "bytes": 62204
+    },
+    {
+      "id": "B4-089",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/089/high.webp",
+      "sourceSha256": "eb93ae666a3fca1cd7339ca9d88725f5ce295aeb6017610dee55a873197a5adc",
+      "bytes": 53952
+    },
+    {
+      "id": "B4-090",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/090/high.webp",
+      "sourceSha256": "528bcac369408d7e9e30a00a0ecccf8d591eaf83c09f774537b8cc4929395e78",
+      "bytes": 61798
+    },
+    {
+      "id": "B4-091",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/091/high.webp",
+      "sourceSha256": "9ba4fb9b0b687fcbdfe36401555c6c09d0c51e2a4d303e2fb4f4794f7284e1e3",
+      "bytes": 55514
+    },
+    {
+      "id": "B4-092",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/092/high.webp",
+      "sourceSha256": "b1afd99c0ab9c6ddd7224c1d96592eab39f708c107ca8afa9ed25fded79c6ec2",
+      "bytes": 55006
+    },
+    {
+      "id": "B4-093",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/093/high.webp",
+      "sourceSha256": "c1be6c5060fd28b500f7fe8c1118c6353e9a4c9724d2351721d1413888d4b9cd",
+      "bytes": 61966
+    },
+    {
+      "id": "B4-094",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/094/high.webp",
+      "sourceSha256": "90f4099394bffb1f35fcd66b59d511cdc4587cf71d08654ca4658841f85b184f",
+      "bytes": 58042
+    },
+    {
+      "id": "B4-095",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/095/high.webp",
+      "sourceSha256": "01c79ee4ee9e50cfd257a77418744cf1d228c15b4ae4c2e0d41ae72c10ebc832",
+      "bytes": 62920
+    },
+    {
+      "id": "B4-096",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/096/high.webp",
+      "sourceSha256": "6c9801b55fd5fa628e048998b07885b63108abf58d57cd1dca87ff03e08cab73",
+      "bytes": 66676
+    },
+    {
+      "id": "B4-098",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/098/high.webp",
+      "sourceSha256": "b867a9fc235abe739e57addf469fb2760d3c9e6ee6c20406c157211e18461db4",
+      "bytes": 66256
+    },
+    {
+      "id": "B4-099",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/099/high.webp",
+      "sourceSha256": "fabe49d7202bd90bbcf7d6600a7695f9ad9afb3de2ddfd99d309c30fa1f1f534",
+      "bytes": 60490
+    },
+    {
+      "id": "B4-104",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/104/high.webp",
+      "sourceSha256": "b6375f742c1f758fa77e4db4f00fd543617d4315855cfc40cd6542c6018dea5e",
+      "bytes": 65634
+    },
+    {
+      "id": "B4-106",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/106/high.webp",
+      "sourceSha256": "ab48501138de3a1b2f364c389ad32e8654bf400c0f9c32bd38dbb0f6c76e7783",
+      "bytes": 61018
+    },
+    {
+      "id": "B4-110",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/110/high.webp",
+      "sourceSha256": "e24b8cd2d86f67c6e1c269a923f98a6d89729176f032ff92652c5cf66b0267ed",
+      "bytes": 59656
+    },
+    {
+      "id": "B4-111",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/111/high.webp",
+      "sourceSha256": "a9743b27ce0d8f56d35517c12ce73b015ed1763fc57e7c1468c17af67ea8abe8",
+      "bytes": 69006
+    },
+    {
+      "id": "B4-112",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/112/high.webp",
+      "sourceSha256": "57233c8da05ee0b86eba064d6077d6d14bc6a2fe250c57846d4e11943217b5b3",
+      "bytes": 55890
+    },
+    {
+      "id": "B4-113",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/113/high.webp",
+      "sourceSha256": "14dbe52b9a93d85df1fb2b645b49a9b66e7198898293985e31938e537ca74bcf",
+      "bytes": 65180
+    },
+    {
+      "id": "B4-117",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/117/high.webp",
+      "sourceSha256": "4a03d1b66ebf43040d55b58025b7d6dc97b107032d797470fd12052e7b0437ae",
+      "bytes": 61142
+    },
+    {
+      "id": "B4-119",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/119/high.webp",
+      "sourceSha256": "7bb620e7a356853078c29eda643d6ef37e627611cfa56a733771a09cd004ee91",
+      "bytes": 57348
+    },
+    {
+      "id": "B4-121",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/121/high.webp",
+      "sourceSha256": "b5fae9e8624f0e5fafe2882cb3c839d62163e4f0d1ec037e02fe45d460063c3c",
+      "bytes": 54148
+    },
+    {
+      "id": "B4-122",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/122/high.webp",
+      "sourceSha256": "7c32bb7154dfc9125848b8ad0de53ae7bf286f6060371bd53afb05a018529a01",
+      "bytes": 58018
+    },
+    {
+      "id": "B4-126",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/126/high.webp",
+      "sourceSha256": "879517425114db216e204c527960f6139e04b5fc2250d16f755602905451227f",
+      "bytes": 58320
+    },
+    {
+      "id": "B4-127",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/127/high.webp",
+      "sourceSha256": "6206250d96455fead0329c60ac04c8d8611cb5e9097e9766ae1b01936c9fc2bf",
+      "bytes": 63606
+    },
+    {
+      "id": "B4-128",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/128/high.webp",
+      "sourceSha256": "030783a16019ebf183a2dede7a2a27e0ecd48faa820944fd15174d7c14fab9e2",
+      "bytes": 55134
+    },
+    {
+      "id": "B4-131",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/131/high.webp",
+      "sourceSha256": "e4ed462aabeef927fcd7629f87456a29d3dc1c376ae2bc5ef6559c1ed5c2d1ac",
+      "bytes": 48206
+    },
+    {
+      "id": "B4-132",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/132/high.webp",
+      "sourceSha256": "fa6d76659087891fa565fe6221a8df596e698955bce46ac6fc12edf5c4d0753b",
+      "bytes": 52926
+    },
+    {
+      "id": "B4-133",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/133/high.webp",
+      "sourceSha256": "4ae1f4d3023a194238cd6d3ca36667ba743a944cbf1627792d3de2cc1ccb11d2",
+      "bytes": 41136
+    },
+    {
+      "id": "B4-134",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/134/high.webp",
+      "sourceSha256": "5e700d49a8c786f78360b6bce46d2433860a868bc2cdd17e371f0790f22f6ac8",
+      "bytes": 49610
+    },
+    {
+      "id": "B4-135",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/135/high.webp",
+      "sourceSha256": "cb2af89f8299972d61887dad779c42165aceeaa4be6251617bf5bc6823495fcc",
+      "bytes": 45566
+    },
+    {
+      "id": "B4-136",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/136/high.webp",
+      "sourceSha256": "f1eb77558759c76b6d4d0e04b02de654ee41b28c3a8cd75ae9e129665e8c98ae",
+      "bytes": 48520
+    },
+    {
+      "id": "B4-140",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/140/high.webp",
+      "sourceSha256": "579597cf4deb263488a6b05eb0f772f5cdb9115c2b0dbe225090d6f276d95f11",
+      "bytes": 59654
+    },
+    {
+      "id": "B4-156",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/156/high.webp",
+      "sourceSha256": "507d84cf3d22195a21f1b82331914da39f9f8bad87ab8fd55bc54891347e9d5c",
+      "bytes": 59452
+    },
+    {
+      "id": "B4-158",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/158/high.webp",
+      "sourceSha256": "ae7ea20927506af7989db49cef272b3da33db270bdd9db75a21f8c57529641f8",
+      "bytes": 52008
+    },
+    {
+      "id": "B4-161",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/161/high.webp",
+      "sourceSha256": "13fd1c4e4a5184ac8ad2d8090bf120d30476bf2c5dec3cbd0b85e25f2543f99e",
+      "bytes": 71578
+    },
+    {
+      "id": "B4-162",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/162/high.webp",
+      "sourceSha256": "865b2c53094a4d5910ec99647a70b3f6024f3303e6dc51cfe72f7f36ccc871ba",
+      "bytes": 61212
+    },
+    {
+      "id": "B4-163",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/163/high.webp",
+      "sourceSha256": "280af83aaf7c2bc9d4d60a8bec84a189d9ffd5c40d8fc160c9793b31a126832e",
+      "bytes": 76646
+    },
+    {
+      "id": "B4-165",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/165/high.webp",
+      "sourceSha256": "60981da63911cff6e04e8709132aa619c5909ecbfda83ee512aead06a2a373b1",
+      "bytes": 57062
+    },
+    {
+      "id": "B4-167",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/167/high.webp",
+      "sourceSha256": "b0a2f5bfe5906af8134ed8e28aaceae8d010cd6c41ea723bd2eb2a98dd7cfcbc",
+      "bytes": 67848
+    },
+    {
+      "id": "B4-169",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/169/high.webp",
+      "sourceSha256": "11ef6e51a3acddc70084d37357fec1c2ebf652bd56fb9bb72d346f7d5cd85d8a",
+      "bytes": 60500
+    },
+    {
+      "id": "B4-171",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/171/high.webp",
+      "sourceSha256": "e79833a78a1768dfda2b5d8ec0f873c72d225189fd5695df0faa54a3991be005",
+      "bytes": 55088
+    },
+    {
+      "id": "B4-172",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/172/high.webp",
+      "sourceSha256": "aede4423d6515b06e6cc5270566972061a440cb5c78a743148582a5739ac211e",
+      "bytes": 68878
+    },
+    {
+      "id": "B4-174",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/174/high.webp",
+      "sourceSha256": "0a2fc308a2eaf131ec0c58f486ba30f260a2302867dafa568bc659a1745ea6e9",
+      "bytes": 104304
+    },
+    {
+      "id": "B4-175",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/175/high.webp",
+      "sourceSha256": "8af7e94cdbd1fa1abb3ae351271b1b2615c855948bd95f0409cac031c70f903d",
+      "bytes": 82526
+    },
+    {
+      "id": "B4-176",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/176/high.webp",
+      "sourceSha256": "b46d86d049a7916940c43f951d6f6feae1836497cd3f7a2921a3f021d8c39d9a",
+      "bytes": 79710
+    },
+    {
+      "id": "B4-177",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/177/high.webp",
+      "sourceSha256": "3796b2b2660a7a0aa6ab2facf36871af7cce55b3b0826c9d47673665ba665b4c",
+      "bytes": 80826
+    },
+    {
+      "id": "B4-179",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/179/high.webp",
+      "sourceSha256": "9aadc72a6c1f737c29b50b0bdbd5276c4f657933539dfbc889a22f530a4ad60f",
+      "bytes": 71234
+    },
+    {
+      "id": "B4-206",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/206/high.webp",
+      "sourceSha256": "b4dcaa014ef9172ec7a9673f46c6200abc29c5533be3b00ca78c2dc2e9f14127",
+      "bytes": 61932
+    },
+    {
+      "id": "B4-207",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/207/high.webp",
+      "sourceSha256": "e985d981d1fc6207405166a2e7123887fd2afb27e8088ec4898087409426284a",
+      "bytes": 65156
+    },
+    {
+      "id": "B4-210",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/210/high.webp",
+      "sourceSha256": "3a72824d95fbb4adc975d29f279bccd34b63c9d9e0f6ce5883aeee785efdaba5",
+      "bytes": 43570
+    },
+    {
+      "id": "B4-212",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/212/high.webp",
+      "sourceSha256": "21772f7b114f972cdea60e703c93617e7f632e1e79b241fa231cff11a5581646",
+      "bytes": 52162
+    },
+    {
+      "id": "B4-215",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/215/high.webp",
+      "sourceSha256": "32403fd77244605b29d14166c3317e603031764617909b29f3fe9635d46009aa",
+      "bytes": 63818
+    },
+    {
+      "id": "B4-218",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/218/high.webp",
+      "sourceSha256": "238275d2bfa20259f93cef0089c6e6336ab6e4f1c38d91e799f119da7b7a320f",
+      "bytes": 61510
+    },
+    {
+      "id": "B4-222",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/222/high.webp",
+      "sourceSha256": "0218ce3107f2f61d8c6321435eddb51fe5bcebd261670c49d540e2922ace5e4a",
+      "bytes": 56910
+    },
+    {
+      "id": "B4-233",
+      "locale": "zh-tw",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/233/high.webp",
+      "sourceSha256": "47b12d8b427b7bb2f48947fa0f33875f3a08812478ef26af04e2e369f9afbd0c",
+      "bytes": 66026
+    }
+  ]
+}

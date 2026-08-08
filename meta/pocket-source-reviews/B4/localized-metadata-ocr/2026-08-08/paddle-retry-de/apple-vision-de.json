@@ -1,0 +1,3102 @@
+[
+  {
+    "id": "B4-003",
+    "locale": "de",
+    "sourceSha256": "b740c36bd81cb55a0f4b1532e04910a17063cf86a63fd6ae4b22cf0f5054103b",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9101562499511718,
+          "x": 0.021739124932065333,
+          "width": 0.44021739130434784,
+          "height": 0.04296875
+        },
+        "text": "PHASEZ Papinella",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501953124,
+          "x": 0.1684782645833332,
+          "width": 0.22282608695652173,
+          "height": 0.01953125
+        },
+        "text": "Entwickelt sich sus Scholaka",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140624995605469,
+          "x": 0.7119565197690219,
+          "width": 0.15760869565217395,
+          "height": 0.04296875
+        },
+        "text": "KP 130",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26086955724637706,
+          "width": 0.4782608695652174,
+          "height": 0.01953125
+        },
+        "text": "Nr. 0267 Faiter-Pokemon Größe: 1,0 m Gewiche: 28,4 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3281249998697917,
+          "x": 0.30434782264492755,
+          "width": 0.4130434782608695,
+          "height": 0.0390625
+        },
+        "text": "Entwicklungsflug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750019531243,
+          "x": 0.8586956528726708,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "30+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078124983723953,
+          "x": 0.07608694936594217,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Diese Attacke fügt für jedes Entwicklungs-Pokémon auf",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2656250001464844,
+          "x": 0.07065218206521721,
+          "width": 0.6521739130434783,
+          "height": 0.02734375
+        },
+        "text": "deiner Bank 30 Schadenspunkte mehr zu.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984374990234378,
+          "x": 0.07065216902173939,
+          "width": 0.19565217391304346,
+          "height": 0.01171875
+        },
+        "text": "lustr. Suwama Chiak",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11208639587987446,
+          "x": 0.5581521731632503,
+          "width": 0.10150256364241894,
+          "height": 0.025804229080677032
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.0703125,
+          "x": 0.4293478718190044,
+          "width": 0.49999995853589935,
+          "height": 0.015625
+        },
+        "text": "Es besitzt cin aggressives Wesen. Es sticht seinen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.046875,
+          "x": 0.5271739139385739,
+          "width": 0.3967390889706819,
+          "height": 0.015625
+        },
+        "text": "Russel in seine Beute und saugt sie aus",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-005",
+    "locale": "de",
+    "sourceSha256": "991f434979c8705c90904131d4455680f0011fa276b4d810e2af398b87ab3512",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624999023438,
+          "x": 0.021739125951087068,
+          "width": 0.3586956521739131,
+          "height": 0.0390625
+        },
+        "text": "PHASEZ Pudox",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8906250001302083,
+          "x": 0.1684782644927535,
+          "width": 0.21739130434782605,
+          "height": 0.015625
+        },
+        "text": "Entwickalt sich aus Panaken",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140624995605469,
+          "x": 0.7119565197690219,
+          "width": 0.15760869565217395,
+          "height": 0.04296875
+        },
+        "text": "KP 120",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.23913042599637713,
+          "width": 0.5271739130434782,
+          "height": 0.01953125
+        },
+        "text": "Nr. 0269 Gifemetten-Pokémon Größe: 1,2 m Gewicht 31,6 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.4257812502441406,
+          "x": 0.08152174741847804,
+          "width": 0.6630434782608695,
+          "height": 0.03515625
+        },
+        "text": "Fähigkeit Vielseitiger Puder",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3945312505208334,
+          "x": 0.07065215969202955,
+          "width": 0.8641304347826088,
+          "height": 0.031249999068677425
+        },
+        "text": "Einmal während deines Zuges kannst du diese Fähigkeit",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3623904328694578,
+          "x": 0.0704351376286619,
+          "width": 0.17978189302527386,
+          "height": 0.025219134986400604
+        },
+        "text": "einsetzen.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3593749998697917,
+          "x": 0.25543479201828273,
+          "width": 0.6793477846228557,
+          "height": 0.03125
+        },
+        "text": "1 Spezieller Zustand wird zufällig aus",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32421875019531243,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.03125
+        },
+        "text": "Verbrennung, Verwirrung und Vergiftung ausgewählt. Das",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.29296875019531254,
+          "x": 0.07065218249999985,
+          "width": 0.8586956521739131,
+          "height": 0.02734375
+        },
+        "text": "Aktive Pokémon deines Gegners ist jetzt von diesem",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2617187501464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "Zustand betroffen. Spezielle Zustände, von denen das",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.22656250006510414,
+          "x": 0.07065218813405749,
+          "width": 0.8532608695652173,
+          "height": 0.02734375
+        },
+        "text": "Pokémon bereits betroffen ist, werden nicht ausgewählt.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.17578125016276047,
+          "x": 0.30434783011775357,
+          "width": 0.4836956521739131,
+          "height": 0.03515625
+        },
+        "text": "Schneidender Wind",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1757812504296875,
+          "x": 0.8586956516304348,
+          "width": 0.07608695652173914,
+          "height": 0.04296875
+        },
+        "text": "60",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217717391292,
+          "width": 0.19565217391304346,
+          "height": 0.01953125
+        },
+        "text": "Illustr. Midori Harada",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750019531243,
+          "x": 0.07065217486413042,
+          "width": 0.1141304347826087,
+          "height": 0.03125
+        },
+        "text": "00•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500014204549,
+          "x": 0.28260869567687746,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11208639587987446,
+          "x": 0.5581521731632503,
+          "width": 0.10150256364241894,
+          "height": 0.025804229080677032
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624986979171,
+          "x": 0.4565217311594206,
+          "width": 0.47826086956521735,
+          "height": 0.0234375
+        },
+        "text": "Wird es angegriffen, flattert es mit den Flugein",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04296875013020829,
+          "x": 0.4836956596920287,
+          "width": 0.4510869565217392,
+          "height": 0.0234375
+        },
+        "text": "und verteilt giftigen Puder. Es ist nachtaktiv.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-007",
+    "locale": "de",
+    "sourceSha256": "bcd4d86c437733a132416d0b41d4ca1b6fdd92dc66bb360f8fd771252e277a7b",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9296875001302083,
+          "x": 0.02717392094388207,
+          "width": 0.1630434678948444,
+          "height": 0.0234375
+        },
+        "text": "PHASE2",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625003069196,
+          "x": 0.18478260745341618,
+          "width": 0.19565217391304346,
+          "height": 0.04296875
+        },
+        "text": "Wielie",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187498046876,
+          "x": 0.16847825760869578,
+          "width": 0.19565217391304346,
+          "height": 0.01953125
+        },
+        "text": "Entwickelt sich sus Liliep",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.717391305298913,
+          "width": 0.15217391304347827,
+          "height": 0.0390625
+        },
+        "text": "кР 150",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.5000000000651041,
+          "x": 0.2391304434782606,
+          "width": 0.5217391304347826,
+          "height": 0.01953125
+        },
+        "text": "Nr. 0346 Rankfüßer-Pokémon Größe: 1,5 m Gewicht: 60,4 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3203124998697917,
+          "x": 0.07065217237318847,
+          "width": 0.09239130434782608,
+          "height": 0.0234375
+        },
+        "text": "Heile",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.34374999946289064,
+          "x": 0.3043478312499999,
+          "width": 0.5217391304347827,
+          "height": 0.04296875
+        },
+        "text": "Festkleben und Einsaugen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3515624998535156,
+          "x": 0.8532608686141304,
+          "width": 0.07608695652173914,
+          "height": 0.03515625
+        },
+        "text": "70",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3164062505208334,
+          "x": 0.17934783288043446,
+          "width": 0.7554347826086957,
+          "height": 0.031249999068677425
+        },
+        "text": "30 Schadenspunkte bei diesem Pokémon.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28125000019531243,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.03125
+        },
+        "text": "Während des nächsten Zuges deines Gegners kann sich",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2460937501302083,
+          "x": 0.07065218659420248,
+          "width": 0.7608695652173914,
+          "height": 0.03125
+        },
+        "text": "das Verteidigende Pokémon nicht zurückziehen.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217717391292,
+          "width": 0.19565217391304346,
+          "height": 0.01953125
+        },
+        "text": "Illustr. Midori Harada",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750019531243,
+          "x": 0.07065217486413042,
+          "width": 0.1141304347826087,
+          "height": 0.03125
+        },
+        "text": "000",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11208639587987446,
+          "x": 0.5581521731632503,
+          "width": 0.10150256364241894,
+          "height": 0.025804229080677032
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812500013020829,
+          "x": 0.4293478345108693,
+          "width": 0.5054347826086956,
+          "height": 0.0234375
+        },
+        "text": "Sobald es mit seinen Tentakein Beute erfasst hat.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06250000009765622,
+          "x": 0.4347826417918323,
+          "width": 0.49456517592720356,
+          "height": 0.01171875
+        },
+        "text": "los es diese mit seiner Verdauuneshussipkeit auf",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515624980468757,
+          "x": 0.6086956571957356,
+          "width": 0.32065215318099316,
+          "height": 0.01953125
+        },
+        "text": "und absorbiert ihre Nährstoffe.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-013",
+    "locale": "de",
+    "sourceSha256": "426d57a79476015ce79026582f02e87cf99a4fd59463850af532a0762e6425ce",
+    "lines": [
+      {
+        "box": {
+          "y": 0.914062499921875,
+          "x": 0.04347825581521751,
+          "width": 0.5054347826086958,
+          "height": 0.0390625
+        },
+        "text": "BASIS Schnuthelm",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562494628906,
+          "x": 0.7445652167798913,
+          "width": 0.125,
+          "height": 0.04296875
+        },
+        "text": "кP70",
+        "confidence": 0.30000001192092896
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.2445652088768119,
+          "width": 0.5108695652173914,
+          "height": 0.01953125
+        },
+        "text": "Nr. 0616 Schnecken-Pokémon Größe: 0,4 m Gewicht: 7,7 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.29687499967447917,
+          "x": 0.3043478286231885,
+          "width": 0.4456521739130434,
+          "height": 0.0390625
+        },
+        "text": "Seemuschelangriff",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078125019531243,
+          "x": 0.8586956526154891,
+          "width": 0.07065217391304346,
+          "height": 0.0390625
+        },
+        "text": "20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217545289848,
+          "width": 0.09239130434782608,
+          "height": 0.01953125
+        },
+        "text": "Illustr. sui",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328124980468746,
+          "x": 0.28804347706521743,
+          "width": 0.11956521739130427,
+          "height": 0.02734375
+        },
+        "text": "#+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11208639564282485,
+          "x": 0.5631393835988207,
+          "width": 0.0965153549028479,
+          "height": 0.025528494268655777
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328124984374999,
+          "x": 0.6956521723455513,
+          "width": 0.027173915634984502,
+          "height": 0.0234375
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812500039062498,
+          "x": 0.4782608621376814,
+          "width": 0.4565217391304348,
+          "height": 0.0234375
+        },
+        "text": "Sein Körper reagiert unerklärlicherweise auf",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.058593750065104144,
+          "x": 0.49456522472826064,
+          "width": 0.44021739130434784,
+          "height": 0.01953125
+        },
+        "text": "Elektrizität. Es heißt, die Anwesenheit von",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515624980468757,
+          "x": 0.5054347755434785,
+          "width": 0.42391304347826086,
+          "height": 0.01953125
+        },
+        "text": "Laukaps löse bei ihm die Entwicklung aus.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-014",
+    "locale": "de",
+    "sourceSha256": "8d576d37eae682350ea8d410a7b21c9dbc6b6e67cb5081d2062a3ed4fc986048",
+    "lines": [
+      {
+        "box": {
+          "y": 0.90625,
+          "x": 0.03260869048913055,
+          "width": 0.4130434782608695,
+          "height": 0.046875
+        },
+        "text": "PHASET Hydragil",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8906250001302083,
+          "x": 0.1684782643115941,
+          "width": 0.20652173913043478,
+          "height": 0.015625
+        },
+        "text": "Entwickalt sich aus Schnue",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001953124,
+          "x": 0.744565218432971,
+          "width": 0.125,
+          "height": 0.0390625
+        },
+        "text": "KP 80",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.22826086059782638,
+          "width": 0.5380434782608696,
+          "height": 0.01953125
+        },
+        "text": "Nr. 0617 Entschalungs-Pokémon Größe: 0,8 m Gewicht: 25,3 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.34375000019531243,
+          "x": 0.3043478313043478,
+          "width": 0.5217391304347827,
+          "height": 0.04296875
+        },
+        "text": "Peinigen und Abhauen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3515625001464844,
+          "x": 0.8586956519248189,
+          "width": 0.07065217391304346,
+          "height": 0.03515625
+        },
+        "text": "50",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31640624980468757,
+          "x": 0.07065216311141329,
+          "width": 0.8641304347826086,
+          "height": 0.03125
+        },
+        "text": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2812500004104892,
+          "x": 0.07065216693840604,
+          "width": 0.8641304347826086,
+          "height": 0.031249999068677425
+        },
+        "text": "und ist paralysiert. Mische dieses Pokémon und alle",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.24999999980468757,
+          "x": 0.06521738278985537,
+          "width": 0.5108695652173914,
+          "height": 0.02734375
+        },
+        "text": "angelegten Karten in dein Deck.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.07065217617753615,
+          "width": 0.1358695652173913,
+          "height": 0.01953125
+        },
+        "text": "Illustr. Hasuno",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750019531243,
+          "x": 0.07065217486413042,
+          "width": 0.1141304347826087,
+          "height": 0.03125
+        },
+        "text": "00•",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11208639564282485,
+          "x": 0.5631393835988207,
+          "width": 0.0965153549028479,
+          "height": 0.025528494268655777
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812499986979171,
+          "x": 0.45108694846014524,
+          "width": 0.483695652173913,
+          "height": 0.0234375
+        },
+        "text": "Seit es seine Muschel abgestreift hat, ist es viel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750013020829,
+          "x": 0.47826087717391275,
+          "width": 0.4565217391304348,
+          "height": 0.0234375
+        },
+        "text": "leichter und agiler. Es umhülle sich mit einer",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515625014648438,
+          "x": 0.4184782672554346,
+          "width": 0.5108695652173914,
+          "height": 0.01953125
+        },
+        "text": "Schleimhaut, die es vor dem Austrocknen schützt.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-016",
+    "locale": "de",
+    "sourceSha256": "a3fd4a6693e1ea1f5c61ba8a758dd01a85ccfc31b71bef8fbf1c97e8412ff6f8",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9296875001953124,
+          "x": 0.048913045199275314,
+          "width": 0.1032608695652174,
+          "height": 0.01953125000000011
+        },
+        "text": "BASIS",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9136993827786898,
+          "x": 0.14664570780710082,
+          "width": 0.32083901115085767,
+          "height": 0.043694984167814255
+        },
+        "text": "Schabelle",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562494628906,
+          "x": 0.7445652167798913,
+          "width": 0.125,
+          "height": 0.04296875
+        },
+        "text": "кP70",
+        "confidence": 0.30000001192092896
+      },
+      {
+        "box": {
+          "y": 0.85156250015625,
+          "x": 0.6793478283695652,
+          "width": 0.2282608695652174,
+          "height": 0.0234375
+        },
+        "text": "Ultrabestie",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.5000000001464844,
+          "x": 0.255434788722826,
+          "width": 0.48913043478260865,
+          "height": 0.01953125
+        },
+        "text": "Nr. 0795 Elegans-Pokémon Größe: 1,8 m Gewicht: 25,0 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33574124469731126,
+          "x": 0.3042799175783753,
+          "width": 0.19578798957493,
+          "height": 0.03554876148700714
+        },
+        "text": "Auftakt",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750019531243,
+          "x": 0.8586956528726708,
+          "width": 0.09782608695652173,
+          "height": 0.03515625
+        },
+        "text": "30+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "Wenn du noch keine Punkte erhalten hast, fügt diese",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26562500006510414,
+          "x": 0.0706521837862315,
+          "width": 0.592391304347826,
+          "height": 0.02734375
+        },
+        "text": "Attacke 60 Schadenspunkte mehr zu.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750014648438,
+          "x": 0.07065217615489124,
+          "width": 0.17934782608695654,
+          "height": 0.01953125
+        },
+        "text": "Illustr. Hiloshi Aniga",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499980468757,
+          "x": 0.2826086946105072,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11208639587987446,
+          "x": 0.5581521731632503,
+          "width": 0.10150256364241894,
+          "height": 0.025804229080677032
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812500013020829,
+          "x": 0.44565218206521706,
+          "width": 0.48913043478260865,
+          "height": 0.0234375
+        },
+        "text": "Diese Ultrabestie scheint diese Welt für unrein",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.0585937502441406,
+          "x": 0.4402173911005435,
+          "width": 0.4945652173913043,
+          "height": 0.01953125
+        },
+        "text": "zu halten und zieht es daher vor, mit nichts und",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515624980468757,
+          "x": 0.5380434717391307,
+          "width": 0.3913043478260869,
+          "height": 0.01953125
+        },
+        "text": "niemandem in Berührung zu kommen.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-017",
+    "locale": "de",
+    "sourceSha256": "0b5ce3ec8e8832c3e58e547f7b8a723f821d069dd6c4a8c3031dbf1cf3b0e4a8",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9296875001953124,
+          "x": 0.04891304528985501,
+          "width": 0.10869565217391303,
+          "height": 0.01953125000000011
+        },
+        "text": "BASIS",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9123287180294382,
+          "x": 0.1517016125307293,
+          "width": 0.2944228545479153,
+          "height": 0.04643631353974342
+        },
+        "text": "Mortcha",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625002197266,
+          "x": 0.7445652182065218,
+          "width": 0.13043478260869568,
+          "height": 0.04296875
+        },
+        "text": "KP40",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.49999999980468757,
+          "x": 0.26086955724637706,
+          "width": 0.4782608695652174,
+          "height": 0.01953125
+        },
+        "text": "Nr. 1012 Matcha-Poleémon Größe: 0,1 m Gewiche: 1,1 kg",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.4335937498828125,
+          "x": 0.086956516576087,
+          "width": 0.5163043478260869,
+          "height": 0.02734375
+        },
+        "text": "Fähigkeit Gastlichkeit",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.39453125019531243,
+          "x": 0.07065218831521693,
+          "width": 0.8641304347826088,
+          "height": 0.02734375
+        },
+        "text": "Einmal während deines Zuges, wenn du dieses Pokémon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.35937500019531243,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.03125
+        },
+        "text": "aus deiner Hand auf deine Bank spielst, kannst du",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3281250001464844,
+          "x": 0.07065218471467367,
+          "width": 0.8641304347826086,
+          "height": 0.02734375
+        },
+        "text": "20 Schadenspunkte bei deinem Aktiven ©-Pokémon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2967085111830732,
+          "x": 0.07058313799693344,
+          "width": 0.10883372762928839,
+          "height": 0.02377047762274742
+        },
+        "text": "heilen.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984374980468757,
+          "x": 0.07065217585515642,
+          "width": 0.1684782401375149,
+          "height": 0.01171875
+        },
+        "text": "Nostr. Miki Tanaka",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.19043241583324766,
+          "x": 0.30410074987108965,
+          "width": 0.3211463223332944,
+          "height": 0.04491641744971275
+        },
+        "text": "Sprühwasser",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1992187504882812,
+          "x": 0.8695652174592392,
+          "width": 0.059782608695652106,
+          "height": 0.0390625
+        },
+        "text": "10",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11208639674879273,
+          "x": 0.5631393810342575,
+          "width": 0.0965153549028479,
+          "height": 0.025528494268655777
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07812500039062498,
+          "x": 0.43478260063405827,
+          "width": 0.4945652173913043,
+          "height": 0.0234375
+        },
+        "text": "Es sieht aus wie eine Regionalform von Fatalitee.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06249999980468757,
+          "x": 0.42391308948204787,
+          "width": 0.505434741144595,
+          "height": 0.01171875
+        },
+        "text": "doch vor Kurzem fand man heraus, dass zwischen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.03515625014648438,
+          "x": 0.44021739741847815,
+          "width": 0.4891304347826087,
+          "height": 0.01953125
+        },
+        "text": "den beiden Pokémon keine Verbindung besteht.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-185",
+    "locale": "de",
+    "sourceSha256": "f834a54d68f98a0ba5d2fa9134ccf9365e10531c22d68731ba55794a6ae840c2",
+    "lines": [
+      {
+        "box": {
+          "y": 0.906249999921875,
+          "x": 0.021739121956521886,
+          "width": 0.8478260869565217,
+          "height": 0.0546875
+        },
+        "text": "CHAse Mega-Galagladi CX K220",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8789062502604167,
+          "x": 0.6250000158008077,
+          "width": 0.3260869357896887,
+          "height": 0.0234375
+        },
+        "text": "Die Mege entwickeite Form",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8671875001953124,
+          "x": 0.6413043556359111,
+          "width": 0.1576086852861488,
+          "height": 0.01953125
+        },
+        "text": "von Galagladi",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.34765624967447917,
+          "x": 0.3043478288043478,
+          "width": 0.3804347826086956,
+          "height": 0.0390625
+        },
+        "text": "Resonanzklinge",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.35156250019531243,
+          "x": 0.8260869578260869,
+          "width": 0.13043478260869568,
+          "height": 0.03515625
+        },
+        "text": "100+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31249999993489586,
+          "x": 0.07065215951087003,
+          "width": 0.8641304347826088,
+          "height": 0.03515625
+        },
+        "text": "Wenn dureine Unterstützerkarte während dieses Zuges",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2773437504882812,
+          "x": 0.05978261399456502,
+          "width": 0.8695652173913044,
+          "height": 0.0390625
+        },
+        "text": "aus deiner Hand gespielt hast, fugt diese Attacke",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2500000001302083,
+          "x": 0.07065218152173887,
+          "width": 0.45652173913043476,
+          "height": 0.03125
+        },
+        "text": "50 Schadenspunkte mehr zu.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11718750006510414,
+          "x": 0.14130434963768113,
+          "width": 0.10869565217391303,
+          "height": 0.01953125
+        },
+        "text": "Schwäche",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531254,
+          "x": 0.28804347945652176,
+          "width": 0.11956521739130438,
+          "height": 0.02734375
+        },
+        "text": "®+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125014648438,
+          "x": 0.5652173924592391,
+          "width": 0.09239130434782616,
+          "height": 0.01953125
+        },
+        "text": "Ruckzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.36413043931159406,
+          "width": 0.2717391304347826,
+          "height": 0.0234375
+        },
+        "text": "Mega-Entwicklungs-eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078125019531243,
+          "x": 0.42934785139863246,
+          "width": 0.2989130227462105,
+          "height": 0.01171875
+        },
+        "text": "-kampfanthie marst",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078124980468757,
+          "x": 0.782608707628664,
+          "width": 0.1358695548513661,
+          "height": 0.01171875
+        },
+        "text": "einer 3 Punkte",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-186",
+    "locale": "de",
+    "sourceSha256": "b58ad42ecd9c3251d4fa109adb962b80ed7a4c03fce1b8595636926463a95bd7",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9101562496930804,
+          "x": 0.7119565205745342,
+          "width": 0.16304347826086962,
+          "height": 0.05078125
+        },
+        "text": "KP 150",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.39573294169638196,
+          "x": 0.2760090232953891,
+          "width": 0.3881197390349015,
+          "height": 0.046317826956510544
+        },
+        "text": "(Schattenkugel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.4023437504882812,
+          "x": 0.8586956520380433,
+          "width": 0.09782608695652184,
+          "height": 0.0390625
+        },
+        "text": "30-",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3632812500976563,
+          "x": 0.06521740217391278,
+          "width": 0.8695652173913042,
+          "height": 0.0390625
+        },
+        "text": "-Diese Attacke fugt auch i1 Pokémon auf der Bank deines",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3203124995703125,
+          "x": 0.06521739342391299,
+          "width": 0.516304347826087,
+          "height": 0.04296875
+        },
+        "text": "Gegners 20 Schadenspunkte zu.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2343750003417968,
+          "x": 0.07065217241847829,
+          "width": 0.13043478260869568,
+          "height": 0.02734375
+        },
+        "text": "Dieses",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2617187498697917,
+          "x": 0.30434782341485506,
+          "width": 0.3206521739130435,
+          "height": 0.0390625
+        },
+        "text": "Dynamitstoß",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.22265625,
+          "x": 0.2336956498641305,
+          "width": 0.18478260869565216,
+          "height": 0.0390625
+        },
+        "text": "Pokemon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.22985651371824978,
+          "x": 0.4509155154839643,
+          "width": 0.2122994091199792,
+          "height": 0.03247447311878204
+        },
+        "text": "fügt auch",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.19531250039062498,
+          "x": 0.06521739005434783,
+          "width": 0.375,
+          "height": 0.0390625
+        },
+        "text": "20 Schadenspunkçe zu.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2343749997558593,
+          "x": 0.6902173902173914,
+          "width": 0.08695652173913049,
+          "height": 0.02734375
+        },
+        "text": "sich",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26953125042317705,
+          "x": 0.8369565212862319,
+          "width": 0.09782608695652173,
+          "height": 0.05078125
+        },
+        "text": "100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.23046874980468757,
+          "x": 0.8097826076539856,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "selbst",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.12109375027034885,
+          "x": 0.1413043581721425,
+          "width": 0.10326085919919223,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "•+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375024414071,
+          "x": 0.07608695733695649,
+          "width": 0.06521739130434782,
+          "height": 0.02734375
+        },
+        "text": "* *",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531243,
+          "x": 0.5652173929347825,
+          "width": 0.09782608695652184,
+          "height": 0.01953125
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031249995930988,
+          "x": 0.36956521766304345,
+          "width": 0.13043478260869562,
+          "height": 0.01953125
+        },
+        "text": "eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624993489586,
+          "x": 0.5380434735507247,
+          "width": 0.28260869565217395,
+          "height": 0.01953125
+        },
+        "text": "Wenn dein Pokémon-ex",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500014648438,
+          "x": 0.3532608760190216,
+          "width": 0.5163043478260869,
+          "height": 0.01953125
+        },
+        "text": "kampfunfähig ist, erhält dein Gegner 2 Punkte.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-187",
+    "locale": "de",
+    "sourceSha256": "f0d5bc55e204b45fa1e733286f78b039f30190d5b6e8bb96004147102054994d",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9041300584406998,
+          "x": 0.02133910711478918,
+          "width": 0.8541828653086787,
+          "height": 0.05867358483374119
+        },
+        "text": "PHASEZ Mega-Metagross eX x230",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8867187501302083,
+          "x": 0.6413043529891302,
+          "width": 0.3097826086956521,
+          "height": 0.015625
+        },
+        "text": "Die Mess-entwickelte Form",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8671875001953124,
+          "x": 0.6467391384257661,
+          "width": 0.16847825050354004,
+          "height": 0.01953125
+        },
+        "text": "von Metagross",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32812500019531243,
+          "x": 0.28260870054347814,
+          "width": 0.391304347826087,
+          "height": 0.0390625
+        },
+        "text": "Repetierschlag",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593749980468757,
+          "x": 0.8315217378804347,
+          "width": 0.125,
+          "height": 0.03515625
+        },
+        "text": "100-",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.292968750390625,
+          "x": 0.06521738847826086,
+          "width": 0.8695652173913043,
+          "height": 0.0390625
+        },
+        "text": "Diese Attackelfüge für jede an dieses Pokémon angelegte",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26171875004882805,
+          "x": 0.0652173992527172,
+          "width": 0.6358695652173914,
+          "height": 0.03515625
+        },
+        "text": "9-Energie 10 Schadenspunkte mehr zu",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11718750014648438,
+          "x": 0.14130434918478257,
+          "width": 0.10869565217391303,
+          "height": 0.01953125
+        },
+        "text": "Schwäche",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500014204549,
+          "x": 0.28260869567687746,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "*+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468750016741075,
+          "x": 0.07065217445652175,
+          "width": 0.07608695652173914,
+          "height": 0.03125
+        },
+        "text": "**",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11181066062946865,
+          "x": 0.5631393846488519,
+          "width": 0.10150256364241883,
+          "height": 0.025804229080677032
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.3586956568840578,
+          "width": 0.28260869565217395,
+          "height": 0.0234375
+        },
+        "text": "Mega-Entwicklungs-eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078125019531243,
+          "x": 0.42934785139863246,
+          "width": 0.2989130227462105,
+          "height": 0.01171875
+        },
+        "text": "-kampfanthien artst",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125039062498,
+          "x": 0.6902173923007247,
+          "width": 0.125,
+          "height": 0.0234375
+        },
+        "text": "***",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250066097372,
+          "x": 0.7989130551830119,
+          "width": 0.13043477224267042,
+          "height": 0.011718749068677425
+        },
+        "text": "a-cr(wicklungs",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.050781250097656216,
+          "x": 0.7826087042319255,
+          "width": 0.1358695548513662,
+          "height": 0.01171875
+        },
+        "text": "einer 3 Punkte",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-188",
+    "locale": "de",
+    "sourceSha256": "1c5a87b169a68d21d85826e1e53589ae49eab1079e46156aadfdc0bcecf30444",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9062500000488282,
+          "x": 0.043478268682065,
+          "width": 0.625,
+          "height": 0.05078125
+        },
+        "text": "BASIS Mega-Rayquaza Ca",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9140625001302083,
+          "x": 0.7119565230978261,
+          "width": 0.1630434782608695,
+          "height": 0.046875
+        },
+        "text": "к 180",
+        "confidence": 0.5
+      },
+      {
+        "box": {
+          "y": 0.8828124997395833,
+          "x": 0.6413043426630437,
+          "width": 0.3097826086956522,
+          "height": 0.0234375
+        },
+        "text": "Die Megs-entwickeite Form",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8671875001953124,
+          "x": 0.6467391383351864,
+          "width": 0.16304346789484436,
+          "height": 0.01953125
+        },
+        "text": "von Rayquaza",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3437500001464844,
+          "x": 0.2989130485054346,
+          "width": 0.4021739130434782,
+          "height": 0.04296875
+        },
+        "text": "Mega-Explosion",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.35937499980468757,
+          "x": 0.8913043468297102,
+          "width": 0.05978260869565222,
+          "height": 0.02734375
+        },
+        "text": "0x",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.31250000053710936,
+          "x": 0.06521739857336946,
+          "width": 0.8641304347826086,
+          "height": 0.04296875
+        },
+        "text": "Lege alle m- und +-Energien von diesem Pokemon ab.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.27734375053710936,
+          "x": 0.06521739578804332,
+          "width": 0.8695652173913043,
+          "height": 0.04296875
+        },
+        "text": "und diese Attacke fige für jede auf diese Weise",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.24218750009765633,
+          "x": 0.06521739945652157,
+          "width": 0.6521739130434783,
+          "height": 0.0390625
+        },
+        "text": "abgelegte Energie 50 Schadenspunkte zu.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11718750014648438,
+          "x": 0.14130434918478257,
+          "width": 0.10869565217391303,
+          "height": 0.01953125
+        },
+        "text": "Schwäche",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11210937546648425,
+          "x": 0.5631393878587106,
+          "width": 0.09609973948934802,
+          "height": 0.025505514815449715
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250019531243,
+          "x": 0.36413043817934776,
+          "width": 0.2717391304347826,
+          "height": 0.0234375
+        },
+        "text": "Mega-Entwicklungs-eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05859375026041669,
+          "x": 0.07608695715579708,
+          "width": 0.03804347826086957,
+          "height": 0.0234375
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250066097372,
+          "x": 0.8043478375199685,
+          "width": 0.12499998963397485,
+          "height": 0.011718749068677425
+        },
+        "text": "Portwicklungs",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078124980468757,
+          "x": 0.7771739114330134,
+          "width": 0.1358695548513661,
+          "height": 0.01171875
+        },
+        "text": "correr 3 Punkte",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-189",
+    "locale": "de",
+    "sourceSha256": "835431347c603a53449491b0a3918f730aeb432aebaa3e2a85547abb07347c94",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9101562499609375,
+          "x": 0.03260868978260879,
+          "width": 0.5869565217391305,
+          "height": 0.04296875
+        },
+        "text": "PHASET Swaroness ex",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562496484374,
+          "x": 0.7119565201086956,
+          "width": 0.16304347826086962,
+          "height": 0.05078125
+        },
+        "text": "KP 150",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3273140046618481,
+          "x": 0.2932132537031074,
+          "width": 0.250530014867368,
+          "height": 0.04459074139595032
+        },
+        "text": "Jet-Flügel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3320312495117188,
+          "x": 0.8369565218070653,
+          "width": 0.09239130434782605,
+          "height": 0.0390625
+        },
+        "text": "140",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078125019531243,
+          "x": 0.07065218831521693,
+          "width": 0.8641304347826088,
+          "height": 0.02734375
+        },
+        "text": "Während deines nächsten Zuges kann dieses Pokemon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2612559838114401,
+          "x": 0.05419866629740865,
+          "width": 0.2557330960812776,
+          "height": 0.04389428533613682
+        },
+        "text": "Sicht angreifen.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937499976562504,
+          "x": 0.2826086944021739,
+          "width": 0.125,
+          "height": 0.03125
+        },
+        "text": "4+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11181066169972187,
+          "x": 0.5631393827302571,
+          "width": 0.10150256364241883,
+          "height": 0.025804229080677032
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07003787886133939,
+          "x": 0.3694707449888417,
+          "width": 0.1306237241496211,
+          "height": 0.02398674190044403
+        },
+        "text": "eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640624993489586,
+          "x": 0.5380434735507247,
+          "width": 0.28260869565217395,
+          "height": 0.01953125
+        },
+        "text": "Wenn dein Pokémon-eX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500014648438,
+          "x": 0.3532608760190216,
+          "width": 0.5163043478260869,
+          "height": 0.01953125
+        },
+        "text": "kampfunfähig ist, erhält dein Gegner 2 Punkte.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-190",
+    "locale": "de",
+    "sourceSha256": "fed42907301d267052c6c29ef306404f458bfa6500b286670e0ba953e04e0ef1",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9453124998046875,
+          "x": 0.04347825788043484,
+          "width": 0.2391304347826087,
+          "height": 0.0234375
+        },
+        "text": "Unterstützen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8745314257097865,
+          "x": 0.04328286257428051,
+          "width": 0.1797386252361795,
+          "height": 0.03999964892864227
+        },
+        "text": "Seher",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9375000002929688,
+          "x": 0.6413043453804347,
+          "width": 0.3152173913043479,
+          "height": 0.03515625
+        },
+        "text": "TRAINER",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3984375005208334,
+          "x": 0.11413042717391327,
+          "width": 0.7717391304347825,
+          "height": 0.031249999068677425
+        },
+        "text": "Du kannst diese Karte nur einsetzen, wenn dein",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.359375000390625,
+          "x": 0.10869564875000007,
+          "width": 0.7771739130434783,
+          "height": 0.0390625
+        },
+        "text": "Pokémon in der Aktiven Position die Attacke",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32031250016276047,
+          "x": 0.10869565461956515,
+          "width": 0.2934782608695652,
+          "height": 0.03515625
+        },
+        "text": "Psychokinese hat.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.24609374992187494,
+          "x": 0.10869564440217408,
+          "width": 0.7771739130434783,
+          "height": 0.0390625
+        },
+        "text": "Wahle 1 Pokémon auf der Bank deines Gegnens",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.21484374976562504,
+          "x": 0.11413042701086973,
+          "width": 0.7771739130434783,
+          "height": 0.03125
+        },
+        "text": "und verschiebe 1 zufällige Energie von diesem auf",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.17968750009765622,
+          "x": 0.11413044232336937,
+          "width": 0.6032608695652174,
+          "height": 0.03125
+        },
+        "text": "das Aktive Pokémon deines Gegners.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08984375059586958,
+          "x": 0.13043478655889756,
+          "width": 0.08152173394742218,
+          "height": 0.015624999068677425
+        },
+        "text": "GIDIORA",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08203124960937502,
+          "x": 0.33695652635869544,
+          "width": 0.4184782608695652,
+          "height": 0.0234375
+        },
+        "text": "Du kannst während deines Zuges nur",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.058593749902343784,
+          "x": 0.33695651779891317,
+          "width": 0.31521739130434784,
+          "height": 0.0234375
+        },
+        "text": "1 Unterstützerkarte spielen.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-191",
+    "locale": "de",
+    "sourceSha256": "1e96e98fd38a5b7e40a94f0d06d856d1a6c8455a368d8b0508d0671303a84488",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9453124998046875,
+          "x": 0.04347825788043484,
+          "width": 0.2391304347826087,
+          "height": 0.0234375
+        },
+        "text": "Unterstützen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8647031257586657,
+          "x": 0.04270592845567219,
+          "width": 0.27871857518735144,
+          "height": 0.05184374749660492
+        },
+        "text": "Lysander",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9375000001953125,
+          "x": 0.6413043509782609,
+          "width": 0.3152173913043479,
+          "height": 0.03515625
+        },
+        "text": "TRAINER",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3281250001302083,
+          "x": 0.1195652301630431,
+          "width": 0.7663043478260869,
+          "height": 0.0234375
+        },
+        "text": "Während dieses Zuges wird 1 Pokemon des",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28515625019531243,
+          "x": 0.11956522697010842,
+          "width": 0.7663043478260869,
+          "height": 0.03125
+        },
+        "text": "Gegners, 1 Mal mehr ausgewählt, wenn deine",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.24999999980468757,
+          "x": 0.10869564445652187,
+          "width": 0.7717391304347825,
+          "height": 0.03515625
+        },
+        "text": "Pokémon die Attacke Draco Meteor einsetzen.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468749980468757,
+          "x": 0.06521739082880436,
+          "width": 0.03804347826086957,
+          "height": 0.03125
+        },
+        "text": "*",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08203124960937502,
+          "x": 0.33695652635869544,
+          "width": 0.4184782608695652,
+          "height": 0.0234375
+        },
+        "text": "Du kannst während deines Zuges nur",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.058593749902343784,
+          "x": 0.33695651779891317,
+          "width": 0.31521739130434784,
+          "height": 0.0234375
+        },
+        "text": "1 Unterstützerkarte spielen.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-192",
+    "locale": "de",
+    "sourceSha256": "70342da7205bc46b0e1356cd25ebe7ea85afcec752db27c4839e979afd645d0c",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9453125001302083,
+          "x": 0.04347826494565203,
+          "width": 0.24456521739130432,
+          "height": 0.0234375
+        },
+        "text": "Unterstützer",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8731122818830855,
+          "x": 0.0484406868462058,
+          "width": 0.28898819633152173,
+          "height": 0.04283793643116951
+        },
+        "text": "Géraldine",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9375000002929688,
+          "x": 0.6413043453804347,
+          "width": 0.3152173913043479,
+          "height": 0.03515625
+        },
+        "text": "TRAINER",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.36718750305989567,
+          "x": 0.032608684923829914,
+          "width": 0.03260871638422427,
+          "height": 0.18359375
+        },
+        "text": "Дили тішиша",
+        "confidence": 0.30000001192092896
+      },
+      {
+        "box": {
+          "y": 0.3046874998535156,
+          "x": 0.1141304251358698,
+          "width": 0.7717391304347826,
+          "height": 0.03515625
+        },
+        "text": "Tausche dein Aktives Phase-1-Pokémon gegen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.27343750006510414,
+          "x": 0.11956522599637656,
+          "width": 0.516304347826087,
+          "height": 0.02734375
+        },
+        "text": "1 Pokémon auf deiner Bank aus.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750009765622,
+          "x": 0.2065217404211956,
+          "width": 0.1032608695652174,
+          "height": 0.0234375
+        },
+        "text": "Gicitopo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593749980468757,
+          "x": 0.336956514764493,
+          "width": 0.41847826086956524,
+          "height": 0.01953125
+        },
+        "text": "Du kannst während deines Zuges nur",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.058593749902343784,
+          "x": 0.33695651779891317,
+          "width": 0.31521739130434784,
+          "height": 0.0234375
+        },
+        "text": "1 Unterstützerkarte spielen.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-193",
+    "locale": "de",
+    "sourceSha256": "7293ed69792f25db1be1dac4a707eb3bf6bbb7acd0b2f4b61956d2f90d0524bd",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9453125001302083,
+          "x": 0.04347826494565203,
+          "width": 0.24456521739130432,
+          "height": 0.0234375
+        },
+        "text": "Unterstützer",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8739787900089035,
+          "x": 0.04849276485068464,
+          "width": 0.18018838633661688,
+          "height": 0.04110492020845413
+        },
+        "text": "Heiko",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9375000003515624,
+          "x": 0.6413043448913045,
+          "width": 0.3152173913043478,
+          "height": 0.03515625
+        },
+        "text": "TRAINER",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812495117188,
+          "x": 0.10869565645380427,
+          "width": 0.7771739130434782,
+          "height": 0.0390625
+        },
+        "text": "Lege 1 *-Energie aus deinem Energiebereich an 1",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2734375001464844,
+          "x": 0.11413044055706509,
+          "width": 0.4619565217391304,
+          "height": 0.02734375
+        },
+        "text": "deiner Phase 2 Pokemon an",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.05978261105072456,
+          "width": 0.14130434782608697,
+          "height": 0.01953125
+        },
+        "text": "Suste Feeziro",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468749983258925,
+          "x": 0.0652173907220497,
+          "width": 0.08152173913043477,
+          "height": 0.03125
+        },
+        "text": "*X",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08203124960937502,
+          "x": 0.33695652635869544,
+          "width": 0.4184782608695652,
+          "height": 0.0234375
+        },
+        "text": "Du kannst während deines Zuges nur",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.058593749902343784,
+          "x": 0.33695651779891317,
+          "width": 0.31521739130434784,
+          "height": 0.0234375
+        },
+        "text": "1 Unterstützerkarte spielen.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-194",
+    "locale": "de",
+    "sourceSha256": "a75632cbe2a154a42794387a5da3e48bc01e8868d93b101cb373fde0485a3b00",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140625004687499,
+          "x": 0.032608700054347725,
+          "width": 0.5923913043478262,
+          "height": 0.04687500000000011
+        },
+        "text": "PHASE! Honweisel EX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562501953124,
+          "x": 0.7065217408152173,
+          "width": 0.1684782608695652,
+          "height": 0.05078125
+        },
+        "text": "KP 140",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3466415780349248,
+          "x": 0.30948970883879606,
+          "width": 0.2560205874235733,
+          "height": 0.04109184443950653
+        },
+        "text": "Jagdbefehl",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.35546875019531243,
+          "x": 0.8586956529438404,
+          "width": 0.09239130434782616,
+          "height": 0.03125
+        },
+        "text": "7/0+",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3203125001302083,
+          "x": 0.07608695733695649,
+          "width": 0.04891304347826088,
+          "height": 0.0234375
+        },
+        "text": "Du",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.32031249980468757,
+          "x": 0.12499998650362365,
+          "width": 0.8097826086956522,
+          "height": 0.02734375
+        },
+        "text": "kannst 1 Basis-o-Pokemon von deiner Bank auf",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.28124999980468757,
+          "x": 0.06521738050271762,
+          "width": 0.8641304347826086,
+          "height": 0.03125
+        },
+        "text": "deinen Ablagestapel legen. Wenn du das machst, fügt",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2539062501302083,
+          "x": 0.07065220596755718,
+          "width": 0.6793477846228557,
+          "height": 0.0234375
+        },
+        "text": "diese Attacke 70 Schadenspunkte mehr zu!",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531254,
+          "x": 0.28804347945652176,
+          "width": 0.11956521739130438,
+          "height": 0.02734375
+        },
+        "text": "# +20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05468749980468757,
+          "x": 0.07065217327898551,
+          "width": 0.07608695652173914,
+          "height": 0.03125
+        },
+        "text": "**",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11718750066097372,
+          "x": 0.5597826184982295,
+          "width": 0.0923912939818009,
+          "height": 0.011718749068677425
+        },
+        "text": "RUCKZU?",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250039062498,
+          "x": 0.36956521557971017,
+          "width": 0.13043478260869562,
+          "height": 0.0234375
+        },
+        "text": "eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625019531243,
+          "x": 0.5380434829710145,
+          "width": 0.28260869565217384,
+          "height": 0.01953125
+        },
+        "text": "Wenn dein Pokémon-eX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500014648438,
+          "x": 0.3532608760190216,
+          "width": 0.5163043478260869,
+          "height": 0.01953125
+        },
+        "text": "kampfunfähig ist, erhält dein Gegner 2 Punkte.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-195",
+    "locale": "de",
+    "sourceSha256": "329ad09427a0a6d73f5f87ff94fb30b5b0b56b40fdd26df85f87462096db75f6",
+    "lines": [
+      {
+        "box": {
+          "y": 0.906250000234375,
+          "x": 0.021739135760869464,
+          "width": 0.5326086956521738,
+          "height": 0.046875
+        },
+        "text": "PHASEZ Tornupto e",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562496419271,
+          "x": 0.7119565203351449,
+          "width": 0.1684782608695653,
+          "height": 0.05078125
+        },
+        "text": "кР 180",
+        "confidence": 0.30000001192092896
+      },
+      {
+        "box": {
+          "y": 0.3515625002441406,
+          "x": 0.30434783396739107,
+          "width": 0.6304347826086957,
+          "height": 0.03515625
+        },
+        "text": "Verzehrendes Inferno 110",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30468749946289064,
+          "x": 0.05978261895380414,
+          "width": 0.875,
+          "height": 0.04296875
+        },
+        "text": "Wirf solange 1 Münze bis sie Zahl zeigt. Lege pro Kopf",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2734375003125,
+          "x": 0.054347834891304146,
+          "width": 0.8804347826086958,
+          "height": 0.0390625
+        },
+        "text": "1 zufallige Energie vern Aktiven Pokemon deines",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.24968796521289316,
+          "x": 0.07057095945836289,
+          "width": 0.20124939213628357,
+          "height": 0.027967819944024086
+        },
+        "text": "Gegners ab.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531254,
+          "x": 0.28804347945652176,
+          "width": 0.11956521739130438,
+          "height": 0.02734375
+        },
+        "text": "* +20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125014648438,
+          "x": 0.5652173924592391,
+          "width": 0.09239130434782616,
+          "height": 0.01953125
+        },
+        "text": "Ruckzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250029296876,
+          "x": 0.3641304333559783,
+          "width": 0.1358695652173913,
+          "height": 0.0234375
+        },
+        "text": "eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625019531243,
+          "x": 0.5380434829710145,
+          "width": 0.28260869565217384,
+          "height": 0.01953125
+        },
+        "text": "Wenn dein Pokémon-eX",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687499980468757,
+          "x": 0.3532608609601452,
+          "width": 0.5163043478260869,
+          "height": 0.01953125
+        },
+        "text": "kampfunfähig ist, erhält dein Gegner 2 Punkte.",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-196",
+    "locale": "de",
+    "sourceSha256": "ac6f41147b153f0244fa08281e1544e2cf9707dac1ed0d28d0254908f69a30b3",
+    "lines": [
+      {
+        "box": {
+          "y": 0.8990707196531031,
+          "x": 0.03153449945164742,
+          "width": 0.573136744291886,
+          "height": 0.06654927879571915
+        },
+        "text": "PHASET Mega-Tohaido",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.9101562505078125,
+          "x": 0.7119565218478262,
+          "width": 0.1630434782608695,
+          "height": 0.05078125
+        },
+        "text": "KP 190",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8828125001953124,
+          "x": 0.6467391355978258,
+          "width": 0.3097826086956522,
+          "height": 0.01953125
+        },
+        "text": "Die Mess-entwickelte Form",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.8671874996744792,
+          "x": 0.6467391325181159,
+          "width": 0.1467391304347826,
+          "height": 0.01953125
+        },
+        "text": "von Tohaido",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33496456764191174,
+          "x": 0.30409774409644386,
+          "width": 0.22876103028007178,
+          "height": 0.0331958644092083
+        },
+        "text": "Turbohai",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3359374997558594,
+          "x": 0.8532608686141304,
+          "width": 0.07608695652173914,
+          "height": 0.03515625
+        },
+        "text": "70",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.296874999609375,
+          "x": 0.07065217438858695,
+          "width": 0.08152173913043478,
+          "height": 0.03125
+        },
+        "text": "Lege",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078125019531243,
+          "x": 0.16847826576086944,
+          "width": 0.2934782608695652,
+          "height": 0.02734375
+        },
+        "text": "1 4-Energie aus",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3045765563322059,
+          "x": 0.46735716110615416,
+          "width": 0.1468074218086574,
+          "height": 0.023659387603402138
+        },
+        "text": "deinem",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30078125019531243,
+          "x": 0.6086956679747206,
+          "width": 0.32608693578968884,
+          "height": 0.02734375
+        },
+        "text": "Energiebereich an",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26953125004882805,
+          "x": 0.0706521806385868,
+          "width": 0.5380434782608696,
+          "height": 0.02734375
+        },
+        "text": "1 4-Pokémon auf deiner Bank an.",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593750019531243,
+          "x": 0.059782616596055986,
+          "width": 0.1630434678948444,
+          "height": 0.01953125
+        },
+        "text": "Mosks Nonkate",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "4+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11210937546648425,
+          "x": 0.5631393878587106,
+          "width": 0.09609973948934802,
+          "height": 0.025505514815449715
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250013020829,
+          "x": 0.3641304394021737,
+          "width": 0.27717391304347827,
+          "height": 0.0234375
+        },
+        "text": "Mega-Entwicklungs-eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500032552083,
+          "x": 0.3858695673007245,
+          "width": 0.2880434782608696,
+          "height": 0.01953125
+        },
+        "text": "émoe-eX kampfunfahig 32",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031250066097372,
+          "x": 0.8097826198569251,
+          "width": 0.11956520702527917,
+          "height": 0.011718749068677425
+        },
+        "text": "•ortwicklungs",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.05078124980468757,
+          "x": 0.7989130546395338,
+          "width": 0.11956520702527917,
+          "height": 0.01171875
+        },
+        "text": "mer 3 Punkte",
+        "confidence": 1
+      }
+    ]
+  },
+  {
+    "id": "B4-197",
+    "locale": "de",
+    "sourceSha256": "bfbecf64313de47d84c647e212995913b7d48e8d2bb63c7cd89203dda07aaadb",
+    "lines": [
+      {
+        "box": {
+          "y": 0.9140624998828125,
+          "x": 0.03260869163043484,
+          "width": 0.40217391304347827,
+          "height": 0.04296875
+        },
+        "text": "PHASET Wailord",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.910156250234375,
+          "x": 0.7010869582608695,
+          "width": 0.17391304347826086,
+          "height": 0.046875
+        },
+        "text": "KR250",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30468750019531243,
+          "x": 0.23913043686594193,
+          "width": 0.125,
+          "height": 0.01953125
+        },
+        "text": "kemon",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3077621471459455,
+          "x": 0.2986684719700182,
+          "width": 0.38092393460481055,
+          "height": 0.0602569542825222
+        },
+        "text": "Wunderwellen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.3007812501464844,
+          "x": 0.40217391589673906,
+          "width": 0.22826086956521735,
+          "height": 0.03515625
+        },
+        "text": "rholt sich vo",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.33593750019531243,
+          "x": 0.847826087826087,
+          "width": 0.08695652173913038,
+          "height": 0.03515625
+        },
+        "text": "100",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.2968750001171876,
+          "x": 0.6847826111956522,
+          "width": 0.25,
+          "height": 0.03515625
+        },
+        "text": "Ilen Speziellen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.30468750008877843,
+          "x": 0.1032608693922925,
+          "width": 0.08152173913043477,
+          "height": 0.01953125
+        },
+        "text": "leses",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.26894134294307115,
+          "x": 0.07049718320913012,
+          "width": 0.16878824648649796,
+          "height": 0.024617314338684082
+        },
+        "text": "Zuständen",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.1210937505633175,
+          "x": 0.14130435040760858,
+          "width": 0.10326086956521738,
+          "height": 0.011718749068677425
+        },
+        "text": "Schwache",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.08593749967447917,
+          "x": 0.06521739329710138,
+          "width": 0.15217391304347827,
+          "height": 0.01953125
+        },
+        "text": "Weste USGMEN",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.10937500019531243,
+          "x": 0.2826086966938406,
+          "width": 0.12499999999999994,
+          "height": 0.03125
+        },
+        "text": "4+20",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125039062498,
+          "x": 0.5597826072463769,
+          "width": 0.09782608695652173,
+          "height": 0.0234375
+        },
+        "text": "Rückzug",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.11328125019531243,
+          "x": 0.7771739169936801,
+          "width": 0.08152173394742213,
+          "height": 0.01953125
+        },
+        "text": "**",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.07031249980468757,
+          "x": 0.3695652157608696,
+          "width": 0.13043478260869562,
+          "height": 0.0234375
+        },
+        "text": "eX-Regel",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.06640625019531243,
+          "x": 0.5380434829710145,
+          "width": 0.28260869565217384,
+          "height": 0.01953125
+        },
+        "text": "Wenn dein Pokémon-ex",
+        "confidence": 1
+      },
+      {
+        "box": {
+          "y": 0.04687500014648438,
+          "x": 0.3532608760190216,
+          "width": 0.5163043478260869,
+          "height": 0.01953125
+        },
+        "text": "kampfunfähig ist, erhält dein Gegner 2 Punkte.",
+        "confidence": 1
+      }
+    ]
+  }
+]

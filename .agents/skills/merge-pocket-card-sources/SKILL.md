@@ -1,6 +1,6 @@
 ---
 name: merge-pocket-card-sources
-description: Build auditable Pokémon TCG Pocket card metadata by merging PokeOS, RaenonX, and other pinned upstreams, localized card images, PaddleOCR review, multi-source cross-validation, and per-conflict evidence. Use when no single source covers a set, when sources disagree, or before feeding a composite details file into sync-pocket-set.
+description: Build auditable Pokémon TCG Pocket card metadata by merging PokeOS, RaenonX, and other pinned upstreams, localized card images, OCR review, multi-source cross-validation, and per-conflict evidence. Use when no single source covers a set, when sources disagree, or before feeding a composite details file into sync-pocket-set.
 ---
 
 # Merge Pocket Card Sources
@@ -59,11 +59,30 @@ RaenonX 表单名只允许经过通用的缺失分隔符规范化；不得按卡
 6. 在任何 metadata/R2 写入前，再运行一次相同命令；输入 hash 或审计结果变化时停止复核。
 7. R2 公网验证通过后，用 `sync-downstream-locales.mjs` 把已审定的七语卡名、实际存在的图片语言和逐卡 gacha rarity 一起写入下游；先 dry-run，再加 `--write`，并逐 locale 检查数量、连续性以及下游 rarity 全卡覆盖测试。脚本写入固定的 `cardRarity.additions.json`，不得再为新 set 新建需要手工接线的 rarity shard。Promo set 也必须按每张卡的真实 rarity 映射，只有源 rarity 为 `None/Promo` 的卡才是 `pr`。
 
-8. 图片与 metadata 的图文一致性必须通过 `$paddleocr-text-recognition`：抽取几个代表性
-   localized card cases，覆盖卡号/卡名、招式/特性名和可读规则文本的大致对应；不要求对全量
-   卡图逐张 OCR。PaddleOCR API 失败就停止，不得换用其他 OCR 或本地视觉。原始 JSON 用
- `persist-ocr-evidence.mjs` 固化；低置信度、unresolved、ambiguous 或 OCR/metadata
-   mismatch 只要记录到 review，不能拿 OCR 噪声静默改写 metadata。
+8. 图片与 metadata 的图文一致性优先通过 `$paddleocr-text-recognition`。若用户明确批准本机
+   OCR 方案，可在 macOS 使用 Apple Vision accurate recognition 作为主识别器、Tesseract
+   `deu+eng` / `ita+eng` 作为独立复核器。先抽取十张代表性 localized card cases，覆盖
+   Pokémon、Trainer、能力、招式和长规则文本；通过后可以全量生成 OCR evidence。
+   两个 OCR 的近似一致只代表候选可读性，不等于 metadata 已核准：能量图标、伤害数字、
+   换行顺序、全图卡文字区域和相邻能力/招式文本都可能同时被误识别。原始 JSON 要固化；
+   低置信度、unresolved、ambiguous、图文 mismatch 或没有独立结构化来源的字段只能进入
+   review，不能自动写入生产 metadata。
+
+   本机替代路径应尽可能再用已配置的 PaddleOCR Text Recognition API 做第三路 pilot；必须
+   通过 Skill 自带的 `ocr_caller.py` 调用，持久化前删除 provider image URL、签名 query、
+   token 和本机临时路径，只保留识别文本、置信度/布局块、坐标、错误和源图 SHA-256。
+   PaddleOCR 在受限沙箱内出现 DNS 错误时，应使用同一个 smoke test 在获准联网的执行环境
+   复核，不能把沙箱网络限制误判为模型、Token 或服务故障。
+
+9. 联网交叉验证要把“发现工具”和“证据来源”分开记录。可组合使用 Native Search、
+   AnySearch batch search、Exa search/fetch 与 Firecrawl search/scrape，但搜索摘要本身不是
+   metadata 来源；必须落到可定位的官方页面、独立数据库、固定 Git commit 或卡图原文。
+   对每个来源记录其真实字段覆盖，不能因为页面有多语言 UI 或本地化卡图入口，就宣称它
+   提供本地化招式、能力或描述。目标产品自身及其镜像、缓存、搜索摘要一律不得反向作为
+   上游证据；`pokemontcgpocket.app` 必须从搜索结果、抓取输入和 provenance 中排除。
+   官方 Pokédex 可用于核验与卡面相同的 flavor/description，但不能用于推导 Pocket 专属
+   招式、能力或 Trainer 效果；同一宝可梦存在多个版本描述时，必须先由英文卡文精确匹配
+   版本，再采用对应语言，禁止仅按宝可梦名称取最新一条。
 
 B4 的稳定字段交叉审计示例：
 
@@ -144,7 +163,7 @@ node scripts/sync-localized-card-images.mjs <audit|download|prepare|preflight|up
 `upload`/`apply` 仍必须显式加 `--write`；`apply` 只能在全量 R2 公网字节 SHA-256 验证成功后执行。
 
 `persist-ocr-evidence.mjs` 只接受位于 `--ocr-dir` 内、且确实被抽检 review 引用的
-PaddleOCR JSON；它把这些原始结果复制到持久目录并将 evidence 改写为仓库相对路径。
+OCR JSON；它把这些原始结果复制到持久目录并将 evidence 改写为仓库相对路径。
 复制时必须删除签名 URL 的 query capability。持久化输出中不得残留 `/tmp`、
 `/private/tmp`、本机用户目录、authorization、token、cookie 或 credential。
 
@@ -170,10 +189,14 @@ JSON，确认没有重复 key。
 - 任一必填字段缺失、任一冲突未裁决或 ID 不连续时，输出审计但以非零退出，禁止生产写入。
 - RaenonX 的 source-exact 模板若出现未绑定 token、动态 token 数变化无法按 ID/ref 对齐、
   或 English oracle 与现有 canonical 语义无法对齐，必须停止；不得直接 strip 标签或回退英文。
-- OCR 只用于图文一致性证据，不能绕过多源冲突裁决；image identity/number/name mismatch
+- OCR 只用于图文一致性证据或人工 review 候选，不能绕过多源冲突裁决；即使 Apple Vision
+  与 Tesseract 文本相近，也不能把 cross-engine agreement 标记为 verified；image identity/number/name mismatch
   必须阻断 metadata/R2 写入。
 - canonical adapter 若根据数组位置生成卡号，必须先断言每一项 ID 都等于预期的 `<set>-NNN` 且无重复；只有数量相等不够。
 
 ## 联动约束
 
-随后遵循 `$sync-pocket-set` 完成 metadata、翻译、WebP、R2 和验证。需要卡面识别时严格遵循 `$paddleocr-text-recognition`；它失败就停止，不换 OCR。需要六语补全时严格遵循 `$add-pocket-translations`，只写有官方依据或已审定的映射。
+随后遵循 `$sync-pocket-set` 完成 metadata、翻译、WebP、R2 和验证。需要卡面识别时优先遵循
+`$paddleocr-text-recognition`；只有用户明确批准时才使用上述 Apple Vision + Tesseract
+替代路径，并保持同样的 fail-closed 门禁。需要六语补全时严格遵循
+`$add-pocket-translations`，只写有官方依据或已审定的映射。

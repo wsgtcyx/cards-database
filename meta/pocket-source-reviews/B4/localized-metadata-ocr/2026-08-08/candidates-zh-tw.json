@@ -1,0 +1,1923 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "generatedAt": "2026-08-08T13:16:39.106Z",
+  "summary": {
+    "total": 101,
+    "withCandidate": 90,
+    "threeEngineCandidates": 0,
+    "dualEngineCandidates": 0,
+    "crossEngineCandidates": 0,
+    "corpusSupportedCandidates": 0,
+    "needsReview": 101,
+    "approved": 0,
+    "publicationReady": false,
+    "byField": {
+      "description": {
+        "total": 101,
+        "withCandidate": 90,
+        "threeEngineCandidates": 0,
+        "dualEngineCandidates": 0,
+        "crossEngineCandidates": 0,
+        "corpusSupportedCandidates": 0
+      }
+    }
+  },
+  "candidates": [
+    {
+      "id": "B4-233",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+      "candidate": "族瓶扜台铝裂的育可烤 国天飘社鸡的交一路",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "换稿件更渴望的真正可能， 而全量補助微壓發出， 與望天氣比較為之一變。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-233",
+        "paddleocr": "paddleocr-zh-tw.json#B4-233",
+        "sourceSha256": "47b12d8b427b7bb2f48947fa0f33875f3a08812478ef26af04e2e369f9afbd0c"
+      }
+    },
+    {
+      "id": "B4-222",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.",
+      "candidate": "每堡圖圖犬從尾巴尖滏 分泌出的神秘液體， 都有自己困定的顾色。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "每隻圓圓犬從尾巴尖端分邊出的神秘液體，都有自己固定的顏色。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-222",
+        "paddleocr": "paddleocr-zh-tw.json#B4-222",
+        "sourceSha256": "0218ce3107f2f61d8c6321435eddb51fe5bcebd261670c49d540e2922ace5e4a"
+      }
+    },
+    {
+      "id": "B4-218",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
+      "candidate": "額頭上的垒幣蚳黑舣䖦硬 也蘸能愛刭夥伴的蕁敕 性情勇猛，什麼都不怕。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.5,
+      "paddleCandidate": "頹頭上的金紫翅黑就越硬· 也越能受到夥伴的尊敬· 性情勇猛·什麼都不怕。",
+      "candidateAgreement": 0.5,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-218",
+        "paddleocr": "paddleocr-zh-tw.json#B4-218",
+        "sourceSha256": "238275d2bfa20259f93cef0089c6e6336ab6e4f1c38d91e799f119da7b7a320f"
+      }
+    },
+    {
+      "id": "B4-215",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation.",
+      "candidate": "被務為頭頭的B長 會用可伸繽的角 做出覺換陣形的指令。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "被稱為頭頭的陳長 會用可伸縮的角 縱出雙換陣形的指令",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-215",
+        "paddleocr": "paddleocr-zh-tw.json#B4-215",
+        "sourceSha256": "32403fd77244605b29d14166c3317e603031764617909b29f3fe9635d46009aa"
+      }
+    },
+    {
+      "id": "B4-212",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+      "candidate": "菜位稀學冢的研究 遠就了趨夢的躁生， 抢的力量專為戰門而存在。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "某位科學家的研究 成就了超夢的誕生 抱的力量事為戰鬥而存在",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-212",
+        "paddleocr": "paddleocr-zh-tw.json#B4-212",
+        "sourceSha256": "21772f7b114f972cdea60e703c93617e7f632e1e79b241fa231cff11a5581646"
+      }
+    },
+    {
+      "id": "B4-210",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+      "candidate": "討廠磁到水，一旦下起雨 就會到履簷下染用- 會用火花彩速幫夥伴加油。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.25,
+      "paddleCandidate": "討厭碰到水，一旦下起雨 就會到屋檐下避雨 會用火花彩球氣夥伴加油",
+      "candidateAgreement": 0.25,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-210",
+        "paddleocr": "paddleocr-zh-tw.json#B4-210",
+        "sourceSha256": "3a72824d95fbb4adc975d29f279bccd34b63c9d9e0f6ce5883aeee785efdaba5"
+      }
+    },
+    {
+      "id": "B4-207",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+      "candidate": "雙費埾硬姐岩石 只婴继一下就能禁倒對手 會在美醒的沙灘篥果",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "雙臂坚硬如岩石 只要緣一下就能學到對手 會在美麗的沙灘藥巢",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-207",
+        "paddleocr": "paddleocr-zh-tw.json#B4-207",
+        "sourceSha256": "e985d981d1fc6207405166a2e7123887fd2afb27e8088ec4898087409426284a"
+      }
+    },
+    {
+      "id": "B4-206",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.",
+      "candidate": "在泥澪的地上更能發擇 袁本事，會把無法動弹的 於手一口氣運入絕頃。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "在泥淖的地上更能發揮 真本事·會把無法動揮的 對手一口氣通入絕境",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-206",
+        "paddleocr": "paddleocr-zh-tw.json#B4-206",
+        "sourceSha256": "b4dcaa014ef9172ec7a9673f46c6200abc29c5533be3b00ca78c2dc2e9f14127"
+      }
+    },
+    {
+      "id": "B4-179",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "中国银行股份有限公司 中国银行股份有限公司 中国银行股份有限公司",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-179",
+        "paddleocr": "paddleocr-zh-tw.json#B4-179",
+        "sourceSha256": "9aadc72a6c1f737c29b50b0bdbd5276c4f657933539dfbc889a22f530a4ad60f"
+      }
+    },
+    {
+      "id": "B4-177",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+      "candidate": "心頭我驗，我儿活",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "富以电话12公里的 人种用验·出是者人种的 水器粉连机",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-177",
+        "paddleocr": "paddleocr-zh-tw.json#B4-177",
+        "sourceSha256": "3796b2b2660a7a0aa6ab2facf36871af7cce55b3b0826c9d47673665ba665b4c"
+      }
+    },
+    {
+      "id": "B4-176",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "北京银行金融中心·管龙街店 北京银行股份有限公司 北京大金街股份有限公司",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-176",
+        "paddleocr": "paddleocr-zh-tw.json#B4-176",
+        "sourceSha256": "b46d86d049a7916940c43f951d6f6feae1836497cd3f7a2921a3f021d8c39d9a"
+      }
+    },
+    {
+      "id": "B4-175",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-175",
+        "paddleocr": "paddleocr-zh-tw.json#B4-175",
+        "sourceSha256": "8af7e94cdbd1fa1abb3ae351271b1b2615c855948bd95f0409cac031c70f903d"
+      }
+    },
+    {
+      "id": "B4-174",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-174",
+        "paddleocr": "paddleocr-zh-tw.json#B4-174",
+        "sourceSha256": "0a2fc308a2eaf131ec0c58f486ba30f260a2302867dafa568bc659a1745ea6e9"
+      }
+    },
+    {
+      "id": "B4-172",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-172",
+        "paddleocr": "paddleocr-zh-tw.json#B4-172",
+        "sourceSha256": "aede4423d6515b06e6cc5270566972061a440cb5c78a743148582a5739ac211e"
+      }
+    },
+    {
+      "id": "B4-171",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees.",
+      "candidate": "巨力歧激因盡到反单而！法",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "高氏群述集精·非在 新指書所始不致命一 已有時當因違刻反舉而處法",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-171",
+        "paddleocr": "paddleocr-zh-tw.json#B4-171",
+        "sourceSha256": "e79833a78a1768dfda2b5d8ec0f873c72d225189fd5695df0faa54a3991be005"
+      }
+    },
+    {
+      "id": "B4-169",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "世界格的每回量都全被 相當愛製大手印印 已在有新印版处见",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-169",
+        "paddleocr": "paddleocr-zh-tw.json#B4-169",
+        "sourceSha256": "11ef6e51a3acddc70084d37357fec1c2ebf652bd56fb9bb72d346f7d5cd85d8a"
+      }
+    },
+    {
+      "id": "B4-167",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+      "candidate": "的然情一一旦。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "能敬地感知人和真可参 的然情·一旦受到",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-167",
+        "paddleocr": "paddleocr-zh-tw.json#B4-167",
+        "sourceSha256": "b0a2f5bfe5906af8134ed8e28aaceae8d010cd6c41ea723bd2eb2a98dd7cfcbc"
+      }
+    },
+    {
+      "id": "B4-165",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+      "candidate": "风轮的4試。5",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-165",
+        "paddleocr": "paddleocr-zh-tw.json#B4-165",
+        "sourceSha256": "60981da63911cff6e04e8709132aa619c5909ecbfda83ee512aead06a2a373b1"
+      }
+    },
+    {
+      "id": "B4-163",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-163",
+        "paddleocr": "paddleocr-zh-tw.json#B4-163",
+        "sourceSha256": "280af83aaf7c2bc9d4d60a8bec84a189d9ffd5c40d8fc160c9793b31a126832e"
+      }
+    },
+    {
+      "id": "B4-162",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "当家做主用好干",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-162",
+        "paddleocr": "paddleocr-zh-tw.json#B4-162",
+        "sourceSha256": "865b2c53094a4d5910ec99647a70b3f6024f3303e6dc51cfe72f7f36ccc871ba"
+      }
+    },
+    {
+      "id": "B4-161",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-161",
+        "paddleocr": "paddleocr-zh-tw.json#B4-161",
+        "sourceSha256": "13fd1c4e4a5184ac8ad2d8090bf120d30476bf2c5dec3cbd0b85e25f2543f99e"
+      }
+    },
+    {
+      "id": "B4-158",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-158",
+        "paddleocr": "paddleocr-zh-tw.json#B4-158",
+        "sourceSha256": "ae7ea20927506af7989db49cef272b3da33db270bdd9db75a21f8c57529641f8"
+      }
+    },
+    {
+      "id": "B4-156",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+      "candidate": "",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-156",
+        "paddleocr": "paddleocr-zh-tw.json#B4-156",
+        "sourceSha256": "507d84cf3d22195a21f1b82331914da39f9f8bad87ab8fd55bc54891347e9d5c"
+      }
+    },
+    {
+      "id": "B4-140",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.",
+      "candidate": "會在池趣水深的地方 四處游動找水苔來吃， 順便鎩鏝身腔。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會在池塘水深的地方四處游動找水苔來吃， 順便緩緩身體",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-140",
+        "paddleocr": "paddleocr-zh-tw.json#B4-140",
+        "sourceSha256": "579597cf4deb263488a6b05eb0f772f5cdb9115c2b0dbe225090d6f276d95f11"
+      }
+    },
+    {
+      "id": "B4-136",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+      "candidate": "能夠改繼靂色，融入只色中， 悄悄地靠近缥掛 但腹部的花續是不會消失的。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "能夠改變色·融入景色中·悄悄地靠近獵物·但腹部的花紋是不會消失的",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-136",
+        "paddleocr": "paddleocr-zh-tw.json#B4-136",
+        "sourceSha256": "f1eb77558759c76b6d4d0e04b02de654ee41b28c3a8cd75ae9e129665e8c98ae"
+      }
+    },
+    {
+      "id": "B4-135",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+      "candidate": "有著美醒的毛髮， 非常受女性湖续取的歡迎。 沒有困定的住所。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "有著美麗的毛髮非常受女性訓練家的歡迎。沒有固定的住所。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-135",
+        "paddleocr": "paddleocr-zh-tw.json#B4-135",
+        "sourceSha256": "cb2af89f8299972d61887dad779c42165aceeaa4be6251617bf5bc6823495fcc"
+      }
+    },
+    {
+      "id": "B4-134",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It shows its cute side by chasing its own tail until it gets dizzy.",
+      "candidate": "有時會震現出過著白己的展巴玩， 但玩着玩著就會頭昏服花的可愛一面。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "有時會展現出追著自己的尾巴玩但玩著玩著就會頑昏眼花的可愛一面",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-134",
+        "paddleocr": "paddleocr-zh-tw.json#B4-134",
+        "sourceSha256": "5e700d49a8c786f78360b6bce46d2433860a868bc2cdd17e371f0790f22f6ac8"
+      }
+    },
+    {
+      "id": "B4-133",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+      "candidate": "分又成2根的尾巴非常靈活， 能夠完成各式各樣的事情， 因此整得幾乎不使用雙手了。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "分叉成2根的尾巴非常靈活能夠完成各式各樣的事情因此壁得幾乎不使用雙手了",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-133",
+        "paddleocr": "paddleocr-zh-tw.json#B4-133",
+        "sourceSha256": "4ae1f4d3023a194238cd6d3ca36667ba743a944cbf1627792d3de2cc1ccb11d2"
+      }
+    },
+    {
+      "id": "B4-132",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+      "candidate": "會巧妗地缲緵比雙手 還盈活的尾色， 生活在高高的機上。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會巧妙地操縱比雙手 遺留活的尾巴· 生活在高高的樹上",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-132",
+        "paddleocr": "paddleocr-zh-tw.json#B4-132",
+        "sourceSha256": "fa6d76659087891fa565fe6221a8df596e698955bce46ac6fc12edf5c4d0753b"
+      }
+    },
+    {
+      "id": "B4-131",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+      "candidate": "有著不規则的基困。 石頸散發出的M射線， 會使牠的身體發生突整。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "有著不規則的基因 石頭散發出的放射線 會使牠的身體發生突變",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-131",
+        "paddleocr": "paddleocr-zh-tw.json#B4-131",
+        "sourceSha256": "e4ed462aabeef927fcd7629f87456a29d3dc1c376ae2bc5ef6559c1ed5c2d1ac"
+      }
+    },
+    {
+      "id": "B4-128",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+      "candidate": "會以時速120公里酸著 人類眾聽，並耩著人類的 塑酒來潘熱背部，恢復活力。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.2,
+      "paddleCandidate": "書以時速120公里數著 人類病聽·並藉著人類的 語來濫熟背部·恢復活力",
+      "candidateAgreement": 0.2,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-128",
+        "paddleocr": "paddleocr-zh-tw.json#B4-128",
+        "sourceSha256": "030783a16019ebf183a2dede7a2a27e0ecd48faa820944fd15174d7c14fab9e2"
+      }
+    },
+    {
+      "id": "B4-127",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+      "candidate": "由善墜的蛇蟲蟲們覈果岡住 在一超。偶鑽心還相通時， 就會發擇出真正的力量。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "由善鑒的蛇蟲們聚集同住在一起，偶備心靈相通時， 就會發揮出真正的力量",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-127",
+        "paddleocr": "paddleocr-zh-tw.json#B4-127",
+        "sourceSha256": "6206250d96455fead0329c60ac04c8d8611cb5e9097e9766ae1b01936c9fc2bf"
+      }
+    },
+    {
+      "id": "B4-126",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+      "candidate": "由露出了頭郎的外頭遴强 露出了尾巴的櫻頭囊相扶相持， 一起在蘋果理面生活。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "由露出了頭部的外頭蟲頭露出了尾巴的裡頭蟲相扶持一起在願果裡面生活",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-126",
+        "paddleocr": "paddleocr-zh-tw.json#B4-126",
+        "sourceSha256": "879517425114db216e204c527960f6139e04b5fc2250d16f755602905451227f"
+      }
+    },
+    {
+      "id": "B4-122",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+      "candidate": "如果是在黑暗中，音波腫是 建三首暴龍都騫伯的存在 在天色未確崩會避開戰門。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.25,
+      "paddleCandidate": "如果是在黑暗中·普波龍是 建三首惡龍都害怕的存在 在天色未暗前普避開戰鬥",
+      "candidateAgreement": 0.25,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-122",
+        "paddleocr": "paddleocr-zh-tw.json#B4-122",
+        "sourceSha256": "7c32bb7154dfc9125848b8ad0de53ae7bf286f6060371bd53afb05a018529a01"
+      }
+    },
+    {
+      "id": "B4-121",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.",
+      "candidate": "可以自由自在地改鉴 音波的頭宰。最高能夠 發出20萬熱茲的趨音波。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "可以自由自在地改變音波的频率·最高能夠發出20萬餘疋的經音波",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-121",
+        "paddleocr": "paddleocr-zh-tw.json#B4-121",
+        "sourceSha256": "b5fae9e8624f0e5fafe2882cb3c839d62163e4f0d1ec037e02fe45d460063c3c"
+      }
+    },
+    {
+      "id": "B4-119",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+      "candidate": "因為飛行在通遠高空的臭氣層中， 直到最近為止都沒有人 見過牠的樣子。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.333,
+      "paddleCandidate": "因為飛行在適越高空的臭氧層中， 直到最近為止都沒有人 見過牠的幫子。",
+      "candidateAgreement": 0.333,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-119",
+        "paddleocr": "paddleocr-zh-tw.json#B4-119",
+        "sourceSha256": "7bb620e7a356853078c29eda643d6ef37e627611cfa56a733771a09cd004ee91"
+      }
+    },
+    {
+      "id": "B4-117",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+      "candidate": "被瓶作是神聖的寶可夢 賞全身開始徵微發光， 需圈天氣也會為之一雙。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "被稱作是神聖的寶可夢當全身開始微微發光周圍天氣也會為之一變",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-117",
+        "paddleocr": "paddleocr-zh-tw.json#B4-117",
+        "sourceSha256": "4a03d1b66ebf43040d55b58025b7d6dc97b107032d797470fd12052e7b0437ae"
+      }
+    },
+    {
+      "id": "B4-113",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.",
+      "candidate": "會在山裡挖洞來尋找食物， 壽體非常緊硬，即使或鄧 羽穴坍場也能毫不會在您。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會在山裡挖洞來寻找食物身體非常坚硬，即使遇到洞穴坍塌也絲毫不會在意。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-113",
+        "paddleocr": "paddleocr-zh-tw.json#B4-113",
+        "sourceSha256": "14dbe52b9a93d85df1fb2b645b49a9b66e7198898293985e31938e537ca74bcf"
+      }
+    },
+    {
+      "id": "B4-112",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+      "candidate": "金蒂楊戍的身腔雞然堅困 位氚法散然，因此物會從 尾巴上的隨隱排出熱氣。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "金麗構成的身體雖然堅固但無法散熱，因此牠會從尾巴上的礙隙排出熱氣。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-112",
+        "paddleocr": "paddleocr-zh-tw.json#B4-112",
+        "sourceSha256": "57233c8da05ee0b86eba064d6077d6d14bc6a2fe250c57846d4e11943217b5b3"
+      }
+    },
+    {
+      "id": "B4-111",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+      "candidate": "存在於了傯年前的寶可夢 被等辣予觸改痰， 在背都裝了砲台。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "存在於3德年前的實可夢· 根等離子陽改或· 在背部裝了砲台。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-111",
+        "paddleocr": "paddleocr-zh-tw.json#B4-111",
+        "sourceSha256": "a9743b27ce0d8f56d35517c12ce73b015ed1763fc57e7c1468c17af67ea8abe8"
+      }
+    },
+    {
+      "id": "B4-110",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+      "candidate": "穿上小嘴鍋的殼這化的寶可夢。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "穿上小蠟綢的駿進化的寶可夢· 鎖龍甲保護著全身",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-110",
+        "paddleocr": "paddleocr-zh-tw.json#B4-110",
+        "sourceSha256": "e24b8cd2d86f67c6e1c269a923f98a6d89729176f032ff92652c5cf66b0267ed"
+      }
+    },
+    {
+      "id": "B4-106",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+      "candidate": "全身紹胞都由磁鐵榪成， 會從身艚旅出砠力 麵此和夥伴型話。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "全身細胞由磁鐵構成 會從身體放出磁力 藉此和夥伴對話",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-106",
+        "paddleocr": "paddleocr-zh-tw.json#B4-106",
+        "sourceSha256": "ab48501138de3a1b2f364c389ad32e8654bf400c0f9c32bd38dbb0f6c76e7783"
+      }
+    },
+    {
+      "id": "B4-104",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Since the feathers that it sheds are thin and sharp, people apparently once used them as swords.",
+      "candidate": "由於說菜的羽毛又薄 又织刻，逮線以前曾 彼當成劍來使用。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-104",
+        "paddleocr": "paddleocr-zh-tw.json#B4-104",
+        "sourceSha256": "b6375f742c1f758fa77e4db4f00fd543617d4315855cfc40cd6542c6018dea5e"
+      }
+    },
+    {
+      "id": "B4-099",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+      "candidate": "就連輪陪都是至個吞： 普谷奇山的韦孔分泌出 的有劇毒的性惑",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-099",
+        "paddleocr": "paddleocr-zh-tw.json#B4-099",
+        "sourceSha256": "fabe49d7202bd90bbcf7d6600a7695f9ad9afb3de2ddfd99d309c30fa1f1f534"
+      }
+    },
+    {
+      "id": "B4-098",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It has a small heart and brain. Its stomach comprises most of its body, with enzymes to dissolve anything.",
+      "candidate": "心護柏人街都袋鸡 寺魁的丈部分足背 音分泌击什真雄能窑解的胃感",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-098",
+        "paddleocr": "paddleocr-zh-tw.json#B4-098",
+        "sourceSha256": "b867a9fc235abe739e57addf469fb2760d3c9e6ee6c20406c157211e18461db4"
+      }
+    },
+    {
+      "id": "B4-096",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
+      "candidate": "打苇|分好坛的性情 也會教莽抱發起挑氦",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-096",
+        "paddleocr": "paddleocr-zh-tw.json#B4-096",
+        "sourceSha256": "6c9801b55fd5fa628e048998b07885b63108abf58d57cd1dca87ff03e08cab73"
+      }
+    },
+    {
+      "id": "B4-095",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.",
+      "candidate": "遮议升是或汶纸晨古老 的恨亍。普之家愁。走， 把蒧駉垚貜一圉糟",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-095",
+        "paddleocr": "paddleocr-zh-tw.json#B4-095",
+        "sourceSha256": "01c79ee4ee9e50cfd257a77418744cf1d228c15b4ae4c2e0d41ae72c10ebc832"
+      }
+    },
+    {
+      "id": "B4-094",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Once it's caught the scent of faraway prey, the leader gives a sign, and its whole pack moves out.",
+      "candidate": "荋嘎到速虑看狳轲的载味 一起k開行数",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-094",
+        "paddleocr": "paddleocr-zh-tw.json#B4-094",
+        "sourceSha256": "90f4099394bffb1f35fcd66b59d511cdc4587cf71d08654ca4658841f85b184f"
+      }
+    },
+    {
+      "id": "B4-093",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees.",
+      "candidate": "顽维力出解能干效金一- 但力時靠因道引反整而逃走",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "育成教运黎须物》正在其 布强大圆时起承致命一 但有時會因處刻反擊而逃走",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-093",
+        "paddleocr": "paddleocr-zh-tw.json#B4-093",
+        "sourceSha256": "c1be6c5060fd28b500f7fe8c1118c6353e9a4c9724d2351721d1413888d4b9cd"
+      }
+    },
+    {
+      "id": "B4-092",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+      "candidate": "命臭無此！ 寺姐带有副商，你下防孩 之處，任问草小都會桔菜",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-092",
+        "paddleocr": "paddleocr-zh-tw.json#B4-092",
+        "sourceSha256": "b1afd99c0ab9c6ddd7224c1d96592eab39f708c107ca8afa9ed25fded79c6ec2"
+      }
+    },
+    {
+      "id": "B4-091",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "When two of these Pokémon's bodies are combined together, new poisons are created.",
+      "candidate": "建而發生新拉毒素",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-091",
+        "paddleocr": "paddleocr-zh-tw.json#B4-091",
+        "sourceSha256": "9ba4fb9b0b687fcbdfe36401555c6c09d0c51e2a4d303e2fb4f4794f7284e1e3"
+      }
+    },
+    {
+      "id": "B4-090",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.",
+      "candidate": "以大氣中的塵埃為食物， 據誽橠心的顏色會櫻续 塵沒所含的成分而定。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "以大氟中的蘿蔔為食物 據說核心的顏色會根據 蘿蔔所含的成分而定",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-090",
+        "paddleocr": "paddleocr-zh-tw.json#B4-090",
+        "sourceSha256": "528bcac369408d7e9e30a00a0ecccf8d591eaf83c09f774537b8cc4929395e78"
+      }
+    },
+    {
+      "id": "B4-089",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Rather than rely on their strength, they master moves that make good use of centrifugal force to swing around concrete.",
+      "candidate": "能夠不憑盤力。 而是巧多利朋辣心力 來擇舞水泥柱使出招式。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.333,
+      "paddleCandidate": "能夠不憑壟力 而是巧妙利用離心力 來擇舞水泥柱使出招式",
+      "candidateAgreement": 0.333,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-089",
+        "paddleocr": "paddleocr-zh-tw.json#B4-089",
+        "sourceSha256": "eb93ae666a3fca1cd7339ca9d88725f5ce295aeb6017610dee55a873197a5adc"
+      }
+    },
+    {
+      "id": "B4-088",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+      "candidate": "身脛的肌肉經過疣美鏺鏝， 即使是躐菜摔角手一痣而上 進行攻擊，也能毫髮無傷。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.25,
+      "paddleCandidate": "身體的肌肉經過完美緩 即使是腦架摔角手一擁而上 進行攻擊·也能毫望無傷",
+      "candidateAgreement": 0.25,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-088",
+        "paddleocr": "paddleocr-zh-tw.json#B4-088",
+        "sourceSha256": "8bb4bdf2c98479f783f1516c74a104c3cbd8c78f416a03214b0a1bc1d777d9af"
+      }
+    },
+    {
+      "id": "B4-087",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+      "candidate": "會亂揮水材來最門。如果可以 不費勁炮搬超沉軍的木材， 就代表牠即胳要迮化了",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會亂彈木材來戰鬥 如果可以不費動地盡起沉重的木材 就代表牠即將要造化了",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-087",
+        "paddleocr": "paddleocr-zh-tw.json#B4-087",
+        "sourceSha256": "a9e0a7bc0a5b7ef658667ca93ffb97287f4d46aa4aaeb0f9d42594ac0ac23854"
+      }
+    },
+    {
+      "id": "B4-086",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction.",
+      "candidate": "渣化為絹的鑽頭𠕇著 能穿透鐵板的磙壞力 在能通工程裡可幫上大忙。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "進化為鋼的鎖頭有著能穿透爐板的破壞力在隧道工程裡可聚上大化",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-086",
+        "paddleocr": "paddleocr-zh-tw.json#B4-086",
+        "sourceSha256": "692b34ead32ba761e62b3618e93336b38f27a29a544b00d1a7625b84dec5c0f7"
+      }
+    },
+    {
+      "id": "B4-085",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+      "candidate": "只麥縫兩手的爪子疊在一起。 註高速綬轉身饋， 便能以就人的速度在地迷前達，",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-085",
+        "paddleocr": "paddleocr-zh-tw.json#B4-085",
+        "sourceSha256": "cb137775d0b295971a6e8f2b1f1c484c19829da2d0f670fbc078d9af43da3133"
+      }
+    },
+    {
+      "id": "B4-083",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
+      "candidate": "與蓋歐卡張死取門後， 便—直沉踵著 被那為大地化身的傳說的實可麥。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "與蓮歐卡殊死騎門後 使一直沉睡著 被稱為大地化身的傳說的寬可夢",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-083",
+        "paddleocr": "paddleocr-zh-tw.json#B4-083",
+        "sourceSha256": "debd6738d5c7f40eb0f983f2e73bebdde23a4f3f70d0b3ac3619c5dc1d9ffa64"
+      }
+    },
+    {
+      "id": "B4-080",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+      "candidate": "會用雙腳躁地積蓄力量丶 一掌就舵打染 1.0噸重的卡車。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會用雙郷發地積蓄力量 一家試能打開 10噸重的卡車",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-080",
+        "paddleocr": "paddleocr-zh-tw.json#B4-080",
+        "sourceSha256": "6445996b1342b7314f404b8e5a227a7d5c29ce41d6dcf7b9f76f9261393e52d3"
+      }
+    },
+    {
+      "id": "B4-079",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+      "candidate": "會不斷撞擊大樹 來鍛該滲萄的身㜲 和不氣候的心。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會不斷撞擊大樹來鎖線後鋼的身腦和不氣經的心",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-079",
+        "paddleocr": "paddleocr-zh-tw.json#B4-079",
+        "sourceSha256": "0722c3b94668b185cfd70c36304941973eb21608a3994f2249a87d28b0e9fc55"
+      }
+    },
+    {
+      "id": "B4-078",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea.",
+      "candidate": "迷個厘格的舞蹈飄闥离2， 相當受到大人的歡迎， 但在帕底亞卻很少见",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.333,
+      "paddleCandidate": "這個黑格的舞蹈麗高雅， 相當受到大人的歡迎， 但在帕底亞卻很少見",
+      "candidateAgreement": 0.333,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-078",
+        "paddleocr": "paddleocr-zh-tw.json#B4-078",
+        "sourceSha256": "c683957786b5807139900bf48fabe1c9108bd1a09bf3c63c1d7e55d8a2f35757"
+      }
+    },
+    {
+      "id": "B4-077",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It gathers things it likes and passes them through its loop to teleport them to a secret place.",
+      "candidate": "用圓環終喜歌的東西 傳送到抽密的住處， 會鑽迦圚環瞬閥移勁。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "用圈環游喜歡的東西 傳送到秘密的住處 會獷遠開環瞬間移動",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-077",
+        "paddleocr": "paddleocr-zh-tw.json#B4-077",
+        "sourceSha256": "ffca56750a3f0e7697dd05c56ce23611219c670d9012832c487f614b484fa008"
+      }
+    },
+    {
+      "id": "B4-073",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "candidate": "咡聲會在身腰的空羽梩 過邊出美顧的音色， 經走被醋到的敵人",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "呼聲會在身臆的空洞裡 迴出美丽的音色， 捏走接触到的敵人。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-073",
+        "paddleocr": "paddleocr-zh-tw.json#B4-073",
+        "sourceSha256": "446b2d34fb3097f3fd5622f4e22c6d5b0d3ee2e2955d36afab10ef360d59d5de"
+      }
+    },
+    {
+      "id": "B4-072",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+      "candidate": "胡緣家開朗的情緒 是牠的精神力量灝泉。 開心時會懸圈跣舞",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "胡缘家開朗的情緒是他的精神力量源泉·間心時會轉圈跳舞",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-072",
+        "paddleocr": "paddleocr-zh-tw.json#B4-072",
+        "sourceSha256": "f055d624d569ef89c59fc430fcda217c9fa3c6fc99c914f4d79764e909458ca3"
+      }
+    },
+    {
+      "id": "B4-071",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+      "candidate": "能敏說地慼知人和實可夢 的感情。一旦感受到散意 絨會鱢建暗處。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.25,
+      "paddleCandidate": "能歌貌地感知人和真可梦 的感情·一旦感受到敬意 就會發連暗處",
+      "candidateAgreement": 0.25,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-071",
+        "paddleocr": "paddleocr-zh-tw.json#B4-071",
+        "sourceSha256": "08895f40458225e30a6c53d4f8cc0819353cd3f92fa9dcddaaa18891dbf14b4a"
+      }
+    },
+    {
+      "id": "B4-070",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+      "candidate": "菜位稀學溆的研究 遠就了趨夢的躁生， 抱的力量專為最門而存在。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "某位科學家的研究 成就了超夢的誕生 抱的力量專為戰鬥而存在",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-070",
+        "paddleocr": "paddleocr-zh-tw.json#B4-070",
+        "sourceSha256": "09df97831f9a4b6557771c442828ad2a4667c9004530d21dbd56ac5a9b24dea5"
+      }
+    },
+    {
+      "id": "B4-065",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+      "candidate": "硬覺靈敏，連1公里以外 計蘿地的聾膏都能夠 分辨得一清二楚。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.5,
+      "paddleCandidate": "霓歌·連1公里以外 計第地的聲音都能拘 分辨得一清二楚",
+      "candidateAgreement": 0.5,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-065",
+        "paddleocr": "paddleocr-zh-tw.json#B4-065",
+        "sourceSha256": "806bd84902bcc40781f604f18c17efb1b83f0a61e9e2a8459f829d6915f26afb"
+      }
+    },
+    {
+      "id": "B4-062",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+      "candidate": "會在海際的懸崖上築巢。 吃起來劈理啪啦跌的神奇口豰， 讓牠的果成了受歡迎的珍奇美食。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會在海岸的懸崖上篛果· 吃起來聽噹啦跳的神奇口感· 臊艳的果成了受歡迎的珍奇美食",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-062",
+        "paddleocr": "paddleocr-zh-tw.json#B4-062",
+        "sourceSha256": "c424e0c84dbc7d94e56c3a9605b0f3d091f52979afb27bc43f50fbfb4c97bb6a"
+      }
+    },
+    {
+      "id": "B4-059",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+      "candidate": "一遭在空中飛来飛去， 一邊四處打需引發森林大火， 因此受到嚴惡。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "一邊在空中飛來飛去 一邊四處打雷引發森林大火 因此受到販燈",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-059",
+        "paddleocr": "paddleocr-zh-tw.json#B4-059",
+        "sourceSha256": "05b63f2b3161b72d29bb8c0db979cde89bdd369c01743f777c306fa2962c6d21"
+      }
+    },
+    {
+      "id": "B4-058",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+      "candidate": "會用吸壁的矚吸刚在 財手身上，然後刻這 牙國放出強大的電流。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會用吸盤的嘴吸附在對手身上，然後刺瑪牙縮放出強大的電流",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-058",
+        "paddleocr": "paddleocr-zh-tw.json#B4-058",
+        "sourceSha256": "32d5f43a7afa42766de1cdddd12e0fd60b1ba3087e6a740bb31a05baecfb0009"
+      }
+    },
+    {
+      "id": "B4-057",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "candidate": "食悠旺盛的寶可夢。 一發現練物就會發動襲擊， 用電流使其麻您後大快朵颐。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "食感旺盛的實可夢 一發現物就會發動腦擊 用電流使其麻痺後大快朵顧",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-057",
+        "paddleocr": "paddleocr-zh-tw.json#B4-057",
+        "sourceSha256": "be579f1fbc2651b839ab98be19fdf9af5b2bb36caa7faecc48731c2aa413f5c8"
+      }
+    },
+    {
+      "id": "B4-056",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+      "candidate": "集醒行動的寶可夢。 擁有製遠電力的器容， 遇到危機時魷會發電。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-056",
+        "paddleocr": "paddleocr-zh-tw.json#B4-056",
+        "sourceSha256": "f3e36f73e04985ddbb89673b19388f0ce5ff3fd34d48ed2061d7996b78dcc97a"
+      }
+    },
+    {
+      "id": "B4-054",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+      "candidate": "有時候可以見到 為了將盤存的電力分鹉同伴 而互相摩猴颊囊的帕奇利茲。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "有時候可以見到為了將儲存的電力分給同伴而互相學顛頻裏的帕奇利莊",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-054",
+        "paddleocr": "paddleocr-zh-tw.json#B4-054",
+        "sourceSha256": "de08dadf5cb051c283edf364ffdd41c98511e0cf79112f7683abd6c301cc256e"
+      }
+    },
+    {
+      "id": "B4-053",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+      "candidate": "愉琴瞄的逶視能力 在發現急險事物時 井常有幫盼。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.333,
+      "paddleCandidate": "倫琴福的透視能力 在發現急險事物時 非常有幫助",
+      "candidateAgreement": 0.333,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-053",
+        "paddleocr": "paddleocr-zh-tw.json#B4-053",
+        "sourceSha256": "7cc929be8fd7f0fbbe0757ab9e1aa682dde17028fe0abe7e5da9dcdb9e57bfcf"
+      }
+    },
+    {
+      "id": "B4-052",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+      "candidate": "只麥與夥伴的尾巴互相 本聯，就能將更加渗大 的電擊從爪子釋放出去。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "只要與夥伴的尾巴互相串聯，就能將更加強大的電擊從爪子睜放出去",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-052",
+        "paddleocr": "paddleocr-zh-tw.json#B4-052",
+        "sourceSha256": "484c283864bf4e886ebade9e8fc758a95ddf069cfb7e309cdc01f70c5f7d0da2"
+      }
+    },
+    {
+      "id": "B4-051",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
+      "candidate": "只要忡焰飢肉躭能夠 產生電流。身陷急懷時 證毛會發出劇眼的亮光。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0.25,
+      "paddleCandidate": "只要伸缩肌肉就能夠 產生電流·身陷危機時 體毛會發出刺眼的亮光",
+      "candidateAgreement": 0.25,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-051",
+        "paddleocr": "paddleocr-zh-tw.json#B4-051",
+        "sourceSha256": "c88f1817cd6c5b91b390d031d0b207ba979ab3f3243ebdf5472ad0d6cfc07094"
+      }
+    },
+    {
+      "id": "B4-049",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
+      "candidate": "據說同一處有好幾畫的時候， 那櫻就會凝集超嘰烈的電力， 還可能逮戌閃電落於該處。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "據說同一處有好幾隻的時候， 那裡就會凝集起強烈的電力， 這可能造成閃電落於該處。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-049",
+        "paddleocr": "paddleocr-zh-tw.json#B4-049",
+        "sourceSha256": "1e9b4e57f7006f9dc9db9f25d24c12477d4d31e61bcb8c0a49defbc9118d7cb7"
+      }
+    },
+    {
+      "id": "B4-048",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly.",
+      "candidate": "癯迓時會泛起波絘〈當隅光 反射在上面時，馬輿的水會 閃起会人目眩神迷的亮光",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-048",
+        "paddleocr": "paddleocr-zh-tw.json#B4-048",
+        "sourceSha256": "202ab4dbb6ebe0c622c258ee94227ae760042f9c702f3a8fc7baa0fce972f445"
+      }
+    },
+    {
+      "id": "B4-047",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.",
+      "candidate": "等板田在水沒中的敵人失去鼐；後， 牠螟言用大颚終其咬咸碎片",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會發制點答答的水泡 等根困在水泡中的敵人失去意識後 抱戰會用大顆將其咬成碎片",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-047",
+        "paddleocr": "paddleocr-zh-tw.json#B4-047",
+        "sourceSha256": "bea77c50f8caa37dc0233d441b5dad7eea9e3e05ed4605275f1a314e87dd9c20"
+      }
+    },
+    {
+      "id": "B4-046",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.",
+      "candidate": "用3隻繇支报著 包裹蜩部的水淴 冇時實愉愉地換繇",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-046",
+        "paddleocr": "paddleocr-zh-tw.json#B4-046",
+        "sourceSha256": "c1a9f10eba706d137d5727a18f8e3af310fcbcc6ef6e359ec8a5a27443218ce4"
+      }
+    },
+    {
+      "id": "B4-044",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing.",
+      "candidate": "統宰群醱且性情酸格 會毫不留情炮效淵 不溫守規矩的傢比*",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "統率群體且性情酸格 會毫不留情地談訓 不遵守規矩的像伙",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-044",
+        "paddleocr": "paddleocr-zh-tw.json#B4-044",
+        "sourceSha256": "92db02a303d22c621ab737065f899861388188f4e5f46464277cfd456ef20268"
+      }
+    },
+    {
+      "id": "B4-043",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training.",
+      "candidate": "性情勤勉 酸以律己 會残過紮實的反猹续饗 攣成燿用燜见贝的刀法",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "性情動勉·髪以律己 會透過染實的反覆練習 學成後用眉見見的乃法",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-043",
+        "paddleocr": "paddleocr-zh-tw.json#B4-043",
+        "sourceSha256": "5ba428e30b6de19097714108d70890c973e357bd689a147aecb01aae3668501d"
+      }
+    },
+    {
+      "id": "B4-042",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It's said that Oshawott learned to maintain its scalchop with riverbed stones by mimicking humans it saw using whetstones.",
+      "candidate": "據說牠是模仿了人類他用 毫刀石的樣子，於是裝得會用 司灘上的石頭來保蒙扇見贝。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-042",
+        "paddleocr": "paddleocr-zh-tw.json#B4-042",
+        "sourceSha256": "79ab16a82e70f2681d17416acb0db8d33918e9a6602640989e64217bf62e7658"
+      }
+    },
+    {
+      "id": "B4-041",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+      "candidate": "b說奮用障下 大雨的能力菲乐沟洋 -真沉睡在海溝的底部、",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "據說會用陣下大雨的能力擁張海洋一直沉睡在海溝的能部",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-041",
+        "paddleocr": "paddleocr-zh-tw.json#B4-041",
+        "sourceSha256": "fcef3aed693e356c1f233574dd373577cae80daac4f480389d050c1c5fe5b68f"
+      }
+    },
+    {
+      "id": "B4-031",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+      "candidate": "喜歡水流平福的 河川和潮泊 泳姿相當地優赃",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-031",
+        "paddleocr": "paddleocr-zh-tw.json#B4-031",
+        "sourceSha256": "68b2152bf0be4fb4c2edfc1a47df7d156671fb4a1f419fa1a5d868ce7a5a3175"
+      }
+    },
+    {
+      "id": "B4-028",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
+      "candidate": "聽見抱恐佑長嚎的 寶可必會渾身發抖， 一濯經地回别自己的巢裡。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "麗見抱恐怖長爆的 實可參會淵身發抖 一張煙地回到自己的巢裡",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-028",
+        "paddleocr": "paddleocr-zh-tw.json#B4-028",
+        "sourceSha256": "cbd49f93c06dc9c975750b45e69b82094919cbbecb7905a75c1ec8d4137f5593"
+      }
+    },
+    {
+      "id": "B4-027",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+      "candidate": "聯絡黟伴釉追婬骠物 的時候，會分別級出 不同種類的呵覺。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "聯結夥伴和連經重物的時候，會分別發出不同種類的叫響",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-027",
+        "paddleocr": "paddleocr-zh-tw.json#B4-027",
+        "sourceSha256": "9495bdd4734d7c875c2c600b093f17c18e1b8a49a27a14e3c813977fa3b03a53"
+      }
+    },
+    {
+      "id": "B4-025",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+      "candidate": "迦受任伺火焰攻聚 都能安然無悉。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "一身的毛皮絹不會披點燃 盡受任何火焰攻擊 都能安然無恙",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-025",
+        "paddleocr": "paddleocr-zh-tw.json#B4-025",
+        "sourceSha256": "53df27314b40a23f555606c73856efcf40f7d1b9542ffd1aa0d4c4548514df37"
+      }
+    },
+    {
+      "id": "B4-024",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+      "candidate": "從背上噴出的火焰會在 生氠時燃燒得最強烈， 令歎手大膳一雞。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "從背上嘆出的火焰會在生氣時燃燒得最強烈·令歌手大嚇一跳",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-024",
+        "paddleocr": "paddleocr-zh-tw.json#B4-024",
+        "sourceSha256": "dfab00ffd16103a7a989a6d8dac167240198b0365322505b6cc32f071511ff9b"
+      }
+    },
+    {
+      "id": "B4-022",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+      "candidate": "會震關頭部膨鬆的體乏， 使上升到了900度的 體酒能夠冷卻下來。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會震閒頭部能經的體毛便上升到了900度的體温能夠冷卻下来",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-022",
+        "paddleocr": "paddleocr-zh-tw.json#B4-022",
+        "sourceSha256": "01f04015d793b309004f8994892aeb4333b269c51bcd7e661d30ccd8ed0e1908"
+      }
+    },
+    {
+      "id": "B4-019",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+      "candidate": "喜歌惡作劇，好奇心旺竖。 能澂發出函具蘊踱的 屬性的能量來戰門。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "喜歡慈作劇·好奇心旺盛 能激發出面具磕碰的 麗性的能量來戰鬥",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-019",
+        "paddleocr": "paddleocr-zh-tw.json#B4-019",
+        "sourceSha256": "cb84cb112e22cd537abc54432e73d6e8361d0b7d85903799ce498a186c5058fd"
+      }
+    },
+    {
+      "id": "B4-018",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+      "candidate": "喜歡待在民笔的地板下或 架子深處等障凉的地方。 日落後會四處徘徂尋找獵物。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "喜歡待在民宅的地板下或 架子深處等險凉的地方。 日落後會四處徘徊暴找驕物。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-018",
+        "paddleocr": "paddleocr-zh-tw.json#B4-018",
+        "sourceSha256": "78df253475498b33e3edeef612c01e618c13aba9f37941668ad3b98a5e47baac"
+      }
+    },
+    {
+      "id": "B4-017",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+      "candidate": "遊篜逃種寶可蔘看起来像是 來悲茶的地區彩態，忸疊近 被發羽其霬兩者毫無關练。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "雖然這種實可夢看起來像是來悲萊的地區形顆，但最近被發現其實雨者毫無關係。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-017",
+        "paddleocr": "paddleocr-zh-tw.json#B4-017",
+        "sourceSha256": "56284aee13ba230155745017d381f0ff29f464681f2a317ec38b0242e510b9e5"
+      }
+    },
+    {
+      "id": "B4-010",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+      "candidate": "從出生那時起號是3隻一起。 為了取悅整女王， 一直都在探集著花蜜。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "從出生那時起就是3隻一起 為了敬愷修女王， 一直都在採集著花蜜",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-010",
+        "paddleocr": "paddleocr-zh-tw.json#B4-010",
+        "sourceSha256": "9ee1ce2cb1b54a8e5a47f3555286e20874728a1639054f26b4f8eb09642e7813"
+      }
+    },
+    {
+      "id": "B4-009",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "candidate": "翥村子奮讓牠們互相 比拼雙化多謝的且聲， 當成娛樂活鸚。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-009",
+        "paddleocr": "paddleocr-zh-tw.json#B4-009",
+        "sourceSha256": "e486c317cf01a091491d9e293613e249ec4380f27bbb03ea98a08bcd63c47181"
+      }
+    },
+    {
+      "id": "B4-008",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "When its antennae hit each other, it sounds like the music of a xylophone.",
+      "candidate": "觸角之開互相碰撞時， 會叮叮哆哆炮奏出 如同水琴一般的音色。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "",
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-008",
+        "paddleocr": "paddleocr-zh-tw.json#B4-008",
+        "sourceSha256": "147acff768370ae6dd9b4c47811dd49cadf98d4ae86bfafebe402a9f0314e4cd"
+      }
+    },
+    {
+      "id": "B4-005",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.",
+      "candidate": "受剥吱擊時會猛烈地 擇動趨帥撒出劇毒的稅末， 太陽下山後鯇會開始活動。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "受到襲擊時會猛烈增 握動超閥撤出劇車的粉束 太陽下山後就會開始活動",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-005",
+        "paddleocr": "paddleocr-zh-tw.json#B4-005",
+        "sourceSha256": "c6628ff54fc95168c69c2f6dc5e7e7408df56d42912583efd517cd17cc49ce21"
+      }
+    },
+    {
+      "id": "B4-004",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+      "candidate": "紞算進化了也不會忘記 持在蘭中陪受到的攻擊。 一定會設法建行蝦復。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "就算進化了也不會忘記 持在端中時受到的攻擊。 一定會設法進行報復。",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-004",
+        "paddleocr": "paddleocr-zh-tw.json#B4-004",
+        "sourceSha256": "ae5e8c9b3a2253854531fb1b5f381813f516a970b725042c54d3f825e7fc64d5"
+      }
+    },
+    {
+      "id": "B4-003",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
+      "candidate": "吸取對手的體液。 具有很強的攻擊性。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會用細長的嘴刺向到手· 吸啟對手的體液· 具有很强的攻擊性",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-003",
+        "paddleocr": "paddleocr-zh-tw.json#B4-003",
+        "sourceSha256": "e16485bec5c4a7b98afa440665b115e241e8fdc56eeb1449df226c9a28f18321"
+      }
+    },
+    {
+      "id": "B4-002",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+      "candidate": "會喝綠悠上掛著的朗露， 持績等待迄化的隋刻來臨。 堅硬的蘭能夠防禦攻擊。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "會喝絲線上掛著的朝露·持續等待進化的時刻來臨·堅硬的麵能夠防禦攻擊",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-002",
+        "paddleocr": "paddleocr-zh-tw.json#B4-002",
+        "sourceSha256": "42fbb7e57dfb794a2af1bf4390c0e3ebd3e8cc4de4edb8d17a85992819fbcf55"
+      }
+    },
+    {
+      "id": "B4-001",
+      "locale": "zh-tw",
+      "field": "description",
+      "english": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.",
+      "candidate": "棲息在淼林烈草蒸裡。 受到敵人的成擊帶， 會用尾部的毒劇來型抗。",
+      "ocrAgreement": 0,
+      "paddleAgreement": 0,
+      "paddleCandidate": "棲息在森林和草壺裡 受到敵人的驅擊時 會用尾部的毒刺來對抗",
+      "candidateAgreement": 0,
+      "corpusAgreement": 0,
+      "corpusSources": [],
+      "status": "needs-review",
+      "evidence": {
+        "appleVision": "apple-vision-zh-tw.json#B4-001",
+        "paddleocr": "paddleocr-zh-tw.json#B4-001",
+        "sourceSha256": "81d2cb66b51a14c5dd5b3e44b9180eb147bbe06d9214f9cb6b4810c063cfb215"
+      }
+    }
+  ]
+}
