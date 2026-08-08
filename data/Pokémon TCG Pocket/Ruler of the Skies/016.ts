@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -46,14 +45,16 @@ const card: Card = {
                 fr: "Prélude",
                 es: "Preludio",
                 "pt-br": "Prelúdio",
-                "zh-tw": "前驟曲"
+                "zh-tw": "前驟曲",
+                "de": "Auftakt"
             },
             effect: {
                 en: "If you haven't gotten any points, this attack does 60 more damage.",
                 fr: "Si vous n'avez gagné aucun point, cette attaque inflige 60 dégâts supplémentaires.",
                 es: "Si no has conseguido ningún punto, este ataque hace 60 puntos de daño más.",
                 "pt-br": "Se você não recebeu nenhum ponto, este ataque causará 60 pontos de dano a mais.",
-                "zh-tw": "若自己還未得分,則增加60點傷害。"
+                "zh-tw": "若自己還未得分,則增加60點傷害。",
+                "de": "Wenn du noch keine Punkte erhalten hast, fügt diese Attacke 60 Schadenspunkte mehr zu."
             },
             damage: "30+"
         }
@@ -66,5 +67,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

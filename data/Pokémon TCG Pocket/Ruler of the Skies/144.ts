@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -47,7 +46,8 @@ const card: Card = {
         es: "El factor decisivo que le ha permitido liberar\ntoda su fuerza ha sido el estrecho vínculo y la\nconfianza que profesa a su Entrenador.",
         it: "Il fattore decisivo che permette di liberare la sua\nvera potenza è il legame di fiducia che lo unisce\nal suo Allenatore.",
         de: "Der entscheidende Faktor, durch den es seine\nwahren Kräfte freisetzen kann, ist die enge\nBindung zu einem Trainer, dem es vertraut.",
-        "zh-tw": "與所信賴的訓練家之間的牽絆\n是解放牠真正力量的\n最後一個要素。"
+        "zh-tw": "與所信賴的訓練家之間的牽絆\n是解放牠真正力量的\n最後一個要素。",
+        "pt-br": "O último fator necessário para ativar o verdadeiro poder deste Pokémon é uma conexão forte com um Treinador de sua confiança."
     },
     attacks: [
         {
@@ -57,14 +57,17 @@ const card: Card = {
                 fr: "Goliastruction",
                 es: "Golpe de Oro",
                 "pt-br": "Quebrador de Ouro",
-                "zh-tw": "黃金破壞"
+                "zh-tw": "黃金破壞",
+                "it": "Rompioro",
+                "de": "Goldbrecher"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.",
                 fr: "Si le Pokémon Actif de votre adversaire est un Pokémon‐ex, cette attaque inflige 90 dégâts supplémentaires.",
                 es: "Si el Pokémon Activo de tu rival es un Pokémon ex, este ataque hace 90 puntos de daño más.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 90 pontos de dano a mais.",
-                "zh-tw": "若對手的戰鬥寶可夢為「寶可夢ex」,則增加90點傷害。"
+                "zh-tw": "若對手的戰鬥寶可夢為「寶可夢ex」,則增加90點傷害。",
+                "it": "Se il Pokémon attivo del tuo avversario è un Pokémon-eX, questo attacco infligge 90 danni in più."
             },
             damage: "60+"
         }
@@ -77,5 +80,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

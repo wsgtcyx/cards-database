@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -57,14 +56,16 @@ const card: Card = {
                 fr: "Délit de Fuite",
                 es: "Golpe y Huida",
                 "pt-br": "Adornar e Cobrir",
-                "zh-tw": "打完就閃"
+                "zh-tw": "打完就閃",
+                "de": "Peinigen und Abhauen"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck.",
                 fr: "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Paralysé. Mélangez avec votre deck ce Pokémon et toutes les cartes attachées.",
                 es: "El Pokémon Activo de tu rival pasa a estar Envenenado y Paralizado. Pon este Pokémon y todas las cartas unidas a él en tu baraja y baraja todas las cartas.",
                 "pt-br": "O Pokémon Ativo do seu oponente agora está Envenenado e Paralisado. Embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho.",
-                "zh-tw": "將對手的戰鬥寶可夢中毒與麻痺。將這隻寶可夢與附加的卡,全部放回牌庫。"
+                "zh-tw": "將對手的戰鬥寶可夢中毒與麻痺。將這隻寶可夢與附加的卡,全部放回牌庫。",
+                "de": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und ist paralysiert. Mische dieses Pokémon und alle angelegten Karten in dein Deck."
             },
             damage: 50
         }
@@ -77,5 +78,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

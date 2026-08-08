@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -49,7 +48,9 @@ const card: Card = {
                 fr: "Aile Jet",
                 es: "Ala Propulsión",
                 "pt-br": "Asa a Jato",
-                "zh-tw": "噴射之翼"
+                "zh-tw": "噴射之翼",
+                "it": "Ala Jet",
+                "de": "Jet-Flügel"
             },
             effect: {
                 en: "During your next turn, this Pokémon can't attack.",
@@ -71,5 +72,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

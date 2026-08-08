@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -57,7 +56,9 @@ const card: Card = {
                 fr: "Trempette Glacée",
                 es: "Chapoteo Congelado",
                 "pt-br": "Borrifada Congelada",
-                "zh-tw": "結冰飛濺"
+                "zh-tw": "結冰飛濺",
+                "it": "Spruzzo Artico",
+                "de": "Frostiger Platscher"
             },
             effect: {
                 en: "If your opponent's Active Pokémon is a {F} Pokémon, this attack does 70 more damage.",
@@ -77,5 +78,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

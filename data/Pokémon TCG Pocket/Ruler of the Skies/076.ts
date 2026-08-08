@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -57,7 +56,9 @@ const card: Card = {
                 fr: "Contrôleur d'Esprit",
                 es: "Fusión Mental",
                 "pt-br": "Dobra Mentes",
-                "zh-tw": "精神歪曲"
+                "zh-tw": "精神歪曲",
+                "it": "Fusione Mentale",
+                "de": "Gedankenverbiegung"
             },
             effect: {
                 en: "Your opponent's Active Pokémon is now Confused.",
@@ -79,5 +80,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

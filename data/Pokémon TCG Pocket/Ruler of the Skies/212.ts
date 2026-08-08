@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,12 @@ const card: Card = {
     dexId: [150],
     stage: "Basic",
     description: {
-        en: "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling."
+        en: "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+        "fr": "Ce Pokémon est le fruit des expériences d'un scientifique. Sa puissance se révèle tout particulièrement en combat.",
+        "es": "Este Pokémon es el fruto de la investigación de cierto cientifico. La fuerza que atesora luce en codo su esplendor durante los combates.",
+        "it": "È stato creato da uno scienziato dopo lunghe ricerche. a sua potenza cere specimente nei lott",
+        "de": "Dieses Pokémon ist das Resultat der Experimente eines gewissen Forschers: Es setzt all seine Kraft fürs Kämpfen ein.",
+        "pt-br": "A pesquisa de um certo cientista acabou resultando neste Pokémon. Seus poderes existem unicamente para a batalha."
     },
     attacks: [
         {
@@ -50,7 +54,9 @@ const card: Card = {
                 fr: "Cette attaque inflige 40 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
                 es: "Este ataque hace 40 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival.",
                 "pt-br": "Este ataque causa 40 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente.",
-                "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×40點傷害。"
+                "zh-tw": "增加對手的戰鬥寶可夢身上的能量的數量×40點傷害。",
+                "it": "Questo attacco infligge 40 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario.",
+                "de": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 40 Schadenspunkte mehr zu."
             },
             damage: "10+"
         }
@@ -63,5 +69,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

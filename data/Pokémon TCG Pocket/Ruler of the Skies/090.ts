@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [774],
     stage: "Basic",
     description: {
-        en: "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats."
+        en: "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.",
+        "de": "Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab."
     },
     attacks: [
         {
@@ -41,7 +41,8 @@ const card: Card = {
                 fr: "Tacle Cosmique",
                 es: "Placaje Cósmico",
                 "pt-br": "Investida Cósmica",
-                "zh-tw": "宇宙衝撞"
+                "zh-tw": "宇宙衝撞",
+                "it": "Azione Cosmica"
             },
             effect: {
                 en: "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage.",
@@ -63,5 +64,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

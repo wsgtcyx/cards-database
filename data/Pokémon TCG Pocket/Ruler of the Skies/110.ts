@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -46,7 +45,8 @@ const card: Card = {
         fr: "Un Pokémon qui a évolué en portant la carapace\nd’un Escargaume. Une armure de fer protège tout\nson corps.",
         es: "Pokémon que evolucionó poniéndose el caparazón de\nShelmet. Su armazón de acero le protege todo el cuerpo.",
         it: "Pokémon che si è evoluto appropriandosi della conchiglia\ndi Shelmet. Un’armatura d’acciaio protegge tutto il suo corpo.",
-        de: "Es ist bei der Entwicklung in die Muschel eines Schnuthelm\ngeschlüpft. Die Eisenrüstung schützt seinen ganzen Körper."
+        de: "Es ist bei der Entwicklung in die Muschel eines Schnuthelm\ngeschlüpft. Die Eisenrüstung schützt seinen ganzen Körper.",
+        "pt-br": "Estes Pokémon evoluem ao vestir a concha de um Shelmet. A armadura de aço protege seu corpo inteiro."
     },
     attacks: [
         {
@@ -56,7 +56,9 @@ const card: Card = {
                 fr: "Lance de Fer",
                 es: "Lanza de Hierro",
                 "pt-br": "Lança de Ferro",
-                "zh-tw": "鐵槍"
+                "zh-tw": "鐵槍",
+                "it": "Spunzone Ferreo",
+                "de": "Eisenlanze"
             },
             damage: 70
         }
@@ -69,5 +71,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

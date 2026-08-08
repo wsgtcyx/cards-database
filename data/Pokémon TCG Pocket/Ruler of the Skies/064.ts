@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -46,7 +45,9 @@ const card: Card = {
                 fr: "Mini-Métronome",
                 es: "Minimetrónomo",
                 "pt-br": "Mini-metrônomo",
-                "zh-tw": "小揮指"
+                "zh-tw": "小揮指",
+                "it": "Minimetronomo,",
+                "de": "Mini-Metronom"
             },
             effect: {
                 en: "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
@@ -67,5 +68,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

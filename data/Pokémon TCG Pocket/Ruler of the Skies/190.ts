@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,9 +30,10 @@ const card: Card = {
         fr: "Vous ne pouvez utiliser cette carte que si votre Pokémon sur le Poste Actif est doté de l'attaque Psyko. Choisissez un des Pokémon de Banc de votre adversaire et déplacez au hasard une Énergie qui lui est attachée vers le Pokémon Actif de votre adversaire.",
         es: "Puedes usar esta carta solo si tu Pokémon Activo tiene el ataque Psíquico. Elige 1 de los Pokémon en Banca de tu rival y mueve 1 Energía aleatoria de él al Pokémon Activo de tu rival.",
         "pt-br": "Você só pode usar esta carta se o seu Pokémon no Campo Ativo tiver o ataque Psíquico. Escolha 1 dos Pokémon no Banco do seu oponente e mova 1 Energia aleatória dele para o Pokémon Ativo do seu oponente.",
-        "zh-tw": "這張卡只有在自己的戰鬥場上有持有「精神強念」招式的寶可夢時才可使用。 選擇1隻對手的備戰寶可夢,將該寶可夢身上的隨機1個能量,改附於對手的戰鬥寶可夢身上。"
+        "zh-tw": "這張卡只有在自己的戰鬥場上有持有「精神強念」招式的寶可夢時才可使用。 選擇1隻對手的備戰寶可夢,將該寶可夢身上的隨機1個能量,改附於對手的戰鬥寶可夢身上。",
+        "it": "Puoi usare questa carta solo se il tuo Pokémon attivo ha l'attacco Psichico. Scegli uno dei Pokémon nella panchina del tuo avversario e sposta un Energia a caso da quel Pokémon al Pokémon attivo del tuo avversario.",
+        "de": "Du kannst diese Karte nur einsetzen, wenn dein Pokémon in der Aktiven Position die Attacke Psychokinese hat. Wähle 1 Pokémon auf der Bank deines Gegners und verschiebe 1 zufällige Energie von diesem auf das Aktive Pokémon deines Gegners."
     },
     trainerType: "Supporter"
 };
-
 export default card;

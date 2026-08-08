@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -57,7 +56,9 @@ const card: Card = {
                 fr: "Attaque Carrée",
                 es: "Ataque al Cuadrado",
                 "pt-br": "Ataque Alinhado",
-                "zh-tw": "宏偉十字擊"
+                "zh-tw": "宏偉十字擊",
+                "it": "Attacco Squadrato",
+                "de": "Vierkantattacke"
             },
             effect: {
                 en: "Flip 4 coins. This attack does 50 damage for each heads.",
@@ -79,5 +80,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

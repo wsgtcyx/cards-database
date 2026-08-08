@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -46,7 +45,8 @@ const card: Card = {
         fr: "Il est très agressif. Il pique sa proie avec son long\nmuseau étroit et absorbe sa vitalité.",
         es: "Es un Pokémon agresivo. Con su boca larga y afilada\nataca a sus rivales para drenar sus fluidos.",
         it: "Ha un’indole aggressiva. Conficca la sua bocca\nlunga e sottile nelle prede e ne succhia i fluidi.",
-        de: "Es besitzt ein aggressives Wesen. Es sticht seinen\nRüssel in seine Beute und saugt sie aus."
+        de: "Es besitzt ein aggressives Wesen. Es sticht seinen\nRüssel in seine Beute und saugt sie aus.",
+        "pt-br": "Sua natureza é agressiva. Ele ataca suas presas com sua boca comprida e estreita para drenar os fluidos do inimigo"
     },
     attacks: [
         {
@@ -56,7 +56,8 @@ const card: Card = {
                 fr: "Envol Évo",
                 es: "Evovuelo",
                 "pt-br": "Evoluvoo",
-                "zh-tw": "進化飛行"
+                "zh-tw": "進化飛行",
+                "de": "Entwicklungsflug"
             },
             effect: {
                 en: "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
@@ -78,5 +79,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

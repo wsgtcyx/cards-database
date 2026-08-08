@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -30,7 +29,8 @@ const card: Card = {
     types: ["Grass"],
     stage: "Basic",
     description: {
-        en: "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
+        en: "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+        "es": "Es bromista y extremadamente curioso. A la hora de combatir, se sirve del tipo de energia que contenga la máscara que lleve puesta."
     },
     attacks: [
         {
@@ -40,14 +40,18 @@ const card: Card = {
                 fr: "Fouet du Monstre",
                 es: "Látigo del Ogro",
                 "pt-br": "Chicote de Ogro",
-                "zh-tw": "厄鬼鞭打"
+                "zh-tw": "厄鬼鞭打",
+                "it": "Frustata dell'Orco",
+                "de": "Ogerpeitsche"
             },
             effect: {
                 en: "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP.",
                 fr: "Cette attaque inflige au Pokémon Actif de votre adversaire des dégâts équivalents aux PV restants de ce Pokémon.",
                 es: "Este ataque hace una cantidad de daño al Pokémon Activo de tu rival igual a los PS que le queden a este Pokémon.",
                 "pt-br": "Este ataque causa dano ao Pokémon Ativo do seu oponente equivalente ao PS restante deste Pokémon.",
-                "zh-tw": "對對手的戰鬥寶可夢造成與這隻寶可夢的剩餘HP相同數值的傷害。"
+                "zh-tw": "對對手的戰鬥寶可夢造成與這隻寶可夢的剩餘HP相同數值的傷害。",
+                "it": "Questo attacco infligge al Pokémon attivo dell'avversario danni pari alla quantità di PS rimasti a questo Pokémon.",
+                "de": "Diese Attacke fügt dem Aktiven Pokémon deines Gegners Schaden in Höhe der verbleibenden KP dieses Pokémon zu."
             }
         }
     ],
@@ -59,5 +63,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

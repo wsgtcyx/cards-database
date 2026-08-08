@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -57,7 +56,8 @@ const card: Card = {
                 fr: "Blizzard Bloqueur",
                 es: "Bloqueo Ventisca",
                 "pt-br": "Bloqueio Nevasca",
-                "zh-tw": "暴雪封鎖"
+                "zh-tw": "暴雪封鎖",
+                "de": "Blizzardsperre"
             },
             effect: {
                 en: "Your opponent can't use any Supporter cards from their hand during their next turn.",
@@ -79,5 +79,4 @@ const card: Card = {
     ],
     retreat: 4
 };
-
 export default card;

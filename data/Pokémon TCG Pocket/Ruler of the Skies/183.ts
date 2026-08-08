@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -49,14 +48,16 @@ const card: Card = {
                 fr: "Éclaboussure Miracle",
                 es: "Olas Milagrosas",
                 "pt-br": "Ondas Encantadas",
-                "zh-tw": "奇跡鯨濤"
+                "zh-tw": "奇跡鯨濤",
+                "it": "Onde Prodigiose"
             },
             effect: {
                 en: "This Pokémon recovers from all Special Conditions.",
                 fr: "Ce Pokémon guérit de tous les États Spéciaux.",
                 es: "Este Pokémon se recupera de todas las Condiciones Especiales.",
                 "pt-br": "Este Pokémon se recupera de todas as Condições Especiais.",
-                "zh-tw": "將這隻寶可夢的特殊狀態全部恢復。"
+                "zh-tw": "將這隻寶可夢的特殊狀態全部恢復。",
+                "it": "Questo Pokémon guarisce da tutte le condizioni speciali."
             },
             damage: 100
         }
@@ -69,5 +70,4 @@ const card: Card = {
     ],
     retreat: 4
 };
-
 export default card;

@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes."
+        en: "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes.",
+        "es": "Se refieren a él como un Pokémon divino. Cuando le brilla el cuerpo, el tiempo cambia inmediatamente.",
+        "it": "È chiamato il Pokémon sacro. Quando il corpo emana un lieve bagliore, cambia il tempo."
     },
     abilities: [
         {
@@ -52,7 +53,9 @@ const card: Card = {
                 fr: "Bénédiction du Dragon",
                 es: "Bendición Dragontina",
                 "pt-br": "Bênção do Dragão",
-                "zh-tw": "龍恩"
+                "zh-tw": "龍恩",
+                "it": "Preghiera del Drago",
+                "de": "Drachensegen"
             },
             effect: {
                 en: "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon.",
@@ -80,5 +83,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

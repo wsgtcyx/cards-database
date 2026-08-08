@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -52,7 +51,9 @@ const card: Card = {
                 fr: "Brise Fondation",
                 es: "Rompecimientos",
                 "pt-br": "Quebrador de Alicerce",
-                "zh-tw": "岩盤崩裂"
+                "zh-tw": "岩盤崩裂",
+                "it": "Infrangiroccia",
+                "de": "Felsgrundbrecher"
             },
             effect: {
                 en: "Discard a Stadium in play.",
@@ -74,5 +75,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

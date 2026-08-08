@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,8 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out."
+        en: "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+        "es": "Exterappli, el que saca la cabeza, e Interappli, el que saca la cola, viven juntos dentro de la manzana y se ayudan el uno al otro."
     },
     attacks: [
         {
@@ -70,5 +70,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

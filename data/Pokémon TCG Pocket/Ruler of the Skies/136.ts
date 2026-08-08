@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,9 @@ const card: Card = {
     dexId: [352],
     stage: "Basic",
     description: {
-        en: "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however."
+        en: "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+        "fr": "Il change de couleur pour se fondre dans son environnement, afin de s'approcher furtivement de ses proies. Seul son motif ventral reste visible.",
+        "de": "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich."
     },
     attacks: [
         {
@@ -41,7 +42,8 @@ const card: Card = {
                 fr: "Paire de Gifles",
                 es: "Bofetada Copiona",
                 "pt-br": "Tapa Combinado",
-                "zh-tw": "撞能巴掌"
+                "zh-tw": "撞能巴掌",
+                "it": "Schiaffaffine"
             },
             effect: {
                 en: "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage.",
@@ -61,5 +63,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

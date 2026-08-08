@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle."
+        en: "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+        "es": "Cuando reina la oscuridad, hace temblar incluso a los Hydreigon. En cambio, evita luchar a plena luz.",
+        "de": "In der Dunkelheit wird es sogar von Trikephalo gefürchtet. Tagsüber geht es Kämpfen jedoch aus dem Weg."
     },
     attacks: [
         {
@@ -61,11 +62,12 @@ const card: Card = {
                 fr: "Un des Pokémon de votre adversaire est choisi au hasard 3 fois. Pour chaque fois où un Pokémon est choisi, il subit 60 dégâts.",
                 es: "Se elige 3 veces a un Pokémon aleatorio de tu rival. Haz a cada uno 60 puntos de daño por cada vez que haya resultado elegido.",
                 "pt-br": "3 vezes, um Pokémon do oponente é escolhido aleatoriamente. Para cada vez que um Pokémon for escolhido, cause 60 pontos de dano a ele.",
-                "zh-tw": "對手的寶可夢會隨機被選擇3次,被選擇的所有寶可夢受到被選擇的次數×60點傷害。"
+                "zh-tw": "對手的寶可夢會隨機被選擇3次,被選擇的所有寶可夢受到被選擇的次數×60點傷害。",
+                "it": "Un Pokémon del tuo avversario viene scelto a caso 3 volte. Per ogni volta che un Pokémon è stato scelto, infliggigli 60 danni.",
+                "de": "1 Pokémon deines Gegners wird 3-mal zufällig ausgewählt. Füge ihm jedes Mal, wenn es ausgewählt wurde, 60 Schadenspunkte zu."
             }
         }
     ],
     retreat: 1
 };
-
 export default card;

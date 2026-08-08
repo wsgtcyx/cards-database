@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -30,7 +29,8 @@ const card: Card = {
     types: ["Metal"],
     stage: "Basic",
     description: {
-        en: "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth."
+        en: "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
+        "fr": "Plus la pièce de son front est sombre, plus elle est dure et inspire le respect à ses congénères Il est aguerri et ne connait pas la peur."
     },
     attacks: [
         {
@@ -55,5 +55,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

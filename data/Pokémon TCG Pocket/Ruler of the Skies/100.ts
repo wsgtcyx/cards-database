@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -47,7 +46,9 @@ const card: Card = {
                 fr: "Lame Améliorée",
                 es: "Tajo Mejorado",
                 "pt-br": "Espada Melhorada",
-                "zh-tw": "強化斬"
+                "zh-tw": "強化斬",
+                "it": "Superlama",
+                "de": "Verstärkte Klinge"
             },
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
@@ -69,5 +70,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -45,14 +44,17 @@ const card: Card = {
                 fr: "Marée Explosive",
                 es: "Explosión Marina",
                 "pt-br": "Maré Explosiva",
-                "zh-tw": "潮汐爆破"
+                "zh-tw": "潮汐爆破",
+                "it": "Mareggiata Rovinosa",
+                "de": "Gezeitenstoß"
             },
             effect: {
                 en: "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.",
                 fr: "Défaussez 3 Énergies {W} de ce Pokémon. Cette attaque inflige 50 dégâts à chacun des Pokémon de votre adversaire.",
                 es: "Descarta 3 Energías {W} de este Pokémon. Este ataque hace 50 puntos de daño a cada uno de los Pokémon de tu rival.",
                 "pt-br": "Descarte 3 Energias {W} deste Pokémon, e este ataque causa 50 pontos de dano a cada um dos Pokémon do seu oponente.",
-                "zh-tw": "將這隻寶可夢身上的3個{W}能量丟棄,對手的所有寶可夢受到50點傷害。"
+                "zh-tw": "將這隻寶可夢身上的3個{W}能量丟棄,對手的所有寶可夢受到50點傷害。",
+                "de": "Lege 3 {W}-Energien von diesem Pokémon auf deinen Ablagestapel, und diese Attacke fügt jedem Pokémon deines Gegners 50 Schadenspunkte zu."
             }
         }
     ],
@@ -64,5 +66,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

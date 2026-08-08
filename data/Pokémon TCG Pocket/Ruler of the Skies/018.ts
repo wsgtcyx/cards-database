@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset."
+        en: "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+        "fr": "il aime les endroits frais et sombres, comme le dessous d'un plancher ou le fond d'une étagère. A la nuit tombée, il erre en quête de proies.",
+        "it": "Gli piace stare in posti bui e freschi, ad esempio in fondo agli scaffali o sotto i pavimenti delle case. Dopo il tramonto vaga in cerca di prede."
     },
     attacks: [
         {
@@ -76,5 +77,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -41,7 +40,9 @@ const card: Card = {
                 fr: "Griffes Affûtées",
                 es: "Garras Afiladas",
                 "pt-br": "Garras Cortantes",
-                "zh-tw": "銳利之爪"
+                "zh-tw": "銳利之爪",
+                "it": "Artigli Affilati",
+                "de": "Scharfe Krallen"
             },
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",
@@ -63,5 +64,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage2",
     description: {
-        en: "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed."
+        en: "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+        "es": "Unos Viborappli caprichosos que comparten morada. En raras ocasiones se ponen de acuerdo y son capaces de mostrar su verdadera fuerza.",
+        "it": "Un gruppo di Appliserpi capricciose che occupa un unica dimora. Nelle rare occasioni in cui si trovano d'accordo, sfoderano la loro vera forza."
     },
     attacks: [
         {
@@ -61,12 +62,12 @@ const card: Card = {
                 fr: "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 100 dégâts de plus.",
                 es: "Lanza 2 monedas. Si en todas sale cara, este ataque hace 100 puntos de daño más.",
                 "pt-br": "Jogue 2 moedas. Se todas elas saírem cara, este ataque causará 100 pontos de dano a mais.",
-                "zh-tw": "擲2次硬幣,若全部為正面,則增加100點傷害。"
+                "zh-tw": "擲2次硬幣,若全部為正面,則增加100點傷害。",
+                "de": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu."
             },
             damage: "100+"
         }
     ],
     retreat: 2
 };
-
 export default card;

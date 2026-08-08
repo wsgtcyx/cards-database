@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,8 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away."
+        en: "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+        "de": "Es besitzt ein exzellentes Hörvermögen. Darum kann es eine Nadel fallen hören, selbst wenn sie 1 km entfernt ist."
     },
     attacks: [
         {
@@ -67,5 +67,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

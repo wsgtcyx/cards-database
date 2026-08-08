@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [751],
     stage: "Basic",
     description: {
-        en: "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble."
+        en: "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.",
+        "pt-br": "A bolha de água que envolve sua cabeça é apoiada por suas tres pernas. As vezes, troca sutilmente as pernas que sustentam sua bolha."
     },
     attacks: [
         {
@@ -56,5 +56,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

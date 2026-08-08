@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,9 +30,10 @@ const card: Card = {
         fr: "Prenez une Énergie {C} de votre zone Énergie et attachez‐la à un de vos Pokémon de Niveau 2.",
         es: "Une 1 Energía {C} de tu área de Energía a 1 de tus Pokémon de Fase 2.",
         "pt-br": "Pegue uma Energia {C} da sua Zona de Energia e ligue-a a 1 dos seus Pokémon Estágio 2.",
-        "zh-tw": "從自己的能量區抽出1個{C}能量,附於2階進化寶可夢身上。"
+        "zh-tw": "從自己的能量區抽出1個{C}能量,附於2階進化寶可夢身上。",
+        "it": "Prendi un'Energia {C} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon di Fase 2.",
+        "de": "Lege 1 {C}-Energie aus deinem Energiebereich an 1 deiner Phase 2 Pokémon an."
     },
     trainerType: "Supporter"
 };
-
 export default card;

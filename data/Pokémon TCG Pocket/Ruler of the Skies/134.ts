@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -35,7 +34,8 @@ const card: Card = {
         fr: "Un Pokémon très mignon qui aime parfois courir\nen cercle en chassant sa propre queue.",
         es: "Le gusta jugar persiguiéndose la cola hasta que se\nmarea, mostrando así su lado más mono.",
         it: "È davvero carino quando barcolla per i giramenti di\ntesta, dopo aver cercato di mordersi la coda.",
-        de: "Es zeigt gerne seine niedliche Seite, indem es seinen\neigenen Schweif jagt, bis ihm schwindlig wird."
+        de: "Es zeigt gerne seine niedliche Seite, indem es seinen\neigenen Schweif jagt, bis ihm schwindlig wird.",
+        "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto"
     },
     attacks: [
         {
@@ -54,7 +54,9 @@ const card: Card = {
                 fr: "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 20 dégâts.",
                 es: "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor hacen -20 puntos de daño.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
-                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。"
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。",
+                "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
+                "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu."
             }
         }
     ],
@@ -66,5 +68,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

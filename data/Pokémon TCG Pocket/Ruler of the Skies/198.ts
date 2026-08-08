@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -49,7 +48,9 @@ const card: Card = {
                 fr: "Lame Résonante",
                 es: "Hoja Resonante",
                 "pt-br": "Lâmina Ressonante",
-                "zh-tw": "共鳴刃"
+                "zh-tw": "共鳴刃",
+                "it": "Lama Risonante",
+                "de": "Resonanzklinge"
             },
             effect: {
                 en: "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
@@ -71,5 +72,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

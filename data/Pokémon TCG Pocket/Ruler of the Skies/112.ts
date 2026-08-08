@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [884],
     stage: "Basic",
     description: {
-        en: "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail."
+        en: "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+        "pt-br": "O seu corpo de metal é resistente, mas propenso a reter calor. Libera o calor pelas fendas de sua cauda."
     },
     attacks: [
         {
@@ -56,5 +56,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

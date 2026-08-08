@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -58,7 +57,8 @@ const card: Card = {
                 fr: "Arc Électrique",
                 es: "Chispa Eléctrica",
                 "pt-br": "Centelha Elétrica",
-                "zh-tw": "電電光"
+                "zh-tw": "電電光",
+                "it": "Elettroscintilla"
             },
             effect: {
                 en: "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
@@ -80,5 +80,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

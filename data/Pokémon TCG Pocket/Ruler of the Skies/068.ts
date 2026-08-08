@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -45,7 +44,9 @@ const card: Card = {
                 fr: "Danse qui Copie",
                 es: "Mimomezcla",
                 "pt-br": "Embaralhada Imitante",
-                "zh-tw": "擬擬重抽"
+                "zh-tw": "擬擬重抽",
+                "it": "Mimimischiata",
+                "de": "Imitierendes Mischen"
             },
             effect: {
                 en: "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
@@ -60,5 +61,4 @@ const card: Card = {
     ],
     retreat: 0
 };
-
 export default card;

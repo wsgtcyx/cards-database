@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,9 +30,10 @@ const card: Card = {
         fr: "Échangez votre Pokémon de Niveau 1 Actif contre un de vos Pokémon de Banc.",
         es: "Cambia tu Pokémon de Fase 1 Activo por 1 de tus Pokémon en Banca.",
         "pt-br": "Troque o seu Pokémon Estágio 1 Ativo por 1 dos seus Pokémon no Banco.",
-        "zh-tw": "將自己的戰鬥場的1階進化寶可夢與備戰寶可夢互換。"
+        "zh-tw": "將自己的戰鬥場的1階進化寶可夢與備戰寶可夢互換。",
+        "it": "Scambia il tuo Pokémon attivo di Fase 1 con uno della tua panchina.",
+        "de": "Tausche dein Aktives Phase-1-Pokémon gegen 1 Pokémon auf deiner Bank aus."
     },
     trainerType: "Supporter"
 };
-
 export default card;

@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,9 @@ const card: Card = {
     dexId: [235],
     stage: "Basic",
     description: {
-        en: "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE."
+        en: "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.",
+        "de": "Die Farbe des mysteriösen Sekrets, das aus ihrer Schweifspitze austritt, variiert je nach Farbeagle.",
+        "pt-br": "A cor do fluido misterioso secretado da ponta da cauda é predeterminada para cada Smeargle"
     },
     abilities: [
         {
@@ -79,5 +80,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

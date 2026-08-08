@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [415],
     stage: "Basic",
     description: {
-        en: "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN."
+        en: "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
+        "pt-br": "O trio está unido desde o nascimento. Coleta néctar de flores constantemente para agradar Vespiquen"
     },
     attacks: [
         {
@@ -65,5 +65,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -38,7 +37,9 @@ const card: Card = {
                 fr: "Kunaï Sournois",
                 es: "Bala Sombra",
                 "pt-br": "Projétil Sombrio",
-                "zh-tw": "暗影子彈"
+                "zh-tw": "暗影子彈",
+                "it": "Dardombra",
+                "de": "Schattenkugel"
             },
             effect: {
                 en: "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
@@ -82,5 +83,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

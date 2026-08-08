@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -58,14 +57,18 @@ const card: Card = {
                 fr: "Choc Évolutif",
                 es: "Evoimpacto",
                 "pt-br": "Evochoque",
-                "zh-tw": "進化衝擊"
+                "zh-tw": "進化衝擊",
+                "it": "Evoshock",
+                "de": "Evoschock"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
                 fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez lancer une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
                 es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes lanzar 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá jogar uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado.",
-                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。"
+                "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。擲1次硬幣若為正面,則將對手的戰鬥寶可夢麻痺。",
+                "it": "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi lanciare una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato.",
+                "de": "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Münze werfen. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
             }
         }
     ],
@@ -92,5 +95,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

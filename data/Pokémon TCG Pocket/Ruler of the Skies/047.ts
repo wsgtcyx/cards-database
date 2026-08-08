@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws."
+        en: "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.",
+        "it": "Lancia delle bolle d'acqua appiccicose per inglobare il nemico. Quando questi perde i sensi, lo fa a pezzi con le grosse mandibole.",
+        "de": "Es verschießt klebrige Wasserblasen, um Feinde darin einzuschließen. Werden diese bewusstlos. zerlegt es sie mit seinem großen Mundwerkzeug."
     },
     attacks: [
         {
@@ -76,5 +77,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

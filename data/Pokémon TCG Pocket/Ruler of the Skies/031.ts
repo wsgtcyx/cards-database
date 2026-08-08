@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,8 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond."
+        en: "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+        "pt-br": "Nada graciosamente por rios e lagos tranquilos e lentos, dos quais gosta muito."
     },
     attacks: [
         {
@@ -67,5 +67,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

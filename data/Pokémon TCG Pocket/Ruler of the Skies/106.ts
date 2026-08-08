@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,10 @@ const card: Card = {
     dexId: [374],
     stage: "Basic",
     description: {
-        en: "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body."
+        en: "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+        "es": "Todas sus células cuentan con carga magnética, y se comunica con los suyos a través de pulsos electromagnéticos.",
+        "it": "Le cellule del suo corpo sono calamite. Il suo corpo emette onde magnetiche, tramite le quali comunica con i suoi simili.",
+        "zh-tw": "全身細胞都由磁鐵構成。會從身體放出磁力藉此和夥伴對話。"
     },
     abilities: [
         {
@@ -41,7 +43,8 @@ const card: Card = {
                 fr: "Corps Conducteur",
                 es: "Cuerpo Conductor",
                 "pt-br": "Corpo Condutor",
-                "zh-tw": "牽引身軀"
+                "zh-tw": "牽引身軀",
+                "de": "Leitender Körper"
             },
             effect: {
                 en: "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less.",
@@ -75,5 +78,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

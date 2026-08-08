@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -32,7 +31,9 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
-        fr: "Ils agissent en groupes. Ils possèdent\nun organe produisant de l’électricité et\nlancent des décharges en cas de danger."
+        fr: "Ils agissent en groupes. Ils possèdent\nun organe produisant de l’électricité et\nlancent des décharges en cas de danger.",
+        "de": "Es besitzt ein Organ, mit dem es im Notfall Elektrizität erzeugen kann. Es tritt stets in Schwärmen auf.",
+        "pt-br": "Estes Pokémon movem-se em cardumes. Possuem um órgão gerador de eletricidade, que é descarregada em caso de perigo."
     },
     attacks: [
         {
@@ -57,5 +58,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

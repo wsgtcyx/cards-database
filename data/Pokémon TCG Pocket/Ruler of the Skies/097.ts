@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -56,14 +55,16 @@ const card: Card = {
                 fr: "Super Basse",
                 es: "Control de Bajos",
                 "pt-br": "Controle de Baixo",
-                "zh-tw": "重低音"
+                "zh-tw": "重低音",
+                "de": "Basskontrolle"
             },
             effect: {
                 en: "This attack does 80 damage to 1 of your opponent's Pokémon.",
                 fr: "Cette attaque inflige 80 dégâts à l'un des Pokémon de votre adversaire.",
                 es: "Este ataque hace 80 puntos de daño a 1 de los Pokémon de tu rival.",
                 "pt-br": "Este ataque causa 80 pontos de dano a 1 dos Pokémon do seu oponente.",
-                "zh-tw": "對手的1隻寶可夢受到80點傷害。"
+                "zh-tw": "對手的1隻寶可夢受到80點傷害。",
+                "de": "Diese Attacke fügt 1 Pokémon deines Gegners 80 Schadenspunkte zu."
             }
         }
     ],
@@ -75,5 +76,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

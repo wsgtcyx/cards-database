@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands."
+        en: "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+        "fr": "Ses queues jumelles sont si agiles et si efficaces que Capidextre ne se sert que très rarement de ses bras.",
+        "de": "Sein Schweif hat sich in zwei gespalten. Es kann so geschickt mit diesen Schweifen umgehen, dass es seine Hände nur noch selten gebraucht."
     },
     attacks: [
         {
@@ -67,5 +68,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

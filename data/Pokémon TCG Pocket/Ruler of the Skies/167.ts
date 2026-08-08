@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,9 @@ const card: Card = {
     dexId: [280],
     stage: "Basic",
     description: {
-        en: "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility."
+        en: "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+        "es": "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde.",
+        "de": "Es hat ein feines Gespür für die Gefühle der Menschen und Pokémon. Wenn es Feindseligkeit wahrnimmt, versteckt es sich."
     },
     attacks: [
         {
@@ -64,5 +65,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

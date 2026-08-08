@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -49,7 +48,9 @@ const card: Card = {
                 fr: "Turbo Requin",
                 es: "Turboescualo",
                 "pt-br": "Turbarão",
-                "zh-tw": "增能鯊擊"
+                "zh-tw": "增能鯊擊",
+                "it": "Turbosqualo",
+                "de": "Turbohai"
             },
             effect: {
                 en: "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched {W} Pokémon.",
@@ -71,5 +72,4 @@ const card: Card = {
     ],
     retreat: 0
 };
-
 export default card;

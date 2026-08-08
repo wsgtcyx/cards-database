@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -36,7 +35,8 @@ const card: Card = {
         es: "Usa llamas a modo de lengua para derretir\nel duro exoesqueleto de los Durant antes de\ndevorarlos.",
         it: "Usa la fiamma a mo’ di lingua. Liquefà il duro\nesoscheletro dei Durant e poi ne fa un sol\nboccone.",
         de: "Es nutzt eine Flamme als Zunge. Damit bringt es\ndie Panzer von Fermicula zum Schmelzen und\nverspeist im Anschluss ihr Inneres.",
-        "zh-tw": "將火焰當成舌頭來使用。\n會一點一點地熔化鐵蟻\n堅硬的外骨骼，然後把牠吃掉。"
+        "zh-tw": "將火焰當成舌頭來使用。\n會一點一點地熔化鐵蟻\n堅硬的外骨骼，然後把牠吃掉。",
+        "pt-br": "A lingua de Heatmor é uma chama capaz de derreter o casco duro de Durant. permitindo que devore tudo o que há dentro."
     },
     attacks: [
         {
@@ -61,5 +61,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

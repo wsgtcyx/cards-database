@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -49,7 +48,9 @@ const card: Card = {
                 fr: "Enfer Destructeur",
                 es: "Infierno Devastador",
                 "pt-br": "Inferno Destrutivo",
-                "zh-tw": "破壞業火"
+                "zh-tw": "破壞業火",
+                "it": "Incendio Distruttivo",
+                "de": "Verzehrendes Inferno 110"
             },
             effect: {
                 en: "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
@@ -71,5 +72,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

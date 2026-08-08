@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -58,7 +57,8 @@ const card: Card = {
                 fr: "Double Personnalisation",
                 es: "Doble Personalización",
                 "pt-br": "Personalização Dupla",
-                "zh-tw": "雙重改造"
+                "zh-tw": "雙重改造",
+                "de": "Doppel-Modifizierung"
             },
             effect: {
                 en: "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
@@ -99,5 +99,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

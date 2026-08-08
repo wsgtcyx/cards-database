@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -56,14 +55,18 @@ const card: Card = {
                 fr: "Collectionneur de Cocons",
                 es: "Colección de Crisálidas",
                 "pt-br": "Colecionador de Casulos",
-                "zh-tw": "繭聚一堂"
+                "zh-tw": "繭聚一堂",
+                "it": "Collezionista di Crisalidi",
+                "de": "Kokonsammler"
             },
             effect: {
                 en: "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench.",
                 fr: "Placez 3 cartes au hasard parmi Armulys et Blindalys de votre deck sur votre Banc.",
                 es: "Pon 3 cartas aleatorias de entre Silcoon y Cascoon de tu baraja en tu Banca.",
                 "pt-br": "Coloque 3 cartas aleatórias dentre Silcoon e Cascoon do seu baralho no seu Banco.",
-                "zh-tw": "從自己的牌庫隨機將3張「甲殼繭」或「盾甲繭」放置於備戰區。"
+                "zh-tw": "從自己的牌庫隨機將3張「甲殼繭」或「盾甲繭」放置於備戰區。",
+                "it": "Prendi 3 Pokémon a caso tra Silcoon e Cascoon dal tuo mazzo e mettili nella tua panchina.",
+                "de": "Lege von den Karten Schaloko und Panekon 3 zufällige aus deinem Deck auf deine Bank."
             }
         }
     ],
@@ -75,5 +78,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

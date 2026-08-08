@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [967],
     stage: "Basic",
     description: {
-        en: "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
+        en: "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
+        "it": "Trasporta esseri umani sfrecciando a una velocità di 120 km/h. La temperatura corporea di chi trasporta gli scalda il dorso, dandogli energia."
     },
     attacks: [
         {
@@ -41,7 +41,9 @@ const card: Card = {
                 fr: "Conduite Accélérée",
                 es: "Impulso Aceleración",
                 "pt-br": "Câmbio Acelerado",
-                "zh-tw": "高速猛衝"
+                "zh-tw": "高速猛衝",
+                "it": "-Propulsione Rapida",
+                "de": "Schnellganggetriebe"
             },
             effect: {
                 en: "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
@@ -57,5 +59,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

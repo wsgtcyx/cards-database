@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -56,14 +55,18 @@ const card: Card = {
                 fr: "Poudres Variées",
                 es: "Polvo Variado",
                 "pt-br": "Pó Variado",
-                "zh-tw": "多變粉"
+                "zh-tw": "多變粉",
+                "it": "Polvere Multieffetto",
+                "de": "Vielseitiger Puder"
             },
             effect: {
                 en: "Once during your turn, you may use this Ability. 1 Special Condition from among Burned, Confused, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
                 fr: "Une fois pendant votre tour, vous pouvez utiliser ce talent. Le Pokémon Actif de votre adversaire est maintenant affecté par un État Spécial choisi au hasard parmi Brûlé, Confus et Empoisonné. Tout État Spécial qui affecte déjà ce Pokémon ne sera pas choisi.",
                 es: "Una vez durante tu turno, puedes usar esta habilidad. Se elige 1 Condición Especial aleatoria de entre Quemado, Confundido y Envenenado. El Pokémon Activo de tu rival pasa a estar afectado por esa Condición Especial. No se elegirá ninguna Condición Especial que ya esté afectando a ese Pokémon.",
                 "pt-br": "Uma vez durante o seu turno, você poderá usar esta Habilidade. 1 Condição Especial dentre Queimado, Confuso e Envenenado será escolhida aleatoriamente, e o Pokémon Ativo do seu oponente agora estará afetado por aquela Condição Especial. Nenhuma Condição Especial que já estiver afetando aquele Pokémon será escolhida.",
-                "zh-tw": "在自己的回合時,可使用1次。從中毒、灼傷、混亂中會隨機被選出1種,讓對手的戰鬥寶可夢陷入該特殊狀態。不會選出已經受到的特殊狀態。"
+                "zh-tw": "在自己的回合時,可使用1次。從中毒、灼傷、混亂中會隨機被選出1種,讓對手的戰鬥寶可夢陷入該特殊狀態。不會選出已經受到的特殊狀態。",
+                "it": "Una sola volta durante il tuo turno, puoi usare questa abilità. Il Pokémon attivo dell'avversario viene influenzato da una condizione speciale scelta a caso tra bruciato, confuso e avvelenato. Eventuali condizioni speciali da cui è già influenzato il Pokémon non verranno scelte.",
+                "de": "Einmal während deines Zuges kannst du diese Fähigkeit einsetzen. 1 Spezieller Zustand wird zufällig aus Verbrennung, Verwirrung und Vergiftung ausgewählt. Das Aktive Pokémon deines Gegners ist jetzt von diesem Zustand betroffen. Spezielle Zustände, von denen das Pokémon bereits betroffen ist, werden nicht ausgewählt."
             }
         }
     ],
@@ -90,5 +93,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

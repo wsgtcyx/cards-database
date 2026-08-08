@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,8 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "By gathering their tails together, they collectively generate powerful electricity from their claws."
+        en: "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+        "fr": "Lorsqu'ils joignent leurs queues, leurs griffes peuvent libérer des décharges électriques encore plus fortes"
     },
     attacks: [
         {
@@ -67,5 +67,4 @@ const card: Card = {
     ],
     retreat: 0
 };
-
 export default card;

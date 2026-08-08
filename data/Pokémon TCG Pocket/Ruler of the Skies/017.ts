@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,9 @@ const card: Card = {
     dexId: [1012],
     stage: "Basic",
     description: {
-        en: "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated."
+        en: "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+        "it": "Può sembrare una forma regionale di Sinistea, ma di recente si è scoperto che non c'è alcuna relazione fra questi due Pokémon.",
+        "de": "Es sieht aus wie eine Regionalform von Fatalitee. doch vor Kurzem fand man heraus, dass zwischen den beiden Pokémon keine Verbindung besteht."
     },
     abilities: [
         {
@@ -77,5 +78,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

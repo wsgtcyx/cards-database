@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage2",
     description: {
-        en: "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches."
+        en: "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+        "es": "Tiene unos brazos duros como la roca, con los que puede dejar molido al enemigo de un solo golpe. Construye su nido en playas bonicas.",
+        "pt-br": "Os braços de Swampert são duros como pedra e, com um único golpe, conseguem derrubar os inimigos. Este Pokémon faz ninho em praias maravilhosas."
     },
     attacks: [
         {
@@ -76,5 +77,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

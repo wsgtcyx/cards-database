@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -38,7 +37,9 @@ const card: Card = {
                 fr: "Méga Explosion",
                 es: "Megaexplosión",
                 "pt-br": "Megaexplosão",
-                "zh-tw": "超級爆發"
+                "zh-tw": "超級爆發",
+                "it": "Megascoppio",
+                "de": "Mega-Explosion"
             },
             effect: {
                 en: "Discard all {R} and {L} Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way.",
@@ -52,5 +53,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

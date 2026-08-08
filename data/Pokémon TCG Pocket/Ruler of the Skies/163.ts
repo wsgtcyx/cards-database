@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -52,7 +51,9 @@ const card: Card = {
                 fr: "Position",
                 es: "Afirmación",
                 "pt-br": "Em Posição",
-                "zh-tw": "試探"
+                "zh-tw": "試探",
+                "it": "In Guardia",
+                "de": "Abwehrhaltung"
             },
             effect: {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all damage from—and effects of—attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn.",
@@ -95,5 +96,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

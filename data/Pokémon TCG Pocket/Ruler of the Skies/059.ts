@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -45,7 +44,9 @@ const card: Card = {
                 fr: "Éclair Désastre",
                 es: "Voltio Catastrófico",
                 "pt-br": "Voltagem do Desastre",
-                "zh-tw": "災難伏特"
+                "zh-tw": "災難伏特",
+                "it": "Elettrodisastro",
+                "de": "Stromschwall"
             },
             effect: {
                 en: "Discard a {L} Energy from this Pokémon.",
@@ -67,5 +68,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

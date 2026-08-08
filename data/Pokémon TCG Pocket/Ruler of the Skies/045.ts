@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -46,14 +45,18 @@ const card: Card = {
                 fr: "Pompe Minérale",
                 es: "Bombeo Mineral",
                 "pt-br": "Bomba Mineral",
-                "zh-tw": "礦質水炮"
+                "zh-tw": "礦質水炮",
+                "it": "Pompa Minerale",
+                "de": "Mineralpumpe"
             },
             effect: {
                 en: "Heal 10 damage from each of your Benched Pokémon.",
                 fr: "Soignez 10 dégâts de chacun de vos Pokémon de Banc.",
                 es: "Cura 10 puntos de daño a cada uno de tus Pokémon en Banca.",
                 "pt-br": "Cure 10 pontos de dano de cada um dos seus Pokémon no Banco.",
-                "zh-tw": "將自己的所有備戰寶可夢恢復10HP。"
+                "zh-tw": "將自己的所有備戰寶可夢恢復10HP。",
+                "it": "Cura ciascuno dei tuoi Pokémon in panchina da 10 danni.",
+                "de": "Heile 10 Schadenspunkte bei jedem deiner Pokémon auf der Bank."
             },
             damage: 40
         }
@@ -66,5 +69,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

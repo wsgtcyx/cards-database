@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -36,7 +35,8 @@ const card: Card = {
         es: "Debido a su peculiar constitución, reacciona\nante la energía eléctrica. Por alguna misteriosa\nrazón, evoluciona en presencia de Karrablast.",
         it: "Il suo corpo reagisce misteriosamente all’energia\nelettrica. Pare che si evolva se si trova in\npresenza di Karrablast.",
         de: "Sein Körper reagiert unerklärlicherweise auf\nElektrizität. Es heißt, die Anwesenheit von\nLaukaps löse bei ihm die Entwicklung aus.",
-        "zh-tw": "有著會對電能產生反應\n的奇異體質。不知為何，\n和蓋蓋蟲待在一起就會進化。"
+        "zh-tw": "有著會對電能產生反應\n的奇異體質。不知為何，\n和蓋蓋蟲待在一起就會進化。",
+        "pt-br": "A fisiologia estranha deste Pokémon reage à eletricidade. Por alguma razão, Shelmet evolui quando está perto de Karrablast."
     },
     attacks: [
         {
@@ -46,7 +46,9 @@ const card: Card = {
                 fr: "Carap'Attaque",
                 es: "Conchaataque",
                 "pt-br": "Ataque de Concha do Mar",
-                "zh-tw": "硬殼攻擊"
+                "zh-tw": "硬殼攻擊",
+                "it": "Conchigliata",
+                "de": "Seemuschelangriff"
             },
             damage: 20
         }
@@ -59,5 +61,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

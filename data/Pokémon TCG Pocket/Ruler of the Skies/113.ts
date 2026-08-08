@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -52,14 +51,18 @@ const card: Card = {
                 fr: "Lame en Furie",
                 es: "Tajo Furioso",
                 "pt-br": "Lâmina Devastadora",
-                "zh-tw": "憤怒之刃"
+                "zh-tw": "憤怒之刃",
+                "it": "Lama Furente",
+                "de": "Wutklinge"
             },
             effect: {
                 en: "If this Pokémon has damage on it, this attack does 80 more damage.",
                 fr: "Si ce Pokémon a subi des dégâts, cette attaque inflige 80 dégâts de plus.",
                 es: "Si este Pokémon ya tiene daño, este ataque hace 80 puntos de daño más.",
                 "pt-br": "Se este Pokémon estiver danificado, este ataque causará 80 pontos de dano a mais.",
-                "zh-tw": "若這隻寶可夢有受到傷害,則增加80點傷害。"
+                "zh-tw": "若這隻寶可夢有受到傷害,則增加80點傷害。",
+                "it": "Se questo Pokémon è danneggiato, questo attacco infligge 80 danni in più.",
+                "de": "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 80 Schadenspunkte mehr zu."
             },
             damage: "80+"
         }
@@ -72,5 +75,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

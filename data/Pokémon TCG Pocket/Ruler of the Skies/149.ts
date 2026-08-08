@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,9 +30,10 @@ const card: Card = {
         fr: "Évitez tous les effets d'attaques utilisées par les Pokémon de votre adversaire infligés au Pokémon auquel elle est attachée. (Les effets déjà en action ne sont pas retirés.)",
         es: "Se evitan todos los efectos de los ataques usados por los Pokémon de tu rival e infligidos al Pokémon al que esté unida esta carta. (No se eliminan los efectos ya existentes).",
         "pt-br": "Previna todos os efeitos de ataques usados pelos Pokémon do seu oponente causados ao Pokémon ao qual esta carta está ligada. (Efeitos existentes não são removidos.)",
-        "zh-tw": "附有這張卡的寶可夢不會受到對手的寶可夢使用招式的效果的影響。(已經受到的效果不會消除。)"
+        "zh-tw": "附有這張卡的寶可夢不會受到對手的寶可夢使用招式的效果的影響。(已經受到的效果不會消除。)",
+        "it": "Previeni tutti gli effetti degli attacchi usati dai Pokémon del tuo avversario inflitti al Pokémon a cui è assegnata questa carta. Gli effetti esistenti non vengono rimossi.",
+        "de": "Verhindere alle Effekte der von den Pokémon deines Gegners eingesetzten Attacken, die dem Pokémon zugefügt werden, an das diese Karte angelegt ist. (Bestehende Effekte werden nicht entfernt.)"
     },
     trainerType: "Tool"
 };
-
 export default card;

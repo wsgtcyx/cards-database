@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [403],
     stage: "Basic",
     description: {
-        en: "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble."
+        en: "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
+        "es": "Produce electricidad contrayendo sus músculos. Si siente peligro, su pelaje brilla resplandeciente"
     },
     attacks: [
         {
@@ -56,5 +56,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [25],
     stage: "Basic",
     description: {
-        en: "When several of these POKéMON gather, their electricity can build and cause lightning storms."
+        en: "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
+        "es": "Cuando varios de estos Pokémon se juntan, su energia puede causar fuertes tormentas"
     },
     attacks: [
         {
@@ -50,7 +50,9 @@ const card: Card = {
                 fr: "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 20 dégâts.",
                 es: "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor hacen -20 puntos de daño.",
                 "pt-br": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor causarão −20 pontos de dano.",
-                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。"
+                "zh-tw": "在下個對手的回合,受到這個招式的寶可夢使用招式的傷害-20點。",
+                "it": "Durante il prossimo turno del tuo avversario, gli attacchi usati dal Pokémon difensore infliggono -20 danni.",
+                "de": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon – 20 Schadenspunkte zu."
             }
         }
     ],
@@ -62,5 +64,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

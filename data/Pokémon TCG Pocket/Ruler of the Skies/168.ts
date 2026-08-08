@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -45,7 +44,9 @@ const card: Card = {
                 fr: "Piétinement qui Bloque",
                 es: "Pisotón Obstructor",
                 "pt-br": "Pisada Bloqueante",
-                "zh-tw": "踩踩干擾"
+                "zh-tw": "踩踩干擾",
+                "it": "Impedipedata",
+                "de": "Störender Stampfer"
             },
             effect: {
                 en: "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more.",
@@ -61,5 +62,4 @@ const card: Card = {
     ],
     retreat: 0
 };
-
 export default card;

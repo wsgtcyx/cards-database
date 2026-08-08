@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -49,14 +48,17 @@ const card: Card = {
                 fr: "Frappe Répétée",
                 es: "Ráfaga de Puñetazos",
                 "pt-br": "Chumbo Grosso",
-                "zh-tw": "機槍猛擊"
+                "zh-tw": "機槍猛擊",
+                "it": "Pugnolashnikov",
+                "de": "Repetierschlag"
             },
             effect: {
                 en: "This attack does 10 more damage for each {M} Energy attached to this Pokémon.",
                 fr: "Cette attaque inflige 10 dégâts supplémentaires pour chaque Énergie {M} attachée à ce Pokémon.",
                 es: "Este ataque hace 10 puntos de daño más por cada Energía {M} unida a este Pokémon.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
-                "zh-tw": "增加這隻寶可夢身上的{M}能量的數量×10點傷害。"
+                "zh-tw": "增加這隻寶可夢身上的{M}能量的數量×10點傷害。",
+                "it": "Questo attacco infligge 10 danni in più per ogni Energia {M} assegnata a questo Pokémon."
             },
             damage: "100+"
         }
@@ -69,5 +71,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

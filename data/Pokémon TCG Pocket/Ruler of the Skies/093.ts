@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -41,14 +40,18 @@ const card: Card = {
                 fr: "Chasse en Équipe",
                 es: "Caza en Equipo",
                 "pt-br": "Caçada em Equipe",
-                "zh-tw": "成群狩獵"
+                "zh-tw": "成群狩獵",
+                "it": "Caccia in Branco",
+                "de": "Teamjagd"
             },
             effect: {
                 en: "Draw a card for each Poochyena you have in play.",
                 fr: "Piochez une carte pour chaque Medhyèna que vous avez en jeu.",
                 es: "Roba 1 carta por cada uno de tus Poochyena en juego.",
                 "pt-br": "Compre uma carta para cada Poochyena que você tem em jogo.",
-                "zh-tw": "從牌庫抽出與自己的場上的「土狼犬」相同數量的卡。"
+                "zh-tw": "從牌庫抽出與自己的場上的「土狼犬」相同數量的卡。",
+                "it": "Pesca una carta per ogni Poochyena che hai in gioco.",
+                "de": "Ziehe 1 Karte für jedes fiffyen, das du im Spiel hast."
             }
         }
     ],
@@ -60,5 +63,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

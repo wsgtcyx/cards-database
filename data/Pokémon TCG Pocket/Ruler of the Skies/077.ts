@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -45,7 +44,9 @@ const card: Card = {
                 fr: "Anneau Facétieux",
                 es: "Anillo Travieso",
                 "pt-br": "Anel Travesso",
-                "zh-tw": "惡作劇圓環"
+                "zh-tw": "惡作劇圓環",
+                "it": "Anello Monello",
+                "de": "Schabernackring"
             },
             effect: {
                 en: "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck.",
@@ -65,5 +66,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

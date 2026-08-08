@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -45,7 +44,8 @@ const card: Card = {
                 fr: "Impact du Dragon",
                 es: "Impacto Dragón",
                 "pt-br": "Impacto do Dragão",
-                "zh-tw": "狂龍衝擊"
+                "zh-tw": "狂龍衝擊",
+                "it": "Draghimpatto"
             },
             effect: {
                 en: "Discard 2 random Energy from this Pokémon.",
@@ -61,5 +61,4 @@ const card: Card = {
     ],
     retreat: 2
 };
-
 export default card;

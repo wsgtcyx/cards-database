@@ -41,7 +41,8 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit."
+        en: "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
+        "es": "Ahueca el pelaje de su cuello para bajar la temperatura de su cuerpo, que puede llegar a 900°C."
     },
     attacks: [
         {
@@ -51,14 +52,18 @@ const card: Card = {
                 fr: "Queue Détonante",
                 es: "Cola Explosiva",
                 "pt-br": "Cauda Explosiva",
-                "zh-tw": "爆破尾"
+                "zh-tw": "爆破尾",
+                "it": "Scoppiocoda",
+                "de": "Berstender Schweif"
             },
             effect: {
                 en: "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.",
                 fr: "Défaussez une Énergies {R} de ce Pokémon. Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
                 es: "Descarta Energías {R} de este Pokémon. El Pokémon Activo de tu rival pasa a estar Quemado.",
                 "pt-br": "Descarte Energias {R} deste Pokémon. O Pokémon Ativo do seu oponente agora está Queimado.",
-                "zh-tw": "將這隻寶可夢身上的個{R}能量丟棄。將對手的戰鬥寶可夢灼傷。"
+                "zh-tw": "將這隻寶可夢身上的個{R}能量丟棄。將對手的戰鬥寶可夢灼傷。",
+                "it": "Scarta un'Energia {R} da questo Pokémon. Il Pokémon attivo del tuo avversario è ora bruciato.",
+                "de": "Wirf eine {R}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt verbrannt."
             },
             damage: 70
         }

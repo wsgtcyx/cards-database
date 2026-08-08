@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,9 +30,10 @@ const card: Card = {
         fr: "Lancez une pièce. Si c'est face, ajoutez une carte Objet au hasard de votre deck à votre main.",
         es: "Lanza 1 moneda. Si sale cara, pon 1 carta de Objeto aleatoria de tu baraja en tu mano.",
         "pt-br": "Jogue uma moeda. Se sair cara, coloque 1 carta de Item aleatória do seu baralho na sua mão.",
-        "zh-tw": "擲1次硬幣若為正面,則從自己的牌庫隨機將1張物品卡加入手牌。"
+        "zh-tw": "擲1次硬幣若為正面,則從自己的牌庫隨機將1張物品卡加入手牌。",
+        "it": "Lancia una moneta. Se esce testa, prendi una carta Strumento a caso dal tuo mazzo e aggiungila alle carte che hai in mano.",
+        "de": "Wirf 1 Münze. Nimm bei Kopf 1 zufällige Itemkarte aus deinem Deck auf deine Hand."
     },
     trainerType: "Item"
 };
-
 export default card;

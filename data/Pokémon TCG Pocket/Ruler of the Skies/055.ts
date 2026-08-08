@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -38,14 +37,18 @@ const card: Card = {
                 fr: "Étincelle Récup",
                 es: "Chispazo Chatarrero",
                 "pt-br": "Fagulha de Tralha",
-                "zh-tw": "廢品電光"
+                "zh-tw": "廢品電光",
+                "it": "Rottami Scintillanti",
+                "de": "Schrottfunken"
             },
             effect: {
                 en: "This attack does 10 more damage for each Item card in your discard pile.",
                 fr: "Cette attaque inflige 10 dégâts supplémentaires pour chaque carte Objet dans votre pile de défausse.",
                 es: "Este ataque hace 10 puntos de daño más por cada carta de Objeto en tu pila de descartes.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada carta de Item na sua pilha de descarte.",
-                "zh-tw": "增加自己的棄牌區的物品卡張數×10點傷害。"
+                "zh-tw": "增加自己的棄牌區的物品卡張數×10點傷害。",
+                "it": "Questo attacco infligge 10 danni in più per ogni carta Strumento nella tua pila degli scarti.",
+                "de": "Diese Attacke fügt für jede Itemkarte in deinem Ablagestapel 10 Schadenspunkte mehr zu."
             },
             damage: "30+"
         }
@@ -58,5 +61,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

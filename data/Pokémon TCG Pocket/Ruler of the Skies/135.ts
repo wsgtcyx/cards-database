@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -56,14 +55,17 @@ const card: Card = {
                 fr: "Mélangeur d'Énergies",
                 es: "Batidora Energética",
                 "pt-br": "Mistureba de Energia",
-                "zh-tw": "能量攪拌"
+                "zh-tw": "能量攪拌",
+                "it": "Miscelenergia",
+                "de": "Energiemix"
             },
             effect: {
                 en: "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
                 fr: "Vous pouvez déplacer autant d'Énergies que vous le voulez de vos Pokémon en jeu vers vos autres Pokémon, comme il vous plaît.",
                 es: "Puedes mover cualquier cantidad de Energías de tus Pokémon en juego a tus otros Pokémon de la manera que desees.",
                 "pt-br": "Você pode mover qualquer quantidade de Energia dos seus Pokémon em jogo para outros Pokémon seus como desejar.",
-                "zh-tw": "選擇自己的場上寶可夢身上的任意數量的能量,以任意方式改附於自己的寶可夢身上。"
+                "zh-tw": "選擇自己的場上寶可夢身上的任意數量的能量,以任意方式改附於自己的寶可夢身上。",
+                "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon."
             },
             damage: 50
         }
@@ -76,5 +78,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

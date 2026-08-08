@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,7 +30,8 @@ const card: Card = {
     dexId: [155],
     stage: "Basic",
     description: {
-        en: "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes."
+        en: "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
+        "fr": "Les flammes qui émanent de son dos atteignent leur pic d'intensité lorsqu'il est en colère. Elles lui permettent ainsi d'intimider ses adversaires."
     },
     attacks: [
         {
@@ -64,5 +64,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

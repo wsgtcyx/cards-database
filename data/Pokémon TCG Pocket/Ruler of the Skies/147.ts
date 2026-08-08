@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -31,9 +30,10 @@ const card: Card = {
         fr: "Jouez cette carte comme si c'était un Pokémon {C} de base avec 40 PV. N'importe quand pendant votre tour, vous pouvez défausser cette carte du jeu. Cette carte ne peut pas battre en retraite.",
         es: "Juega esta carta como si fuera un Pokémon {C} Básico de 40 PS. En cualquier momento durante tu turno, puedes descartar esta carta del juego. Esta carta no puede retirarse.",
         "pt-br": "Jogue esta carta como se fosse um Pokémon {C} Básico com PS 40. A qualquer momento, durante o seu turno, você poderá descartar esta carta do jogo. Esta carta não pode recuar.",
-        "zh-tw": "這張卡可作為HP40的{C}屬性的基礎寶可夢放置於場上。 若在自己的回合中,則可將場上的這張卡丟棄。 這張卡無法撤退。"
+        "zh-tw": "這張卡可作為HP40的{C}屬性的基礎寶可夢放置於場上。 若在自己的回合中,則可將場上的這張卡丟棄。 這張卡無法撤退。",
+        "it": "Gioca questa carta come se fosse un Pokémon Base {C} con 40 PS. Durante il tuo turno, in qualsiasi momento, puoi scartare questa carta dal gioco. Questa carta non può ritirarsi.",
+        "de": "Spiele diese Karte, als ob sie ein Basis-{C}-Pokémon mit 40 KP wäre. Du kannst diese Karte jederzeit während deines Zuges aus dem Spiel nehmen und auf deinen Ablagestapel legen. Diese Karte kann sich nicht zurückziehen."
     },
     trainerType: "Item"
 };
-
 export default card;

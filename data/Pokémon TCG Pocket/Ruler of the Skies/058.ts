@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage2",
     description: {
-        en: "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+        en: "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+        "de": "Es hakt sich mit seinem Maul, das als Saugnapf fungiert, an seiner Beute fest und verpasst ihr mit seinen Fangzähnen starke Stromschläge.",
+        "pt-br": "Agarra a presa com sua boca sugadora, fincando seus dentes e eletrocutando-a intensamente"
     },
     attacks: [
         {
@@ -61,7 +62,8 @@ const card: Card = {
                 fr: "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie attachée à tous les Pokémon de votre adversaire.",
                 es: "Este ataque hace 20 puntos de daño más por cada Energía unida a todos los Pokémon de tu rival.",
                 "pt-br": "Este ataque causa 20 pontos de dano a mais para cada Energia ligada a todos os Pokémon do seu oponente.",
-                "zh-tw": "增加對手的所有寶可夢身上的能量的數量×20點傷害。"
+                "zh-tw": "增加對手的所有寶可夢身上的能量的數量×20點傷害。",
+                "it": "Questo attacco infligge 20 danni in più per ogni Energia assegnata ai Pokémon del tuo avversario."
             },
             damage: "50+"
         }
@@ -74,5 +76,4 @@ const card: Card = {
     ],
     retreat: 3
 };
-
 export default card;

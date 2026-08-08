@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,9 @@ const card: Card = {
     },
     stage: "Stage2",
     description: {
-        en: "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger."
+        en: "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+        "es": "Tiene la capacidad de ver a través de todo, algo que resulta extremadamente valioso cuando acecha el peligro.",
+        "de": "Beim Aufspüren von Gefahren ist Luxtras Röntgenblick äußerst hilfreich."
     },
     attacks: [
         {
@@ -59,7 +60,8 @@ const card: Card = {
                 fr: "Cette attaque inflige 50 dégâts supplémentaires pour chaque point que votre adversaire a gagné.",
                 es: "Este ataque hace 50 puntos de daño más por cada punto que haya conseguido tu rival.",
                 "pt-br": "Este ataque causa 50 pontos de dano a mais para cada ponto que seu oponente recebeu.",
-                "zh-tw": "增加對手已經獲得的分數×50點傷害。"
+                "zh-tw": "增加對手已經獲得的分數×50點傷害。",
+                "de": "Diese Attacke fügt für jeden von deinem Gegner erhaltenen Punkt 50 Schadenspunkte mehr zu."
             },
             damage: "80+"
         }
@@ -72,5 +74,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

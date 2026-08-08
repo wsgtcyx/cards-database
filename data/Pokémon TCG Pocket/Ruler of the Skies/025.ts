@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -42,7 +41,10 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack."
+        en: "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+        "es": "El pelaje de este Pokémon es ignifugo. Puede soportar cualquier ataque con fuego.",
+        "it": "La pelliccia che ricopre il suo corpo è completamente ignifuga. Può resistere a qualsiasi attacco di fuoco.",
+        "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. E capaz de resistir a qualquer ataque de fogo."
     },
     attacks: [
         {
@@ -76,5 +78,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;

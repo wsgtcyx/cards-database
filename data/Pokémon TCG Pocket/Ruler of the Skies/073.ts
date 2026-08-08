@@ -1,6 +1,5 @@
 import { Card } from "../../../interfaces";
 import Set from "../Ruler of the Skies";
-
 const card: Card = {
     set: Set,
     image: {
@@ -50,7 +49,9 @@ const card: Card = {
                 fr: "Si vous avez le même nombre de cartes dans votre main que votre adversaire, cette attaque inflige 40 dégâts supplémentaires.",
                 es: "Si tienes la misma cantidad de cartas en tu mano que tu rival, este ataque hace 40 puntos de daño más.",
                 "pt-br": "Se você tiver o mesmo número de cartas na sua mão que seu oponente, este ataque causará 40 pontos de dano a mais.",
-                "zh-tw": "若自己的手牌與對手的手牌張數相同,則增加40點傷害。"
+                "zh-tw": "若自己的手牌與對手的手牌張數相同,則增加40點傷害。",
+                "it": "Se hai lo stesso numero di carte in mano del tuo avversario, questo attacco infligge 40 danni in più.",
+                "de": "Wenn du genauso viele Karten auf der Hand hast wie dein Gegner, fügt diese Attacke 40 Schadenspunkte mehr zu."
             },
             damage: "40+"
         }
@@ -63,5 +64,4 @@ const card: Card = {
     ],
     retreat: 1
 };
-
 export default card;
