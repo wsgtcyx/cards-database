@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4",
+  "cards": {
+    "B4-001": {
+      "fields": {
+        "image.de": {
+          "value": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/1_de.png",
+          "raw": "Waumpel",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/ocr/ocr-001-de.json#page=1"
+          ],
+          "note": "German card name matches the reviewed API metadata card identity."
+        }
+      }
+    },
+    "B4-018": {
+      "fields": {
+        "image.it": {
+          "value": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/18_it.png",
+          "raw": "Sinistcha",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/ocr/ocr-018-it.json#page=1"
+          ],
+          "note": "Italian card name and attack text match the reviewed API metadata card identity."
+        }
+      }
+    },
+    "B4-109": {
+      "fields": {
+        "image.de": {
+          "value": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/109_de.png",
+          "raw": "Mega-Metagross EX",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/ocr/ocr-109-de.json#page=1"
+          ],
+          "note": "German Mega card identity matches after case-only normalization of ex."
+        }
+      }
+    },
+    "B4-145": {
+      "fields": {
+        "image.it": {
+          "value": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/145_it.png",
+          "raw": "Schermo Ordini",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/ocr/ocr-145-it.json#page=1"
+          ],
+          "note": "Italian Trainer name and rule text match the reviewed API metadata card identity."
+        }
+      }
+    },
+    "B4-203": {
+      "fields": {
+        "image.it": {
+          "value": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/203_it.png",
+          "raw": "Mega Rayquaza EX",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/ocr/ocr-203-it.json#page=1"
+          ],
+          "note": "Italian secret Mega card identity matches after punctuation and case normalization."
+        }
+      }
+    },
+    "B4-233": {
+      "fields": {
+        "image.de": {
+          "value": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/233_de.png",
+          "raw": "Dragonir",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/ocr/ocr-233-de.json#page=1"
+          ],
+          "note": "German secret card name and ability heading match the reviewed API metadata card identity."
+        }
+      }
+    }
+  }
+}

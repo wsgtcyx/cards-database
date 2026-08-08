@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/062",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/062",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/062",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/062"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/062",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/062",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/062"
     },
     name: {
         en: "Wattrel",

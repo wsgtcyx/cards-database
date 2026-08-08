@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/001",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/001",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/001",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/001"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/001",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/001",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/001"
     },
     name: {
         en: "Wurmple",

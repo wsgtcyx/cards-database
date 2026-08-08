@@ -1,0 +1,788 @@
+{
+  "ok": true,
+  "text": "PHASE\n\nDragonir\n\nKP 80\n\nEntwickelt sich aus Dr.\n\nFähigkeit Drachensegen\n\nEinmal während deines Zuges, wenn sich dieses Pokémon aufdeiner Bank befindet, kannst du 1 Energie aus deinem Ablagestapel an dein Aktives G-Pokémon anlegen.\n\nDrachenpeitsche\n\n40\n\nSchwäche\n\nMode. PLANETA-Momigo\n\nRückzug ☐ ☐\n\nEs wird als heiliges Rekensins rezeichnet.",
+  "result": {
+    "logId": "7b73b354-547b-4ffa-ada0-a599598ab4af",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "header",
+                "block_content": "PHASE",
+                "block_bbox": [
+                  12,
+                  23,
+                  60,
+                  36
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    12,
+                    22.999996185302734
+                  ],
+                  [
+                    58.99999237060547,
+                    22.999996185302734
+                  ],
+                  [
+                    58.99999237060547,
+                    34.999996185302734
+                  ],
+                  [
+                    12,
+                    34.999996185302734
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Dragonir",
+                "block_bbox": [
+                  66,
+                  21,
+                  171,
+                  46
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    66,
+                    21
+                  ],
+                  [
+                    171,
+                    21
+                  ],
+                  [
+                    171,
+                    46
+                  ],
+                  [
+                    66,
+                    46
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "KP 80",
+                "block_bbox": [
+                  275,
+                  19,
+                  351,
+                  46
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    275,
+                    19
+                  ],
+                  [
+                    351,
+                    19
+                  ],
+                  [
+                    351,
+                    46
+                  ],
+                  [
+                    275,
+                    46
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Entwickelt sich aus Dr.",
+                "block_bbox": [
+                  62,
+                  48,
+                  140,
+                  58
+                ],
+                "block_id": 3,
+                "block_order": 3,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    62,
+                    48
+                  ],
+                  [
+                    139,
+                    48
+                  ],
+                  [
+                    139,
+                    57
+                  ],
+                  [
+                    62,
+                    57
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Fähigkeit Drachensegen",
+                "block_bbox": [
+                  29,
+                  275,
+                  242,
+                  293
+                ],
+                "block_id": 4,
+                "block_order": 4,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    29,
+                    275
+                  ],
+                  [
+                    241,
+                    275
+                  ],
+                  [
+                    241,
+                    292
+                  ],
+                  [
+                    29,
+                    292
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Einmal während deines Zuges, wenn sich dieses Pokémon aufdeiner Bank befindet, kannst du 1 Energie aus deinem Ablagestapel an dein Aktives G-Pokémon anlegen.",
+                "block_bbox": [
+                  22,
+                  293,
+                  344,
+                  366
+                ],
+                "block_id": 5,
+                "block_order": 5,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    22,
+                    293
+                  ],
+                  [
+                    344,
+                    293
+                  ],
+                  [
+                    344,
+                    366
+                  ],
+                  [
+                    22,
+                    366
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Drachenpeitsche",
+                "block_bbox": [
+                  23,
+                  387,
+                  266,
+                  412
+                ],
+                "block_id": 6,
+                "block_order": 6,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    23,
+                    387
+                  ],
+                  [
+                    264.9999694824219,
+                    387
+                  ],
+                  [
+                    264.9999694824219,
+                    409
+                  ],
+                  [
+                    23,
+                    409
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "40",
+                "block_bbox": [
+                  316,
+                  388,
+                  343,
+                  410
+                ],
+                "block_id": 7,
+                "block_order": 7,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    316,
+                    388
+                  ],
+                  [
+                    342,
+                    388
+                  ],
+                  [
+                    342,
+                    409
+                  ],
+                  [
+                    316,
+                    409
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Schwäche",
+                "block_bbox": [
+                  51,
+                  441,
+                  91,
+                  453
+                ],
+                "block_id": 8,
+                "block_order": 8,
+                "group_id": 8,
+                "block_polygon_points": [
+                  [
+                    51,
+                    441
+                  ],
+                  [
+                    90,
+                    441
+                  ],
+                  [
+                    90,
+                    452
+                  ],
+                  [
+                    51,
+                    452
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Mode. PLANETA-Momigo",
+                "block_bbox": [
+                  25,
+                  456,
+                  110,
+                  467
+                ],
+                "block_id": 9,
+                "block_order": 9,
+                "group_id": 9,
+                "block_polygon_points": [
+                  [
+                    25,
+                    456
+                  ],
+                  [
+                    109,
+                    456
+                  ],
+                  [
+                    109,
+                    466
+                  ],
+                  [
+                    25,
+                    466
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Rückzug ☐ ☐",
+                "block_bbox": [
+                  206,
+                  440,
+                  285,
+                  455
+                ],
+                "block_id": 10,
+                "block_order": 10,
+                "group_id": 10,
+                "block_polygon_points": [
+                  [
+                    206,
+                    440
+                  ],
+                  [
+                    284,
+                    440
+                  ],
+                  [
+                    284,
+                    454
+                  ],
+                  [
+                    206,
+                    454
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Es wird als heiliges Rekensins rezeichnet.",
+                "block_bbox": [
+                  187,
+                  459,
+                  342,
+                  472
+                ],
+                "block_id": 11,
+                "block_order": 11,
+                "group_id": 11,
+                "block_polygon_points": [
+                  [
+                    187,
+                    459
+                  ],
+                  [
+                    341,
+                    459
+                  ],
+                  [
+                    341,
+                    471
+                  ],
+                  [
+                    187,
+                    471
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.5074796080589294,
+                  "coordinate": [
+                    12,
+                    23,
+                    60,
+                    36
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      12,
+                      22.999996185302734
+                    ],
+                    [
+                      58.99999237060547,
+                      22.999996185302734
+                    ],
+                    [
+                      58.99999237060547,
+                      34.999996185302734
+                    ],
+                    [
+                      12,
+                      34.999996185302734
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.4487111270427704,
+                  "coordinate": [
+                    66,
+                    21,
+                    171,
+                    46
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      66,
+                      21
+                    ],
+                    [
+                      171,
+                      21
+                    ],
+                    [
+                      171,
+                      46
+                    ],
+                    [
+                      66,
+                      46
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3252132833003998,
+                  "coordinate": [
+                    275,
+                    19,
+                    351,
+                    46
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      275,
+                      19
+                    ],
+                    [
+                      351,
+                      19
+                    ],
+                    [
+                      351,
+                      46
+                    ],
+                    [
+                      275,
+                      46
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4007827341556549,
+                  "coordinate": [
+                    62,
+                    48,
+                    140,
+                    58
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      62,
+                      48
+                    ],
+                    [
+                      139,
+                      48
+                    ],
+                    [
+                      139,
+                      57
+                    ],
+                    [
+                      62,
+                      57
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.6502094268798828,
+                  "coordinate": [
+                    29,
+                    275,
+                    242,
+                    293
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      29,
+                      275
+                    ],
+                    [
+                      241,
+                      275
+                    ],
+                    [
+                      241,
+                      292
+                    ],
+                    [
+                      29,
+                      292
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7732456922531128,
+                  "coordinate": [
+                    22,
+                    293,
+                    344,
+                    366
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      22,
+                      293
+                    ],
+                    [
+                      344,
+                      293
+                    ],
+                    [
+                      344,
+                      366
+                    ],
+                    [
+                      22,
+                      366
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.3324630856513977,
+                  "coordinate": [
+                    23,
+                    387,
+                    266,
+                    412
+                  ],
+                  "order": 6,
+                  "polygon_points": [
+                    [
+                      23,
+                      387
+                    ],
+                    [
+                      264.9999694824219,
+                      387
+                    ],
+                    [
+                      264.9999694824219,
+                      409
+                    ],
+                    [
+                      23,
+                      409
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.38983696699142456,
+                  "coordinate": [
+                    316,
+                    388,
+                    343,
+                    410
+                  ],
+                  "order": 7,
+                  "polygon_points": [
+                    [
+                      316,
+                      388
+                    ],
+                    [
+                      342,
+                      388
+                    ],
+                    [
+                      342,
+                      409
+                    ],
+                    [
+                      316,
+                      409
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4787677824497223,
+                  "coordinate": [
+                    51,
+                    441,
+                    91,
+                    453
+                  ],
+                  "order": 8,
+                  "polygon_points": [
+                    [
+                      51,
+                      441
+                    ],
+                    [
+                      90,
+                      441
+                    ],
+                    [
+                      90,
+                      452
+                    ],
+                    [
+                      51,
+                      452
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.38410916924476624,
+                  "coordinate": [
+                    25,
+                    456,
+                    110,
+                    467
+                  ],
+                  "order": 9,
+                  "polygon_points": [
+                    [
+                      25,
+                      456
+                    ],
+                    [
+                      109,
+                      456
+                    ],
+                    [
+                      109,
+                      466
+                    ],
+                    [
+                      25,
+                      466
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4317370653152466,
+                  "coordinate": [
+                    206,
+                    440,
+                    285,
+                    455
+                  ],
+                  "order": 10,
+                  "polygon_points": [
+                    [
+                      206,
+                      440
+                    ],
+                    [
+                      284,
+                      440
+                    ],
+                    [
+                      284,
+                      454
+                    ],
+                    [
+                      206,
+                      454
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.30788782238960266,
+                  "coordinate": [
+                    187,
+                    459,
+                    342,
+                    472
+                  ],
+                  "order": 11,
+                  "polygon_points": [
+                    [
+                      187,
+                      459
+                    ],
+                    [
+                      341,
+                      459
+                    ],
+                    [
+                      341,
+                      471
+                    ],
+                    [
+                      187,
+                      471
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "## Dragonir\n\nKP 80\n\nEntwickelt sich aus Dr.\n\n## Fähigkeit Drachensegen\n\nEinmal während deines Zuges, wenn sich dieses Pokémon aufdeiner Bank befindet, kannst du 1 Energie aus deinem Ablagestapel an dein Aktives G-Pokémon anlegen.\n\n## Drachenpeitsche\n\n40\n\nSchwäche\n\nMode. PLANETA-Momigo\n\nRückzug ☐ ☐\n\nEs wird als heiliges Rekensins rezeichnet.",
+            "images": {}
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

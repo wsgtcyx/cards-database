@@ -31,6 +31,8 @@ const R2_BUCKET = 'game'
 const RAENONX_IMAGE_BASE = 'https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full'
 const RAENONX_MASTER_URL = 'https://ptcgp.raenonx.cc/api/data/global-master'
 const RAENONX_MASTER_FALLBACK = process.env.POCKET_IMAGE_SYNC_MASTER_FALLBACK || '/tmp/pocket-localization-raenonx-master.json'
+const POKEOS_ORIGIN = 'https://www.pokeos.com'
+const POKEOS_IMAGE_ORIGIN = 'https://s3.pokeos.com'
 const FLIBUSTIER_RELEASE_URL = 'https://github.com/flibustier/pokemon-tcg-pocket-database/releases/download/2.9.2/release.zip'
 const FLIBUSTIER_COMMIT = 'd317957f5c18c4b05d11c24a9ef796edd598f87a'
 const FLIBUSTIER_ARCHIVE = process.env.POCKET_IMAGE_SYNC_ARCHIVE || '/tmp/flibustier-pocket-release-2.9.2.zip'
@@ -82,7 +84,10 @@ Phases:
 
 Options:
   --master <file>       Frozen RaenonX master JSON (default: run snapshot, then ${RAENONX_MASTER_FALLBACK})
-  --source <name>       raenonx-localized (default) or flibustier-en
+  --source <name>       raenonx-localized (default), pokeos-localized, or flibustier-en
+  --set-id <id>         Project set ID for pokeos-localized
+  --source-set-id <id>  Numeric PokeOS set ID for pokeos-localized
+  --locales <id,...>    PokeOS image locales (currently de,it)
   --archive <file>      Fixed flibustier release.zip (default: ${FLIBUSTIER_ARCHIVE})
   --cards <id,...>      Limit download/prepare/verify to card IDs (pilot)
   --write               Required for upload/apply
@@ -92,7 +97,7 @@ Options:
 
 function parseArgs(argv) {
 	const phase = argv.find((arg) => !arg.startsWith('--'))
-	const options = { phase, master: null, source: 'raenonx-localized', archive: FLIBUSTIER_ARCHIVE, cards: [], write: false, shard: null, shards: 1 }
+	const options = { phase, master: null, source: 'raenonx-localized', archive: FLIBUSTIER_ARCHIVE, cards: [], write: false, shard: null, shards: 1, setId: null, sourceSetId: null, locales: [] }
 	for (let index = 0; index < argv.length; index += 1) {
 		const arg = argv[index]
 		if (arg === '--help') options.help = true
@@ -102,6 +107,17 @@ function parseArgs(argv) {
 		}
 		if (arg === '--source' || arg.startsWith('--source=')) {
 			options.source = arg.startsWith('--source=') ? arg.slice('--source='.length) : argv[++index]
+		}
+		if (arg === '--set-id' || arg.startsWith('--set-id=')) {
+			options.setId = arg.startsWith('--set-id=') ? arg.slice('--set-id='.length) : argv[++index]
+		}
+		if (arg === '--source-set-id' || arg.startsWith('--source-set-id=')) {
+			const value = arg.startsWith('--source-set-id=') ? arg.slice('--source-set-id='.length) : argv[++index]
+			options.sourceSetId = Number(value)
+		}
+		if (arg === '--locales' || arg.startsWith('--locales=')) {
+			const value = arg.startsWith('--locales=') ? arg.slice('--locales='.length) : argv[++index]
+			options.locales = value.split(',').map((item) => item.trim()).filter(Boolean)
 		}
 		if (arg === '--archive' || arg.startsWith('--archive=')) {
 			options.archive = arg.startsWith('--archive=') ? arg.slice('--archive='.length) : argv[++index]
@@ -227,6 +243,23 @@ function assertSourceUrl(value, sourceLocale, sourceCardId) {
 		throw new Error(`Unexpected source URL query: ${String(value)}`)
 	}
 	return value
+}
+
+function assertPokeosSourceUrl(value, sourceSetId, number, sourceLocale) {
+	if (!Number.isInteger(sourceSetId) || sourceSetId < 1) throw new Error(`Invalid PokeOS set ID: ${String(sourceSetId)}`)
+	if (!Number.isInteger(number) || number < 1) throw new Error(`Invalid PokeOS card number: ${String(number)}`)
+	if (!['de', 'it'].includes(sourceLocale)) throw new Error(`Unsupported PokeOS image locale: ${String(sourceLocale)}`)
+	let parsed
+	try { parsed = new URL(value) } catch { throw new Error(`Invalid PokeOS source URL: ${String(value)}`) }
+	const expectedPath = `/pokeos-uploads/tcg/pocket/${sourceSetId}/src/${number}_${sourceLocale}.png`
+	if (parsed.origin !== POKEOS_IMAGE_ORIGIN || parsed.username || parsed.password || parsed.pathname !== expectedPath || parsed.search || parsed.hash) {
+		throw new Error(`Unexpected PokeOS source URL: ${String(value)}`)
+	}
+	return value
+}
+
+function pokeosSourceUrl(sourceSetId, number, sourceLocale) {
+	return assertPokeosSourceUrl(`${POKEOS_IMAGE_ORIGIN}/pokeos-uploads/tcg/pocket/${sourceSetId}/src/${number}_${sourceLocale}.png`, sourceSetId, number, sourceLocale)
 }
 
 function flibustierSetId(setId) {
@@ -656,8 +689,107 @@ async function auditFlibustierEnglish(options) {
 	console.log(JSON.stringify(audit.counts, null, 2))
 }
 
+async function auditPokeosLocalized(options) {
+	if (!options.setId || !/^[A-Za-z0-9-]+$/.test(options.setId)) throw new Error('pokeos-localized requires --set-id')
+	if (!Number.isInteger(options.sourceSetId) || options.sourceSetId < 1) throw new Error('pokeos-localized requires a positive --source-set-id')
+	const locales = [...new Set(options.locales)]
+	if (!locales.length || locales.some((locale) => !['de', 'it'].includes(locale))) throw new Error('pokeos-localized requires --locales de,it')
+
+	const setInfoUrl = `${POKEOS_ORIGIN}/api/tcg/setInfo?id=${options.sourceSetId}`
+	const cardsUrl = `${POKEOS_ORIGIN}/api/tcg/set/cards?id=${options.sourceSetId}`
+	const [setInfoResponse, cardsResponse] = await Promise.all([fetchWithRetry(setInfoUrl), fetchWithRetry(cardsUrl)])
+	const setInfoBytes = await readLimitedBody(setInfoResponse)
+	const cardsBytes = await readLimitedBody(cardsResponse)
+	const setInfo = JSON.parse(setInfoBytes)
+	const sourceCards = JSON.parse(cardsBytes)
+	if (!Array.isArray(sourceCards)) throw new Error('PokeOS cards response is not an array')
+	const total = Number(setInfo.set_n_cards || 0) + Number(setInfo.set_n_secrets || 0) + Number(setInfo.set_n_extra || 0)
+	if (setInfo.id !== options.sourceSetId || setInfo.set_code !== options.setId || sourceCards.length !== total) {
+		throw new Error(`PokeOS set identity/count mismatch: id=${setInfo.id} code=${setInfo.set_code} cards=${sourceCards.length} total=${total}`)
+	}
+	const byNumber = new Map()
+	for (const card of sourceCards) {
+		const number = Number(card.card_number)
+		if (!Number.isInteger(number) || number < 1 || number > total || card.set_id !== options.sourceSetId || byNumber.has(number)) {
+			throw new Error(`Invalid PokeOS card identity: ${JSON.stringify({ id: card.id, set_id: card.set_id, card_number: card.card_number })}`)
+		}
+		byNumber.set(number, card)
+	}
+	if (byNumber.size !== total || [...byNumber.keys()].some((number, index) => number !== index + 1)) throw new Error('PokeOS card numbers are not continuous')
+
+	const snapshotDir = path.join(RUN_DIR, 'source-snapshot')
+	await fsp.mkdir(snapshotDir, { recursive: true })
+	await fsp.writeFile(path.join(snapshotDir, 'pokeos-set-info.json'), setInfoBytes)
+	await fsp.writeFile(path.join(snapshotDir, 'pokeos-cards.json'), cardsBytes)
+
+	const setFolders = loadSetFolders()
+	const downstream = loadDownstream()
+	const targetInventory = targetCards(downstream)
+	const cards = targetInventory.cards.filter((card) => card.setId === options.setId)
+	if (cards.length !== total) throw new Error(`Local ${options.setId} count mismatch: ${cards.length} vs ${total}`)
+	const targets = []
+	for (const card of cards) {
+		const sourceCard = byNumber.get(card.number)
+		const metadata = loadMetadataImage(setFolders, card.setId, card.localId)
+		for (const locale of locales) {
+			const config = LOCALE_CONFIG[locale]
+			const localCard = downstream[locale].cards[card.key]
+			if (!localCard) throw new Error(`${locale}: missing ${card.id}`)
+			const desiredImage = r2BaseUrl(config.r2Locale, card.setId, card.localId)
+			const existingMetadata = metadata.images[config.apiLocale]
+			const alreadyLocalized = existingMetadata === desiredImage && localCard.image === desiredImage
+			targets.push(alreadyLocalized ? {
+				...card, locale, status: 'already-localized', currentImage: localCard.image, desiredImage,
+				metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
+			} : {
+				...card,
+				locale,
+				status: 'source-available',
+				sourceKind: 'pokeos-localized',
+				currentImage: localCard.image,
+				desiredImage,
+				existingMetadata: existingMetadata || null,
+				metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
+				metadataSha256: sha256(Buffer.from(metadata.source, 'utf8')),
+				sourceLocale: locale,
+				sourceSetId: options.sourceSetId,
+				sourceCardId: String(sourceCard.id),
+				sourceName: sourceCard.card_name,
+				sourceUrl: pokeosSourceUrl(options.sourceSetId, card.number, locale),
+				r2HighKey: r2Key(config.r2Locale, card.setId, card.localId, 'high'),
+				r2LowKey: r2Key(config.r2Locale, card.setId, card.localId, 'low'),
+				collision: 'new',
+			})
+		}
+	}
+	const sourceAvailable = targets.filter((target) => target.status === 'source-available')
+	const audit = {
+		schemaVersion: 2,
+		generatedAt: new Date().toISOString(),
+		runId: RUN_ID,
+		policy: { localizedSourceOnly: true, unknownR2Collision: 'block' },
+		source: {
+			kind: 'pokeos-localized',
+			setInfoUrl,
+			cardsUrl,
+			setInfoSha256: sha256(setInfoBytes),
+			cardsSha256: sha256(cardsBytes),
+			imageUrlTemplate: `${POKEOS_IMAGE_ORIGIN}/pokeos-uploads/tcg/pocket/{sourceSetId}/src/{number}_{locale}.png`,
+			attribution: POKEOS_ORIGIN,
+			licenseNote: 'No formal copy license was located; use is limited to the user-authorized, attributed mirror scope.',
+		},
+		scope: { setId: options.setId, sourceSetId: options.sourceSetId, locales, resolver: 'PokeOS set ID plus continuous collection number' },
+		counts: { targetCards: cards.length, sourceCards: sourceCards.length, sourceAvailable: sourceAvailable.length, alreadyLocalized: targets.length - sourceAvailable.length, unresolved: 0 },
+		targets,
+	}
+	await writeArtifact(path.join(RUN_DIR, 'localized-image-audit.json'), audit)
+	await writeArtifact(path.join(RUN_DIR, 'unresolved.json'), { schemaVersion: 2, generatedAt: audit.generatedAt, auditSha256: artifactDigest(audit), entries: [] })
+	console.log(JSON.stringify(audit.counts, null, 2))
+}
+
 async function audit(options) {
 	if (options.source === 'flibustier-en') return auditFlibustierEnglish(options)
+	if (options.source === 'pokeos-localized') return auditPokeosLocalized(options)
 	if (options.source !== 'raenonx-localized') throw new Error(`Unknown source mode: ${options.source}`)
 	const setFolders = loadSetFolders()
 	const downstream = loadDownstream()
@@ -802,6 +934,10 @@ function validateAuditTarget(target) {
 		if (target.sourceKind === 'flibustier-release') {
 			if (target.locale !== 'en' || target.archiveMember !== flibustierArchiveMember(setId, localId)) throw new Error(`Invalid flibustier target: ${target.id}`)
 			if (target.pendingMetadata !== true && !/^[a-f0-9]{64}$/.test(target.metadataSha256)) throw new Error(`Missing metadata baseline: ${target.id}`)
+		} else if (target.sourceKind === 'pokeos-localized') {
+			if (!/^[0-9]+$/.test(target.sourceCardId)) throw new Error(`Invalid PokeOS card ID: ${String(target.sourceCardId)}`)
+			assertPokeosSourceUrl(target.sourceUrl, target.sourceSetId, target.number, target.sourceLocale)
+			if (!/^[a-f0-9]{64}$/.test(target.metadataSha256)) throw new Error(`Missing metadata baseline: ${target.id}/${target.locale}`)
 		} else {
 			if (!target.sourceLocale || !SOURCE_LOCALES.includes(target.sourceLocale)) throw new Error(`Invalid source locale for ${target.id}/${target.locale}`)
 			assertSourceCardId(target.sourceCardId)
@@ -858,9 +994,13 @@ async function download(options) {
 			contentType = 'image/webp'
 			if (buffer.length < 16 || buffer.subarray(0, 4).toString('ascii') !== 'RIFF' || buffer.subarray(8, 12).toString('ascii') !== 'WEBP') throw new Error(`Invalid WebP source: ${target.id}`)
 		} else {
-			assertSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceCardId)
+			if (target.sourceKind === 'pokeos-localized') assertPokeosSourceUrl(target.sourceUrl, target.sourceSetId, target.number, target.sourceLocale)
+			else assertSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceCardId)
 			const response = await fetchWithRetry(target.sourceUrl)
-			if (response.url) assertSourceUrl(response.url, target.sourceLocale, target.sourceCardId)
+			if (response.url) {
+				if (target.sourceKind === 'pokeos-localized') assertPokeosSourceUrl(response.url, target.sourceSetId, target.number, target.sourceLocale)
+				else assertSourceUrl(response.url, target.sourceLocale, target.sourceCardId)
+			}
 			contentType = response.headers.get('content-type') || ''
 			if (!/^image\/png(?:;|$)/i.test(contentType)) throw new Error(`Unexpected source content type for ${target.id}/${target.locale}: ${contentType}`)
 			buffer = await readLimitedBody(response)
@@ -918,7 +1058,8 @@ async function prepare(options) {
 		resolveInside(WORK_ROOT, record.path, 'download input')
 		if (target.sourceKind === 'flibustier-release') {
 			if (record.sourceKind !== 'flibustier-release' || record.archiveMember !== target.archiveMember) throw new Error(`Archive source mismatch: ${record.id}`)
-		} else assertSourceUrl(record.sourceUrl, target.sourceLocale, target.sourceCardId)
+		} else if (target.sourceKind === 'pokeos-localized') assertPokeosSourceUrl(record.sourceUrl, target.sourceSetId, target.number, target.sourceLocale)
+		else assertSourceUrl(record.sourceUrl, target.sourceLocale, target.sourceCardId)
 		const input = resolveInside(WORK_ROOT, record.path, 'download input')
 		const inputBytes = await fsp.readFile(input)
 		if (record.bytes !== inputBytes.length || record.sha256 !== sha256(inputBytes)) throw new Error(`Download checksum mismatch: ${record.id}/${record.locale}`)
@@ -1331,8 +1472,9 @@ async function apply(options) {
 	const fallbackBaseline = sha256(fs.readFileSync(fallback.file))
 	const resolvedIds = new Set(applyTargets.map((target) => `${target.id}:${LOCALE_CONFIG[target.locale].apiLocale}`))
 	const remainingFallback = fallback.manifest.entries.filter((entry) => !resolvedIds.has(`${entry.cardId}:${entry.locale}`))
-	const nextFallback = { ...fallback.manifest, generatedAt: new Date().toISOString(), entries: remainingFallback }
-	const nextFallbackText = `${JSON.stringify(nextFallback, null, 2)}\n`
+	const fallbackChanged = remainingFallback.length !== fallback.manifest.entries.length
+	const nextFallback = fallbackChanged ? { ...fallback.manifest, generatedAt: new Date().toISOString(), entries: remainingFallback } : fallback.manifest
+	const nextFallbackText = fallbackChanged ? `${JSON.stringify(nextFallback, null, 2)}\n` : fs.readFileSync(fallback.file, 'utf8')
 	const unresolved = audit.targets.filter((target) => target.status === 'unresolved-english-fallback')
 	const downstreamCatalog = Object.values(LOCALE_CONFIG).map((config) => {
 		const file = path.join(DOWNSTREAM, 'locales', 'card', config.file)
@@ -1364,7 +1506,7 @@ async function apply(options) {
 	await writeFilesAtomically([
 		...([...metadataFiles].map(([file, content]) => ({ file, content, expectedSha256: metadataBaselines.get(file) }))),
 		...([...downstreamFiles].map(([file, content]) => ({ file, content, expectedSha256: downstreamBaselines.get(file) }))),
-		{ file: fallback.file, content: nextFallbackText, expectedSha256: fallbackBaseline },
+		...(fallbackChanged ? [{ file: fallback.file, content: nextFallbackText, expectedSha256: fallbackBaseline }] : []),
 		{ file: path.join(RUN_DIR, 'apply-receipt.json'), content: `${JSON.stringify(withArtifactDigest(receipt), null, 2)}\n` },
 	])
 
@@ -1393,6 +1535,7 @@ if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve(fileURLToP
 
 export {
 	assertExactR2Url,
+	assertPokeosSourceUrl,
 	assertDownstreamApplyBaseline,
 	assertMetadataApplyBaseline,
 	assertR2Key,

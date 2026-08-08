@@ -1,0 +1,1162 @@
+{
+  "ok": true,
+  "text": "Sinistcha\n\nSi evolve da Poltchageat\n\nN° 1013 Pokémon Matcha Alezza: 0,2 m Peso: 2,2 kg\n\nIdrovampata\n\n40\n\nIl Pokémon attivo del tuo avversario viene bruciato.\n\ndebolezza\n\n+20\n\nII. Tomokazu Komiya\n\nritirata\n\nGli piace stare in posti bui e freschi, ad esempio\nin fondo agli scaffali o sotto i pavimenti delle case.\nDopo il tramonto vaga in cerca di prede.",
+  "result": {
+    "logId": "651b8278-f503-4a07-8196-4db56aa526e0",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  11,
+                  22,
+                  60,
+                  77
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    11,
+                    22
+                  ],
+                  [
+                    60,
+                    22
+                  ],
+                  [
+                    60,
+                    77
+                  ],
+                  [
+                    11,
+                    77
+                  ]
+                ]
+              },
+              {
+                "block_label": "doc_title",
+                "block_content": "Sinistcha",
+                "block_bbox": [
+                  65,
+                  21,
+                  168,
+                  43
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    65,
+                    21
+                  ],
+                  [
+                    166,
+                    21
+                  ],
+                  [
+                    166,
+                    42
+                  ],
+                  [
+                    65,
+                    42
+                  ]
+                ]
+              },
+              {
+                "block_label": "header_image",
+                "block_content": "",
+                "block_bbox": [
+                  276,
+                  18,
+                  349,
+                  45
+                ],
+                "block_id": 2,
+                "block_order": null,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    276,
+                    18
+                  ],
+                  [
+                    348,
+                    18
+                  ],
+                  [
+                    348,
+                    44
+                  ],
+                  [
+                    276,
+                    44
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Si evolve da Poltchageat",
+                "block_bbox": [
+                  61,
+                  49,
+                  133,
+                  57
+                ],
+                "block_id": 3,
+                "block_order": 2,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    61,
+                    49
+                  ],
+                  [
+                    132,
+                    49
+                  ],
+                  [
+                    132,
+                    56
+                  ],
+                  [
+                    61,
+                    56
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  27,
+                  50,
+                  339,
+                  242
+                ],
+                "block_id": 4,
+                "block_order": null,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    27,
+                    50
+                  ],
+                  [
+                    339,
+                    50
+                  ],
+                  [
+                    339,
+                    242
+                  ],
+                  [
+                    27,
+                    242
+                  ]
+                ]
+              },
+              {
+                "block_label": "vision_footnote",
+                "block_content": "N° 1013 Pokémon Matcha Alezza: 0,2 m Peso: 2,2 kg",
+                "block_bbox": [
+                  97,
+                  246,
+                  270,
+                  256
+                ],
+                "block_id": 5,
+                "block_order": null,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    97,
+                    246
+                  ],
+                  [
+                    269,
+                    246
+                  ],
+                  [
+                    269,
+                    255
+                  ],
+                  [
+                    97,
+                    255
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  22,
+                  327,
+                  67,
+                  349
+                ],
+                "block_id": 6,
+                "block_order": null,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    22,
+                    327
+                  ],
+                  [
+                    66,
+                    327
+                  ],
+                  [
+                    66,
+                    348
+                  ],
+                  [
+                    22,
+                    348
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Idrovampata",
+                "block_bbox": [
+                  111,
+                  330,
+                  229,
+                  350
+                ],
+                "block_id": 7,
+                "block_order": 3,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    113,
+                    330
+                  ],
+                  [
+                    228,
+                    330
+                  ],
+                  [
+                    228,
+                    349
+                  ],
+                  [
+                    113,
+                    349
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "40",
+                "block_bbox": [
+                  315,
+                  328,
+                  342,
+                  348
+                ],
+                "block_id": 8,
+                "block_order": 4,
+                "group_id": 8,
+                "block_polygon_points": [
+                  [
+                    315,
+                    328
+                  ],
+                  [
+                    341,
+                    328
+                  ],
+                  [
+                    341,
+                    347
+                  ],
+                  [
+                    315,
+                    347
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Il Pokémon attivo del tuo avversario viene bruciato.",
+                "block_bbox": [
+                  23,
+                  351,
+                  327,
+                  368
+                ],
+                "block_id": 9,
+                "block_order": 5,
+                "group_id": 9,
+                "block_polygon_points": [
+                  [
+                    23,
+                    351
+                  ],
+                  [
+                    326,
+                    351
+                  ],
+                  [
+                    326,
+                    367
+                  ],
+                  [
+                    23,
+                    367
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "debolezza",
+                "block_bbox": [
+                  51,
+                  442,
+                  91,
+                  452
+                ],
+                "block_id": 10,
+                "block_order": 6,
+                "group_id": 10,
+                "block_polygon_points": [
+                  [
+                    51,
+                    442
+                  ],
+                  [
+                    90,
+                    442
+                  ],
+                  [
+                    90,
+                    451
+                  ],
+                  [
+                    51,
+                    451
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  103,
+                  439,
+                  119,
+                  455
+                ],
+                "block_id": 11,
+                "block_order": null,
+                "group_id": 11,
+                "block_polygon_points": [
+                  [
+                    103,
+                    439
+                  ],
+                  [
+                    118,
+                    439
+                  ],
+                  [
+                    118,
+                    454
+                  ],
+                  [
+                    103,
+                    454
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "+20",
+                "block_bbox": [
+                  119,
+                  438,
+                  150,
+                  455
+                ],
+                "block_id": 12,
+                "block_order": 7,
+                "group_id": 12,
+                "block_polygon_points": [
+                  [
+                    119,
+                    438
+                  ],
+                  [
+                    149,
+                    438
+                  ],
+                  [
+                    149,
+                    454
+                  ],
+                  [
+                    119,
+                    454
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "II. Tomokazu Komiya",
+                "block_bbox": [
+                  25,
+                  457,
+                  99,
+                  468
+                ],
+                "block_id": 13,
+                "block_order": 8,
+                "group_id": 13,
+                "block_polygon_points": [
+                  [
+                    25,
+                    457
+                  ],
+                  [
+                    98,
+                    457
+                  ],
+                  [
+                    98,
+                    467
+                  ],
+                  [
+                    25,
+                    467
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "ritirata",
+                "block_bbox": [
+                  209,
+                  442,
+                  238,
+                  453
+                ],
+                "block_id": 14,
+                "block_order": 9,
+                "group_id": 14,
+                "block_polygon_points": [
+                  [
+                    209,
+                    442
+                  ],
+                  [
+                    237,
+                    442
+                  ],
+                  [
+                    237,
+                    452
+                  ],
+                  [
+                    209,
+                    452
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  251,
+                  440,
+                  268,
+                  455
+                ],
+                "block_id": 15,
+                "block_order": null,
+                "group_id": 15,
+                "block_polygon_points": [
+                  [
+                    251,
+                    440
+                  ],
+                  [
+                    267,
+                    440
+                  ],
+                  [
+                    267,
+                    454
+                  ],
+                  [
+                    251,
+                    454
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  26,
+                  466,
+                  55,
+                  484
+                ],
+                "block_id": 16,
+                "block_order": null,
+                "group_id": 16,
+                "block_polygon_points": [
+                  [
+                    26,
+                    466
+                  ],
+                  [
+                    54,
+                    466
+                  ],
+                  [
+                    54,
+                    483
+                  ],
+                  [
+                    26,
+                    483
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Gli piace stare in posti bui e freschi, ad esempio\nin fondo agli scaffali o sotto i pavimenti delle case.\nDopo il tramonto vaga in cerca di prede.",
+                "block_bbox": [
+                  155,
+                  460,
+                  343,
+                  495
+                ],
+                "block_id": 17,
+                "block_order": 10,
+                "group_id": 17,
+                "block_polygon_points": [
+                  [
+                    155,
+                    460
+                  ],
+                  [
+                    343,
+                    460
+                  ],
+                  [
+                    343,
+                    495
+                  ],
+                  [
+                    155,
+                    495
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.37123680114746094,
+                  "coordinate": [
+                    11,
+                    22,
+                    60,
+                    77
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      11,
+                      22
+                    ],
+                    [
+                      60,
+                      22
+                    ],
+                    [
+                      60,
+                      77
+                    ],
+                    [
+                      11,
+                      77
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.4340907633304596,
+                  "coordinate": [
+                    65,
+                    21,
+                    168,
+                    43
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      65,
+                      21
+                    ],
+                    [
+                      166,
+                      21
+                    ],
+                    [
+                      166,
+                      42
+                    ],
+                    [
+                      65,
+                      42
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 13,
+                  "label": "header_image",
+                  "score": 0.3991590142250061,
+                  "coordinate": [
+                    276,
+                    18,
+                    349,
+                    45
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      276,
+                      18
+                    ],
+                    [
+                      348,
+                      18
+                    ],
+                    [
+                      348,
+                      44
+                    ],
+                    [
+                      276,
+                      44
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4029035270214081,
+                  "coordinate": [
+                    61,
+                    49,
+                    133,
+                    57
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      61,
+                      49
+                    ],
+                    [
+                      132,
+                      49
+                    ],
+                    [
+                      132,
+                      56
+                    ],
+                    [
+                      61,
+                      56
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.8904261589050293,
+                  "coordinate": [
+                    27,
+                    50,
+                    339,
+                    242
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      27,
+                      50
+                    ],
+                    [
+                      339,
+                      50
+                    ],
+                    [
+                      339,
+                      242
+                    ],
+                    [
+                      27,
+                      242
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 24,
+                  "label": "vision_footnote",
+                  "score": 0.811049222946167,
+                  "coordinate": [
+                    97,
+                    246,
+                    270,
+                    256
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      97,
+                      246
+                    ],
+                    [
+                      269,
+                      246
+                    ],
+                    [
+                      269,
+                      255
+                    ],
+                    [
+                      97,
+                      255
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.8204205632209778,
+                  "coordinate": [
+                    22,
+                    327,
+                    67,
+                    349
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      22,
+                      327
+                    ],
+                    [
+                      66,
+                      327
+                    ],
+                    [
+                      66,
+                      348
+                    ],
+                    [
+                      22,
+                      348
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.7546820640563965,
+                  "coordinate": [
+                    111,
+                    330,
+                    229,
+                    350
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      113,
+                      330
+                    ],
+                    [
+                      228,
+                      330
+                    ],
+                    [
+                      228,
+                      349
+                    ],
+                    [
+                      113,
+                      349
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.3653108477592468,
+                  "coordinate": [
+                    315,
+                    328,
+                    342,
+                    348
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      315,
+                      328
+                    ],
+                    [
+                      341,
+                      328
+                    ],
+                    [
+                      341,
+                      347
+                    ],
+                    [
+                      315,
+                      347
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.669869601726532,
+                  "coordinate": [
+                    23,
+                    351,
+                    327,
+                    368
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      23,
+                      351
+                    ],
+                    [
+                      326,
+                      351
+                    ],
+                    [
+                      326,
+                      367
+                    ],
+                    [
+                      23,
+                      367
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7442020177841187,
+                  "coordinate": [
+                    51,
+                    442,
+                    91,
+                    452
+                  ],
+                  "order": 6,
+                  "polygon_points": [
+                    [
+                      51,
+                      442
+                    ],
+                    [
+                      90,
+                      442
+                    ],
+                    [
+                      90,
+                      451
+                    ],
+                    [
+                      51,
+                      451
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.5509518384933472,
+                  "coordinate": [
+                    103,
+                    439,
+                    119,
+                    455
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      103,
+                      439
+                    ],
+                    [
+                      118,
+                      439
+                    ],
+                    [
+                      118,
+                      454
+                    ],
+                    [
+                      103,
+                      454
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5294754505157471,
+                  "coordinate": [
+                    119,
+                    438,
+                    150,
+                    455
+                  ],
+                  "order": 7,
+                  "polygon_points": [
+                    [
+                      119,
+                      438
+                    ],
+                    [
+                      149,
+                      438
+                    ],
+                    [
+                      149,
+                      454
+                    ],
+                    [
+                      119,
+                      454
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4784635007381439,
+                  "coordinate": [
+                    25,
+                    457,
+                    99,
+                    468
+                  ],
+                  "order": 8,
+                  "polygon_points": [
+                    [
+                      25,
+                      457
+                    ],
+                    [
+                      98,
+                      457
+                    ],
+                    [
+                      98,
+                      467
+                    ],
+                    [
+                      25,
+                      467
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.740792989730835,
+                  "coordinate": [
+                    209,
+                    442,
+                    238,
+                    453
+                  ],
+                  "order": 9,
+                  "polygon_points": [
+                    [
+                      209,
+                      442
+                    ],
+                    [
+                      237,
+                      442
+                    ],
+                    [
+                      237,
+                      452
+                    ],
+                    [
+                      209,
+                      452
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.6207641959190369,
+                  "coordinate": [
+                    251,
+                    440,
+                    268,
+                    455
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      251,
+                      440
+                    ],
+                    [
+                      267,
+                      440
+                    ],
+                    [
+                      267,
+                      454
+                    ],
+                    [
+                      251,
+                      454
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.5605478882789612,
+                  "coordinate": [
+                    26,
+                    466,
+                    55,
+                    484
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      26,
+                      466
+                    ],
+                    [
+                      54,
+                      466
+                    ],
+                    [
+                      54,
+                      483
+                    ],
+                    [
+                      26,
+                      483
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8257860541343689,
+                  "coordinate": [
+                    155,
+                    460,
+                    343,
+                    495
+                  ],
+                  "order": 10,
+                  "polygon_points": [
+                    [
+                      155,
+                      460
+                    ],
+                    [
+                      343,
+                      460
+                    ],
+                    [
+                      343,
+                      495
+                    ],
+                    [
+                      155,
+                      495
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_11_22_60_77.jpg\" alt=\"Image\" width=\"13%\" /></div>\n\n\n# Sinistcha\n\nSi evolve da Poltchageat\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_27_50_339_242.jpg\" alt=\"Image\" width=\"85%\" /></div>\n\n\nN° 1013 Pokémon Matcha Alezza: 0,2 m Peso: 2,2 kg\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_22_327_67_349.jpg\" alt=\"Image\" width=\"12%\" /></div>\n\n\n## Idrovampata\n\n40\n\nIl Pokémon attivo del tuo avversario viene bruciato.\n\ndebolezza\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_103_439_119_455.jpg\" alt=\"Image\" width=\"4%\" /></div>\n\n\n+20\n\nII. Tomokazu Komiya\n\nritirata\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_251_440_268_455.jpg\" alt=\"Image\" width=\"4%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_26_466_55_484.jpg\" alt=\"Image\" width=\"7%\" /></div>\n\n\nGli piace stare in posti bui e freschi, ad esempio\n\nin fondo agli scaffali o sotto i pavimenti delle case.\n\nDopo il tramonto vaga in cerca di prede.",
+            "images": {
+              "imgs/img_in_image_box_11_22_60_77.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2570b75c-0f32-4e47-8077-edee46c1f2fe/markdown_0/imgs/img_in_image_box_11_22_60_77.jpg",
+              "imgs/img_in_header_image_box_276_18_349_45.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2570b75c-0f32-4e47-8077-edee46c1f2fe/markdown_0/imgs/img_in_header_image_box_276_18_349_45.jpg",
+              "imgs/img_in_image_box_27_50_339_242.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2570b75c-0f32-4e47-8077-edee46c1f2fe/markdown_0/imgs/img_in_image_box_27_50_339_242.jpg",
+              "imgs/img_in_image_box_22_327_67_349.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2570b75c-0f32-4e47-8077-edee46c1f2fe/markdown_0/imgs/img_in_image_box_22_327_67_349.jpg",
+              "imgs/img_in_image_box_103_439_119_455.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2570b75c-0f32-4e47-8077-edee46c1f2fe/markdown_0/imgs/img_in_image_box_103_439_119_455.jpg",
+              "imgs/img_in_image_box_251_440_268_455.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2570b75c-0f32-4e47-8077-edee46c1f2fe/markdown_0/imgs/img_in_image_box_251_440_268_455.jpg",
+              "imgs/img_in_image_box_26_466_55_484.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//2570b75c-0f32-4e47-8077-edee46c1f2fe/markdown_0/imgs/img_in_image_box_26_466_55_484.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/023",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/023",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/023",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/023"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/023",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/023",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/023"
     },
     name: {
         en: "Moltres",

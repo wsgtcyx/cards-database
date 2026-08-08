@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/130",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/130",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/130",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/130"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/130",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/130",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/130"
     },
     name: {
         en: "Raticate",

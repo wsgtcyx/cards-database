@@ -1,0 +1,788 @@
+{
+  "ok": true,
+  "text": "BASE\n\nMega Rayquaza EX PS 180\n\nLe forma megevoluta di Rayquez\n\nMegascoppio\n\n50※\n\nRimuoyi tutte le Energie e 4 da questo Pokémon.\nQuesto attacco infligge 50 danni per ogni Energia che hai\nrimosso in questo modo.\n\ndebolezza\n\nnitara\n\n18.10am0605\n★★★\n\nRegola EX Megaevoluzione\n\nUno invésir a采伐者3 para\n\nogni vota che una denན་ Poco = 21 ex Nervosa-zons va KO",
+  "result": {
+    "logId": "5cd8af49-0b04-4b49-bad5-cada5679e418",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "header",
+                "block_content": "BASE",
+                "block_bbox": [
+                  19,
+                  25,
+                  53,
+                  35
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    19,
+                    25
+                  ],
+                  [
+                    52,
+                    25
+                  ],
+                  [
+                    52,
+                    34
+                  ],
+                  [
+                    19,
+                    34
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Mega Rayquaza EX PS 180",
+                "block_bbox": [
+                  61,
+                  18,
+                  319,
+                  48
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    60.8084716796875,
+                    20.257198333740234
+                  ],
+                  [
+                    317.7620544433594,
+                    17.993274688720703
+                  ],
+                  [
+                    318.0000305175781,
+                    44.9999885559082
+                  ],
+                  [
+                    61.04644775390625,
+                    47.263912200927734
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Le forma megevoluta di Rayquez",
+                "block_bbox": [
+                  222,
+                  49,
+                  347,
+                  68
+                ],
+                "block_id": 2,
+                "block_order": 2,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    222,
+                    49
+                  ],
+                  [
+                    346,
+                    49
+                  ],
+                  [
+                    346,
+                    67
+                  ],
+                  [
+                    222,
+                    67
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Megascoppio",
+                "block_bbox": [
+                  112,
+                  313,
+                  230,
+                  333
+                ],
+                "block_id": 3,
+                "block_order": 3,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    112.00000762939453,
+                    312.9999694824219
+                  ],
+                  [
+                    229,
+                    312.9999694824219
+                  ],
+                  [
+                    229,
+                    331.9999694824219
+                  ],
+                  [
+                    112.00000762939453,
+                    331.9999694824219
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "50※",
+                "block_bbox": [
+                  316,
+                  310,
+                  351,
+                  332
+                ],
+                "block_id": 4,
+                "block_order": 4,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    316,
+                    310
+                  ],
+                  [
+                    350,
+                    310
+                  ],
+                  [
+                    350,
+                    331
+                  ],
+                  [
+                    316,
+                    331
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Rimuoyi tutte le Energie e 4 da questo Pokémon.\nQuesto attacco infligge 50 danni per ogni Energia che hai\nrimosso in questo modo.",
+                "block_bbox": [
+                  23,
+                  334,
+                  344,
+                  385
+                ],
+                "block_id": 5,
+                "block_order": 5,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    23,
+                    334
+                  ],
+                  [
+                    344,
+                    334
+                  ],
+                  [
+                    344,
+                    385
+                  ],
+                  [
+                    23,
+                    385
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "debolezza",
+                "block_bbox": [
+                  51,
+                  442,
+                  91,
+                  452
+                ],
+                "block_id": 6,
+                "block_order": 6,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    51,
+                    442
+                  ],
+                  [
+                    89,
+                    442
+                  ],
+                  [
+                    89,
+                    451
+                  ],
+                  [
+                    51,
+                    451
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "nitara",
+                "block_bbox": [
+                  210,
+                  442,
+                  238,
+                  452
+                ],
+                "block_id": 7,
+                "block_order": 7,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    210,
+                    442
+                  ],
+                  [
+                    237,
+                    442
+                  ],
+                  [
+                    237,
+                    451
+                  ],
+                  [
+                    210,
+                    451
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "18.10am0605\n★★★",
+                "block_bbox": [
+                  24,
+                  456,
+                  76,
+                  483
+                ],
+                "block_id": 8,
+                "block_order": null,
+                "group_id": 8,
+                "block_polygon_points": [
+                  [
+                    24,
+                    456
+                  ],
+                  [
+                    75,
+                    456
+                  ],
+                  [
+                    75,
+                    482
+                  ],
+                  [
+                    24,
+                    482
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "Regola EX Megaevoluzione",
+                "block_bbox": [
+                  133,
+                  465,
+                  234,
+                  476
+                ],
+                "block_id": 9,
+                "block_order": null,
+                "group_id": 9,
+                "block_polygon_points": [
+                  [
+                    134.99996948242188,
+                    465
+                  ],
+                  [
+                    231.99996948242188,
+                    465
+                  ],
+                  [
+                    231.99996948242188,
+                    475
+                  ],
+                  [
+                    134.99996948242188,
+                    475
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "Uno invésir a采伐者3 para",
+                "block_bbox": [
+                  243,
+                  467,
+                  345,
+                  477
+                ],
+                "block_id": 10,
+                "block_order": null,
+                "group_id": 10,
+                "block_polygon_points": [
+                  [
+                    243,
+                    467
+                  ],
+                  [
+                    344,
+                    467
+                  ],
+                  [
+                    344,
+                    476
+                  ],
+                  [
+                    243,
+                    476
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "ogni vota che una denན་ Poco = 21 ex Nervosa-zons va KO",
+                "block_bbox": [
+                  131,
+                  478,
+                  332,
+                  488
+                ],
+                "block_id": 11,
+                "block_order": null,
+                "group_id": 11,
+                "block_polygon_points": [
+                  [
+                    131,
+                    478
+                  ],
+                  [
+                    331,
+                    478
+                  ],
+                  [
+                    331,
+                    487
+                  ],
+                  [
+                    131,
+                    487
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.373382568359375,
+                  "coordinate": [
+                    19,
+                    25,
+                    53,
+                    35
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      19,
+                      25
+                    ],
+                    [
+                      52,
+                      25
+                    ],
+                    [
+                      52,
+                      34
+                    ],
+                    [
+                      19,
+                      34
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.48732250928878784,
+                  "coordinate": [
+                    61,
+                    18,
+                    319,
+                    48
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      60.8084716796875,
+                      20.257198333740234
+                    ],
+                    [
+                      317.7620544433594,
+                      17.993274688720703
+                    ],
+                    [
+                      318.0000305175781,
+                      44.9999885559082
+                    ],
+                    [
+                      61.04644775390625,
+                      47.263912200927734
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5712814331054688,
+                  "coordinate": [
+                    222,
+                    49,
+                    347,
+                    68
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      222,
+                      49
+                    ],
+                    [
+                      346,
+                      49
+                    ],
+                    [
+                      346,
+                      67
+                    ],
+                    [
+                      222,
+                      67
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.5095890760421753,
+                  "coordinate": [
+                    112,
+                    313,
+                    230,
+                    333
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      112.00000762939453,
+                      312.9999694824219
+                    ],
+                    [
+                      229,
+                      312.9999694824219
+                    ],
+                    [
+                      229,
+                      331.9999694824219
+                    ],
+                    [
+                      112.00000762939453,
+                      331.9999694824219
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.35490259528160095,
+                  "coordinate": [
+                    316,
+                    310,
+                    351,
+                    332
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      316,
+                      310
+                    ],
+                    [
+                      350,
+                      310
+                    ],
+                    [
+                      350,
+                      331
+                    ],
+                    [
+                      316,
+                      331
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.8345176577568054,
+                  "coordinate": [
+                    23,
+                    334,
+                    344,
+                    385
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      23,
+                      334
+                    ],
+                    [
+                      344,
+                      334
+                    ],
+                    [
+                      344,
+                      385
+                    ],
+                    [
+                      23,
+                      385
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5373280644416809,
+                  "coordinate": [
+                    51,
+                    442,
+                    91,
+                    452
+                  ],
+                  "order": 6,
+                  "polygon_points": [
+                    [
+                      51,
+                      442
+                    ],
+                    [
+                      89,
+                      442
+                    ],
+                    [
+                      89,
+                      451
+                    ],
+                    [
+                      51,
+                      451
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.36387190222740173,
+                  "coordinate": [
+                    210,
+                    442,
+                    238,
+                    452
+                  ],
+                  "order": 7,
+                  "polygon_points": [
+                    [
+                      210,
+                      442
+                    ],
+                    [
+                      237,
+                      442
+                    ],
+                    [
+                      237,
+                      451
+                    ],
+                    [
+                      210,
+                      451
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.5264706611633301,
+                  "coordinate": [
+                    24,
+                    456,
+                    76,
+                    483
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      24,
+                      456
+                    ],
+                    [
+                      75,
+                      456
+                    ],
+                    [
+                      75,
+                      482
+                    ],
+                    [
+                      24,
+                      482
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.42099127173423767,
+                  "coordinate": [
+                    133,
+                    465,
+                    234,
+                    476
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      134.99996948242188,
+                      465
+                    ],
+                    [
+                      231.99996948242188,
+                      465
+                    ],
+                    [
+                      231.99996948242188,
+                      475
+                    ],
+                    [
+                      134.99996948242188,
+                      475
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.3777064085006714,
+                  "coordinate": [
+                    243,
+                    467,
+                    345,
+                    477
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      243,
+                      467
+                    ],
+                    [
+                      344,
+                      467
+                    ],
+                    [
+                      344,
+                      476
+                    ],
+                    [
+                      243,
+                      476
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.48058614134788513,
+                  "coordinate": [
+                    131,
+                    478,
+                    332,
+                    488
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      131,
+                      478
+                    ],
+                    [
+                      331,
+                      478
+                    ],
+                    [
+                      331,
+                      487
+                    ],
+                    [
+                      131,
+                      487
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "## Mega Rayquaza EX PS 180\n\nLe forma megevoluta di Rayquez\n\n## Megascoppio\n\n50※\n\nRimuoyi tutte le Energie e 4 da questo Pokémon.\n\nQuesto attacco infligge 50 danni per ogni Energia che hai\n\nrimosso in questo modo.\n\ndebolezza\n\nnitara",
+            "images": {}
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

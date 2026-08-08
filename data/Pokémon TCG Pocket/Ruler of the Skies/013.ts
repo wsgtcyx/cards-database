@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/013",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/013",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/013",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/013"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/013",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/013",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/013"
     },
     name: {
         en: "Shelmet",

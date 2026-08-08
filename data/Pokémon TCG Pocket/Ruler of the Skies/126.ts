@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/126",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/126",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/126",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/126"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/126",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/126",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/126"
     },
     name: {
         en: "Dipplin",

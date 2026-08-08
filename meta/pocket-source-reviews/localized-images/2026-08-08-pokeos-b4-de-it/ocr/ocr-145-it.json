@@ -1,0 +1,607 @@
+{
+  "ok": true,
+  "text": "[Table_Page_Number]\n\nStrumento\n\nALLENATORE\n\nSchermo Ordini\n\nLancia una moneta. Se esce testa, prendi una\ncarta Strumento a caso dal tuo mazzo e aggiungila\nalle carte che hai in mano.\n\nIII. Studio Bora Inc.\n◇ ◇\nPuoi giocare tutte le carte Strumento che vuoi\ndurante il tuo turno.\n\n1",
+  "result": {
+    "logId": "d7cb327b-9a25-4086-9e08-75ef821ccbaf",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "aside_text",
+                "block_content": "[Table_Page_Number]",
+                "block_bbox": [
+                  11,
+                  74,
+                  26,
+                  481
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    10.021768569946289,
+                    74.00808715820312
+                  ],
+                  [
+                    23.99992561340332,
+                    73.97012329101562
+                  ],
+                  [
+                    25.0488338470459,
+                    459.9726867675781
+                  ],
+                  [
+                    11.070676803588867,
+                    460.0106506347656
+                  ]
+                ]
+              },
+              {
+                "block_label": "header",
+                "block_content": "Strumento",
+                "block_bbox": [
+                  14,
+                  15,
+                  104,
+                  30
+                ],
+                "block_id": 1,
+                "block_order": null,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    14,
+                    15
+                  ],
+                  [
+                    103,
+                    15
+                  ],
+                  [
+                    103,
+                    29
+                  ],
+                  [
+                    14,
+                    29
+                  ]
+                ]
+              },
+              {
+                "block_label": "header",
+                "block_content": "ALLENATORE",
+                "block_bbox": [
+                  209,
+                  13,
+                  352,
+                  32
+                ],
+                "block_id": 2,
+                "block_order": null,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    209,
+                    13
+                  ],
+                  [
+                    351,
+                    13
+                  ],
+                  [
+                    351,
+                    31
+                  ],
+                  [
+                    209,
+                    31
+                  ]
+                ]
+              },
+              {
+                "block_label": "doc_title",
+                "block_content": "Schermo Ordini",
+                "block_bbox": [
+                  16,
+                  41,
+                  190,
+                  64
+                ],
+                "block_id": 3,
+                "block_order": 1,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    16,
+                    41
+                  ],
+                  [
+                    190,
+                    41
+                  ],
+                  [
+                    190,
+                    64
+                  ],
+                  [
+                    16,
+                    64
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  27,
+                  71,
+                  340,
+                  266
+                ],
+                "block_id": 4,
+                "block_order": null,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    27,
+                    71
+                  ],
+                  [
+                    340,
+                    71
+                  ],
+                  [
+                    340,
+                    266
+                  ],
+                  [
+                    27,
+                    266
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Lancia una moneta. Se esce testa, prendi una\ncarta Strumento a caso dal tuo mazzo e aggiungila\nalle carte che hai in mano.",
+                "block_bbox": [
+                  41,
+                  329,
+                  326,
+                  383
+                ],
+                "block_id": 5,
+                "block_order": 2,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    41,
+                    329
+                  ],
+                  [
+                    326,
+                    329
+                  ],
+                  [
+                    326,
+                    383
+                  ],
+                  [
+                    41,
+                    383
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "III. Studio Bora Inc.\n◇ ◇\nPuoi giocare tutte le carte Strumento che vuoi\ndurante il tuo turno.",
+                "block_bbox": [
+                  23,
+                  456,
+                  91,
+                  484
+                ],
+                "block_id": 6,
+                "block_order": 3,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    23,
+                    456
+                  ],
+                  [
+                    89,
+                    456
+                  ],
+                  [
+                    89,
+                    483
+                  ],
+                  [
+                    23,
+                    483
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  123,
+                  456,
+                  315,
+                  482
+                ],
+                "block_id": 7,
+                "block_order": 4,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    123,
+                    456
+                  ],
+                  [
+                    315,
+                    456
+                  ],
+                  [
+                    315,
+                    482
+                  ],
+                  [
+                    123,
+                    482
+                  ]
+                ]
+              },
+              {
+                "block_label": "aside_text",
+                "block_content": "1",
+                "block_bbox": [
+                  341,
+                  71,
+                  354,
+                  446
+                ],
+                "block_id": 8,
+                "block_order": null,
+                "group_id": 8,
+                "block_polygon_points": [
+                  [
+                    340.9102478027344,
+                    71.02297973632812
+                  ],
+                  [
+                    352.8986511230469,
+                    70.95565795898438
+                  ],
+                  [
+                    354.9886779785156,
+                    442.9831848144531
+                  ],
+                  [
+                    343.0002746582031,
+                    443.0505065917969
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 2,
+                  "label": "aside_text",
+                  "score": 0.5740297436714172,
+                  "coordinate": [
+                    11,
+                    74,
+                    26,
+                    481
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      10.021768569946289,
+                      74.00808715820312
+                    ],
+                    [
+                      23.99992561340332,
+                      73.97012329101562
+                    ],
+                    [
+                      25.0488338470459,
+                      459.9726867675781
+                    ],
+                    [
+                      11.070676803588867,
+                      460.0106506347656
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.8037508726119995,
+                  "coordinate": [
+                    14,
+                    15,
+                    104,
+                    30
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      14,
+                      15
+                    ],
+                    [
+                      103,
+                      15
+                    ],
+                    [
+                      103,
+                      29
+                    ],
+                    [
+                      14,
+                      29
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.7998411059379578,
+                  "coordinate": [
+                    209,
+                    13,
+                    352,
+                    32
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      209,
+                      13
+                    ],
+                    [
+                      351,
+                      13
+                    ],
+                    [
+                      351,
+                      31
+                    ],
+                    [
+                      209,
+                      31
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.6098002195358276,
+                  "coordinate": [
+                    16,
+                    41,
+                    190,
+                    64
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      16,
+                      41
+                    ],
+                    [
+                      190,
+                      41
+                    ],
+                    [
+                      190,
+                      64
+                    ],
+                    [
+                      16,
+                      64
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.8858041763305664,
+                  "coordinate": [
+                    27,
+                    71,
+                    340,
+                    266
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      27,
+                      71
+                    ],
+                    [
+                      340,
+                      71
+                    ],
+                    [
+                      340,
+                      266
+                    ],
+                    [
+                      27,
+                      266
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.873521625995636,
+                  "coordinate": [
+                    41,
+                    329,
+                    326,
+                    383
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      41,
+                      329
+                    ],
+                    [
+                      326,
+                      329
+                    ],
+                    [
+                      326,
+                      383
+                    ],
+                    [
+                      41,
+                      383
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4921126961708069,
+                  "coordinate": [
+                    23,
+                    456,
+                    91,
+                    484
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      23,
+                      456
+                    ],
+                    [
+                      89,
+                      456
+                    ],
+                    [
+                      89,
+                      483
+                    ],
+                    [
+                      23,
+                      483
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.728596031665802,
+                  "coordinate": [
+                    123,
+                    456,
+                    315,
+                    482
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      123,
+                      456
+                    ],
+                    [
+                      315,
+                      456
+                    ],
+                    [
+                      315,
+                      482
+                    ],
+                    [
+                      123,
+                      482
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 2,
+                  "label": "aside_text",
+                  "score": 0.6586631536483765,
+                  "coordinate": [
+                    341,
+                    71,
+                    354,
+                    446
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      340.9102478027344,
+                      71.02297973632812
+                    ],
+                    [
+                      352.8986511230469,
+                      70.95565795898438
+                    ],
+                    [
+                      354.9886779785156,
+                      442.9831848144531
+                    ],
+                    [
+                      343.0002746582031,
+                      443.0505065917969
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# Schermo Ordini\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_27_71_340_266.jpg\" alt=\"Image\" width=\"85%\" /></div>\n\n\nLancia una moneta. Se esce testa, prendi una\n\ncarta Strumento a caso dal tuo mazzo e aggiungila\n\nalle carte che hai in mano.\n\nIII. Studio Bora Inc.\n\n◇ ◇\n\nPuoi giocare tutte le carte Strumento che vuoi\n\ndurante il tuo turno.\n\n",
+            "images": {
+              "imgs/img_in_image_box_27_71_340_266.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//798e4a3f-b019-4e26-b4b8-813097cc4a42/markdown_0/imgs/img_in_image_box_27_71_340_266.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

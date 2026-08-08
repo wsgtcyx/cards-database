@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/116",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/116",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/116",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/116"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/116",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/116",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/116"
     },
     name: {
         en: "Dratini",

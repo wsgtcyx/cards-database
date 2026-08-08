@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/197",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/197",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/197",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/197"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/197",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/197",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/197"
     },
     name: {
         en: "Wailord ex",

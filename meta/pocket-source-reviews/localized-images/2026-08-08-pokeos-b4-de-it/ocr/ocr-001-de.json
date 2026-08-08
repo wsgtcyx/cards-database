@@ -1,0 +1,394 @@
+{
+  "ok": true,
+  "text": "BASIS\n\nWaumpel\n\nNr. 0265 Wurm-Pokémon Größe: 0.3 m Gewicht: 3.6 kg\n\nEs haust in Waldern und auf Wiesen.\nBei Angriffen wehrt es sich mit den\nGiftstacheln auf seinem Hinterteil.",
+  "result": {
+    "logId": "b4998e33-3ea2-4e34-8181-e0ece9474001",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "header",
+                "block_content": "BASIS",
+                "block_bbox": [
+                  17,
+                  25,
+                  56,
+                  35
+                ],
+                "block_id": 0,
+                "block_order": null,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    17,
+                    25
+                  ],
+                  [
+                    54,
+                    25
+                  ],
+                  [
+                    54,
+                    34
+                  ],
+                  [
+                    17,
+                    34
+                  ]
+                ]
+              },
+              {
+                "block_label": "doc_title",
+                "block_content": "Waumpel",
+                "block_bbox": [
+                  64,
+                  20,
+                  180,
+                  45
+                ],
+                "block_id": 1,
+                "block_order": 1,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    64,
+                    20
+                  ],
+                  [
+                    180,
+                    20
+                  ],
+                  [
+                    180,
+                    45
+                  ],
+                  [
+                    64,
+                    45
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  15,
+                  47,
+                  351,
+                  494
+                ],
+                "block_id": 2,
+                "block_order": null,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    15,
+                    47
+                  ],
+                  [
+                    351,
+                    47
+                  ],
+                  [
+                    351,
+                    494
+                  ],
+                  [
+                    15,
+                    494
+                  ]
+                ]
+              },
+              {
+                "block_label": "vision_footnote",
+                "block_content": "Nr. 0265 Wurm-Pokémon Größe: 0.3 m Gewicht: 3.6 kg",
+                "block_bbox": [
+                  95,
+                  245,
+                  272,
+                  256
+                ],
+                "block_id": 3,
+                "block_order": null,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    95,
+                    245
+                  ],
+                  [
+                    95,
+                    255
+                  ],
+                  [
+                    271,
+                    255
+                  ],
+                  [
+                    271,
+                    245
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Es haust in Waldern und auf Wiesen.\nBei Angriffen wehrt es sich mit den\nGiftstacheln auf seinem Hinterteil.",
+                "block_bbox": [
+                  202,
+                  459,
+                  343,
+                  495
+                ],
+                "block_id": 4,
+                "block_order": 2,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    202,
+                    459
+                  ],
+                  [
+                    343,
+                    459
+                  ],
+                  [
+                    343,
+                    495
+                  ],
+                  [
+                    202,
+                    495
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 12,
+                  "label": "header",
+                  "score": 0.31463944911956787,
+                  "coordinate": [
+                    17,
+                    25,
+                    56,
+                    35
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      17,
+                      25
+                    ],
+                    [
+                      54,
+                      25
+                    ],
+                    [
+                      54,
+                      34
+                    ],
+                    [
+                      17,
+                      34
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.42767417430877686,
+                  "coordinate": [
+                    64,
+                    20,
+                    180,
+                    45
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      64,
+                      20
+                    ],
+                    [
+                      180,
+                      20
+                    ],
+                    [
+                      180,
+                      45
+                    ],
+                    [
+                      64,
+                      45
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.36185505986213684,
+                  "coordinate": [
+                    27,
+                    48,
+                    338,
+                    244
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      27,
+                      48
+                    ],
+                    [
+                      338,
+                      48
+                    ],
+                    [
+                      338,
+                      244
+                    ],
+                    [
+                      27,
+                      244
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.6435444951057434,
+                  "coordinate": [
+                    15,
+                    47,
+                    351,
+                    494
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      15,
+                      47
+                    ],
+                    [
+                      351,
+                      47
+                    ],
+                    [
+                      351,
+                      494
+                    ],
+                    [
+                      15,
+                      494
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 24,
+                  "label": "vision_footnote",
+                  "score": 0.5435099005699158,
+                  "coordinate": [
+                    95,
+                    245,
+                    272,
+                    256
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      95,
+                      245
+                    ],
+                    [
+                      95,
+                      255
+                    ],
+                    [
+                      271,
+                      255
+                    ],
+                    [
+                      271,
+                      245
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.47388747334480286,
+                  "coordinate": [
+                    202,
+                    459,
+                    343,
+                    495
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      202,
+                      459
+                    ],
+                    [
+                      343,
+                      459
+                    ],
+                    [
+                      343,
+                      495
+                    ],
+                    [
+                      202,
+                      495
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# Waumpel\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_15_47_351_494.jpg\" alt=\"Image\" width=\"91%\" /></div>\n\n\nNr. 0265 Wurm-Pokémon Größe: 0.3 m Gewicht: 3.6 kg\n\nEs haust in Waldern und auf Wiesen.\n\nBei Angriffen wehrt es sich mit den\n\nGiftstacheln auf seinem Hinterteil.",
+            "images": {
+              "imgs/img_in_image_box_15_47_351_494.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//d5224420-f968-420a-8b14-ed2e7bed6fdf/markdown_0/imgs/img_in_image_box_15_47_351_494.jpg",
+              "imgs/img_in_image_box_27_48_338_244.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//d5224420-f968-420a-8b14-ed2e7bed6fdf/markdown_0/imgs/img_in_image_box_27_48_338_244.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

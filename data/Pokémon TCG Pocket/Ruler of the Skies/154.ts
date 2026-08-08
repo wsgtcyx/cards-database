@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/154",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/154",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/154",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/154"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/154",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/154",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/154"
     },
     name: {
         en: "Soothing Shore",

@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/125",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/125",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/125",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/125"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/125",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/125",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/125"
     },
     name: {
         en: "Applin",

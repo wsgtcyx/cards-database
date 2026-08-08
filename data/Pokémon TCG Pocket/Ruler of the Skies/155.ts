@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/155",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/155",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/155",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/155"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/155",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/155",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/155"
     },
     name: {
         en: "Rainbow Cave",

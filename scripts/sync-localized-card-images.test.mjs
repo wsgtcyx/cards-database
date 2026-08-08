@@ -8,6 +8,7 @@ import {
 	assertDownstreamApplyBaseline,
 	assertExactR2Url,
 	assertMetadataApplyBaseline,
+	assertPokeosSourceUrl,
 	assertR2Key,
 	assertSourceUrl,
 	assertSelection,
@@ -38,6 +39,14 @@ test('source URL validation is limited to the expected RaenonX image query', () 
 	const source = 'https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/zh/PK_10_007970_00.png'
 	assert.equal(assertSourceUrl(source, 'zh', 'PK_10_007970_00'), source)
 	assert.throws(() => assertSourceUrl(`${source}&redirect=https://evil.example`, 'zh', 'PK_10_007970_00'), /Unexpected source URL query/)
+})
+
+test('PokeOS source URL validation binds set, card number, and locale', () => {
+	const source = 'https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/145_de.png'
+	assert.equal(assertPokeosSourceUrl(source, 583, 145, 'de'), source)
+	assert.throws(() => assertPokeosSourceUrl(source, 583, 146, 'de'), /Unexpected PokeOS source URL/)
+	assert.throws(() => assertPokeosSourceUrl(`${source}?token=secret`, 583, 145, 'de'), /Unexpected PokeOS source URL/)
+	assert.throws(() => assertPokeosSourceUrl(source.replace('s3.pokeos.com', 'evil.example'), 583, 145, 'de'), /Unexpected PokeOS source URL/)
 })
 
 test('flibustier members use the release path and map project promo IDs', () => {

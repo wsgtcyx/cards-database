@@ -1,0 +1,851 @@
+{
+  "ok": true,
+  "text": "Mega-Metagross EX KP 230\n\nEnerwickalt sich aus Metzang\n\nDie Mega-entwickelte Form von Metagoss\n\nRepetierschlag\n\n100+\n\nDiese Attacke fügt für jede an dieses Pokémon angelegte\n-Energie 10 Schadenspunkte mehr zu.\n\nSchwäche +20\n\nRückzug\n\nillustr. PLANETA Yamashita\n\nMega-Entwicklungs-EX-Regel\nPokémon-EX kampfuntabig",
+  "result": {
+    "logId": "1521f4fe-e102-4a5c-aa0d-4f2635b5b274",
+    "errorCode": 0,
+    "errorMsg": "Success",
+    "result": {
+      "layoutParsingResults": [
+        {
+          "prunedResult": {
+            "page_count": null,
+            "width": 367,
+            "height": 512,
+            "model_settings": {
+              "use_doc_preprocessor": false,
+              "use_layout_detection": true,
+              "use_chart_recognition": false,
+              "use_seal_recognition": false,
+              "use_ocr_for_image_block": false,
+              "format_block_content": false,
+              "merge_layout_blocks": true,
+              "markdown_ignore_labels": [
+                "number",
+                "footnote",
+                "header",
+                "header_image",
+                "footer",
+                "footer_image",
+                "aside_text"
+              ],
+              "return_layout_polygon_points": true
+            },
+            "parsing_res_list": [
+              {
+                "block_label": "doc_title",
+                "block_content": "Mega-Metagross EX KP 230",
+                "block_bbox": [
+                  63,
+                  19,
+                  351,
+                  47
+                ],
+                "block_id": 0,
+                "block_order": 1,
+                "group_id": 0,
+                "block_polygon_points": [
+                  [
+                    64.9587173461914,
+                    19.155757904052734
+                  ],
+                  [
+                    349.8102111816406,
+                    17.142690658569336
+                  ],
+                  [
+                    350.0000305175781,
+                    44.00000762939453
+                  ],
+                  [
+                    65.14852905273438,
+                    46.01307678222656
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Enerwickalt sich aus Metzang",
+                "block_bbox": [
+                  63,
+                  49,
+                  140,
+                  57
+                ],
+                "block_id": 1,
+                "block_order": 2,
+                "group_id": 1,
+                "block_polygon_points": [
+                  [
+                    63,
+                    49
+                  ],
+                  [
+                    139,
+                    49
+                  ],
+                  [
+                    139,
+                    56
+                  ],
+                  [
+                    63,
+                    56
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Die Mega-entwickelte Form von Metagoss",
+                "block_bbox": [
+                  235,
+                  49,
+                  351,
+                  68
+                ],
+                "block_id": 2,
+                "block_order": 3,
+                "group_id": 2,
+                "block_polygon_points": [
+                  [
+                    237,
+                    49
+                  ],
+                  [
+                    350,
+                    49
+                  ],
+                  [
+                    350,
+                    67
+                  ],
+                  [
+                    237,
+                    67
+                  ]
+                ]
+              },
+              {
+                "block_label": "image",
+                "block_content": "",
+                "block_bbox": [
+                  0,
+                  19,
+                  367,
+                  286
+                ],
+                "block_id": 3,
+                "block_order": null,
+                "group_id": 3,
+                "block_polygon_points": [
+                  [
+                    0,
+                    19
+                  ],
+                  [
+                    367,
+                    19
+                  ],
+                  [
+                    367,
+                    286
+                  ],
+                  [
+                    0,
+                    286
+                  ]
+                ]
+              },
+              {
+                "block_label": "paragraph_title",
+                "block_content": "Repetierschlag",
+                "block_bbox": [
+                  23,
+                  320,
+                  246,
+                  341
+                ],
+                "block_id": 4,
+                "block_order": 4,
+                "group_id": 4,
+                "block_polygon_points": [
+                  [
+                    23,
+                    319.9999694824219
+                  ],
+                  [
+                    244.99996948242188,
+                    319.9999694824219
+                  ],
+                  [
+                    244.99996948242188,
+                    339.9999694824219
+                  ],
+                  [
+                    23,
+                    339.9999694824219
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "100+",
+                "block_bbox": [
+                  308,
+                  318,
+                  352,
+                  341
+                ],
+                "block_id": 5,
+                "block_order": 5,
+                "group_id": 5,
+                "block_polygon_points": [
+                  [
+                    308,
+                    318
+                  ],
+                  [
+                    351,
+                    318
+                  ],
+                  [
+                    351,
+                    340
+                  ],
+                  [
+                    308,
+                    340
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Diese Attacke fügt für jede an dieses Pokémon angelegte\n-Energie 10 Schadenspunkte mehr zu.",
+                "block_bbox": [
+                  23,
+                  342,
+                  343,
+                  377
+                ],
+                "block_id": 6,
+                "block_order": 6,
+                "group_id": 6,
+                "block_polygon_points": [
+                  [
+                    23,
+                    342
+                  ],
+                  [
+                    343,
+                    342
+                  ],
+                  [
+                    343,
+                    377
+                  ],
+                  [
+                    23,
+                    377
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Schwäche +20",
+                "block_bbox": [
+                  51,
+                  442,
+                  91,
+                  453
+                ],
+                "block_id": 7,
+                "block_order": 7,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    51,
+                    442
+                  ],
+                  [
+                    90,
+                    442
+                  ],
+                  [
+                    90,
+                    452
+                  ],
+                  [
+                    51,
+                    452
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "",
+                "block_bbox": [
+                  102,
+                  438,
+                  150,
+                  455
+                ],
+                "block_id": 8,
+                "block_order": 8,
+                "group_id": 7,
+                "block_polygon_points": [
+                  [
+                    102,
+                    438
+                  ],
+                  [
+                    149,
+                    438
+                  ],
+                  [
+                    149,
+                    454
+                  ],
+                  [
+                    102,
+                    454
+                  ]
+                ]
+              },
+              {
+                "block_label": "text",
+                "block_content": "Rückzug",
+                "block_bbox": [
+                  207,
+                  442,
+                  241,
+                  453
+                ],
+                "block_id": 9,
+                "block_order": 9,
+                "group_id": 9,
+                "block_polygon_points": [
+                  [
+                    207,
+                    442
+                  ],
+                  [
+                    240,
+                    442
+                  ],
+                  [
+                    240,
+                    452
+                  ],
+                  [
+                    207,
+                    452
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "illustr. PLANETA Yamashita",
+                "block_bbox": [
+                  25,
+                  457,
+                  113,
+                  484
+                ],
+                "block_id": 10,
+                "block_order": null,
+                "group_id": 10,
+                "block_polygon_points": [
+                  [
+                    25,
+                    457
+                  ],
+                  [
+                    113,
+                    457
+                  ],
+                  [
+                    113,
+                    484
+                  ],
+                  [
+                    25,
+                    484
+                  ]
+                ]
+              },
+              {
+                "block_label": "footer",
+                "block_content": "Mega-Entwicklungs-EX-Regel\nPokémon-EX kampfuntabig",
+                "block_bbox": [
+                  130,
+                  465,
+                  345,
+                  489
+                ],
+                "block_id": 11,
+                "block_order": null,
+                "group_id": 11,
+                "block_polygon_points": [
+                  [
+                    130,
+                    465
+                  ],
+                  [
+                    345,
+                    465
+                  ],
+                  [
+                    345,
+                    489
+                  ],
+                  [
+                    130,
+                    489
+                  ]
+                ]
+              }
+            ],
+            "layout_det_res": {
+              "boxes": [
+                {
+                  "cls_id": 6,
+                  "label": "doc_title",
+                  "score": 0.39252522587776184,
+                  "coordinate": [
+                    63,
+                    19,
+                    351,
+                    47
+                  ],
+                  "order": 1,
+                  "polygon_points": [
+                    [
+                      64.9587173461914,
+                      19.155757904052734
+                    ],
+                    [
+                      349.8102111816406,
+                      17.142690658569336
+                    ],
+                    [
+                      350.0000305175781,
+                      44.00000762939453
+                    ],
+                    [
+                      65.14852905273438,
+                      46.01307678222656
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.3141281008720398,
+                  "coordinate": [
+                    13,
+                    45,
+                    56,
+                    75
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      13,
+                      45
+                    ],
+                    [
+                      55,
+                      45
+                    ],
+                    [
+                      55,
+                      74
+                    ],
+                    [
+                      13,
+                      74
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.4280342161655426,
+                  "coordinate": [
+                    63,
+                    49,
+                    140,
+                    57
+                  ],
+                  "order": 2,
+                  "polygon_points": [
+                    [
+                      63,
+                      49
+                    ],
+                    [
+                      139,
+                      49
+                    ],
+                    [
+                      139,
+                      56
+                    ],
+                    [
+                      63,
+                      56
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.465457022190094,
+                  "coordinate": [
+                    235,
+                    49,
+                    351,
+                    68
+                  ],
+                  "order": 3,
+                  "polygon_points": [
+                    [
+                      237,
+                      49
+                    ],
+                    [
+                      350,
+                      49
+                    ],
+                    [
+                      350,
+                      67
+                    ],
+                    [
+                      237,
+                      67
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 14,
+                  "label": "image",
+                  "score": 0.3191188871860504,
+                  "coordinate": [
+                    0,
+                    19,
+                    367,
+                    286
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      0,
+                      19
+                    ],
+                    [
+                      367,
+                      19
+                    ],
+                    [
+                      367,
+                      286
+                    ],
+                    [
+                      0,
+                      286
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 17,
+                  "label": "paragraph_title",
+                  "score": 0.4058462679386139,
+                  "coordinate": [
+                    23,
+                    320,
+                    246,
+                    341
+                  ],
+                  "order": 4,
+                  "polygon_points": [
+                    [
+                      23,
+                      319.9999694824219
+                    ],
+                    [
+                      244.99996948242188,
+                      319.9999694824219
+                    ],
+                    [
+                      244.99996948242188,
+                      339.9999694824219
+                    ],
+                    [
+                      23,
+                      339.9999694824219
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.5618900060653687,
+                  "coordinate": [
+                    308,
+                    318,
+                    352,
+                    341
+                  ],
+                  "order": 5,
+                  "polygon_points": [
+                    [
+                      308,
+                      318
+                    ],
+                    [
+                      351,
+                      318
+                    ],
+                    [
+                      351,
+                      340
+                    ],
+                    [
+                      308,
+                      340
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.7871408462524414,
+                  "coordinate": [
+                    23,
+                    342,
+                    343,
+                    377
+                  ],
+                  "order": 6,
+                  "polygon_points": [
+                    [
+                      23,
+                      342
+                    ],
+                    [
+                      343,
+                      342
+                    ],
+                    [
+                      343,
+                      377
+                    ],
+                    [
+                      23,
+                      377
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.6453529596328735,
+                  "coordinate": [
+                    51,
+                    442,
+                    91,
+                    453
+                  ],
+                  "order": 7,
+                  "polygon_points": [
+                    [
+                      51,
+                      442
+                    ],
+                    [
+                      90,
+                      442
+                    ],
+                    [
+                      90,
+                      452
+                    ],
+                    [
+                      51,
+                      452
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.452829509973526,
+                  "coordinate": [
+                    102,
+                    438,
+                    150,
+                    455
+                  ],
+                  "order": 8,
+                  "polygon_points": [
+                    [
+                      102,
+                      438
+                    ],
+                    [
+                      149,
+                      438
+                    ],
+                    [
+                      149,
+                      454
+                    ],
+                    [
+                      102,
+                      454
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 22,
+                  "label": "text",
+                  "score": 0.34267380833625793,
+                  "coordinate": [
+                    207,
+                    442,
+                    241,
+                    453
+                  ],
+                  "order": 9,
+                  "polygon_points": [
+                    [
+                      207,
+                      442
+                    ],
+                    [
+                      240,
+                      442
+                    ],
+                    [
+                      240,
+                      452
+                    ],
+                    [
+                      207,
+                      452
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.4047621190547943,
+                  "coordinate": [
+                    25,
+                    457,
+                    113,
+                    484
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      25,
+                      457
+                    ],
+                    [
+                      113,
+                      457
+                    ],
+                    [
+                      113,
+                      484
+                    ],
+                    [
+                      25,
+                      484
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.36315634846687317,
+                  "coordinate": [
+                    133,
+                    464,
+                    235,
+                    476
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      133,
+                      464
+                    ],
+                    [
+                      234,
+                      464
+                    ],
+                    [
+                      234,
+                      475
+                    ],
+                    [
+                      133,
+                      475
+                    ]
+                  ]
+                },
+                {
+                  "cls_id": 8,
+                  "label": "footer",
+                  "score": 0.4212181270122528,
+                  "coordinate": [
+                    130,
+                    465,
+                    345,
+                    489
+                  ],
+                  "order": null,
+                  "polygon_points": [
+                    [
+                      130,
+                      465
+                    ],
+                    [
+                      345,
+                      465
+                    ],
+                    [
+                      345,
+                      489
+                    ],
+                    [
+                      130,
+                      489
+                    ]
+                  ]
+                }
+              ]
+            }
+          },
+          "markdown": {
+            "text": "# Mega-Metagross EX KP 230\n\nEnerwickalt sich aus Metzang\n\nDie Mega-entwickelte Form von Metagoss\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_0_19_367_286.jpg\" alt=\"Image\" width=\"100%\" /></div>\n\n\n## Repetierschlag\n\n100+\n\nDiese Attacke fügt für jede an dieses Pokémon angelegte\n\n-Energie 10 Schadenspunkte mehr zu.\n\nSchwäche +20\n\n\n\nRückzug",
+            "images": {
+              "imgs/img_in_image_box_0_19_367_286.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//a5c3dedf-d41c-44d2-8f84-1b9bc6fe0f25/markdown_0/imgs/img_in_image_box_0_19_367_286.jpg",
+              "imgs/img_in_image_box_13_45_56_75.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//a5c3dedf-d41c-44d2-8f84-1b9bc6fe0f25/markdown_0/imgs/img_in_image_box_13_45_56_75.jpg"
+            }
+          }
+        }
+      ],
+      "dataInfo": {
+        "width": 367,
+        "height": 512,
+        "type": "image"
+      },
+      "preprocessedImages": []
+    }
+  },
+  "error": null
+}

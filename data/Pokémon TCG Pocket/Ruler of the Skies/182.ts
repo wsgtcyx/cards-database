@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/182",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/182",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/182",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/182"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/182",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/182",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/182"
     },
     name: {
         en: "Mega Sharpedo ex",

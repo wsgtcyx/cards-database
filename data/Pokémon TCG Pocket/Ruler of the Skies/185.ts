@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/185",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/185",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/185",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/185"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/185",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/185",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/185"
     },
     name: {
         en: "Mega Gallade ex",

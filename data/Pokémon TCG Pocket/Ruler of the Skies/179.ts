@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/179",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/179",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/179",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/179"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/179",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/179",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/179"
     },
     name: {
         en: "Aipom",

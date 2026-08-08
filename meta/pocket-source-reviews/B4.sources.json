@@ -51,9 +51,15 @@
     "retrievedAt": "2026-07-30T04:00:00.000Z"
   },
   "pokeOS": {
-    "role": "independent count, numbering, rarity, and set-name validation only",
+    "role": "independent count, numbering, rarity, and set-name validation; de/it localized production image source",
     "url": "https://www.pokeos.com/tcg/pocket/b/583/Ruler+of+the+Skies",
-    "limitation": "B4 localized card-name fields are null and the public Master.json path returns 404; not used as a translation or production-image source."
+    "setInfoUrl": "https://www.pokeos.com/api/tcg/setInfo?id=583",
+    "cardsUrl": "https://www.pokeos.com/api/tcg/set/cards?id=583",
+    "imageUrlTemplate": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/583/src/{number}_{locale}.png",
+    "locales": ["de", "it"],
+    "snapshot": "meta/pocket-source-reviews/localized-images/2026-08-08-pokeos-b4-de-it/source-snapshot",
+    "retrievedAt": "2026-08-08T08:23:45.612Z",
+    "limitation": "B4 per-card localized name and mechanics fields remain null and the public Master.json path returns 404; used for reviewed de/it images, not structured localized metadata."
   },
   "raenonX": {
     "role": "source-exact localized names, attack/ability/trainer text, and localized card-image candidate",

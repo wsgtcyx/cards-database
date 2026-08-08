@@ -48,6 +48,11 @@ set ID；不要再向用户索要可从来源发现的英文名、卡数、boost
 RaenonX 可以提供 localized card names、attack/ability/trainer text 和 localized card
 images；英文规则字段、编号、稀有度和完整 schema 仍须与至少一个独立结构化来源交叉核对。
 
+PokeOS 的 set/card API 可独立核对 set ID、数量和连续编号。它若已发布某语言的完整卡图，
+可按 source set ID + collection number 逐张 join，经十卡 OCR pilot、全量下载/WebP/R2 验证后作为
+production image source。卡图可用不等于本地化 metadata 可用；当 PokeOS 逐张本地化字段为 null 时，
+不得用图片 OCR 填充结构化 metadata。
+
 ## 1. 范围与工作树
 
 先读取最近的 `AGENTS.md`，然后：
@@ -199,6 +204,17 @@ RaenonX 本地化导入使用项目内的 source adapter；先生成 `raenonx.sn
 RaenonX 不存在的 localized field 不得用英文补齐，也不得把“源内覆盖完整”写成“七语完整”。
 B4 全量写入前还要运行 `audit-raenonx-b4-cross-source.mjs`，把既有多源 baseline 与
 RaenonX stable mechanics 的逐卡结果固化到 `raenonx.cross-source.json`。
+
+PokeOS localized image 使用通用图片同步器：
+
+```bash
+POCKET_IMAGE_SYNC_RUN_ID=<date>-pokeos-<set>-<locales> \
+node scripts/sync-localized-card-images.mjs <audit|download|prepare|preflight|upload|verify|apply> \
+  --source pokeos-localized --set-id <set> --source-set-id <numeric-id> --locales de,it
+```
+
+先用 `--cards` 做十卡 pilot，再跑全量。`upload` 和 `apply` 要显式加 `--write`；未通过全量 R2 公网
+字节 SHA-256 验证前不得改 API metadata 或下游索引。
 
 先 dry-run：
 

@@ -31,6 +31,11 @@ RaenonX 是除 PokeOS 外的可用上游，角色是 localized metadata/image ca
 - 记录抓取时间、响应 headers、body SHA-256、固定 URL 和 `https://ptcgp.raenonx.cc` 归因。
   未找到正式复制许可证时，只按明确授权、署名发布的范围使用，并在 provenance 标出限制。
 
+PokeOS 的 set/card API 可用于核对 set ID、数量和连续编号。若它另行发布了完整的
+localized card images，可在固定 source set ID、逐张 collection number join、全量下载校验和
+PaddleOCR pilot 通过后作为图片源。这不代表 PokeOS 提供了本地化 metadata；若逐张本地化
+名称/规则字段仍为 null，只能导入图片，不得从 OCR 反推结构化字段。
+
 metadata 必须多源交叉验证：编号、数量、稀有度、结构和规则字段至少保留两个独立候选源；
 RaenonX localized value 必须通过 card ID + collection number join 到 canonical，而不是
 按数组位置合并。任何冲突都写入 review overlay，未裁决前禁止生产写入。
@@ -127,6 +132,16 @@ node .agents/skills/merge-pocket-card-sources/scripts/sync-downstream-locales.mj
 RaenonX 的 `fr/es/pt/zh` 卡图只有在下载、WebP 转换、R2 公网 HEAD/Content-Type 验证和
 OCR 图文一致性全部通过后，才能进入 `--image-languages`；`de/it` 必须继续使用其他已审定
 来源或保持现有对象，不得伪造 RaenonX 映射。
+
+PokeOS localized image 同步使用现有的分阶段工具，先跑十卡 `--cards` pilot，再去掉限制跑全量：
+
+```bash
+POCKET_IMAGE_SYNC_RUN_ID=<date>-pokeos-<set>-<locales> \
+node scripts/sync-localized-card-images.mjs <audit|download|prepare|preflight|upload|verify|apply> \
+  --source pokeos-localized --set-id <set> --source-set-id <numeric-id> --locales de,it
+```
+
+`upload`/`apply` 仍必须显式加 `--write`；`apply` 只能在全量 R2 公网字节 SHA-256 验证成功后执行。
 
 `persist-ocr-evidence.mjs` 只接受位于 `--ocr-dir` 内、且确实被抽检 review 引用的
 PaddleOCR JSON；它把这些原始结果复制到持久目录并将 evidence 改写为仓库相对路径。

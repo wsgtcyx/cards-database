@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/014",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/014",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/014",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/014"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/014",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/014",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/014"
     },
     name: {
         en: "Accelgor",

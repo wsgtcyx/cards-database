@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/121",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/121",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/121",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/121"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/121",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/121",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/121"
     },
     name: {
         en: "Noibat",

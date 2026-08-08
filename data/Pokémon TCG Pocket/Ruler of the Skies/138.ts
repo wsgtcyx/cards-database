@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/138",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/138",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/138",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/138"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/138",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/138",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/138"
     },
     name: {
         en: "Tranquill",

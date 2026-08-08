@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/188",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/188",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/188",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/188"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/188",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/188",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/188"
     },
     name: {
         en: "Mega Rayquaza ex",

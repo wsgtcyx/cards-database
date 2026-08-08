@@ -8,7 +8,9 @@ const card: Card = {
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/018",
         es: "https://game.pokemontcgpocket.app/es/tcgp/B4/018",
         "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/B4/018",
-        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/018"
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/018",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4/018",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4/018"
     },
     name: {
         en: "Sinistcha",
