@@ -56,6 +56,7 @@ const card: Card = {
                 en: "Dual Customization",
                 fr: "Double Personnalisation",
                 es: "Doble Personalización",
+                it: "Doppia Customizzazione",
                 "pt-br": "Personalização Dupla",
                 "zh-tw": "雙重改造",
                 "de": "Doppel-Modifizierung"
@@ -64,6 +65,8 @@ const card: Card = {
                 en: "This Pokémon may have up to 2 Pokémon Tool cards attached to it.",
                 fr: "Jusqu'à 2 cartes Outil Pokémon peuvent être attachées à ce Pokémon.",
                 es: "Este Pokémon puede tener hasta 2 cartas de Herramienta Pokémon unidas a él.",
+                it: "Questo Pokémon può avere fino a 2 carte Oggetto Pokémon assegnate.",
+                de: "An dieses Pokémon können bis zu 2 Pokémon-Ausrüstungen angelegt sein.",
                 "pt-br": "Este Pokémon pode ter até 2 cartas de Ferramenta Pokémon ligadas a ele.",
                 "zh-tw": "這隻寶可夢身上最多可附有2張「寶可夢道具」卡。"
             }
@@ -85,6 +88,8 @@ const card: Card = {
                 en: "During your next turn, this Pokémon's Overacceleration attack does +70 damage.",
                 fr: "Pendant votre prochain tour, l'attaque Hyperaccélération de ce Pokémon inflige + 70 dégâts.",
                 es: "Durante tu próximo turno, el ataque Alta Aceleración de este Pokémon hace +70 puntos de daño.",
+                it: "Durante il tuo prossimo turno, l'attacco Iperaccelerazione di questo Pokémon infligge +70 danni.",
+                de: "Während deines nächsten Zuges fügt die Attacke Überbeschleunigung von diesem Pokémon + 70 Schadenspunkte zu.",
                 "pt-br": "Durante o seu próximo turno, o ataque Superaceleração deste Pokémon causará + 70 pontos de dano.",
                 "zh-tw": "在下個自己的回合,這隻寶可夢「失控暴衝」的傷害+70點。"
             },

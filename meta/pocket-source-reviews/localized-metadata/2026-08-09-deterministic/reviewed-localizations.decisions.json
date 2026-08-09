@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "d7510663a04a5a24b4a3ae177648e127256bfbad",
+  "reviewedAt": "2026-08-09T03:53:01Z",
+  "reviewScope": "Deterministic metadata fills that do not require card-image OCR or broad manual adjudication.",
+  "sources": {
+    "official-app-store-tw-product-name": {
+      "file": "meta/pocket-source-reviews/localized-metadata/2026-08-09-deterministic/official-app-store-tw.snapshot.json",
+      "sha256": "d85679c4465bda70afc6582cb78d7cfe7aa7d9c6843d8901200a80a868173fbb",
+      "role": "Official Taiwan storefront product-name evidence for the series zh-tw name only.",
+      "version": "lookup response retrieved 2026-08-09T03:53:01Z; app version 1.7.1",
+      "license": "Official public store metadata; factual product title only.",
+      "url": "https://itunes.apple.com/lookup?id=6479970832&country=tw&lang=zh_tw"
+    },
+    "official-pokemon-support-de-a1-booster-labels": {
+      "file": "meta/pocket-source-reviews/localized-metadata/2026-08-09-deterministic/official-support-de-a1.snapshot.json",
+      "sha256": "2669fd788c66f72da45f4d73871fb9fdd1d3fca7e5c04200fb398ebbe34d93be",
+      "role": "Official German A1 booster-label evidence for boosters.pikachu.name.de only.",
+      "version": "article 30330309361172 updated 2026-07-30T02:00:36Z",
+      "license": "Official public support metadata; short factual label only.",
+      "url": "https://support.pokemon.com/hc/de/articles/30330309361172-Pok%C3%A9mon-Sammelkartenspiel-Pocket-H%C3%A4ufig-gestellte-Fragen-zum-Spielerlebnis"
+    },
+    "pokeapi-b4-fr-flavor-exact-match": {
+      "file": "meta/pocket-source-reviews/localized-metadata/2026-08-09-deterministic/pokeapi-b4-fr.snapshot.json",
+      "sha256": "d4b10fdd38c092f58bbbe12448d8b2ad57ab2c8a12929ac7a84168f721347f5d",
+      "role": "Fixed-commit French Pokédex flavor text, admitted only after exact normalized English version matching and dexId binding.",
+      "version": "PokeAPI commit dbef1b8570119d49b06943bc8ba6f0288d5872d5",
+      "license": "BSD-3-Clause",
+      "url": "https://raw.githubusercontent.com/PokeAPI/pokeapi/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv/pokemon_species_flavor_text.csv"
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "series",
+      "entityId": "tcgp",
+      "file": "data/Pokémon TCG Pocket.ts",
+      "path": "name",
+      "locale": "zh-tw",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Pokémon TCG Pocket",
+      "value": "Pokémon TCG Pocket",
+      "evidence": [
+        {
+          "sourceId": "official-app-store-tw-product-name",
+          "sha256": "d85679c4465bda70afc6582cb78d7cfe7aa7d9c6843d8901200a80a868173fbb",
+          "locator": "#/observation/trackName"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "A1",
+      "file": "data/Pokémon TCG Pocket/Genetic Apex.ts",
+      "path": "boosters.pikachu.name",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Pikachu",
+      "value": "Pikachu",
+      "evidence": [
+        {
+          "sourceId": "official-pokemon-support-de-a1-booster-labels",
+          "sha256": "2669fd788c66f72da45f4d73871fb9fdd1d3fca7e5c04200fb398ebbe34d93be",
+          "locator": "#/observation/officialBoosterLabels/2"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-009",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/009.ts",
+      "path": "description",
+      "locale": "fr",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "value": "Ses cris sont tellement variés qu’il existe un village où on organise des concours en leur honneur.",
+      "evidence": [
+        {
+          "sourceId": "pokeapi-b4-fr-flavor-exact-match",
+          "sha256": "d4b10fdd38c092f58bbbe12448d8b2ad57ab2c8a12929ac7a84168f721347f5d",
+          "locator": "#/matches/0/uniqueFrench"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-073",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/073.ts",
+      "path": "description",
+      "locale": "fr",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "value": "Ses cris se répercutent dans son corps creux avant d’exploser en notes mélodieuses et saisissantes.",
+      "evidence": [
+        {
+          "sourceId": "pokeapi-b4-fr-flavor-exact-match",
+          "sha256": "d4b10fdd38c092f58bbbe12448d8b2ad57ab2c8a12929ac7a84168f721347f5d",
+          "locator": "#/matches/1/uniqueFrench"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "B4-158",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/158.ts",
+      "path": "description",
+      "locale": "fr",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "value": "Ses cris sont tellement variés qu’il existe un village où on organise des concours en leur honneur.",
+      "evidence": [
+        {
+          "sourceId": "pokeapi-b4-fr-flavor-exact-match",
+          "sha256": "d4b10fdd38c092f58bbbe12448d8b2ad57ab2c8a12929ac7a84168f721347f5d",
+          "locator": "#/matches/0/uniqueFrench"
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "entityKind": "set",
+      "entityId": "A4a",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "path": "boosters.suicune.name",
+      "locales": [
+        "fr",
+        "es",
+        "it",
+        "de",
+        "pt-br",
+        "zh-tw"
+      ],
+      "reason": "The official expansion announcement says that Suicune headlines Secluded Springs, but it does not state an exact booster-pack label. The repository English value is explicitly marked uncertain, so neither that value nor localized Pokémon species names can establish the field semantics safely.",
+      "reviewedOfficialSource": "https://www.pokemon.com/us/pokemon-news/venture-into-the-secluded-springs-in-pokemon-tcg-pocket",
+      "requiredEvidence": "An official in-app/card-pack face, support article, or other first-party text that explicitly binds the A4a booster label to Suicune in each target locale."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:40:08.946Z",
+  "manifestSha256": "6f56fc8592e758ae84f84c567e3c66d8bd8b94386ee9b09eedecf0029f1026c5",
+  "preflightSha256": "d2506d54d4beca58fee72895f27abb0923d3bdc21610371772a978d4de39fd40",
+  "results": [
+    {
+      "key": "de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "uploaded"
+    },
+    {
+      "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "uploaded"
+    }
+  ],
+  "artifactSha256": "38a79c0a66512046264dafc0dae2171f4d45c731257eb2aed6ba017249211a36"
+}

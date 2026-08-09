@@ -36,6 +36,7 @@ const card: Card = {
         es: "Los marineros evitan por completo las zonas\ndonde habita este Pokémon de afilados colmillos\ny fuertes mandíbulas.",
         it: "È dotato di denti affilati e mascelle robuste.\nChi viaggia per mare si tiene accuratamente\nalla larga dalle tane di Carvanha.",
         de: "Es verfügt über äußerst spitze Zähne und kräftige\nKiefer. Seefahrer meiden die Lebensräume von\nKanivanha um jeden Preis.",
+        "pt-br": "Esses Pokémon têm presas afiadas e mandíbulas poderosas. Marinheiros evitam covis de Carvanha a todo custo.",
         "zh-tw": "擁有銳利的牙齒和結實的\n下巴。船員們絕對不會去\n靠近利牙魚棲息的地方。"
     },
     attacks: [

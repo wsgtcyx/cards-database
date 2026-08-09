@@ -30,7 +30,13 @@ const card: Card = {
     types: ["Darkness"],
     stage: "Basic",
     description: {
-        en: "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings."
+        en: "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.",
+        fr: "C'est l'apparence originelle de Zigzaton, et donc la plus ancienne. Il sème le désordre en courant partout en zigzag.",
+        es: "Parece ser que esta es la forma primitiva de Zigzagoon. Arma un alboroto tremendo a su alrededor cuando se mueve en zigzag.",
+        it: "Pare che questa sia la forma originaria di Zigzagoon. Si muove a zig zag mettendo a soqquadro tutto ciò che lo circonda.",
+        de: "Es hinterlässt überall ein riesiges Chaos, indem es sich im Zickzack bewegt. Hierbei handelt es sich offenbar um die älteste Form von Zigzachs.",
+        "pt-br": "Acredita-se que esta seja a forma mais antiga de Zigzagoon, que se move em ziguezague e causa um estrago imenso aos seus arredores.",
+        "zh-tw": "被認為是蛇紋熊最古老\n的樣子，會之字形走，\n把周圍弄得一團糟。"
     },
     attacks: [
         {

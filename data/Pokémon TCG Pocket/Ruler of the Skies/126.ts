@@ -42,7 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
-        "es": "Exterappli, el que saca la cabeza, e Interappli, el que saca la cola, viven juntos dentro de la manzana y se ayudan el uno al otro."
+        fr: "À l'intérieur de la pomme vivent « Ver-dehors » et « Ver-dedans ». La tête du premier et la queue du second sortent du fruit.",
+        "es": "Exterappli, el que saca la cabeza, e Interappli, el que saca la cola, viven juntos dentro de la manzana y se ayudan el uno al otro.",
+        it: "L'Applitesta, che fa capolino, e l'Applicoda, di cui invece sbuca solo la parte posteriore, vivono nel pomo aiutandosi a vicenda.",
+        de: "Im Apfel leben die sich gegenseitig helfenden „Kopfel“ und „Schwanzel“. Beim Ersten ragt der Kopf heraus, beim Zweiten der Schwanz.",
+        "pt-br": "A cabeça que aponta para fora pertence à criatura frontal, enquanto a cauda pertence à criatura central. As duas compartilham uma maçã e ajudam uma à outra.",
+        "zh-tw": "由露出了頭部的外頭蟲與\n露出了尾巴的裡頭蟲相扶相持，\n一起在蘋果裡面生活。"
     },
     attacks: [
         {

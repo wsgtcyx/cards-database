@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by."
+        en: "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+        fr: "Il dégage une odeur pestilentielle. Son corps est si toxique que là où il passe, la végétation trépasse.",
+        es: "Es pestilente y los componentes tóxicos de su cuerpo hacen que, a su paso, cualquier planta se marchite.",
+        it: "Ha un odore estremamente sgradevole e il suo corpo è un concentrato di veleni. Non c'è pianta che rimanga in vita dopo il suo passaggio.",
+        de: "Sein Gestank ist unerträglich. Das starke Gift, aus dem sein Körper besteht, macht jeder Pflanze in seinem Weg den Garaus.",
+        "pt-br": "É fedorento demais! O corpo de Muk contém elementos tóxicos. Qualquer planta murchará quando ele passar por perto.",
+        "zh-tw": "奇臭無比！\n身體帶有劇毒，牠所爬過\n之處，任何草木都會枯萎。"
     },
     attacks: [
         {

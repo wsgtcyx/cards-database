@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:39:13.594Z",
+  "origin": "https://game.pokemontcgpocket.app",
+  "bucket": "game",
+  "setId": "B4",
+  "boosterId": "ruler-of-the-skies",
+  "workRoot": "runtime-work-root",
+  "sources": [
+    {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-pokebase/b4-ruler-of-the-skies-logo.source.json",
+      "sha256": "c4cf2b8936b4616d7e7b9479f73b78493c78271533cfee645f4f47125514956a"
+    },
+    {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-pokebase/b4-ruler-of-the-skies-artwork-front.source.json",
+      "sha256": "1c93521a362b8d98a77fd59e3ce8b7037aa8869fa8e0f6e3ab270b593de26b22"
+    }
+  ],
+  "objects": [
+    {
+      "field": "artwork_front",
+      "locale": "de",
+      "key": "de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "path": "r2/de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "bytes": 16706,
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+      "width": 160,
+      "height": 256,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceSha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "processing": {
+        "operation": "crop",
+        "left": 48,
+        "top": 0,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "field": "logo",
+      "locale": "de",
+      "key": "de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "path": "r2/de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "bytes": 7660,
+      "sha256": "8cf5a548bbbd49b3606ffc6a1dab99568581242eec2dcda2d0adf426111296b7",
+      "width": 256,
+      "height": 113,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_de_DE-1.png",
+      "sourceSha256": "b3c9cc3ebc4650659d80228c91493fff18cb21a89f65a0bcb141f4a24db73795",
+      "processing": null
+    },
+    {
+      "field": "artwork_front",
+      "locale": "es",
+      "key": "es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "path": "r2/es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "bytes": 16706,
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+      "width": 160,
+      "height": 256,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceSha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "processing": {
+        "operation": "crop",
+        "left": 48,
+        "top": 0,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "field": "logo",
+      "locale": "es",
+      "key": "es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "path": "r2/es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "bytes": 9540,
+      "sha256": "a49df6057577867dd674aebd8270a7f7526c909b52a1be23d8e5f109b6fa9427",
+      "width": 256,
+      "height": 113,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_es_ES-1.png",
+      "sourceSha256": "ede3093d10d6f4e45c9abe010761894e28c8f075931bb59e78cf2b716b7259ac",
+      "processing": null
+    },
+    {
+      "field": "artwork_front",
+      "locale": "fr",
+      "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "path": "r2/fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "bytes": 16706,
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+      "width": 160,
+      "height": 256,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceSha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "processing": {
+        "operation": "crop",
+        "left": 48,
+        "top": 0,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "field": "logo",
+      "locale": "fr",
+      "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "path": "r2/fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "bytes": 8018,
+      "sha256": "4e44beea5ed1cdb13b85fe68240b231e994123c5e5a165d84636f61b66b33a06",
+      "width": 256,
+      "height": 113,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_fr_FR-1.png",
+      "sourceSha256": "22bad4dc5153049898fa06fc62fd866bb4aa5a22084a6ed9479baab3702f00e7",
+      "processing": null
+    },
+    {
+      "field": "artwork_front",
+      "locale": "it",
+      "key": "it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "path": "r2/it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "bytes": 16706,
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+      "width": 160,
+      "height": 256,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceSha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "processing": {
+        "operation": "crop",
+        "left": 48,
+        "top": 0,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "field": "logo",
+      "locale": "it",
+      "key": "it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "path": "r2/it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "bytes": 7046,
+      "sha256": "d00d2bd94f536166e354f5803776e1df0965be262f5615466c5514537243f762",
+      "width": 256,
+      "height": 113,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_it_IT-1.png",
+      "sourceSha256": "bb9156da3056b0a78de5f9fd633aec07be73c1d25ff5ff88a33f50c0f955f014",
+      "processing": null
+    },
+    {
+      "field": "artwork_front",
+      "locale": "pt-br",
+      "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "path": "r2/pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "bytes": 16706,
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+      "width": 160,
+      "height": 256,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceSha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "processing": {
+        "operation": "crop",
+        "left": 48,
+        "top": 0,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "field": "logo",
+      "locale": "pt-br",
+      "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "path": "r2/pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "bytes": 6734,
+      "sha256": "a0316974068755aad15d514e16c209d74a5158587e00dbf74de19c754e1be813",
+      "width": 256,
+      "height": 113,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_pt_BR-1.png",
+      "sourceSha256": "aebb33d7a8e88dc7383bac8817ddc544854be623f22df5236ebcf59ea11b6994",
+      "processing": null
+    },
+    {
+      "field": "artwork_front",
+      "locale": "zh-tw",
+      "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "path": "r2/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "bytes": 16706,
+      "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+      "width": 160,
+      "height": 256,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceSha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "processing": {
+        "operation": "crop",
+        "left": 48,
+        "top": 0,
+        "width": 160,
+        "height": 256
+      }
+    },
+    {
+      "field": "logo",
+      "locale": "zh-tw",
+      "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "path": "r2/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "desiredUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "bytes": 6128,
+      "sha256": "3dcb92abddf8f7e6588194931d05fdc13827d12014eb3071b0c538534c8ea343",
+      "width": 256,
+      "height": 113,
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_zh_TW-1.png",
+      "sourceSha256": "7bd5331c054b2d10e1cb625965dec2dc33541f33417eac3f22c756da17bc9a3a",
+      "processing": null
+    }
+  ],
+  "artifactSha256": "6f56fc8592e758ae84f84c567e3c66d8bd8b94386ee9b09eedecf0029f1026c5"
+}

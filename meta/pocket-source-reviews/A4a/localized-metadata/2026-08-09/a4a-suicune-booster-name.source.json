@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "a4a-suicune-booster-name-review-2026-08-09",
+  "reviewDate": "2026-08-09",
+  "setId": "A4a",
+  "setName": "Secluded Springs",
+  "field": "boosters.suicune.name",
+  "canonicalAssociation": {
+    "packId": "AN010_0010_00_000",
+    "expansionId": "A4a",
+    "packNameI18nId": "A4a_1",
+    "boosterKey": "suicune",
+    "officialAnnouncement": "https://www.pokemon.com/us/pokemon-news/venture-into-the-secluded-springs-in-pokemon-tcg-pocket",
+    "officialTrailer": "https://www.youtube.com/watch?v=x4qvmpBq_bo",
+    "review": "The official release materials identify Suicune as a headline Pokemon, the data model identifies this sole A4a pack with the key suicune, and the localized A4a-020 card faces provide the exact locale-specific Pokemon name."
+  },
+  "pinnedCrossCheck": {
+    "repository": "https://github.com/PokeAPI/pokeapi",
+    "commit": "dbef1b8570119d49b06943bc8ba6f0288d5872d5",
+    "speciesId": 245,
+    "speciesNamesUrl": "https://raw.githubusercontent.com/PokeAPI/pokeapi/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv/pokemon_species_names.csv",
+    "speciesNamesSha256": "5d7b06270a31bdc51424be6032fc04a3a3c0ae7ac40af4aea69c1a2954ca1e7e",
+    "languagesUrl": "https://raw.githubusercontent.com/PokeAPI/pokeapi/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv/languages.csv",
+    "languagesSha256": "fbb60019a6a461783d5671a995d5f590db61792a273e90faa0ed630d102a19b8",
+    "license": "MIT",
+    "rows": {
+      "fr": "Suicune",
+      "es": "Suicune",
+      "it": "Suicune",
+      "de": "Suicune",
+      "zh-tw": "水君"
+    },
+    "caveat": "The pinned PokeAPI species-name CSV has no language_id 13 row for species 245, so pt-br is confirmed from the Portuguese A4a-020 card face instead of inferred from an absent row."
+  },
+  "normalization": {
+    "rule": "Use the localized Pokemon title on the A4a-020 card face and remove only the language-neutral ex suffix and its locale-specific separator; preserve the remaining title exactly.",
+    "reason": "The target schema stores featured pack identifiers such as Mewtwo, Pikachu, Solgaleo, and Lugia, rather than a prose phrase such as themed booster pack.",
+    "ocrRole": "none; every title was read directly from the rendered localized card face"
+  },
+  "rights": {
+    "license": "PokeAPI tabular cross-check is MIT. No public redistribution license was identified for the Pokemon card images or official release media; they are referenced only as evidence for user-authorized metadata transcription.",
+    "attribution": [
+      "The Pokemon Company / Pokemon TCG Pocket",
+      "PokeAPI"
+    ]
+  },
+  "records": [
+    {
+      "locale": "fr",
+      "cardTitle": "Suicune ex",
+      "value": "Suicune",
+      "sourceUrl": "https://game.pokemontcgpocket.app/fr/tcgp/A4a/020/high.webp",
+      "sourceSha256": "e92a52e53f742410aa91242f034e2d3ac17c062e6eb6837d97612d15c01cf98d",
+      "width": 367,
+      "height": 512,
+      "reviewed": true
+    },
+    {
+      "locale": "es",
+      "cardTitle": "Suicune ex",
+      "value": "Suicune",
+      "sourceUrl": "https://game.pokemontcgpocket.app/es/tcgp/A4a/020/high.webp",
+      "sourceSha256": "63bc66425130fa6cb85a10dbcaad2b37e635850e48bd19315efd0a1a8099e91b",
+      "width": 367,
+      "height": 512,
+      "reviewed": true
+    },
+    {
+      "locale": "it",
+      "cardTitle": "Suicune ex",
+      "value": "Suicune",
+      "sourceUrl": "https://game.pokemontcgpocket.app/it/tcgp/A4a/020/high.webp",
+      "sourceSha256": "0e98b171b4a0e9193d64f6fcc95edb1af8efc58c8e1b1f7013774fa68294cdb3",
+      "width": 367,
+      "height": 512,
+      "reviewed": true
+    },
+    {
+      "locale": "de",
+      "cardTitle": "Suicune ex",
+      "value": "Suicune",
+      "sourceUrl": "https://game.pokemontcgpocket.app/de/tcgp/A4a/020/high.webp",
+      "sourceSha256": "6b5da4583e34b7a9764ad11bc825e752ae67823ba53a25f74ff6eb38635b2fcd",
+      "width": 367,
+      "height": 512,
+      "reviewed": true
+    },
+    {
+      "locale": "pt-br",
+      "cardTitle": "Suicune ex",
+      "value": "Suicune",
+      "sourceUrl": "https://game.pokemontcgpocket.app/pt/tcgp/A4a/020/high.webp",
+      "sourceSha256": "d4f1232cbdca421898849d34800420e8f8751047f65186e4fe285cccceaac370",
+      "width": 367,
+      "height": 512,
+      "reviewed": true
+    },
+    {
+      "locale": "zh-tw",
+      "cardTitle": "水君ex",
+      "value": "水君",
+      "sourceUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/A4a/020/high.webp",
+      "sourceSha256": "f6ae162b87fb065711ea2c454ebdf44e10e075b96e7d2acfd597b4f312416a30",
+      "width": 367,
+      "height": 512,
+      "reviewed": true
+    }
+  ]
+}

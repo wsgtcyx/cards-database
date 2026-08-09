@@ -36,6 +36,7 @@ const card: Card = {
         es: "Se cuenta que alguna vez ha iluminado el camino\ncon sus alas flamígeras para rescatar a alguien\nque se había perdido en la montaña.",
         it: "Si narra che abbia aiutato dei viandanti che si\nerano persi illuminando i sentieri montuosi con\nle splendide ali infuocate.",
         de: "Überlieferungen nach soll Lavados mit seinen\nwunderschön lodernden Flügeln Bergpfade\nerleuchtet und dadurch Verirrten geholfen haben.",
+        "pt-br": "Há histórias deste Pokémon usando suas asas radiantes e cobertas de chamas para iluminar o caminho daqueles que se perderam nas montanhas.",
         "zh-tw": "相傳牠會以美麗燃燒的\n翅膀照亮山路，救助在\n山中遇險的人。"
     },
     attacks: [

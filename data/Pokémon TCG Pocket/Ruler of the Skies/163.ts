@@ -41,7 +41,13 @@ const card: Card = {
     },
     stage: "Stage2",
     description: {
-        en: "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing."
+        en: "Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing.",
+        fr: "Ce Pokémon dirige son groupe d'une main de fer. Il punit sans pitié quiconque ne respecte pas ses règles.",
+        es: "Su personalidad estricta lo lleva a castigar sin piedad a todo aquel que ose infringir las reglas en el grupo que dirige.",
+        it: "Ha un carattere intransigente e picchia senza pietà chi non rispetta le regole del gruppo che comanda.",
+        de: "Es ist ein strenger Anführer. Wer die Regeln der Gruppe nicht befolgt, wird erbarmungslos niedergeschlagen.",
+        "pt-br": "Samurott lidera seu grupo rigorosamente. Aqueles que não seguem suas regras recebem pancadas sem dó.",
+        "zh-tw": "統率群體且性情嚴格，\n會毫不留情地教訓\n不遵守規矩的傢伙。"
     },
     abilities: [
         {
@@ -59,6 +65,8 @@ const card: Card = {
                 en: "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may prevent all damage from—and effects of—attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn.",
                 fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez éviter tous les dégâts et les effets d'attaques infligés à ce Pokémon par les Pokémon de votre adversaire jusqu'à la fin du prochain tour de votre adversaire.",
                 es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes evitar todo el daño y todos los efectos de los ataques de los Pokémon de tu rival infligidos a este Pokémon hasta el final del próximo turno de tu rival.",
+                it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi prevenire sia i danni che gli effetti degli attacchi inflitti a questo Pokémon dai Pokémon del tuo avversario fino alla fine del prossimo turno del tuo avversario.",
+                de: "Einmal während deines Zuges, wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du bis zum Ende des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken von Pokémon deines Gegners, die diesem Pokémon zugefügt werden, verhindern.",
                 "pt-br": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá prevenir todo o dano e os efeitos de ataques dos Pokémon do seu oponente causados a este Pokémon até o final do próximo turno do seu oponente.",
                 "zh-tw": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。在下個對手的回合結束前,這隻寶可夢不會受到對手的寶可夢招式的傷害與效果的影響。"
             }

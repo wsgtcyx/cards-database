@@ -6,7 +6,13 @@ const englishEffect = "Flip 3 coins. This attack does 80 damage for each heads."
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/080"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/080",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/080",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/080",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/080",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/080",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/080",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/080"
     },
     name: {
         en: "Mega Houndoom ex", fr: "Méga-Démolosse-ex", es: "Mega-Houndoom ex", it: "Mega Houndoom-ex", de: "Mega-Hundemon-ex",

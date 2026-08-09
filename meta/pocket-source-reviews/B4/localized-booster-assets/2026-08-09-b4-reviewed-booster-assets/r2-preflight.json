@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:39:32.176Z",
+  "manifestSha256": "6f56fc8592e758ae84f84c567e3c66d8bd8b94386ee9b09eedecf0029f1026c5",
+  "objects": 12,
+  "newObjects": 12,
+  "reusedObjects": 0,
+  "checks": [
+    {
+      "key": "de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    },
+    {
+      "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "status": "new",
+      "bare": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      },
+      "cacheBusting": {
+        "status": 404,
+        "sha256": null,
+        "bytes": 0,
+        "matchesHeaders": false
+      }
+    }
+  ],
+  "collisions": [],
+  "status": "ok",
+  "artifactSha256": "d2506d54d4beca58fee72895f27abb0923d3bdc21610371772a978d4de39fd40"
+}

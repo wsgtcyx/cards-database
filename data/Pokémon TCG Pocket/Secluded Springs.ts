@@ -26,7 +26,13 @@ const set: Set = {
 	boosters: {
 		suicune: {
 			name: {
-				en: 'Suicune themed booster pack' // still not sure how to name the boosters...
+				en: 'Suicune themed booster pack', // still not sure how to name the boosters...
+				fr: "Suicune",
+				es: "Suicune",
+				it: "Suicune",
+				de: "Suicune",
+				"pt-br": "Suicune",
+				"zh-tw": "水君"
 			}
 		}
 	},

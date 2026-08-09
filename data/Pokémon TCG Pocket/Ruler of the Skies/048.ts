@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [779],
     stage: "Basic",
     description: {
-        en: "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly."
+        en: "When sunlight reflects on the ripples created by a Bruxish grinding its teeth, the water all around sparkles brilliantly.",
+        fr: "Quand les rayons du soleil se réfléchissent sur les ondes formées par ses grincements de dents, l'eau autour de lui brille de mille feux.",
+        es: "Cuando la luz del sol se refleja en las ondas que produce al rechinar los dientes, el agua a su alrededor adquiere un brillo deslumbrante.",
+        it: "Quando i raggi solari si riflettono sull'acqua increspata dallo stridore dei suoi denti, producono bagliori accecanti.",
+        de: "Wenn Sonnenlicht von den Wellen reflektiert wird, die durch sein Zähneknirschen entstehen, glitzert das Wasser um es herum blendend hell.",
+        "pt-br": "Quando a luz do sol reflete nas marolas criadas por Bruxish ao ranger seus dentes, a água ao seu redor brilha intensamente.",
+        "zh-tw": "磨牙時會泛起波紋，當陽光\n反射在上面時，周圍的水會\n閃起令人目眩神迷的亮光。"
     },
     attacks: [
         {

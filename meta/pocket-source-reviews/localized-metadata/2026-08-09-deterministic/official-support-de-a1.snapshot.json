@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "official-pokemon-support-de-a1-booster-labels",
+  "retrievedAt": "2026-08-09T03:53:01Z",
+  "request": {
+    "apiUrl": "https://support.pokemon.com/api/v2/help_center/de/articles/30330309361172.json",
+    "articleUrl": "https://support.pokemon.com/hc/de/articles/30330309361172-Pok%C3%A9mon-Sammelkartenspiel-Pocket-H%C3%A4ufig-gestellte-Fragen-zum-Spielerlebnis",
+    "rawResponseSha256": "73da0fdc0813d58e08c30fd5255b516a9f7717a06fc5fb82b16aa21a98110a99"
+  },
+  "observation": {
+    "articleId": 30330309361172,
+    "title": "Pokémon-Sammelkartenspiel-Pocket: Häufig gestellte Fragen zum Spielerlebnis",
+    "updatedAt": "2026-07-30T02:00:36Z",
+    "officialBoosterLabels": [
+      "Unschlagbare Gene: Mewtu",
+      "Unschlagbare Gene: Glurak",
+      "Unschlagbare Gene: Pikachu"
+    ]
+  },
+  "acceptance": {
+    "target": "set A1 boosters.pikachu.name.de",
+    "value": "Pikachu",
+    "reason": "The official support article names all three A1 booster packs using the localized set name followed by the individual booster name. The exact individual component for the pikachu booster is Pikachu."
+  }
+}

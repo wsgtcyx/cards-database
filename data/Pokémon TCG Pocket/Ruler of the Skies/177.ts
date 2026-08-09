@@ -31,7 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit.",
-        "it": "Trasporta esseri umani sfrecciando a una velocità di 120 km/h. La temperatura corporea di chi trasporta gli scalda il dorso, dandogli energia."
+        fr: "Il peut courir à 120 km/h avec un être humain sur le dos. La chaleur corporelle des personnes qu'il transporte le réchauffe et lui donne de l'énergie.",
+        es: "Puede correr a 120 km/h con una persona a cuestas. El calor corporal del jinete calienta su lomo y le da energía.",
+        "it": "Trasporta esseri umani sfrecciando a una velocità di 120 km/h. La temperatura corporea di chi trasporta gli scalda il dorso, dandogli energia.",
+        de: "Es kann mit 120 km/h umherdüsen, während es einen Menschen trägt. Die Körperwärme der Person wärmt seinen Rücken und gibt ihm Kraft.",
+        "pt-br": "Consegue correr a mais de 120 km/h carregando um humano. O calor que o piloto emana pelo corpo aquece as costas de Cyclizar, deixando-o de bom humor.",
+        "zh-tw": "會以時速120公里載著\n人類奔馳，並藉著人類的\n體溫來溫熱背部，恢復活力。"
     },
     attacks: [
         {

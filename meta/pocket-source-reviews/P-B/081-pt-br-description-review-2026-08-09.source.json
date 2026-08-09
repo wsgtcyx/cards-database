@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "reviewDate": "2026-08-09",
+  "entityId": "P-B-081",
+  "field": "description",
+  "locale": "pt-br",
+  "expectedEnglish": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+  "value": "Esses Pokémon têm presas afiadas e mandíbulas poderosas. Marinheiros evitam covis de Carvanha a todo custo.",
+  "evidence": {
+    "canonicalRole": "Localized card face, manually transcribed and visually reviewed.",
+    "publicImageUrl": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/081/high.webp",
+    "publicImageSha256": "4a64d4fcf8703a9ae0b1db5be4fadb6563a1913f3acf5b5e476483fbf8306fb2",
+    "upstreamImageUrl": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/pt/PK_90_021070_00.png",
+    "upstreamImageSha256": "485da2abd2c0450a5207a5cdbf6fc5e85dd488be8a3cf9dd761029be47bb37d7",
+    "existingImageReceipt": "meta/pocket-source-reviews/P-B/081-images-2026-08-07.json",
+    "reviewMethod": "The three printed flavor-text lines were read directly from the hash-matched Portuguese card image; OCR was not used as the final source."
+  },
+  "rights": {
+    "attribution": "RaenonX Pokémon TCG Pocket Wiki",
+    "url": "https://ptcgp.raenonx.cc",
+    "license": "No repository or image redistribution license was located; user-authorized, attributed metadata transcription only."
+  }
+}

@@ -45,6 +45,8 @@ const card: Card = {
                 en: "Discard all {R} and {L} Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way.",
                 fr: "Défaussez toutes les Énergies {R} et {L} de ce Pokémon. Cette attaque inflige 50 dégâts pour chaque Énergie défaussée de cette façon.",
                 es: "Descarta todas las Energías {R} y {L} de este Pokémon. Este ataque hace 50 puntos de daño por cada Energía que hayas descartado de esta manera.",
+                it: "Rimuovi tutte le Energie {R} e {L} da questo Pokémon. Questo attacco infligge 50 danni per ogni Energia che hai rimosso in questo modo.",
+                de: "Lege alle {R}- und {L}-Energien von diesem Pokémon ab, und diese Attacke fügt für jede auf diese Weise abgelegte Energie 50 Schadenspunkte zu.",
                 "pt-br": "Descarte todas as Energias {R} e {L} deste Pokémon, e este ataque causa 50 pontos de dano para cada Energia descartada desta forma.",
                 "zh-tw": "將這隻寶可夢身上的{R}與{L}能量全部丟棄,造成丟棄的能量數量×50點傷害。"
             },

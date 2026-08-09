@@ -35,7 +35,9 @@ const card: Card = {
         fr: "Il habite les forêts et les hautes herbes. Attaqué,\nil riposte avec les piquants de son postérieur.",
         es: "Vive en bosques y zonas de hierba alta. Si le atacan,\nse defiende con las púas venenosas de su cola.",
         it: "Vive nelle foreste e tra l’erba alta. Se è attaccato,\nusa gli aculei velenosi che ha sulla parte posteriore.",
-        de: "Es haust in Wäldern und auf Wiesen. Bei Angriffen\nwehrt es sich mit den Giftstacheln auf seinem\nHinterteil."
+        de: "Es haust in Wäldern und auf Wiesen. Bei Angriffen\nwehrt es sich mit den Giftstacheln auf seinem\nHinterteil.",
+        "pt-br": "Vive em meio a mato alto e nas florestas. Ele repele os ataques erguendo os espinhos nas costas.",
+        "zh-tw": "棲息在森林和草叢裡。\n受到敵人的襲擊時，\n會用尾部的毒刺來對抗。"
     },
     attacks: [
         {

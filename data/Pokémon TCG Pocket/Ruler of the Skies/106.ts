@@ -31,8 +31,11 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.",
+        fr: "Toutes les cellules de son corps sont des aimants. Il communique avec les siens à l'aide d'impulsions magnétiques.",
         "es": "Todas sus células cuentan con carga magnética, y se comunica con los suyos a través de pulsos electromagnéticos.",
         "it": "Le cellule del suo corpo sono calamite. Il suo corpo emette onde magnetiche, tramite le quali comunica con i suoi simili.",
+        de: "Seine Zellen sind magnetisch geladen. Es setzt magnetische Impulse frei, um mit Artgenossen zu kommunizieren.",
+        "pt-br": "Todas as suas células são ímãs. Comunica-se com outros de sua espécie transmitindo forças magnéticas de seu corpo.",
         "zh-tw": "全身細胞都由磁鐵構成。會從身體放出磁力藉此和夥伴對話。"
     },
     abilities: [
@@ -42,6 +45,7 @@ const card: Card = {
                 en: "Conductive Body",
                 fr: "Corps Conducteur",
                 es: "Cuerpo Conductor",
+                it: "Corpo Conduttivo",
                 "pt-br": "Corpo Condutor",
                 "zh-tw": "牽引身軀",
                 "de": "Leitender Körper"
@@ -50,6 +54,8 @@ const card: Card = {
                 en: "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less.",
                 fr: "Si vous avez un autre Terhal en jeu, le Coût de Retraite de ce Pokémon est diminué de 2.",
                 es: "Si tienes otro Beldum en juego, el Coste de Retirada de este Pokémon es de 2 menos.",
+                it: "Se hai un altro Beldum in gioco, il costo di ritirata di questo Pokémon è ridotto di 2.",
+                de: "Wenn du ein weiteres Tanhel im Spiel hast, verringern sich die Rückzugskosten dieses Pokémon um 2.",
                 "pt-br": "Se você tiver outro Beldum em jogo, o Custo de Recuo deste Pokémon será 2 a menos.",
                 "zh-tw": "若自己的場上有其他的「鐵啞鈴」,則這隻寶可夢撤退所需的能量減少2個。"
             }

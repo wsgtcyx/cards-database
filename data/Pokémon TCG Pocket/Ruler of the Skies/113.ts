@@ -41,7 +41,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it."
+        en: "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.",
+        fr: "Ce Pokémon creuse dans les montagnes à la recherche de nourriture. Il est si robuste qu'être piégé dans un effondrement le laisse indifférent.",
+        es: "Excava hoyos en las montañas para procurarse alimento. Su robustez es tal que apenas se inmuta aunque lo afecte de lleno un derrumbe.",
+        it: "Scava buchi nelle montagne in cerca di cibo. È talmente robusto che non si fa un graffio neanche se viene travolto da una frana.",
+        de: "Auf der Suche nach Futter gräbt es in den Bergen Löcher. Es ist so robust, dass es ihm auch nichts ausmacht, wenn diese über ihm einstürzen.",
+        "pt-br": "Cava buracos em montanhas em busca de comida. É tão robusto que, mesmo que fique preso em uma caverna, não ficará incomodado.",
+        "zh-tw": "會在山裡挖洞來尋找食物。\n身體非常堅硬，即使遇到\n洞穴坍塌也能毫不會在意。"
     },
     attacks: [
         {

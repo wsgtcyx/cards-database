@@ -43,7 +43,11 @@ const card: Card = {
     description: {
         en: "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
         "fr": "il aime les endroits frais et sombres, comme le dessous d'un plancher ou le fond d'une étagère. A la nuit tombée, il erre en quête de proies.",
-        "it": "Gli piace stare in posti bui e freschi, ad esempio in fondo agli scaffali o sotto i pavimenti delle case. Dopo il tramonto vaga in cerca di prede."
+        es: "Prefiere los lugares fríos y oscuros, como el fondo de las estanterías o bajo el suelo de las casas. Vaga en pos de presas tras el ocaso.",
+        "it": "Gli piace stare in posti bui e freschi, ad esempio in fondo agli scaffali o sotto i pavimenti delle case. Dopo il tramonto vaga in cerca di prede.",
+        de: "Es hält sich gern an dunklen und kalten Orten auf wie etwa unter Fußböden oder hinter Regalen. Nach Sonnenuntergang geht es auf Beutejagd.",
+        "pt-br": "Prefere lugares escuros e frescos, como o fundo de uma prateleira ou o espaço sob o assoalho de uma casa. Perambula em busca de presas após o pôr do sol.",
+        "zh-tw": "喜歡待在民宅的地板下或\n架子深處等陰涼的地方。\n日落後會四處徘徊尋找獵物。"
     },
     attacks: [
         {

@@ -45,7 +45,9 @@ const card: Card = {
         fr: "Les femmes Dresseurs raffolent de sa sublime\nfourrure. Il ne possède pas de nid.",
         es: "Tiene mucho éxito entre las Entrenadoras por su suave\npelaje. No vive en un sitio fijo.",
         it: "Ha successo fra gli Allenatori di sesso femminile per\nla sua bellissima pelliccia. Non ha una tana fissa.",
-        de: "Dieses Pokémon ist bei weiblichen Trainern\naufgrund seines Fells beliebt."
+        de: "Dieses Pokémon ist bei weiblichen Trainern\naufgrund seines Fells beliebt.",
+        "pt-br": "É muito popular entre Treinadoras por causa do seu pelo sublime. Não faz ninho.",
+        "zh-tw": "有著美麗的毛髮，\n非常受女性訓練家的歡迎。\n沒有固定的住所。"
     },
     attacks: [
         {
@@ -63,6 +65,7 @@ const card: Card = {
                 en: "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
                 fr: "Vous pouvez déplacer autant d'Énergies que vous le voulez de vos Pokémon en jeu vers vos autres Pokémon, comme il vous plaît.",
                 es: "Puedes mover cualquier cantidad de Energías de tus Pokémon en juego a tus otros Pokémon de la manera que desees.",
+                de: "Du kannst beliebig viele Energien von deinen Pokémon im Spiel beliebig auf deine anderen Pokémon verschieben.",
                 "pt-br": "Você pode mover qualquer quantidade de Energia dos seus Pokémon em jogo para outros Pokémon seus como desejar.",
                 "zh-tw": "選擇自己的場上寶可夢身上的任意數量的能量,以任意方式改附於自己的寶可夢身上。",
                 "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon."

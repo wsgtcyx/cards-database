@@ -36,6 +36,7 @@ const card: Card = {
         es: "Fue creado a imagen de un Pokémon mitológico.\nLleva una máscara de contención para evitar que\nsu poder se descontrole.",
         it: "È stato creato sul modello di un Pokémon\nmitologico. È stato necessario dotarlo di una\nmaschera per tenere a freno la sua potenza.",
         de: "Typ:Null ist eine künstliche Nachbildung eines\nPokémon aus einer alten Sage. Die Maske dient\ndazu, seine Kräfte unter Kontrolle zu halten.",
+        "pt-br": "Ele foi modelado com base em um Pokémon mítico. A sua máscara restringe o seu poder para mantê-lo sob controle.",
         "zh-tw": "以神話中的寶可夢為原型所\n創造出的寶可夢，被戴上了\n抑制力量失控的面罩。"
     },
     attacks: [

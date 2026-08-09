@@ -35,7 +35,9 @@ const card: Card = {
         fr: "Son corps est principalement constitué d’un estomac\ndont les sucs digestifs dissolvent tout.",
         es: "Sus sesos y corazón son diminutos; es casi todo\nestómago. Sus jugos gástricos disuelven lo que sea.",
         it: "Ha cuore e cervello mini: lo stomaco prende troppo\nspazio! Con i succhi gastrici scioglie qualunque cosa.",
-        de: "Sein Körper besteht fast nur aus Magen. Herz und\nHirn sind winzig. Sein Magensaft verdaut alles."
+        de: "Sein Körper besteht fast nur aus Magen. Herz und\nHirn sind winzig. Sein Magensaft verdaut alles.",
+        "pt-br": "Seu coração e seu cérebro são muito pequenos. O estômago ocupa a maior parte do corpo e é cheio de enzimas capazes de dissolver qualquer coisa.",
+        "zh-tw": "心臟和大腦都很小，\n身體的大部分是胃，\n會分泌出什麼都能溶解的胃液。"
     },
     attacks: [
         {

@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [940],
     stage: "Basic",
     description: {
-        en: "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+        en: "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy.",
+        fr: "Il niche sur les falaises côtières. Son nid possède une texture particulière et un goût naturellement pétillant, ce qui en fait un mets très recherché.",
+        es: "Anida en acantilados costeros. Su nido se considera un auténtico manjar debido a su extraña textura chisporroteante.",
+        it: "Nidifica sui dirupi a picco sul mare. Il suo nido è una prelibatezza molto amata per l'insolita consistenza scoppiettante.",
+        de: "Es nistet an Steilküsten. Seine Nester sind als Delikatesse geschätzt, da ihre Textur ein seltsames Knistergefühl im Mund erzeugt.",
+        "pt-br": "Estes Pokémon fazem seus ninhos em penhascos no litoral. Os ninhos têm uma textura estranha e crépida, e são uma iguaria muito popular.",
+        "zh-tw": "會在海岸的懸崖上築巢。\n吃起來劈哩啪啦跳的神奇口感，\n讓牠的巢成了受歡迎的珍奇美食。"
     },
     attacks: [
         {

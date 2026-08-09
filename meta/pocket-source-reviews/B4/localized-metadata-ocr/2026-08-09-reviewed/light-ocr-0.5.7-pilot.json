@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T03:08:10.382Z",
+  "tool": {
+    "name": "@arcships/light-ocr",
+    "version": "0.5.7",
+    "upstream": "https://github.com/arcships/light-ocr",
+    "license": "Apache-2.0",
+    "installation": "Isolated temporary npm installation only; no root dependency or lockfile change."
+  },
+  "role": {
+    "canonical": false,
+    "use": "OCR candidate generation and visual-review cross-check only",
+    "canonicalEvidence": "Localized card face plus human visual review",
+    "independenceCaveat": "light-ocr and prior Paddle-derived candidates share PP-OCRv6 lineage and are not counted as two independent sources; OCR confidence or agreement never authorizes automatic metadata writes."
+  },
+  "run": {
+    "provider": "cpu",
+    "strategy": "bounded",
+    "records": 520,
+    "expectedRecords": 520,
+    "byLocale": {
+      "de": 87,
+      "es": 56,
+      "fr": 66,
+      "it": 88,
+      "pt-br": 123,
+      "zh-tw": 100
+    },
+    "http200": 520,
+    "sourceHashMatches": 520,
+    "webpDecodedRecords": 345,
+    "totalRecognizedLines": 8152,
+    "emptyResults": 0,
+    "wallMs": {
+      "min": 399.098,
+      "p50": 1011.542,
+      "p95": 1535.534,
+      "max": 2930.48,
+      "sum": 554245.7450000005
+    },
+    "peakRssBytes": 356319232,
+    "fullTemporaryEvidence": {
+      "path": "/private/tmp/light-ocr-full-b4-20260809/bounded-evidence.json",
+      "bytes": 7038019,
+      "sha256": "cbbbe06ae128ebdbd5d598b3407f9d4ffa7c036e17bf48beb8d9150c081a08d1",
+      "durability": "Temporary full-output artifact; canonical reviewed values and relevant OCR candidates are preserved in b4-localized-card-face-review.source.json."
+    }
+  },
+  "engine": {
+    "coreVersion": "0.5.7",
+    "modelBundleId": "ppocrv6-small-native-20260719.1",
+    "modelBundleSchemaVersion": "1.2",
+    "backend": "ONNX Runtime 1.22.0",
+    "executionProvider": "CPUExecutionProvider",
+    "detection": {
+      "modelId": "PP-OCRv6_small_det_onnx",
+      "modelSha256": "d73e0058b7a8086bbd57f3d10b8bcd4ff95363f67e06e2762b5e814fe9c9410e"
+    },
+    "recognition": {
+      "modelId": "PP-OCRv6_small_rec_onnx",
+      "modelSha256": "5435fd747c9e0efe15a96d0b378d5bd157e9492ed8fd80edf08f30d02fa24634"
+    },
+    "concurrencyMode": "serialized_reject_when_busy",
+    "maxConcurrentCalls": 1,
+    "textlineOrientation": false
+  },
+  "environment": {
+    "os": "macOS 26.2",
+    "node": "v22.14.0",
+    "nodeProcessArch": "arm64"
+  },
+  "limitations": [
+    "The package accepts JPEG, PNG, or decoded pixels, not WebP; 345 WebP inputs were decoded with ImageMagick 7 and bound by source and decoded SHA-256 before OCR.",
+    "No language hint, character-level coordinates, or text-line orientation was available in this run.",
+    "One engine instance is serialized; this run used the CPU provider and does not establish CoreML performance.",
+    "CJK punctuation and visually similar glyphs require manual card-face adjudication even at high confidence."
+  ],
+  "linkedCanonicalReview": {
+    "file": "meta/pocket-source-reviews/B4/localized-metadata-ocr/2026-08-09-reviewed/b4-localized-card-face-review.source.json",
+    "scope": {
+      "descriptions": 467,
+      "mechanics": 83,
+      "totalDecisions": 550
+    }
+  }
+}

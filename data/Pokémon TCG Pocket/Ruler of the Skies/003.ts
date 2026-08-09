@@ -46,7 +46,8 @@ const card: Card = {
         es: "Es un Pokémon agresivo. Con su boca larga y afilada\nataca a sus rivales para drenar sus fluidos.",
         it: "Ha un’indole aggressiva. Conficca la sua bocca\nlunga e sottile nelle prede e ne succhia i fluidi.",
         de: "Es besitzt ein aggressives Wesen. Es sticht seinen\nRüssel in seine Beute und saugt sie aus.",
-        "pt-br": "Sua natureza é agressiva. Ele ataca suas presas com sua boca comprida e estreita para drenar os fluidos do inimigo"
+        "pt-br": "Sua natureza é agressiva. Ele ataca suas presas com sua boca comprida e estreita para drenar os fluidos do inimigo",
+        "zh-tw": "會用細長的嘴刺向對手，\n吸取對手的體液。\n具有很強的攻擊性。"
     },
     attacks: [
         {
@@ -55,6 +56,7 @@ const card: Card = {
                 en: "Evoflight",
                 fr: "Envol Évo",
                 es: "Evovuelo",
+                it: "Evolvolo",
                 "pt-br": "Evoluvoo",
                 "zh-tw": "進化飛行",
                 "de": "Entwicklungsflug"

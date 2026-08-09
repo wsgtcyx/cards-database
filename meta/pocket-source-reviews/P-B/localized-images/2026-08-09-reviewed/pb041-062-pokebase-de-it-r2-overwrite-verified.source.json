@@ -1,0 +1,2499 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T07:11:51.099Z",
+  "scope": {
+    "setId": "P-B",
+    "records": 40,
+    "localIds": [
+      "041-050",
+      "053-062"
+    ],
+    "locales": [
+      "de",
+      "it"
+    ],
+    "metadataRule": "Only reviewed localized card faces whose high and low R2 replacements pass cache-busting and bare public SHA-256 verification after exact-URL cache purge may be referenced."
+  },
+  "source": {
+    "provider": "PokéBase",
+    "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+    "rights": "No explicit content or image reuse license was found. Pokémon card art, logos, characters, and pack imagery remain proprietary Pokémon IP; PokéBase hosting does not grant redistribution rights.",
+    "requiredAttribution": "If used under the user-authorized source policy, attribute PokéBase and preserve the exact source page/CDN URL; do not describe the assets as open-licensed."
+  },
+  "inputs": {
+    "rawSource": {
+      "file": "meta/pocket-source-reviews/P-B/localized-images/2026-08-09-pokebase/pokebase-localized-card-images.source.json",
+      "fileSha256": "0cfcb149fa0f77c7459fa05995085c9fb73d965b055c5f73eca1540d9ffb5cba",
+      "artifactSha256": "41f42e8859a4a558de457ccd8ded891805e447b0f56bec7631e2da0f8c8a3430"
+    },
+    "audit": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-09-pb041-086-pokebase-de-it/localized-image-audit.json",
+      "fileSha256": "ec8f308fd97c56bc8a991d681d83aedd862e93c130e21689f491e4eb2183271f",
+      "artifactSha256": "338f3aa2fce81058f178373553b52c0ee360f4e183833485364172b041b463a4"
+    },
+    "r2Manifest": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-09-pb041-086-pokebase-de-it/r2-manifest.json",
+      "fileSha256": "6d48c436c6edd56944f27f61618bc9b5a7f5d62bdbb64d3d48eb686f8283b54c",
+      "artifactSha256": "c896bce03d805e85b716e4e78b96dab7643828a6ee8d1fdc11cd8eda1bc37253"
+    },
+    "r2Preflight": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-09-pb041-086-pokebase-de-it/r2-preflight.json",
+      "fileSha256": "f27e7066034cca1b36b4a21023507e225edb99dcba62e8d08c10090b0ca0c93c",
+      "artifactSha256": "f511eba02e7d6ea78b62871be1ca6720f4bc6b1bd6e8aa1eb1cdbe2a65431e24"
+    },
+    "uploadSummary": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-09-pb041-086-pokebase-de-it/upload-summary.json",
+      "fileSha256": "3a999f1317e385529a91d0983387be10c7018a3acde2f39795df39ddf29dae80",
+      "artifactSha256": "bdca1b496e1c48af3927102b838fcf3fe4483608f2d2b9836829f9391837f9f7"
+    },
+    "r2Verification": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-09-pb041-086-pokebase-de-it/r2-verify.json",
+      "fileSha256": "7e33e408cc3a302098a0cb34124b0ee7382aec03d48b6a7242d174b0b311f7f5",
+      "artifactSha256": "0b277a71510e502bbffbb8c750e7ec648709bfcaff2f0b6f40a5969b9cbaa342",
+      "status": "ok",
+      "failures": 0
+    }
+  },
+  "records": [
+    {
+      "cardId": "P-B-041",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/041.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/041",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/041",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_015460_00_PAOJIANex_RR_de_DE-1.png",
+        "sha256": "f3b03333e0d000d06b03942988ea384ffbf1b88568582b67530a8f8b400c581d",
+        "bytes": 365129,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:17.873Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Baojian ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/041/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/041/high.webp",
+          "sha256": "04482e4cc4beec3c8f8d225b73e5e8a3ec5841bbaa48638fe39a390055c769ac",
+          "bytes": 75256,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "08fd6b78d7b62579755b821a76c254e9631937577b0bd377aec9d8896fa44b1a"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/041/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/041/low.webp",
+          "sha256": "60ee8a174950b4ae86901ab3e596f0caba6922225d57c725eda88e284fb5b7f2",
+          "bytes": 28184,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "1ad4c9c0821a2ac9f61996bf43dd59f5168f9c6c9e4844c97999a2c5e8315b13"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-041",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/041.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/041",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/041",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_015460_00_PAOJIANex_RR_it_IT-1.png",
+        "sha256": "9a6054b57abcadc51b84184878b5180c6bf5c52554eb953bf22274ea67aedec4",
+        "bytes": 365192,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:18.734Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Chien-Pao ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/041/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/041/high.webp",
+          "sha256": "3eda7dcd233e546d92f6e3a3068faccd0924fd079e1a69eceab77e882204307f",
+          "bytes": 75460,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "08fd6b78d7b62579755b821a76c254e9631937577b0bd377aec9d8896fa44b1a"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/041/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/041/low.webp",
+          "sha256": "486da29b167185f7dd9d2aac16c239baf3c232267b80950c9971ee84beb9e6d4",
+          "bytes": 28346,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "1ad4c9c0821a2ac9f61996bf43dd59f5168f9c6c9e4844c97999a2c5e8315b13"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-042",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/042.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/042",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/042",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016000_00_YADON_AR_de_DE-1.png",
+        "sha256": "59141ed146724c9ebf1b1794ea8673414aaf82850baf75f411e03e1e1b231a3b",
+        "bytes": 231287,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:20.837Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Flegmon",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/042/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/042/high.webp",
+          "sha256": "35565403112a4aefdacb105c33f12da3c74c63611ea1997f2878673fa4586cc4",
+          "bytes": 61240,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "9fadfcbcfd1ab4944581510af7eb05e15d25e37d7fb999349790519056c797ee"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/042/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/042/low.webp",
+          "sha256": "22dfe3e89a791cc9fd860acc883bad425034816bd94da888600756b0a5866207",
+          "bytes": 27254,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "43913db4d78a272b5cea2cee7ed8a07b4e3d7bcc2e1a83e6e7ffe21e422af905"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-042",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/042.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/042",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/042",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016000_00_YADON_AR_it_IT-1.png",
+        "sha256": "3727397f86e1dd41c609483824ef89a5fe099db11bd366d23e89db7630535bb1",
+        "bytes": 228926,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:22.311Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Slowpoke",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/042/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/042/high.webp",
+          "sha256": "2fd259d2467f68969a915ec9f7aa900bf27f836937a0ec004d9869843896c7b1",
+          "bytes": 60524,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "9fadfcbcfd1ab4944581510af7eb05e15d25e37d7fb999349790519056c797ee"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/042/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/042/low.webp",
+          "sha256": "0c9cccc145c2861bd84e013753b50f163b2d06fba193b55439632c7ded817d17",
+          "bytes": 26812,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "43913db4d78a272b5cea2cee7ed8a07b4e3d7bcc2e1a83e6e7ffe21e422af905"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-043",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/043",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/043",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016010_00_RAKURAI_C_de_DE-1.png",
+        "sha256": "fb7b995d244278b4fb4d4f0dab5d5cbee256eaa8ed7f5c4fe7e9670e0ef66caf",
+        "bytes": 230580,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:23.588Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Frizelbliz",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/043/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/043/high.webp",
+          "sha256": "da6c2a03082e23e724fe6b15ffd7d1befa6a71fcc77171a5a1cc2e1559aefee3",
+          "bytes": 43976,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f09892e9e958727c94cb16f17275c1a6059286622ea090a4db66ce5bf88fc60c"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/043/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/043/low.webp",
+          "sha256": "b1ba421abe856ae2b8a0dac7dc39ac94612d282afde82a5728863d627c9c2939",
+          "bytes": 18008,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "88ff53eebce8930424ecd93eaadeb73ae2e465bb71c0d6849d90ec1040a93e2f"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-043",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/043",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/043",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016010_00_RAKURAI_C_it_IT-1.png",
+        "sha256": "77cc877ef6ed0bd9257eb0f7eba439fb73405a74b19d44628a0134e55ba20593",
+        "bytes": 227368,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:25.280Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Electrike",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/043/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/043/high.webp",
+          "sha256": "e47565f84e8b482416007ad96295a5ce89a705a1c5cf5784f4f08cdef5b96680",
+          "bytes": 42698,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f09892e9e958727c94cb16f17275c1a6059286622ea090a4db66ce5bf88fc60c"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/043/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/043/low.webp",
+          "sha256": "d3b3a2f765b95ab1b91cfad45b3c62b3e93c580b6bb4f518f6c2c9ab7eec4547",
+          "bytes": 16814,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "88ff53eebce8930424ecd93eaadeb73ae2e465bb71c0d6849d90ec1040a93e2f"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-044",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/044",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/044",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016020_00_BURORON_C_de_DE-1.png",
+        "sha256": "5b12366d2f4f4dc45ed5df9b633b7ead88e021e6672d75e241e84deb43cab0d0",
+        "bytes": 285699,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:28.294Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Knattox",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/044/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/044/high.webp",
+          "sha256": "1b50def797c264afaa501b431082f09e6e866ff1a6c85d40251b3c2035aa5b7f",
+          "bytes": 59910,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "b9a153c6dd1d2d205c7dd41fa1324ae9bfa86ce569d70506b637df77c493bfe6"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/044/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/044/low.webp",
+          "sha256": "aff08fd17062e979f87025fc291220f017b5befd3e89b23f7f765874fa6aecfc",
+          "bytes": 21168,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "2d3c8b3b1f98f8323d2fdb2706f773af2cf01db87543d5f1dffd2a59d184a3bf"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-044",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/044",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/044",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016020_00_BURORON_C_it_IT-1.png",
+        "sha256": "dd16be8032804ee62441f033c82178c8849d94974d285d802aa25ad52bf54e5c",
+        "bytes": 284713,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:30.297Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Varoom",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/044/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/044/high.webp",
+          "sha256": "0608215e2b61aad45d9e6de679e91f199db43b7711936a9f45853641dab22fc7",
+          "bytes": 59840,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "b9a153c6dd1d2d205c7dd41fa1324ae9bfa86ce569d70506b637df77c493bfe6"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/044/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/044/low.webp",
+          "sha256": "fa79199a2ec8ba9be2826168bcc88a111ddb2f5684d7d972aeb35d27c45956ee",
+          "bytes": 20938,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "2d3c8b3b1f98f8323d2fdb2706f773af2cf01db87543d5f1dffd2a59d184a3bf"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-045",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/045",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/045",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016030_00_ONONOKUS_R_de_DE-1.png",
+        "sha256": "0f73b5f0f0f1c8d48111e65120dcfa1d5960c93405f0e71a01ade04f1ff535fd",
+        "bytes": 304956,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:32.383Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Maxax",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/045/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/045/high.webp",
+          "sha256": "bd376e0019cf96e1725eef8645666178f73aaa188d81762ed1ec6569febbe803",
+          "bytes": 58122,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "976528bd0ba742dc57446a2ee238178d8ee455023f2cd2ea677e2aeb9bfa8462"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/045/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/045/low.webp",
+          "sha256": "c086e24e4a9bcc3fce45024f9ce937dc488eff19eb90c3e6b1c3f599216d4de1",
+          "bytes": 21006,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "621ac9f80330f5375c760d06d6215a3438980a0ce01ab59768cc97ea7b7e8c9b"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-045",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/045",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/045",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016030_00_ONONOKUS_R_it_IT-1.png",
+        "sha256": "54eafeaf5fc0519968619377d422905f4dafb7f2fccab95c4ae356105385b5ad",
+        "bytes": 302058,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:34.102Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Haxorus",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/045/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/045/high.webp",
+          "sha256": "4e34913708bc8f5d229cfbf4618dec441b1624c4c8b3027f4352a60694b58a41",
+          "bytes": 57160,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "976528bd0ba742dc57446a2ee238178d8ee455023f2cd2ea677e2aeb9bfa8462"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/045/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/045/low.webp",
+          "sha256": "fd23561596d41a6465488afdf8e1480a7efc9c3dc923e784fe6c03f662b7e5ad",
+          "bytes": 20758,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "621ac9f80330f5375c760d06d6215a3438980a0ce01ab59768cc97ea7b7e8c9b"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-046",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/046",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/046",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016040_00_PERAP_C_de_DE-1.png",
+        "sha256": "5ae89eba2dda565db7e15a72c2fa818c66b4f4440676ddbd575eee1d84117acd",
+        "bytes": 279736,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:36.143Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Plaudagei",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/046/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/046/high.webp",
+          "sha256": "bead1012a0bc86dfb221cf878d0f44acc89b0070d8839f07263fdf5b46658b09",
+          "bytes": 52048,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "fb31aee5a83a9646dc92b033a65f21000b50b4d22dfd51f09050d7f875d9be42"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/046/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/046/low.webp",
+          "sha256": "10c05fbe4b90deda6168573f7628a59b8e88a36bf709bec60ddc29fcff5c7b39",
+          "bytes": 18496,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "46ddb6be16d783bd889f0c4ff6370811044b5d5b59bca7b1bc7f81d2b40e0d15"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-046",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/046",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/046",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016040_00_PERAP_C_it_IT-1.png",
+        "sha256": "88749a9e65be52467321a01ef86342e0b6e862c4e25aeb560cec0a7a36224235",
+        "bytes": 279036,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:38.476Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Chatot",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/046/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/046/high.webp",
+          "sha256": "50098d567b2f36e21a2df29400de2e0efe4a0e44383ae5407fe7038d70315416",
+          "bytes": 51588,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "fb31aee5a83a9646dc92b033a65f21000b50b4d22dfd51f09050d7f875d9be42"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/046/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/046/low.webp",
+          "sha256": "fa9770d42ac287e6e2b331fb04079b0a5be73ab5486c4b653865e5a8f5cc08cf",
+          "bytes": 18256,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "46ddb6be16d783bd889f0c4ff6370811044b5d5b59bca7b1bc7f81d2b40e0d15"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-047",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/047",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/047",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016050_00_GHOS_R_de_DE-1.png",
+        "sha256": "349099a2cc6173d8f742143c6496b82acc9632eeb293b191b91266d4d566fa1b",
+        "bytes": 295521,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:40.135Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Nebulak",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/047/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/047/high.webp",
+          "sha256": "b4850fd40a27a4749198dd1e8992416c0f43800c36fbe3964b9c351a08b35d29",
+          "bytes": 61264,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "b643d4ae0eb97df7631315f83cd21773f8d4db883ee854d59367de390c0f1b5b"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/047/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/047/low.webp",
+          "sha256": "ee0a0a22db4b7382416b9d61f2c8772c2d380618c5bb74055cf91ab19c16e60f",
+          "bytes": 20572,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "8b2907e4bd901edf6f6fc3ff0c2ee1dc054b2575831b3ac1784991e7144d1f27"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-047",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/047",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/047",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016050_00_GHOS_R_it_IT-1.png",
+        "sha256": "bfeba9d85decd5c26ea7b15e5b8ea0256b7f2a2c99554e30b9c545678f618d1f",
+        "bytes": 295297,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:42.577Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Gastly",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/047/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/047/high.webp",
+          "sha256": "919a7dc3f398c7df8c881858d36e3e05f18af0e2a4c6df99480ffb46d4d784b6",
+          "bytes": 59912,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "b643d4ae0eb97df7631315f83cd21773f8d4db883ee854d59367de390c0f1b5b"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/047/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/047/low.webp",
+          "sha256": "3b45b7e66a048e278ae9e30460b0dfa44292941f45ec6ef8fbce8e394c5ad0ba",
+          "bytes": 20404,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "8b2907e4bd901edf6f6fc3ff0c2ee1dc054b2575831b3ac1784991e7144d1f27"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-048",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/048.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/048",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/048",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016060_00_PUKURIN_R_de_DE-1.png",
+        "sha256": "192c8af3597f3808943d8c298e597afa6cbea879762566f5b768765a48de2716",
+        "bytes": 288074,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:44.734Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Knuddeluff",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/048/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/048/high.webp",
+          "sha256": "011785c3daa4547438ab899adb0dd525658f028c5a1635283608b66db39292c6",
+          "bytes": 52436,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "b9a97376a2cb0035d3dcdefef2ece60b4b55c6371801fb19812c22a30c13ac44"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/048/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/048/low.webp",
+          "sha256": "6dcb257ae7fed37b6632b8e2bca4cbb0c8cfcd35bc815c82db8b0fbf79117847",
+          "bytes": 17714,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "4c9406fc664543202e2759364dd8a7c27d5237c9f29183e113a58236c151ac59"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-048",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/048.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/048",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/048",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016060_00_PUKURIN_R_it_IT-1.png",
+        "sha256": "3b35c55b66cfbc671a4e51e5e232606286e9233278e7dc0b4c2e151b9b346190",
+        "bytes": 288079,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:46.416Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Wigglytuff",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/048/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/048/high.webp",
+          "sha256": "b1ac444d2cd01403d2b2b84351f2421ba9361754604d98ba5f72ce1ed533a5f8",
+          "bytes": 51476,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "b9a97376a2cb0035d3dcdefef2ece60b4b55c6371801fb19812c22a30c13ac44"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/048/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/048/low.webp",
+          "sha256": "0d977a7ea33c9c1ac06ca370592f0ca35b2d02ad7197dffe4fe856b720ad872b",
+          "bytes": 17360,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "4c9406fc664543202e2759364dd8a7c27d5237c9f29183e113a58236c151ac59"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/049",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/049",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016900_00_VICTINI_AR_de_DE-1.png",
+        "sha256": "a1073645ecca6b1ace6baa92f7c8d5a0d1b7133a8c5cf2a525ace182b6abeb84",
+        "bytes": 309501,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:48.193Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Victini",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/049/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/049/high.webp",
+          "sha256": "108c295621a900dfeb58fc14e480b48becc7986258cad03521afd2cb93bb4f87",
+          "bytes": 70954,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "455e96ff3805e80cf47c2c0add3cb0703ca84c3838376ff6ce4bf30cf57b0f2b"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/049/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/049/low.webp",
+          "sha256": "86a6a624155b88ef64008692be4072f013f715466ad19d52c09af6b3f00e4a31",
+          "bytes": 29710,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "cf8bc6e2bf6a9602d2c2ca54f93ddc1cb8dd1ab48b1d0c58047d753c6bc24dff"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-049",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/049",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/049",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016900_00_VICTINI_AR_it_IT-1.png",
+        "sha256": "064bde491453de8690d1227f95956bd5d89c965519397fa4880a86dad653e368",
+        "bytes": 309600,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:49.769Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Victini",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/049/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/049/high.webp",
+          "sha256": "4afb016d46fb9f239c0b0ae8e0e92dbcd13d1ce693a6c15ea270a2789c326e76",
+          "bytes": 70280,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "455e96ff3805e80cf47c2c0add3cb0703ca84c3838376ff6ce4bf30cf57b0f2b"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/049/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/049/low.webp",
+          "sha256": "63ec82f0ced5c279e753b390e4fc5756b8053c13b3db703514bc3e8ffb09886f",
+          "bytes": 29612,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "cf8bc6e2bf6a9602d2c2ca54f93ddc1cb8dd1ab48b1d0c58047d753c6bc24dff"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-050",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/050",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/050",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_014360_00_MELOETTA_U_de_DE-1.png",
+        "sha256": "5984d2386f808fa8aea80051a776eb489d7f66a14808861a115a75f6885507ed",
+        "bytes": 279617,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:51.378Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Meloetta",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/050/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/050/high.webp",
+          "sha256": "04b8606e9ab226374f3998a0c7e2fb42b246ae189087b22467e4da9d451ff27d",
+          "bytes": 51540,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "3813ea4b21d61e25b38e1a3b3adb267be62c6e80d217ed6907f0b466966decca"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/050/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/050/low.webp",
+          "sha256": "9fa93aef3bd5e7891c9b82fecccd86f14302f820a3f938746aa43bc5db34a313",
+          "bytes": 19268,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "f7c164012bdb529280529c87932f6cb3abf1992cf9b05b6818e012bfa59137d5"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-050",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/050",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/050",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_014360_00_MELOETTA_U_it_IT-1.png",
+        "sha256": "0a2a8ab9cb55e7c633c253b5ab81e4d6bf058de0e2fe0f30bcff820d18ce9b36",
+        "bytes": 277781,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:53.035Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Meloetta",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/050/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/050/high.webp",
+          "sha256": "44e78261c575294b3e7cc2b336f40c906ccac65b0830b17700f3049229000301",
+          "bytes": 52116,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "3813ea4b21d61e25b38e1a3b3adb267be62c6e80d217ed6907f0b466966decca"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/050/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/050/low.webp",
+          "sha256": "7298a6583d04e29ffa321990c3c84738123124c58b65b3184351260f2e6d4368",
+          "bytes": 18766,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "f7c164012bdb529280529c87932f6cb3abf1992cf9b05b6818e012bfa59137d5"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-053",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/053",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/053",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018880_00_ZYGARDEPERFECTFORMEex_RR_de_DE-1.png",
+        "sha256": "cbca79c5f274b1da9dc9b97a146301e651bca2b568a4bb785490b6bda50e2319",
+        "bytes": 373650,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:54.849Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Zygarde ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/053/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/053/high.webp",
+          "sha256": "565910fa369b5153b0427eed38a42fd017f19758e0af0eeb619b0bf08af695ea",
+          "bytes": 71904,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "1caa716d31f47cfc70407fd79f7e5cbb9e6efea0becd0dd8657bc7ac1353781f"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/053/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/053/low.webp",
+          "sha256": "5da130fd267d4bc97c608c23c722b43025bc3432519601eebc7848d100ae8e1c",
+          "bytes": 27508,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "c1ffc411debd92ea3de943e5523b801b306b62781957b1d250b4e98e3649ee07"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-053",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/053",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/053",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018880_00_ZYGARDEPERFECTFORMEex_RR_it_IT-1.png",
+        "sha256": "2d2ae576ba0a2a92d42c5a574f45c57abae27a41a45b0614dce5e85580fd3115",
+        "bytes": 374466,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:56.739Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Zygarde ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/053/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/053/high.webp",
+          "sha256": "2e8b18bdafe947207a1fb975fb9b25fd839e90ea5a726f96c992b818b0151850",
+          "bytes": 73176,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "1caa716d31f47cfc70407fd79f7e5cbb9e6efea0becd0dd8657bc7ac1353781f"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/053/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/053/low.webp",
+          "sha256": "9e38be9ee24093ccaddd7f34360768b7c6192735a6534effb06c3d4cc018f8b9",
+          "bytes": 27682,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "c1ffc411debd92ea3de943e5523b801b306b62781957b1d250b4e98e3649ee07"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-054",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/054",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/054",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_012660_01_EIEVUI_C_de_DE-1.png",
+        "sha256": "cc5113e5834306a044194be27197cc1c0cbca14e410a44f54a715175850d0b42",
+        "bytes": 270985,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:42:58.940Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Evoli",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/054/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/054/high.webp",
+          "sha256": "60a657ea03c46bfaa06443aed4a855b0f4d412907c48bb3736de744799c93748",
+          "bytes": 53370,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f4bf50f415d442327ee09ae862bc5cfe74cca43c65a4151289d684a36d54e085"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/054/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/054/low.webp",
+          "sha256": "73e767a341e8775482149745507cf40153ebd4e7389a025a6999b6f929996213",
+          "bytes": 20316,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "b133e742b7a321399f38b884027991565fcb74bdbab23d64e39864f2da4bebc4"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-054",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/054",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/054",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_012660_01_EIEVUI_C_it_IT-1.png",
+        "sha256": "ef0aab7b30cd4a1f4201ab45bdc38350d93c89bc4382ce90165acdd0eeedf77e",
+        "bytes": 269367,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:00.823Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Eevee",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/054/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/054/high.webp",
+          "sha256": "de86d689cd663ba7f0e61d4bb194eea71f88fdc477703d5ae4170195b423db5a",
+          "bytes": 53088,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f4bf50f415d442327ee09ae862bc5cfe74cca43c65a4151289d684a36d54e085"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/054/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/054/low.webp",
+          "sha256": "e31b7ffaf897f78553f1088b595b90c74a57e9f277f273031c13369d0dc15773",
+          "bytes": 19884,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "b133e742b7a321399f38b884027991565fcb74bdbab23d64e39864f2da4bebc4"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-055",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/055",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/055",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018880_01_ZYGARDEPERFECTFORMEex_SR_de_DE-1.png",
+        "sha256": "546c4acb965ebfeab8b56710e3541c4b1e76d499713dda670e8e7e9f514f835e",
+        "bytes": 361353,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:02.484Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Zygarde ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/055/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/055/high.webp",
+          "sha256": "66fa9ad45eb3c57ed72ccec191e14549536d6c2c05b19154f6ee532fb36e641c",
+          "bytes": 78686,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f42b4f518b65ebba9dc5a4ceb28c5e4e8c04f3c0c6e8e691ebe131242e8e8d15"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/055/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/055/low.webp",
+          "sha256": "281eb55a90ceb5b734175f762e53cb155ed12d30d6528ed67ef75054db98dbd5",
+          "bytes": 35068,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "c9b8b646e74f3319f41bff0d354e244266c29524e72e0ead33c0c980ae1928e2"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-055",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/055",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/055",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018880_01_ZYGARDEPERFECTFORMEex_SR_it_IT-1.png",
+        "sha256": "8c43e3b0492c7dacfeaa3e0b6db59db56aefdbcdf0f6ea3c36b760a58ac9e5ca",
+        "bytes": 361995,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:04.131Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Zygarde ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/055/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/055/high.webp",
+          "sha256": "cbe768d03676e7c1a045ce382e573d87f46a34ec08e5cd877576778d1a1bae5d",
+          "bytes": 79186,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f42b4f518b65ebba9dc5a4ceb28c5e4e8c04f3c0c6e8e691ebe131242e8e8d15"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/055/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/055/low.webp",
+          "sha256": "def5d423a345642809e85fcf9ab80ee13ac5b968d8bd33c8eeb0c88d4483e5e0",
+          "bytes": 35112,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "c9b8b646e74f3319f41bff0d354e244266c29524e72e0ead33c0c980ae1928e2"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-056",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/056",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/056",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018900_00_MEGAHERACROSex_RR_de_DE-1.png",
+        "sha256": "01673fcc3c0d2e158ee4032c2903ce489f8729346eed82d02d351047f37dcace",
+        "bytes": 320632,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:06.436Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Mega-Skaraborn ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/056/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/056/high.webp",
+          "sha256": "0196a9ee21459e71c7ce0e1165583cf430835689ba69ed9466c60be8453b696f",
+          "bytes": 63564,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f1fa9e9f30af81946b7afd2108652dd268caa8097732e8ecabcf82f73141742c"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/056/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/056/low.webp",
+          "sha256": "8d48a190a52b2156b89edd0828e9efcb4aa042c9de5031ef1409367cbf62b8f4",
+          "bytes": 26562,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "da8b891e6b54fcb867a9dcf15d61befa45e3b08018c3d1cd51e6bdbc40fa9e7a"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-056",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/056",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/056",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018900_00_MEGAHERACROSex_RR_it_IT-1.png",
+        "sha256": "b7150c8115e3d11519435c4cc54095663b7ccf3397e6bbcb54c3374244660005",
+        "bytes": 320048,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:08.313Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Mega Heracross ex",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/056/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/056/high.webp",
+          "sha256": "cd3276dbb6752ee789a2fbc677463b99d962f72e0856e79823156ebfc6a10757",
+          "bytes": 62934,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "f1fa9e9f30af81946b7afd2108652dd268caa8097732e8ecabcf82f73141742c"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/056/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/056/low.webp",
+          "sha256": "81c0d4ab39f4561da664c3206c691fc1d7edaab53788c155adffe2a0c89043f3",
+          "bytes": 26622,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "da8b891e6b54fcb867a9dcf15d61befa45e3b08018c3d1cd51e6bdbc40fa9e7a"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-057",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/057",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/057",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016890_00_POWALENTAIYOUNOSUGATA_C_de_DE-1.png",
+        "sha256": "fd18d47481c274881d8d9bde15bbb7aa1212310321570776d570e928b6313034",
+        "bytes": 274677,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:09.978Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Formeo Sonnenform",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/057/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/057/high.webp",
+          "sha256": "28c218fb669ed5c93ec14f7b9dd92f36d8397c40d67ff3c1d2de6f73bc1f60c1",
+          "bytes": 50476,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "c45e49c888d09be93fd7194b4c68e3cf3516354749c28bc386382a0c57bb4701"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/057/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/057/low.webp",
+          "sha256": "0ecf0050a5dedc99d0a22bcb81c3111f8dc989b8cae9dcc7f0ea726ed9f4e426",
+          "bytes": 18638,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "1e5dc802216830ae9eb74cc73be2b3eb6f5d3192e957c9769405bcb288bbd186"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-057",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/057",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/057",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016890_00_POWALENTAIYOUNOSUGATA_C_it_IT-1.png",
+        "sha256": "9c78763c0281566d97291539c243a1ff60f0f17ea5bd021793885cfbc7856c97",
+        "bytes": 273310,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:12.600Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Castform Forma Sole",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/057/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/057/high.webp",
+          "sha256": "88dfe44bc8838b7a43983774dde1adb9501027a02bc705cc04c9c9ca72fa60d5",
+          "bytes": 50682,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "c45e49c888d09be93fd7194b4c68e3cf3516354749c28bc386382a0c57bb4701"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/057/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/057/low.webp",
+          "sha256": "cfeff70471c16bb08ec8984b8904504e66bfdc35a557896326b6d50ad6b8b955",
+          "bytes": 18428,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "1e5dc802216830ae9eb74cc73be2b3eb6f5d3192e957c9769405bcb288bbd186"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-058",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/058",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/058",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018910_00_POKABU_C_de_DE-1.png",
+        "sha256": "28dcab6724595413d473904b62f282e19d3d91d2e24b71d39e985bcf3b3bad08",
+        "bytes": 276796,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:14.202Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Floink",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/058/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/058/high.webp",
+          "sha256": "62b4a9927fda284e5160b04091d791b4a8123b19f325dcdee669a8723cce1791",
+          "bytes": 51304,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "c69124cd116e7373ccef7c47946a4dbf5329600279471a633f222b40f5763b5f"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/058/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/058/low.webp",
+          "sha256": "d6914085fd330a66955c53e6c45a89253c6dda9ed1e07482a66fa99511318f58",
+          "bytes": 18476,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "b641bc7d5d38db6fdcc7af5dc090b0e7dd0fa34085a62e117310c8ccd5003e49"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-058",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/058",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/058",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018910_00_POKABU_C_it_IT-1.png",
+        "sha256": "19177640374f9ae03278e6dcbb9313c3ce7404dc49def2b7877b7da68896306d",
+        "bytes": 275221,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:15.703Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Tepig",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/058/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/058/high.webp",
+          "sha256": "b629cca6b9e2d5e21e0b49e35c729856fe66732d33918724aacaa5eae9b0c17b",
+          "bytes": 50860,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "c69124cd116e7373ccef7c47946a4dbf5329600279471a633f222b40f5763b5f"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/058/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/058/low.webp",
+          "sha256": "324682a655e48342401579429038febd6e04b0a5d9bfd8f71bc2b9967ff91169",
+          "bytes": 18126,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "b641bc7d5d38db6fdcc7af5dc090b0e7dd0fa34085a62e117310c8ccd5003e49"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-059",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/059.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/059",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/059",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018920_00_ISHIZUMAI_C_de_DE-1.png",
+        "sha256": "6e8156af6ab91998108075236b8f766209f6e9a0b4e33120b2d442b78b586f0e",
+        "bytes": 284487,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:17.428Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Lithomith",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/059/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/059/high.webp",
+          "sha256": "bba7b6e9f34c13eecb320e7d6044c08507e4178aa8f858bc1746cd1e175ba302",
+          "bytes": 57150,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "52d2c53b4c5db4625776ab1c97471cdce5467ec5f802b26818f409b54e9fa50d"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/059/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/059/low.webp",
+          "sha256": "6552ab170e8e74c924bbe830d914c84ce790a56936da5c2df8e06772887b49cf",
+          "bytes": 21182,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "4c07059a08c93c368fe72d5d4c2b66571cde35cc36e3cac9380091f77156b56a"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-059",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/059.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/059",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/059",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018920_00_ISHIZUMAI_C_it_IT-1.png",
+        "sha256": "00b3ed17656f24d5e0c4498ea46c7b52f2c3fb3e8e9f0512c0ca527f70810bf5",
+        "bytes": 281720,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:19.327Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Dwebble",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/059/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/059/high.webp",
+          "sha256": "b388bdcbbc0414936a59e8c5b2e780f9e05c9d99ca38cf790b52dbd519d18722",
+          "bytes": 56722,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "52d2c53b4c5db4625776ab1c97471cdce5467ec5f802b26818f409b54e9fa50d"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/059/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/059/low.webp",
+          "sha256": "958e67ac56b950ba52c81df8d94978ac72255c69a46ffbb90c741dc1a256b916",
+          "bytes": 20540,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "4c07059a08c93c368fe72d5d4c2b66571cde35cc36e3cac9380091f77156b56a"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/060",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/060",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_017790_00_ZARUDE_R_de_DE-1.png",
+        "sha256": "f7221fd829c8b079055533e7bd0cf0f1a5b1e07922552d99461c5605685c5091",
+        "bytes": 321181,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:21.005Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Zarude",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/060/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/060/high.webp",
+          "sha256": "c3f095faf08bf3209645229211f6e9dbb19c1e811db2a19a3fa3196241073c5f",
+          "bytes": 68958,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "02f90c43951a477c6b083c87920c527101bec1a7aa3d3a0611be3dbaf5a806de"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/060/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/060/low.webp",
+          "sha256": "13efe3d693e609b76415af4a9651feb032e9eb506c9df85533f95cb4f7541289",
+          "bytes": 24496,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "3da59e0fe848b7712d766eb8c3b23bcc2a5cc93b6384b2267a8fb0cff118e1e1"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-060",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/060",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/060",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_017790_00_ZARUDE_R_it_IT-1.png",
+        "sha256": "5d79a8dac02e514940dccc2c892f36d314658b7d2bdf5cacdac2d88732ead4c4",
+        "bytes": 317176,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:22.975Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Zarude",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/060/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/060/high.webp",
+          "sha256": "6eb7fa78db2809fc073d1b25a5fcab163b618ebfed81c746737ba506d2fd9df2",
+          "bytes": 67958,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "02f90c43951a477c6b083c87920c527101bec1a7aa3d3a0611be3dbaf5a806de"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/060/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/060/low.webp",
+          "sha256": "3ddb54832e5bb2abbf590f6cdd60d78082229b1b9cfca6dd0840571870093177",
+          "bytes": 23878,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "3da59e0fe848b7712d766eb8c3b23bcc2a5cc93b6384b2267a8fb0cff118e1e1"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-061",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/061.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/061",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/061",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016700_00_KIMORI_R_de_DE-1.png",
+        "sha256": "3ad04421af8cd31f24aeb1a1b5266ed2e45fb4855229d7ed04ed63289b852405",
+        "bytes": 291883,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:25.479Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Geckarbor",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/061/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/061/high.webp",
+          "sha256": "768873e7801945f262ba68c48bc304604c0b564e48aeeb2da07cc019af678c44",
+          "bytes": 48464,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "a90a0baafd00111d06543af5e5cf329b40cbe4b23a9337c772458484a063dc7b"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/061/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/061/low.webp",
+          "sha256": "d0cfeb591aac3ec72246bb68bfb82642bee060c42aae01949724626f5712b45e",
+          "bytes": 17102,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "e39dc9673ef720878e925687771c1b6cc2536604067b87a9dc673133f4abbbae"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-061",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/061.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/061",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/061",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_016700_00_KIMORI_R_it_IT-1.png",
+        "sha256": "09a9189fab048b032d1958a517fd31c399546b7abff7ba5967662e255094cf8b",
+        "bytes": 289096,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:27.868Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Treecko",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/061/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/061/high.webp",
+          "sha256": "eddb1326b918a5d91a828611503c2f3116a21d142aea7a43a3574322e65d72f0",
+          "bytes": 46570,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "a90a0baafd00111d06543af5e5cf329b40cbe4b23a9337c772458484a063dc7b"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/061/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/061/low.webp",
+          "sha256": "f632aa4130d152c8fa67b6f5e38f971d0e98cf017a04f4d5b427dedb641c8748",
+          "bytes": 16738,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "e39dc9673ef720878e925687771c1b6cc2536604067b87a9dc673133f4abbbae"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-062",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/062",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/062",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_017490_00_ERUREIDO_R_de_DE-1.png",
+        "sha256": "3f2b3e93bb0313338238516370f8d7a02ba5d6ad929ae17e208346937b1f2c09",
+        "bytes": 318083,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:29.903Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "German",
+          "visibleCardName": "Galagladi",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "de/tcgp/P-B/062/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/062/high.webp",
+          "sha256": "a627a44eff1bacfc0be8519971add6a8e9cc0fd1bb85dfec9083e6782e9dee56",
+          "bytes": 66070,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "31f31f6cf9f87e24657b1582bd9362bbf2e4e88a1ba0108bc6251e1a225e66d3"
+        },
+        {
+          "size": "low",
+          "key": "de/tcgp/P-B/062/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/P-B/062/low.webp",
+          "sha256": "554854cd994f2ae16b2d04dcb3b70c91ccf7ff0620655d16e518e1bdf088fafd",
+          "bytes": 23844,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "e8b2ee05dfc89ec099575f7cf85b2514d6a8d8b731a63c1096271e15e25062d5"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    },
+    {
+      "cardId": "P-B-062",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/062",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/062",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_017490_00_ERUREIDO_R_it_IT-1.png",
+        "sha256": "1ee36c701144ad2885245853daddf1bfbe5dea006d629a93ffe8e720331a2534",
+        "bytes": 315095,
+        "contentType": "image/png",
+        "width": 367,
+        "height": 512,
+        "retrievedAt": "2026-08-09T05:43:31.344Z",
+        "visualLanguageCheck": {
+          "status": "pass",
+          "language": "Italian",
+          "visibleCardName": "Gallade",
+          "localizedRulesTextVisible": true
+        }
+      },
+      "r2Objects": [
+        {
+          "size": "high",
+          "key": "it/tcgp/P-B/062/high.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/062/high.webp",
+          "sha256": "6670e41b70ae3a98c099db42868b3290a3ad7325f5a9c91cf8ffb438f8106674",
+          "bytes": 65530,
+          "width": 367,
+          "height": 512,
+          "previousEnglishFallbackSha256": "31f31f6cf9f87e24657b1582bd9362bbf2e4e88a1ba0108bc6251e1a225e66d3"
+        },
+        {
+          "size": "low",
+          "key": "it/tcgp/P-B/062/low.webp",
+          "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/P-B/062/low.webp",
+          "sha256": "ff255de6eac7caa01741df4164eb769a4d9eb508bbd2142ea05a82926df8fb95",
+          "bytes": 22686,
+          "width": 245,
+          "height": 342,
+          "previousEnglishFallbackSha256": "e8b2ee05dfc89ec099575f7cf85b2514d6a8d8b731a63c1096271e15e25062d5"
+        }
+      ],
+      "replacement": {
+        "reason": "known English fallback replaced by reviewed localized card face",
+        "requiresCdnPurge": true,
+        "publicVerificationAfterPurge": "ok"
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:11:51.099Z",
+        "modes": [
+          "cache-busting",
+          "bare"
+        ],
+        "failures": 0
+      }
+    }
+  ]
+}

@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [501],
     stage: "Basic",
     description: {
-        en: "It's said that Oshawott learned to maintain its scalchop with riverbed stones by mimicking humans it saw using whetstones."
+        en: "It's said that Oshawott learned to maintain its scalchop with riverbed stones by mimicking humans it saw using whetstones.",
+        fr: "On dit que c'est pour imiter les gens utilisant une pierre à aiguiser qu'il a commencé à affûter son « coupillage » sur les rochers le long des rivières.",
+        es: "Se dice que aprendió a cuidar de su cuchilleira utilizando cantos de la orilla del río e imitando a los humanos que usaban piedras de afilar.",
+        it: "Si dice che abbia imparato ad affilare la sua mollusciabola con le pietre del greto dei fiumi osservando gli esseri umani usare una cote.",
+        de: "Angeblich fing es an, seine Muschel mit Steinen aus Flüssen in Stand zu halten, nachdem es sah, wie Menschen Wetzsteine nutzen.",
+        "pt-br": "Dizem que Oshawott aprendeu a afiar sua scalchop com pedras dos rios ao imitar humanos que viu usando pedras de amolar.",
+        "zh-tw": "據說牠是模仿了人類使用\n磨刀石的樣子，於是學得會用\n河灘上的石頭來保養扇貝貝。"
     },
     attacks: [
         {

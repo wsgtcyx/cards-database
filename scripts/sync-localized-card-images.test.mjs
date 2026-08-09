@@ -8,6 +8,7 @@ import {
 	assertDownstreamApplyBaseline,
 	assertExactR2Url,
 	assertMetadataApplyBaseline,
+	assertPokebaseSourceUrl,
 	assertPokeosSourceUrl,
 	assertR2Key,
 	assertSourceUrl,
@@ -47,6 +48,15 @@ test('PokeOS source URL validation binds set, card number, and locale', () => {
 	assert.throws(() => assertPokeosSourceUrl(source, 583, 146, 'de'), /Unexpected PokeOS source URL/)
 	assert.throws(() => assertPokeosSourceUrl(`${source}?token=secret`, 583, 145, 'de'), /Unexpected PokeOS source URL/)
 	assert.throws(() => assertPokeosSourceUrl(source.replace('s3.pokeos.com', 'evil.example'), 583, 145, 'de'), /Unexpected PokeOS source URL/)
+})
+
+test('PokéBase source URL validation binds the exact filename and CDN locale', () => {
+	const filename = 'PokeCardArt_cPK_90_015460_00_PAOJIANex_RR_de_DE-1.png'
+	const source = `https://i.pokebase.app/pokemon-tcg-pocket/${filename}`
+	assert.equal(assertPokebaseSourceUrl(source, 'de_DE', filename), source)
+	assert.throws(() => assertPokebaseSourceUrl(source, 'it_IT', filename), /filename/)
+	assert.throws(() => assertPokebaseSourceUrl(`${source}?download=1`, 'de_DE', filename), /Unexpected PokéBase source URL/)
+	assert.throws(() => assertPokebaseSourceUrl(source.replace('i.pokebase.app', 'evil.example'), 'de_DE', filename), /Unexpected PokéBase source URL/)
 })
 
 test('flibustier members use the release path and map project promo IDs', () => {

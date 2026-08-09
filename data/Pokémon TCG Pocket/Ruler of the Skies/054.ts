@@ -35,7 +35,8 @@ const card: Card = {
         es: "A veces se ve a dos frotándose las bolsas de las mejillas\npara compartir electricidad almacenada.",
         it: "Talvolta due esemplari si sfregano le guance per condividere\nl’elettricità immagazzinata.",
         de: "Um gespeicherte Elektrizität zu teilen, reiben zwei von ihnen\nihre Backentaschen aneinander.",
-        "pt-br": "É possivel ver dois deles esfregando seus bolsões nas bochechas um do outro em um esforço para compartilhar a eletricidade armazenada."
+        "pt-br": "É possivel ver dois deles esfregando seus bolsões nas bochechas um do outro em um esforço para compartilhar a eletricidade armazenada.",
+        "zh-tw": "有時候可以見到\n為了將儲存的電力分給同伴\n而互相摩擦頰囊的帕奇利茲。"
     },
     attacks: [
         {
@@ -44,6 +45,7 @@ const card: Card = {
                 en: "Crackling Snap",
                 fr: "Crépitement Démolissant",
                 es: "Chasquido Chispeante",
+                it: "Crepitio Elettrico",
                 "pt-br": "Estalo Estalante",
                 "zh-tw": "啪滋打亂",
                 "de": "Knisternder Knall"
@@ -52,6 +54,7 @@ const card: Card = {
                 en: "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage.",
                 fr: "Défaussez la carte du dessus de votre deck. Si c'est une carte Objet, cette attaque inflige 20 dégâts supplémentaires.",
                 es: "Descarta la primera carta de tu baraja. Si es una carta de Objeto, este ataque hace 20 puntos de daño más.",
+                de: "Lege die oberste Karte deines Decks ab. Wenn jene Karte ein Item ist, fügt diese Attacke 20 Schadenspunkte mehr zu.",
                 "pt-br": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 20 pontos de dano a mais.",
                 "zh-tw": "將自己的牌庫上方1張卡丟棄,若那張卡為物品卡,則增加20點傷害。",
                 "it": "Scarta la prima carta del tuo mazzo. Se è una carta Strumento, questo attacco infligge 20 danni in più."

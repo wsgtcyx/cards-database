@@ -47,6 +47,7 @@ const card: Card = {
         es: "Es un Pokémon muy inteligente y orgulloso.\nSe tiene en alta estima a aquellos que se\nconvierten en sus Entrenadores.",
         it: "È tanto intelligente quanto orgoglioso.\nDiventare Allenatori di questo Pokémon equivale\na guadagnarsi il rispetto e l’ammirazione di tutti.",
         de: "Es ist schlau, aber auch sehr stolz. Seine Trainer\ngenießen daher generell großen Respekt.",
+        "pt-br": "Esse Pokémon é inteligente e extremamente orgulhoso. Você chamará a atenção das pessoas ao se tornar seu Treinador.",
         "zh-tw": "頭腦聰明，所以自尊心也強。\n如果能成為高傲雉雞的訓練家，\n所有人都會對你刮目相看。"
     },
     attacks: [

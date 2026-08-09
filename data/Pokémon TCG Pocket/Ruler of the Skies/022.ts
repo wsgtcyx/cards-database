@@ -42,7 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.",
-        "es": "Ahueca el pelaje de su cuello para bajar la temperatura de su cuerpo, que puede llegar a 900°C."
+        fr: "Il ébouriffe sa collerette pour baisser sa température corporelle, qui peut avoisiner les 900 °C.",
+        "es": "Ahueca el pelaje de su cuello para bajar la temperatura de su cuerpo, que puede llegar a 900°C.",
+        it: "Arruffa il folto pelo intorno al collo per raffreddare il corpo, che può raggiungere i 900 °C.",
+        de: "Es plustert das Fell um seinen Hals auf, um seine Körpertemperatur zu senken, die bis auf 900 °C steigen kann.",
+        "pt-br": "Eriça os pelos no pescoço para resfriar a temperatura corporal, que pode chegar a 900 °C.",
+        "zh-tw": "會展開頭部蓬鬆的體毛，\n使上升到了900度的\n體溫能夠冷卻下來。"
     },
     attacks: [
         {

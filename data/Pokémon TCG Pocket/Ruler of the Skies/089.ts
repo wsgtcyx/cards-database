@@ -41,7 +41,13 @@ const card: Card = {
     },
     stage: "Stage2",
     description: {
-        en: "Rather than rely on their strength, they master moves that make good use of centrifugal force to swing around concrete."
+        en: "Rather than rely on their strength, they master moves that make good use of centrifugal force to swing around concrete.",
+        fr: "Au lieu de se reposer sur sa musculature, il tire parti de la force centrifuge et attaque ses ennemis en faisant tournoyer ses piliers de béton.",
+        es: "En vez de depender de su propia fuerza, sus movimientos hacen perfecto uso de la fuerza centrífuga para blandir pilares de hormigón.",
+        it: "Utilizza con maestria mosse con cui fa roteare pilastri di cemento, sfruttando a dovere la forza centrifuga più che i propri muscoli.",
+        de: "Anstatt sich auf seine Stärke zu verlassen, setzt es Attacken ein, bei denen es seine Betonpfeiler mithilfe der Zentrifugalkraft umherschwingt.",
+        "pt-br": "Em vez de depender da força física, dominam movimentos que fazem bom uso da força centrífuga para girar concreto.",
+        "zh-tw": "能夠不憑蠻力，\n而是巧妙利用離心力\n來揮舞水泥柱使出招式。"
     },
     attacks: [
         {

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T07:13:13.556Z",
+  "auditSha256": "77447b5bb4c2c6d4ed079b527a8665d656672f63554f7d4bc35cb03fb330fa9f",
+  "manifestSha256": "b756801f88869f8d2a9970419354d8865d127ee49d359fd0692e9b3311515dac",
+  "preflightSha256": "7f06cb1d85a3b25c50e2f384d78de31fe509b34d8b53e980094e5ca0d6d19195",
+  "selection": [
+    "P-B-079",
+    "P-B-080",
+    "P-B-082",
+    "P-B-083",
+    "P-B-084",
+    "P-B-085",
+    "P-B-086"
+  ],
+  "objects": 56,
+  "downstreamOnlyObjects": 0,
+  "downstreamOnlyChecks": [],
+  "failures": [],
+  "status": "ok",
+  "artifactSha256": "23a687d6168a2ae3ea765ea6935e9edbb954ff7c40cbea023b6784c710d5123f"
+}

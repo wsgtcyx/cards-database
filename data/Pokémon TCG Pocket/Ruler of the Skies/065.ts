@@ -42,7 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
-        "de": "Es besitzt ein exzellentes Hörvermögen. Darum kann es eine Nadel fallen hören, selbst wenn sie 1 km entfernt ist."
+        fr: "Ce Pokémon possède une ouïe très développée. Il peut facilement entendre une épingle tomber à 1 km de distance.",
+        es: "Tiene un agudísimo sentido del oído. Es capaz de oír la caída de una aguja a 1 km de distancia.",
+        it: "Dotato di un udito particolarmente sviluppato, è in grado di sentir cadere uno spillo a un chilometro di distanza.",
+        "de": "Es besitzt ein exzellentes Hörvermögen. Darum kann es eine Nadel fallen hören, selbst wenn sie 1 km entfernt ist.",
+        "pt-br": "Sua audição é extremamente aguçada. Pode facilmente escutar um alfinete caindo a quase 1.000 metros de distância.",
+        "zh-tw": "聽覺靈敏，連1公里以外\n針落地的聲音都能夠\n分辨得一清二楚。"
     },
     attacks: [
         {

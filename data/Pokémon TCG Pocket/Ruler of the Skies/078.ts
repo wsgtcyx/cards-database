@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [741],
     stage: "Basic",
     description: {
-        en: "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea."
+        en: "The elegant, attractive dance of these Oricorio is popular with adults, but the Oricorio themselves are hard to find in Paldea.",
+        fr: "Ils doivent leur popularité à leur danse raffinée, qui plaît particulièrement aux adultes. Toutefois, on en trouve rarement à Paldea.",
+        es: "A pesar de lo popular que es su seductora y elegante danza entre la población adulta, este Pokémon no es muy común en Paldea.",
+        it: "A Paldea non si vede quasi mai. La sua danza affascinante e raffinata ha un grande successo tra gli adulti.",
+        de: "Sein faszinierender, eleganter Tanzstil macht dieses Pokémon zwar bei Erwachsenen beliebt, doch in Paldea trifft man es kaum an.",
+        "pt-br": "A dança elegante e atraente destes Oricorio é popular entre os adultos, mas estes Pokémon são raramente encontrados em Paldea.",
+        "zh-tw": "這個風格的舞蹈豔麗高雅，\n相當受到大人的歡迎，\n但在帕底亞卻很少見。"
     },
     attacks: [
         {
@@ -40,6 +46,8 @@ const card: Card = {
                 en: "Supernatural Feather",
                 fr: "Plume Surnaturelle",
                 es: "Pluma Sobrenatural",
+                it: "Piume Soprannaturali",
+                de: "Übernatürliche Feder",
                 "pt-br": "Pena Sobrenatural",
                 "zh-tw": "妖異羽毛"
             },

@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests."
+        en: "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
+        fr: "Lorsqu'ils entendent ses hurlements sinistres, les autres Pokémon prennent peur et fuient vers leur nid.",
+        es: "Al oír sus siniestros aullidos, los otros Pokémon se estremecen y huyen a sus nidos.",
+        it: "I suoi terrificanti latrati fanno tremare gli altri Pokémon, che si precipitano così nelle proprie tane.",
+        de: "Wenn andere Pokémon sein gruseliges Geheul hören, erschaudern sie und eilen Hals über Kopf zurück in ihren Unterschlupf.",
+        "pt-br": "Quando ouvem seus uivos misteriosos, outros Pokémon ficam assustados e voltam imediatamente para seus ninhos.",
+        "zh-tw": "聽見牠恐怖長嚎的\n寶可夢會渾身發抖，\n一溜煙地回到自己的巢裡。"
     },
     attacks: [
         {

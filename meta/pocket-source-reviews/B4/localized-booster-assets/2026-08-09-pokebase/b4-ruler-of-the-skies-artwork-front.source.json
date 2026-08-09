@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:18:46.861Z",
+  "summary": {
+    "qualifiedNeutralSourceItems": 6,
+    "distinctSourceBinaries": 1,
+    "unresolvedArtworkLocales": 0
+  },
+  "rights": {
+    "openLicenseFound": false,
+    "assessment": "No PokéBase content/image reuse license was found. Underlying game/Pokémon artwork remains proprietary. Use only under the user-authorized, attributed direct-mirror policy; attribute PokéBase and exact page/CDN URL.",
+    "stability": "Public CDN URL is not commit-pinned; pin the captured SHA256 at ingestion and fail on drift."
+  },
+  "items": [
+    {
+      "kind": "booster-artwork-front-source",
+      "set": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "sourceFilename": "PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "httpStatus": 200,
+      "mime": "image/png",
+      "bytes": 67074,
+      "width": 256,
+      "height": 256,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "sourcePage": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRevalidatedAt": "2026-08-09T06:16:50Z",
+      "responseLastModified": "2026-08-09T05:48:36Z",
+      "visualCheck": {
+        "status": "pass",
+        "classification": "official-game pack icon on transparent square canvas",
+        "languageBearingTextVisible": false,
+        "englishFallback": false,
+        "localizedLogoBakedIn": false
+      },
+      "processing": {
+        "requiredForProjectArtworkFrontShape": true,
+        "operation": "crop",
+        "crop": {
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        },
+        "rationale": "Same deterministic game PackIcon body extraction class used by prior pack assets: alpha bbox is 144x248+64+7; crop left=max(0,bboxRight(208)-160)=48.",
+        "derivedWidth": 160,
+        "derivedHeight": 256,
+        "derivedPngSha256": "8aafa2e6b3dde042710b7388e134a801c4cb50d813642f951a796f764699b03e"
+      },
+      "locale": "fr"
+    },
+    {
+      "kind": "booster-artwork-front-source",
+      "set": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "sourceFilename": "PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "httpStatus": 200,
+      "mime": "image/png",
+      "bytes": 67074,
+      "width": 256,
+      "height": 256,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "sourcePage": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRevalidatedAt": "2026-08-09T06:16:50Z",
+      "responseLastModified": "2026-08-09T05:48:36Z",
+      "visualCheck": {
+        "status": "pass",
+        "classification": "official-game pack icon on transparent square canvas",
+        "languageBearingTextVisible": false,
+        "englishFallback": false,
+        "localizedLogoBakedIn": false
+      },
+      "processing": {
+        "requiredForProjectArtworkFrontShape": true,
+        "operation": "crop",
+        "crop": {
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        },
+        "rationale": "Same deterministic game PackIcon body extraction class used by prior pack assets: alpha bbox is 144x248+64+7; crop left=max(0,bboxRight(208)-160)=48.",
+        "derivedWidth": 160,
+        "derivedHeight": 256,
+        "derivedPngSha256": "8aafa2e6b3dde042710b7388e134a801c4cb50d813642f951a796f764699b03e"
+      },
+      "locale": "es"
+    },
+    {
+      "kind": "booster-artwork-front-source",
+      "set": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "sourceFilename": "PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "httpStatus": 200,
+      "mime": "image/png",
+      "bytes": 67074,
+      "width": 256,
+      "height": 256,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "sourcePage": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRevalidatedAt": "2026-08-09T06:16:50Z",
+      "responseLastModified": "2026-08-09T05:48:36Z",
+      "visualCheck": {
+        "status": "pass",
+        "classification": "official-game pack icon on transparent square canvas",
+        "languageBearingTextVisible": false,
+        "englishFallback": false,
+        "localizedLogoBakedIn": false
+      },
+      "processing": {
+        "requiredForProjectArtworkFrontShape": true,
+        "operation": "crop",
+        "crop": {
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        },
+        "rationale": "Same deterministic game PackIcon body extraction class used by prior pack assets: alpha bbox is 144x248+64+7; crop left=max(0,bboxRight(208)-160)=48.",
+        "derivedWidth": 160,
+        "derivedHeight": 256,
+        "derivedPngSha256": "8aafa2e6b3dde042710b7388e134a801c4cb50d813642f951a796f764699b03e"
+      },
+      "locale": "it"
+    },
+    {
+      "kind": "booster-artwork-front-source",
+      "set": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "sourceFilename": "PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "httpStatus": 200,
+      "mime": "image/png",
+      "bytes": 67074,
+      "width": 256,
+      "height": 256,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "sourcePage": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRevalidatedAt": "2026-08-09T06:16:50Z",
+      "responseLastModified": "2026-08-09T05:48:36Z",
+      "visualCheck": {
+        "status": "pass",
+        "classification": "official-game pack icon on transparent square canvas",
+        "languageBearingTextVisible": false,
+        "englishFallback": false,
+        "localizedLogoBakedIn": false
+      },
+      "processing": {
+        "requiredForProjectArtworkFrontShape": true,
+        "operation": "crop",
+        "crop": {
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        },
+        "rationale": "Same deterministic game PackIcon body extraction class used by prior pack assets: alpha bbox is 144x248+64+7; crop left=max(0,bboxRight(208)-160)=48.",
+        "derivedWidth": 160,
+        "derivedHeight": 256,
+        "derivedPngSha256": "8aafa2e6b3dde042710b7388e134a801c4cb50d813642f951a796f764699b03e"
+      },
+      "locale": "de"
+    },
+    {
+      "kind": "booster-artwork-front-source",
+      "set": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "sourceFilename": "PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "httpStatus": 200,
+      "mime": "image/png",
+      "bytes": 67074,
+      "width": 256,
+      "height": 256,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "sourcePage": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRevalidatedAt": "2026-08-09T06:16:50Z",
+      "responseLastModified": "2026-08-09T05:48:36Z",
+      "visualCheck": {
+        "status": "pass",
+        "classification": "official-game pack icon on transparent square canvas",
+        "languageBearingTextVisible": false,
+        "englishFallback": false,
+        "localizedLogoBakedIn": false
+      },
+      "processing": {
+        "requiredForProjectArtworkFrontShape": true,
+        "operation": "crop",
+        "crop": {
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        },
+        "rationale": "Same deterministic game PackIcon body extraction class used by prior pack assets: alpha bbox is 144x248+64+7; crop left=max(0,bboxRight(208)-160)=48.",
+        "derivedWidth": 160,
+        "derivedHeight": 256,
+        "derivedPngSha256": "8aafa2e6b3dde042710b7388e134a801c4cb50d813642f951a796f764699b03e"
+      },
+      "locale": "pt-br"
+    },
+    {
+      "kind": "booster-artwork-front-source",
+      "set": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "sourceFilename": "PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+      "httpStatus": 200,
+      "mime": "image/png",
+      "bytes": 67074,
+      "width": 256,
+      "height": 256,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+      "sourcePage": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRevalidatedAt": "2026-08-09T06:16:50Z",
+      "responseLastModified": "2026-08-09T05:48:36Z",
+      "visualCheck": {
+        "status": "pass",
+        "classification": "official-game pack icon on transparent square canvas",
+        "languageBearingTextVisible": false,
+        "englishFallback": false,
+        "localizedLogoBakedIn": false
+      },
+      "processing": {
+        "requiredForProjectArtworkFrontShape": true,
+        "operation": "crop",
+        "crop": {
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        },
+        "rationale": "Same deterministic game PackIcon body extraction class used by prior pack assets: alpha bbox is 144x248+64+7; crop left=max(0,bboxRight(208)-160)=48.",
+        "derivedWidth": 160,
+        "derivedHeight": 256,
+        "derivedPngSha256": "8aafa2e6b3dde042710b7388e134a801c4cb50d813642f951a796f764699b03e"
+      },
+      "locale": "zh-tw"
+    }
+  ]
+}

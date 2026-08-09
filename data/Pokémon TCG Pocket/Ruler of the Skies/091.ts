@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [88],
     stage: "Basic",
     description: {
-        en: "When two of these Pokémon's bodies are combined together, new poisons are created."
+        en: "When two of these Pokémon's bodies are combined together, new poisons are created.",
+        fr: "Quand les corps de deux Tadmorv se combinent, de nouveaux poisons sont créés.",
+        es: "Cuando se une a otro compañero de su especie, se generan nuevos tipos de sustancia venenosa.",
+        it: "Quando due esemplari combinano i propri corpi, creano nuovi tipi di veleno.",
+        de: "Wenn die Körper von zwei Sleima miteinander kombiniert werden, so entstehen völlig neue Arten von Gift.",
+        "pt-br": "Quando dois corpos deste Pokémon se unem, novos venenos são criados.",
+        "zh-tw": "當臭泥彼此黏在一起，\n身體就會互相融合，\n進而產生新種毒素。"
     },
     attacks: [
         {

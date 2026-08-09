@@ -42,9 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.",
+        fr: "La fourrure qui recouvre ce Pokémon est incombustible et peut résister à n'importe quelle attaque de feu.",
         "es": "El pelaje de este Pokémon es ignifugo. Puede soportar cualquier ataque con fuego.",
         "it": "La pelliccia che ricopre il suo corpo è completamente ignifuga. Può resistere a qualsiasi attacco di fuoco.",
-        "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. E capaz de resistir a qualquer ataque de fogo."
+        de: "Das Fell dieses Pokémon ist nicht entflammbar, Feuer-Angriffe jeglicher Art machen ihm nichts aus.",
+        "pt-br": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. E capaz de resistir a qualquer ataque de fogo.",
+        "zh-tw": "一身的毛皮絕不會被點燃，\n遭受任何火焰攻擊\n都能安然無恙。"
     },
     attacks: [
         {

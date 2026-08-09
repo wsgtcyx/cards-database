@@ -36,6 +36,7 @@ const card: Card = {
         es: "Es capaz de generar electricidad a partir de la\nluz del sol. Si lo interrumpen en pleno proceso,\nse pone nervioso y pierde las fuerzas.",
         it: "Possiede un organo con cui genera energia\nelettrica fotovoltaica. Se viene disturbato mentre\nla produce, si stressa e si indebolisce.",
         de: "Es kann aus Sonnenlicht Elektrizität erzeugen.\nUnterbricht man es jedoch bei diesem Prozess,\nverliert es vor lauter Stress all seine Kraft.",
+        "pt-br": "A eletricidade deste Pokémon é gerada através da luz solar. Se este processo for interrompido, Helioptile se estressará tanto que ficará enfraquecido.",
         "zh-tw": "擁有太陽能發電的結構。\n如果有人打擾牠發電，\n牠就會因心理壓力而衰弱。"
     },
     attacks: [

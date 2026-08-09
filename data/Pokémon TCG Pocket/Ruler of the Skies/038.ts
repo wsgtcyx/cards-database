@@ -36,6 +36,7 @@ const card: Card = {
         es: "Flota entre las olas para examinar el océano.\nSi encuentra una presa, avisa enseguida a los\nWalrein de su manada.",
         it: "Fluttua tra le onde ispezionando il mare.\nQuando individua una preda, avverte i Walrein\ndel suo gruppo.",
         de: "Seemops lässt sich von den Wellen treiben, um\ndas Meer zu erkunden. Entdeckt es Beute, setzt\nes die Walraisa seiner Herde davon in Kenntnis.",
+        "pt-br": "Enquanto flutua entre as ondas, Spheal explora o mar. Assim que avista uma presa, avisa Walrein.",
         "zh-tw": "會漂浮在波浪間探查\n周圍的狀況。一旦發現獵物，\n就會通知群體的帝牙海獅。"
     },
     attacks: [

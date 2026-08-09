@@ -35,6 +35,7 @@ const card: Card = {
         es: "Vive flotando a la deriva en mar abierto. Muchos\nPokémon de tipo Agua se arremolinan a su\nalrededor.",
         it: "Vive in mare aperto, lasciandosi trasportare\ndalle onde. Attorno gli si radunano molti\nPokémon di tipo Acqua.",
         de: "Es treibt durch den Ozean. Um Mamolida\nversammeln sich stets viele Wasser-Pokémon.",
+        "pt-br": "Estes Pokémon flutuam em mar aberto. Muitos Pokémon aquáticos se reúnem ao redor de Alomomola.",
         "zh-tw": "漂浮在汪洋大海上生活。\n保母曼波的周圍\n會聚集起許多水屬性寶可夢。"
     },
     attacks: [

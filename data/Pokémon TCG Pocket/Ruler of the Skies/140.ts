@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [580],
     stage: "Basic",
     description: {
-        en: "It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat."
+        en: "It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.",
+        fr: "Ce Pokémon muscle son corps en nageant dans les profondeurs des lacs. Il y recherche des sphaignes pour se nourrir.",
+        es: "Fortalece su musculatura buceando por el lecho de los lagos en busca del musgo acuático del que se alimenta.",
+        it: "Allena la muscolatura nuotando nelle profondità degli specchi d'acqua in cerca di muschi acquatici con cui nutrirsi.",
+        de: "Auf der Suche nach Torfmoos, seiner Nahrung, schwimmt es tief unten in Teichen umher und stählt so seinen Körper.",
+        "pt-br": "Fortalece o seu corpo ao mergulhar nas profundezas de lagoas, nadando enquanto procura musgo para comer.",
+        "zh-tw": "會在池塘水深的地方\n四處游動找水苔來吃，\n順便鍛鍊身體。"
     },
     attacks: [
         {

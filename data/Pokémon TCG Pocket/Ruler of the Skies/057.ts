@@ -46,7 +46,9 @@ const card: Card = {
         fr: "Un Pokémon doté d’un gros appétit. Il paralyse ses proies\navec des décharges électriques avant de les manger.",
         es: "Pokémon de apetito voraz. En cuanto encuentra una presa, la\nparaliza con electricidad y la engulle.",
         it: "Pokémon dal grande appetito. Quando attacca, immobilizza\nil nemico paralizzandolo con l’elettricità.",
-        de: "Hat es seine Beute erspäht, lähmt es sie mit Elektrizität und\nverspeist sie anschließend."
+        de: "Hat es seine Beute erspäht, lähmt es sie mit Elektrizität und\nverspeist sie anschließend.",
+        "pt-br": "Esses Pokémon possuem um enorme apetite. Ao avistarem suas presas, eles atacam e usam eletricidade para paralisá-las.",
+        "zh-tw": "食慾旺盛的寶可夢。\n一發現獵物就會發動襲擊，\n用電流使其麻痺後大快朵頤。"
     },
     attacks: [
         {

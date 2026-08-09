@@ -31,8 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+        fr: "On pourrait le prendre pour une forme régionale de Théffroi, mais des recherches ont récemment démontré l'absence de lien entre ces Pokémon.",
+        es: "Si bien parece una forma regional de Sinistea, recientemente se ha demostrado que ambos Pokémon no guardan ninguna relación entre sí.",
         "it": "Può sembrare una forma regionale di Sinistea, ma di recente si è scoperto che non c'è alcuna relazione fra questi due Pokémon.",
-        "de": "Es sieht aus wie eine Regionalform von Fatalitee. doch vor Kurzem fand man heraus, dass zwischen den beiden Pokémon keine Verbindung besteht."
+        "de": "Es sieht aus wie eine Regionalform von Fatalitee. doch vor Kurzem fand man heraus, dass zwischen den beiden Pokémon keine Verbindung besteht.",
+        "pt-br": "Poltchageist parece ser uma forma regional de Sinistea. Porém, descobertas recentes apontam que esses dois Pokémon não têm relação um com o outro.",
+        "zh-tw": "雖然這種寶可夢看起來像是\n來悲茶的地區形態，但最近\n被發現其實兩者毫無關係。"
     },
     abilities: [
         {
@@ -50,6 +54,8 @@ const card: Card = {
                 en: "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may heal 20 damage from your Active {G} Pokémon.",
                 fr: "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main sur votre Banc, vous pouvez soigner 20 dégâts de votre Pokémon {G} Actif.",
                 es: "Una vez durante tu turno, cuando juegas este Pokémon de tu mano a tu Banca, puedes curar 20 puntos de daño a tu Pokémon {G} Activo.",
+                it: "Una sola volta durante il tuo turno, quando giochi questo Pokémon dalla tua mano e lo metti in panchina, puoi curare il tuo Pokémon {G} attivo da 20 danni.",
+                de: "Einmal während deines Zuges, wenn du dieses Pokémon aus deiner Hand auf deine Bank spielst, kannst du 20 Schadenspunkte bei deinem Aktiven {G}-Pokémon heilen.",
                 "pt-br": "Uma vez durante o seu turno, quando você colocar este Pokémon da sua mão no seu Banco, você poderá curar 20 pontos de dano do seu Pokémon {G} Ativo.",
                 "zh-tw": "在自己的回合,當從手牌將這張卡放置於備戰區時,可使用1次。將自己的戰鬥場的{G}寶可夢恢復20HP。"
             }

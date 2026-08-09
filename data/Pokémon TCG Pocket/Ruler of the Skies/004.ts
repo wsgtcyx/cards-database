@@ -45,7 +45,9 @@ const card: Card = {
         fr: "Rancunier, il n’oublie aucune des attaques subies\ndans le cocon et se venge une fois qu’il a évolué.",
         es: "Jamás olvida a quienes lo atacaron mientras estaba\nen su capullo. Cuando evoluciona, busca venganza.",
         it: "Non dimentica mai gli attacchi subiti dentro il bozzolo.\nDopo l’evoluzione cerca di vendicarsi.",
-        de: "Es vergisst keinen Angriff, den es im Kokon erdulden\nmusste. Nach der Entwicklung sinnt es auf Rache."
+        de: "Es vergisst keinen Angriff, den es im Kokon erdulden\nmusste. Nach der Entwicklung sinnt es auf Rache.",
+        "pt-br": "Ele nunca se esquece dos ataques sofridos enquanto estava no casulo. Após evoluir, ele procura vingança.",
+        "zh-tw": "就算進化了也不會忘記\n待在繭中時受到的攻擊。\n一定會設法進行報復。"
     },
     attacks: [
         {

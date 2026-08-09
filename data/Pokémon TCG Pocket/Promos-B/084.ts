@@ -4,7 +4,13 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/084"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/084",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/084",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/084",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/084",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/084",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/084",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/084"
     },
     name: { en: "Skitty", fr: "Skitty", es: "Skitty", it: "Skitty", de: "Eneco", "pt-br": "Skitty", "zh-tw": "向尾喵", ko: "에나비", ja: "エネコ" },
     illustrator: "Atsuko Nishida",

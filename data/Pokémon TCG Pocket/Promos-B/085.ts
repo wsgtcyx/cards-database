@@ -4,7 +4,13 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/085"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/085",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/085",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/085",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/085",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/085",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/085",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/085"
     },
     name: { en: "Pachirisu", fr: "Pachirisu", es: "Pachirisu", it: "Pachirisu", de: "Pachirisu", "pt-br": "Pachirisu", "zh-tw": "帕奇利茲", ko: "파치리스", ja: "パチリス" },
     illustrator: "Atsuko Nishida",

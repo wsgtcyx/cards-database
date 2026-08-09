@@ -42,8 +42,12 @@ const card: Card = {
     stage: "Stage2",
     description: {
         en: "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+        fr: "Ces « Vérochi » capricieux vivent sous le même « toit ». En de rares occasions, ils parviennent à s'entendre et libèrent tout leur potentiel.",
         "es": "Unos Viborappli caprichosos que comparten morada. En raras ocasiones se ponen de acuerdo y son capaces de mostrar su verdadera fuerza.",
-        "it": "Un gruppo di Appliserpi capricciose che occupa un unica dimora. Nelle rare occasioni in cui si trovano d'accordo, sfoderano la loro vera forza."
+        "it": "Un gruppo di Appliserpi capricciose che occupa un unica dimora. Nelle rare occasioni in cui si trovano d'accordo, sfoderano la loro vera forza.",
+        de: "Es entfaltet seine wahre Stärke, wenn sich die zusammenlebende launische Gruppe sogenannter „Schlangel“ ausnahmsweise mal einig ist.",
+        "pt-br": "Essas serpentes temperamentais se uniram. Nas raras ocasiões em que seus humores se alinham, seu verdadeiro poder é liberado.",
+        "zh-tw": "由善變的蛇蟲蟲們聚集同住\n在一起，偶爾心靈相通時，\n就會發揮出真正的力量。"
     },
     attacks: [
         {
@@ -61,6 +65,7 @@ const card: Card = {
                 en: "Flip 2 coins. If all of them are heads, this attack does 100 more damage.",
                 fr: "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 100 dégâts de plus.",
                 es: "Lanza 2 monedas. Si en todas sale cara, este ataque hace 100 puntos de daño más.",
+                it: "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 100 danni in più.",
                 "pt-br": "Jogue 2 moedas. Se todas elas saírem cara, este ataque causará 100 pontos de dano a mais.",
                 "zh-tw": "擲2次硬幣,若全部為正面,則增加100點傷害。",
                 "de": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu."

@@ -30,6 +30,8 @@ const card: Card = {
         en: "At the end of each player's turn, that player heals 20 damage from each of their Pokémon that has any {W} Energy attached.",
         fr: "À la fin du tour de chaque joueur, ce joueur soigne 20 dégâts de chacun de ses Pokémon auquel de l'Énergie {W} est attachée.",
         es: "Al final del turno de cada jugador, ese jugador cura 20 puntos de daño a cada uno de sus Pokémon que tenga alguna Energía {W} unida a él.",
+        it: "Alla fine del turno di ciascun giocatore, quel giocatore cura ciascuno dei suoi Pokémon che abbia delle Energie {W} assegnate da 20 danni.",
+        de: "Am Ende des Zuges jedes Spielers heilt jener Spieler 20 Schadenspunkte bei jedem seiner Pokémon, an das mindestens 1 {W}-Energie angelegt ist.",
         "pt-br": "No final do turno de cada jogador, aquele jogador curará 20 pontos de dano de cada um dos seus próprios Pokémon que tiver alguma Energia {W} ligadas a ele.",
         "zh-tw": "雙方玩家在自己的回合結束時,將自己的所有身上附有{W}能量的寶可夢恢復20HP。"
     },

@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [383],
     stage: "Basic",
     description: {
-        en: "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE."
+        en: "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
+        fr: "Ce Pokémon légendaire incarne la terre. Il plongea dans un profond sommeil après son combat avec Kyogre.",
+        es: "Dicen que este Pokémon legendario simboliza la tierra. Tras batirse en duelo con Kyogre se echó a dormir.",
+        it: "Pokémon leggendario che rappresenta la terra. Dopo aver sfidato Kyogre, è caduto in un sonno profondo.",
+        de: "Dieses Legendäre Pokémon soll das Land verkörpern. Es ist in einen Schlaf gefallen, nachdem es mit Kyogre gekämpft hat.",
+        "pt-br": "Acredita-se que este Pokémon lendário represente a terra. Adormeceu após enfrentar Kyogre.",
+        "zh-tw": "與蓋歐卡殊死戰鬥後，\n便一直沉睡著。\n被稱為大地化身的傳說的寶可夢。"
     },
     attacks: [
         {

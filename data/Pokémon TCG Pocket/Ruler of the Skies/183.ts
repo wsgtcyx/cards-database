@@ -47,6 +47,7 @@ const card: Card = {
                 en: "Wondrous Waves",
                 fr: "Éclaboussure Miracle",
                 es: "Olas Milagrosas",
+                de: "Wunderwellen",
                 "pt-br": "Ondas Encantadas",
                 "zh-tw": "奇跡鯨濤",
                 "it": "Onde Prodigiose"
@@ -55,6 +56,7 @@ const card: Card = {
                 en: "This Pokémon recovers from all Special Conditions.",
                 fr: "Ce Pokémon guérit de tous les États Spéciaux.",
                 es: "Este Pokémon se recupera de todas las Condiciones Especiales.",
+                de: "Dieses Pokémon erholt sich von allen Speziellen Zuständen.",
                 "pt-br": "Este Pokémon se recupera de todas as Condições Especiais.",
                 "zh-tw": "將這隻寶可夢的特殊狀態全部恢復。",
                 "it": "Questo Pokémon guarisce da tutte le condizioni speciali."

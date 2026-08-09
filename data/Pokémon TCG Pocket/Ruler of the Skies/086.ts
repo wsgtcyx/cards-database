@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction."
+        en: "Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction.",
+        fr: "Suite à son évolution, ses forets sont désormais en acier et lui permettent de transpercer les plaques de fer. Il aide souvent à la construction de tunnels.",
+        es: "Su taladro se ha vuelto de acero tras evolucionar y es capaz de atravesar planchas metálicas. Es de gran ayuda en la construcción de túneles.",
+        it: "La trivella si è evoluta diventando d'acciaio e può perforare una lastra di ferro. È molto utile per scavare tunnel.",
+        de: "Seine zu Stahl weiterentwickelten Bohrer sind kräftig genug, um Eisenplatten zu durchbohren. Beim Tunnelbau ist es sehr hilfreich.",
+        "pt-br": "Sua broca evoluiu para aço e é forte o suficiente para perfurar placas de ferro. Este Pokémon é muito útil em construções de túneis.",
+        "zh-tw": "進化為鋼的鑽頭有著\n能穿透鐵板的破壞力。\n在隧道工程裡可幫上大忙。"
     },
     attacks: [
         {

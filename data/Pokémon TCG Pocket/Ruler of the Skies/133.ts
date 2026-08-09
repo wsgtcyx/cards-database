@@ -43,7 +43,11 @@ const card: Card = {
     description: {
         en: "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
         "fr": "Ses queues jumelles sont si agiles et si efficaces que Capidextre ne se sert que très rarement de ses bras.",
-        "de": "Sein Schweif hat sich in zwei gespalten. Es kann so geschickt mit diesen Schweifen umgehen, dass es seine Hände nur noch selten gebraucht."
+        es: "Tiene dos colas muy útiles y hábiles para manejar cosas, así que rara vez utiliza las manos.",
+        it: "Con le sue due agili code riesce a fare di tutto, perciò usa le mani solo raramente.",
+        "de": "Sein Schweif hat sich in zwei gespalten. Es kann so geschickt mit diesen Schweifen umgehen, dass es seine Hände nur noch selten gebraucht.",
+        "pt-br": "Divididas em duas, as caudas estão tão acostumadas a manipular e fazer coisas que Ambipom raramente usa as mãos.",
+        "zh-tw": "分叉成2根的尾巴非常靈活，\n能夠完成各式各樣的事情，\n因此變得幾乎不使用雙手了。"
     },
     attacks: [
         {

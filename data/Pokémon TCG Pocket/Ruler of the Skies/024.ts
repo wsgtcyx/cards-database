@@ -31,7 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.",
-        "fr": "Les flammes qui émanent de son dos atteignent leur pic d'intensité lorsqu'il est en colère. Elles lui permettent ainsi d'intimider ses adversaires."
+        "fr": "Les flammes qui émanent de son dos atteignent leur pic d'intensité lorsqu'il est en colère. Elles lui permettent ainsi d'intimider ses adversaires.",
+        es: "Cuando se enfada, las llamas que emite por el lomo arden con más vigor que nunca, lo cual intimida a sus rivales.",
+        it: "Quando è adirato, le fiamme sul dorso raggiungono la massima intensità e intimoriscono i nemici.",
+        de: "Die Flammen auf seinem Rücken lodern am stärksten, wenn es zornig ist. Dadurch schüchtert es seine Feinde ein.",
+        "pt-br": "O fogo que sai de suas costas queima mais forte quando este Pokémon está com raiva. As chamas intimidam os inimigos.",
+        "zh-tw": "從背上噴出的火焰會在\n生氣時燃燒得最強烈，\n令敵手大吃一驚。"
     },
     attacks: [
         {

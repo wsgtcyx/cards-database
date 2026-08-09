@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move."
+        en: "It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.",
+        fr: "En terrain boueux, il peut exprimer son plein potentiel et dominer rapidement les adversaires embourbés qui peinent à se mouvoir.",
+        es: "Está en su salsa en terrenos lodosos, donde aprovecha la reducida movilidad de sus rivales para someterlos en un abrir y cerrar de ojos.",
+        it: "Dà il meglio di sé nei terreni fangosi, dove approfitta della mobilità ridotta degli avversari per sopraffarli in un attimo.",
+        de: "Auf instabilem, schlammigem Untergrund kann es sein wahres Potenzial entfalten. Feststeckende Gegner überwältigt es im Handumdrehen.",
+        "pt-br": "Prefere terrenos lamacentos e escorregadios. Atordoa os oponentes presos na lama, incapazes de se mover.",
+        "zh-tw": "在泥濘的地上更能發揮\n真本事，會把無法動彈的\n對手一口氣逼入絕境。"
     },
     attacks: [
         {

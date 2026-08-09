@@ -42,7 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "By gathering their tails together, they collectively generate powerful electricity from their claws.",
-        "fr": "Lorsqu'ils joignent leurs queues, leurs griffes peuvent libérer des décharges électriques encore plus fortes"
+        "fr": "Lorsqu'ils joignent leurs queues, leurs griffes peuvent libérer des décharges électriques encore plus fortes",
+        es: "Al unir su cola con la de otro Luxio, pueden emitir descargas eléctricas por las garras con una potencia mayor de lo habitual.",
+        it: "Se due Luxio collegano le code, riescono a emettere dagli artigli una scarica elettrica ancora più vigorosa.",
+        de: "Verbindet es seinen Schweif mit dem eines Artgenossen, können seine Krallen noch heftigere Stromstöße austeilen.",
+        "pt-br": "Quando aproximam suas caudas, geram coletivamente uma eletricidade poderosa de suas garras.",
+        "zh-tw": "只要與夥伴的尾巴互相\n串聯，就能將更加強大\n的電擊從爪子釋放出去。"
     },
     attacks: [
         {

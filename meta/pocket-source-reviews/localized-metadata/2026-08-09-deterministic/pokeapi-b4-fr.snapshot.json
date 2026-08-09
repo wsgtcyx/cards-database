@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "pokeapi-b4-fr-flavor-exact-match",
+  "retrievedAt": "2026-08-09T03:53:01Z",
+  "repository": "https://github.com/PokeAPI/pokeapi",
+  "commit": "dbef1b8570119d49b06943bc8ba6f0288d5872d5",
+  "license": {
+    "identifier": "BSD-3-Clause",
+    "url": "https://github.com/PokeAPI/pokeapi/blob/dbef1b8570119d49b06943bc8ba6f0288d5872d5/LICENSE.md",
+    "rawSha256": "1c04595dc662981c20956ae4251dfa7b62b475c345eddf98bc9b904cb2373f2c"
+  },
+  "sourceFiles": {
+    "flavorText": {
+      "path": "data/v2/csv/pokemon_species_flavor_text.csv",
+      "url": "https://raw.githubusercontent.com/PokeAPI/pokeapi/dbef1b8570119d49b06943bc8ba6f0288d5872d5/data/v2/csv/pokemon_species_flavor_text.csv",
+      "bytes": 9206001,
+      "gitBlobSha1": "5d3c30e38f6164b1f385abaff2d0d0575fbf6f26",
+      "sha256": "c341e602ab623084fef4c44ca4a174938e617802cfcf2deec830d824f688dc69"
+    },
+    "languages": {
+      "path": "data/v2/csv/languages.csv",
+      "sha256": "fbb60019a6a461783d5671a995d5f590db61792a273e90faa0ed630d102a19b8",
+      "bindings": {
+        "5": "fr",
+        "9": "en"
+      }
+    },
+    "versions": {
+      "path": "data/v2/csv/versions.csv",
+      "sha256": "70083465865a6a69a9aad2be3fc3915078c6ff740f14a090b1367d8ec9cfc3cd",
+      "bindings": {
+        "14": "platinum",
+        "17": "black",
+        "18": "white",
+        "21": "black-2",
+        "22": "white-2"
+      }
+    }
+  },
+  "normalization": "Replace each run of Unicode whitespace, including embedded form feeds and newlines, with one ASCII space and trim only at both ends. Do not alter punctuation, spelling, accents, or letter case.",
+  "matches": [
+    {
+      "speciesId": 402,
+      "cardIds": [
+        "B4-009",
+        "B4-158"
+      ],
+      "repositoryEnglish": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+      "exactEnglishVersionIds": [
+        14,
+        17,
+        18,
+        21,
+        22
+      ],
+      "englishRowStartLines": [
+        116145,
+        116157,
+        116163,
+        116166,
+        116169
+      ],
+      "pairedFrench": [
+        {
+          "versionId": 17,
+          "rowStartLine": 116154,
+          "value": "Ses cris sont tellement variés qu’il existe un village où on organise des concours en leur honneur."
+        },
+        {
+          "versionId": 18,
+          "rowStartLine": 116160,
+          "value": "Ses cris sont tellement variés qu’il existe un village où on organise des concours en leur honneur."
+        }
+      ],
+      "uniqueFrench": "Ses cris sont tellement variés qu’il existe un village où on organise des concours en leur honneur."
+    },
+    {
+      "speciesId": 358,
+      "cardIds": [
+        "B4-073"
+      ],
+      "repositoryEnglish": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "exactEnglishVersionIds": [
+        14,
+        17,
+        18,
+        21,
+        22
+      ],
+      "englishRowStartLines": [
+        106977,
+        106989,
+        106995,
+        106998,
+        107001
+      ],
+      "pairedFrench": [
+        {
+          "versionId": 17,
+          "rowStartLine": 106986,
+          "value": "Ses cris se répercutent dans son corps creux avant d’exploser en notes mélodieuses et saisissantes."
+        },
+        {
+          "versionId": 18,
+          "rowStartLine": 106992,
+          "value": "Ses cris se répercutent dans son corps creux avant d’exploser en notes mélodieuses et saisissantes."
+        }
+      ],
+      "uniqueFrench": "Ses cris se répercutent dans son corps creux avant d’exploser en notes mélodieuses et saisissantes."
+    }
+  ],
+  "acceptance": {
+    "requirements": [
+      "The card dexId equals the matched species_id.",
+      "The normalized repository English description equals a fixed-commit English flavor row exactly.",
+      "Every French row paired to an English-matching version has the same normalized French value."
+    ],
+    "result": "accepted",
+    "acceptedFields": [
+      "B4-009.description.fr",
+      "B4-073.description.fr",
+      "B4-158.description.fr"
+    ]
+  }
+}

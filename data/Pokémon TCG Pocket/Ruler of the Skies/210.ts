@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [312],
     stage: "Basic",
     description: {
-        en: "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering."
+        en: "Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.",
+        fr: "Il déteste tellement l'eau qu'il se réfugie sous les porches à la moindre averse. Il soutient ses camarades avec des pompons d'étincelles.",
+        es: "Como odia el agua, se protege bajo los aleros de las casas si llueve. Anima a sus compañeros con pompones de chispas.",
+        it: "Poiché odia l'acqua, quando piove si rifugia sotto i cornicioni. Incita i compagni con pompon di scintille.",
+        de: "Da es Wasser verabscheut, versteckt es sich bei Regen unter Dachvorsprüngen. Es setzt Pompons aus Funken zum Anfeuern ein.",
+        "pt-br": "Detesta água, por isso se esconde sob as calhas das casas quando chove. Torce com pompons feitos de fagulhas.",
+        "zh-tw": "討厭碰到水，一旦下起雨\n就會到屋簷下避雨。\n會用火花彩球幫夥伴加油。"
     },
     attacks: [
         {

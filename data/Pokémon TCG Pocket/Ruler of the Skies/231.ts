@@ -46,6 +46,8 @@ const card: Card = {
                 en: "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)",
                 fr: "Cette attaque s'active deux fois d'affilée. La deuxième attaque inflige 40 dégâts. (Si la première attaque met K.O. le Pokémon Actif de votre adversaire, la deuxième attaque s'activera après que votre adversaire a choisi un nouveau Pokémon Actif.)",
                 es: "Este ataque se usa dos veces consecutivas. El segundo ataque hace 40 puntos de daño. (Si el primer ataque deja Fuera de Combate al Pokémon Activo de tu rival, el segundo ataque se ejecuta después de que tu rival haya elegido a un nuevo Pokémon Activo).",
+                it: "Questo attacco viene usato due volte di fila. Il secondo attacco infligge 40 danni. (Se il primo attacco manda KO il Pokémon attivo del tuo avversario, il secondo attacco viene usato dopo che il tuo avversario ha scelto il nuovo Pokémon attivo.)",
+                de: "Diese Attacke wird 2 Mal hintereinander eingesetzt. Die zweite Attacke fügt 40 Schadenspunkte zu. (Wenn die erste Attacke das Aktive Pokémon deines Gegners kampfunfähig macht, kannst du erneut angreifen, nachdem dein Gegner ein neues Aktives Pokémon gewählt hat.)",
                 "pt-br": "Este ataque é usado duas vezes seguidas. O segundo ataque causa 40 pontos de dano. (Se o primeiro ataque Nocautear o Pokémon Ativo do seu oponente, o segundo ataque será usado depois que o seu oponente escolher um novo Pokémon Ativo).",
                 "zh-tw": "這個招式會使用2次。第2次會造成40點傷害。 (若對手的戰鬥寶可夢因第1次的招式而昏厥了,則在下一隻戰鬥寶可夢被放置後,使用第2次。)"
             },

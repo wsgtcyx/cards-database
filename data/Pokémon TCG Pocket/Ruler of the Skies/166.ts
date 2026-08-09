@@ -35,6 +35,7 @@ const card: Card = {
         es: "Cuando hay luna llena, los Clefairy salen en\ngrupo a bailar. A su alrededor se genera un\nmisterioso campo magnético.",
         it: "Nelle notti di luna piena, i Clefairy si radunano\nper danzare. Intorno a loro si crea un misterioso\ncampo magnetico.",
         de: "Bei Vollmond versammeln sie sich und tanzen\ngemeinsam. Um sie herum entsteht dadurch\nein ungewöhnliches Magnetfeld.",
+        "pt-br": "Em noites de lua cheia, eles se reúnem e dançam. A área ao redor fica envolvida por um campo magnético anormal.",
         "zh-tw": "在月圓之夜聚集，和夥伴一起跳舞。\n周圍被異常的磁場包圍著。"
     },
     attacks: [

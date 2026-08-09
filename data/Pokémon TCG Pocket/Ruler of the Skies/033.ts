@@ -47,6 +47,7 @@ const card: Card = {
         es: "Starmie absorbe plancton al tiempo que nada\npor el mar haciendo girar su cuerpo a gran\nvelocidad.",
         it: "Risucchia il plancton mentre nuota nel mare\nfacendo ruotare il suo corpo ad alta velocità.",
         de: "Starmie bewegt sich im Wasser fort, indem es\nseinen Körper mit hoher Geschwindigkeit rotieren\nlässt. Unterwegs absorbiert es winziges Plankton.",
+        "pt-br": "Starmie nada girando seu corpo em alta velocidade. Enquanto este Pokémon navega pelo oceano, vai absorvendo plânctons minúsculos.",
         "zh-tw": "會高速旋轉著身體在\n海裡游泳，並且同時\n吸食微小的浮游生物。"
     },
     attacks: [

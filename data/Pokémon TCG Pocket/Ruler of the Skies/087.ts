@@ -32,7 +32,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
-        fr: "Il combat avec une poutre. Quand il en\narrive à transporter de lourds madriers\nsans problème, l’évolution est proche."
+        fr: "Il combat avec une poutre. Quand il en\narrive à transporter de lourds madriers\nsans problème, l’évolution est proche.",
+        es: "Lucha bamboleando vigas de madera. Cuando transporta vigas muy pesadas sin dificultad, es señal de que va a evolucionar.",
+        it: "Lotta brandendo una trave di legno. Quando arriva a portarla senza sforzo, l'evoluzione è vicina.",
+        de: "Es kämpft, indem es einen Holzbalken schwingt. Fällt es ihm leicht, den schweren Balken zu tragen, ist seine Entwicklung nah.",
+        "pt-br": "Luta girando um pedaço de madeira. Quando consegue manipular madeira pesada sem nenhuma dificuldade, está prestes a evoluir.",
+        "zh-tw": "會亂揮木材來戰鬥。如果可以\n不費勁地搬起沉重的木材，\n就代表牠即將要進化了。"
     },
     attacks: [
         {

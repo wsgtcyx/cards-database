@@ -36,6 +36,7 @@ const card: Card = {
         es: "Emite ultrasonidos mientras revolotea en busca\nde los Pokémon insecto con los que se sustenta.",
         it: "Svolazza emettendo ultrasuoni in cerca\ndi Pokémon di tipo Coleottero, di cui si nutre.",
         de: "Es fliegt umher und sendet Ultraschallwellen aus,\num Käfer-Pokémon aufzuspüren, welche ihm als\nNahrung dienen.",
+        "pt-br": "Emite ondas ultrassônicas quando voa por aí, procurando por sua presa: os Pokémon inseto.",
         "zh-tw": "一邊發出超音波，一邊\n飛來飛去尋找蟲寶可夢\n來填飽自己的肚子。"
     },
     attacks: [

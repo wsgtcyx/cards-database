@@ -31,7 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.",
-        "pt-br": "O trio está unido desde o nascimento. Coleta néctar de flores constantemente para agradar Vespiquen"
+        fr: "Ce trio inséparable depuis la naissance passe son temps à récolter le nectar des fleurs pour satisfaire Apireine.",
+        es: "El trío se forma al nacer y se pasa la vida recogiendo néctar de las flores para satisfacer a Vespiquen.",
+        it: "Il trio è insieme dalla nascita. Passa il tempo a raccogliere il nettare dei fiori per far felice Vespiquen.",
+        de: "Dieses Trio ist von Geburt an zusammen. Es sammelt fleißig Blütennektar, um Honweisel eine Freude zu bereiten.",
+        "pt-br": "O trio está unido desde o nascimento. Coleta néctar de flores constantemente para agradar Vespiquen",
+        "zh-tw": "從出生那時起就是3隻一起。\n為了取悅蜂女王，\n一直都在採集著花蜜。"
     },
     attacks: [
         {

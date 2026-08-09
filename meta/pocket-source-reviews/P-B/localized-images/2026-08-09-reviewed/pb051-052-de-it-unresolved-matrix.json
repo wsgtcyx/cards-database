@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:22:29.027Z",
+  "sourcePage": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B",
+  "sourcePageRetrievedAt": "2026-08-09T05:37:17Z",
+  "summary": {
+    "unresolvedLocaleCardValues": 4,
+    "reason": "No real German or Italian localized binary was found after exact-ID/source-tree/CDN checks. English fallback forbidden."
+  },
+  "items": [
+    {
+      "set": "P-B",
+      "number": "051",
+      "cardId": "PK_90_018860_00",
+      "locale": "de",
+      "status": "unresolved",
+      "providers": {
+        "pokebase": {
+          "recordUrl": "https://pokebase.app/api/pokemon-tcg-pocket-cards/PROMO-B_PK_90_018860_00?depth=5",
+          "recordHttpStatus": 200,
+          "recordIcon": "PokeCardArt_cPK_90_018860_00_ZYGARDE10％FORME_C_en_US",
+          "recordLimitation": "icon is a bare string with no media URL or extension; even the English image is broken/absent",
+          "exactCandidateUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018860_00_ZYGARDE10％FORME_C_de_DE.png",
+          "candidateResults": "404 text/html; also -1.png/-2.png and nine sanitized percent/form filename variants returned 404"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_018860_00.png",
+          "result": "404 application/json (RaenonX supports en/fr/es/pt/zh, not de/it)"
+        },
+        "pokeos": {
+          "urls": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/51_de.png",
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/051_de.png"
+          ],
+          "result": "both 404 application/xml; positive control 1_de.png is 200 image/png"
+        },
+        "tcgdex": {
+          "url": "https://assets.tcgdex.net/de/tcgp/P-B/051/high.webp",
+          "result": "404"
+        },
+        "marcelpanseFixedCommit": {
+          "repo": "https://github.com/marcelpanse/tcg-pocket-collection-tracker",
+          "commit": "7a10d32400e242fdb7ab3228f0e2efe937e68e34",
+          "result": "de-DE and it-IT trees contain only P-B 001-024; target absent"
+        },
+        "pocketcards": {
+          "result": "locale-independent English card face, disqualified as English fallback"
+        },
+        "pokemonGoHub": {
+          "result": "P-B 049-062 absent (404); localized pages use shared English asset namespace"
+        },
+        "githubSearch": {
+          "result": "exact cardId/path searches returned no source"
+        }
+      }
+    },
+    {
+      "set": "P-B",
+      "number": "051",
+      "cardId": "PK_90_018860_00",
+      "locale": "it",
+      "status": "unresolved",
+      "providers": {
+        "pokebase": {
+          "recordUrl": "https://pokebase.app/api/pokemon-tcg-pocket-cards/PROMO-B_PK_90_018860_00?depth=5",
+          "recordHttpStatus": 200,
+          "recordIcon": "PokeCardArt_cPK_90_018860_00_ZYGARDE10％FORME_C_en_US",
+          "recordLimitation": "icon is a bare string with no media URL or extension; even the English image is broken/absent",
+          "exactCandidateUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018860_00_ZYGARDE10％FORME_C_it_IT.png",
+          "candidateResults": "404 text/html; also -1.png/-2.png and nine sanitized percent/form filename variants returned 404"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_018860_00.png",
+          "result": "404 application/json (RaenonX supports en/fr/es/pt/zh, not de/it)"
+        },
+        "pokeos": {
+          "urls": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/51_it.png",
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/051_it.png"
+          ],
+          "result": "both 404 application/xml; positive control 1_de.png is 200 image/png"
+        },
+        "tcgdex": {
+          "url": "https://assets.tcgdex.net/it/tcgp/P-B/051/high.webp",
+          "result": "404"
+        },
+        "marcelpanseFixedCommit": {
+          "repo": "https://github.com/marcelpanse/tcg-pocket-collection-tracker",
+          "commit": "7a10d32400e242fdb7ab3228f0e2efe937e68e34",
+          "result": "de-DE and it-IT trees contain only P-B 001-024; target absent"
+        },
+        "pocketcards": {
+          "result": "locale-independent English card face, disqualified as English fallback"
+        },
+        "pokemonGoHub": {
+          "result": "P-B 049-062 absent (404); localized pages use shared English asset namespace"
+        },
+        "githubSearch": {
+          "result": "exact cardId/path searches returned no source"
+        }
+      }
+    },
+    {
+      "set": "P-B",
+      "number": "052",
+      "cardId": "PK_90_018870_00",
+      "locale": "de",
+      "status": "unresolved",
+      "providers": {
+        "pokebase": {
+          "recordUrl": "https://pokebase.app/api/pokemon-tcg-pocket-cards/PROMO-B_PK_90_018870_00?depth=5",
+          "recordHttpStatus": 200,
+          "recordIcon": "PokeCardArt_cPK_90_018870_00_ZYGARDE50％FORME_R_en_US",
+          "recordLimitation": "icon is a bare string with no media URL or extension; even the English image is broken/absent",
+          "exactCandidateUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018870_00_ZYGARDE50％FORME_R_de_DE.png",
+          "candidateResults": "404 text/html; also -1.png/-2.png and nine sanitized percent/form filename variants returned 404"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_018870_00.png",
+          "result": "404 application/json (RaenonX supports en/fr/es/pt/zh, not de/it)"
+        },
+        "pokeos": {
+          "urls": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/52_de.png",
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/052_de.png"
+          ],
+          "result": "both 404 application/xml; positive control 1_de.png is 200 image/png"
+        },
+        "tcgdex": {
+          "url": "https://assets.tcgdex.net/de/tcgp/P-B/052/high.webp",
+          "result": "404"
+        },
+        "marcelpanseFixedCommit": {
+          "repo": "https://github.com/marcelpanse/tcg-pocket-collection-tracker",
+          "commit": "7a10d32400e242fdb7ab3228f0e2efe937e68e34",
+          "result": "de-DE and it-IT trees contain only P-B 001-024; target absent"
+        },
+        "pocketcards": {
+          "result": "locale-independent English card face, disqualified as English fallback"
+        },
+        "pokemonGoHub": {
+          "result": "P-B 049-062 absent (404); localized pages use shared English asset namespace"
+        },
+        "githubSearch": {
+          "result": "exact cardId/path searches returned no source"
+        }
+      }
+    },
+    {
+      "set": "P-B",
+      "number": "052",
+      "cardId": "PK_90_018870_00",
+      "locale": "it",
+      "status": "unresolved",
+      "providers": {
+        "pokebase": {
+          "recordUrl": "https://pokebase.app/api/pokemon-tcg-pocket-cards/PROMO-B_PK_90_018870_00?depth=5",
+          "recordHttpStatus": 200,
+          "recordIcon": "PokeCardArt_cPK_90_018870_00_ZYGARDE50％FORME_R_en_US",
+          "recordLimitation": "icon is a bare string with no media URL or extension; even the English image is broken/absent",
+          "exactCandidateUrl": "https://i.pokebase.app/pokemon-tcg-pocket/PokeCardArt_cPK_90_018870_00_ZYGARDE50％FORME_R_it_IT.png",
+          "candidateResults": "404 text/html; also -1.png/-2.png and nine sanitized percent/form filename variants returned 404"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_018870_00.png",
+          "result": "404 application/json (RaenonX supports en/fr/es/pt/zh, not de/it)"
+        },
+        "pokeos": {
+          "urls": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/52_it.png",
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/052_it.png"
+          ],
+          "result": "both 404 application/xml; positive control 1_de.png is 200 image/png"
+        },
+        "tcgdex": {
+          "url": "https://assets.tcgdex.net/it/tcgp/P-B/052/high.webp",
+          "result": "404"
+        },
+        "marcelpanseFixedCommit": {
+          "repo": "https://github.com/marcelpanse/tcg-pocket-collection-tracker",
+          "commit": "7a10d32400e242fdb7ab3228f0e2efe937e68e34",
+          "result": "de-DE and it-IT trees contain only P-B 001-024; target absent"
+        },
+        "pocketcards": {
+          "result": "locale-independent English card face, disqualified as English fallback"
+        },
+        "pokemonGoHub": {
+          "result": "P-B 049-062 absent (404); localized pages use shared English asset namespace"
+        },
+        "githubSearch": {
+          "result": "exact cardId/path searches returned no source"
+        }
+      }
+    }
+  ]
+}

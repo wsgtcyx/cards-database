@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "d7510663a04a5a24b4a3ae177648e127256bfbad",
+  "sources": {
+    "a4a-suicune-booster-name-review-2026-08-09": {
+      "file": "meta/pocket-source-reviews/A4a/localized-metadata/2026-08-09/a4a-suicune-booster-name.source.json",
+      "sha256": "ef30a4404bc890d0ea73b6a5a232704d1e63c0b877997711068995ab81064b9c",
+      "role": "Canonical reviewed pack identifier derived from the localized A4a-020 card titles and the A4a suicune pack identity; PokeAPI species names are a pinned cross-check.",
+      "version": "2026-08-09; A4a pack AN010_0010_00_000; PokeAPI dbef1b8570119d49b06943bc8ba6f0288d5872d5",
+      "license": "PokeAPI cross-check is MIT; Pokemon images and release media have no public redistribution license identified and are referenced only for metadata transcription.",
+      "url": "https://www.pokemon.com/us/pokemon-news/venture-into-the-secluded-springs-in-pokemon-tcg-pocket"
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "set",
+      "entityId": "A4a",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "path": "boosters.suicune.name",
+      "locale": "fr",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Suicune themed booster pack",
+      "value": "Suicune",
+      "evidence": [
+        {
+          "sourceId": "a4a-suicune-booster-name-review-2026-08-09",
+          "sha256": "ef30a4404bc890d0ea73b6a5a232704d1e63c0b877997711068995ab81064b9c",
+          "locator": "#/records/0"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "A4a",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "path": "boosters.suicune.name",
+      "locale": "es",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Suicune themed booster pack",
+      "value": "Suicune",
+      "evidence": [
+        {
+          "sourceId": "a4a-suicune-booster-name-review-2026-08-09",
+          "sha256": "ef30a4404bc890d0ea73b6a5a232704d1e63c0b877997711068995ab81064b9c",
+          "locator": "#/records/1"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "A4a",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "path": "boosters.suicune.name",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Suicune themed booster pack",
+      "value": "Suicune",
+      "evidence": [
+        {
+          "sourceId": "a4a-suicune-booster-name-review-2026-08-09",
+          "sha256": "ef30a4404bc890d0ea73b6a5a232704d1e63c0b877997711068995ab81064b9c",
+          "locator": "#/records/2"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "A4a",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "path": "boosters.suicune.name",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Suicune themed booster pack",
+      "value": "Suicune",
+      "evidence": [
+        {
+          "sourceId": "a4a-suicune-booster-name-review-2026-08-09",
+          "sha256": "ef30a4404bc890d0ea73b6a5a232704d1e63c0b877997711068995ab81064b9c",
+          "locator": "#/records/3"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "A4a",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "path": "boosters.suicune.name",
+      "locale": "pt-br",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Suicune themed booster pack",
+      "value": "Suicune",
+      "evidence": [
+        {
+          "sourceId": "a4a-suicune-booster-name-review-2026-08-09",
+          "sha256": "ef30a4404bc890d0ea73b6a5a232704d1e63c0b877997711068995ab81064b9c",
+          "locator": "#/records/4"
+        }
+      ]
+    },
+    {
+      "entityKind": "set",
+      "entityId": "A4a",
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "path": "boosters.suicune.name",
+      "locale": "zh-tw",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "Suicune themed booster pack",
+      "value": "水君",
+      "evidence": [
+        {
+          "sourceId": "a4a-suicune-booster-name-review-2026-08-09",
+          "sha256": "ef30a4404bc890d0ea73b6a5a232704d1e63c0b877997711068995ab81064b9c",
+          "locator": "#/records/5"
+        }
+      ]
+    }
+  ]
+}

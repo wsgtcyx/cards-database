@@ -34,7 +34,9 @@ const card: Card = {
         fr: "On ne l’a vu pour la première fois que très récemment\ncar il vit dans la lointaine couche d’ozone.",
         es: "Como hasta hace poco volaba a la altura de la capa\nde ozono, nadie lo había visto nunca.",
         it: "Vive in alto, nello strato di ozono, troppo lontano\nperché qualcuno l’abbia mai potuto avvistare.",
-        de: "Da es in der Ozonschicht hoch über den Wolken lebt,\nbekam es bis vor Kurzem noch niemand zu Gesicht."
+        de: "Da es in der Ozonschicht hoch über den Wolken lebt,\nbekam es bis vor Kurzem noch niemand zu Gesicht.",
+        "pt-br": "Ele voa na camada de ozônio, bem alto no céu. Até recentemente, ninguém o havia visto.",
+        "zh-tw": "因為飛行在遙遠高空的臭氧層中，\n直到最近為止都沒有人\n見過牠的樣子。"
     },
     attacks: [
         {
@@ -43,6 +45,7 @@ const card: Card = {
                 en: "Dragon Impact",
                 fr: "Impact du Dragon",
                 es: "Impacto Dragón",
+                de: "Dracheneinschlag",
                 "pt-br": "Impacto do Dragão",
                 "zh-tw": "狂龍衝擊",
                 "it": "Draghimpatto"

@@ -42,8 +42,12 @@ const card: Card = {
     stage: "Stage2",
     description: {
         en: "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+        fr: "Il est capable de voir à travers tout ce qui existe, ce qui lui est très utile pour détecter le moindre danger.",
         "es": "Tiene la capacidad de ver a través de todo, algo que resulta extremadamente valioso cuando acecha el peligro.",
-        "de": "Beim Aufspüren von Gefahren ist Luxtras Röntgenblick äußerst hilfreich."
+        it: "L'abilità radioscopica di Luxray si rivela molto utile quando si vuole rilevare la presenza di oggetti pericolosi.",
+        "de": "Beim Aufspüren von Gefahren ist Luxtras Röntgenblick äußerst hilfreich.",
+        "pt-br": "A habilidade do Luxray de ver através dos objetos é muito útil quando confere se há perigos.",
+        "zh-tw": "倫琴貓的透視能力\n在發現危險事物時\n非常有幫助。"
     },
     attacks: [
         {
@@ -52,6 +56,8 @@ const card: Card = {
                 en: "Revenge Blast",
                 fr: "Explo-Vengeance",
                 es: "Estallido Venganza",
+                it: "Vendicabomba",
+                de: "Rachestoß",
                 "pt-br": "Raio de Vingança",
                 "zh-tw": "復仇暴擊"
             },
@@ -59,6 +65,7 @@ const card: Card = {
                 en: "This attack does 50 more damage for each point your opponent has gotten.",
                 fr: "Cette attaque inflige 50 dégâts supplémentaires pour chaque point que votre adversaire a gagné.",
                 es: "Este ataque hace 50 puntos de daño más por cada punto que haya conseguido tu rival.",
+                it: "Questo attacco infligge 50 danni in più per ogni punto ottenuto dall'avversario.",
                 "pt-br": "Este ataque causa 50 pontos de dano a mais para cada ponto que seu oponente recebeu.",
                 "zh-tw": "增加對手已經獲得的分數×50點傷害。",
                 "de": "Diese Attacke fügt für jeden von deinem Gegner erhaltenen Punkt 50 Schadenspunkte mehr zu."

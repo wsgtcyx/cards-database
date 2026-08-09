@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:13:32.496Z",
+  "auditSha256": "338f3aa2fce81058f178373553b52c0ee360f4e183833485364172b041b463a4",
+  "manifestSha256": "c896bce03d805e85b716e4e78b96dab7643828a6ee8d1fdc11cd8eda1bc37253",
+  "selection": null,
+  "objects": 112,
+  "allowedFallbackCollisions": 80,
+  "replacementBaselines": [
+    {
+      "key": "de/tcgp/P-B/041/high.webp",
+      "sha256": "08fd6b78d7b62579755b821a76c254e9631937577b0bd377aec9d8896fa44b1a",
+      "bytes": 69936
+    },
+    {
+      "key": "de/tcgp/P-B/041/low.webp",
+      "sha256": "1ad4c9c0821a2ac9f61996bf43dd59f5168f9c6c9e4844c97999a2c5e8315b13",
+      "bytes": 24446
+    },
+    {
+      "key": "de/tcgp/P-B/042/high.webp",
+      "sha256": "9fadfcbcfd1ab4944581510af7eb05e15d25e37d7fb999349790519056c797ee",
+      "bytes": 56410
+    },
+    {
+      "key": "de/tcgp/P-B/042/low.webp",
+      "sha256": "43913db4d78a272b5cea2cee7ed8a07b4e3d7bcc2e1a83e6e7ffe21e422af905",
+      "bytes": 24250
+    },
+    {
+      "key": "de/tcgp/P-B/043/high.webp",
+      "sha256": "f09892e9e958727c94cb16f17275c1a6059286622ea090a4db66ce5bf88fc60c",
+      "bytes": 36548
+    },
+    {
+      "key": "de/tcgp/P-B/043/low.webp",
+      "sha256": "88ff53eebce8930424ecd93eaadeb73ae2e465bb71c0d6849d90ec1040a93e2f",
+      "bytes": 14166
+    },
+    {
+      "key": "de/tcgp/P-B/044/high.webp",
+      "sha256": "b9a153c6dd1d2d205c7dd41fa1324ae9bfa86ce569d70506b637df77c493bfe6",
+      "bytes": 54822
+    },
+    {
+      "key": "de/tcgp/P-B/044/low.webp",
+      "sha256": "2d3c8b3b1f98f8323d2fdb2706f773af2cf01db87543d5f1dffd2a59d184a3bf",
+      "bytes": 17192
+    },
+    {
+      "key": "de/tcgp/P-B/045/high.webp",
+      "sha256": "976528bd0ba742dc57446a2ee238178d8ee455023f2cd2ea677e2aeb9bfa8462",
+      "bytes": 52108
+    },
+    {
+      "key": "de/tcgp/P-B/045/low.webp",
+      "sha256": "621ac9f80330f5375c760d06d6215a3438980a0ce01ab59768cc97ea7b7e8c9b",
+      "bytes": 18186
+    },
+    {
+      "key": "de/tcgp/P-B/046/high.webp",
+      "sha256": "fb31aee5a83a9646dc92b033a65f21000b50b4d22dfd51f09050d7f875d9be42",
+      "bytes": 45470
+    },
+    {
+      "key": "de/tcgp/P-B/046/low.webp",
+      "sha256": "46ddb6be16d783bd889f0c4ff6370811044b5d5b59bca7b1bc7f81d2b40e0d15",
+      "bytes": 15168
+    },
+    {
+      "key": "de/tcgp/P-B/047/high.webp",
+      "sha256": "b643d4ae0eb97df7631315f83cd21773f8d4db883ee854d59367de390c0f1b5b",
+      "bytes": 54822
+    },
+    {
+      "key": "de/tcgp/P-B/047/low.webp",
+      "sha256": "8b2907e4bd901edf6f6fc3ff0c2ee1dc054b2575831b3ac1784991e7144d1f27",
+      "bytes": 17216
+    },
+    {
+      "key": "de/tcgp/P-B/048/high.webp",
+      "sha256": "b9a97376a2cb0035d3dcdefef2ece60b4b55c6371801fb19812c22a30c13ac44",
+      "bytes": 47102
+    },
+    {
+      "key": "de/tcgp/P-B/048/low.webp",
+      "sha256": "4c9406fc664543202e2759364dd8a7c27d5237c9f29183e113a58236c151ac59",
+      "bytes": 15064
+    },
+    {
+      "key": "de/tcgp/P-B/049/high.webp",
+      "sha256": "455e96ff3805e80cf47c2c0add3cb0703ca84c3838376ff6ce4bf30cf57b0f2b",
+      "bytes": 64780
+    },
+    {
+      "key": "de/tcgp/P-B/049/low.webp",
+      "sha256": "cf8bc6e2bf6a9602d2c2ca54f93ddc1cb8dd1ab48b1d0c58047d753c6bc24dff",
+      "bytes": 25734
+    },
+    {
+      "key": "de/tcgp/P-B/050/high.webp",
+      "sha256": "3813ea4b21d61e25b38e1a3b3adb267be62c6e80d217ed6907f0b466966decca",
+      "bytes": 44528
+    },
+    {
+      "key": "de/tcgp/P-B/050/low.webp",
+      "sha256": "f7c164012bdb529280529c87932f6cb3abf1992cf9b05b6818e012bfa59137d5",
+      "bytes": 15364
+    },
+    {
+      "key": "de/tcgp/P-B/053/high.webp",
+      "sha256": "1caa716d31f47cfc70407fd79f7e5cbb9e6efea0becd0dd8657bc7ac1353781f",
+      "bytes": 67490
+    },
+    {
+      "key": "de/tcgp/P-B/053/low.webp",
+      "sha256": "c1ffc411debd92ea3de943e5523b801b306b62781957b1d250b4e98e3649ee07",
+      "bytes": 23768
+    },
+    {
+      "key": "de/tcgp/P-B/054/high.webp",
+      "sha256": "f4bf50f415d442327ee09ae862bc5cfe74cca43c65a4151289d684a36d54e085",
+      "bytes": 46866
+    },
+    {
+      "key": "de/tcgp/P-B/054/low.webp",
+      "sha256": "b133e742b7a321399f38b884027991565fcb74bdbab23d64e39864f2da4bebc4",
+      "bytes": 16014
+    },
+    {
+      "key": "de/tcgp/P-B/055/high.webp",
+      "sha256": "f42b4f518b65ebba9dc5a4ceb28c5e4e8c04f3c0c6e8e691ebe131242e8e8d15",
+      "bytes": 73568
+    },
+    {
+      "key": "de/tcgp/P-B/055/low.webp",
+      "sha256": "c9b8b646e74f3319f41bff0d354e244266c29524e72e0ead33c0c980ae1928e2",
+      "bytes": 31222
+    },
+    {
+      "key": "de/tcgp/P-B/056/high.webp",
+      "sha256": "f1fa9e9f30af81946b7afd2108652dd268caa8097732e8ecabcf82f73141742c",
+      "bytes": 57348
+    },
+    {
+      "key": "de/tcgp/P-B/056/low.webp",
+      "sha256": "da8b891e6b54fcb867a9dcf15d61befa45e3b08018c3d1cd51e6bdbc40fa9e7a",
+      "bytes": 23576
+    },
+    {
+      "key": "de/tcgp/P-B/057/high.webp",
+      "sha256": "c45e49c888d09be93fd7194b4c68e3cf3516354749c28bc386382a0c57bb4701",
+      "bytes": 45028
+    },
+    {
+      "key": "de/tcgp/P-B/057/low.webp",
+      "sha256": "1e5dc802216830ae9eb74cc73be2b3eb6f5d3192e957c9769405bcb288bbd186",
+      "bytes": 14978
+    },
+    {
+      "key": "de/tcgp/P-B/058/high.webp",
+      "sha256": "c69124cd116e7373ccef7c47946a4dbf5329600279471a633f222b40f5763b5f",
+      "bytes": 45446
+    },
+    {
+      "key": "de/tcgp/P-B/058/low.webp",
+      "sha256": "b641bc7d5d38db6fdcc7af5dc090b0e7dd0fa34085a62e117310c8ccd5003e49",
+      "bytes": 15086
+    },
+    {
+      "key": "de/tcgp/P-B/059/high.webp",
+      "sha256": "52d2c53b4c5db4625776ab1c97471cdce5467ec5f802b26818f409b54e9fa50d",
+      "bytes": 50718
+    },
+    {
+      "key": "de/tcgp/P-B/059/low.webp",
+      "sha256": "4c07059a08c93c368fe72d5d4c2b66571cde35cc36e3cac9380091f77156b56a",
+      "bytes": 16808
+    },
+    {
+      "key": "de/tcgp/P-B/060/high.webp",
+      "sha256": "02f90c43951a477c6b083c87920c527101bec1a7aa3d3a0611be3dbaf5a806de",
+      "bytes": 62450
+    },
+    {
+      "key": "de/tcgp/P-B/060/low.webp",
+      "sha256": "3da59e0fe848b7712d766eb8c3b23bcc2a5cc93b6384b2267a8fb0cff118e1e1",
+      "bytes": 20506
+    },
+    {
+      "key": "de/tcgp/P-B/061/high.webp",
+      "sha256": "a90a0baafd00111d06543af5e5cf329b40cbe4b23a9337c772458484a063dc7b",
+      "bytes": 41520
+    },
+    {
+      "key": "de/tcgp/P-B/061/low.webp",
+      "sha256": "e39dc9673ef720878e925687771c1b6cc2536604067b87a9dc673133f4abbbae",
+      "bytes": 14806
+    },
+    {
+      "key": "de/tcgp/P-B/062/high.webp",
+      "sha256": "31f31f6cf9f87e24657b1582bd9362bbf2e4e88a1ba0108bc6251e1a225e66d3",
+      "bytes": 60376
+    },
+    {
+      "key": "de/tcgp/P-B/062/low.webp",
+      "sha256": "e8b2ee05dfc89ec099575f7cf85b2514d6a8d8b731a63c1096271e15e25062d5",
+      "bytes": 19682
+    },
+    {
+      "key": "it/tcgp/P-B/041/high.webp",
+      "sha256": "08fd6b78d7b62579755b821a76c254e9631937577b0bd377aec9d8896fa44b1a",
+      "bytes": 69936
+    },
+    {
+      "key": "it/tcgp/P-B/041/low.webp",
+      "sha256": "1ad4c9c0821a2ac9f61996bf43dd59f5168f9c6c9e4844c97999a2c5e8315b13",
+      "bytes": 24446
+    },
+    {
+      "key": "it/tcgp/P-B/042/high.webp",
+      "sha256": "9fadfcbcfd1ab4944581510af7eb05e15d25e37d7fb999349790519056c797ee",
+      "bytes": 56410
+    },
+    {
+      "key": "it/tcgp/P-B/042/low.webp",
+      "sha256": "43913db4d78a272b5cea2cee7ed8a07b4e3d7bcc2e1a83e6e7ffe21e422af905",
+      "bytes": 24250
+    },
+    {
+      "key": "it/tcgp/P-B/043/high.webp",
+      "sha256": "f09892e9e958727c94cb16f17275c1a6059286622ea090a4db66ce5bf88fc60c",
+      "bytes": 36548
+    },
+    {
+      "key": "it/tcgp/P-B/043/low.webp",
+      "sha256": "88ff53eebce8930424ecd93eaadeb73ae2e465bb71c0d6849d90ec1040a93e2f",
+      "bytes": 14166
+    },
+    {
+      "key": "it/tcgp/P-B/044/high.webp",
+      "sha256": "b9a153c6dd1d2d205c7dd41fa1324ae9bfa86ce569d70506b637df77c493bfe6",
+      "bytes": 54822
+    },
+    {
+      "key": "it/tcgp/P-B/044/low.webp",
+      "sha256": "2d3c8b3b1f98f8323d2fdb2706f773af2cf01db87543d5f1dffd2a59d184a3bf",
+      "bytes": 17192
+    },
+    {
+      "key": "it/tcgp/P-B/045/high.webp",
+      "sha256": "976528bd0ba742dc57446a2ee238178d8ee455023f2cd2ea677e2aeb9bfa8462",
+      "bytes": 52108
+    },
+    {
+      "key": "it/tcgp/P-B/045/low.webp",
+      "sha256": "621ac9f80330f5375c760d06d6215a3438980a0ce01ab59768cc97ea7b7e8c9b",
+      "bytes": 18186
+    },
+    {
+      "key": "it/tcgp/P-B/046/high.webp",
+      "sha256": "fb31aee5a83a9646dc92b033a65f21000b50b4d22dfd51f09050d7f875d9be42",
+      "bytes": 45470
+    },
+    {
+      "key": "it/tcgp/P-B/046/low.webp",
+      "sha256": "46ddb6be16d783bd889f0c4ff6370811044b5d5b59bca7b1bc7f81d2b40e0d15",
+      "bytes": 15168
+    },
+    {
+      "key": "it/tcgp/P-B/047/high.webp",
+      "sha256": "b643d4ae0eb97df7631315f83cd21773f8d4db883ee854d59367de390c0f1b5b",
+      "bytes": 54822
+    },
+    {
+      "key": "it/tcgp/P-B/047/low.webp",
+      "sha256": "8b2907e4bd901edf6f6fc3ff0c2ee1dc054b2575831b3ac1784991e7144d1f27",
+      "bytes": 17216
+    },
+    {
+      "key": "it/tcgp/P-B/048/high.webp",
+      "sha256": "b9a97376a2cb0035d3dcdefef2ece60b4b55c6371801fb19812c22a30c13ac44",
+      "bytes": 47102
+    },
+    {
+      "key": "it/tcgp/P-B/048/low.webp",
+      "sha256": "4c9406fc664543202e2759364dd8a7c27d5237c9f29183e113a58236c151ac59",
+      "bytes": 15064
+    },
+    {
+      "key": "it/tcgp/P-B/049/high.webp",
+      "sha256": "455e96ff3805e80cf47c2c0add3cb0703ca84c3838376ff6ce4bf30cf57b0f2b",
+      "bytes": 64780
+    },
+    {
+      "key": "it/tcgp/P-B/049/low.webp",
+      "sha256": "cf8bc6e2bf6a9602d2c2ca54f93ddc1cb8dd1ab48b1d0c58047d753c6bc24dff",
+      "bytes": 25734
+    },
+    {
+      "key": "it/tcgp/P-B/050/high.webp",
+      "sha256": "3813ea4b21d61e25b38e1a3b3adb267be62c6e80d217ed6907f0b466966decca",
+      "bytes": 44528
+    },
+    {
+      "key": "it/tcgp/P-B/050/low.webp",
+      "sha256": "f7c164012bdb529280529c87932f6cb3abf1992cf9b05b6818e012bfa59137d5",
+      "bytes": 15364
+    },
+    {
+      "key": "it/tcgp/P-B/053/high.webp",
+      "sha256": "1caa716d31f47cfc70407fd79f7e5cbb9e6efea0becd0dd8657bc7ac1353781f",
+      "bytes": 67490
+    },
+    {
+      "key": "it/tcgp/P-B/053/low.webp",
+      "sha256": "c1ffc411debd92ea3de943e5523b801b306b62781957b1d250b4e98e3649ee07",
+      "bytes": 23768
+    },
+    {
+      "key": "it/tcgp/P-B/054/high.webp",
+      "sha256": "f4bf50f415d442327ee09ae862bc5cfe74cca43c65a4151289d684a36d54e085",
+      "bytes": 46866
+    },
+    {
+      "key": "it/tcgp/P-B/054/low.webp",
+      "sha256": "b133e742b7a321399f38b884027991565fcb74bdbab23d64e39864f2da4bebc4",
+      "bytes": 16014
+    },
+    {
+      "key": "it/tcgp/P-B/055/high.webp",
+      "sha256": "f42b4f518b65ebba9dc5a4ceb28c5e4e8c04f3c0c6e8e691ebe131242e8e8d15",
+      "bytes": 73568
+    },
+    {
+      "key": "it/tcgp/P-B/055/low.webp",
+      "sha256": "c9b8b646e74f3319f41bff0d354e244266c29524e72e0ead33c0c980ae1928e2",
+      "bytes": 31222
+    },
+    {
+      "key": "it/tcgp/P-B/056/high.webp",
+      "sha256": "f1fa9e9f30af81946b7afd2108652dd268caa8097732e8ecabcf82f73141742c",
+      "bytes": 57348
+    },
+    {
+      "key": "it/tcgp/P-B/056/low.webp",
+      "sha256": "da8b891e6b54fcb867a9dcf15d61befa45e3b08018c3d1cd51e6bdbc40fa9e7a",
+      "bytes": 23576
+    },
+    {
+      "key": "it/tcgp/P-B/057/high.webp",
+      "sha256": "c45e49c888d09be93fd7194b4c68e3cf3516354749c28bc386382a0c57bb4701",
+      "bytes": 45028
+    },
+    {
+      "key": "it/tcgp/P-B/057/low.webp",
+      "sha256": "1e5dc802216830ae9eb74cc73be2b3eb6f5d3192e957c9769405bcb288bbd186",
+      "bytes": 14978
+    },
+    {
+      "key": "it/tcgp/P-B/058/high.webp",
+      "sha256": "c69124cd116e7373ccef7c47946a4dbf5329600279471a633f222b40f5763b5f",
+      "bytes": 45446
+    },
+    {
+      "key": "it/tcgp/P-B/058/low.webp",
+      "sha256": "b641bc7d5d38db6fdcc7af5dc090b0e7dd0fa34085a62e117310c8ccd5003e49",
+      "bytes": 15086
+    },
+    {
+      "key": "it/tcgp/P-B/059/high.webp",
+      "sha256": "52d2c53b4c5db4625776ab1c97471cdce5467ec5f802b26818f409b54e9fa50d",
+      "bytes": 50718
+    },
+    {
+      "key": "it/tcgp/P-B/059/low.webp",
+      "sha256": "4c07059a08c93c368fe72d5d4c2b66571cde35cc36e3cac9380091f77156b56a",
+      "bytes": 16808
+    },
+    {
+      "key": "it/tcgp/P-B/060/high.webp",
+      "sha256": "02f90c43951a477c6b083c87920c527101bec1a7aa3d3a0611be3dbaf5a806de",
+      "bytes": 62450
+    },
+    {
+      "key": "it/tcgp/P-B/060/low.webp",
+      "sha256": "3da59e0fe848b7712d766eb8c3b23bcc2a5cc93b6384b2267a8fb0cff118e1e1",
+      "bytes": 20506
+    },
+    {
+      "key": "it/tcgp/P-B/061/high.webp",
+      "sha256": "a90a0baafd00111d06543af5e5cf329b40cbe4b23a9337c772458484a063dc7b",
+      "bytes": 41520
+    },
+    {
+      "key": "it/tcgp/P-B/061/low.webp",
+      "sha256": "e39dc9673ef720878e925687771c1b6cc2536604067b87a9dc673133f4abbbae",
+      "bytes": 14806
+    },
+    {
+      "key": "it/tcgp/P-B/062/high.webp",
+      "sha256": "31f31f6cf9f87e24657b1582bd9362bbf2e4e88a1ba0108bc6251e1a225e66d3",
+      "bytes": 60376
+    },
+    {
+      "key": "it/tcgp/P-B/062/low.webp",
+      "sha256": "e8b2ee05dfc89ec099575f7cf85b2514d6a8d8b731a63c1096271e15e25062d5",
+      "bytes": 19682
+    }
+  ],
+  "reusedUploadedObjects": 0,
+  "collisions": [],
+  "failures": [],
+  "status": "ok",
+  "artifactSha256": "f511eba02e7d6ea78b62871be1ca6720f4bc6b1bd6e8aa1eb1cdbe2a65431e24"
+}

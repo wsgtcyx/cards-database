@@ -31,7 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "When several of these POKéMON gather, their electricity can build and cause lightning storms.",
-        "es": "Cuando varios de estos Pokémon se juntan, su energia puede causar fuertes tormentas"
+        fr: "Quand plusieurs de ces Pokémon se réunissent, ils provoquent de gigantesques orages.",
+        "es": "Cuando varios de estos Pokémon se juntan, su energia puede causar fuertes tormentas",
+        it: "Quando vari Pokémon di questa specie si radunano, la loro energia si accumula e genera fulmini.",
+        de: "Wenn sich mehrere dieser Pokémon versammeln, kann ihre geballte Energie Blitzgewitter erzeugen.",
+        "pt-br": "Quando vários destes Pokémon se juntam, a eletricidade deles pode se acumular e causar tempestades de raios.",
+        "zh-tw": "據說同一處有好幾隻的時候，\n那裡就會凝集起強烈的電力，\n還可能造成閃電落於該處。"
     },
     attacks: [
         {

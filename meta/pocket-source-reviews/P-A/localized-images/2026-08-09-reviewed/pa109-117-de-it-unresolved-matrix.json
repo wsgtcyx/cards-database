@@ -1,0 +1,834 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:55:00.000Z",
+  "scope": {
+    "setId": "P-A",
+    "localIds": "109-117",
+    "locales": [
+      "de",
+      "it"
+    ],
+    "unresolvedFields": 18,
+    "policy": "Keep metadata absent unless a genuinely localized card face can be source-pinned and publicly verified; never reuse the English card face as localized metadata."
+  },
+  "inputs": {
+    "previousAudit": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-03/localized-image-audit.json",
+      "fileSha256": "9ef0145b5b524d74232420242fb0ae32ecf36f768ee6be56efef7b6b2517937e"
+    },
+    "previousUnresolved": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-03/unresolved.json",
+      "fileSha256": "9e33d5c542f56ff0d93993f33965b581c10665d1e8c674fabed72e3345177169"
+    },
+    "raenonxGlobalMaster": {
+      "file": "meta/pocket-source-reviews/localized-images/2026-08-03/source-snapshot/raenonx-global-master.json",
+      "fileSha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532",
+      "retrievedSha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532"
+    }
+  },
+  "researchSummary": {
+    "qualifiedSourcesFound": 0,
+    "targets": 18,
+    "pokeos": "18/18 exact paths 404; 108 de/it positive controls 200",
+    "raenonx": "18/18 de/it exact card-ID paths 404; the same cards have 200 en/fr/es/pt/zh positives",
+    "pocketcards": "18/18 localized variants 404; A3-112 de/it positives 200",
+    "tcgdex": "18/18 API/assets 404",
+    "archives": "No Wayback or Common Crawl target binary",
+    "github": "No target binary in fixed revisions or 46 inspected forks",
+    "rights": "No source means no redistribution license can be asserted."
+  },
+  "items": [
+    {
+      "id": "P-A-109",
+      "localId": "109",
+      "number": 109,
+      "locale": "de",
+      "sourceCardId": "PK_90_008480_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/109",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/109_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_008480_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/109/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-109",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-109",
+      "localId": "109",
+      "number": 109,
+      "locale": "it",
+      "sourceCardId": "PK_90_008480_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/109.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/109",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/109_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_008480_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/109/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-109",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-110",
+      "localId": "110",
+      "number": 110,
+      "locale": "de",
+      "sourceCardId": "PK_90_010210_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/110",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/110_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_010210_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/110/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-110",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-110",
+      "localId": "110",
+      "number": 110,
+      "locale": "it",
+      "sourceCardId": "PK_90_010210_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/110.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/110",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/110_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_010210_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/110/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-110",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-111",
+      "localId": "111",
+      "number": 111,
+      "locale": "de",
+      "sourceCardId": "PK_90_010150_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/111",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/111_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_010150_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/111/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-111",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-111",
+      "localId": "111",
+      "number": 111,
+      "locale": "it",
+      "sourceCardId": "PK_90_010150_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/111.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/111",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/111_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_010150_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/111/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-111",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-112",
+      "localId": "112",
+      "number": 112,
+      "locale": "de",
+      "sourceCardId": "PK_90_010160_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/112.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/112",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/112_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_010160_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/112/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-112",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-112",
+      "localId": "112",
+      "number": 112,
+      "locale": "it",
+      "sourceCardId": "PK_90_010160_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/112.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/112",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/112_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_010160_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/112/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-112",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-113",
+      "localId": "113",
+      "number": 113,
+      "locale": "de",
+      "sourceCardId": "PK_90_008290_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/113",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/113_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_008290_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/113/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-113",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-113",
+      "localId": "113",
+      "number": 113,
+      "locale": "it",
+      "sourceCardId": "PK_90_008290_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/113.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/113",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/113_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_008290_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/113/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-113",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-114",
+      "localId": "114",
+      "number": 114,
+      "locale": "de",
+      "sourceCardId": "PK_90_010170_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/114.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/114",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/114_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_010170_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/114/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-114",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-114",
+      "localId": "114",
+      "number": 114,
+      "locale": "it",
+      "sourceCardId": "PK_90_010170_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/114.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/114",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/114_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_010170_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/114/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-114",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-115",
+      "localId": "115",
+      "number": 115,
+      "locale": "de",
+      "sourceCardId": "PK_90_004240_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/115.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/115",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/115_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_004240_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/115/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-115",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-115",
+      "localId": "115",
+      "number": 115,
+      "locale": "it",
+      "sourceCardId": "PK_90_004240_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/115.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/115",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/115_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_004240_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/115/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-115",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-116",
+      "localId": "116",
+      "number": 116,
+      "locale": "de",
+      "sourceCardId": "PK_90_003030_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/116.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/116",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/116_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_003030_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/116/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-116",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-116",
+      "localId": "116",
+      "number": 116,
+      "locale": "it",
+      "sourceCardId": "PK_90_003030_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/116.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/116",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/116_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_003030_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/116/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-116",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-117",
+      "localId": "117",
+      "number": 117,
+      "locale": "de",
+      "sourceCardId": "PK_90_009760_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/117",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/117_de.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_de.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/de/PK_90_009760_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/de/tcgp/P-A/117/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/de/cards/P-A-117",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    },
+    {
+      "id": "P-A-117",
+      "localId": "117",
+      "number": 117,
+      "locale": "it",
+      "sourceCardId": "PK_90_009760_00",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-A/117.ts",
+      "metadataPath": "image",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-A/117",
+      "status": "unresolved",
+      "reason": "No supported, genuinely localized German or Italian card-face binary was found; English fallback is forbidden.",
+      "checks": {
+        "pokeos": {
+          "url": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/117_it.png",
+          "status": 404,
+          "response": "NoSuchKey application/xml",
+          "positiveControl": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/443/src/108_it.png returned 200 image/png"
+        },
+        "raenonx": {
+          "url": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/it/PK_90_009760_00.png",
+          "status": 404,
+          "response": "Asset not found JSON",
+          "positiveControls": "The exact card ID returned 200 for en/fr/es/pt/zh card faces."
+        },
+        "tcgdex": {
+          "assetUrl": "https://assets.tcgdex.net/it/tcgp/P-A/117/high.webp",
+          "apiUrl": "https://api.tcgdex.net/v2/it/cards/P-A-117",
+          "status": 404
+        },
+        "pocketcards": {
+          "pathTemplate": "/images/cards/{de|it}/{localized-slug}.webp",
+          "status": 404,
+          "positiveControl": "A3-112 de/it returned 200 under the same localized path family."
+        },
+        "archives": {
+          "wayback": "no target binary snapshot found",
+          "commonCrawl": "no target binary snapshot found"
+        },
+        "github": {
+          "scope": "fixed repository revisions plus 46 forks and exact card IDs/paths",
+          "result": "no target localized binary found"
+        }
+      }
+    }
+  ]
+}

@@ -31,8 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+        fr: "Très sensible aux émotions des êtres humains et des Pokémon, il se cache au moindre signe d'hostilité.",
         "es": "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde.",
-        "de": "Es hat ein feines Gespür für die Gefühle der Menschen und Pokémon. Wenn es Feindseligkeit wahrnimmt, versteckt es sich."
+        it: "È molto sensibile all'umore delle persone e degli altri Pokémon. Non appena avverte ostilità, si nasconde subito nell'ombra.",
+        "de": "Es hat ein feines Gespür für die Gefühle der Menschen und Pokémon. Wenn es Feindseligkeit wahrnimmt, versteckt es sich.",
+        "pt-br": "Está altamente sintonizado com as emoções das pessoas e Pokémon. Esconde-se se pressentir hostilidade.",
+        "zh-tw": "能敏銳地感知人和寶可夢\n的感情，一旦感受到敵意\n就會躲進暗處。"
     },
     attacks: [
         {

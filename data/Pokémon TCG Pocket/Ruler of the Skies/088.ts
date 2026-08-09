@@ -46,7 +46,9 @@ const card: Card = {
         fr: "Même une armée de catcheurs se jetant sur son corps\nhyper musclé ne le ferait pas ciller.",
         es: "Sus músculos están tan desarrollados que no se inmuta\naunque lo ataquen varios luchadores.",
         it: "Il suo corpo muscolosissimo resisterebbe senza battere\nciglio all’assalto di un lottatore di wrestling.",
-        de: "Selbst wenn es mit voller Wucht von einem Profi-Ringer\nangegriffen wird, lässt es dies dank seines Muskeltrainings kalt."
+        de: "Selbst wenn es mit voller Wucht von einem Profi-Ringer\nangegriffen wird, lässt es dies dank seines Muskeltrainings kalt.",
+        "pt-br": "Este Pokémon é tão musculoso e robusto que mesmo um grupo de lutadores não o faria se mexer um centímetro.",
+        "zh-tw": "身體的肌肉經過完美鍛鍊，\n即使好幾個摔角手一擁而上\n進行攻擊，也能毫髮無傷。"
     },
     attacks: [
         {

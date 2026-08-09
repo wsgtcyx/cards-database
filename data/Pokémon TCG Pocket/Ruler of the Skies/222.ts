@@ -31,8 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "The color of the mysterious fluid secreted from its tail is predeter­ mined for each SMEARGLE.",
+        fr: "La couleur du mystérieux fluide sécrété par le bout de sa queue varie selon chaque individu.",
+        es: "El color del misterioso fluido que segrega por la punta de la cola varía en función de cada individuo.",
+        it: "Il colore del fluido misterioso che secerne dalla coda cambia da esemplare a esemplare.",
         "de": "Die Farbe des mysteriösen Sekrets, das aus ihrer Schweifspitze austritt, variiert je nach Farbeagle.",
-        "pt-br": "A cor do fluido misterioso secretado da ponta da cauda é predeterminada para cada Smeargle"
+        "pt-br": "A cor do fluido misterioso secretado da ponta da cauda é predeterminada para cada Smeargle",
+        "zh-tw": "每隻圖圖犬從尾巴尖端\n分泌出的神秘液體，\n都有自己固定的顏色。"
     },
     abilities: [
         {

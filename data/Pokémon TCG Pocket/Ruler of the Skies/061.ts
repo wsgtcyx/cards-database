@@ -56,6 +56,7 @@ const card: Card = {
                 en: "Electrispark",
                 fr: "Arc Électrique",
                 es: "Chispa Eléctrica",
+                de: "Stromfunke",
                 "pt-br": "Centelha Elétrica",
                 "zh-tw": "電電光",
                 "it": "Elettroscintilla"

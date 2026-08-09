@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T07:13:27.472Z",
+  "scope": {
+    "setId": "B4",
+    "boosterId": "ruler-of-the-skies",
+    "records": 12,
+    "fields": [
+      "logo",
+      "artwork_front"
+    ],
+    "locales": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "metadataRule": "Only reviewed assets whose R2 object passes both cache-busting and bare public URL SHA-256 verification may be referenced."
+  },
+  "source": {
+    "provider": "PokéBase",
+    "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+    "rights": "No public image reuse license was found. Used under the user-authorized attributed mirror policy; Pokémon imagery remains proprietary and the source is not described as open-licensed.",
+    "requiredAttribution": "PokéBase and each exact source URL",
+    "artworkLanguagePolicy": "The artwork_front source contains no language-bearing text and is therefore shared across the six target locales; each localized logo remains locale-specific."
+  },
+  "inputs": {
+    "logoSource": {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-pokebase/b4-ruler-of-the-skies-logo.source.json",
+      "fileSha256": "c4cf2b8936b4616d7e7b9479f73b78493c78271533cfee645f4f47125514956a",
+      "artifactSha256": "a18b09d8560e39f26093ff112818e8e4ec4bbc2dedbaac85cd094b7f9c03b234"
+    },
+    "artworkSource": {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-pokebase/b4-ruler-of-the-skies-artwork-front.source.json",
+      "fileSha256": "1c93521a362b8d98a77fd59e3ce8b7037aa8869fa8e0f6e3ab270b593de26b22"
+    },
+    "r2Manifest": {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-b4-reviewed-booster-assets/r2-manifest.json",
+      "fileSha256": "a4b3b3aa8359cd8e3c75fec2cb1f909d52cfbdd437c82ab1a6d15417c40ef284",
+      "artifactSha256": "6f56fc8592e758ae84f84c567e3c66d8bd8b94386ee9b09eedecf0029f1026c5"
+    },
+    "r2Preflight": {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-b4-reviewed-booster-assets/r2-preflight.json",
+      "fileSha256": "d2bb49d56b2982f01605ef85f600231275616636c1bbb4e4f28e78f45e7129bf",
+      "artifactSha256": "d2506d54d4beca58fee72895f27abb0923d3bdc21610371772a978d4de39fd40"
+    },
+    "uploadSummary": {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-b4-reviewed-booster-assets/upload-summary.json",
+      "fileSha256": "df57b7c3e8b101a0ebc94b1089cc392b72fc388690dbc4895ceb8f05ab8f8fc0",
+      "artifactSha256": "38a79c0a66512046264dafc0dae2171f4d45c731257eb2aed6ba017249211a36"
+    },
+    "r2Verification": {
+      "file": "meta/pocket-source-reviews/B4/localized-booster-assets/2026-08-09-b4-reviewed-booster-assets/r2-verify.json",
+      "fileSha256": "b1b12bee5caf9eca3603690595bdf884e0a4ab7f049ad49e9f8dea5220d84297",
+      "artifactSha256": "73a3073e0f1fa99b4da438e6cee0920a35f77d2e26e28f29b7c90349a755eb6b",
+      "status": "ok",
+      "checks": 24,
+      "failures": 0
+    }
+  },
+  "records": [
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "artwork_front",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].artwork_front",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+        "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+        "processing": {
+          "operation": "crop",
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        }
+      },
+      "r2Object": {
+        "key": "de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+        "bytes": 16706,
+        "width": 160,
+        "height": 256
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "de",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].logo",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_de_DE-1.png",
+        "sha256": "b3c9cc3ebc4650659d80228c91493fff18cb21a89f65a0bcb141f4a24db73795",
+        "processing": null
+      },
+      "r2Object": {
+        "key": "de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "sha256": "8cf5a548bbbd49b3606ffc6a1dab99568581242eec2dcda2d0adf426111296b7",
+        "bytes": 7660,
+        "width": 256,
+        "height": 113
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "8cf5a548bbbd49b3606ffc6a1dab99568581242eec2dcda2d0adf426111296b7",
+            "bytes": 7660,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "8cf5a548bbbd49b3606ffc6a1dab99568581242eec2dcda2d0adf426111296b7",
+            "bytes": 7660,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "artwork_front",
+      "locale": "es",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].artwork_front",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "value": "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+        "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+        "processing": {
+          "operation": "crop",
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        }
+      },
+      "r2Object": {
+        "key": "es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+        "bytes": 16706,
+        "width": 160,
+        "height": 256
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "es",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].logo",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_es_ES-1.png",
+        "sha256": "ede3093d10d6f4e45c9abe010761894e28c8f075931bb59e78cf2b716b7259ac",
+        "processing": null
+      },
+      "r2Object": {
+        "key": "es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "sha256": "a49df6057577867dd674aebd8270a7f7526c909b52a1be23d8e5f109b6fa9427",
+        "bytes": 9540,
+        "width": 256,
+        "height": 113
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "a49df6057577867dd674aebd8270a7f7526c909b52a1be23d8e5f109b6fa9427",
+            "bytes": 9540,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "a49df6057577867dd674aebd8270a7f7526c909b52a1be23d8e5f109b6fa9427",
+            "bytes": 9540,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "artwork_front",
+      "locale": "fr",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].artwork_front",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "value": "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+        "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+        "processing": {
+          "operation": "crop",
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        }
+      },
+      "r2Object": {
+        "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+        "bytes": 16706,
+        "width": 160,
+        "height": 256
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "fr",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].logo",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_fr_FR-1.png",
+        "sha256": "22bad4dc5153049898fa06fc62fd866bb4aa5a22084a6ed9479baab3702f00e7",
+        "processing": null
+      },
+      "r2Object": {
+        "key": "fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "sha256": "4e44beea5ed1cdb13b85fe68240b231e994123c5e5a165d84636f61b66b33a06",
+        "bytes": 8018,
+        "width": 256,
+        "height": 113
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "4e44beea5ed1cdb13b85fe68240b231e994123c5e5a165d84636f61b66b33a06",
+            "bytes": 8018,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "4e44beea5ed1cdb13b85fe68240b231e994123c5e5a165d84636f61b66b33a06",
+            "bytes": 8018,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "artwork_front",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].artwork_front",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+        "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+        "processing": {
+          "operation": "crop",
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        }
+      },
+      "r2Object": {
+        "key": "it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+        "bytes": 16706,
+        "width": 160,
+        "height": 256
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "it",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].logo",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_it_IT-1.png",
+        "sha256": "bb9156da3056b0a78de5f9fd633aec07be73c1d25ff5ff88a33f50c0f955f014",
+        "processing": null
+      },
+      "r2Object": {
+        "key": "it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "sha256": "d00d2bd94f536166e354f5803776e1df0965be262f5615466c5514537243f762",
+        "bytes": 7046,
+        "width": 256,
+        "height": 113
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "d00d2bd94f536166e354f5803776e1df0965be262f5615466c5514537243f762",
+            "bytes": 7046,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "d00d2bd94f536166e354f5803776e1df0965be262f5615466c5514537243f762",
+            "bytes": 7046,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "artwork_front",
+      "locale": "pt-br",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].artwork_front",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "value": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+        "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+        "processing": {
+          "operation": "crop",
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        }
+      },
+      "r2Object": {
+        "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+        "bytes": 16706,
+        "width": 160,
+        "height": 256
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "pt-br",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].logo",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_pt_BR-1.png",
+        "sha256": "aebb33d7a8e88dc7383bac8817ddc544854be623f22df5236ebcf59ea11b6994",
+        "processing": null
+      },
+      "r2Object": {
+        "key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "sha256": "a0316974068755aad15d514e16c209d74a5158587e00dbf74de19c754e1be813",
+        "bytes": 6734,
+        "width": 256,
+        "height": 113
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "a0316974068755aad15d514e16c209d74a5158587e00dbf74de19c754e1be813",
+            "bytes": 6734,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "a0316974068755aad15d514e16c209d74a5158587e00dbf74de19c754e1be813",
+            "bytes": 6734,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "artwork_front",
+      "locale": "zh-tw",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].artwork_front",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "value": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/PackIcon_PACK_ICON_BN009_0010_00_000.png",
+        "sha256": "ba69025144421fb7597882af6c06131ae000c08707c1a0a352ed2b9fcd4868e2",
+        "processing": {
+          "operation": "crop",
+          "left": 48,
+          "top": 0,
+          "width": 160,
+          "height": 256
+        }
+      },
+      "r2Object": {
+        "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+        "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+        "bytes": 16706,
+        "width": 160,
+        "height": 256
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "81d6ce5492b1041abf695fcffa26456da44ead3e61f710d0c03c36c97ddb429b",
+            "bytes": 16706,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "zh-tw",
+      "metadataFile": "data/Pokémon TCG Pocket/Ruler of the Skies.ts",
+      "metadataPath": "boosters[\"ruler-of-the-skies\"].logo",
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "value": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "source": {
+        "provider": "PokéBase",
+        "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+        "url": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_zh_TW-1.png",
+        "sha256": "7bd5331c054b2d10e1cb625965dec2dc33541f33417eac3f22c756da17bc9a3a",
+        "processing": null
+      },
+      "r2Object": {
+        "key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "publicUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+        "sha256": "3dcb92abddf8f7e6588194931d05fdc13827d12014eb3071b0c538534c8ea343",
+        "bytes": 6128,
+        "width": 256,
+        "height": 113
+      },
+      "publicVerification": {
+        "status": "ok",
+        "verifiedAt": "2026-08-09T07:13:27.472Z",
+        "checks": [
+          {
+            "mode": "bare",
+            "status": 200,
+            "sha256": "3dcb92abddf8f7e6588194931d05fdc13827d12014eb3071b0c538534c8ea343",
+            "bytes": 6128,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          },
+          {
+            "mode": "cache-busting",
+            "status": 200,
+            "sha256": "3dcb92abddf8f7e6588194931d05fdc13827d12014eb3071b0c538534c8ea343",
+            "bytes": 6128,
+            "contentType": "image/webp",
+            "cacheControl": "public, max-age=31536000, immutable",
+            "ok": true
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -42,8 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.",
+        fr: "Il projette une bulle d'eau visqueuse pour piéger sa cible. Une fois que celle-ci est inconsciente, il se sert de ses mandibules pour la dévorer.",
+        es: "Dispara burbujas viscosas en las que encierra al enemigo. Cuando este pierde el conocimiento, lo hace picadillo con sus grandes mandíbulas.",
         "it": "Lancia delle bolle d'acqua appiccicose per inglobare il nemico. Quando questi perde i sensi, lo fa a pezzi con le grosse mandibole.",
-        "de": "Es verschießt klebrige Wasserblasen, um Feinde darin einzuschließen. Werden diese bewusstlos. zerlegt es sie mit seinem großen Mundwerkzeug."
+        "de": "Es verschießt klebrige Wasserblasen, um Feinde darin einzuschließen. Werden diese bewusstlos. zerlegt es sie mit seinem großen Mundwerkzeug.",
+        "pt-br": "Lança bolhas de água grudentas. Inimigos que perderem a consciência enquanto aprisionados nessas bolhas serão destroçados pelas mandíbulas de Araquanid.",
+        "zh-tw": "會發射黏答答的水泡。\n等被困在水泡中的敵人失去意識後，\n牠就會用大顎將其咬成碎片。"
     },
     attacks: [
         {

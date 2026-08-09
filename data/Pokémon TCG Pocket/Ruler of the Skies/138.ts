@@ -47,6 +47,7 @@ const card: Card = {
         es: "Posee una mente ágil y muy buena memoria.\nTal vez por eso muchos repartidores lo eligen\ncomo compañero.",
         it: "Pokémon intelligente, dotato di una memoria\ndi ferro. Sembra che molti fattorini lo scelgano\ncome compagno.",
         de: "Es ist clever und hat ein gutes Gedächtnis.\nAnscheinend wird es von vielen Lieferanten als\nPartner ausgewählt.",
+        "pt-br": "Estes Pokémon geniais têm uma ótima memória. Aparentemente, muitos entregadores os escolhem como parceiros Pokémon.",
         "zh-tw": "頭腦聰明且記性很好。\n似乎有許多快遞員\n將牠選為自己的搭檔。"
     },
     attacks: [

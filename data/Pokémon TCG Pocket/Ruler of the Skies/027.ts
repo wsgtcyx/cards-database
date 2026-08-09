@@ -30,7 +30,13 @@ const card: Card = {
     dexId: [228],
     stage: "Basic",
     description: {
-        en: "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey."
+        en: "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+        fr: "Quand il communique avec ses semblables, il ne pousse pas les mêmes cris que quand il poursuit une proie.",
+        es: "Usa diferentes tipos de aullidos para comunicarse con los de su especie o para perseguir a su presa.",
+        it: "Usa versi differenti per comunicare con i suoi simili e per braccare la preda.",
+        de: "Sein Ruf bei der Beutejagd unterscheidet sich von dem Ruf, den es zum Kommunizieren mit Artgenossen verwendet.",
+        "pt-br": "Usa diferentes tipos de chamados para se comunicar com outros de sua espécie e para perseguir sua presa.",
+        "zh-tw": "聯絡夥伴和追逐獵物\n的時候，會分別發出\n不同種類的叫聲。"
     },
     attacks: [
         {

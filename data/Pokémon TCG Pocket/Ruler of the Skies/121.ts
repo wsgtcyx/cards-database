@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [714],
     stage: "Basic",
     description: {
-        en: "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz."
+        en: "Noibat can change the frequency of its sound waves at will, and it generates ultrasonic waves of up to 200,000 hertz.",
+        fr: "Il est capable de modifier la fréquence de ses ondes sonores à volonté et produit des ultrasons allant jusqu'à 200 000 Hz.",
+        es: "Es capaz de modificar a su antojo la frecuencia de las ondas ultrasónicas que emite, las cuales pueden alcanzar hasta 200 000 Hz.",
+        it: "Può cambiare a piacimento la frequenza delle proprie onde sonore, fino a raggiungere ultrasuoni di un massimo di 200.000 hertz.",
+        de: "Es kann die Frequenz seiner Schallwellen nach Belieben ändern und sogar Ultraschallwellen von bis zu 200 000 Hz freisetzen.",
+        "pt-br": "Noibat pode mudar a frequência de suas ondas sonoras à vontade e gera ondas ultrassônicas de até 200.000 hertz.",
+        "zh-tw": "可以自由自在地改變\n音波的頻率，最高能夠\n發出20萬赫茲的超音波。"
     },
     attacks: [
         {

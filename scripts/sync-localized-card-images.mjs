@@ -33,6 +33,8 @@ const RAENONX_MASTER_URL = 'https://ptcgp.raenonx.cc/api/data/global-master'
 const RAENONX_MASTER_FALLBACK = process.env.POCKET_IMAGE_SYNC_MASTER_FALLBACK || '/tmp/pocket-localization-raenonx-master.json'
 const POKEOS_ORIGIN = 'https://www.pokeos.com'
 const POKEOS_IMAGE_ORIGIN = 'https://s3.pokeos.com'
+const POKEBASE_ORIGIN = 'https://pokebase.app'
+const POKEBASE_IMAGE_ORIGIN = 'https://i.pokebase.app'
 const FLIBUSTIER_RELEASE_URL = 'https://github.com/flibustier/pokemon-tcg-pocket-database/releases/download/2.9.2/release.zip'
 const FLIBUSTIER_COMMIT = 'd317957f5c18c4b05d11c24a9ef796edd598f87a'
 const FLIBUSTIER_ARCHIVE = process.env.POCKET_IMAGE_SYNC_ARCHIVE || '/tmp/flibustier-pocket-release-2.9.2.zip'
@@ -84,7 +86,9 @@ Phases:
 
 Options:
   --master <file>       Frozen RaenonX master JSON (default: run snapshot, then ${RAENONX_MASTER_FALLBACK})
-  --source <name>       raenonx-localized (default), pokeos-localized, or flibustier-en
+  --source <name>       raenonx-localized (default), pokeos-localized, pokebase-localized, or flibustier-en
+  --source-manifest <file>
+                        Digest-bound repository source manifest for pokebase-localized
   --set-id <id>         Project set ID for pokeos-localized
   --source-set-id <id>  Numeric PokeOS set ID for pokeos-localized
   --locales <id,...>    PokeOS image locales (currently de,it)
@@ -97,7 +101,7 @@ Options:
 
 function parseArgs(argv) {
 	const phase = argv.find((arg) => !arg.startsWith('--'))
-	const options = { phase, master: null, source: 'raenonx-localized', archive: FLIBUSTIER_ARCHIVE, cards: [], write: false, shard: null, shards: 1, setId: null, sourceSetId: null, locales: [] }
+	const options = { phase, master: null, source: 'raenonx-localized', sourceManifest: null, archive: FLIBUSTIER_ARCHIVE, cards: [], write: false, shard: null, shards: 1, setId: null, sourceSetId: null, locales: [] }
 	for (let index = 0; index < argv.length; index += 1) {
 		const arg = argv[index]
 		if (arg === '--help') options.help = true
@@ -107,6 +111,9 @@ function parseArgs(argv) {
 		}
 		if (arg === '--source' || arg.startsWith('--source=')) {
 			options.source = arg.startsWith('--source=') ? arg.slice('--source='.length) : argv[++index]
+		}
+		if (arg === '--source-manifest' || arg.startsWith('--source-manifest=')) {
+			options.sourceManifest = arg.startsWith('--source-manifest=') ? arg.slice('--source-manifest='.length) : argv[++index]
 		}
 		if (arg === '--set-id' || arg.startsWith('--set-id=')) {
 			options.setId = arg.startsWith('--set-id=') ? arg.slice('--set-id='.length) : argv[++index]
@@ -254,6 +261,22 @@ function assertPokeosSourceUrl(value, sourceSetId, number, sourceLocale) {
 	const expectedPath = `/pokeos-uploads/tcg/pocket/${sourceSetId}/src/${number}_${sourceLocale}.png`
 	if (parsed.origin !== POKEOS_IMAGE_ORIGIN || parsed.username || parsed.password || parsed.pathname !== expectedPath || parsed.search || parsed.hash) {
 		throw new Error(`Unexpected PokeOS source URL: ${String(value)}`)
+	}
+	return value
+}
+
+function assertPokebaseSourceUrl(value, sourceLocale, sourceFilename) {
+	if (!['de_DE', 'it_IT'].includes(sourceLocale)) throw new Error(`Unsupported PokéBase image locale: ${String(sourceLocale)}`)
+	if (
+		typeof sourceFilename !== 'string' ||
+		!/^[A-Za-z0-9_%().-]+\.png$/.test(sourceFilename) ||
+		!sourceFilename.includes(`_${sourceLocale}`)
+	) throw new Error(`Invalid PokéBase source filename: ${String(sourceFilename)}`)
+	let parsed
+	try { parsed = new URL(value) } catch { throw new Error(`Invalid PokéBase source URL: ${String(value)}`) }
+	const expectedPath = `/pokemon-tcg-pocket/${sourceFilename}`
+	if (parsed.origin !== POKEBASE_IMAGE_ORIGIN || parsed.username || parsed.password || parsed.pathname !== expectedPath || parsed.search || parsed.hash) {
+		throw new Error(`Unexpected PokéBase source URL: ${String(value)}`)
 	}
 	return value
 }
@@ -787,9 +810,185 @@ async function auditPokeosLocalized(options) {
 	console.log(JSON.stringify(audit.counts, null, 2))
 }
 
+function loadPokebaseSourceManifest(sourceManifest) {
+	if (!sourceManifest) throw new Error('pokebase-localized requires --source-manifest')
+	const file = resolveInside(ROOT, sourceManifest, 'PokéBase source manifest')
+	const relativeFile = path.relative(ROOT, file).split(path.sep).join('/')
+	if (!relativeFile.startsWith('meta/pocket-source-reviews/')) {
+		throw new Error(`PokéBase source manifest must be stored under meta/pocket-source-reviews: ${relativeFile}`)
+	}
+	const stat = fs.lstatSync(file)
+	if (!stat.isFile() || stat.isSymbolicLink()) throw new Error(`PokéBase source manifest must be a regular non-symlink file: ${relativeFile}`)
+	const manifest = readArtifact(file)
+	if (
+		manifest.schemaVersion !== 1 ||
+		manifest.source?.provider !== 'PokéBase' ||
+		manifest.source?.pageOrigin !== POKEBASE_ORIGIN ||
+		manifest.source?.cdnOrigin !== POKEBASE_IMAGE_ORIGIN ||
+		manifest.source?.rights?.openLicenseFound !== false ||
+		!Array.isArray(manifest.entries) ||
+		!Array.isArray(manifest.scope?.unresolved)
+	) throw new Error(`Invalid PokéBase source manifest schema: ${relativeFile}`)
+	return { file, relativeFile, manifest }
+}
+
+function assertPokebaseSourcePage(value, setId) {
+	let parsed
+	try { parsed = new URL(value) } catch { throw new Error(`Invalid PokéBase source page: ${String(value)}`) }
+	const upstreamSetId = setId === 'P-B' ? 'PROMO-B' : setId
+	if (
+		parsed.origin !== POKEBASE_ORIGIN ||
+		parsed.username || parsed.password || parsed.pathname !== `/pokemon-tcg-pocket/tracker/${upstreamSetId}` ||
+		parsed.search || parsed.hash
+	) throw new Error(`Unexpected PokéBase source page: ${String(value)}`)
+	return value
+}
+
+function validatePokebaseEvidenceEntry(entry, manifest) {
+	if (!entry || typeof entry !== 'object') throw new Error('Invalid PokéBase evidence entry')
+	const { setId, localId, number } = cardIdParts(entry.id)
+	if (
+		setId !== manifest.scope.setId || entry.setId !== setId || entry.localId !== localId ||
+		entry.number !== number || !['de', 'it'].includes(entry.locale)
+	) throw new Error(`PokéBase evidence identity mismatch: ${String(entry.id)}/${String(entry.locale)}`)
+	const expectedSourceLocale = entry.locale === 'de' ? 'de_DE' : 'it_IT'
+	if (entry.sourceLocale !== expectedSourceLocale) throw new Error(`PokéBase source locale mismatch: ${entry.id}/${entry.locale}`)
+	if (typeof entry.sourceCardId !== 'string' || !/^PK_[A-Za-z0-9_]+$/.test(entry.sourceCardId)) {
+		throw new Error(`Invalid PokéBase source card ID: ${String(entry.sourceCardId)}`)
+	}
+	if (!entry.sourceFilename?.includes(`c${entry.sourceCardId}_`)) throw new Error(`PokéBase filename/card mismatch: ${entry.id}/${entry.locale}`)
+	assertPokebaseSourceUrl(entry.sourceUrl, entry.sourceLocale, entry.sourceFilename)
+	assertPokebaseSourcePage(entry.sourcePageUrl, setId)
+	if (
+		entry.contentType !== 'image/png' || !Number.isInteger(entry.sourceBytes) || entry.sourceBytes < 16 ||
+		!Number.isInteger(entry.width) || entry.width < 1 || !Number.isInteger(entry.height) || entry.height < 1 ||
+		!/^[a-f0-9]{64}$/.test(entry.sourceSha256) || entry.visualLanguageCheck?.status !== 'pass' ||
+		entry.visualLanguageCheck?.localizedRulesTextVisible !== true
+	) throw new Error(`Incomplete PokéBase binary/review evidence: ${entry.id}/${entry.locale}`)
+	return entry
+}
+
+async function auditPokebaseLocalized(options) {
+	const { relativeFile, manifest } = loadPokebaseSourceManifest(options.sourceManifest)
+	if (!/^[A-Za-z0-9-]+$/.test(manifest.scope.setId) || JSON.stringify(manifest.scope.locales) !== JSON.stringify(['de', 'it'])) {
+		throw new Error('PokéBase source manifest scope must bind one set and locales ["de","it"]')
+	}
+	assertPokebaseSourcePage(manifest.source.pageUrl, manifest.scope.setId)
+	const entryKeys = new Set()
+	const sourceUrls = new Set()
+	for (const entry of manifest.entries) {
+		validatePokebaseEvidenceEntry(entry, manifest)
+		const key = `${entry.id}:${entry.locale}`
+		if (entryKeys.has(key) || sourceUrls.has(entry.sourceUrl)) throw new Error(`Duplicate PokéBase evidence: ${key}`)
+		entryKeys.add(key)
+		sourceUrls.add(entry.sourceUrl)
+	}
+	const unresolvedKeys = new Set()
+	for (const item of manifest.scope.unresolved) {
+		const { setId, localId } = cardIdParts(item.id)
+		const key = `${item.id}:${item.locale}`
+		if (
+			setId !== manifest.scope.setId || item.localId !== localId || !['de', 'it'].includes(item.locale) ||
+			typeof item.reason !== 'string' || !item.reason || entryKeys.has(key) || unresolvedKeys.has(key)
+		) throw new Error(`Invalid PokéBase unresolved entry: ${key}`)
+		unresolvedKeys.add(key)
+	}
+	if (
+		manifest.scope.foundPairs !== manifest.entries.length ||
+		manifest.scope.expectedPairs !== manifest.entries.length + manifest.scope.unresolved.length
+	) throw new Error('PokéBase source manifest pair counts do not match its entries')
+
+	const setFolders = loadSetFolders()
+	const downstream = loadDownstream()
+	const targetInventory = targetCards(downstream)
+	const byId = new Map(targetInventory.cards.map((card) => [card.id, card]))
+	const fallback = knownFallbackKeys()
+	const targets = []
+	for (const entry of manifest.entries) {
+		const card = byId.get(entry.id)
+		if (!card) throw new Error(`PokéBase evidence card is absent locally: ${entry.id}`)
+		const config = LOCALE_CONFIG[entry.locale]
+		const localCard = downstream[entry.locale].cards[card.key]
+		if (!localCard) throw new Error(`${entry.locale}: missing ${entry.id}`)
+		const metadata = loadMetadataImage(setFolders, card.setId, card.localId)
+		const desiredImage = r2BaseUrl(config.r2Locale, card.setId, card.localId)
+		const existingMetadata = metadata.images[config.apiLocale]
+		const alreadyLocalized = existingMetadata === desiredImage && localCard.image === desiredImage
+		targets.push(alreadyLocalized ? {
+			...card, locale: entry.locale, status: 'already-localized', currentImage: localCard.image, desiredImage,
+			metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
+		} : {
+			...card,
+			locale: entry.locale,
+			status: 'source-available',
+			sourceKind: 'pokebase-localized',
+			currentImage: localCard.image,
+			desiredImage,
+			existingMetadata: existingMetadata || null,
+			metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
+			metadataSha256: sha256(Buffer.from(metadata.source, 'utf8')),
+			sourceManifestFile: relativeFile,
+			sourceManifestSha256: manifest.artifactSha256,
+			sourceLocale: entry.sourceLocale,
+			sourceCardId: entry.sourceCardId,
+			sourceFilename: entry.sourceFilename,
+			sourceUrl: entry.sourceUrl,
+			sourcePageUrl: entry.sourcePageUrl,
+			sourceSha256: entry.sourceSha256,
+			sourceBytes: entry.sourceBytes,
+			sourceWidth: entry.width,
+			sourceHeight: entry.height,
+			r2HighKey: r2Key(config.r2Locale, card.setId, card.localId, 'high'),
+			r2LowKey: r2Key(config.r2Locale, card.setId, card.localId, 'low'),
+			collision: fallback.keys.has(r2Key(config.r2Locale, card.setId, card.localId, 'high')) ? 'known-english-fallback' : 'new',
+		})
+	}
+	for (const item of manifest.scope.unresolved) {
+		const card = byId.get(item.id)
+		if (!card) throw new Error(`PokéBase unresolved card is absent locally: ${item.id}`)
+		const metadata = loadMetadataImage(setFolders, card.setId, card.localId)
+		const localCard = downstream[item.locale].cards[card.key]
+		if (!localCard) throw new Error(`${item.locale}: missing ${item.id}`)
+		targets.push({
+			...card,
+			locale: item.locale,
+			status: 'unresolved-english-fallback',
+			currentImage: localCard.image,
+			desiredImage: localCard.image,
+			metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
+			reason: item.reason,
+		})
+	}
+	const sourceAvailable = targets.filter((target) => target.status === 'source-available')
+	const alreadyLocalized = targets.filter((target) => target.status === 'already-localized')
+	const unresolved = targets.filter((target) => target.status === 'unresolved-english-fallback')
+	const audit = {
+		schemaVersion: 2,
+		generatedAt: new Date().toISOString(),
+		runId: RUN_ID,
+		policy: { localizedSourceOnly: true, unknownR2Collision: 'block', redistributionLicense: 'not-found-user-authorized-attributed-mirror' },
+		source: {
+			kind: 'pokebase-localized',
+			manifestFile: relativeFile,
+			manifestSha256: manifest.artifactSha256,
+			pageUrl: manifest.source.pageUrl,
+			pageRetrievedAt: manifest.source.pageRetrievedAt,
+			attribution: POKEBASE_ORIGIN,
+			licenseNote: manifest.source.rights.assessment,
+		},
+		scope: { setId: manifest.scope.setId, locales: manifest.scope.locales, resolver: 'digest-bound project card ID and locale evidence entries' },
+		counts: { targetPairs: targets.length, sourceAvailable: sourceAvailable.length, alreadyLocalized: alreadyLocalized.length, unresolved: unresolved.length },
+		targets: targets.sort((left, right) => `${left.id}:${left.locale}`.localeCompare(`${right.id}:${right.locale}`, 'en', { numeric: true })),
+	}
+	await writeArtifact(path.join(RUN_DIR, 'localized-image-audit.json'), audit)
+	await writeArtifact(path.join(RUN_DIR, 'unresolved.json'), { schemaVersion: 2, generatedAt: audit.generatedAt, auditSha256: artifactDigest(audit), policy: audit.policy, entries: unresolved })
+	console.log(JSON.stringify(audit.counts, null, 2))
+}
+
 async function audit(options) {
 	if (options.source === 'flibustier-en') return auditFlibustierEnglish(options)
 	if (options.source === 'pokeos-localized') return auditPokeosLocalized(options)
+	if (options.source === 'pokebase-localized') return auditPokebaseLocalized(options)
 	if (options.source !== 'raenonx-localized') throw new Error(`Unknown source mode: ${options.source}`)
 	const setFolders = loadSetFolders()
 	const downstream = loadDownstream()
@@ -938,6 +1137,23 @@ function validateAuditTarget(target) {
 			if (!/^[0-9]+$/.test(target.sourceCardId)) throw new Error(`Invalid PokeOS card ID: ${String(target.sourceCardId)}`)
 			assertPokeosSourceUrl(target.sourceUrl, target.sourceSetId, target.number, target.sourceLocale)
 			if (!/^[a-f0-9]{64}$/.test(target.metadataSha256)) throw new Error(`Missing metadata baseline: ${target.id}/${target.locale}`)
+		} else if (target.sourceKind === 'pokebase-localized') {
+			assertPokebaseSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceFilename)
+			assertPokebaseSourcePage(target.sourcePageUrl, setId)
+			if (
+				!/^[a-f0-9]{64}$/.test(target.metadataSha256) || !/^[a-f0-9]{64}$/.test(target.sourceSha256) ||
+				!Number.isInteger(target.sourceBytes) || target.sourceBytes < 16 ||
+				!Number.isInteger(target.sourceWidth) || target.sourceWidth < 1 ||
+				!Number.isInteger(target.sourceHeight) || target.sourceHeight < 1 ||
+				!/^[a-f0-9]{64}$/.test(target.sourceManifestSha256)
+			) throw new Error(`Missing PokéBase source/baseline evidence: ${target.id}/${target.locale}`)
+			const { manifest } = loadPokebaseSourceManifest(target.sourceManifestFile)
+			if (manifest.artifactSha256 !== target.sourceManifestSha256) throw new Error(`PokéBase source manifest changed: ${target.id}/${target.locale}`)
+			const evidence = manifest.entries.find((entry) => entry.id === target.id && entry.locale === target.locale)
+			if (
+				!evidence || evidence.sourceUrl !== target.sourceUrl || evidence.sourceSha256 !== target.sourceSha256 ||
+				evidence.sourceBytes !== target.sourceBytes || evidence.width !== target.sourceWidth || evidence.height !== target.sourceHeight
+			) throw new Error(`PokéBase target/evidence mismatch: ${target.id}/${target.locale}`)
 		} else {
 			if (!target.sourceLocale || !SOURCE_LOCALES.includes(target.sourceLocale)) throw new Error(`Invalid source locale for ${target.id}/${target.locale}`)
 			assertSourceCardId(target.sourceCardId)
@@ -995,16 +1211,21 @@ async function download(options) {
 			if (buffer.length < 16 || buffer.subarray(0, 4).toString('ascii') !== 'RIFF' || buffer.subarray(8, 12).toString('ascii') !== 'WEBP') throw new Error(`Invalid WebP source: ${target.id}`)
 		} else {
 			if (target.sourceKind === 'pokeos-localized') assertPokeosSourceUrl(target.sourceUrl, target.sourceSetId, target.number, target.sourceLocale)
+			else if (target.sourceKind === 'pokebase-localized') assertPokebaseSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceFilename)
 			else assertSourceUrl(target.sourceUrl, target.sourceLocale, target.sourceCardId)
 			const response = await fetchWithRetry(target.sourceUrl)
 			if (response.url) {
 				if (target.sourceKind === 'pokeos-localized') assertPokeosSourceUrl(response.url, target.sourceSetId, target.number, target.sourceLocale)
+				else if (target.sourceKind === 'pokebase-localized') assertPokebaseSourceUrl(response.url, target.sourceLocale, target.sourceFilename)
 				else assertSourceUrl(response.url, target.sourceLocale, target.sourceCardId)
 			}
 			contentType = response.headers.get('content-type') || ''
 			if (!/^image\/png(?:;|$)/i.test(contentType)) throw new Error(`Unexpected source content type for ${target.id}/${target.locale}: ${contentType}`)
 			buffer = await readLimitedBody(response)
 			if (buffer.length < 16 || buffer.subarray(0, 8).toString('hex') !== '89504e470d0a1a0a') throw new Error(`Invalid PNG source: ${target.id}/${target.locale}`)
+			if (target.sourceKind === 'pokebase-localized' && (buffer.length !== target.sourceBytes || sha256(buffer) !== target.sourceSha256)) {
+				throw new Error(`PokéBase source bytes changed: ${target.id}/${target.locale}`)
+			}
 			lastModified = response.headers.get('last-modified')
 			etag = response.headers.get('etag')
 		}
@@ -1059,10 +1280,18 @@ async function prepare(options) {
 		if (target.sourceKind === 'flibustier-release') {
 			if (record.sourceKind !== 'flibustier-release' || record.archiveMember !== target.archiveMember) throw new Error(`Archive source mismatch: ${record.id}`)
 		} else if (target.sourceKind === 'pokeos-localized') assertPokeosSourceUrl(record.sourceUrl, target.sourceSetId, target.number, target.sourceLocale)
+		else if (target.sourceKind === 'pokebase-localized') assertPokebaseSourceUrl(record.sourceUrl, target.sourceLocale, target.sourceFilename)
 		else assertSourceUrl(record.sourceUrl, target.sourceLocale, target.sourceCardId)
 		const input = resolveInside(WORK_ROOT, record.path, 'download input')
 		const inputBytes = await fsp.readFile(input)
 		if (record.bytes !== inputBytes.length || record.sha256 !== sha256(inputBytes)) throw new Error(`Download checksum mismatch: ${record.id}/${record.locale}`)
+		if (target.sourceKind === 'pokebase-localized') {
+			if (record.bytes !== target.sourceBytes || record.sha256 !== target.sourceSha256) throw new Error(`PokéBase evidence checksum mismatch: ${record.id}/${record.locale}`)
+			const sourceMetadata = await sharp(input).metadata()
+			if (sourceMetadata.format !== 'png' || sourceMetadata.width !== target.sourceWidth || sourceMetadata.height !== target.sourceHeight) {
+				throw new Error(`PokéBase source dimensions changed: ${record.id}/${record.locale}`)
+			}
+		}
 		const highKey = assertR2Key(target.r2HighKey, LOCALE_CONFIG[target.locale].r2Locale, target.setId, target.localId, 'high')
 		const lowKey = assertR2Key(target.r2LowKey, LOCALE_CONFIG[target.locale].r2Locale, target.setId, target.localId, 'low')
 		const outputs = []
@@ -1146,17 +1375,27 @@ function matchingUploadReceipt(object) {
 	return value.key === object.key && value.sha256 === object.sha256
 }
 
-async function inspectRemoteObject(object) {
+async function inspectRemoteObjectFingerprint(object) {
 	const response = await fetchWithRetry(`${R2_ORIGIN}/${object.key}?sha256=${object.sha256}`, {}, 3, [404])
-	if (response.status === 404) return { status: 404, matches: false }
+	if (response.status === 404) return { status: 404, matches: false, sha256: null, bytes: 0, contentType: '', cacheControl: '' }
 	const bytes = await readLimitedBody(response)
 	const contentType = response.headers.get('content-type') || ''
 	const cacheControl = response.headers.get('cache-control') || ''
 	const immutableYear = /(?:^|,)\s*public\s*(?:,|$)/i.test(cacheControl) && /(?:^|,)\s*max-age=31536000\s*(?:,|$)/i.test(cacheControl) && /(?:^|,)\s*immutable\s*(?:,|$)/i.test(cacheControl)
+	const digest = sha256(bytes)
 	return {
 		status: response.status,
-		matches: response.ok && /^image\/webp(?:;|$)/i.test(contentType) && immutableYear && bytes.subarray(0, 4).toString('ascii') === 'RIFF' && bytes.subarray(8, 12).toString('ascii') === 'WEBP' && sha256(bytes) === object.sha256,
+		matches: response.ok && /^image\/webp(?:;|$)/i.test(contentType) && immutableYear && bytes.subarray(0, 4).toString('ascii') === 'RIFF' && bytes.subarray(8, 12).toString('ascii') === 'WEBP' && digest === object.sha256,
+		sha256: digest,
+		bytes: bytes.length,
+		contentType,
+		cacheControl,
 	}
+}
+
+async function inspectRemoteObject(object) {
+	const { status, matches } = await inspectRemoteObjectFingerprint(object)
+	return { status, matches }
 }
 
 async function writeUploadReceipt(object, extra = {}) {
@@ -1177,6 +1416,7 @@ async function preflight(options) {
 	const uploadedKeys = new Set((uploadSummary?.objects || []).map((object) => object.key))
 	const collisions = []
 	const failures = []
+	const replacementBaselines = []
 	await mapWithConcurrency(objects, 16, async (object) => {
 		const response = await fetchWithRetry(`${R2_ORIGIN}/${object.key}`, { method: 'HEAD' }, 3, [404])
 		if (response.status === 404) return
@@ -1185,15 +1425,24 @@ async function preflight(options) {
 		if (!/^image\/webp(?:;|$)/i.test(contentType)) failures.push({ key: object.key, status: response.status, contentType, reason: 'unexpected-content-type' })
 		const receiptMatches = matchingUploadReceipt(object)
 		let reusable = uploadedKeys.has(object.key) || receiptMatches
-		if (!reusable && manifest.sourceKind === 'flibustier-release') {
-			const remote = await inspectRemoteObject(object)
+		let remote = null
+		if (!reusable) {
+			remote = await inspectRemoteObjectFingerprint(object)
 			if (remote.matches) {
 				await writeUploadReceipt(object, { recoveredAt: new Date().toISOString() })
 				reusable = true
 			}
 		}
-		if (manifest.sourceKind === 'flibustier-release' ? !reusable : (!fallback.keys.has(object.key) && !reusable)) collisions.push(object.key)
+		if (!reusable && manifest.sourceKind !== 'flibustier-release' && fallback.keys.has(object.key)) {
+			remote ||= await inspectRemoteObjectFingerprint(object)
+			if (
+				remote.status !== 200 || !/^image\/webp(?:;|$)/i.test(remote.contentType) ||
+				!remote.sha256 || !Number.isInteger(remote.bytes) || remote.bytes < 1
+			) failures.push({ key: object.key, status: remote.status, contentType: remote.contentType, reason: 'fallback-replacement-baseline-unavailable' })
+			else replacementBaselines.push({ key: object.key, sha256: remote.sha256, bytes: remote.bytes })
+		} else if (manifest.sourceKind === 'flibustier-release' ? !reusable : (!fallback.keys.has(object.key) && !reusable)) collisions.push(object.key)
 	})
+	replacementBaselines.sort((left, right) => left.key.localeCompare(right.key))
 	const result = {
 		schemaVersion: 1,
 		generatedAt: new Date().toISOString(),
@@ -1201,7 +1450,8 @@ async function preflight(options) {
 		manifestSha256: manifest.artifactSha256,
 		selection: manifest.selection,
 		objects: objects.length,
-		allowedFallbackCollisions: manifest.sourceKind === 'flibustier-release' ? 0 : objects.filter((object) => fallback.keys.has(object.key)).length,
+		allowedFallbackCollisions: replacementBaselines.length,
+		replacementBaselines,
 		reusedUploadedObjects: objects.filter((object) => uploadedKeys.has(object.key) || matchingUploadReceipt(object)).length,
 		collisions,
 		failures,
@@ -1257,6 +1507,7 @@ async function upload(options) {
 		(options.shard === null || index % options.shards === options.shard),
 	)
 	const receiptsRoot = resolveInside(WORK_ROOT, 'upload-receipts', 'upload receipts root')
+	const replacementBaselines = new Map((preflight.replacementBaselines || []).map((item) => [item.key, item]))
 	const wrangler = process.env.WRANGLER_BIN || '/usr/local/bin/wrangler'
 	await mapWithConcurrency(objects, 12, async (object) => {
 		validateManifestObject(object, audit)
@@ -1268,20 +1519,30 @@ async function upload(options) {
 		const file = resolveInside(WORK_ROOT, object.path, 'upload input')
 		const localBytes = await fsp.readFile(file)
 		if (localBytes.length !== object.bytes || sha256(localBytes) !== object.sha256) throw new Error(`Upload input checksum mismatch: ${object.key}`)
-		const remote = await inspectRemoteObject(object)
+		const remote = await inspectRemoteObjectFingerprint(object)
 		if (remote.status !== 404) {
-			if (!remote.matches) throw new Error(`Existing R2 object differs from manifest: ${object.key}`)
-			if (!matchingUploadReceipt(object)) await writeUploadReceipt(object, { recoveredAt: new Date().toISOString() })
-			return
+			if (remote.matches) {
+				if (!matchingUploadReceipt(object)) await writeUploadReceipt(object, { recoveredAt: new Date().toISOString() })
+				return
+			}
+			const baseline = replacementBaselines.get(object.key)
+			if (!baseline || baseline.sha256 !== remote.sha256 || baseline.bytes !== remote.bytes) {
+				throw new Error(`Existing R2 object differs from its preflight replacement baseline: ${object.key}`)
+			}
 		}
 		await fsp.mkdir(path.dirname(receipt), { recursive: true })
 		const log = resolveInside(WORK_ROOT, `upload-receipts/${object.key}.log`, 'upload log')
 		// ponytail: Wrangler has no conditional create; this immediate GET narrows but cannot eliminate a cross-machine create race.
-		const immediatelyBeforePut = await inspectRemoteObject(object)
-		if (immediatelyBeforePut.status !== 404) throw new Error(`R2 object appeared before upload: ${object.key}`)
+		const immediatelyBeforePut = await inspectRemoteObjectFingerprint(object)
+		const replacementBaseline = replacementBaselines.get(object.key)
+		if (replacementBaseline) {
+			if (immediatelyBeforePut.sha256 !== replacementBaseline.sha256 || immediatelyBeforePut.bytes !== replacementBaseline.bytes) {
+				throw new Error(`R2 replacement target changed before upload: ${object.key}`)
+			}
+		} else if (immediatelyBeforePut.status !== 404) throw new Error(`R2 object appeared before upload: ${object.key}`)
 		const result = await runUploadCommand(wrangler, ['r2', 'object', 'put', `${R2_BUCKET}/${object.key}`, `--file=${file}`, '--content-type=image/webp', '--cache-control=public, max-age=31536000, immutable', '--remote'])
 		await fsp.writeFile(log, `${result.stdout}${result.stderr}`, 'utf8')
-		await writeUploadReceipt(object, { uploadedAt: new Date().toISOString() })
+		await writeUploadReceipt(object, { uploadedAt: new Date().toISOString(), replacedSha256: replacementBaseline?.sha256 || null })
 	})
 	if (options.shards === 1 && options.shard === null) {
 		await writeArtifact(path.join(RUN_DIR, 'upload-summary.json'), {
@@ -1291,6 +1552,8 @@ async function upload(options) {
 			manifestSha256: manifest.artifactSha256,
 			preflightSha256: preflight.artifactSha256,
 			selection: manifest.selection,
+			replacedObjects: [...replacementBaselines].map(([key, value]) => ({ key, previousSha256: value.sha256 })),
+			requiresCdnPurge: [...replacementBaselines.keys()].map((key) => `${R2_ORIGIN}/${key}`),
 			objects: manifest.objects.map(({ key, sha256: digest }) => ({ key, sha256: digest })),
 		})
 	}
@@ -1535,6 +1798,7 @@ if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve(fileURLToP
 
 export {
 	assertExactR2Url,
+	assertPokebaseSourceUrl,
 	assertPokeosSourceUrl,
 	assertDownstreamApplyBaseline,
 	assertMetadataApplyBaseline,

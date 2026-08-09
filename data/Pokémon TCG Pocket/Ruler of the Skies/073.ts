@@ -30,7 +30,13 @@ const card: Card = {
     dexId: [358],
     stage: "Basic",
     description: {
-        en: "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes."
+        en: "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+        fr: "Ses cris résonnent dans la partie creuse de son corps et se transforment en notes mélodieuses qui stupéfient ses adversaires et les font fuir.",
+        es: "Los gritos que resuenan en su cuerpo hueco emergen como hermosas notas que sorprenden y ahuyentan a los enemigos.",
+        it: "I suoi versi riecheggiano dentro il corpo vuoto, creando una piacevole melodia che usa per confondere e allontanare i nemici.",
+        de: "Sein Ruf hallt im Hohlraum seines Körpers wider und wird zu einem wunderschönen Klang, der Gegner erschreckt und verjagt.",
+        "pt-br": "Seus sons ecoam dentro de seu corpo oco e emergem como lindas notas para assustar e repelir inimigos.",
+        "zh-tw": "叫聲會在身體的空洞裡\n迴盪出美麗的音色，\n趕走被嚇到的敵人。"
     },
     attacks: [
         {

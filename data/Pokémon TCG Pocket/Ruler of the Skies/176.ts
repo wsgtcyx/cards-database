@@ -42,8 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "In the dark, even Hydreigon are terrified of this Pokémon. But in the light, Noivern is the one that avoids battle.",
+        fr: "En pleine lumière, il fuit tout affrontement, mais quand l'obscurité règne, même Trioxhydre le craint.",
         "es": "Cuando reina la oscuridad, hace temblar incluso a los Hydreigon. En cambio, evita luchar a plena luz.",
-        "de": "In der Dunkelheit wird es sogar von Trikephalo gefürchtet. Tagsüber geht es Kämpfen jedoch aus dem Weg."
+        it: "Quando regna l'oscurità, persino gli Hydreigon hanno il terrore di questo Pokémon. Quando è chiaro, invece, rifugge le lotte.",
+        "de": "In der Dunkelheit wird es sogar von Trikephalo gefürchtet. Tagsüber geht es Kämpfen jedoch aus dem Weg.",
+        "pt-br": "Na escuridão, até Hydreigon temem este Pokémon. No entanto, à luz do dia, é Noivern que evita o confronto.",
+        "zh-tw": "如果是在黑暗中，音波龍是\n連三首惡龍都害怕的存在。\n在天色未暗前會避開戰鬥。"
     },
     attacks: [
         {

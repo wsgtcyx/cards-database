@@ -52,6 +52,7 @@ const set: Set = {
 				fr: 'Pikachu',
 				es: 'Pikachu',
 				it: 'Pikachu',
+				de: "Pikachu",
 				'pt-br': 'Pikachu',
 				ko: '피카츄',
 				'zh-tw': '皮卡丘'

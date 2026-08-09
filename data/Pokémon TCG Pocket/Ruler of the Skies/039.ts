@@ -46,6 +46,7 @@ const card: Card = {
         es: "Tiene la costumbre de hacer girar en la punta del\nmorro cualquier objeto redondeado, ya sea una\nPoké Ball o un Spheal.",
         it: "È solito giocare facendo ruotare sulla punta\ndel naso qualsiasi cosa rotonda gli capiti a tiro,\ncompresi Spheal e Poké Ball.",
         de: "Seejong balanciert gerne Pokébälle, Seemops\nund alles, was sonst noch rund ist, auf seiner\nNasenspitze.",
+        "pt-br": "Este Pokémon tem o hábito de girar objetos redondos no nariz, sejam Poké Bolas ou até mesmo um Spheal.",
         "zh-tw": "牠只要看見了圓形的東西，\n不論那是海豹球或是精靈球，\n都會把它頂在鼻子上轉轉看。"
     },
     attacks: [
@@ -64,6 +65,8 @@ const card: Card = {
                 en: "If your opponent's Active Pokémon is a {F} Pokémon, this attack does 70 more damage.",
                 fr: "Si le Pokémon Actif de votre adversaire est un Pokémon {F}, cette attaque inflige 70 dégâts supplémentaires.",
                 es: "Si el Pokémon Activo de tu rival es un Pokémon {F}, este ataque hace 70 puntos de daño más.",
+                it: "Se il Pokémon attivo del tuo avversario è un Pokémon {F}, questo attacco infligge 70 danni in più.",
+                de: "Wenn das Aktive Pokémon deines Gegners ein {F}-Pokémon ist, fügt diese Attacke 70 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon {F}, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為{F}寶可夢,則增加70點傷害。"
             },

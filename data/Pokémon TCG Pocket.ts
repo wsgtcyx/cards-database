@@ -9,6 +9,7 @@ const serie: Serie = {
 		fr: "Jeu de Cartes à Collectionner Pokémon Pocket",
 		it: "Gioco di Carte Collezionabili Pokémon Pocket",
 		'pt-br': "Pokémon Estampas Ilustradas Pocket",
+		"zh-tw": "Pokémon TCG Pocket",
 		ko: "포켓몬 카드 게임",
 		ja: 'Pokémon Trading Card Game Pocket'
 	},

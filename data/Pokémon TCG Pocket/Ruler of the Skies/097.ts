@@ -45,6 +45,7 @@ const card: Card = {
         es: "Evoluciona tras haber librado numerosas peleas.\nEl grito de guerra que profiere mientras pone los\nbrazos en cruz atemoriza a cualquier rival.",
         it: "Si è evoluto a forza di lottare. L’urlo di guerra\nche lancia mentre mette le braccia a X è in\ngrado di terrorizzare qualsiasi avversario.",
         de: "Durch das Austragen unzähliger Kämpfe hat es\nsich entwickelt. Formt es mit den Armen ein „X“\nund stößt einen Schrei aus, verschreckt das jeden.",
+        "pt-br": "Este Pokémon evoluiu depois de travar muitas batalhas. Ao cruzar os braços, solta um grito que causa hesitação em qualquer oponente.",
         "zh-tw": "在不斷的鬥爭中得到了進化。\n牠交叉著雙臂發出的怒吼\n能讓一切對手都為之膽怯。"
     },
     attacks: [
@@ -54,6 +55,7 @@ const card: Card = {
                 en: "Bass Control",
                 fr: "Super Basse",
                 es: "Control de Bajos",
+                it: "Controllo dei Bassi",
                 "pt-br": "Controle de Baixo",
                 "zh-tw": "重低音",
                 "de": "Basskontrolle"
@@ -62,6 +64,7 @@ const card: Card = {
                 en: "This attack does 80 damage to 1 of your opponent's Pokémon.",
                 fr: "Cette attaque inflige 80 dégâts à l'un des Pokémon de votre adversaire.",
                 es: "Este ataque hace 80 puntos de daño a 1 de los Pokémon de tu rival.",
+                it: "Questo attacco infligge 80 danni a uno dei Pokémon del tuo avversario.",
                 "pt-br": "Este ataque causa 80 pontos de dano a 1 dos Pokémon do seu oponente.",
                 "zh-tw": "對手的1隻寶可夢受到80點傷害。",
                 "de": "Diese Attacke fügt 1 Pokémon deines Gegners 80 Schadenspunkte zu."

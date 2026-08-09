@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [227],
     stage: "Basic",
     description: {
-        en: "Since the feathers that it sheds are thin and sharp, people apparently once used them as swords."
+        en: "Since the feathers that it sheds are thin and sharp, people apparently once used them as swords.",
+        fr: "Les plumes qu'il perd étant légères et aiguisées, elles auraient autrefois servi de sabres.",
+        es: "Las plumas que se le desprenden son delgadas y afiladas, por lo que, según parece, antiguamente se usaban a modo de espadas.",
+        it: "Le penne che perde sono sottili e affilate, e si dice che un tempo fossero usate come spade.",
+        de: "Seine ausgefallenen Federn sind dünn und scharf. Es heißt, dass sie einst auch als Schwerter benutzt wurden.",
+        "pt-br": "Como as penas que solta são finas e afiadas, as pessoas aparentemente já as usaram como espadas.",
+        "zh-tw": "由於脫落的羽毛又薄\n又銳利，據說以前曾\n被當成劍來使用。"
     },
     attacks: [
         {

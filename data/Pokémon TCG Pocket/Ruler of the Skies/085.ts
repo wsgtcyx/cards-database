@@ -35,7 +35,9 @@ const card: Card = {
         fr: "Il se propulse à grande vitesse sous la terre en joignant\nses griffes et en tourbillonnant sur lui-même.",
         es: "Cuando junta las garras y comienza a dar vueltas frenéticas,\navanza bajo tierra a gran velocidad.",
         it: "Sfreccia a gran velocità sotto terra, avvitandosi su se stesso,\nmentre si apre un passaggio scavando con le unghie.",
-        de: "Es führt seine beiden Klauen zusammen, dreht sich rapide um\ndie eigene Achse und gräbt sich ratzfatz durch das Erdreich."
+        de: "Es führt seine beiden Klauen zusammen, dreht sich rapide um\ndie eigene Achse und gräbt sich ratzfatz durch das Erdreich.",
+        "pt-br": "Ele abre seu caminho agilmente pelo solo ao unir ambas as garras e girá-las em alta velocidade.",
+        "zh-tw": "只要將兩手的爪子疊在一起，\n並高速旋轉身體，\n便能以驚人的速度在地底前進。"
     },
     attacks: [
         {

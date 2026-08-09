@@ -46,6 +46,7 @@ const card: Card = {
         es: "Vive en tierra firme, pero es un hábil nadador.\nSe zambulle en el agua en busca de presas y las\natrapa con sus afiladas pinzas.",
         it: "Vive sulla terraferma, ma è un abile nuotatore.\nSi tuffa in mare alla ricerca di prede, che abbatte\ncon i suoi artigli affilati.",
         de: "Es lebt an Land, kann aber auch gut schwimmen.\nZum Jagen taucht es ins Meer und erledigt Beute\nmit seinen scharfen Klauen.",
+        "pt-br": "Embora viva em terra firme, também é um excelente nadador. Mergulha no oceano em busca de presas, usando suas garras afiadas para abatê-las.",
         "zh-tw": "生活在陸地上，但也擅長游泳。\n會為了尋找獵物而潛入海中，\n用銳利的爪子解決對方。"
     },
     attacks: [

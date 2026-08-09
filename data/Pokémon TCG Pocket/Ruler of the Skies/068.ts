@@ -35,6 +35,7 @@ const card: Card = {
         es: "Su admiración por Mr. Rime, un consumado\ndanzarín, lo lleva a seguirlo para aprender de él\ne imitar con esmero sus pasos de baile.",
         it: "Considera Mr. Rime il proprio maestro\nper le sue doti di ballerino, e ne imita\ndiligentemente i passi di danza.",
         de: "Es folgt dem talentierten Tänzer Pantifrost wie\nein Schüler und imitiert seine Schritte.",
+        "pt-br": "Procura por um Mr. Rime que dance bem e copia meticulosamente os passos desse Mr. Rime, como um aprendiz.",
         "zh-tw": "像徒弟一樣跟隨著\n擅長跳舞的踏冰人偶，\n拼命模仿牠的舞步。"
     },
     attacks: [

@@ -5,6 +5,8 @@ const card: Card = {
     set: Set,
     image: {
         en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/061",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/061",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/061",
         "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/061",
         fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/061",
         es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/061",

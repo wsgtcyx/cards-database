@@ -46,6 +46,7 @@ const card: Card = {
         es: "Su devoción por la lucha ha propiciado que\nevolucionara y le ha conferido unas peligrosas\ngarras que se convierten en dagas al extenderse.",
         it: "Si è evoluto dopo aver passato giorni interi\na lottare e ha sviluppato degli artigli che,\nuna volta sfoderati, diventano temibili pugnali.",
         de: "Es entwickelte sich nach einer langen Zeit voller\nKämpfe. Nun kann es seine Krallen ausfahren,\num sie als Dolche zu nutzen.",
+        "pt-br": "Depois de muitas batalhas, este Pokémon desenvolveu garras perigosas que se juntam para formar adagas ao serem estendidas.",
         "zh-tw": "在日復一日的戰鬥中得以進化。\n進化的結果是那危險的指甲，\n留長後能當作短劍來用。"
     },
     abilities: [

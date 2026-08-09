@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:25:48.948Z",
+  "auditSha256": "77447b5bb4c2c6d4ed079b527a8665d656672f63554f7d4bc35cb03fb330fa9f",
+  "manifestSha256": "b756801f88869f8d2a9970419354d8865d127ee49d359fd0692e9b3311515dac",
+  "preflightSha256": "7f06cb1d85a3b25c50e2f384d78de31fe509b34d8b53e980094e5ca0d6d19195",
+  "selection": [
+    "P-B-079",
+    "P-B-080",
+    "P-B-082",
+    "P-B-083",
+    "P-B-084",
+    "P-B-085",
+    "P-B-086"
+  ],
+  "replacedObjects": [],
+  "requiresCdnPurge": [],
+  "objects": [
+    {
+      "key": "es/tcgp/P-B/079/high.webp",
+      "sha256": "321871d9eb3fc739fd1391ccab5c893fcc8a00ed0583127e425b6791701ae8d2"
+    },
+    {
+      "key": "es/tcgp/P-B/079/low.webp",
+      "sha256": "f4b754c6c4d051562cf83688cd5c92e9ac14f1a7be76b7d1caaab6d04a79a016"
+    },
+    {
+      "key": "es/tcgp/P-B/080/high.webp",
+      "sha256": "9e2f413fe1b0dd0094eb87dccc2b98183fa55f467696df67e2d12b30ab216a21"
+    },
+    {
+      "key": "es/tcgp/P-B/080/low.webp",
+      "sha256": "b90a32e1db9223125ab4731042bef15ddfce6f6bf31d314896493b373dfba769"
+    },
+    {
+      "key": "es/tcgp/P-B/082/high.webp",
+      "sha256": "c4a9fe64b4a5f695b3a16623fd2982333fa1d3fd1f2ea3b339bb45dc5c18b2fa"
+    },
+    {
+      "key": "es/tcgp/P-B/082/low.webp",
+      "sha256": "3af180135f614c798501a55ae5166200deef4ffa200a390a25fef3cd6c88ff3c"
+    },
+    {
+      "key": "es/tcgp/P-B/083/high.webp",
+      "sha256": "12c1ffa05e2082169a012c811213f4ce87588c875dfd843b0e2ccaa8aebe8fd6"
+    },
+    {
+      "key": "es/tcgp/P-B/083/low.webp",
+      "sha256": "4803bd1241b2c894e6e923e3378fbac0b0303aaf144b5ef70674ac4afe72bae1"
+    },
+    {
+      "key": "es/tcgp/P-B/084/high.webp",
+      "sha256": "24b7726fe60ff183e06f62c75e932d6ca05f279bc600aacd83f4e5e3eda38458"
+    },
+    {
+      "key": "es/tcgp/P-B/084/low.webp",
+      "sha256": "a4684eb101eecb48161645ddeb9f59ef37ca6d62da31ebb376a996c96ece5da0"
+    },
+    {
+      "key": "es/tcgp/P-B/085/high.webp",
+      "sha256": "52d4bd5bd473ecbb938f0b4c7d0b9786c68c938fed389dbe1d16f0acb88a24c0"
+    },
+    {
+      "key": "es/tcgp/P-B/085/low.webp",
+      "sha256": "877c6a7ff7f66fee31783bb65ba1718d2b347e001a0a6435cd01ac12ee838ead"
+    },
+    {
+      "key": "es/tcgp/P-B/086/high.webp",
+      "sha256": "865d7b22811773a838ce90bc7694e3149566f90e5a88184d30ddb2195ddad893"
+    },
+    {
+      "key": "es/tcgp/P-B/086/low.webp",
+      "sha256": "00a537512c1c1b005882ad474b2feea1cff3d6335dec1b24d99b08389f4247ae"
+    },
+    {
+      "key": "fr/tcgp/P-B/079/high.webp",
+      "sha256": "8d4017301ab1f0768733a279e3479ae669f7d5ef9f779d9a35e34651600a943c"
+    },
+    {
+      "key": "fr/tcgp/P-B/079/low.webp",
+      "sha256": "6a332392ab679682ff056251d663696ebbfbb4c6e319b8be0abd28fb9b2648e8"
+    },
+    {
+      "key": "fr/tcgp/P-B/080/high.webp",
+      "sha256": "17cae1208417d0bc11ed142b87b456e6851d984c5f9f477baf39b4a10ec76a0c"
+    },
+    {
+      "key": "fr/tcgp/P-B/080/low.webp",
+      "sha256": "c298e5e7d7066aff363b4c67d2956b5005dc2f8e00dca27acd2fa3a37adba122"
+    },
+    {
+      "key": "fr/tcgp/P-B/082/high.webp",
+      "sha256": "d79ddb23ee41ae607b33e05b778487f5eab13763839b2be7df33e1a2825ac3ed"
+    },
+    {
+      "key": "fr/tcgp/P-B/082/low.webp",
+      "sha256": "534318a4f4d56dfa4fee2c9dea799f6273366510f4979abdc3477b85d51b3359"
+    },
+    {
+      "key": "fr/tcgp/P-B/083/high.webp",
+      "sha256": "d67520e91dd6f94a739ed644f377c94be032953bd1069d224b5f10ba0a4c167c"
+    },
+    {
+      "key": "fr/tcgp/P-B/083/low.webp",
+      "sha256": "fa98e640d053cfeddb17e652aebbe0a163d79c61a02aa3df34065cb5e11e8da1"
+    },
+    {
+      "key": "fr/tcgp/P-B/084/high.webp",
+      "sha256": "e7b2a685e08d29ed17a61e9302a67b4f23501beb0f8122637eaa295628c068a3"
+    },
+    {
+      "key": "fr/tcgp/P-B/084/low.webp",
+      "sha256": "f99f73ff4e517db73403045158b957f22e0c6af83ed9fe8ef9a50de1c942704d"
+    },
+    {
+      "key": "fr/tcgp/P-B/085/high.webp",
+      "sha256": "9386fde14b942bff9b40820d7550042d44438ba7d9c6ebeb2d8f8d8277a9a87b"
+    },
+    {
+      "key": "fr/tcgp/P-B/085/low.webp",
+      "sha256": "814b528b7325fa15703b0cd9f3cfbdc7e766366bb547f49cc625f1fb60f727c7"
+    },
+    {
+      "key": "fr/tcgp/P-B/086/high.webp",
+      "sha256": "a1479078f0117d531ab7500034be47d2f47448f6bdb4eddf2ec57a471a60f585"
+    },
+    {
+      "key": "fr/tcgp/P-B/086/low.webp",
+      "sha256": "21498d0122ce33a2254c8d6f9960a22c8916143ffbc9541a76bc6f266abc18fa"
+    },
+    {
+      "key": "pt/tcgp/P-B/079/high.webp",
+      "sha256": "7ee111ca365aca5f4af3c6b0651df3b76142dc77f0bce55a8de14c5263971e13"
+    },
+    {
+      "key": "pt/tcgp/P-B/079/low.webp",
+      "sha256": "fa96a3aca56ab23d273af33616e46885cbdad90c8a5ee5de65b07c9c9a0156b8"
+    },
+    {
+      "key": "pt/tcgp/P-B/080/high.webp",
+      "sha256": "e833df70e93f0b6f0c973079ebb9bd9c6cdc04d8ad715b07be3599cb282a2e8d"
+    },
+    {
+      "key": "pt/tcgp/P-B/080/low.webp",
+      "sha256": "d2cba23c515c70ca77d4f4b998ca3f53986157affd216de74855c4162838fae0"
+    },
+    {
+      "key": "pt/tcgp/P-B/082/high.webp",
+      "sha256": "86d9b85fc8bf6ac7407a2e49a694f1559cc7aaf450f5d6bea75a85cc25b98748"
+    },
+    {
+      "key": "pt/tcgp/P-B/082/low.webp",
+      "sha256": "bd9900966335958c4034a1b7a99a3d209a7037cef58a6f0e7e93397b96c5abb7"
+    },
+    {
+      "key": "pt/tcgp/P-B/083/high.webp",
+      "sha256": "d82d3012c4f621c01cba161c6f4b8ff3a62ea8069a1417290fc98427ffd2bda9"
+    },
+    {
+      "key": "pt/tcgp/P-B/083/low.webp",
+      "sha256": "3256cdfe106faf30ab2dd95803249d78207d74edbeef7157f0387455e5ca0431"
+    },
+    {
+      "key": "pt/tcgp/P-B/084/high.webp",
+      "sha256": "7e2986f9ac36b86a001f9b8b397e6b20cd22648ba576ae3d8c43b6e8a4939d9f"
+    },
+    {
+      "key": "pt/tcgp/P-B/084/low.webp",
+      "sha256": "5cff98a75464b2ff472f6174ce3673d5871b3c67bbe304baf9fe2e58cae7f43e"
+    },
+    {
+      "key": "pt/tcgp/P-B/085/high.webp",
+      "sha256": "a486b037a230d9bae054c1f647d2c44bece8c3b5f1f7ef2d97a82fddc9790290"
+    },
+    {
+      "key": "pt/tcgp/P-B/085/low.webp",
+      "sha256": "5155e499541e75653e05604a3be415fa496b899eb27d9192cf1871e385846af8"
+    },
+    {
+      "key": "pt/tcgp/P-B/086/high.webp",
+      "sha256": "6bd9679c0765625697ccd476068fdfda404a02c261b0204aae48a611a84b5741"
+    },
+    {
+      "key": "pt/tcgp/P-B/086/low.webp",
+      "sha256": "13bac605ce7163ed1381662dbf6acb9c2fb19b8cac470b414b16110f26118746"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/079/high.webp",
+      "sha256": "aa71d0b43f6ec1812483b70268de56658d4650a0b5c0863a9b1696798a0772d0"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/079/low.webp",
+      "sha256": "faffcec9ba4dd76121bb961835cb19d0acb8766e187391117ee4efbbe8d0f3aa"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/080/high.webp",
+      "sha256": "9e73f80d7eecb146beb7cbf2382e60ab7e98baeba4e92ade3f86207c67dc9e4f"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/080/low.webp",
+      "sha256": "5f9ed0a33c9e4fa5882b3cec57c41c1d1de402be4eabba2039c79783305299c3"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/082/high.webp",
+      "sha256": "0372bf30d901183627eba8154c9efcac082ff4a7221f58314298a2d9fed0b5ef"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/082/low.webp",
+      "sha256": "5e7425aad7998caab87fe118f6223e977f23bed17efbffd81bdc3d901d7332ed"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/083/high.webp",
+      "sha256": "52038a26ea75d00c6d219057071e1076bdf67f1bedc76d66f39f1285224d9ca4"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/083/low.webp",
+      "sha256": "4727d1a2a7ed4eaefd4c343f4265d1a07d722053394f2f09d83e2ced20fe9291"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/084/high.webp",
+      "sha256": "4bba3dfdf1fee7e9bf485cda30091fe4f0d274f250d50ba01156debc54e91eb5"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/084/low.webp",
+      "sha256": "316f3fc5cab89677503f9f64e101980b68c81b1545fe110c978319b040ddd0ed"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/085/high.webp",
+      "sha256": "306953cc1b065f11895eeec37e58166c8f2fa0940557b3737fb41e937ca19236"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/085/low.webp",
+      "sha256": "622aecff375a399b10233b3387e7648c068ce2de3244eba86fdd4d7bdaafa424"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/086/high.webp",
+      "sha256": "847a3cd8bb5c7d25d039194f9f79590ca57ce4e76a35e92227ff2e203f557615"
+    },
+    {
+      "key": "zh-tw/tcgp/P-B/086/low.webp",
+      "sha256": "4f62cbdba89678d3309d518aa1afb78afcca58ceebda21fc7d8087d532f6bd31"
+    }
+  ],
+  "artifactSha256": "53e8f9c14d1077836f5fa441556290933a9e92b6ff16a33925a13886406d15b2"
+}

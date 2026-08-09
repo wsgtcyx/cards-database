@@ -42,8 +42,12 @@ const card: Card = {
     stage: "Stage2",
     description: {
         en: "Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.",
+        fr: "Ses bras sont aussi durs que la roche. Il peut terrasser ses adversaires d'un simple coup. Il aime faire son nid sur les jolies plages.",
         "es": "Tiene unos brazos duros como la roca, con los que puede dejar molido al enemigo de un solo golpe. Construye su nido en playas bonicas.",
-        "pt-br": "Os braços de Swampert são duros como pedra e, com um único golpe, conseguem derrubar os inimigos. Este Pokémon faz ninho em praias maravilhosas."
+        it: "Ha braccia dure come roccia, capaci di abbattere l'avversario in un colpo. Nidifica su splendide spiagge.",
+        de: "Seine Arme sind steinhart. Mit nur einem Schlag kann es Gegner zu Boden strecken. Es baut sein Nest an pittoresken Stränden.",
+        "pt-br": "Os braços de Swampert são duros como pedra e, com um único golpe, conseguem derrubar os inimigos. Este Pokémon faz ninho em praias maravilhosas.",
+        "zh-tw": "雙臂堅硬如岩石，\n只要揮一下就能擊倒對手。\n會在美麗的沙灘築巢。"
     },
     attacks: [
         {

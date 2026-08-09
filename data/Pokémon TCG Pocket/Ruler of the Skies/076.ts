@@ -46,6 +46,7 @@ const card: Card = {
         es: "En algunas regiones se venera a este Pokémon,\nya que consideran la forma de su nariz como un\nsímbolo de felicidad.",
         it: "Si dice che in alcune regioni venga venerato\nper via della forma del suo naso, ritenuta\ndi buon auspicio.",
         de: "Es wird in manchen Regionen für seine Nasenform\nverehrt, die angeblich Glück bringen soll.",
+        "pt-br": "Dizem que o formato auspicioso do nariz deste Pokémon levou algumas regiões a considerar Swoobat um símbolo de boa sorte.",
         "zh-tw": "據說有些地區的人覺得\n牠鼻子的形狀很吉利，\n而把牠當成幸福的象徵來祭拜。"
     },
     attacks: [

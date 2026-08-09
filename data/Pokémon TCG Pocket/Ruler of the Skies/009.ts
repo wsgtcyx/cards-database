@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon."
+        en: "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+        fr: "Ses cris sont tellement variés qu'on organise un concours en leur honneur dans un certain village.",
+        es: "Hay un pueblo en el que celebran un concurso basado en la increíble variedad de sus gritos.",
+        it: "C'è un villaggio che organizza una gara basata sulle melodie incredibilmente varie di questo Pokémon.",
+        de: "Es gibt ein Dorf, wo ein Wettbewerb abgehalten wird, bei dem man Zirpeise mit ihren vielseitigen Rufen gegeneinander antreten lässt.",
+        "pt-br": "Existe um vilarejo que realiza um concurso dos sons mais impressionantes e diferentes deste Pokémon.",
+        "zh-tw": "有村子會讓牠們互相\n比拼變化多端的叫聲，\n當成娛樂活動。"
     },
     attacks: [
         {

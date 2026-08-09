@@ -45,7 +45,9 @@ const card: Card = {
         fr: "Il boit la rosée récoltée par sa soie en attendant\nd’évoluer. Il est à l’abri dans son robuste cocon.",
         es: "Bebe el rocío que recoge con su seda mientras espera\nevolucionar. Se defiende en su capullo.",
         it: "Beve la rugiada che si posa sulla seta e aspetta\nl’evoluzione. Il suo bozzolo duro respinge gli attacchi.",
-        de: "Es trinkt den Tau, der sich in der Seide fängt, und\nwartet auf seine Entwicklung. Sein Kokon schützt es."
+        de: "Es trinkt den Tau, der sich in der Seide fängt, und\nwartet auf seine Entwicklung. Sein Kokon schützt es.",
+        "pt-br": "Ele bebe a umidade que coleta em sua seda e aguarda para evoluir. Seu casulo duro repele ataques.",
+        "zh-tw": "會喝絲線上掛著的朝露，\n持續等待進化的時刻來臨。\n堅硬的繭能夠防禦攻擊。"
     },
     attacks: [
         {

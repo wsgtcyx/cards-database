@@ -65,6 +65,7 @@ const card: Card = {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.",
                 fr: "Si le Pokémon Actif de votre adversaire est un Pokémon‐ex, cette attaque inflige 90 dégâts supplémentaires.",
                 es: "Si el Pokémon Activo de tu rival es un Pokémon ex, este ataque hace 90 puntos de daño más.",
+                de: "Wenn das Aktive Pokémon deines Gegners ein Pokémon-ex ist, fügt diese Attacke 90 Schadenspunkte mehr zu.",
                 "pt-br": "Se o Pokémon Ativo do seu oponente for um Pokémon ex, este ataque causará 90 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為「寶可夢ex」,則增加90點傷害。",
                 "it": "Se il Pokémon attivo del tuo avversario è un Pokémon-eX, questo attacco infligge 90 danni in più."

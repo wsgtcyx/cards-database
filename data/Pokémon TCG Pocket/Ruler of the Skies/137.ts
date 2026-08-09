@@ -36,6 +36,7 @@ const card: Card = {
         es: "Es muy olvidadizo y no demasiado avispado,\npero muchos Entrenadores le tienen simpatía\npor su carácter afable y sincero.",
         it: "È un po’ smemorato e non molto sveglio.\nTuttavia è diligente e si affeziona facilmente,\ne per questo molti Allenatori lo adorano.",
         de: "Sie sind vergesslich und nicht besonders clever,\naber da sie sehr zutraulich und fleißig sind, haben\nviele Trainer sie ins Herz geschlossen.",
+        "pt-br": "É esquecido e não é muito inteligente, mas muitos Treinadores o amam mesmo assim por ser amigável e sincero.",
         "zh-tw": "雖然既健忘又不太聰明，\n因為性格認真且容易親近人，\n所以受到了許多訓練家的喜愛。"
     },
     attacks: [

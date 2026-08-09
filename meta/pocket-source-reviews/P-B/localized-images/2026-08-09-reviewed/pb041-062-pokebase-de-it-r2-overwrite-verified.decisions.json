@@ -1,0 +1,736 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "d7510663a04a5a24b4a3ae177648e127256bfbad",
+  "sources": {
+    "pb041-062-pokebase-de-it-r2-overwrite-verified": {
+      "file": "meta/pocket-source-reviews/P-B/localized-images/2026-08-09-reviewed/pb041-062-pokebase-de-it-r2-overwrite-verified.source.json",
+      "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+      "role": "Reviewed German and Italian card-face source plus R2 collision preflight, controlled English-fallback replacement, exact-URL purge, and zero-failure public bare/cache-busting hash verification.",
+      "version": "2026-08-09; 40 P-B localized image fields",
+      "license": "No public image reuse license was found. Used under the user-authorized attributed mirror policy; Pokémon imagery remains proprietary and the source is not described as open-licensed.",
+      "url": "https://pokebase.app/pokemon-tcg-pocket/tracker/PROMO-B"
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "card",
+      "entityId": "P-B-041",
+      "file": "data/Pokémon TCG Pocket/Promos-B/041.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/041",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/041",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/0"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-041",
+      "file": "data/Pokémon TCG Pocket/Promos-B/041.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/041",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/041",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/1"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-042",
+      "file": "data/Pokémon TCG Pocket/Promos-B/042.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/042",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/042",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/2"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-042",
+      "file": "data/Pokémon TCG Pocket/Promos-B/042.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/042",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/042",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/3"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-043",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/043",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/043",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/4"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-043",
+      "file": "data/Pokémon TCG Pocket/Promos-B/043.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/043",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/043",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/5"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-044",
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/044",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/044",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/6"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-044",
+      "file": "data/Pokémon TCG Pocket/Promos-B/044.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/044",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/044",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/7"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-045",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/045",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/045",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/8"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-045",
+      "file": "data/Pokémon TCG Pocket/Promos-B/045.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/045",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/045",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/9"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-046",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/046",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/046",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/10"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-046",
+      "file": "data/Pokémon TCG Pocket/Promos-B/046.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/046",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/046",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/11"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-047",
+      "file": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/047",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/047",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/12"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-047",
+      "file": "data/Pokémon TCG Pocket/Promos-B/047.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/047",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/047",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/13"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-048",
+      "file": "data/Pokémon TCG Pocket/Promos-B/048.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/048",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/048",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/14"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-048",
+      "file": "data/Pokémon TCG Pocket/Promos-B/048.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/048",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/048",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/15"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-049",
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/049",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/049",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/16"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-049",
+      "file": "data/Pokémon TCG Pocket/Promos-B/049.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/049",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/049",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/17"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-050",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/050",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/050",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/18"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-050",
+      "file": "data/Pokémon TCG Pocket/Promos-B/050.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/050",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/050",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/19"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-053",
+      "file": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/053",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/053",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/20"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-053",
+      "file": "data/Pokémon TCG Pocket/Promos-B/053.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/053",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/053",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/21"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-054",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/054",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/054",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/22"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-054",
+      "file": "data/Pokémon TCG Pocket/Promos-B/054.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/054",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/054",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/23"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-055",
+      "file": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/055",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/055",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/24"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-055",
+      "file": "data/Pokémon TCG Pocket/Promos-B/055.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/055",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/055",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/25"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-056",
+      "file": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/056",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/056",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/26"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-056",
+      "file": "data/Pokémon TCG Pocket/Promos-B/056.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/056",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/056",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/27"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-057",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/057",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/057",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/28"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-057",
+      "file": "data/Pokémon TCG Pocket/Promos-B/057.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/057",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/057",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/29"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-058",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/058",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/058",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/30"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-058",
+      "file": "data/Pokémon TCG Pocket/Promos-B/058.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/058",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/058",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/31"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-059",
+      "file": "data/Pokémon TCG Pocket/Promos-B/059.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/059",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/059",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/32"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-059",
+      "file": "data/Pokémon TCG Pocket/Promos-B/059.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/059",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/059",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/33"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-060",
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/060",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/060",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/34"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-060",
+      "file": "data/Pokémon TCG Pocket/Promos-B/060.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/060",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/060",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/35"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-061",
+      "file": "data/Pokémon TCG Pocket/Promos-B/061.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/061",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/061",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/36"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-061",
+      "file": "data/Pokémon TCG Pocket/Promos-B/061.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/061",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/061",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/37"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-062",
+      "file": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "path": "image",
+      "locale": "de",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/062",
+      "value": "https://game.pokemontcgpocket.app/de/tcgp/P-B/062",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/38"
+        }
+      ]
+    },
+    {
+      "entityKind": "card",
+      "entityId": "P-B-062",
+      "file": "data/Pokémon TCG Pocket/Promos-B/062.ts",
+      "path": "image",
+      "locale": "it",
+      "mode": "fill",
+      "expectedCurrent": null,
+      "expectedEnglish": "https://game.pokemontcgpocket.app/en/tcgp/P-B/062",
+      "value": "https://game.pokemontcgpocket.app/it/tcgp/P-B/062",
+      "evidence": [
+        {
+          "sourceId": "pb041-062-pokebase-de-it-r2-overwrite-verified",
+          "sha256": "e9f3315b2998374d1d06e2ce37c2ceb5a24fbcb98190759a1cc6e826d8e9dde4",
+          "locator": "#/records/39"
+        }
+      ]
+    }
+  ]
+}

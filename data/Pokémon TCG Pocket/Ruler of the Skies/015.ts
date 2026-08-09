@@ -36,6 +36,7 @@ const card: Card = {
         es: "Acecha a su presa hundiendo el ancla en el mar.\nEs capaz de drenar la vitalidad incluso de presas\ndel tamaño de un Wailord.",
         it: "Cattura le prede calando la sua ancora in mare.\nRiesce ad assorbire l’energia vitale persino\ndi Pokémon enormi come Wailord.",
         de: "Im Meer wirft es seinen Anker aus und legt sich\nauf die Lauer. Es fängt sich möglichst große Beute\nwie Wailord und saugt ihr die Lebensenergie aus.",
+        "pt-br": "Depois de lançar sua âncora, espera por sua presa. Pega Wailord grandes e drena suas forças vitais.",
         "zh-tw": "把錨拋到海裡，伏擊獵物。\n會去捕捉巨大的吼鯨王，\n吸取牠們的精氣。"
     },
     attacks: [

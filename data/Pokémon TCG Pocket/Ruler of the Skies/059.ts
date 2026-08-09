@@ -34,7 +34,9 @@ const card: Card = {
         fr: "Il vole dans le ciel d’Unys et fait tomber des éclairs,\nprovoquant des incendies qui font sa mauvaise réputation.",
         es: "Su gusto por surcar el cielo lanzando rayos y provocando\nincendios forestales le ha granjeado pocas simpatías.",
         it: "Non è molto amato perché durante il suo peregrinare nei cieli\nfa cadere fulmini qua e là che causano incendi nei boschi.",
-        de: "Es ist bei den Leuten verhasst, weil es auf seinen Rundflügen\nimmer wieder Blitze erzeugt, die Waldbrände verursachen."
+        de: "Es ist bei den Leuten verhasst, weil es auf seinen Rundflügen\nimmer wieder Blitze erzeugt, die Waldbrände verursachen.",
+        "pt-br": "Quando voa por aí, Thundurus dispara raios para todos os lados e incendeia florestas. Por isso, ninguém gosta dele.",
+        "zh-tw": "一邊在空中飛來飛去，\n一邊四處打雷引發森林大火，\n因此受到厭惡。"
     },
     attacks: [
         {

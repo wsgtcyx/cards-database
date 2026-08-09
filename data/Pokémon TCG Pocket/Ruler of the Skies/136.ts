@@ -32,7 +32,11 @@ const card: Card = {
     description: {
         en: "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
         "fr": "Il change de couleur pour se fondre dans son environnement, afin de s'approcher furtivement de ses proies. Seul son motif ventral reste visible.",
-        "de": "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich."
+        es: "Acecha a sus presas adaptando sus colores a los del paisaje, pero los dibujos de su panza nunca cambian.",
+        it: "Cambia colore per mimetizzarsi e sorprendere la preda. Il disegno sulla pancia rimane sempre visibile.",
+        "de": "Beim Beutefang passt es seine Farbe der Umgebung an. Nur das Muster auf seinem Bauch bleibt gleich.",
+        "pt-br": "Muda de cor para se misturar ao ambiente e surpreender a presa. No entanto, não consegue fazer as marcas na sua barriga desaparecerem.",
+        "zh-tw": "能夠改變體色，融入景色中，\n悄悄地靠近獵物。\n但腹部的花紋是不會消失的。"
     },
     attacks: [
         {
@@ -41,6 +45,7 @@ const card: Card = {
                 en: "Samesies Slap",
                 fr: "Paire de Gifles",
                 es: "Bofetada Copiona",
+                de: "Spiegelklatscher",
                 "pt-br": "Tapa Combinado",
                 "zh-tw": "撞能巴掌",
                 "it": "Schiaffaffine"
@@ -49,6 +54,8 @@ const card: Card = {
                 en: "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage.",
                 fr: "Si ce Pokémon et le Pokémon Actif de votre adversaire ont une Énergies du même type attachée ou plus, cette attaque inflige 30 dégâts supplémentaires.",
                 es: "Si este Pokémon y el Pokémon Activo de tu rival tienen 1 o más Energías del mismo tipo unidas a ellos, este ataque hace 30 puntos de daño más.",
+                it: "Se questo Pokémon e il Pokémon attivo del tuo avversario hanno in comune uno o più tipi fra le loro Energie assegnate, questo attacco infligge 30 danni in più.",
+                de: "Wenn an dieses Pokémon und das Aktive Pokémon deines Gegners mindestens 1 gleicher Energietyp angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu.",
                 "pt-br": "Se este Pokémon e o Pokémon Ativo do seu oponente tiverem 1 ou mais do mesmo tipo de Energia ligada a eles, este ataque causará 30 pontos de dano a mais.",
                 "zh-tw": "若這隻寶可夢身上的能量的屬性與對手的戰鬥寶可夢身上的能量的屬性有1種以上相同,則增加30點傷害。"
             },

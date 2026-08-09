@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-09T06:03:46.999Z",
+  "source": {
+    "provider": "PokéBase",
+    "pageOrigin": "https://pokebase.app",
+    "cdnOrigin": "https://i.pokebase.app",
+    "pageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+    "pageRetrievedAt": "2026-08-09T05:46:12Z",
+    "rights": {
+      "openLicenseFound": false,
+      "checkedPages": [
+        "https://pokebase.app/about (200)",
+        "https://pokebase.app/privacy (200)",
+        "https://pokebase.app/terms (404)",
+        "https://pokebase.app/license (404)"
+      ],
+      "assessment": "No explicit content or image reuse license was found. Pokémon card art, logos, characters, and pack imagery remain proprietary Pokémon IP; PokéBase hosting does not grant redistribution rights.",
+      "requiredAttribution": "If used under the user-authorized source policy, attribute PokéBase and preserve the exact source page/CDN URL; do not describe the assets as open-licensed."
+    }
+  },
+  "scope": {
+    "setId": "B4",
+    "boosterId": "ruler-of-the-skies",
+    "field": "logo",
+    "locales": [
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "expectedAssets": 6,
+    "foundAssets": 6
+  },
+  "entries": [
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "fr",
+      "sourceLocale": "fr_FR",
+      "sourceFilename": "ExpansionLogo_LOGO_expansion_B4_fr_FR-1.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_fr_FR-1.png",
+      "sourcePageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRetrievedAt": "2026-08-09T05:47:48.110Z",
+      "contentType": "image/png",
+      "sourceBytes": 26467,
+      "width": 256,
+      "height": 113,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sourceSha256": "22bad4dc5153049898fa06fc62fd866bb4aa5a22084a6ed9479baab3702f00e7",
+      "desiredUrl": "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "r2Key": "fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "visualLanguageCheck": {
+        "status": "pass",
+        "visibleText": "DOMINATION CÉLESTE",
+        "standaloneTransparentLogo": true
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "es",
+      "sourceLocale": "es_ES",
+      "sourceFilename": "ExpansionLogo_LOGO_expansion_B4_es_ES-1.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_es_ES-1.png",
+      "sourcePageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRetrievedAt": "2026-08-09T05:47:48.624Z",
+      "contentType": "image/png",
+      "sourceBytes": 32869,
+      "width": 256,
+      "height": 113,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sourceSha256": "ede3093d10d6f4e45c9abe010761894e28c8f075931bb59e78cf2b716b7259ac",
+      "desiredUrl": "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "r2Key": "es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "visualLanguageCheck": {
+        "status": "pass",
+        "visibleText": "DOMINADOR DE LOS CIELOS",
+        "standaloneTransparentLogo": true
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "it",
+      "sourceLocale": "it_IT",
+      "sourceFilename": "ExpansionLogo_LOGO_expansion_B4_it_IT-1.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_it_IT-1.png",
+      "sourcePageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRetrievedAt": "2026-08-09T05:47:49.122Z",
+      "contentType": "image/png",
+      "sourceBytes": 24056,
+      "width": 256,
+      "height": 113,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sourceSha256": "bb9156da3056b0a78de5f9fd633aec07be73c1d25ff5ff88a33f50c0f955f014",
+      "desiredUrl": "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "r2Key": "it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "visualLanguageCheck": {
+        "status": "pass",
+        "visibleText": "SOVRANO DEI CIELI",
+        "standaloneTransparentLogo": true
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "de",
+      "sourceLocale": "de_DE",
+      "sourceFilename": "ExpansionLogo_LOGO_expansion_B4_de_DE-1.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_de_DE-1.png",
+      "sourcePageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRetrievedAt": "2026-08-09T05:47:49.612Z",
+      "contentType": "image/png",
+      "sourceBytes": 25384,
+      "width": 256,
+      "height": 113,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sourceSha256": "b3c9cc3ebc4650659d80228c91493fff18cb21a89f65a0bcb141f4a24db73795",
+      "desiredUrl": "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "r2Key": "de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "visualLanguageCheck": {
+        "status": "pass",
+        "visibleText": "HERRSCHER DER LÜFTE",
+        "standaloneTransparentLogo": true
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "pt-br",
+      "sourceLocale": "pt_BR",
+      "sourceFilename": "ExpansionLogo_LOGO_expansion_B4_pt_BR-1.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_pt_BR-1.png",
+      "sourcePageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRetrievedAt": "2026-08-09T05:47:50.111Z",
+      "contentType": "image/png",
+      "sourceBytes": 23406,
+      "width": 256,
+      "height": 113,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sourceSha256": "aebb33d7a8e88dc7383bac8817ddc544854be623f22df5236ebcf59ea11b6994",
+      "desiredUrl": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "r2Key": "pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "visualLanguageCheck": {
+        "status": "pass",
+        "visibleText": "MESTRE DOS CÉUS",
+        "standaloneTransparentLogo": true
+      }
+    },
+    {
+      "setId": "B4",
+      "boosterId": "ruler-of-the-skies",
+      "field": "logo",
+      "locale": "zh-tw",
+      "sourceLocale": "zh_TW",
+      "sourceFilename": "ExpansionLogo_LOGO_expansion_B4_zh_TW-1.png",
+      "sourceUrl": "https://i.pokebase.app/pokemon-tcg-pocket/ExpansionLogo_LOGO_expansion_B4_zh_TW-1.png",
+      "sourcePageUrl": "https://pokebase.app/pokemon-tcg-pocket/tracker/B4",
+      "sourcePageRetrievedAt": "2026-08-09T05:46:12Z",
+      "binaryRetrievedAt": "2026-08-09T05:47:50.638Z",
+      "contentType": "image/png",
+      "sourceBytes": 18311,
+      "width": 256,
+      "height": 113,
+      "channels": "RGBA",
+      "hasTransparency": true,
+      "sourceSha256": "7bd5331c054b2d10e1cb625965dec2dc33541f33417eac3f22c756da17bc9a3a",
+      "desiredUrl": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "r2Key": "zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+      "visualLanguageCheck": {
+        "status": "pass",
+        "visibleText": "天空主宰",
+        "standaloneTransparentLogo": true
+      }
+    }
+  ],
+  "artifactSha256": "a18b09d8560e39f26093ff112818e8e4ec4bbc2dedbaac85cd094b7f9c03b234"
+}

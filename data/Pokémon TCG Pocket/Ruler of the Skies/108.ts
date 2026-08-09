@@ -46,6 +46,7 @@ const card: Card = {
         es: "Con sus cuatro garras y su descomunal cuerpo\naprisiona a sus presas para luego devorarlas\ncon sus dientes.",
         it: "Blocca la preda al suolo con le quattro zampe\nartigliate e il corpo massiccio, poi la divora con i\ndenti sulla pancia.",
         de: "Mit seinen spitzen Beinkrallen und dem massigen\nKörper drückt es seine Beute zu Boden und\nzerkaut sie dann mit seinen Zähnen am Bauch.",
+        "pt-br": "Imobiliza suas presas com suas quatro garras e o corpo grandioso. Em seguida, usa a boca em seu estômago para mastigar a presa em pedacinhos.",
         "zh-tw": "用４隻爪子和龐大的身體\n牢牢地按住獵物後，\n用腹部的牙齒嚼食。"
     },
     attacks: [

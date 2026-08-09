@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-09T06:08:30.615Z",
+  "auditSha256": "338f3aa2fce81058f178373553b52c0ee360f4e183833485364172b041b463a4",
+  "policy": {
+    "localizedSourceOnly": true,
+    "unknownR2Collision": "block",
+    "redistributionLicense": "not-found-user-authorized-attributed-mirror"
+  },
+  "entries": [
+    {
+      "key": "P-B-051",
+      "id": "P-B-051",
+      "setId": "P-B",
+      "localId": "051",
+      "number": 51,
+      "set": "Promos-B",
+      "locale": "de",
+      "status": "unresolved-english-fallback",
+      "currentImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/051",
+      "desiredImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/051",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/051.ts",
+      "reason": "no-supported-localized-image-source-after-exact-filename-search"
+    },
+    {
+      "key": "P-B-051",
+      "id": "P-B-051",
+      "setId": "P-B",
+      "localId": "051",
+      "number": 51,
+      "set": "Promos-B",
+      "locale": "it",
+      "status": "unresolved-english-fallback",
+      "currentImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/051",
+      "desiredImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/051",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/051.ts",
+      "reason": "no-supported-localized-image-source-after-exact-filename-search"
+    },
+    {
+      "key": "P-B-052",
+      "id": "P-B-052",
+      "setId": "P-B",
+      "localId": "052",
+      "number": 52,
+      "set": "Promos-B",
+      "locale": "de",
+      "status": "unresolved-english-fallback",
+      "currentImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/052",
+      "desiredImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/052",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/052.ts",
+      "reason": "no-supported-localized-image-source-after-exact-filename-search"
+    },
+    {
+      "key": "P-B-052",
+      "id": "P-B-052",
+      "setId": "P-B",
+      "localId": "052",
+      "number": 52,
+      "set": "Promos-B",
+      "locale": "it",
+      "status": "unresolved-english-fallback",
+      "currentImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/052",
+      "desiredImage": "https://game.pokemontcgpocket.app/en/tcgp/P-B/052",
+      "metadataFile": "data/Pokémon TCG Pocket/Promos-B/052.ts",
+      "reason": "no-supported-localized-image-source-after-exact-filename-search"
+    }
+  ],
+  "artifactSha256": "fc1fa7c63664df5e0d36af33183e91822347ce702eb6acec5dbfcc45b4acb360"
+}

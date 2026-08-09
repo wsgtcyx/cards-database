@@ -36,6 +36,7 @@ const card: Card = {
         es: "El material explosivo de su caparazón está\ncompuesto por el azufre del que se alimenta.\nSus excrementos explosivos son muy peligrosos.",
         it: "Vive nei vulcani. Lo zolfo di cui si nutre rende\nesplosivo il suo carapace e i suoi escrementi.\nQuesti ultimi sono molto pericolosi.",
         de: "Da es in Vulkanen lebt, nimmt es mit der Nahrung\nviel Schwefel auf, was seinen Panzer und seinen\nKot explosiv macht. Letzterer ist ein Gefahrengut.",
+        "pt-br": "Os compostos explosivos no seu casco são resultado da sua dieta de enxofre do seu habitat vulcânico. Suas fezes também são perigosamente explosivas.",
         "zh-tw": "在火山上生活，吃下的硫磺\n就是甲殼上炸藥的原料。\n連糞便也會爆炸，十分危險。"
     },
     attacks: [

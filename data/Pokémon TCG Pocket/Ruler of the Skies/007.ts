@@ -56,6 +56,7 @@ const card: Card = {
                 en: "Stick and Absorb",
                 fr: "Colle et Absorbe",
                 es: "Adherirse y Absorber",
+                de: "Festkleben und Einsaugen",
                 "pt-br": "Grudar e Absorver",
                 "zh-tw": "纏繞吸取",
                 "it": "Avvinghia e Assorbi"

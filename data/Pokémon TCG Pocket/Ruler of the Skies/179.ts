@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [190],
     stage: "Basic",
     description: {
-        en: "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops."
+        en: "Its tail moves with greater dexterity than its hands. Making deft use of this tail, Aipom lives high among the treetops.",
+        fr: "Il est encore plus agile avec sa queue qu'avec ses mains, ce qui lui permet de vivre dans les grands arbres.",
+        es: "Vive en las copas de árboles de gran tamaño. Puede usar la cola con mayor destreza incluso que las manos.",
+        it: "Vive sulla cima degli alberi più alti controllando con destrezza la coda, che ha più mobilità rispetto a una mano.",
+        de: "Griffel lebt hoch oben in Baumwipfeln, wo es seinen Schweif geschickt einsetzt. Dieser ist viel beweglicher als seine Hände.",
+        "pt-br": "Sua cauda se move com mais destreza do que suas mãos. Fazendo bom uso de seu rabo, Aipom vive entre os topos de árvores.",
+        "zh-tw": "會巧妙地操縱比雙手\n還靈活的尾巴，\n生活在高高的樹上。"
     },
     attacks: [
         {

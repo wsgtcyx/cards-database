@@ -47,6 +47,7 @@ const card: Card = {
         es: "Se ancla a una roca en el lecho marino y atrapa\na las presas que se le acercan con sus tentáculos\nen forma de pétalos.",
         it: "Si attacca alle rocce dei fondali marini e usa\ni tentacoli simili a petali per catturare le prede\nche si avvicinano.",
         de: "Liliep heftet sich an Felsen am Meeresgrund.\nNähert sich Beute, fängt es diese mit seinen\nwie Blütenblätter geformten Tentakeln.",
+        "pt-br": "Lileep se agarra às rochas no fundo do mar. Quando a presa se aproxima, este Pokémon a envolve com tentáculos semelhantes apétalas.",
         "zh-tw": "會吸附在海底的岩石上，\n並用花瓣般的觸手纏住\n接近自己的獵物。"
     },
     attacks: [

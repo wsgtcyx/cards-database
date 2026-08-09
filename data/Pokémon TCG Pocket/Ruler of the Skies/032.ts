@@ -36,6 +36,7 @@ const card: Card = {
         es: "No le importa que le mordisqueen el cuerpo los\nPokémon pez, ya que las partes desgarradas se\nregeneran casi al instante.",
         it: "Viene mangiucchiato dai Pokémon acquatici,\nma non ci dà peso, perché le parti danneggiate\ndel suo corpo si rigenerano subito.",
         de: "Ihm macht es nichts aus, von Fisch-Pokémon\nangeknabbert zu werden, da sich sein Körper\nbei Verletzungen im Nu regeneriert.",
+        "pt-br": "Staryu não se incomoda com as mordiscadas que recebe de Pokémon peixe. Seu corpo se regenera rapidamente, mesmo que parte dele seja arrancada.",
         "zh-tw": "會被魚寶可夢啄食，但是\n即使身體被咬斷也能很快就\n再生，所以一點都不在意。"
     },
     attacks: [

@@ -30,7 +30,13 @@ const card: Card = {
     dexId: [261],
     stage: "Basic",
     description: {
-        en: "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees."
+        en: "Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees.",
+        fr: "Ils chassent leurs proies en meute et les achèvent quand elles sont à bout de force. Dans les rares cas où elles ripostent, ils préfèrent fuir.",
+        es: "Persiguen a su presa en jaurías. Esperan a que se agote para darle el golpe de gracia, pero, si esta contraataca, salen corriendo.",
+        it: "Inseguono la preda in branco e la finiscono quando è esausta, ma se capita che questa contrattacchi scappano.",
+        de: "Es jagt Beute im Rudel nach. Ist diese erschöpft, bringt es sie zur Strecke. Stößt Fiffyen jedoch auf Widerstand, ergreift es auch mal die Flucht.",
+        "pt-br": "Poochyena perseguem suas presas em bandos. Quando a presa sucumbe ao cansaço, o bando acaba com ela. Mas às vezes o inimigo revida e a alcateia foge.",
+        "zh-tw": "會成群追擊獵物，並在其\n筋疲力盡時給予致命一擊，\n但有時會因遭到反擊而逃走。"
     },
     attacks: [
         {

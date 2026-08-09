@@ -32,10 +32,22 @@ const set: Set = {
                 ja: "天空の支配者"
             },
             logo: {
-                en: "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp"
+                en: "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+                fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+                es: "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+                it: "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+                de: "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+                "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/logo.webp",
+                "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/logo.webp"
             },
             artwork_front: {
-                en: "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp"
+                en: "https://game.pokemontcgpocket.app/en/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+                fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+                es: "https://game.pokemontcgpocket.app/es/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+                it: "https://game.pokemontcgpocket.app/it/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+                de: "https://game.pokemontcgpocket.app/de/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+                "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp",
+                "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4/boosters/ruler-of-the-skies/artwork_front.webp"
             }
         }
     },

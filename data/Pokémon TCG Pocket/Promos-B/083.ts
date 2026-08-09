@@ -4,7 +4,13 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/083"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/083",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/083",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/083",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/083",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/083",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/083",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/083"
     },
     name: { en: "Noivern", fr: "Bruyverne", es: "Noivern", it: "Noivern", de: "UHaFnir", "pt-br": "Noivern", "zh-tw": "音波龍", ko: "음번", ja: "オンバーン" },
     illustrator: "Shin Nagasawa",

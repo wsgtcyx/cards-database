@@ -46,7 +46,8 @@ const card: Card = {
         es: "Pokémon que evolucionó poniéndose el caparazón de\nShelmet. Su armazón de acero le protege todo el cuerpo.",
         it: "Pokémon che si è evoluto appropriandosi della conchiglia\ndi Shelmet. Un’armatura d’acciaio protegge tutto il suo corpo.",
         de: "Es ist bei der Entwicklung in die Muschel eines Schnuthelm\ngeschlüpft. Die Eisenrüstung schützt seinen ganzen Körper.",
-        "pt-br": "Estes Pokémon evoluem ao vestir a concha de um Shelmet. A armadura de aço protege seu corpo inteiro."
+        "pt-br": "Estes Pokémon evoluem ao vestir a concha de um Shelmet. A armadura de aço protege seu corpo inteiro.",
+        "zh-tw": "穿上小嘴蝸的殼進化的寶可夢。\n鋼鐵盔甲保護著全身。"
     },
     attacks: [
         {

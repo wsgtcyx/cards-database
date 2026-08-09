@@ -46,6 +46,7 @@ const card: Card = {
         es: "Sus colmillos nunca dejan de crecer. Aunque los\npierda en un combate, al cabo de un año ya los\nhabrá regenerado por completo.",
         it: "Le sue zanne continuano a crescere per tutta la\nvita. Se si spezzano mentre lotta, tornano\nforti e robuste nell’arco di un anno.",
         de: "Die Stoßzähne wachsen sein Leben lang. Selbst,\nwenn sie im Kampf abbrechen, erreichen sie nach\nnur einem Jahr wieder ihre alte imposante Größe.",
+        "pt-br": "As presas de Walrein continuam crescendo ao longo de sua vida. Se forem quebradas em batalha, crescem de volta em cerca de um ano.",
         "zh-tw": "獠牙會一輩子不停地成長。\n即使在戰鬥中折斷，也只需要\n１年的時間就又能長得巨大如初。"
     },
     attacks: [
@@ -55,6 +56,7 @@ const card: Card = {
                 en: "Blizzlock",
                 fr: "Blizzard Bloqueur",
                 es: "Bloqueo Ventisca",
+                it: "Tormenta Bloccante",
                 "pt-br": "Bloqueio Nevasca",
                 "zh-tw": "暴雪封鎖",
                 "de": "Blizzardsperre"

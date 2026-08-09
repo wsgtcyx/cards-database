@@ -47,6 +47,7 @@ const card: Card = {
         es: "Le encanta comer minerales con propiedades\nmagnéticas. Puede rastrear a un Nosepass\ndesplazándose a más de 100 km/h.",
         it: "È ghiotto di minerali dotati di proprietà\nmagnetiche. Quando dà la caccia ai Nosepass,\npuò raggiungere i 100 km/h.",
         de: "Es liebt Mineralien, die Magnetfelder erzeugen.\nKein Wunder, dass es Nasgnet mit 100 km/h\nhinterherjagt.",
+        "pt-br": "Adora minerais magnéticos, então persegue Nosepass a velocidades que ultrapassam 100 km/h.",
         "zh-tw": "非常喜歡能放出磁力的礦物。\n會以１００公里的時速窮追朝北鼻。"
     },
     attacks: [

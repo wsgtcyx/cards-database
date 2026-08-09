@@ -34,7 +34,9 @@ const card: Card = {
         fr: "Il a la faculté de téléporter les choses en les faisant\npasser au travers de ses anneaux. Il envoie les objets\nqui lui plaisent dans une cachette connue de lui seul.",
         es: "Reúne los objetos que le atraen para esconderlos\nen una guarida secreta, teletransportándolos a\ntravés de sus anillos.",
         it: "Usa i suoi anelli per intrappolare qualunque cosa\ngli piaccia e teletrasportarla in un luogo segreto.",
-        de: "Mithilfe seiner Ringe hortet es Dinge, die ihm gefallen,\nan einem geheimen Ort. Es teleportiert diese, indem es\nsie durch seine Ringe bewegt."
+        de: "Mithilfe seiner Ringe hortet es Dinge, die ihm gefallen,\nan einem geheimen Ort. Es teleportiert diese, indem es\nsie durch seine Ringe bewegt.",
+        "pt-br": "Pega coisas de que gosta e passa-as pelo seu arco para teletransportá-las para um lugar secreto.",
+        "zh-tw": "用圓環將喜歡的東西\n傳送到秘密的住處，\n會鑽進圓環瞬間移動。"
     },
     attacks: [
         {
@@ -52,6 +54,8 @@ const card: Card = {
                 en: "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck.",
                 fr: "Avant d'infliger des dégâts, mélangez tous les Outils Pokémon de chacun des Pokémon de votre adversaire avec son deck.",
                 es: "Antes de infligir daño, pon todas las Herramientas Pokémon de cada uno de los Pokémon de tu rival en su baraja y baraja todas las cartas.",
+                it: "Prima di infliggere danni, rimischia tutti gli Oggetti Pokémon assegnati a ciascuno dei Pokémon del tuo avversario nel suo mazzo.",
+                de: "Bevor du Schaden zufügst, mische alle Pokémon-Ausrüstungen von jedem Pokémon deines Gegners in sein Deck.",
                 "pt-br": "Antes de causar dano, embaralhe todas as Ferramentas Pokémon de cada um dos Pokémon do seu oponente no baralho dele.",
                 "zh-tw": "在造成傷害前,將對手的所有寶可夢身上的「寶可夢道具」卡全部放回對手的牌庫。"
             },

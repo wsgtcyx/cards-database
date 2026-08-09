@@ -31,7 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.",
-        "pt-br": "A bolha de água que envolve sua cabeça é apoiada por suas tres pernas. As vezes, troca sutilmente as pernas que sustentam sua bolha."
+        fr: "Trois de ses pattes soutiennent la bulle d'eau qui enveloppe sa tête. Il change parfois de pattes lorsque personne ne le regarde.",
+        es: "Sujeta con tres patas la burbuja que le rodea la cabeza. No son siempre las mismas, ya que las cambia en ocasiones con disimulo.",
+        it: "Di tanto in tanto cambia furtivamente le tre zampe con cui sostiene la bolla che gli avvolge la testa.",
+        de: "Araqua stützt die Wasserblase, die seinen Kopf einhüllt, mit dreien seiner Beine. Manchmal wechselt es diese heimlich.",
+        "pt-br": "A bolha de água que envolve sua cabeça é apoiada por suas tres pernas. As vezes, troca sutilmente as pernas que sustentam sua bolha.",
+        "zh-tw": "用3隻腳支撐著\n包裹頭部的水泡。\n有時會偷偷地換腳。"
     },
     attacks: [
         {

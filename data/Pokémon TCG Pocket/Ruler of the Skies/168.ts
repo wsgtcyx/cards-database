@@ -35,6 +35,7 @@ const card: Card = {
         es: "Suelen ir en grupo y, a la hora de dormir, se\npegan unos a otros para descansar resguardados\nen cuevas.",
         it: "Hanno l’abitudine di spostarsi in gruppo.\nQuando è ora di dormire, si radunano in\nuna grotta e riposano stretti l’uno all’altro.",
         de: "Sie ziehen normalerweise im Rudel umher. Zum\nSchlafen drängen sie sich ganz eng in einer Höhle\nzusammen.",
+        "pt-br": "Costumam se mover em bandos, Aglomeram-se em grupos para dormir em cavernas.",
         "zh-tw": "具有集體行動的習性。\n睡覺的時候會在洞窟中\n和夥伴們把身體挨在一起。"
     },
     attacks: [

@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "Once it's caught the scent of faraway prey, the leader gives a sign, and its whole pack moves out."
+        en: "Once it's caught the scent of faraway prey, the leader gives a sign, and its whole pack moves out.",
+        fr: "Quand des Grahyèna flairent l'odeur d'une proie lointaine, toute leur meute se met en mouvement sous les ordres du chef.",
+        es: "Cuando detectan el olor de una presa lejana, toda la jauría se pone en movimiento a las órdenes del líder.",
+        it: "Quando fiuta l'odore di una preda in lontananza, il branco si muove unito seguendo gli ordini del capobranco.",
+        de: "Sobald es Beute in großer Entfernung wittert, setzt sich das gesamte Rudel auf Befehl des Anführers hin sofort in Bewegung.",
+        "pt-br": "Assim que sente o cheiro de uma presa distante, o líder dá um sinal e todo o bando parte em busca dela.",
+        "zh-tw": "當嗅到遠處有獵物的氣味，\n就會聽從領頭者吼叫的指示，\n一起展開行動。"
     },
     attacks: [
         {

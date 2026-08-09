@@ -30,7 +30,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
-        "es": "Es bromista y extremadamente curioso. A la hora de combatir, se sirve del tipo de energia que contenga la máscara que lleve puesta."
+        fr: "Ce Pokémon est curieux et facétieux. Lorsqu'il se bat, il puise dans l'énergie de son masque. Cette énergie est du même type que ce dernier.",
+        "es": "Es bromista y extremadamente curioso. A la hora de combatir, se sirve del tipo de energia que contenga la máscara que lleve puesta.",
+        it: "È dispettoso e ha una spiccata curiosità. Il tipo dell'energia che sfrutta per lottare dipende da quella contenuta nella maschera.",
+        de: "Es liebt Streiche und steckt voller Neugier. Zum Kämpfen nutzt es die typenspezifische Energie der Maske, die es trägt.",
+        "pt-br": "Este Pokémon adora pregar peças e é muito curioso. Batalha sugando o tipo de energia contido em suas máscaras.",
+        "zh-tw": "喜歡惡作劇，好奇心旺盛。\n能激發出面具蘊藏的\n屬性的能量來戰鬥。"
     },
     attacks: [
         {

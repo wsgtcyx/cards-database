@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [870],
     stage: "Basic",
     description: {
-        en: "The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation."
+        en: "The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation.",
+        fr: "À l'aide de sa corne extensible, le chef donne des ordres aux autres et leur fait changer de formation.",
+        es: "El líder utiliza su cuerno, capaz de expandirse y contraerse, para ordenar a los demás que cambien la formación.",
+        it: "L'elemento che viene considerato il capo usa il proprio corno estensibile per indicare al gruppo in che tipo di formazione schierarsi.",
+        de: "Mit seinem ausfahrbaren Horn gibt der Anführer Befehle zur Formationsänderung.",
+        "pt-br": "O líder, mais conhecido como comandante, usa seus chifres extensíveis para mandar ordens aos outros quando chega a hora de mudar de formação.",
+        "zh-tw": "被稱為頭頭的隊長\n會用可伸縮的角\n做出變換陣形的指令。"
     },
     abilities: [
         {
@@ -49,6 +55,8 @@ const card: Card = {
                 en: "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon.",
                 fr: "Si vous avez un autre Hexadron en jeu, les attaques de ce Pokémon infligent + 20 dégâts au Pokémon Actif de votre adversaire, et ce Pokémon subit − 20 dégâts provenant des attaques des Pokémon de votre adversaire.",
                 es: "Si tienes otro Falinks en juego, los ataques de este Pokémon hacen +20 puntos de daño al Pokémon Activo de tu rival, y los ataques de los Pokémon de tu rival hacen ‐20 puntos de daño a este Pokémon.",
+                it: "Se hai un altro Falinks in gioco, gli attacchi di questo Pokémon infliggono +20 danni al Pokémon attivo dell'avversario, e questo Pokémon subisce -20 danni dagli attacchi dei Pokémon avversari.",
+                de: "Wenn du ein weiteres Legios im Spiel hast, werden dem Aktiven Pokémon deines Gegners durch Attacken von diesem Pokémon + 20 Schadenspunkte zugefügt und diesem Pokémon werden durch Attacken von Pokémon deines Gegners – 20 Schadenspunkte zugefügt.",
                 "pt-br": "Se você tiver outro Falinks em jogo, os ataques deste Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente, e este Pokémon receberá −20 pontos de dano de ataques dos Pokémon do seu oponente.",
                 "zh-tw": "若自己的場上有其他的「列陣兵」,則這隻寶可夢對對手的戰鬥寶可夢造成的招式傷害+20點,受到對手的寶可夢招式的傷害-20點。"
             }

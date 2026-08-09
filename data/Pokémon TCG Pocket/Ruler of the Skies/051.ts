@@ -31,7 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
-        "es": "Produce electricidad contrayendo sus músculos. Si siente peligro, su pelaje brilla resplandeciente"
+        fr: "Lorsqu'il fait travailler ses muscles, il génère de l'électricité. Sa fourrure étincelle en cas de danger.",
+        "es": "Produce electricidad contrayendo sus músculos. Si siente peligro, su pelaje brilla resplandeciente",
+        it: "Il movimento dei suoi muscoli produce elettricità. In caso di pericolo, la sua pelliccia si illumina tanto da diventare abbagliante.",
+        de: "Es erzeugt Elektrizität, indem es seine Muskeln streckt und wieder zusammenzieht. Steckt es in der Klemme, leuchtet sein Fell gleißend hell.",
+        "pt-br": "A expansão e contração de seus músculos gera eletricidade. Seu pelo brilha quando está em perigo.",
+        "zh-tw": "只要伸縮肌肉就能夠\n產生電流。身陷危機時\n體毛會發出刺眼的亮光。"
     },
     attacks: [
         {

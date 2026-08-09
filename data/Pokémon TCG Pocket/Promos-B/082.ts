@@ -4,7 +4,13 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/082"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/082",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/082",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/082",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/082",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/082",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/082",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/082"
     },
     name: { en: "Pikachu", fr: "Pikachu", es: "Pikachu", it: "Pikachu", de: "Pikachu", "pt-br": "Pikachu", "zh-tw": "皮卡丘", ko: "피카츄", ja: "ピカチュウ" },
     illustrator: "kurumitsu",

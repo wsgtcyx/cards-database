@@ -56,6 +56,7 @@ const card: Card = {
                 en: "This attack does 10 more damage for each {M} Energy attached to this Pokémon.",
                 fr: "Cette attaque inflige 10 dégâts supplémentaires pour chaque Énergie {M} attachée à ce Pokémon.",
                 es: "Este ataque hace 10 puntos de daño más por cada Energía {M} unida a este Pokémon.",
+                de: "Diese Attacke fügt für jede an dieses Pokémon angelegte {M}-Energie 10 Schadenspunkte mehr zu.",
                 "pt-br": "Este ataque causa 10 pontos de dano a mais para cada Energia {M} ligada a este Pokémon.",
                 "zh-tw": "增加這隻寶可夢身上的{M}能量的數量×10點傷害。",
                 "it": "Questo attacco infligge 10 danni in più per ogni Energia {M} assegnata a questo Pokémon."

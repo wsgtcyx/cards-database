@@ -47,6 +47,7 @@ const card: Card = {
         es: "Puede nadar rápidamente gracias a sus ocho\nalas que usa a modo de remo. Es uno de los\nantepasados de los Pokémon insecto.",
         it: "Nuota rapidamente utilizzando le sue otto ali\ncome fossero remi di una barca. È uno degli\nantenati dei Pokémon di tipo Coleottero.",
         de: "Anorith schwimmt sehr schnell, indem es seine\nacht Flügel wie die Ruder eines Bootes bewegt.\nEs ist einer der Vorfahren von Käfer-Pokémon.",
+        "pt-br": "Anorith nada rapidamente movendo suas oito asas pela água como remos de um barco. É considerado um ancestral dos atuais Pokémon de tipo Inseto.",
         "zh-tw": "會像船槳般划動８片\n翅膀在水中快速游動。\n是蟲寶可夢祖先的一種。"
     },
     attacks: [

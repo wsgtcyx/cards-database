@@ -4,7 +4,13 @@ import Set from "../Promos-B";
 const card: Card = {
     set: Set,
     image: {
-        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/086"
+        en: "https://game.pokemontcgpocket.app/en/tcgp/P-B/086",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/P-B/086",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/P-B/086",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/P-B/086",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/P-B/086",
+        "pt-br": "https://game.pokemontcgpocket.app/pt/tcgp/P-B/086",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/086"
     },
     name: { en: "Beldum", fr: "Terhal", es: "Beldum", it: "Beldum", de: "Tanhel", "pt-br": "Beldum", "zh-tw": "鐵啞鈴", ko: "메탕", ja: "ダンバル" },
     illustrator: "Naoyo Kimura",

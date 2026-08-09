@@ -35,6 +35,7 @@ const card: Card = {
         es: "Este Ultraente se muestra reacio al contacto,\nprobablemente porque percibe inmundicia en\ntodo cuanto le rodea.",
         it: "Un’Ultracreatura che cerca di evitare ogni\ncontatto con le cose di questo mondo, come\nse lo considerasse contaminato.",
         de: "Diese Ultrabestie scheint diese Welt für unrein\nzu halten und zieht es daher vor, mit nichts und\nniemandem in Berührung zu kommen.",
+        "pt-br": "Uma das Ultracriaturas, Recusa-se a encostar nos objetos deste mundo, talvez por acreditar que são impuros.",
         "zh-tw": "ＵＢ的一種。\n或許是覺得這個世界上萬物污穢不堪，\n因此不願用手觸及分毫。"
     },
     attacks: [
@@ -44,6 +45,7 @@ const card: Card = {
                 en: "Prelude",
                 fr: "Prélude",
                 es: "Preludio",
+                it: "Prelude",
                 "pt-br": "Prelúdio",
                 "zh-tw": "前驟曲",
                 "de": "Auftakt"
@@ -52,6 +54,7 @@ const card: Card = {
                 en: "If you haven't gotten any points, this attack does 60 more damage.",
                 fr: "Si vous n'avez gagné aucun point, cette attaque inflige 60 dégâts supplémentaires.",
                 es: "Si no has conseguido ningún punto, este ataque hace 60 puntos de daño más.",
+                it: "Se non hai ottenuto alcun punto, questo attacco infligge 60 danni in più.",
                 "pt-br": "Se você não recebeu nenhum ponto, este ataque causará 60 pontos de dano a mais.",
                 "zh-tw": "若自己還未得分,則增加60點傷害。",
                 "de": "Wenn du noch keine Punkte erhalten hast, fügt diese Attacke 60 Schadenspunkte mehr zu."

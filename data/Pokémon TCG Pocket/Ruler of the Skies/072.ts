@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy."
+        en: "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+        fr: "Kirlia tire ses pouvoirs psychiques de la bonne humeur de son Dresseur. Il danse en tournant sur lui-même quand il est content.",
+        es: "Al percibir la alegría de su Entrenador, refuerza sus ataques psicoquinéticos. Cuando está contento, da vueltas y baila.",
+        it: "Più felice è la sua Allenatrice o il suo Allenatore, più sono potenti i suoi poteri psichici. Quando è di buonumore, si lancia in danze e piroette.",
+        de: "Die fröhliche Stimmung seines Trainers ist die Quelle seiner Psycho-Kräfte. Wenn es glücklich ist, tanzt und dreht es sich.",
+        "pt-br": "O espírito animado de seu Treinador reforça o poder psicocinético deste Pokémon. Gira e dança quando está feliz.",
+        "zh-tw": "訓練家開朗的情緒\n是牠的精神力量源泉。\n開心時會轉圈跳舞。"
     },
     attacks: [
         {

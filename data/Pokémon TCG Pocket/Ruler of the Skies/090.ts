@@ -31,7 +31,12 @@ const card: Card = {
     stage: "Basic",
     description: {
         en: "It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.",
-        "de": "Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab."
+        fr: "Il se nourrit de particules en suspension dans l'atmosphère. La composition de ces dernières influerait sur la couleur de son noyau.",
+        es: "Su alimentación se basa en partículas que flotan en la atmósfera. Dicen que el color de su núcleo depende de la composición de estas.",
+        it: "Pare che il colore del suo nucleo sia dovuto agli elementi contenuti nel pulviscolo atmosferico di cui si nutre.",
+        "de": "Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.",
+        "pt-br": "Consome as partículas de poeira que flutuam na atmosfera. Acredita-se que a cor do seu núcleo depende da composição da poeira que ingeriu.",
+        "zh-tw": "以大氣中的塵埃為食物，\n據說核心的顏色會根據\n塵埃所含的成分而定。"
     },
     attacks: [
         {
@@ -40,6 +45,7 @@ const card: Card = {
                 en: "Cosmic Tackle",
                 fr: "Tacle Cosmique",
                 es: "Placaje Cósmico",
+                de: "Kosmischer Tackle",
                 "pt-br": "Investida Cósmica",
                 "zh-tw": "宇宙衝撞",
                 "it": "Azione Cosmica"

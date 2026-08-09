@@ -45,7 +45,9 @@ const card: Card = {
         fr: "Quand on l’attaque, il bat des ailes pour répandre sa\npoudre toxique. Il sort après le coucher du soleil.",
         es: "Cuando se le ataca, bate las alas con fuerza para\nesparcir polvo tóxico. Es un Pokémon nocturno.",
         it: "Se attaccato, sbatte con forza le ali e sparge una\npolvere tossica. Lo si vede in giro dopo il tramonto.",
-        de: "Wird es angegriffen, flattert es mit den Flügeln\nund verteilt giftigen Puder. Es ist nachtaktiv."
+        de: "Wird es angegriffen, flattert es mit den Flügeln\nund verteilt giftigen Puder. Es ist nachtaktiv.",
+        "pt-br": "Agita violentamente suas asas para espalhar poeira tóxica ao ser atacado. Torna-se ativo após o entardecer.",
+        "zh-tw": "受到襲擊時會猛烈地\n揮動翅膀撒出劇毒的粉末。\n太陽下山後就會開始活動。"
     },
     abilities: [
         {

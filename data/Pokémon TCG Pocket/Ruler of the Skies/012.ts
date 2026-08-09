@@ -36,6 +36,7 @@ const card: Card = {
         es: "Escupe un líquido corrosivo con el que disuelve\nel caparazón de los Shelmet para luego devorar\nel contenido.",
         it: "Scioglie la conchiglia di Shelmet con il liquido\nche spruzza dalla bocca e ne mangia il contenuto.",
         de: "Es nutzt die Flüssigkeit aus seinem Mund,\num die Muschel von Schnuthelm aufzulösen.\nDann verspeist es den Inhalt.",
+        "pt-br": "Cospe um líquido de sua boca para derreter a concha de Shelmet. Karrablast não come a concha, apenas o conteúdo dela.",
         "zh-tw": "用嘴裡吐出的液體\n來融化小嘴蝸的殼，\n只會去吃裡面的身體。"
     },
     attacks: [

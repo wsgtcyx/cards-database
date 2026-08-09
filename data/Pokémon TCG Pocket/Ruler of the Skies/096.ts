@@ -41,7 +41,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "This very aggressive Pokémon will recklessly challenge opponents stronger than itself."
+        en: "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
+        fr: "Il a un caractère extrêmement bagarreur. Il provoque ses adversaires sur un coup de tête, même s'ils sont bien plus grands et forts que lui.",
+        es: "Posee un carácter beligerante y temerario. Hace frente impávidamente a oponentes mucho más fuertes que él.",
+        it: "Ha un'indole molto bellicosa. È così sconsiderato da affrontare avversari molto più forti di lui senza pensarci due volte.",
+        de: "Es ist sehr angriffslustig und schreckt auch nicht davor zurück, sich mit Gegnern anzulegen, die ihm haushoch überlegen sind.",
+        "pt-br": "Este Pokémon extremamente agressivo desafia oponentes mais fortes de maneira completamente imprudente.",
+        "zh-tw": "有著十分好戰的性情，\n即使是比自己強的對手\n也會魯莽地發起挑戰。"
     },
     attacks: [
         {

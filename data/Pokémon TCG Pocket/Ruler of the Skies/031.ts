@@ -42,7 +42,12 @@ const card: Card = {
     stage: "Stage1",
     description: {
         en: "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
-        "pt-br": "Nada graciosamente por rios e lagos tranquilos e lentos, dos quais gosta muito."
+        fr: "Il nage avec une grande grâce dans les eaux des lacs ou des rivières calmes, qu'il apprécie tout particulièrement.",
+        es: "Nada con elegancia por las tranquilas aguas de ríos y lagos, donde se siente como pez en el agua.",
+        it: "Predilige i laghi e i corsi d'acqua dalla corrente placida. Quando nuota è molto aggraziato.",
+        de: "Entoron mag stille, langsam fließende Flüsse und Seen. Es ist ein sehr anmutiger Schwimmer.",
+        "pt-br": "Nada graciosamente por rios e lagos tranquilos e lentos, dos quais gosta muito.",
+        "zh-tw": "喜歡水流平穩的\n河川和湖泊。\n泳姿相當地優雅。"
     },
     attacks: [
         {

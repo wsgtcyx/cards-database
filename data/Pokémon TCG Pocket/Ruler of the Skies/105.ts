@@ -36,6 +36,7 @@ const card: Card = {
         es: "Sus otrora cuernos de acero se han transformado\nen grandes fauces con las que muerde a sus\nenemigos.",
         it: "Le sue corna d’acciaio si sono trasformate in\nenormi mascelle, con cui morde i nemici.",
         de: "Sein riesiger Kiefer hat sich aus stählernen\nHörnern entwickelt. Mit ihm beißt es seine\nGegner.",
+        "pt-br": "Mastiga de boca aberta. Suas enormes mandíbulas, na verdade, são chifres de aço que se transformaram.",
         "zh-tw": "大嘴娃能用自己那由鋼角\n變化而成的巨大顎部\n將對手一口緊緊咬住。"
     },
     attacks: [

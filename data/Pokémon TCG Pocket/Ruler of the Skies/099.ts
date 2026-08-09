@@ -41,7 +41,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body."
+        en: "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+        fr: "Ce Pokémon est capable d'avaler un pneu entier d'une seule bouchée. Ses pores sécrètent un horrible fluide toxique.",
+        es: "Es capaz de tragarse un neumático sin masticarlo. Segrega un fluido tremendamente tóxico por los poros.",
+        it: "Può ingoiare uno pneumatico in un sol boccone. Secerne un liquido incredibilmente tossico da tutti i pori del corpo.",
+        de: "Es kann einen ganzen Reifen auf einmal verschlingen. Seine Poren sondern eine äußerst giftige Flüssigkeit ab.",
+        "pt-br": "É capaz de engolir um pneu inteiro de uma vez só. Libera um fluido horrivelmente tóxico pelos poros do seu corpo.",
+        "zh-tw": "就連輪胎都能整個吞掉，\n會從身上的毛孔分泌出\n帶有劇毒的體液。"
     },
     attacks: [
         {

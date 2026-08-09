@@ -31,7 +31,13 @@ const card: Card = {
     dexId: [133],
     stage: "Basic",
     description: {
-        en: "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs."
+        en: "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.",
+        fr: "Ses gènes atypiques lui permettent de muter s'il est exposé aux radiations d'une pierre.",
+        es: "De código genético irregular, puede mutar si se le expone a la radiación de piedras evolutivas.",
+        it: "A causa del suo codice genetico anomalo, può trasformarsi improvvisamente se esposto alle radiazioni emesse dalle pietre.",
+        de: "Das Erbmaterial von Evoli ist anomal. Die Strahlung von besonderen Steinen lässt es mutieren.",
+        "pt-br": "Seu código genético é irregular. Fica suscetível a mutações caso seja exposto à radiação de pedras elementares.",
+        "zh-tw": "有著不規則的基因。\n石頭散發出的放射線，\n會使牠的身體發生突變。"
     },
     attacks: [
         {

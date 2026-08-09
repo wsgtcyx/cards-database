@@ -35,7 +35,8 @@ const card: Card = {
         "es": "Este Pokémon es el fruto de la investigación de cierto cientifico. La fuerza que atesora luce en codo su esplendor durante los combates.",
         "it": "È stato creato da uno scienziato dopo lunghe ricerche. a sua potenza cere specimente nei lott",
         "de": "Dieses Pokémon ist das Resultat der Experimente eines gewissen Forschers: Es setzt all seine Kraft fürs Kämpfen ein.",
-        "pt-br": "A pesquisa de um certo cientista acabou resultando neste Pokémon. Seus poderes existem unicamente para a batalha."
+        "pt-br": "A pesquisa de um certo cientista acabou resultando neste Pokémon. Seus poderes existem unicamente para a batalha.",
+        "zh-tw": "某位科學家的研究\n造就了超夢的誕生，\n牠的力量專為戰鬥而存在。"
     },
     attacks: [
         {

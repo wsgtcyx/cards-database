@@ -34,7 +34,9 @@ const card: Card = {
         fr: "On dit qu’il a fait monter les eaux en causant des\npluies diluviennes. Il somnolait dans une fosse marine.",
         es: "Se dice que aumentó el nivel del mar a base de\naguaceros. Ha estado durmiendo en una fosa marina.",
         it: "Si dice che abbia ampliato i mari provocando piogge\ntorrenziali. Si è assopito in una fossa marina.",
-        de: "Man sagt, es habe die Meere vergrößert, indem es\nes regnen ließ. Es schlief in einem Meeresgraben."
+        de: "Man sagt, es habe die Meere vergrößert, indem es\nes regnen ließ. Es schlief in einem Meeresgraben.",
+        "pt-br": "Diz-se que expandiu os mares causando inúmeras torrentes. Estava adormecido em uma fossa marinha.",
+        "zh-tw": "據說會用降下\n大雨的能力擴張海洋。\n一直沉睡在海溝的底部。"
     },
     attacks: [
         {
@@ -52,6 +54,7 @@ const card: Card = {
                 en: "Discard 3 {W} Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon.",
                 fr: "Défaussez 3 Énergies {W} de ce Pokémon. Cette attaque inflige 50 dégâts à chacun des Pokémon de votre adversaire.",
                 es: "Descarta 3 Energías {W} de este Pokémon. Este ataque hace 50 puntos de daño a cada uno de los Pokémon de tu rival.",
+                it: "Rimuovi 3 Energie {W} da questo Pokémon. Questo attacco infligge 50 danni a ciascuno dei Pokémon del tuo avversario.",
                 "pt-br": "Descarte 3 Energias {W} deste Pokémon, e este ataque causa 50 pontos de dano a cada um dos Pokémon do seu oponente.",
                 "zh-tw": "將這隻寶可夢身上的3個{W}能量丟棄,對手的所有寶可夢受到50點傷害。",
                 "de": "Lege 3 {W}-Energien von diesem Pokémon auf deinen Ablagestapel, und diese Attacke fügt jedem Pokémon deines Gegners 50 Schadenspunkte zu."

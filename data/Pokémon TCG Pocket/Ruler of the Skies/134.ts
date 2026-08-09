@@ -35,7 +35,8 @@ const card: Card = {
         es: "Le gusta jugar persiguiéndose la cola hasta que se\nmarea, mostrando así su lado más mono.",
         it: "È davvero carino quando barcolla per i giramenti di\ntesta, dopo aver cercato di mordersi la coda.",
         de: "Es zeigt gerne seine niedliche Seite, indem es seinen\neigenen Schweif jagt, bis ihm schwindlig wird.",
-        "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto"
+        "pt-br": "Mostra seu lado engraçado ao perseguir sua própria cauda até ficar tonto",
+        "zh-tw": "有時會展現出追著自己的尾巴玩，\n但玩著玩著就會頭昏眼花的可愛一面。"
     },
     attacks: [
         {

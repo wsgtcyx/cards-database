@@ -42,7 +42,13 @@ const card: Card = {
     },
     stage: "Stage1",
     description: {
-        en: "Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training."
+        en: "Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training.",
+        fr: "Grâce à un entraînement rigoureux et répété, ce Pokémon consciencieux et assidu maîtrise l'usage de ses « coupillages ».",
+        es: "Estoico y diligente, perfecciona el manejo de sus cuchilleiras mediante un entrenamiento basado en la constancia y la repetición.",
+        it: "Ha un'indole coscienziosa e austera. Padroneggia l'uso delle sue mollusciabole grazie a un costante e scrupoloso esercizio.",
+        de: "Es ist fleißig und diszipliniert. Durch regelmäßiges sowie hingebungsvolles Training hat es sich die Handhabung seiner Muscheln zu eigen gemacht.",
+        "pt-br": "Dewott tem uma personalidade rígida e aplicada. Domina o uso de suas scalchops treinando repetidamente e com muito esforço.",
+        "zh-tw": "性情勤勉，嚴以律己。\n會透過紮實的反覆練習，\n學成運用扇貝貝的刀法。"
     },
     attacks: [
         {
