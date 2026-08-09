@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Sandshrew",
-        "fr": "Musaraigne des sables",
+        "fr": "Sabelette",
         "es": "Sandshrew",
         "it": "Sandshrew",
-        "de": "Sandspitzmaus",
+        "de": "Sandan",
         "pt-br": "Sandshrew",
-        "zh-tw": "山鼠"
+        "zh-tw": "穿山鼠"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],

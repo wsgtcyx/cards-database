@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Poochyena",
-        "fr": "Poochyena",
-        "es": "Poochena",
+        "fr": "Medhyèna",
+        "es": "Poochyena",
         "it": "Poochyena",
-        "de": "Poochyena",
+        "de": "Fiffyen",
         "pt-br": "Poochyena",
         "zh-tw": "土狼犬",
     },

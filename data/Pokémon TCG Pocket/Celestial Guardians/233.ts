@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Staryu",
-        "fr": "Staryu",
+        "fr": "Stari",
         "es": "Staryu",
         "it": "Staryu",
-        "de": "Staryu",
+        "de": "Sterndu",
         "pt-br": "Staryu",
         "zh-tw": "海星星",
     },

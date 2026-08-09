@@ -57,7 +57,7 @@ const card: Card = {
             cost: ["Grass"],
             effect: {
                 en: "Take 2 {G} Energy from your Energy Zone and attach it to this Pokémon.",
-                "fr": "Prenez 2 {G} Énergie de votre Zone d'Énergie et attachez-la à ce Pokémon.",
+                "fr": "Prenez 2 {G} Énergie de votre Zone d'Énergie et attachez-la à ce Pokémon.",
                 "es": "Toma 2 Energías {G} de tu Zona de Energía y únelas a este Pokémon.",
                 "it": "Prendi 2 Energie {G} dalla tua Zona Energetica e assegnale a questo Pokémon.",
                 "de": "Nimm 2 {G}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",

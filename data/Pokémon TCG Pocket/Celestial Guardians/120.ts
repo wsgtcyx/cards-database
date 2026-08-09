@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Karrablast",
-        "fr": "Karrablast",
-        "es": "karrablast",
+        "fr": "Carabing",
+        "es": "Karrablast",
         "it": "Karrablast",
-        "de": "Karrablast",
+        "de": "Laukaps",
         "pt-br": "Karrablast",
         "zh-tw": "蓋蓋蟲",
     },

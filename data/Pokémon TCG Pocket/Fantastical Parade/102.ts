@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Stunky",
-        "fr": "Puant",
-        "es": "apestoso",
-        "it": "Puzzolente",
-        "de": "Stunkig",
-        "pt-br": "Fedorento",
-        "zh-tw": "臭臭"
+        "fr": "Moufouette",
+        "es": "Stunky",
+        "it": "Stunky",
+        "de": "Skunkapuh",
+        "pt-br": "Stunky",
+        "zh-tw": "臭鼬噗"
     },
     description: {
         en: "It attacks by spraying a repugnant fluid from its\ntail, but the stench dulls after a few squirts.",

@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Hippopotas",
-        "fr": "Hippopotames",
-        "es": "hipopótamos",
-        "it": "Ippopotami",
-        "de": "Nilpferde",
-        "pt-br": "Hipopótamos",
-        "zh-tw": "怪河馬",
+        "fr": "Hippopotas",
+        "es": "Hippopotas",
+        "it": "Hippopotas",
+        "de": "Hippopotas",
+        "pt-br": "Hippopotas",
+        "zh-tw": "沙河馬",
     },
     description: {
         en: "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",

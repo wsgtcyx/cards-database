@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Eelektrik",
-        "fr": "Électricité",
-        "es": "eléctrico",
-        "it": "Elektrik",
-        "de": "Elektrik",
-        "pt-br": "Elétrico",
+        "fr": "Lampéroie",
+        "es": "Eelektrik",
+        "it": "Eelektrik",
+        "de": "Zapplalek",
+        "pt-br": "Eelektrik",
         "zh-tw": "麻麻鰻",
     },
     description: {

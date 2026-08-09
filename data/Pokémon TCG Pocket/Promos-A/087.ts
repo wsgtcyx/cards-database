@@ -28,11 +28,11 @@ const card: Card = {
     evolveFrom: {
         en: "Milcery",
         es: "Milcery",
-        "fr": "Milcery",
+        "fr": "Crèmy",
         "it": "Milcery",
-        "de": "Milchwaren",
+        "de": "Hokumil",
         "pt-br": "Milcery",
-        "zh-tw": "米爾塞里"
+        "zh-tw": "小仙奶"
     },
     description: {
         en: "When it trusts a Trainer, it will treat them\nto berries it's decorated with cream.",

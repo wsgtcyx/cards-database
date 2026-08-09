@@ -48,11 +48,11 @@ const card: Card = {
             },
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, attacks used by this Pokémon cost 1 less {G} Energy.",
-                "fr": "Si ce Pokémon est équipé d'un Outil Pokémon, les attaques utilisées par ce Pokémon coûtent 1 {G} Énergie de moins.",
+                "fr": "Si ce Pokémon est équipé d'un Outil Pokémon, les attaques utilisées par ce Pokémon coûtent 1 {G} Énergie de moins.",
                 "es": "Si este Pokémon tiene una Herramienta Pokémon adjunta, los ataques utilizados por este Pokémon cuestan 1 {G} de Energía menos.",
                 "it": "Se questo Pokémon ha un'Azione Pokémon assegnata, gli attacchi utilizzati da questo Pokémon costano 1 Energia {G} in meno.",
                 "de": "Wenn an dieses Pokémon ein Pokémon-Werkzeug angelegt ist, kosten Angriffe dieses Pokémon 1 {G}-Energie weniger.",
-                "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, os ataques usados ​​por este Pokémon custarão 1 {G} Energia a menos.",
+                "pt-br": "Se este Pokémon tiver uma Ferramenta Pokémon anexada, os ataques usados por este Pokémon custarão 1 {G} Energia a menos.",
                 "zh-tw": "如果該神奇寶貝附加了神奇寶貝工具，則該神奇寶貝使用的攻擊會減少 1 點 {G} 能量。"
             }
         }],

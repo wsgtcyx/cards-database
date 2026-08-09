@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Snubbull",
-        "fr": "Snobbull",
-        "es": "desaire",
+        "fr": "Snubbull",
+        "es": "Snubbull",
         "it": "Snubbull",
         "de": "Snubbull",
-        "pt-br": "Esnobado",
-        "zh-tw": "斯納布爾"
+        "pt-br": "Snubbull",
+        "zh-tw": "布魯"
     },
     description: {
         en: "It can make most any Pokémon run away\nby opening its big mouth to reveal its\nthick fangs.",

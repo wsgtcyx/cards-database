@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Helioptile",
-        "fr": "Hélioptile",
-        "es": "helioptilo",
-        "it": "Eliottile",
-        "de": "Helioptil",
-        "pt-br": "Helióptilo",
+        "fr": "Galvaran",
+        "es": "Helioptile",
+        "it": "Helioptile",
+        "de": "Eguana",
+        "pt-br": "Helioptile",
         "zh-tw": "傘電蜥",
     },
     description: {

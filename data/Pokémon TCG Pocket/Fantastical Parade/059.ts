@@ -29,10 +29,10 @@ const card: Card = {
         en: "Galarian Ponyta",
         "fr": "Ponyta de Galar",
         "es": "Ponyta de Galar",
-        "it": "Ponyta Galariano",
-        "de": "Galarischer Ponyta",
+        "it": "Ponyta di Galar",
+        "de": "Galar-Ponita",
         "pt-br": "Ponyta de Galar",
-        "zh-tw": "加拉利安·波尼塔"
+        "zh-tw": "伽勒爾小火馬"
     },
     description: {
         en: "Brave and prideful, this Pokémon dashes airily\nthrough the forest, its steps aided by the psychic\npower stored in the fur on its fetlocks.",
@@ -58,7 +58,7 @@ const card: Card = {
             cost: ["Psychic"],
             effect: {
                 en: "If you have 5 or more {P} Energy in play, this attack does 60 more damage.",
-                "fr": "Si vous avez 5 Énergie {P} ou plus en jeu, cette attaque inflige 60 dégâts supplémentaires.",
+                "fr": "Si vous avez 5 Énergie {P} ou plus en jeu, cette attaque inflige 60 dégâts supplémentaires.",
                 "es": "Si tienes 5 o más Energías {P} en juego, este ataque hace 60 daños más.",
                 "it": "Se hai 5 o più Energie {P} in gioco, questo attacco infligge 60 danni in più.",
                 "de": "Wenn du 5 oder mehr {P}-Energie im Spiel hast, verursacht dieser Angriff 60 Schadenspunkte mehr.",

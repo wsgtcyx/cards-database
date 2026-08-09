@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Gothita",
-        "fr": "Gothita",
-        "es": "gotita",
+        "fr": "Scrutella",
+        "es": "Gothita",
         "it": "Gothita",
-        "de": "Gothita",
+        "de": "Mollimorba",
         "pt-br": "Gothita",
         "zh-tw": "哥德寶寶",
     },

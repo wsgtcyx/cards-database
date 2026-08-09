@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Frogadier",
-        "fr": "Frogadier",
-        "es": "ranadier",
+        "fr": "Croâporal",
+        "es": "Frogadier",
         "it": "Frogadier",
-        "de": "Frogadier",
-        "pt-br": "Sapo",
+        "de": "Amphizel",
+        "pt-br": "Frogadier",
         "zh-tw": "呱頭蛙",
     },
     description: {

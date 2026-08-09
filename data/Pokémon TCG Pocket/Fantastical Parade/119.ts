@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Honedge",
-        "fr": "Honedge",
-        "es": "afilar",
+        "fr": "Monorpale",
+        "es": "Honedge",
         "it": "Honedge",
-        "de": "Honedge",
+        "de": "Gramokles",
         "pt-br": "Honedge",
-        "zh-tw": "霍內奇"
+        "zh-tw": "獨劍鞘"
     },
     description: {
         en: "The two swords employ a strategy of rapidly\nalternating between offense and defense to\nbring down their prey.",

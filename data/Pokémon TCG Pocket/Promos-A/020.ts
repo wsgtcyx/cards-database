@@ -53,12 +53,12 @@ const card: Card = {
     hp: 70,
     evolveFrom: {
         en: "Gastly",
-        "fr": "Gastly",
-        "es": "gastly",
+        "fr": "Fantominus",
+        "es": "Gastly",
         "it": "Gastly",
-        "de": "Gastly",
-        "pt-br": "Gastosamente",
-        "zh-tw": "加斯特利"
+        "de": "Nebulak",
+        "pt-br": "Gastly",
+        "zh-tw": "鬼斯"
     },
     description: {
         en: "It likes to lurk in the dark and tap shoulders\nwith a gaseous hand. Its touch causes endless\nshuddering.",

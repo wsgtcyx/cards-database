@@ -29,11 +29,11 @@ const card: Card = {
     evolveFrom: {
         en: "Old Amber",
         "fr": "Vieil Ambre",
-        "es": "Ámbar viejo",
-        "it": "Vecchia Ambra",
-        "de": "Alter Bernstein",
+        "es": "Ámbar Viejo",
+        "it": "Ambra Antica",
+        "de": "Altbernstein",
         "pt-br": "Âmbar Velho",
-        "zh-tw": "老琥珀"
+        "zh-tw": "秘密琥珀"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

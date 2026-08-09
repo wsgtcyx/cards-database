@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Dragon"],
     evolveFrom: {
         en: "Bagon",
-        "fr": "Bagon",
-        "es": "bagón",
-        "it": "Bagón",
-        "de": "Bagon",
-        "pt-br": "Bagão",
-        "zh-tw": "巴貢"
+        "fr": "Draby",
+        "es": "Bagon",
+        "it": "Bagon",
+        "de": "Kindwurm",
+        "pt-br": "Bagon",
+        "zh-tw": "寶貝龍"
     },
     description: {
         en: "Its armored body makes all attacks bounce off.\nThe armor is too tough, however, making it heavy\nand somewhat sluggish.",

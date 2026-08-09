@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Cacnea",
-        "fr": "Cacnéie",
-        "es": "cacnea",
+        "fr": "Cacnea",
+        "es": "Cacnea",
         "it": "Cacnea",
-        "de": "Cacnea",
-        "pt-br": "Cacneia",
-        "zh-tw": "卡內亞"
+        "de": "Tuska",
+        "pt-br": "Cacnea",
+        "zh-tw": "刺球仙人掌"
     },
     description: {
         en: "It lives in deserts. It becomes active at night\nwhen it hunts for prey exhausted from the\ndesert's heat.",

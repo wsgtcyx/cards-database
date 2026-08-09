@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Armor Fossil",
-        "fr": "Fossile d'armure",
-        "es": "Armadura fósil",
-        "it": "Armatura fossile",
-        "de": "Rüstungsfossil",
-        "pt-br": "Fóssil de Armadura",
+        "fr": "Fossile Armure",
+        "es": "Fósil Coraza",
+        "it": "Fossilscudo",
+        "de": "Panzerfossil",
+        "pt-br": "Fóssil Armadura",
         "zh-tw": "盾甲化石",
     },
     description: {

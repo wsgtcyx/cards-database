@@ -53,7 +53,7 @@ const card: Card = {
                 en: "This attack does 40 damage to 1 of your opponent's Pokémon.",
                 fr: "Cette attaque inflige 40 dégâts à l'un des Pokémon de votre adversaire.",
                 es: "Este ataque hace 40 puntos de daño a 1 de los Pokémon de tu rival.",
-                it: "Questo attacco infligge 40 danni a uno dei Pokémon\ndel tuo avversario.",
+                it: "Questo attacco infligge 40 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 40 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 40 pontos de dano a 1 dos Pokémon do seu oponente.",
                 ko: "상대의 포켓몬 1마리에게 40데미지를 준다.",

@@ -53,7 +53,7 @@ const card: Card = {
             cost: ["Water", "Water", "Water", "Colorless"],
             effect: {
                 en: "Discard 3 {W} Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
-                "fr": "Défaussez 3 {W} Énergie de ce Pokémon. Cette attaque inflige également 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+                "fr": "Défaussez 3 {W} Énergie de ce Pokémon. Cette attaque inflige également 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
                 "es": "Descarta 3 Energías {W} de este Pokémon. Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival.",
                 "it": "Scarta 3 Energie {W} da questo Pokémon. Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario.",
                 "de": "Lege 3 {W}-Energien von diesem Pokémon ab. Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.",

@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Grimer",
-        "fr": "Grimer",
+        "fr": "Tadmorv",
         "es": "Grimer",
         "it": "Grimer",
-        "de": "Grimer",
+        "de": "Sleima",
         "pt-br": "Grimer",
-        "zh-tw": "格里默"
+        "zh-tw": "臭泥"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],

@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Omanyte",
-        "fr": "Omanyte",
-        "es": "Omanita",
+        "fr": "Amonita",
+        "es": "Omanyte",
         "it": "Omanyte",
-        "de": "Omanyte",
-        "pt-br": "Omanita",
-        "zh-tw": "阿曼人"
+        "de": "Amonitas",
+        "pt-br": "Omanyte",
+        "zh-tw": "菊石獸"
     },
     attacks: [{
             cost: ["Water", "Colorless", "Colorless"],

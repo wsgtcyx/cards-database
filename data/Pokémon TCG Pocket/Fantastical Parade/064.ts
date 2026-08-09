@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Ralts",
-        "fr": "Ralts",
+        "fr": "Tarsal",
         "es": "Ralts",
         "it": "Ralts",
-        "de": "Ralts",
+        "de": "Trasla",
         "pt-br": "Ralts",
-        "zh-tw": "拉爾茨"
+        "zh-tw": "拉魯拉絲"
     },
     description: {
         en: "The cheerful spirit of its Trainer gives it energy\nfor its psychokinetic power. It spins and dances\nwhen happy.",

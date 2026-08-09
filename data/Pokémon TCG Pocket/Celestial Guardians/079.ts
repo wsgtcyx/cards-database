@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Cutiefly",
-        "fr": "Mignonne",
+        "fr": "Bombydou",
         "es": "Cutiefly",
-        "it": "Carino",
-        "de": "Niedlich",
-        "pt-br": "Fofinho",
+        "it": "Cutiefly",
+        "de": "Wommel",
+        "pt-br": "Cutiefly",
         "zh-tw": "萌虻",
     },
     description: {

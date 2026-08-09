@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Rufflet",
-        "fr": "Volant",
-        "es": "Volante",
-        "it": "Volant",
-        "de": "Rüschen",
-        "pt-br": "Babado",
+        "fr": "Furaiglon",
+        "es": "Rufflet",
+        "it": "Rufflet",
+        "de": "Geronimatz",
+        "pt-br": "Rufflet",
         "zh-tw": "毛頭小鷹",
     },
     description: {

@@ -36,7 +36,7 @@ const card: Card = {
         it: "Sliggoo",
         de: "Viscargot",
         "pt-br": "Sliggoo",
-        "zh-tw": "洗翠 黏美兒",
+        "zh-tw": "黏美兒",
         ko: "히스이 미끄네일",
         ja: "ヒスイ ヌメイル"
     },

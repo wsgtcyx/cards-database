@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Ivysaur",
-        "fr": "Lierre",
+        "fr": "Herbizarre",
         "es": "Ivysaur",
         "it": "Ivysaur",
-        "de": "Efeusaurier",
-        "pt-br": "Ivysauro",
-        "zh-tw": "常春藤屬"
+        "de": "Bisaknosp",
+        "pt-br": "Ivysaur",
+        "zh-tw": "妙蛙草"
     },
     suffix: "EX",
     attacks: [{

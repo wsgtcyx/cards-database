@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Tinkatink",
-        "fr": "Tinkatink",
-        "es": "tinkatink",
+        "fr": "Forgerette",
+        "es": "Tinkatink",
         "it": "Tinkatink",
-        "de": "Tinkatink",
+        "de": "Forgita",
         "pt-br": "Tinkatink",
         "zh-tw": "小鍛匠"
     },

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Blitzle",
-        "fr": "Blitz",
-        "es": "bombardeo",
-        "it": "Blitz",
-        "de": "Blitzle",
-        "pt-br": "Blitz",
+        "fr": "Zébibron",
+        "es": "Blitzle",
+        "it": "Blitzle",
+        "de": "Elezeba",
+        "pt-br": "Blitzle",
         "zh-tw": "斑斑馬",
     },
     description: {

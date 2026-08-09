@@ -27,7 +27,7 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Magikarp",
-        "fr": "Magikarpe",
+        "fr": "Magicarpe",
         "es": "Magikarp",
         "it": "Magikarp",
         "de": "Karpador",

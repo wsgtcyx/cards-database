@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Ralts",
-        "fr": "Ralts",
+        "fr": "Tarsal",
         "es": "Ralts",
         "it": "Ralts",
-        "de": "Ralts",
+        "de": "Trasla",
         "pt-br": "Ralts",
-        "zh-tw": "拉爾茨"
+        "zh-tw": "拉魯拉絲"
     },
     attacks: [{
             cost: ["Psychic", "Colorless"],

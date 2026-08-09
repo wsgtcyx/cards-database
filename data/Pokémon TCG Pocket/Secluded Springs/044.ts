@@ -28,10 +28,10 @@ const card: Card = {
     evolveFrom: {
         en: "Phanpy",
         "fr": "Phanpy",
-        "es": "fanpy",
-        "it": "Fanpy",
+        "es": "Phanpy",
+        "it": "Phanpy",
         "de": "Phanpy",
-        "pt-br": "Fanpy",
+        "pt-br": "Phanpy",
         "zh-tw": "小小象",
     },
     description: {

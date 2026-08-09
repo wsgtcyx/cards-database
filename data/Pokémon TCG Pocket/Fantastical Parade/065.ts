@@ -28,11 +28,11 @@ const card: Card = {
     evolveFrom: {
         en: "Kirlia",
         "fr": "Kirlia",
-        "es": "kirlia",
+        "es": "Kirlia",
         "it": "Kirlia",
         "de": "Kirlia",
         "pt-br": "Kirlia",
-        "zh-tw": "基利亞"
+        "zh-tw": "奇魯莉安"
     },
     description: {
         en: "It unleashes psychokinetic energy at full power\nwhen protecting a Trainer it has bonded closely\nwith.",
@@ -58,7 +58,7 @@ const card: Card = {
             cost: ["Psychic", "Psychic"],
             effect: {
                 en: "Take 2 {P} Energy from your Energy Zone and attach it to 1 of your Benched {P} Pokémon.",
-                "fr": "Prenez 2 {P} Énergie de votre Zone d'Énergie et attachez-la à 1 de vos Pokémon {P} de Banc.",
+                "fr": "Prenez 2 {P} Énergie de votre Zone d'Énergie et attachez-la à 1 de vos Pokémon {P} de Banc.",
                 "es": "Toma 2 Energías {P} de tu Zona de Energía y únelas a 1 de tus Pokémon {P} en Banca.",
                 "it": "Prendi 2 Energie {P} dalla tua Zona Energetica e assegnale a 1 dei tuoi Pokémon {P} in panchina.",
                 "de": "Nimm 2 {P}-Energie aus deiner Energiezone und lege sie an eines deiner {P}-Pokémon auf deiner Bank an.",

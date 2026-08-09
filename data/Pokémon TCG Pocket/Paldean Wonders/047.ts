@@ -63,7 +63,7 @@ const card: Card = {
             cost: ["Psychic", "Psychic"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 50 more damage.",
-                fr: "Lancez une pièce. Si c’est face, cette attaque inflige 50 dégâts supplémentaires.",
+                fr: "Lancez une pièce. Si c’est face, cette attaque inflige 50 dégâts supplémentaires.",
                 es: "Lanza 1 moneda. Si sale cara, este ataque hace 50 puntos de daño más.",
                 it: "Lancia una moneta. Se esce testa, questo attacco infligge 50 danni in più.",
                 de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 50 Schadenspunkte mehr zu.",

@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Minccino",
-        "fr": "Minccino",
+        "fr": "Chinchidou",
         "es": "Minccino",
         "it": "Minccino",
-        "de": "Minccino",
-        "pt-br": "Mincino",
-        "zh-tw": "明奇諾"
+        "de": "Picochilla",
+        "pt-br": "Minccino",
+        "zh-tw": "泡沫栗鼠"
     },
     attacks: [{
             cost: ["Colorless", "Colorless", "Colorless"],

@@ -53,7 +53,7 @@ const card: Card = {
             },
             cost: ["Metal"],
             effect: {
-                en: "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it. ",
+                en: "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it.",
                 "fr": "1 Pokémon de votre adversaire est choisi au hasard pour chaque Énergie Métal attachée à ce Pokémon. À chaque fois qu'un Pokémon est choisi, infligez-lui 40 dégâts.",
                 "es": "Se elige 1 de los Pokémon de tu rival al azar por cada Energía Metal unida a este Pokémon. Por cada vez que se elija un Pokémon, hazle 40 daños.",
                 "it": "1 dei Pokémon del tuo avversario viene scelto casualmente per ogni Energia Metal assegnata a questo Pokémon. Per ogni volta che viene scelto un Pokémon, infliggigli 40 danni.",

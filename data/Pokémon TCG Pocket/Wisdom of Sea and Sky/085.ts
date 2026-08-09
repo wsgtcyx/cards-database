@@ -52,7 +52,7 @@ const card: Card = {
                 "es": "Esta habilidad funciona si tienes algún Unown en juego con una habilidad distinta a . Los ataques utilizados por tus Pokémon causan +10 de daño al Pokémon Activo de tu oponente.",
                 "it": "Questa abilità funziona se hai in gioco degli Unown con un'abilità diversa da . Gli attacchi usati dai tuoi Pokémon infliggono +10 danni al Pokémon attivo del tuo avversario.",
                 "de": "Diese Fähigkeit funktioniert, wenn Sie einen Unbekannten mit einer anderen Fähigkeit als im Spiel haben. Angriffe deines Pokémon fügen dem aktiven Pokémon deines Gegners +10 Schaden zu.",
-                "pt-br": "Esta habilidade funciona se você tiver algum Unown em jogo com uma habilidade diferente de . Os ataques usados ​​pelos seus Pokémon causam +10 de dano ao Pokémon Ativo do seu oponente.",
+                "pt-br": "Esta habilidade funciona se você tiver algum Unown em jogo com uma habilidade diferente de . Os ataques usados pelos seus Pokémon causam +10 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "如果您有任何未知的技能與 以外的技能一起使用，則此技能有效。你的神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+10傷害。"
             }
         }],

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Krokorok",
-        "fr": "Krokorok",
-        "es": "krokorok",
+        "fr": "Escroco",
+        "es": "Krokorok",
         "it": "Krokorok",
-        "de": "Krokorok",
-        "pt-br": "Crokorok",
+        "de": "Rokkaiman",
+        "pt-br": "Krokorok",
         "zh-tw": "混混鱷",
     },
     description: {

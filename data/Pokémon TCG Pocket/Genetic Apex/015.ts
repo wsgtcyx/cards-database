@@ -30,10 +30,10 @@ const card: Card = {
         en: "Paras",
         "fr": "Paras",
         "es": "Paras",
-        "it": "parr",
-        "de": "Abs",
-        "pt-br": "Parágrafos",
-        "zh-tw": "帕拉斯"
+        "it": "Paras",
+        "de": "Paras",
+        "pt-br": "Paras",
+        "zh-tw": "派拉斯"
     },
     attacks: [{
             cost: ["Grass", "Grass", "Colorless"],

@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Spritzee",
-        "fr": "Spritzée",
+        "fr": "Fluvetin",
         "es": "Spritzee",
-        "it": "Spritz",
-        "de": "Spritzee",
+        "it": "Spritzee",
+        "de": "Parfi",
         "pt-br": "Spritzee",
         "zh-tw": "粉香香",
     },

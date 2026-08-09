@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Doublade",
-        "fr": "Doublade",
-        "es": "doble hoja",
-        "it": "Doppia lama",
-        "de": "Doublade",
-        "pt-br": "Lâmina Dupla",
-        "zh-tw": "雙刃"
+        "fr": "Dimoclès",
+        "es": "Doublade",
+        "it": "Doublade",
+        "de": "Duokles",
+        "pt-br": "Doublade",
+        "zh-tw": "雙劍鞘"
     },
     description: {
         en: "Its potent spectral powers allow it to manipulate\nothers. It once used its powers to force people\nand Pokémon to build a kingdom to its liking.",

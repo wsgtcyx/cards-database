@@ -49,7 +49,7 @@ const card: Card = {
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "Change the type of a random Energy attached to your opponent's Active Pokémon to 1 of the following at random: {G}, {R}, {W}, {L}, {P}, {F}, {D}, or {M}.",
-                "fr": "Remplacez aléatoirement le type d'Énergie attachée au Pokémon Actif de votre adversaire par l'un des types suivants : {G}, {R}, {W}, {L}, {P}, {F}, {D} ou {M}.",
+                "fr": "Remplacez aléatoirement le type d'Énergie attachée au Pokémon Actif de votre adversaire par l'un des types suivants : {G}, {R}, {W}, {L}, {P}, {F}, {D} ou {M}.",
                 "es": "Cambia el tipo de Energía aleatoria unida al Pokémon Activo de tu rival a 1 de los siguientes al azar: {G}, {R}, {W}, {L}, {P}, {F}, {D} o {M}.",
                 "it": "Cambia il tipo di un'Energia casuale assegnata al Pokémon attivo del tuo avversario con una delle seguenti Energia casuale: {G}, {R}, {W}, {L}, {P}, {F}, {D} o {M}.",
                 "de": "Ändere den Typ einer zufälligen Energie, die an das Aktive Pokémon deines Gegners angelegt ist, zufällig zu einem der folgenden: {G}, {R}, {W}, {L}, {P}, {F}, {D} oder {M}.",

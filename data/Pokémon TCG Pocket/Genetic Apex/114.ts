@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Clefairy",
-        "fr": "Cléfée",
+        "fr": "Mélofée",
         "es": "Clefairy",
         "it": "Clefairy",
-        "de": "Clefairy",
+        "de": "Piepi",
         "pt-br": "Clefairy",
-        "zh-tw": "克萊菲爾"
+        "zh-tw": "皮皮"
     },
     attacks: [{
             cost: ["Psychic"],

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Stufful",
-        "fr": "Bourré",
-        "es": "Relleno",
-        "it": "Stupendo",
-        "de": "Stoffig",
-        "pt-br": "Recheado",
+        "fr": "Nounourson",
+        "es": "Stufful",
+        "it": "Stufful",
+        "de": "Velursi",
+        "pt-br": "Stufful",
         "zh-tw": "童偶熊",
     },
     description: {

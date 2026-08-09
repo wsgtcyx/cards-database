@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Graveler",
-        "fr": "Graveur",
+        "fr": "Gravalanch",
         "es": "Graveler",
         "it": "Graveler",
-        "de": "Schotter",
-        "pt-br": "Cascalho",
+        "de": "Georok",
+        "pt-br": "Graveler",
         "zh-tw": "隆隆石",
     },
     description: {

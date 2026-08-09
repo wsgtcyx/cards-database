@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Ferroseed",
-        "fr": "Graine de fer",
-        "es": "Ferrosa",
-        "it": "Ferroseme",
-        "de": "Ferroseed",
-        "pt-br": "Ferrosemente",
-        "zh-tw": "鐵玫瑰"
+        "fr": "Grindur",
+        "es": "Ferroseed",
+        "it": "Ferroseed",
+        "de": "Kastadur",
+        "pt-br": "Ferroseed",
+        "zh-tw": "種子鐵球"
     },
     description: {
         en: "Its spikes are harder than steel. This Pokémon\ncrawls across rock walls by stabbing the spikes\non its feelers into the stone.",

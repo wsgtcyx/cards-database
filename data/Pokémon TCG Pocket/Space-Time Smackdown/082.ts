@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Rhydon",
-        "fr": "Rhydon",
-        "es": "rhydon",
+        "fr": "Rhinoféros",
+        "es": "Rhydon",
         "it": "Rhydon",
-        "de": "Rhydon",
+        "de": "Rizeros",
         "pt-br": "Rhydon",
         "zh-tw": "鑽角犀獸",
     },

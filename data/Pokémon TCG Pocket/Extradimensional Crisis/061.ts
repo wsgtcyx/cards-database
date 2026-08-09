@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Type: Null",
-        "fr": "Type : Nul",
-        "es": "Tipo: nulo",
-        "it": "Tipo: nullo",
-        "de": "Typ: Null",
-        "pt-br": "Tipo: Nulo",
+        "fr": "Type:0",
+        "es": "Código Cero",
+        "it": "Tipo Zero",
+        "de": "Typ:Null",
+        "pt-br": "Tipo Nulo",
         "zh-tw": "屬性：空",
     },
     description: {

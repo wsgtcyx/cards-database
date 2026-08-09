@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Sandile",
-        "fr": "Sandile",
-        "es": "sandil",
+        "fr": "Mascaïman",
+        "es": "Sandile",
         "it": "Sandile",
-        "de": "Sandile",
-        "pt-br": "Sandália",
+        "de": "Ganovil",
+        "pt-br": "Sandile",
         "zh-tw": "黑眼鱷",
     },
     description: {

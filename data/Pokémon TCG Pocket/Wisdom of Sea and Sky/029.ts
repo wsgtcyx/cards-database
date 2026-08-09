@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Quilava",
-        "fr": "Quilava",
-        "es": "Quilavá",
+        "fr": "Feurisson",
+        "es": "Quilava",
         "it": "Quilava",
-        "de": "Quilava",
+        "de": "Igelavar",
         "pt-br": "Quilava",
         "zh-tw": "火岩鼠",
     },

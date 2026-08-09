@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Whismur",
-        "fr": "Chuchotement",
+        "fr": "Chuchmur",
         "es": "Whismur",
-        "it": "Sussurro",
-        "de": "Whismur",
-        "pt-br": "Sussurro",
+        "it": "Whismur",
+        "de": "Flurmel",
+        "pt-br": "Whismur",
         "zh-tw": "咕妞妞",
     },
     description: {

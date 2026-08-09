@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Inkay",
-        "fr": "Inkay",
-        "es": "tinta",
+        "fr": "Sepiatop",
+        "es": "Inkay",
         "it": "Inkay",
-        "de": "Inkay",
+        "de": "Iscalar",
         "pt-br": "Inkay",
-        "zh-tw": "豪喇花枝",
+        "zh-tw": "好啦魷",
     },
     description: {
         en: "Gazing at its luminescent spots will quickly\ninduce a hypnotic state, putting the observer\nunder Malamar's control.",

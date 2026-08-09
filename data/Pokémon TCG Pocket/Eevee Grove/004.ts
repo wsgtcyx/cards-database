@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Bounsweet",
-        "fr": "Bonbon",
-        "es": "dulce",
-        "it": "Dolcezza",
-        "de": "Bounsweet",
-        "pt-br": "Doce",
+        "fr": "Croquine",
+        "es": "Bounsweet",
+        "it": "Bounsweet",
+        "de": "Frubberl",
+        "pt-br": "Bounsweet",
         "zh-tw": "甜竹竹",
     },
     description: {

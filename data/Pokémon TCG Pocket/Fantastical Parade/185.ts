@@ -28,11 +28,11 @@ const card: Card = {
     evolveFrom: {
         en: "Kirlia",
         "fr": "Kirlia",
-        "es": "kirlia",
+        "es": "Kirlia",
         "it": "Kirlia",
         "de": "Kirlia",
         "pt-br": "Kirlia",
-        "zh-tw": "基利亞"
+        "zh-tw": "奇魯莉安"
     },
     description: {
         en: "When it opens the red plate on its chest and\nunleashes its heart, its strongest psychic power\nis released.",
@@ -59,7 +59,7 @@ const card: Card = {
             cost: ["Psychic", "Psychic"],
             effect: {
                 en: "Take 3 {P} Energy from your Energy Zone and attach it to your {P} Pokémon in any way you like.",
-                "fr": "Prenez 3 {P} Énergie de votre Zone d'Énergie et attachez-les à votre {P} Pokémon comme vous le souhaitez.",
+                "fr": "Prenez 3 {P} Énergie de votre Zone d'Énergie et attachez-les à votre {P} Pokémon comme vous le souhaitez.",
                 "es": "Toma 3 Energías {P} de tu Zona de Energía y únelas a tu Pokémon {P} de la forma que quieras.",
                 "it": "Prendi 3 Energie {P} dalla tua Zona Energetica e assegnale ai tuoi Pokémon {P} nel modo che preferisci.",
                 "de": "Nimm 3 {P}-Energie aus deiner Energiezone und lege sie auf beliebige Weise an dein {P}-Pokémon an.",

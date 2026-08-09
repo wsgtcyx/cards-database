@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Mudkip",
-        "fr": "Boue",
+        "fr": "Gobou",
         "es": "Mudkip",
         "it": "Mudkip",
-        "de": "Schlammkippe",
+        "de": "Hydropi",
         "pt-br": "Mudkip",
-        "zh-tw": "水雀"
+        "zh-tw": "水躍魚"
     },
     description: {
         en: "It is at its best when on muddy ground that offers\npoor footing. It quickly overwhelms opponents\nthat are bogged down and unable to move.",

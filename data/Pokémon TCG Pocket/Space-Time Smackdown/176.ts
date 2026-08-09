@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Staravia",
-        "fr": "Staravia",
-        "es": "Starávia",
+        "fr": "Étourvol",
+        "es": "Staravia",
         "it": "Staravia",
         "de": "Staravia",
-        "pt-br": "Starávia",
+        "pt-br": "Staravia",
         "zh-tw": "姆克鳥",
     },
     description: {

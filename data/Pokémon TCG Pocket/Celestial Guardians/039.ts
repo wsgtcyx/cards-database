@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Alolan Sandshrew",
-        "fr": "Musaraigne d'Alola",
+        "fr": "Sabelette d'Alola",
         "es": "Sandshrew de Alola",
         "it": "Sandshrew di Alola",
-        "de": "Alolan Sandshrew",
+        "de": "Alola-Sandan",
         "pt-br": "Sandshrew de Alola",
         "zh-tw": "阿羅拉穿山鼠",
     },

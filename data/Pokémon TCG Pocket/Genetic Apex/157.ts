@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Rhyhorn",
-        "fr": "Rhycorne",
+        "fr": "Rhinocorne",
         "es": "Rhyhorn",
         "it": "Rhyhorn",
-        "de": "Rhyhorn",
-        "pt-br": "Richifre",
-        "zh-tw": "犀牛角"
+        "de": "Rihorn",
+        "pt-br": "Rhyhorn",
+        "zh-tw": "獨角犀牛"
     },
     attacks: [{
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],

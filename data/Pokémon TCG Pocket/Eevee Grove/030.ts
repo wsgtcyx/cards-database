@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Woobat",
-        "fr": "Woobat",
+        "fr": "Chovsourir",
         "es": "Woobat",
         "it": "Woobat",
-        "de": "Woobat",
-        "pt-br": "Uau",
+        "de": "Fleknoil",
+        "pt-br": "Woobat",
         "zh-tw": "滾滾蝙蝠",
     },
     description: {

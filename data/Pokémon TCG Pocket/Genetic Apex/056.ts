@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Wartortle",
-        "fr": "Tortue Wartorle",
-        "es": "Tortuga de guerra",
+        "fr": "Carabaffe",
+        "es": "Wartortle",
         "it": "Wartortle",
-        "de": "Warschildkröte",
+        "de": "Schillok",
         "pt-br": "Wartortle",
-        "zh-tw": "疣龜"
+        "zh-tw": "卡咪龜"
     },
     suffix: "EX",
     attacks: [{

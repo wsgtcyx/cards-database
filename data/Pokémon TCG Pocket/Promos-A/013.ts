@@ -66,12 +66,12 @@ const card: Card = {
     hp: 120,
     evolveFrom: {
         en: "Metapod",
-        "fr": "Métapode",
-        "es": "metapodo",
-        "it": "Metapode",
-        "de": "Metapod",
-        "pt-br": "Metápode",
-        "zh-tw": "元足"
+        "fr": "Chrysacier",
+        "es": "Metapod",
+        "it": "Metapod",
+        "de": "Safcon",
+        "pt-br": "Metapod",
+        "zh-tw": "鐵甲蛹"
     },
     description: {
         en: "In battle, it flaps its wings at great speed to\nrelease highly toxic dust into the air.",

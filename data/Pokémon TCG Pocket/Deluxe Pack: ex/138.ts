@@ -28,10 +28,10 @@ const card: Card = {
     evolveFrom: {
         en: "Magneton",
         "fr": "Magnéton",
-        "es": "Magnetón",
-        "it": "Magnetone",
+        "es": "Magneton",
+        "it": "Magneton",
         "de": "Magneton",
-        "pt-br": "Magnetão",
+        "pt-br": "Magneton",
         "zh-tw": "三合一磁怪",
     },
     description: {

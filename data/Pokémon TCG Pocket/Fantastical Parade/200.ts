@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Boldore",
-        "fr": "Boldoré",
-        "es": "Boldoré",
+        "fr": "Géolithe",
+        "es": "Boldore",
         "it": "Boldore",
-        "de": "Boldore",
-        "pt-br": "Boldoré",
-        "zh-tw": "博爾多雷"
+        "de": "Sedimantur",
+        "pt-br": "Boldore",
+        "zh-tw": "地幔岩"
     },
     stage: "Stage2",
     suffix: "EX",

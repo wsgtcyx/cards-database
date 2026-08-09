@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Psyduck",
-        "fr": "Psycanard",
+        "fr": "Psykokwak",
         "es": "Psyduck",
         "it": "Psyduck",
-        "de": "Psyduck",
-        "pt-br": "Psicoduck",
+        "de": "Enton",
+        "pt-br": "Psyduck",
         "zh-tw": "可達鴨",
     },
     description: {

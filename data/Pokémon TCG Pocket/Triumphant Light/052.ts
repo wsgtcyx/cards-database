@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Croagunk",
-        "fr": "Croagunk",
-        "es": "croagunk",
+        "fr": "Cradopaud",
+        "es": "Croagunk",
         "it": "Croagunk",
-        "de": "Croagunk",
+        "de": "Glibunkel",
         "pt-br": "Croagunk",
         "zh-tw": "不良蛙",
     },

@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Dratini",
-        "fr": "Dratini",
+        "fr": "Minidraco",
         "es": "Dratini",
         "it": "Dratini",
         "de": "Dratini",
         "pt-br": "Dratini",
-        "zh-tw": "德拉蒂尼"
+        "zh-tw": "迷你龍"
     },
     attacks: [{
             cost: ["Water", "Lightning", "Colorless"],

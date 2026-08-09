@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Mudbray",
-        "fr": "Mudbrae",
-        "es": "Rayo de barro",
+        "fr": "Tiboudet",
+        "es": "Mudbray",
         "it": "Mudbray",
-        "de": "Mudbray",
+        "de": "Pampuli",
         "pt-br": "Mudbray",
         "zh-tw": "泥驢仔",
     },

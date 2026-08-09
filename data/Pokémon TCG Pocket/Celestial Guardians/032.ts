@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Litten",
-        "fr": "Litten",
-        "es": "litten",
+        "fr": "Flamiaou",
+        "es": "Litten",
         "it": "Litten",
-        "de": "Litten",
+        "de": "Flamiau",
         "pt-br": "Litten",
         "zh-tw": "火斑喵",
     },

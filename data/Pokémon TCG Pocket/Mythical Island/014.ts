@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Larvesta",
-        "fr": "Larvesta",
-        "es": "Larvasta",
+        "fr": "Pyronille",
+        "es": "Larvesta",
         "it": "Larvesta",
-        "de": "Larvesta",
+        "de": "Ignivor",
         "pt-br": "Larvesta",
         "zh-tw": "燃燒蟲",
     },

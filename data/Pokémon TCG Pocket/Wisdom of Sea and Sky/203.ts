@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Seadra",
-        "fr": "Seadra",
+        "fr": "Hypocéan",
         "es": "Seadra",
         "it": "Seadra",
-        "de": "Seadra",
+        "de": "Seemon",
         "pt-br": "Seadra",
         "zh-tw": "海刺龍",
     },

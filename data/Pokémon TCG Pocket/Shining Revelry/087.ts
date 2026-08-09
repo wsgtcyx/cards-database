@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Bidoof",
-        "fr": "Bidoof",
+        "fr": "Keunotor",
         "es": "Bidoof",
         "it": "Bidoof",
-        "de": "Bidoof",
+        "de": "Bidiza",
         "pt-br": "Bidoof",
         "zh-tw": "大牙狸"
     },

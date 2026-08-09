@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Murkrow",
-        "fr": "Murkrow",
+        "fr": "Cornèbre",
         "es": "Murkrow",
         "it": "Murkrow",
-        "de": "Murkrow",
+        "de": "Kramurx",
         "pt-br": "Murkrow",
         "zh-tw": "黑暗鴉",
     },

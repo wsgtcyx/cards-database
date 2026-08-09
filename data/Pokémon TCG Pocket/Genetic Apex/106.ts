@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Blitzle",
-        "fr": "Blitz",
-        "es": "bombardeo",
-        "it": "Blitz",
-        "de": "Blitzle",
-        "pt-br": "Blitz",
-        "zh-tw": "閃電戰"
+        "fr": "Zébibron",
+        "es": "Blitzle",
+        "it": "Blitzle",
+        "de": "Elezeba",
+        "pt-br": "Blitzle",
+        "zh-tw": "斑斑馬"
     },
     attacks: [{
             cost: ["Lightning"],
@@ -51,7 +51,7 @@ const card: Card = {
                 en: "This attack does 30 damage to 1 of your opponent's Pokémon.",
                 fr: "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire.",
                 es: "Este ataque hace 30 puntos de daño a 1 de los Pokémon de tu rival.",
-                it: "Questo attacco infligge 30 danni a uno dei Pokémon\ndel tuo avversario.",
+                it: "Questo attacco infligge 30 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 30 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente.",
                 ko: "상대의 포켓몬 1마리에게 30데미지를 준다.",

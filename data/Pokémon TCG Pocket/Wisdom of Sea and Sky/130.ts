@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Spearow",
-        "fr": "Lance",
-        "es": "lanza",
+        "fr": "Piafabec",
+        "es": "Spearow",
         "it": "Spearow",
-        "de": "Speer",
-        "pt-br": "Lança",
+        "de": "Habitak",
+        "pt-br": "Spearow",
         "zh-tw": "烈雀",
     },
     description: {

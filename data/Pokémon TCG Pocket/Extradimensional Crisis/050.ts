@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Lairon",
-        "fr": "Lairon",
-        "es": "Lairón",
-        "it": "Lairón",
-        "de": "Lairon",
-        "pt-br": "Lairón",
+        "fr": "Galegon",
+        "es": "Lairon",
+        "it": "Lairon",
+        "de": "Stollrak",
+        "pt-br": "Lairon",
         "zh-tw": "可多拉",
     },
     description: {

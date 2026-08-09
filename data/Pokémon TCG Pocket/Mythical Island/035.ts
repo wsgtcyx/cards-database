@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Elgyem",
-        "fr": "Elgyem",
+        "fr": "Lewsor",
         "es": "Elgyem",
         "it": "Elgyem",
-        "de": "Elgyem",
+        "de": "Pygraulon",
         "pt-br": "Elgyem",
         "zh-tw": "小灰怪",
     },

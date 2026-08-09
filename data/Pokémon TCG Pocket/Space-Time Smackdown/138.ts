@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Buneary",
-        "fr": "Buneaire",
-        "es": "bunario",
-        "it": "Bunary",
-        "de": "Buneary",
-        "pt-br": "Buneário",
+        "fr": "Laporeille",
+        "es": "Buneary",
+        "it": "Buneary",
+        "de": "Haspiror",
+        "pt-br": "Buneary",
         "zh-tw": "捲捲耳",
     },
     description: {

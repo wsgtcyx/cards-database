@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Pidgey",
-        "fr": "Piggy",
-        "es": "pidgey",
+        "fr": "Roucool",
+        "es": "Pidgey",
         "it": "Pidgey",
-        "de": "Pidgey",
+        "de": "Taubsi",
         "pt-br": "Pidgey",
-        "zh-tw": "皮吉"
+        "zh-tw": "波波"
     },
     attacks: [{
             cost: ["Colorless"],

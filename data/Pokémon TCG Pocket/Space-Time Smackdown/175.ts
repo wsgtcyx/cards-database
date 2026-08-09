@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Dragon"],
     evolveFrom: {
         en: "Gabite",
-        "fr": "Gabite",
-        "es": "gabita",
+        "fr": "Carmache",
+        "es": "Gabite",
         "it": "Gabite",
-        "de": "Gabite",
+        "de": "Knarksel",
         "pt-br": "Gabite",
         "zh-tw": "尖牙陸鯊",
     },

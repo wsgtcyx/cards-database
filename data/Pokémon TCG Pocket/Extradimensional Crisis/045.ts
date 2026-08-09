@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Poipole",
-        "fr": "Poipole",
-        "es": "poipole",
+        "fr": "Vémini",
+        "es": "Poipole",
         "it": "Poipole",
-        "de": "Poipole",
+        "de": "Venicro",
         "pt-br": "Poipole",
         "zh-tw": "毒貝比",
     },

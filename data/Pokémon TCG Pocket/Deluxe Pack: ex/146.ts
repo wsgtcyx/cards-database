@@ -52,7 +52,7 @@ const card: Card = {
                 "es": "Evita todo el daño causado a este Pokémon por los ataques del Pokémon ex de tu oponente.",
                 "it": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon ex del tuo avversario.",
                 "de": "Verhindere jeglichen Schaden, der diesem Pokémon durch Angriffe des Pokémon-Ex deines Gegners zugefügt wird.",
-                "pt-br": "Evite todos os danos causados ​​a este Pokémon por ataques do Pokémon ex do seu oponente.",
+                "pt-br": "Evite todos os danos causados a este Pokémon por ataques do Pokémon ex do seu oponente.",
                 "zh-tw": "防止對手前神奇寶貝的攻擊對該神奇寶貝造成的所有傷害。"
             }
         }],

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Vanillite",
-        "fr": "Vanillite",
-        "es": "vainillita",
+        "fr": "Sorbébé",
+        "es": "Vanillite",
         "it": "Vanillite",
-        "de": "Vanillit",
-        "pt-br": "Vanilita",
-        "zh-tw": "香蘭石"
+        "de": "Gelatini",
+        "pt-br": "Vanillite",
+        "zh-tw": "迷你冰"
     },
     description: {
         en: "It blasts enemies with cold air reaching −148\ndegrees Fahrenheit, freezing them solid. But it\nspares their lives afterward—it's a kind Pokémon.",

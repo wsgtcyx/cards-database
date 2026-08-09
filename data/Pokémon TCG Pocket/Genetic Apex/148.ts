@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Geodude",
-        "fr": "Géodude",
-        "es": "geodudo",
+        "fr": "Racaillou",
+        "es": "Geodude",
         "it": "Geodude",
-        "de": "Geodude",
+        "de": "Kleinstein",
         "pt-br": "Geodude",
-        "zh-tw": "晶洞"
+        "zh-tw": "小拳石"
     },
     attacks: [{
             cost: ["Fighting", "Colorless", "Colorless"],

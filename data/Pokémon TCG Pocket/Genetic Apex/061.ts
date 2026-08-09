@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Poliwhirl",
-        "fr": "Tourbillon poli",
-        "es": "poliwhirl",
-        "it": "Polivortice",
-        "de": "Poliwirbel",
+        "fr": "Têtarte",
+        "es": "Poliwhirl",
+        "it": "Poliwhirl",
+        "de": "Quaputzi",
         "pt-br": "Poliwhirl",
-        "zh-tw": "波利惠爾"
+        "zh-tw": "蚊香君"
     },
     abilities: [{
             type: "Ability",

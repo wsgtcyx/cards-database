@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Machop",
-        "fr": "Machop",
+        "fr": "Machoc",
         "es": "Machop",
         "it": "Machop",
-        "de": "Machop",
+        "de": "Machollo",
         "pt-br": "Machop",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],

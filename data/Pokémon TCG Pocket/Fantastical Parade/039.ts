@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Vanillish",
-        "fr": "Vanillé",
-        "es": "vainilla",
+        "fr": "Sorboul",
+        "es": "Vanillish",
         "it": "Vanillish",
-        "de": "Vanillin",
-        "pt-br": "Vanilizado",
-        "zh-tw": "香草味"
+        "de": "Gelatroppo",
+        "pt-br": "Vanillish",
+        "zh-tw": "多多冰"
     },
     description: {
         en: "People believe this Pokémon formed when two\nVanillish stuck together. Its body temperature is\nroughly 21 degrees Fahrenheit.",

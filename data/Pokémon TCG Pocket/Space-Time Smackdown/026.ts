@@ -31,7 +31,7 @@ const card: Card = {
         "fr": "Limagma",
         "es": "Slugma",
         "it": "Slugma",
-        "de": "Slugma",
+        "de": "Schneckmag",
         "pt-br": "Slugma",
         "zh-tw": "熔岩蟲",
     },

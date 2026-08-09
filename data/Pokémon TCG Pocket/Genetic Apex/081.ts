@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Helix Fossil",
-        "fr": "Hélice fossile",
-        "es": "Fósil de hélice",
-        "it": "Fossile dell'elica",
-        "de": "Helix-Fossil",
-        "pt-br": "Hélice Fóssil",
-        "zh-tw": "螺旋化石"
+        "fr": "Fossile Nautile",
+        "es": "Fósil Hélix",
+        "it": "Helixfossile",
+        "de": "Helixfossil",
+        "pt-br": "Fóssil Espiral",
+        "zh-tw": "貝殼化石"
     },
     attacks: [{
             cost: ["Water"],

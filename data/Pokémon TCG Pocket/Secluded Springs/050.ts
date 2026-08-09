@@ -28,7 +28,7 @@ const card: Card = {
     evolveFrom: {
         en: "Zorua",
         "fr": "Zorua",
-        "es": "Zorúa",
+        "es": "Zorua",
         "it": "Zorua",
         "de": "Zorua",
         "pt-br": "Zorua",
@@ -61,7 +61,7 @@ const card: Card = {
                 "es": "Si el Pokémon de tu rival queda fuera de combate por el daño de los ataques de este Pokémon, durante el próximo turno de tu rival, evita todo el daño (y los efectos de) los ataques realizados a este Pokémon.",
                 "it": "Se il Pokémon del tuo avversario viene messo KO dai danni inflitti dagli attacchi di questo Pokémon, durante il prossimo turno del tuo avversario, previeni tutti i danni e gli effetti degli attacchi inflitti a questo Pokémon.",
                 "de": "Wenn das Pokémon deines Gegners durch Schaden durch die Angriffe dieses Pokémon kampfunfähig wird, verhindere im nächsten Zug deines Gegners jeglichen Schaden und alle Auswirkungen von Angriffen, die diesem Pokémon zugefügt werden.",
-                "pt-br": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, evite todos os danos e efeitos dos ataques causados ​​a este Pokémon.",
+                "pt-br": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, evite todos os danos e efeitos dos ataques causados a este Pokémon.",
                 "zh-tw": "如果對手的神奇寶貝被該神奇寶貝的攻擊造成的傷害擊倒，則在對手的下一個回合中，阻止對該神奇寶貝造成的所有攻擊傷害及其效果。"
             }
         }],

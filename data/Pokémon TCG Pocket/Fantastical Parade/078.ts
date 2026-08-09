@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Sandshrew",
-        "fr": "Musaraigne des sables",
+        "fr": "Sabelette",
         "es": "Sandshrew",
         "it": "Sandshrew",
-        "de": "Sandspitzmaus",
+        "de": "Sandan",
         "pt-br": "Sandshrew",
-        "zh-tw": "山鼠"
+        "zh-tw": "穿山鼠"
     },
     description: {
         en: "The spikes on its body are made up of its\nhardened hide. It rolls up and attacks foes\nwith its spikes.",

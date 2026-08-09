@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Croconaw",
-        "fr": "Croconaw",
-        "es": "croconaw",
+        "fr": "Crocrodil",
+        "es": "Croconaw",
         "it": "Croconaw",
-        "de": "Croconaw",
+        "de": "Tyracroc",
         "pt-br": "Croconaw",
         "zh-tw": "藍鱷",
     },

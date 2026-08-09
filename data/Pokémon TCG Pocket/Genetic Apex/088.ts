@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Froakie",
-        "fr": "Froakie",
+        "fr": "Grenousse",
         "es": "Froakie",
         "it": "Froakie",
-        "de": "Froakie",
+        "de": "Froxy",
         "pt-br": "Froakie",
-        "zh-tw": "弗羅阿基"
+        "zh-tw": "呱呱泡蛙"
     },
     attacks: [{
             cost: ["Colorless"],

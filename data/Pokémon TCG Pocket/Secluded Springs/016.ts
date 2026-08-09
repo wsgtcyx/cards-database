@@ -28,9 +28,9 @@ const card: Card = {
     evolveFrom: {
         en: "Tentacool",
         "fr": "Tentacool",
-        "es": "tentacool",
+        "es": "Tentacool",
         "it": "Tentacool",
-        "de": "Tentacool",
+        "de": "Tentacha",
         "pt-br": "Tentacool",
         "zh-tw": "瑪瑙水母",
     },

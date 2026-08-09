@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Scorbunny",
-        "fr": "Scorlapin",
+        "fr": "Flambino",
         "es": "Scorbunny",
         "it": "Scorbunny",
-        "de": "Scorbunny",
+        "de": "Hopplo",
         "pt-br": "Scorbunny",
-        "zh-tw": "斯科兔"
+        "zh-tw": "炎兔兒"
     },
     description: {
         en: "While it prides itself on its varied kicking moves,\nit can also deliver powerful headbutts once its\nflames have heated up its forehead.",

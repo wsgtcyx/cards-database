@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Bronzor",
-        "fr": "Bronzeur",
+        "fr": "Archéomire",
         "es": "Bronzor",
-        "it": "Bronzo",
-        "de": "Bronzer",
-        "pt-br": "Bronzer",
+        "it": "Bronzor",
+        "de": "Bronzel",
+        "pt-br": "Bronzor",
         "zh-tw": "銅鏡怪",
     },
     description: {

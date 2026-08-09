@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Tynamo",
-        "fr": "Tynamo",
-        "es": "tinamo",
-        "it": "Dinamo",
-        "de": "Tynamo",
-        "pt-br": "Tínamo",
+        "fr": "Anchwatt",
+        "es": "Tynamo",
+        "it": "Tynamo",
+        "de": "Zapplardin",
+        "pt-br": "Tynamo",
         "zh-tw": "麻麻小魚",
     },
     description: {

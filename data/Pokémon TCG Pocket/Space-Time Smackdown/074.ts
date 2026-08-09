@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Drifloon",
-        "fr": "Brise-glace",
-        "es": "Driflón",
+        "fr": "Baudrive",
+        "es": "Drifloon",
         "it": "Drifloon",
-        "de": "Driftloon",
+        "de": "Driftlon",
         "pt-br": "Drifloon",
         "zh-tw": "飄飄球",
     },

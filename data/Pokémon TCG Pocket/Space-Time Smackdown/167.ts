@@ -55,7 +55,7 @@ const card: Card = {
                 es: "Si este Pokémon tiene alguna Energía unida a él, no tiene ningún Coste de Retirada.",
                 it: "Se questo Pokémon ha delle Energie assegnate, non ha costo di ritirata.",
                 de: "Wenn an dieses Pokémon mindestens 1 Energie angelegt ist, hat es keine Rückzugskosten.",
-                'pt-br': "Se este Pokémon tiver alguma Energia ligada a ele,\nnão terá custo de Recuo.",
+                'pt-br': "Se este Pokémon tiver alguma Energia ligada a ele, não terá custo de Recuo.",
                 ko: "이 포켓몬에게 에너지가 붙어 있다면 이 포켓몬의 후퇴에 필요한 에너지를 모두 없앤다.",
                 "zh-tw": "如果該神奇寶貝附加了任何能量，則它沒有撤退成本。"
             }

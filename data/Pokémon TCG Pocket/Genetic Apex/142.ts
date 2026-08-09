@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Mankey",
-        "fr": "Mankey",
-        "es": "mankey",
+        "fr": "Férosinge",
+        "es": "Mankey",
         "it": "Mankey",
-        "de": "Mankey",
+        "de": "Menki",
         "pt-br": "Mankey",
-        "zh-tw": "曼基"
+        "zh-tw": "猴怪"
     },
     attacks: [{
             cost: ["Fighting", "Fighting"],

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Binacle",
-        "fr": "Binacle",
+        "fr": "Opermine",
         "es": "Binacle",
-        "it": "Binacolo",
-        "de": "Binakel",
-        "pt-br": "Bináculo",
+        "it": "Binacle",
+        "de": "Bithora",
+        "pt-br": "Binacle",
         "zh-tw": "龜腳腳",
     },
     description: {

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Ferroseed",
-        "fr": "Graine de fer",
-        "es": "Ferrosa",
-        "it": "Ferroseme",
-        "de": "Ferroseed",
-        "pt-br": "Ferrosemente",
+        "fr": "Grindur",
+        "es": "Ferroseed",
+        "it": "Ferroseed",
+        "de": "Kastadur",
+        "pt-br": "Ferroseed",
         "zh-tw": "種子鐵球",
     },
     description: {

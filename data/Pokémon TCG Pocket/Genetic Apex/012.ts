@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Oddish",
-        "fr": "Bizarre",
-        "es": "Extraño",
-        "it": "Strano",
-        "de": "Seltsam",
-        "pt-br": "Estranho",
-        "zh-tw": "古怪的"
+        "fr": "Mystherbe",
+        "es": "Oddish",
+        "it": "Oddish",
+        "de": "Myrapla",
+        "pt-br": "Oddish",
+        "zh-tw": "走路草"
     },
     attacks: [{
             cost: ["Grass", "Colorless"],

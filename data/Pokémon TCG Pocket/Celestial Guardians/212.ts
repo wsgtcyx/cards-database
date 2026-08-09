@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Ivysaur",
-        "fr": "Lierre",
+        "fr": "Herbizarre",
         "es": "Ivysaur",
         "it": "Ivysaur",
-        "de": "Efeusaurier",
-        "pt-br": "Ivysauro",
+        "de": "Bisaknosp",
+        "pt-br": "Ivysaur",
         "zh-tw": "妙蛙草",
     },
     description: {

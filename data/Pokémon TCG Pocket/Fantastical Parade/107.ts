@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Scraggy",
-        "fr": "Décharné",
-        "es": "Flaco",
-        "it": "Scarso",
-        "de": "Mager",
-        "pt-br": "Desgrenhado",
-        "zh-tw": "瘦弱的"
+        "fr": "Baggiguane",
+        "es": "Scraggy",
+        "it": "Scraggy",
+        "de": "Zurrokex",
+        "pt-br": "Scraggy",
+        "zh-tw": "滑滑小子"
     },
     description: {
         en: "This Pokémon may be rude, but it takes very\ngood care of its family, its friends, and its turf.",

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Shroomish",
-        "fr": "Champignon",
-        "es": "hongo",
+        "fr": "Balignon",
+        "es": "Shroomish",
         "it": "Shroomish",
-        "de": "Pilzartig",
-        "pt-br": "Cogumelo",
+        "de": "Knilz",
+        "pt-br": "Shroomish",
         "zh-tw": "蘑蘑菇",
     },
     description: {

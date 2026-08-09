@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Seel",
-        "fr": "Voir",
+        "fr": "Otaria",
         "es": "Seel",
-        "it": "Vedi",
-        "de": "Seel",
-        "pt-br": "Veja",
-        "zh-tw": "塞爾"
+        "it": "Seel",
+        "de": "Jurob",
+        "pt-br": "Seel",
+        "zh-tw": "小海獅"
     },
     attacks: [{
             cost: ["Water", "Water", "Water"],

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Applin",
-        "fr": "Candidature",
-        "es": "aplicación",
+        "fr": "Verpom",
+        "es": "Applin",
         "it": "Applin",
-        "de": "Applin",
-        "pt-br": "Aplicativo",
+        "de": "Knapfel",
+        "pt-br": "Applin",
         "zh-tw": "啃果蟲",
     },
     description: {

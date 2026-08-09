@@ -28,10 +28,10 @@ const card: Card = {
     evolveFrom: {
         en: "Type: Null",
         "fr": "Type:0",
-        "es": "Type: Null",
-        "it": "Type: Null",
+        "es": "Código Cero",
+        "it": "Tipo Zero",
         "de": "Typ:Null",
-        "pt-br": "Type: Null",
+        "pt-br": "Tipo Nulo",
         "zh-tw": "屬性：空"
     },
     description: {

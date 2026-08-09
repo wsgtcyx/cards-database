@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Houndour",
-        "fr": "Chien",
+        "fr": "Malosse",
         "es": "Houndour",
         "it": "Houndour",
-        "de": "Hundour",
-        "pt-br": "Cão de caça",
+        "de": "Hunduster",
+        "pt-br": "Houndour",
         "zh-tw": "戴魯比",
     },
     description: {

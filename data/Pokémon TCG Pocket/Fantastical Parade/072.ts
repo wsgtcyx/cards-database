@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Pumpkaboo",
-        "fr": "Citrouille",
-        "es": "calabaza",
+        "fr": "Pitrouille",
+        "es": "Pumpkaboo",
         "it": "Pumpkaboo",
-        "de": "Kürbis",
-        "pt-br": "Abóbora",
-        "zh-tw": "南瓜布"
+        "de": "Irrbis",
+        "pt-br": "Pumpkaboo",
+        "zh-tw": "南瓜精"
     },
     description: {
         en: "In the darkness of a new-moon night, Gourgeist\nwill come knocking. Whoever answers the door\nwill be swept off to the afterlife.",

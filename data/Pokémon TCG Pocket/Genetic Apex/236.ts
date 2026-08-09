@@ -29,11 +29,11 @@ const card: Card = {
     evolveFrom: {
         en: "Kadabra",
         "fr": "Kadabra",
-        "es": "kadabra",
+        "es": "Kadabra",
         "it": "Kadabra",
         "de": "Kadabra",
         "pt-br": "Kadabra",
-        "zh-tw": "卡達布拉"
+        "zh-tw": "勇基拉"
     },
     attacks: [{
             cost: ["Psychic", "Colorless", "Colorless"],

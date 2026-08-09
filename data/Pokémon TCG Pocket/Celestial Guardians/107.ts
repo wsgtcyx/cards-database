@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Alolan Rattata",
-        "fr": "Alolan Rattata",
+        "fr": "Rattata d'Alola",
         "es": "Rattata de Alola",
         "it": "Rattata di Alola",
-        "de": "Alolan Rattata",
+        "de": "Alola-Rattfratz",
         "pt-br": "Rattata de Alola",
         "zh-tw": "阿羅拉小拉達",
     },

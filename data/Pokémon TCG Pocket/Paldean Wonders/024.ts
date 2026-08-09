@@ -65,7 +65,7 @@ const card: Card = {
                 "es": "Si los HP restantes de este Pokémon son 50 o menos, los ataques utilizados por este Pokémon hacen +60 de daño al Pokémon Activo de tu rival.",
                 "it": "Se i PS rimanenti di questo Pokémon sono 50 o meno, gli attacchi usati da questo Pokémon infliggono +60 danni al Pokémon attivo del tuo avversario.",
                 "de": "Wenn die verbleibenden KP dieses Pokémon 50 oder weniger betragen, fügen Angriffe dieses Pokémon dem Aktiven Pokémon deines Gegners +60 Schaden zu.",
-                "pt-br": "Se o HP restante deste Pokémon for 50 ou menos, os ataques usados ​​por este Pokémon causarão +60 de dano ao Pokémon Ativo do seu oponente.",
+                "pt-br": "Se o HP restante deste Pokémon for 50 ou menos, os ataques usados por este Pokémon causarão +60 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "這隻寶可夢的剩餘生命值在 50 以下時，這隻寶可夢的攻擊對對手的戰鬥寶可夢造成 +60 點傷害。"
             },
         },

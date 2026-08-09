@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Fletchinder",
-        "fr": "Fletchinder",
+        "fr": "Braisillon",
         "es": "Fletchinder",
         "it": "Fletchinder",
-        "de": "Fletchinder",
+        "de": "Dartignis",
         "pt-br": "Fletchinder",
         "zh-tw": "火箭雀",
     },

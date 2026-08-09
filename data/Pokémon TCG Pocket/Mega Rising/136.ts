@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Golett",
-        "fr": "Golett",
-        "es": "golet",
+        "fr": "Gringolem",
+        "es": "Golett",
         "it": "Golett",
-        "de": "Golett",
+        "de": "Golbit",
         "pt-br": "Golett",
         "zh-tw": "泥偶小人",
     },

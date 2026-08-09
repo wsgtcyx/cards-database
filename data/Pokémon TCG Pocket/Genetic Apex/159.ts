@@ -29,11 +29,11 @@ const card: Card = {
     evolveFrom: {
         en: "Kabuto",
         "fr": "Kabuto",
-        "es": "kabuto",
+        "es": "Kabuto",
         "it": "Kabuto",
         "de": "Kabuto",
         "pt-br": "Kabuto",
-        "zh-tw": "兜"
+        "zh-tw": "化石盔"
     },
     attacks: [{
             cost: ["Fighting"],

@@ -29,10 +29,10 @@ const card: Card = {
     evolveFrom: {
         en: "Roselia",
         "fr": "Rosélia",
-        "es": "rosalia",
+        "es": "Roselia",
         "it": "Roselia",
         "de": "Roselia",
-        "pt-br": "Rosélia",
+        "pt-br": "Roselia",
         "zh-tw": "毒薔薇",
     },
     description: {

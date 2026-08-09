@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Morelull",
-        "fr": "Morelull",
+        "fr": "Spododo",
         "es": "Morelull",
         "it": "Morelull",
-        "de": "Morelull",
+        "de": "Bubungus",
         "pt-br": "Morelull",
         "zh-tw": "睡睡菇",
     },

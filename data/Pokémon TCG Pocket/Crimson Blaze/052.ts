@@ -58,7 +58,7 @@ const card: Card = {
             damage: 120,
             cost: ["Metal", "Metal", "Colorless", "Colorless"],
             effect: {
-                en: "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness.",
+                en: "During your opponent's next turn, this Pokémon takes damage from attacks and has no Weakness.",
                 "fr": "Lors du prochain tour de votre adversaire, ce Pokémon subit des dégâts d'attaques et n'a aucune Faiblesse.",
                 "es": "Durante el próximo turno de tu rival, este Pokémon recibe daño de los ataques y no tiene Debilidad.",
                 "it": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce danni dagli attacchi e non ha debolezza.",

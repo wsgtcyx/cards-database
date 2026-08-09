@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Jigglypuff",
-        "fr": "Jigglypuff",
+        "fr": "Rondoudou",
         "es": "Jigglypuff",
         "it": "Jigglypuff",
-        "de": "Jigglypuff",
+        "de": "Pummeluff",
         "pt-br": "Jigglypuff",
-        "zh-tw": "胖夫"
+        "zh-tw": "胖丁"
     },
     suffix: "EX",
     attacks: [{

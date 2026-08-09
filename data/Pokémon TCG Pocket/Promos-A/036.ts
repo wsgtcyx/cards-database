@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Electabuzz",
-        "fr": "Électrabuzz",
+        "fr": "Élektek",
         "es": "Electabuzz",
         "it": "Electabuzz",
-        "de": "Electabuzz",
+        "de": "Elektek",
         "pt-br": "Electabuzz",
-        "zh-tw": "電擊器"
+        "zh-tw": "電擊獸"
     },
     description: {
         en: "The amount of electrical energy this Pokémon\nproduces is proportional to the rate of its pulse.\nThe voltage jumps while Electivire is battling.",

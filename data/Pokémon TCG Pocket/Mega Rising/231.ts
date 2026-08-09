@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Lampent",
-        "fr": "Lampe",
-        "es": "lámpara",
-        "it": "Lampada",
-        "de": "Lampent",
-        "pt-br": "Lampente",
+        "fr": "Mélancolux",
+        "es": "Lampent",
+        "it": "Lampent",
+        "de": "Laternecto",
+        "pt-br": "Lampent",
         "zh-tw": "燈火幽靈",
     },
     description: {

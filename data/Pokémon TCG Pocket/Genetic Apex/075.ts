@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Staryu",
-        "fr": "Staryu",
+        "fr": "Stari",
         "es": "Staryu",
         "it": "Staryu",
-        "de": "Staryu",
+        "de": "Sterndu",
         "pt-br": "Staryu",
-        "zh-tw": "斯塔尤"
+        "zh-tw": "海星星"
     },
     attacks: [{
             cost: ["Water"],

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Chespin",
-        "fr": "Chespin",
+        "fr": "Marisson",
         "es": "Chespin",
         "it": "Chespin",
-        "de": "Chespin",
+        "de": "Igamaro",
         "pt-br": "Chespin",
-        "zh-tw": "切斯平"
+        "zh-tw": "哈力栗"
     },
     description: {
         en: "It can send a trailer flying with a tackle. It's numb\nto pain, so even violent collisions don't faze it.",

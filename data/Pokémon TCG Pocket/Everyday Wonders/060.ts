@@ -36,7 +36,7 @@ const card: Card = {
         it: "Zorua",
         de: "Zorua",
         "pt-br": "Zorua",
-        "zh-tw": "洗翠 索羅亞",
+        "zh-tw": "索羅亞",
         ko: "히스이 조로아",
         ja: "ヒスイ ゾロア"
     },

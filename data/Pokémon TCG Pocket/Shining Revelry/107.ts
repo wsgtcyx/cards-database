@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Kakuna",
-        "fr": "Kakuna",
+        "fr": "Coconfort",
         "es": "Kakuna",
         "it": "Kakuna",
-        "de": "Kakuna",
+        "de": "Kokuna",
         "pt-br": "Kakuna",
         "zh-tw": "鐵殼蛹"
     },

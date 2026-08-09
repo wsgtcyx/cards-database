@@ -30,7 +30,7 @@ const card: Card = {
 		{
 			type: "Ability",
 			name: {
-				en: "Veevee ’volve",
+				en: "Veevee 'volve",
 				fr: "Veevee 'volve",
 				es: "Veevee 'volve",
 				it: "Veevee si evolve",

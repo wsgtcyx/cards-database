@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Galarian Mr. Mime",
-        "fr": "Galarien M. Mime",
-        "es": "Señor Mimo de Galar",
-        "it": "Il signor Mime di Galar",
-        "de": "Galarischer Mr. Mime",
-        "pt-br": "Galarian Sr. Mime",
-        "zh-tw": "伽勒安啞劇先生"
+        "fr": "M. Mime de Galar",
+        "es": "Mr. Mime de Galar",
+        "it": "Mr. Mime di Galar",
+        "de": "Galar-Pantimos",
+        "pt-br": "Mr. Mime de Galar",
+        "zh-tw": "伽勒爾魔牆人偶"
     },
     description: {
         en: "Its amusing movements make it very popular.\nIt releases its psychic power from the pattern\non its belly.",

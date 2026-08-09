@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Pansage",
-        "fr": "Pansage",
+        "fr": "Feuillajou",
         "es": "Pansage",
         "it": "Pansage",
-        "de": "Pansage",
-        "pt-br": "Pansagem",
+        "de": "Vegimak",
+        "pt-br": "Pansage",
         "zh-tw": "花椰猴",
     },
     description: {

@@ -40,7 +40,7 @@ const card: Card = {
                 en: "Beat Punk",
                 es: "Beat Punk",
                 "fr": "Battre le punk",
-                "it": "Batti il ​​Punk",
+                "it": "Batti il Punk",
                 "de": "Schlage Punk",
                 "pt-br": "Vença o punk",
                 "zh-tw": "擊敗朋克"

@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Cottonee",
-        "fr": "Cotonee",
-        "es": "algodón",
+        "fr": "Doudouvet",
+        "es": "Cottonee",
         "it": "Cottonee",
-        "de": "Cottonee",
-        "pt-br": "Algodão",
-        "zh-tw": "科托尼"
+        "de": "Waumboll",
+        "pt-br": "Cottonee",
+        "zh-tw": "木棉球"
     },
     attacks: [{
             cost: ["Colorless"],

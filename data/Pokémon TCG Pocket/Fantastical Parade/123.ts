@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Dragon"],
     evolveFrom: {
         en: "Shelgon",
-        "fr": "Shelgon",
-        "es": "shelgon",
+        "fr": "Drackhaus",
+        "es": "Shelgon",
         "it": "Shelgon",
-        "de": "Shelgon",
+        "de": "Draschel",
         "pt-br": "Shelgon",
-        "zh-tw": "謝爾貢"
+        "zh-tw": "甲殼龍"
     },
     description: {
         en: "It becomes uncontrollable if it is enraged.\nIt destroys everything with shredding claws\nand fire.",

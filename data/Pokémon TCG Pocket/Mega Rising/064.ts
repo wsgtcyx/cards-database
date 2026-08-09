@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Tympole",
-        "fr": "Tympole",
-        "es": "tímpano",
-        "it": "Timpano",
-        "de": "Trommelfell",
-        "pt-br": "Timpole",
+        "fr": "Tritonde",
+        "es": "Tympole",
+        "it": "Tympole",
+        "de": "Schallquap",
+        "pt-br": "Tympole",
         "zh-tw": "圓蝌蚪",
     },
     description: {

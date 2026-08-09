@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Cubone",
-        "fr": "Cubone",
-        "es": "cubone",
+        "fr": "Osselait",
+        "es": "Cubone",
         "it": "Cubone",
-        "de": "Cubone",
-        "pt-br": "Cubo",
+        "de": "Tragosso",
+        "pt-br": "Cubone",
         "zh-tw": "卡拉卡拉",
     },
     description: {

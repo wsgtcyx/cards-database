@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Litwick",
-        "fr": "Litwick",
-        "es": "litwick",
+        "fr": "Funécire",
+        "es": "Litwick",
         "it": "Litwick",
-        "de": "Litwick",
+        "de": "Lichtel",
         "pt-br": "Litwick",
-        "zh-tw": "利特威克"
+        "zh-tw": "燭光靈"
     },
     description: {
         en: "The spirits it absorbs fuel its baleful fire. It hangs\naround hospitals waiting for people to pass on.",

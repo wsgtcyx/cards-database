@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Poliwhirl",
-        "fr": "Tourbillon poli",
-        "es": "poliwhirl",
-        "it": "Polivortice",
-        "de": "Poliwirbel",
+        "fr": "Têtarte",
+        "es": "Poliwhirl",
+        "it": "Poliwhirl",
+        "de": "Quaputzi",
         "pt-br": "Poliwhirl",
         "zh-tw": "蚊香君",
     },
@@ -61,7 +61,7 @@ const card: Card = {
                 "es": "Mientras este Pokémon esté en tu Banca, los ataques utilizados por tus Pokémon que evolucionan de Poliwhirl hacen +40 de daño al Pokémon Activo de tu rival.",
                 "it": "Fintanto che questo Pokémon è nella tua panchina, gli attacchi usati dai tuoi Pokémon che si evolvono da Poliwhirl infliggono +40 danni al Pokémon attivo del tuo avversario.",
                 "de": "Solange sich dieses Pokémon auf deiner Bank befindet, fügen Angriffe deines Pokémon, die sich aus Poliwhirl entwickeln, dem Aktiven Pokémon deines Gegners +40 Schaden zu.",
-                "pt-br": "Enquanto este Pokémon estiver no seu Banco, os ataques usados ​​pelos seus Pokémon que evoluem de Poliwhirl causarão +40 de dano ao Pokémon Ativo do seu oponente.",
+                "pt-br": "Enquanto este Pokémon estiver no seu Banco, os ataques usados pelos seus Pokémon que evoluem de Poliwhirl causarão +40 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "只要這只神奇寶貝在你的替補席上，從波利旋進化而來的你的神奇寶貝使用的攻擊就會對對手的活躍神奇寶貝造成 +40 點傷害。"
             }
         }],

@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Timburr",
-        "fr": "Timburr",
-        "es": "Timbur",
+        "fr": "Charpenti",
+        "es": "Timburr",
         "it": "Timburr",
-        "de": "Timburr",
+        "de": "Praktibalk",
         "pt-br": "Timburr",
         "zh-tw": "搬運小匠",
     },

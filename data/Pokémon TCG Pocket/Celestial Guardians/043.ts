@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Shellder",
-        "fr": "Décortiqueur",
+        "fr": "Kokiyas",
         "es": "Shellder",
         "it": "Shellder",
-        "de": "Shellder",
-        "pt-br": "Concha",
+        "de": "Muschas",
+        "pt-br": "Shellder",
         "zh-tw": "大舌貝",
     },
     description: {

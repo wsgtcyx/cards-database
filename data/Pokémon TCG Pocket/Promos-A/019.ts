@@ -66,12 +66,12 @@ const card: Card = {
     hp: 120,
     evolveFrom: {
         en: "Frogadier",
-        "fr": "Frogadier",
-        "es": "ranadier",
+        "fr": "Croâporal",
+        "es": "Frogadier",
         "it": "Frogadier",
-        "de": "Frogadier",
-        "pt-br": "Sapo",
-        "zh-tw": "弗洛加迪爾"
+        "de": "Amphizel",
+        "pt-br": "Frogadier",
+        "zh-tw": "呱頭蛙"
     },
     description: {
         en: "It creates throwing stars out of compressed water.\nWhen it spins them and throws them at high speed,\nthese stars can split metal in two.",

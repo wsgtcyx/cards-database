@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Skorupi",
-        "fr": "Skorupí",
-        "es": "Skorupí",
+        "fr": "Rapion",
+        "es": "Skorupi",
         "it": "Skorupi",
-        "de": "Skorupi",
+        "de": "Pionskora",
         "pt-br": "Skorupi",
-        "zh-tw": "紫天蠍",
+        "zh-tw": "鉗尾蠍",
     },
     description: {
         en: "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",

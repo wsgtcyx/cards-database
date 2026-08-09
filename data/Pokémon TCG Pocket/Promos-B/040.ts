@@ -36,7 +36,7 @@ const card: Card = {
         it: "Wooper",
         de: "Felino",
         "pt-br": "Wooper",
-        "zh-tw": "帕底亞 烏波",
+        "zh-tw": "烏波",
         ko: "팔데아 우파",
         ja: "パルデア ウパー"
     },

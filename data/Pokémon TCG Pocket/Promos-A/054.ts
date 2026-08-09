@@ -39,12 +39,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Pawmo",
-        "fr": "Pawmo",
+        "fr": "Pohmotte",
         "es": "Pawmo",
         "it": "Pawmo",
-        "de": "Pawmo",
+        "de": "Pamamo",
         "pt-br": "Pawmo",
-        "zh-tw": "波莫"
+        "zh-tw": "布土撥"
     },
     weaknesses: [{
             type: "Fighting",

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Oddish",
-        "fr": "Bizarre",
-        "es": "Extraño",
-        "it": "Strano",
-        "de": "Seltsam",
-        "pt-br": "Estranho",
+        "fr": "Mystherbe",
+        "es": "Oddish",
+        "it": "Oddish",
+        "de": "Myrapla",
+        "pt-br": "Oddish",
         "zh-tw": "走路草",
     },
     description: {

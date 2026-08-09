@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Tirtouga",
-        "fr": "Tirtouga",
-        "es": "Tirtuga",
+        "fr": "Carapagos",
+        "es": "Tirtouga",
         "it": "Tirtouga",
-        "de": "Tirtouga",
+        "de": "Galapaflos",
         "pt-br": "Tirtouga",
         "zh-tw": "原蓋海龜",
     },

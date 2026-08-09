@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Corphish",
-        "fr": "Corphish",
-        "es": "corphish",
+        "fr": "Écrapince",
+        "es": "Corphish",
         "it": "Corphish",
-        "de": "Corphish",
-        "pt-br": "Corpus",
+        "de": "Krebscorps",
+        "pt-br": "Corphish",
         "zh-tw": "龍蝦小兵",
     },
     description: {

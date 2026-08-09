@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Kakuna",
-        "fr": "Kakuna",
+        "fr": "Coconfort",
         "es": "Kakuna",
         "it": "Kakuna",
-        "de": "Kakuna",
+        "de": "Kokuna",
         "pt-br": "Kakuna",
-        "zh-tw": "角名"
+        "zh-tw": "鐵殼蛹"
     },
     attacks: [{
             cost: ["Grass"],

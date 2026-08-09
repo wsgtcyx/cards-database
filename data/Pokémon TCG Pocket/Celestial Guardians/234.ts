@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Haunter",
-        "fr": "Hanteur",
-        "es": "Perseguidor",
-        "it": "Infestatore",
-        "de": "Haunter",
-        "pt-br": "Assombrado",
+        "fr": "Spectrum",
+        "es": "Haunter",
+        "it": "Haunter",
+        "de": "Alpollo",
+        "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
     },
     stage: "Stage2",
@@ -57,7 +57,7 @@ const card: Card = {
                 de: "Solange dieses Pokémon in der Aktiven Position ist, kann dein Gegner keine Unterstützerkarten aus seiner Hand spielen.",
                 'pt-br': "Enquanto este Pokémon estiver no Campo Ativo, o seu oponente não poderá usar nenhuma carta de Apoiador da mão dele.",
                 ko: "이 포켓몬이 배틀필드에 있는 한, 상대는 패에서 서포트를 꺼내서 사용할 수 없다.",
-                "zh-tw": "只要這只神奇寶貝在活動區域​​，對手就不能使用手牌中的任何支持者卡。"
+                "zh-tw": "只要這只神奇寶貝在活動區域，對手就不能使用手牌中的任何支持者卡。"
             }
         }],
     attacks: [{

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Ducklett",
-        "fr": "Canard",
-        "es": "patito",
+        "fr": "Couaneton",
+        "es": "Ducklett",
         "it": "Ducklett",
-        "de": "Ducklett",
-        "pt-br": "Patinho",
+        "de": "Piccolente",
+        "pt-br": "Ducklett",
         "zh-tw": "鴨寶寶",
     },
     description: {

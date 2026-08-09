@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Roggenrola",
-        "fr": "Roggenrola",
+        "fr": "Nodulithe",
         "es": "Roggenrola",
         "it": "Roggenrola",
-        "de": "Roggenrola",
+        "de": "Kiesling",
         "pt-br": "Roggenrola",
-        "zh-tw": "羅根羅拉"
+        "zh-tw": "石丸子"
     },
     description: {
         en: "It relies on sound in order to monitor what's in its\nvicinity. When angered, it will attack without ever\nchanging the direction it's facing.",

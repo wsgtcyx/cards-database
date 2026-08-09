@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Poliwag",
-        "fr": "Poliwag",
+        "fr": "Ptitard",
         "es": "Poliwag",
         "it": "Poliwag",
-        "de": "Poliwag",
+        "de": "Quapsel",
         "pt-br": "Poliwag",
-        "zh-tw": "波利瓦格"
+        "zh-tw": "蚊香蝌蚪"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

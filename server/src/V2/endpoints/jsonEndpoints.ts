@@ -10,7 +10,7 @@ import { getAllCards, findOneCard, findCards, toBrief, getCardById, getCompiledC
 import { findOneSet, findSets, setToBrief } from '../Components/Set'
 import { findOneSerie, findSeries, serieToBrief } from '../Components/Serie'
 import { listSKUs } from '../../libs/providers/tcgplayer'
-import { CatalogSearchValidationError, getCatalogSearchOptions, searchCatalogCards } from '../Components/CardSearch'
+import { CatalogSearchValidationError, getCardRelations, getCatalogSearchOptions, searchCatalogCards } from '../Components/CardSearch'
 
 type CustomRequest = Request & {
 	/**
@@ -163,6 +163,20 @@ server
 			}
 			throw error
 		}
+	})
+
+	.get('/:lang/cards/:cardId/relations', (req: CustomRequest, res): void => {
+		const { lang, cardId } = req.params
+		if (!checkLanguage(lang)) {
+			sendError(Errors.LANGUAGE_INVALID, res, { lang })
+			return
+		}
+		const relations = getCardRelations(lang, cardId)
+		if (!relations) {
+			sendError(Errors.NOT_FOUND, res, { details: `Card ${cardId} not found` })
+			return
+		}
+		res.json(relations)
 	})
 
 

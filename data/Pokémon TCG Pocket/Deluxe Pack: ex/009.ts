@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Weedle",
-        "fr": "Mauvaise herbe",
-        "es": "weedle",
+        "fr": "Aspicot",
+        "es": "Weedle",
         "it": "Weedle",
-        "de": "Unkraut",
-        "pt-br": "erva daninha",
+        "de": "Hornliu",
+        "pt-br": "Weedle",
         "zh-tw": "獨角蟲",
     },
     description: {

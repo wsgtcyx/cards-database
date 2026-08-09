@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Clefairy",
-        "fr": "Cléfée",
+        "fr": "Mélofée",
         "es": "Clefairy",
         "it": "Clefairy",
-        "de": "Clefairy",
+        "de": "Piepi",
         "pt-br": "Clefairy",
-        "zh-tw": "克萊菲爾"
+        "zh-tw": "皮皮"
     },
     description: {
         en: "A timid fairy Pokémon that is rarely seen, it will\nrun and hide the moment it senses people.",

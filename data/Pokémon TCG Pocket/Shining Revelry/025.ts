@@ -51,7 +51,7 @@ const card: Card = {
             damage: 10,
             cost: ["Lightning"],
             effect: {
-                en: "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched  Pokémon.",
+                en: "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
                 fr: "Prenez une Énergie {L} de votre zone Énergie et attachez-la à l'un de vos Pokémon de Banc.",
                 es: "Une 1 Energía {L} de tu área de Energía a 1 de tus Pokémon en Banca.",
                 it: "Prendi un'Energia {L} dalla tua Zona Energia e assegnala a uno dei tuoi Pokémon in panchina.",

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Dusclops",
-        "fr": "Dusclops",
+        "fr": "Téraclope",
         "es": "Dusclops",
         "it": "Dusclops",
-        "de": "Dusclops",
+        "de": "Zwirrklop",
         "pt-br": "Dusclops",
-        "zh-tw": "夜巨人",
+        "zh-tw": "彷徨夜靈",
     },
     description: {
         en: "With the mouth on its belly, Dusknoir swallows its\ntarget whole. The soul is the only thing eaten—\nDusknoir disgorges the body before departing.",

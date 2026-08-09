@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Slakoth",
-        "fr": "Slakoth",
-        "es": "slakoth",
+        "fr": "Parecool",
+        "es": "Slakoth",
         "it": "Slakoth",
-        "de": "Slakoth",
+        "de": "Bummelz",
         "pt-br": "Slakoth",
-        "zh-tw": "斯拉科斯"
+        "zh-tw": "懶人獺"
     },
     description: {
         en: "It is always hungry because it won't stop\nrampaging. Even while it is eating, it can't\nkeep still.",

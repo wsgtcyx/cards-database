@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Weepinbell",
-        "fr": "Clochette pleureuse",
-        "es": "Campanilla llorona",
+        "fr": "Boustiflor",
+        "es": "Weepinbell",
         "it": "Weepinbell",
-        "de": "Weepinbell",
-        "pt-br": "Campainha chorando",
+        "de": "Ultrigaria",
+        "pt-br": "Weepinbell",
         "zh-tw": "口呆花",
     },
     description: {

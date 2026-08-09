@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Brionne",
-        "fr": "Brionne",
-        "es": "brionne",
+        "fr": "Otarlette",
+        "es": "Brionne",
         "it": "Brionne",
-        "de": "Brionne",
+        "de": "Marikeck",
         "pt-br": "Brionne",
         "zh-tw": "花漾海獅",
     },

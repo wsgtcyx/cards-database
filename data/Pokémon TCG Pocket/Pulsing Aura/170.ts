@@ -57,7 +57,7 @@ const card: Card = {
                 es: "Durante tu próximo turno, los ataques utilizados por tu Pokémon {F} hacen +30 de daño al Pokémon Activo de tu rival.",
                 it: "Durante il tuo prossimo turno, gli attacchi usati dai tuoi Pokémon {F} infliggono +30 danni al Pokémon attivo del tuo avversario.",
                 de: "Während deines nächsten Zuges fügen Angriffe deines {F}-Pokémon dem Aktiven Pokémon deines Gegners +30 Schaden zu.",
-                "pt-br": "Durante o seu próximo turno, os ataques usados ​​pelos seus Pokémon {F} causarão +30 de dano ao Pokémon Ativo do seu oponente.",
+                "pt-br": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon {F} causarão +30 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的下一個回合中，你的{F}寶可夢使用的攻擊對對手的活躍寶可夢造成+30傷害。"
             },
             damage: 30

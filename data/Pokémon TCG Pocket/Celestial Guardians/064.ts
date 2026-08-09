@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Grubbin",
-        "fr": "Grubbin",
+        "fr": "Larvibule",
         "es": "Grubbin",
         "it": "Grubbin",
-        "de": "Grubbin",
+        "de": "Mabula",
         "pt-br": "Grubbin",
         "zh-tw": "強顎雞母蟲",
     },

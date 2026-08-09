@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Sunkern",
-        "fr": "Englouti",
-        "es": "hundido",
-        "it": "Affondato",
-        "de": "Sunkern",
-        "pt-br": "Afundado",
+        "fr": "Tournegrin",
+        "es": "Sunkern",
+        "it": "Sunkern",
+        "de": "Sonnkern",
+        "pt-br": "Sunkern",
         "zh-tw": "向日種子",
     },
     description: {

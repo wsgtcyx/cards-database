@@ -29,7 +29,7 @@ const card: Card = {
     evolveFrom: {
         en: "Makuhita",
         "fr": "Makuhita",
-        "es": "makuhita",
+        "es": "Makuhita",
         "it": "Makuhita",
         "de": "Makuhita",
         "pt-br": "Makuhita",

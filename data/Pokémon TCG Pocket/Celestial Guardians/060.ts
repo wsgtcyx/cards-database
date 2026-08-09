@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Alolan Geodude",
-        "fr": "Géodude d'Alola",
+        "fr": "Racaillou d'Alola",
         "es": "Geodude de Alola",
         "it": "Geodude di Alola",
-        "de": "Alola-Geodude",
+        "de": "Alola-Kleinstein",
         "pt-br": "Geodude de Alola",
         "zh-tw": "阿羅拉小拳石",
     },

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Galarian Corsola",
-        "fr": "Corsola de Galar",
+        "fr": "Corayon de Galar",
         "es": "Corsola de Galar",
-        "it": "Corsola Galariano",
-        "de": "Galar-Corsola",
-        "pt-br": "Córsola de Galar",
+        "it": "Corsola di Galar",
+        "de": "Galar-Corasonn",
+        "pt-br": "Corsola de Galar",
         "zh-tw": "伽勒爾太陽珊瑚",
     },
     description: {

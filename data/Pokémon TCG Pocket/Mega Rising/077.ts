@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Chewtle",
-        "fr": "Mâcher",
-        "es": "masticar",
-        "it": "Masticare",
-        "de": "Chewtle",
-        "pt-br": "Mastigar",
+        "fr": "Khélocrok",
+        "es": "Chewtle",
+        "it": "Chewtle",
+        "de": "Kamehaps",
+        "pt-br": "Chewtle",
         "zh-tw": "咬咬龜",
     },
     description: {

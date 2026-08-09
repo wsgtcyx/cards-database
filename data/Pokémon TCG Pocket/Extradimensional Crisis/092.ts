@@ -26,10 +26,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Froakie",
-        "fr": "Froakie",
+        "fr": "Grenousse",
         "es": "Froakie",
         "it": "Froakie",
-        "de": "Froakie",
+        "de": "Froxy",
         "pt-br": "Froakie",
         "zh-tw": "呱呱泡蛙",
     },

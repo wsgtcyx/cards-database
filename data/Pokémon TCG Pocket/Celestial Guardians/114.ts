@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Trubbish",
-        "fr": "Trubbish",
-        "es": "basura",
-        "it": "Sciocchezza",
-        "de": "Trubbisch",
-        "pt-br": "Trubo",
+        "fr": "Miamiasme",
+        "es": "Trubbish",
+        "it": "Trubbish",
+        "de": "Unratütox",
+        "pt-br": "Trubbish",
         "zh-tw": "破破袋",
     },
     description: {

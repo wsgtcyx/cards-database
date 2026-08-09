@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Sinistea",
-        "fr": "Sinistéa",
+        "fr": "Théffroi",
         "es": "Sinistea",
         "it": "Sinistea",
-        "de": "Sinistea",
+        "de": "Fatalitee",
         "pt-br": "Sinistea",
-        "zh-tw": "西尼斯泰亞"
+        "zh-tw": "來悲茶"
     },
     description: {
         en: "These Pokémon multiply by creeping into teapots\nand pouring themselves into leftover tea.",

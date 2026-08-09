@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Chinchou",
-        "fr": "Chinchou",
-        "es": "Chinchú",
+        "fr": "Loupio",
+        "es": "Chinchou",
         "it": "Chinchou",
-        "de": "Chinchou",
+        "de": "Lampi",
         "pt-br": "Chinchou",
         "zh-tw": "燈籠魚",
     },

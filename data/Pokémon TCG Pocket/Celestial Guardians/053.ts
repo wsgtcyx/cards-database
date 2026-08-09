@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Dewpider",
-        "fr": "Dewpider",
+        "fr": "Araqua",
         "es": "Dewpider",
         "it": "Dewpider",
-        "de": "Taupider",
+        "de": "Araqua",
         "pt-br": "Dewpider",
         "zh-tw": "滴蛛",
     },

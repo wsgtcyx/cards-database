@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Charmeleon",
-        "fr": "Charméléon",
+        "fr": "Reptincel",
         "es": "Charmeleon",
         "it": "Charmeleon",
-        "de": "Charmeleon",
+        "de": "Glutexo",
         "pt-br": "Charmeleon",
         "zh-tw": "火恐龍",
     },
@@ -49,7 +49,7 @@ const card: Card = {
             cost: ["Fire"],
             effect: {
                 en: "Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon.",
-                "fr": "Prenez 3 {R} Énergie de votre Zone d'Énergie et attachez-la à ce Pokémon.",
+                "fr": "Prenez 3 {R} Énergie de votre Zone d'Énergie et attachez-la à ce Pokémon.",
                 "es": "Toma 3 Energías {R} de tu Zona de Energía y únelas a este Pokémon.",
                 "it": "Prendi 3 Energie {R} dalla tua Zona Energetica e assegnale a questo Pokémon.",
                 "de": "Nimm 3 {R}-Energie aus deiner Energiezone und lege sie an dieses Pokémon an.",

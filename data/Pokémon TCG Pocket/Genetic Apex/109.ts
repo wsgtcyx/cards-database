@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Eelektrik",
-        "fr": "Électricité",
-        "es": "eléctrico",
-        "it": "Elektrik",
-        "de": "Elektrik",
-        "pt-br": "Elétrico",
-        "zh-tw": "電氣技術"
+        "fr": "Lampéroie",
+        "es": "Eelektrik",
+        "it": "Eelektrik",
+        "de": "Zapplalek",
+        "pt-br": "Eelektrik",
+        "zh-tw": "麻麻鰻"
     },
     attacks: [{
             cost: ["Lightning", "Lightning", "Colorless"],

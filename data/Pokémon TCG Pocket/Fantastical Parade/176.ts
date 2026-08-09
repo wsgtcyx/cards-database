@@ -29,10 +29,10 @@ const card: Card = {
         en: "Galarian Linoone",
         "fr": "Linéon de Galar",
         "es": "Linoone de Galar",
-        "it": "Linoone Galariano",
-        "de": "Galarischer Linoone",
+        "it": "Linoone di Galar",
+        "de": "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
-        "zh-tw": "加拉利安·利努內"
+        "zh-tw": "伽勒爾直衝熊"
     },
     description: {
         en: "It evolved after experiencing numerous fights.\nWhile crossing its arms, it lets out a shout that\nwould make any opponent flinch.",

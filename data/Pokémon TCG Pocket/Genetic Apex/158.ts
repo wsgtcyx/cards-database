@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Dome Fossil",
-        "fr": "Fossile du Dôme",
-        "es": "Fósil de cúpula",
-        "it": "Cupola fossile",
-        "de": "Kuppelfossil",
-        "pt-br": "Cúpula Fóssil",
-        "zh-tw": "圓頂化石"
+        "fr": "Fossile Dôme",
+        "es": "Fósil Domo",
+        "it": "Domofossile",
+        "de": "Domfossil",
+        "pt-br": "Fóssil Cúpula",
+        "zh-tw": "甲殼化石"
     },
     attacks: [{
             cost: ["Fighting"],

@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Dwebble",
-        "fr": "Bavarder",
+        "fr": "Crabicoque",
         "es": "Dwebble",
         "it": "Dwebble",
-        "de": "Dwebble",
+        "de": "Lithomith",
         "pt-br": "Dwebble",
         "zh-tw": "石居蟹",
     },

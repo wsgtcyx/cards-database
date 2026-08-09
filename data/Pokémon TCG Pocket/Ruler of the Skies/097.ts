@@ -34,7 +34,7 @@ const card: Card = {
         it: "Linoone di Galar",
         de: "Galar-Geradaks",
         "pt-br": "Linoone de Galar",
-        "zh-tw": "伽勒爾的伽勒爾 直衝熊",
+        "zh-tw": "伽勒爾直衝熊",
         ko: "가라르 가라르 직구리",
         ja: "ガラル ガラル マッスグマ"
     },

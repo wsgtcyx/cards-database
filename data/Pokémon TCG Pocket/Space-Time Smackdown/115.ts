@@ -28,8 +28,8 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Burmy",
-        "fr": "Burmy",
-        "es": "burmy",
+        "fr": "Cheniti",
+        "es": "Burmy",
         "it": "Burmy",
         "de": "Burmy",
         "pt-br": "Burmy",

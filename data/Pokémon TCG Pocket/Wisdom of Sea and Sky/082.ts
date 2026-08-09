@@ -28,8 +28,8 @@ const card: Card = {
     evolveFrom: {
         en: "Natu",
         "fr": "Natu",
-        "es": "natural",
-        "it": "Natura",
+        "es": "Natu",
+        "it": "Natu",
         "de": "Natu",
         "pt-br": "Natu",
         "zh-tw": "天然雀",

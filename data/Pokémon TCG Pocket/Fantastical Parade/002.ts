@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Ledyba",
-        "fr": "Lédyba",
+        "fr": "Coxy",
         "es": "Ledyba",
         "it": "Ledyba",
         "de": "Ledyba",
         "pt-br": "Ledyba",
-        "zh-tw": "萊迪巴"
+        "zh-tw": "芭瓢蟲"
     },
     description: {
         en: "It flies through the night sky, sprinkling sparkly\ndust. According to some, if that dust sticks to\nyou, good things will happen to you.",

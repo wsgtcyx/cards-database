@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Herdier",
-        "fr": "Herdier",
-        "es": "herrero",
+        "fr": "Ponchien",
+        "es": "Herdier",
         "it": "Herdier",
-        "de": "Herdier",
-        "pt-br": "Pastor",
+        "de": "Terribark",
+        "pt-br": "Herdier",
         "zh-tw": "哈約克",
     },
     description: {

@@ -28,11 +28,11 @@ const card: Card = {
     evolveFrom: {
         en: "Roselia",
         "fr": "Rosélia",
-        "es": "rosalia",
+        "es": "Roselia",
         "it": "Roselia",
         "de": "Roselia",
-        "pt-br": "Rosélia",
-        "zh-tw": "羅塞利亞"
+        "pt-br": "Roselia",
+        "zh-tw": "毒薔薇"
     },
     description: {
         en: "The poison in its right hand is quick acting.\nThe poison in its left hand is slow acting.\nBoth are life threatening.",

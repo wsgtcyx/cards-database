@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Minccino",
-        "fr": "Minccino",
+        "fr": "Chinchidou",
         "es": "Minccino",
         "it": "Minccino",
-        "de": "Minccino",
-        "pt-br": "Mincino",
-        "zh-tw": "明奇諾"
+        "de": "Picochilla",
+        "pt-br": "Minccino",
+        "zh-tw": "泡沫栗鼠"
     },
     description: {
         en: "Its body secretes oil that this Pokémon spreads\nover its nest as a coating to protect it from dust.\nCinccino won't tolerate even a speck of the stuff.",

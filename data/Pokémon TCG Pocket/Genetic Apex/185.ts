@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Dragonair",
-        "fr": "Dragonair",
+        "fr": "Draco",
         "es": "Dragonair",
         "it": "Dragonair",
-        "de": "Dragonair",
+        "de": "Dragonir",
         "pt-br": "Dragonair",
-        "zh-tw": "港龍航空"
+        "zh-tw": "哈克龍"
     },
     attacks: [{
             cost: ["Water", "Lightning", "Colorless", "Colorless"],

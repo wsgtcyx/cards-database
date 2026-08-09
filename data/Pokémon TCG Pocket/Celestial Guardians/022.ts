@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Wimpod",
-        "fr": "Wimpod",
-        "es": "Wimppod",
+        "fr": "Sovkipou",
+        "es": "Wimpod",
         "it": "Wimpod",
-        "de": "Wimpod",
+        "de": "Reißlaus",
         "pt-br": "Wimpod",
         "zh-tw": "膽小蟲",
     },

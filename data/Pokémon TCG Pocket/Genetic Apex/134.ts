@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Woobat",
-        "fr": "Woobat",
+        "fr": "Chovsourir",
         "es": "Woobat",
         "it": "Woobat",
-        "de": "Woobat",
-        "pt-br": "Uau",
-        "zh-tw": "烏巴特"
+        "de": "Fleknoil",
+        "pt-br": "Woobat",
+        "zh-tw": "滾滾蝙蝠"
     },
     attacks: [{
             cost: ["Psychic", "Colorless"],

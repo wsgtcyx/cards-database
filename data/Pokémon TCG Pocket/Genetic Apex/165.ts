@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Ekans",
-        "fr": "Ékans",
+        "fr": "Abo",
         "es": "Ekans",
         "it": "Ekans",
-        "de": "Ekans",
+        "de": "Rettan",
         "pt-br": "Ekans",
-        "zh-tw": "埃肯斯"
+        "zh-tw": "阿柏蛇"
     },
     attacks: [{
             cost: ["Darkness", "Colorless"],

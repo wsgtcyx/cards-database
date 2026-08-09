@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Varoom",
-        "fr": "Varoom",
-        "es": "varoom",
+        "fr": "Vrombi",
+        "es": "Varoom",
         "it": "Varoom",
-        "de": "Varoom",
+        "de": "Knattox",
         "pt-br": "Varoom",
         "zh-tw": "噗隆隆"
     },

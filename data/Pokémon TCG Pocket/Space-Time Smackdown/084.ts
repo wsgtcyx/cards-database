@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Gligar",
-        "fr": "Gligare",
+        "fr": "Scorplane",
         "es": "Gligar",
         "it": "Gligar",
-        "de": "Gligar",
+        "de": "Skorgla",
         "pt-br": "Gligar",
         "zh-tw": "天蠍",
     },

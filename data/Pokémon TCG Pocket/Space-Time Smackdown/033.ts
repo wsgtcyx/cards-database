@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Piloswine",
-        "fr": "Vin de Pilos",
-        "es": "Pilosvino",
+        "fr": "Cochignon",
+        "es": "Piloswine",
         "it": "Piloswine",
-        "de": "Piloswine",
+        "de": "Keifel",
         "pt-br": "Piloswine",
         "zh-tw": "長毛豬",
     },

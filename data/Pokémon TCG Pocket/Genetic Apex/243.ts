@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Koffing",
-        "fr": "Koffing",
+        "fr": "Smogo",
         "es": "Koffing",
         "it": "Koffing",
-        "de": "Koffing",
+        "de": "Smogon",
         "pt-br": "Koffing",
-        "zh-tw": "科芬"
+        "zh-tw": "瓦斯彈"
     },
     abilities: [{
             type: "Ability",

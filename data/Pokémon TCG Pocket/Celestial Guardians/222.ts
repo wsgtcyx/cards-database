@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Haunter",
-        "fr": "Hanteur",
-        "es": "Perseguidor",
-        "it": "Infestatore",
-        "de": "Haunter",
-        "pt-br": "Assombrado",
+        "fr": "Spectrum",
+        "es": "Haunter",
+        "it": "Haunter",
+        "de": "Alpollo",
+        "pt-br": "Haunter",
         "zh-tw": "鬼斯通",
     },
     description: {

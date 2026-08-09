@@ -31,9 +31,9 @@ const card: Card = {
         "fr": "Doduo",
         "es": "Doduo",
         "it": "Doduo",
-        "de": "Doduo",
+        "de": "Dodu",
         "pt-br": "Doduo",
-        "zh-tw": "多多"
+        "zh-tw": "嘟嘟"
     },
     attacks: [{
             cost: ["Colorless"],

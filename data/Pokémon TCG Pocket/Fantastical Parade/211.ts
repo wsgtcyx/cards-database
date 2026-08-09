@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Helix Fossil",
-        "fr": "Hélice fossile",
-        "es": "Fósil de hélice",
-        "it": "Fossile dell'elica",
-        "de": "Helix-Fossil",
-        "pt-br": "Hélice Fóssil",
-        "zh-tw": "螺旋化石"
+        "fr": "Fossile Nautile",
+        "es": "Fósil Hélix",
+        "it": "Helixfossile",
+        "de": "Helixfossil",
+        "pt-br": "Fóssil Espiral",
+        "zh-tw": "貝殼化石"
     },
     description: {
         en: "Because some Omanyte manage to escape after\nbeing restored or are released into the wild by\npeople, this species is becoming a problem.",

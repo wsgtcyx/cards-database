@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Dragon"],
     evolveFrom: {
         en: "Hakamo-o",
-        "fr": "Hakamo-o",
+        "fr": "Écaïd",
         "es": "Hakamo-o",
         "it": "Hakamo-o",
-        "de": "Hakamo-o",
+        "de": "Mediras",
         "pt-br": "Hakamo-o",
         "zh-tw": "鱗甲龍",
     },

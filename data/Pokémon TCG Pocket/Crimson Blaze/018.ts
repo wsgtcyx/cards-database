@@ -61,7 +61,7 @@ const card: Card = {
                 "es": "Mientras este Pokémon esté en tu Banca, evita todo el daño que los ataques le hagan a este Pokémon.",
                 "it": "Fintanto che questo Pokémon è nella tua panchina, previeni tutti i danni inflitti a questo Pokémon dagli attacchi.",
                 "de": "Solange sich dieses Pokémon auf deiner Bank befindet, verhindere jeglichen Schaden, der diesem Pokémon durch Angriffe zugefügt wird.",
-                "pt-br": "Enquanto este Pokémon estiver no seu Banco, evite todos os danos causados ​​a este Pokémon por ataques.",
+                "pt-br": "Enquanto este Pokémon estiver no seu Banco, evite todos os danos causados a este Pokémon por ataques.",
                 "zh-tw": "只要這只神奇寶貝在你的替補席上，就可以防止攻擊對該神奇寶貝造成的所有傷害。"
             }
         }],

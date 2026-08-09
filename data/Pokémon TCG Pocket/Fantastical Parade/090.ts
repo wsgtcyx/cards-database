@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Tyrunt",
-        "fr": "tyran",
-        "es": "tirano",
+        "fr": "Ptyranidur",
+        "es": "Tyrunt",
         "it": "Tyrunt",
-        "de": "Tyrunt",
-        "pt-br": "Tirano",
-        "zh-tw": "泰倫特"
+        "de": "Balgoras",
+        "pt-br": "Tyrunt",
+        "zh-tw": "寶寶暴龍"
     },
     description: {
         en: "A single bite of Tyrantrum's massive jaws will\ndemolish a car. This Pokémon was the king of the\nancient world.",

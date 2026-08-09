@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Buizel",
-        "fr": "Buizel",
-        "es": "buizel",
-        "it": "Buzel",
-        "de": "Buizel",
+        "fr": "Mustébouée",
+        "es": "Buizel",
+        "it": "Buizel",
+        "de": "Bamelin",
         "pt-br": "Buizel",
-        "zh-tw": "泳氣鼬",
+        "zh-tw": "泳圈鼬",
     },
     description: {
         en: "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Pupitar",
-        "fr": "Pupitre",
-        "es": "pupitar",
+        "fr": "Ymphect",
+        "es": "Pupitar",
         "it": "Pupitar",
         "de": "Pupitar",
         "pt-br": "Pupitar",
-        "zh-tw": "沙基拉",
+        "zh-tw": "沙基拉斯",
     },
     description: {
         en: "Extremely strong, it can change the landscape.\nIt is so insolent that it doesn't care about others.",

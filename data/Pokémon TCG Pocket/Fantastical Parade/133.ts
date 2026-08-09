@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Taillow",
-        "fr": "Queue",
-        "es": "cola",
+        "fr": "Nirondelle",
+        "es": "Taillow",
         "it": "Taillow",
-        "de": "Taillow",
-        "pt-br": "Rabo",
-        "zh-tw": "尾洛"
+        "de": "Schwalbini",
+        "pt-br": "Taillow",
+        "zh-tw": "傲骨燕"
     },
     description: {
         en: "It dives at a steep angle as soon as it spots its\nprey. It catches its prey with sharp claws.",

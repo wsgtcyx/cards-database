@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Servine",
-        "fr": "Servir",
-        "es": "Servino",
-        "it": "Servino",
-        "de": "Servine",
-        "pt-br": "Servina",
+        "fr": "Lianaja",
+        "es": "Servine",
+        "it": "Servine",
+        "de": "Efoserp",
+        "pt-br": "Servine",
         "zh-tw": "青藤蛇",
     },
     description: {

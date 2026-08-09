@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Snubbull",
-        "fr": "Snobbull",
-        "es": "desaire",
+        "fr": "Snubbull",
+        "es": "Snubbull",
         "it": "Snubbull",
         "de": "Snubbull",
-        "pt-br": "Esnobado",
-        "zh-tw": "布盧",
+        "pt-br": "Snubbull",
+        "zh-tw": "布魯",
     },
     description: {
         en: "While it has powerful jaws, it doesn't care for\ndisputes, so it rarely has a chance to display\ntheir might.",

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Salandit",
-        "fr": "Salandit",
+        "fr": "Tritox",
         "es": "Salandit",
-        "it": "Salandite",
-        "de": "Salandit",
-        "pt-br": "Salandite",
+        "it": "Salandit",
+        "de": "Molunk",
+        "pt-br": "Salandit",
         "zh-tw": "夜盜火蜥",
     },
     description: {

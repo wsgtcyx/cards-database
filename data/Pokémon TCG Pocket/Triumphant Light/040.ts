@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Larvitar",
-        "fr": "Larvitar",
+        "fr": "Embrylex",
         "es": "Larvitar",
         "it": "Larvitar",
         "de": "Larvitar",
-        "pt-br": "larvitar",
-        "zh-tw": "由基拉",
+        "pt-br": "Larvitar",
+        "zh-tw": "幼基拉斯",
     },
     description: {
         en: "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain.",

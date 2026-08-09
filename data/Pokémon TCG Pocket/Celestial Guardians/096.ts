@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Gurdurr",
-        "fr": "Gurdurr",
+        "fr": "Ouvrifier",
         "es": "Gurdurr",
         "it": "Gurdurr",
-        "de": "Gurdurr",
-        "pt-br": "Gurdur",
+        "de": "Strepoli",
+        "pt-br": "Gurdurr",
         "zh-tw": "鐵骨土人",
     },
     description: {

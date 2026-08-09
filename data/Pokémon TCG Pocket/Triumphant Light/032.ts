@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Gastly",
-        "fr": "Gastly",
-        "es": "gastly",
+        "fr": "Fantominus",
+        "es": "Gastly",
         "it": "Gastly",
-        "de": "Gastly",
-        "pt-br": "Gastosamente",
+        "de": "Nebulak",
+        "pt-br": "Gastly",
         "zh-tw": "鬼斯",
     },
     description: {

@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Skiploom",
-        "fr": "Skiplum",
+        "fr": "Floravol",
         "es": "Skiploom",
         "it": "Skiploom",
-        "de": "Skiploom",
+        "de": "Hubelupf",
         "pt-br": "Skiploom",
         "zh-tw": "毽子花",
     },

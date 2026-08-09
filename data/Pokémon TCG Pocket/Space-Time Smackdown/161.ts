@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Shellos",
-        "fr": "Coquillages",
-        "es": "shellos",
+        "fr": "Sancoki",
+        "es": "Shellos",
         "it": "Shellos",
-        "de": "Shellos",
-        "pt-br": "Conchas",
-        "zh-tw": "無殼海牛",
+        "de": "Schalellos",
+        "pt-br": "Shellos",
+        "zh-tw": "無殼海兔",
     },
     description: {
         en: "They normally inhabit rocky seashores, but in times of continuous rain, they can sometimes be found in the mountains, far from the sea.",

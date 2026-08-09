@@ -28,7 +28,7 @@ const card: Card = {
     evolveFrom: {
         en: "Nidorina",
         "fr": "Nidorina",
-        "es": "nidorina",
+        "es": "Nidorina",
         "it": "Nidorina",
         "de": "Nidorina",
         "pt-br": "Nidorina",

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Scyther",
-        "fr": "Faucheur",
-        "es": "Guadaña",
+        "fr": "Insécateur",
+        "es": "Scyther",
         "it": "Scyther",
-        "de": "Sense",
-        "pt-br": "Foice",
+        "de": "Sichlor",
+        "pt-br": "Scyther",
         "zh-tw": "飛天螳螂",
     },
     description: {

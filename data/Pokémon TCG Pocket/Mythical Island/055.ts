@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Whirlipede",
-        "fr": "Tourbillon",
-        "es": "torbellino",
-        "it": "Vortice",
-        "de": "Wirbelfüßler",
-        "pt-br": "Whirlípede",
+        "fr": "Scobolide",
+        "es": "Whirlipede",
+        "it": "Whirlipede",
+        "de": "Rollum",
+        "pt-br": "Whirlipede",
         "zh-tw": "車輪毬",
     },
     description: {

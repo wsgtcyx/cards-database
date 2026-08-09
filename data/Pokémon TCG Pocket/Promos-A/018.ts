@@ -53,12 +53,12 @@ const card: Card = {
     hp: 160,
     evolveFrom: {
         en: "Ivysaur",
-        "fr": "Lierre",
+        "fr": "Herbizarre",
         "es": "Ivysaur",
         "it": "Ivysaur",
-        "de": "Efeusaurier",
-        "pt-br": "Ivysauro",
-        "zh-tw": "常春藤屬"
+        "de": "Bisaknosp",
+        "pt-br": "Ivysaur",
+        "zh-tw": "妙蛙草"
     },
     description: {
         en: "Its plant blooms when it is absorbing solar\nenergy. It stays on the move to seek sunlight.",

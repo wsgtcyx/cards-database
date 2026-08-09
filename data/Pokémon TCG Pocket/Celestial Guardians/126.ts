@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Dragon"],
     evolveFrom: {
         en: "Jangmo-o",
-        "fr": "Jangmo-o",
+        "fr": "Bébécaille",
         "es": "Jangmo-o",
         "it": "Jangmo-o",
-        "de": "Jangmo-o",
+        "de": "Miniras",
         "pt-br": "Jangmo-o",
         "zh-tw": "心鱗寶",
     },

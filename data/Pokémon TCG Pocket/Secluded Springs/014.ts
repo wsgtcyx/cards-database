@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Poliwag",
-        "fr": "Poliwag",
+        "fr": "Ptitard",
         "es": "Poliwag",
         "it": "Poliwag",
-        "de": "Poliwag",
+        "de": "Quapsel",
         "pt-br": "Poliwag",
         "zh-tw": "蚊香蝌蚪",
     },

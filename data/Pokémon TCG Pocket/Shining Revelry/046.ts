@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Ekans",
-        "fr": "Ékans",
+        "fr": "Abo",
         "es": "Ekans",
         "it": "Ekans",
-        "de": "Ekans",
+        "de": "Rettan",
         "pt-br": "Ekans",
         "zh-tw": "阿柏蛇"
     },

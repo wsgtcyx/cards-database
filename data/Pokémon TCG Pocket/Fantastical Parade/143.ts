@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Tandemaus",
-        "fr": "Tandémaus",
-        "es": "tandemaus",
-        "it": "Tandemau",
-        "de": "Tandemaus",
+        "fr": "Compagnol",
+        "es": "Tandemaus",
+        "it": "Tandemaus",
+        "de": "Zwieps",
         "pt-br": "Tandemaus",
-        "zh-tw": "坦德莫斯"
+        "zh-tw": "一對鼠"
     },
     description: {
         en: "The larger pair protects the little ones during\nbattles. When facing strong opponents, the\nwhole group will join the fight.",

@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Wiglett",
-        "fr": "Wiglett",
-        "es": "wilett",
+        "fr": "Taupikeau",
+        "es": "Wiglett",
         "it": "Wiglett",
-        "de": "Wiglett",
+        "de": "Schligda",
         "pt-br": "Wiglett",
         "zh-tw": "海地鼠"
     },

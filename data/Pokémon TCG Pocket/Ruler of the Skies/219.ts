@@ -35,7 +35,7 @@ const card: Card = {
         it: "Meowth di Galar",
         de: "Galar-Mauzi",
         "pt-br": "Meowth de Galar",
-        "zh-tw": "伽勒爾的喵喵",
+        "zh-tw": "伽勒爾喵喵",
         ko: "가라르 나옹",
         ja: "ガラル ニャース"
     },

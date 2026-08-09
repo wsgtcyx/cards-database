@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Cyndaquil",
-        "fr": "Cyndaquil",
-        "es": "cindaquil",
+        "fr": "Héricendre",
+        "es": "Cyndaquil",
         "it": "Cyndaquil",
-        "de": "Cyndaquil",
-        "pt-br": "Cindaquil",
+        "de": "Feurigel",
+        "pt-br": "Cyndaquil",
         "zh-tw": "火球鼠",
     },
     description: {

@@ -61,7 +61,7 @@ const card: Card = {
                 "es": "Los ataques utilizados por tus Pokémon {P} y Pokémon {M} causan +30 de daño al Pokémon Activo de tu oponente.",
                 "it": "Gli attacchi usati dai tuoi Pokémon {P} e dai Pokémon {M} infliggono +30 danni al Pokémon attivo del tuo avversario.",
                 "de": "Angriffe deiner {P}-Pokémon und {M}-Pokémon fügen dem Aktiven Pokémon deines Gegners +30 Schaden zu.",
-                "pt-br": "Os ataques usados ​​pelos seus Pokémon {P} e {M} causam +30 de dano ao Pokémon Ativo do seu oponente.",
+                "pt-br": "Os ataques usados pelos seus Pokémon {P} e {M} causam +30 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "你的{P}神奇寶貝和{M}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+30傷害。"
             }
         }],

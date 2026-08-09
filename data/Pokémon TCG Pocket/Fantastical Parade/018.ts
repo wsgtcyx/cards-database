@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Cubone",
-        "fr": "Cubone",
-        "es": "cubone",
+        "fr": "Osselait",
+        "es": "Cubone",
         "it": "Cubone",
-        "de": "Cubone",
-        "pt-br": "Cubo",
-        "zh-tw": "庫博內"
+        "de": "Tragosso",
+        "pt-br": "Cubone",
+        "zh-tw": "卡拉卡拉"
     },
     description: {
         en: "The cursed flames that light up the bone carried\nby this Pokémon are said to cause both mental\nand physical pain that will never fade.",

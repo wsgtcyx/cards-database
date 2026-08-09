@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Floragato",
-        "fr": "Floragato",
-        "es": "floragato",
+        "fr": "Matourgeon",
+        "es": "Floragato",
         "it": "Floragato",
-        "de": "Floragato",
-        "pt-br": "Floragata",
+        "de": "Feliospa",
+        "pt-br": "Floragato",
         "zh-tw": "蒂蕾喵",
     },
     description: {

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Zigzagoon",
-        "fr": "Zigzagoon",
+        "fr": "Zigzaton",
         "es": "Zigzagoon",
         "it": "Zigzagoon",
-        "de": "Zickzack",
-        "pt-br": "Ziguezague",
+        "de": "Zigzachs",
+        "pt-br": "Zigzagoon",
         "zh-tw": "蛇紋熊",
     },
     description: {

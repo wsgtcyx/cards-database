@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Gossifleur",
-        "fr": "Gossifleur",
-        "es": "chismoso",
+        "fr": "Tournicoton",
+        "es": "Gossifleur",
         "it": "Gossifleur",
-        "de": "Gossifleur",
-        "pt-br": "fofoqueiro",
-        "zh-tw": "棉花"
+        "de": "Cottini",
+        "pt-br": "Gossifleur",
+        "zh-tw": "幼棉棉"
     },
     description: {
         en: "The cotton on the head of this Pokémon can be\nspun into a glossy, gorgeous yarn—a Galar\nregional specialty.",

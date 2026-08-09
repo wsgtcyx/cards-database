@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Growlithe",
-        "fr": "Growlithe",
-        "es": "crecer",
+        "fr": "Caninos",
+        "es": "Growlithe",
         "it": "Growlithe",
-        "de": "Growlithe",
+        "de": "Fukano",
         "pt-br": "Growlithe",
-        "zh-tw": "成長"
+        "zh-tw": "卡蒂狗"
     },
     attacks: [{
             cost: ["Fire", "Fire", "Colorless"],

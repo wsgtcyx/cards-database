@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Alolan Diglett",
-        "fr": "Alolan Diglett",
+        "fr": "Taupiqueur d'Alola",
         "es": "Diglett de Alola",
         "it": "Diglett di Alola",
-        "de": "Alolan Diglett",
-        "pt-br": "Alola Diglett",
+        "de": "Alola-Digda",
+        "pt-br": "Diglett de Alola",
         "zh-tw": "阿羅拉地鼠",
     },
     description: {

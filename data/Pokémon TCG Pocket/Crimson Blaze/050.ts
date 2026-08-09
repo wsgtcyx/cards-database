@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Trubbish",
-        "fr": "Trubbish",
-        "es": "basura",
-        "it": "Sciocchezza",
-        "de": "Trubbisch",
-        "pt-br": "Trubo",
-        "zh-tw": "垃圾"
+        "fr": "Miamiasme",
+        "es": "Trubbish",
+        "it": "Trubbish",
+        "de": "Unratütox",
+        "pt-br": "Trubbish",
+        "zh-tw": "破破袋"
     },
     description: {
         en: "This Pokémon eats trash, which turns into poison\ninside its body. The main component of the\npoison depends on what sort of trash was eaten.",

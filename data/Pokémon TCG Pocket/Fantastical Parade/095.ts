@@ -30,9 +30,9 @@ const card: Card = {
         "fr": "Miaouss d'Alola",
         "es": "Meowth de Alola",
         "it": "Meowth di Alola",
-        "de": "Alola-Miau",
+        "de": "Alola-Mauzi",
         "pt-br": "Meowth de Alola",
-        "zh-tw": "阿羅拉喵"
+        "zh-tw": "阿羅拉喵喵"
     },
     description: {
         en: "This Pokémon is one tough opponent. Not only\ndoes it have formidable physical abilities, but it's\nalso not above fighting dirty.",

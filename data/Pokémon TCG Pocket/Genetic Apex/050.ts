@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Salandit",
-        "fr": "Salandit",
+        "fr": "Tritox",
         "es": "Salandit",
-        "it": "Salandite",
-        "de": "Salandit",
-        "pt-br": "Salandite",
-        "zh-tw": "薩蘭迪特"
+        "it": "Salandit",
+        "de": "Molunk",
+        "pt-br": "Salandit",
+        "zh-tw": "夜盜火蜥"
     },
     attacks: [{
             cost: ["Fire", "Colorless"],

@@ -29,7 +29,7 @@ const card: Card = {
         en: "Nidoran♀",
         "fr": "Nidoran♀",
         "es": "Nidoran♀",
-        "it": "Nidoran♀",
+        "it": "Nidoran ♀",
         "de": "Nidoran♀",
         "pt-br": "Nidoran♀",
         "zh-tw": "尼多蘭",

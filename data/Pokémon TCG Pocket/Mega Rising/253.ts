@@ -28,9 +28,9 @@ const card: Card = {
     evolveFrom: {
         en: "Ponyta",
         "fr": "Ponyta",
-        "es": "ponyta",
+        "es": "Ponyta",
         "it": "Ponyta",
-        "de": "Ponyta",
+        "de": "Ponita",
         "pt-br": "Ponyta",
         "zh-tw": "小火馬",
     },

@@ -28,10 +28,10 @@ const card: Card = {
     evolveFrom: {
         en: "Onix",
         "fr": "Onix",
-        "es": "ónix",
-        "it": "Onice",
+        "es": "Onix",
+        "it": "Onix",
         "de": "Onix",
-        "pt-br": "Ônix",
+        "pt-br": "Onix",
         "zh-tw": "大岩蛇",
     },
     description: {

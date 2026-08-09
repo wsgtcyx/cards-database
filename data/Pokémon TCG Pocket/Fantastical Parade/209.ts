@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Horsea",
-        "fr": "Horée",
-        "es": "caballoa",
+        "fr": "Hypotrempe",
+        "es": "Horsea",
         "it": "Horsea",
-        "de": "Horsea",
-        "pt-br": "cavalo",
-        "zh-tw": "霍塞亞"
+        "de": "Seeper",
+        "pt-br": "Horsea",
+        "zh-tw": "墨海馬"
     },
     description: {
         en: "It's the males that raise the offspring. While\nSeadra are raising young, the spines on their\nbacks secrete thicker and stronger poison.",

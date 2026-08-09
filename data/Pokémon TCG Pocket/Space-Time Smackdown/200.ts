@@ -29,7 +29,7 @@ const card: Card = {
     evolveFrom: {
         en: "Kirlia",
         "fr": "Kirlia",
-        "es": "kirlia",
+        "es": "Kirlia",
         "it": "Kirlia",
         "de": "Kirlia",
         "pt-br": "Kirlia",

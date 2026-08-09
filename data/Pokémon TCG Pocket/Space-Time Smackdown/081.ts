@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Rhyhorn",
-        "fr": "Rhycorne",
+        "fr": "Rhinocorne",
         "es": "Rhyhorn",
         "it": "Rhyhorn",
-        "de": "Rhyhorn",
-        "pt-br": "Richifre",
+        "de": "Rihorn",
+        "pt-br": "Rhyhorn",
         "zh-tw": "獨角犀牛",
     },
     description: {

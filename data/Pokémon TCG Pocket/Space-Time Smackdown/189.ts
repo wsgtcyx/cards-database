@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Lickitung",
-        "fr": "Léchage",
-        "es": "lamiendo",
+        "fr": "Excelangue",
+        "es": "Lickitung",
         "it": "Lickitung",
-        "de": "Lecken",
+        "de": "Schlurp",
         "pt-br": "Lickitung",
         "zh-tw": "大舌頭",
     },

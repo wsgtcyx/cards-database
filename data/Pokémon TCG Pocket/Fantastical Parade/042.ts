@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Amaura",
-        "fr": "Amaura",
+        "fr": "Amagara",
         "es": "Amaura",
         "it": "Amaura",
-        "de": "Amaura",
+        "de": "Amarino",
         "pt-br": "Amaura",
-        "zh-tw": "阿莫拉"
+        "zh-tw": "冰雪龍"
     },
     description: {
         en: "When gripped by rage, Aurorus will emanate\nfreezing air, covering everything around it in ice.",

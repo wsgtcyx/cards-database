@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Minccino",
-        "fr": "Minccino",
+        "fr": "Chinchidou",
         "es": "Minccino",
         "it": "Minccino",
-        "de": "Minccino",
-        "pt-br": "Mincino",
+        "de": "Picochilla",
+        "pt-br": "Minccino",
         "zh-tw": "泡沫栗鼠",
     },
     description: {

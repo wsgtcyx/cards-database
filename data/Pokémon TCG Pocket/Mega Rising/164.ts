@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Impidimp",
-        "fr": "Impidimp",
+        "fr": "Grimalin",
         "es": "Impidimp",
-        "it": "Impid",
-        "de": "Impidimp",
+        "it": "Impidimp",
+        "de": "Bähmon",
         "pt-br": "Impidimp",
         "zh-tw": "搗蛋小妖",
     },

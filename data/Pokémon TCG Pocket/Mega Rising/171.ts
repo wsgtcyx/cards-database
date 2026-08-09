@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Honedge",
-        "fr": "Honedge",
-        "es": "afilar",
+        "fr": "Monorpale",
+        "es": "Honedge",
         "it": "Honedge",
-        "de": "Honedge",
+        "de": "Gramokles",
         "pt-br": "Honedge",
         "zh-tw": "獨劍鞘",
     },

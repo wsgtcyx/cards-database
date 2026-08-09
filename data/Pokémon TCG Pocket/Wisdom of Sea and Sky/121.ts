@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Pineco",
-        "fr": "Pinéco",
-        "es": "pineco",
+        "fr": "Pomdepik",
+        "es": "Pineco",
         "it": "Pineco",
-        "de": "Pineco",
-        "pt-br": "Pinho",
+        "de": "Tannza",
+        "pt-br": "Pineco",
         "zh-tw": "榛果球",
     },
     description: {

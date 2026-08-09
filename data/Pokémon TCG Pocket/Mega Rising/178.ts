@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Dragon"],
     evolveFrom: {
         en: "Goomy",
-        "fr": "Goomy",
-        "es": "goomy",
-        "it": "Buono",
-        "de": "Goomy",
-        "pt-br": "Pegajoso",
+        "fr": "Mucuscule",
+        "es": "Goomy",
+        "it": "Goomy",
+        "de": "Viscora",
+        "pt-br": "Goomy",
         "zh-tw": "黏黏寶",
     },
     description: {

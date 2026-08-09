@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Zweilous",
-        "fr": "Zweilous",
+        "fr": "Diamat",
         "es": "Zweilous",
         "it": "Zweilous",
-        "de": "Zweilous",
+        "de": "Duodino",
         "pt-br": "Zweilous",
-        "zh-tw": "雙頭龍",
+        "zh-tw": "雙首暴龍",
     },
     description: {
         en: "It's said that Hydreigon grew ferocious because\npeople in times long past loathed it, considering\nit to be evil incarnate and attacking it relentlessly.",
@@ -57,7 +57,7 @@ const card: Card = {
             },
             effect: {
                 en: "Once during your turn, you may take 2 {D} Energy from your Energy Zone and attach it to this Pokémon. If you do, do 30 damage to this Pokémon.",
-                "fr": "Une fois pendant votre tour, vous pouvez prendre 2 {D} Énergie de votre Zone d'Énergie et les attacher à ce Pokémon. Si vous le faites, infligez 30 dégâts à ce Pokémon.",
+                "fr": "Une fois pendant votre tour, vous pouvez prendre 2 {D} Énergie de votre Zone d'Énergie et les attacher à ce Pokémon. Si vous le faites, infligez 30 dégâts à ce Pokémon.",
                 "es": "Una vez durante tu turno, puedes tomar 2 {D} Energía de tu Zona de Energía y unirlas a este Pokémon. Si lo haces, hazle 30 daños a este Pokémon.",
                 "it": "Una sola volta durante il tuo turno, puoi prendere 2 Energie {D} dalla tua Zona Energetica e assegnarle a questo Pokémon. Se lo fai, infliggi 30 danni a questo Pokémon.",
                 "de": "Einmal während deines Zuges kannst du 2 {D}-Energie aus deiner Energiezone nehmen und an dieses Pokémon anlegen. Wenn du dies tust, füge diesem Pokémon 30 Schadenspunkte zu.",

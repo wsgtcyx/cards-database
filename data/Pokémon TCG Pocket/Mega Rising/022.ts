@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Skiddo",
-        "fr": "Skiddo",
-        "es": "patinar",
-        "it": "Scivola",
-        "de": "Skiddo",
+        "fr": "Cabriolaine",
+        "es": "Skiddo",
+        "it": "Skiddo",
+        "de": "Mähikel",
         "pt-br": "Skiddo",
-        "zh-tw": "咩咩羊",
+        "zh-tw": "坐騎小羊",
     },
     description: {
         en: "These Pokémon live in herds in mountainous\nplaces. The victor in their contests of clashing\nhorns will become the leader of the herd.",

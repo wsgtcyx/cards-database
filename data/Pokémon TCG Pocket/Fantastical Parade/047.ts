@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Arrokuda",
-        "fr": "Arrokuda",
+        "fr": "Embrochet",
         "es": "Arrokuda",
         "it": "Arrokuda",
-        "de": "Arrokuda",
+        "de": "Pikuda",
         "pt-br": "Arrokuda",
-        "zh-tw": "阿羅庫達"
+        "zh-tw": "刺梭魚"
     },
     description: {
         en: "It spins its tail fins to propel itself, surging\nforward at speeds of over 100 knots before\nramming prey and spearing into them.",

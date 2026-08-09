@@ -39,12 +39,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Buizel",
-        "fr": "Buizel",
-        "es": "buizel",
-        "it": "Buzel",
-        "de": "Buizel",
+        "fr": "Mustébouée",
+        "es": "Buizel",
+        "it": "Buizel",
+        "de": "Bamelin",
         "pt-br": "Buizel",
-        "zh-tw": "布伊澤爾"
+        "zh-tw": "泳圈鼬"
     },
     attacks: [{
             name: {

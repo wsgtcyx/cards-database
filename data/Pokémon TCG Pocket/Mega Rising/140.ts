@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Crabrawler",
-        "fr": "Crabrawler",
-        "es": "cangrejo",
+        "fr": "Crabagarre",
+        "es": "Crabrawler",
         "it": "Crabrawler",
-        "de": "Krabbenjäger",
-        "pt-br": "Caranguejo",
+        "de": "Krabbox",
+        "pt-br": "Crabrawler",
         "zh-tw": "好勝蟹",
     },
     description: {

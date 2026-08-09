@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Raboot",
-        "fr": "Raboot",
-        "es": "raboot",
+        "fr": "Lapyro",
+        "es": "Raboot",
         "it": "Raboot",
-        "de": "Raboot",
+        "de": "Kickerlo",
         "pt-br": "Raboot",
-        "zh-tw": "拉布特"
+        "zh-tw": "騰蹴小將"
     },
     description: {
         en: "Using a ball that it made out of flames,\nCinderace blinds its opponents and\nkeeps them at bay.",

@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Arrokuda",
-        "fr": "Arrokuda",
+        "fr": "Embrochet",
         "es": "Arrokuda",
         "it": "Arrokuda",
-        "de": "Arrokuda",
+        "de": "Pikuda",
         "pt-br": "Arrokuda",
         "zh-tw": "刺梭魚",
     },

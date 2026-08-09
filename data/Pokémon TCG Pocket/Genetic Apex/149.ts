@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Graveler",
-        "fr": "Graveur",
+        "fr": "Gravalanch",
         "es": "Graveler",
         "it": "Graveler",
-        "de": "Schotter",
-        "pt-br": "Cascalho",
-        "zh-tw": "碎石者"
+        "de": "Georok",
+        "pt-br": "Graveler",
+        "zh-tw": "隆隆石"
     },
     attacks: [{
             cost: ["Fighting", "Colorless", "Colorless", "Colorless"],

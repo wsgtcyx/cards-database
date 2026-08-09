@@ -31,8 +31,8 @@ const card: Card = {
         "fr": "Rattata",
         "es": "Rattata",
         "it": "Rattata",
-        "de": "Rattata",
-        "pt-br": "Ratata",
+        "de": "Rattfratz",
+        "pt-br": "Rattata",
         "zh-tw": "小拉達"
     },
     description: {

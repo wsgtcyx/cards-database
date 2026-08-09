@@ -65,7 +65,7 @@ const card: Card = {
                 "es": "Una vez durante tu turno, puedes descartar 1 Energía Fuego de este Pokémon para poder usar esta Habilidad. Durante este turno, los ataques utilizados por tu Pokémon Fuego causan +50 de daño al Pokémon Activo de tu rival.",
                 "it": "Una sola volta durante il tuo turno, puoi scartare 1 Energia Fire da questo Pokémon per usare questa abilità. Durante questo turno, gli attacchi usati dai tuoi Pokémon Fire infliggono +50 danni al Pokémon attivo del tuo avversario.",
                 "de": "Einmal während deines Zuges kannst du 1 Feuer-Energie von diesem Pokémon abwerfen, um diese Fähigkeit zu nutzen. Während dieser Runde fügen Angriffe deines Feuer-Pokémon dem Aktiven Pokémon deines Gegners +50 Schadenspunkte zu.",
-                "pt-br": "Uma vez durante o seu turno, você pode descartar 1 Energia Fire deste Pokémon para usar esta Habilidade. Durante este turno, os ataques usados ​​pelos seus Pokémon de Fogo causam +50 de dano aos Pokémon Ativos do seu oponente.",
+                "pt-br": "Uma vez durante o seu turno, você pode descartar 1 Energia Fire deste Pokémon para usar esta Habilidade. Durante este turno, os ataques usados pelos seus Pokémon de Fogo causam +50 de dano aos Pokémon Ativos do seu oponente.",
                 "zh-tw": "在你的回合中，你可以丟棄該寶可夢的 1 個火焰能量來使用此能力。這個回合中，自己的火屬性寶可夢的攻擊對對手的戰鬥寶可夢造成+50點傷害。"
             },
         },

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Loudred",
-        "fr": "Fort",
-        "es": "ruidoso",
-        "it": "A voce alta",
-        "de": "Laut",
-        "pt-br": "Alto",
+        "fr": "Ramboum",
+        "es": "Loudred",
+        "it": "Loudred",
+        "de": "Krakeelo",
+        "pt-br": "Loudred",
         "zh-tw": "吼爆彈",
     },
     description: {

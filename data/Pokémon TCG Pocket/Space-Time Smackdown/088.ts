@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Skull Fossil",
-        "fr": "Fossile de crâne",
-        "es": "Cráneo fósil",
-        "it": "Fossile del cranio",
-        "de": "Schädelfossil",
-        "pt-br": "Fóssil de Crânio",
+        "fr": "Fossile Crâne",
+        "es": "Fósil Cráneo",
+        "it": "Fossilcranio",
+        "de": "Kopffossil",
+        "pt-br": "Fóssil Crânio",
         "zh-tw": "頭蓋化石",
     },
     description: {

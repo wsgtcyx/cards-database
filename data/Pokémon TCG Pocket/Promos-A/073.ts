@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Trumbeak",
-        "fr": "Trombec",
-        "es": "pico de trompeta",
-        "it": "Trumbecco",
-        "de": "Trumbeak",
+        "fr": "Piclairon",
+        "es": "Trumbeak",
+        "it": "Trumbeak",
+        "de": "Trompeck",
         "pt-br": "Trumbeak",
-        "zh-tw": "特朗比克"
+        "zh-tw": "喇叭啄鳥"
     },
     description: {
         en: "They smack beaks with others of their kind to communicate.\nThe strength and number of hits tell each other how they feel.",

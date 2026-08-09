@@ -33,8 +33,8 @@ const card: Card = {
         es: "Wooper de Paldea",
         it: "Wooper di Paldea",
         de: "Paldea-Felino",
-        "pt-br": "Wooper",
-        "zh-tw": "帕底亞 烏波",
+        "pt-br": "Wooper de Paldea",
+        "zh-tw": "帕底亞烏波",
         'es-mx': "Wooper de Paldea",
         pt: "Wooper de Paldea"
     },

@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Drowzee",
-        "fr": "Somnolent",
-        "es": "adormilado",
+        "fr": "Soporifik",
+        "es": "Drowzee",
         "it": "Drowzee",
-        "de": "Drowzee",
+        "de": "Traumato",
         "pt-br": "Drowzee",
-        "zh-tw": "卓爾茲"
+        "zh-tw": "催眠貘"
     },
     abilities: [{
             type: "Ability",

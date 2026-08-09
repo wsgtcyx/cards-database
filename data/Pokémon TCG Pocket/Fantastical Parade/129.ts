@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Sentret",
-        "fr": "Sentret",
+        "fr": "Fouinette",
         "es": "Sentret",
         "it": "Sentret",
-        "de": "Sentret",
-        "pt-br": "Sentido",
-        "zh-tw": "森特雷"
+        "de": "Wiesor",
+        "pt-br": "Sentret",
+        "zh-tw": "尾立"
     },
     description: {
         en: "It is nimble and has a very flexible body.\nEven if you get ahold of it, it'll slip right out\nof your arms.",

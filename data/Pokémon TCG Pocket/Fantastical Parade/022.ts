@@ -53,7 +53,7 @@ const card: Card = {
                 "es": "Durante tu próximo turno, los ataques utilizados por tus Pokémon hacen +20 de daño al Pokémon Activo de tu rival.",
                 "it": "Durante il tuo prossimo turno, gli attacchi usati dai tuoi Pokémon infliggono +20 danni al Pokémon attivo del tuo avversario.",
                 "de": "Während deines nächsten Zuges fügen Angriffe deines Pokémon dem aktiven Pokémon deines Gegners +20 Schaden zu.",
-                "pt-br": "Durante o seu próximo turno, os ataques usados ​​pelos seus Pokémon causam +20 de dano ao Pokémon Ativo do seu oponente.",
+                "pt-br": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon causam +20 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "在你的下一個回合中，你的神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+20傷害。"
             }
         }],

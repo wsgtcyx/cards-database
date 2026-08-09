@@ -36,7 +36,7 @@ const card: Card = {
         it: "Grimer",
         de: "Sleima",
         "pt-br": "Grimer",
-        "zh-tw": "阿羅拉 臭泥",
+        "zh-tw": "臭泥",
         ko: "알로라 질퍽이",
         ja: "アローラ ベトベター"
     },

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Machop",
-        "fr": "Machop",
+        "fr": "Machoc",
         "es": "Machop",
         "it": "Machop",
-        "de": "Machop",
+        "de": "Machollo",
         "pt-br": "Machop",
-        "zh-tw": "馬喬普"
+        "zh-tw": "腕力"
     },
     description: {
         en: "Its formidable body never gets tired. It helps\npeople by doing work such as the moving of\nheavy goods.",

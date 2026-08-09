@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Patrat",
-        "fr": "Patrat",
-        "es": "patrat",
+        "fr": "Ratentif",
+        "es": "Patrat",
         "it": "Patrat",
-        "de": "Patrat",
+        "de": "Nagelotz",
         "pt-br": "Patrat",
         "zh-tw": "探探鼠",
     },

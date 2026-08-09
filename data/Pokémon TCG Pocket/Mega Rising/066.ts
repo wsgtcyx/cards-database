@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Cover Fossil",
-        "fr": "Couverture Fossile",
-        "es": "Cubrir Fósil",
-        "it": "Copertina Fossile",
-        "de": "Fossil abdecken",
-        "pt-br": "Capa Fóssil",
+        "fr": "Fossile Plaque",
+        "es": "Fósil Tapa",
+        "it": "Fossiltappo",
+        "de": "Schildfossil",
+        "pt-br": "Fóssil Casca",
         "zh-tw": "背蓋化石",
     },
     description: {

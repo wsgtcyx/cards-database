@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Sneasel",
-        "fr": "Sneasel",
+        "fr": "Farfuret",
         "es": "Sneasel",
         "it": "Sneasel",
-        "de": "Nieseln",
+        "de": "Sniebel",
         "pt-br": "Sneasel",
-        "zh-tw": "斯內塞爾"
+        "zh-tw": "狃拉"
     },
     description: {
         en: "Evolution made it even more devious.\nIt communicates by clawing signs in boulders.",

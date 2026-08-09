@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Machoke",
-        "fr": "Machoke",
+        "fr": "Machopeur",
         "es": "Machoke",
         "it": "Machoke",
-        "de": "Machoke",
+        "de": "Maschock",
         "pt-br": "Machoke",
         "zh-tw": "豪力",
     },

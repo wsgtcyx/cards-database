@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Hoothoot",
-        "fr": "Hulu",
-        "es": "silbido",
-        "it": "Che schifo",
-        "de": "Hurra",
-        "pt-br": "Uau",
+        "fr": "Hoothoot",
+        "es": "Hoothoot",
+        "it": "Hoothoot",
+        "de": "Hoothoot",
+        "pt-br": "Hoothoot",
         "zh-tw": "咕咕",
     },
     description: {

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Larvitar",
-        "fr": "Larvitar",
+        "fr": "Embrylex",
         "es": "Larvitar",
         "it": "Larvitar",
         "de": "Larvitar",
-        "pt-br": "larvitar",
-        "zh-tw": "由基拉",
+        "pt-br": "Larvitar",
+        "zh-tw": "幼基拉斯",
     },
     description: {
         en: "This pupa flies around wildly by venting with\ngreat force the gas pressurized inside its body.",

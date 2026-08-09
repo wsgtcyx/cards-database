@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Thwackey",
-        "fr": "Thwackey",
+        "fr": "Badabouin",
         "es": "Thwackey",
         "it": "Thwackey",
-        "de": "Thwackey",
+        "de": "Chimstix",
         "pt-br": "Thwackey",
         "zh-tw": "啪咚猴",
     },

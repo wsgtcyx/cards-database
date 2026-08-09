@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Kricketot",
-        "fr": "Criquetot",
-        "es": "criketot",
+        "fr": "Crikzik",
+        "es": "Kricketot",
         "it": "Kricketot",
-        "de": "Kricketot",
-        "pt-br": "Críquete",
+        "de": "Zirpurze",
+        "pt-br": "Kricketot",
         "zh-tw": "圓法師",
     },
     description: {

@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Corvisquire",
-        "fr": "Corvisquire",
+        "fr": "Bleuseille",
         "es": "Corvisquire",
         "it": "Corvisquire",
-        "de": "Corvisquire",
+        "de": "Kranoviz",
         "pt-br": "Corvisquire",
         "zh-tw": "藍鴉",
     },
@@ -58,7 +58,7 @@ const card: Card = {
             cost: ["Metal", "Metal", "Colorless"],
             effect: {
                 en: "Discard 2 {M} Energy from this Pokémon. During your opponent's next turn, this Pokémon takes −50 damage from attacks.",
-                "fr": "Défaussez 2 {M} Énergie de ce Pokémon. Lors du prochain tour de votre adversaire, ce Pokémon subit -50 dégâts des attaques.",
+                "fr": "Défaussez 2 {M} Énergie de ce Pokémon. Lors du prochain tour de votre adversaire, ce Pokémon subit -50 dégâts des attaques.",
                 "es": "Descarta 2 {M} de Energía de este Pokémon. Durante el próximo turno de tu rival, este Pokémon recibe -50 de daño por ataques.",
                 "it": "Scarta due Energie {M} da questo Pokémon. Durante il prossimo turno del tuo avversario, questo Pokémon subisce -50 danni dagli attacchi.",
                 "de": "Lege 2 {M} Energie von diesem Pokémon ab. Während des nächsten Zuges deines Gegners erleidet dieses Pokémon −50 Schadenspunkte durch Angriffe.",

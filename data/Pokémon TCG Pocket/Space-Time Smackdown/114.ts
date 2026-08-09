@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Shieldon",
-        "fr": "Bouclier",
-        "es": "Escudo",
+        "fr": "Dinoclier",
+        "es": "Shieldon",
         "it": "Shieldon",
-        "de": "Shieldon",
-        "pt-br": "Escudo",
+        "de": "Schilterus",
+        "pt-br": "Shieldon",
         "zh-tw": "盾甲龍",
     },
     description: {

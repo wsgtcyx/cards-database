@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Pikipek",
-        "fr": "Pikipek",
+        "fr": "Picassaut",
         "es": "Pikipek",
         "it": "Pikipek",
-        "de": "Pikipek",
+        "de": "Peppeck",
         "pt-br": "Pikipek",
         "zh-tw": "小篤兒",
     },

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Jaw Fossil",
-        "fr": "Fossile de mâchoire",
-        "es": "Fósil de mandíbula",
-        "it": "Mascella fossile",
+        "fr": "Fossile Mâchoire",
+        "es": "Fósil Mandíbula",
+        "it": "Fossilmascella",
         "de": "Kieferfossil",
-        "pt-br": "Fóssil de mandíbula",
-        "zh-tw": "下頜化石"
+        "pt-br": "Fóssil de Mandíbula",
+        "zh-tw": "顎之化石"
     },
     description: {
         en: "This Pokémon is selfish and likes to be pampered.\nIt can also inflict grievous wounds on its Trainer\njust by playing around.",

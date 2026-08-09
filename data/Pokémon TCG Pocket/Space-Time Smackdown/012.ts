@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Grotle",
-        "fr": "Grotle",
+        "fr": "Boskara",
         "es": "Grotle",
         "it": "Grotle",
-        "de": "Grotle",
+        "de": "Chelcarain",
         "pt-br": "Grotle",
         "zh-tw": "樹林龜",
     },

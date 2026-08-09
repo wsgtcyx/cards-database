@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Larvesta",
-        "fr": "Larvesta",
-        "es": "Larvasta",
+        "fr": "Pyronille",
+        "es": "Larvesta",
         "it": "Larvesta",
-        "de": "Larvesta",
+        "de": "Ignivor",
         "pt-br": "Larvesta",
-        "zh-tw": "拉維斯塔"
+        "zh-tw": "燃燒蟲"
     },
     description: {
         en: "Its burning body causes it to be unpopular in hot\nparts of the world, but in cold ones, Volcarona is\nrevered as an embodiment of the sun.",

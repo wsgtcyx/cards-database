@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Litleo",
-        "fr": "Litléo",
-        "es": "pequeño",
+        "fr": "Hélionceau",
+        "es": "Litleo",
         "it": "Litleo",
-        "de": "Litleo",
-        "pt-br": "Pequeno",
-        "zh-tw": "利特萊奧"
+        "de": "Leufeo",
+        "pt-br": "Litleo",
+        "zh-tw": "小獅獅"
     },
     description: {
         en: "The females of a pride work together to bring\ndown prey. It's thanks to them that their pride\ndoesn't starve.",

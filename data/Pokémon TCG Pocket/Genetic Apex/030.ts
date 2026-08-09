@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Petilil",
-        "fr": "Pétilil",
+        "fr": "Chlorobule",
         "es": "Petilil",
         "it": "Petilil",
-        "de": "Petilil",
+        "de": "Lilminip",
         "pt-br": "Petilil",
-        "zh-tw": "佩蒂利爾"
+        "zh-tw": "百合根娃娃"
     },
     attacks: [{
             cost: ["Grass", "Grass"],

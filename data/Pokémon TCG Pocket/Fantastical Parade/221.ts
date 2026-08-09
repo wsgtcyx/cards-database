@@ -28,11 +28,11 @@ const card: Card = {
     evolveFrom: {
         en: "Kabuto",
         "fr": "Kabuto",
-        "es": "kabuto",
+        "es": "Kabuto",
         "it": "Kabuto",
         "de": "Kabuto",
         "pt-br": "Kabuto",
-        "zh-tw": "兜"
+        "zh-tw": "化石盔"
     },
     description: {
         en: "Kabutops slices its prey apart and sucks out\nthe fluids. The discarded body parts become\nfood for other Pokémon.",

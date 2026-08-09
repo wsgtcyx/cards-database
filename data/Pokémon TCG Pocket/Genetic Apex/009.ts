@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Weedle",
-        "fr": "Mauvaise herbe",
-        "es": "weedle",
+        "fr": "Aspicot",
+        "es": "Weedle",
         "it": "Weedle",
-        "de": "Unkraut",
-        "pt-br": "erva daninha",
-        "zh-tw": "雜草"
+        "de": "Hornliu",
+        "pt-br": "Weedle",
+        "zh-tw": "獨角蟲"
     },
     attacks: [{
             cost: ["Grass"],

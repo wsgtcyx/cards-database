@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Shroodle",
-        "fr": "Shroodle",
+        "fr": "Gribouraigne",
         "es": "Shroodle",
-        "it": "Shoodle",
-        "de": "Shroodle",
+        "it": "Shroodle",
+        "de": "Sproxi",
         "pt-br": "Shroodle",
         "zh-tw": "滋汁鼴"
     },

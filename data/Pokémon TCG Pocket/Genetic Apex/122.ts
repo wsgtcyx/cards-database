@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Haunter",
-        "fr": "Hanteur",
-        "es": "Perseguidor",
-        "it": "Infestatore",
-        "de": "Haunter",
-        "pt-br": "Assombrado",
-        "zh-tw": "鬼魂"
+        "fr": "Spectrum",
+        "es": "Haunter",
+        "it": "Haunter",
+        "de": "Alpollo",
+        "pt-br": "Haunter",
+        "zh-tw": "鬼斯通"
     },
     attacks: [{
             cost: ["Psychic"],

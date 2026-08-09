@@ -28,10 +28,10 @@ const card: Card = {
     evolveFrom: {
         en: "Porygon",
         "fr": "Porygon",
-        "es": "Porygón",
+        "es": "Porygon",
         "it": "Porygon",
         "de": "Porygon",
-        "pt-br": "Porígon",
+        "pt-br": "Porygon",
         "zh-tw": "多邊獸",
     },
     description: {

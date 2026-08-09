@@ -28,10 +28,10 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Slowpoke",
-        "fr": "Lambin",
-        "es": "Perezoso",
+        "fr": "Ramoloss",
+        "es": "Slowpoke",
         "it": "Slowpoke",
-        "de": "Langweiler",
+        "de": "Flegmon",
         "pt-br": "Slowpoke",
         "zh-tw": "呆呆獸"
     },

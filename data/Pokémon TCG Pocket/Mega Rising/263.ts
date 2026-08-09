@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Skrelp",
-        "fr": "Skrelp",
+        "fr": "Venalgue",
         "es": "Skrelp",
         "it": "Skrelp",
-        "de": "Skrelp",
+        "de": "Algitt",
         "pt-br": "Skrelp",
         "zh-tw": "垃垃藻",
     },

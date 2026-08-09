@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Charmeleon",
-        "fr": "Charméléon",
+        "fr": "Reptincel",
         "es": "Charmeleon",
         "it": "Charmeleon",
-        "de": "Charmeleon",
+        "de": "Glutexo",
         "pt-br": "Charmeleon",
-        "zh-tw": "變色龍"
+        "zh-tw": "火恐龍"
     },
     attacks: [{
             cost: ["Fire", "Fire", "Colorless", "Colorless"],

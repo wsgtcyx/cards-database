@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Horsea",
-        "fr": "Horée",
-        "es": "caballoa",
+        "fr": "Hypotrempe",
+        "es": "Horsea",
         "it": "Horsea",
-        "de": "Horsea",
-        "pt-br": "cavalo",
-        "zh-tw": "霍塞亞"
+        "de": "Seeper",
+        "pt-br": "Horsea",
+        "zh-tw": "墨海馬"
     },
     attacks: [{
             cost: ["Water", "Water", "Water"],
@@ -51,7 +51,7 @@ const card: Card = {
                 en: "This attack does 50 damage to 1 of your opponent's Pokémon.",
                 fr: "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
                 es: "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival.",
-                it: "Questo attacco infligge 50 danni a uno dei Pokémon\ndel tuo avversario.",
+                it: "Questo attacco infligge 50 danni a uno dei Pokémon del tuo avversario.",
                 de: "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
                 'pt-br': "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
                 ko: "상대의 포켓몬 1마리에게 50데미지를 준다.",

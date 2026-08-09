@@ -49,13 +49,13 @@ const card: Card = {
             damage: 80,
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
-                en: "This attack is used twice in a row. The second attack does 40 damage.\n(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)",
-                "fr": "Cette attaque est utilisée deux fois de suite. La deuxième attaque inflige 40 dégâts.\n(Si la première attaque met KO le Pokémon Actif de votre adversaire, la deuxième attaque est utilisée après que votre adversaire a choisi un nouveau Pokémon Actif.)",
-                "es": "Este ataque se utiliza dos veces seguidas. El segundo ataque hace 40 daños.\n(Si el primer ataque deja fuera de combate al Pokémon Activo de tu oponente, el segundo ataque se usa después de que tu oponente elija un nuevo Pokémon Activo).",
-                "it": "Questo attacco viene utilizzato due volte di seguito. Il secondo attacco infligge 40 danni.\n(Se il primo attacco mette KO il Pokémon attivo del tuo avversario, il secondo attacco viene utilizzato dopo che il tuo avversario ha scelto un nuovo Pokémon attivo.)",
-                "de": "Dieser Angriff wird zweimal hintereinander ausgeführt. Der zweite Angriff verursacht 40 Schadenspunkte.\n(Wenn der erste Angriff das Aktive Pokémon deines Gegners kampfunfähig macht, wird der zweite Angriff ausgeführt, nachdem dein Gegner ein neues Aktives Pokémon ausgewählt hat.)",
-                "pt-br": "Este ataque é usado duas vezes seguidas. O segundo ataque causa 40 de dano.\n(Se o primeiro ataque Nocautear o Pokémon Ativo do seu oponente, o segundo ataque será usado depois que seu oponente escolher um novo Pokémon Ativo.)",
-                "zh-tw": "這種攻擊連續使用了兩次。第二次攻擊造成 40 點傷害。\n（如果第一次攻擊擊倒對手的活躍神奇寶貝，則在對手選擇新的活躍神奇寶貝後使用第二次攻擊。）"
+                en: "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)",
+                "fr": "Cette attaque est utilisée deux fois de suite. La deuxième attaque inflige 40 dégâts. (Si la première attaque met KO le Pokémon Actif de votre adversaire, la deuxième attaque est utilisée après que votre adversaire a choisi un nouveau Pokémon Actif.)",
+                "es": "Este ataque se utiliza dos veces seguidas. El segundo ataque hace 40 daños. (Si el primer ataque deja fuera de combate al Pokémon Activo de tu oponente, el segundo ataque se usa después de que tu oponente elija un nuevo Pokémon Activo).",
+                "it": "Questo attacco viene utilizzato due volte di seguito. Il secondo attacco infligge 40 danni. (Se il primo attacco mette KO il Pokémon attivo del tuo avversario, il secondo attacco viene utilizzato dopo che il tuo avversario ha scelto un nuovo Pokémon attivo.)",
+                "de": "Dieser Angriff wird zweimal hintereinander ausgeführt. Der zweite Angriff verursacht 40 Schadenspunkte. (Wenn der erste Angriff das Aktive Pokémon deines Gegners kampfunfähig macht, wird der zweite Angriff ausgeführt, nachdem dein Gegner ein neues Aktives Pokémon ausgewählt hat.)",
+                "pt-br": "Este ataque é usado duas vezes seguidas. O segundo ataque causa 40 de dano. (Se o primeiro ataque Nocautear o Pokémon Ativo do seu oponente, o segundo ataque será usado depois que seu oponente escolher um novo Pokémon Ativo.)",
+                "zh-tw": "這種攻擊連續使用了兩次。第二次攻擊造成 40 點傷害。 （如果第一次攻擊擊倒對手的活躍神奇寶貝，則在對手選擇新的活躍神奇寶貝後使用第二次攻擊。）"
             }
         }],
     weaknesses: [{

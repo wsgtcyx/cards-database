@@ -26,10 +26,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Pidgey",
-        "fr": "Piggy",
-        "es": "pidgey",
+        "fr": "Roucool",
+        "es": "Pidgey",
         "it": "Pidgey",
-        "de": "Pidgey",
+        "de": "Taubsi",
         "pt-br": "Pidgey",
         "zh-tw": "波波",
     },

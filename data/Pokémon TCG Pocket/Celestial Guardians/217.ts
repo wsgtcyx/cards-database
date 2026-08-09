@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Wartortle",
-        "fr": "Tortue Wartorle",
-        "es": "Tortuga de guerra",
+        "fr": "Carabaffe",
+        "es": "Wartortle",
         "it": "Wartortle",
-        "de": "Warschildkröte",
+        "de": "Schillok",
         "pt-br": "Wartortle",
         "zh-tw": "卡咪龜",
     },

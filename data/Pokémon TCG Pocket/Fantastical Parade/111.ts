@@ -30,9 +30,9 @@ const card: Card = {
         "fr": "Miaouss de Galar",
         "es": "Meowth de Galar",
         "it": "Meowth di Galar",
-        "de": "Galarisches Miauen",
+        "de": "Galar-Mauzi",
         "pt-br": "Meowth de Galar",
-        "zh-tw": "加拉瑞喵喵"
+        "zh-tw": "伽勒爾喵喵"
     },
     description: {
         en: "After many battles, it evolved dangerous\nclaws that come together to form daggers\nwhen extended.",

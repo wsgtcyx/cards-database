@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Cosmoem",
-        "fr": "Cosmoème",
+        "fr": "Cosmovum",
         "es": "Cosmoem",
         "it": "Cosmoem",
-        "de": "Cosmoem",
-        "pt-br": "Cosmoema",
+        "de": "Cosmovum",
+        "pt-br": "Cosmoem",
         "zh-tw": "科斯莫姆"
     },
     stage: "Stage2",

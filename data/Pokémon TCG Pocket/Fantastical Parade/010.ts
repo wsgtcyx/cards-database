@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Quilladin",
-        "fr": "Quilladin",
-        "es": "Quilladín",
+        "fr": "Boguérisse",
+        "es": "Quilladin",
         "it": "Quilladin",
-        "de": "Quilladin",
+        "de": "Igastarnish",
         "pt-br": "Quilladin",
-        "zh-tw": "奎拉丁"
+        "zh-tw": "胖胖哈力"
     },
     description: {
         en: "Its gentle disposition would have it avoid\nconflict, but it gives opponents a thrashing with\nits thorned fists when the situation calls for it.",

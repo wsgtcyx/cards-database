@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Magnemite",
-        "fr": "Magnétie",
-        "es": "magnemita",
+        "fr": "Magnéti",
+        "es": "Magnemite",
         "it": "Magnemite",
-        "de": "Magnemit",
+        "de": "Magnetilo",
         "pt-br": "Magnemite",
         "zh-tw": "小磁怪",
     },

@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Shinx",
-        "fr": "Shinx",
+        "fr": "Lixy",
         "es": "Shinx",
         "it": "Shinx",
-        "de": "Shinx",
+        "de": "Sheinux",
         "pt-br": "Shinx",
         "zh-tw": "小貓怪",
     },

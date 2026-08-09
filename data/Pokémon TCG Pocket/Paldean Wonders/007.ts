@@ -53,7 +53,7 @@ const card: Card = {
             cost: ["Grass"],
             effect: {
                 en: "Heal 10 damage from this Pokémon.",
-                fr: "Soignez 10 dégâts à ce Pokémon.",
+                fr: "Soignez 10 dégâts à ce Pokémon.",
                 es: "Cura 10 puntos de daño a este Pokémon.",
                 it: "Cura questo Pokémon da 10 danni.",
                 de: "Heile 10 Schadenspunkte bei diesem Pokémon.",

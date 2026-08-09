@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Meditite",
-        "fr": "Méditer",
-        "es": "meditar",
-        "it": "Medita",
-        "de": "Meditit",
-        "pt-br": "Medite",
+        "fr": "Méditikka",
+        "es": "Meditite",
+        "it": "Meditite",
+        "de": "Meditie",
+        "pt-br": "Meditite",
         "zh-tw": "瑪沙那",
     },
     description: {

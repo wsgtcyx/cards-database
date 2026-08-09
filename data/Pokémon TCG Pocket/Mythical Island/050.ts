@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Koffing",
-        "fr": "Koffing",
+        "fr": "Smogo",
         "es": "Koffing",
         "it": "Koffing",
-        "de": "Koffing",
+        "de": "Smogon",
         "pt-br": "Koffing",
         "zh-tw": "瓦斯彈",
     },

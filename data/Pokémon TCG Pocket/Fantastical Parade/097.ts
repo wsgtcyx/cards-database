@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Alolan Grimer",
-        "fr": "Alolan Grimer",
+        "fr": "Tadmorv d'Alola",
         "es": "Grimer de Alola",
         "it": "Grimer di Alola",
-        "de": "Alolan Grimer",
-        "pt-br": "Alola Grimer",
-        "zh-tw": "阿羅蘭·格里默"
+        "de": "Alola-Sleima",
+        "pt-br": "Grimer de Alola",
+        "zh-tw": "阿羅拉臭泥"
     },
     description: {
         en: "What look like fangs and claws are actually\ncrystallized poison that will afflict you at a\nmere touch, so don't get too close.",

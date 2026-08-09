@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Pawniard",
-        "fr": "Pionnier sur gages",
-        "es": "empeño",
-        "it": "Pegno",
-        "de": "Pawniard",
-        "pt-br": "Penhor",
-        "zh-tw": "典當者"
+        "fr": "Scalpion",
+        "es": "Pawniard",
+        "it": "Pawniard",
+        "de": "Gladiantri",
+        "pt-br": "Pawniard",
+        "zh-tw": "駒刀小兵"
     },
     attacks: [{
             cost: ["Metal", "Metal"],

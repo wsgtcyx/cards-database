@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Snom",
-        "fr": "Snom",
-        "es": "snom",
+        "fr": "Frissonille",
+        "es": "Snom",
         "it": "Snom",
-        "de": "Snom",
+        "de": "Snomnom",
         "pt-br": "Snom",
-        "zh-tw": "斯諾姆"
+        "zh-tw": "雪吞蟲"
     },
     attacks: [{
             cost: ["Water", "Colorless"],

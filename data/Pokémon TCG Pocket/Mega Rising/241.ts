@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Hippopotas",
-        "fr": "Hippopotames",
-        "es": "hipopótamos",
-        "it": "Ippopotami",
-        "de": "Nilpferde",
-        "pt-br": "Hipopótamos",
-        "zh-tw": "怪河馬",
+        "fr": "Hippopotas",
+        "es": "Hippopotas",
+        "it": "Hippopotas",
+        "de": "Hippopotas",
+        "pt-br": "Hippopotas",
+        "zh-tw": "沙河馬",
     },
     description: {
         en: "It brandishes its gaping mouth in a display of\nfearsome strength. It raises vast quantities of\nsand while attacking.",

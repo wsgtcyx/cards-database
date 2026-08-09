@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Stunky",
-        "fr": "Puant",
-        "es": "apestoso",
-        "it": "Puzzolente",
-        "de": "Stunkig",
-        "pt-br": "Fedorento",
+        "fr": "Moufouette",
+        "es": "Stunky",
+        "it": "Stunky",
+        "de": "Skunkapuh",
+        "pt-br": "Stunky",
         "zh-tw": "臭鼬噗",
     },
     description: {

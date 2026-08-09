@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Chikorita",
-        "fr": "Chikorita",
+        "fr": "Germignon",
         "es": "Chikorita",
         "it": "Chikorita",
-        "de": "Chikorita",
+        "de": "Endivie",
         "pt-br": "Chikorita",
         "zh-tw": "菊草葉",
     },

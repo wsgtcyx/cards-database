@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Drilbur",
-        "fr": "Foreur",
-        "es": "taladro",
+        "fr": "Rototaupe",
+        "es": "Drilbur",
         "it": "Drilbur",
-        "de": "Drilbur",
+        "de": "Rotomurf",
         "pt-br": "Drilbur",
-        "zh-tw": "德里爾布爾"
+        "zh-tw": "螺釘地鼠"
     },
     description: {
         en: "Its drill, which has evolved into steel, is strong\nenough to bore through iron plates. This\nPokémon is a great help in tunnel construction.",

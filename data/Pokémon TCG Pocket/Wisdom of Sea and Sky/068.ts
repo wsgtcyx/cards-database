@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Mareep",
-        "fr": "Mareep",
+        "fr": "Wattouat",
         "es": "Mareep",
         "it": "Mareep",
-        "de": "Mareep",
+        "de": "Voltilamm",
         "pt-br": "Mareep",
         "zh-tw": "咩利羊",
     },

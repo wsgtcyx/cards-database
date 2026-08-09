@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Shellder",
-        "fr": "Décortiqueur",
+        "fr": "Kokiyas",
         "es": "Shellder",
         "it": "Shellder",
-        "de": "Shellder",
-        "pt-br": "Concha",
-        "zh-tw": "剝殼者"
+        "de": "Muschas",
+        "pt-br": "Shellder",
+        "zh-tw": "大舌貝"
     },
     abilities: [{
             type: "Ability",

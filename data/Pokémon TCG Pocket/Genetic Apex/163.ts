@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Clobbopus",
-        "fr": "Clobbopus",
-        "es": "clobbopus",
-        "it": "Clobbopo",
-        "de": "Clobbopus",
-        "pt-br": "Clobopus",
-        "zh-tw": "克洛博普斯"
+        "fr": "Poulpaf",
+        "es": "Clobbopus",
+        "it": "Clobbopus",
+        "de": "Klopptopus",
+        "pt-br": "Clobbopus",
+        "zh-tw": "拳拳蛸"
     },
     attacks: [{
             cost: ["Fighting", "Fighting", "Colorless"],

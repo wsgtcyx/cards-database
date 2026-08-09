@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Bunnelby",
-        "fr": "Bunnelby",
+        "fr": "Sapereau",
         "es": "Bunnelby",
         "it": "Bunnelby",
-        "de": "Bunnelby",
+        "de": "Scoppel",
         "pt-br": "Bunnelby",
-        "zh-tw": "邦內爾比"
+        "zh-tw": "掘掘兔"
     },
     description: {
         en: "The fur on its belly retains heat exceptionally\nwell. People used to make heavy winter clothing\nfrom fur shed by this Pokémon.",

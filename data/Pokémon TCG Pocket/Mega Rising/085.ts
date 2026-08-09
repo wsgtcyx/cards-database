@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Flaaffy",
-        "fr": "Flaaffy",
-        "es": "flaco",
+        "fr": "Lainergie",
+        "es": "Flaaffy",
         "it": "Flaaffy",
-        "de": "Flaaffy",
+        "de": "Waaty",
         "pt-br": "Flaaffy",
-        "zh-tw": "綿綿",
+        "zh-tw": "茸茸羊",
     },
     description: {
         en: "The tail's tip shines brightly and can be seen from\nfar away. It acts as a beacon for lost people.",

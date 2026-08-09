@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Torchic",
-        "fr": "Torchique",
-        "es": "Antorcha",
+        "fr": "Poussifeu",
+        "es": "Torchic",
         "it": "Torchic",
-        "de": "Torchisch",
-        "pt-br": "Tocha",
+        "de": "Flemmli",
+        "pt-br": "Torchic",
         "zh-tw": "火稚雞",
     },
     description: {

@@ -28,11 +28,11 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Bellsprout",
-        "fr": "Pousse de Bell",
-        "es": "brote de campana",
+        "fr": "Chétiflor",
+        "es": "Bellsprout",
         "it": "Bellsprout",
-        "de": "Glockensprossen",
-        "pt-br": "Broto de sino",
+        "de": "Knofensa",
+        "pt-br": "Bellsprout",
         "zh-tw": "喇叭芽"
     },
     attacks: [{

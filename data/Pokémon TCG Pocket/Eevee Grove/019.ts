@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Vanillite",
-        "fr": "Vanillite",
-        "es": "vainillita",
+        "fr": "Sorbébé",
+        "es": "Vanillite",
         "it": "Vanillite",
-        "de": "Vanillit",
-        "pt-br": "Vanilita",
+        "de": "Gelatini",
+        "pt-br": "Vanillite",
         "zh-tw": "迷你冰",
     },
     description: {

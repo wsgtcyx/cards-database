@@ -29,11 +29,11 @@ const card: Card = {
     evolveFrom: {
         en: "Nidorina",
         "fr": "Nidorina",
-        "es": "nidorina",
+        "es": "Nidorina",
         "it": "Nidorina",
         "de": "Nidorina",
         "pt-br": "Nidorina",
-        "zh-tw": "尼多麗娜"
+        "zh-tw": "尼多娜"
     },
     attacks: [{
             cost: ["Darkness", "Darkness", "Colorless"],

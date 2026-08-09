@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Skiddo",
-        "fr": "Skiddo",
-        "es": "patinar",
-        "it": "Scivola",
-        "de": "Skiddo",
+        "fr": "Cabriolaine",
+        "es": "Skiddo",
+        "it": "Skiddo",
+        "de": "Mähikel",
         "pt-br": "Skiddo",
-        "zh-tw": "斯基多"
+        "zh-tw": "坐騎小羊"
     },
     attacks: [{
             cost: ["Grass", "Colorless", "Colorless"],

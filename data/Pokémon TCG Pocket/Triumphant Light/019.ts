@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Snorunt",
-        "fr": "Ronfler",
-        "es": "ronquido",
-        "it": "Sbuffa",
-        "de": "Schnauben",
-        "pt-br": "Bufante",
+        "fr": "Stalgamin",
+        "es": "Snorunt",
+        "it": "Snorunt",
+        "de": "Schneppke",
+        "pt-br": "Snorunt",
         "zh-tw": "雪童子",
     },
     description: {

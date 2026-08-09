@@ -53,11 +53,11 @@ const card: Card = {
             },
             effect: {
                 en: "Attacks used by your Future Pokémon cost 1 less {C} Energy.",
-                fr: "Les attaques utilisées par votre Futur Pokémon coûtent 1 {C} Énergie de moins.",
+                fr: "Les attaques utilisées par votre Futur Pokémon coûtent 1 {C} Énergie de moins.",
                 es: "Los ataques utilizados por tu Futuro Pokémon cuestan 1 {C} Energía menos.",
                 it: "Gli attacchi usati dai tuoi Pokémon futuri costano 1 Energia {C} in meno.",
                 de: "Angriffe deines Zukunfts-Pokémon kosten 1 {C} Energie weniger.",
-                "pt-br": "Os ataques usados ​​pelos seus Pokémon do Futuro custam 1 {C} Energia a menos.",
+                "pt-br": "Os ataques usados pelos seus Pokémon do Futuro custam 1 {C} Energia a menos.",
                 "zh-tw": "你的未來寶可夢使用的攻擊消耗 1 點較少的 {C} 能量。"
             }
         }

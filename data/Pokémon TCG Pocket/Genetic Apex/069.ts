@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Krabby",
-        "fr": "Crabe",
-        "es": "Cangrejero",
+        "fr": "Krabby",
+        "es": "Krabby",
         "it": "Krabby",
         "de": "Krabby",
-        "pt-br": "Siriguejo",
-        "zh-tw": "克拉比"
+        "pt-br": "Krabby",
+        "zh-tw": "大鉗蟹"
     },
     attacks: [{
             cost: ["Water", "Water", "Colorless"],

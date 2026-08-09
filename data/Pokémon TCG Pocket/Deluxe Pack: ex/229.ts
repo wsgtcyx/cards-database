@@ -27,8 +27,8 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Zubat",
-        "fr": "Zoubat",
-        "es": "zubat",
+        "fr": "Nosferapti",
+        "es": "Zubat",
         "it": "Zubat",
         "de": "Zubat",
         "pt-br": "Zubat",

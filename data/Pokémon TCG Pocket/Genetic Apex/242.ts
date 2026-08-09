@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Zubat",
-        "fr": "Zoubat",
-        "es": "zubat",
+        "fr": "Nosferapti",
+        "es": "Zubat",
         "it": "Zubat",
         "de": "Zubat",
         "pt-br": "Zubat",
-        "zh-tw": "祖巴特"
+        "zh-tw": "超音蝠"
     },
     attacks: [{
             cost: ["Colorless"],

@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Dusclops",
-        "fr": "Dusclops",
+        "fr": "Téraclope",
         "es": "Dusclops",
         "it": "Dusclops",
-        "de": "Dusclops",
+        "de": "Zwirrklop",
         "pt-br": "Dusclops",
-        "zh-tw": "夜巨人",
+        "zh-tw": "彷徨夜靈",
     },
     description: {
         en: "At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.",

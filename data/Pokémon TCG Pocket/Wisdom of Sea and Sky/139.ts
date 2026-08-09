@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Sentret",
-        "fr": "Sentret",
+        "fr": "Fouinette",
         "es": "Sentret",
         "it": "Sentret",
-        "de": "Sentret",
-        "pt-br": "Sentido",
+        "de": "Wiesor",
+        "pt-br": "Sentret",
         "zh-tw": "尾立",
     },
     description: {

@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Fire"],
     evolveFrom: {
         en: "Darumaka",
-        "fr": "Darumaka",
+        "fr": "Darumarond",
         "es": "Darumaka",
         "it": "Darumaka",
-        "de": "Darumaka",
+        "de": "Flampion",
         "pt-br": "Darumaka",
         "zh-tw": "火紅不倒翁",
     },

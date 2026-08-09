@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Staravia",
-        "fr": "Staravia",
-        "es": "Starávia",
+        "fr": "Étourvol",
+        "es": "Staravia",
         "it": "Staravia",
         "de": "Staravia",
-        "pt-br": "Starávia",
-        "zh-tw": "斯塔維亞"
+        "pt-br": "Staravia",
+        "zh-tw": "姆克鳥"
     },
     description: {
         en: "When Staravia evolve into Staraptor, they leave\nthe flock to live alone. They have sturdy wings.",

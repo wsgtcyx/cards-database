@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Alolan Graveler",
-        "fr": "Graveur d'Alola",
+        "fr": "Gravalanch d'Alola",
         "es": "Graveler de Alola",
         "it": "Graveler di Alola",
-        "de": "Alolan Graveler",
+        "de": "Alola-Georok",
         "pt-br": "Graveler de Alola",
         "zh-tw": "阿羅拉隆隆石",
     },

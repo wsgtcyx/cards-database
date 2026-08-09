@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Chansey",
-        "fr": "Chansey",
+        "fr": "Leveinard",
         "es": "Chansey",
         "it": "Chansey",
-        "de": "Chansey",
+        "de": "Chaneira",
         "pt-br": "Chansey",
-        "zh-tw": "錢西"
+        "zh-tw": "吉利蛋"
     },
     stage: "Stage1",
     suffix: "EX",

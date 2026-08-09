@@ -29,11 +29,11 @@ const card: Card = {
     evolveFrom: {
         en: "Rattata",
         "fr": "Rattata",
-        "es": "ratata",
+        "es": "Rattata",
         "it": "Rattata",
-        "de": "Rattata",
-        "pt-br": "Ratata",
-        "zh-tw": "拉達"
+        "de": "Rattfratz",
+        "pt-br": "Rattata",
+        "zh-tw": "小拉達"
     },
     attacks: [{
             cost: ["Colorless"],

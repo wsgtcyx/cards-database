@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Gimmighoul",
-        "fr": "Gimmighoul",
+        "fr": "Mordudor",
         "es": "Gimmighoul",
         "it": "Gimmighoul",
-        "de": "Gimmighoul",
+        "de": "Gierspenst",
         "pt-br": "Gimmighoul",
         "zh-tw": "索財靈"
     },

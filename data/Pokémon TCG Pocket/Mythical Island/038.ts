@@ -28,10 +28,10 @@ const card: Card = {
     evolveFrom: {
         en: "Floette",
         "fr": "Floette",
-        "es": "flotador",
-        "it": "Flotta",
+        "es": "Floette",
+        "it": "Floette",
         "de": "Floette",
-        "pt-br": "Floeta",
+        "pt-br": "Floette",
         "zh-tw": "花葉蒂",
     },
     description: {

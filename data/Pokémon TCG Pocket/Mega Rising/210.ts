@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Rookidee",
-        "fr": "Rookie",
-        "es": "rookidee",
+        "fr": "Minisange",
+        "es": "Rookidee",
         "it": "Rookidee",
-        "de": "Neuling",
+        "de": "Meikro",
         "pt-br": "Rookidee",
         "zh-tw": "稚山雀",
     },

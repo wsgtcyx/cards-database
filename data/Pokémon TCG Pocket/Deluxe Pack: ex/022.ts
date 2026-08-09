@@ -32,7 +32,7 @@ const card: Card = {
         "it": "Yanma",
         "de": "Yanma",
         "pt-br": "Yanma",
-        "zh-tw": "陽陽瑪",
+        "zh-tw": "蜻蜻蜓",
     },
     stage: "Stage1",
     suffix: "EX",

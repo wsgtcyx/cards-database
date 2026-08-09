@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Misdreavus",
-        "fr": "Misdreavus",
+        "fr": "Feuforêve",
         "es": "Misdreavus",
         "it": "Misdreavus",
-        "de": "Misdreavus",
+        "de": "Traunfugil",
         "pt-br": "Misdreavus",
         "zh-tw": "夢妖",
     },

@@ -28,10 +28,10 @@ const card: Card = {
     evolveFrom: {
         en: "Luxio",
         "fr": "Luxio",
-        "es": "lucio",
+        "es": "Luxio",
         "it": "Luxio",
         "de": "Luxio",
-        "pt-br": "Luxo",
+        "pt-br": "Luxio",
         "zh-tw": "勒克貓",
     },
     description: {
@@ -61,7 +61,7 @@ const card: Card = {
                 "es": "Mientras este Pokémon esté en el Punto Activo, los ataques utilizados por el Pokémon Activo de tu rival causan −20 de daño.",
                 "it": "Fintanto che questo Pokémon è in posizione attiva, gli attacchi usati dal Pokémon attivo del tuo avversario infliggono -20 danni.",
                 "de": "Solange sich dieses Pokémon an der aktiven Stelle befindet, verursachen Angriffe des aktiven Pokémon deines Gegners −20 Schadenspunkte.",
-                "pt-br": "Enquanto este Pokémon estiver no Ponto Ativo, os ataques usados ​​pelo Pokémon Ativo do seu oponente causarão -20 de dano.",
+                "pt-br": "Enquanto este Pokémon estiver no Ponto Ativo, os ataques usados pelo Pokémon Ativo do seu oponente causarão -20 de dano.",
                 "zh-tw": "只要這只神奇寶貝在活躍點，對手的活躍神奇寶貝使用的攻擊就會造成−20點傷害。"
             }
         }],

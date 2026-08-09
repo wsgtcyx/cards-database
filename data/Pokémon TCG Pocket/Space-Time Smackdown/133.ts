@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Starly",
-        "fr": "Étoilé",
-        "es": "estrellado",
-        "it": "Stellato",
-        "de": "Sternenklar",
-        "pt-br": "Estrelado",
+        "fr": "Étourmi",
+        "es": "Starly",
+        "it": "Starly",
+        "de": "Staralili",
+        "pt-br": "Starly",
         "zh-tw": "姆克兒",
     },
     description: {

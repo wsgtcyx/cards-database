@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Prinplup",
-        "fr": "Principe",
-        "es": "prinplup",
+        "fr": "Prinplouf",
+        "es": "Prinplup",
         "it": "Prinplup",
-        "de": "Prinplup",
+        "de": "Pliprin",
         "pt-br": "Prinplup",
         "zh-tw": "波皇子",
     },

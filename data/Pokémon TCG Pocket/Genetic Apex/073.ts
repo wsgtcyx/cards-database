@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Goldeen",
-        "fr": "Doré",
-        "es": "dorado",
-        "it": "D'oro",
-        "de": "Goldeen",
-        "pt-br": "Dourado",
-        "zh-tw": "金色"
+        "fr": "Poissirène",
+        "es": "Goldeen",
+        "it": "Goldeen",
+        "de": "Goldini",
+        "pt-br": "Goldeen",
+        "zh-tw": "角金魚"
     },
     attacks: [{
             cost: ["Water"],

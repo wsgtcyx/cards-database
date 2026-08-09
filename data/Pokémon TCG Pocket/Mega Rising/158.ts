@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Pancham",
-        "fr": "Pancham",
+        "fr": "Pandespiègle",
         "es": "Pancham",
         "it": "Pancham",
-        "de": "Pancham",
+        "de": "Pam-Pam",
         "pt-br": "Pancham",
         "zh-tw": "頑皮熊貓",
     },

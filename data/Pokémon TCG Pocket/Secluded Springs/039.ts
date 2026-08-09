@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Frillish",
-        "fr": "Fantaisie",
-        "es": "volantes",
-        "it": "Frizzo",
-        "de": "Rüschen",
-        "pt-br": "Enfeitado",
+        "fr": "Viskuse",
+        "es": "Frillish",
+        "it": "Frillish",
+        "de": "Quabbel",
+        "pt-br": "Frillish",
         "zh-tw": "輕飄飄",
     },
     description: {

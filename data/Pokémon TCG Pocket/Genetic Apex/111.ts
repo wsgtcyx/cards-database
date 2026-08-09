@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Helioptile",
-        "fr": "Hélioptile",
-        "es": "helioptilo",
-        "it": "Eliottile",
-        "de": "Helioptil",
-        "pt-br": "Helióptilo",
-        "zh-tw": "太陽花"
+        "fr": "Galvaran",
+        "es": "Helioptile",
+        "it": "Helioptile",
+        "de": "Eguana",
+        "pt-br": "Helioptile",
+        "zh-tw": "傘電蜥"
     },
     attacks: [{
             cost: ["Colorless", "Colorless"],

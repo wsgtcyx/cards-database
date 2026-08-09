@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Phantump",
-        "fr": "Fantôme",
-        "es": "Fantasma",
+        "fr": "Brocélôme",
+        "es": "Phantump",
         "it": "Phantump",
-        "de": "Phantump",
-        "pt-br": "Fantasma",
+        "de": "Paragoni",
+        "pt-br": "Phantump",
         "zh-tw": "小木靈",
     },
     description: {

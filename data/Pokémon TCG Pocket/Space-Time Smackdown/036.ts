@@ -31,7 +31,7 @@ const card: Card = {
         "fr": "Tiplouf",
         "es": "Piplup",
         "it": "Piplup",
-        "de": "Piplup",
+        "de": "Plinfa",
         "pt-br": "Piplup",
         "zh-tw": "波加曼",
     },

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Silcoon",
-        "fr": "Silicone",
+        "fr": "Armulys",
         "es": "Silcoon",
         "it": "Silcoon",
-        "de": "Silcoon",
-        "pt-br": "Silcon",
-        "zh-tw": "甲殼蛹",
+        "de": "Schaloko",
+        "pt-br": "Silcoon",
+        "zh-tw": "甲殼繭",
     },
     description: {
         en: "It has an aggressive nature. It stabs prey with its\nlong, narrow mouth to drain the prey's fluids.",

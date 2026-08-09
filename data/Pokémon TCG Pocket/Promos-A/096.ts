@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Houndour",
-        "fr": "Chien",
+        "fr": "Malosse",
         "es": "Houndour",
         "it": "Houndour",
-        "de": "Hundour",
-        "pt-br": "Cão de caça",
-        "zh-tw": "獵犬"
+        "de": "Hunduster",
+        "pt-br": "Houndour",
+        "zh-tw": "戴魯比"
     },
     description: {
         en: "If you are burned by the flames it shoots from its\nmouth, the pain will never go away.",

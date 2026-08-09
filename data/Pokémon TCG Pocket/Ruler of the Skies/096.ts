@@ -35,7 +35,7 @@ const card: Card = {
         it: "Zigzagoon di Galar",
         de: "Galar-Zigzachs",
         "pt-br": "Zigzagoon de Galar",
-        "zh-tw": "伽勒爾的伽勒爾 蛇紋熊",
+        "zh-tw": "伽勒爾蛇紋熊",
         ko: "가라르 가라르 지그제구리",
         ja: "ガラル ガラル ジグザグマ"
     },

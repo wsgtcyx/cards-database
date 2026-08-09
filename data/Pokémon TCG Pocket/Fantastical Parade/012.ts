@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Scatterbug",
-        "fr": "Insecte à dispersion",
-        "es": "dispersor",
+        "fr": "Lépidonille",
+        "es": "Scatterbug",
         "it": "Scatterbug",
-        "de": "Scatterbug",
-        "pt-br": "Espalhador",
-        "zh-tw": "飛蟲"
+        "de": "Purmel",
+        "pt-br": "Scatterbug",
+        "zh-tw": "粉蝶蟲"
     },
     description: {
         en: "Spewpa doesn't live in a fixed location. It roams\nwhere it pleases across the fields and mountains,\nbuilding up the energy it needs to evolve.",

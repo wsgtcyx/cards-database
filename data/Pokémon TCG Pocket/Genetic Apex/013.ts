@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Gloom",
-        "fr": "Obscurité",
-        "es": "Oscuridad",
-        "it": "Tristezza",
-        "de": "Düsternis",
-        "pt-br": "Melancolia",
-        "zh-tw": "愁雲"
+        "fr": "Ortide",
+        "es": "Gloom",
+        "it": "Gloom",
+        "de": "Duflor",
+        "pt-br": "Gloom",
+        "zh-tw": "臭臭花"
     },
     attacks: [{
             cost: ["Grass", "Grass", "Colorless"],

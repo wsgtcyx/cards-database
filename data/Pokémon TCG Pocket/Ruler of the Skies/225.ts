@@ -36,7 +36,7 @@ const card: Card = {
         it: "Vulpix di Alola",
         de: "Alola-Vulpix",
         "pt-br": "Vulpix de Alola",
-        "zh-tw": "阿羅拉的六尾",
+        "zh-tw": "阿羅拉六尾",
         ko: "알로라 식스테일",
         ja: "アローラ ロコン"
     },

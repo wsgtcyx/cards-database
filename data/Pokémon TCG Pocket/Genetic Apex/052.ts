@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Sizzlipede",
-        "fr": "Sizzlipède",
+        "fr": "Grillepattes",
         "es": "Sizzlipede",
         "it": "Sizzlipede",
-        "de": "Sizzlipede",
+        "de": "Thermopod",
         "pt-br": "Sizzlipede",
-        "zh-tw": "西足蟲"
+        "zh-tw": "燒火蚣"
     },
     attacks: [{
             cost: ["Fire", "Colorless", "Colorless", "Colorless"],

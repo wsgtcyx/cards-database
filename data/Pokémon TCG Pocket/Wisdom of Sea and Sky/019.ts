@@ -32,7 +32,7 @@ const card: Card = {
         "it": "Yanma",
         "de": "Yanma",
         "pt-br": "Yanma",
-        "zh-tw": "陽陽瑪",
+        "zh-tw": "蜻蜻蜓",
     },
     description: {
         en: "It prefers to battle by biting apart foes' heads\ninstantly while flying by at high speed.",

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Swirlix",
-        "fr": "Tourbillon",
-        "es": "remolino",
+        "fr": "Sucroquin",
+        "es": "Swirlix",
         "it": "Swirlix",
-        "de": "Swirlix",
-        "pt-br": "Redemoinho",
+        "de": "Flauschling",
+        "pt-br": "Swirlix",
         "zh-tw": "綿綿泡芙",
     },
     description: {

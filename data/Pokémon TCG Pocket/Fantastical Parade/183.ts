@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Marshtomp",
-        "fr": "Marais",
+        "fr": "Flobio",
         "es": "Marshtomp",
         "it": "Marshtomp",
-        "de": "Marshtomp",
+        "de": "Moorabbel",
         "pt-br": "Marshtomp",
-        "zh-tw": "馬什托姆普"
+        "zh-tw": "沼躍魚"
     },
     description: {
         en: "Its arms are hard as rock. With one swing, it can\nbreak an enormous boulder into pieces.",

@@ -53,7 +53,7 @@ const card: Card = {
             },
             effect: {
                 en: "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon.",
-                fr: "Déplacez 2 {D} Énergie de ce Pokémon vers l'un de vos Pokémon de Banc.",
+                fr: "Déplacez 2 {D} Énergie de ce Pokémon vers l'un de vos Pokémon de Banc.",
                 es: "Mueve 2 {D} Energía de este Pokémon a 1 de tus Pokémon en Banca.",
                 it: "Sposta 2 Energie {D} da questo Pokémon a 1 dei tuoi Pokémon in panchina.",
                 de: "Verschiebe 2 {D}-Energie von diesem Pokémon auf 1 deiner Bank-Pokémon.",

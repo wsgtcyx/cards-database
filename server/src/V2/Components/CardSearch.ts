@@ -52,6 +52,9 @@ interface BoosterValue {
 
 interface ParsedSearch {
 	q: string
+	name: string
+	ability: string
+	attack: string
 	set: Array<string>
 	booster: Array<string>
 	category: Array<string>
@@ -102,7 +105,7 @@ const pairedSetsCache = new Map<SupportedLanguages, Map<string, SetPair>>()
 const optionsCache = new Map<SupportedLanguages, CatalogSearchOptions>()
 const searchableTextCache = new WeakMap<CompiledCard, string>()
 const allowedSearchKeys = new Set([
-	'q', 'set', 'booster', 'category', 'type', 'rarity', 'stage', 'trainerType',
+	'q', 'name', 'ability', 'attack', 'set', 'booster', 'category', 'type', 'rarity', 'stage', 'trainerType',
 	'suffix', 'retreat', 'weakness', 'attackCostType', 'hasAbility', 'hpMin',
 	'hpMax', 'damageMin', 'damageMax', 'illustrator', 'page', 'pageSize',
 ])
@@ -147,8 +150,11 @@ function firstString(value: unknown): string {
 	return typeof first === 'string' ? first.trim() : ''
 }
 
-function parseBoundedString(value: unknown, name: string, maxLength: number): string {
+function parseBoundedString(value: unknown, name: string, maxLength: number, rejectEmpty = false): string {
 	const parsed = firstString(value)
+	if (rejectEmpty && value !== undefined && !parsed) {
+		throw new CatalogSearchValidationError([`${name} cannot be empty`])
+	}
 	if (parsed.length > maxLength) {
 		throw new CatalogSearchValidationError([`${name} must be at most ${maxLength} characters`])
 	}
@@ -190,6 +196,15 @@ function normalizeSearchText(value: unknown): string {
 		.toLocaleLowerCase()
 		.replace(/[^\p{L}\p{N}]+/gu, ' ')
 		.trim()
+}
+
+export function normalizeCanonicalName(value: unknown): string {
+	return String(value ?? '')
+		.normalize('NFKC')
+		.replace(/[\u200B-\u200D\uFEFF]/gu, '')
+		.trim()
+		.replace(/\s+/gu, ' ')
+		.toLocaleLowerCase('en')
 }
 
 function parseLeadingNumber(value: unknown): number | undefined {
@@ -323,6 +338,9 @@ function parseSearch(query: QueryRecord): ParsedSearch {
 	}
 	const parsed: ParsedSearch = {
 		q: parseBoundedString(query.q, 'q', 200),
+		name: parseBoundedString(query.name, 'name', 80, true),
+		ability: parseBoundedString(query.ability, 'ability', 80, true),
+		attack: parseBoundedString(query.attack, 'attack', 80, true),
 		set: asStrings(query.set, 'set'),
 		booster: asStrings(query.booster, 'booster'),
 		category: asStrings(query.category, 'category'),
@@ -346,6 +364,32 @@ function parseSearch(query: QueryRecord): ParsedSearch {
 	validateRange(parsed.hpMin, parsed.hpMax, 'HP')
 	validateRange(parsed.damageMin, parsed.damageMax, 'damage')
 	return parsed
+}
+
+function exactFilter(cards: Array<CardPair>, field: 'name' | 'ability' | 'attack', value: string): { value: string, label: string } | undefined {
+	const expected = normalizeCanonicalName(value)
+	for (const card of cards) {
+		if (field === 'name' && normalizeCanonicalName(card.canonical.name) === expected) {
+			return { value: card.canonical.name, label: card.localized.name ?? card.canonical.name }
+		}
+		const key = field === 'ability' ? 'abilities' : 'attacks'
+		const index = arrayValues(card.canonical[key]).findIndex((item) => normalizeCanonicalName(item.name) === expected)
+		if (index >= 0) {
+			return {
+				value: arrayValues(card.canonical[key])[index].name,
+				label: arrayValues(card.localized[key])[index]?.name ?? arrayValues(card.canonical[key])[index].name,
+			}
+		}
+	}
+	return undefined
+}
+
+function assertKnownExactValues(parsed: ParsedSearch, cards: Array<CardPair>): void {
+	const errors = (['name', 'ability', 'attack'] as const).flatMap((field) => {
+		const value = parsed[field]
+		return value && !exactFilter(cards, field, value) ? [`unknown ${field}: ${value}`] : []
+	})
+	if (errors.length > 0) throw new CatalogSearchValidationError(errors)
 }
 
 function assertKnownValues(parsed: ParsedSearch, options: CatalogSearchOptions): void {
@@ -482,12 +526,16 @@ export function searchCatalogCards(lang: SupportedLanguages, query: QueryRecord)
 	assertKnownValues(parsed, options)
 	const setsById = pairSets(lang)
 	const cards = pairCards(lang)
+	assertKnownExactValues(parsed, cards)
 	const requestedCardId = parsed.q.trim().toLocaleLowerCase()
 	const exactCardId = requestedCardId
 		? cards.find((card) => card.canonical.id.toLocaleLowerCase() === requestedCardId)?.canonical.id
 		: undefined
 	const queryTokens = normalizeSearchText(parsed.q).split(' ').filter(Boolean)
 	const illustrator = normalizeSearchText(parsed.illustrator)
+	const exactName = normalizeCanonicalName(parsed.name)
+	const exactAbility = normalizeCanonicalName(parsed.ability)
+	const exactAttack = normalizeCanonicalName(parsed.attack)
 
 	const matches = cards.filter((card) => {
 		const canonical = card.canonical
@@ -508,6 +556,9 @@ export function searchCatalogCards(lang: SupportedLanguages, query: QueryRecord)
 		if (parsed.hpMin !== undefined && (typeof canonical.hp !== 'number' || canonical.hp < parsed.hpMin)) return false
 		if (parsed.hpMax !== undefined && (typeof canonical.hp !== 'number' || canonical.hp > parsed.hpMax)) return false
 		if (illustrator && !normalizeSearchText(canonical.illustrator).includes(illustrator)) return false
+		if (exactName && normalizeCanonicalName(canonical.name) !== exactName) return false
+		if (exactAbility && !arrayValues(canonical.abilities).some((ability) => normalizeCanonicalName(ability.name) === exactAbility)) return false
+		if (exactAttack && !arrayValues(canonical.attacks).some((attack) => normalizeCanonicalName(attack.name) === exactAttack)) return false
 
 		if (parsed.damageMin !== undefined || parsed.damageMax !== undefined) {
 			const damages = arrayValues(canonical.attacks).map((attack) => parseLeadingNumber(attack.damage)).filter((damage): damage is number => damage !== undefined)
@@ -557,11 +608,148 @@ export function searchCatalogCards(lang: SupportedLanguages, query: QueryRecord)
 
 	return {
 		items,
+		appliedExactFilters: {
+			...(parsed.name ? { name: exactFilter(cards, 'name', parsed.name)! } : {}),
+			...(parsed.ability ? { ability: exactFilter(cards, 'ability', parsed.ability)! } : {}),
+			...(parsed.attack ? { attack: exactFilter(cards, 'attack', parsed.attack)! } : {}),
+		},
 		pagination: {
 			page: parsed.page,
 			pageSize: parsed.pageSize,
 			total,
 			totalPages,
 		},
+	}
+}
+
+type RelatedCardSummary = {
+	id: string
+	localId: string
+	name: string
+	image?: string
+	category: string
+	set: { id: string, name: string, releaseDate?: string }
+}
+
+type CardRelationGroup = {
+	canonicalName: string
+	name: string
+	total: number
+	items: Array<RelatedCardSummary>
+}
+
+const relationLimit = 6
+
+function relationSort(left: CardPair, right: CardPair, setsById: Map<string, SetPair>): number {
+	const leftSet = setsById.get(left.canonical.set?.id)?.canonical
+	const rightSet = setsById.get(right.canonical.set?.id)?.canonical
+	return (rightSet?.releaseDate ?? '').localeCompare(leftSet?.releaseDate ?? '')
+		|| naturalCollator.compare(left.canonical.set?.id ?? '', right.canonical.set?.id ?? '')
+		|| naturalCollator.compare(left.canonical.localId ?? left.canonical.id, right.canonical.localId ?? right.canonical.id)
+}
+
+function relationSummary(card: CardPair, setsById: Map<string, SetPair>): RelatedCardSummary {
+	const set = setsById.get(card.canonical.set?.id)
+	return {
+		id: card.canonical.id,
+		localId: card.canonical.localId,
+		name: card.localized.name ?? card.canonical.name,
+		image: card.localized.image ?? card.canonical.image,
+		category: card.localized.category ?? card.canonical.category,
+		set: {
+			id: card.canonical.set?.id,
+			name: set?.localized.name ?? set?.canonical.name ?? card.localized.set?.name ?? card.canonical.set?.name,
+			releaseDate: set?.canonical.releaseDate,
+		},
+	}
+}
+
+function relationGroup(
+	canonicalName: string,
+	localizedName: string,
+	matches: Array<CardPair>,
+	setsById: Map<string, SetPair>,
+	diverse: boolean,
+): CardRelationGroup | undefined {
+	if (matches.length === 0) return undefined
+	const sorted = [...matches].sort((left, right) => relationSort(left, right, setsById))
+	let preview = sorted
+	if (diverse) {
+		const seen = new Set<string>()
+		const first: Array<CardPair> = []
+		const rest: Array<CardPair> = []
+		for (const card of sorted) {
+			const name = normalizeCanonicalName(card.canonical.name)
+			if (seen.has(name)) rest.push(card)
+			else {
+				seen.add(name)
+				first.push(card)
+			}
+		}
+		preview = [...first, ...rest]
+	}
+	return {
+		canonicalName,
+		name: localizedName,
+		total: matches.length,
+		items: preview.slice(0, relationLimit).map((card) => relationSummary(card, setsById)),
+	}
+}
+
+// ponytail: 3,761 cards are scanned once per cached request;
+// add an index only if production profiling shows this is slow.
+export function getCardRelations(lang: SupportedLanguages, cardId: string) {
+	const cards = pairCards(lang)
+	const current = cards.find((card) => card.canonical.id.toLocaleLowerCase() === cardId.toLocaleLowerCase())
+	if (!current) return undefined
+	const setsById = pairSets(lang)
+	const currentId = current.canonical.id
+	const sameNameKey = normalizeCanonicalName(current.canonical.name)
+	const evolvesFromName = current.canonical.evolveFrom
+	const evolvesFromKey = normalizeCanonicalName(evolvesFromName)
+	const uniqueMechanicNames = (items: Array<any>) => [...new Map(items
+		.map((item, index) => [normalizeCanonicalName(item.name), { name: item.name, index }] as const)
+		.filter(([key]) => key)).values()]
+	const abilityNames = uniqueMechanicNames(arrayValues(current.canonical.abilities))
+	const attackNames = uniqueMechanicNames(arrayValues(current.canonical.attacks))
+	const abilityKeys = new Set(abilityNames.map((item) => normalizeCanonicalName(item.name)))
+	const attackKeys = new Set(attackNames.map((item) => normalizeCanonicalName(item.name)))
+	const sameName: Array<CardPair> = []
+	const evolvesFrom: Array<CardPair> = []
+	const abilities = new Map(abilityNames.map((item) => [normalizeCanonicalName(item.name), [] as Array<CardPair>]))
+	const attacks = new Map(attackNames.map((item) => [normalizeCanonicalName(item.name), [] as Array<CardPair>]))
+
+	for (const card of cards) {
+		if (card.canonical.id === currentId) continue
+		if (normalizeCanonicalName(card.canonical.name) === sameNameKey) sameName.push(card)
+		if (evolvesFromKey && normalizeCanonicalName(card.canonical.name) === evolvesFromKey) evolvesFrom.push(card)
+		for (const key of abilityKeys) {
+			if (arrayValues(card.canonical.abilities).some((item) => normalizeCanonicalName(item.name) === key)) abilities.get(key)!.push(card)
+		}
+		for (const key of attackKeys) {
+			if (arrayValues(card.canonical.attacks).some((item) => normalizeCanonicalName(item.name) === key)) attacks.get(key)!.push(card)
+		}
+	}
+
+	const localizedAbilityNames = arrayValues(current.localized.abilities)
+	const localizedAttackNames = arrayValues(current.localized.attacks)
+	return {
+		cardId: currentId,
+		sameName: relationGroup(current.canonical.name, current.localized.name ?? current.canonical.name, sameName, setsById, false),
+		evolvesFrom: evolvesFromName ? relationGroup(
+			evolvesFromName,
+			evolvesFrom[0]?.localized.name ?? evolvesFrom[0]?.canonical.name ?? evolvesFromName,
+			evolvesFrom,
+			setsById,
+			false,
+		) : undefined,
+		abilities: abilityNames.flatMap(({ name, index }) => {
+			const group = relationGroup(name, localizedAbilityNames[index]?.name ?? name, abilities.get(normalizeCanonicalName(name))!, setsById, true)
+			return group ? [group] : []
+		}),
+		attacks: attackNames.flatMap(({ name, index }) => {
+			const group = relationGroup(name, localizedAttackNames[index]?.name ?? name, attacks.get(normalizeCanonicalName(name))!, setsById, true)
+			return group ? [group] : []
+		}),
 	}
 }

@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Mareanie",
-        "fr": "Maréanie",
+        "fr": "Vorastérie",
         "es": "Mareanie",
         "it": "Mareanie",
-        "de": "Mareanie",
+        "de": "Garstella",
         "pt-br": "Mareanie",
         "zh-tw": "好壞星",
     },

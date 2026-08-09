@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Meditite",
-        "fr": "Méditer",
-        "es": "meditar",
-        "it": "Medita",
-        "de": "Meditit",
-        "pt-br": "Medite",
-        "zh-tw": "麥迪泰"
+        "fr": "Méditikka",
+        "es": "Meditite",
+        "it": "Meditite",
+        "de": "Meditie",
+        "pt-br": "Meditite",
+        "zh-tw": "瑪沙那"
     },
     description: {
         en: "It elegantly avoids attacks with dance-like\nsteps, then launches a devastating blow in\nthe same motion.",

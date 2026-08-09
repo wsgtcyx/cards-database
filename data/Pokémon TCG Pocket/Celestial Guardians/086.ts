@@ -29,9 +29,9 @@ const card: Card = {
     evolveFrom: {
         en: "Cosmog",
         "fr": "Cosmog",
-        "es": "cosmog",
+        "es": "Cosmog",
         "it": "Cosmog",
-        "de": "Kosmog",
+        "de": "Cosmog",
         "pt-br": "Cosmog",
         "zh-tw": "科斯莫古",
     },

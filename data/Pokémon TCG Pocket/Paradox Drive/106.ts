@@ -55,7 +55,7 @@ const card: Card = {
             },
             effect: {
                 en: "If you have 4 or more {L} Energy in play, this attack does 70 more damage.",
-                fr: "Si vous avez 4 Énergie {L} ou plus en jeu, cette attaque inflige 70 dégâts supplémentaires.",
+                fr: "Si vous avez 4 Énergie {L} ou plus en jeu, cette attaque inflige 70 dégâts supplémentaires.",
                 es: "Si tienes 4 o más Energías {L} en juego, este ataque hace 70 daños más.",
                 it: "Se hai 4 o più {L} Energia in gioco, questo attacco infligge 70 danni in più.",
                 de: "Wenn du 4 oder mehr {L}-Energie im Spiel hast, fügt dieser Angriff 70 Schadenspunkte mehr zu.",

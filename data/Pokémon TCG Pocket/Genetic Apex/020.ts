@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage2",
     evolveFrom: {
         en: "Weepinbell",
-        "fr": "Clochette pleureuse",
-        "es": "Campanilla llorona",
+        "fr": "Boustiflor",
+        "es": "Weepinbell",
         "it": "Weepinbell",
-        "de": "Weepinbell",
-        "pt-br": "Campainha chorando",
-        "zh-tw": "威平貝爾"
+        "de": "Ultrigaria",
+        "pt-br": "Weepinbell",
+        "zh-tw": "口呆花"
     },
     abilities: [{
             type: "Ability",

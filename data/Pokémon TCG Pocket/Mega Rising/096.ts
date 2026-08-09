@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Lightning"],
     evolveFrom: {
         en: "Yamper",
-        "fr": "Yamper",
+        "fr": "Voltoutou",
         "es": "Yamper",
         "it": "Yamper",
-        "de": "Yamper",
+        "de": "Voldi",
         "pt-br": "Yamper",
         "zh-tw": "來電汪",
     },

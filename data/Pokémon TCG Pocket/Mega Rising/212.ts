@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Wooloo",
-        "fr": "Wooloo",
-        "es": "lanaoo",
+        "fr": "Moumouton",
+        "es": "Wooloo",
         "it": "Wooloo",
-        "de": "Wooloo",
-        "pt-br": "Lãoo",
+        "de": "Wolly",
+        "pt-br": "Wooloo",
         "zh-tw": "毛辮羊",
     },
     description: {

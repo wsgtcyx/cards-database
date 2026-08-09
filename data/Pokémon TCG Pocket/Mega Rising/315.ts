@@ -30,7 +30,7 @@ const card: Card = {
         "fr": "Doduo",
         "es": "Doduo",
         "it": "Doduo",
-        "de": "Doduo",
+        "de": "Dodu",
         "pt-br": "Doduo",
         "zh-tw": "嘟嘟",
     },

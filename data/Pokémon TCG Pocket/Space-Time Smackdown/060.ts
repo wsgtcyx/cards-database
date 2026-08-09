@@ -29,10 +29,10 @@ const card: Card = {
     evolveFrom: {
         en: "Luxio",
         "fr": "Luxio",
-        "es": "lucio",
+        "es": "Luxio",
         "it": "Luxio",
         "de": "Luxio",
-        "pt-br": "Luxo",
+        "pt-br": "Luxio",
         "zh-tw": "勒克貓",
     },
     description: {

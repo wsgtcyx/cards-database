@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Cascoon",
-        "fr": "Cascoon",
-        "es": "cascoon",
+        "fr": "Blindalys",
+        "es": "Cascoon",
         "it": "Cascoon",
-        "de": "Kaskon",
-        "pt-br": "Cascão",
+        "de": "Panekon",
+        "pt-br": "Cascoon",
         "zh-tw": "盾甲繭",
     },
     description: {

@@ -28,11 +28,11 @@ const card: Card = {
     evolveFrom: {
         en: "Vigoroth",
         "fr": "Vigoroth",
-        "es": "Vigorot",
+        "es": "Vigoroth",
         "it": "Vigoroth",
-        "de": "Vigoroth",
+        "de": "Muntier",
         "pt-br": "Vigoroth",
-        "zh-tw": "維戈羅斯"
+        "zh-tw": "過動猿"
     },
     description: {
         en: "This Pokémon lives lying on its side. It only\nrolls over and moves when there is no more\ngrass to eat.",

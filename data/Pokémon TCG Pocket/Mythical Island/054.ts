@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Venipede",
-        "fr": "Venipède",
-        "es": "venipeda",
+        "fr": "Venipatte",
+        "es": "Venipede",
         "it": "Venipede",
-        "de": "Venipede",
-        "pt-br": "Venípede",
+        "de": "Toxiped",
+        "pt-br": "Venipede",
         "zh-tw": "百足蜈蚣",
     },
     description: {

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Krabby",
-        "fr": "Crabe",
-        "es": "Cangrejero",
+        "fr": "Krabby",
+        "es": "Krabby",
         "it": "Krabby",
         "de": "Krabby",
-        "pt-br": "Siriguejo",
+        "pt-br": "Krabby",
         "zh-tw": "大鉗蟹",
     },
     description: {

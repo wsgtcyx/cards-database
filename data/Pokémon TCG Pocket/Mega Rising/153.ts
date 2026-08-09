@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Darkness"],
     evolveFrom: {
         en: "Skorupi",
-        "fr": "Skorupí",
-        "es": "Skorupí",
+        "fr": "Rapion",
+        "es": "Skorupi",
         "it": "Skorupi",
-        "de": "Skorupi",
+        "de": "Pionskora",
         "pt-br": "Skorupi",
-        "zh-tw": "紫天蠍",
+        "zh-tw": "鉗尾蠍",
     },
     description: {
         en: "It's so vicious that it's called the Sand Demon.\nYet when confronted by Hippowdon, Drapion\nkeeps a low profile and will never pick a fight.",

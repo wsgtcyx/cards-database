@@ -2,7 +2,7 @@
 	"private": true,
 	"scripts": {
 		"validate": "tsc --noEmit --project tsconfig.json",
-		"test": "node --test scripts/sync-localized-card-images.test.mjs scripts/sync-reviewed-pocket-assets.test.mjs scripts/apply-pocket-card-integrity-fixes.test.mjs scripts/apply-reviewed-pocket-localizations.test.mjs scripts/audit-pocket-localization-metadata.test.mjs .agents/skills/merge-pocket-card-sources/scripts/raenonx-b4-safety.test.mjs",
+		"test": "node --test scripts/sync-localized-card-images.test.mjs scripts/sync-reviewed-pocket-assets.test.mjs scripts/apply-pocket-card-integrity-fixes.test.mjs scripts/apply-reviewed-pocket-localizations.test.mjs scripts/audit-pocket-localization-metadata.test.mjs scripts/fix-pocket-card-relations.test.mjs .agents/skills/merge-pocket-card-sources/scripts/raenonx-b4-safety.test.mjs && cd server && bun test src/V2/Components/CardSearch.test.ts",
 		"audit:pocket-localizations": "node scripts/audit-pocket-localization-metadata.mjs",
 		"apply:reviewed-pocket-localizations": "node scripts/apply-reviewed-pocket-localizations.mjs",
 		"check-missing": "ts-node meta/scripts/check-missing.ts",

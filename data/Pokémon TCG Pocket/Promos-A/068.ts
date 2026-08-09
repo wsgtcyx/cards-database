@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Rockruff",
-        "fr": "Rockruff",
-        "es": "rockruff",
+        "fr": "Rocabot",
+        "es": "Rockruff",
         "it": "Rockruff",
-        "de": "Rockruff",
+        "de": "Wuffels",
         "pt-br": "Rockruff",
-        "zh-tw": "洛克拉夫"
+        "zh-tw": "岩狗狗"
     },
     description: {
         en: "Lycanroc attacks its prey with its\nsharp claws and fangs. It loyally obeys\nthe instructions of a Trainer it trusts.",

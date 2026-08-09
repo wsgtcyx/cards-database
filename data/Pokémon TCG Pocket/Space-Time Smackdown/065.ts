@@ -28,11 +28,11 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Togetic",
-        "fr": "Ensemble",
-        "es": "togetico",
-        "it": "Togetico",
-        "de": "Zusammen",
-        "pt-br": "Togético",
+        "fr": "Togetic",
+        "es": "Togetic",
+        "it": "Togetic",
+        "de": "Togetic",
+        "pt-br": "Togetic",
         "zh-tw": "波克基古",
     },
     description: {

@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Wartortle",
-        "fr": "Tortue Wartorle",
-        "es": "Tortuga de guerra",
+        "fr": "Carabaffe",
+        "es": "Wartortle",
         "it": "Wartortle",
-        "de": "Warschildkröte",
+        "de": "Schillok",
         "pt-br": "Wartortle",
-        "zh-tw": "疣龜"
+        "zh-tw": "卡咪龜"
     },
     description: {
         en: "It crushes its foe under its heavy body to cause\nfainting. In a pinch, it will withdraw inside its shell.",

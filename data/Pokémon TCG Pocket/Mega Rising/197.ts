@@ -27,10 +27,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Swablu",
-        "fr": "Swablu",
-        "es": "swablu",
+        "fr": "Tylton",
+        "es": "Swablu",
         "it": "Swablu",
-        "de": "Schwablu",
+        "de": "Wablu",
         "pt-br": "Swablu",
         "zh-tw": "青綿鳥",
     },

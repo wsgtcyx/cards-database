@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Cherubi",
-        "fr": "Chérubin",
-        "es": "querubín",
-        "it": "Cherubini",
-        "de": "Cherubi",
-        "pt-br": "Querubim",
-        "zh-tw": "切魯比"
+        "fr": "Ceribou",
+        "es": "Cherubi",
+        "it": "Cherubi",
+        "de": "Kikugi",
+        "pt-br": "Cherubi",
+        "zh-tw": "櫻花寶"
     },
     description: {
         en: "After absorbing plenty of sunlight, Cherrim takes\nthis form. It's full of energy while it's like this,\nand its liveliness will go on until sundown.",

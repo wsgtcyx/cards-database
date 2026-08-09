@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Exeggcute",
-        "fr": "Oeuf mignon",
+        "fr": "Noeunoeuf",
         "es": "Exeggcute",
         "it": "Exeggcute",
-        "de": "Exeggcute",
+        "de": "Owei",
         "pt-br": "Exeggcute",
-        "zh-tw": "蛋蛋可愛"
+        "zh-tw": "蛋蛋"
     },
     description: {
         en: "Blazing sunlight has brought out the true\nform and powers of this Pokémon.",

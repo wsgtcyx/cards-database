@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Spewpa",
-        "fr": "Spewpa",
-        "es": "spewpa",
+        "fr": "Pérégrain",
+        "es": "Spewpa",
         "it": "Spewpa",
-        "de": "Spewpa",
+        "de": "Puponcho",
         "pt-br": "Spewpa",
-        "zh-tw": "斯佩帕"
+        "zh-tw": "粉蝶蛹"
     },
     description: {
         en: "This Pokémon was born in a land where flowers\nbloom. It scatters colorful, toxic scales from its\nwings during battle.",

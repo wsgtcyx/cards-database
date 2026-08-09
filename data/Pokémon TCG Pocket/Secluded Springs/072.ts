@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Feebas",
-        "fr": "Frais",
+        "fr": "Barpau",
         "es": "Feebas",
         "it": "Feebas",
-        "de": "Feebas",
+        "de": "Barschwa",
         "pt-br": "Feebas",
-        "zh-tw": "笨笨魚",
+        "zh-tw": "醜醜魚",
     },
     description: {
         en: "Milotic has provided inspiration to many artists.\nIt has even been referred to as the most\nbeautiful Pokémon of all.",

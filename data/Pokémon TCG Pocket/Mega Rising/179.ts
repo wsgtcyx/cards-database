@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Dragon"],
     evolveFrom: {
         en: "Sliggoo",
-        "fr": "Sliggoo",
+        "fr": "Colimucus",
         "es": "Sliggoo",
-        "it": "Sligoo",
-        "de": "Sliggoo",
+        "it": "Sliggoo",
+        "de": "Viscargot",
         "pt-br": "Sliggoo",
-        "zh-tw": "黏美伊兒",
+        "zh-tw": "黏美兒",
     },
     description: {
         en: "This Pokémon is uncontrollable when enraged.\nIt rampages on and on, lashing its tail with\nenough power to send a dump truck flying.",

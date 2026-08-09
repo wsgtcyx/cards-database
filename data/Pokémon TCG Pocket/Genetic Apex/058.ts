@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Psyduck",
-        "fr": "Psycanard",
+        "fr": "Psykokwak",
         "es": "Psyduck",
         "it": "Psyduck",
-        "de": "Psyduck",
-        "pt-br": "Psicoduck",
-        "zh-tw": "迷幻鴨"
+        "de": "Enton",
+        "pt-br": "Psyduck",
+        "zh-tw": "可達鴨"
     },
     attacks: [{
             cost: ["Water", "Water"],

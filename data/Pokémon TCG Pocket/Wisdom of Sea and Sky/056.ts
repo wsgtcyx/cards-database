@@ -27,7 +27,7 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Remoraid",
-        "fr": "Remoraid",
+        "fr": "Rémoraid",
         "es": "Remoraid",
         "it": "Remoraid",
         "de": "Remoraid",

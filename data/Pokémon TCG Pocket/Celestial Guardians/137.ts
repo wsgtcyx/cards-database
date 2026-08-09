@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Colorless"],
     evolveFrom: {
         en: "Yungoos",
-        "fr": "Yungoos",
+        "fr": "Manglouton",
         "es": "Yungoos",
         "it": "Yungoos",
-        "de": "Jungoos",
+        "de": "Mangunior",
         "pt-br": "Yungoos",
         "zh-tw": "貓鼬少",
     },

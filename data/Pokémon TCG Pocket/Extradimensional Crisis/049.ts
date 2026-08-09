@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Aron",
-        "fr": "Aron",
-        "es": "aron",
+        "fr": "Galekid",
+        "es": "Aron",
         "it": "Aron",
-        "de": "Aron",
-        "pt-br": "Arão",
+        "de": "Stollunior",
+        "pt-br": "Aron",
         "zh-tw": "可可多拉",
     },
     description: {

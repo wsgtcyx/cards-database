@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Magnemite",
-        "fr": "Magnétie",
-        "es": "magnemita",
+        "fr": "Magnéti",
+        "es": "Magnemite",
         "it": "Magnemite",
-        "de": "Magnemit",
+        "de": "Magnetilo",
         "pt-br": "Magnemite",
-        "zh-tw": "磁鐵礦"
+        "zh-tw": "小磁怪"
     },
     abilities: [{
             type: "Ability",

@@ -29,10 +29,10 @@ const card: Card = {
     evolveFrom: {
         en: "Spoink",
         "fr": "Spoink",
-        "es": "hablar",
+        "es": "Spoink",
         "it": "Spoink",
         "de": "Spoink",
-        "pt-br": "Esponja",
+        "pt-br": "Spoink",
         "zh-tw": "跳跳豬",
     },
     description: {

@@ -61,7 +61,7 @@ const card: Card = {
                 "es": "Los ataques utilizados por tu Pokémon {F} hacen +20 de daño al Pokémon Activo de tu rival.",
                 "it": "Gli attacchi usati dai tuoi Pokémon {F} infliggono +20 danni al Pokémon attivo del tuo avversario.",
                 "de": "Angriffe deines {F}-Pokémon fügen dem Aktiven Pokémon deines Gegners +20 Schaden zu.",
-                "pt-br": "Os ataques usados ​​pelos seus Pokémon {F} causam +20 de dano ao Pokémon Ativo do seu oponente.",
+                "pt-br": "Os ataques usados pelos seus Pokémon {F} causam +20 de dano ao Pokémon Ativo do seu oponente.",
                 "zh-tw": "你的{F}神奇寶貝使用的攻擊對對手的活躍神奇寶貝造成+20傷害。"
             }
         }],

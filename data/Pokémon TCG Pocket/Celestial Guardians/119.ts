@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Metal"],
     evolveFrom: {
         en: "Drilbur",
-        "fr": "Foreur",
-        "es": "taladro",
+        "fr": "Rototaupe",
+        "es": "Drilbur",
         "it": "Drilbur",
-        "de": "Drilbur",
+        "de": "Rotomurf",
         "pt-br": "Drilbur",
         "zh-tw": "螺釘地鼠",
     },

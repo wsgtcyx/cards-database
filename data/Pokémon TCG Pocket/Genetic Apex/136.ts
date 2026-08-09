@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Golett",
-        "fr": "Golett",
-        "es": "golet",
+        "fr": "Gringolem",
+        "es": "Golett",
         "it": "Golett",
-        "de": "Golett",
+        "de": "Golbit",
         "pt-br": "Golett",
-        "zh-tw": "戈萊特"
+        "zh-tw": "泥偶小人"
     },
     attacks: [{
             cost: ["Psychic", "Psychic", "Colorless", "Colorless"],

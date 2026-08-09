@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Marshtomp",
-        "fr": "Marais",
+        "fr": "Flobio",
         "es": "Marshtomp",
         "it": "Marshtomp",
-        "de": "Marshtomp",
+        "de": "Moorabbel",
         "pt-br": "Marshtomp",
-        "zh-tw": "馬什托姆普"
+        "zh-tw": "沼躍魚"
     },
     description: {
         en: "Swampert's arms are rock-hard. With one swing,\nthey can batter down Swampert's foes. This\nPokémon makes its nest on beautiful beaches.",

@@ -52,7 +52,7 @@ const card: Card = {
             cost: ["Darkness", "Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",
-                fr: "Si le Pokémon Actif de votre adversaire est affecté\npar un État Spécial, cette attaque inflige 60 dégâts\nsupplémentaires.",
+                fr: "Si le Pokémon Actif de votre adversaire est affecté par un État Spécial, cette attaque inflige 60 dégâts supplémentaires.",
                 es: "Si el Pokémon Activo de tu rival se ve afectado por una Condición Especial, este ataque hace 60 puntos de daño más.",
                 it: "Se il Pokémon attivo del tuo avversario è influenzato da una condizione speciale, questo attacco infligge 60 danni in più.",
                 de: "Wenn das Aktive Pokémon deines Gegners von einem Speziellen Zustand betroffen ist, fügt diese Attacke 60 Schadenspunkte mehr zu.",

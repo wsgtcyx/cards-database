@@ -28,12 +28,12 @@ const card: Card = {
     stage: "Stage1",
     evolveFrom: {
         en: "Venonat",
-        "fr": "Venonat",
+        "fr": "Mimitoss",
         "es": "Venonat",
         "it": "Venonat",
-        "de": "Venonat",
+        "de": "Bluzuk",
         "pt-br": "Venonat",
-        "zh-tw": "維諾納特"
+        "zh-tw": "毛球"
     },
     attacks: [{
             cost: ["Grass"],

@@ -28,10 +28,10 @@ const card: Card = {
     types: ["Fighting"],
     evolveFrom: {
         en: "Cranidos",
-        "fr": "Cranidos",
-        "es": "Cránidos",
+        "fr": "Kranidos",
+        "es": "Cranidos",
         "it": "Cranidos",
-        "de": "Cranidos",
+        "de": "Koknodon",
         "pt-br": "Cranidos",
         "zh-tw": "頭蓋龍",
     },

@@ -27,12 +27,12 @@ const card: Card = {
     types: ["Water"],
     evolveFrom: {
         en: "Omanyte",
-        "fr": "Omanyte",
-        "es": "Omanita",
+        "fr": "Amonita",
+        "es": "Omanyte",
         "it": "Omanyte",
-        "de": "Omanyte",
-        "pt-br": "Omanita",
-        "zh-tw": "阿曼人"
+        "de": "Amonitas",
+        "pt-br": "Omanyte",
+        "zh-tw": "菊石獸"
     },
     description: {
         en: "Weighed down by a large and heavy shell,\nOmastar couldn't move very fast. Some say it\nwent extinct because it was unable to catch food.",

@@ -28,12 +28,12 @@ const card: Card = {
     types: ["Psychic"],
     evolveFrom: {
         en: "Duskull",
-        "fr": "Crâne crépusculaire",
-        "es": "cráneo oscuro",
-        "it": "Teschio crepuscolare",
-        "de": "Dämmerung",
-        "pt-br": "Crepúsculo",
-        "zh-tw": "夜骷顱",
+        "fr": "Skelénox",
+        "es": "Duskull",
+        "it": "Duskull",
+        "de": "Zwirrlicht",
+        "pt-br": "Duskull",
+        "zh-tw": "夜巡靈",
     },
     description: {
         en: "It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.",

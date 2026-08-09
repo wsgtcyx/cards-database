@@ -27,7 +27,7 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Ledyba",
-        "fr": "Lédyba",
+        "fr": "Coxy",
         "es": "Ledyba",
         "it": "Ledyba",
         "de": "Ledyba",

@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Gloom",
-        "fr": "Obscurité",
-        "es": "Oscuridad",
-        "it": "Tristezza",
-        "de": "Düsternis",
-        "pt-br": "Melancolia",
+        "fr": "Ortide",
+        "es": "Gloom",
+        "it": "Gloom",
+        "de": "Duflor",
+        "pt-br": "Gloom",
         "zh-tw": "臭臭花",
     },
     description: {

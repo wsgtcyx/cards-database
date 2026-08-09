@@ -27,11 +27,11 @@ const card: Card = {
     types: ["Grass"],
     evolveFrom: {
         en: "Cherubi",
-        "fr": "Chérubin",
-        "es": "querubín",
-        "it": "Cherubini",
-        "de": "Cherubi",
-        "pt-br": "Querubim",
+        "fr": "Ceribou",
+        "es": "Cherubi",
+        "it": "Cherubi",
+        "de": "Kikugi",
+        "pt-br": "Cherubi",
         "zh-tw": "櫻花寶",
     },
     description: {

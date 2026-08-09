@@ -1,8 +1,6 @@
 import { Card } from "../../../interfaces";
 import Set from "../Promos-B";
 
-const englishEffect = "Flip 3 coins. This attack does 80 damage for each heads.";
-
 const card: Card = {
     set: Set,
     image: {
@@ -36,11 +34,11 @@ const card: Card = {
             "pt-br": "Chama Malévola", "zh-tw": "地獄犬閃焰"
         },
         effect: {
-            en: englishEffect,
+            en: "Flip 3 coins. This attack does 80 damage for each heads.",
             fr: "Lancez 3 pièces. Cette attaque inflige 80 dégâts pour chaque côté face.",
             es: "Lanza 3 monedas. Este ataque hace 80 puntos de daño por cada cara.",
-            it: englishEffect,
-            de: englishEffect,
+            it: "Flip 3 coins. This attack does 80 damage for each heads.",
+            de: "Flip 3 coins. This attack does 80 damage for each heads.",
             "pt-br": "Jogue 3 moedas. Este ataque causa 80 pontos de dano para cada cara.",
             "zh-tw": "擲3次硬幣，造成正面出現的次數×80點傷害。"
         },
