@@ -12,6 +12,6 @@ get {
 
 assert {
   res.status: eq 400
-  res.headers.content-type: contains application/problem+json
+  res.headers["content-type"]: contains application/problem+json
   res.body.status: eq 400
 }
