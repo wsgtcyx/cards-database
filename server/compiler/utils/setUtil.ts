@@ -2,7 +2,7 @@ import { objectKeys, objectMap } from '@dzeio/object-util'
 import { Card, Set, SupportedLanguages } from '../../../interfaces'
 import { SetResume, Set as SetSingle } from '../../../meta/definitions/api'
 import { cardToCardSimple, getCards } from './cardUtil'
-import { DB_PATH, fetchRemoteFile, getDataFolder, resolveText, setIsLegal, smartGlob } from './util'
+import { DB_PATH, fetchRemoteFile, getDataFolder, resolveText, smartGlob } from './util'
 import path from 'node:path'
 
 
@@ -80,42 +80,16 @@ export async function setToSetSimple(set: Set, lang: SupportedLanguages): Promis
 	}
 }
 
-function getVariantCountForType(card: Card, type: 'normal' | 'reverse' | 'holo' | 'firstEdition'): number {
-	if( card.variants === undefined || card.variants === null) {
-		return 0;
-	}
-
-	if (!Array.isArray(card.variants)) {
-		return card.variants[type] ? 1 : 0;
-	}
-
-	if (type === 'firstEdition') {
-		return card.variants.reduce((count, variant) =>
-			count + (variant.stamp?.some((stamp) => stamp === '1st edition') ? 1 : 0), 0);
-	}
-
-	return card.variants.reduce((count, variant) => count + (variant.type === type ? 1 : 0), 0);
-}
-
-
 export async function setToSetSingle(set: Set, lang: SupportedLanguages): Promise<SetSingle> {
 	const cards = await getCards(lang, set)
 	const pics = await getSetPictures(set, lang)
 	return {
 		cardCount: {
-			firstEd: cards.reduce((count, card) => count + getVariantCountForType(card[1],"firstEdition"), 0),
-			holo: cards.reduce((count, card) => count + getVariantCountForType(card[1],"holo"), 0),
-			normal: cards.reduce((count, card) => count + getVariantCountForType(card[1],"normal"), 0),
 			official: set.cardCount.official,
-			reverse: cards.reduce((count, card) => count + getVariantCountForType(card[1],"reverse"), 0),
 			total: Math.max(set.cardCount.official, cards.length)
 		},
 		cards: await Promise.all(cards.map(([id, card]) => cardToCardSimple(id, card, lang))),
 		id: set.id,
-		legal: {
-			expanded: setIsLegal('expanded', set),
-			standard: setIsLegal('standard', set)
-		},
 		logo: pics[0],
 		name: resolveText(set.name, lang),
 		releaseDate: typeof set.releaseDate === 'object' ? set.releaseDate[lang] ?? set.releaseDate[objectKeys(set.releaseDate)[0]]! : set.releaseDate,
@@ -135,7 +109,6 @@ export async function setToSetSingle(set: Set, lang: SupportedLanguages): Promis
 			logo: booster.logo ? resolveText(booster.logo, lang) : undefined,
 			artwork_front: booster.artwork_front ? resolveText(booster.artwork_front, lang) : undefined,
 			artwork_back: booster.artwork_back ? resolveText(booster.artwork_back, lang) : undefined,
-		})) : undefined,
-		thirdParty: set.thirdParty
+		})) : undefined
 	}
 }

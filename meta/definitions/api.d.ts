@@ -49,21 +49,6 @@ export interface Serie extends SerieResume {
 	sets: Array<SetResume>;
 }
 
-interface variants {
-	normal?: boolean;
-	reverse?: boolean;
-	holo?: boolean;
-	firstEdition?: boolean;
-	wPromo?: boolean
-}
-
-interface variant_detailed {
-	type: string
-	size?: string
-	stamp?: Array<string>
-	foil?: string
-}
-
 export interface SetResume {
 	id: string;
 	name: string;
@@ -87,29 +72,12 @@ export interface SetResume {
 export interface Set extends SetResume {
 	serie: SerieResume;
 	tcgOnline?: string;
-	variants?: variants;
 	releaseDate: string;
 
 	/**
 	 * The boosters available in this set
 	 */
 	boosters?: Array<Booster>
-	/**
-	 * Designate if the set is usable in tournaments
-	 *
-	 * Note: this is specific to the set and if a
-	 * card is banned from the set it will still be true
-	 */
-	legal: {
-		/**
-		 * Ability to play in standard tournaments
-		 */
-		standard: boolean;
-		/**
-		 * Ability to play in expanded tournaments
-		 */
-		expanded: boolean;
-	};
 	cardCount: {
 		/**
 		 * total of number of cards
@@ -119,29 +87,9 @@ export interface Set extends SetResume {
 		 * number of cards officialy (on the bottom of each cards)
 		 */
 		official: number;
-		/**
-		 * number of cards having a normal version
-		 */
-		normal: number;
-		/**
-		 * number of cards having an reverse version
-		 */
-		reverse: number;
-		/**
-		 * number of cards having an holo version
-		 */
-		holo: number;
-		/**
-		 * Number of possible cards
-		 */
-		firstEd?: number;
 	};
 	cards: Array<CardResume>;
 	abbreviation: { official: string, localized: string };
-	thirdParty?: {
-		cardmarket?: number
-		tcgplayer?: number
-	}
 }
 export interface CardResume {
 	id: string;
@@ -209,10 +157,6 @@ export interface CardCatalogSearchOptions {
  * /sets/:set/:localId
  */
 export interface Card extends CardResume {
-	thirdParty?: {
-		cardmarket?: number
-		tcgplayer?: number
-	}
 	/**
 	 * Card illustrator
 	 */
@@ -236,23 +180,6 @@ export interface Card extends CardResume {
 	 * - Energy
 	 */
 	category: string;
-	/**
-	 * Card Variants (Override Set Variants)
-	 * To be deprecated in V3
-	 */
-	variants?: variants;
-
-	/**
-	 * Card Variants Detailed
-	 *
-	 * - type: the type of variant (normal, reverse, holo, etc)
-	 * - size: the size of the variant (normal, jumbo, etc)
-	 * - stamp: the stamps of the variant (ex: 'Staff', 'Pre-release', etc)
-	 * - foil: the foil of the variant (ex: 'Holo', 'Reverse Holo', etc)
-
-	 */
-	variants_detailed?: Array<variant_detailed>;
-
 	/**
 	 * Card Set
 	 */
@@ -363,22 +290,6 @@ export interface Card extends CardResume {
 	 * Define the rotation mark on cards >= Sword & Shield
 	 */
 	regulationMark?: string;
-	/**
-	 * Card ability to be played in official tournaments
-	 *
-	 * Note: all cards are avaialable to play in unlimited tournaments
-	 */
-	legal: {
-		/**
-		 * Ability to play in standard tournaments
-		 */
-		standard: boolean;
-		/**
-		 * Ability to play in expanded tournaments
-		 */
-		expanded: boolean;
-	}
-
 	/**
 	 * the boosters in which the card is available
 	 */

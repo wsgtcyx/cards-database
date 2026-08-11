@@ -41,15 +41,6 @@ We currently officially support theses SDKs
 - [PHP SDK](https://github.com/tcgdex/php-sdk)
 - [Java SDK](https://github.com/tcgdex/java-sdk)
 
-## Status
-
-We are making sure to make every cards available for every languages they were available !
-
-[![TCGdex Progress](https://api.tcgdex.net/status/github.svg)](https://api.tcgdex.net/status)
-
-_want to help translating? each object fields on cards that have at least en,fr,es,de,it or pt can have the others!,_
-_Also we have another translation files located at `meta/translations`_
-
 ## Sponsors 💕
 
 _[Support us as a sponsor](https://github.com/sponsors/tcgdex) and have your logo featured on our GitHub README, complete with a link to your website._

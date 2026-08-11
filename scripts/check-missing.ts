@@ -5,7 +5,7 @@ import { objectGet } from '@dzeio/object-util'
 import { extractFile } from './utils/ts-extract-utils'
 
 /**
- * Example usage : `bun meta/scripts/check-missing.ts "data/*\/*\/*.ts" thirdParty.cardmarket`
+ * Example usage: `bun scripts/check-missing.ts "data/*\/*\/*.ts" illustrator`
  */
 
 // Get CLI arguments

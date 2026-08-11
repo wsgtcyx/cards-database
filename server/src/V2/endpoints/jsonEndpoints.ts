@@ -1,388 +1,87 @@
-import { objectKeys } from '@dzeio/object-util'
-import type { Card as SDKCard } from '@tcgdex/sdk'
 import apicache from 'apicache'
-import express, { type Request } from 'express'
+import express, { type Request, type Response } from 'express'
 import { Errors, sendError } from '../../libs/Errors'
-import type { Query } from '../../libs/QueryEngine/filter'
-import { recordToQuery } from '../../libs/QueryEngine/parsers'
-import { betterSorter, checkLanguage, unique } from '../../util'
-import { getAllCards, findOneCard, findCards, toBrief, getCardById, getCompiledCard } from '../Components/Card'
-import { findOneSet, findSets, setToBrief } from '../Components/Set'
-import { findOneSerie, findSeries, serieToBrief } from '../Components/Serie'
-import { listSKUs } from '../../libs/providers/tcgplayer'
+import { checkLanguage } from '../../util'
+import { getAllCards, getCardById, toBrief } from '../Components/Card'
+import { findOneSerie } from '../Components/Serie'
+import { findOneSet } from '../Components/Set'
 import { CatalogSearchValidationError, getCardRelations, getCatalogSearchOptions, searchCatalogCards } from '../Components/CardSearch'
 
-type CustomRequest = Request & {
-	/**
-	 * disable caching
-	 */
-	DO_NOT_CACHE?: boolean
-	advQuery?: Query
-}
-
+type CustomRequest = Request & { DO_NOT_CACHE?: boolean }
 const server = express.Router()
 
-const endpointToField: Record<string, keyof SDKCard> = {
-	categories: 'category',
-	'energy-types': 'energyType',
-	hp: 'hp',
-	illustrators: 'illustrator',
-	rarities: 'rarity',
-	'regulation-marks': 'regulationMark',
-	retreats: 'retreat',
-	stages: "stage",
-	suffixes: "suffix",
-	"trainer-types": "trainerType",
+server.use(apicache.middleware('1 day', (req: CustomRequest, res: Response) => !req.DO_NOT_CACHE
+	&& !req.path.endsWith('/cards/search')
+	&& res.statusCode < 400
+	&& process.env.NODE_ENV === 'production'
+	&& req.method === 'GET', {}))
 
-	// fields that need special care
-	'dex-ids': 'dexId',
-	sets: "set",
-	types: "types",
-	variants: "variants",
-}
+server.get('/:lang/cards/search/options', (req, res) => {
+	const { lang } = req.params
+	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
+	if (Object.keys(req.query).length > 0) {
+		return res.type('application/problem+json').status(400).json({
+			type: 'https://tcgdex.dev/errors/catalog-search-invalid',
+			title: 'Invalid card catalog search parameters', status: 400,
+			detail: 'search options does not accept query parameters', endpoint: req.url, method: req.method,
+		}).end()
+	}
+	res.json(getCatalogSearchOptions(lang))
+})
 
-server
-	// Midleware that handle caching only in production and on GET requests
-	.use(apicache.middleware('1 day', (req: CustomRequest, res: Response) => !req.DO_NOT_CACHE
-		&& !req.path.endsWith('/cards/search')
-		&& res.status < 400
-		&& process.env.NODE_ENV === 'production'
-		&& req.method === 'GET', {}))
+server.get('/:lang/cards/search', (req: CustomRequest, res) => {
+	const { lang } = req.params
+	req.DO_NOT_CACHE = true
+	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
+	try {
+		res.json(searchCatalogCards(lang, req.query))
+	} catch (error) {
+		if (!(error instanceof CatalogSearchValidationError)) throw error
+		res.type('application/problem+json').status(400).json({
+			type: 'https://tcgdex.dev/errors/catalog-search-invalid',
+			title: 'Invalid card catalog search parameters', status: 400,
+			detail: error.details.join('; '), endpoint: req.url, method: req.method,
+		}).end()
+	}
+})
 
-	// .get('/cache/performance', (req, res) => {
-	// 	res.json(apicache.getPerformance())
-	// })
+server.get('/:lang/cards/:cardId/relations', (req, res) => {
+	const { lang, cardId } = req.params
+	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
+	const relations = getCardRelations(lang, cardId)
+	if (!relations) return sendError(Errors.NOT_FOUND, res, { details: `Card ${cardId} not found` })
+	res.json(relations)
+})
 
-	// // add route to display cache index
-	// .get('/cache/index', (req, res) => {
-	// 	res.json(apicache.getIndex())
-	// })
+server.get('/:lang/cards', async (req, res) => {
+	const { lang } = req.params
+	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
+	if (Object.keys(req.query).length > 0) return sendError(Errors.NOT_FOUND, res)
+	res.json((await getAllCards(lang)).map(toBrief))
+})
 
-	// Midleware that handle url transformation
-	.use((req: CustomRequest, _, next) => {
-		// this is ugly BUT it fix the problem with + not becoming spaces
-		req.url = req.url.replace(/\+/g, ' ')
-		next()
-	})
+server.get('/:lang/cards/:id', async (req, res) => {
+	const { lang, id } = req.params
+	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
+	const card = await getCardById(lang, id.toLowerCase())
+	if (!card) return sendError(Errors.NOT_FOUND, res)
+	res.json(card)
+})
 
-	// handle Query builder
-	.use((req: CustomRequest, _, next) => {
-		// handle no query
-		if (!req.query) {
-			next()
-			return
-		}
+server.get('/:lang/sets/:id', async (req, res) => {
+	const { lang, id } = req.params
+	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
+	const set = await findOneSet(lang, { id: id.toLowerCase() })
+	if (!set) return sendError(Errors.NOT_FOUND, res)
+	res.json(set)
+})
 
-		req.advQuery = recordToQuery(req.query as Record<string, string | Array<string>>)
-
-		next()
-	})
-
-	/**
-	 * Allows the user to fetch a random card/set/serie from the database
-	 */
-	.get('/:lang/random/:what', async (req: CustomRequest, res): Promise<void> => {
-		const { lang, what } = req.params
-
-		if (!checkLanguage(lang)) {
-			sendError(Errors.LANGUAGE_INVALID, res, { lang })
-			return
-		}
-
-		// biome-ignore lint/style/noNonNullAssertion: <explanation>
-		const query: Query = req.advQuery!
-
-		let data: Array<SDKCard | any> = []
-		switch (what.toLowerCase()) {
-			case 'card':
-				data = await findCards(lang, query)
-				break
-			case 'set':
-				data = await findSets(lang, query)
-				break
-			case 'serie':
-				data = await findSeries(lang, query)
-				break
-			default:
-				sendError(Errors.NOT_FOUND, res, { details: `You can only run random requests on "card", "set" or "serie" while you did on "${what}"` })
-				return
-		}
-		const item = Math.min(data.length - 1, Math.max(0, Math.round(Math.random() * data.length)))
-		req.DO_NOT_CACHE = true
-		res.json(data[item])
-	})
-
-	/**
-	 * Facets used by card catalog filters. Values stay canonical while labels
-	 * follow the requested language.
-	 */
-	.get('/:lang/cards/search/options', (req: CustomRequest, res): void => {
-		const { lang } = req.params
-		if (!checkLanguage(lang)) {
-			sendError(Errors.LANGUAGE_INVALID, res, { lang })
-			return
-		}
-		if (Object.keys(req.query).length > 0) {
-			res.type('application/problem+json').status(400).json({
-				type: 'https://tcgdex.dev/errors/catalog-search-invalid',
-				title: 'Invalid card catalog search parameters',
-				status: 400,
-				detail: 'search options does not accept query parameters',
-				endpoint: req.url,
-				method: req.method,
-			}).end()
-			return
-		}
-		res.json(getCatalogSearchOptions(lang))
-	})
-
-	/**
-	 * Purpose-built card catalog search. It avoids third-party pricing calls and
-	 * supports nested gameplay fields that the generic query engine cannot filter.
-	 */
-	.get('/:lang/cards/search', (req: CustomRequest, res): void => {
-		const { lang } = req.params
-		req.DO_NOT_CACHE = true
-		if (!checkLanguage(lang)) {
-			sendError(Errors.LANGUAGE_INVALID, res, { lang })
-			return
-		}
-		try {
-			res.json(searchCatalogCards(lang, req.query))
-		} catch (error) {
-			if (error instanceof CatalogSearchValidationError) {
-				res.type('application/problem+json').status(400).json({
-					type: 'https://tcgdex.dev/errors/catalog-search-invalid',
-					title: 'Invalid card catalog search parameters',
-					status: 400,
-					detail: error.details.join('; '),
-					endpoint: req.url,
-					method: req.method,
-				}).end()
-				return
-			}
-			throw error
-		}
-	})
-
-	.get('/:lang/cards/:cardId/relations', (req: CustomRequest, res): void => {
-		const { lang, cardId } = req.params
-		if (!checkLanguage(lang)) {
-			sendError(Errors.LANGUAGE_INVALID, res, { lang })
-			return
-		}
-		const relations = getCardRelations(lang, cardId)
-		if (!relations) {
-			sendError(Errors.NOT_FOUND, res, { details: `Card ${cardId} not found` })
-			return
-		}
-		res.json(relations)
-	})
-
-
-	/**
-	 * Listing Endpoint
-	 * ex: /v2/en/cards
-	 */
-	.get('/:lang/:endpoint', async (req: CustomRequest, res): Promise<void> => {
-		let { lang, endpoint } = req.params
-
-		const query: Query = req.advQuery ?? {}
-
-		if (endpoint.endsWith('.json')) {
-			endpoint = endpoint.replace('.json', '')
-		}
-
-		if (!checkLanguage(lang)) {
-			sendError(Errors.LANGUAGE_INVALID, res, { lang })
-			return
-		}
-
-		let result: unknown
-
-		switch (endpoint) {
-			case 'cards': {
-				if ('set' in query) {
-					const tmp = query.set
-					delete query.set
-					query.$or = [{
-						'set.id': tmp
-					}, {
-						'set.name': tmp
-					}]
-				}
-				result = (await findCards(lang, query))
-					.map(toBrief)
-				break
-			}
-
-			case 'sets': {
-				if ('serie' in query) {
-					const tmp = query.serie
-					delete query.serie
-					query.$or = [{
-						'serie.id': tmp
-					}, {
-						'serie.name': tmp
-					}]
-				}
-				result = (await findSets(lang, query)).map(setToBrief)
-				break
-			}
-			case 'series':
-				result = (await findSeries(lang, query))
-					.map(serieToBrief)
-				break
-			case 'categories':
-			case "energy-types":
-			case "hp":
-			case "illustrators":
-			case "rarities":
-			case "regulation-marks":
-			case "retreats":
-			case "stages":
-			case "suffixes":
-			case "trainer-types":
-				result = unique(
-					(await getAllCards(lang))
-						.map((c) => c[endpointToField[endpoint]] as string)
-						.filter((c) => c)
-				).sort(betterSorter)
-				break
-			case "types":
-			case "dex-ids":
-				result = unique(
-					(await getAllCards(lang))
-						.map((c) => c[endpointToField[endpoint]] as Array<string>)
-						.filter((c) => c)
-						.reduce((p, c) => [...p, ...c], [] as Array<string>)
-				).sort(betterSorter)
-				break
-			case "variants":
-				result = unique(
-					(await getAllCards(lang))
-						.map((c) => objectKeys(c.variants ?? {}) as Array<string>)
-						.filter((c) => c)
-						.reduce((p, c) => [...p, ...c], [] as Array<string>)
-				).sort()
-				break
-			default:
-				sendError(Errors.NOT_FOUND, res, { endpoint })
-				return
-		}
-
-		if (!result) {
-			sendError(Errors.NOT_FOUND, res)
-		}
-		res.json(result)
-	})
-
-	/**
-	 * Listing Endpoint
-	 * ex: /v2/en/cards/base1-1
-	 */
-	.get('/:lang/:endpoint/:id', async (req: CustomRequest, res) => {
-		// console.time('request')
-		let { id, lang, endpoint } = req.params
-
-		if (id.endsWith('.json')) {
-			id = id.replace('.json', '')
-		}
-
-		id = id.toLowerCase()
-
-		if (!checkLanguage(lang)) {
-			return sendError(Errors.LANGUAGE_INVALID, res, { lang })
-		}
-
-		let result: unknown
-		switch (endpoint) {
-			case 'cards':
-				// console.time('card')
-				result = await getCardById(lang, id)
-				if (!result) {
-					result = await findOneCard(lang, { name: id })
-				}
-				// console.timeEnd('card')
-				break
-
-			case 'sets':
-				result = await findOneSet(lang, { id })
-				if (!result) {
-					result = await findOneSet(lang, { name: id })
-				}
-				break
-
-			case 'series':
-				result = await findOneSerie(lang, { id })
-				if (!result) {
-					result = await findOneSerie(lang, { name: id })
-				}
-				break
-			case 'dex-ids': {
-				result = {
-					name: parseInt(id, 10),
-					// @ts-expect-error current behavior is normal
-					cards: (await findCards(lang, { dexId: { $eq: parseInt(id, 10) }}))
-						.map(toBrief)
-				}
-				break
-			}
-			default:
-				if (!endpointToField[endpoint]) {
-					break
-				}
-				result = {
-					name: id,
-					cards: (await findCards(lang, { [endpointToField[endpoint]]: id }))
-						.map(toBrief)
-				}
-		}
-
-		// console.timeEnd('request')
-		if (!result) {
-			sendError(Errors.NOT_FOUND, res)
-			return
-		}
-		return res.send(result)
-
-	})
-
-	/**
-	 * sub id Endpoint (for the set endpoint only currently)
-	 * ex: /v2/en/sets/base1/1
-	 */
-	.get('/:lang/:endpoint/:id/:subid', async (req: CustomRequest, res) => {
-		let { id, lang, endpoint, subid } = req.params
-
-		if (subid.endsWith('.json')) {
-			subid = subid.replace('.json', '')
-		}
-
-		id = id.toLowerCase()
-		subid = subid.toLowerCase()
-
-		if (!checkLanguage(lang)) {
-			return sendError(Errors.LANGUAGE_INVALID, res, { lang })
-		}
-
-		let result: unknown
-		switch (endpoint) {
-			case 'cards':
-				if (subid === 'skus') {
-					result = await listSKUs(getCompiledCard(lang, id))
-				}
-				break
-			case 'sets':
-				// allow the dev to use a non prefixed value like `10` instead of `010` for newer sets
-				// @ts-expect-error normal behavior until the filtering is more fiable
-				result = await findOneCard(lang, { localId: { $or: [subid.padStart(3, '0'), subid] }, $or: [{ 'set.id': id }, { 'set.name': id }] })
-				break
-		}
-		if (!result) {
-			return sendError(Errors.NOT_FOUND, res)
-		}
-		return res.send(result)
-	})
+server.get('/:lang/series/tcgp', async (req, res) => {
+	const { lang } = req.params
+	if (!checkLanguage(lang)) return sendError(Errors.LANGUAGE_INVALID, res, { lang })
+	const serie = await findOneSerie(lang, { id: 'tcgp' })
+	if (!serie) return sendError(Errors.NOT_FOUND, res)
+	res.json(serie)
+})
 
 export default server

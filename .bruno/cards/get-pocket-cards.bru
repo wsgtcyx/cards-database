@@ -1,10 +1,10 @@
 meta {
-  name: 467 - Validate that we can run OPTIONS
+  name: Get Pocket cards
   type: http
-  seq: 2
+  seq: 1
 }
 
-options {
+get {
   url: {{BASE_URL}}/v2/en/cards
   body: none
   auth: none
@@ -12,4 +12,5 @@ options {
 
 assert {
   res.status: eq 200
+  res.body.length: gt 3000
 }

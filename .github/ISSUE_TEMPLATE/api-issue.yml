@@ -16,7 +16,6 @@ body:
     attributes:
       label: Where are you having the issue
       options:
-        - label: GraphQL
         - label: JSON API
 
   - type: checkboxes
@@ -25,7 +24,7 @@ body:
       label: Is the issue affecting one of the two elements below ?
       options:
         - label: Translations
-        - label: Definitions Files (Open API, GraphQL Schema, etc)
+        - label: OpenAPI definition
 
   - type: textarea
     id: description

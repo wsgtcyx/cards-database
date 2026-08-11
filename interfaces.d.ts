@@ -1,7 +1,5 @@
 export type SupportedLanguages =
-// inter languages
 	'en' | 'fr' | 'es' | 'es-mx' | 'it' | 'pt' | 'pt-br' | 'pt-pt' | 'de' | 'nl' | 'pl' | 'ru' |
-	// Asian languages
 	'ja' | 'ko' | 'zh-tw' | 'id' | 'th' | 'zh-cn'
 
 export type Languages<T = string> = Partial<Record<SupportedLanguages, T>>
@@ -14,82 +12,6 @@ export interface Serie {
 	 * Serie Energy cards
 	 */
 	energies?: Array<Types>
-}
-
-interface variant_detailed {
-	/**
-	 * define the variant type
-	 * - normal: no holographic elements
-	 * - holo: the illustration has a foil
-	 * - reverse: everything but the illustration is foiled
-	 */
-	type: 'normal' | 'holo' | 'reverse' | 'metal'
-
-	/**
-	 * Some older sets had specific subtypes for the cards
-	 * i.e Base Set had shadowless with and without a 1st edition stamp.
-	 * and the Unlimited version of the set had no shadow.
-	 */
-	subtype?: 'shadowless' | 'unlimited'
-	/**
-	 * define the size of the card
-	 * - standard: the classic size of a card
-	 * - jumbo: also said oversized, big card.
-	 */
-	size?: 'standard' | 'jumbo'
-	/**
-	 * indicate that this variant has a stamp
-	 * a card may have multiple stamps, example "Ethan's Typhlosion pre-release staff"
-	 * this was a pre-release card only given to staff and has both the set-logo and the staff stamp.
-	 * - 1st edition: a 1st edition card (mostly for the first series of the game)
-	 * - w-promo:
-	 * - pre-release:
-	 * - pokemon-center: a card that is stamped with the Pokémon Center logo
-	 * - set-promo: a card that is stamped with the set logo
-	 * - staff: a card that is stamped with the staff text
-	 */
-	stamp?: Array<'1st edition' | 'w-promo' | 'pre-release' | 'pokemon-center' | 'set-logo' | 'staff'>
-	/**
-	 * for the holo & reverse, **optional** indicate which foil is used on the card
-	 */
-	foil?: 'pokeball' | 'ultraball' | 'masterball' | 'gold'
-}
-
-interface variants {
-	/**
-	 * Card base version
-	 */
-	normal?: boolean
-	/**
-	 * Holo Reverse
-	 * (colored Background holographic)
-	 */
-	reverse?: boolean
-	/**
-	 * Holo Card
-	 * (illustration holographic)
-	 */
-	holo?: boolean
-
-	/**
-	 * can have a first Edition stamp
-	 */
-	firstEdition?: boolean
-
-	/**
-	 * Can be found in Jumob Format
-	 */
-	jumbo?: boolean
-
-	/**
-	 * Card has a pre-release stamp
-	 */
-	preRelease?: boolean
-
-	/**
-	 * Card has a W stamp
-	 */
-	wPromo?: true
 }
 
 export type Types = 'Colorless' | 'Darkness' | 'Dragon' |
@@ -125,10 +47,6 @@ export interface Set {
 
 	releaseDate: ISODate | Languages<ISODate>
 
-	thirdParty?: {
-		cardmarket?: number
-		tcgplayer?: number
-	}
 }
 
 export interface Card {
@@ -209,11 +127,6 @@ export interface Card {
 	 * - Energy
 	 */
 	category: 'Pokemon' | 'Trainer' | 'Energy'
-
-	/**
-	 * Card Variants (Override Set Variants)
-	 */
-	variants?: variants | Array<variant_detailed>
 
 	/**
 	 * Card Set
@@ -360,41 +273,4 @@ export interface Card {
 	energyType?: 'Normal' | // https://www.tcgdex.net/database/ecard/ecard1/160
 		'Special' // https://www.tcgdex.net/database/ecard/ecard1/158
 
-	thirdParty?: {
-		tcgplayer?: number
-		cardmarket?: number
-	}
-}
-
-/**
- * Filter for cards legality
- */
-export interface Filter {
-	includes: {
-		/**
-		 * series to be included
-		 */
-		series: Array<string>
-		/**
-		 * Set to be included in the filter
-		 * ex: swsh1
-		 */
-		sets: Array<string>
-		/**
-		 * Filter by regulation Marks on the cards
-		 * ex: 'D'
-		 */
-		regulationMark: Array<string>
-	}
-	excludes: {
-		/**
-		 * sets to be excluded
-		 */
-		sets: Array<string>
-		/**
-		 * Global Ids of banned cards
-		 * ex: swsh1-1
-		 */
-		cards: Array<string>
-	}
 }

@@ -1,29 +1,21 @@
 import { objectGet, objectLoop } from '@dzeio/object-util'
-import type { SupportedLanguages } from '@tcgdex/sdk'
 import type { Query } from './interfaces'
 
 export const languages = [
 	'en',
 	'fr',
 	'es',
-	'es-mx',
 	'it',
-	'pt',
 	'pt-br',
-	'pt-pt',
 	'de',
-	'nl',
-	'pl',
-	'ru',
 	'ja',
 	'ko',
 	'zh-tw',
-	'id',
-	'th',
-	'zh-cn'
 ] as const
 
-export function checkLanguage(str: string): str is SupportedLanguages {
+export type PocketLanguage = typeof languages[number]
+
+export function checkLanguage(str: string): str is PocketLanguage {
 	return languages.includes(str as 'en')
 }
 

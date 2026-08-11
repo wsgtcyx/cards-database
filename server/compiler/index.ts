@@ -5,12 +5,10 @@ import { FileFunction } from './compilerInterfaces'
 import cards from './endpoints/cards'
 import series from './endpoints/series'
 import sets from './endpoints/sets'
-import stats from './endpoints/stats'
 import { fetchRemoteFile, loadLastEdits } from './utils/util'
 
 const LANGS: Array<SupportedLanguages> = [
-	'en', 'fr', 'es', 'es-mx', 'it', 'pt', 'pt-br', 'pt-pt', 'de', 'nl', 'pl', 'ru',
-	'ja', 'ko', 'zh-tw', 'id', 'th', 'zh-cn'
+	'en', 'de', 'es', 'fr', 'it', 'pt-br', 'zh-tw', 'ja', 'ko'
 ]
 
 const DIST_FOLDER = './generated'
@@ -18,7 +16,6 @@ const ENDPOINTS: Record<string, FileFunction> = {
 	'cards.ts': cards,
 	'series.ts': series,
 	'sets.ts': sets,
-	'stats.ts': stats,
 }
 
 ;(async () => {
@@ -66,7 +63,7 @@ const ENDPOINTS: Record<string, FileFunction> = {
 			// Run the function
 			console.log('      ', 'Compiling', lang, file)
 			const item = await fn(lang)
-			if (lang === 'en' && Array.isArray(item) && item.length === 0) {
+			if (Array.isArray(item) && item.length === 0) {
 				throw new Error(`Compiler endpoint produced no records: ${lang}/${file}`)
 			}
 

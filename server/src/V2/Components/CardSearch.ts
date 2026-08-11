@@ -1,4 +1,4 @@
-import type { SupportedLanguages } from '@tcgdex/sdk'
+import type { PocketLanguage as SupportedLanguages } from '../../util'
 import { getCompiledCards } from './Card'
 import { getCompiledSets } from './Set'
 

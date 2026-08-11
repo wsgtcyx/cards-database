@@ -1,0 +1,15 @@
+meta {
+  name: Get Pocket card relations
+  type: http
+  seq: 8
+}
+
+get {
+  url: {{BASE_URL}}/v2/en/cards/A1-001/relations
+  body: none
+  auth: none
+}
+
+assert {
+  res.status: eq 200
+}
