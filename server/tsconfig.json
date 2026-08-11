@@ -1,6 +1,6 @@
 {
 	"extends": "./node_modules/@dzeio/config/tsconfig.base.json",
-	"exclude": ["node_modules/**", "**/node_modules/**"],
+	"exclude": ["node_modules/**", "**/node_modules/**", "**/*.test.ts"],
 	"compilerOptions": {
 		"outDir": "dist",
 		"esModuleInterop": true,
