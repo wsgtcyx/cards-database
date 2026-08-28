@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "setId": "B4a",
+  "retrievedAt": "2026-08-28T01:47:18.000Z",
+  "officialAnnouncement": {
+    "role": "set identity, English name, and launch timing",
+    "url": "https://www.pokemon.com/uk/news/pokemon-tcg-pocket-team-rockets-ambition-expansion-is-coming-soon"
+  },
+  "officialCountCrossChecks": {
+    "role": "validation only for 72 official cards and 110 total cards",
+    "urls": [
+      "https://www.pokebeach.com/2026/08/team-rockets-ambition-all-110-cards-revealed-for-pocket",
+      "https://www.serebii.net/tcgpocket/sets.shtml",
+      "https://www.pokemon-zone.com/sets/b4a/"
+    ],
+    "limitation": "Community pages are validation-only and are not copied as a production metadata source."
+  },
+  "cardsDatabaseUpstream": {
+    "role": "upstream cards-database availability check",
+    "repo": "https://github.com/tcgdex/cards-database",
+    "commit": "097c210fa2f7b7492057f6f83dfd861b8cf53db3",
+    "limitation": "The pinned upstream tree contains neither B4a nor Team Rocket's Ambition."
+  },
+  "ptcgpAssets": {
+    "role": "preferred structured localization and image index",
+    "repo": "https://github.com/shelken/ptcgp-assets",
+    "commit": "e76e7962090dcbebbd33978a231a6227c16e7367",
+    "license": null,
+    "availableSetsThrough": "B3b",
+    "limitation": "The only public branch remains at the pinned commit and does not contain B4a. No connected Android/Frida device was available for a fresh official nine-language export."
+  },
+  "flibustier": {
+    "role": "licensed number, name, rarity, card-image, pack-art and logo candidate",
+    "repo": "https://github.com/flibustier/pokemon-tcg-pocket-database",
+    "commit": "53a42a8050296505fcbf3db5032aee736cd9fd36",
+    "release": "https://github.com/flibustier/pokemon-tcg-pocket-database/releases/tag/2.10.0",
+    "releaseArchive": {
+      "url": "https://github.com/flibustier/pokemon-tcg-pocket-database/releases/download/2.10.0/dist.zip",
+      "bytes": 392782201,
+      "sha256": "8d595ad9265f8635eb9cf3ac16b163e93bc20f0f2c0505ab7b34379b621b92bf"
+    },
+    "license": "MIT",
+    "index": {
+      "path": "dist/cards/B4a.json",
+      "sha256": "81a8c338543f7b97572bf1341ccbf5947ecc7db4e49ed92b1fa351f78960f8e4",
+      "records": 110,
+      "idsContinuous": true,
+      "temporaryNumbers": 0
+    },
+    "packArtwork": {
+      "path": "dist/images/packs/Team Rocket.webp",
+      "sha256": "0d376ba1dd81b291664ce3613dfaaadfdd0ac19bfa2bb31db5dd23be278cd063"
+    },
+    "englishLogo": {
+      "path": "dist/images/sets/LOGO_expansion_B4a_en_US.webp",
+      "sha256": "ea720c147dbcd9e0302dc665d43e794afc6c035abd73a750d76aa827a61c252a"
+    },
+    "limitation": "The licensed index is complete but contains only number, English name, rarity, pack membership, and image identity; it does not provide mechanics or localized text. Its dist/sets.json pack label 'Ruler of the Skies' conflicts with all 110 dist/cards/B4a.json memberships and was rejected in favor of the card-level 'Team Rocket' evidence and the official set identity."
+  },
+  "chaseMew": {
+    "role": "independent Limitless-derived validation candidate",
+    "repo": "https://github.com/chase-mew/pokemon-tcg-pocket-cards",
+    "commit": "0ff9404520d8f3dc434f06a76cb980ca232154cd",
+    "license": "AGPL-3.0",
+    "limitation": "The pinned repository tree does not contain B4a."
+  },
+  "deckGym": {
+    "role": "independent English mechanics validation candidate only",
+    "repo": "https://github.com/bcollazo/deckgym-core",
+    "commit": "7e6317941059c3c4099a76644cf9a759f87db555",
+    "databaseSha256": "2f48cb72966c23ba3794f437aa94312e4eadcb2703c32893411ee27fc63b11d9",
+    "records": 110,
+    "idsContinuous": true,
+    "license": "AGPL-3.0",
+    "limitation": "B4a English mechanics are complete enough for independent validation, but the source remains validation-only under the existing project policy and has no localized text, illustrator, flavor text, or production images."
+  },
+  "raenonX": {
+    "role": "source-exact localized rule dictionaries and localized image candidate",
+    "masterUrl": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "pageUrlTemplate": "https://ptcgp.raenonx.cc/{locale}/card/PK_10_021190_00",
+    "imageUrlTemplate": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/{locale}/{cardId}.png",
+    "retrievedAt": "2026-08-28T05:44:04.000Z",
+    "master": {
+      "lastModified": "2026-08-27T05:57:14.000Z",
+      "responseSha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532",
+      "availableSetsThrough": "B4",
+      "b4aCardEntries": 0
+    },
+    "pageDictionaries": {
+      "en": { "status": 200, "sha256": "e7a0eb4e8997a0bcb8f81a3a3e7a59575c5049d1c3f89d170352811e284df9c4", "bytes": 490023 },
+      "fr": { "status": 200, "sha256": "d83065283f274a77ebe6523b4bfc01a1921379ff20064468dbf0c12fdc787c7b", "bytes": 550380 },
+      "es": { "status": 200, "sha256": "aa7bc7bbcdde9043ae64e70e45986b3fc5d5f60f440817acaf95b05b0cf64c66", "bytes": 514151 },
+      "pt": { "status": 200, "sha256": "df8ba54383eb6ecce9a91ddd308c1c2f969f236a907d384822d11a75c5d610bc", "bytes": 524356 },
+      "zh": { "status": 200, "sha256": "cb2e0cd0044d46804349667193eea3c1b4de6c55e5d9c74f81d1e0737cabddd5", "bytes": 486969 },
+      "ja": { "status": 200, "sha256": "1b79593ceb8e02b403a15ccf8b2a9a34ee0dd6d6e90903bce06886a783c14a12", "bytes": 575844 },
+      "ko": { "status": 200, "sha256": "99b14d528986bbf972b415b9a1b4d9461e902d355287deb8ce53b32e48774b69", "bytes": 527958 }
+    },
+    "license": null,
+    "limitation": "The live pages now embed B4a expansion and localized Game.Master dictionaries, and en/fr/es/pt/zh/ja/ko card images resolve. They do not embed the B4a per-card cardEntryMap needed to bind each card to i18n IDs, while the public global master remains stale. German and Italian are not supported site locales. Raw page HTML was not committed because it contains generated session material; only sanitized response facts and hashes are retained."
+  },
+  "pokeOS": {
+    "role": "complete index, illustrator, set-name, card-name, and localized card-image candidate",
+    "setInfoUrl": "https://www.pokeos.com/api/tcg/setInfo?id=588",
+    "cardsUrl": "https://www.pokeos.com/api/tcg/set/cards?id=588",
+    "imageUrlTemplate": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/{number}_{locale}.png",
+    "logoUrlTemplate": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/logo_{locale}.webp",
+    "retrievedAt": "2026-08-28T01:47:18.000Z",
+    "setInfoSha256": "e04f9d4ee8dac22a418b034ddcebbd7194b158851f56c3358c57216f163e98da",
+    "cardsSha256": "8c362797bf0f881f51194d7541c582999cdd1c3e4d726976df2893ffce750f49",
+    "records": 110,
+    "idsContinuous": true,
+    "temporaryNumbers": 0,
+    "officialCards": 72,
+    "secretCards": 38,
+    "localizedCardImageCoverage": {
+      "en": 110,
+      "fr": 110,
+      "es": 110,
+      "de": 110,
+      "it": 110,
+      "pt-br": 110,
+      "zh-tw": 110,
+      "ja": 110,
+      "ko": 110
+    },
+    "sourceLocaleSuffixes": {
+      "pt-br": "ptbr",
+      "zh-tw": "zh"
+    },
+    "localizedLogoCoverage": ["en", "fr", "es", "de", "it", "pt-br", "zh-tw", "ja", "ko"],
+    "license": null,
+    "limitation": "The cards endpoint has a continuous 110-card index with names, rarity, type, and illustrator, and every verified card image exists in all nine locales. Per-card descriptions, attacks, abilities, evolution, weakness, retreat, and trainer rules remain absent. The B4a-013 illustrator is mojibake and B4a-039 is a placeholder; both fields were rejected and manually reviewed against the English card faces. No formal redistribution license was located, so use is restricted to this user-authorized attributed mirror scope."
+  },
+  "pokemonMeta": {
+    "role": "independent English mechanics candidate",
+    "url": "https://www.pokemonmeta.com/api/v1/cards?pokemonId%5B%24regex%5D=%5EB4a-&limit=400",
+    "retrievedAt": "2026-08-28T01:47:18.000Z",
+    "responseSha256": "01175723ba0474cb72adb8353a2b9784c696081b73a1f68e56571820971bc2b7",
+    "records": 110,
+    "idsContinuous": true,
+    "license": null,
+    "limitation": "IDs, rarity, and most English mechanics are present, but illustrator, evolution links, Pokemon flavor text, all target localizations, and production images are absent; no formal copying license was identified."
+  },
+  "tcgDex": {
+    "role": "licensed multilingual API candidate",
+    "repo": "https://github.com/tcgdex/cards-database",
+    "commit": "097c210fa2f7b7492057f6f83dfd861b8cf53db3",
+    "url": "https://api.tcgdex.net/v2/en/sets",
+    "responseSha256": "0277f66b7d9358c76c175f734ec53a88699102922f8d00aeec8c40e8f19ed53a",
+    "license": "MIT",
+    "limitation": "The live set index does not contain B4a."
+  },
+  "localizedCommunityValidation": {
+    "role": "names and counts only; not copied as production rule text",
+    "urls": [
+      "https://pokezentrum.de/pokemon-karten-news/team-rockets-plaene-b4a-kartenliste-fuer-pokemon-tcg-pocket/",
+      "https://www.pokemonmillennium.net/giochi/450318-gcc-pokemon-pocket-ecco-tutte-le-carte-dellespansione-i-loschi-piani-del-team-rocket/"
+    ],
+    "limitation": "The German list explicitly uses English card images as placeholders and neither page supplies a licensed complete structured rule-text corpus."
+  },
+  "deliveryEvidence": {
+    "status": "complete",
+    "pilotCards": ["001", "005", "007", "014", "021", "059", "067", "069", "072", "110"],
+    "canonicalMerge": "meta/pocket-source-reviews/B4a/B4a.audit.json",
+    "localizationAudit": "meta/pocket-source-reviews/B4a/B4a.localization-audit.json",
+    "imageEvidence": "meta/pocket-source-reviews/B4a/B4a.image-evidence.json",
+    "r2Manifest": "meta/pocket-source-reviews/B4a/B4a.r2.manifest.json",
+    "r2Receipts": "meta/pocket-source-reviews/B4a/B4a.r2.receipts.json",
+    "r2Verification": "meta/pocket-source-reviews/B4a/B4a.r2.verify.json",
+    "counts": {
+      "cards": 110,
+      "fullRuleLocales": 7,
+      "nameLocales": 9,
+      "sourceCardImages": 770,
+      "r2Objects": 1554
+    }
+  }
+}

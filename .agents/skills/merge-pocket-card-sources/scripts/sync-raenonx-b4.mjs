@@ -47,6 +47,7 @@ const CONDITION_TRANSLATIONS = {
 const ENERGY_MARKERS = {
 	C: '1', G: '2', R: '3', W: '4', L: '5', P: '6', F: '7', D: '8', M: '9',
 }
+let dictionaryTemplateOverrides = {}
 
 function arg(name, fallback) {
 	const exact = process.argv.indexOf(`--${name}`)
@@ -111,6 +112,7 @@ function isDynamic(node) {
 		|| node.name === 'Gr:Count'
 		|| node.name === 'Text:CardName'
 		|| node.name === 'Text:AttackName'
+		|| node.name === 'Text:AbilityName'
 		|| node.name === 'Text:SpecialCondition'
 		|| node.name === 'Text:EvolutionPokemon'
 	)
@@ -297,6 +299,8 @@ function dynamicCandidates(node, span, maps) {
 			return [...maps.cardEnglishNames.keys()].map(value => ({ value, output: value }))
 		case 'Text:AttackName':
 			return [...maps.attackEnglishNames.keys()].map(value => ({ value, output: value }))
+		case 'Text:AbilityName':
+			return [...maps.abilityEnglishNames.keys()].map(value => ({ value, output: value }))
 		case 'Text:SpecialCondition':
 			return ['Asleep', 'Burned', 'Confused', 'Paralyzed', 'Poisoned']
 				.map(value => ({ value, output: value }))
@@ -594,6 +598,13 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 			const entry = findNameIdByEnglish(captured, maps.attackEnglishNames, `${context} attack name`)
 			return lookup(maps.targetMaster.Attack.Name, [], entry.id) ?? entry.value
 		}
+		case 'Text:AbilityName': {
+			const entry = findNameIdByEnglish(captured, maps.abilityEnglishNames, `${context} ability name`)
+			const suffix = attrValue(node, 'suffix')
+			return lookup(maps.targetMaster.Ability.Name, [], suffix ? `${entry.id}_${suffix}` : entry.id)
+				?? lookup(maps.targetMaster.Ability.Name, [], entry.id)
+				?? entry.value
+		}
 		case 'Text:SpecialCondition':
 			return chooseTranslatedString(captured, maps.translatedValues, locale, `${context} special condition`)
 		case 'Text:EvolutionPokemon':
@@ -766,6 +777,90 @@ function imageManifest(entries) {
 	})))
 }
 
+function normalizeOracle(value) {
+	return normalize(value)
+		.replace(/\[([A-Z])\]/gu, '{$1}')
+		.replace(/[’‘]/gu, "'")
+		.replace(/[“”]/gu, '"')
+		.replace(/[\-−–—‑]/gu, '-')
+}
+
+function bindDictionaryName(englishSection, targetSection, canonical, context) {
+	const matches = Object.entries(englishSection ?? {})
+		.filter(([, value]) => normalizeOracle(value) === normalizeOracle(canonical))
+	const outputs = [...new Set(matches.map(([id]) => targetSection?.[id]).filter(Boolean))]
+	if (outputs.length !== 1) throw new Error(`Dictionary-only ${context} name binding has ${outputs.length} outputs for ${JSON.stringify(canonical)}`)
+	return outputs[0]
+}
+
+function bindDictionaryTemplate(section, canonical, locale, messages, maps, context) {
+	const candidates = []
+	for (const [id, sourceTemplate] of Object.entries(messages.en.Game.Master[section]?.Description ?? {})) {
+		const targetTemplate = messages[locale].Game.Master[section]?.Description?.[id]
+		if (!targetTemplate) continue
+		const plainEnglish = sourceTemplate.replace(/\[[^\]]+\]/gu, '')
+		const plainMatch = normalizeOracle(plainEnglish) === normalizeOracle(canonical)
+		try {
+			const renderedEnglish = renderLocalizedTemplate(sourceTemplate, canonical, sourceTemplate, 'en', context, maps.en)
+			if (normalizeOracle(renderedEnglish) !== normalizeOracle(canonical)
+				&& !plainMatch) continue
+			const localized = renderLocalizedTemplate(sourceTemplate, canonical, targetTemplate, locale, context, maps[locale])
+			candidates.push({ id, localized })
+		} catch {
+			if (plainMatch) candidates.push({ id, localized: normalize(targetTemplate.replace(/\[[^\]]+\]/gu, '')) })
+		}
+	}
+	const configuredId = dictionaryTemplateOverrides?.[section]?.[canonical]
+	const reviewedCandidates = configuredId ? candidates.filter(candidate => candidate.id === String(configuredId)) : candidates
+	if (configuredId && reviewedCandidates.length === 0) throw new Error(`Configured dictionary id ${configuredId} did not bind for ${context}`)
+	const outputs = [...new Set(reviewedCandidates.map(candidate => candidate.localized))]
+	if (outputs.length !== 1) {
+		throw new Error(`Dictionary-only ${context} template binding has ${outputs.length} outputs for ${JSON.stringify(canonical)}; candidates=${JSON.stringify(candidates)}`)
+	}
+	return outputs[0]
+}
+
+function dictionaryOnlyOverlay(canonical, messages) {
+	const englishMaster = messages.en.Game.Master
+	const cardEnglishNames = indexNames(englishMaster.Card.Name)
+	const attackEnglishNames = indexNames(englishMaster.Attack.Name)
+	const abilityEnglishNames = indexNames(englishMaster.Ability.Name)
+	const maps = {}
+	for (const locale of LOCALES) {
+		maps[locale] = {
+			cardEnglishNames,
+			attackEnglishNames,
+			abilityEnglishNames,
+			energyEnglishNames: indexNames(englishMaster.EnergyType),
+			targetMaster: messages[locale].Game.Master,
+			translatedValues: buildTranslatedValueMap(messages.en, messages[locale]),
+			messages: { en: messages.en, target: messages[locale] },
+		}
+	}
+	const cards = {}
+	for (const canonicalCard of canonical.cards) {
+		const locales = {}
+		for (const locale of LOCALES) {
+			const card = {}
+			if (canonicalCard.category === 'Trainer') {
+				card.effect = bindDictionaryTemplate('Trainer', canonicalCard.effect, locale, messages, maps, `${canonicalCard.id} trainer effect`)
+			} else {
+				card.attacks = (canonicalCard.attacks ?? []).map((attack, index) => ({
+					name: bindDictionaryName(englishMaster.Attack.Name, messages[locale].Game.Master.Attack.Name, attack.name, `${canonicalCard.id} attack ${index}`),
+					...(attack.effect ? { effect: bindDictionaryTemplate('Attack', attack.effect, locale, messages, maps, `${canonicalCard.id} attack ${index} effect`) } : {}),
+				}))
+				card.abilities = (canonicalCard.abilities ?? []).map((ability, index) => ({
+					name: bindDictionaryName(englishMaster.Ability.Name, messages[locale].Game.Master.Ability.Name, ability.name, `${canonicalCard.id} ability ${index}`),
+					effect: bindDictionaryTemplate('Ability', ability.effect, locale, messages, maps, `${canonicalCard.id} ability ${index} effect`),
+				}))
+			}
+			locales[locale] = card
+		}
+		cards[canonicalCard.id] = { locales }
+	}
+	return cards
+}
+
 const canonicalPath = arg('canonical', 'meta/pocket-source-reviews/B4/B4.canonical.json')
 const outputPath = arg('output', 'meta/pocket-source-reviews/B4/raenonx.overlay.json')
 const snapshotPath = arg('snapshot', 'meta/pocket-source-reviews/B4/raenonx.snapshot.json')
@@ -776,18 +871,22 @@ const requestedNumbers = arg('numbers')
 	.map(value => Number(value.trim()))
 	.filter(Number.isInteger)
 const pilot = process.argv.includes('--pilot')
+const dictionaryOnly = process.argv.includes('--dictionary-only')
+const dictionaryConfigPath = arg('dictionary-config')
+dictionaryTemplateOverrides = dictionaryConfigPath ? loadJson(dictionaryConfigPath).raenonxTemplateIds ?? {} : {}
 
 const canonical = loadJson(canonicalPath)
-if (canonical.setId !== 'B4' || canonical.cards?.length !== 233) throw new Error('B4 canonical input must contain exactly 233 cards')
+if (!dictionaryOnly && (canonical.setId !== 'B4' || canonical.cards?.length !== 233)) throw new Error('B4 canonical input must contain exactly 233 cards')
+if (dictionaryOnly && (!canonical.setId || !Array.isArray(canonical.cards) || canonical.cards.length < 1)) throw new Error('Dictionary-only canonical input must contain a setId and cards')
 for (let index = 0; index < canonical.cards.length; index++) {
-	const expectedId = `B4-${String(index + 1).padStart(3, '0')}`
+	const expectedId = `${canonical.setId}-${String(index + 1).padStart(3, '0')}`
 	if (canonical.cards[index]?.id !== expectedId) {
 		throw new Error(`B4 canonical cards must be ordered by ID; expected ${expectedId}, got ${canonical.cards[index]?.id ?? 'missing'}`)
 	}
 }
 const masterResponse = await fetchText(masterUrl, 'RaenonX global master')
 const master = JSON.parse(masterResponse.body)
-const entries = b4Entries(master)
+const entries = dictionaryOnly ? [] : b4Entries(master)
 const pageResponses = {}
 const messages = {}
 for (const locale of LOCALES) {
@@ -797,10 +896,46 @@ for (const locale of LOCALES) {
 	messages[locale] = extractMessages(response.body, locale)
 }
 
+if (dictionaryOnly) {
+	const cards = dictionaryOnlyOverlay(canonical, messages)
+	const now = new Date().toISOString()
+	const source = {
+		...SOURCE,
+		masterUrl,
+		accessedAt: now,
+		master: {
+			status: masterResponse.status,
+			bytes: Buffer.byteLength(masterResponse.body),
+			sha256: sha256(masterResponse.body),
+			lastModified: masterResponse.headers['last-modified'] ?? null,
+		},
+		pages: pageResponses,
+		permission: 'User authorized attribution and publication of a direct RaenonX mirror for this project; RaenonX repository licence was not found.',
+	}
+	writeJson(snapshotPath, {
+		schemaVersion: 1,
+		setId: canonical.setId,
+		source,
+		locales: LOCALES,
+		entryCount: 0,
+		dictionaryOnly: true,
+	})
+	writeJson(outputPath, {
+		schemaVersion: 1,
+		setId: canonical.setId,
+		source,
+		policy: { mode: 'dictionary-only', locales: LOCALES, credit: SOURCE.credit },
+		cards,
+	})
+	console.log(JSON.stringify({ setId: canonical.setId, mode: 'dictionary-only', cards: Object.keys(cards).length, locales: LOCALES, snapshotPath: path.resolve(snapshotPath), outputPath: path.resolve(outputPath) }, null, 2))
+	process.exit(0)
+}
+
 const refs = sourceReferences(entries, messages)
 const englishMaster = messages.en.Game.Master
 const cardEnglishNames = indexNames(englishMaster.Card.Name)
 const attackEnglishNames = indexNames(englishMaster.Attack.Name)
+const abilityEnglishNames = indexNames(englishMaster.Ability.Name)
 const selectedNumbers = pilot
 	? [1, 2, 5, 18, 19, 145, 150, 200, 224, 233]
 	: requestedNumbers?.length ? requestedNumbers : entries.map(({ number }) => number)
@@ -816,6 +951,7 @@ for (const number of selectedNumbers) {
 		const maps = {
 			cardEnglishNames,
 			attackEnglishNames,
+			abilityEnglishNames,
 			energyEnglishNames: indexNames(englishMaster.EnergyType),
 			targetMaster: messages[locale].Game.Master,
 			translatedValues: translatedMap,

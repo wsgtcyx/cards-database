@@ -1,0 +1,2227 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "range": "001-110",
+  "generatedAt": "2026-08-28T05:53:42.856Z",
+  "inputHashes": {
+    "index": "81a8c338543f7b97572bf1341ccbf5947ecc7db4e49ed92b1fa351f78960f8e4",
+    "deckGym": "2f48cb72966c23ba3794f437aa94312e4eadcb2703c32893411ee27fc63b11d9",
+    "pokemonMeta": "01175723ba0474cb72adb8353a2b9784c696081b73a1f68e56571820971bc2b7",
+    "review": "2af3a349a332cb5e7d4a916e50065514a3512636661b083dfc834bd8f39e78ff",
+    "sources": "f73761b67b375dad5fc709272d96499f46fa5f506dfd80e154ac29df478ae78b",
+    "images": {
+      "count": 110,
+      "sha256": "0d72f2f55da8650cde292019b59edb2e900da8675613f383659067e5a2509eae"
+    }
+  },
+  "counts": {
+    "cards": 110,
+    "detailsRecords": 110,
+    "provenanceRecords": 110,
+    "indexRecords": 110,
+    "deckGymRecords": 110,
+    "pokemonMetaRecords": 110,
+    "imageFiles": 110
+  },
+  "idsContinuous": true,
+  "missingFields": [],
+  "resolvedConflicts": [
+    {
+      "id": "B4a-002",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Ire-Fly",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "damage": "30+",
+          "effect": "If Volbeat is in your discard pile, this attack does 60 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Ire-Fly",
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "damage": 30,
+              "effect": "If Volbeat is in your discard pile, this attack does 60 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Ire-Fly",
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "damage": "30+",
+              "effect": "If Volbeat is in your discard pile, this attack does 60 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-003",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Leaf Boomerang",
+          "cost": [
+            "Grass"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Leaf Boomerang",
+              "cost": [
+                "Grass"
+              ],
+              "damage": 20,
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Leaf Boomerang",
+              "cost": [
+                "Grass"
+              ],
+              "damage": "20x",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-005",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Flog",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Flog",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 60,
+              "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Flog",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "60+",
+              "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-006",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Derisive Roasting",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "10+",
+          "effect": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Derisive Roasting",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 10,
+              "effect": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Derisive Roasting",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "10+",
+              "effect": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-012",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 60,
+              "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "60+",
+              "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-013",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Ruthless Whirlpool",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Ruthless Whirlpool",
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Ruthless Whirlpool",
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "damage": "40+",
+              "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-018",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Soul Counter",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "damage": "50+",
+          "effect": "This attack does 50 more damage for each point your opponent got during their last turn."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Soul Counter",
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "damage": 50,
+              "effect": "This attack does 50 more damage for each point your opponent got during their last turn."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Soul Counter",
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "damage": "50+",
+              "effect": "This attack does 50 more damage for each point your opponent got during their last turn."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-022",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Double Headbutt",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Double Headbutt",
+              "cost": [
+                "Lightning"
+              ],
+              "damage": 20,
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Double Headbutt",
+              "cost": [
+                "Lightning"
+              ],
+              "damage": "20x",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-026",
+      "field": "abilities",
+      "chosen": [
+        {
+          "type": "Ability",
+          "name": "Evil Inspiration",
+          "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in then Active Spot, you may draw a card."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/26_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-026",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Hand Kinesis",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "This attack does 20 damage for each card in your hand."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Hand Kinesis",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Hand Kinesis",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-036",
+      "field": "stage",
+      "chosen": "Stage 1",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Stage 1"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Basic"
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/36_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-036",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Punish",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "damage": 50,
+          "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Punish",
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "damage": 50,
+              "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Punish",
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "damage": "50+",
+              "effect": "If your opponent's Active Pokémon has \"Team Rocket\" in its name, this attack does 70 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/36_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-039",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Shadow Seeker",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": "70+",
+          "effect": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Shadow Seeker",
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": 70,
+              "effect": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Shadow Seeker",
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": "70+",
+              "effect": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-041",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Poison Absorption",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": 80,
+          "effect": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Poison Absorption",
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": 80,
+              "effect": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Posion Absorption",
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": 80,
+              "effect": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/41_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-044",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Group Beatdown",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": "30x",
+          "effect": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Group Beatdown",
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": 30,
+              "effect": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Group Beatdown",
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": "30x",
+              "effect": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-045",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Tumbling Attack",
+          "cost": [
+            "Metal"
+          ],
+          "damage": "20+",
+          "effect": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Tumbling Attack",
+              "cost": [
+                "Metal"
+              ],
+              "damage": 20,
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Tumbling Attack",
+              "cost": [
+                "Metal"
+              ],
+              "damage": "20+",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-049",
+      "field": "retreat",
+      "chosen": 2,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 2
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/49_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-050",
+      "field": "retreat",
+      "chosen": 2,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 2
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/50_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-051",
+      "field": "stage",
+      "chosen": "Stage 1",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Stage 1"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Stage 2"
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/51_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-051",
+      "field": "abilities",
+      "chosen": [
+        {
+          "type": "Ability",
+          "name": "Luxury Coin",
+          "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Ability: Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/51_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-057",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Draconic Slam",
+          "cost": [
+            "Grass",
+            "Fire",
+            "Colorless"
+          ],
+          "damage": 140,
+          "effect": "If this Pokémon has damage on it, this attack does -100 damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Draconic Slam",
+              "cost": [
+                "Grass",
+                "Fire",
+                "Colorless"
+              ],
+              "damage": 140,
+              "effect": "If this Pokémon has damage on it, this attack does -100 damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Draconic Slam",
+              "cost": [
+                "Grass",
+                "Fire",
+                "Colorless"
+              ],
+              "damage": "140-",
+              "effect": "If this Pokémon has damage on it, this attack does -100 damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-058",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Ambush",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20+",
+          "effect": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Ambush",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Ambush",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20+",
+              "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-059",
+      "field": "retreat",
+      "chosen": 0,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 0
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/59_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-061",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Dangerous Rogue",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "10+",
+          "effect": "This attack does 40 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Dangerous Rogue",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 10,
+              "effect": "This attack does 40 more damage for each of your opponent's Benched Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Dangerous Rogue",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "10+",
+              "effect": "This attack does 40 more damage for each of your opponent's Benched Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-062",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Hit and Hide",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 40,
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Hit and Hide",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Hit and Hide",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prveent all damage from-and effects of-attacks done to this Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/62_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-064",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Continuous Steps",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 30,
+          "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Continuous Steps",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 30,
+              "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Continuous Steps",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 10,
+              "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/64_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-066",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Sitdown Splash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Sitdown Splash",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Sitdown Splash",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "40+",
+              "effect": "Flip a coin. If heads, this attack does 60 more damage"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-069",
+      "field": "trainerType",
+      "chosen": "Supporter",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Supporter"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Item"
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/69_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-069",
+      "field": "effect",
+      "chosen": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand."
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Flip a coin until you get tails. For each heads, put a random Pokémon that has \"Team Rocket\" in its name from your deck into your hand."
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/69_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-073",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 60,
+              "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Psychic",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "60+",
+              "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-075",
+      "field": "retreat",
+      "chosen": 2,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 2
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/75_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-076",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Hit and Hide",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 40,
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Hit and Hide",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Hit and Hide",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prveent all damage from-and effects of-attacks done to this Pokémon"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/76_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-082",
+      "field": "abilities",
+      "chosen": [
+        {
+          "type": "Ability",
+          "name": "Evil Inspiration",
+          "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in then Active Spot, you may draw a card."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/82_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-082",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Hand Kinesis",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "This attack does 20 damage for each card in your hand."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Hand Kinesis",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Hand Kinesis",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-084",
+      "field": "retreat",
+      "chosen": 0,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 0
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/84_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-085",
+      "field": "trainerType",
+      "chosen": "Supporter",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Supporter"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Item"
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/85_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-085",
+      "field": "effect",
+      "chosen": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand."
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Flip a coin until you get tails. For each heads, put a random Pokémon that has \"Team Rocket\" in its name from your deck into your hand."
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/85_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-091",
+      "field": "abilities",
+      "chosen": [
+        {
+          "type": "Ability",
+          "name": "Evil Inspiration",
+          "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in then Active Spot, you may draw a card."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/91_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-091",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Hand Kinesis",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "This attack does 20 damage for each card in your hand."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Hand Kinesis",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Hand Kinesis",
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-093",
+      "field": "retreat",
+      "chosen": 0,
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": 0
+        },
+        {
+          "source": "pokemonMeta",
+          "value": 1
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/93_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-096",
+      "field": "attacks",
+      "chosen": [
+        {
+          "name": "Ember Dance",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "Flip 9 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "name": "Ember Dance",
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 20,
+              "effect": "Flip 9 coins. This attack does 20 damage for each heads."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "name": "Ember Dance",
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "Flip 9 coins. This attack does 20 damage for each heads"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "deckGym",
+        "pokemonMeta"
+      ],
+      "note": "Mechanics agree after expanding energy symbols; preserved the Pokemon Meta damage suffix when its numeric base matches."
+    },
+    {
+      "id": "B4a-106",
+      "field": "weaknesses",
+      "chosen": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Fighting",
+              "value": "+20"
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/106_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-109",
+      "field": "stage",
+      "chosen": "Stage 1",
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": "Stage 1"
+        },
+        {
+          "source": "pokemonMeta",
+          "value": "Stage 2"
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/109_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    },
+    {
+      "id": "B4a-109",
+      "field": "abilities",
+      "chosen": [
+        {
+          "type": "Ability",
+          "name": "Luxury Coin",
+          "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+        }
+      ],
+      "candidates": [
+        {
+          "source": "deckGym",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ]
+        },
+        {
+          "source": "pokemonMeta",
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Ability: Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/109_en.png"
+      ],
+      "note": "Preferred candidate checked against the English card image."
+    }
+  ],
+  "unresolvedConflicts": [],
+  "diagnostics": [
+    {
+      "id": "B4a-003",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-004",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-006",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-007",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-008",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-009",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-010",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-011",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-013",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-014",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-015",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-016",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-017",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-018",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-019",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-020",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-021",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-022",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-023",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-024",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-025",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-026",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-027",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-028",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-029",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-031",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-032",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-033",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-034",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-035",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-036",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-038",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-040",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-042",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-043",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-044",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-045",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-046",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-048",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-049",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-052",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-053",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-055",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-057",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-058",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-059",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-060",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-061",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-062",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-063",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-064",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-065",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-066",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-074",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-076",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-077",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-078",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-079",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-080",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-081",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-082",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-083",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-084",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-088",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-089",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-090",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-091",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-092",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-093",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-095",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-096",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-097",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-098",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-099",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-100",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-101",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-102",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-103",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    },
+    {
+      "id": "B4a-104",
+      "field": "attacks.cost",
+      "source": "pokemonMeta",
+      "issue": "Null energy entries removed before comparison."
+    }
+  ],
+  "confidence": {
+    "high": 0,
+    "medium": 110,
+    "low": 0
+  },
+  "passed": true
+}

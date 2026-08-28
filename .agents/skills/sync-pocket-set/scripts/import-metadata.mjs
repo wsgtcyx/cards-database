@@ -19,7 +19,8 @@ const POKEAPI_ABILITY_NAMES = process.env.POKEAPI_ABILITY_NAMES ?? '/tmp/pokeapi
 // Public TCG Pocket move table:
 // https://wiki.52poke.com/wiki/招式列表（TCGP）
 const POCKET_WIKI_MOVES = process.env.POCKET_WIKI_MOVES ?? '/tmp/52poke-tcgp-moves.html'
-const TRANSLATIONS = path.join(REPO, 'scripts/tmp/pocket-translations.json')
+const TRANSLATIONS = manifest?.metadata?.translationsFile
+	?? path.join(REPO, 'scripts/tmp/pocket-translations.json')
 const ZH_SOURCE_TERMS = manifest?.metadata?.zhTermsFile
 	?? path.join(REPO, 'scripts/tmp/pocket-zh-source-terms.json')
 const TODO_PATH = process.env.POCKET_TRANSLATION_TODO

@@ -35,13 +35,25 @@ const POKEOS_ORIGIN = 'https://www.pokeos.com'
 const POKEOS_IMAGE_ORIGIN = 'https://s3.pokeos.com'
 const POKEBASE_ORIGIN = 'https://pokebase.app'
 const POKEBASE_IMAGE_ORIGIN = 'https://i.pokebase.app'
-const FLIBUSTIER_RELEASE_URL = 'https://github.com/flibustier/pokemon-tcg-pocket-database/releases/download/2.9.2/release.zip'
-const FLIBUSTIER_COMMIT = 'd317957f5c18c4b05d11c24a9ef796edd598f87a'
-const FLIBUSTIER_ARCHIVE = process.env.POCKET_IMAGE_SYNC_ARCHIVE || '/tmp/flibustier-pocket-release-2.9.2.zip'
-const FLIBUSTIER_ARCHIVE_BYTES = 379897345
-const FLIBUSTIER_ARCHIVE_SHA256 = 'ecacdb189b6ffb95df61fd71867742f997d9466266b3108918b51e87efa8d0ec'
-const FLIBUSTIER_CARD_COUNT = 3761
+const FLIBUSTIER_RELEASE = '2.10.0'
+const FLIBUSTIER_RELEASE_URL = `https://github.com/flibustier/pokemon-tcg-pocket-database/releases/download/${FLIBUSTIER_RELEASE}/dist.zip`
+const FLIBUSTIER_COMMIT = '53a42a8050296505fcbf3db5032aee736cd9fd36'
+const FLIBUSTIER_ARCHIVE = process.env.POCKET_IMAGE_SYNC_ARCHIVE || '/tmp/flibustier-pocket-release-2.10.0.zip'
+const FLIBUSTIER_ARCHIVE_BYTES = 392782201
+const FLIBUSTIER_ARCHIVE_SHA256 = '8d595ad9265f8635eb9cf3ac16b163e93bc20f0f2c0505ab7b34379b621b92bf'
+const FLIBUSTIER_CARD_COUNT = 3871
 const MAX_SOURCE_BYTES = 8 * 1024 * 1024
+
+export function classifyFlibustierInventory({ sourceCards, targetCards, existingFallbacks, missingCards, targets }) {
+	const migration = targets > 0
+		&& existingFallbacks + missingCards === targets
+		&& targetCards + missingCards === sourceCards
+	const completed = existingFallbacks === 0
+		&& missingCards === 0
+		&& targets === 0
+		&& targetCards === sourceCards
+	return migration ? 'migration' : completed ? 'completed' : 'invalid'
+}
 
 if (!/^[A-Za-z0-9._-]+$/.test(RUN_ID)) {
 	throw new Error(`POCKET_IMAGE_SYNC_RUN_ID must contain only letters, numbers, dot, underscore, or hyphen: ${RUN_ID}`)
@@ -70,6 +82,24 @@ const LOCALE_CONFIG = Object.freeze({
 
 const SOURCE_LOCALES = Object.freeze(['fr', 'es', 'pt', 'zh'])
 const NON_EN_LOCALES = Object.freeze(['fr', 'es', 'pt', 'zh-TW', 'de', 'it'])
+const POKEOS_LOCALE_CONFIG = Object.freeze({
+	en: { downstreamLocale: 'en', apiLocale: 'en', sourceLocale: 'en', r2Locale: 'en' },
+	fr: { downstreamLocale: 'fr', apiLocale: 'fr', sourceLocale: 'fr', r2Locale: 'fr' },
+	es: { downstreamLocale: 'es', apiLocale: 'es', sourceLocale: 'es', r2Locale: 'es' },
+	it: { downstreamLocale: 'it', apiLocale: 'it', sourceLocale: 'it', r2Locale: 'it' },
+	de: { downstreamLocale: 'de', apiLocale: 'de', sourceLocale: 'de', r2Locale: 'de' },
+	'pt-br': { downstreamLocale: 'pt', apiLocale: 'pt-br', sourceLocale: 'ptbr', r2Locale: 'pt-br' },
+	'zh-tw': { downstreamLocale: 'zh-TW', apiLocale: 'zh-tw', sourceLocale: 'zh', r2Locale: 'zh-tw' },
+})
+
+function targetLocaleConfig(target) {
+	if (target?.sourceKind !== 'pokeos-localized') return LOCALE_CONFIG[target?.locale]
+	const config = POKEOS_LOCALE_CONFIG[target.requestedLocale]
+	if (!config || config.downstreamLocale !== target.locale) {
+		throw new Error(`Invalid PokeOS locale mapping: ${String(target?.requestedLocale)} -> ${String(target?.locale)}`)
+	}
+	return config
+}
 let cachedSetFolders = null
 
 function usage() {
@@ -91,7 +121,7 @@ Options:
                         Digest-bound repository source manifest for pokebase-localized
   --set-id <id>         Project set ID for pokeos-localized
   --source-set-id <id>  Numeric PokeOS set ID for pokeos-localized
-  --locales <id,...>    PokeOS image locales (currently de,it)
+  --locales <id,...>    PokeOS locales (en,fr,es,it,de,pt-br,zh-tw)
   --archive <file>      Fixed flibustier release.zip (default: ${FLIBUSTIER_ARCHIVE})
   --cards <id,...>      Limit download/prepare/verify to card IDs (pilot)
   --write               Required for upload/apply
@@ -255,7 +285,7 @@ function assertSourceUrl(value, sourceLocale, sourceCardId) {
 function assertPokeosSourceUrl(value, sourceSetId, number, sourceLocale) {
 	if (!Number.isInteger(sourceSetId) || sourceSetId < 1) throw new Error(`Invalid PokeOS set ID: ${String(sourceSetId)}`)
 	if (!Number.isInteger(number) || number < 1) throw new Error(`Invalid PokeOS card number: ${String(number)}`)
-	if (!['de', 'it'].includes(sourceLocale)) throw new Error(`Unsupported PokeOS image locale: ${String(sourceLocale)}`)
+	if (!['en', 'fr', 'es', 'it', 'de', 'ptbr', 'zh'].includes(sourceLocale)) throw new Error(`Unsupported PokeOS image locale: ${String(sourceLocale)}`)
 	let parsed
 	try { parsed = new URL(value) } catch { throw new Error(`Invalid PokeOS source URL: ${String(value)}`) }
 	const expectedPath = `/pokeos-uploads/tcg/pocket/${sourceSetId}/src/${number}_${sourceLocale}.png`
@@ -680,9 +710,14 @@ async function auditFlibustierEnglish(options) {
 		})
 	}
 	const existingTargets = targets.filter((target) => !target.pendingMetadata)
-	const migrationState = existingTargets.length === 2609 && missingCards.length === 7 && targets.length === 2616
-	const completedState = existingTargets.length === 0 && missingCards.length === 0 && targets.length === 0 && targetInventory.cards.length === FLIBUSTIER_CARD_COUNT
-	if (!migrationState && !completedState) {
+	const inventoryState = classifyFlibustierInventory({
+		sourceCards: FLIBUSTIER_CARD_COUNT,
+		targetCards: targetInventory.cards.length,
+		existingFallbacks: existingTargets.length,
+		missingCards: missingCards.length,
+		targets: targets.length,
+	})
+	if (inventoryState === 'invalid') {
 		throw new Error(`Fixed migration scope mismatch: existing=${existingTargets.length} missing=${missingCards.length} total=${targets.length}`)
 	}
 	const audit = {
@@ -693,7 +728,7 @@ async function auditFlibustierEnglish(options) {
 		source: {
 			kind: 'flibustier-release',
 			name: 'pokemon-tcg-pocket-database',
-			release: '2.9.2',
+			release: FLIBUSTIER_RELEASE,
 			commit: FLIBUSTIER_COMMIT,
 			releaseUrl: FLIBUSTIER_RELEASE_URL,
 			archiveBytes: archive.bytes,
@@ -704,7 +739,7 @@ async function auditFlibustierEnglish(options) {
 			attribution: 'https://github.com/flibustier/pokemon-tcg-pocket-database',
 		},
 		scope: { resolver: 'set ID plus collection number', unsupportedSetIds: targetInventory.unsupportedSetIds },
-		counts: { targetCards: targetInventory.cards.length, sourceCards: upstreamCards.length, existingFallbacks: existingTargets.length, missingCards: missingCards.length, sourceAvailable: targets.length },
+		counts: { targetCards: targetInventory.cards.length, sourceCards: upstreamCards.length, existingFallbacks: existingTargets.length, missingCards: missingCards.length, sourceAvailable: targets.length, inventoryState },
 		targets: targets.sort((left, right) => left.id.localeCompare(right.id, 'en', { numeric: true })),
 	}
 	await writeArtifact(path.join(RUN_DIR, 'localized-image-audit.json'), audit)
@@ -716,7 +751,9 @@ async function auditPokeosLocalized(options) {
 	if (!options.setId || !/^[A-Za-z0-9-]+$/.test(options.setId)) throw new Error('pokeos-localized requires --set-id')
 	if (!Number.isInteger(options.sourceSetId) || options.sourceSetId < 1) throw new Error('pokeos-localized requires a positive --source-set-id')
 	const locales = [...new Set(options.locales)]
-	if (!locales.length || locales.some((locale) => !['de', 'it'].includes(locale))) throw new Error('pokeos-localized requires --locales de,it')
+	if (!locales.length || locales.some((locale) => !POKEOS_LOCALE_CONFIG[locale])) {
+		throw new Error('pokeos-localized requires locales from en,fr,es,it,de,pt-br,zh-tw')
+	}
 
 	const setInfoUrl = `${POKEOS_ORIGIN}/api/tcg/setInfo?id=${options.sourceSetId}`
 	const cardsUrl = `${POKEOS_ORIGIN}/api/tcg/set/cards?id=${options.sourceSetId}`
@@ -755,18 +792,19 @@ async function auditPokeosLocalized(options) {
 		const sourceCard = byNumber.get(card.number)
 		const metadata = loadMetadataImage(setFolders, card.setId, card.localId)
 		for (const locale of locales) {
-			const config = LOCALE_CONFIG[locale]
-			const localCard = downstream[locale].cards[card.key]
+			const config = POKEOS_LOCALE_CONFIG[locale]
+			const localCard = downstream[config.downstreamLocale].cards[card.key]
 			if (!localCard) throw new Error(`${locale}: missing ${card.id}`)
 			const desiredImage = r2BaseUrl(config.r2Locale, card.setId, card.localId)
 			const existingMetadata = metadata.images[config.apiLocale]
 			const alreadyLocalized = existingMetadata === desiredImage && localCard.image === desiredImage
 			targets.push(alreadyLocalized ? {
-				...card, locale, status: 'already-localized', currentImage: localCard.image, desiredImage,
+				...card, locale: config.downstreamLocale, requestedLocale: locale, status: 'already-localized', currentImage: localCard.image, desiredImage,
 				metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
 			} : {
 				...card,
-				locale,
+				locale: config.downstreamLocale,
+				requestedLocale: locale,
 				status: 'source-available',
 				sourceKind: 'pokeos-localized',
 				currentImage: localCard.image,
@@ -774,11 +812,11 @@ async function auditPokeosLocalized(options) {
 				existingMetadata: existingMetadata || null,
 				metadataFile: path.relative(ROOT, metadata.file).split(path.sep).join('/'),
 				metadataSha256: sha256(Buffer.from(metadata.source, 'utf8')),
-				sourceLocale: locale,
+				sourceLocale: config.sourceLocale,
 				sourceSetId: options.sourceSetId,
 				sourceCardId: String(sourceCard.id),
 				sourceName: sourceCard.card_name,
-				sourceUrl: pokeosSourceUrl(options.sourceSetId, card.number, locale),
+				sourceUrl: pokeosSourceUrl(options.sourceSetId, card.number, config.sourceLocale),
 				r2HighKey: r2Key(config.r2Locale, card.setId, card.localId, 'high'),
 				r2LowKey: r2Key(config.r2Locale, card.setId, card.localId, 'low'),
 				collision: 'new',
@@ -1124,7 +1162,7 @@ function validateAuditTarget(target) {
 	const { setId, localId } = cardIdParts(target.id)
 	if (target.setId !== setId || target.localId !== localId) throw new Error(`Audit target card identity mismatch: ${target.id}`)
 	if (target.key !== localId && target.key !== target.id) throw new Error(`Audit target index key mismatch: ${target.id}`)
-	const config = LOCALE_CONFIG[target.locale]
+	const config = targetLocaleConfig(target)
 	if (target.desiredImage) assertExactR2Url(target.desiredImage, config.r2Locale, setId, localId, 'audit desired image')
 	const expectedMetadata = path.relative(ROOT, metadataCardFile(loadSetFolders(), setId, localId)).split(path.sep).join('/')
 	if (target.metadataFile !== expectedMetadata) throw new Error(`Audit metadata path mismatch for ${target.id}/${target.locale}`)
@@ -1166,7 +1204,7 @@ function validateAuditTarget(target) {
 }
 
 function assertMetadataApplyBaseline(target, source) {
-	const locale = LOCALE_CONFIG[target.locale].apiLocale
+	const locale = targetLocaleConfig(target).apiLocale
 	if (parseImageBlock(source)[locale] === target.desiredImage) return
 	if (target.pendingMetadata || sha256(Buffer.from(source, 'utf8')) !== target.metadataSha256) {
 		throw new Error(`Metadata changed after audit: ${target.id}/${target.locale}`)
@@ -1182,7 +1220,7 @@ function assertDownstreamApplyBaseline(target, card) {
 
 function expectedDownloadPath(target) {
 	const extension = target.sourceKind === 'flibustier-release' ? 'webp' : 'png'
-	return `source/${LOCALE_CONFIG[target.locale].r2Locale}/tcgp/${target.setId}/${target.localId}.${extension}`
+	return `source/${targetLocaleConfig(target).r2Locale}/tcgp/${target.setId}/${target.localId}.${extension}`
 }
 
 function expectedPreparedPath(key) {
@@ -1292,8 +1330,9 @@ async function prepare(options) {
 				throw new Error(`PokéBase source dimensions changed: ${record.id}/${record.locale}`)
 			}
 		}
-		const highKey = assertR2Key(target.r2HighKey, LOCALE_CONFIG[target.locale].r2Locale, target.setId, target.localId, 'high')
-		const lowKey = assertR2Key(target.r2LowKey, LOCALE_CONFIG[target.locale].r2Locale, target.setId, target.localId, 'low')
+		const localeConfig = targetLocaleConfig(target)
+		const highKey = assertR2Key(target.r2HighKey, localeConfig.r2Locale, target.setId, target.localId, 'high')
+		const lowKey = assertR2Key(target.r2LowKey, localeConfig.r2Locale, target.setId, target.localId, 'low')
 		const outputs = []
 		for (const [size, key, pipeline] of [
 			['high', highKey, sharp(input).webp({ quality: 90, effort: 4 })],
@@ -1604,8 +1643,9 @@ async function verify(options) {
 	const selectedDownstreamOnly = selectedTargets(audit, options, ['downstream-only'])
 	await mapWithConcurrency(selectedDownstreamOnly, 12, async (target) => {
 		validateAuditTarget(target)
+		const localeConfig = targetLocaleConfig(target)
 		for (const size of ['high', 'low']) {
-			const key = assertR2Key(r2Key(LOCALE_CONFIG[target.locale].r2Locale, target.setId, target.localId, size), LOCALE_CONFIG[target.locale].r2Locale, target.setId, target.localId, size)
+			const key = assertR2Key(r2Key(localeConfig.r2Locale, target.setId, target.localId, size), localeConfig.r2Locale, target.setId, target.localId, size)
 			const url = `${R2_ORIGIN}/${key}`
 			const check = await checkWebp(url)
 			const item = { cardId: target.id, locale: target.locale, size, key, url, status: check.status, contentType: check.contentType, sha256: check.actualSha256, bytes: check.bytes, ok: check.ok }
@@ -1697,7 +1737,7 @@ async function apply(options) {
 	const metadataFiles = new Map()
 	const metadataBaselines = new Map()
 	for (const target of applyTargets) {
-		const config = LOCALE_CONFIG[target.locale]
+		const config = targetLocaleConfig(target)
 		const file = metadataCardFile(setFolders, target.setId, target.localId)
 		const initial = fs.readFileSync(file, 'utf8')
 		assertMetadataApplyBaseline(target, initial)
@@ -1733,7 +1773,7 @@ async function apply(options) {
 
 	const fallback = knownFallbackKeys()
 	const fallbackBaseline = sha256(fs.readFileSync(fallback.file))
-	const resolvedIds = new Set(applyTargets.map((target) => `${target.id}:${LOCALE_CONFIG[target.locale].apiLocale}`))
+	const resolvedIds = new Set(applyTargets.map((target) => `${target.id}:${targetLocaleConfig(target).apiLocale}`))
 	const remainingFallback = fallback.manifest.entries.filter((entry) => !resolvedIds.has(`${entry.cardId}:${entry.locale}`))
 	const fallbackChanged = remainingFallback.length !== fallback.manifest.entries.length
 	const nextFallback = fallbackChanged ? { ...fallback.manifest, generatedAt: new Date().toISOString(), entries: remainingFallback } : fallback.manifest
@@ -1811,5 +1851,6 @@ export {
 	patchImageBlock,
 	resolveInside,
 	selectionIds,
+	targetLocaleConfig,
 	withArtifactDigest,
 }

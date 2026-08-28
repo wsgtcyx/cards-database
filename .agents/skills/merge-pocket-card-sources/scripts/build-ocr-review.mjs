@@ -10,12 +10,12 @@ function getArg(name) {
 	return value
 }
 
-function getArgs(name) {
+function getArgs(name, { required = true } = {}) {
 	const result = []
 	for (let index = 0; index < process.argv.length; index++) {
 		if (process.argv[index] === `--${name}` && process.argv[index + 1]) result.push(process.argv[index + 1])
 	}
-	if (!result.length) throw new Error(`at least one --${name} is required`)
+	if (required && !result.length) throw new Error(`at least one --${name} is required`)
 	return result
 }
 
@@ -26,7 +26,16 @@ const flavorFile = path.resolve(getArg('flavor-csv'))
 const speciesFile = path.resolve(getArg('species-csv'))
 const outputFile = path.resolve(getArg('output'))
 const reportFile = path.resolve(getArg('report'))
-const batches = getArgs('batch').map(value => {
+const ocrDirArg = process.argv.includes('--ocr-dir') ? getArg('ocr-dir') : undefined
+const ocrDir = ocrDirArg ? path.resolve(ocrDirArg) : undefined
+const artistSourceArg = process.argv.includes('--artist-source') ? getArg('artist-source') : undefined
+const artistSourceFile = artistSourceArg ? path.resolve(artistSourceArg) : undefined
+const artistEvidenceUrl = process.argv.includes('--artist-evidence-url') ? getArg('artist-evidence-url') : undefined
+const artistOverridesArg = process.argv.includes('--artist-overrides') ? getArg('artist-overrides') : undefined
+const artistOverridesFile = artistOverridesArg ? path.resolve(artistOverridesArg) : undefined
+const descriptionOverridesArg = process.argv.includes('--description-overrides') ? getArg('description-overrides') : undefined
+const descriptionOverridesFile = descriptionOverridesArg ? path.resolve(descriptionOverridesArg) : undefined
+const batches = getArgs('batch', { required: false }).map(value => {
 	const separator = value.indexOf(':')
 	if (separator < 1) throw new Error(`Invalid --batch ${value}; expected START:/absolute/result.json`)
 	return { start: Number(value.slice(0, separator)), file: path.resolve(value.slice(separator + 1)) }
@@ -186,15 +195,23 @@ function matchFlavor(card, lines, artistMatch) {
 	const species = speciesByEnglishName.get(normalized(baseSpeciesName(card.name)))
 	const flavors = flavorsBySpecies.get(species) ?? []
 	if (!flavors.length) return undefined
-	const filtered = lines.filter((line, index) => {
+	const artistLineIndex = Number.isInteger(artistMatch?.lineIndex)
+		? artistMatch.lineIndex
+		: lines.findIndex(line => /^(?:[il1m]ll?u?s?|illustr?)\.?\s*[:.]?\s*/iu.test(line.trim()))
+	const candidateLines = artistLineIndex >= 0 ? lines.slice(artistLineIndex + 1) : lines
+	const filtered = candidateLines.filter((line, index) => {
 		if (!line.trim()) return false
-		if (artistMatch && index === artistMatch.lineIndex) return false
 		if (/^[◇♦◆♡☆★*✦✿🌸✈️\s]+$/u.test(line)) return false
 		if (/^(?:weakness|ex\s*rule|mega evolution|when your|knocked out|you may play only|you may play any|you use pok[eé]mon tools)/iu.test(line.trim())) return false
 		return true
 	})
 	const variants = []
 	for (let drop = 0; drop <= Math.min(3, filtered.length); drop++) variants.push(filtered.slice(drop).join(' '))
+	for (let start = 0; start < filtered.length; start++) {
+		for (let length = 1; length <= Math.min(5, filtered.length - start); length++) {
+			variants.push(filtered.slice(start, start + length).join(' '))
+		}
+	}
 	const scored = []
 	for (const raw of variants) {
 		for (const flavor of flavors) scored.push({ raw, flavor, score: similarity(raw, flavor) })
@@ -207,6 +224,11 @@ function matchFlavor(card, lines, artistMatch) {
 
 function extractPages(file) {
 	const envelope = JSON.parse(fs.readFileSync(file, 'utf8'))
+	if (Array.isArray(envelope.pages)) {
+		return envelope.pages.map(page => (page.prunedResult?.rec_texts ?? [])
+			.map(line => String(line).trim())
+			.filter(Boolean))
+	}
 	if (!envelope.ok) throw new Error(`${file}: ${envelope.error?.message ?? 'OCR failed'}`)
 	const pages = envelope.result?.result?.layoutParsingResults
 	if (!Array.isArray(pages)) throw new Error(`${file}: unsupported PaddleOCR result shape`)
@@ -220,6 +242,16 @@ function extractPages(file) {
 }
 
 const pageById = new Map()
+if (ocrDir) {
+	for (const entry of fs.readdirSync(ocrDir, { withFileTypes: true })) {
+		if (!entry.isFile() || !/^\d{3}\.json$/u.test(entry.name)) continue
+		const localId = entry.name.slice(0, 3)
+		const file = path.join(ocrDir, entry.name)
+		const pages = extractPages(file)
+		if (pages.length !== 1) throw new Error(`${file}: expected exactly one OCR page, got ${pages.length}`)
+		pageById.set(`${setId}-${localId}`, { lines: pages[0], file, page: 1 })
+	}
+}
 for (const batch of batches) {
 	for (const [offset, lines] of extractPages(batch.file).entries()) {
 		const id = `${setId}-${String(batch.start + offset).padStart(3, '0')}`
@@ -235,6 +267,15 @@ for (const batch of idBatches) {
 }
 
 const canonical = JSON.parse(fs.readFileSync(canonicalFile, 'utf8')).cards
+const artistByNumber = artistSourceFile
+	? new Map(JSON.parse(fs.readFileSync(artistSourceFile, 'utf8')).map(card => [Number(card.card_number), card.artist]))
+	: new Map()
+const artistOverrides = artistOverridesFile
+	? JSON.parse(fs.readFileSync(artistOverridesFile, 'utf8'))
+	: {}
+const descriptionOverrides = descriptionOverridesFile
+	? JSON.parse(fs.readFileSync(descriptionOverridesFile, 'utf8'))
+	: {}
 const cards = {}
 const report = { setId, artists: { accepted: [], unresolved: [] }, flavors: { accepted: [], propagated: [], unresolved: [] } }
 const acceptedFlavorByName = new Map()
@@ -243,14 +284,47 @@ for (const card of canonical) {
 	const page = pageById.get(card.id)
 	if (!page) throw new Error(`${card.id}: no OCR page`)
 	const evidence = `paddleocr:${page.file}#page=${page.page}`
-	const artist = matchArtist(page.lines)
+	const ocrArtist = matchArtist(page.lines)
+	const sourceArtist = artistByNumber.get(Number(card.id.slice(-3)))
+	const reviewedArtist = artistOverrides[card.id]
+	const sourceArtistMatchesOcr = sourceArtist && ocrArtist
+		&& normalized(sourceArtist) === normalized(ocrArtist.artist)
+	const sourceArtistIsUsable = sourceArtist
+		&& !/^(?:ILLUSTRATOR[_\s-]*\d+|unknown|n\/?a)$/iu.test(sourceArtist)
+		&& !/[\uFFFDÃÂ√]/u.test(sourceArtist)
+	const artist = reviewedArtist
+		? {
+			artist: reviewedArtist,
+			raw: ocrArtist?.raw,
+			lineIndex: ocrArtist?.lineIndex,
+			score: ocrArtist && normalized(reviewedArtist) === normalized(ocrArtist.artist) ? ocrArtist.score : undefined,
+			margin: ocrArtist?.margin,
+			accepted: true,
+			reviewed: true,
+		}
+		: sourceArtist && sourceArtistIsUsable && sourceArtistMatchesOcr
+		? {
+			artist: sourceArtist,
+			raw: ocrArtist?.raw,
+			lineIndex: ocrArtist?.lineIndex,
+			score: ocrArtist?.artist === sourceArtist ? ocrArtist.score : undefined,
+			margin: ocrArtist?.margin,
+			accepted: true,
+		}
+		: sourceArtist
+			? { ...ocrArtist, accepted: false, sourceArtist }
+			: ocrArtist
 	const fields = {}
 	if (artist?.accepted) {
 		fields.illustrator = {
 			value: artist.artist,
-			raw: artist.raw,
-			evidence: [evidence],
-			note: artist.score === 1 ? 'OCR matches the repository artist corpus.' : 'OCR spelling corrected against the repository artist corpus.',
+			...(artist.raw ? { raw: artist.raw } : {}),
+			evidence: [...(artistEvidenceUrl ? [artistEvidenceUrl] : []), evidence],
+			note: artist.reviewed
+				? 'Illustrator spelling manually reviewed against the English card image.'
+				: sourceArtist
+				? 'PokeOS illustrator field checked against the localized card image OCR.'
+				: artist.score === 1 ? 'OCR matches the repository artist corpus.' : 'OCR spelling corrected against the repository artist corpus.',
 		}
 		report.artists.accepted.push({ id: card.id, value: artist.artist, raw: artist.raw, score: artist.score, margin: artist.margin })
 	} else {
@@ -258,8 +332,16 @@ for (const card of canonical) {
 	}
 
 	if (card.category === 'Pokemon' && !/ ex$/iu.test(card.name)) {
-		const flavor = matchFlavor(card, page.lines, artist)
-		if (flavor?.accepted) {
+		const descriptionOverride = descriptionOverrides[card.id]
+		const flavor = descriptionOverride ? undefined : matchFlavor(card, page.lines, artist)
+		if (descriptionOverride) {
+			fields.description = {
+				value: descriptionOverride,
+				evidence: [evidence],
+				note: 'Text transcribed from the English card image and manually checked.',
+			}
+			report.flavors.accepted.push({ id: card.id, source: 'reviewed-card-image' })
+		} else if (flavor?.accepted) {
 			fields.description = {
 				value: flavor.flavor,
 				raw: flavor.raw,

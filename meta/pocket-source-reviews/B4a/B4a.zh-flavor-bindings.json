@@ -1,0 +1,909 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "cards": [
+    {
+      "id": "B4a-001",
+      "dex": 313,
+      "version": 2,
+      "score": 1,
+      "english": "It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.",
+      "zh-tw": "會閃爍臀部的光芒來與夥伴交流。最喜歡甜甜螢放出的甜甜香氣。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0313.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0313.html"
+      }
+    },
+    {
+      "id": "B4a-002",
+      "dex": 314,
+      "version": 2,
+      "score": 1,
+      "english": "It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.",
+      "zh-tw": "會誘導電螢蟲在夜空中描繪記號。也有些學者在研究記號的含意。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0314.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0314.html"
+      }
+    },
+    {
+      "id": "B4a-003",
+      "dex": 495,
+      "version": 2,
+      "score": 1,
+      "english": "It prefers to avoid groups. In its day-to-day life, it dexterously controls its vines to compensate for its short arms.",
+      "zh-tw": "生性不愛群體行動。在生活中會靈巧操縱藤蔓來代替短短的手臂。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0495.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0495.html"
+      }
+    },
+    {
+      "id": "B4a-004",
+      "dex": 496,
+      "version": 2,
+      "score": 1,
+      "english": "Servine's one weakness is its inflated sense of pride. It takes a while for Servine to be able to cooperate with other Pokémon.",
+      "zh-tw": "小缺點是自尊心過高。需要不少時間才能與其他寶可夢合作。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0496.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0496.html"
+      }
+    },
+    {
+      "id": "B4a-005",
+      "dex": 497,
+      "version": 2,
+      "score": 1,
+      "english": "An intimidating gaze and majestic appearance have caused this Pokémon to be known as the Lord of the Forest.",
+      "zh-tw": "擁有能讓對手畏怯的眼神以及威風凜凜的身姿，因此被稱為森林的君主。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0497.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0497.html"
+      }
+    },
+    {
+      "id": "B4a-006",
+      "dex": 126,
+      "version": 2,
+      "score": 1,
+      "english": "Wavering flames similar to those of the sun appear on the surface of this Pokémon's body.",
+      "zh-tw": "身體表面會產生像太陽一樣的火焰熱浪。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0126.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0126.html"
+      }
+    },
+    {
+      "id": "B4a-008",
+      "dex": 228,
+      "version": 2,
+      "score": 1,
+      "english": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+      "zh-tw": "聯絡夥伴和追趕獵物的時候，會分別發出不同種類的叫聲。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0228.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0228.html"
+      }
+    },
+    {
+      "id": "B4a-009",
+      "dex": 229,
+      "version": 2,
+      "score": 1,
+      "english": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+      "zh-tw": "聽見牠恐怖長嚎的寶可夢會渾身發抖，一溜煙地回到自己的巢裡。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0229.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0229.html"
+      }
+    },
+    {
+      "id": "B4a-010",
+      "dex": 653,
+      "version": 2,
+      "score": 1,
+      "english": "Twigs make for Fennekin's snacks. When it nibbles on twigs, it finds the courage to face strong foes.",
+      "zh-tw": "小樹枝是火狐狸的零食。卡滋卡滋地啃著啃著就會湧出對抗強敵的勇氣。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0653.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0653.html"
+      }
+    },
+    {
+      "id": "B4a-011",
+      "dex": 654,
+      "version": 2,
+      "score": 1,
+      "english": "Braixen's branch ignites as it's pulled from the Pokémon's tail. Braixen then uses the flame to spark powerful attacks.",
+      "zh-tw": "將樹枝從尾巴拔出時就會著火。牠會用點燃的火當火種，使出強力的招式。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0654.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0654.html"
+      }
+    },
+    {
+      "id": "B4a-012",
+      "dex": 655,
+      "version": 2,
+      "score": 1,
+      "english": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+      "zh-tw": "能用念力操控火焰。攝氏３０００度的火焰旋渦會包圍對手並將其燒成灰燼。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0655.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0655.html"
+      }
+    },
+    {
+      "id": "B4a-013",
+      "dex": 131,
+      "version": 2,
+      "score": 1,
+      "english": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+      "zh-tw": "有著能夠理解人類語言的高度智慧，是喜歡在背上載著人類在大海游泳的寶可夢。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0131.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0131.html"
+      }
+    },
+    {
+      "id": "B4a-015",
+      "dex": 278,
+      "version": 2,
+      "score": 1,
+      "english": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
+      "zh-tw": "會迎著海風如滑翔機般滑翔。到了冬天就會將食物藏在巢的周圍。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0278.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0278.html"
+      }
+    },
+    {
+      "id": "B4a-016",
+      "dex": 279,
+      "version": 2,
+      "score": 1,
+      "english": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+      "zh-tw": "會把孩子放進鳥嘴裡保護。風平浪靜的日子會漂浮在海面上稍作休息。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0279.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0279.html"
+      }
+    },
+    {
+      "id": "B4a-017",
+      "dex": 550,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "由於與野蠻鱸魚的生態相差甚鉅，故將兩者視為不同種類的說法在近年被認為最為有力。",
+      "sources": [
+        "PokeOS localized card image B4a-017 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-018",
+      "dex": 902,
+      "version": 2,
+      "score": 1,
+      "english": "It can jump with incredible power. Parts of its body are tinged red by the rage of its fallen friends.",
+      "zh-tw": "擁有驚人的跳躍力。死去的夥伴們的怒火染紅了牠的身體。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0902.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0902.html"
+      }
+    },
+    {
+      "id": "B4a-019",
+      "dex": 100,
+      "version": 2,
+      "score": 1,
+      "english": "It’s usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+      "zh-tw": "會出現在發電廠等地方。很多人會把牠錯當成精靈球去觸碰而被電麻。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0100.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0100.html"
+      }
+    },
+    {
+      "id": "B4a-020",
+      "dex": 101,
+      "version": 2,
+      "score": 1,
+      "english": "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.",
+      "zh-tw": "稍微受點刺激就會爆炸，因此得到了炸彈球的外號，被人們深深恐懼。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0101.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0101.html"
+      }
+    },
+    {
+      "id": "B4a-022",
+      "dex": 522,
+      "version": 2,
+      "score": 1,
+      "english": "This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body.",
+      "zh-tw": "喜歡經常發生落雷的土地。會用鬃毛接下雷電，把電力儲存到體內。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0522.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0522.html"
+      }
+    },
+    {
+      "id": "B4a-023",
+      "dex": 523,
+      "version": 2,
+      "score": 1,
+      "english": "Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up.",
+      "zh-tw": "為了讓群體裡的斑斑馬能透過雷電充電，只要一聽到雷鳴聲，就會成群追趕雷雲。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0523.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0523.html"
+      }
+    },
+    {
+      "id": "B4a-024",
+      "dex": 871,
+      "version": 2,
+      "score": 1,
+      "english": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
+      "zh-tw": "生性膽小，光是碰到海藻屑就足以讓牠嚇得放電。嘴唇不會導電。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0871.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0871.html"
+      }
+    },
+    {
+      "id": "B4a-025",
+      "dex": 79,
+      "version": 2,
+      "score": 1,
+      "english": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+      "zh-tw": "總是一副在發呆的樣子，不知道在想些什麼。擅長用尾巴來釣食物。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0079.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0079.html"
+      }
+    },
+    {
+      "id": "B4a-027",
+      "dex": 96,
+      "version": 2,
+      "score": 1,
+      "english": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+      "zh-tw": "據說當牠抽動凸出的鼻子，無論是誰在哪裡做著什麼夢，都會被牠知道得一清二楚。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0096.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0096.html"
+      }
+    },
+    {
+      "id": "B4a-028",
+      "dex": 97,
+      "version": 2,
+      "score": 1,
+      "english": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+      "zh-tw": "會以固定的節奏擺動著形影不離的鐘擺。一靠近牠就會不由自主地昏昏欲睡。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0097.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0097.html"
+      }
+    },
+    {
+      "id": "B4a-029",
+      "dex": 122,
+      "version": 2,
+      "score": 1,
+      "english": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+      "zh-tw": "擅長表演默劇。用手指放出的波動製造牆壁，保護自己免於大多數的攻擊。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0122.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0122.html"
+      }
+    },
+    {
+      "id": "B4a-030",
+      "dex": 150,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "某位科學家的研究造就了夢夢的誕生，牠的力量專為戰鬥而存在。",
+      "sources": [
+        "PokeOS localized card image B4a-030 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-031",
+      "dex": 677,
+      "version": 2,
+      "score": 1,
+      "english": "Behind an Espurr's expressionless face is a frantic struggle to contain psychic power.",
+      "zh-tw": "雖然看起來面無表情，但其實內心正非常努力地在控制自己的精神力量。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0677.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0677.html"
+      }
+    },
+    {
+      "id": "B4a-032",
+      "dex": 678,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "一旦感知到危險，就會釋放最高強度的精神力量，導致連自己都不會記得當時的事。",
+      "sources": [
+        "PokeOS localized card image B4a-032 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-033",
+      "dex": 765,
+      "version": 2,
+      "score": 1,
+      "english": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages.",
+      "zh-tw": "在森林深處過著安靜的生活。如同斗蓬般的紫色體毛會隨著年齡而越變越長。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0765.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0765.html"
+      }
+    },
+    {
+      "id": "B4a-034",
+      "dex": 999,
+      "version": 2,
+      "score": 1,
+      "english": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.",
+      "zh-tw": "棲息在老舊的寶箱中。有時會因沒人注意到自己是寶可夢，而被擱置在道具店的角落。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0999.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0999.html"
+      }
+    },
+    {
+      "id": "B4a-035",
+      "dex": 104,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "頭上戴著死去母親的頭骨。雖然有時會因為作夢而哭泣，但每次流淚後都會變得更強。",
+      "sources": [
+        "PokeOS localized card image B4a-035 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-036",
+      "dex": 105,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "進化時，原本戴在頭上的頭骨跟著化為了牠身體的一部分。不但如此，性格也變得很凶暴。",
+      "sources": [
+        "PokeOS localized card image B4a-036 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-037",
+      "dex": 645,
+      "version": 2,
+      "score": 1,
+      "english": "From the forces of lightning and wind, it createsenergy to give nutrients to the soil and make theland abundant.",
+      "zh-tw": "吸收風與雷後轉化成的能量能夠給予土壤營養，讓大地變得豐饒。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0645.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0645.html"
+      }
+    },
+    {
+      "id": "B4a-038",
+      "dex": 23,
+      "version": 2,
+      "score": 1,
+      "english": "A very common sight in grasslands and such. It flicks its tongue in and out to sense danger in its surroundings.",
+      "zh-tw": "大量棲息於草地等處。會快速顫動吐出的舌頭，藉此感知周遭的危險。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0023.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0023.html"
+      }
+    },
+    {
+      "id": "B4a-039",
+      "dex": 24,
+      "version": 2,
+      "score": 1,
+      "english": "This Pokémon is very tenacious. Once it targets its prey, it won't give up the chase, no matter how far the prey goes.",
+      "zh-tw": "性情非常執著。一旦鎖定了獵物，便會窮追不捨。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0024.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0024.html"
+      }
+    },
+    {
+      "id": "B4a-040",
+      "dex": 88,
+      "version": 2,
+      "score": 1,
+      "english": "When two of these Pokémon’s bodies are combined together, new poisons are created.",
+      "zh-tw": "當臭泥彼此黏在一起，身體就會互相融合，進而產生新種毒素。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0088.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0088.html"
+      }
+    },
+    {
+      "id": "B4a-041",
+      "dex": 89,
+      "version": 2,
+      "score": 1,
+      "english": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+      "zh-tw": "奇臭無比！身體帶有劇毒，舉凡所經之處，任何草木都會枯萎。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0089.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0089.html"
+      }
+    },
+    {
+      "id": "B4a-042",
+      "dex": 109,
+      "version": 2,
+      "score": 1,
+      "english": "The poisonous gases it contains are a little bit lighter than air. That's why it's always slightly airborne.",
+      "zh-tw": "體內的毒瓦斯成分比空氣來得輕一點，所以總是微微浮在空中。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0109.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0109.html"
+      }
+    },
+    {
+      "id": "B4a-044",
+      "dex": 215,
+      "version": 2,
+      "score": 1,
+      "english": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+      "zh-tw": "會透過團隊合作，一隻負責引開雙親的注意，一隻負責偷走蛋，非常地狡猾奸詐。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0215.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0215.html"
+      }
+    },
+    {
+      "id": "B4a-045",
+      "dex": 777,
+      "version": 2,
+      "score": 1,
+      "english": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+      "zh-tw": "在危急時刻會把身體捲成一團、倒豎起背上的尖刺，不分青紅皂白地發出電擊。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0777.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0777.html"
+      }
+    },
+    {
+      "id": "B4a-046",
+      "dex": 878,
+      "version": 2,
+      "score": 1,
+      "english": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.",
+      "zh-tw": "能夠舉起重達５噸的貨物。天一亮就會成群結隊前往洞窟找礦石來吃。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0878.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0878.html"
+      }
+    },
+    {
+      "id": "B4a-047",
+      "dex": 879,
+      "version": 2,
+      "score": 1,
+      "english": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind.",
+      "zh-tw": "自尊心強，脾氣刁鑽。皮膚的綠色越是鮮豔，就越受到同伴的尊敬。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0879.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0879.html"
+      }
+    },
+    {
+      "id": "B4a-048",
+      "dex": 957,
+      "version": 2,
+      "score": 1,
+      "english": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result.",
+      "zh-tw": "敲打鐵屑來製作錘子。直到做出自己滿意的作品前，會一次又一次地重做。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0957.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0957.html"
+      }
+    },
+    {
+      "id": "B4a-049",
+      "dex": 958,
+      "version": 2,
+      "score": 1,
+      "english": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together.",
+      "zh-tw": "棲息在堆滿破銅爛鐵的地方。為了測試錘子的強度，會和夥伴們激烈地敲打彼此。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0958.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0958.html"
+      }
+    },
+    {
+      "id": "B4a-050",
+      "dex": 959,
+      "version": 2,
+      "score": 1,
+      "english": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+      "zh-tw": "會輕鬆地揮舞著超過１００公斤的錘子來奪取想要的東西，然後帶回自己的住處。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0959.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0959.html"
+      }
+    },
+    {
+      "id": "B4a-051",
+      "dex": 1000,
+      "version": 2,
+      "score": 1,
+      "english": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+      "zh-tw": "堆疊硬幣而形成的身體結實堅固。會連續發射硬幣來壓制敵人。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/1000.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/1000.html"
+      }
+    },
+    {
+      "id": "B4a-052",
+      "dex": 443,
+      "version": 2,
+      "score": 1,
+      "english": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+      "zh-tw": "生活在被地熱加溫的洞窟裡。如果有敵人靠近，就會從洞裡撲出來大口咬住。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0443.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0443.html"
+      }
+    },
+    {
+      "id": "B4a-053",
+      "dex": 444,
+      "version": 2,
+      "score": 1,
+      "english": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+      "zh-tw": "最喜歡閃閃發光的東西，所以會把在洞窟裡找到的寶物積存到自己的巢穴裡。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0444.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0444.html"
+      }
+    },
+    {
+      "id": "B4a-054",
+      "dex": 445,
+      "version": 2,
+      "score": 1,
+      "english": "The protuberances on its head serve as sensors. It can even detect distant prey.",
+      "zh-tw": "頭上長著的２個突起物是作為感應器的用途。就連遠處獵物的狀況也能察覺。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0445.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0445.html"
+      }
+    },
+    {
+      "id": "B4a-055",
+      "dex": 884,
+      "version": 2,
+      "score": 1,
+      "english": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+      "zh-tw": "金屬構成的身體雖然堅固但無法散熱，因此牠會從尾巴上的縫隙排出熱氣。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0884.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0884.html"
+      }
+    },
+    {
+      "id": "B4a-056",
+      "dex": 1018,
+      "version": 2,
+      "score": 1,
+      "english": "It digs holes on mountains, searching for food. It's so durable that being caught in a cave-in won't faze it.",
+      "zh-tw": "會在山裡挖洞來尋找食物。身體非常堅硬，即使遇到洞穴坍塌也絲毫不會在意。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/1018.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/1018.html"
+      }
+    },
+    {
+      "id": "B4a-057",
+      "dex": 895,
+      "version": 2,
+      "score": 1,
+      "english": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
+      "zh-tw": "全身是由龍之能量的結晶打造而成。據說牠擁有所有的龍寶可夢的力量。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0895.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0895.html"
+      }
+    },
+    {
+      "id": "B4a-058",
+      "dex": 19,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "生命力很強，即使在骯髒的地方也能安然生活。放任不管的話會不停繁殖。",
+      "sources": [
+        "PokeOS localized card image B4a-058 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-060",
+      "dex": 52,
+      "version": 2,
+      "score": 1,
+      "english": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.",
+      "zh-tw": "非常喜歡耀眼的發光物。找到發光物時，不知為何額頭的金幣也會跟著發光。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0052.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0052.html"
+      }
+    },
+    {
+      "id": "B4a-061",
+      "dex": 53,
+      "version": 2,
+      "score": 1,
+      "english": "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite.",
+      "zh-tw": "性情凶暴，豎起尾巴時要多加小心。那是牠將飛撲過來咬你的前兆。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0053.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0053.html"
+      }
+    },
+    {
+      "id": "B4a-062",
+      "dex": 352,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "能夠改變體色，融入景色中，偷偷地靠近獵物。但腹部的花紋是不會消失的。",
+      "sources": [
+        "PokeOS localized card image B4a-062 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-063",
+      "dex": 440,
+      "version": 2,
+      "score": 1,
+      "english": "It carefully carries a round, white rock that it thinks is an egg. It’s bothered by how curly its hair looks.",
+      "zh-tw": "深信白白圓圓的石頭是蛋，很小心翼翼地拿著。很在意自己捲毛的形狀。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0440.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0440.html"
+      }
+    },
+    {
+      "id": "B4a-064",
+      "dex": 676,
+      "version": 2,
+      "score": 1,
+      "english": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+      "zh-tw": "如果放著不管，體毛就會不斷變長，但牠只允許信賴的人幫自己修剪。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0676.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0676.html"
+      }
+    },
+    {
+      "id": "B4a-065",
+      "dex": 915,
+      "version": 2,
+      "score": 1,
+      "english": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+      "zh-tw": "只吃精挑細選過的食物。蟲寶可夢很討厭牠身上散發的那種聞起來像是香草的氣味。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0915.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0915.html"
+      }
+    },
+    {
+      "id": "B4a-066",
+      "dex": 916,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "喜好乾淨，個性一絲不苟。會讓花香包覆全身來療癒周圍的寶可夢們。",
+      "sources": [
+        "PokeOS localized card image B4a-066 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-073",
+      "dex": 655,
+      "version": 2,
+      "score": 1,
+      "english": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+      "zh-tw": "能用念力操控火焰。攝氏３０００度的火焰旋渦會包圍對手並將其燒成灰燼。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0655.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0655.html"
+      }
+    },
+    {
+      "id": "B4a-074",
+      "dex": 97,
+      "version": 2,
+      "score": 1,
+      "english": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+      "zh-tw": "會以固定的節奏擺動著形影不離的鐘擺。一靠近牠就會不由自主地昏昏欲睡。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0097.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0097.html"
+      }
+    },
+    {
+      "id": "B4a-075",
+      "dex": 959,
+      "version": 2,
+      "score": 1,
+      "english": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+      "zh-tw": "會輕鬆地揮舞著超過１００公斤的錘子來奪取想要的東西，然後帶回自己的住處。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0959.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0959.html"
+      }
+    },
+    {
+      "id": "B4a-076",
+      "dex": 352,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "能夠改變體色，融入景色中，偷偷地靠近獵物。但腹部的花紋是不會消失的。",
+      "sources": [
+        "PokeOS localized card image B4a-076 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-077",
+      "dex": 440,
+      "version": 2,
+      "score": 1,
+      "english": "It carefully carries a round, white rock that it thinks is an egg. It’s bothered by how curly its hair looks.",
+      "zh-tw": "深信白白圓圓的石頭是蛋，很小心翼翼地拿著。很在意自己捲毛的形狀。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0440.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0440.html"
+      }
+    },
+    {
+      "id": "B4a-078",
+      "dex": 915,
+      "version": 2,
+      "score": 1,
+      "english": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+      "zh-tw": "只吃精挑細選過的食物。蟲寶可夢很討厭牠身上散發的那種聞起來像是香草的氣味。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0915.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0915.html"
+      }
+    },
+    {
+      "id": "B4a-095",
+      "dex": 37,
+      "version": 2,
+      "score": 1,
+      "english": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+      "zh-tw": "隨著身體的成長，溫暖的６根尾巴的毛髮也會變得更漂亮。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0037.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0037.html"
+      }
+    },
+    {
+      "id": "B4a-096",
+      "dex": 38,
+      "version": 2,
+      "score": 1,
+      "english": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+      "zh-tw": "擁有金光閃閃的體毛以及９根長長的尾巴。據說壽命長達１０００年。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0038.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0038.html"
+      }
+    },
+    {
+      "id": "B4a-097",
+      "dex": 118,
+      "version": 2,
+      "score": 1,
+      "english": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+      "zh-tw": "背鰭和尾鰭像肌肉那樣發達。能夠以５節的速度在水中游泳。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0118.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0118.html"
+      }
+    },
+    {
+      "id": "B4a-098",
+      "dex": 119,
+      "version": 2,
+      "score": 1,
+      "english": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+      "zh-tw": "金魚王之所以會用角挖穿河底的岩石來築巢，是為了防止產下的卵被水流沖走。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0119.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0119.html"
+      }
+    },
+    {
+      "id": "B4a-099",
+      "dex": 848,
+      "version": 2,
+      "score": 1,
+      "english": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body.",
+      "zh-tw": "任性且非常愛撒嬌。體內的兩個囊袋分別儲存著毒和電。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0848.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0848.html"
+      }
+    },
+    {
+      "id": "B4a-100",
+      "dex": 854,
+      "version": 2,
+      "score": 1,
+      "english": "Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful.",
+      "zh-tw": "會趁著自己被喝掉時進到對方身體裡，從內部奪走其生物能量。喝起來很難喝。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0854.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0854.html"
+      }
+    },
+    {
+      "id": "B4a-101",
+      "dex": 855,
+      "version": 2,
+      "score": 1,
+      "english": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+      "zh-tw": "會潛入茶壺裡，然後把自己倒進喝到一半的紅茶裡來使茶量變多。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0855.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0855.html"
+      }
+    },
+    {
+      "id": "B4a-102",
+      "dex": 303,
+      "version": 2,
+      "score": 1,
+      "english": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+      "zh-tw": "大嘴娃能用自己那由鋼角變化而成的巨大顎部將對手一口緊緊咬住。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/0303.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/0303.html"
+      }
+    },
+    {
+      "id": "B4a-103",
+      "dex": 276,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "不擅長應付寒冷的季節。為了尋找溫暖的地帶，會1天飛上300公里的距離。",
+      "sources": [
+        "PokeOS localized card image B4a-103 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-104",
+      "dex": 277,
+      "version": "reviewed-card-image",
+      "score": null,
+      "zh-tw": "發現居住在森林裡的獵物時，會從高空俯衝而下，用銳利的爪子捕捉獵物。",
+      "sources": [
+        "PokeOS localized card image B4a-104 zh, manually transcribed and reviewed"
+      ]
+    },
+    {
+      "id": "B4a-109",
+      "dex": 1000,
+      "version": 2,
+      "score": 1,
+      "english": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+      "zh-tw": "堆疊硬幣而形成的身體結實堅固。會連續發射硬幣來壓制敵人。",
+      "sources": {
+        "en": "https://sg.portal-pokemon.com/play/pokedex/1000.html",
+        "zh-tw": "https://tw.portal-pokemon.com/play/pokedex/1000.html"
+      }
+    }
+  ],
+  "unresolved": []
+}

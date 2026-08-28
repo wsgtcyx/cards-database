@@ -1,0 +1,3532 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "cards": [
+    {
+      "id": "B4a-001",
+      "name": "Volbeat",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Grass"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Kanako Eo",
+      "description": "It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/1.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-002",
+      "name": "Illumise",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Ire-Fly",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "damage": "30+",
+          "effect": "If Volbeat is in your discard pile, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Kanako Eo",
+      "description": "It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/2.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-003",
+      "name": "Snivy",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Leaf Boomerang",
+          "cost": [
+            "Grass"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Atsuko Nishida",
+      "description": "It prefers to avoid groups. In its day-to-day life, it dexterously controls its vines to compensate for its short arms.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/3.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-004",
+      "name": "Servine",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Snivy",
+      "attacks": [
+        {
+          "name": "Leaf Step",
+          "cost": [
+            "Grass"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Kagemaru Himeno",
+      "description": "Servine's one weakness is its inflated sense of pride. It takes a while for Servine to be able to cooperate with other Pokémon.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/4.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-005",
+      "name": "Serperior",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Stage 2",
+      "evolveFrom": "Servine",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Regal Bloom",
+          "effect": "This Pokémon gets +30 HP for each [G] Energy attached to it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flog",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Mizue",
+      "description": "An intimidating gaze and majestic appearance have caused this Pokémon to be known as the Lord of the Forest.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/5.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-006",
+      "name": "Team Rocket’s Magmar",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Derisive Roasting",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "10+",
+          "effect": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "matazo",
+      "description": "Wavering flames similar to those of the sun appear on the surface of this Pokémon's body.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/6.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-007",
+      "name": "Team Rocket’s Moltres ex",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Heat Charged",
+          "cost": [
+            "Fire"
+          ],
+          "effect": "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": "Netherwing",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "Discard a [R] Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/7.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-008",
+      "name": "Team Rocket’s Houndour",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "cost": [
+            "Fire"
+          ],
+          "damage": 20
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Mina Nakai",
+      "description": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/8.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-009",
+      "name": "Team Rocket’s Houndoom",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Houndour",
+      "attacks": [
+        {
+          "name": "Toxfire Fang",
+          "cost": [
+            "Fire"
+          ],
+          "damage": 20,
+          "effect": "Your opponent's Active Pokémon is now Poisoned and Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "toriyufu",
+      "description": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/9.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-010",
+      "name": "Fennekin",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 10
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Atsuko Nishida",
+      "description": "Twigs make for Fennekin's snacks. When it nibbles on twigs, it finds the courage to face strong foes.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/10.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-011",
+      "name": "Braixen",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Fennekin",
+      "attacks": [
+        {
+          "name": "Psyshot",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "5ban Graphics",
+      "description": "Braixen's branch ignites as it's pulled from the Pokémon's tail. Braixen then uses the flame to spark powerful attacks.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/11.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-012",
+      "name": "Delphox",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Stage 2",
+      "evolveFrom": "Braixen",
+      "attacks": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "5ban Graphics",
+      "description": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/12.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-013",
+      "name": "Team Rocket’s Lapras",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Ruthless Whirlpool",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Mékayu",
+      "description": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/13.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-014",
+      "name": "Team Rocket’s Articuno ex",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Ice Wing",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "damage": 40
+        },
+        {
+          "name": "Hailstorm",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/14.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-015",
+      "name": "Wingull",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Flap",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 10
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Naoyo Kimura",
+      "description": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/15.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-016",
+      "name": "Pelipper",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 110,
+      "types": [
+        "Water"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Wingull",
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 60
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Miki Tanaka",
+      "description": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/16.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-017",
+      "name": "Hisuian Basculin",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Water"
+          ],
+          "damage": 20
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Shin Nagasawa",
+      "description": "Its ecology is starkly different from that of other Basculin, so theories that it's a totally different species have gained traction in recent years.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/17.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-018",
+      "name": "Hisuian Basculegion",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Water"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Hisuian Basculin",
+      "attacks": [
+        {
+          "name": "Soul Counter",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "damage": "50+",
+          "effect": "This attack does 50 more damage for each point your opponent got during their last turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Akira Komayama",
+      "description": "It can jump with incredible power. Parts of its body are tinged red by the rage of its fallen friends.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/18.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-019",
+      "name": "Team Rocket’s Voltorb",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Rolling Attack",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": 20
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "mingo",
+      "description": "It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/19.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-020",
+      "name": "Team Rocket’s Electrode",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Voltorb",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Destiny Burst",
+          "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 70 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Random Spark",
+          "cost": [
+            "Lightning"
+          ],
+          "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Krgc",
+      "description": "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/20.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-021",
+      "name": "Team Rocket’s Zapdos ex",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 40
+        },
+        {
+          "name": "Thunderclaw",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 90,
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "PLANETA Mamiya",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/21.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-022",
+      "name": "Blitzle",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Double Headbutt",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": "20x",
+          "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Saya Tsuruta",
+      "description": "This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/22.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-023",
+      "name": "Zebstrika",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Blitzle",
+      "attacks": [
+        {
+          "name": "Zap Kick",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": 50
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "0313",
+      "description": "Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/23.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-024",
+      "name": "Team Rocket’s Pincurchin",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "cost": [
+            "Lightning"
+          ],
+          "damage": 20,
+          "effect": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Ayako Ozaki",
+      "description": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/24.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-025",
+      "name": "Team Rocket’s Slowpoke",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Scavenge",
+          "cost": [
+            "Psychic"
+          ],
+          "effect": "Put a random Item card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "MINAMINAMI Take",
+      "description": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/25.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-026",
+      "name": "Team Rocket’s Slowking ex",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Slowpoke",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Evil Inspiration",
+          "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hand Kinesis",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "This attack does 20 damage for each card in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 3,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/26.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-027",
+      "name": "Team Rocket’s Drowzee",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Mumble",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": 40
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Shinji Kanda",
+      "description": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/27.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-028",
+      "name": "Team Rocket’s Hypno",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Drowzee",
+      "attacks": [
+        {
+          "name": "Entrap",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Nisota Niso",
+      "description": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/28.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-029",
+      "name": "Team Rocket’s Mr. Mime",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Slap Push",
+          "cost": [
+            "Psychic"
+          ],
+          "damage": 40
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "buchi",
+      "description": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/29.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-030",
+      "name": "Team Rocket’s Mewtwo",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Psychic Explosion",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "This Pokémon also does 70 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "danciao",
+      "description": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/30.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-031",
+      "name": "Espurr",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Beam",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": 40
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Kagemaru Himeno",
+      "description": "Behind an Espurr's expressionless face is a frantic struggle to contain psychic power.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/31.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-032",
+      "name": "Meowstic",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Espurr",
+      "attacks": [
+        {
+          "name": "Super Psy Bolt",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": 70
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Taira Akitsu",
+      "description": "When they sense danger, they exert their psychic power at its maximum output. They have no regard for their opponents.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/32.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-033",
+      "name": "Oranguru",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Punch and Draw",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": 40,
+          "effect": "Draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Sekio",
+      "description": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/33.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-034",
+      "name": "Gimmighoul",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 50,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 20
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "0313",
+      "description": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it's actually a Pokémon.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/34.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-035",
+      "name": "Cubone",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Fighting"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Bone Beatdown",
+          "cost": [
+            "Fighting"
+          ],
+          "damage": 20
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Hasuno",
+      "description": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/35.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-036",
+      "name": "Marowak",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 110,
+      "types": [
+        "Fighting"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Cubone",
+      "attacks": [
+        {
+          "name": "Punish",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "damage": 50,
+          "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "kirisAki",
+      "description": "When this Pokémon evolved, the skull of its mother fused to it. Marowak's temperament also turned vicious at the same time.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/36.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-037",
+      "name": "Landorus",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Fighting"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Gaia Impact",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "Discard all Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "NC Empire",
+      "description": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/37.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-038",
+      "name": "Team Rocket’s Ekans",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Darkness Fang",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": 40
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Gemi",
+      "description": "A very common sight in grasslands and such. It flicks its tongue in and out to sense danger in its surroundings.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/38.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-039",
+      "name": "Team Rocket’s Arbok",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Ekans",
+      "attacks": [
+        {
+          "name": "Shadow Seeker",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": "70+",
+          "effect": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Kazuki Minami",
+      "description": "This Pokémon is very tenacious. Once it targets its prey, it won't give up the chase, no matter how far the prey goes.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/39.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-040",
+      "name": "Team Rocket’s Grimer",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Sludge",
+          "cost": [
+            "Darkness"
+          ],
+          "damage": 20,
+          "effect": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Taiga Kasai",
+      "description": "When two of these Pokémon's bodies are combined together, new poisons are created.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/40.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-041",
+      "name": "Team Rocket’s Muk",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Grimer",
+      "attacks": [
+        {
+          "name": "Poison Absorption",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": 80,
+          "effect": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 3,
+      "illustrator": "Hitoshi Ariga",
+      "description": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/41.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-042",
+      "name": "Team Rocket’s Koffing",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Reverse Thrust",
+          "cost": [
+            "Darkness"
+          ],
+          "damage": 10,
+          "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Takeshi Nakamura",
+      "description": "The poisonous gases it contains are a little bit lighter than air. That's why it's always slightly airborne.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/42.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-043",
+      "name": "Team Rocket’s Weezing ex",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "hp": 140,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Koffing",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Boiler Smog",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Confusion Gas",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "damage": 60,
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/43.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-044",
+      "name": "Team Rocket’s Sneasel",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Group Beatdown",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "damage": "30x",
+          "effect": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Kazumasa Yasukuni",
+      "description": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/44.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-045",
+      "name": "Togedemaru",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Tumbling Attack",
+          "cost": [
+            "Metal"
+          ],
+          "damage": "20+",
+          "effect": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Megumi Mizutani",
+      "description": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/45.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-046",
+      "name": "Cufant",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Rollout",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "damage": 40
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 3,
+      "illustrator": "kirisAki",
+      "description": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/46.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-047",
+      "name": "Copperajah",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 160,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Cufant",
+      "attacks": [
+        {
+          "name": "Heavy Impact",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "damage": 80
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 4,
+      "illustrator": "Kouki Saitou",
+      "description": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/47.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-048",
+      "name": "Team Rocket’s Tinkatink",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Lunge Out",
+          "cost": [
+            "Metal"
+          ],
+          "damage": 20
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "mingo",
+      "description": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/48.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-049",
+      "name": "Team Rocket’s Tinkatuff",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Tinkatink",
+      "attacks": [
+        {
+          "name": "Corkscrew Punch",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "damage": 50
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Mousho",
+      "description": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/49.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-050",
+      "name": "Team Rocket’s Tinkaton",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 140,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Stage 2",
+      "evolveFrom": "Team Rocket's Tinkatuff",
+      "attacks": [
+        {
+          "name": "Pile-Driving Hammer",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "damage": 80,
+          "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 [C] more, and its Retreat Cost is 2 [C] more."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Megumi Mizutani",
+      "description": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/50.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-051",
+      "name": "Gholdengo",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Gimmighoul",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Luxury Coin",
+          "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Power Gem",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 50
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Natsumi Yoshida",
+      "description": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/51.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-052",
+      "name": "Gible",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Dragon"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Take Down",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 30,
+          "effect": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 1,
+      "illustrator": "saino misaki",
+      "description": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/52.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-053",
+      "name": "Gabite",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Dragon"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Gible",
+      "attacks": [
+        {
+          "name": "Linear Attack",
+          "cost": [
+            "Water",
+            "Fighting"
+          ],
+          "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 1,
+      "illustrator": "Tomokazu Komiya",
+      "description": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/53.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-054",
+      "name": "Garchomp",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 150,
+      "types": [
+        "Dragon"
+      ],
+      "stage": "Stage 2",
+      "evolveFrom": "Gabite",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Mach Stealth",
+          "effect": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Land Crush",
+          "cost": [
+            "Water",
+            "Fighting",
+            "Colorless"
+          ],
+          "damage": 120
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 1,
+      "illustrator": "Naoki Saito",
+      "description": "The protuberances on its head serve as sensors. It can even detect distant prey.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/54.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-055",
+      "name": "Duraludon",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Dragon"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Power Beam",
+          "cost": [
+            "Fighting",
+            "Metal"
+          ],
+          "damage": 50
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 2,
+      "illustrator": "Ryuta Fuse",
+      "description": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/55.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-056",
+      "name": "Archaludon",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 140,
+      "types": [
+        "Dragon"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Duraludon",
+      "attacks": [
+        {
+          "name": "Protect Charge",
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 110,
+          "effect": "During your opponent's next turn, this Pokémon takes -30 damage from attacks."
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 3,
+      "illustrator": "Shiburingaru",
+      "description": "It digs holes on mountains, searching for food. It's so durable that being caught in a cave-in won't faze it.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/56.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-057",
+      "name": "Regidrago",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 110,
+      "types": [
+        "Dragon"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Draconic Slam",
+          "cost": [
+            "Grass",
+            "Fire",
+            "Colorless"
+          ],
+          "damage": 140,
+          "effect": "If this Pokémon has damage on it, this attack does -100 damage."
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 2,
+      "illustrator": "Kouki Saitou",
+      "description": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/57.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-058",
+      "name": "Team Rocket’s Rattata",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 40,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Ambush",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": "20+",
+          "effect": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "cochi8i",
+      "description": "With their strong capacity for survival, they can live in dirty places without concern. Left unchecked, their numbers multiply rapidly.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/58.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-059",
+      "name": "Team Rocket’s Raticate ex",
+      "rarity": "Four Diamond",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Rattata",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Thieving Incisors",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Boost Dash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 70
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 0,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/59.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-060",
+      "name": "Team Rocket’s Meowth",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 50,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Yuriko Akase",
+      "description": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/60.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-061",
+      "name": "Team Rocket’s Persian",
+      "rarity": "Two Diamond",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Meowth",
+      "attacks": [
+        {
+          "name": "Dangerous Rogue",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "10+",
+          "effect": "This attack does 40 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "kodama",
+      "description": "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/61.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-062",
+      "name": "Team Rocket’s Kecleon",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Spy Ops",
+          "effect": "Once during your turn, you may look at a random card from your opponent's hand."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hit and Hide",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 40,
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Jerky",
+      "description": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/62.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-063",
+      "name": "Happiny",
+      "rarity": "Three Diamond",
+      "category": "Pokemon",
+      "hp": 30,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Chubby Cheer",
+          "cost": [],
+          "damage": 10,
+          "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 0,
+      "illustrator": "Eri Yamaki",
+      "description": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/63.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-064",
+      "name": "Furfrou",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Fur Coat",
+          "effect": "This Pokémon takes -20 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Continuous Steps",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 30,
+          "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Orca",
+      "description": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/64.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-065",
+      "name": "Lechonk",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Mina Nakai",
+      "description": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/65.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-066",
+      "name": "Oinkologne",
+      "rarity": "One Diamond",
+      "category": "Pokemon",
+      "hp": 110,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Lechonk",
+      "attacks": [
+        {
+          "name": "Sitdown Splash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "40+",
+          "effect": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Akira Komayama",
+      "description": "This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/66.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-067",
+      "name": "Team Rocket’s Thieving Machine",
+      "rarity": "Two Diamond",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "effect": "Put a random Item card, except any Team Rocket's Thieving Machine, from your opponent's discard pile into your hand.",
+      "illustrator": "Toyste Beach",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/67.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-068",
+      "name": "Team Rocket’s Goo-zooka",
+      "rarity": "Two Diamond",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "effect": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more.",
+      "illustrator": "Toyste Beach",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/68.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-069",
+      "name": "Team Rocket’s Researcher",
+      "rarity": "Two Diamond",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+      "illustrator": "hncl",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/69.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-070",
+      "name": "Team Rocket’s Master Plan",
+      "rarity": "Two Diamond",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+      "illustrator": "nagimiso",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/70.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-071",
+      "name": "Team Rocket’s Boss",
+      "rarity": "Two Diamond",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "effect": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench.",
+      "illustrator": "Atsushi Furusawa",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/71.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-072",
+      "name": "Arcade",
+      "rarity": "Two Diamond",
+      "category": "Trainer",
+      "trainerType": "Stadium",
+      "effect": "Once during each player's turn, that player may flip 3 coins. If all of them are heads, that player draws cards until they have 7 cards in their hand.",
+      "illustrator": "MARINA Chikazawa",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/72.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-073",
+      "name": "Delphox",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Stage 2",
+      "evolveFrom": "Braixen",
+      "attacks": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "60+",
+          "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Gemi",
+      "description": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/73.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-074",
+      "name": "Team Rocket’s Hypno",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Drowzee",
+      "attacks": [
+        {
+          "name": "Entrap",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Tetsu Kayama",
+      "description": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/74.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-075",
+      "name": "Team Rocket’s Tinkaton",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 140,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Stage 2",
+      "evolveFrom": "Team Rocket's Tinkatuff",
+      "attacks": [
+        {
+          "name": "Pile-Driving Hammer",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "damage": 80,
+          "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 [C] more, and its Retreat Cost is 2 [C] more."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Terada Tera",
+      "description": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/75.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-076",
+      "name": "Team Rocket’s Kecleon",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Spy Ops",
+          "effect": "Once during your turn, you may look at a random card from your opponent's hand."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hit and Hide",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 40,
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Saboteri",
+      "description": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/76.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-077",
+      "name": "Happiny",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 30,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Chubby Cheer",
+          "cost": [],
+          "damage": 10,
+          "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [],
+      "retreat": 0,
+      "illustrator": "Narumi Sato",
+      "description": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/77.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-078",
+      "name": "Lechonk",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "buchi",
+      "description": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/78.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-079",
+      "name": "Team Rocket’s Moltres ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Heat Charged",
+          "cost": [
+            "Fire"
+          ],
+          "effect": "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": "Netherwing",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "Discard a [R] Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/79.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-080",
+      "name": "Team Rocket’s Articuno ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Ice Wing",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "damage": 40
+        },
+        {
+          "name": "Hailstorm",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/80.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-081",
+      "name": "Team Rocket’s Zapdos ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 40
+        },
+        {
+          "name": "Thunderclaw",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 90,
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "PLANETA Mamiya",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/81.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-082",
+      "name": "Team Rocket’s Slowking ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Slowpoke",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Evil Inspiration",
+          "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hand Kinesis",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "This attack does 20 damage for each card in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 3,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/82.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-083",
+      "name": "Team Rocket’s Weezing ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 140,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Koffing",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Boiler Smog",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Confusion Gas",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "damage": 60,
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/83.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-084",
+      "name": "Team Rocket’s Raticate ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Rattata",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Thieving Incisors",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Boost Dash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 70
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 0,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/84.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-085",
+      "name": "Team Rocket’s Researcher",
+      "rarity": "Two Star",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+      "illustrator": "hncl",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/85.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-086",
+      "name": "Team Rocket’s Master Plan",
+      "rarity": "Two Star",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+      "illustrator": "nagimiso",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/86.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-087",
+      "name": "Team Rocket’s Boss",
+      "rarity": "Two Star",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "effect": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench.",
+      "illustrator": "Atsushi Furusawa",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/87.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-088",
+      "name": "Team Rocket’s Moltres ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Heat Charged",
+          "cost": [
+            "Fire"
+          ],
+          "effect": "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": "Netherwing",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "Discard a [R] Energy from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "REND",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/88.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-089",
+      "name": "Team Rocket’s Articuno ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Ice Wing",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "damage": 40
+        },
+        {
+          "name": "Hailstorm",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "damage": 130,
+          "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "REND",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/89.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-090",
+      "name": "Team Rocket’s Zapdos ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 40
+        },
+        {
+          "name": "Thunderclaw",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 90,
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "REND",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/90.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-091",
+      "name": "Team Rocket’s Slowking ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 130,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Slowpoke",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Evil Inspiration",
+          "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hand Kinesis",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "This attack does 20 damage for each card in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 3,
+      "illustrator": "Takeshi Nakamura",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/91.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-092",
+      "name": "Team Rocket’s Weezing ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 140,
+      "types": [
+        "Darkness"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Koffing",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Boiler Smog",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Confusion Gas",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "damage": 60,
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "Shimaris Yukichi",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/92.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-093",
+      "name": "Team Rocket’s Raticate ex",
+      "rarity": "Two Star",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Team Rocket's Rattata",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Thieving Incisors",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Boost Dash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 70
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 0,
+      "illustrator": "Krgc",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/93.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-094",
+      "name": "Team Rocket’s Master Plan",
+      "rarity": "Three Star",
+      "category": "Trainer",
+      "trainerType": "Supporter",
+      "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+      "illustrator": "Yukihiro Tada",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/94.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-095",
+      "name": "Vulpix",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Hold Still",
+          "cost": [
+            "Colorless"
+          ],
+          "effect": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Souichirou Gunjima",
+      "description": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/95.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-096",
+      "name": "Ninetales",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Vulpix",
+      "attacks": [
+        {
+          "name": "Ember Dance",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": "20x",
+          "effect": "Flip 9 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Souichirou Gunjima",
+      "description": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/96.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-097",
+      "name": "Goldeen",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 50,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Water"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Taiga Kasai",
+      "description": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/97.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-098",
+      "name": "Seaking",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 90,
+      "types": [
+        "Water"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Goldeen",
+      "attacks": [
+        {
+          "name": "Aqua Bullet",
+          "cost": [
+            "Water"
+          ],
+          "damage": 30,
+          "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Taiga Kasai",
+      "description": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/98.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-099",
+      "name": "Toxel",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 30
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "MAHOU",
+      "description": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/99.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-100",
+      "name": "Sinistea",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 30,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Hide",
+          "cost": [
+            "Psychic"
+          ],
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "MAHOU",
+      "description": "Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/100.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-101",
+      "name": "Polteageist",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Sinistea",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Refreshing Tea",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Spooky Shot",
+          "cost": [
+            "Psychic"
+          ],
+          "damage": 40
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "MAHOU",
+      "description": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/101.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-102",
+      "name": "Mawile",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Cavernous Chomp",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "damage": 50
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "Souichirou Gunjima",
+      "description": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/102.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-103",
+      "name": "Taillow",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 60,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "damage": 20
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "whomor Inc.",
+      "description": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/103.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-104",
+      "name": "Swellow",
+      "rarity": "One Shiny",
+      "category": "Pokemon",
+      "hp": 80,
+      "types": [
+        "Colorless"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Taillow",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Repelling Wind",
+          "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 50
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "whomor Inc.",
+      "description": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/104.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-105",
+      "name": "Mega Charizard Y ex",
+      "rarity": "Two Shiny",
+      "category": "Pokemon",
+      "hp": 220,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Stage 2",
+      "evolveFrom": "Charmeleon",
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "damage": 250,
+          "effect": "This Pokémon also does 50 damage to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA Igarashi",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/105.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-106",
+      "name": "Toxtricity ex",
+      "rarity": "Two Shiny",
+      "category": "Pokemon",
+      "hp": 150,
+      "types": [
+        "Lightning"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Toxel",
+      "attacks": [
+        {
+          "name": "Damaging Spark",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "damage": 90,
+          "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/106.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-107",
+      "name": "Mimikyu ex",
+      "rarity": "Two Shiny",
+      "category": "Pokemon",
+      "hp": 120,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Disguise",
+          "effect": "When this Pokémon is first damaged by an attack after coming into play, prevent that damage."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "damage": 70
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat": 2,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/107.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-108",
+      "name": "Mega Mawile ex",
+      "rarity": "Two Shiny",
+      "category": "Pokemon",
+      "hp": 170,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Basic",
+      "attacks": [
+        {
+          "name": "Heat-Up Crunch",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "damage": 60,
+          "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "PLANETA CG Works",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/108.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-109",
+      "name": "Gholdengo",
+      "rarity": "Crown",
+      "category": "Pokemon",
+      "hp": 100,
+      "types": [
+        "Metal"
+      ],
+      "stage": "Stage 1",
+      "evolveFrom": "Gimmighoul",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Luxury Coin",
+          "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Power Gem",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "damage": 50
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat": 1,
+      "illustrator": "PLANETA CG Works",
+      "description": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/109.png",
+      "confidence": "medium"
+    },
+    {
+      "id": "B4a-110",
+      "name": "Team Rocket’s Goo-zooka",
+      "rarity": "Crown",
+      "category": "Trainer",
+      "trainerType": "Item",
+      "effect": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more.",
+      "illustrator": "Toyste Beach",
+      "sourceImage": "https://assets.tcgpocketcollectiontracker.com/cards/B4a/en/110.png",
+      "confidence": "medium"
+    }
+  ]
+}

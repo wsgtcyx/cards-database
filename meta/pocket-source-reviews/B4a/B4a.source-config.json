@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "total": 110,
+  "officialCount": 72,
+  "secretCount": 38,
+  "releaseDate": "2026-08-27",
+  "series": "B",
+  "skuId": "B4a_1",
+  "slug": "team-rockets-ambition",
+  "boosterId": "boo_B4a-team-rockets-ambition",
+  "setNames": {
+    "en": "Team Rocket's Ambition",
+    "fr": "L’Ambition de la Team Rocket",
+    "es": "La Ambición del Team Rocket",
+    "it": "I Loschi Piani del Team Rocket",
+    "de": "Team Rockets Pläne",
+    "pt-br": "Ambições da Team Rocket",
+    "zh-tw": "火箭隊的野心",
+    "ja": "ロケット団の野望",
+    "ko": "로켓단의 야망"
+  },
+  "packNames": {
+    "en": "Team Rocket's Ambition",
+    "fr": "L’Ambition de la Team Rocket",
+    "es": "La Ambición del Team Rocket",
+    "it": "I Loschi Piani del Team Rocket",
+    "de": "Team Rockets Pläne",
+    "pt-br": "Ambições da Team Rocket",
+    "zh-tw": "火箭隊的野心",
+    "ja": "ロケット団の野望",
+    "ko": "로켓단의 야망"
+  },
+  "localizedCardFields": {
+    "en-US": "card_name_lang_9",
+    "fr-FR": "card_name_lang_5",
+    "de-DE": "card_name_lang_6",
+    "es-ES": "card_name_lang_7",
+    "it-IT": "card_name_lang_8",
+    "pt-BR": "card_name_lang_10",
+    "zh-TW": "card_name_lang_4",
+    "ko-KR": "card_name_lang_3",
+    "ja-JP": "card_name_lang_1"
+  },
+  "cardNameOverrides": {
+    "Team Rocket's Thieving Machine": { "zh-tw": "火箭隊的竊盜機", "ko": "로켓단의 도둑질 머신" },
+    "Team Rocket's Goo-zooka": { "zh-tw": "火箭隊的黏黏炮", "ko": "로켓단의 끈적끈적 바주카" },
+    "Team Rocket's Researcher": { "zh-tw": "火箭隊的研究員", "ko": "로켓단의 연구원" },
+    "Team Rocket's Master Plan": { "zh-tw": "火箭隊的大作戰", "ko": "로켓단의 대작전" },
+    "Team Rocket's Boss": { "zh-tw": "火箭隊的老大", "ko": "로켓단의 보스" },
+    "Mega Charizard Y ex": { "zh-tw": "超級噴火龍Yex", "ja": "メガリザードンYex" },
+    "Arcade": { "zh-tw": "電子遊樂場", "ko": "게임센터" },
+    "Marowak": { "zh-tw": "嘎啦嘎啦", "ko": "텅구리" }
+  },
+  "raenonxTemplateIds": {
+    "Attack": {
+      "Switch this Pokémon with 1 of your Benched Pokémon.": "40"
+    }
+  },
+  "reviewedTokenExceptions": {
+    "B4a-039.attacks.0.effect.it": "The Italian card face renders the Colorless Energy symbol explicitly where the English wording says Energy generically.",
+    "B4a-050.attacks.0.effect.it": "The Italian card face shares one Colorless Energy symbol between the attack-cost and Retreat Cost clauses.",
+    "B4a-050.attacks.0.effect.zh-tw": "The Traditional Chinese card face shares one Colorless Energy symbol between the attack-cost and Retreat Cost clauses.",
+    "B4a-075.attacks.0.effect.it": "Secret-art reprint matches B4a-050 and shares one Colorless Energy symbol between both clauses.",
+    "B4a-075.attacks.0.effect.zh-tw": "Secret-art reprint matches B4a-050 and shares one Colorless Energy symbol between both clauses."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "counts": {
+    "cards": 110,
+    "locales": 7,
+    "findings": 0
+  },
+  "tokenChecks": {
+    "exact": 660,
+    "reviewedExceptions": [
+      {
+        "key": "B4a-039.attacks.0.effect.it",
+        "expected": [],
+        "actual": [
+          "C"
+        ],
+        "reason": "The Italian card face renders the Colorless Energy symbol explicitly where the English wording says Energy generically."
+      },
+      {
+        "key": "B4a-050.attacks.0.effect.it",
+        "expected": [
+          "C",
+          "C"
+        ],
+        "actual": [
+          "C"
+        ],
+        "reason": "The Italian card face shares one Colorless Energy symbol between the attack-cost and Retreat Cost clauses."
+      },
+      {
+        "key": "B4a-050.attacks.0.effect.zh-tw",
+        "expected": [
+          "C",
+          "C"
+        ],
+        "actual": [
+          "C"
+        ],
+        "reason": "The Traditional Chinese card face shares one Colorless Energy symbol between the attack-cost and Retreat Cost clauses."
+      },
+      {
+        "key": "B4a-075.attacks.0.effect.it",
+        "expected": [
+          "C",
+          "C"
+        ],
+        "actual": [
+          "C"
+        ],
+        "reason": "Secret-art reprint matches B4a-050 and shares one Colorless Energy symbol between both clauses."
+      },
+      {
+        "key": "B4a-075.attacks.0.effect.zh-tw",
+        "expected": [
+          "C",
+          "C"
+        ],
+        "actual": [
+          "C"
+        ],
+        "reason": "Secret-art reprint matches B4a-050 and shares one Colorless Energy symbol between both clauses."
+      }
+    ],
+    "unresolved": 0
+  },
+  "findings": [],
+  "passed": true
+}

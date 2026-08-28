@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import assert from 'node:assert/strict'
+import crypto from 'node:crypto'
 import fs from 'node:fs'
 import path from 'node:path'
 
@@ -66,10 +67,14 @@ function publicSampleKeys(manifest) {
 	return keys
 }
 
-async function verifyPublicObject(origin, key) {
+function sha256(bytes) {
+	return crypto.createHash('sha256').update(bytes).digest('hex')
+}
+
+async function verifyPublicObject(origin, key, expectedBytes) {
 	const url = `${origin}/${key}`
 	const response = await fetch(url, {
-		headers: { Range: 'bytes=0-11' },
+		headers: expectedBytes ? undefined : { Range: 'bytes=0-11' },
 		signal: AbortSignal.timeout(30_000),
 	})
 	assert.ok(
@@ -88,6 +93,10 @@ async function verifyPublicObject(origin, key) {
 	assert.ok(bytes.length >= 12, `${url}: response is too short`)
 	assert.equal(bytes.subarray(0, 4).toString('ascii'), 'RIFF', `${url}: missing RIFF signature`)
 	assert.equal(bytes.subarray(8, 12).toString('ascii'), 'WEBP', `${url}: missing WEBP signature`)
+	if (expectedBytes) {
+		assert.equal(bytes.length, expectedBytes.length, `${url}: byte length differs from prepared object`)
+		assert.equal(sha256(bytes), sha256(expectedBytes), `${url}: SHA-256 differs from prepared object`)
+	}
 }
 
 async function runPool(items, worker, concurrency = 8) {
@@ -113,10 +122,12 @@ assert.equal(
 )
 
 const objectsPath = getArg('objects')
+let objectsRoot
 if (objectsPath) {
 	const objects = loadJson(objectsPath)
 	const preparedKeys = objects.map(object => object.key).sort()
 	assert.deepEqual(preparedKeys, keys, 'Prepared object manifest does not exactly match expected R2 keys')
+	objectsRoot = path.dirname(path.resolve(objectsPath))
 }
 
 const receiptsRoot = getArg('receipts')
@@ -130,14 +141,21 @@ if (receiptsRoot) {
 }
 
 const origin = manifest.r2.origin.replace(/\/$/, '')
-const samples = publicSampleKeys(manifest)
-await runPool(samples, key => verifyPublicObject(origin, key))
+const full = process.argv.includes('--full')
+if (full && !objectsRoot) throw new Error('--full requires --objects so public hashes can be compared with prepared files')
+const publicKeys = full ? keys : publicSampleKeys(manifest)
+await runPool(publicKeys, key => verifyPublicObject(
+	origin,
+	key,
+	full ? fs.readFileSync(path.join(objectsRoot, key)) : undefined,
+))
 
 console.log(JSON.stringify({
 	set: manifest.set.id,
 	expectedObjects: keys.length,
 	preparedManifest: Boolean(objectsPath),
 	uploadReceipts: Boolean(receiptsRoot),
-	publicObjectsChecked: samples.length,
+	publicObjectsChecked: publicKeys.length,
+	publicHashesChecked: full ? publicKeys.length : 0,
 	status: 'ok',
 }, null, 2))

@@ -14,24 +14,45 @@ function loadJson(file) {
 }
 
 function normalize(value) {
-	return String(value ?? '').normalize('NFKC').replace(/\s+/gu, ' ').trim()
+	return String(value ?? '').normalize('NFKC').replace(/[’‘]/gu, "'").replace(/\s+/gu, ' ').trim()
 }
 
 const canonicalPath = getArg('canonical')
 const templateRoot = getArg('template-root')
 const outputRoot = getArg('output')
 const speciesNamesPath = getArg('species-names')
+const setConfigPath = getArg('set-config')
+const localizedCardsPath = getArg('localized-cards')
 if (!canonicalPath || !templateRoot || !outputRoot || !speciesNamesPath) {
 	throw new Error('--canonical, --template-root, --species-names and --output are required')
 }
 
 const canonical = loadJson(canonicalPath)
-if (canonical.setId !== 'B4' || canonical.cards?.length !== 233) {
-	throw new Error('This reviewed source builder expects the complete 233-card B4 canonical file')
+const defaultSetConfig = {
+	setId: 'B4', total: 233, releaseDate: '2026-07-30', series: 'B', skuId: 'B4_1',
+	setNames: {
+		en: 'Ruler of the Skies', fr: 'Domination Céleste', es: 'Dominador de los Cielos',
+		it: 'Sovrano dei Cieli', de: 'Herrscher der Lüfte', 'pt-br': 'Mestre dos Céus',
+		'zh-tw': '天空主宰', ko: '천공의 지배자', ja: '天空の支配者',
+	},
+	packNames: { en: 'Ruler of the Skies' },
+	localizedCardFields: {
+		'en-US': 'card_name_lang_9', 'fr-FR': 'card_name_lang_5', 'de-DE': 'card_name_lang_6',
+		'es-ES': 'card_name_lang_7', 'it-IT': 'card_name_lang_8', 'pt-BR': 'card_name_lang_10',
+		'zh-TW': 'card_name_lang_4', 'ko-KR': 'card_name_lang_3', 'ja-JP': 'card_name_lang_1',
+	},
+}
+const setConfig = setConfigPath ? { ...defaultSetConfig, ...loadJson(setConfigPath) } : defaultSetConfig
+setConfig.setNames = { ...defaultSetConfig.setNames, ...setConfig.setNames }
+setConfig.packNames = { ...defaultSetConfig.packNames, ...setConfig.packNames }
+setConfig.localizedCardFields = { ...defaultSetConfig.localizedCardFields, ...setConfig.localizedCardFields }
+setConfig.cardNameOverrides = setConfig.cardNameOverrides ?? {}
+if (canonical.setId !== setConfig.setId || canonical.cards?.length !== setConfig.total) {
+	throw new Error(`Reviewed source builder expected ${setConfig.total} ${setConfig.setId} cards`)
 }
 const canonicalIds = new Set()
 for (let index = 0; index < canonical.cards.length; index++) {
-	const expectedId = `B4-${String(index + 1).padStart(3, '0')}`
+	const expectedId = `${setConfig.setId}-${String(index + 1).padStart(3, '0')}`
 	const actualId = canonical.cards[index]?.id
 	if (actualId !== expectedId) {
 		throw new Error(`Canonical card order is unsafe: expected ${expectedId} at position ${index + 1}, got ${actualId}`)
@@ -52,17 +73,7 @@ const LANG_BY_LOCALE = {
 	'ko-KR': 'ko',
 	'ja-JP': 'ja',
 }
-const SET_NAMES = {
-	en: 'Ruler of the Skies',
-	fr: 'Domination Céleste',
-	es: 'Dominador de los Cielos',
-	it: 'Sovrano dei Cieli',
-	de: 'Herrscher der Lüfte',
-	'pt-br': 'Mestre dos Céus',
-	'zh-tw': '天空主宰',
-	ko: '천공의 지배자',
-	ja: '天空の支配者',
-}
+const SET_NAMES = setConfig.setNames
 const TRAINER_NAMES = {
 	'Order Pad': {
 		fr: 'Terminal de Commande', es: 'Dispositivo de Pedidos', it: 'Schermo Ordini', de: 'Bestellpad',
@@ -149,6 +160,19 @@ function buildLocalizedNameMap(locale) {
 }
 
 const localizedNames = Object.fromEntries(LOCALES.map(locale => [locale, buildLocalizedNameMap(locale)]))
+if (localizedCardsPath) {
+	const localizedCards = loadJson(localizedCardsPath)
+	const byNumber = new Map(localizedCards.map(card => [Number(card.card_number), card]))
+	for (let index = 0; index < canonical.cards.length; index++) {
+		const english = normalize(canonical.cards[index].name)
+		const source = byNumber.get(index + 1)
+		if (!source) throw new Error(`${setConfig.setId}-${String(index + 1).padStart(3, '0')}: localized card is missing`)
+		for (const locale of LOCALES) {
+			const value = source[setConfig.localizedCardFields[locale]]
+			if (value) localizedNames[locale].set(english, value)
+		}
+	}
+}
 
 function parseCsv(text) {
 	const rows = []
@@ -206,6 +230,7 @@ function buildSpeciesNames() {
 }
 
 const speciesNames = buildSpeciesNames()
+const configuredNameOverrides = new Map(Object.entries(setConfig.cardNameOverrides).map(([name, locales]) => [normalize(name), locales]))
 
 function stripEx(name) {
 	return name.replace(/\s*-?ex$/iu, '').trim()
@@ -228,6 +253,25 @@ function constructFormName(english, locale) {
 	const lang = LANG_BY_LOCALE[locale]
 	const ex = / ex$/iu.test(english)
 	let base = english.replace(/ ex$/iu, '')
+	if (base.startsWith("Team Rocket's ") || base.startsWith('Team Rocket’s ')) {
+		base = base.replace(/^Team Rocket['’]s /u, '')
+		const translated = stripEx(localizedBase(base, locale))
+		const rocket = {
+			fr: `${translated} de la Team Rocket`, es: `${translated} del Team Rocket`, it: `${translated} del Team Rocket`,
+			de: `${translated} von Team Rocket`, 'pt-br': `${translated} da Equipe Rocket`, 'zh-tw': `火箭隊的${translated}`,
+			ko: `로켓단의 ${translated}`, ja: `ロケット団の${translated}`,
+		}[lang] ?? `Team Rocket's ${translated}`
+		return ex ? addEx(rocket, lang) : rocket
+	}
+	if (base.startsWith('Hisuian ')) {
+		base = base.slice(8)
+		const translated = stripEx(localizedBase(base, locale))
+		const hisuian = {
+			fr: `${translated} de Hisui`, es: `${translated} de Hisui`, it: `${translated} di Hisui`, de: `Hisui-${translated}`,
+			'pt-br': `${translated} de Hisui`, 'zh-tw': `洗翠的${translated}`, ko: `히스이 ${translated}`, ja: `ヒスイ${translated}`,
+		}[lang] ?? `Hisuian ${translated}`
+		return ex ? addEx(hisuian, lang) : hisuian
+	}
 	if (base.startsWith('Mega ')) {
 		base = base.slice(5)
 		const translated = stripEx(localizedBase(base, locale))
@@ -259,9 +303,9 @@ function constructFormName(english, locale) {
 }
 
 function resolveLocalizedName(english, locale) {
-	if (locale === 'en-US') return { name: english, source: 'canonical-en' }
+	if (locale === 'en-US') return { name: normalize(english), source: 'canonical-en' }
 	const lang = LANG_BY_LOCALE[locale]
-	const override = TRAINER_NAMES[english]?.[lang] ?? NAME_OVERRIDES[english]?.[lang]
+	const override = configuredNameOverrides.get(normalize(english))?.[lang] ?? TRAINER_NAMES[english]?.[lang] ?? NAME_OVERRIDES[english]?.[lang]
 	if (override) return { name: override, source: 'reviewed-override' }
 	const exact = localizedNames[locale].get(normalize(english))
 	if (exact) return { name: exact, source: 'historical-card-name' }
@@ -282,6 +326,15 @@ function resolveLocalizedName(english, locale) {
 	return { name: english, source: 'unresolved-english-fallback' }
 }
 
+function hasUnexpectedLatinFallback(name, locale) {
+	const lang = LANG_BY_LOCALE[locale]
+	if (!['zh-tw', 'ja', 'ko'].includes(lang)) return false
+	const withoutApprovedFormMarkers = name
+		.replace(/[QXY]/gu, '')
+		.replace(/ex/giu, '')
+	return /[A-Za-z]{2,}/u.test(withoutApprovedFormMarkers)
+}
+
 function localizedName(english, locale) {
 	return resolveLocalizedName(english, locale).name
 }
@@ -289,12 +342,12 @@ function localizedName(english, locale) {
 function structuralCard(card, number, locale) {
 	const trainer = card.category === 'Trainer'
 	const result = {
-		set: 'B4',
+		set: setConfig.setId,
 		number,
 		name: localizedName(card.name, locale),
 		rarity: RARITY[card.rarity],
 		image: path.basename(card.sourceImage ?? `${number}.webp`),
-		packs: ['Ruler of the Skies'],
+		packs: [setConfig.packNames[LANG_BY_LOCALE[locale]] ?? SET_NAMES[LANG_BY_LOCALE[locale]]],
 		element: trainer ? 'colorless' : card.types?.[0]?.toLowerCase(),
 		type: trainer ? 'trainer' : 'pokemon',
 		stage: trainer ? undefined : card.stage === 'Basic' ? 'basic' : Number(card.stage?.match(/\d+/u)?.[0]),
@@ -313,33 +366,36 @@ fs.cpSync(path.join(path.resolve(templateRoot), 'metadata'), path.join(path.reso
 
 const unresolved = []
 for (const locale of LOCALES) {
-	const b4Cards = canonical.cards.map((card, index) => {
+	const importedCards = canonical.cards.map((card, index) => {
 		const source = structuralCard(card, index + 1, locale)
 		const resolution = resolveLocalizedName(card.name, locale)
-		if (locale !== 'en-US' && resolution.source === 'unresolved-english-fallback') {
+		if (locale !== 'en-US' && (
+			resolution.source === 'unresolved-english-fallback'
+			|| hasUnexpectedLatinFallback(resolution.name, locale)
+		)) {
 			unresolved.push({ locale, id: card.id, name: card.name, source: resolution.source })
 		}
 		return source
 	})
 	const cardsFile = templateFile(outputRoot, 'cards', locale, 'cards.extra.json')
-	fs.writeFileSync(cardsFile, `${JSON.stringify([...sourceByLocale[locale], ...b4Cards], null, 2)}\n`)
+	fs.writeFileSync(cardsFile, `${JSON.stringify([...sourceByLocale[locale], ...importedCards], null, 2)}\n`)
 
 	const sourceSets = loadJson(templateFile(templateRoot, 'sets', locale, 'sets.json'))
 	const lang = LANG_BY_LOCALE[locale]
-	const b4Set = {
-		code: 'B4', releaseDate: '2026-07-30', count: 233,
+	const importedSet = {
+		code: setConfig.setId, releaseDate: setConfig.releaseDate, count: setConfig.total,
 		name: { en: SET_NAMES[lang] },
-		packs: [{ name: SET_NAMES[lang], skuId: 'B4_1' }],
+		packs: [{ name: setConfig.packNames[lang] ?? SET_NAMES[lang], skuId: setConfig.skuId }],
 	}
-	sourceSets.B = [...sourceSets.B.filter(set => set.code !== 'B4'), b4Set]
+	sourceSets[setConfig.series] = [...sourceSets[setConfig.series].filter(set => set.code !== setConfig.setId), importedSet]
 	const setsFile = templateFile(outputRoot, 'sets', locale, 'sets.json')
 	fs.writeFileSync(setsFile, `${JSON.stringify(sourceSets, null, 2)}\n`)
 }
 
 const report = {
-	set: 'B4', cards: canonical.cards.length, locales: LOCALES.length,
+	set: setConfig.setId, cards: canonical.cards.length, locales: LOCALES.length,
 	unresolvedLocalizedNames: unresolved,
 }
-const reportPath = path.join(path.resolve(outputRoot), 'B4.localization-report.json')
+const reportPath = path.join(path.resolve(outputRoot), `${setConfig.setId}.localization-report.json`)
 fs.writeFileSync(reportPath, `${JSON.stringify(report, null, 2)}\n`)
 console.log(JSON.stringify({ ...report, reportPath }, null, 2))

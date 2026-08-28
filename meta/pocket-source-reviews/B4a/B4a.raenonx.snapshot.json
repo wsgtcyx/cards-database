@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "source": {
+    "name": "RaenonX Pokémon TCG Pocket Wiki",
+    "credit": "https://ptcgp.raenonx.cc",
+    "masterUrl": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "pageUrlTemplate": "https://ptcgp.raenonx.cc/{locale}/card/{cardId}",
+    "imageUrlTemplate": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/{locale}/{cardId}.png",
+    "accessedAt": "2026-08-28T03:03:37.189Z",
+    "master": {
+      "status": 200,
+      "bytes": 5443645,
+      "sha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532",
+      "lastModified": "Fri, 28 Aug 2026 03:03:26 GMT"
+    },
+    "pages": {
+      "en": {
+        "url": "https://ptcgp.raenonx.cc/en/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a32015416fa9903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:28 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ASPFVl5Ke9Bk%2F8Ihn4ZLH%2FQjRNA3eJW7Sk%2FhTTYLBYWtqBWZYxdBULn9MwXWGSf9xTJ8MyVaUHZwONhA8Bko0x1OreaE%2BPcIV7c7KctQSLP2hx21Af2egH3NlUZtqYhAm9VF\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/en/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "18946e5a161dc38fab1f5013d41620ca9c5be4b7b83a9116c12cd669a50117f5",
+        "bytes": 490023
+      },
+      "fr": {
+        "url": "https://ptcgp.raenonx.cc/fr/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a3201548fb52903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:29 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a1zBB60zhkVXLCtPnAvcnO3TYhnjl%2FKjRAFtTT%2BxsCl5FMarKL6VHSt%2Fft%2F%2FjsViySq6ulLeRcLd95jzP11xV01I0xAXBfIYHIOWbwcA%2Bx4Hsr40aNHg6oV0imT75NYw6TA9\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/fr/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "8e4e379d2cfdf4371fcc86079a5a298a93b1b1104bc5fcf7e95d571ba26ad540",
+        "bytes": 550380
+      },
+      "es": {
+        "url": "https://ptcgp.raenonx.cc/es/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a320154eee17903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:30 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=nJCY8IhujHwil7vZp7qlXxbYTA3SHTem72zOlTZmJmtm00zf7v%2B6EqGCkpztzKlnXp5wF59%2Fttn7sweAZ4A0n7hfyRFy1ohl3GLv9SYZh9l34rcdJVrf8wuVHdJcJ1e3vohX\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/es/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "92fde71383d0b5c853a737838cef730283a4f8cf92fe4e497774c98063e0ce82",
+        "bytes": 514151
+      },
+      "pt": {
+        "url": "https://ptcgp.raenonx.cc/pt/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a32015593c0a903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:32 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CDJXjMAF%2F5CcRioge%2BHB9%2FHGzHtz%2B3owlrKHT8cnMutjNF0uSnVDLGYQsDCq5ofQ4PFdrXhEZ2U%2FSETjhID8o6m2xU2MHZCIP9ouaHPyFkXNWhzMdPUhlHbTRDalOY0A7Ssh\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/pt/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "f5a8e88574b54aff6ed3f7f9fa6c9a8c0a8588def32beb0745cc0bbbf8f48c13",
+        "bytes": 524356
+      },
+      "zh": {
+        "url": "https://ptcgp.raenonx.cc/zh/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a3201563388b903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:33 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PMB8cbyx9jPQ4pyu1HShyHXmYrEjeNiEQNcNPezakifIsbx8s450uxhZC1NOrrNsHFhjynjWxWDh835Ru1KrjAqWs1GISCwvCYnTQsk9Hfv7i5Nm0zRD62DetCo0s7yK37Qy\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/zh/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "7a77f03c24355dd4e41386a625da8f75f71c1999214ae1f9b2d18a77399327b0",
+        "bytes": 486969
+      }
+    },
+    "permission": "User authorized attribution and publication of a direct RaenonX mirror for this project; RaenonX repository licence was not found."
+  },
+  "locales": [
+    "en",
+    "fr",
+    "es",
+    "pt",
+    "zh"
+  ],
+  "entryCount": 0,
+  "dictionaryOnly": true
+}

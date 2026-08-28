@@ -52,7 +52,13 @@ function parse(file) {
 }
 
 function normalized(value) {
-	return String(value ?? '').normalize('NFKC').replace(INVISIBLE, '').trim().replace(/\s+/gu, ' ').toLocaleLowerCase('en')
+	return String(value ?? '')
+		.normalize('NFKC')
+		.replace(INVISIBLE, '')
+		.replace(APOSTROPHE_VARIANT, "'")
+		.trim()
+		.replace(/\s+/gu, ' ')
+		.toLocaleLowerCase('en')
 }
 
 function mechanicIdentity(value) {

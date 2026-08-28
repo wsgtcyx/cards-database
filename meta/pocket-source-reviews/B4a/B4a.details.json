@@ -1,0 +1,2252 @@
+[
+  {
+    "ID": "B4a-001",
+    "Name": "Volbeat",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kanako Eo",
+    "Flavor-Text": "It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tackle"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-002",
+    "Name": "Illumise",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kanako Eo",
+    "Flavor-Text": "It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ire-Fly"
+    ],
+    "Move-Energy": [
+      "GC"
+    ],
+    "Move-Damage": [
+      "30+"
+    ],
+    "Effects": [
+      "If Volbeat is in your discard pile, this attack does 60 more damage."
+    ]
+  },
+  {
+    "ID": "B4a-003",
+    "Name": "Snivy",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Atsuko Nishida",
+    "Flavor-Text": "It prefers to avoid groups. In its day-to-day life, it dexterously controls its vines to compensate for its short arms.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Leaf Boomerang"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 20 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4a-004",
+    "Name": "Servine",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kagemaru Himeno",
+    "Flavor-Text": "Servine's one weakness is its inflated sense of pride. It takes a while for Servine to be able to cooperate with other Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Leaf Step"
+    ],
+    "Move-Energy": [
+      "G"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-005",
+    "Name": "Serperior",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mizue",
+    "Flavor-Text": "An intimidating gaze and majestic appearance have caused this Pokémon to be known as the Lord of the Forest.",
+    "Ability": [
+      "Regal Bloom"
+    ],
+    "Ability-Effect": [
+      "This Pokémon gets +30 HP for each [G] Energy attached to it."
+    ],
+    "Moves": [
+      "Flog"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "60+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 60 more damage."
+    ]
+  },
+  {
+    "ID": "B4a-006",
+    "Name": "Team Rocket’s Magmar",
+    "Card-Type": "Pokemon",
+    "Illustrator": "matazo",
+    "Flavor-Text": "Wavering flames similar to those of the sun appear on the surface of this Pokémon's body.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Derisive Roasting"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10+"
+    ],
+    "Effects": [
+      "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-007",
+    "Name": "Team Rocket’s Moltres ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heat Charged",
+      "Netherwing"
+    ],
+    "Move-Energy": [
+      "R",
+      "RRRC"
+    ],
+    "Move-Damage": [
+      "",
+      "130"
+    ],
+    "Effects": [
+      "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon.",
+      "Discard a [R] Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-008",
+    "Name": "Team Rocket’s Houndour",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mina Nakai",
+    "Flavor-Text": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Live Coal"
+    ],
+    "Move-Energy": [
+      "R"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-009",
+    "Name": "Team Rocket’s Houndoom",
+    "Card-Type": "Pokemon",
+    "Illustrator": "toriyufu",
+    "Flavor-Text": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Toxfire Fang"
+    ],
+    "Move-Energy": [
+      "R"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Poisoned and Burned."
+    ]
+  },
+  {
+    "ID": "B4a-010",
+    "Name": "Fennekin",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Atsuko Nishida",
+    "Flavor-Text": "Twigs make for Fennekin's snacks. When it nibbles on twigs, it finds the courage to face strong foes.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Scratch"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-011",
+    "Name": "Braixen",
+    "Card-Type": "Pokemon",
+    "Illustrator": "5ban Graphics",
+    "Flavor-Text": "Braixen's branch ignites as it's pulled from the Pokémon's tail. Braixen then uses the flame to spark powerful attacks.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Psyshot"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-012",
+    "Name": "Delphox",
+    "Card-Type": "Pokemon",
+    "Illustrator": "5ban Graphics",
+    "Flavor-Text": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Psychic"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "60+"
+    ],
+    "Effects": [
+      "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-013",
+    "Name": "Team Rocket’s Lapras",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mékayu",
+    "Flavor-Text": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ruthless Whirlpool"
+    ],
+    "Move-Energy": [
+      "WC"
+    ],
+    "Move-Damage": [
+      "40+"
+    ],
+    "Effects": [
+      "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+    ]
+  },
+  {
+    "ID": "B4a-014",
+    "Name": "Team Rocket’s Articuno ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ice Wing",
+      "Hailstorm"
+    ],
+    "Move-Energy": [
+      "WC",
+      "WWC"
+    ],
+    "Move-Damage": [
+      "40",
+      "130"
+    ],
+    "Effects": [
+      "",
+      "This attack also does 20 damage to each of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-015",
+    "Name": "Wingull",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoyo Kimura",
+    "Flavor-Text": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Flap"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-016",
+    "Name": "Pelipper",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Miki Tanaka",
+    "Flavor-Text": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Wing Attack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-017",
+    "Name": "Hisuian Basculin",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shin Nagasawa",
+    "Flavor-Text": "Its ecology is starkly different from that of other Basculin, so theories that it's a totally different species have gained traction in recent years.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bite"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-018",
+    "Name": "Hisuian Basculegion",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Akira Komayama",
+    "Flavor-Text": "It can jump with incredible power. Parts of its body are tinged red by the rage of its fallen friends.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Soul Counter"
+    ],
+    "Move-Energy": [
+      "WW"
+    ],
+    "Move-Damage": [
+      "50+"
+    ],
+    "Effects": [
+      "This attack does 50 more damage for each point your opponent got during their last turn."
+    ]
+  },
+  {
+    "ID": "B4a-019",
+    "Name": "Team Rocket’s Voltorb",
+    "Card-Type": "Pokemon",
+    "Illustrator": "mingo",
+    "Flavor-Text": "It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Rolling Attack"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-020",
+    "Name": "Team Rocket’s Electrode",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Krgc",
+    "Flavor-Text": "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.",
+    "Ability": [
+      "Destiny Burst"
+    ],
+    "Ability-Effect": [
+      "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 70 damage to the Attacking Pokémon."
+    ],
+    "Moves": [
+      "Random Spark"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "This attack does 30 damage to 1 of your opponent's Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-021",
+    "Name": "Team Rocket’s Zapdos ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Mamiya",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Electro Ball",
+      "Thunderclaw"
+    ],
+    "Move-Energy": [
+      "LC",
+      "LLC"
+    ],
+    "Move-Damage": [
+      "40",
+      "90"
+    ],
+    "Effects": [
+      "",
+      "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+    ]
+  },
+  {
+    "ID": "B4a-022",
+    "Name": "Blitzle",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Saya Tsuruta",
+    "Flavor-Text": "This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Double Headbutt"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "Flip 2 coins. This attack does 20 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4a-023",
+    "Name": "Zebstrika",
+    "Card-Type": "Pokemon",
+    "Illustrator": "0313",
+    "Flavor-Text": "Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Zap Kick"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-024",
+    "Name": "Team Rocket’s Pincurchin",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Ayako Ozaki",
+    "Flavor-Text": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Poison Jab"
+    ],
+    "Move-Energy": [
+      "L"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Poisoned."
+    ]
+  },
+  {
+    "ID": "B4a-025",
+    "Name": "Team Rocket’s Slowpoke",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MINAMINAMI Take",
+    "Flavor-Text": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Scavenge"
+    ],
+    "Move-Energy": [
+      "P"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Put a random Item card from your discard pile into your hand."
+    ]
+  },
+  {
+    "ID": "B4a-026",
+    "Name": "Team Rocket’s Slowking ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": [
+      "Evil Inspiration"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+    ],
+    "Moves": [
+      "Hand Kinesis"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "This attack does 20 damage for each card in your hand."
+    ]
+  },
+  {
+    "ID": "B4a-027",
+    "Name": "Team Rocket’s Drowzee",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shinji Kanda",
+    "Flavor-Text": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Mumble"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-028",
+    "Name": "Team Rocket’s Hypno",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Nisota Niso",
+    "Flavor-Text": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Entrap"
+    ],
+    "Move-Energy": [
+      "PP"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-029",
+    "Name": "Team Rocket’s Mr. Mime",
+    "Card-Type": "Pokemon",
+    "Illustrator": "buchi",
+    "Flavor-Text": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Slap Push"
+    ],
+    "Move-Energy": [
+      "P"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-030",
+    "Name": "Team Rocket’s Mewtwo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "danciao",
+    "Flavor-Text": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Psychic Explosion"
+    ],
+    "Move-Energy": [
+      "PPC"
+    ],
+    "Move-Damage": [
+      "130"
+    ],
+    "Effects": [
+      "This Pokémon also does 70 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4a-031",
+    "Name": "Espurr",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kagemaru Himeno",
+    "Flavor-Text": "Behind an Espurr's expressionless face is a frantic struggle to contain psychic power.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Beam"
+    ],
+    "Move-Energy": [
+      "PP"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-032",
+    "Name": "Meowstic",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taira Akitsu",
+    "Flavor-Text": "When they sense danger, they exert their psychic power at its maximum output. They have no regard for their opponents.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Super Psy Bolt"
+    ],
+    "Move-Energy": [
+      "PP"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-033",
+    "Name": "Oranguru",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Sekio",
+    "Flavor-Text": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Punch and Draw"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Draw a card."
+    ]
+  },
+  {
+    "ID": "B4a-034",
+    "Name": "Gimmighoul",
+    "Card-Type": "Pokemon",
+    "Illustrator": "0313",
+    "Flavor-Text": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it's actually a Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tackle"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-035",
+    "Name": "Cubone",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Hasuno",
+    "Flavor-Text": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Bone Beatdown"
+    ],
+    "Move-Energy": [
+      "F"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-036",
+    "Name": "Marowak",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kirisAki",
+    "Flavor-Text": "When this Pokémon evolved, the skull of its mother fused to it. Marowak's temperament also turned vicious at the same time.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Punish"
+    ],
+    "Move-Energy": [
+      "FC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+    ]
+  },
+  {
+    "ID": "B4a-037",
+    "Name": "Landorus",
+    "Card-Type": "Pokemon",
+    "Illustrator": "NC Empire",
+    "Flavor-Text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Gaia Impact"
+    ],
+    "Move-Energy": [
+      "FFC"
+    ],
+    "Move-Damage": [
+      "130"
+    ],
+    "Effects": [
+      "Discard all Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-038",
+    "Name": "Team Rocket’s Ekans",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Gemi",
+    "Flavor-Text": "A very common sight in grasslands and such. It flicks its tongue in and out to sense danger in its surroundings.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Darkness Fang"
+    ],
+    "Move-Energy": [
+      "DC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-039",
+    "Name": "Team Rocket’s Arbok",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kazuki Minami",
+    "Flavor-Text": "This Pokémon is very tenacious. Once it targets its prey, it won't give up the chase, no matter how far the prey goes.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Shadow Seeker"
+    ],
+    "Move-Energy": [
+      "DDC"
+    ],
+    "Move-Damage": [
+      "70+"
+    ],
+    "Effects": [
+      "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+    ]
+  },
+  {
+    "ID": "B4a-040",
+    "Name": "Team Rocket’s Grimer",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "When two of these Pokémon's bodies are combined together, new poisons are created.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sludge"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Poisoned."
+    ]
+  },
+  {
+    "ID": "B4a-041",
+    "Name": "Team Rocket’s Muk",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Hitoshi Ariga",
+    "Flavor-Text": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Poison Absorption"
+    ],
+    "Move-Energy": [
+      "DDC"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-042",
+    "Name": "Team Rocket’s Koffing",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Takeshi Nakamura",
+    "Flavor-Text": "The poisonous gases it contains are a little bit lighter than air. That's why it's always slightly airborne.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Reverse Thrust"
+    ],
+    "Move-Energy": [
+      "D"
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      "Switch this Pokémon with 1 of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-043",
+    "Name": "Team Rocket’s Weezing ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": [
+      "Boiler Smog"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+    ],
+    "Moves": [
+      "Confusion Gas"
+    ],
+    "Move-Energy": [
+      "DD"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Confused."
+    ]
+  },
+  {
+    "ID": "B4a-044",
+    "Name": "Team Rocket’s Sneasel",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kazumasa Yasukuni",
+    "Flavor-Text": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Group Beatdown"
+    ],
+    "Move-Energy": [
+      "DC"
+    ],
+    "Move-Damage": [
+      "30x"
+    ],
+    "Effects": [
+      "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4a-045",
+    "Name": "Togedemaru",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Megumi Mizutani",
+    "Flavor-Text": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Tumbling Attack"
+    ],
+    "Move-Energy": [
+      "M"
+    ],
+    "Move-Damage": [
+      "20+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 30 more damage."
+    ]
+  },
+  {
+    "ID": "B4a-046",
+    "Name": "Cufant",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kirisAki",
+    "Flavor-Text": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Rollout"
+    ],
+    "Move-Energy": [
+      "MC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-047",
+    "Name": "Copperajah",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heavy Impact"
+    ],
+    "Move-Energy": [
+      "MMC"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-048",
+    "Name": "Team Rocket’s Tinkatink",
+    "Card-Type": "Pokemon",
+    "Illustrator": "mingo",
+    "Flavor-Text": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Lunge Out"
+    ],
+    "Move-Energy": [
+      "M"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-049",
+    "Name": "Team Rocket’s Tinkatuff",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mousho",
+    "Flavor-Text": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Corkscrew Punch"
+    ],
+    "Move-Energy": [
+      "MC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-050",
+    "Name": "Team Rocket’s Tinkaton",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Megumi Mizutani",
+    "Flavor-Text": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Pile-Driving Hammer"
+    ],
+    "Move-Energy": [
+      "MMC"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 [C] more, and its Retreat Cost is 2 [C] more."
+    ]
+  },
+  {
+    "ID": "B4a-051",
+    "Name": "Gholdengo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Natsumi Yoshida",
+    "Flavor-Text": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+    "Ability": [
+      "Luxury Coin"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+    ],
+    "Moves": [
+      "Power Gem"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-052",
+    "Name": "Gible",
+    "Card-Type": "Pokemon",
+    "Illustrator": "saino misaki",
+    "Flavor-Text": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Take Down"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "This Pokémon also does 10 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4a-053",
+    "Name": "Gabite",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Tomokazu Komiya",
+    "Flavor-Text": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Linear Attack"
+    ],
+    "Move-Energy": [
+      "WF"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "This attack does 50 damage to 1 of your opponent's Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-054",
+    "Name": "Garchomp",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Naoki Saito",
+    "Flavor-Text": "The protuberances on its head serve as sensors. It can even detect distant prey.",
+    "Ability": [
+      "Mach Stealth"
+    ],
+    "Ability-Effect": [
+      "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    ],
+    "Moves": [
+      "Land Crush"
+    ],
+    "Move-Energy": [
+      "WFC"
+    ],
+    "Move-Damage": [
+      "120"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-055",
+    "Name": "Duraludon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Ryuta Fuse",
+    "Flavor-Text": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Power Beam"
+    ],
+    "Move-Energy": [
+      "FM"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-056",
+    "Name": "Archaludon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shiburingaru",
+    "Flavor-Text": "It digs holes on mountains, searching for food. It's so durable that being caught in a cave-in won't faze it.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Protect Charge"
+    ],
+    "Move-Energy": [
+      "FMCC"
+    ],
+    "Move-Damage": [
+      "110"
+    ],
+    "Effects": [
+      "During your opponent's next turn, this Pokémon takes -30 damage from attacks."
+    ]
+  },
+  {
+    "ID": "B4a-057",
+    "Name": "Regidrago",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Kouki Saitou",
+    "Flavor-Text": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Draconic Slam"
+    ],
+    "Move-Energy": [
+      "GRC"
+    ],
+    "Move-Damage": [
+      "140"
+    ],
+    "Effects": [
+      "If this Pokémon has damage on it, this attack does -100 damage."
+    ]
+  },
+  {
+    "ID": "B4a-058",
+    "Name": "Team Rocket’s Rattata",
+    "Card-Type": "Pokemon",
+    "Illustrator": "cochi8i",
+    "Flavor-Text": "With their strong capacity for survival, they can live in dirty places without concern. Left unchecked, their numbers multiply rapidly.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ambush"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 20 more damage."
+    ]
+  },
+  {
+    "ID": "B4a-059",
+    "Name": "Team Rocket’s Raticate ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": [
+      "Thieving Incisors"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+    ],
+    "Moves": [
+      "Boost Dash"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-060",
+    "Name": "Team Rocket’s Meowth",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Yuriko Akase",
+    "Flavor-Text": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Scratch"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-061",
+    "Name": "Team Rocket’s Persian",
+    "Card-Type": "Pokemon",
+    "Illustrator": "kodama",
+    "Flavor-Text": "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Dangerous Rogue"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "10+"
+    ],
+    "Effects": [
+      "This attack does 40 more damage for each of your opponent's Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-062",
+    "Name": "Team Rocket’s Kecleon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Jerky",
+    "Flavor-Text": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+    "Ability": [
+      "Spy Ops"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, you may look at a random card from your opponent's hand."
+    ],
+    "Moves": [
+      "Hit and Hide"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-063",
+    "Name": "Happiny",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Eri Yamaki",
+    "Flavor-Text": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Chubby Cheer"
+    ],
+    "Move-Energy": [
+      ""
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-064",
+    "Name": "Furfrou",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Orca",
+    "Flavor-Text": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+    "Ability": [
+      "Fur Coat"
+    ],
+    "Ability-Effect": [
+      "This Pokémon takes -20 damage from attacks."
+    ],
+    "Moves": [
+      "Continuous Steps"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "Flip a coin until you get tails. This attack does 30 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4a-065",
+    "Name": "Lechonk",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Mina Nakai",
+    "Flavor-Text": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Headbutt"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-066",
+    "Name": "Oinkologne",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Akira Komayama",
+    "Flavor-Text": "This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Sitdown Splash"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40+"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, this attack does 60 more damage."
+    ]
+  },
+  {
+    "ID": "B4a-067",
+    "Name": "Team Rocket’s Thieving Machine",
+    "Card-Type": "Item",
+    "Illustrator": "Toyste Beach",
+    "Description": "Put a random Item card, except any Team Rocket's Thieving Machine, from your opponent's discard pile into your hand."
+  },
+  {
+    "ID": "B4a-068",
+    "Name": "Team Rocket’s Goo-zooka",
+    "Card-Type": "Item",
+    "Illustrator": "Toyste Beach",
+    "Description": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more."
+  },
+  {
+    "ID": "B4a-069",
+    "Name": "Team Rocket’s Researcher",
+    "Card-Type": "Supporter",
+    "Illustrator": "hncl",
+    "Description": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand."
+  },
+  {
+    "ID": "B4a-070",
+    "Name": "Team Rocket’s Master Plan",
+    "Card-Type": "Supporter",
+    "Illustrator": "nagimiso",
+    "Description": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused."
+  },
+  {
+    "ID": "B4a-071",
+    "Name": "Team Rocket’s Boss",
+    "Card-Type": "Supporter",
+    "Illustrator": "Atsushi Furusawa",
+    "Description": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench."
+  },
+  {
+    "ID": "B4a-072",
+    "Name": "Arcade",
+    "Card-Type": "Stadium",
+    "Illustrator": "MARINA Chikazawa",
+    "Description": "Once during each player's turn, that player may flip 3 coins. If all of them are heads, that player draws cards until they have 7 cards in their hand."
+  },
+  {
+    "ID": "B4a-073",
+    "Name": "Delphox",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Gemi",
+    "Flavor-Text": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Psychic"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "60+"
+    ],
+    "Effects": [
+      "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-074",
+    "Name": "Team Rocket’s Hypno",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Tetsu Kayama",
+    "Flavor-Text": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Entrap"
+    ],
+    "Move-Energy": [
+      "PP"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-075",
+    "Name": "Team Rocket’s Tinkaton",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Terada Tera",
+    "Flavor-Text": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Pile-Driving Hammer"
+    ],
+    "Move-Energy": [
+      "MMC"
+    ],
+    "Move-Damage": [
+      "80"
+    ],
+    "Effects": [
+      "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 [C] more, and its Retreat Cost is 2 [C] more."
+    ]
+  },
+  {
+    "ID": "B4a-076",
+    "Name": "Team Rocket’s Kecleon",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Saboteri",
+    "Flavor-Text": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+    "Ability": [
+      "Spy Ops"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, you may look at a random card from your opponent's hand."
+    ],
+    "Moves": [
+      "Hit and Hide"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-077",
+    "Name": "Happiny",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Narumi Sato",
+    "Flavor-Text": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Chubby Cheer"
+    ],
+    "Move-Energy": [
+      ""
+    ],
+    "Move-Damage": [
+      "10"
+    ],
+    "Effects": [
+      "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-078",
+    "Name": "Lechonk",
+    "Card-Type": "Pokemon",
+    "Illustrator": "buchi",
+    "Flavor-Text": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Headbutt"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-079",
+    "Name": "Team Rocket’s Moltres ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heat Charged",
+      "Netherwing"
+    ],
+    "Move-Energy": [
+      "R",
+      "RRRC"
+    ],
+    "Move-Damage": [
+      "",
+      "130"
+    ],
+    "Effects": [
+      "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon.",
+      "Discard a [R] Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-080",
+    "Name": "Team Rocket’s Articuno ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ice Wing",
+      "Hailstorm"
+    ],
+    "Move-Energy": [
+      "WC",
+      "WWC"
+    ],
+    "Move-Damage": [
+      "40",
+      "130"
+    ],
+    "Effects": [
+      "",
+      "This attack also does 20 damage to each of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-081",
+    "Name": "Team Rocket’s Zapdos ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Mamiya",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Electro Ball",
+      "Thunderclaw"
+    ],
+    "Move-Energy": [
+      "LC",
+      "LLC"
+    ],
+    "Move-Damage": [
+      "40",
+      "90"
+    ],
+    "Effects": [
+      "",
+      "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+    ]
+  },
+  {
+    "ID": "B4a-082",
+    "Name": "Team Rocket’s Slowking ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": [
+      "Evil Inspiration"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+    ],
+    "Moves": [
+      "Hand Kinesis"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "This attack does 20 damage for each card in your hand."
+    ]
+  },
+  {
+    "ID": "B4a-083",
+    "Name": "Team Rocket’s Weezing ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": [
+      "Boiler Smog"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+    ],
+    "Moves": [
+      "Confusion Gas"
+    ],
+    "Move-Energy": [
+      "DD"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Confused."
+    ]
+  },
+  {
+    "ID": "B4a-084",
+    "Name": "Team Rocket’s Raticate ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": [
+      "Thieving Incisors"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+    ],
+    "Moves": [
+      "Boost Dash"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-085",
+    "Name": "Team Rocket’s Researcher",
+    "Card-Type": "Supporter",
+    "Illustrator": "hncl",
+    "Description": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand."
+  },
+  {
+    "ID": "B4a-086",
+    "Name": "Team Rocket’s Master Plan",
+    "Card-Type": "Supporter",
+    "Illustrator": "nagimiso",
+    "Description": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused."
+  },
+  {
+    "ID": "B4a-087",
+    "Name": "Team Rocket’s Boss",
+    "Card-Type": "Supporter",
+    "Illustrator": "Atsushi Furusawa",
+    "Description": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench."
+  },
+  {
+    "ID": "B4a-088",
+    "Name": "Team Rocket’s Moltres ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "REND",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heat Charged",
+      "Netherwing"
+    ],
+    "Move-Energy": [
+      "R",
+      "RRRC"
+    ],
+    "Move-Damage": [
+      "",
+      "130"
+    ],
+    "Effects": [
+      "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon.",
+      "Discard a [R] Energy from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-089",
+    "Name": "Team Rocket’s Articuno ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "REND",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ice Wing",
+      "Hailstorm"
+    ],
+    "Move-Energy": [
+      "WC",
+      "WWC"
+    ],
+    "Move-Damage": [
+      "40",
+      "130"
+    ],
+    "Effects": [
+      "",
+      "This attack also does 20 damage to each of your Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-090",
+    "Name": "Team Rocket’s Zapdos ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "REND",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Electro Ball",
+      "Thunderclaw"
+    ],
+    "Move-Energy": [
+      "LC",
+      "LLC"
+    ],
+    "Move-Damage": [
+      "40",
+      "90"
+    ],
+    "Effects": [
+      "",
+      "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+    ]
+  },
+  {
+    "ID": "B4a-091",
+    "Name": "Team Rocket’s Slowking ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Takeshi Nakamura",
+    "Ability": [
+      "Evil Inspiration"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+    ],
+    "Moves": [
+      "Hand Kinesis"
+    ],
+    "Move-Energy": [
+      "PC"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "This attack does 20 damage for each card in your hand."
+    ]
+  },
+  {
+    "ID": "B4a-092",
+    "Name": "Team Rocket’s Weezing ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Shimaris Yukichi",
+    "Ability": [
+      "Boiler Smog"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+    ],
+    "Moves": [
+      "Confusion Gas"
+    ],
+    "Move-Energy": [
+      "DD"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "Your opponent's Active Pokémon is now Confused."
+    ]
+  },
+  {
+    "ID": "B4a-093",
+    "Name": "Team Rocket’s Raticate ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Krgc",
+    "Ability": [
+      "Thieving Incisors"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+    ],
+    "Moves": [
+      "Boost Dash"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-094",
+    "Name": "Team Rocket’s Master Plan",
+    "Card-Type": "Supporter",
+    "Illustrator": "Yukihiro Tada",
+    "Description": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused."
+  },
+  {
+    "ID": "B4a-095",
+    "Name": "Vulpix",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Hold Still"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Heal 20 damage from this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-096",
+    "Name": "Ninetales",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Ember Dance"
+    ],
+    "Move-Energy": [
+      "RCC"
+    ],
+    "Move-Damage": [
+      "20x"
+    ],
+    "Effects": [
+      "Flip 9 coins. This attack does 20 damage for each heads."
+    ]
+  },
+  {
+    "ID": "B4a-097",
+    "Name": "Goldeen",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Horn Attack"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-098",
+    "Name": "Seaking",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Taiga Kasai",
+    "Flavor-Text": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Aqua Bullet"
+    ],
+    "Move-Energy": [
+      "W"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-099",
+    "Name": "Toxel",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Static Shock"
+    ],
+    "Move-Energy": [
+      "LC"
+    ],
+    "Move-Damage": [
+      "30"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-100",
+    "Name": "Sinistea",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Hide"
+    ],
+    "Move-Energy": [
+      "P"
+    ],
+    "Move-Damage": [
+      ""
+    ],
+    "Effects": [
+      "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+    ]
+  },
+  {
+    "ID": "B4a-101",
+    "Name": "Polteageist",
+    "Card-Type": "Pokemon",
+    "Illustrator": "MAHOU",
+    "Flavor-Text": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+    "Ability": [
+      "Refreshing Tea"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
+    ],
+    "Moves": [
+      "Spooky Shot"
+    ],
+    "Move-Energy": [
+      "P"
+    ],
+    "Move-Damage": [
+      "40"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-102",
+    "Name": "Mawile",
+    "Card-Type": "Pokemon",
+    "Illustrator": "Souichirou Gunjima",
+    "Flavor-Text": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Cavernous Chomp"
+    ],
+    "Move-Energy": [
+      "MC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-103",
+    "Name": "Taillow",
+    "Card-Type": "Pokemon",
+    "Illustrator": "whomor Inc.",
+    "Flavor-Text": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Peck"
+    ],
+    "Move-Energy": [
+      "C"
+    ],
+    "Move-Damage": [
+      "20"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-104",
+    "Name": "Swellow",
+    "Card-Type": "Pokemon",
+    "Illustrator": "whomor Inc.",
+    "Flavor-Text": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+    "Ability": [
+      "Repelling Wind"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    ],
+    "Moves": [
+      "Wing Attack"
+    ],
+    "Move-Energy": [
+      "CC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-105",
+    "Name": "Mega Charizard Y ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA Igarashi",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Crimson Dive"
+    ],
+    "Move-Energy": [
+      "RRRC"
+    ],
+    "Move-Damage": [
+      "250"
+    ],
+    "Effects": [
+      "This Pokémon also does 50 damage to itself."
+    ]
+  },
+  {
+    "ID": "B4a-106",
+    "Name": "Toxtricity ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Damaging Spark"
+    ],
+    "Move-Energy": [
+      "LLC"
+    ],
+    "Move-Damage": [
+      "90"
+    ],
+    "Effects": [
+      "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+    ]
+  },
+  {
+    "ID": "B4a-107",
+    "Name": "Mimikyu ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": [
+      "Disguise"
+    ],
+    "Ability-Effect": [
+      "When this Pokémon is first damaged by an attack after coming into play, prevent that damage."
+    ],
+    "Moves": [
+      "Claw Slash"
+    ],
+    "Move-Energy": [
+      "PP"
+    ],
+    "Move-Damage": [
+      "70"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-108",
+    "Name": "Mega Mawile ex",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Ability": null,
+    "Ability-Effect": null,
+    "Moves": [
+      "Heat-Up Crunch"
+    ],
+    "Move-Energy": [
+      "MC"
+    ],
+    "Move-Damage": [
+      "60"
+    ],
+    "Effects": [
+      "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+    ]
+  },
+  {
+    "ID": "B4a-109",
+    "Name": "Gholdengo",
+    "Card-Type": "Pokemon",
+    "Illustrator": "PLANETA CG Works",
+    "Flavor-Text": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+    "Ability": [
+      "Luxury Coin"
+    ],
+    "Ability-Effect": [
+      "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+    ],
+    "Moves": [
+      "Power Gem"
+    ],
+    "Move-Energy": [
+      "CCC"
+    ],
+    "Move-Damage": [
+      "50"
+    ],
+    "Effects": [
+      ""
+    ]
+  },
+  {
+    "ID": "B4a-110",
+    "Name": "Team Rocket’s Goo-zooka",
+    "Card-Type": "Item",
+    "Illustrator": "Toyste Beach",
+    "Description": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more."
+  }
+]

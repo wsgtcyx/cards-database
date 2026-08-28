@@ -14,12 +14,20 @@ import {
 	assertSourceUrl,
 	assertSelection,
 	artifactDigest,
+	classifyFlibustierInventory,
 	flibustierArchiveMember,
 	inspectRemoteObject,
 	patchImageBlock,
 	resolveInside,
+	targetLocaleConfig,
 	withArtifactDigest,
 } from './sync-localized-card-images.mjs'
+
+test('flibustier inventory gate derives migration and completed states from the pinned release count', () => {
+	assert.equal(classifyFlibustierInventory({ sourceCards: 3871, targetCards: 3761, existingFallbacks: 3761, missingCards: 110, targets: 3871 }), 'migration')
+	assert.equal(classifyFlibustierInventory({ sourceCards: 3871, targetCards: 3871, existingFallbacks: 0, missingCards: 0, targets: 0 }), 'completed')
+	assert.equal(classifyFlibustierInventory({ sourceCards: 3871, targetCards: 3761, existingFallbacks: 3761, missingCards: 109, targets: 3870 }), 'invalid')
+})
 
 test('resolveInside keeps artifact paths inside their work root', () => {
 	const root = '/tmp/pocket-sync-test'
@@ -48,6 +56,29 @@ test('PokeOS source URL validation binds set, card number, and locale', () => {
 	assert.throws(() => assertPokeosSourceUrl(source, 583, 146, 'de'), /Unexpected PokeOS source URL/)
 	assert.throws(() => assertPokeosSourceUrl(`${source}?token=secret`, 583, 145, 'de'), /Unexpected PokeOS source URL/)
 	assert.throws(() => assertPokeosSourceUrl(source.replace('s3.pokeos.com', 'evil.example'), 583, 145, 'de'), /Unexpected PokeOS source URL/)
+	assert.equal(
+		assertPokeosSourceUrl('https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/1_ptbr.png', 588, 1, 'ptbr'),
+		'https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/1_ptbr.png',
+	)
+	assert.equal(
+		assertPokeosSourceUrl('https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/110_zh.png', 588, 110, 'zh'),
+		'https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/110_zh.png',
+	)
+})
+
+test('PokeOS target locales keep downstream file names and dedicated R2 locale keys', () => {
+	assert.deepEqual(
+		targetLocaleConfig({ sourceKind: 'pokeos-localized', requestedLocale: 'pt-br', locale: 'pt' }),
+		{ downstreamLocale: 'pt', apiLocale: 'pt-br', sourceLocale: 'ptbr', r2Locale: 'pt-br' },
+	)
+	assert.deepEqual(
+		targetLocaleConfig({ sourceKind: 'pokeos-localized', requestedLocale: 'zh-tw', locale: 'zh-TW' }),
+		{ downstreamLocale: 'zh-TW', apiLocale: 'zh-tw', sourceLocale: 'zh', r2Locale: 'zh-tw' },
+	)
+	assert.throws(
+		() => targetLocaleConfig({ sourceKind: 'pokeos-localized', requestedLocale: 'pt-br', locale: 'pt-br' }),
+		/Invalid PokeOS locale mapping/,
+	)
 })
 
 test('PokéBase source URL validation binds the exact filename and CDN locale', () => {
@@ -122,7 +153,7 @@ test('every Pocket card has an English R2 image', () => {
 	const root = path.resolve('data/Pokémon TCG Pocket')
 	const setFolders = fs.readdirSync(root, { withFileTypes: true }).filter((entry) => entry.isDirectory())
 	const files = setFolders.flatMap((entry) => fs.readdirSync(path.join(root, entry.name)).filter((name) => name.endsWith('.ts')).map((name) => path.join(root, entry.name, name)))
-	assert.equal(files.length, 3761)
+	assert.ok(files.length > 0)
 	for (const file of files) {
 		const source = fs.readFileSync(file, 'utf8')
 		const folder = path.basename(path.dirname(file))

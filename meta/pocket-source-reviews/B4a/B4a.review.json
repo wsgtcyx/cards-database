@@ -1,0 +1,2182 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "cards": {
+    "B4a-001": {
+      "fields": {
+        "illustrator": {
+          "value": "Kanako Eo",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/001.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/001.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-002": {
+      "fields": {
+        "illustrator": {
+          "value": "Kanako Eo",
+          "raw": "mise",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/002.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/002.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-003": {
+      "fields": {
+        "illustrator": {
+          "value": "Atsuko Nishida",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/003.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It prefers to avoid groups. In its day-to-day life, it dexterously controls its vines to compensate for its short arms.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/003.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-004": {
+      "fields": {
+        "illustrator": {
+          "value": "Kagemaru Himeno",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/004.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Servine's one weakness is its inflated sense of pride. It takes a while for Servine to be able to cooperate with other Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/004.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-005": {
+      "fields": {
+        "illustrator": {
+          "value": "Mizue",
+          "raw": "Bloom",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/005.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "An intimidating gaze and majestic appearance have caused this Pokémon to be known as the Lord of the Forest.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/005.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-006": {
+      "fields": {
+        "illustrator": {
+          "value": "matazo",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/006.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Wavering flames similar to those of the sun appear on the surface of this Pokémon's body.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/006.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-007": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/007.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-008": {
+      "fields": {
+        "illustrator": {
+          "value": "Mina Nakai",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/008.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/008.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-009": {
+      "fields": {
+        "illustrator": {
+          "value": "toriyufu",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/009.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/009.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-010": {
+      "fields": {
+        "illustrator": {
+          "value": "Atsuko Nishida",
+          "raw": "Scratch",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/010.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Twigs make for Fennekin's snacks. When it nibbles on twigs, it finds the courage to face strong foes.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/010.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-011": {
+      "fields": {
+        "illustrator": {
+          "value": "5ban Graphics",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/011.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Braixen's branch ignites as it's pulled from the Pokémon's tail. Braixen then uses the flame to spark powerful attacks.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/011.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-012": {
+      "fields": {
+        "illustrator": {
+          "value": "5ban Graphics",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/012.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/012.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-013": {
+      "fields": {
+        "illustrator": {
+          "value": "Mékayu",
+          "raw": "Mékayu",
+          "evidence": [
+            "https://game.pokemontcgpocket.app/en/tcgp/B4a/013/high.webp",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/013.json#page=1"
+          ],
+          "note": "Illustrator spelling manually reviewed against the English card image; the PokeOS field is mojibake and was rejected."
+        },
+        "description": {
+          "value": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/013.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-014": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Wing",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/014.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-015": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoyo Kimura",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/015.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/015.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-016": {
+      "fields": {
+        "illustrator": {
+          "value": "Miki Tanaka",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/016.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/016.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-017": {
+      "fields": {
+        "illustrator": {
+          "value": "Shin Nagasawa",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/017.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Its ecology is starkly different from that of other Basculin, so theories that it's a totally different species have gained traction in recent years.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/017.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-018": {
+      "fields": {
+        "illustrator": {
+          "value": "Akira Komayama",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/018.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It can jump with incredible power. Parts of its body are tinged red by the rage of its fallen friends.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/018.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-019": {
+      "fields": {
+        "illustrator": {
+          "value": "mingo",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/019.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/019.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-020": {
+      "fields": {
+        "illustrator": {
+          "value": "Krgc",
+          "raw": "Burst",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/020.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/020.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-021": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA Mamiya",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/021.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-022": {
+      "fields": {
+        "illustrator": {
+          "value": "Saya Tsuruta",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/022.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/022.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-023": {
+      "fields": {
+        "illustrator": {
+          "value": "0313",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/023.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/023.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-024": {
+      "fields": {
+        "illustrator": {
+          "value": "Ayako Ozaki",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/024.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/024.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-025": {
+      "fields": {
+        "illustrator": {
+          "value": "MINAMINAMI Take",
+          "raw": "Slowpoke",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/025.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/025.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-026": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/026.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "abilities": {
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/26_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-027": {
+      "fields": {
+        "illustrator": {
+          "value": "Shinji Kanda",
+          "raw": "Mumble",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/027.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/027.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-028": {
+      "fields": {
+        "illustrator": {
+          "value": "Nisota Niso",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/028.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/028.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-029": {
+      "fields": {
+        "illustrator": {
+          "value": "buchi",
+          "raw": "Push",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/029.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/029.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-030": {
+      "fields": {
+        "illustrator": {
+          "value": "danciao",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/030.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/030.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-031": {
+      "fields": {
+        "illustrator": {
+          "value": "Kagemaru Himeno",
+          "raw": "Espurr",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/031.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Behind an Espurr's expressionless face is a frantic struggle to contain psychic power.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/031.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-032": {
+      "fields": {
+        "illustrator": {
+          "value": "Taira Akitsu",
+          "raw": "Espurr",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/032.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "When they sense danger, they exert their psychic power at its maximum output. They have no regard for their opponents.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/032.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-033": {
+      "fields": {
+        "illustrator": {
+          "value": "Sekio",
+          "raw": "a card.",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/033.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/033.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-034": {
+      "fields": {
+        "illustrator": {
+          "value": "0313",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/034.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it's actually a Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/034.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-035": {
+      "fields": {
+        "illustrator": {
+          "value": "Hasuno",
+          "raw": "Cubone",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/035.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/035.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-036": {
+      "fields": {
+        "illustrator": {
+          "value": "kirisAki",
+          "raw": "Punish",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/036.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "When this Pokémon evolved, the skull of its mother fused to it. Marowak's temperament also turned vicious at the same time.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/036.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "stage": {
+          "value": "Stage 1",
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/36_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        },
+        "attacks": {
+          "value": [
+            {
+              "name": "Punish",
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "damage": 50,
+              "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/36_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-037": {
+      "fields": {
+        "illustrator": {
+          "value": "NC Empire",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/037.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/037.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-038": {
+      "fields": {
+        "illustrator": {
+          "value": "Gemi",
+          "raw": "Ekans",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/038.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "A very common sight in grasslands and such. It flicks its tongue in and out to sense danger in its surroundings.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/038.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-039": {
+      "fields": {
+        "illustrator": {
+          "value": "Kazuki Minami",
+          "raw": "Kazuki Minami",
+          "evidence": [
+            "https://game.pokemontcgpocket.app/en/tcgp/B4a/039/high.webp",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/039.json#page=1"
+          ],
+          "note": "Illustrator spelling manually reviewed against the English card image; the PokeOS placeholder was rejected."
+        },
+        "description": {
+          "value": "This Pokémon is very tenacious. Once it targets its prey, it won't give up the chase, no matter how far the prey goes.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/039.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-040": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/040.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "When two of these Pokémon's bodies are combined together, new poisons are created.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/040.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-041": {
+      "fields": {
+        "illustrator": {
+          "value": "Hitoshi Ariga",
+          "raw": "Team Rocket's Muk",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/041.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/041.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "attacks": {
+          "value": [
+            {
+              "name": "Poison Absorption",
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "damage": 80,
+              "effect": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/41_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-042": {
+      "fields": {
+        "illustrator": {
+          "value": "Takeshi Nakamura",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/042.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "The poisonous gases it contains are a little bit lighter than air. That's why it's always slightly airborne.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/042.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-043": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Weezing",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/043.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-044": {
+      "fields": {
+        "illustrator": {
+          "value": "Kazumasa Yasukuni",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/044.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/044.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-045": {
+      "fields": {
+        "illustrator": {
+          "value": "Megumi Mizutani",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/045.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "When it's in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/045.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-046": {
+      "fields": {
+        "illustrator": {
+          "value": "kirisAki",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/046.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/046.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-047": {
+      "fields": {
+        "illustrator": {
+          "value": "Kouki Saitou",
+          "raw": "Heavy Impact",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/047.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/047.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-048": {
+      "fields": {
+        "illustrator": {
+          "value": "mingo",
+          "raw": "Tinkatink",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/048.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it's satisfied with the result.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/048.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-049": {
+      "fields": {
+        "illustrator": {
+          "value": "Mousho",
+          "raw": "Tinkatuff",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/049.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/049.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "retreat": {
+          "value": 2,
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/49_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-050": {
+      "fields": {
+        "illustrator": {
+          "value": "Megumi Mizutani",
+          "raw": "is 2 * more.",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/050.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/050.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "retreat": {
+          "value": 2,
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/50_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-051": {
+      "fields": {
+        "illustrator": {
+          "value": "Natsumi Yoshida",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/051.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/051.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "stage": {
+          "value": "Stage 1",
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/51_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        },
+        "abilities": {
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/51_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-052": {
+      "fields": {
+        "illustrator": {
+          "value": "saino misaki",
+          "raw": "Take Down",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/052.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/052.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-053": {
+      "fields": {
+        "illustrator": {
+          "value": "Tomokazu Komiya",
+          "raw": "Gabite",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/053.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/053.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-054": {
+      "fields": {
+        "illustrator": {
+          "value": "Naoki Saito",
+          "raw": "Gabite",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/054.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "The protuberances on its head serve as sensors. It can even detect distant prey.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/054.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-055": {
+      "fields": {
+        "illustrator": {
+          "value": "Ryuta Fuse",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/055.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/055.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-056": {
+      "fields": {
+        "illustrator": {
+          "value": "Shiburingaru",
+          "raw": "Charge",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/056.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It digs holes on mountains, searching for food. It's so durable that being caught in a cave-in won't faze it.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/056.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-057": {
+      "fields": {
+        "illustrator": {
+          "value": "Kouki Saitou",
+          "raw": "Slam",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/057.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/057.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-058": {
+      "fields": {
+        "illustrator": {
+          "value": "cochi8i",
+          "raw": "Ambush",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/058.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "With their strong capacity for survival, they can live in dirty places without concern. Left unchecked, their numbers multiply rapidly.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/058.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-059": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Incisors",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/059.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "retreat": {
+          "value": 0,
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/59_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-060": {
+      "fields": {
+        "illustrator": {
+          "value": "Yuriko Akase",
+          "raw": "Scratch",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/060.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/060.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-061": {
+      "fields": {
+        "illustrator": {
+          "value": "kodama",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/061.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/061.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-062": {
+      "fields": {
+        "illustrator": {
+          "value": "Jerky",
+          "raw": "Spy Ops",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/062.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/062.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "attacks": {
+          "value": [
+            {
+              "name": "Hit and Hide",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/62_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-063": {
+      "fields": {
+        "illustrator": {
+          "value": "Eri Yamaki",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/063.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/063.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-064": {
+      "fields": {
+        "illustrator": {
+          "value": "Orca",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/064.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/064.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "attacks": {
+          "value": [
+            {
+              "name": "Continuous Steps",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": 30,
+              "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/64_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-065": {
+      "fields": {
+        "illustrator": {
+          "value": "Mina Nakai",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/065.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/065.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-066": {
+      "fields": {
+        "illustrator": {
+          "value": "Akira Komayama",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/066.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/066.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-067": {
+      "fields": {
+        "illustrator": {
+          "value": "Toyste Beach",
+          "raw": "Toyste Beach",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/067.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-068": {
+      "fields": {
+        "illustrator": {
+          "value": "Toyste Beach",
+          "raw": "Toyste Beach",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/068.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-069": {
+      "fields": {
+        "illustrator": {
+          "value": "hncl",
+          "raw": "hnel",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/069.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "trainerType": {
+          "value": "Supporter",
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/69_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        },
+        "effect": {
+          "value": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/69_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-070": {
+      "fields": {
+        "illustrator": {
+          "value": "nagimiso",
+          "raw": "nogimiso",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/070.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-071": {
+      "fields": {
+        "illustrator": {
+          "value": "Atsushi Furusawa",
+          "raw": "Atsushi Furusawa",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/071.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-072": {
+      "fields": {
+        "illustrator": {
+          "value": "MARINA Chikazawa",
+          "raw": "MARINA Chikazawa",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/072.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-073": {
+      "fields": {
+        "illustrator": {
+          "value": "Gemi",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/073.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/073.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-074": {
+      "fields": {
+        "illustrator": {
+          "value": "Tetsu Kayama",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/074.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/074.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-075": {
+      "fields": {
+        "illustrator": {
+          "value": "Terada Tera",
+          "raw": "Team Rocket's",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/075.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/075.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "retreat": {
+          "value": 2,
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/75_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-076": {
+      "fields": {
+        "illustrator": {
+          "value": "Saboteri",
+          "raw": "Spy Ops",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/076.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It changes color to blend in with its surroundings in order to sneak up on prey. It can't make its belly pattern disappear, however.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/076.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "attacks": {
+          "value": [
+            {
+              "name": "Hit and Hide",
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": 40,
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/76_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-077": {
+      "fields": {
+        "illustrator": {
+          "value": "Narumi Sato",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/077.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/077.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-078": {
+      "fields": {
+        "illustrator": {
+          "value": "buchi",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/078.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/078.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-079": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Energy",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/079.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-080": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Wing",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/080.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-081": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA Mamiya",
+          "raw": "Zapdos",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/081.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-082": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Team Rocket's",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/082.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "abilities": {
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/82_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-083": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Team Rocket's",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/083.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-084": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Incisors",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/084.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "retreat": {
+          "value": 0,
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/84_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-085": {
+      "fields": {
+        "illustrator": {
+          "value": "hncl",
+          "raw": "TRAINER",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/085.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "trainerType": {
+          "value": "Supporter",
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/85_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        },
+        "effect": {
+          "value": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/85_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-086": {
+      "fields": {
+        "illustrator": {
+          "value": "nagimiso",
+          "raw": "aaptuáo",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/086.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-087": {
+      "fields": {
+        "illustrator": {
+          "value": "Atsushi Furusawa",
+          "raw": "TRAINER",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/087.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-088": {
+      "fields": {
+        "illustrator": {
+          "value": "REND",
+          "raw": "Energy",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/088.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-089": {
+      "fields": {
+        "illustrator": {
+          "value": "REND",
+          "raw": "Wing",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/089.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-090": {
+      "fields": {
+        "illustrator": {
+          "value": "REND",
+          "raw": "Zapdos",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/090.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-091": {
+      "fields": {
+        "illustrator": {
+          "value": "Takeshi Nakamura",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/091.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "abilities": {
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/91_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-092": {
+      "fields": {
+        "illustrator": {
+          "value": "Shimaris Yukichi",
+          "raw": "Weezing",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/092.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-093": {
+      "fields": {
+        "illustrator": {
+          "value": "Krgc",
+          "raw": "Incisors",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/093.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "retreat": {
+          "value": 0,
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/93_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-094": {
+      "fields": {
+        "illustrator": {
+          "value": "Yukihiro Tada",
+          "raw": "TRAINER",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/094.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-095": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/095.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/095.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-096": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Dance",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/096.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/096.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-097": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/097.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/097.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-098": {
+      "fields": {
+        "illustrator": {
+          "value": "Taiga Kasai",
+          "raw": "Seaking",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/098.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/098.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-099": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/099.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/099.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-100": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "Sinistea",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/100.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/100.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-101": {
+      "fields": {
+        "illustrator": {
+          "value": "MAHOU",
+          "raw": "Sinistea",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/101.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/101.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-102": {
+      "fields": {
+        "illustrator": {
+          "value": "Souichirou Gunjima",
+          "raw": "Mawile",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/102.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/102.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-103": {
+      "fields": {
+        "illustrator": {
+          "value": "whomor Inc.",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/103.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/103.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-104": {
+      "fields": {
+        "illustrator": {
+          "value": "whomor Inc.",
+          "raw": "Wind",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/104.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/104.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        }
+      }
+    },
+    "B4a-105": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA Igarashi",
+          "raw": "Chaiizard",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/105.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-106": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/106.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "weaknesses": {
+          "value": [
+            {
+              "type": "Fighting",
+              "value": "+20"
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/106_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-107": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "Mimikyuex",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/107.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-108": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "raw": "ntAi",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/108.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    },
+    "B4a-109": {
+      "fields": {
+        "illustrator": {
+          "value": "PLANETA CG Works",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/109.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        },
+        "description": {
+          "value": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+          "evidence": [
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/109.json#page=1"
+          ],
+          "note": "Text transcribed from the English card image and manually checked."
+        },
+        "stage": {
+          "value": "Stage 1",
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/109_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        },
+        "abilities": {
+          "value": [
+            {
+              "type": "Ability",
+              "name": "Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ],
+          "evidence": [
+            "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/588/src/109_en.png"
+          ],
+          "note": "Preferred candidate checked against the English card image."
+        }
+      }
+    },
+    "B4a-110": {
+      "fields": {
+        "illustrator": {
+          "value": "Toyste Beach",
+          "raw": "Loyste Beach",
+          "evidence": [
+            "https://www.pokeos.com/api/tcg/set/cards?id=588",
+            "paddleocr:meta/pocket-source-reviews/B4a/ocr/en/110.json#page=1"
+          ],
+          "note": "PokeOS illustrator field checked against the localized card image OCR."
+        }
+      }
+    }
+  }
+}

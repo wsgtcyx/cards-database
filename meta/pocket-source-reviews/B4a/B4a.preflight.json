@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "status": "needs-research",
+  "setId": "B4a",
+  "setName": "Team Rocket's Ambition",
+  "generatedAt": "2026-08-28T01:47:18.000Z",
+  "expected": {
+    "releaseDate": "2026-08-27",
+    "officialCards": 72,
+    "totalCards": 110,
+    "cardRange": "B4a-001..B4a-110",
+    "fullTextLocales": ["en", "fr", "es", "it", "de", "pt-br", "zh-tw"],
+    "compiledNameLocales": ["en", "de", "es", "fr", "it", "pt-br", "zh-tw", "ja", "ko"],
+    "imageLocales": ["en", "fr", "es", "it", "de", "pt-br", "zh-tw"],
+    "boosters": 1,
+    "r2Objects": 1554
+  },
+  "observed": {
+    "preferredAssetIndex": {
+      "source": "ptcgpAssets",
+      "b4aPresent": false,
+      "connectedExportDevice": false
+    },
+    "licensedStructuredCandidates": {
+      "flibustierB4aPresent": true,
+      "flibustierRecords": 110,
+      "flibustierIdsContinuous": true,
+      "tcgDexB4aPresent": false
+    },
+    "independentMechanicsCandidates": {
+      "pokemonMetaRecords": 110,
+      "pokemonMetaIdsContinuous": true,
+      "pokemonMetaMissingIllustrator": 110,
+      "pokemonMetaMissingPokemonFlavorText": 99,
+      "pokemonMetaMissingEvolutionLinks": 110,
+      "deckGymRecords": 110,
+      "deckGymIdsContinuous": true,
+      "fieldMergeReviewed": false,
+      "conflictsResolved": false
+    },
+    "localizedCandidates": {
+      "raenonXGlobalMasterB4aPresent": false,
+      "raenonXPageDictionaryLocales": ["en", "fr", "es", "pt-br", "zh-tw", "ja", "ko"],
+      "raenonXPerCardBindingsPresent": false,
+      "missingStructuredRuleLocales": ["de", "it"],
+      "pokeOSRecords": 110,
+      "pokeOSUsesTemporaryNumbers": false,
+      "pokeOSPerCardRuleRecords": 0,
+      "completeMetadataLocales": 0,
+      "requiredCardImageCoverage": {
+        "en": 110,
+        "fr": 110,
+        "es": 110,
+        "it": 110,
+        "de": 110,
+        "pt-br": 110,
+        "zh-tw": 110
+      },
+      "completeRequiredImageLocales": 7,
+      "localizedLogoLocales": 9,
+      "completeBoosterArtworkFrontLocales": 0
+    }
+  },
+  "gate": {
+    "sourceRegistryComplete": true,
+    "canonicalIndexReady": true,
+    "twoIndependentMechanicsCandidatesReady": true,
+    "mechanicsFieldReviewReady": false,
+    "illustratorAndFlavorReady": false,
+    "localizedMetadataReady": false,
+    "localizedImageUrlsComplete": true,
+    "localizedImagesReady": false,
+    "boosterAssetsReady": false,
+    "tenCardPilotAllowed": false,
+    "metadataWriteAllowed": false,
+    "r2UploadAllowed": false,
+    "downstreamWriteAllowed": false,
+    "ready": false
+  },
+  "blockers": [
+    "No fixed structured source supplies complete German and Italian card names plus attack, ability, trainer, and rule text for all 110 cards. The official localized card images exist, but the approved plan forbids OCR or machine translation from generating or approving production metadata.",
+    "RaenonX live pages now expose B4a rule dictionaries for en/fr/es/pt/zh plus ja/ko names and images, but the public global master still has no B4a per-card entries and the pages do not embed the missing card-to-i18n bindings. A source-exact per-card merge therefore cannot yet reach missing=0 and conflicts=0.",
+    "Two complete English mechanics candidates now exist, and PokeOS supplies 110 illustrators, but the required stratified pilot and per-field reviewed merge have not run because the seven-locale source gate is still incomplete. Pokemon flavor/evolution coverage and formal copying boundaries also remain unresolved.",
+    "All 770 required localized card images are reachable, and nine localized set logos exist, but a real localized booster artwork_front for all seven target locales has not been found. Card images alone do not authorize partial R2 publication.",
+    "The source and booster gates fail before PaddleOCR evidence sampling, WebP preparation, R2 preflight, API metadata writes, or downstream synchronization are permitted."
+  ],
+  "actionsTaken": {
+    "productionMetadataWritten": false,
+    "r2ObjectsPrepared": 0,
+    "r2ObjectsUploaded": 0,
+    "downstreamFilesModified": 0,
+    "evidenceFilesUpdated": 2,
+    "reason": "Fail-closed behavior required by sync-pocket-set and the approved implementation plan."
+  },
+  "resumeConditions": [
+    "A fixed permitted source or official device export supplies complete de/it structured B4a rule text and the missing RaenonX-equivalent per-card i18n bindings.",
+    "The 10-card stratified pilot proves source-exact mapping for all seven production text locales, and the full merge reaches missing=0, unresolved=0, conflicts=0, temporaryNumber=0.",
+    "One real localized booster artwork_front is available in all seven required image locales, after which image conversion, R2 preflight/upload, API writes, and tcgp synchronization may proceed."
+  ]
+}

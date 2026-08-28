@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "verifiedAt": "2026-08-28T04:25:40.488Z",
+  "origin": "https://game.pokemontcgpocket.app",
+  "expectedObjects": 1554,
+  "uploadReceipts": 1554,
+  "publicObjectsChecked": 1554,
+  "publicHashesChecked": 1554,
+  "webpMagicChecked": 1554,
+  "contentTypeChecked": 1554,
+  "immutableCacheChecked": 1554,
+  "status": "ok"
+}

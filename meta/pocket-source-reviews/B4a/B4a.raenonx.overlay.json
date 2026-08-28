@@ -1,0 +1,5684 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "source": {
+    "name": "RaenonX Pokémon TCG Pocket Wiki",
+    "credit": "https://ptcgp.raenonx.cc",
+    "masterUrl": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "pageUrlTemplate": "https://ptcgp.raenonx.cc/{locale}/card/{cardId}",
+    "imageUrlTemplate": "https://cdn.raenonx.cc/api/image/ptcgp?format=png&url=/images/game/card/full/{locale}/{cardId}.png",
+    "accessedAt": "2026-08-28T03:03:37.189Z",
+    "master": {
+      "status": 200,
+      "bytes": 5443645,
+      "sha256": "f9190f457d088accfd160a11a5e8c77102431a07c71bfdf24ca007326b29a532",
+      "lastModified": "Fri, 28 Aug 2026 03:03:26 GMT"
+    },
+    "pages": {
+      "en": {
+        "url": "https://ptcgp.raenonx.cc/en/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a32015416fa9903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:28 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ASPFVl5Ke9Bk%2F8Ihn4ZLH%2FQjRNA3eJW7Sk%2FhTTYLBYWtqBWZYxdBULn9MwXWGSf9xTJ8MyVaUHZwONhA8Bko0x1OreaE%2BPcIV7c7KctQSLP2hx21Af2egH3NlUZtqYhAm9VF\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/en/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "18946e5a161dc38fab1f5013d41620ca9c5be4b7b83a9116c12cd669a50117f5",
+        "bytes": 490023
+      },
+      "fr": {
+        "url": "https://ptcgp.raenonx.cc/fr/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a3201548fb52903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:29 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a1zBB60zhkVXLCtPnAvcnO3TYhnjl%2FKjRAFtTT%2BxsCl5FMarKL6VHSt%2Fft%2F%2FjsViySq6ulLeRcLd95jzP11xV01I0xAXBfIYHIOWbwcA%2Bx4Hsr40aNHg6oV0imT75NYw6TA9\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/fr/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "8e4e379d2cfdf4371fcc86079a5a298a93b1b1104bc5fcf7e95d571ba26ad540",
+        "bytes": 550380
+      },
+      "es": {
+        "url": "https://ptcgp.raenonx.cc/es/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a320154eee17903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:30 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=nJCY8IhujHwil7vZp7qlXxbYTA3SHTem72zOlTZmJmtm00zf7v%2B6EqGCkpztzKlnXp5wF59%2Fttn7sweAZ4A0n7hfyRFy1ohl3GLv9SYZh9l34rcdJVrf8wuVHdJcJ1e3vohX\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/es/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "92fde71383d0b5c853a737838cef730283a4f8cf92fe4e497774c98063e0ce82",
+        "bytes": 514151
+      },
+      "pt": {
+        "url": "https://ptcgp.raenonx.cc/pt/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a32015593c0a903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:32 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=CDJXjMAF%2F5CcRioge%2BHB9%2FHGzHtz%2B3owlrKHT8cnMutjNF0uSnVDLGYQsDCq5ofQ4PFdrXhEZ2U%2FSETjhID8o6m2xU2MHZCIP9ouaHPyFkXNWhzMdPUhlHbTRDalOY0A7Ssh\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/pt/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "f5a8e88574b54aff6ed3f7f9fa6c9a8c0a8588def32beb0745cc0bbbf8f48c13",
+        "bytes": 524356
+      },
+      "zh": {
+        "url": "https://ptcgp.raenonx.cc/zh/card/PK_10_021190_00",
+        "status": 200,
+        "headers": {
+          "alt-svc": "h3=\":443\"; ma=86400",
+          "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+          "cf-cache-status": "DYNAMIC",
+          "cf-ray": "a3201563388b903f-BOS",
+          "connection": "keep-alive",
+          "content-encoding": "br",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Fri, 28 Aug 2026 03:03:33 GMT",
+          "link": "<http://ptcgp.raenonx.cc/en/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"en\", <http://ptcgp.raenonx.cc/es/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"es\", <http://ptcgp.raenonx.cc/zh/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"zh\", <http://ptcgp.raenonx.cc/ja/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ja\", <http://ptcgp.raenonx.cc/fr/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"fr\", <http://ptcgp.raenonx.cc/ko/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"ko\", <http://ptcgp.raenonx.cc/pt/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"pt\", <http://ptcgp.raenonx.cc/card/PK_10_021190_00>; rel=\"alternate\"; hreflang=\"x-default\", </_next/static/css/ae049b21683ff04d.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\", </_next/static/css/e0617c58abf9b8b4.css?dpl=b234edf-2026-08-27T09-56-59-04-00>; rel=preload; as=\"style\"",
+          "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+          "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=PMB8cbyx9jPQ4pyu1HShyHXmYrEjeNiEQNcNPezakifIsbx8s450uxhZC1NOrrNsHFhjynjWxWDh835Ru1KrjAqWs1GISCwvCYnTQsk9Hfv7i5Nm0zRD62DetCo0s7yK37Qy\"}]}",
+          "server": "cloudflare",
+          "speculation-rules": "\"/cdn-cgi/speculation\"",
+          "strict-transport-security": "max-age=2592000",
+          "transfer-encoding": "chunked",
+          "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+          "x-middleware-request-pathname": "/zh/card/PK_10_021190_00",
+          "x-powered-by": "Next.js"
+        },
+        "sha256": "7a77f03c24355dd4e41386a625da8f75f71c1999214ae1f9b2d18a77399327b0",
+        "bytes": 486969
+      }
+    },
+    "permission": "User authorized attribution and publication of a direct RaenonX mirror for this project; RaenonX repository licence was not found."
+  },
+  "policy": {
+    "mode": "dictionary-only",
+    "locales": [
+      "en",
+      "fr",
+      "es",
+      "pt",
+      "zh"
+    ],
+    "credit": "https://ptcgp.raenonx.cc"
+  },
+  "cards": {
+    "B4a-001": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Tackle"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Charge"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Placaje"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Investida"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "撞擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-002": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Ire-Fly",
+              "effect": "If Volbeat is in your discard pile, this attack does 60 more damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Colère de Luciole",
+              "effect": "Si Muciole est dans votre pile de défausse, cette attaque inflige 60 dégâts supplémentaires."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Noctilocura",
+              "effect": "Si Volbeat está en tu pila de descartes, este ataque hace 60 puntos de daño más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Fúria do Vaga-lume",
+              "effect": "Se Volbeat estiver na sua pilha de descarte, este ataque causará 60 pontos de dano a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "螢之怒",
+              "effect": "若自己的棄牌區有「電螢蟲」,則增加60點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-003": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Leaf Boomerang",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Feuille-Boomerang",
+              "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Boomerang Hoja",
+              "effect": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Folha Bumerangue",
+              "effect": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "飛葉回力鏢",
+              "effect": "擲2次硬幣,造成正面出現的次數×20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-004": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Leaf Step"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Enjambée de Feuillage"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Paso Hoja"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Passo de Folha"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "綠葉舞步"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-005": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Flog",
+              "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Regal Bloom",
+              "effect": "This Pokémon gets +30 HP for each {G} Energy attached to it."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Martinet",
+              "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 60 dégâts de plus."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Floraison Royale",
+              "effect": "Chaque Énergie {G} attachée à ce Pokémon lui ajoute 30 PV."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Azotar",
+              "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Florecimiento Regio",
+              "effect": "Este Pokémon obtiene 30 PS más por cada Energía {G} unida a él."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Fustigar",
+              "effect": "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Florada Real",
+              "effect": "Este Pokémon recebe +30 PS para cada Energia {G} ligada a ele."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "鞭倒在地",
+              "effect": "擲1次硬幣若為正面,則增加60點傷害。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "皇家綻放",
+              "effect": "這隻寶可夢的最大HP,依這隻寶可夢身上附加的{G}能量每1個+30。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-006": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Derisive Roasting",
+              "effect": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Raillerie Roussie",
+              "effect": "Cette attaque inflige 50 dégâts supplémentaires pour chaque État Spécial affectant le Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Escarnio Abrasador",
+              "effect": "Este ataque hace 50 puntos de daño más por cada Condición Especial que afecte al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Calcinação Sarcástica",
+              "effect": "Este ataque causa 50 pontos de dano a mais para cada Condição Especial que estiver afetando o Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "燒壞",
+              "effect": "增加對手的戰鬥寶可夢處於特殊狀態的數量×50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-007": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Heat Charged",
+              "effect": "Flip 3 coins. For each heads, produce a {R} Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+              "name": "Netherwing",
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Chaleur Chargée",
+              "effect": "Lancez 3 pièces. Pour chaque côté face, prenez une Énergie {R} de votre zone Énergie et attachez‐la à ce Pokémon."
+            },
+            {
+              "name": "Ailes des Enfers",
+              "effect": "Défaussez une Énergie {R} de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carga Térmica",
+              "effect": "Lanza 3 monedas. Por cada cara, une 1 Energía {R} de tu área de Energía a este Pokémon."
+            },
+            {
+              "name": "Ala Averna",
+              "effect": "Descarta 1 Energía {R} de este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Carga de Calor",
+              "effect": "Jogue 3 moedas. Para cada cara, pegue uma Energia {R} da sua Zona de Energia e ligue-a a este Pokémon."
+            },
+            {
+              "name": "Asa do Inferno",
+              "effect": "Descarte 1 Energia {R} deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "高溫充能",
+              "effect": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{R}能量,附於這隻寶可夢身上。"
+            },
+            {
+              "name": "獄炎之翼",
+              "effect": "將這隻寶可夢身上的1個{R}能量丟棄。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-008": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Live Coal"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Charbon Mutant"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carbón Activado"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Carvão Vivo"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "火種"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-009": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Toxfire Fang",
+              "effect": "Your opponent's Active Pokémon is now Poisoned and Burned."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Croc Toxifeu",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Brûlé."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Colmillo Pirotóxico",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado y Quemado."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Presa de Fogo Tóxico",
+              "effect": "O Pokémon Ativo do seu oponente agora está Envenenado e Queimado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "毒熱牙",
+              "effect": "將對手的戰鬥寶可夢中毒與灼傷。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-010": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Scratch"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Griffe"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Arañazo"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Arranhão"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "抓"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-011": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Psyshot"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Piqûre Psy"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Disparo Psi"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Tiro Psíquico"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "精神射擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-012": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Psychic",
+              "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Psyko",
+              "effect": "Cette attaque inflige 30 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque hace 30 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "精神強念",
+              "effect": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-013": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Ruthless Whirlpool",
+              "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Tourbillon Implacable",
+              "effect": "Si ce Pokémon a plus d'Énergies attachées que le Pokémon Actif de votre adversaire, cette attaque inflige 40 dégâts supplémentaires."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Torbellino Implacable",
+              "effect": "Si este Pokémon tiene más Energía unida que el Pokémon Activo de tu rival, este ataque hace 40 puntos de daño más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Redemoinho Cruel",
+              "effect": "Se este Pokémon tiver mais Energia ligada a ele do que o Pokémon Ativo do seu oponente, este ataque causará 40 pontos de dano a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "冷酷漩渦",
+              "effect": "若這隻寶可夢身上的能量的數量,比對手的戰鬥寶可夢身上的能量的數量多,則增加40點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-014": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Ice Wing"
+            },
+            {
+              "name": "Hailstorm",
+              "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Aile Glace"
+            },
+            {
+              "name": "Bec du Blizzard",
+              "effect": "Cette attaque inflige aussi 20 dégâts à chacun de vos Pokémon de Banc."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ala Gélida"
+            },
+            {
+              "name": "Tormenta Polar",
+              "effect": "Este ataque también hace 20 puntos de daño a cada uno de tus Pokémon en Banca."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Asa de Gelo"
+            },
+            {
+              "name": "Toró de Granizo",
+              "effect": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "冰之翼"
+            },
+            {
+              "name": "冰雪風暴",
+              "effect": "自己的所有備戰寶可夢也受到20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-015": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Flap"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Battement"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Aleteo"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Asa"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "羽擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-016": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Wing Attack"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Cru-Ailes"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ataque Ala"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Ataque de Asa"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "翅膀攻擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-017": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Bite"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Morsure"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Mordisco"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Mordida"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "咬住"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-018": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Soul Counter",
+              "effect": "This attack does 50 more damage for each point your opponent got during their last turn."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Riposte Spirituelle",
+              "effect": "Cette attaque inflige 50 dégâts supplémentaires pour chaque point que votre adversaire a gagné pendant son dernier tour."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Contraataque Espiritual",
+              "effect": "Este ataque hace 50 puntos de daño más por cada punto que haya conseguido tu rival durante su último turno."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Contador de Almas",
+              "effect": "Este ataque causa 50 pontos de dano a mais para cada ponto que seu oponente recebeu durante o último turno dele."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "靈魂反擊",
+              "effect": "增加上個對手的回合對手獲得的分數×50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-019": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Rolling Attack"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Attaque Qui Roule"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ataque Giro"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Golpe Rolador"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "滾球攻擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-020": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Random Spark",
+              "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Destiny Burst",
+              "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 70 damage to the Attacking Pokémon."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Étincelle Surprise",
+              "effect": "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Explo-Destin",
+              "effect": "Si ce Pokémon est sur le Poste Actif et qu'il est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 70 dégâts."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Chispa al Azar",
+              "effect": "Este ataque hace 30 puntos de daño a 1 de los Pokémon de tu rival."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Explosión Destino",
+              "effect": "Si este Pokémon está en el Puesto Activo y queda Fuera de Combate por el daño de un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 70 puntos de daño."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Fagulha Aleatória",
+              "effect": "Este ataque causa 30 pontos de dano a 1 dos Pokémon do seu oponente."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Rajada do Destino",
+              "effect": "Se este Pokémon estiver no Campo Ativo e for Nocauteado pelo dano de um ataque dos Pokémon do seu oponente, cause 70 pontos de dano ao Pokémon Atacante."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "電磁電光",
+              "effect": "對手的1隻寶可夢受到30點傷害。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "同命轟炸",
+              "effect": "這隻寶可夢在戰鬥場上受到對手的寶可夢招式的傷害而昏厥時,使用招式的寶可夢受到70點傷害。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-021": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Electro Ball"
+            },
+            {
+              "name": "Thunderclaw",
+              "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Boule Élek"
+            },
+            {
+              "name": "Serres du Tonnerre",
+              "effect": "Cette attaque inflige aussi 50 dégâts à un des Pokémon de Banc de votre adversaire ayant subi des dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Bola Voltio"
+            },
+            {
+              "name": "Garra Tronadora",
+              "effect": "Este ataque también hace 50 puntos de daño a 1 de los Pokémon en Banca de tu rival que ya tenga daño."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Bola Elétrica"
+            },
+            {
+              "name": "Garra Trovoada",
+              "effect": "Este ataque também causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente que estiver danificado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "電球"
+            },
+            {
+              "name": "雷鳴鉤爪",
+              "effect": "對手有受到傷害的1隻備戰寶可夢也受到50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-022": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Double Headbutt",
+              "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Double Coup d'Boule",
+              "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Doble Cabezazo",
+              "effect": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Cabeçada Dupla",
+              "effect": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "二連頭錘",
+              "effect": "擲2次硬幣,造成正面出現的次數×20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-023": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Zap Kick"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Coup de Pied Ravageur"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Electropatada"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Chute Zap"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "電氣踢"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-024": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Poison Jab",
+              "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Direct Toxik",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Puya Nociva",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Golpe Envenenado",
+              "effect": "O Pokémon Ativo do seu oponente agora está Envenenado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "毒擊",
+              "effect": "將對手的戰鬥寶可夢中毒。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-025": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Scavenge",
+              "effect": "Put a random Item card from your discard pile into your hand."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Farfouille",
+              "effect": "Ajoutez au hasard une carte Objet de votre pile de défausse à votre main."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Buscabasura",
+              "effect": "Pon carta de Objeto aleatoria de tu pila de descartes en tu mano."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Vasculhar",
+              "effect": "Coloque carta de Item aleatória da sua pilha de descarte na sua mão."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "翻垃圾",
+              "effect": "從自己的棄牌區隨機將張物品卡加入手牌。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-026": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Hand Kinesis",
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Télékinésie en Main",
+              "effect": "Cette attaque inflige 20 dégâts pour chaque carte dans votre main."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiration Maléfique",
+              "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez piocher une carte."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Manoquinesis",
+              "effect": "Este ataque hace 20 puntos de daño por cada carta en tu mano."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiración Maligna",
+              "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar 1 carta."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Cinese de Mão",
+              "effect": "Este ataque causa 20 pontos de dano para cada carta na sua mão."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiração Maligna",
+              "effect": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá comprar 1 carta."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "手中強念",
+              "effect": "造成自己的手牌的張數×20點傷害。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "邪惡點子",
+              "effect": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。從自己的牌庫抽出1張卡。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-027": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Mumble"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Murmure"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Farfullar"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Resmungo"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "囈語"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-028": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Entrap",
+              "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Traquenard",
+              "effect": "Envoyez un des Pokémon de Banc de votre adversaire sur le Poste Actif. Dans ce cas, cette attaque inflige 50 dégâts au nouveau Pokémon Actif."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Atrapar",
+              "effect": "Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon que esté en el Puesto Activo. Si lo haces, este ataque inflige 50 puntos de daño al nuevo Pokémon Activo."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Armação",
+              "effect": "Mande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo. Se fizer isso, este ataque causará 50 pontos de dano ao novo Pokémon Ativo."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "設下圈套",
+              "effect": "選擇對手的1隻備戰寶可夢,與戰鬥寶可夢互換。然後,新上場的寶可夢受到50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-029": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Slap Push"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Grande Claque"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Empujón con Bofetón"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Tapa Empurrão"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "巴掌撲擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-030": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Psychic Explosion",
+              "effect": "This Pokémon also does 70 damage to itself."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Explosion Psychique",
+              "effect": "Ce Pokémon s'inflige aussi 70 dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Explosión Psíquica",
+              "effect": "Este Pokémon también se hace 70 puntos de daño a sí mismo."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Detonação Psíquica",
+              "effect": "Este Pokémon também causa 70 pontos de dano a si mesmo."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "精神炸彈",
+              "effect": "這隻寶可夢也受到70點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-031": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Beam"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Rayon"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Transmisión"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Feixe"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "光束"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-032": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Super Psy Bolt"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Super Psy"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Superrayo Psi"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Super-raio Psíquico"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "超念力"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-033": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Punch and Draw",
+              "effect": "Draw a card."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Poing et Pioche",
+              "effect": "Piochez une carte."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Puñetazo y Robo",
+              "effect": "Roba carta."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Socar e Comprar",
+              "effect": "Compre carta."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "出拳&抽出",
+              "effect": "從自己的牌庫抽出張卡。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-034": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Tackle"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Charge"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Placaje"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Investida"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "撞擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-035": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Bone Beatdown"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Dérouillée d'Os"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Derribo Óseo"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Surra de Osso"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "骨頭打擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-036": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Punish",
+              "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Punir",
+              "effect": "Si le Pokémon Actif de votre adversaire a « Team Rocket » dans son nom, cette attaque inflige 70 dégâts supplémentaires."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Escarmiento",
+              "effect": "Si el Pokémon Activo de tu rival tiene \"Team Rocket\" en su nombre, este ataque hace 70 puntos de daño más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Punir",
+              "effect": "Se o Pokémon Ativo do seu oponente tiver “Equipe Rocket” em seu nome, este ataque causará 70 pontos de dano a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "懲治",
+              "effect": "若對手的戰鬥寶可夢為名稱中有「火箭隊」的寶可夢,則增加70點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-037": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Gaia Impact",
+              "effect": "Discard all Energy from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Impact de Gaïa",
+              "effect": "Défaussez toutes les Énergies de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Impacto Gaia",
+              "effect": "Descarta todas las Energías de este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Impacto Gaia",
+              "effect": "Descarte todas as Energias deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "蓋亞衝擊",
+              "effect": "將這隻寶可夢身上的能量全部丟棄。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-038": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Darkness Fang"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Croc Obscur"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Colmillo de Oscuridad"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Presa Sombria"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "暗之牙"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-039": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Shadow Seeker",
+              "effect": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Chercheur d'Ombres",
+              "effect": "Cette attaque inflige 10 dégâts supplémentaires pour chaque Énergie dans le Coût de Retraite du Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Buscador de Sombras",
+              "effect": "Este ataque hace 10 puntos de daño más por cada Energía en el Coste de Retirada del Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Explorador das Sombras",
+              "effect": "Este ataque causa 10 pontos de dano a mais para cada Energia no Custo de Recuo do Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "暗影追蹤",
+              "effect": "增加對手的戰鬥寶可夢撤退所需的能量的數量×10點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-040": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Sludge",
+              "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Détritus",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Residuos",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Ataque de Lama",
+              "effect": "O Pokémon Ativo do seu oponente agora está Envenenado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "污泥攻擊",
+              "effect": "將對手的戰鬥寶可夢中毒。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-041": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Poison Absorption",
+              "effect": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Absorption de Poison",
+              "effect": "Si le Pokémon Actif de votre adversaire est Empoisonné, soignez 60 dégâts de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Absorción Veneno",
+              "effect": "Si el Pokémon Activo de tu rival está Envenenado, cura 60 puntos de daño a este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Absorção de Veneno",
+              "effect": "Se o Pokémon Ativo do seu oponente estiver Envenenado, cure 60 pontos de dano deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "毒之舔舐",
+              "effect": "若對手的戰鬥寶可夢中毒,則將這隻寶可夢恢復60HP。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-042": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Reverse Thrust",
+              "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Poussée Inverse",
+              "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Invertir Impulso",
+              "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Impulso Reverso",
+              "effect": "Troque este Pokémon por 1 dos seus Pokémon no Banco."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "逆向噴射",
+              "effect": "將這隻寶可夢與備戰寶可夢互換。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-043": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Confusion Gas",
+              "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Boiler Smog",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Confu-Gaz",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Dégazage Bouillonnant",
+              "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez laisser le Pokémon Actif de votre adversaire Empoisonné et Brûlé."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Gas Desconcertante",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Esmog de Caldera",
+              "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes dejar al Pokémon Activo de tu rival Envenenado y Quemado."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Gás de Confusão",
+              "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Fumaça Escaldante",
+              "effect": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá deixar o Pokémon Ativo do seu oponente Envenenado e Queimado."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "混亂瓦斯",
+              "effect": "將對手的戰鬥寶可夢混亂。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "蒸騰濁霧",
+              "effect": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢中毒與灼傷。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-044": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Group Beatdown",
+              "effect": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Raclée Collective",
+              "effect": "Lancez une pièce pour chacun de vos Pokémon en jeu. Cette attaque inflige 30 dégâts multipliés par le nombre de côtés face."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Paliza Grupal",
+              "effect": "Lanza 1 moneda por cada Pokémon que tengas en juego. Este ataque hace 30 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Abater em Grupo",
+              "effect": "Jogue 1 moeda para cada Pokémon que você tem em jogo. Este ataque causa 30 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "圍剿",
+              "effect": "以自己的場上寶可夢的數量擲硬幣,造成正面出現的次數×30點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-045": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Tumbling Attack",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Attaque Trébuchante",
+              "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ataque Tambaleante",
+              "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Ataque Cambalhota",
+              "effect": "Jogue uma moeda. Se sair cara, este ataque causará 30 pontos de dano a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "回轉攻擊",
+              "effect": "擲1次硬幣若為正面,則增加30點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-046": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Rollout"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Roulade"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Rodar"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Rolagem"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "滾動"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-047": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Heavy Impact"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Gros Impact"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Impacto Pesado"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Impacto Pesado"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "重磅衝擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-048": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Lunge Out"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Allonger"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Arremeter"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Bote"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "撞倒"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-049": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Corkscrew Punch"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Poing Tire-Bouchon"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Puño Tirabuzón"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Soco Saca-rolha"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "推擊"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-050": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Pile-Driving Hammer",
+              "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 {C} more, and its Retreat Cost is 2 {C} more."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Marteau-Pilon",
+              "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent 2 Énergies {C} de plus, et son Coût de Retraite augmente de 2 Énergies {C}."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Martillo Perforador",
+              "effect": "Durante el próximo turno de tu rival, los ataques usados por el Pokémon Defensor cuestan 2 {C} más, y su Coste de Retirada es de 2 {C} más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Martelo Empilhador",
+              "effect": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 2 {C} a mais e o Custo de Recuo dele será 2 {C} a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "打樁錘",
+              "effect": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量與撤退所需的能量,增加2個{C}能量。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-051": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Power Gem"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Rayon Gemme"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Pièce Scintillante",
+              "effect": "Une fois pendant votre tour, après avoir lancé des pièces pour l'effet d'une de vos cartes Dresseur, vous pouvez ignorer les résultats de ces lancers de pièces et lancer ces pièces à nouveau. Vous ne pouvez utiliser qu'un talent Pièce Scintillante par tour."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Joya de Luz"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Moneda Resplandeciente",
+              "effect": "Una vez durante tu turno, al lanzar las monedas para un efecto de tus cartas de Entrenador, puedes ignorar todos los resultados de esos lanzamientos de monedas y lanzar esas monedas de nuevo. No puedes usar más de 1 habilidad Moneda Resplandeciente en cada turno."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Gema Poderosa"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Moeda Luxuosa",
+              "effect": "Uma vez durante o seu turno, quando você jogar moedas para um efeito de suas cartas de Treinador, você poderá ignorar todos os resultados das moedas e jogá‐las novamente. Você não pode usar mais de 1 Habilidade Moeda Luxuosa por turno."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "力量寶石"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "輝煌金幣",
+              "effect": "在自己的回合,因自己的訓練家卡的效果而擲硬幣時,可使用1次。將擲硬幣的結果全部消除,重新擲硬幣。在使用了其他的「輝煌金幣」的回合,這個特性無法使用。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-052": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Take Down",
+              "effect": "This Pokémon also does 10 damage to itself."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Bélier",
+              "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Derribo",
+              "effect": "Este Pokémon también se hace 10 puntos de daño a sí mismo."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Desmantelar",
+              "effect": "Este Pokémon também causa 10 pontos de dano a si mesmo."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "猛撞",
+              "effect": "這隻寶可夢也受到10點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-053": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Linear Attack",
+              "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Attaque Linéaire",
+              "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ataque Lineal",
+              "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Ataque Linear",
+              "effect": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "直擊彈",
+              "effect": "對手的1隻寶可夢受到50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-054": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Land Crush"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Mach Stealth",
+              "effect": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Écras'Terre"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Évasion Éclair",
+              "effect": "Si le Pokémon de votre adversaire est mis K.O. par les dégâts des attaques de ce Pokémon, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Aterrizaje"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Sigilo Mach",
+              "effect": "Si alguno de los Pokémon de tu rival queda Fuera de Combate por el daño de los ataques de este Pokémon, durante el próximo turno de tu rival, se evitan todo el daño y todos los efectos de los ataques infligidos a este Pokémon."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Aperto de Terra"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Furtividade Supersônica",
+              "effect": "Se o Pokémon do seu oponente for Nocauteado pelo dano dos ataques deste Pokémon, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "大地粉碎"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "音速隱形",
+              "effect": "若對手的寶可夢因這隻寶可夢招式的傷害而昏厥了,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-055": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Power Beam"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Puissant Rayon"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Rayo de Luz Poderoso"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Raio de Poder"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "強力光束"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-056": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Protect Charge",
+              "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Recharge Protectrice",
+              "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 30 dégâts provenant des attaques."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carga Protectora",
+              "effect": "Durante el próximo turno de tu rival, los ataques hacen ‐30 puntos de daño a este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Carga Protetora",
+              "effect": "Durante o próximo turno do seu oponente, este Pokémon receberá −30 pontos de dano de ataques."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "防護充能",
+              "effect": "在下個對手的回合,這隻寶可夢受到招式的傷害-30點。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-057": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Draconic Slam",
+              "effect": "If this Pokémon has damage on it, this attack does −100 damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Écrasement Draconique",
+              "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige − 100 dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Golpe Dragontino",
+              "effect": "Si este Pokémon ya tiene daño, este ataque hace ‐100 puntos de daño."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Pancada Dracônica",
+              "effect": "Se este Pokémon estiver danificado, este ataque causará −100 pontos de dano."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "龍之重擊",
+              "effect": "若這隻寶可夢有受到傷害,則這個招式的傷害-100點。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-058": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Ambush",
+              "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Embuscade",
+              "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Emboscada",
+              "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 20 puntos de daño más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Emboscada",
+              "effect": "Jogue uma moeda. Se sair cara, este ataque causará 20 pontos de dano a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "伏擊",
+              "effect": "擲1次硬幣若為正面,則增加20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-059": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Boost Dash"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Thieving Incisors",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Ruée Propulsée"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisives Voleuses",
+              "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez déplacer au hasard une Énergie du Pokémon Actif de votre adversaire vers ce Pokémon."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carrera Impulso"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisivos Despojadores",
+              "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes mover 1 Energía aleatoria del Pokémon Activo de tu rival a este Pokémon."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Impulso de Corrida"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisivos Bandidos",
+              "effect": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá mover 1 Energia aleatória do Pokémon Ativo do seu oponente a este Pokémon."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "突進衝刺"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "打劫門牙",
+              "effect": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢身上的隨機1個能量改附於這隻寶可夢身上。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-060": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Scratch"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Griffe"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Arañazo"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Arranhão"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "抓"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-061": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Dangerous Rogue",
+              "effect": "This attack does 40 more damage for each of your opponent's Benched Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Dangereux Truand",
+              "effect": "Cette attaque inflige 40 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Pícaro Peligroso",
+              "effect": "Este ataque hace 40 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Trapaceiro Perigoso",
+              "effect": "Este ataque causa 40 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "凶神惡煞",
+              "effect": "增加對手備戰寶可夢的數量×40點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-062": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Hit and Hide",
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Spy Ops",
+              "effect": "Once during your turn, you may look at a random card from your opponent's hand."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Frappe et Cachette",
+              "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Renseignements",
+              "effect": "Une fois pendant votre tour, vous pouvez regarder une carte de la main de votre adversaire au hasard."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Golpear y Esconder",
+              "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Espía",
+              "effect": "Una vez durante tu turno, puedes mirar 1 carta aleatoria de la mano de tu rival."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Bate e Esconde",
+              "effect": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Operação Espião",
+              "effect": "Uma vez durante o seu turno, você pode olhar 1 carta aleatória da mão do seu oponente."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "打擊躲藏",
+              "effect": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "間諜行動",
+              "effect": "在自己的回合時,可使用1次。從對手的手牌隨機查看1張卡的正面。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-063": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Chubby Cheer",
+              "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Soutien qui Ravit",
+              "effect": "Pendant votre prochain tour, les attaques de vos Pokémon infligent + 20 dégâts au Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ovación Ovalada",
+              "effect": "Durante tu próximo turno, los ataques de tus Pokémon hacen +20 puntos de daño al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Torcida Fofa",
+              "effect": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "福福聲援",
+              "effect": "在下個自己的回合,自己的寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+20點。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-064": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Continuous Steps",
+              "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Fur Coat",
+              "effect": "This Pokémon takes −20 damage from attacks."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Pas Continus",
+              "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 30 dégâts pour chaque côté face."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Toison Épaisse",
+              "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Pasos Incesantes",
+              "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 30 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Pelaje Recio",
+              "effect": "Los ataques hacen -20 puntos de daño a este Pokémon."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Passos Contínuos",
+              "effect": "Jogue uma moeda até sair coroa. Este ataque causa 30 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Camada de Pelos",
+              "effect": "Este Pokémon recebe −20 pontos de dano de ataques."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "連續舞步",
+              "effect": "擲硬幣直到出現反面,造成正面出現的次數×30點傷害。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "毛皮大衣",
+              "effect": "這隻寶可夢受到招式的傷害-20點。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-065": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Headbutt"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Coup d'Boule"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Golpe Cabeza"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Cabeçada"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "頭錘"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-066": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Sitdown Splash",
+              "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Grosse Éclaboussure",
+              "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 60 dégâts de plus."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Chapoteo Sentado",
+              "effect": "Lanza 1 moneda. Si sale cara, este ataque hace 60 puntos de daño más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Respingo Arriante",
+              "effect": "Jogue uma moeda. Se sair cara, este ataque causará 60 pontos de dano a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "臀部坐擊",
+              "effect": "擲1次硬幣若為正面,則增加60點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-067": {
+      "locales": {
+        "en": {
+          "effect": "Put a random Item card, except any Team Rocket's Thieving Machine, from your opponent's discard pile into your hand."
+        },
+        "fr": {
+          "effect": "Ajoutez au hasard une carte Objet, sauf Robot Rafleur de la Team Rocket, de la pile de défausse de votre adversaire à votre main."
+        },
+        "es": {
+          "effect": "Pon carta de Objeto aleatoria, excepto Robomatón del Team Rocket, de la pila de descartes de tu rival en tu mano."
+        },
+        "pt": {
+          "effect": "Coloque carta de Item aleatória, exceto por quaisquer Máquina de Roubo da Equipe Rocket, da pilha de descarte do seu oponente na sua mão."
+        },
+        "zh": {
+          "effect": "從對手的棄牌區隨機將張物品卡(「火箭隊的竊盜機」除外)加入自己的手牌。"
+        }
+      }
+    },
+    "B4a-068": {
+      "locales": {
+        "en": {
+          "effect": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more."
+        },
+        "fr": {
+          "effect": "Jusqu'à la fin du prochain tour de votre adversaire, le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté d'une Énergie."
+        },
+        "es": {
+          "effect": "Hasta el final del próximo turno de tu rival, el Coste de Retirada del Pokémon Activo de tu rival es de 1 más."
+        },
+        "pt": {
+          "effect": "Até o final do próximo turno do seu oponente, o Custo de Recuo do Pokémon Ativo do seu oponente será 1 a mais."
+        },
+        "zh": {
+          "effect": "在下個對手的回合結束前,對手的戰鬥寶可夢撤退所需的能量增加1個。"
+        }
+      }
+    },
+    "B4a-069": {
+      "locales": {
+        "en": {
+          "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand."
+        },
+        "fr": {
+          "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, ajoutez au hasard un Pokémon ayant « Team Rocket » dans son nom de votre deck à votre main."
+        },
+        "es": {
+          "effect": "Lanza 1 moneda hasta que salga cruz. Por cada cara, pon un Pokémon aleatorio que tenga \"Team Rocket\" en su nombre de tu baraja en tu mano."
+        },
+        "pt": {
+          "effect": "Jogue uma moeda até sair coroa. Para cada cara, coloque um Pokémon aleatório que tenha ''Equipe Rocket'' em seu nome do seu baralho na sua mão."
+        },
+        "zh": {
+          "effect": "擲硬幣直到出現反面,從自己的牌庫隨機將與正面出現的次數相同數量的名稱中有「火箭隊」的寶可夢加入手牌。"
+        }
+      }
+    },
+    "B4a-070": {
+      "locales": {
+        "en": {
+          "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused."
+        },
+        "fr": {
+          "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus. Lancez une pièce. Si c'est pile, votre Pokémon Actif est maintenant Confus également."
+        },
+        "es": {
+          "effect": "El Pokémon Activo de tu rival pasa a estar Confundido. Lanza 1 moneda. Si sale cruz, tu Pokémon Activo también pasa a estar Confundido."
+        },
+        "pt": {
+          "effect": "O Pokémon Ativo do seu oponente agora está Confuso. Jogue uma moeda. Se sair coroa, seu Pokémon Ativo agora também estará Confuso."
+        },
+        "zh": {
+          "effect": "將對手的戰鬥寶可夢混亂。擲1次硬幣若為反面,則也將自己的戰鬥寶可夢混亂。"
+        }
+      }
+    },
+    "B4a-071": {
+      "locales": {
+        "en": {
+          "effect": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench."
+        },
+        "fr": {
+          "effect": "Regardez la main de votre adversaire et placez autant de Pokémon de base trouvés que vous le souhaitez sur le Banc de votre adversaire."
+        },
+        "es": {
+          "effect": "Mira las cartas de la mano de tu rival y pon tantos Pokémon Básicos que encuentres entre ellas como quieras en la Banca de tu rival."
+        },
+        "pt": {
+          "effect": "Olhe a mão do seu oponente e coloque qualquer número de Pokémon Básicos que encontrar lá no Banco dele."
+        },
+        "zh": {
+          "effect": "查看對手所有手牌的正面,從其中選擇任意數量的基礎寶可夢,放置於對手的備戰區。"
+        }
+      }
+    },
+    "B4a-072": {
+      "locales": {
+        "en": {
+          "effect": "Once during each player's turn, that player may flip 3 coins. If all of them are heads, that player draws cards until they have 7 cards in their hand."
+        },
+        "fr": {
+          "effect": "Une fois pendant le tour de chaque joueur, ce joueur peut lancer 3 pièces. Si toutes sont côté face, le joueur pioche jusqu'à avoir 7 cartes dans sa main."
+        },
+        "es": {
+          "effect": "Una vez durante el turno de cada jugador, ese jugador puede lanzar 3 monedas. Si en todas sale cara, ese jugador roba cartas hasta tener 7 cartas en su mano."
+        },
+        "pt": {
+          "effect": "Uma vez durante o turno de cada jogador, aquele jogador poderá jogar 3 moedas. Se todas saírem cara, aquele jogador comprará cartas até ter 7 cartas na própria mão."
+        },
+        "zh": {
+          "effect": "雙方玩家在自己的回合時,可使用1次。擲3次硬幣,若全部為正面,則從牌庫抽卡直到自己的手牌滿7張為止。"
+        }
+      }
+    },
+    "B4a-073": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Psychic",
+              "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Psyko",
+              "effect": "Cette attaque inflige 30 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque hace 30 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Psíquico",
+              "effect": "Este ataque causa 30 pontos de dano a mais para cada Energia ligada ao Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "精神強念",
+              "effect": "增加對手的戰鬥寶可夢身上的能量的數量×30點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-074": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Entrap",
+              "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Traquenard",
+              "effect": "Envoyez un des Pokémon de Banc de votre adversaire sur le Poste Actif. Dans ce cas, cette attaque inflige 50 dégâts au nouveau Pokémon Actif."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Atrapar",
+              "effect": "Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon que esté en el Puesto Activo. Si lo haces, este ataque inflige 50 puntos de daño al nuevo Pokémon Activo."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Armação",
+              "effect": "Mande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo. Se fizer isso, este ataque causará 50 pontos de dano ao novo Pokémon Ativo."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "設下圈套",
+              "effect": "選擇對手的1隻備戰寶可夢,與戰鬥寶可夢互換。然後,新上場的寶可夢受到50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-075": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Pile-Driving Hammer",
+              "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 {C} more, and its Retreat Cost is 2 {C} more."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Marteau-Pilon",
+              "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent 2 Énergies {C} de plus, et son Coût de Retraite augmente de 2 Énergies {C}."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Martillo Perforador",
+              "effect": "Durante el próximo turno de tu rival, los ataques usados por el Pokémon Defensor cuestan 2 {C} más, y su Coste de Retirada es de 2 {C} más."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Martelo Empilhador",
+              "effect": "Durante o próximo turno do seu oponente, os ataques usados pelo Pokémon Defensor custarão 2 {C} a mais e o Custo de Recuo dele será 2 {C} a mais."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "打樁錘",
+              "effect": "在下個對手的回合,受到這個招式的寶可夢使用招式所需的能量與撤退所需的能量,增加2個{C}能量。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-076": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Hit and Hide",
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Spy Ops",
+              "effect": "Once during your turn, you may look at a random card from your opponent's hand."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Frappe et Cachette",
+              "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Renseignements",
+              "effect": "Une fois pendant votre tour, vous pouvez regarder une carte de la main de votre adversaire au hasard."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Golpear y Esconder",
+              "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Espía",
+              "effect": "Una vez durante tu turno, puedes mirar 1 carta aleatoria de la mano de tu rival."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Bate e Esconde",
+              "effect": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Operação Espião",
+              "effect": "Uma vez durante o seu turno, você pode olhar 1 carta aleatória da mão do seu oponente."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "打擊躲藏",
+              "effect": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "間諜行動",
+              "effect": "在自己的回合時,可使用1次。從對手的手牌隨機查看1張卡的正面。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-077": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Chubby Cheer",
+              "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Soutien qui Ravit",
+              "effect": "Pendant votre prochain tour, les attaques de vos Pokémon infligent + 20 dégâts au Pokémon Actif de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ovación Ovalada",
+              "effect": "Durante tu próximo turno, los ataques de tus Pokémon hacen +20 puntos de daño al Pokémon Activo de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Torcida Fofa",
+              "effect": "Durante o seu próximo turno, os ataques usados pelos seus Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "福福聲援",
+              "effect": "在下個自己的回合,自己的寶可夢使用的招式,對對手的戰鬥寶可夢造成的傷害+20點。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-078": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Headbutt"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Coup d'Boule"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Golpe Cabeza"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Cabeçada"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "頭錘"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-079": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Heat Charged",
+              "effect": "Flip 3 coins. For each heads, produce a {R} Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+              "name": "Netherwing",
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Chaleur Chargée",
+              "effect": "Lancez 3 pièces. Pour chaque côté face, prenez une Énergie {R} de votre zone Énergie et attachez‐la à ce Pokémon."
+            },
+            {
+              "name": "Ailes des Enfers",
+              "effect": "Défaussez une Énergie {R} de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carga Térmica",
+              "effect": "Lanza 3 monedas. Por cada cara, une 1 Energía {R} de tu área de Energía a este Pokémon."
+            },
+            {
+              "name": "Ala Averna",
+              "effect": "Descarta 1 Energía {R} de este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Carga de Calor",
+              "effect": "Jogue 3 moedas. Para cada cara, pegue uma Energia {R} da sua Zona de Energia e ligue-a a este Pokémon."
+            },
+            {
+              "name": "Asa do Inferno",
+              "effect": "Descarte 1 Energia {R} deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "高溫充能",
+              "effect": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{R}能量,附於這隻寶可夢身上。"
+            },
+            {
+              "name": "獄炎之翼",
+              "effect": "將這隻寶可夢身上的1個{R}能量丟棄。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-080": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Ice Wing"
+            },
+            {
+              "name": "Hailstorm",
+              "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Aile Glace"
+            },
+            {
+              "name": "Bec du Blizzard",
+              "effect": "Cette attaque inflige aussi 20 dégâts à chacun de vos Pokémon de Banc."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ala Gélida"
+            },
+            {
+              "name": "Tormenta Polar",
+              "effect": "Este ataque también hace 20 puntos de daño a cada uno de tus Pokémon en Banca."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Asa de Gelo"
+            },
+            {
+              "name": "Toró de Granizo",
+              "effect": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "冰之翼"
+            },
+            {
+              "name": "冰雪風暴",
+              "effect": "自己的所有備戰寶可夢也受到20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-081": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Electro Ball"
+            },
+            {
+              "name": "Thunderclaw",
+              "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Boule Élek"
+            },
+            {
+              "name": "Serres du Tonnerre",
+              "effect": "Cette attaque inflige aussi 50 dégâts à un des Pokémon de Banc de votre adversaire ayant subi des dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Bola Voltio"
+            },
+            {
+              "name": "Garra Tronadora",
+              "effect": "Este ataque también hace 50 puntos de daño a 1 de los Pokémon en Banca de tu rival que ya tenga daño."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Bola Elétrica"
+            },
+            {
+              "name": "Garra Trovoada",
+              "effect": "Este ataque também causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente que estiver danificado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "電球"
+            },
+            {
+              "name": "雷鳴鉤爪",
+              "effect": "對手有受到傷害的1隻備戰寶可夢也受到50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-082": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Hand Kinesis",
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Télékinésie en Main",
+              "effect": "Cette attaque inflige 20 dégâts pour chaque carte dans votre main."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiration Maléfique",
+              "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez piocher une carte."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Manoquinesis",
+              "effect": "Este ataque hace 20 puntos de daño por cada carta en tu mano."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiración Maligna",
+              "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar 1 carta."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Cinese de Mão",
+              "effect": "Este ataque causa 20 pontos de dano para cada carta na sua mão."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiração Maligna",
+              "effect": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá comprar 1 carta."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "手中強念",
+              "effect": "造成自己的手牌的張數×20點傷害。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "邪惡點子",
+              "effect": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。從自己的牌庫抽出1張卡。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-083": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Confusion Gas",
+              "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Boiler Smog",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Confu-Gaz",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Dégazage Bouillonnant",
+              "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez laisser le Pokémon Actif de votre adversaire Empoisonné et Brûlé."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Gas Desconcertante",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Esmog de Caldera",
+              "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes dejar al Pokémon Activo de tu rival Envenenado y Quemado."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Gás de Confusão",
+              "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Fumaça Escaldante",
+              "effect": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá deixar o Pokémon Ativo do seu oponente Envenenado e Queimado."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "混亂瓦斯",
+              "effect": "將對手的戰鬥寶可夢混亂。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "蒸騰濁霧",
+              "effect": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢中毒與灼傷。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-084": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Boost Dash"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Thieving Incisors",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Ruée Propulsée"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisives Voleuses",
+              "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez déplacer au hasard une Énergie du Pokémon Actif de votre adversaire vers ce Pokémon."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carrera Impulso"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisivos Despojadores",
+              "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes mover 1 Energía aleatoria del Pokémon Activo de tu rival a este Pokémon."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Impulso de Corrida"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisivos Bandidos",
+              "effect": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá mover 1 Energia aleatória do Pokémon Ativo do seu oponente a este Pokémon."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "突進衝刺"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "打劫門牙",
+              "effect": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢身上的隨機1個能量改附於這隻寶可夢身上。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-085": {
+      "locales": {
+        "en": {
+          "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand."
+        },
+        "fr": {
+          "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, ajoutez au hasard un Pokémon ayant « Team Rocket » dans son nom de votre deck à votre main."
+        },
+        "es": {
+          "effect": "Lanza 1 moneda hasta que salga cruz. Por cada cara, pon un Pokémon aleatorio que tenga \"Team Rocket\" en su nombre de tu baraja en tu mano."
+        },
+        "pt": {
+          "effect": "Jogue uma moeda até sair coroa. Para cada cara, coloque um Pokémon aleatório que tenha ''Equipe Rocket'' em seu nome do seu baralho na sua mão."
+        },
+        "zh": {
+          "effect": "擲硬幣直到出現反面,從自己的牌庫隨機將與正面出現的次數相同數量的名稱中有「火箭隊」的寶可夢加入手牌。"
+        }
+      }
+    },
+    "B4a-086": {
+      "locales": {
+        "en": {
+          "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused."
+        },
+        "fr": {
+          "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus. Lancez une pièce. Si c'est pile, votre Pokémon Actif est maintenant Confus également."
+        },
+        "es": {
+          "effect": "El Pokémon Activo de tu rival pasa a estar Confundido. Lanza 1 moneda. Si sale cruz, tu Pokémon Activo también pasa a estar Confundido."
+        },
+        "pt": {
+          "effect": "O Pokémon Ativo do seu oponente agora está Confuso. Jogue uma moeda. Se sair coroa, seu Pokémon Ativo agora também estará Confuso."
+        },
+        "zh": {
+          "effect": "將對手的戰鬥寶可夢混亂。擲1次硬幣若為反面,則也將自己的戰鬥寶可夢混亂。"
+        }
+      }
+    },
+    "B4a-087": {
+      "locales": {
+        "en": {
+          "effect": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench."
+        },
+        "fr": {
+          "effect": "Regardez la main de votre adversaire et placez autant de Pokémon de base trouvés que vous le souhaitez sur le Banc de votre adversaire."
+        },
+        "es": {
+          "effect": "Mira las cartas de la mano de tu rival y pon tantos Pokémon Básicos que encuentres entre ellas como quieras en la Banca de tu rival."
+        },
+        "pt": {
+          "effect": "Olhe a mão do seu oponente e coloque qualquer número de Pokémon Básicos que encontrar lá no Banco dele."
+        },
+        "zh": {
+          "effect": "查看對手所有手牌的正面,從其中選擇任意數量的基礎寶可夢,放置於對手的備戰區。"
+        }
+      }
+    },
+    "B4a-088": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Heat Charged",
+              "effect": "Flip 3 coins. For each heads, produce a {R} Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+              "name": "Netherwing",
+              "effect": "Discard a {R} Energy from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Chaleur Chargée",
+              "effect": "Lancez 3 pièces. Pour chaque côté face, prenez une Énergie {R} de votre zone Énergie et attachez‐la à ce Pokémon."
+            },
+            {
+              "name": "Ailes des Enfers",
+              "effect": "Défaussez une Énergie {R} de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carga Térmica",
+              "effect": "Lanza 3 monedas. Por cada cara, une 1 Energía {R} de tu área de Energía a este Pokémon."
+            },
+            {
+              "name": "Ala Averna",
+              "effect": "Descarta 1 Energía {R} de este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Carga de Calor",
+              "effect": "Jogue 3 moedas. Para cada cara, pegue uma Energia {R} da sua Zona de Energia e ligue-a a este Pokémon."
+            },
+            {
+              "name": "Asa do Inferno",
+              "effect": "Descarte 1 Energia {R} deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "高溫充能",
+              "effect": "擲3次硬幣,從自己的能量區抽出與正面出現的次數相同數量的{R}能量,附於這隻寶可夢身上。"
+            },
+            {
+              "name": "獄炎之翼",
+              "effect": "將這隻寶可夢身上的1個{R}能量丟棄。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-089": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Ice Wing"
+            },
+            {
+              "name": "Hailstorm",
+              "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Aile Glace"
+            },
+            {
+              "name": "Bec du Blizzard",
+              "effect": "Cette attaque inflige aussi 20 dégâts à chacun de vos Pokémon de Banc."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ala Gélida"
+            },
+            {
+              "name": "Tormenta Polar",
+              "effect": "Este ataque también hace 20 puntos de daño a cada uno de tus Pokémon en Banca."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Asa de Gelo"
+            },
+            {
+              "name": "Toró de Granizo",
+              "effect": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "冰之翼"
+            },
+            {
+              "name": "冰雪風暴",
+              "effect": "自己的所有備戰寶可夢也受到20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-090": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Electro Ball"
+            },
+            {
+              "name": "Thunderclaw",
+              "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Boule Élek"
+            },
+            {
+              "name": "Serres du Tonnerre",
+              "effect": "Cette attaque inflige aussi 50 dégâts à un des Pokémon de Banc de votre adversaire ayant subi des dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Bola Voltio"
+            },
+            {
+              "name": "Garra Tronadora",
+              "effect": "Este ataque también hace 50 puntos de daño a 1 de los Pokémon en Banca de tu rival que ya tenga daño."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Bola Elétrica"
+            },
+            {
+              "name": "Garra Trovoada",
+              "effect": "Este ataque também causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente que estiver danificado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "電球"
+            },
+            {
+              "name": "雷鳴鉤爪",
+              "effect": "對手有受到傷害的1隻備戰寶可夢也受到50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-091": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Hand Kinesis",
+              "effect": "This attack does 20 damage for each card in your hand."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Evil Inspiration",
+              "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Télékinésie en Main",
+              "effect": "Cette attaque inflige 20 dégâts pour chaque carte dans votre main."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiration Maléfique",
+              "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez piocher une carte."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Manoquinesis",
+              "effect": "Este ataque hace 20 puntos de daño por cada carta en tu mano."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiración Maligna",
+              "effect": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar 1 carta."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Cinese de Mão",
+              "effect": "Este ataque causa 20 pontos de dano para cada carta na sua mão."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Inspiração Maligna",
+              "effect": "Uma vez durante o seu turno, se este Pokémon estiver no Campo Ativo, você poderá comprar 1 carta."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "手中強念",
+              "effect": "造成自己的手牌的張數×20點傷害。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "邪惡點子",
+              "effect": "若這隻寶可夢在戰鬥場上,則在自己的回合時可使用1次。從自己的牌庫抽出1張卡。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-092": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Confusion Gas",
+              "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Boiler Smog",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Confu-Gaz",
+              "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Dégazage Bouillonnant",
+              "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez laisser le Pokémon Actif de votre adversaire Empoisonné et Brûlé."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Gas Desconcertante",
+              "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Esmog de Caldera",
+              "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes dejar al Pokémon Activo de tu rival Envenenado y Quemado."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Gás de Confusão",
+              "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Fumaça Escaldante",
+              "effect": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá deixar o Pokémon Ativo do seu oponente Envenenado e Queimado."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "混亂瓦斯",
+              "effect": "將對手的戰鬥寶可夢混亂。"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "蒸騰濁霧",
+              "effect": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢中毒與灼傷。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-093": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Boost Dash"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Thieving Incisors",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Ruée Propulsée"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisives Voleuses",
+              "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez déplacer au hasard une Énergie du Pokémon Actif de votre adversaire vers ce Pokémon."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Carrera Impulso"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisivos Despojadores",
+              "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes mover 1 Energía aleatoria del Pokémon Activo de tu rival a este Pokémon."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Impulso de Corrida"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Incisivos Bandidos",
+              "effect": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá mover 1 Energia aleatória do Pokémon Ativo do seu oponente a este Pokémon."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "突進衝刺"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "打劫門牙",
+              "effect": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的戰鬥寶可夢身上的隨機1個能量改附於這隻寶可夢身上。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-094": {
+      "locales": {
+        "en": {
+          "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused."
+        },
+        "fr": {
+          "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus. Lancez une pièce. Si c'est pile, votre Pokémon Actif est maintenant Confus également."
+        },
+        "es": {
+          "effect": "El Pokémon Activo de tu rival pasa a estar Confundido. Lanza 1 moneda. Si sale cruz, tu Pokémon Activo también pasa a estar Confundido."
+        },
+        "pt": {
+          "effect": "O Pokémon Ativo do seu oponente agora está Confuso. Jogue uma moeda. Se sair coroa, seu Pokémon Ativo agora também estará Confuso."
+        },
+        "zh": {
+          "effect": "將對手的戰鬥寶可夢混亂。擲1次硬幣若為反面,則也將自己的戰鬥寶可夢混亂。"
+        }
+      }
+    },
+    "B4a-095": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Hold Still",
+              "effect": "Heal 20 damage from this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Ne Bougez Pas",
+              "effect": "Soignez 20 dégâts de ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Permanecer Inmóvil",
+              "effect": "Cura 20 puntos de daño a este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Ficar Parado",
+              "effect": "Cure 20 pontos de dano deste Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "紋絲不動",
+              "effect": "將這隻寶可夢恢復20HP。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-096": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Ember Dance",
+              "effect": "Flip 9 coins. This attack does 20 damage for each heads."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Danse de Braise",
+              "effect": "Lancez 9 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Danza Abrasadora",
+              "effect": "Lanza 9 monedas. Este ataque hace 20 puntos de daño por cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Brasas Dançantes",
+              "effect": "Jogue 9 moedas. Este ataque causa 20 pontos de dano para cada cara."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "火花舞",
+              "effect": "擲9次硬幣,造成正面出現的次數×20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-097": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Horn Attack"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Koud'Korne"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Cornada"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Ataque de Chifre"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "角撞"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-098": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Aqua Bullet",
+              "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Aquaballe",
+              "effect": "Cette attaque inflige aussi 20 dégâts à un20 des Pokémon de Banc de votre adversaire."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Bala Agua",
+              "effect": "Este ataque también hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Projétil de Água",
+              "effect": "Este ataque também causa 20 pontos de dano a 1 dos Pokémon no Banco do seu oponente."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "水子彈",
+              "effect": "對手的1隻備戰寶可夢也受到20點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-099": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Static Shock"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Choc Statique"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Impacto Estático"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Choque de Estática"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "劈哩啪啦"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-100": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Hide",
+              "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Cachette",
+              "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ocultarse",
+              "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Esconder",
+              "effect": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "躲藏",
+              "effect": "擲1次硬幣若為正面,則在下個對手的回合,這隻寶可夢不會受到招式的傷害與效果的影響。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-101": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Spooky Shot"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Refreshing Tea",
+              "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Tir Effrayant"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Thé Rafraîchissant",
+              "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez demander à votre adversaire de mélanger sa main avec son deck. Votre adversaire pioche ensuite une carte pour chaque point qui lui reste à gagner pour obtenir la victoire."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Disparo Embrujado"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Té Refrescante",
+              "effect": "Una vez durante tu turno, cuando juegas este Pokémon de tu mano para hacer evolucionar a uno de tus Pokémon, puedes hacer que tu rival ponga las cartas de su mano en su baraja y las baraje todas. Por cada punto restante que necesite conseguir tu rival para ganar, robará una carta."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Tiro Assustador"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Chá Refrescante",
+              "effect": "Uma vez durante o seu turno, quando você jogar este Pokémon da sua mão para evoluir 1 dos seus Pokémon, você poderá fazer com que o seu oponente embaralhe a mão dele no baralho dele. Para cada ponto restante que seu oponente precisa para vencer, ele comprará uma carta."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "陰森射擊"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "煥活茶",
+              "effect": "在自己的回合,當從手牌使出這張卡並完成進化時,可使用1次。將對手的手牌全部放回牌庫。對手從牌庫抽出與對手自己獲勝所需的剩餘分數相同數量的卡。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-102": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Cavernous Chomp"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Mâchoire Caverneuse"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Mordisco Cavernoso"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Mastigada Cavernosa"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "深咬"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-103": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Peck"
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Picpic"
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Picotazo"
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Bicada"
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "啄"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-104": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Wing Attack"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Repelling Wind",
+              "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Cru-Ailes"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Vent Repousse",
+              "effect": "Une fois pendant votre tour, vous pouvez échanger le Pokémon de base Actif de votre adversaire contre l'un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)"
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Ataque Ala"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Viento Repelente",
+              "effect": "Una vez durante tu turno, puedes mover el Pokémon Básico Activo de tu rival a la Banca. (Tu rival elige el nuevo Pokémon Activo)."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Ataque de Asa"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Vento Repelente",
+              "effect": "Uma vez durante o seu turno, você poderá mandar o Pokémon Básico Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)"
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "翅膀攻擊"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "防蟲之風",
+              "effect": "在自己的回合時,可使用1次。將對手的戰鬥場的基礎寶可夢與備戰寶可夢互換。]"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-105": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Crimson Dive",
+              "effect": "This Pokémon also does 50 damage to itself."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Plongeon Écarlate",
+              "effect": "Ce Pokémon s'inflige aussi 50 dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Picado Carmesí",
+              "effect": "Este Pokémon también se hace 50 puntos de daño a sí mismo."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Mergulho Carmim",
+              "effect": "Este Pokémon também causa 50 pontos de dano a si mesmo."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "紅蓮俯衝",
+              "effect": "這隻寶可夢也受到50點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-106": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Damaging Spark",
+              "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Étincelle Ravageuse",
+              "effect": "Cette attaque inflige aussi 30 dégâts à chacun des Pokémon de Banc de votre adversaire ayant subi des dégâts."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Chispa Dañina",
+              "effect": "Este ataque también hace 30 puntos de daño a cada uno de los Pokémon en Banca de tu rival que ya tenga daño."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Faísca Nociva",
+              "effect": "Este ataque também causa 30 pontos de dano a cada um dos Pokémon no Banco do seu oponente que estiver danificado."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "傷害電光",
+              "effect": "對手有受到傷害的所有備戰寶可夢也受到30點傷害。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-107": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Claw Slash"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Disguise",
+              "effect": "When this Pokémon is first damaged by an attack after coming into play, prevent that damage."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Tranch'Griffe"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Fantômasque",
+              "effect": "Lorsque ce Pokémon subit les dégâts d'une attaque pour la première fois après être entré en jeu, évitez ces dégâts."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Cuchillada Garra"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Disfraz",
+              "effect": "Si se inflige cualquier daño a este Pokémon en el primer ataque tras entrar en juego, evita ese daño."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Golpe de Garra"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Disfarce",
+              "effect": "Quando este Pokémon for danificado por um ataque pela primeira vez após entrar em jogo, previna aquele dano."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "利爪劈擊"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "畫皮",
+              "effect": "這隻寶可夢被放置於場上後,首次受到招式的傷害時,不會受到該傷害。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-108": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Heat-Up Crunch",
+              "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+            }
+          ],
+          "abilities": []
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Mâchouille Crescendo",
+              "effect": "Tant que ce Pokémon est sur le Poste Actif, son attaque Mâchouille Crescendo inflige + 30 dégâts. Cet effet est cumulable."
+            }
+          ],
+          "abilities": []
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Trituración In Crescendo",
+              "effect": "Hasta que este Pokémon deje el Puesto Activo, el ataque Trituración In Crescendo de este Pokémon hace +30 puntos de daño. Este efecto se acumula."
+            }
+          ],
+          "abilities": []
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Mastigada Quente",
+              "effect": "Até este Pokémon sair do Campo Ativo, o ataque Mastigada Quente deste Pokémon causará +30 pontos de dano. Este efeito acumula."
+            }
+          ],
+          "abilities": []
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "越咬越烈",
+              "effect": "在這隻寶可夢離開戰鬥場前,這隻寶可夢的「越咬越烈」的傷害+30點。這個效果會重複。"
+            }
+          ],
+          "abilities": []
+        }
+      }
+    },
+    "B4a-109": {
+      "locales": {
+        "en": {
+          "attacks": [
+            {
+              "name": "Power Gem"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Luxury Coin",
+              "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+            }
+          ]
+        },
+        "fr": {
+          "attacks": [
+            {
+              "name": "Rayon Gemme"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Pièce Scintillante",
+              "effect": "Une fois pendant votre tour, après avoir lancé des pièces pour l'effet d'une de vos cartes Dresseur, vous pouvez ignorer les résultats de ces lancers de pièces et lancer ces pièces à nouveau. Vous ne pouvez utiliser qu'un talent Pièce Scintillante par tour."
+            }
+          ]
+        },
+        "es": {
+          "attacks": [
+            {
+              "name": "Joya de Luz"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Moneda Resplandeciente",
+              "effect": "Una vez durante tu turno, al lanzar las monedas para un efecto de tus cartas de Entrenador, puedes ignorar todos los resultados de esos lanzamientos de monedas y lanzar esas monedas de nuevo. No puedes usar más de 1 habilidad Moneda Resplandeciente en cada turno."
+            }
+          ]
+        },
+        "pt": {
+          "attacks": [
+            {
+              "name": "Gema Poderosa"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "Moeda Luxuosa",
+              "effect": "Uma vez durante o seu turno, quando você jogar moedas para um efeito de suas cartas de Treinador, você poderá ignorar todos os resultados das moedas e jogá‐las novamente. Você não pode usar mais de 1 Habilidade Moeda Luxuosa por turno."
+            }
+          ]
+        },
+        "zh": {
+          "attacks": [
+            {
+              "name": "力量寶石"
+            }
+          ],
+          "abilities": [
+            {
+              "name": "輝煌金幣",
+              "effect": "在自己的回合,因自己的訓練家卡的效果而擲硬幣時,可使用1次。將擲硬幣的結果全部消除,重新擲硬幣。在使用了其他的「輝煌金幣」的回合,這個特性無法使用。"
+            }
+          ]
+        }
+      }
+    },
+    "B4a-110": {
+      "locales": {
+        "en": {
+          "effect": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more."
+        },
+        "fr": {
+          "effect": "Jusqu'à la fin du prochain tour de votre adversaire, le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté d'une Énergie."
+        },
+        "es": {
+          "effect": "Hasta el final del próximo turno de tu rival, el Coste de Retirada del Pokémon Activo de tu rival es de 1 más."
+        },
+        "pt": {
+          "effect": "Até o final do próximo turno do seu oponente, o Custo de Recuo do Pokémon Ativo do seu oponente será 1 a mais."
+        },
+        "zh": {
+          "effect": "在下個對手的回合結束前,對手的戰鬥寶可夢撤退所需的能量增加1個。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4a",
+  "checkedAt": "2026-08-28T05:58:48Z",
+  "passed": true,
+  "setFacts": {
+    "name": "Team Rocket's Ambition",
+    "officialCards": 72,
+    "secretCards": 38,
+    "totalCards": 110,
+    "releaseDate": "2026-08-27",
+    "boosterId": "boo_B4a-team-rockets-ambition",
+    "slug": "team-rockets-ambition"
+  },
+  "sourceMerge": {
+    "pilotCards": [
+      "001",
+      "005",
+      "007",
+      "014",
+      "021",
+      "059",
+      "067",
+      "069",
+      "072",
+      "110"
+    ],
+    "cards": 110,
+    "idsContinuous": true,
+    "range": "001-110",
+    "missingFields": 0,
+    "unresolvedConflicts": 0,
+    "resolvedConflicts": 44,
+    "auditSha256": "bb046cf810336cf5a7d4d402a506d1bc0a31aa618a90c04f2a216df3e5c6212c"
+  },
+  "localization": {
+    "nameLocales": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw",
+      "ja",
+      "ko"
+    ],
+    "fullRuleLocales": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "cards": 110,
+    "ruleStringsScanned": 2870,
+    "todoStrings": 0,
+    "unboundTokens": 0,
+    "tokenComparisons": 665,
+    "reviewedTokenExceptions": 5,
+    "englishRuleFallbacks": 0,
+    "ocrEvidenceCards": {
+      "en": 110,
+      "de": 110,
+      "it": 110
+    },
+    "localizationsSha256": "6f07f0bcbb7ca5690982c676581aac6f054609961e5de54cc70fc25f0b3b3198",
+    "localizationAuditSha256": "bdcc2214693c654cd19c11d8a3ae1ce3dd006005414c024042e790315c2b9e0c"
+  },
+  "api": {
+    "totalCards": 3871,
+    "b4aCards": 110,
+    "setLocalesChecked": 9,
+    "representativeCardEndpointsChecked": 27,
+    "representativeCardIds": [
+      "B4a-001",
+      "B4a-055",
+      "B4a-110"
+    ],
+    "searchItems": 110,
+    "status": "ok"
+  },
+  "r2": {
+    "bucket": "game",
+    "origin": "https://game.pokemontcgpocket.app",
+    "cardObjects": 1540,
+    "boosterObjects": 14,
+    "totalObjects": 1554,
+    "sourceCardImages": 770,
+    "sourceToCardObjectMappings": 1540,
+    "boundOcrArtifacts": 330,
+    "unknownCollisions": 0,
+    "receipts": 1554,
+    "publicObjectsChecked": 1554,
+    "publicHashesChecked": 1554,
+    "webpMagicChecked": 1554,
+    "contentTypeChecked": 1554,
+    "immutableCacheChecked": 1554,
+    "manifestSha256": "c2d57d3c4e12db554478dd3b60f117f81b7938ae1642bd77b1e42ed6dfa3304e",
+    "preflightSha256": "7ea4e8889a8c51d6b68bed6dedd225ee327c1da31f30118ed5615888b4dec162",
+    "receiptsSha256": "6c803e25eafbb5c4729ce2d63081907a857cfc43623bf386d6b3d4809505044e",
+    "verifySha256": "989e121294bf923d3f2f9b2dedef2703fe5a37222b9b2ce46ff8439996406477",
+    "imageEvidenceSha256": "f2b19a523dae76a36e2ba2ea41a0e2cbb81f15ceb21d4be6ee0d3a0d60e28774",
+    "status": "ok"
+  },
+  "tcgp": {
+    "cardLocaleFiles": 7,
+    "cardsPerLocale": 3871,
+    "b4aCardsPerLocale": 110,
+    "uiLocales": 8,
+    "rarityKeys": 3871,
+    "entityKeys": 3871,
+    "filterIndexKeys": 3871,
+    "filterDataSha256": "7098ed24d2461dd7548ace7d37f178946dc440d815d4b9a2ebd9ddc1223f7e94",
+    "qrMappingCards": 531,
+    "qrMappingSha256": "534f21be368e9138561b22f9bfb6d4d466aa6feb7d8280114b766ffdc6a1693a",
+    "keySetsEqual": true,
+    "staticAssets": 3,
+    "generatedStaticPages": 2381,
+    "browserSmoke": {
+      "locales": 8,
+      "pages": 56,
+      "setPages": 8,
+      "packPages": 8,
+      "catalogFilters": 8,
+      "collectionRows": 8,
+      "representativeCardPages": 24,
+      "sitemapRoutes": 16,
+      "b4aImageFailures": 0,
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "tests": {
+    "cardsDatabaseTests": {
+      "node": 45,
+      "bun": 2,
+      "failed": 0
+    },
+    "cardsDatabaseTypeScript": "ok",
+    "tcgpFullTest": "ok",
+    "tcgpTypeCheck": "ok",
+    "tcgpBuild": "ok",
+    "diffCheck": "ok",
+    "credentialPathScan": "ok"
+  },
+  "protectedInitialWork": {
+    "meta/pocket-source-reviews/B4a.sources.json": "fc9f805ebd575e4163ea31ad2c1eaa61b523f1f76987f1550d5d8d0f5d06a9da",
+    "meta/pocket-source-reviews/B4a/B4a.preflight.json": "2aad638f5aa441d6d8e8fcd36e0c347d583b08d1d7cfc416df92d3df8ae50767"
+  }
+}
