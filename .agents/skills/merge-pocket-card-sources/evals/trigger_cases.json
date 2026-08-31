@@ -1,0 +1,17 @@
+{
+  "recommended_threshold": 0.33,
+  "should_trigger": [
+    "PokeOS、RaenonX 和卡图对这个新 set 的规则字段有冲突，请合并 canonical 并生成 provenance。",
+    "没有单一来源覆盖全部卡牌机制，请按字段保留候选和 review evidence。",
+    "先审计新卡集的多来源数据并把 unresolved conflicts 清零，暂时不要发布。"
+  ],
+  "should_not_trigger": [
+    "添加整个 Pocket set，包括 R2、API、tcgp 配置和本地页面 smoke。",
+    "现有卡牌只缺法语和德语翻译，请补齐 locale。",
+    "帮我比较两张卡在游戏里的强度。"
+  ],
+  "near_neighbor": [
+    "新 set 的基础索引有了，但机制来源不完整，先构造 importer 输入。",
+    "用本地化卡图复核结构化来源里的招式文本。"
+  ]
+}

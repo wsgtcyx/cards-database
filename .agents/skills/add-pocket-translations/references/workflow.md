@@ -52,6 +52,21 @@ npx tsx scripts/tmp/scan-pocket-batch.ts \
   --out-todo="scripts/tmp/<batch>-todo.json"
 ```
 
+新 set 还必须对 importer/合并器产出的 canonical 与 localizations JSON 做语义审计：
+
+```bash
+node .agents/skills/merge-pocket-card-sources/scripts/audit-pocket-localizations.mjs \
+  --canonical "meta/pocket-source-reviews/<set>/<set>.canonical.json" \
+  --localizations "meta/pocket-source-reviews/<set>/<set>.localizations.json" \
+  --config "meta/pocket-source-reviews/<set>/<set>.source-config.json" \
+  --output "meta/pocket-source-reviews/<set>/<set>.localization-audit.json"
+```
+
+审计必须 `passed: true`，并覆盖英文规则 fallback、TODO/markup、mojibake、CJK 名称拉丁
+fallback、括号/分隔符、规则 token multiset，以及同 canonical 名称跨 printing 的译名一致性。
+真实卡面排版导致的 token 差异必须使用 `reviewedTokenExceptions` 按
+`<card>.<field>.<locale>` 定点记录理由；禁止全局放宽规则。
+
 5) 抽查与质量
 
 - 抽查若干卡片与 set 元信息 `data/Pokémon TCG Pocket/<batch>.ts`。
@@ -64,9 +79,10 @@ npx tsx scripts/tmp/scan-pocket-batch.ts \
 
 ## Hard rules
 
-- 只新增缺失语言键；不要改动已有翻译或其它字段。
+- 默认只新增缺失语言键。修复已有错误必须有显式 correction scope、固定来源和 review overlay。
 - 语言顺序固定：`en` 在前，追加 `fr/es/it/de/pt-br/zh-tw`。
 - 译名必须可追溯到官方来源，避免不确定翻译进入仓库。
+- name、full-rule、image 三种 locale coverage 分开验收，禁止互相代替。
 
 ## Batch order reference (optional)
 

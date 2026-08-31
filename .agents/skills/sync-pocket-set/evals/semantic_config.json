@@ -1,0 +1,14 @@
+{
+  "fallback_positive_concepts": ["set_sync", "r2_api", "downstream", "locales"],
+  "positive_concepts": {
+    "set_sync": { "weight": 0.4, "phrases": ["pocket set", "set id", "adding a new pocket set", "repairing an incomplete set release", "添加新的", "添加整个", "整个卡集", "全链路同步", "卡集发布"] },
+    "r2_api": { "weight": 0.22, "phrases": ["r2", "api verification", "上传图片", "receipts", "验证 api"] },
+    "downstream": { "weight": 0.2, "phrases": ["tcgp downstream", "tcgp 下游", "同步 tcgp", "下游配置"] },
+    "locales": { "weight": 0.18, "phrases": ["localized metadata", "多语言", "七语图片", "locales"] }
+  },
+  "negative_concepts": {
+    "translation_only": { "weight": 0.4, "exclusive": true, "phrases": ["只有德语和意大利语", "只需要补全", "只缺", "不改 set"] },
+    "merge_only": { "weight": 0.4, "exclusive": true, "phrases": ["先生成 canonical 冲突报告", "暂时不要上传", "来源是否一致"] },
+    "explain_only": { "weight": 0.45, "exclusive": true, "phrases": ["解释一下", "不要修改代码"] }
+  }
+}

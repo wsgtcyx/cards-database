@@ -110,6 +110,13 @@ Trainer:
 数组字段必须保持相同索引对应；空 Ability 可以是 `null`。若新来源字段不同，
 先写一个显式、可验证的转换步骤生成该格式，不在 importer 里堆来源特判。
 
+复合来源转换器还必须接受 `--set-config`，由配置提供 set ID、总数、slug、booster、locale、
+形态名称和 reviewed exceptions。既有 B4 默认常量只能作为向后兼容与回归基线，不得修改后
+冒充新 set adapter；B4a 或后续 set 都必须走配置，且不得增加按卡号特判。
+
+若来源来自 GitHub release，`detailsSource` 的审计旁证还要记录实际 asset 名、最终 URL、
+HTTP metadata、字节数和 SHA-256；必须先枚举 release assets，不能猜测归档文件名。
+
 每个 `research.required` 字段都要有 URL 证据：
 
 ```json
@@ -141,3 +148,4 @@ total objects = card objects + booster objects
 
 `prepare-r2-assets.mjs`、`preflight-r2.mjs` 和 `verify-r2.mjs`
 会分别验证本地输出、覆盖风险和公网结果。任何一个数量不一致都不能上传或宣称完成。
+验收报告中的期望值必须由该公式和当前 manifest 动态生成，禁止复制上一集合的对象总数。
