@@ -381,6 +381,19 @@ const set: Set = {
                 ko: "프로모 카드 팩 B시리즈 제11탄",
                 ja: "プロモカードパック Bシリーズ 第11弾"
             }
+        },
+        vol12: {
+            name: {
+                en: "Promo Pack B Series Vol. 12",
+                fr: "Booster promo série B, vol. 12",
+                es: "Sobre de promoción serie B vol. 12",
+                it: "Busta promo (serie B, vol. 12)",
+                de: "Promopack aus Serie B, Vol. 12",
+                "pt-br": "Pacote Promocional da Série B (Vol. 12)",
+                "zh-tw": "特典卡牌包 B系列第12波",
+                ko: "프로모 카드 팩 B시리즈 제12탄",
+                ja: "プロモカードパック Bシリーズ 第12弾"
+            }
         }
     },
     releaseDate: "2025-10-30"
