@@ -72,4 +72,24 @@ test('image evidence derives locales, OCR coverage, boosters, and object counts 
 	assert.equal(evidence.cards[0].source.url, 'https://images.example/999/1_en.png')
 	assert.deepEqual([...new Set(evidence.boosters.map(item => item.slug))], ['fresh-pack'])
 	assert.equal(JSON.stringify(evidence).includes('team-rockets-ambition'), false)
+	const selected = JSON.parse(await readFile(config, 'utf8'))
+	const hdKey = 'fr/tcgp/T1/001/hd-0123456789ab/high.webp'
+	const hdBytes = Buffer.from('official native face')
+	await writeFile(path.join(root, 'official.png'), hdBytes)
+	const hdSource = { file: 'official.png', sourcePage: 'https://official.example/press', sha256: crypto.createHash('sha256').update(hdBytes).digest('hex'), bytes: hdBytes.length, width: 734, height: 1024 }
+	selected.imageBaseOverrides = { 'T1-001': { fr: 'https://assets.example/fr/tcgp/T1/001/hd-0123456789ab' } }
+	selected.imageEvidence.hdManifest = 'hd.json'
+	await writeFile(path.join(root, 'hd.json'), JSON.stringify({ setId: 'T1', objects: [{ key: hdKey, sourceLocale: 'fr', source: hdSource }] }))
+	await writeFile(config, JSON.stringify(selected))
+	const hdKeys = keys.map(key => key.startsWith('fr/tcgp/T1/001/') ? key.replace('/001/', '/001/hd-0123456789ab/') : key)
+	await writeFile(manifest, JSON.stringify({ objects: hdKeys.map(object) }))
+	const args = [script, '--set-id', 'T1', '--total', '1', '--source-root', sourceRoot, '--ocr-root', ocrRoot, '--r2-manifest', manifest, '--config', config, '--hd-source-root', root, '--output', output]
+	await exec(process.execPath, args)
+	const upgraded = JSON.parse(await readFile(output, 'utf8'))
+	assert.equal(upgraded.cards[1].source.sha256, hdSource.sha256)
+	assert.equal(upgraded.cards[1].source.url, hdSource.sourcePage)
+	assert.equal(upgraded.cards[1].outputs[0].key, hdKey)
+	await writeFile(path.join(root, 'official.png'), Buffer.from('source changed after review'))
+	await assert.rejects(exec(process.execPath, args), /HD source changed/)
+
 })

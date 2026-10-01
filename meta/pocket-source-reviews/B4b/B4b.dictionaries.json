@@ -1,0 +1,58 @@
+[
+  {
+    "locale": "en",
+    "url": "https://ptcgp.raenonx.cc/en/card/PK_10_013070_00",
+    "sha256": "644fecdc498c08feeecc24eba4e72ebccbab044e2a02687ea736c4aebf4017d4",
+    "bytes": 537823,
+    "dictionarySha256": "e04fd5b8580b9368c9a557948a4ffa9711b3c4e27d80f9e437532b98dad969ea",
+    "retrievedAt": "2026-10-01T09:50:37.197Z"
+  },
+  {
+    "locale": "fr",
+    "url": "https://ptcgp.raenonx.cc/fr/card/PK_10_013070_00",
+    "sha256": "1b39b809e8e34c362e52c4f729c1abecd1088c3a7ee7a5acdec42395193ca01c",
+    "bytes": 596520,
+    "dictionarySha256": "0e1e83616c382c4d725732c6e3533ae8cf9f57e43b6c164e9b0a8f769603da1f",
+    "retrievedAt": "2026-10-01T09:50:38.463Z"
+  },
+  {
+    "locale": "es",
+    "url": "https://ptcgp.raenonx.cc/es/card/PK_10_013070_00",
+    "sha256": "2e597dab13ecfcc7ab3ff98f232214bed991a046acca0813d7966c85296257ae",
+    "bytes": 559630,
+    "dictionarySha256": "cfecee6744e9e979d5d4a7b3d000f0bba381aacea3d818986dcc34642ee3c22e",
+    "retrievedAt": "2026-10-01T09:50:41.034Z"
+  },
+  {
+    "locale": "pt",
+    "url": "https://ptcgp.raenonx.cc/pt/card/PK_10_013070_00",
+    "sha256": "6434fae9d44b289679eda1681d512b2715dd13cb36c98e8b18ebe7df986431d9",
+    "bytes": 570266,
+    "dictionarySha256": "d368b53cd8fa1dd7d06fd54f8a04737522e74a30f13decae3b839af99600ce84",
+    "retrievedAt": "2026-10-01T09:50:42.291Z"
+  },
+  {
+    "locale": "zh",
+    "url": "https://ptcgp.raenonx.cc/zh/card/PK_10_013070_00",
+    "sha256": "beb93aebe814634898520df7c140355c7556bc58826062b5a6048c945be8ab0b",
+    "bytes": 535178,
+    "dictionarySha256": "929841f8e0c482501e276480d5772956dbc6f7f56d81f24049510f972b212faf",
+    "retrievedAt": "2026-10-01T09:50:43.553Z"
+  },
+  {
+    "locale": "ja",
+    "url": "https://ptcgp.raenonx.cc/ja/card/PK_10_013070_00",
+    "sha256": "61f49c45bb71589e4fe45a810cb98de53fe8eda0166a954308b1910fae93140c",
+    "bytes": 625262,
+    "dictionarySha256": "2298a8eed031a4caa586398ca844bdebf624c5357c333b221a4a85e600183414",
+    "retrievedAt": "2026-10-01T09:50:44.813Z"
+  },
+  {
+    "locale": "ko",
+    "url": "https://ptcgp.raenonx.cc/ko/card/PK_10_013070_00",
+    "sha256": "f43c9a751489b8e8d8dea0f0c334d3152703005f80c494db07548bf629a9d837",
+    "bytes": 573760,
+    "dictionarySha256": "80bb4c8eedac533a248bd2a0cba947ced0d5fc63142171c628d490c706d75b22",
+    "retrievedAt": "2026-10-01T09:50:45.734Z"
+  }
+]

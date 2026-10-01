@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "counts": {
+    "cards": 429,
+    "mirrorCards": 166,
+    "nameLocales": 9,
+    "ruleLocales": 7,
+    "missing": 0,
+    "unresolved": 0
+  },
+  "passed": true
+}

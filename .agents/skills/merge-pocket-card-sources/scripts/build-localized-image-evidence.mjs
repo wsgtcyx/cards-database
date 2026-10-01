@@ -46,6 +46,21 @@ const sourceSetId = evidenceConfig.sourceSetId
 const boosterConfigs = evidenceConfig.boosters
 if (!Array.isArray(boosterConfigs) || !boosterConfigs.length) throw new Error('config.imageEvidence.boosters must be a non-empty array')
 const objects = new Map(manifest.objects.map(object => [object.key, object]))
+const hdManifest = evidenceConfig.hdManifest
+	? JSON.parse(fs.readFileSync(fromConfigPath(evidenceConfig.hdManifest, 'hdManifest'), 'utf8'))
+	: undefined
+if (hdManifest && hdManifest.setId !== setId) throw new Error('HD manifest set mismatch')
+const hdObjects = new Map((hdManifest?.objects ?? []).map(object => [object.key, object]))
+
+function hdSource(key) {
+	const selected = hdObjects.get(key)
+	if (!selected) return undefined
+	if (path.basename(selected.source.file) !== selected.source.file) throw new Error(`${key}: invalid HD source filename`)
+	const file = path.join(path.resolve(arg('hd-source-root')), selected.source.file)
+	const source = digest(file)
+	if (source.sha256 !== selected.source.sha256 || source.bytes !== selected.source.bytes) throw new Error(`${key}: HD source changed`)
+	return { url: selected.source.sourcePage, ...source, width: selected.source.width, height: selected.source.height, sourceLocale: selected.sourceLocale }
+}
 
 function fromConfigPath(value, label) {
 	if (typeof value !== 'string' || !value) throw new Error(`${label} is required`)
@@ -73,9 +88,13 @@ for (let number = 1; number <= total; number++) {
 	for (const [locale, localeData] of localeEntries) {
 		if (typeof localeData.dir !== 'string' || typeof localeData.sourceLocale !== 'string') throw new Error(`${locale}: dir and sourceLocale are required`)
 		const sourceFile = numberedFile(path.join(sourceRoot, localeData.dir), number)
-		const source = digest(sourceFile)
+		const base = config.imageBaseOverrides?.[`${setId}-${localId}`]?.[locale]
+		const highKey = base ? `${new URL(base).pathname.slice(1)}/high.webp` : `${locale}/tcgp/${setId}/${localId}/high.webp`
+		const hd = hdSource(highKey)
+		if (base && !hd) throw new Error(`${highKey}: selected HD source evidence missing`)
+		const source = hd ?? digest(sourceFile)
 		const outputs = ['high', 'low'].map(variant => {
-			const key = `${locale}/tcgp/${setId}/${localId}/${variant}.webp`
+			const key = base ? `${new URL(base).pathname.slice(1)}/${variant}.webp` : `${locale}/tcgp/${setId}/${localId}/${variant}.webp`
 			const object = objects.get(key)
 			if (!object) throw new Error(`${key}: R2 manifest object missing`)
 			mappedOutputs++
@@ -117,10 +136,12 @@ for (const booster of boosterConfigs) {
 		]
 		for (const [kind, source] of assets) {
 			if (typeof source.evidenceUrl !== 'string' || !source.evidenceUrl) throw new Error(`${booster.slug}.${kind}: evidence URL is required`)
-			const key = `${locale}/tcgp/${setId}/boosters/${booster.slug}/${kind}.webp`
+			const chosenUrl = booster.assetUrls?.[kind]?.[locale]
+			const key = chosenUrl ? new URL(chosenUrl).pathname.slice(1) : `${locale}/tcgp/${setId}/boosters/${booster.slug}/${kind}.webp`
 			const object = objects.get(key)
 			if (!object) throw new Error(`${key}: booster R2 manifest object missing`)
-			boosters.push({ locale, slug: booster.slug, kind, source, output: { key, bytes: object.bytes, sha256: object.sha256 } })
+			const hd = hdSource(key)
+			boosters.push({ locale, slug: booster.slug, kind, source: hd ? { evidenceUrl: hd.url, ...hd, languageNeutral: false, languageFallback: hd.sourceLocale !== locale } : source, output: { key, bytes: object.bytes, sha256: object.sha256 } })
 		}
 	}
 }

@@ -15,8 +15,8 @@ const card: Card = {
         en: "Hearthflame Mask Ogerpon",
         "fr": "Ogerpon Masque du Fourneau",
         "es": "Ogerpon Máscara Horno",
-        "it": "Maschera di Focolare Ogerpon",
-        "de": "Hearthflame-Maske Ogerpon",
+        "it": "Ogerpon Maschera Focolare",
+        "de": "Ofenmaske-Ogerpon",
         "pt-br": "Ogerpon Máscara Fornalha",
         "zh-tw": "厄鬼椪火灶面具"
     },

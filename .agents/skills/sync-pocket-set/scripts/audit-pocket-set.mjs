@@ -31,7 +31,7 @@ function hasObjectKey(block, key) {
 }
 
 function extractObject(source, property) {
-  const matcher = new RegExp(`\\b${escapeRegExp(property)}\\s*:\\s*\\{`, 'g')
+  const matcher = new RegExp(`(?:["']${escapeRegExp(property)}["']|\\b${escapeRegExp(property)})\\s*:\\s*\\{`, 'g')
   const match = matcher.exec(source)
   assert.ok(match, `Missing ${property} object`)
 
@@ -76,7 +76,11 @@ const manifest = options.manifest
 const setDirectoryValue = options['set-dir']
   ?? (manifest && `data/Pokémon TCG Pocket/${manifest.set.file}`)
 const setDirectory = setDirectoryValue ? path.resolve(setDirectoryValue) : undefined
+const setConfig = options['set-config']
+  ? JSON.parse(fs.readFileSync(path.resolve(options['set-config']), 'utf8'))
+  : undefined
 const setId = options['set-id'] ?? manifest?.set?.id
+if (setConfig) assert.equal(setConfig.setId, setId, 'Set config ID mismatch')
 const expectedCount = Number.parseInt(
   options['expected-count'] ?? String(manifest?.set?.total),
   10,
@@ -109,19 +113,19 @@ assert.ok(fs.statSync(setFile).isFile(), `${setFile} is not a file`)
 const setSource = fs.readFileSync(setFile, 'utf8')
 assert.match(
   setSource,
-  new RegExp(`\\bid\\s*:\\s*["']${escapeRegExp(setId)}["']`),
+  new RegExp(`(?:["']id["']|\\bid)\\s*:\\s*["']${escapeRegExp(setId)}["']`),
   `${setFile}: incorrect set ID`,
 )
 
 if (manifest) {
   assert.match(
     setSource,
-    new RegExp(`\\bofficial\\s*:\\s*${manifest.set.official}\\b`),
+    new RegExp(`(?:["']official["']|\\bofficial)\\s*:\\s*${manifest.set.official}\\b`),
     `${setFile}: incorrect official count`,
   )
   assert.match(
     setSource,
-    new RegExp(`\\breleaseDate\\s*:\\s*["']${escapeRegExp(manifest.set.releaseDate)}["']`),
+    new RegExp(`(?:["']releaseDate["']|\\breleaseDate)\\s*:\\s*["']${escapeRegExp(manifest.set.releaseDate)}["']`),
     `${setFile}: incorrect release date`,
   )
   const setName = extractObject(setSource, 'name')
@@ -136,7 +140,10 @@ for (const boosterId of boosterIds) {
   for (const language of packImageLanguages) {
     assert.ok(imageOrigin, 'manifest.r2.origin is required for booster image checks')
     for (const file of ['logo.webp', 'artwork_front.webp']) {
-      const expectedUrl = `${imageOrigin}/${language}/tcgp/${setId}/boosters/${boosterId}/${file}`
+      const asset = file.replace(/\.webp$/, '')
+      const booster = setConfig?.imageEvidence?.boosters?.find((entry) => entry.slug === boosterId)
+      const expectedUrl = booster?.assetUrls?.[asset]?.[language]
+        ?? `${imageOrigin}/${language}/tcgp/${setId}/boosters/${boosterId}/${file}`
       assert.ok(setBoosters.includes(expectedUrl), `${setFile}: missing ${expectedUrl}`)
     }
   }
@@ -156,7 +163,7 @@ for (let index = 0; index < files.length; index += 1) {
   const source = fs.readFileSync(path.join(setDirectory, filename), 'utf8')
 
   assert.equal(cardId, expectedId, `Expected ${expectedId}.ts, found ${filename}`)
-  assert.match(source, /^\s*set:\s*Set,/m, `${filename}: missing set: Set`)
+  assert.match(source, /^\s*["']?set["']?\s*:\s*Set,/m, `${filename}: missing set: Set`)
 
   if (nameLanguages.length > 0) {
     const name = extractObject(source, 'name')
@@ -181,18 +188,19 @@ for (let index = 0; index < files.length; index += 1) {
     assert.ok(imageOrigin, '--image-origin is required with --image-languages')
     const image = extractObject(source, 'image')
     for (const language of imageLanguages) {
-      const expectedUrl = `${imageOrigin}/${language}/tcgp/${setId}/${cardId}`
+      const expectedUrl = setConfig?.imageBaseOverrides?.[`${setId}-${cardId}`]?.[language]
+        ?? `${imageOrigin}/${language}/tcgp/${setId}/${cardId}`
       assert.ok(hasObjectKey(image, language), `${filename}: missing image.${language}`)
       assert.ok(image.includes(expectedUrl), `${filename}: missing ${expectedUrl}`)
     }
   }
 
-  const cardHasBoosters = /^\s+boosters\s*:/m.test(source)
+  const cardHasBoosters = /^\s+["']?boosters["']?\s*:/m.test(source)
   if (boosterIds.length === 1) {
     assert.equal(cardHasBoosters, false, `${filename}: single-pack card must omit boosters`)
   } else if (boosterIds.length > 1) {
     assert.equal(cardHasBoosters, true, `${filename}: multi-pack card must declare boosters`)
-    const boostersMatch = source.match(/\bboosters\s*:\s*\[([^\]]*)\]/s)
+    const boostersMatch = source.match(/(?:["']boosters["']|\bboosters)\s*:\s*\[([^\]]*)\]/s)
     assert.ok(boostersMatch, `${filename}: invalid boosters array`)
     const declared = [...boostersMatch[1].matchAll(/["']([^"']+)["']/g)].map(
       (match) => match[1],

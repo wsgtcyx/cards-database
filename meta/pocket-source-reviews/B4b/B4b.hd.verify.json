@@ -1,0 +1,468 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "publicHashesChecked": 46,
+  "records": [
+    {
+      "key": "en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 200,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1059158,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+      "status": 200,
+      "sha256": "13c38f7eed66c7b627c3e173d80186b9af2af15c5c9660a28b061f81183e6a6b",
+      "width": 1000,
+      "height": 440,
+      "bytes": 136236,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "fr/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-f3b9f68355ca.webp",
+      "status": 200,
+      "sha256": "efdb5de4046ed76a223d1d20de269889fed3ab69375b558475035a14b78939c8",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1064156,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "fr/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-4ab7297da263.webp",
+      "status": 200,
+      "sha256": "e3e0d0e9112031a62b9f515bd45eeb3d50055889fd328a93ac48e301d2a2c595",
+      "width": 1000,
+      "height": 440,
+      "bytes": 153222,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-e2ee236f87de.webp",
+      "status": 200,
+      "sha256": "56546971b47a6f6b71b923dce273599ebc985bdec275684d477cdc1a7ae996cc",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1063980,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-db24fb4ae381.webp",
+      "status": 200,
+      "sha256": "19ac23e8498c0e464a39825f85483bf8eae1a880522d60a69aa4f2d1dc64a0fa",
+      "width": 1000,
+      "height": 440,
+      "bytes": 139244,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "it/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 200,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1059158,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "de/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 200,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1059158,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "pt-br/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 200,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1059158,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 200,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1059158,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/406/hd-dc313438bf75/high.webp",
+      "status": 200,
+      "sha256": "3362fda57c94bcc59d2f7ccae5b518a3816d91b22146eae9df7da8b2b990b6d8",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1243218,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/406/hd-dc313438bf75/low.webp",
+      "status": 200,
+      "sha256": "65a26a0fa014a3a5b864182df6e23c7fd456e211a8f17eddb9fe7df40cba91a3",
+      "width": 367,
+      "height": 512,
+      "bytes": 361184,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/333/hd-7bf700f1b957/high.webp",
+      "status": 200,
+      "sha256": "b92f8d06e34922d6c31af8268183668067b21f1d0276a17beebaa3ededb5a744",
+      "width": 734,
+      "height": 1024,
+      "bytes": 790780,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/333/hd-7bf700f1b957/low.webp",
+      "status": 200,
+      "sha256": "8a9a074b8f864cd806c0dcd713c6536bc0bb44e37a1bcb86bc12f92a387b9406",
+      "width": 367,
+      "height": 512,
+      "bytes": 260222,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/411/hd-83e6644f3b1a/high.webp",
+      "status": 200,
+      "sha256": "8ffb48611a16c9ce6e4da46bafa6f5783ca593128a75a86554a232e660c443dd",
+      "width": 734,
+      "height": 1024,
+      "bytes": 799738,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/411/hd-83e6644f3b1a/low.webp",
+      "status": 200,
+      "sha256": "e395b06b340b3db321b140b30a94321ba899d33f4cc7fef519558c0b56b6ed6a",
+      "width": 367,
+      "height": 512,
+      "bytes": 291910,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/408/hd-4672f06c1478/high.webp",
+      "status": 200,
+      "sha256": "0942e18aa3c36d30cb1a9d38234e9e982a2e07778a887907c1d5a904247731ce",
+      "width": 734,
+      "height": 1024,
+      "bytes": 857444,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/408/hd-4672f06c1478/low.webp",
+      "status": 200,
+      "sha256": "559810d720be20fff67ad4fc130576cbd1a7cacf11398af5ee5fff4ebd75cf7f",
+      "width": 367,
+      "height": 512,
+      "bytes": 304764,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/418/hd-29691a0179e7/high.webp",
+      "status": 200,
+      "sha256": "08aeefaf0ead7f99273633f2f58f73f2b251f8ba70d4d739c30a1d2abe2eff20",
+      "width": 734,
+      "height": 1024,
+      "bytes": 809626,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/418/hd-29691a0179e7/low.webp",
+      "status": 200,
+      "sha256": "ff5b0949b394082264e648787d8a57ef2315372ed7b21245f1a9e5617a9150f5",
+      "width": 367,
+      "height": 512,
+      "bytes": 296546,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/424/hd-c1e1bab61d61/high.webp",
+      "status": 200,
+      "sha256": "49a9c5c52e857d17eed3f20821e67cf4e94e82b38701d8e4330ef512631c0f43",
+      "width": 734,
+      "height": 1024,
+      "bytes": 704044,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/424/hd-c1e1bab61d61/low.webp",
+      "status": 200,
+      "sha256": "b27954b96a3ef7b7660699667fdc6bb9a271ce7f7c7613a60f0b79dfccc2bdb9",
+      "width": 367,
+      "height": 512,
+      "bytes": 265276,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/307/hd-da0ca35444e6/high.webp",
+      "status": 200,
+      "sha256": "c33fdcdb50fda9914de9592302fc62bfbf601ddaa2f704d1b906b2169b54cd08",
+      "width": 734,
+      "height": 1024,
+      "bytes": 558312,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/307/hd-da0ca35444e6/low.webp",
+      "status": 200,
+      "sha256": "f14ecc68c5c7a68c8a1e047415d911e0e2c9c1a85cc3cac605d93452fb81d560",
+      "width": 367,
+      "height": 512,
+      "bytes": 182518,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/417/hd-2eee6792066e/high.webp",
+      "status": 200,
+      "sha256": "54db14059d86a99550f7ca948e6be3e4613a0518c4cec36437db94faaaa374f3",
+      "width": 734,
+      "height": 1024,
+      "bytes": 688774,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/417/hd-2eee6792066e/low.webp",
+      "status": 200,
+      "sha256": "71444db72ad3029ccf481416ff6f6535fb32160c69833f04047b36cc90d0a60f",
+      "width": 367,
+      "height": 512,
+      "bytes": 256070,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/259/hd-686cfa8640be/high.webp",
+      "status": 200,
+      "sha256": "360c108b9cfe9e4a6d54ce7d6efc0ffe0e2f0cd3f981fd68b30f0b0e302fee42",
+      "width": 734,
+      "height": 1024,
+      "bytes": 726862,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "en/tcgp/B4b/259/hd-686cfa8640be/low.webp",
+      "status": 200,
+      "sha256": "2e58e4d7de8291bf425d705d065fbbcd4f7b48ccafb5abf187132a9ac240ea1a",
+      "width": 367,
+      "height": 512,
+      "bytes": 236646,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/333/hd-985e00f45217/high.webp",
+      "status": 200,
+      "sha256": "4c1ad79ba4178a40dd35d9eff9d5ff76e4917c0dfefb5aa27d6bb9a05173c413",
+      "width": 734,
+      "height": 1024,
+      "bytes": 787512,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/333/hd-985e00f45217/low.webp",
+      "status": 200,
+      "sha256": "9b7ec27af3974215c4e1c8ca861ef735257d11655fc51204141c30fba0c213b0",
+      "width": 367,
+      "height": 512,
+      "bytes": 259796,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/408/hd-568b23cf5f04/high.webp",
+      "status": 200,
+      "sha256": "e31cb7c57ae2234f4300cce79b4e4b5ac4b6889730b1aaa7420ba5d4be292f94",
+      "width": 734,
+      "height": 1024,
+      "bytes": 876142,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/408/hd-568b23cf5f04/low.webp",
+      "status": 200,
+      "sha256": "51777eba0c0baebf5f5f12e8d2852f4ca8a5e86d05b6a4ed5c720a40876dfb5f",
+      "width": 367,
+      "height": 512,
+      "bytes": 309010,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/259/hd-fa5a0b608949/high.webp",
+      "status": 200,
+      "sha256": "674a58c2fb56b5c34c012aed60df202e246dd2d4e44b09b78d7f3f9049690f94",
+      "width": 734,
+      "height": 1024,
+      "bytes": 726578,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/259/hd-fa5a0b608949/low.webp",
+      "status": 200,
+      "sha256": "d9ed139bed08ed66ffc21d8cb34172b9fd8d1f0c008a4d7b33e3a11d2f3befd8",
+      "width": 367,
+      "height": 512,
+      "bytes": 237782,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/307/hd-4332cc06e98f/high.webp",
+      "status": 200,
+      "sha256": "d891cd573478881a5e3a328e511532f107adfdd2785006d3cb3f7f4dcf09a1e0",
+      "width": 734,
+      "height": 1024,
+      "bytes": 559848,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/307/hd-4332cc06e98f/low.webp",
+      "status": 200,
+      "sha256": "475b955c7d90ec63242f798e3c19b4212649762014d68f709fba7ea67423c524",
+      "width": 367,
+      "height": 512,
+      "bytes": 182944,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/418/hd-7a65aee88709/high.webp",
+      "status": 200,
+      "sha256": "c55ac1e8507564a1fe8d5525c516e309c754df4175e2716af85e50fe6163c67e",
+      "width": 734,
+      "height": 1024,
+      "bytes": 814996,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/418/hd-7a65aee88709/low.webp",
+      "status": 200,
+      "sha256": "e522749be97fa281700e1b7079f3d3966581649507db48e5e2700190398f5c15",
+      "width": 367,
+      "height": 512,
+      "bytes": 299214,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/424/hd-580b2cdd4d7b/high.webp",
+      "status": 200,
+      "sha256": "69ca7a86ff0de85907335bfe2fcd9740d8dc6121bd360b40451254cf52fc0399",
+      "width": 734,
+      "height": 1024,
+      "bytes": 709020,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/424/hd-580b2cdd4d7b/low.webp",
+      "status": 200,
+      "sha256": "fc963eeedbedfa208fe9047ea31ef7fe7070feab655331fe301ded8e39f6df47",
+      "width": 367,
+      "height": 512,
+      "bytes": 266916,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/417/hd-95d6afa05d03/high.webp",
+      "status": 200,
+      "sha256": "2d71cebd6be657612be292877c11932a4855eed031612530193358ff6a7c7d7a",
+      "width": 734,
+      "height": 1024,
+      "bytes": 691248,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/417/hd-95d6afa05d03/low.webp",
+      "status": 200,
+      "sha256": "50c2a31041884730e9b7f2900393a543604c7e45cafe1effa64d9369c0064c00",
+      "width": 367,
+      "height": 512,
+      "bytes": 256744,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/411/hd-e8454f4689cc/high.webp",
+      "status": 200,
+      "sha256": "8dfb6b556f70b24990bb3e424808a1f9abc84d20cbdf7be2f518601dc0404895",
+      "width": 734,
+      "height": 1024,
+      "bytes": 805614,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/411/hd-e8454f4689cc/low.webp",
+      "status": 200,
+      "sha256": "7ecd3eee0e4717991956c3759c4036142c6f5826ebdeda5c1bfb1e5032b6d956",
+      "width": 367,
+      "height": 512,
+      "bytes": 293844,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/406/hd-4cdb5f4ee4bd/high.webp",
+      "status": 200,
+      "sha256": "ea213d5eef0857b361f2c6a70365ace699068b69aaf1490f0f24a4e3159acc29",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1248332,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "key": "es/tcgp/B4b/406/hd-4cdb5f4ee4bd/low.webp",
+      "status": 200,
+      "sha256": "43f71c86df385c38624c229bd2973d8a162f8ce2dcf4fe9f115f10790e14b5d4",
+      "width": 367,
+      "height": 512,
+      "bytes": 362850,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=31536000, immutable"
+    }
+  ],
+  "passed": true
+}

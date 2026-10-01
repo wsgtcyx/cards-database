@@ -12,6 +12,7 @@
 import crypto from 'node:crypto'
 import fs from 'node:fs'
 import path from 'node:path'
+import { pathToFileURL } from 'node:url'
 import { normalizeRaenonxName } from './normalize-raenonx-name.mjs'
 
 const SOURCE = {
@@ -78,7 +79,7 @@ function normalize(value) {
 
 function parseAttrs(text) {
 	const attrs = {}
-	for (const match of text.matchAll(/([A-Za-z_][\w-]*)=(?:"([^"]*)"|'([^']*)')/gu)) {
+	for (const match of text.matchAll(/([A-Za-z_][\w-]*)\s*=\s*(?:"([^"]*)"|'([^']*)')/gu)) {
 		attrs[match[1]] = match[2] ?? match[3] ?? ''
 	}
 	return attrs
@@ -86,7 +87,7 @@ function parseAttrs(text) {
 
 function parseTemplate(template) {
 	const nodes = []
-	const re = /\[([^\]]+)\]/gu
+	const re = /\[((?:\/)?[A-Za-z]+:[^\]]+)\]/gu
 	let cursor = 0
 	for (const match of String(template ?? '').matchAll(re)) {
 		if (match.index > cursor) nodes.push({ type: 'literal', value: template.slice(cursor, match.index) })
@@ -469,6 +470,11 @@ function splitConsecutiveDynamicValues(rawTemplate, binding) {
 			numericByRef.set(ref, direct)
 			continue
 		}
+		const singular = entries.map(entry => entry.branch === 'one' || entry.branch === 's' ? 1 : entry.branch === 'two' ? 2 : undefined).find(number => number !== undefined)
+		if (singular !== undefined) {
+			numericByRef.set(ref, singular)
+			continue
+		}
 		const nearby = entries
 			.map(entry => numericTokens
 				.slice()
@@ -581,6 +587,7 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 				?? (targetRef === undefined ? undefined : bindings.numericById.get(targetRef))
 			const numericWithUnreferencedFallback = numeric ?? (() => {
 				if (targetRef !== undefined || sourceNode) return undefined
+				if (targetOccurrences.nextNumber !== undefined) return targetOccurrences.nextNumber
 				const values = [...new Set(bindings.numericById.values())]
 				return values.length === 1 ? values[0] : undefined
 			})()
@@ -614,11 +621,35 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 	}
 }
 
+function unnamedNumberIndex(sourceNodes, sourceOccurrences) {
+	const candidates = sourceNodes
+		.map((node, index) => ({ node, index }))
+		.filter(({ node, index }) => node.name === 'Num:Int'
+			&& !sourceOccurrences.usedNumbers?.has(index)
+			&& !sourceOccurrences.reservedNumberIds.has(attrValue(node, 'id')))
+	if (new Set(candidates.map(({ index }) => sourceOccurrences.numericValues[index])).size > 1) {
+		throw new Error(`Ambiguous unnamed Num:Int for ${sourceOccurrences.context}`)
+	}
+	return candidates[0]?.index ?? -1
+}
+
 function sourceIndexForTarget(targetNode, targetIndex, sourceNodes, sourceOccurrences) {
 	const id = attrValue(targetNode, 'id')
 	if (id !== undefined) {
 		const exact = sourceNodes.findIndex(node => node.name === targetNode.name && attrValue(node, 'id') === id)
-		if (exact >= 0) return exact
+		if (exact >= 0) {
+			if (targetNode.name === 'Num:Int') (sourceOccurrences.usedNumbers ??= new Set()).add(exact)
+			return exact
+		}
+	}
+	if (targetNode.name === 'Num:Int' && id === undefined) {
+		const used = sourceOccurrences.usedNumbers ??= new Set()
+		const index = unnamedNumberIndex(sourceNodes, sourceOccurrences)
+		if (index >= 0) {
+			used.add(index)
+			return index
+		}
+		return -1
 	}
 	const name = attrValue(targetNode, 'name')
 	if (name !== undefined) {
@@ -649,7 +680,13 @@ function renderLocalizedTemplate(rawTemplate, canonicalEnglish, targetTemplate, 
 	const targetNodes = parseTemplate(targetTemplate)
 	const sourceDynamic = sourceNodes.filter(isDynamic)
 	const targetDynamic = targetNodes.filter(isDynamic)
-	const sourceOccurrences = { grByRef: new Map(), byName: new Map() }
+	const sourceOccurrences = {
+		grByRef: new Map(), byName: new Map(), context,
+		reservedNumberIds: new Set(targetDynamic.filter(node => node.name === 'Num:Int')
+			.map(node => attrValue(node, 'id')).filter(id => id !== undefined)),
+		numericValues: sourceDynamic.map((node, index) => node.name === 'Num:Int'
+			? parseNumber(englishBinding.values[index]) ?? englishBinding.numericById.get(attrValue(node, 'id')) : undefined),
+	}
 	const targetOccurrences = { grByRef: new Map() }
 	let targetIndex = 0
 	let output = ''
@@ -659,6 +696,14 @@ function renderLocalizedTemplate(rawTemplate, canonicalEnglish, targetTemplate, 
 		else if (node.type === 'tag' && node.name === 'C:Nbh') output += '\u2011'
 		else if (isFormatting(node)) continue
 		else if (isDynamic(node)) {
+			targetOccurrences.nextNumber = undefined
+			if (node.name === 'Gr:Count' && attrValue(node, 'ref') === undefined && targetDynamic[targetIndex + 1]?.name === 'Num:Int') {
+				const next = targetDynamic[targetIndex + 1]
+				const nextId = attrValue(next, 'id')
+				const source = nextId === undefined ? unnamedNumberIndex(sourceDynamic, sourceOccurrences)
+					: sourceDynamic.findIndex(value => value.name === 'Num:Int' && attrValue(value, 'id') === nextId)
+				if (source >= 0) targetOccurrences.nextNumber = parseNumber(englishBinding.values[source])
+			}
 			const sourceIndex = sourceIndexForTarget(node, targetIndex, sourceDynamic, sourceOccurrences)
 			const sourceNode = sourceDynamic[sourceIndex]
 			if (!sourceNode && node.name !== 'Gr:Count') throw new Error(`RaenonX ${locale} template introduced an unbindable ${node.name} token for ${context}`)
@@ -861,6 +906,9 @@ function dictionaryOnlyOverlay(canonical, messages) {
 	return cards
 }
 
+export { renderLocalizedTemplate, indexNames, buildTranslatedValueMap }
+
+if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
 const canonicalPath = arg('canonical', 'meta/pocket-source-reviews/B4/B4.canonical.json')
 const outputPath = arg('output', 'meta/pocket-source-reviews/B4/raenonx.overlay.json')
 const snapshotPath = arg('snapshot', 'meta/pocket-source-reviews/B4/raenonx.snapshot.json')
@@ -1015,3 +1063,4 @@ console.log(JSON.stringify({
 	snapshotPath: path.resolve(snapshotPath),
 	outputPath: path.resolve(outputPath),
 }, null, 2))
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "set": {
+    "id": "B4b",
+    "sourceId": "B4b",
+    "file": "Deluxe Pack: Mega",
+    "total": 429,
+    "official": 402,
+    "releaseDate": "2026-09-30",
+    "names": {
+      "en": "Deluxe Pack: Mega",
+      "fr": "Booster de Luxe Méga",
+      "es": "Sobre Deluxe Mega",
+      "it": "Busta Deluxe Mega",
+      "de": "Deluxepack: Mega",
+      "pt-br": "Pacote Deluxe Mega",
+      "zh-tw": "高級擴充包MEGA",
+      "ja": "ハイクラスパック MEGA",
+      "ko": "하이클래스팩 MEGA"
+    },
+    "boosters": [
+      {
+        "id": "deluxe-pack-mega",
+        "sku": "B4b_1",
+        "names": {
+          "en": "Deluxe Pack: Mega",
+          "fr": "Booster de Luxe Méga",
+          "es": "Sobre Deluxe Mega",
+          "it": "Busta Deluxe Mega",
+          "de": "Deluxepack: Mega",
+          "pt-br": "Pacote Deluxe Mega",
+          "zh-tw": "高級擴充包MEGA",
+          "ja": "ハイクラスパック MEGA",
+          "ko": "하이클래스팩 MEGA"
+        }
+      }
+    ]
+  },
+  "images": {
+    "cardLanguages": {
+      "en-US": "en",
+      "fr-FR": "fr",
+      "es-ES": "es",
+      "it-IT": "it",
+      "de-DE": "de",
+      "pt-BR": "pt-br",
+      "zh-TW": "zh-tw"
+    },
+    "cardSourceFormats": {
+      "en-US": "png",
+      "fr-FR": "png",
+      "es-ES": "png",
+      "it-IT": "png",
+      "de-DE": "png",
+      "pt-BR": "png",
+      "zh-TW": "png"
+    },
+    "packLanguages": {
+      "en-US": "en",
+      "fr-FR": "fr",
+      "es-ES": "es",
+      "it-IT": "it",
+      "de-DE": "de",
+      "pt-BR": "pt-br",
+      "zh-TW": "zh-tw"
+    },
+    "expectedObjects": {
+      "cards": 6006,
+      "boosters": 14,
+      "total": 6020
+    }
+  },
+  "r2": {
+    "bucket": "game",
+    "origin": "https://game.pokemontcgpocket.app"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "counts": {
+    "cards": 429,
+    "locales": 7,
+    "findings": 0
+  },
+  "tokenChecks": {
+    "exact": 2499,
+    "reviewedExceptions": [],
+    "unresolved": 0
+  },
+  "findings": [],
+  "passed": true
+}

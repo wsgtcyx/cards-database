@@ -1,0 +1,78 @@
+{
+  "flibustier.b4b.json": {
+    "url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/cards/B4b.json",
+    "file": "flibustier.b4b.json",
+    "bytes": 80323,
+    "sha256": "06de8b1a25be8392142b9db1881cdfabc07904ba59812bc7ba66b07e23a20483",
+    "retrievedAt": "2026-10-01T09:40:01.508146+00:00",
+    "commit": "0e1d5effb344658aae4d37c38a31e61ba49c4e74",
+    "license": "MIT",
+    "role": "number/entity/rarity validation and neutral booster artwork; B4a booster naming rejected"
+  },
+  "flibustier.cards.json": {
+    "url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/cards.min.json",
+    "file": "flibustier.cards.json",
+    "bytes": 542085,
+    "sha256": "cce0b5f51658020559db3b1fdd7bdcd78c355183eb3acfb7a0f7d0d852ae338b",
+    "retrievedAt": "2026-10-01T09:40:02.367931+00:00",
+    "commit": "0e1d5effb344658aae4d37c38a31e61ba49c4e74",
+    "license": "MIT",
+    "role": "number/entity/rarity validation and neutral booster artwork; B4a booster naming rejected"
+  },
+  "flibustier.sets.json": {
+    "url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/sets.json",
+    "file": "flibustier.sets.json",
+    "bytes": 6287,
+    "sha256": "1dc3f0b190553c9848fd3c4bd3b36517ffd40f27d9708bb7640625d0e70873b2",
+    "retrievedAt": "2026-10-01T09:40:00.941410+00:00",
+    "commit": "0e1d5effb344658aae4d37c38a31e61ba49c4e74",
+    "license": "MIT",
+    "role": "number/entity/rarity validation and neutral booster artwork; B4a booster naming rejected"
+  },
+  "deckgym.json": {
+    "url": "https://raw.githubusercontent.com/bcollazo/deckgym-core/9044ff6d8c95eeb8dc7ab9718723091b368ac0b8/database.json",
+    "file": "deckgym.json",
+    "bytes": 2511576,
+    "sha256": "99ece668f446854175210ca12a7c16c2d3a15f2822b56719eaa2cc87c67b6b52",
+    "retrievedAt": "2026-10-01T09:40:02.982387+00:00",
+    "commit": "9044ff6d8c95eeb8dc7ab9718723091b368ac0b8",
+    "license": "AGPL-3.0",
+    "role": "independent validation only; not the selected localized text source"
+  },
+  "raenonx.master.json": {
+    "url": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "file": "raenonx.master.json",
+    "bytes": 5899076,
+    "sha256": "cfa0914d2cc6759ba446ef00b4687a92afec2188aeb6ff96dde2807350c2c2a8",
+    "retrievedAt": "2026-10-01T09:40:02.731387+00:00",
+    "license": "No repository license verified; attributed source mirror within existing project scope",
+    "role": "game identity, dictionary templates, names and artist IDs"
+  },
+  "pokeos.cards.json": {
+    "url": "https://www.pokeos.com/api/tcg/set/cards?id=594",
+    "file": "pokeos.cards.json",
+    "bytes": 460627,
+    "sha256": "b51147e6e5f2341ae61a5398d889663f0661b7c481d526a09bd80a7adf78c88b",
+    "retrievedAt": "2026-10-01T09:40:02.379623+00:00",
+    "license": "Existing attributed source-mirror scope; card artwork remains Pokemon rights",
+    "role": "localized German/Italian names and seven language card faces/logos; date and three artists corrected"
+  },
+  "pokeos.set.json": {
+    "url": "https://www.pokeos.com/api/tcg/setInfo?id=594",
+    "file": "pokeos.set.json",
+    "bytes": 1724,
+    "sha256": "959bf1dc4cd367bdcf47f3a1b65c6e1b60cfde8db6727a06598956af70583fb1",
+    "retrievedAt": "2026-10-01T09:40:02.220030+00:00",
+    "license": "Existing attributed source-mirror scope; card artwork remains Pokemon rights",
+    "role": "localized German/Italian names and seven language card faces/logos; date and three artists corrected"
+  },
+  "pokeapi.flavors.csv": {
+    "url": "https://raw.githubusercontent.com/PokeAPI/pokeapi/a81dfc349390e4b53fd92e579c588b1204bbb6af/data/v2/csv/pokemon_species_flavor_text.csv",
+    "commit": "a81dfc349390e4b53fd92e579c588b1204bbb6af",
+    "bytes": 9206001,
+    "sha256": "c341e602ab623084fef4c44ca4a174938e617802cfcf2deec830d824f688dc69",
+    "retrievedAt": "2026-10-01T10:42:27.918286+00:00",
+    "license": "PokeAPI data source; see pinned repository licensing",
+    "role": "exact-English-match same-species same-version native flavor translations"
+  }
+}

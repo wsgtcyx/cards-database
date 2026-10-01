@@ -161,7 +161,7 @@ test('every Pocket card has an English R2 image', () => {
 		const setId = setSource.match(/\bid:\s*["']([^"']+)["']/)?.[1]
 		const localId = path.basename(file, '.ts')
 		const expected = `https://game.pokemontcgpocket.app/en/tcgp/${setId}/${localId}`
-		assert.match(source, new RegExp(`\\ben\\s*:\\s*["']${expected.replaceAll('-', '\\-')}["']`), path.relative(root, file))
+		assert.match(source, new RegExp(`\\ben\\s*:\\s*["']${expected.replaceAll('-', '\\-')}(?:/hd-[a-f0-9]{12})?["']`), path.relative(root, file))
 		assert.doesNotMatch(source, /assets\.tcgdex\.net/, path.relative(root, file))
 	}
 })

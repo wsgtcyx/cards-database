@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "manifestSha256": "9479a7c724c4e8f17487be0eb95bde6e1a5e6d0fe0331f7814adf9970edf3dfe",
+  "objects": 46,
+  "collisions": 0,
+  "passed": true,
+  "records": [
+    {
+      "key": "en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-f3b9f68355ca.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-4ab7297da263.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-e2ee236f87de.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-db24fb4ae381.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/406/hd-dc313438bf75/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/406/hd-dc313438bf75/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/333/hd-7bf700f1b957/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/333/hd-7bf700f1b957/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/411/hd-83e6644f3b1a/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/411/hd-83e6644f3b1a/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/408/hd-4672f06c1478/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/408/hd-4672f06c1478/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/418/hd-29691a0179e7/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/418/hd-29691a0179e7/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/424/hd-c1e1bab61d61/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/424/hd-c1e1bab61d61/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/307/hd-da0ca35444e6/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/307/hd-da0ca35444e6/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/417/hd-2eee6792066e/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/417/hd-2eee6792066e/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/259/hd-686cfa8640be/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/B4b/259/hd-686cfa8640be/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/333/hd-985e00f45217/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/333/hd-985e00f45217/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/408/hd-568b23cf5f04/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/408/hd-568b23cf5f04/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/259/hd-fa5a0b608949/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/259/hd-fa5a0b608949/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/307/hd-4332cc06e98f/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/307/hd-4332cc06e98f/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/418/hd-7a65aee88709/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/418/hd-7a65aee88709/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/424/hd-580b2cdd4d7b/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/424/hd-580b2cdd4d7b/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/417/hd-95d6afa05d03/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/417/hd-95d6afa05d03/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/411/hd-e8454f4689cc/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/411/hd-e8454f4689cc/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/406/hd-4cdb5f4ee4bd/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/B4b/406/hd-4cdb5f4ee4bd/low.webp",
+      "status": 404
+    }
+  ]
+}

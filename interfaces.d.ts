@@ -24,6 +24,8 @@ type ISODate = `${number}-${number}-${number}`
 export interface Set {
 	id: string
 	name: Languages
+	/** Extensionless localized set logo bases; the SDK appends the image format. */
+	logo?: Languages
 	/**
 	 * Partial list of abbreviations, this is currently a Work in Progress feature
 	 */

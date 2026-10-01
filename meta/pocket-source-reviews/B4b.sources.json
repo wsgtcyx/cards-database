@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "officialName": "Deluxe Pack: Mega",
+  "releaseDate": "2026-09-30",
+  "officialCount": 402,
+  "total": 429,
+  "officialFacts": {
+    "source": "https://the-pokemon-company-international.prezly.com/nouveau-booster-special-du-jcc-pokemon-pocket-deluxe-pack-mega-lancement-le-30-septembre",
+    "announcementDate": "2026-09-24",
+    "cardsPerOfficialPack": 4,
+    "guaranteedMinimum": "Four Diamond",
+    "availableThrough": "2026-10-29"
+  },
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/cards/B4b.json",
+      "file": "flibustier.b4b.json",
+      "bytes": 80323,
+      "sha256": "06de8b1a25be8392142b9db1881cdfabc07904ba59812bc7ba66b07e23a20483",
+      "retrievedAt": "2026-10-01T09:40:01.508146+00:00",
+      "commit": "0e1d5effb344658aae4d37c38a31e61ba49c4e74",
+      "license": "MIT",
+      "role": "number/entity/rarity validation and neutral booster artwork; B4a booster naming rejected"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/cards.min.json",
+      "file": "flibustier.cards.json",
+      "bytes": 542085,
+      "sha256": "cce0b5f51658020559db3b1fdd7bdcd78c355183eb3acfb7a0f7d0d852ae338b",
+      "retrievedAt": "2026-10-01T09:40:02.367931+00:00",
+      "commit": "0e1d5effb344658aae4d37c38a31e61ba49c4e74",
+      "license": "MIT",
+      "role": "number/entity/rarity validation and neutral booster artwork; B4a booster naming rejected"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/sets.json",
+      "file": "flibustier.sets.json",
+      "bytes": 6287,
+      "sha256": "1dc3f0b190553c9848fd3c4bd3b36517ffd40f27d9708bb7640625d0e70873b2",
+      "retrievedAt": "2026-10-01T09:40:00.941410+00:00",
+      "commit": "0e1d5effb344658aae4d37c38a31e61ba49c4e74",
+      "license": "MIT",
+      "role": "number/entity/rarity validation and neutral booster artwork; B4a booster naming rejected"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bcollazo/deckgym-core/9044ff6d8c95eeb8dc7ab9718723091b368ac0b8/database.json",
+      "file": "deckgym.json",
+      "bytes": 2511576,
+      "sha256": "99ece668f446854175210ca12a7c16c2d3a15f2822b56719eaa2cc87c67b6b52",
+      "retrievedAt": "2026-10-01T09:40:02.982387+00:00",
+      "commit": "9044ff6d8c95eeb8dc7ab9718723091b368ac0b8",
+      "license": "AGPL-3.0",
+      "role": "independent validation only; not the selected localized text source"
+    },
+    {
+      "url": "https://ptcgp.raenonx.cc/api/data/global-master",
+      "file": "raenonx.master.json",
+      "bytes": 5899076,
+      "sha256": "cfa0914d2cc6759ba446ef00b4687a92afec2188aeb6ff96dde2807350c2c2a8",
+      "retrievedAt": "2026-10-01T09:40:02.731387+00:00",
+      "license": "No repository license verified; attributed source mirror within existing project scope",
+      "role": "game identity, dictionary templates, names and artist IDs"
+    },
+    {
+      "url": "https://www.pokeos.com/api/tcg/set/cards?id=594",
+      "file": "pokeos.cards.json",
+      "bytes": 460627,
+      "sha256": "b51147e6e5f2341ae61a5398d889663f0661b7c481d526a09bd80a7adf78c88b",
+      "retrievedAt": "2026-10-01T09:40:02.379623+00:00",
+      "license": "Existing attributed source-mirror scope; card artwork remains Pokemon rights",
+      "role": "localized German/Italian names and seven language card faces/logos; date and three artists corrected"
+    },
+    {
+      "url": "https://www.pokeos.com/api/tcg/setInfo?id=594",
+      "file": "pokeos.set.json",
+      "bytes": 1724,
+      "sha256": "959bf1dc4cd367bdcf47f3a1b65c6e1b60cfde8db6727a06598956af70583fb1",
+      "retrievedAt": "2026-10-01T09:40:02.220030+00:00",
+      "license": "Existing attributed source-mirror scope; card artwork remains Pokemon rights",
+      "role": "localized German/Italian names and seven language card faces/logos; date and three artists corrected"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PokeAPI/pokeapi/a81dfc349390e4b53fd92e579c588b1204bbb6af/data/v2/csv/pokemon_species_flavor_text.csv",
+      "commit": "a81dfc349390e4b53fd92e579c588b1204bbb6af",
+      "bytes": 9206001,
+      "sha256": "c341e602ab623084fef4c44ca4a174938e617802cfcf2deec830d824f688dc69",
+      "retrievedAt": "2026-10-01T10:42:27.918286+00:00",
+      "license": "PokeAPI data source; see pinned repository licensing",
+      "role": "exact-English-match same-species same-version native flavor translations"
+    },
+    {
+      "locale": "en",
+      "url": "https://ptcgp.raenonx.cc/en/card/PK_10_013070_00",
+      "sha256": "644fecdc498c08feeecc24eba4e72ebccbab044e2a02687ea736c4aebf4017d4",
+      "bytes": 537823,
+      "dictionarySha256": "e04fd5b8580b9368c9a557948a4ffa9711b3c4e27d80f9e437532b98dad969ea",
+      "retrievedAt": "2026-10-01T09:50:37.197Z"
+    },
+    {
+      "locale": "fr",
+      "url": "https://ptcgp.raenonx.cc/fr/card/PK_10_013070_00",
+      "sha256": "1b39b809e8e34c362e52c4f729c1abecd1088c3a7ee7a5acdec42395193ca01c",
+      "bytes": 596520,
+      "dictionarySha256": "0e1e83616c382c4d725732c6e3533ae8cf9f57e43b6c164e9b0a8f769603da1f",
+      "retrievedAt": "2026-10-01T09:50:38.463Z"
+    },
+    {
+      "locale": "es",
+      "url": "https://ptcgp.raenonx.cc/es/card/PK_10_013070_00",
+      "sha256": "2e597dab13ecfcc7ab3ff98f232214bed991a046acca0813d7966c85296257ae",
+      "bytes": 559630,
+      "dictionarySha256": "cfecee6744e9e979d5d4a7b3d000f0bba381aacea3d818986dcc34642ee3c22e",
+      "retrievedAt": "2026-10-01T09:50:41.034Z"
+    },
+    {
+      "locale": "pt",
+      "url": "https://ptcgp.raenonx.cc/pt/card/PK_10_013070_00",
+      "sha256": "6434fae9d44b289679eda1681d512b2715dd13cb36c98e8b18ebe7df986431d9",
+      "bytes": 570266,
+      "dictionarySha256": "d368b53cd8fa1dd7d06fd54f8a04737522e74a30f13decae3b839af99600ce84",
+      "retrievedAt": "2026-10-01T09:50:42.291Z"
+    },
+    {
+      "locale": "zh",
+      "url": "https://ptcgp.raenonx.cc/zh/card/PK_10_013070_00",
+      "sha256": "beb93aebe814634898520df7c140355c7556bc58826062b5a6048c945be8ab0b",
+      "bytes": 535178,
+      "dictionarySha256": "929841f8e0c482501e276480d5772956dbc6f7f56d81f24049510f972b212faf",
+      "retrievedAt": "2026-10-01T09:50:43.553Z"
+    },
+    {
+      "locale": "ja",
+      "url": "https://ptcgp.raenonx.cc/ja/card/PK_10_013070_00",
+      "sha256": "61f49c45bb71589e4fe45a810cb98de53fe8eda0166a954308b1910fae93140c",
+      "bytes": 625262,
+      "dictionarySha256": "2298a8eed031a4caa586398ca844bdebf624c5357c333b221a4a85e600183414",
+      "retrievedAt": "2026-10-01T09:50:44.813Z"
+    },
+    {
+      "locale": "ko",
+      "url": "https://ptcgp.raenonx.cc/ko/card/PK_10_013070_00",
+      "sha256": "f43c9a751489b8e8d8dea0f0c334d3152703005f80c494db07548bf629a9d837",
+      "bytes": 573760,
+      "dictionarySha256": "80bb4c8eedac533a248bd2a0cba947ced0d5fc63142171c628d490c706d75b22",
+      "retrievedAt": "2026-10-01T09:50:45.734Z"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/images/packs/Deluxe.webp",
+      "bytes": 9412,
+      "sha256": "7093445d8979da4b1adf1db8bbc599040de64bab8090f5da6d12a8d0b6bf88a4",
+      "role": "Rejected for final pack selection; replaced by official 745x1433 native assets."
+    },
+    {
+      "url": "https://i.ytimg.com/vi/7SzgieRhSDc/maxresdefault.jpg",
+      "bytes": 209305,
+      "sha256": "42846f021e141e7bd04d57ec43db2e52fa4b0d89e0ef3f7b561c80bb840beea5",
+      "role": "Rejected for final homepage selection; replaced by official website 1920x1080 native WebP."
+    },
+    {
+      "file": "B4b/B4b.hd.sources.json",
+      "sha256": "68b33709703983b886fa486f90ff4a4103b63679bf1a859065c22324b8f51bfa",
+      "role": "Pinned official native-resolution booster artwork/logos, eighteen identity-verified press card faces, six localized heroes. Media usage terms remain explicit per source."
+    },
+    {
+      "file": "B4b/B4b.native-card-face-review.json",
+      "sha256": "d03c2fbb34bb34fcb0ad8dc309b7dd900c2b97fcf5d9fcd6fbd0d1fa86f1251e",
+      "role": "Final field-specific native card-face review; manually verified image hash, public source URL and exact previous value."
+    }
+  ],
+  "reviewDirectory": "B4b",
+  "decisions": {
+    "pokeosDate": "Reject 2026-09-29; official launch is 2026-09-30",
+    "pokeosArtists": "421 Yuu Nishida; 422 Cona Nitanda; 424 saino misaki",
+    "flibustierB4aPack": "Reject Ruler of Skies label; retain Team Rocket's Ambition",
+    "jaKo": "Localized names; English rules and images explicitly allowed",
+    "boosterArtwork": "Native official 745x1433 pack: en/fr/es; it/de/pt-br/zh-tw explicitly use English artwork. Seven localized booster logos retained, en/fr/es upgraded to native 1000x440.",
+    "ocr": "PaddleOCR HTTP 503 twice; Swift Vision candidates were manually checked against native card faces. Accepted text binds explicit image SHA-256 and public source URL in B4b.native-card-face-review.json.",
+    "gacha": "Existing website five-card entertainment simulation and rarity probabilities retained",
+    "nativeImageQuality": "No upscaling: 18 official en/es faces upgraded to native 734x1024, remaining full localized faces remain game-native 367x512; four localized transparent logos remain 256x113."
+  },
+  "unresolved": []
+}

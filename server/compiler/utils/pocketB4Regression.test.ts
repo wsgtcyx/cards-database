@@ -16,10 +16,34 @@ import promo84 from '../../../data/Pokémon TCG Pocket/Promos-B/084'
 import promo85 from '../../../data/Pokémon TCG Pocket/Promos-B/085'
 import promo86 from '../../../data/Pokémon TCG Pocket/Promos-B/086'
 import promosB from '../../../data/Pokémon TCG Pocket/Promos-B'
+import teamRocketsAmbition from '../../../data/Pokémon TCG Pocket/Team Rocket\'s Ambition'
+import deluxePackMega from '../../../data/Pokémon TCG Pocket/Deluxe Pack: Mega'
+import TCGdex from '@tcgdex/sdk'
 import translate from './translationUtil'
 import { getDataFolder } from './util'
+import { getSetPictures } from './setUtil'
 
 describe('B4 catalog metadata regressions', () => {
+	test('keeps set and series logos as image bases compatible with the SDK', async () => {
+		const originalFetch = TCGdex.fetch
+		try {
+			for (const set of [teamRocketsAmbition, deluxePackMega]) {
+				for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko'] as const) {
+					const [logo] = await getSetPictures(set, lang)
+					const booster = Object.values(set.boosters!)[0]
+					const expectedImage = booster.logo?.[lang] ?? booster.logo?.en
+					expect(logo).toBeDefined()
+					expect(logo).not.toMatch(/\.(?:png|jpe?g|webp)$/u)
+					TCGdex.fetch = async () => new Response(JSON.stringify({ id: 'tcgp', name: 'Pocket', logo, sets: [] }))
+					const serie = await new TCGdex().serie.get('tcgp')
+					if (!serie) throw new Error('SDK did not deserialize the series fixture')
+					expect(serie.getImageURL('webp')).toBe(expectedImage)
+				}
+			}
+		} finally {
+			TCGdex.fetch = originalFetch
+		}
+	})
 	test('keeps Promo-B 79–86 rarity and Vol. 11 membership aligned', () => {
 		expect(promosB.boosters?.vol11?.logo).toBeUndefined()
 		expect(promosB.boosters?.vol11?.artwork_front).toBeUndefined()
@@ -68,7 +92,7 @@ describe('B4 catalog metadata regressions', () => {
 			it: 'Vulpix di Alola',
 			de: 'Alola-Vulpix',
 			'pt-br': 'Vulpix de Alola',
-			'zh-tw': '阿羅拉的六尾',
+			'zh-tw': '阿羅拉六尾',
 			ko: '알로라 식스테일',
 			ja: 'アローラ ロコン',
 		})
@@ -79,7 +103,7 @@ describe('B4 catalog metadata regressions', () => {
 			it: 'Ninetales di Alola-ex',
 			de: 'Alola-Vulnona-ex',
 			'pt-br': 'Ninetales de Alola ex',
-			'zh-tw': '阿羅拉的九尾ex',
+			'zh-tw': '阿羅拉九尾ex',
 			ko: '알로라 나인테일 ex',
 			ja: 'アローラ キュウコンex',
 		})
