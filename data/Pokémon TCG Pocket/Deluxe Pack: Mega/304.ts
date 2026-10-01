@@ -1,0 +1,86 @@
+import { Card } from "../../../interfaces";
+import Set from "../Deluxe Pack: Mega";
+
+const card: Card = {
+    set: Set,
+    image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4b/304",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4b/304",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4b/304",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/304",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/304",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/304",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/304"
+    },
+    name: {
+        en: "Ralts",
+        fr: "Tarsal",
+        es: "Ralts",
+        it: "Ralts",
+        de: "Trasla",
+        "pt-br": "Ralts",
+        "zh-tw": "拉魯拉絲",
+        ja: "ラルトス",
+        ko: "랄토스"
+    },
+    illustrator: "Nagomi Nijo",
+    rarity: "One Diamond",
+    category: "Pokemon",
+    hp: 60,
+    types: [
+        "Psychic"
+    ],
+    dexId: [
+        280
+    ],
+    stage: "Basic",
+    description: {
+        en: "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+        fr: "Très sensible aux émotions des êtres humains et des Pokémon, il se cache au moindre signe d'hostilité.",
+        es: "Capta muy bien lo que sienten las personas y los Pokémon. Cuando nota cierta hostilidad, se esconde.",
+        it: "È molto sensibile all'umore delle persone e degli altri Pokémon. Non appena avverte ostilità, si nasconde subito nell'ombra.",
+        de: "Es hat ein feines Gespür für die Gefühle der Menschen und Pokémon. Wenn es Feindseligkeit wahrnimmt, versteckt es sich.",
+        "pt-br": "Está altamente sintonizado com as emoções das pessoas e Pokémon. Esconde-se se pressentir hostilidade.",
+        "zh-tw": "能敏銳地感知人和寶可夢的感情。一旦感受到敵意，就會躲進暗處。",
+        ja: "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility.",
+        ko: "It is highly attuned to the emotions of people and POKéMON. It hides if it senses hostility."
+    },
+    attacks: [
+        {
+            cost: [
+                "Colorless"
+            ],
+            name: {
+                en: "Lead",
+                fr: "Mentor",
+                es: "Liderazgo",
+                it: "Guidare",
+                de: "Führen",
+                "pt-br": "Liderar",
+                "zh-tw": "引路",
+                ja: "Lead",
+                ko: "Lead"
+            },
+            effect: {
+                en: "Put a random Supporter card from your deck into your hand.",
+                fr: "Ajoutez une carte Supporter au hasard de votre deck à votre main.",
+                es: "Pon 1 carta de Partidario aleatoria de tu baraja en tu mano.",
+                it: "Prendi una carta Aiuto a caso dal tuo mazzo e aggiungila alle carte che hai in mano.",
+                de: "Nimm 1 zufällige Unterstützerkarte aus deinem Deck auf deine Hand.",
+                "pt-br": "Coloque 1 carta de Apoiador aleatória do seu baralho na sua mão.",
+                "zh-tw": "從自己的牌庫隨機將1張支援者卡加入手牌。",
+                ja: "Put a random Supporter card from your deck into your hand.",
+                ko: "Put a random Supporter card from your deck into your hand."
+            }
+        }
+    ],
+    weaknesses: [
+        {
+            type: "Darkness",
+            value: "+20"
+        }
+    ],
+    retreat: 1
+};
+
+export default card;

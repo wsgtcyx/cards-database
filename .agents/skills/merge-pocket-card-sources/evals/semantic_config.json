@@ -1,0 +1,14 @@
+{
+  "fallback_positive_concepts": ["source_merge", "conflict_review", "canonical_output", "image_evidence"],
+  "positive_concepts": {
+    "source_merge": { "weight": 0.38, "phrases": ["merging pokeos", "multi-source cross-validation", "no single source covers", "多个上游", "没有单一来源", "多来源数据"] },
+    "conflict_review": { "weight": 0.26, "phrases": ["sources disagree", "per-conflict evidence", "有冲突", "互相冲突", "unresolved conflicts", "review evidence"] },
+    "canonical_output": { "weight": 0.22, "phrases": ["auditable canonical", "composite details", "canonical", "provenance", "importer 输入"] },
+    "image_evidence": { "weight": 0.14, "phrases": ["localized card images", "ocr review", "本地化卡图", "卡图复核"] }
+  },
+  "negative_concepts": {
+    "full_publish": { "weight": 0.45, "exclusive": true, "phrases": ["添加整个 pocket set", "r2 api tcgp", "本地页面 smoke"] },
+    "translation_only": { "weight": 0.45, "exclusive": true, "phrases": ["只缺法语和德语", "补齐 locale"] },
+    "game_advice": { "weight": 0.5, "exclusive": true, "phrases": ["比较两张卡", "游戏里的强度"] }
+  }
+}

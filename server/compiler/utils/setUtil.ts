@@ -52,6 +52,8 @@ export async function getSets(serie = '*', lang: SupportedLanguages): Promise<Ar
 }
 
 export async function getSetPictures(set: Set, lang: SupportedLanguages): Promise<[string | undefined, string | undefined]> {
+	const logo = set.logo?.[lang] ?? set.logo?.en
+	if (logo) return [logo, undefined]
 	try {
 		const file = await fetchRemoteFile('https://assets.tcgdex.net/datas.json')
 		const logoExists = file[lang]?.[set.serie.id]?.[set.id]?.logo ? `https://assets.tcgdex.net/${lang}/${set.serie.id}/${set.id}/logo` : undefined

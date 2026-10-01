@@ -18,6 +18,11 @@
 PokeOS、搜索摘要或单一社区站点不能独占整套数据。每个 canonical 字段都要能回答
 “值来自哪里、为什么选它、冲突如何裁决”。
 
+GitHub release 或下载归档还要固定真实 asset 名、最终 URL、字节数和 SHA-256，并用 HEAD/GET
+验证。不要从旧版本猜 `release.zip`、`dist.zip` 等名字；tag 可访问不代表猜测路径存在。
+同一来源内部字段冲突也必须裁决，例如逐卡 pack membership 与 sets index 不一致时，明确
+记录采用/拒绝哪一个字段，不能把来源整体标为“可信”后静默选值。
+
 ## 2. 十张 pilot 门禁
 
 首次使用新来源、新 schema 或新转换器时，先用 10 张分层样本跑完整链路，再扩大到
@@ -57,6 +62,14 @@ rarity。pilot 必须验证：
 - 生成本地化内容所用的 checkout、CSV、HTML、人工映射也要固定版本和 SHA-256，并纳入
   audit input hashes。
 - `todoStrings > 0` 时 importer 必须在任何 metadata 写入前失败；todo 清零后才原子落盘。
+- 对外可搜索名称语言与完整规则语言分开声明。名称 locale 可以比规则 locale 多，但必须明确
+  机制/图片 fallback；不能把九语名称写成九语完整规则。
+- 本地化审计不仅检查键存在：还要检查同 canonical 名称跨 printing 一致、CJK 拉丁 fallback、
+  英文规则 fallback、TODO/源标签、括号/分隔符和结构化 token multiset。
+- 若 OCR 是 de/it 等语言唯一的第二证据，pilot 通过后仍要逐卡转录和人工复核；pilot 不能替代
+  全量 evidence。每份 OCR 必须绑定 card ID、locale、源图 hash 和 chosen value。
+- PokeOS illustrator 等字段遇到 placeholder、乱码或与卡图/OCR/corpus 不一致时失败；只有带
+  卡面证据的 reviewed override 能放行。
 
 ## 5. API 与语言编译
 
@@ -65,6 +78,8 @@ rarity。pilot 必须验证：
   语言目录策略必须与当前仓库布局一致并有回归测试。
 - 部署后至少读取 set、首张、中间张、末张，确认 count、name、rarity、image、机制字段
   和 locale fallback。
+- 本地 smoke 还要分页读取 `cards/search?set=<ID>`，总数必须等于 total 且 ID 唯一；生产 API
+  未部署时不能用下游 fallback 的构建成功代替 API 验证。
 
 ## 6. 下游原子同步
 
@@ -74,9 +89,15 @@ rarity。pilot 必须验证：
 - set/pack 配置、单包 `isSharePack` 或多包归属；
 - `cardRarity.additions.json` 与 runtime loader；
 - 卡片详情 metadata、catalog filter、collection 排序和 gacha 卡池。
+- card entity 与 filter index 三方 key contract，以及 filter 数据对 cards-database HEAD/响应
+  SHA-256 的真实绑定；expected hash 不匹配必须失败。
+- home hero、set icon、pack image；hero 必须使用不放大的清晰横向素材，并做桌面/移动页面实测。
 
 强制断言卡片 key 与合并 rarity key 完全相等，并实际抽出五张。不能以 locale 数量、
 build 成功或某一张卡详情正常替代 gacha 验证。
+
+QR provenance 绑定其实际使用的 entity mapping 子集。完整实体表新增但该子集 digest 未变化时，
+不重生成或上传 QR；digest 变化时才按 QR 流程更新。竞技 Deck 快照不因新 set 目录数据而手工刷新。
 
 替换已有 set 时，基线 commit 只能作为比较依据：目标 worktree 与基线任一字节不同就
 停止；删除旧 set keys 后再原子写入，保持所有无关顶层 key 的原顺序，并禁止追加出
@@ -94,3 +115,5 @@ build 成功或某一张卡详情正常替代 gacha 验证。
 - API 与下游分别核对目标分支、staged paths、测试和远端状态；只有用户明确要求才
   commit 或 push。
 - 使用仓库既定的包管理器和 lockfile；不得为方便本地运行再引入第二套依赖真源。
+- 前置报告保持不可变；生成独立 final audit，绑定 canonical/localization/image/R2/downstream
+  证据 hash。已有 R2 对象只有在 receipt、公开字节 hash 和 headers 全部一致时才能复用。

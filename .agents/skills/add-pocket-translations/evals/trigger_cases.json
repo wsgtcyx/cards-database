@@ -1,0 +1,18 @@
+{
+  "recommended_threshold": 0.33,
+  "should_trigger": [
+    "给这个已存在的 Pocket set 补齐 fr/es/it/de/pt-br/zh-tw 翻译。",
+    "扫描新卡集的本地化缺口并修复繁中 evolveFrom 与卡名不一致。",
+    "规则字段都有语言键，但怀疑存在英文 fallback 和 TODO，请做多语言语义审计。",
+    "新 set 的卡名已齐，只需要补全德语和意大利语卡文。",
+    "图片有七语版本，但 metadata 的 locale 覆盖不确定。"
+  ],
+  "should_not_trigger": [
+    "从 set ID 开始添加整个卡集并上传图片到 R2，再同步 tcgp。",
+    "三个英文机制来源互相冲突，请逐字段合并 canonical 数据。",
+    "把这段普通产品文案翻译成法语。"
+  ],
+  "near_neighbor": [
+    "七语卡图数量不一致，但 metadata 翻译已经审定且无需修改。"
+  ]
+}

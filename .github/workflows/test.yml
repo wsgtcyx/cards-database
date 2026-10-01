@@ -4,7 +4,7 @@ on:
   push:
     branches: 
       - master
-  pull_request_target:
+  pull_request:
     branches: 
       - "**"
 
@@ -38,6 +38,12 @@ jobs:
         bun run validate
         cd server
         bun run --bun validate
+
+    - name: Run regression tests
+      run: |
+        bun run test
+        cd server
+        bun test compiler/utils/pocketB4Regression.test.ts
 
     - name: Validate some requests
       run: |

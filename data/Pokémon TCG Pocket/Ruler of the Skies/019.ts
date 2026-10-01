@@ -16,7 +16,7 @@ const card: Card = {
         fr: "Ogerpon Masque Turquoise",
         es: "Ogerpon Máscara Turquesa",
         it: "Ogerpon Maschera Turchese",
-        de: "Ogerpon (Türkisgrüne Maske)",
+        de: "Türkisgrüne-Maske-Ogerpon",
         "pt-br": "Ogerpon Máscara Turquesa",
         "zh-tw": "厄鬼椪碧草面具",
         ko: "오거폰 벽록의가면",

@@ -1,0 +1,71 @@
+import { Card } from "../../../interfaces";
+import Set from "../Deluxe Pack: Mega";
+
+const card: Card = {
+    set: Set,
+    image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/B4b/420",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/B4b/420",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/B4b/420",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/B4b/420",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/B4b/420",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/420",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/420"
+    },
+    name: {
+        en: "Mega Rayquaza ex",
+        fr: "Méga-Rayquaza-ex",
+        es: "Mega-Rayquaza ex",
+        it: "Mega Rayquaza-ex",
+        de: "Mega-Rayquaza-ex",
+        "pt-br": "Mega Rayquaza ex",
+        "zh-tw": "超級烈空坐ex",
+        ja: "メガレックウザex",
+        ko: "메가레쿠쟈 ex"
+    },
+    illustrator: "5ban Graphics",
+    rarity: "Two Star",
+    category: "Pokemon",
+    hp: 180,
+    types: [
+        "Dragon"
+    ],
+    dexId: [
+        384
+    ],
+    stage: "Basic",
+    attacks: [
+        {
+            cost: [
+                "Fire",
+                "Lightning"
+            ],
+            name: {
+                en: "Mega Burst",
+                fr: "Méga Explosion",
+                es: "Megaexplosión",
+                "pt-br": "Megaexplosão",
+                "zh-tw": "超級爆發",
+                it: "Megascoppio",
+                de: "Mega-Explosion",
+                ja: "Mega Burst",
+                ko: "Mega Burst"
+            },
+            effect: {
+                en: "Discard all {R} and {L} Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way.",
+                fr: "Défaussez toutes les Énergies {R} et {L} de ce Pokémon. Cette attaque inflige 50 dégâts pour chaque Énergie défaussée de cette façon.",
+                es: "Descarta todas las Energías {R} y {L} de este Pokémon. Este ataque hace 50 puntos de daño por cada Energía que hayas descartado de esta manera.",
+                it: "Rimuovi tutte le Energie {R} e {L} da questo Pokémon. Questo attacco infligge 50 danni per ogni Energia che hai rimosso in questo modo.",
+                de: "Lege alle {R}- und {L}-Energien von diesem Pokémon ab, und diese Attacke fügt für jede auf diese Weise abgelegte Energie 50 Schadenspunkte zu.",
+                "pt-br": "Descarte todas as Energias {R} e {L} deste Pokémon, e este ataque causa 50 pontos de dano para cada Energia descartada desta forma.",
+                "zh-tw": "將這隻寶可夢身上的{R}與{L}能量全部丟棄,造成丟棄的能量數量×50點傷害。",
+                ja: "Discard all {R} and {L} Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way.",
+                ko: "Discard all {R} and {L} Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
+            },
+            damage: "50x"
+        }
+    ],
+    retreat: 1
+};
+
+export default card;

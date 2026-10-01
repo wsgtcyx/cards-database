@@ -1,0 +1,13 @@
+{
+  "fallback_positive_concepts": ["pocket_localization", "coverage_audit", "locale_fix"],
+  "positive_concepts": {
+    "pocket_localization": { "weight": 0.39, "phrases": ["multilingual", "localizations", "pokemon tcg pocket", "pocket set", "补齐 fr", "补全德语", "本地化"] },
+    "coverage_audit": { "weight": 0.36, "phrases": ["scanning for missing language keys", "verifying coverage", "语言缺口", "英文 fallback", "多语言语义审计", "locale 覆盖"] },
+    "locale_fix": { "weight": 0.25, "phrases": ["fixing zh-tw", "evolvefrom consistency", "繁中 evolvefrom", "卡名不一致", "修正七语卡名"] }
+  },
+  "negative_concepts": {
+    "full_set_sync": { "weight": 0.45, "exclusive": true, "phrases": ["添加整个 pocket set", "从 set id 开始添加整个卡集", "上传图片到 r2", "同步 tcgp"] },
+    "source_merge": { "weight": 0.45, "exclusive": true, "phrases": ["逐字段合并 canonical", "机制来源互相冲突"] },
+    "generic_translation": { "weight": 0.45, "exclusive": true, "phrases": ["普通产品文案"] }
+  }
+}

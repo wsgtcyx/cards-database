@@ -1,0 +1,829 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "generatedAt": "2026-10-01T11:34:19.887446+00:00",
+  "assets": [
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_EN.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Booster Pack",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222011-325f330e/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_EN.png",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1512490,
+      "sha256": "67f594ce6d6ce66e5c4b43610d0cda15c48e5d6d71d48cca2ff4262b1909ec80",
+      "retrievedAt": "2026-10-01T11:24:54.885328+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms"
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1173790,
+      "sha256": "686cfa8640bef30bc5c7e7f8e8f9a47710878e25a0a858d5137fce334f7ab244",
+      "retrievedAt": "2026-10-01T11:24:56.958005+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon.png",
+        "cardId": "B4b-259",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 1.6161344051361084,
+        "runnerUp": {
+          "cardId": "B4b-030",
+          "error": 8.380250930786133
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 999213,
+      "sha256": "da0ca35444e6994cf9ce4cee0d1427518a8f0f5c9bf233e473b5dfe72721fc76",
+      "retrievedAt": "2026-10-01T11:24:58.564907+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling.png",
+        "cardId": "B4b-307",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 1.1274689435958862,
+        "runnerUp": {
+          "cardId": "B4b-308",
+          "error": 24.353803634643555
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1161289,
+      "sha256": "c1e1bab61d61fddf138e1a0b94c6aa41b905625c4f4990ea8552bf685788864b",
+      "retrievedAt": "2026-10-01T11:25:01.980588+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat.png",
+        "cardId": "B4b-424",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 2.4288907051086426,
+        "runnerUp": {
+          "cardId": "B4b-423",
+          "error": 54.39583206176758
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1315530,
+      "sha256": "4672f06c1478dfa638ee12969a0d41be6619e137e6b6af8729bb09be431b31fc",
+      "retrievedAt": "2026-10-01T11:25:09.104583+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee.png",
+        "cardId": "B4b-408",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.107069730758667,
+        "runnerUp": {
+          "cardId": "B4b-183",
+          "error": 55.80644607543945
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1824722,
+      "sha256": "dc313438bf75391280229922bd8e8742b65a7905cca828aa7a9775ead6fc9d3d",
+      "retrievedAt": "2026-10-01T11:25:16.094673+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough.png",
+        "cardId": "B4b-406",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.4828665256500244,
+        "runnerUp": {
+          "cardId": "B4b-009",
+          "error": 55.146366119384766
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1097861,
+      "sha256": "2eee6792066e07fb011e786a4dadc67272d89acb5e1d208df6b2e19a50a9cf85",
+      "retrievedAt": "2026-10-01T11:25:19.507019+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex.png",
+        "cardId": "B4b-417",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 2.9927496910095215,
+        "runnerUp": {
+          "cardId": "B4b-416",
+          "error": 63.7934684753418
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1244431,
+      "sha256": "83e6644f3b1afb0c807a7e4bb0fb496cb3e95a20f551caf399b3acf71de55c21",
+      "retrievedAt": "2026-10-01T11:25:26.004543+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex.png",
+        "cardId": "B4b-411",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.301208257675171,
+        "runnerUp": {
+          "cardId": "B4b-410",
+          "error": 68.83715057373047
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1268571,
+      "sha256": "29691a0179e764ab29f4542c32c811b726cf857d242b350b1e52dcb22de22f14",
+      "retrievedAt": "2026-10-01T11:25:30.110199+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex.png",
+        "cardId": "B4b-418",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.350886583328247,
+        "runnerUp": {
+          "cardId": "B4b-410",
+          "error": 69.9924545288086
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Card Images",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222010-c7abb6f7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1271032,
+      "sha256": "7bf700f1b957326ebab9ccf4089cfa7ed62435c302a416ea49b1be61bf871654",
+      "retrievedAt": "2026-10-01T11:25:39.695582+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon.png",
+        "cardId": "B4b-333",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.3293488025665283,
+        "runnerUp": {
+          "cardId": "B4b-152",
+          "error": 21.914859771728516
+        },
+        "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output."
+      }
+    },
+    {
+      "locale": "en",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Logo.png",
+      "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "9/24/2026 Add set to downloads Pokémon Trading Card Game Pocket Deluxe Pack: Mega Logo",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222007-2165fbf1/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Logo.png",
+      "width": 1000,
+      "height": 440,
+      "bytes": 203518,
+      "sha256": "c49c7c0d82d8c732465027b5a2ae45f9e8a2dffb8251a613c8c68af3885ca758",
+      "retrievedAt": "2026-10-01T11:25:42.554813+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms"
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "30/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Booster",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222149-04174712/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_ES.png",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1516914,
+      "sha256": "e2ee236f87ded252c66d07bc7a54f291b2cbf56fcc13d140929406a42357e740",
+      "retrievedAt": "2026-10-01T11:24:55.971430+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms"
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1172541,
+      "sha256": "fa5a0b60894906bb642f3cfe58259d35b940b5f081a36cbc7002004dcdeda006",
+      "retrievedAt": "2026-10-01T11:24:58.114032+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon_ES.png",
+        "cardId": "B4b-259",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 1.631332516670227,
+        "runnerUp": {
+          "cardId": "B4b-030",
+          "error": 8.387779235839844
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 999931,
+      "sha256": "4332cc06e98f2dd3c59a2374e995c4198da83ebcc8686cea1ac6aedf2ebd3cb4",
+      "retrievedAt": "2026-10-01T11:24:59.128989+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling_ES.png",
+        "cardId": "B4b-307",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 1.1370317935943604,
+        "runnerUp": {
+          "cardId": "B4b-315",
+          "error": 24.74580955505371
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1168259,
+      "sha256": "580b2cdd4d7b4d1d8e46d9267e171bd051cc7faa7ca6c56aea7410ea9953ef1e",
+      "retrievedAt": "2026-10-01T11:25:00.339563+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat_ES.png",
+        "cardId": "B4b-424",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 2.503208875656128,
+        "runnerUp": {
+          "cardId": "B4b-423",
+          "error": 54.264801025390625
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1320642,
+      "sha256": "568b23cf5f044cd95b728c2de87626587a5e1f9e828aa130f070b9c64df92bb2",
+      "retrievedAt": "2026-10-01T11:25:02.316128+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee_ES.png",
+        "cardId": "B4b-408",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.266813278198242,
+        "runnerUp": {
+          "cardId": "B4b-183",
+          "error": 55.32542037963867
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1830161,
+      "sha256": "4cdb5f4ee4bd56e12ad52a000de5c46479ea0c074d3e945c8e5713de61dfa7fe",
+      "retrievedAt": "2026-10-01T11:25:05.766201+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough_ES.png",
+        "cardId": "B4b-406",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.5318191051483154,
+        "runnerUp": {
+          "cardId": "B4b-249",
+          "error": 55.18971252441406
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1099542,
+      "sha256": "95d6afa05d0339d32ddce072ddcfca22a58516b6332cbe8338776fc9b9f3e0e5",
+      "retrievedAt": "2026-10-01T11:25:08.665914+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex_ES.png",
+        "cardId": "B4b-417",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.077861785888672,
+        "runnerUp": {
+          "cardId": "B4b-416",
+          "error": 63.72653579711914
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1251549,
+      "sha256": "e8454f4689cc847cbe65ec6c05ff454d6f78fa90155825f65d0fde42d93f43c8",
+      "retrievedAt": "2026-10-01T11:25:12.776209+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex_ES.png",
+        "cardId": "B4b-411",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.3740038871765137,
+        "runnerUp": {
+          "cardId": "B4b-412",
+          "error": 68.78386688232422
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1272966,
+      "sha256": "7a65aee8870908be17c5bd3ce9e758e65b37fccc1d3df0e65b25475ff69faa51",
+      "retrievedAt": "2026-10-01T11:25:18.449961+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex_ES.png",
+        "cardId": "B4b-418",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.4376778602600098,
+        "runnerUp": {
+          "cardId": "B4b-410",
+          "error": 70.4386978149414
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "24/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Cartas",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222150-f42b04b8/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon_ES.png",
+      "width": 734,
+      "height": 1024,
+      "bytes": 1269861,
+      "sha256": "985e00f45217d747b43a91cd7296306d257c8feabfb15e16d1b792681309ad5b",
+      "retrievedAt": "2026-10-01T11:25:23.127248+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms",
+      "cardIdentity": {
+        "locale": "es",
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon_ES.png",
+        "cardId": "B4b-333",
+        "sourceWidth": 734,
+        "sourceHeight": 1024,
+        "meanAbsolutePixelErrorAt183x256": 3.237605333328247,
+        "runnerUp": {
+          "cardId": "B4b-152",
+          "error": 22.051164627075195
+        },
+        "method": "Full 429 candidate source-face comparison as in English identity audit."
+      }
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Logo_ES.png",
+      "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+      "collection": "30/09/2026 Añadir set a descargas JCC Pokémon Pocket - Deluxe Pack: Mega - Logo",
+      "downloadRoute": "/blob/PokemonAmerica/2026/09/222146-dd01ede7/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Logo_ES.png",
+      "width": 1000,
+      "height": 440,
+      "bytes": 210261,
+      "sha256": "db24fb4ae3818b14acac3c1ca6b405da22fa6295148ddde42238567165b351cb",
+      "retrievedAt": "2026-10-01T11:25:24.485908+00:00",
+      "signatureQueryRetained": false,
+      "attribution": "The Pokémon Company International",
+      "license": "Official media usage guidelines; limited non-commercial editorial/informational use",
+      "licenseUrl": "https://press.pokemon.com/Assets-Use-Terms"
+    },
+    {
+      "locale": "fr",
+      "file": "pack-fr-original.png",
+      "url": "https://cdn.assets.prezly.com/92f010fe-afdb-4175-8a7f-daad202afd30/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_FR.png",
+      "sourcePage": "https://the-pokemon-company-international.prezly.com/nouveau-booster-special-du-jcc-pokemon-pocket-deluxe-pack-mega-lancement-le-30-septembre",
+      "width": 745,
+      "height": 1433,
+      "bytes": 1519799,
+      "sha256": "f3b9f68355ca04f68b03b971483fe161ae2e5b5bf73d2b541b3ffd07fffe01b0",
+      "attribution": "The Pokémon Company International official French press channel",
+      "signatureQueryRetained": false
+    },
+    {
+      "locale": "fr",
+      "file": "logo-fr-original.png",
+      "url": "https://cdn.assets.prezly.com/021159ae-f507-44ed-8186-8d0d6965e2b4/Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Logo_FR.png",
+      "sourcePage": "https://the-pokemon-company-international.prezly.com/nouveau-booster-special-du-jcc-pokemon-pocket-deluxe-pack-mega-lancement-le-30-septembre",
+      "width": 1000,
+      "height": 440,
+      "bytes": 227254,
+      "sha256": "4ab7297da26372f4fc79fe8f3bad82d021e9a1356e8279ae93acdba3d6dcea4a",
+      "attribution": "The Pokémon Company International official French press channel",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_en-2x.webp",
+      "file": "b4b_en-2x.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 213692,
+      "sha256": "d5ca9c539797c6c589c896260684a6df3d0f418f2015d0a1c3ec4e48293dcf93",
+      "locale": "en",
+      "sourcePage": "https://tcgpocket.pokemon.com/en-us/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_en-2x.png",
+      "file": "b4b_en-2x.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2621342,
+      "sha256": "0fb1f97ec1e62f599948fcd4756e395dd4919b5228a29340540bfe69b72cce28",
+      "locale": "en",
+      "sourcePage": "https://tcgpocket.pokemon.com/en-us/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_es-2x.webp",
+      "file": "b4b_es-2x.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 214986,
+      "sha256": "a18bd41ee207eb0aa5c1274360902f288d97ffd012cd1b0d52541e53222a2e06",
+      "locale": "es",
+      "sourcePage": "https://tcgpocket.pokemon.com/es-es/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_es-2x.png",
+      "file": "b4b_es-2x.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2622675,
+      "sha256": "5b391acb33e94ee0d2702adf8c7a885f737b598b602f079469a0fb8d2a7663bf",
+      "locale": "es",
+      "sourcePage": "https://tcgpocket.pokemon.com/es-es/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_fr-2x.webp",
+      "file": "b4b_fr-2x.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 217162,
+      "sha256": "8fc4d396065548b0e4d10fefffde6d01ea68db05dbb908c6a766c247a6425dda",
+      "locale": "fr",
+      "sourcePage": "https://tcgpocket.pokemon.com/fr-fr/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_fr-2x.png",
+      "file": "b4b_fr-2x.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2619212,
+      "sha256": "22433a084dea9a6d85de715de37ca77e7cfb9e6ad5a1e3206384fc772e79f920",
+      "locale": "fr",
+      "sourcePage": "https://tcgpocket.pokemon.com/fr-fr/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_de-2x.webp",
+      "file": "b4b_de-2x.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 213380,
+      "sha256": "cf5c395ed8ada1ece2ea5dffabb9a4cdd1baa939aa3e483ece87e54241340d70",
+      "locale": "de",
+      "sourcePage": "https://tcgpocket.pokemon.com/de-de/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_de-2x.png",
+      "file": "b4b_de-2x.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2618089,
+      "sha256": "c40cdfa3e5571b6f13dba36fadda5c0140218d0140c493917c2c921b880c7dae",
+      "locale": "de",
+      "sourcePage": "https://tcgpocket.pokemon.com/de-de/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_it-2x.webp",
+      "file": "b4b_it-2x.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 215030,
+      "sha256": "6e61dd93ad7ae809e0fd6145b773aa7a5a3a49387cfb17cb3f0e6b4d1503fff4",
+      "locale": "it",
+      "sourcePage": "https://tcgpocket.pokemon.com/it-it/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_it-2x.png",
+      "file": "b4b_it-2x.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2622469,
+      "sha256": "9bd129f20d39a7c7d7e063cf7736c05d412873831c05cf630f2f8a939f1bc396",
+      "locale": "it",
+      "sourcePage": "https://tcgpocket.pokemon.com/it-it/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_br-2x.webp",
+      "file": "b4b_br-2x.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 214584,
+      "sha256": "8bc1fdbe9f1f3c10b2f10ade8246ef5231f7fbcd778eb8ff6f36f5fe2602883a",
+      "locale": "pt-br",
+      "sourcePage": "https://tcgpocket.pokemon.com/pt-br/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    },
+    {
+      "url": "https://tcgpocket.pokemon.com/_images/launch/b4b_br-2x.png",
+      "file": "b4b_br-2x.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2622311,
+      "sha256": "4c5f6b71a32024921c1ab27144235bf4d1b2ebefeb633b57942c3f4fe0a85103",
+      "locale": "pt-br",
+      "sourcePage": "https://tcgpocket.pokemon.com/pt-br/",
+      "kind": "hero",
+      "attribution": "The Pokémon Company official TCG Pocket website",
+      "signatureQueryRetained": false
+    }
+  ],
+  "availability": {
+    "hero1920x1080": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br"
+    ],
+    "pack745x1433": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "transparentLogo1000x440": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "card734x1024": {
+      "en": [
+        259,
+        307,
+        333,
+        406,
+        408,
+        411,
+        417,
+        418,
+        424
+      ],
+      "es": [
+        259,
+        307,
+        333,
+        406,
+        408,
+        411,
+        417,
+        418,
+        424
+      ]
+    },
+    "full429CardHDSet": {
+      "found": false,
+      "verifiedExistingPokeOSNative": [
+        367,
+        512
+      ]
+    },
+    "remainingNativeLogoPackLocales": [
+      "de",
+      "it",
+      "pt-br",
+      "zh-tw"
+    ]
+  },
+  "limitations": [
+    "Official card faces do not print collection numbers. HD identity is bound by complete 429-source face comparison, illustrator/mechanics and mirror-art distinctions.",
+    "No image has been enlarged or regenerated.",
+    "Temporary press preview signature query is not retained in this registry.",
+    "zh-tw is not a supported route on the international official TCG Pocket website checked.",
+    "No complete 429-card 734x1024 source has been verified.",
+    "Official press guidelines limit content use to non-commercial editorial/informational use; this registry does not assert an unrestricted redistribution license."
+  ]
+}

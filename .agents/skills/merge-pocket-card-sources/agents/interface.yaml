@@ -1,0 +1,20 @@
+interface:
+  display_name: "Merge Pocket Card Sources"
+  short_description: "跨来源合并并审计 Pocket 卡牌数据"
+  default_prompt: "Use $merge-pocket-card-sources to build a config-driven, auditable canonical dataset for one Pokémon TCG Pocket set."
+compatibility:
+  canonical_format: "agent-skills"
+  adapter_targets:
+    - "openai"
+  activation:
+    mode: "automatic"
+    paths: []
+  execution:
+    context: "inline"
+    shell: "bash"
+  trust:
+    source_tier: "local"
+    remote_inline_execution: "forbid"
+    remote_metadata_policy: "allow-metadata-only"
+  degradation:
+    openai: "metadata-adapter"

@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "apiChanges": [
+    {
+      "cardId": "B4-148",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/148.ts",
+      "field": "name.it",
+      "previous": "Ago Ingannevole",
+      "chosen": "Lancetta Infida",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B4-148",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/148.ts",
+      "field": "name.de",
+      "previous": "Täuschende Nadel",
+      "chosen": "Trügerische Nadel",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B4-019",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/019.ts",
+      "field": "name.de",
+      "previous": "Ogerpon (Türkisgrüne Maske)",
+      "chosen": "Türkisgrüne-Maske-Ogerpon",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B4-154",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/154.ts",
+      "field": "name.it",
+      "previous": "Riva Ristoratrice",
+      "chosen": "Litorale Confortante",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B4-154",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/154.ts",
+      "field": "name.de",
+      "previous": "Heilsames Ufer",
+      "chosen": "Heilende Küste",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B4-155",
+      "file": "data/Pokémon TCG Pocket/Ruler of the Skies/155.ts",
+      "field": "name.it",
+      "previous": "Grotta Arcobaleno",
+      "chosen": "Caverna Arcobaleno",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-017",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/017.ts",
+      "field": "name.it",
+      "previous": "Maschera verde acqua Ogerpon ex",
+      "chosen": "Ogerpon Maschera Turchese-ex",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-017",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/017.ts",
+      "field": "name.de",
+      "previous": "Blaugrüne Maske Ogerpon ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-180",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/180.ts",
+      "field": "name.it",
+      "previous": "Maschera verde acqua Ogerpon ex",
+      "chosen": "Ogerpon Maschera Turchese-ex",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-180",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/180.ts",
+      "field": "name.de",
+      "previous": "Blaugrüne Maske Ogerpon ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-027",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/027.ts",
+      "field": "name.it",
+      "previous": "Maschera di Focolare Ogerpon",
+      "chosen": "Ogerpon Maschera Focolare",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-027",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/027.ts",
+      "field": "name.de",
+      "previous": "Hearthflame-Maske Ogerpon",
+      "chosen": "Ofenmaske-Ogerpon",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-194",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/194.ts",
+      "field": "name.it",
+      "previous": "Maschera verde acqua Ogerpon ex",
+      "chosen": "Ogerpon Maschera Turchese-ex",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    },
+    {
+      "cardId": "B2-194",
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade/194.ts",
+      "field": "name.de",
+      "previous": "Blaugrüne Maske Ogerpon ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex",
+      "source": "B4b PokeOS localized name; German hyphen spacing normalized"
+    }
+  ],
+  "downstreamNames": [
+    {
+      "id": "B2-017",
+      "locale": "de",
+      "previous": "Blaugrüne Maske Ogerpon ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex"
+    },
+    {
+      "id": "B2-027",
+      "locale": "de",
+      "previous": "Hearthflame-Maske Ogerpon",
+      "chosen": "Ofenmaske-Ogerpon"
+    },
+    {
+      "id": "B2-180",
+      "locale": "de",
+      "previous": "Blaugrüne Maske Ogerpon ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex"
+    },
+    {
+      "id": "B2-194",
+      "locale": "de",
+      "previous": "Blaugrüne Maske Ogerpon ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex"
+    },
+    {
+      "id": "B4-019",
+      "locale": "de",
+      "previous": "Ogerpon (Türkisgrüne Maske)",
+      "chosen": "Türkisgrüne-Maske-Ogerpon"
+    },
+    {
+      "id": "B4-148",
+      "locale": "de",
+      "previous": "Täuschende Nadel",
+      "chosen": "Trügerische Nadel"
+    },
+    {
+      "id": "B4-154",
+      "locale": "de",
+      "previous": "Heilsames Ufer",
+      "chosen": "Heilende Küste"
+    },
+    {
+      "id": "B4b-027",
+      "locale": "de",
+      "previous": "Türkisgrüne-Maske- Ogerpon",
+      "chosen": "Türkisgrüne-Maske-Ogerpon"
+    },
+    {
+      "id": "B4b-028",
+      "locale": "de",
+      "previous": "Türkisgrüne-Maske- Ogerpon-ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex"
+    },
+    {
+      "id": "B4b-051",
+      "locale": "de",
+      "previous": "Ofenmaske- Ogerpon",
+      "chosen": "Ofenmaske-Ogerpon"
+    },
+    {
+      "id": "B4b-055",
+      "locale": "de",
+      "previous": "Alola- Vulpix",
+      "chosen": "Alola-Vulpix"
+    },
+    {
+      "id": "B4b-056",
+      "locale": "de",
+      "previous": "Alola- Vulnona-ex",
+      "chosen": "Alola-Vulnona-ex"
+    },
+    {
+      "id": "B4b-137",
+      "locale": "de",
+      "previous": "Alola- Sleima",
+      "chosen": "Alola-Sleima"
+    },
+    {
+      "id": "B4b-138",
+      "locale": "de",
+      "previous": "Alola- Sleimok",
+      "chosen": "Alola-Sleimok"
+    },
+    {
+      "id": "B4b-153",
+      "locale": "de",
+      "previous": "Galar- Mauzi",
+      "chosen": "Galar-Mauzi"
+    },
+    {
+      "id": "B4b-154",
+      "locale": "de",
+      "previous": "Galar- Mauzinger",
+      "chosen": "Galar-Mauzinger"
+    },
+    {
+      "id": "B4b-191",
+      "locale": "de",
+      "previous": "Hisui- Zorua",
+      "chosen": "Hisui-Zorua"
+    },
+    {
+      "id": "B4b-192",
+      "locale": "de",
+      "previous": "Hisui- Zoroark-ex",
+      "chosen": "Hisui-Zoroark-ex"
+    },
+    {
+      "id": "B4b-257",
+      "locale": "de",
+      "previous": "Türkisgrüne-Maske- Ogerpon",
+      "chosen": "Türkisgrüne-Maske-Ogerpon"
+    },
+    {
+      "id": "B4b-272",
+      "locale": "de",
+      "previous": "Ofenmaske- Ogerpon",
+      "chosen": "Ofenmaske-Ogerpon"
+    },
+    {
+      "id": "B4b-275",
+      "locale": "de",
+      "previous": "Alola- Vulpix",
+      "chosen": "Alola-Vulpix"
+    },
+    {
+      "id": "B4b-324",
+      "locale": "de",
+      "previous": "Alola- Sleima",
+      "chosen": "Alola-Sleima"
+    },
+    {
+      "id": "B4b-325",
+      "locale": "de",
+      "previous": "Alola- Sleimok",
+      "chosen": "Alola-Sleimok"
+    },
+    {
+      "id": "B4b-334",
+      "locale": "de",
+      "previous": "Galar- Mauzi",
+      "chosen": "Galar-Mauzi"
+    },
+    {
+      "id": "B4b-335",
+      "locale": "de",
+      "previous": "Galar- Mauzinger",
+      "chosen": "Galar-Mauzinger"
+    },
+    {
+      "id": "B4b-360",
+      "locale": "de",
+      "previous": "Hisui- Zorua",
+      "chosen": "Hisui-Zorua"
+    },
+    {
+      "id": "B2-017",
+      "locale": "it",
+      "previous": "Maschera verde acqua Ogerpon ex",
+      "chosen": "Ogerpon Maschera Turchese-ex"
+    },
+    {
+      "id": "B2-027",
+      "locale": "it",
+      "previous": "Maschera di Focolare Ogerpon",
+      "chosen": "Ogerpon Maschera Focolare"
+    },
+    {
+      "id": "B2-180",
+      "locale": "it",
+      "previous": "Maschera verde acqua Ogerpon ex",
+      "chosen": "Ogerpon Maschera Turchese-ex"
+    },
+    {
+      "id": "B2-194",
+      "locale": "it",
+      "previous": "Maschera verde acqua Ogerpon ex",
+      "chosen": "Ogerpon Maschera Turchese-ex"
+    },
+    {
+      "id": "B4-148",
+      "locale": "it",
+      "previous": "Ago Ingannevole",
+      "chosen": "Lancetta Infida"
+    },
+    {
+      "id": "B4-154",
+      "locale": "it",
+      "previous": "Riva Ristoratrice",
+      "chosen": "Litorale Confortante"
+    },
+    {
+      "id": "B4-155",
+      "locale": "it",
+      "previous": "Grotta Arcobaleno",
+      "chosen": "Caverna Arcobaleno"
+    }
+  ],
+  "deckNameComponentCorrections": [
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "locale": "de",
+      "previous": "Blaugrüne Maske Ogerpon ex",
+      "chosen": "Türkisgrüne-Maske-Ogerpon-ex"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "locale": "it",
+      "previous": "Maschera verde acqua Ogerpon ex",
+      "chosen": "Ogerpon Maschera Turchese-ex"
+    }
+  ]
+}

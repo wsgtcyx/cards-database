@@ -1,0 +1,1263 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "bucket": "game",
+  "origin": "https://game.pokemontcgpocket.app",
+  "objects": [
+    {
+      "key": "en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "kind": "artwork_front",
+      "locale": "en",
+      "sourceLocale": "en",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "bytes": 1059158,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_EN.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "67f594ce6d6ce66e5c4b43610d0cda15c48e5d6d71d48cca2ff4262b1909ec80",
+        "bytes": 1512490,
+        "width": 745,
+        "height": 1433
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+      "kind": "logo",
+      "locale": "en",
+      "sourceLocale": "en",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+      "bytes": 136236,
+      "sha256": "13c38f7eed66c7b627c3e173d80186b9af2af15c5c9660a28b061f81183e6a6b",
+      "width": 1000,
+      "height": 440,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Logo.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "c49c7c0d82d8c732465027b5a2ae45f9e8a2dffb8251a613c8c68af3885ca758",
+        "bytes": 203518,
+        "width": 1000,
+        "height": 440
+      },
+      "upscaled": false
+    },
+    {
+      "key": "fr/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-f3b9f68355ca.webp",
+      "kind": "artwork_front",
+      "locale": "fr",
+      "sourceLocale": "fr",
+      "url": "https://game.pokemontcgpocket.app/fr/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-f3b9f68355ca.webp",
+      "bytes": 1064156,
+      "sha256": "efdb5de4046ed76a223d1d20de269889fed3ab69375b558475035a14b78939c8",
+      "width": 745,
+      "height": 1433,
+      "source": {
+        "file": "pack-fr-original.png",
+        "sourcePage": "https://the-pokemon-company-international.prezly.com/nouveau-booster-special-du-jcc-pokemon-pocket-deluxe-pack-mega-lancement-le-30-septembre",
+        "sha256": "f3b9f68355ca04f68b03b971483fe161ae2e5b5bf73d2b541b3ffd07fffe01b0",
+        "bytes": 1519799,
+        "width": 745,
+        "height": 1433
+      },
+      "upscaled": false
+    },
+    {
+      "key": "fr/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-4ab7297da263.webp",
+      "kind": "logo",
+      "locale": "fr",
+      "sourceLocale": "fr",
+      "url": "https://game.pokemontcgpocket.app/fr/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-4ab7297da263.webp",
+      "bytes": 153222,
+      "sha256": "e3e0d0e9112031a62b9f515bd45eeb3d50055889fd328a93ac48e301d2a2c595",
+      "width": 1000,
+      "height": 440,
+      "source": {
+        "file": "logo-fr-original.png",
+        "sourcePage": "https://the-pokemon-company-international.prezly.com/nouveau-booster-special-du-jcc-pokemon-pocket-deluxe-pack-mega-lancement-le-30-septembre",
+        "sha256": "4ab7297da26372f4fc79fe8f3bad82d021e9a1356e8279ae93acdba3d6dcea4a",
+        "bytes": 227254,
+        "width": 1000,
+        "height": 440
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-e2ee236f87de.webp",
+      "kind": "artwork_front",
+      "locale": "es",
+      "sourceLocale": "es",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-e2ee236f87de.webp",
+      "bytes": 1063980,
+      "sha256": "56546971b47a6f6b71b923dce273599ebc985bdec275684d477cdc1a7ae996cc",
+      "width": 745,
+      "height": 1433,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "e2ee236f87ded252c66d07bc7a54f291b2cbf56fcc13d140929406a42357e740",
+        "bytes": 1516914,
+        "width": 745,
+        "height": 1433
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-db24fb4ae381.webp",
+      "kind": "logo",
+      "locale": "es",
+      "sourceLocale": "es",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-db24fb4ae381.webp",
+      "bytes": 139244,
+      "sha256": "19ac23e8498c0e464a39825f85483bf8eae1a880522d60a69aa4f2d1dc64a0fa",
+      "width": 1000,
+      "height": 440,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Logo_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "db24fb4ae3818b14acac3c1ca6b405da22fa6295148ddde42238567165b351cb",
+        "bytes": 210261,
+        "width": 1000,
+        "height": 440
+      },
+      "upscaled": false
+    },
+    {
+      "key": "it/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "kind": "artwork_front",
+      "locale": "it",
+      "sourceLocale": "en",
+      "url": "https://game.pokemontcgpocket.app/it/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "bytes": 1059158,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_EN.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "67f594ce6d6ce66e5c4b43610d0cda15c48e5d6d71d48cca2ff4262b1909ec80",
+        "bytes": 1512490,
+        "width": 745,
+        "height": 1433
+      },
+      "upscaled": false
+    },
+    {
+      "key": "de/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "kind": "artwork_front",
+      "locale": "de",
+      "sourceLocale": "en",
+      "url": "https://game.pokemontcgpocket.app/de/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "bytes": 1059158,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_EN.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "67f594ce6d6ce66e5c4b43610d0cda15c48e5d6d71d48cca2ff4262b1909ec80",
+        "bytes": 1512490,
+        "width": 745,
+        "height": 1433
+      },
+      "upscaled": false
+    },
+    {
+      "key": "pt-br/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "kind": "artwork_front",
+      "locale": "pt-br",
+      "sourceLocale": "en",
+      "url": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "bytes": 1059158,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_EN.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "67f594ce6d6ce66e5c4b43610d0cda15c48e5d6d71d48cca2ff4262b1909ec80",
+        "bytes": 1512490,
+        "width": 745,
+        "height": 1433
+      },
+      "upscaled": false
+    },
+    {
+      "key": "zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "kind": "artwork_front",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "url": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+      "bytes": 1059158,
+      "sha256": "a23c4664ce91a98dbee119ff24b2a40dd39d1db4bc3eca1b6cf5b113eb56c7a0",
+      "width": 745,
+      "height": 1433,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Booster_Pack_EN.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "67f594ce6d6ce66e5c4b43610d0cda15c48e5d6d71d48cca2ff4262b1909ec80",
+        "bytes": 1512490,
+        "width": 745,
+        "height": 1433
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/406/hd-dc313438bf75/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-406",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/406/hd-dc313438bf75/high.webp",
+      "bytes": 1243218,
+      "sha256": "3362fda57c94bcc59d2f7ccae5b518a3816d91b22146eae9df7da8b2b990b6d8",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "dc313438bf75391280229922bd8e8742b65a7905cca828aa7a9775ead6fc9d3d",
+        "bytes": 1824722,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/406/hd-dc313438bf75/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-406",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/406/hd-dc313438bf75/low.webp",
+      "bytes": 361184,
+      "sha256": "65a26a0fa014a3a5b864182df6e23c7fd456e211a8f17eddb9fe7df40cba91a3",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "dc313438bf75391280229922bd8e8742b65a7905cca828aa7a9775ead6fc9d3d",
+        "bytes": 1824722,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/333/hd-7bf700f1b957/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-333",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/333/hd-7bf700f1b957/high.webp",
+      "bytes": 790780,
+      "sha256": "b92f8d06e34922d6c31af8268183668067b21f1d0276a17beebaa3ededb5a744",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "7bf700f1b957326ebab9ccf4089cfa7ed62435c302a416ea49b1be61bf871654",
+        "bytes": 1271032,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/333/hd-7bf700f1b957/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-333",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/333/hd-7bf700f1b957/low.webp",
+      "bytes": 260222,
+      "sha256": "8a9a074b8f864cd806c0dcd713c6536bc0bb44e37a1bcb86bc12f92a387b9406",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "7bf700f1b957326ebab9ccf4089cfa7ed62435c302a416ea49b1be61bf871654",
+        "bytes": 1271032,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/411/hd-83e6644f3b1a/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-411",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/411/hd-83e6644f3b1a/high.webp",
+      "bytes": 799738,
+      "sha256": "8ffb48611a16c9ce6e4da46bafa6f5783ca593128a75a86554a232e660c443dd",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "83e6644f3b1afb0c807a7e4bb0fb496cb3e95a20f551caf399b3acf71de55c21",
+        "bytes": 1244431,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/411/hd-83e6644f3b1a/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-411",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/411/hd-83e6644f3b1a/low.webp",
+      "bytes": 291910,
+      "sha256": "e395b06b340b3db321b140b30a94321ba899d33f4cc7fef519558c0b56b6ed6a",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "83e6644f3b1afb0c807a7e4bb0fb496cb3e95a20f551caf399b3acf71de55c21",
+        "bytes": 1244431,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/408/hd-4672f06c1478/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-408",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/408/hd-4672f06c1478/high.webp",
+      "bytes": 857444,
+      "sha256": "0942e18aa3c36d30cb1a9d38234e9e982a2e07778a887907c1d5a904247731ce",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "4672f06c1478dfa638ee12969a0d41be6619e137e6b6af8729bb09be431b31fc",
+        "bytes": 1315530,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/408/hd-4672f06c1478/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-408",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/408/hd-4672f06c1478/low.webp",
+      "bytes": 304764,
+      "sha256": "559810d720be20fff67ad4fc130576cbd1a7cacf11398af5ee5fff4ebd75cf7f",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "4672f06c1478dfa638ee12969a0d41be6619e137e6b6af8729bb09be431b31fc",
+        "bytes": 1315530,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/418/hd-29691a0179e7/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-418",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/418/hd-29691a0179e7/high.webp",
+      "bytes": 809626,
+      "sha256": "08aeefaf0ead7f99273633f2f58f73f2b251f8ba70d4d739c30a1d2abe2eff20",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "29691a0179e764ab29f4542c32c811b726cf857d242b350b1e52dcb22de22f14",
+        "bytes": 1268571,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/418/hd-29691a0179e7/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-418",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/418/hd-29691a0179e7/low.webp",
+      "bytes": 296546,
+      "sha256": "ff5b0949b394082264e648787d8a57ef2315372ed7b21245f1a9e5617a9150f5",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "29691a0179e764ab29f4542c32c811b726cf857d242b350b1e52dcb22de22f14",
+        "bytes": 1268571,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/424/hd-c1e1bab61d61/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-424",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/424/hd-c1e1bab61d61/high.webp",
+      "bytes": 704044,
+      "sha256": "49a9c5c52e857d17eed3f20821e67cf4e94e82b38701d8e4330ef512631c0f43",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "c1e1bab61d61fddf138e1a0b94c6aa41b905625c4f4990ea8552bf685788864b",
+        "bytes": 1161289,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/424/hd-c1e1bab61d61/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-424",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/424/hd-c1e1bab61d61/low.webp",
+      "bytes": 265276,
+      "sha256": "b27954b96a3ef7b7660699667fdc6bb9a271ce7f7c7613a60f0b79dfccc2bdb9",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "c1e1bab61d61fddf138e1a0b94c6aa41b905625c4f4990ea8552bf685788864b",
+        "bytes": 1161289,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/307/hd-da0ca35444e6/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-307",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/307/hd-da0ca35444e6/high.webp",
+      "bytes": 558312,
+      "sha256": "c33fdcdb50fda9914de9592302fc62bfbf601ddaa2f704d1b906b2169b54cd08",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "da0ca35444e6994cf9ce4cee0d1427518a8f0f5c9bf233e473b5dfe72721fc76",
+        "bytes": 999213,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/307/hd-da0ca35444e6/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-307",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/307/hd-da0ca35444e6/low.webp",
+      "bytes": 182518,
+      "sha256": "f14ecc68c5c7a68c8a1e047415d911e0e2c9c1a85cc3cac605d93452fb81d560",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "da0ca35444e6994cf9ce4cee0d1427518a8f0f5c9bf233e473b5dfe72721fc76",
+        "bytes": 999213,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/417/hd-2eee6792066e/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-417",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/417/hd-2eee6792066e/high.webp",
+      "bytes": 688774,
+      "sha256": "54db14059d86a99550f7ca948e6be3e4613a0518c4cec36437db94faaaa374f3",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "2eee6792066e07fb011e786a4dadc67272d89acb5e1d208df6b2e19a50a9cf85",
+        "bytes": 1097861,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/417/hd-2eee6792066e/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-417",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/417/hd-2eee6792066e/low.webp",
+      "bytes": 256070,
+      "sha256": "71444db72ad3029ccf481416ff6f6535fb32160c69833f04047b36cc90d0a60f",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "2eee6792066e07fb011e786a4dadc67272d89acb5e1d208df6b2e19a50a9cf85",
+        "bytes": 1097861,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/259/hd-686cfa8640be/high.webp",
+      "kind": "high",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-259",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/259/hd-686cfa8640be/high.webp",
+      "bytes": 726862,
+      "sha256": "360c108b9cfe9e4a6d54ce7d6efc0ffe0e2f0cd3f981fd68b30f0b0e302fee42",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "686cfa8640bef30bc5c7e7f8e8f9a47710878e25a0a858d5137fce334f7ab244",
+        "bytes": 1173790,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "en/tcgp/B4b/259/hd-686cfa8640be/low.webp",
+      "kind": "low",
+      "locale": "en",
+      "sourceLocale": "en",
+      "cardId": "B4b-259",
+      "url": "https://game.pokemontcgpocket.app/en/tcgp/B4b/259/hd-686cfa8640be/low.webp",
+      "bytes": 236646,
+      "sha256": "2e58e4d7de8291bf425d705d065fbbcd4f7b48ccafb5abf187132a9ac240ea1a",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon.png",
+        "sourcePage": "https://press.pokemon.com/en/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "686cfa8640bef30bc5c7e7f8e8f9a47710878e25a0a858d5137fce334f7ab244",
+        "bytes": 1173790,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/333/hd-985e00f45217/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-333",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/333/hd-985e00f45217/high.webp",
+      "bytes": 787512,
+      "sha256": "4c1ad79ba4178a40dd35d9eff9d5ff76e4917c0dfefb5aa27d6bb9a05173c413",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "985e00f45217d747b43a91cd7296306d257c8feabfb15e16d1b792681309ad5b",
+        "bytes": 1269861,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/333/hd-985e00f45217/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-333",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/333/hd-985e00f45217/low.webp",
+      "bytes": 259796,
+      "sha256": "9b7ec27af3974215c4e1c8ca861ef735257d11655fc51204141c30fba0c213b0",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "985e00f45217d747b43a91cd7296306d257c8feabfb15e16d1b792681309ad5b",
+        "bytes": 1269861,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/408/hd-568b23cf5f04/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-408",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/408/hd-568b23cf5f04/high.webp",
+      "bytes": 876142,
+      "sha256": "e31cb7c57ae2234f4300cce79b4e4b5ac4b6889730b1aaa7420ba5d4be292f94",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "568b23cf5f044cd95b728c2de87626587a5e1f9e828aa130f070b9c64df92bb2",
+        "bytes": 1320642,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/408/hd-568b23cf5f04/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-408",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/408/hd-568b23cf5f04/low.webp",
+      "bytes": 309010,
+      "sha256": "51777eba0c0baebf5f5f12e8d2852f4ca8a5e86d05b6a4ed5c720a40876dfb5f",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "568b23cf5f044cd95b728c2de87626587a5e1f9e828aa130f070b9c64df92bb2",
+        "bytes": 1320642,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/259/hd-fa5a0b608949/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-259",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/259/hd-fa5a0b608949/high.webp",
+      "bytes": 726578,
+      "sha256": "674a58c2fb56b5c34c012aed60df202e246dd2d4e44b09b78d7f3f9049690f94",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "fa5a0b60894906bb642f3cfe58259d35b940b5f081a36cbc7002004dcdeda006",
+        "bytes": 1172541,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/259/hd-fa5a0b608949/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-259",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/259/hd-fa5a0b608949/low.webp",
+      "bytes": 237782,
+      "sha256": "d9ed139bed08ed66ffc21d8cb34172b9fd8d1f0c008a4d7b33e3a11d2f3befd8",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "fa5a0b60894906bb642f3cfe58259d35b940b5f081a36cbc7002004dcdeda006",
+        "bytes": 1172541,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/307/hd-4332cc06e98f/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-307",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/307/hd-4332cc06e98f/high.webp",
+      "bytes": 559848,
+      "sha256": "d891cd573478881a5e3a328e511532f107adfdd2785006d3cb3f7f4dcf09a1e0",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "4332cc06e98f2dd3c59a2374e995c4198da83ebcc8686cea1ac6aedf2ebd3cb4",
+        "bytes": 999931,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/307/hd-4332cc06e98f/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-307",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/307/hd-4332cc06e98f/low.webp",
+      "bytes": 182944,
+      "sha256": "475b955c7d90ec63242f798e3c19b4212649762014d68f709fba7ea67423c524",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "4332cc06e98f2dd3c59a2374e995c4198da83ebcc8686cea1ac6aedf2ebd3cb4",
+        "bytes": 999931,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/418/hd-7a65aee88709/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-418",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/418/hd-7a65aee88709/high.webp",
+      "bytes": 814996,
+      "sha256": "c55ac1e8507564a1fe8d5525c516e309c754df4175e2716af85e50fe6163c67e",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "7a65aee8870908be17c5bd3ce9e758e65b37fccc1d3df0e65b25475ff69faa51",
+        "bytes": 1272966,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/418/hd-7a65aee88709/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-418",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/418/hd-7a65aee88709/low.webp",
+      "bytes": 299214,
+      "sha256": "e522749be97fa281700e1b7079f3d3966581649507db48e5e2700190398f5c15",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "7a65aee8870908be17c5bd3ce9e758e65b37fccc1d3df0e65b25475ff69faa51",
+        "bytes": 1272966,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/424/hd-580b2cdd4d7b/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-424",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/424/hd-580b2cdd4d7b/high.webp",
+      "bytes": 709020,
+      "sha256": "69ca7a86ff0de85907335bfe2fcd9740d8dc6121bd360b40451254cf52fc0399",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "580b2cdd4d7b4d1d8e46d9267e171bd051cc7faa7ca6c56aea7410ea9953ef1e",
+        "bytes": 1168259,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/424/hd-580b2cdd4d7b/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-424",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/424/hd-580b2cdd4d7b/low.webp",
+      "bytes": 266916,
+      "sha256": "fc963eeedbedfa208fe9047ea31ef7fe7070feab655331fe301ded8e39f6df47",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "580b2cdd4d7b4d1d8e46d9267e171bd051cc7faa7ca6c56aea7410ea9953ef1e",
+        "bytes": 1168259,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/417/hd-95d6afa05d03/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-417",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/417/hd-95d6afa05d03/high.webp",
+      "bytes": 691248,
+      "sha256": "2d71cebd6be657612be292877c11932a4855eed031612530193358ff6a7c7d7a",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "95d6afa05d0339d32ddce072ddcfca22a58516b6332cbe8338776fc9b9f3e0e5",
+        "bytes": 1099542,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/417/hd-95d6afa05d03/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-417",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/417/hd-95d6afa05d03/low.webp",
+      "bytes": 256744,
+      "sha256": "50c2a31041884730e9b7f2900393a543604c7e45cafe1effa64d9369c0064c00",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "95d6afa05d0339d32ddce072ddcfca22a58516b6332cbe8338776fc9b9f3e0e5",
+        "bytes": 1099542,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/411/hd-e8454f4689cc/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-411",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/411/hd-e8454f4689cc/high.webp",
+      "bytes": 805614,
+      "sha256": "8dfb6b556f70b24990bb3e424808a1f9abc84d20cbdf7be2f518601dc0404895",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "e8454f4689cc847cbe65ec6c05ff454d6f78fa90155825f65d0fde42d93f43c8",
+        "bytes": 1251549,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/411/hd-e8454f4689cc/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-411",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/411/hd-e8454f4689cc/low.webp",
+      "bytes": 293844,
+      "sha256": "7ecd3eee0e4717991956c3759c4036142c6f5826ebdeda5c1bfb1e5032b6d956",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "e8454f4689cc847cbe65ec6c05ff454d6f78fa90155825f65d0fde42d93f43c8",
+        "bytes": 1251549,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/406/hd-4cdb5f4ee4bd/high.webp",
+      "kind": "high",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-406",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/406/hd-4cdb5f4ee4bd/high.webp",
+      "bytes": 1248332,
+      "sha256": "ea213d5eef0857b361f2c6a70365ace699068b69aaf1490f0f24a4e3159acc29",
+      "width": 734,
+      "height": 1024,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "4cdb5f4ee4bd56e12ad52a000de5c46479ea0c074d3e945c8e5713de61dfa7fe",
+        "bytes": 1830161,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    },
+    {
+      "key": "es/tcgp/B4b/406/hd-4cdb5f4ee4bd/low.webp",
+      "kind": "low",
+      "locale": "es",
+      "sourceLocale": "es",
+      "cardId": "B4b-406",
+      "url": "https://game.pokemontcgpocket.app/es/tcgp/B4b/406/hd-4cdb5f4ee4bd/low.webp",
+      "bytes": 362850,
+      "sha256": "43f71c86df385c38624c229bd2973d8a162f8ce2dcf4fe9f115f10790e14b5d4",
+      "width": 367,
+      "height": 512,
+      "source": {
+        "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough_ES.png",
+        "sourcePage": "https://press.pokemon.com/es-MX/Pokemon-Trading-Card-Game-Pocket",
+        "sha256": "4cdb5f4ee4bd56e12ad52a000de5c46479ea0c074d3e945c8e5713de61dfa7fe",
+        "bytes": 1830161,
+        "width": 734,
+        "height": 1024
+      },
+      "upscaled": false
+    }
+  ],
+  "imageBaseOverrides": {
+    "B4b-406": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/406/hd-dc313438bf75",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/406/hd-4cdb5f4ee4bd"
+    },
+    "B4b-333": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/333/hd-7bf700f1b957",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/333/hd-985e00f45217"
+    },
+    "B4b-411": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/411/hd-83e6644f3b1a",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/411/hd-e8454f4689cc"
+    },
+    "B4b-408": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/408/hd-4672f06c1478",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/408/hd-568b23cf5f04"
+    },
+    "B4b-418": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/418/hd-29691a0179e7",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/418/hd-7a65aee88709"
+    },
+    "B4b-424": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/424/hd-c1e1bab61d61",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/424/hd-580b2cdd4d7b"
+    },
+    "B4b-307": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/307/hd-da0ca35444e6",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/307/hd-4332cc06e98f"
+    },
+    "B4b-417": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/417/hd-2eee6792066e",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/417/hd-95d6afa05d03"
+    },
+    "B4b-259": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/259/hd-686cfa8640be",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/259/hd-fa5a0b608949"
+    }
+  },
+  "boosterArtwork": {
+    "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+    "fr": "https://game.pokemontcgpocket.app/fr/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-f3b9f68355ca.webp",
+    "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-e2ee236f87de.webp",
+    "it": "https://game.pokemontcgpocket.app/it/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+    "de": "https://game.pokemontcgpocket.app/de/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+    "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+    "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp"
+  },
+  "boosterLogos": {
+    "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+    "fr": "https://game.pokemontcgpocket.app/fr/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-4ab7297da263.webp",
+    "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-db24fb4ae381.webp"
+  },
+  "cardIdentity": [
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough.png",
+      "cardId": "B4b-406",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.4828665256500244,
+      "runnerUp": {
+        "cardId": "B4b-009",
+        "error": 55.146366119384766
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon.png",
+      "cardId": "B4b-333",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.3293488025665283,
+      "runnerUp": {
+        "cardId": "B4b-152",
+        "error": 21.914859771728516
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex.png",
+      "cardId": "B4b-411",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.301208257675171,
+      "runnerUp": {
+        "cardId": "B4b-410",
+        "error": 68.83715057373047
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee.png",
+      "cardId": "B4b-408",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.107069730758667,
+      "runnerUp": {
+        "cardId": "B4b-183",
+        "error": 55.80644607543945
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex.png",
+      "cardId": "B4b-418",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.350886583328247,
+      "runnerUp": {
+        "cardId": "B4b-410",
+        "error": 69.9924545288086
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat.png",
+      "cardId": "B4b-424",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 2.4288907051086426,
+      "runnerUp": {
+        "cardId": "B4b-423",
+        "error": 54.39583206176758
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling.png",
+      "cardId": "B4b-307",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 1.1274689435958862,
+      "runnerUp": {
+        "cardId": "B4b-308",
+        "error": 24.353803634643555
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex.png",
+      "cardId": "B4b-417",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 2.9927496910095215,
+      "runnerUp": {
+        "cardId": "B4b-416",
+        "error": 63.7934684753418
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon.png",
+      "cardId": "B4b-259",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 1.6161344051361084,
+      "runnerUp": {
+        "cardId": "B4b-030",
+        "error": 8.380250930786133
+      },
+      "method": "Compare official native HD card face against all 429 pinned PokeOS English source faces; RGB mean absolute error after same diagnostic 183x256 resize, no generated image output.",
+      "locale": "en"
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Roaring_Moon_ES.png",
+      "cardId": "B4b-333",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.237605333328247,
+      "runnerUp": {
+        "cardId": "B4b-152",
+        "error": 22.051164627075195
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Eevee_ES.png",
+      "cardId": "B4b-408",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.266813278198242,
+      "runnerUp": {
+        "cardId": "B4b-183",
+        "error": 55.32542037963867
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Charmeleon_ES.png",
+      "cardId": "B4b-259",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 1.631332516670227,
+      "runnerUp": {
+        "cardId": "B4b-030",
+        "error": 8.387779235839844
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Chingling_ES.png",
+      "cardId": "B4b-307",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 1.1370317935943604,
+      "runnerUp": {
+        "cardId": "B4b-315",
+        "error": 24.74580955505371
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Lucario_ex_ES.png",
+      "cardId": "B4b-418",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.4376778602600098,
+      "runnerUp": {
+        "cardId": "B4b-410",
+        "error": 70.4386978149414
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Copycat_ES.png",
+      "cardId": "B4b-424",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 2.503208875656128,
+      "runnerUp": {
+        "cardId": "B4b-423",
+        "error": 54.264801025390625
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Altaria_ex_ES.png",
+      "cardId": "B4b-417",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.077861785888672,
+      "runnerUp": {
+        "cardId": "B4b-416",
+        "error": 63.72653579711914
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Mega_Charizard_X_ex_ES.png",
+      "cardId": "B4b-411",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.3740038871765137,
+      "runnerUp": {
+        "cardId": "B4b-412",
+        "error": 68.78386688232422
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    },
+    {
+      "locale": "es",
+      "file": "Pokemon_TCG_Pocket_Deluxe_Pack_Mega_Fidough_ES.png",
+      "cardId": "B4b-406",
+      "sourceWidth": 734,
+      "sourceHeight": 1024,
+      "meanAbsolutePixelErrorAt183x256": 3.5318191051483154,
+      "runnerUp": {
+        "cardId": "B4b-249",
+        "error": 55.18971252441406
+      },
+      "method": "Full 429 candidate source-face comparison as in English identity audit."
+    }
+  ],
+  "qualityLimitations": {
+    "completeCardFaces": "3003 native game faces at 367x512; only eighteen official press faces have native 734x1024 available",
+    "logo": "de/it/pt-br/zh-tw retain native localized 256x113; no verified higher native transparent source",
+    "boosterArtworkFallback": {
+      "it": "en",
+      "de": "en",
+      "pt-br": "en",
+      "zh-tw": "en"
+    },
+    "noUpscaling": true
+  }
+}

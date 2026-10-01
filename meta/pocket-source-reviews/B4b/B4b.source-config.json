@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "total": 429,
+  "officialCount": 402,
+  "releaseDate": "2026-09-30",
+  "setFile": "Deluxe Pack: Mega",
+  "setNames": {
+    "en": "Deluxe Pack: Mega",
+    "fr": "Booster de Luxe Méga",
+    "es": "Sobre Deluxe Mega",
+    "it": "Busta Deluxe Mega",
+    "de": "Deluxepack: Mega",
+    "pt-br": "Pacote Deluxe Mega",
+    "zh-tw": "高級擴充包MEGA",
+    "ja": "ハイクラスパック MEGA",
+    "ko": "하이클래스팩 MEGA"
+  },
+  "slug": "deluxe-pack-mega",
+  "boosterId": "boo_B4b-deluxe-pack-mega",
+  "skuId": "B4b_1",
+  "nameLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "ruleLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw"
+  ],
+  "dictionaryLocales": {
+    "en": "en",
+    "fr": "fr",
+    "es": "es",
+    "pt-br": "pt",
+    "zh-tw": "zh",
+    "ja": "ja",
+    "ko": "ko"
+  },
+  "reviewedTokenExceptions": {},
+  "sourceId": 594,
+  "effectOverrides": {
+    "Mesagoza": {
+      "de": "Einmal während seines Zuges darf jeder Spieler eine Münze werfen. Bei „Kopf“ nimmt der Spieler ein zufälliges Pokémon aus seinem Deck auf die Hand.",
+      "it": "Una volta durante il turno di ogni giocatore, quel giocatore può lanciare una moneta. Se esce testa, quel giocatore prende in mano un Pokémon casuale dal suo mazzo."
+    }
+  },
+  "reviewedArtistConflicts": {
+    "TR_20_001250_01": {
+      "pokeos": "Susumu Maeya",
+      "chosen": "Yuu Nishida",
+      "evidence": "B4b-421 localized source card face Illus. Yuu Nishida; RaenonX game illustrator 23"
+    },
+    "TR_20_001450_01": {
+      "pokeos": "Nobusawa/Mochipuyo",
+      "chosen": "Cona Nitanda",
+      "evidence": "B4b-422 localized source card face; RaenonX game illustrator 116"
+    },
+    "TR_20_000990_01": {
+      "pokeos": "Yuu Nishida",
+      "chosen": "saino misaki",
+      "evidence": "B4b-424 localized source card face; RaenonX game illustrator"
+    }
+  },
+  "ruleTokenReplacements": {
+    "it": {
+      "Fire": "{R}",
+      "Water": "{W}",
+      "Lightning": "{L}",
+      "Metal": "{M}"
+    },
+    "de": {
+      "Feuer": "{R}",
+      "Wasser": "{W}",
+      "Lightning": "{L}",
+      "Metal": "{M}",
+      "Blitzenergie": "{L}-Energie"
+    }
+  },
+  "reviewedTextCorrections": {
+    "it": {
+      "Questo attacco infligge 20 danni in più per ogni Energia assegnata a questo Pokémon.": "Questo attacco infligge 20 danni in più per ogni Energia {L} assegnata a questo Pokémon."
+    }
+  },
+  "reviewedEnglishRuleCorrections": {
+    "Discard {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned.": "Discard a {R} Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
+  },
+  "sourceFiles": {
+    "index": "sources/flibustier.b4b.json",
+    "master": "sources/raenonx.master.json",
+    "deckgym": "sources/deckgym.json",
+    "pokeos": "sources/pokeos.cards.json",
+    "dictionaries": "sources/raenonx.{locale}.dictionary.json",
+    "sourceFileHashes": "sources/source-file-hashes.json"
+  },
+  "r2Origin": "https://game.pokemontcgpocket.app",
+  "normalizationPolicy": {
+    "germanNames": "Remove only whitespace following hyphens; match localized card-face spelling.",
+    "englishRules": "NFKC and whitespace, known punctuation, interchangeable printed type names and symbols. Numeric values and damage suffixes remain exact.",
+    "nativeFlavor": "Exact English text + same species/version only; never fuzzy match."
+  },
+  "pokeosNameFields": {
+    "de": 6,
+    "it": 8
+  },
+  "imageEvidence": {
+    "sourceSetId": 594,
+    "sourceCardUrlTemplate": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/{sourceSetId}/src/{number}_{sourceLocale}.png",
+    "locales": {
+      "en": {
+        "dir": "cards/en-US/B4b",
+        "sourceLocale": "en"
+      },
+      "fr": {
+        "dir": "cards/fr-FR/B4b",
+        "sourceLocale": "fr"
+      },
+      "es": {
+        "dir": "cards/es-ES/B4b",
+        "sourceLocale": "es"
+      },
+      "it": {
+        "dir": "cards/it-IT/B4b",
+        "sourceLocale": "it"
+      },
+      "de": {
+        "dir": "cards/de-DE/B4b",
+        "sourceLocale": "de"
+      },
+      "pt-br": {
+        "dir": "cards/pt-BR/B4b",
+        "sourceLocale": "ptbr"
+      },
+      "zh-tw": {
+        "dir": "cards/zh-TW/B4b",
+        "sourceLocale": "zh"
+      }
+    },
+    "ocrLocales": [],
+    "sources": {
+      "cards": "PokeOS set 594 seven localized card faces; names/mechanics cross-validated by fixed entity ID and number.",
+      "boosterArtwork": "Final selection: official Pokémon press native pack assets; English artwork explicitly reused for it/de/pt-br/zh-tw, see B4b.hd.manifest.json.",
+      "localizedLogos": "PokeOS set 594",
+      "ocrStatus": "PaddleOCR returned HTTP 503 twice. Local Swift Vision OCR was used only to propose readings; native field review records bind manually checked card faces and hashes.",
+      "selectedHD": "Official Pokémon press images and website srcset; B4b.hd.sources.json and B4b.hd.manifest.json bind identity/dimensions/hash; remaining sources stay native game size."
+    },
+    "boosters": [
+      {
+        "slug": "deluxe-pack-mega",
+        "logoRoot": "assets/logos",
+        "logoFilePattern": "{sourceLocale}.webp",
+        "artworkFile": "assets/pack.webp",
+        "logoEvidenceUrl": "https://www.pokeos.com/api/tcg/setInfo?id=594",
+        "artworkEvidenceUrl": "https://github.com/flibustier/pokemon-tcg-pocket-database/blob/0e1d5effb344658aae4d37c38a31e61ba49c4e74/dist/images/packs/Deluxe.webp",
+        "artworkLanguageNeutral": false,
+        "assetUrls": {
+          "logo": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-c49c7c0d82d8.webp",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-4ab7297da263.webp",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/boosters/deluxe-pack-mega/logo-hd-db24fb4ae381.webp"
+          },
+          "artwork_front": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-f3b9f68355ca.webp",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-e2ee236f87de.webp",
+            "it": "https://game.pokemontcgpocket.app/it/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+            "de": "https://game.pokemontcgpocket.app/de/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+            "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp",
+            "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4b/boosters/deluxe-pack-mega/artwork_front-hd-67f594ce6d6c.webp"
+          }
+        }
+      }
+    ],
+    "hdManifest": "B4b.hd.manifest.json"
+  },
+  "fallbackRuleLocales": [
+    "ja",
+    "ko"
+  ],
+  "sourceHashes": {
+    "existing-cards.json": "80caacd21c963763687173dbd68a345823e85f0d11dd5ad99fb394d85e11edad",
+    "reuse-review.json": "ef297a542689fdc501cfa7870c8912da31343c786962d5f28ab154f904dc53c4",
+    "sources/flibustier.b4b.json": "06de8b1a25be8392142b9db1881cdfabc07904ba59812bc7ba66b07e23a20483",
+    "sources/raenonx.master.json": "cfa0914d2cc6759ba446ef00b4687a92afec2188aeb6ff96dde2807350c2c2a8",
+    "sources/deckgym.json": "99ece668f446854175210ca12a7c16c2d3a15f2822b56719eaa2cc87c67b6b52",
+    "sources/pokeos.cards.json": "b51147e6e5f2341ae61a5398d889663f0661b7c481d526a09bd80a7adf78c88b",
+    "sources/raenonx.en.dictionary.json": "e04fd5b8580b9368c9a557948a4ffa9711b3c4e27d80f9e437532b98dad969ea",
+    "sources/raenonx.fr.dictionary.json": "0e1e83616c382c4d725732c6e3533ae8cf9f57e43b6c164e9b0a8f769603da1f",
+    "sources/raenonx.es.dictionary.json": "cfecee6744e9e979d5d4a7b3d000f0bba381aacea3d818986dcc34642ee3c22e",
+    "sources/raenonx.pt.dictionary.json": "d368b53cd8fa1dd7d06fd54f8a04737522e74a30f13decae3b839af99600ce84",
+    "sources/raenonx.zh.dictionary.json": "929841f8e0c482501e276480d5772956dbc6f7f56d81f24049510f972b212faf",
+    "sources/raenonx.ja.dictionary.json": "2298a8eed031a4caa586398ca844bdebf624c5357c333b221a4a85e600183414",
+    "sources/raenonx.ko.dictionary.json": "80bb4c8eedac533a248bd2a0cba947ced0d5fc63142171c628d490c706d75b22",
+    "sources/source-file-hashes.json": "bbfbc4d032c7fdc2fe382ec8d808703990852ac3f940bc5081343070e9bcb303"
+  },
+  "flavorReviewSha256": "8a3c81717fd2a97427abd523c81d7b41cf75316864c7e1abc358687b144ca4c7",
+  "imageBaseOverrides": {
+    "B4b-406": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/406/hd-dc313438bf75",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/406/hd-4cdb5f4ee4bd"
+    },
+    "B4b-333": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/333/hd-7bf700f1b957",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/333/hd-985e00f45217"
+    },
+    "B4b-411": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/411/hd-83e6644f3b1a",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/411/hd-e8454f4689cc"
+    },
+    "B4b-408": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/408/hd-4672f06c1478",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/408/hd-568b23cf5f04"
+    },
+    "B4b-418": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/418/hd-29691a0179e7",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/418/hd-7a65aee88709"
+    },
+    "B4b-424": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/424/hd-c1e1bab61d61",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/424/hd-580b2cdd4d7b"
+    },
+    "B4b-307": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/307/hd-da0ca35444e6",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/307/hd-4332cc06e98f"
+    },
+    "B4b-417": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/417/hd-2eee6792066e",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/417/hd-95d6afa05d03"
+    },
+    "B4b-259": {
+      "en": "https://game.pokemontcgpocket.app/en/tcgp/B4b/259/hd-686cfa8640be",
+      "es": "https://game.pokemontcgpocket.app/es/tcgp/B4b/259/hd-fa5a0b608949"
+    }
+  },
+  "nativeReviewSha256": "d03c2fbb34bb34fcb0ad8dc309b7dd900c2b97fcf5d9fcd6fbd0d1fa86f1251e"
+}

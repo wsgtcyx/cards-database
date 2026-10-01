@@ -15,7 +15,7 @@ const card: Card = {
         en: "Rainbow Cave",
         fr: "Grotte Arc-en-Ciel",
         es: "Cueva Arcoíris",
-        it: "Grotta Arcobaleno",
+        it: "Caverna Arcobaleno",
         de: "Regenbogenhöhle",
         "pt-br": "Caverna Arco-íris",
         "zh-tw": "虹色洞窟",

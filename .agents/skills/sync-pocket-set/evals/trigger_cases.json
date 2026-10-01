@@ -1,0 +1,17 @@
+{
+  "recommended_threshold": 0.33,
+  "should_trigger": [
+    "添加新的 B5 Pocket set，补齐所有卡牌、七语图片、R2、API 和 tcgp 下游配置。",
+    "修复这个尚未完成的 Pocket 卡集发布，补全 metadata、booster、R2 receipts 并验证 API。",
+    "只给你 set ID，请完成从上游发现到 cards-database 和 tcgp 验收的全链路同步。"
+  ],
+  "should_not_trigger": [
+    "这一个已存在的 set 只有德语和意大利语规则翻译缺失，请补齐并审计。",
+    "两个上游对新卡的伤害和 illustrator 有冲突，请先生成 canonical 冲突报告。",
+    "解释一下 Pocket API 的分页参数，不要修改代码。"
+  ],
+  "near_neighbor": [
+    "检查新 set 的来源是否一致，但暂时不要上传 R2 或写入仓库。",
+    "给现有 set 修正七语卡名，不改 set、pack 或下游。"
+  ]
+}

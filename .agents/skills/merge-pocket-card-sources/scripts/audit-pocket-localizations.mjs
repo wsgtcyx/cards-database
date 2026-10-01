@@ -30,7 +30,7 @@ function tokens(value) {
 function checkText(cardId, locale, field, value) {
 	if (typeof value !== 'string' || !value.trim()) return
 	if (/(?:^|\s)(?:TODO|TBD)(?=\s|$)|\[C:[^\]]+\]/u.test(value) || /ILLUSTRATOR[_\s-]*\d+/iu.test(value) || /[\uFFFDÃÂ√]/u.test(value)) findings.push({ cardId, locale, field, kind: 'placeholder-or-mojibake', value })
-	if (/\p{Script=Latin}\d/u.test(value.replace(/Pokémon/gu, ''))) findings.push({ cardId, locale, field, kind: 'letter-number-join', value })
+	if (/\p{Script=Latin}\d/u.test(value.replace(/Pokémon/gu, '').replace(/\bx\d+\b/gu, ''))) findings.push({ cardId, locale, field, kind: 'letter-number-join', value })
 	const pairs = [['[', ']'], ['(', ')'], ['{', '}']]
 	for (const [open, close] of pairs) if ((value.split(open).length - 1) !== (value.split(close).length - 1)) findings.push({ cardId, locale, field, kind: 'unbalanced-delimiter', value })
 }

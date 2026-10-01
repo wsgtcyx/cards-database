@@ -1,0 +1,578 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "conflicts": [
+    {
+      "id": "B4b-008",
+      "previousCardId": "B1-002",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Critical Scissors",
+              "cost": [
+                "Colorless",
+                "Grass",
+                "Grass"
+              ],
+              "damage": "80+",
+              "effect": "Flip a coin. If heads, this attack does 70 more damage."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Critical Scissors",
+              "cost": [
+                "Colorless",
+                "Grass",
+                "Grass"
+              ],
+              "damage": "80",
+              "effect": "Flip a coin. If heads, this attack does 70 more damage."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-028",
+      "previousCardId": "B2-017",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Energized Leaves",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": "60+",
+              "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Energized Leaves",
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "damage": "60",
+              "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-082",
+      "previousCardId": "B4-049",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Growl",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": null,
+              "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Growl",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": null,
+              "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-121",
+      "previousCardId": "B2a-054",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Continuous Coin Toss",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Continuous Coin Toss",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20×",
+              "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-135",
+      "previousCardId": "B2-092",
+      "candidates": {
+        "abilities": {
+          "expected": [
+            {
+              "name": "Coordinated Unit",
+              "effect": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes -20 damage from attacks from your opponent's Pokémon."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Coordinated Unit",
+              "effect": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-163",
+      "previousCardId": "B2-120",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Superb Shield",
+              "cost": [
+                "Metal",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "80",
+              "effect": "During your opponent's next turn, this Pokémon takes -80 damage from attacks from your opponent's Pokémon ex."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Superb Shield",
+              "cost": [
+                "Metal",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "80",
+              "effect": "During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's Pokémon ex."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-166",
+      "previousCardId": "B1-174",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Headbutt",
+              "cost": [
+                "Colorless",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "80",
+              "effect": ""
+            },
+            {
+              "name": "Metal Arms",
+              "cost": [
+                "Colorless",
+                "Metal",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "100+",
+              "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Headbutt",
+              "cost": [
+                "Colorless",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "80",
+              "effect": ""
+            },
+            {
+              "name": "Metal Arms",
+              "cost": [
+                "Colorless",
+                "Metal",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "100",
+              "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-170",
+      "previousCardId": "B4-117",
+      "candidates": {
+        "abilities": {
+          "expected": [
+            {
+              "name": "Dragon's Blessing",
+              "effect": "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active [N] Pokémon."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Dragon's Blessing",
+              "effect": "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-181",
+      "previousCardId": "B2-127",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Double-Punching Family",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "80",
+              "effect": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+            }
+          ],
+          "actual": [
+            {
+              "name": "Double-Punching Family",
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "damage": "80",
+              "effect": "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-184",
+      "previousCardId": "B1-193",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Play Rough",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "10+",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Play Rough",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "10",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-192",
+      "previousCardId": "B3b-060",
+      "candidates": {
+        "evolveFrom": {
+          "expected": "Hisuian Zorua",
+          "actual": "Zorua"
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-210",
+      "previousCardId": "B2-148",
+      "candidates": {
+        "effect": {
+          "expected": "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.The {M} Pokémon this card is attached to takes -50 damage from attacks from your opponent's Pokémon.",
+          "actual": "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn. The {M} Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon."
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-231",
+      "previousCardId": "B2a-093",
+      "candidates": {
+        "effect": {
+          "expected": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand.",
+          "actual": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand. You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-291",
+      "previousCardId": "B4-049",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Growl",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": null,
+              "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Growl",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": null,
+              "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-315",
+      "previousCardId": "B2a-054",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Continuous Coin Toss",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20x",
+              "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Continuous Coin Toss",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "20×",
+              "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-323",
+      "previousCardId": "B2-092",
+      "candidates": {
+        "abilities": {
+          "expected": [
+            {
+              "name": "Coordinated Unit",
+              "effect": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes -20 damage from attacks from your opponent's Pokémon."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Coordinated Unit",
+              "effect": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-340",
+      "previousCardId": "B2-120",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Superb Shield",
+              "cost": [
+                "Metal",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "80",
+              "effect": "During your opponent's next turn, this Pokémon takes -80 damage from attacks from your opponent's Pokémon ex."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Superb Shield",
+              "cost": [
+                "Metal",
+                "Metal",
+                "Metal"
+              ],
+              "damage": "80",
+              "effect": "During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's Pokémon ex."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-344",
+      "previousCardId": "B4-117",
+      "candidates": {
+        "abilities": {
+          "expected": [
+            {
+              "name": "Dragon's Blessing",
+              "effect": "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active [N] Pokémon."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Dragon's Blessing",
+              "effect": "Once during your turn, if this Pokémon is on your Bench, you may attach an Energy from your discard pile to your Active Dragon Pokémon."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-354",
+      "previousCardId": "B1-193",
+      "candidates": {
+        "attacks": {
+          "expected": [
+            {
+              "name": "Play Rough",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "10+",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ],
+          "actual": [
+            {
+              "name": "Play Rough",
+              "cost": [
+                "Colorless"
+              ],
+              "damage": "10",
+              "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+          ]
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-376",
+      "previousCardId": "B2-148",
+      "candidates": {
+        "effect": {
+          "expected": "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.The {M} Pokémon this card is attached to takes -50 damage from attacks from your opponent's Pokémon.",
+          "actual": "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn. The {M} Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon."
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-397",
+      "previousCardId": "B2a-093",
+      "candidates": {
+        "effect": {
+          "expected": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand.",
+          "actual": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand. You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+        }
+      },
+      "decision": "Use exact game damage marking / evolution name; preserve mechanic-equivalent typography; Trainer effect uses game template without generic Stadium boilerplate."
+    },
+    {
+      "id": "B4b-421",
+      "kind": "illustrator",
+      "candidates": {
+        "pokeos": "Susumu Maeya",
+        "game": "Yuu Nishida"
+      },
+      "decision": {
+        "pokeos": "Susumu Maeya",
+        "chosen": "Yuu Nishida",
+        "evidence": "B4b-421 localized source card face Illus. Yuu Nishida; RaenonX game illustrator 23"
+      }
+    },
+    {
+      "id": "B4b-422",
+      "kind": "illustrator",
+      "candidates": {
+        "pokeos": "Nobusawa/Mochipuyo",
+        "game": "Cona Nitanda"
+      },
+      "decision": {
+        "pokeos": "Nobusawa/Mochipuyo",
+        "chosen": "Cona Nitanda",
+        "evidence": "B4b-422 localized source card face; RaenonX game illustrator 116"
+      }
+    },
+    {
+      "id": "B4b-424",
+      "kind": "illustrator",
+      "candidates": {
+        "pokeos": "Yuu Nishida",
+        "game": "saino misaki"
+      },
+      "decision": {
+        "pokeos": "Yuu Nishida",
+        "chosen": "saino misaki",
+        "evidence": "B4b-424 localized source card face; RaenonX game illustrator"
+      }
+    }
+  ],
+  "unresolved": [],
+  "passed": true
+}

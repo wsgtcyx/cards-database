@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "setId": "B4b",
+  "createdAt": "2026-10-01T10:13:08Z",
+  "apiBaseHead": "0ef9d6ada8bfd26dad4020c27d1d247ee9acc3cd",
+  "inputs": {
+    "flibustier.b4b.json": "06de8b1a25be8392142b9db1881cdfabc07904ba59812bc7ba66b07e23a20483",
+    "flibustier.sets.json": "1dc3f0b190553c9848fd3c4bd3b36517ffd40f27d9708bb7640625d0e70873b2",
+    "raenonx.fr.dictionary.json": "0e1e83616c382c4d725732c6e3533ae8cf9f57e43b6c164e9b0a8f769603da1f",
+    "species.csv": "820cde17074cdb1c2b0595c997fb8f998e773bd5da3bb525dec85703c86c5fd9",
+    "flavors.csv": "c341e602ab623084fef4c44ca4a174938e617802cfcf2deec830d824f688dc69",
+    "flibustier.cards.json": "cce0b5f51658020559db3b1fdd7bdcd78c355183eb3acfb7a0f7d0d852ae338b",
+    "dictionaries.json": "2cb946de754aa6fa28c4697a2400ec48d3be2390feeda7b6f84ea1027e0015d4",
+    "pokeos.cards.json": "b51147e6e5f2341ae61a5398d889663f0661b7c481d526a09bd80a7adf78c88b",
+    "snapshots.json": "3e6ef1c73208a2a416a13e6a961fc0034577fbedaf1fd6040cee85f7df2e8182",
+    "flib-tree.json": "66bcfad003498a53535065d3dd383bc1e45466e574ee155aa73849351b8a8d51",
+    "raenonx.en.dictionary.json": "e04fd5b8580b9368c9a557948a4ffa9711b3c4e27d80f9e437532b98dad969ea",
+    "raenonx.ko.dictionary.json": "80bb4c8eedac533a248bd2a0cba947ced0d5fc63142171c628d490c706d75b22",
+    "raenonx.es.dictionary.json": "cfecee6744e9e979d5d4a7b3d000f0bba381aacea3d818986dcc34642ee3c22e",
+    "raenonx.ja.dictionary.json": "2298a8eed031a4caa586398ca844bdebf624c5357c333b221a4a85e600183414",
+    "pokeos.set.json": "959bf1dc4cd367bdcf47f3a1b65c6e1b60cfde8db6727a06598956af70583fb1",
+    "raenonx.zh.dictionary.json": "929841f8e0c482501e276480d5772956dbc6f7f56d81f24049510f972b212faf",
+    "raenonx.pt.dictionary.json": "d368b53cd8fa1dd7d06fd54f8a04737522e74a30f13decae3b839af99600ce84",
+    "deckgym.json": "99ece668f446854175210ca12a7c16c2d3a15f2822b56719eaa2cc87c67b6b52",
+    "raenonx.master.json": "cfa0914d2cc6759ba446ef00b4687a92afec2188aeb6ff96dde2807350c2c2a8"
+  },
+  "pilot": {
+    "numbers": [
+      1,
+      3,
+      8,
+      41,
+      103,
+      192,
+      231,
+      264,
+      403,
+      429
+    ],
+    "cardIdentityAndRules": "reviewed",
+    "artistConflictNumbers": [
+      421,
+      422,
+      424
+    ],
+    "ocr": {
+      "status": "unavailable",
+      "attempts": 2,
+      "httpStatus": 503,
+      "requiredForChosenRules": false,
+      "chosenRulesEvidence": "Initial structured-source comparison only. Later native card-face review supersedes copied localized text; see B4b.native-card-face-review.json."
+    }
+  },
+  "counts": {
+    "cards": 429,
+    "locales": 7,
+    "findings": 0
+  },
+  "passed": true,
+  "scope": "Initial acquisition preflight; final metadata/text/image selection is bound by the final audit and native card-face review."
+}

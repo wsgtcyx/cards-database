@@ -14,6 +14,15 @@ const set: Set = {
         ko: "로켓단의 야망",
         ja: "ロケット団の野望"
     },
+    logo: {
+        "en": "https://game.pokemontcgpocket.app/en/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        "fr": "https://game.pokemontcgpocket.app/fr/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        "es": "https://game.pokemontcgpocket.app/es/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        "it": "https://game.pokemontcgpocket.app/it/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        "de": "https://game.pokemontcgpocket.app/de/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/B4a/boosters/team-rockets-ambition/logo",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/B4a/boosters/team-rockets-ambition/logo"
+    },
     serie: serie,
     cardCount: {
         official: 72
