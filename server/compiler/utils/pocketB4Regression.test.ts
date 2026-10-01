@@ -84,6 +84,10 @@ describe('B4 catalog metadata regressions', () => {
 		expect(translate('rarity', 'One Diamond', lang)).toBe(expected)
 	})
 
+	test('uses the native Spanish label for Fire types and energy costs', () => {
+		expect(translate('types', 'Fire', 'es')).toBe('Fuego')
+	})
+
 	test('does not duplicate Alolan form markers in localized names', () => {
 		expect(alolanVulpix.name).toEqual({
 			en: 'Alolan Vulpix',
