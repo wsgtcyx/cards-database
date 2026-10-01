@@ -11,6 +11,8 @@ on:
 
 jobs:
   card-info-comment:
+    # The optional comment bot is provisioned only in the upstream repository.
+    if: ${{ github.repository == 'tcgdex/cards-database' }}
     runs-on: ubuntu-latest
     continue-on-error: true
     defaults:
