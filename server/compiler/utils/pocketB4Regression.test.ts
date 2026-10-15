@@ -15,6 +15,12 @@ import promo83 from '../../../data/Pokémon TCG Pocket/Promos-B/083'
 import promo84 from '../../../data/Pokémon TCG Pocket/Promos-B/084'
 import promo85 from '../../../data/Pokémon TCG Pocket/Promos-B/085'
 import promo86 from '../../../data/Pokémon TCG Pocket/Promos-B/086'
+import promo95 from '../../../data/Pokémon TCG Pocket/Promos-B/095'
+import promo96 from '../../../data/Pokémon TCG Pocket/Promos-B/096'
+import promo97 from '../../../data/Pokémon TCG Pocket/Promos-B/097'
+import promo98 from '../../../data/Pokémon TCG Pocket/Promos-B/098'
+import promo99 from '../../../data/Pokémon TCG Pocket/Promos-B/099'
+import promo100 from '../../../data/Pokémon TCG Pocket/Promos-B/100'
 import promosB from '../../../data/Pokémon TCG Pocket/Promos-B'
 import teamRocketsAmbition from '../../../data/Pokémon TCG Pocket/Team Rocket\'s Ambition'
 import deluxePackMega from '../../../data/Pokémon TCG Pocket/Deluxe Pack: Mega'
@@ -24,6 +30,28 @@ import { getDataFolder } from './util'
 import { getSetPictures } from './setUtil'
 
 describe('B4 catalog metadata regressions', () => {
+	test('keeps Promo-B 095–100 localized and limits Vol. 13 to its five rewards', () => {
+		const cards = [promo95, promo96, promo97, promo98, promo99, promo100]
+		expect(cards.map(card => card.name.en)).toEqual(['Darkrai', 'Falinks', 'Gible', 'Gabite', 'Mega Garchomp ex', 'Delcatty'])
+		expect(cards.map(card => card.rarity)).toEqual(['One Star', 'Two Diamond', 'One Diamond', 'Two Diamond', 'Four Diamond', 'Two Diamond'])
+		expect(cards.map(card => card.boosters)).toEqual([[], ['vol13'], ['vol13'], ['vol13'], ['vol13'], ['vol13']])
+		for (const lang of ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw'] as const) {
+			for (const [index, card] of cards.entries()) {
+				expect(card.name[lang]).toBeTruthy()
+				expect(card.image?.[lang]).toBe(`https://game.pokemontcgpocket.app/${lang}/tcgp/P-B/${String(95 + index).padStart(3, '0')}`)
+				for (const attack of card.attacks ?? []) {
+					expect(attack.name[lang]).toBeTruthy()
+					if (attack.effect) expect(attack.effect[lang]).toBeTruthy()
+				}
+			}
+		}
+		expect(promo99.attacks?.[0]).toMatchObject({ cost: ['Water', 'Fighting', 'Colorless'], damage: 190 })
+		expect(promo99.attacks?.[0].effect?.en).toBe('Discard 2 random Energy from this Pokémon.')
+		expect(promo99.suffix).toBe('EX')
+		expect(promo99.evolveFrom?.en).toBe('Gabite')
+		expect(promo95.illustrator).toBe('YASHIRO Nanaco')
+		expect(promosB.boosters?.vol13?.artwork_front?.en).toContain('/boosters/vol13/artwork_front.webp')
+	})
 	test('keeps set and series logos as image bases compatible with the SDK', async () => {
 		const originalFetch = TCGdex.fetch
 		try {

@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "verifiedAt": "2026-10-15T01:44:40.072Z",
+  "checks": [
+    {
+      "locale": "en",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "fr",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "es",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "it",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "de",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "pt-br",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "zh-tw",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "ja",
+      "setCount": 100,
+      "newCards": 6
+    },
+    {
+      "locale": "ko",
+      "setCount": 100,
+      "newCards": 6
+    }
+  ],
+  "search": {
+    "pages": 6,
+    "total": 100,
+    "unique": 100,
+    "vol13": 5
+  },
+  "canonicalSha256": "eb51a47b6f9ae4df55c69996bea1208f562035a268f02642bdbc985751eb640a"
+}

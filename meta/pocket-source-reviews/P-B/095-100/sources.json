@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "scope": [
+    "P-B-095",
+    "P-B-096",
+    "P-B-097",
+    "P-B-098",
+    "P-B-099",
+    "P-B-100"
+  ],
+  "capturedAt": "2026-10-15T01:33:05.275Z",
+  "sources": {
+    "index": {
+      "repository": "https://github.com/flibustier/pokemon-tcg-pocket-database",
+      "commit": "746566d75408c04fe35210c503351dc87aee00c5",
+      "license": "MIT"
+    },
+    "game": {
+      "url": "https://ptcgp.raenonx.cc/api/data/global-master",
+      "attribution": "RaenonX Pokémon TCG Pocket Wiki"
+    },
+    "cards": {
+      "url": "https://www.pokeos.com/api/tcg/set/cards?id=551",
+      "imageTemplate": "https://s3.pokeos.com/pokeos-uploads/tcg/pocket/551/src/{number}_{locale}.png"
+    }
+  },
+  "inputHashes": {
+    "master.json": "cfa0914d2cc6759ba446ef00b4687a92afec2188aeb6ff96dde2807350c2c2a8",
+    "index.json": "f90d2eccb02d04292d9b367454f0d97eeb42fa2fb21ced170a24c7d56b6d9742",
+    "pokeos.json": "4b694671b17529ec3fc37eb93ac5977d68c5f510e95c836aa4e89ce4172dcc65",
+    "pokeos-cards.json": "b30e8fca4c0748a4636e2f086c3b9173a6f740f0aecfbc470f3ab5471ff7bc65",
+    "page-en.html": "fcfeb151572d4786573279a285f35cb2eca6536a4898d9f6485fd14673355cab",
+    "page-fr.html": "5292aa90eda7b3e35f038126f1f1d5d078103aaad3e07722ec8cb1b42b8c88d7",
+    "page-es.html": "9de525931dc38600370b01cbb2c68c7432f223f65e9d11c80d1f785f4832dbdd",
+    "page-pt.html": "394c30add93ec1357c83e03375a3ee21b7c3adf7385e2e648941ce20f6ebb979",
+    "page-zh.html": "fbe98cb512c7cb8c4e61b965dddc98580c523f6efc42dca190f4321c00144fb7",
+    "page-ja.html": "46f0928a4294e61bc100e77102367f8640d5de23f80fc797844720b14133ca59",
+    "page-ko.html": "eebe69e45743c2e48659257c2451e63db3ba21a73baf781f16b0a201c57c4050"
+  },
+  "decisions": [
+    {
+      "cardId": "P-B-100",
+      "field": "boosters",
+      "rejected": "flibustier cards.json omits packs",
+      "chosen": [
+        "vol13"
+      ],
+      "evidence": {
+        "gameCardId": "PK_90_020960_00",
+        "gamePack": "BP001_0130_00_000",
+        "available": [
+          "PK_90_014580_00",
+          "PK_90_020960_00",
+          "PK_90_021140_00",
+          "PK_90_021150_00",
+          "PK_90_021160_00"
+        ]
+      }
+    },
+    {
+      "field": "scope",
+      "chosen": "Import only authorized 095–100. PokeOS already lists 101–103; excluded from this batch."
+    }
+  ],
+  "coverage": {
+    "nameLocales": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw",
+      "ja",
+      "ko"
+    ],
+    "ruleLocales": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "imageLocales": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ]
+  }
+}

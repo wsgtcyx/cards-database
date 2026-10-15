@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "passed": true,
+  "scope": [
+    "P-B-095",
+    "P-B-096",
+    "P-B-097",
+    "P-B-098",
+    "P-B-099",
+    "P-B-100"
+  ],
+  "apiLanguagesCompiled": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "nameLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "ruleLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw"
+  ],
+  "imageLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw"
+  ],
+  "r2": {
+    "objects": 86,
+    "cards": 84,
+    "sharedBoosterAssets": 2
+  },
+  "tcgdexIndexSha256": "2a91112e10f238b8aca429499b83f8cd72b9a6c7bdd125a2006743129eb7b9e8",
+  "localChecks": {
+    "api-validate": {
+      "sha256": "4ae7abf1201f1baadc6a6b8faa5cb3f7638ad52ba7075e2e926a8e5faae0a1dd"
+    },
+    "api-tests": {
+      "sha256": "adb75bc18b9e813c173f7af6bbc2a707ddf35d250d489888d3b787722b0323c8"
+    },
+    "api-regression": {
+      "sha256": "93f180930f45b96abe720ae57fa1fb173521a44ed994605e284e5bcbbb7dcf50"
+    },
+    "api-compile": {
+      "sha256": "db72818512e9425cc19920088758d42bff79273a8d3894f8d832e29a8eaff79e"
+    },
+    "tcgp-isolated-tests": {
+      "sha256": "42d65a5d5ad709df8e2864de09a9e5fdb931f137bbf470e647314c79e76e25aa"
+    },
+    "tcgp-isolated-lint": {
+      "sha256": "11aca4743323670c4edd7db48a9c87839699b9c664667c773148c3382de703b2"
+    },
+    "tcgp-isolated-types": {
+      "sha256": "6f4c63ff39ccd9870dc43b6949e050d9b690c70aa748a724b5d76f86ad424565"
+    },
+    "tcgp-build": {
+      "sha256": "d8422fa314604305bed0d71db0f76cd1ec879913512810be6531e37883d4e2bf"
+    }
+  },
+  "artifactHashes": {
+    "meta/pocket-source-reviews/P-B/095-100/sources.json": "6571a9c7acd19473a4e3f1a78f430f64e01bb9efb10ee90231cb1a32fdefdea4",
+    "meta/pocket-source-reviews/P-B/095-100/provenance.json": "7396a73aa37aad520356ebea2cbed1ae4a184ea0839085f243182696ad3ad829",
+    "meta/pocket-source-reviews/P-B/095-100/localization-audit.json": "62322f1cd6ebce146bf4841a90a1306527287c1cc8061cfe58d0df3e74f1093e",
+    "meta/pocket-source-reviews/P-B/095-100/r2-manifest.json": "dc8c0e178ee97671941bbf13b9c1bcf8aca08eafddc7c09d79188efe3d4e36eb",
+    "meta/pocket-source-reviews/P-B/095-100/r2-preflight.json": "d1b6415469d1ba5b61bedf5b80e593bae7cb20f620cc7d35b26ec898cbcb68d7",
+    "meta/pocket-source-reviews/P-B/095-100/canonical.json": "bbbf54f3791057f483bd7f0a2abca644fe69155d3eee603cd53a748d1c9f4ae7",
+    "meta/pocket-source-reviews/P-B/095-100/api-local-audit.json": "969f67d59252e50cd2dfad8fe38270c7ccfcc2ce9d1b2eab8efd2d5d66bae274",
+    "meta/pocket-source-reviews/P-B/095-100/r2-verify.json": "596255c8afd8bb753ee33e85414c742c7520377a6d3313a5ed2ec13dd212294f",
+    "meta/pocket-source-reviews/P-B/095-100/r2-upload.json": "406929a0adc8c5e41c58d5a0406c828cf09ca77877e372d1ae5b1c1288ab3289",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/fr-95.json": "589a01543516867981ca4ae0fbcf0955893a9d53ea62c758b22bd675b7e7a989",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/zh-100.json": "9931d49c4ded4457391a4c291dd1894406b71d8e4e04a680bdbd4a39ab111ca0",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/ptbr-99.json": "2a3b59065ead1e16e3f53eef2eff12428e02faf0531b67fe964ecfdced52b66f",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/fr-99.json": "129f930e9fefdd3b30dc62e20a51245d1b472590a84ebfe8c2b897da5008548a",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/zh-98.json": "55fcbc49007a16b7f266aee7b84b3524a783186e6409acae026360214ca4d9c7",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/en-100.json": "75858de7fd7ebf0d9ca270782d843caf90910ab2222b729e4404c1b25a8d11ed",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/ptbr-95.json": "8df4916f080c227d03f209e744e375a6eb7f8f1380d611c6fceec0aad808b317",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/de-97.json": "f00c35a85d08189be93c123fbecef4652c7286fce490d3ae8459981020283460",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/de-96.json": "bc4a785402636e6fc7ab1b4c85bdf0e1b725708c1c33c12533db755254f24da4",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/zh-99.json": "688bf49f2a36c331851613e4a7d96eb1319eb8c170ef64988103fa77c5445a86",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/fr-98.json": "4f9898c84fd366be96352d40d1536be731fc18ab490545d773424e0e3998dfec",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/ptbr-98.json": "0a1ae122a90e3036f0fcf0914c1fdc591e16f1cb586181c14e3441ca26522b01",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/zh-95.json": "f9ad0859c4cf242c6efa5fb293728484a20fc9769967d7a2b384d542ecad1d30",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/it-98.json": "7a9fe746b74e3cc04ac60d38ffbc7e7d10dcc44002db54a91f6d8783922b52e8",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/de-100.json": "e3ba8bb3b2f3b0de8a0e168e49747a9635572dc2e994cc0b8c10120ea2e324a0",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/es-97.json": "95695bb70569c390cb1d4fbc3c8aa6e117829e0f02190898ac0a364bf4860dce",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/en-96.json": "66ac8e24e718a3b42d336a57ee4be284264e7e70cacc95e8ebdf1e246cae10df",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/fr-100.json": "9bf9195b24bb138847c4beee4e3fccfd6f8c9ef348edb1621813ee6e57ae76a1",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/it-95.json": "5f0212e21064090bb1227211c093291e1f72ae1011662270d1989f54c40cc988",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/en-97.json": "3ef600781769e4b09f7595c7be68072580db8fff60df3d29e48b824e44318e33",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/es-96.json": "829ed0b1528942b6f8f435927e3806749f8b4ac30985505e4421909fa7d00c9a",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/it-99.json": "41d4c3a89eda945588398bd3d3fab3c65d9186f197b6b6bbb5835a05229ad875",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/es-95.json": "291aa04edcb9b657c57220a006526678ccb6ff7bbcde80c0c47fc486b9652ab8",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/en-98.json": "d0d60d5852a7d95a616f29b785e2f30993e22589a5680ca145c0e5e268644592",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/es-100.json": "4e6777e4c92db70701398b4db26870abed3878194255b3a66664ce89fbbe8234",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/es-99.json": "13204fac518833542fc061e7484001dde63eac7e92f3aa90a1de89cd90a2e914",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/it-96.json": "1b229ec41ef8d5671e73329f7439d86ae4daceee5cf4d93874060c0a23b885b4",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/en-95.json": "0ce8fed06681463842dea568eb6f542a17ab1d3b9f5ec5d01cf9c64fd3909d12",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/it-97.json": "ffd6f879e348f047916e94f2cffb0063e0ab2ece2e64725c503cc1a55fbf911c",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/it-100.json": "4b0bd6330c01666004b5e532fadd98add62c1488ca58df9ea7a2aa3ff58551d7",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/es-98.json": "da9d4c802c633ad8252ce5785b0c43634a20fd12a758d7b233dbfc05de795f19",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/en-99.json": "787d117cef18cc71aa61ca8939691dd91c2f97ce7af05c7d84d799bccbe41c7d",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/de-99.json": "4669a7b3beaec2f1c3f3cfc8b70ab7f76b5d50fc3010790595475121ba01c3f9",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/zh-96.json": "d4ad170e2bbdf53c4d6a351b15e935c5fbdf372373c2b15877a01c27aa6f13a6",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/fr-97.json": "6e66697daac64cf74a44ef2b6696702c6e9458c1297fde88e4e40bd90fa5b565",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/de-95.json": "711963573e57db64bef4659f560ef59feb3ae397c516d4009035778b4ed2415f",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/ptbr-97.json": "31965d1e2b47f77d538d861c18541be17ac91a2e4748c85b0981b56ac8d96c89",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/ptbr-96.json": "36fb96f85eea7e0eb0a30fbcafcc9d6eb00a441f77f8517993c3df7f420feab2",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/fr-96.json": "ae66933ca1855ea5d2e5121090b2d80c5b175a619c5f0b720fec49ded065258e",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/ptbr-100.json": "cb878958c20df1999742a57df4171da38369d03b54af5a8fb2501e88bd65be9c",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/zh-97.json": "a81b7ef404d857636ebbe6af62471849596ba53731a77b7903fbe6fbbd444548",
+    "meta/pocket-source-reviews/P-B/095-100/ocr/de-98.json": "6e89c9cfe0b94a880de8867458561a40ce2ac20db897d3c86a693234579aca69",
+    "data/Pokémon TCG Pocket/Promos-B/095.ts": "5f55b0a23b27d7ed5838ef64fd1434aa358781e279c029a24bf534ba66ee0b68",
+    "data/Pokémon TCG Pocket/Promos-B/096.ts": "234d7470b52520bae2424242bed55bab0335a72a3bb58fc592523c68f97e7204",
+    "data/Pokémon TCG Pocket/Promos-B/097.ts": "4084a5005bf89c0a01adf83d38d3635a52884696af91de31ff3709b377fac44d",
+    "data/Pokémon TCG Pocket/Promos-B/098.ts": "881c9ebf3f953d3dc56cfd0f71f677ee31c05340a8898e248d335b7ba25b8aac",
+    "data/Pokémon TCG Pocket/Promos-B/099.ts": "9b394bf1c534ff9f30c56882879115100be8c03cde4e30cf82af00db49fea878",
+    "data/Pokémon TCG Pocket/Promos-B/100.ts": "3e8c60149473b0d379197aaec21eee57dbe36b8b1d53a0ce06083893e449b0ec",
+    "data/Pokémon TCG Pocket/Promos-B.ts": "0cf1501b99e68c190f4edd82f6db5b577d2e5c9c03ecfd0e5e12218eba43c5d3",
+    "scripts/tmp/pocket-translations.json": "1c43097f330915b161c0064a40ac6d8b451b9e8d84d8b5ea6622ddbfcf61ab52",
+    "server/compiler/utils/pocketB4Regression.test.ts": "85b95b97c3ac82d366f75e19ac652494bf3fc4c331010224559fec4e1c057397"
+  },
+  "downstreamPreflight": {
+    "catalogCards": 4314,
+    "promoBCards": 100,
+    "vol13Cards": 5,
+    "qrMappingCards": 659,
+    "qrMappingSha256": "54af1c7e32f6893c57b3437ddb152632af992070d150ea603a32f81cba7c4520",
+    "emptyStatsPageAdded": "pokemon:21160",
+    "competitiveSnapshotChanged": false
+  },
+  "deployment": "Pending API push; production verification is recorded separately after at least 180 seconds."
+}

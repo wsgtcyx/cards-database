@@ -43980,5 +43980,43 @@
     "it": "Si è evoluto dopo aver passato giorni interi\na lottare e ha sviluppato degli artigli che,\nuna volta sfoderati, diventano temibili pugnali.",
     "de": "Es entwickelte sich nach einer langen Zeit voller\nKämpfe. Nun kann es seine Krallen ausfahren,\num sie als Dolche zu nutzen.",
     "zh-tw": "在日復一日的戰鬥中得以進化。\n進化的結果是那危險的指甲，\n留長後能當作短劍來用。"
+  },
+  "Mega Garchomp ex": {
+    "en": "Mega Garchomp ex",
+    "fr": "Méga-Carchacrok-ex",
+    "es": "Mega-Garchomp ex",
+    "it": "Mega Garchomp-ex",
+    "de": "Mega-Knakrack-ex",
+    "pt-br": "Mega Garchomp ex",
+    "zh-tw": "超級烈咬陸鯊ex",
+    "ja": "メガガブリアスex",
+    "ko": "메가한카리아스 ex"
+  },
+  "Falling Edge": {
+    "en": "Falling Edge",
+    "it": "Falci Implacabili",
+    "de": "Fallende Klinge",
+    "fr": "Lame Tombante",
+    "es": "Fendiente",
+    "pt-br": "Gume Descendente",
+    "zh-tw": "劈斬刀鋒"
+  },
+  "Energy Blender": {
+    "en": "Energy Blender",
+    "fr": "Mélangeur d'Énergies",
+    "es": "Batidora Energética",
+    "pt-br": "Mistureba de Energia",
+    "zh-tw": "能量攪拌",
+    "it": "Miscelenergia",
+    "de": "Energiemix"
+  },
+  "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.": {
+    "en": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
+    "fr": "Vous pouvez déplacer autant d'Énergies que vous le voulez de vos Pokémon en jeu vers vos autres Pokémon, comme il vous plaît.",
+    "es": "Puedes mover cualquier cantidad de Energías de tus Pokémon en juego a tus otros Pokémon de la manera que desees.",
+    "de": "Du kannst beliebig viele Energien von deinen Pokémon im Spiel beliebig auf deine anderen Pokémon verschieben.",
+    "pt-br": "Você pode mover qualquer quantidade de Energia dos seus Pokémon em jogo para outros Pokémon seus como desejar.",
+    "zh-tw": "選擇自己的場上寶可夢身上的任意數量的能量,以任意方式改附於自己的寶可夢身上。",
+    "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon."
   }
 }

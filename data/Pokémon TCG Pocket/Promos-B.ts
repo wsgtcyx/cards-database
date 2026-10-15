@@ -394,6 +394,41 @@ const set: Set = {
                 ko: "프로모 카드 팩 B시리즈 제12탄",
                 ja: "プロモカードパック Bシリーズ 第12弾"
             }
+        },
+        vol13: {
+            name: {
+                en: "Promo Pack B Series Vol. 13",
+                fr: "Booster promo série B, vol. 13",
+                es: "Sobre de promoción serie B vol. 13",
+                it: "Busta promo (serie B, vol. 13)",
+                de: "Promopack aus Serie B, Vol. 13",
+                "pt-br": "Pacote Promocional da Série B (Vol. 13)",
+                "zh-tw": "特典卡牌包 B系列第13波",
+                ko: "프로모 카드 팩 B시리즈 제13탄",
+                ja: "プロモカードパック Bシリーズ 第13弾"
+            },
+            logo: {
+                "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "fr": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "es": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "it": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "de": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "ko": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",
+                "ja": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp"
+            },
+            artwork_front: {
+                "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "fr": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "es": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "it": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "de": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "pt-br": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "zh-tw": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "ko": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp",
+                "ja": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/artwork_front.webp"
+            }
         }
     },
     releaseDate: "2025-10-30"

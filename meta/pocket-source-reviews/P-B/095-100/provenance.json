@@ -1,0 +1,1805 @@
+{
+  "schemaVersion": 1,
+  "cards": {
+    "P-B-095": {
+      "entityId": "PK_90_016440_00",
+      "pokeosCardId": 61321,
+      "fields": {
+        "image": {
+          "chosen": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/095",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/095",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/095",
+            "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/095",
+            "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/095",
+            "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/095",
+            "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/095"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "name": {
+          "chosen": {
+            "en": "Darkrai",
+            "fr": "Darkrai",
+            "es": "Darkrai",
+            "it": "Darkrai",
+            "de": "Darkrai",
+            "pt-br": "Darkrai",
+            "zh-tw": "達克萊伊",
+            "ja": "ダークライ",
+            "ko": "다크라이"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "illustrator": {
+          "chosen": "YASHIRO Nanaco",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "rarity": {
+          "chosen": "One Star",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "hp": {
+          "chosen": 100,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "types": {
+          "chosen": [
+            "Darkness"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "dexId": {
+          "chosen": [
+            491
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "description": {
+          "chosen": {
+            "en": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
+            "fr": "Il endort humains et Pokémon, et leur fait avoir des cauchemars pour les chasser de son territoire.",
+            "es": "Defiende su territorio de personas y Pokémon haciéndoles dormir y provocándoles pesadillas.",
+            "it": "Respinge umani e Pokémon dal suo territorio inducendoli a un sonno profondo e provocando incubi.",
+            "de": "Es vertreibt Eindringlinge aus seinem Revier, indem es sie in Schlaf versetzt und mit Alpträumen quält.",
+            "pt-br": "Causa um sono profundo e cheio de pesadelos em pessoas e Pokémon para afugentá-los de seu território.",
+            "zh-tw": "用引誘進入深層睡眠的力量，讓人或者寶可夢作惡夢，並將其逐出自己的領地。"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "abilities": {
+          "chosen": [
+            {
+              "type": "Ability",
+              "name": {
+                "en": "Bad Dreams",
+                "fr": "Mauvais Rêve",
+                "es": "Mal Sueño",
+                "it": "Sogniamari",
+                "de": "Alptraum",
+                "pt-br": "Sonhos Ruins",
+                "zh-tw": "夢魘"
+              },
+              "effect": {
+                "en": "At the end of each turn, if your opponent's Active Pokémon is Asleep, do 20 damage to that Pokémon.",
+                "fr": "À la fin de chaque tour, si le Pokémon Actif de votre adversaire est Endormi, infligez-lui 20 dégâts.",
+                "es": "Al final de cada turno, si el Pokémon Activo de tu rival está Dormido, haz 20 puntos de daño a ese Pokémon.",
+                "it": "Alla fine di ogni turno, se il Pokémon attivo dell'avversario è addormentato, infliggi 20 danni a quel Pokémon.",
+                "de": "Am Ende jedes Zuges, wenn das Aktive Pokémon deines Gegners schläft, füge jenem Pokémon 20 Schadenspunkte zu.",
+                "pt-br": "No final de cada turno, se o Pokémon Ativo do seu oponente estiver Adormecido, cause 20 pontos de dano àquele Pokémon.",
+                "zh-tw": "在雙方的回合結束時,若對手的戰鬥寶可夢睡眠,則那隻寶可夢受到20點傷害。"
+              }
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "name": {
+                "en": "Dark Slumber",
+                "fr": "Sommeil Obscur",
+                "es": "Letargo Oscuro",
+                "it": "Sonno Oscuro",
+                "de": "Dunkler Schlummer",
+                "pt-br": "Sono Sombrio",
+                "zh-tw": "黑色微寐"
+              },
+              "effect": {
+                "en": "Your opponent's Active Pokémon is now Asleep.",
+                "fr": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+                "es": "El Pokémon Activo de tu rival pasa a estar Dormido.",
+                "it": "Il Pokémon attivo del tuo avversario viene addormentato.",
+                "de": "Das Aktive Pokémon deines Gegners schläft jetzt.",
+                "pt-br": "O Pokémon Ativo do seu oponente agora está Adormecido.",
+                "zh-tw": "將對手的戰鬥寶可夢睡眠。"
+              },
+              "damage": 40
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Grass",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "retreat": {
+          "chosen": 2,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        },
+        "boosters": {
+          "chosen": [],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              95
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/328.ts",
+            "donorSha256": "bcb7586cac420c2223ba5607a380d9b8abae76acc72dfe34b005689a18eb463e"
+          }
+        }
+      }
+    },
+    "P-B-096": {
+      "entityId": "PK_90_014580_00",
+      "pokeosCardId": 61322,
+      "fields": {
+        "image": {
+          "chosen": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/096",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/096",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/096",
+            "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/096",
+            "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/096",
+            "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/096",
+            "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/096"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "name": {
+          "chosen": {
+            "en": "Falinks",
+            "fr": "Hexadron",
+            "es": "Falinks",
+            "it": "Falinks",
+            "de": "Legios",
+            "pt-br": "Falinks",
+            "zh-tw": "列陣兵",
+            "ja": "タイレーツ",
+            "ko": "대여르"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "illustrator": {
+          "chosen": "Misa Tsutsui",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "rarity": {
+          "chosen": "Two Diamond",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "hp": {
+          "chosen": 70,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "types": {
+          "chosen": [
+            "Fighting"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "description": {
+          "chosen": {
+            "en": "The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation.",
+            "fr": "À l'aide de sa corne extensible, le chef donne des ordres aux autres et leur fait changer de formation.",
+            "es": "El líder utiliza su cuerno, capaz de expandirse y contraerse, para ordenar a los demás que cambien la formación.",
+            "it": "L'elemento che viene considerato il capo usa il proprio corno estensibile per indicare al gruppo in che tipo di formazione schierarsi.",
+            "de": "Mit seinem ausfahrbaren Horn gibt der Anführer Befehle zur Formationsänderung.",
+            "pt-br": "O líder, mais conhecido como comandante, usa seus chifres extensíveis para mandar ordens aos outros quando chega a hora de mudar de formação.",
+            "zh-tw": "被稱為頭頭的隊長會用可伸縮的角做出變換陣形的指令。"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "abilities": {
+          "chosen": [
+            {
+              "type": "Ability",
+              "name": {
+                "en": "Coordinated Unit",
+                "fr": "Unité Coordonnée",
+                "es": "Unidad Coordinada",
+                "it": "Falange Compatta",
+                "de": "Koordinierte Einheit",
+                "pt-br": "Unidade Coordenada",
+                "zh-tw": "團結一陣"
+              },
+              "effect": {
+                "en": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon.",
+                "fr": "Si vous avez un autre Hexadron en jeu, les attaques de ce Pokémon infligent + 20 dégâts au Pokémon Actif de votre adversaire, et ce Pokémon subit − 20 dégâts provenant des attaques des Pokémon de votre adversaire.",
+                "es": "Si tienes otro Falinks en juego, los ataques de este Pokémon hacen +20 puntos de daño al Pokémon Activo de tu rival, y los ataques de los Pokémon de tu rival hacen ‐20 puntos de daño a este Pokémon.",
+                "it": "Se hai un altro Falinks in gioco, gli attacchi di questo Pokémon infliggono +20 danni al Pokémon attivo dell'avversario, e questo Pokémon subisce -20 danni dagli attacchi dei Pokémon avversari.",
+                "de": "Wenn du ein weiteres Legios im Spiel hast, werden dem Aktiven Pokémon deines Gegners durch Attacken von diesem Pokémon +20 Schadenspunkte zugefügt und diesem Pokémon werden durch Attacken von Pokémon deines Gegners -20 Schadenspunkte zugefügt.",
+                "pt-br": "Se você tiver outro Falinks em jogo, os ataques deste Pokémon causarão +20 pontos de dano ao Pokémon Ativo do seu oponente, e este Pokémon receberá −20 pontos de dano de ataques dos Pokémon do seu oponente.",
+                "zh-tw": "若自己的場上有其他的「列陣兵」,則這隻寶可夢對對手的戰鬥寶可夢造成的招式傷害+20點,受到對手的寶可夢招式的傷害-20點。"
+              }
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": {
+                "en": "Invade",
+                "fr": "Envahissement",
+                "es": "Invadir",
+                "it": "Scorreria",
+                "de": "Einmarschieren",
+                "pt-br": "Invadir",
+                "zh-tw": "攻入"
+              },
+              "damage": 20,
+              "cost": [
+                "Fighting"
+              ]
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Psychic",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "boosters": {
+          "chosen": [
+            "vol13"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        },
+        "dexId": {
+          "chosen": [
+            870
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              96
+            ],
+            "donor": "data/Pokémon TCG Pocket/Deluxe Pack: Mega/323.ts",
+            "donorSha256": "dd43f44fe626e876644ed0eb94c3b9d58b8cd32002e6586a1d7fd6204793b5ff"
+          }
+        }
+      }
+    },
+    "P-B-097": {
+      "entityId": "PK_90_021140_00",
+      "pokeosCardId": 61323,
+      "fields": {
+        "image": {
+          "chosen": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/097",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/097",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/097",
+            "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/097",
+            "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/097",
+            "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/097",
+            "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/097"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "name": {
+          "chosen": {
+            "en": "Gible",
+            "fr": "Griknot",
+            "es": "Gible",
+            "it": "Gible",
+            "de": "Kaumalat",
+            "pt-br": "Gible",
+            "zh-tw": "圓陸鯊",
+            "ja": "フカマル",
+            "ko": "딥상어동"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "illustrator": {
+          "chosen": "Kanako Eo",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "rarity": {
+          "chosen": "One Diamond",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "hp": {
+          "chosen": 60,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "types": {
+          "chosen": [
+            "Dragon"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "dexId": {
+          "chosen": [
+            443
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "stage": {
+          "chosen": "Basic",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "description": {
+          "chosen": {
+            "en": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+            "fr": "Il vit dans des cavités chauffées par géothermie, dont il bondit pour mordre tout intrus.",
+            "es": "Vive en agujeros en las cuevas, al amparo del calor geotérmico. Si se acerca un enemigo, se abalanza sobre él y lo muerde con su gran boca.",
+            "it": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "de": "Dieses Pokémon lebt in Höhlen, die Erdwärme ausgesetzt sind. Wenn Feinde sich nähern, springt es heraus und beißt mit seinem großen Maul zu.",
+            "pt-br": "Faz ninhos em buracos horizontais que são aquecidos pelo calor geotérmico. Inimigos que se aproximam demais serão atacados e mordidos.",
+            "zh-tw": "生活在被地熱加溫的洞窟裡。如果有敵人靠近，就會從洞裡撲出來大口咬住。"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "name": {
+                "en": "Take Down",
+                "fr": "Bélier",
+                "es": "Derribo",
+                "it": "Riduttore",
+                "de": "Bodycheck",
+                "pt-br": "Desmantelar",
+                "zh-tw": "猛撞"
+              },
+              "effect": {
+                "en": "This Pokémon also does 10 damage to itself.",
+                "fr": "Ce Pokémon s'inflige aussi 10 dégâts.",
+                "es": "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+                "it": "Questo Pokémon infligge anche 10 danni a se stesso.",
+                "de": "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
+                "pt-br": "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+                "zh-tw": "這隻寶可夢也受到10點傷害。"
+              },
+              "damage": 30
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        },
+        "boosters": {
+          "chosen": [
+            "vol13"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              97
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/052.ts",
+            "donorSha256": "c454fd5a8a2be77f666ddac70b62887e4523d48f4a6eadab9e50389e5c6191ab"
+          }
+        }
+      }
+    },
+    "P-B-098": {
+      "entityId": "PK_90_021150_00",
+      "pokeosCardId": 61324,
+      "fields": {
+        "image": {
+          "chosen": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/098",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/098",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/098",
+            "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/098",
+            "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/098",
+            "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/098",
+            "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/098"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "name": {
+          "chosen": {
+            "en": "Gabite",
+            "fr": "Carmache",
+            "es": "Gabite",
+            "it": "Gabite",
+            "de": "Knarksel",
+            "pt-br": "Gabite",
+            "zh-tw": "尖牙陸鯊",
+            "ja": "ガバイト",
+            "ko": "한바이트"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "illustrator": {
+          "chosen": "hatachu",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "rarity": {
+          "chosen": "Two Diamond",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "hp": {
+          "chosen": 80,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "types": {
+          "chosen": [
+            "Dragon"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "dexId": {
+          "chosen": [
+            444
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "evolveFrom": {
+          "chosen": {
+            "en": "Gible",
+            "fr": "Griknot",
+            "es": "Gible",
+            "it": "Gible",
+            "de": "Kaumalat",
+            "pt-br": "Gible",
+            "zh-tw": "圓陸鯊",
+            "ja": "フカマル",
+            "ko": "딥상어동"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "stage": {
+          "chosen": "Stage1",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "description": {
+          "chosen": {
+            "en": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+            "fr": "Toujours à la recherche d'objets brillants, il arpente les grottes pour amasser son butin.",
+            "es": "Le gustan las cosas brillantes. Busca tesoros en cuevas y se lleva el botin a su nido.",
+            "it": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "de": "Es liebt funkelnde Dinge und sucht in Höhlen nach Schätzen, die es dann in seinem Nest hortet.",
+            "pt-br": "Adora objetos cintilantes. Ele procura tesouros nas cavernas e armazena os saques em seu ninho.",
+            "zh-tw": "最喜歡閃閃發光的東西，所以會把在洞窟裡找到的寶物積存到自己的巢穴裡。"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "cost": [
+                "Water",
+                "Fighting"
+              ],
+              "name": {
+                "en": "Linear Attack",
+                "fr": "Attaque Linéaire",
+                "es": "Ataque Lineal",
+                "it": "Attacco Lineare",
+                "de": "Linearer Angriff",
+                "pt-br": "Ataque Linear",
+                "zh-tw": "直擊彈"
+              },
+              "effect": {
+                "en": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+                "fr": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
+                "es": "Este ataque hace 50 puntos de daño a 1 de los Pokémon de tu rival.",
+                "it": "Questo attacco infligge 50 danni a uno dei Pokémon del tuo avversario.",
+                "de": "Diese Attacke fügt 1 Pokémon deines Gegners 50 Schadenspunkte zu.",
+                "pt-br": "Este ataque causa 50 pontos de dano a 1 dos Pokémon do seu oponente.",
+                "zh-tw": "對手的1隻寶可夢受到50點傷害。"
+              }
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        },
+        "boosters": {
+          "chosen": [
+            "vol13"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              98
+            ],
+            "donor": "data/Pokémon TCG Pocket/Team Rocket's Ambition/053.ts",
+            "donorSha256": "94a9358848f20c4c146c48256bafffdcf03ce22fc42ba3386d2436900e80cfc0"
+          }
+        }
+      }
+    },
+    "P-B-099": {
+      "entityId": "PK_90_021160_00",
+      "pokeosCardId": 61325,
+      "fields": {
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "hp": {
+          "chosen": 220,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "types": {
+          "chosen": [
+            "Dragon"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "dexId": {
+          "chosen": [
+            445
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "stage": {
+          "chosen": "Stage2",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "suffix": {
+          "chosen": "EX",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "evolveFrom": {
+          "chosen": {
+            "en": "Gabite",
+            "fr": "Carmache",
+            "es": "Gabite",
+            "it": "Gabite",
+            "de": "Knarksel",
+            "pt-br": "Gabite",
+            "zh-tw": "尖牙陸鯊",
+            "ja": "ガバイト",
+            "ko": "한바이트"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "name": {
+                "en": "Falling Edge",
+                "it": "Falci Implacabili",
+                "de": "Fallende Klinge",
+                "fr": "Lame Tombante",
+                "es": "Fendiente",
+                "pt-br": "Gume Descendente",
+                "zh-tw": "劈斬刀鋒"
+              },
+              "effect": {
+                "en": "Discard 2 random Energy from this Pokémon.",
+                "fr": "Défaussez 2 Énergies au hasard de ce Pokémon.",
+                "es": "Descarta 2 Energías aleatorias de este Pokémon.",
+                "it": "Rimuovi 2 Energie a caso da questo Pokémon.",
+                "de": "Lege 2 zufällige Energien von diesem Pokémon ab.",
+                "pt-br": "Descarte 2 Energias aleatórias deste Pokémon.",
+                "zh-tw": "將這隻寶可夢身上的隨機2個能量丟棄。"
+              },
+              "damage": 190,
+              "cost": [
+                "Water",
+                "Fighting",
+                "Colorless"
+              ]
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "retreat": {
+          "chosen": 2,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "name": {
+          "chosen": {
+            "en": "Mega Garchomp ex",
+            "fr": "Méga-Carchacrok-ex",
+            "es": "Mega-Garchomp ex",
+            "it": "Mega Garchomp-ex",
+            "de": "Mega-Knakrack-ex",
+            "pt-br": "Mega Garchomp ex",
+            "zh-tw": "超級烈咬陸鯊ex",
+            "ja": "メガガブリアスex",
+            "ko": "메가한카리아스 ex"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "illustrator": {
+          "chosen": "PLANETA CG Works",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "rarity": {
+          "chosen": "Four Diamond",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "image": {
+          "chosen": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/099",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/099",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/099",
+            "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/099",
+            "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/099",
+            "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/099",
+            "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/099"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "boosters": {
+          "chosen": [
+            "vol13"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        },
+        "weaknesses": {
+          "chosen": [],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              99
+            ]
+          }
+        }
+      }
+    },
+    "P-B-100": {
+      "entityId": "PK_90_020960_00",
+      "pokeosCardId": 61326,
+      "fields": {
+        "image": {
+          "chosen": {
+            "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/100",
+            "fr": "https://game.pokemontcgpocket.app/fr/tcgp/P-B/100",
+            "es": "https://game.pokemontcgpocket.app/es/tcgp/P-B/100",
+            "it": "https://game.pokemontcgpocket.app/it/tcgp/P-B/100",
+            "de": "https://game.pokemontcgpocket.app/de/tcgp/P-B/100",
+            "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/P-B/100",
+            "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/P-B/100"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "name": {
+          "chosen": {
+            "en": "Delcatty",
+            "fr": "Delcatty",
+            "es": "Delcatty",
+            "it": "Delcatty",
+            "de": "Enekoro",
+            "pt-br": "Delcatty",
+            "zh-tw": "優雅貓",
+            "ja": "エネコロロ",
+            "ko": "델케티"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "illustrator": {
+          "chosen": "Tika Matsuno",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "rarity": {
+          "chosen": "Two Diamond",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "category": {
+          "chosen": "Pokemon",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "hp": {
+          "chosen": 90,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "types": {
+          "chosen": [
+            "Colorless"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "dexId": {
+          "chosen": [
+            301
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "evolveFrom": {
+          "chosen": {
+            "en": "Skitty",
+            "fr": "Skitty",
+            "es": "Skitty",
+            "it": "Skitty",
+            "de": "Eneco",
+            "pt-br": "Skitty",
+            "zh-tw": "向尾喵",
+            "ja": "エネコ",
+            "ko": "에나비"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "stage": {
+          "chosen": "Stage1",
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "description": {
+          "chosen": {
+            "en": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+            "fr": "Les femmes Dresseurs raffolent de sa sublime fourrure. Il ne possède pas de nid.",
+            "es": "Tiene mucho éxito entre las Entrenadoras por su suave pelaje. No vive en un sitio fijo.",
+            "it": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+            "de": "Dieses Pokémon ist bei weiblichen Trainern aufgrund seines Fells beliebt.",
+            "pt-br": "É muito popular entre Treinadoras por causa do seu pelo sublime. Não faz ninho.",
+            "zh-tw": "有著美麗的毛髮， 非常受女性訓練家的歡迎。 沒有固定的住所。"
+          },
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "attacks": {
+          "chosen": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "name": {
+                "en": "Energy Blender",
+                "fr": "Mélangeur d'Énergies",
+                "es": "Batidora Energética",
+                "pt-br": "Mistureba de Energia",
+                "zh-tw": "能量攪拌",
+                "it": "Miscelenergia",
+                "de": "Energiemix"
+              },
+              "effect": {
+                "en": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like.",
+                "fr": "Vous pouvez déplacer autant d'Énergies que vous le voulez de vos Pokémon en jeu vers vos autres Pokémon, comme il vous plaît.",
+                "es": "Puedes mover cualquier cantidad de Energías de tus Pokémon en juego a tus otros Pokémon de la manera que desees.",
+                "de": "Du kannst beliebig viele Energien von deinen Pokémon im Spiel beliebig auf deine anderen Pokémon verschieben.",
+                "pt-br": "Você pode mover qualquer quantidade de Energia dos seus Pokémon em jogo para outros Pokémon seus como desejar.",
+                "zh-tw": "選擇自己的場上寶可夢身上的任意數量的能量,以任意方式改附於自己的寶可夢身上。",
+                "it": "Distribuisci a piacimento tutte le Energie assegnate ai tuoi Pokémon."
+              },
+              "damage": 50
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "weaknesses": {
+          "chosen": [
+            {
+              "type": "Fighting",
+              "value": "+20"
+            }
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "retreat": {
+          "chosen": 1,
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        },
+        "boosters": {
+          "chosen": [
+            "vol13"
+          ],
+          "status": "reviewed",
+          "candidates": [
+            "raenonx-game-master",
+            "pokeos-card-face",
+            "existing-reviewed-printing"
+          ],
+          "evidence": {
+            "cardFaceNumbers": [
+              100
+            ],
+            "donor": "data/Pokémon TCG Pocket/Ruler of the Skies/135.ts",
+            "donorSha256": "f1ee645760456dcd449e0cdd4809904a51743a58603e26d56aa4122ae63692da"
+          }
+        }
+      }
+    }
+  }
+}

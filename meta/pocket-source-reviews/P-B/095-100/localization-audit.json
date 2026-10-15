@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "scope": [
+    "P-B-095",
+    "P-B-096",
+    "P-B-097",
+    "P-B-098",
+    "P-B-099",
+    "P-B-100"
+  ],
+  "passed": true,
+  "nameLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "ruleLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw"
+  ],
+  "imageLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw"
+  ],
+  "missingLocalizedValues": 0,
+  "structuralErrors": 0,
+  "cardFaceOcrRecords": 42,
+  "mechanicsChecks": [
+    "HP",
+    "stage",
+    "energy cost",
+    "damage",
+    "retreat",
+    "ability count",
+    "game pack membership"
+  ],
+  "reviewNotes": [
+    "Darkrai small dark-background flavor is poorly recognized by OCR; verified against the existing reviewed printing of the identical PK_016440 game identity and original card face.",
+    "German Gible self-damage wording and Italian Gible flavor punctuation corrected from this card face.",
+    "Mega Garchomp ex German/Italian attack names reviewed on the native card faces; discard-2 rule reuses the identical reviewed B4-119 template."
+  ],
+  "sourceCardsSha256": "eb51a47b6f9ae4df55c69996bea1208f562035a268f02642bdbc985751eb640a"
+}
