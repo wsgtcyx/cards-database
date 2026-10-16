@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Cabeçada Contínua",
                 "zh-tw": "連續頭撞"
             },
-            damage: 70,
+            damage: "70×",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin until you get tails. This attack does 70 damage for each heads.",

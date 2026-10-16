@@ -13,6 +13,7 @@ import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
 import jscodeshift from 'jscodeshift'
+import { apiDamage, rawDamage } from '../../../../scripts/pocket-attack-damage.mjs'
 import { normalizeRaenonxName } from './normalize-raenonx-name.mjs'
 
 const j = jscodeshift.withParser('ts')
@@ -146,17 +147,6 @@ function costMatches(apiAttack, rawAttack) {
 		if ((actualCounts.get(value) ?? 0) < count) return false
 	}
 	return actual.length >= Number(rawAttack?.energyTotal ?? required.length)
-}
-
-function rawDamage(attack) {
-	const value = attack?.damageMarking?.value ?? null
-	return value === 0 ? null : value
-}
-
-function apiDamage(attack) {
-	if (attack?.damage === undefined || attack?.damage === null) return null
-	const match = String(attack.damage).match(/\d+/u)
-	return match ? Number(match[0]) : null
 }
 
 function checkCard(id, overlayCard, apiCard) {

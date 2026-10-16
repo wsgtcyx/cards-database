@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Soco de última chance",
                 "zh-tw": "最後機會重拳"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Fighting"],
             effect: {
                 en: "If this Pokémon's remaining HP is 30 or less, this attack does 60 more damage.",

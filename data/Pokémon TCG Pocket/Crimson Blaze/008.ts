@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Feixe de crescimento rápido",
                 "zh-tw": "快速生長梁"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Grass"],
             effect: {
                 en: "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage.",

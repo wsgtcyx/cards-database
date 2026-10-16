@@ -83,7 +83,7 @@ const card: Card = {
                 "pt-br": "Jogue uma moeda até sair coroa. Este ataque causa 30 pontos de dano para cada cara.",
                 "zh-tw": "擲硬幣直到出現反面,造成正面出現的次數×30點傷害。"
             },
-            damage: 30
+            damage: "30×"
         }
     ],
     weaknesses: [

@@ -36,7 +36,7 @@ const card: Card = {
                 "pt-br": "Flor poderosa",
                 "zh-tw": "強力綻放"
             },
-            damage: 50,
+            damage: "50×",
             cost: ["Grass", "Colorless"],
             effect: {
                 en: "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.",

@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Psíquico",
                 "zh-tw": "精神"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",

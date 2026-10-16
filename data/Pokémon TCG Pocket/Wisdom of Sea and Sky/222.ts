@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Contra-atacar",
                 "zh-tw": "回擊"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Fighting", "Fighting"],
             effect: {
                 en: "If this Pokémon has damage on it, this attack does 60 more damage.",

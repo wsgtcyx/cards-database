@@ -66,7 +66,7 @@ const card: Card = {
                 "pt-br": "Ragin 'Mad Strike",
                 "zh-tw": "狂暴的瘋狂打擊"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Fire", "Fire"],
             effect: {
                 en: "If this Pokémon has damage on it, this attack does 40 more damage.",

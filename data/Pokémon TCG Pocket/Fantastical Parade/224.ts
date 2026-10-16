@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Investida de Luta",
                 "zh-tw": "格鬥鏟球"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage.",

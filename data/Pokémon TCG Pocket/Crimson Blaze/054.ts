@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Explosão Metálica",
                 "zh-tw": "金屬爆破"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each {M} Energy attached to this Pokémon.",

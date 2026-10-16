@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Giro Duplo",
                 "zh-tw": "雙旋轉"
             },
-            damage: 80,
+            damage: "80×",
             cost: ["Water", "Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 80 damage for each heads.",

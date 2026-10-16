@@ -3,6 +3,7 @@
 import crypto from 'node:crypto'
 import fs from 'node:fs'
 import path from 'node:path'
+import { apiDamage } from '../../../../scripts/pocket-attack-damage.mjs'
 
 function getArg(name, { required = true } = {}) {
 	const exact = process.argv.indexOf(`--${name}`)
@@ -114,8 +115,8 @@ const energyCodes = {
 
 function parseDamage(value) {
 	if (value === undefined || value === null || value === '') return undefined
-	if (Number(value) === 0) return undefined
-	return /^\d+$/u.test(String(value)) ? Number(value) : String(value)
+	const damage = apiDamage({ damage: value })
+	return damage === 0 ? undefined : damage
 }
 
 function cleanRuleText(value) {
@@ -175,9 +176,9 @@ function reconcileAttacks(deckGym, pokemonMeta) {
 			|| !equivalent(left.cost ?? [], right.cost ?? [])
 			|| !equivalent(left.effect ?? '', right.effect ?? '')
 			|| damageBase(left.damage) !== damageBase(right.damage)) return undefined
-		const damage = typeof right.damage === 'string' && /[+x×]$/iu.test(right.damage)
-			? right.damage
-			: left.damage
+		const hasModifier = value => typeof value === 'string' && /[+x×−-]$/iu.test(value)
+		if (hasModifier(left.damage) && hasModifier(right.damage) && apiDamage(left) !== apiDamage(right)) return undefined
+		const damage = hasModifier(right.damage) ? apiDamage(right) : left.damage
 		reconciled.push({
 			name: left.name,
 			cost: left.cost ?? [],

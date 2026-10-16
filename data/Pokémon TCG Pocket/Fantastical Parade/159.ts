@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Batida no solo",
                 "zh-tw": "地面震動"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Grass", "Grass"],
             effect: {
                 en: "If your opponent has gotten exactly 1 points, this attack does 40 more damage.",

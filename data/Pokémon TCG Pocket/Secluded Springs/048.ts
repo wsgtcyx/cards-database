@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Presa Fatídica",
                 "zh-tw": "宿命之牙"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Darkness", "Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage.",

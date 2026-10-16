@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Golpe Rápido",
                 "zh-tw": "快速打擊"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",

@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Estocada ascendente",
                 "zh-tw": "上升弓步"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",

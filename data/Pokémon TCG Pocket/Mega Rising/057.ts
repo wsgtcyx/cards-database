@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Bomba Baleia",
                 "zh-tw": "鯨魚泵"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "This attack does 10 more damage for each {W} Energy attached to this Pokémon.",

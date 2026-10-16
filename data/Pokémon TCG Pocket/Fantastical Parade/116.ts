@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Esmurrar",
                 "zh-tw": "揍"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Metal", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 60 more damage.",

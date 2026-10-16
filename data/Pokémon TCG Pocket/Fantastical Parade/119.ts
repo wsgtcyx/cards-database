@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Lâminas Duplas",
                 "zh-tw": "雙刀片"
             },
-            damage: 40,
+            damage: "40×",
             cost: ["Metal", "Metal"],
             effect: {
                 en: "Flip 2 coins. This attack does 40 damage for each heads.",

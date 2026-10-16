@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Mordida Perigosa",
                 "zh-tw": "危險的咬傷"
             },
-            damage: 70,
+            damage: "70+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 70 more damage.",

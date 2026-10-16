@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Gota de carvão",
                 "zh-tw": "煤滴"
             },
-            damage: 100,
+            damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting"],
             effect: {
                 en: "If your opponent's Active Pokémon is a {G} Pokémon, this attack does 50 more damage.",

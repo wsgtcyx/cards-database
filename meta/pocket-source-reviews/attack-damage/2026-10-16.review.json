@@ -1,0 +1,2122 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-16T05:02:22.925Z",
+  "scope": "Printed attack damage amounts and modifiers. Terapagos ex counts distinct attached Energy types, not individual Energy.",
+  "source": {
+    "file": "meta/pocket-source-reviews/attack-damage/2026-10-16.source.json",
+    "sha256": "78bbfbd8ee6d4cb6bf0a8fa1b5aed263df7799bdef999cef65d2fd2ef89a5fd5"
+  },
+  "summary": {
+    "cardsReviewed": 4314,
+    "cardsFixed": 261,
+    "plus": 193,
+    "multiply": 65,
+    "minus": 3,
+    "independentWebAgreements": 259,
+    "cardImageAdjudications": 2
+  },
+  "changes": [
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Celestial Guardians/217.ts",
+      "id": "A3-217",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3/217"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/008.ts",
+      "id": "B1a-008",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/8"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/021.ts",
+      "id": "B1a-021",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/21"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/037.ts",
+      "id": "B1a-037",
+      "index": 0,
+      "actual": 120,
+      "expected": "120-",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/37",
+      "cardImageReview": {
+        "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_037_EN.png",
+        "sha256": "a128cadcb40881bee8f86cbf69da5438a444a48edf79e9ac53eee36212c58315",
+        "bytes": 1445836,
+        "chosen": "120-",
+        "note": "Manually inspected the original card image: Geoburst prints 120-. The database HTML incorrectly omits the minus."
+      }
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/041.ts",
+      "id": "B1a-041",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/41"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/042.ts",
+      "id": "B1a-042",
+      "index": 0,
+      "actual": 90,
+      "expected": "90×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/42"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/047.ts",
+      "id": "B1a-047",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/47"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/054.ts",
+      "id": "B1a-054",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/54"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/058.ts",
+      "id": "B1a-058",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/58"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/060.ts",
+      "id": "B1a-060",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/60"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/061.ts",
+      "id": "B1a-061",
+      "index": 0,
+      "actual": 50,
+      "expected": "50×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/61"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/062.ts",
+      "id": "B1a-062",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/62"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/063.ts",
+      "id": "B1a-063",
+      "index": 0,
+      "actual": 50,
+      "expected": "50×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/63"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/064.ts",
+      "id": "B1a-064",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/64"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/071.ts",
+      "id": "B1a-071",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/71"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/073.ts",
+      "id": "B1a-073",
+      "index": 0,
+      "actual": 120,
+      "expected": "120-",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/73",
+      "cardImageReview": {
+        "url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_073_EN.png",
+        "sha256": "98a7aed36839cf4563c583a0f057927a98e3b60aedd0520ccf6443e7ea293a81",
+        "bytes": 1515757,
+        "chosen": "120-",
+        "note": "Manually inspected the original card image: Geoburst prints 120-. The database HTML incorrectly omits the minus."
+      }
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/075.ts",
+      "id": "B1a-075",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/75"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/079.ts",
+      "id": "B1a-079",
+      "index": 0,
+      "actual": 90,
+      "expected": "90×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/79"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/085.ts",
+      "id": "B1a-085",
+      "index": 0,
+      "actual": 90,
+      "expected": "90×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/85"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/096.ts",
+      "id": "B1a-096",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/96"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Crimson Blaze/097.ts",
+      "id": "B1a-097",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1a/97"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/023.ts",
+      "id": "A4b-023",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/23"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/025.ts",
+      "id": "A4b-025",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/25"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/026.ts",
+      "id": "A4b-026",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/26"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/054.ts",
+      "id": "A4b-054",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/54"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/076.ts",
+      "id": "A4b-076",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/76"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/077.ts",
+      "id": "A4b-077",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/77"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/082.ts",
+      "id": "A4b-082",
+      "index": 1,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/82"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/120.ts",
+      "id": "A4b-120",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/120"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/130.ts",
+      "id": "A4b-130",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/130"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/131.ts",
+      "id": "A4b-131",
+      "index": 0,
+      "actual": 30,
+      "expected": "30×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/131"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/139.ts",
+      "id": "A4b-139",
+      "index": 1,
+      "actual": 50,
+      "expected": "50×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/139"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/145.ts",
+      "id": "A4b-145",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/145"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/156.ts",
+      "id": "A4b-156",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/156"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/157.ts",
+      "id": "A4b-157",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/157"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/173.ts",
+      "id": "A4b-173",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/173"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/174.ts",
+      "id": "A4b-174",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/174"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/175.ts",
+      "id": "A4b-175",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/175"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/176.ts",
+      "id": "A4b-176",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/176"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/179.ts",
+      "id": "A4b-179",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/179"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/185.ts",
+      "id": "A4b-185",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/185"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/186.ts",
+      "id": "A4b-186",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/186"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/187.ts",
+      "id": "A4b-187",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/187"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/188.ts",
+      "id": "A4b-188",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/188"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/198.ts",
+      "id": "A4b-198",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/198"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/199.ts",
+      "id": "A4b-199",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/199"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/202.ts",
+      "id": "A4b-202",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/202"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/224.ts",
+      "id": "A4b-224",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/224"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/225.ts",
+      "id": "A4b-225",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/225"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/238.ts",
+      "id": "A4b-238",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/238"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/242.ts",
+      "id": "A4b-242",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/242"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/243.ts",
+      "id": "A4b-243",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/243"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/251.ts",
+      "id": "A4b-251",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/251"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/260.ts",
+      "id": "A4b-260",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/260"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/261.ts",
+      "id": "A4b-261",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/261"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/264.ts",
+      "id": "A4b-264",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/264"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/265.ts",
+      "id": "A4b-265",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/265"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/266.ts",
+      "id": "A4b-266",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/266"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/276.ts",
+      "id": "A4b-276",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/276"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/300.ts",
+      "id": "A4b-300",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/300"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/301.ts",
+      "id": "A4b-301",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/301"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/302.ts",
+      "id": "A4b-302",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/302"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/303.ts",
+      "id": "A4b-303",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/303"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/358.ts",
+      "id": "A4b-358",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/358"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/364.ts",
+      "id": "A4b-364",
+      "index": 0,
+      "actual": 30,
+      "expected": "30×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/364"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/372.ts",
+      "id": "A4b-372",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/372"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Deluxe Pack: ex/376.ts",
+      "id": "A4b-376",
+      "index": 0,
+      "actual": 30,
+      "expected": "30×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4b/376"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/002.ts",
+      "id": "A3b-002",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/2"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/007.ts",
+      "id": "A3b-007",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/7"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/013.ts",
+      "id": "A3b-013",
+      "index": 0,
+      "actual": 100,
+      "expected": "100×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/13"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/018.ts",
+      "id": "A3b-018",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/18"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/019.ts",
+      "id": "A3b-019",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/19"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/020.ts",
+      "id": "A3b-020",
+      "index": 0,
+      "actual": 80,
+      "expected": "80×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/20"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+      "id": "A3b-024",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/24"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/025.ts",
+      "id": "A3b-025",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/25"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/028.ts",
+      "id": "A3b-028",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/28"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/031.ts",
+      "id": "A3b-031",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/31"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/032.ts",
+      "id": "A3b-032",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/32"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/033.ts",
+      "id": "A3b-033",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/33"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/036.ts",
+      "id": "A3b-036",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/36"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/037.ts",
+      "id": "A3b-037",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/37"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/058.ts",
+      "id": "A3b-058",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/58"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/061.ts",
+      "id": "A3b-061",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/61"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/065.ts",
+      "id": "A3b-065",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/65"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/070.ts",
+      "id": "A3b-070",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/70"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/074.ts",
+      "id": "A3b-074",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/74"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/075.ts",
+      "id": "A3b-075",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/75"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/076.ts",
+      "id": "A3b-076",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/76"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+      "id": "A3b-080",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/80"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+      "id": "A3b-088",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/88"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/093.ts",
+      "id": "A3b-093",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/93"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/094.ts",
+      "id": "A3b-094",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/94"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/105.ts",
+      "id": "A3b-105",
+      "index": 1,
+      "actual": 50,
+      "expected": "50×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/105"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Eevee Grove/106.ts",
+      "id": "A3b-106",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3b/106"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/003.ts",
+      "id": "A3a-003",
+      "index": 0,
+      "actual": 10,
+      "expected": "10×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/3"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/028.ts",
+      "id": "A3a-028",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/28"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/034.ts",
+      "id": "A3a-034",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/34"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/044.ts",
+      "id": "A3a-044",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/44"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/047.ts",
+      "id": "A3a-047",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/47"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/060.ts",
+      "id": "A3a-060",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/60"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/061.ts",
+      "id": "A3a-061",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/61"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/070.ts",
+      "id": "A3a-070",
+      "index": 0,
+      "actual": 10,
+      "expected": "10×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/70"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/074.ts",
+      "id": "A3a-074",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/74"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/080.ts",
+      "id": "A3a-080",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/80"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/087.ts",
+      "id": "A3a-087",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/87"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/094.ts",
+      "id": "A3a-094",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/94"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/099.ts",
+      "id": "A3a-099",
+      "index": 0,
+      "actual": 50,
+      "expected": "50×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/99"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Extradimensional Crisis/102.ts",
+      "id": "A3a-102",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A3a/102"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/004.ts",
+      "id": "B2-004",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/4"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/007.ts",
+      "id": "B2-007",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/7"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/014.ts",
+      "id": "B2-014",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/14"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/017.ts",
+      "id": "B2-017",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/17"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/031.ts",
+      "id": "B2-031",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/31"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/039.ts",
+      "id": "B2-039",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/39"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/059.ts",
+      "id": "B2-059",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/59"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/069.ts",
+      "id": "B2-069",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/69"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/077.ts",
+      "id": "B2-077",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/77"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/078.ts",
+      "id": "B2-078",
+      "index": 0,
+      "actual": 30,
+      "expected": "30×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/78"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/084.ts",
+      "id": "B2-084",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/84"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/090.ts",
+      "id": "B2-090",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/90"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/100.ts",
+      "id": "B2-100",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/100"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/105.ts",
+      "id": "B2-105",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/105"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/107.ts",
+      "id": "B2-107",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/107"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/116.ts",
+      "id": "B2-116",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/116"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/119.ts",
+      "id": "B2-119",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/119"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/126.ts",
+      "id": "B2-126",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/126"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/128.ts",
+      "id": "B2-128",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/128"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/131.ts",
+      "id": "B2-131",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/131"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/138.ts",
+      "id": "B2-138",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/138"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/143.ts",
+      "id": "B2-143",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/143"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/159.ts",
+      "id": "B2-159",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/159"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/170.ts",
+      "id": "B2-170",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/170"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/171.ts",
+      "id": "B2-171",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/171"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/176.ts",
+      "id": "B2-176",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/176"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/180.ts",
+      "id": "B2-180",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/180"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/194.ts",
+      "id": "B2-194",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/194"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/216.ts",
+      "id": "B2-216",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/216"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/224.ts",
+      "id": "B2-224",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/224"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Fantastical Parade/230.ts",
+      "id": "B2-230",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2/230"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/001.ts",
+      "id": "B1-001",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/1"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/002.ts",
+      "id": "B1-002",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/2"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/014.ts",
+      "id": "B1-014",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/14"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/016.ts",
+      "id": "B1-016",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/16"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/038.ts",
+      "id": "B1-038",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/38"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/040.ts",
+      "id": "B1-040",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/40"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/055.ts",
+      "id": "B1-055",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/55"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/057.ts",
+      "id": "B1-057",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/57"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/060.ts",
+      "id": "B1-060",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/60"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/062.ts",
+      "id": "B1-062",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/62"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/089.ts",
+      "id": "B1-089",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/89"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/099.ts",
+      "id": "B1-099",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/99"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/102.ts",
+      "id": "B1-102",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/102"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/103.ts",
+      "id": "B1-103",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/103"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/108.ts",
+      "id": "B1-108",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/108"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/121.ts",
+      "id": "B1-121",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/121"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/125.ts",
+      "id": "B1-125",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/125"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/136.ts",
+      "id": "B1-136",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/136"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/140.ts",
+      "id": "B1-140",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/140"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/147.ts",
+      "id": "B1-147",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/147"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/149.ts",
+      "id": "B1-149",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/149"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/162.ts",
+      "id": "B1-162",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/162"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/168.ts",
+      "id": "B1-168",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/168"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/174.ts",
+      "id": "B1-174",
+      "index": 1,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/174"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/186.ts",
+      "id": "B1-186",
+      "index": 0,
+      "actual": 30,
+      "expected": "30×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/186"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/193.ts",
+      "id": "B1-193",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/193"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/197.ts",
+      "id": "B1-197",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/197"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/200.ts",
+      "id": "B1-200",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/200"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/203.ts",
+      "id": "B1-203",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/203"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/211.ts",
+      "id": "B1-211",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/211"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/233.ts",
+      "id": "B1-233",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/233"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/244.ts",
+      "id": "B1-244",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/244"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/249.ts",
+      "id": "B1-249",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/249"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/251.ts",
+      "id": "B1-251",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/251"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/252.ts",
+      "id": "B1-252",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/252"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/259.ts",
+      "id": "B1-259",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/259"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/260.ts",
+      "id": "B1-260",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/260"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/264.ts",
+      "id": "B1-264",
+      "index": 1,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/264"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/272.ts",
+      "id": "B1-272",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/272"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/273.ts",
+      "id": "B1-273",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/273"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/278.ts",
+      "id": "B1-278",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/278"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/282.ts",
+      "id": "B1-282",
+      "index": 1,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/282"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/286.ts",
+      "id": "B1-286",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/286"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/320.ts",
+      "id": "B1-320",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/320"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/325.ts",
+      "id": "B1-325",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/325"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mega Rising/328.ts",
+      "id": "B1-328",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B1/328"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Mythical Island/061.ts",
+      "id": "A1a-061",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A1a/61"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Paldean Wonders/126.ts",
+      "id": "B2a-126",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2a/126"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Paldean Wonders/127.ts",
+      "id": "B2a-127",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B2a/127"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Promos-A/063.ts",
+      "id": "P-A-063",
+      "index": 0,
+      "actual": 70,
+      "expected": "70+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/P-A/63"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "id": "P-A-082",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/P-A/82"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "id": "P-A-085",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/P-A/85"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "id": "P-A-086",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/P-A/86"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "id": "P-A-087",
+      "index": 0,
+      "actual": 40,
+      "expected": "40×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/P-A/87"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "id": "P-A-091",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/P-A/91"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "id": "P-A-097",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/P-A/97"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/005.ts",
+      "id": "A4a-005",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/5"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/010.ts",
+      "id": "A4a-010",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/10"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/018.ts",
+      "id": "A4a-018",
+      "index": 0,
+      "actual": 50,
+      "expected": "50×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/18"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/020.ts",
+      "id": "A4a-020",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/20"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/036.ts",
+      "id": "A4a-036",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/36"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/041.ts",
+      "id": "A4a-041",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/41"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/042.ts",
+      "id": "A4a-042",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/42"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/047.ts",
+      "id": "A4a-047",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/47"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/048.ts",
+      "id": "A4a-048",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/48"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/055.ts",
+      "id": "A4a-055",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/55"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/066.ts",
+      "id": "A4a-066",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/66"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/079.ts",
+      "id": "A4a-079",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/79"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/080.ts",
+      "id": "A4a-080",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/80"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/082.ts",
+      "id": "A4a-082",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/82"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/087.ts",
+      "id": "A4a-087",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/87"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/089.ts",
+      "id": "A4a-089",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/89"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/090.ts",
+      "id": "A4a-090",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/90"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/096.ts",
+      "id": "A4a-096",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/96"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Secluded Springs/104.ts",
+      "id": "A4a-104",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4a/104"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Shining Revelry/085.ts",
+      "id": "A2b-085",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A2b/85"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Shining Revelry/093.ts",
+      "id": "A2b-093",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A2b/93"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Space-Time Smackdown/126.ts",
+      "id": "A2-126",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A2/126"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Space-Time Smackdown/141.ts",
+      "id": "A2-141",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A2/141"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Team Rocket's Ambition/036.ts",
+      "id": "B4a-036",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B4a/36"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Team Rocket's Ambition/057.ts",
+      "id": "B4a-057",
+      "index": 0,
+      "actual": 140,
+      "expected": "140-",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B4a/57"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Team Rocket's Ambition/064.ts",
+      "id": "B4a-064",
+      "index": 0,
+      "actual": 30,
+      "expected": "30×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/B4a/64"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Triumphant Light/036.ts",
+      "id": "A2a-036",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A2a/36"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Triumphant Light/079.ts",
+      "id": "A2a-079",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A2a/79"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/003.ts",
+      "id": "A4-003",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/3"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/005.ts",
+      "id": "A4-005",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/5"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/021.ts",
+      "id": "A4-021",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/21"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/022.ts",
+      "id": "A4-022",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/22"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/023.ts",
+      "id": "A4-023",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/23"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/037.ts",
+      "id": "A4-037",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/37"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/045.ts",
+      "id": "A4-045",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/45"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/069.ts",
+      "id": "A4-069",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/69"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/074.ts",
+      "id": "A4-074",
+      "index": 0,
+      "actual": 10,
+      "expected": "10+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/74"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/075.ts",
+      "id": "A4-075",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/75"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/086.ts",
+      "id": "A4-086",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/86"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/100.ts",
+      "id": "A4-100",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/100"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/105.ts",
+      "id": "A4-105",
+      "index": 0,
+      "actual": 30,
+      "expected": "30×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/105"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/123.ts",
+      "id": "A4-123",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/123"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/130.ts",
+      "id": "A4-130",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/130"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/132.ts",
+      "id": "A4-132",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/132"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/133.ts",
+      "id": "A4-133",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/133"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/146.ts",
+      "id": "A4-146",
+      "index": 0,
+      "actual": 60,
+      "expected": "60+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/146"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/147.ts",
+      "id": "A4-147",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/147"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/150.ts",
+      "id": "A4-150",
+      "index": 0,
+      "actual": 70,
+      "expected": "70×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/150"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/163.ts",
+      "id": "A4-163",
+      "index": 0,
+      "actual": 60,
+      "expected": "60×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/163"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/164.ts",
+      "id": "A4-164",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/164"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/172.ts",
+      "id": "A4-172",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/172"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/175.ts",
+      "id": "A4-175",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/175"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/180.ts",
+      "id": "A4-180",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/180"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/183.ts",
+      "id": "A4-183",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/183"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/185.ts",
+      "id": "A4-185",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/185"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/186.ts",
+      "id": "A4-186",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/186"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/191.ts",
+      "id": "A4-191",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/191"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/202.ts",
+      "id": "A4-202",
+      "index": 0,
+      "actual": 20,
+      "expected": "20×",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/202"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/206.ts",
+      "id": "A4-206",
+      "index": 0,
+      "actual": 50,
+      "expected": "50+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/206"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/215.ts",
+      "id": "A4-215",
+      "index": 0,
+      "actual": 20,
+      "expected": "20+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/215"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/219.ts",
+      "id": "A4-219",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/219"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/222.ts",
+      "id": "A4-222",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/222"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/225.ts",
+      "id": "A4-225",
+      "index": 0,
+      "actual": 80,
+      "expected": "80+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/225"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/236.ts",
+      "id": "A4-236",
+      "index": 0,
+      "actual": 40,
+      "expected": "40+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/236"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/238.ts",
+      "id": "A4-238",
+      "index": 0,
+      "actual": 30,
+      "expected": "30+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/238"
+    },
+    {
+      "sourceFile": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky/239.ts",
+      "id": "A4-239",
+      "index": 0,
+      "actual": 100,
+      "expected": "100+",
+      "independentUrl": "https://pocket.limitlesstcg.com/cards/A4/239"
+    }
+  ]
+}

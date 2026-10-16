@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Nó de grama",
                 "zh-tw": "草結"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Grass", "Grass", "Colorless"],
             effect: {
                 en: "This attack does 40 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.",

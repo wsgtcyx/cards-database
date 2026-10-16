@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Cabeçada tripla",
                 "zh-tw": "三連發頭撞"
             },
-            damage: 60,
+            damage: "60×",
             cost: ["Metal", "Colorless"],
             effect: {
                 en: "Flip 3 coins. This attack does 60 damage for each heads.",

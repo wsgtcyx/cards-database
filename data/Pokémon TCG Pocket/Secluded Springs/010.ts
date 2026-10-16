@@ -58,7 +58,7 @@ const card: Card = {
                 "pt-br": "Beatdown ardente",
                 "zh-tw": "熾熱的擊敗"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Fire", "Fire"],
             effect: {
                 en: "If this Pokémon has at least 2 extra {R} Energy attached, this attack does 60 more damage.",

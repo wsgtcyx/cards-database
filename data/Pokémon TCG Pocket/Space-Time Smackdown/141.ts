@@ -48,7 +48,7 @@ const card: Card = {
                 ko: "마구찌르기",
                 "zh-tw": "狂怒攻擊"
             },
-            damage: 20,
+            damage: "20×",
             cost: ["Colorless"],
             effect: {
                 en: "Flip 3 coins. This attack does 20 damage for each heads.",

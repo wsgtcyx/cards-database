@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Ataque a ferida",
                 "zh-tw": "攻擊傷口"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Lightning", "Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon has damage on it, this attack does 30 more damage.",

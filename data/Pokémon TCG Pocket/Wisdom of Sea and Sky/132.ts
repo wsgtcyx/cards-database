@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Golpe de Energia",
                 "zh-tw": "能量打擊"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to this Pokémon.",

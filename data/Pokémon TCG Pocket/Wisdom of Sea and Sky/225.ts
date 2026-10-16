@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Golpe de amor",
                 "zh-tw": "愛情罷工"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Darkness", "Darkness", "Colorless"],
             effect: {
                 en: "This attack does 50 more damage for each of your Benched Nidoking.",

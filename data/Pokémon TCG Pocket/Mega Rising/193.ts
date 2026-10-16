@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Jogue duro",
                 "zh-tw": "玩粗暴"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",

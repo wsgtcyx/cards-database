@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Raspadinha Dupla",
                 "zh-tw": "雙划痕"
             },
-            damage: 20,
+            damage: "20×",
             cost: ["Darkness"],
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",

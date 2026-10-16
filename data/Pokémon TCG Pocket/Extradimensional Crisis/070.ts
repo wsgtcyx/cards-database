@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Ataque de Fúria",
                 "zh-tw": "狂怒攻擊"
             },
-            damage: 10,
+            damage: "10×",
             cost: ["Grass"],
             effect: {
                 en: "Flip 3 coins. This attack does 10 damage for each heads.",

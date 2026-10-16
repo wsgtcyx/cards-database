@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Laser de fótons",
                 "zh-tw": "光子激光"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Psychic"],
             effect: {
                 en: "If you have 5 or more {P} Energy in play, this attack does 60 more damage.",

@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Onda de arrepios",
                 "zh-tw": "顫抖波"
             },
-            damage: 20,
+            damage: "20×",
             effect: {
                 en: "This attack does 20 damage for each Energy attached to your opponent's Active Pokémon.",
                 "fr": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",

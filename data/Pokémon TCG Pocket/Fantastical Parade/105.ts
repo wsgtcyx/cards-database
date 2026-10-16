@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Aperte as garras",
                 "zh-tw": "扣緊爪子"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Darkness"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",

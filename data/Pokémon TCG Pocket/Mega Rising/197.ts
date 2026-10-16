@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Faça a onda",
                 "zh-tw": "做波浪"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each of your Benched Pokémon.",

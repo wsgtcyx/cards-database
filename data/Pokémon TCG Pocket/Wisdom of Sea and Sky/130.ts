@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Bicar insetos",
                 "zh-tw": "啄蟲"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon is a {G} Pokémon, this attack does 40 more damage.",

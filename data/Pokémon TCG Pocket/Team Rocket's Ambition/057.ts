@@ -60,7 +60,7 @@ const card: Card = {
                 "pt-br": "Se este Pokémon estiver danificado, este ataque causará -100 pontos de dano.",
                 "zh-tw": "若這隻寶可夢有受到傷害,則這個招式的傷害-100點。"
             },
-            damage: 140
+            damage: "140-"
         }
     ],
     retreat: 2

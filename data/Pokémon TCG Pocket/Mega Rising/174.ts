@@ -58,7 +58,7 @@ const card: Card = {
                 "pt-br": "Braços Metálicos",
                 "zh-tw": "金屬武器"
             },
-            damage: 100,
+            damage: "100+",
             cost: ["Metal", "Metal", "Metal", "Colorless"],
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",

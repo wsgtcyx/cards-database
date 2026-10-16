@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Balançar",
                 "zh-tw": "左右搖擺"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 20 more damage for each heads.",

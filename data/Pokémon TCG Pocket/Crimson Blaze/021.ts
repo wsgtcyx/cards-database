@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Greve Surpresa",
                 "zh-tw": "奇襲"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Water", "Colorless"],
             effect: {
                 en: "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 40 more damage.",

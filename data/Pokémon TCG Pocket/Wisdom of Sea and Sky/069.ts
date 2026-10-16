@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Soco Trovão",
                 "zh-tw": "雷霆拳"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Lightning", "Lightning"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself.",

@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Pico rasgado",
                 "zh-tw": "斯派克·雷德"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Grass", "Grass", "Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.",

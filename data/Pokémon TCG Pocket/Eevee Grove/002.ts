@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Explosão de folhas",
                 "zh-tw": "葉瘟"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each {G} Energy attached to this Pokémon.",

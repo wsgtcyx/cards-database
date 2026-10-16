@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Soprar",
                 "zh-tw": "吹穿"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "If a Stadium is in play, this attack does 40 more damage.",

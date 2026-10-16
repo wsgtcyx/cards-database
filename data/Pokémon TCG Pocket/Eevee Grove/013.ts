@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Lariat mais escuro",
                 "zh-tw": "黑暗套索"
             },
-            damage: 100,
+            damage: "100×",
             cost: ["Fire", "Fire", "Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 100 damage for each heads.",

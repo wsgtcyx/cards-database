@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Estocada única",
                 "zh-tw": "單弓步"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Grass", "Grass"],
             effect: {
                 en: "If this Pokémon has no damage on it, this attack does 40 more damage.",

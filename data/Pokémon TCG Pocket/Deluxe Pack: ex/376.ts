@@ -37,7 +37,7 @@ const card: Card = {
                 "pt-br": "Circuito Círculo",
                 "zh-tw": "環形電路"
             },
-            damage: 30,
+            damage: "30×",
             cost: ["Lightning", "Lightning"],
             effect: {
                 en: "This attack does 30 damage for each of your Benched {L} Pokémon.",

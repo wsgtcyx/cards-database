@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Vingança",
                 "zh-tw": "復仇"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Fighting", "Colorless"],
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",

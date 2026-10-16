@@ -58,7 +58,7 @@ const card: Card = {
                 "pt-br": "Valsa Cristal",
                 "zh-tw": "水晶華爾茲"
             },
-            damage: 20,
+            damage: "20×",
             cost: ["Water", "Water"],
             effect: {
                 en: "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",

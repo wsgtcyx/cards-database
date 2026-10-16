@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Asa do furacão",
                 "zh-tw": "颶風之翼"
             },
-            damage: 50,
+            damage: "50×",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip 4 coins. This attack does 50 damage for each heads.",

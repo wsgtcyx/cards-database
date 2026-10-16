@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Vamos jogar",
                 "zh-tw": "讓我們扔"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Fighting", "Fighting"],
             effect: {
                 en: "If Passimian is on your Bench, this attack does 40 more damage.",

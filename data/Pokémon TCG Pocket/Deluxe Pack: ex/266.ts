@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Batida incrível",
                 "zh-tw": "很棒的重擊"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Metal", "Metal", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 80 more damage.",

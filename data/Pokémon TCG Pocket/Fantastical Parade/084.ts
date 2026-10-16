@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Chute Psíquico",
                 "zh-tw": "心靈踢球"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Fighting", "Colorless"],
             effect: {
                 en: "If this Pokémon has any {P} Energy attached, this attack does 50 more damage.",

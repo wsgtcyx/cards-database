@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Ciclone de dispersão",
                 "zh-tw": "散射旋風分離器"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each of your opponent's Benched Pokémon.",

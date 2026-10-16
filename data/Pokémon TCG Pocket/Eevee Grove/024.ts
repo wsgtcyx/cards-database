@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Bomba Hidro",
                 "zh-tw": "液壓泵"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Water"],
             effect: {
                 en: "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",

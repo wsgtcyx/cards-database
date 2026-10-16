@@ -1,0 +1,3802 @@
+{
+  "schemaVersion": 1,
+  "role": "Independent mechanics validation, no rules text copied",
+  "cards": [
+    {
+      "id": "A1a-061",
+      "url": "https://pocket.limitlesstcg.com/cards/A1a/61",
+      "retrievedAt": "2026-10-16T04:58:35.216531+00:00",
+      "sha256": "34ee4c39de2be54ec040591ff76f4ace215b67c998533bca447ceee563de900e",
+      "bytes": 13046,
+      "attacks": [
+        {
+          "name": "Continuous Steps",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.png"
+    },
+    {
+      "id": "A2-126",
+      "url": "https://pocket.limitlesstcg.com/cards/A2/126",
+      "retrievedAt": "2026-10-16T04:58:35.082916+00:00",
+      "sha256": "4a1b5ed738d37687ee69cbdf2b2d776747b7376191b9212d1706529d6770064c",
+      "bytes": 13015,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_126_EN.png"
+    },
+    {
+      "id": "A2-141",
+      "url": "https://pocket.limitlesstcg.com/cards/A2/141",
+      "retrievedAt": "2026-10-16T04:58:35.177166+00:00",
+      "sha256": "b314e0f1cf453eca6d046fa077c4a43d8abfcdde0eb8d7e9b49fb1b8b2271c37",
+      "bytes": 13060,
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2/A2_141_EN.png"
+    },
+    {
+      "id": "A2a-036",
+      "url": "https://pocket.limitlesstcg.com/cards/A2a/36",
+      "retrievedAt": "2026-10-16T04:58:35.150159+00:00",
+      "sha256": "36378e7b49f1f925c716cebc39f5a92172677db1b5c2966d0fae210a89174e5f",
+      "bytes": 14062,
+      "attacks": [
+        {
+          "name": "Fighting Headbutt",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_036_EN.png"
+    },
+    {
+      "id": "A2a-079",
+      "url": "https://pocket.limitlesstcg.com/cards/A2a/79",
+      "retrievedAt": "2026-10-16T04:58:36.483204+00:00",
+      "sha256": "b938208313fdc7691d155cd6d192cf737c89d23291f283e2125e63216e0d8d18",
+      "bytes": 14053,
+      "attacks": [
+        {
+          "name": "Fighting Headbutt",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2a/A2a_079_EN.png"
+    },
+    {
+      "id": "A2b-085",
+      "url": "https://pocket.limitlesstcg.com/cards/A2b/85",
+      "retrievedAt": "2026-10-16T04:58:36.530939+00:00",
+      "sha256": "4436c9459b13620605af65cace47084b8bcaca560690c4c24c19c0d5dd0f6d39",
+      "bytes": 14632,
+      "attacks": [
+        {
+          "name": "Venoshock",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_085_EN.png"
+    },
+    {
+      "id": "A2b-093",
+      "url": "https://pocket.limitlesstcg.com/cards/A2b/93",
+      "retrievedAt": "2026-10-16T04:58:36.571535+00:00",
+      "sha256": "880aa5082fdc1a867e6d8bb1b74d5fbfdf0d7fea6a7af67eaea4a494a80f20e7",
+      "bytes": 14608,
+      "attacks": [
+        {
+          "name": "Venoshock",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A2b/A2b_093_EN.png"
+    },
+    {
+      "id": "A3-217",
+      "url": "https://pocket.limitlesstcg.com/cards/A3/217",
+      "retrievedAt": "2026-10-16T04:58:36.553047+00:00",
+      "sha256": "ef877eac6c4985a5674e17a31d9a5b005f551a02b5921bed115acd3f4d9c87c5",
+      "bytes": 13967,
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3/A3_217_EN.png"
+    },
+    {
+      "id": "A3a-003",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/3",
+      "retrievedAt": "2026-10-16T04:58:37.872432+00:00",
+      "sha256": "9f6a33e96e8154bc78d724edd97561d5418a0db38a8b27e2349a24b2983f62e6",
+      "bytes": 13396,
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "10x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_003_EN.png"
+    },
+    {
+      "id": "A3a-028",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/28",
+      "retrievedAt": "2026-10-16T04:58:37.951335+00:00",
+      "sha256": "427f1f44cc1a7cb508829d1f801e1a7f8606d63e61cab473f7c4e0151ca47c88",
+      "bytes": 13044,
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_028_EN.png"
+    },
+    {
+      "id": "A3a-034",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/34",
+      "retrievedAt": "2026-10-16T04:58:37.910701+00:00",
+      "sha256": "b92fa763be3f0b841746e6997a8f93a3d929ca7357a4f5d18cb75aeb0a3c59b4",
+      "bytes": 13082,
+      "attacks": [
+        {
+          "name": "Let’s Throw",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_034_EN.png"
+    },
+    {
+      "id": "A3a-044",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/44",
+      "retrievedAt": "2026-10-16T04:58:37.932197+00:00",
+      "sha256": "b35a9be696a6462844e0bd0644c18494e6803a43a8843db46cb6551389a265b5",
+      "bytes": 13345,
+      "attacks": [
+        {
+          "name": "2-Step",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_044_EN.png"
+    },
+    {
+      "id": "A3a-047",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/47",
+      "retrievedAt": "2026-10-16T04:58:39.210351+00:00",
+      "sha256": "f648df5d55cdd19086d28a9aaefbfa751d1a4fc3564506cda9f1a5a0fbeb02e0",
+      "bytes": 14657,
+      "attacks": [
+        {
+          "name": "Triplet Headbutt",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_047_EN.png"
+    },
+    {
+      "id": "A3a-060",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/60",
+      "retrievedAt": "2026-10-16T04:58:39.355096+00:00",
+      "sha256": "346db36e4da4a790540221d777af40d839ead2a646b8581e9f9c4fae76a68363",
+      "bytes": 14044,
+      "attacks": [
+        {
+          "name": "Quick Blow",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_060_EN.png"
+    },
+    {
+      "id": "A3a-061",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/61",
+      "retrievedAt": "2026-10-16T04:58:39.337929+00:00",
+      "sha256": "33d4c1cb20b4380ef3d882d7fa49ef21e05f9d6c0628ad69b0be477142c19afb",
+      "bytes": 14553,
+      "attacks": [
+        {
+          "name": "Brave Buddies",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_061_EN.png"
+    },
+    {
+      "id": "A3a-070",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/70",
+      "retrievedAt": "2026-10-16T04:58:39.301318+00:00",
+      "sha256": "252f2f887816b216775133c3763dbeda007170c436008b8ea24f3fcc74976439",
+      "bytes": 13386,
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "damage": "10x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_070_EN.png"
+    },
+    {
+      "id": "A3a-074",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/74",
+      "retrievedAt": "2026-10-16T04:58:40.559358+00:00",
+      "sha256": "ade7bc1c474f4510fbe8f7748e215492d59889467c0cf69d96a1e1430b8f26d1",
+      "bytes": 14529,
+      "attacks": [
+        {
+          "name": "Brave Buddies",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_074_EN.png"
+    },
+    {
+      "id": "A3a-080",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/80",
+      "retrievedAt": "2026-10-16T04:58:40.677853+00:00",
+      "sha256": "48fca5580f99aa7f13a5e40a01207e44a88da1b796703ceb4b0c01f570037b6f",
+      "bytes": 14651,
+      "attacks": [
+        {
+          "name": "Triplet Headbutt",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_080_EN.png"
+    },
+    {
+      "id": "A3a-087",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/87",
+      "retrievedAt": "2026-10-16T04:58:40.762879+00:00",
+      "sha256": "a5d200babd3b08693283d3f006e2f8edbe4a4e68dca7405dab4fd7eff20b2f17",
+      "bytes": 14645,
+      "attacks": [
+        {
+          "name": "Triplet Headbutt",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_087_EN.png"
+    },
+    {
+      "id": "A3a-094",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/94",
+      "retrievedAt": "2026-10-16T04:58:40.745308+00:00",
+      "sha256": "553224b0e2c0d98e33f13c17bb3314c824086ae837d73bca4306521c61da73e3",
+      "bytes": 14025,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_094_EN.png"
+    },
+    {
+      "id": "A3a-099",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/99",
+      "retrievedAt": "2026-10-16T04:58:42.365829+00:00",
+      "sha256": "099275554c181f682223417d3b31ea93f1de49274a27fb2f364cdc522d5aa72c",
+      "bytes": 14508,
+      "attacks": [
+        {
+          "name": "Powerful Bloom",
+          "damage": "50x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_099_EN.png"
+    },
+    {
+      "id": "A3a-102",
+      "url": "https://pocket.limitlesstcg.com/cards/A3a/102",
+      "retrievedAt": "2026-10-16T04:58:43.286218+00:00",
+      "sha256": "d2bef4b33319b90cb5beeba667555597bfc48dd802e10a6563b665e0be6d9622",
+      "bytes": 14317,
+      "attacks": [
+        {
+          "name": "Scattering Cyclone",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3a/A3a_102_EN.png"
+    },
+    {
+      "id": "A3b-002",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/2",
+      "retrievedAt": "2026-10-16T04:58:42.598598+00:00",
+      "sha256": "b564933bed98ae6ab17bb00647d4f51dd672d9886d65a7b2b40d3fa56f915fb5",
+      "bytes": 13575,
+      "attacks": [
+        {
+          "name": "Leaf Blast",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_002_EN.png"
+    },
+    {
+      "id": "A3b-007",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/7",
+      "retrievedAt": "2026-10-16T04:58:42.212393+00:00",
+      "sha256": "b4dfef204aef9e22c349f276c61abd787f6315e5a67e86277d8964ebf6eefa3c",
+      "bytes": 13164,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_007_EN.png"
+    },
+    {
+      "id": "A3b-013",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/13",
+      "retrievedAt": "2026-10-16T04:58:44.226035+00:00",
+      "sha256": "c5411352491943acf05e0b4ab2c6577cf4826197c11ae6178150001f0d7010f5",
+      "bytes": 13178,
+      "attacks": [
+        {
+          "name": "Darkest Lariat",
+          "damage": "100x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_013_EN.png"
+    },
+    {
+      "id": "A3b-018",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/18",
+      "retrievedAt": "2026-10-16T04:58:43.894390+00:00",
+      "sha256": "68a6dc8fdcc127a0a15076e541ff596989eac7db545bca988ccf989310d54356",
+      "bytes": 13371,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_018_EN.png"
+    },
+    {
+      "id": "A3b-019",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/19",
+      "retrievedAt": "2026-10-16T04:58:45.108496+00:00",
+      "sha256": "ad9c928b147880e5fb7045541f4e19a59310a8b990ac9a35a550f6c5a2bea71a",
+      "bytes": 13179,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_019_EN.png"
+    },
+    {
+      "id": "A3b-020",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/20",
+      "retrievedAt": "2026-10-16T04:58:44.568896+00:00",
+      "sha256": "b83b742ff5645fc41dbf3028b26249b3c7b3455a3290b37fd60f8e6376564001",
+      "bytes": 13177,
+      "attacks": [
+        {
+          "name": "Double Spin",
+          "damage": "80x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_020_EN.png"
+    },
+    {
+      "id": "A3b-024",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/24",
+      "retrievedAt": "2026-10-16T04:58:45.244601+00:00",
+      "sha256": "f402e839c696968a670f4694138b73a0b7351fc803d57c1847d4e17176b4f3a9",
+      "bytes": 14976,
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "40+"
+        },
+        {
+          "name": "Sparkling Aria",
+          "damage": "100"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_024_EN.png"
+    },
+    {
+      "id": "A3b-025",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/25",
+      "retrievedAt": "2026-10-16T04:58:45.617758+00:00",
+      "sha256": "26d3f8185a6c69e49d57eb40ce1679721e52a978fd6f6ce0c3b8d5909024c1d3",
+      "bytes": 14100,
+      "attacks": [
+        {
+          "name": "Beginning Bolt",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_025_EN.png"
+    },
+    {
+      "id": "A3b-028",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/28",
+      "retrievedAt": "2026-10-16T04:58:45.905551+00:00",
+      "sha256": "933c50cfef800246df8f395aa84c9e96f8f89145eef19f104503c5d5c448f98b",
+      "bytes": 13456,
+      "attacks": [
+        {
+          "name": "Energy Crush",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_028_EN.png"
+    },
+    {
+      "id": "A3b-031",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/31",
+      "retrievedAt": "2026-10-16T04:58:46.499443+00:00",
+      "sha256": "4eeef40e549ca00e82a83034f85c74646161d49cabe843cfd2094e53a6570aa1",
+      "bytes": 13665,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_031_EN.png"
+    },
+    {
+      "id": "A3b-032",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/32",
+      "retrievedAt": "2026-10-16T04:58:46.555403+00:00",
+      "sha256": "ad356992362eb34719e5541c118870cd611921faccf5b230b790824f2a2e4ef9",
+      "bytes": 14188,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_032_EN.png"
+    },
+    {
+      "id": "A3b-033",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/33",
+      "retrievedAt": "2026-10-16T04:58:47.025357+00:00",
+      "sha256": "d0b6b71aa8cba140c8a10b05f6ad8e3d1a5f51fe544fcfbfbe6c632090c1b3d7",
+      "bytes": 13464,
+      "attacks": [
+        {
+          "name": "Evoharmony",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_033_EN.png"
+    },
+    {
+      "id": "A3b-036",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/36",
+      "retrievedAt": "2026-10-16T04:58:47.242438+00:00",
+      "sha256": "6b8fb5f36e879b224c81cd75edf67afa6c565cbd2e53079dda155254cba98ebc",
+      "bytes": 13660,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_036_EN.png"
+    },
+    {
+      "id": "A3b-037",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/37",
+      "retrievedAt": "2026-10-16T04:58:47.828195+00:00",
+      "sha256": "699542d80f66b9536a78d6f7a4c3305d4ce044bc4b48d15d8d47ac6af57715ff",
+      "bytes": 14085,
+      "attacks": [
+        {
+          "name": "Sweets Overload",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_037_EN.png"
+    },
+    {
+      "id": "A3b-058",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/58",
+      "retrievedAt": "2026-10-16T04:58:47.894572+00:00",
+      "sha256": "a7eafaa1d80b2d7ad623ab22b2fc0eb04046a6a42ed6a46fcf6c6c557ce77e82",
+      "bytes": 12984,
+      "attacks": [
+        {
+          "name": "Double Hit",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_058_EN.png"
+    },
+    {
+      "id": "A3b-061",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/61",
+      "retrievedAt": "2026-10-16T04:58:48.388164+00:00",
+      "sha256": "5a747840e6155008873c25b1018f8829e323c61cc0cb71020a40b4863d7fb062",
+      "bytes": 13011,
+      "attacks": [
+        {
+          "name": "Do the Wave",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_061_EN.png"
+    },
+    {
+      "id": "A3b-065",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/65",
+      "retrievedAt": "2026-10-16T04:58:48.560092+00:00",
+      "sha256": "166db81c8c395ce2178da46d3ed14576065732732f3bced413d596d9d150214b",
+      "bytes": 13483,
+      "attacks": [
+        {
+          "name": "Enhanced Fang",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_065_EN.png"
+    },
+    {
+      "id": "A3b-070",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/70",
+      "retrievedAt": "2026-10-16T04:58:49.143846+00:00",
+      "sha256": "7c99bdffd6fb4fd0780773315a4149dcabcc9ff275ae2ce3d0288a23be5e3a73",
+      "bytes": 13591,
+      "attacks": [
+        {
+          "name": "Leaf Blast",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_070_EN.png"
+    },
+    {
+      "id": "A3b-074",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/74",
+      "retrievedAt": "2026-10-16T04:58:49.243354+00:00",
+      "sha256": "f8a79ee55510e885b7964be71025f789ae21c0200eb1da7c05c1e4ac32384db3",
+      "bytes": 14086,
+      "attacks": [
+        {
+          "name": "Beginning Bolt",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_074_EN.png"
+    },
+    {
+      "id": "A3b-075",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/75",
+      "retrievedAt": "2026-10-16T04:58:49.746429+00:00",
+      "sha256": "5ddd9c9784f4f4f95a03b9ee02e360463e343e0e73b6967ad9133eaefd75dccc",
+      "bytes": 13430,
+      "attacks": [
+        {
+          "name": "Energy Crush",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_075_EN.png"
+    },
+    {
+      "id": "A3b-076",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/76",
+      "retrievedAt": "2026-10-16T04:58:49.936138+00:00",
+      "sha256": "65d4a1f7440c804d6cc8636deee5e141bce63ceeeea5d2e846f31b45db05874d",
+      "bytes": 13458,
+      "attacks": [
+        {
+          "name": "Evoharmony",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_076_EN.png"
+    },
+    {
+      "id": "A3b-080",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/80",
+      "retrievedAt": "2026-10-16T04:58:50.514599+00:00",
+      "sha256": "b8c1ca525dbc382605de19396c31e4c7b36d5b7fcec379a047d01a414cfc4c4d",
+      "bytes": 14970,
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "40+"
+        },
+        {
+          "name": "Sparkling Aria",
+          "damage": "100"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_080_EN.png"
+    },
+    {
+      "id": "A3b-088",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/88",
+      "retrievedAt": "2026-10-16T04:58:50.592141+00:00",
+      "sha256": "0ebd02e5f20d45f143fa0f4707649d2054dc79873b5e8ff571ef46ffd225281d",
+      "bytes": 14944,
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "40+"
+        },
+        {
+          "name": "Sparkling Aria",
+          "damage": "100"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_088_EN.png"
+    },
+    {
+      "id": "A3b-093",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/93",
+      "retrievedAt": "2026-10-16T04:58:51.083736+00:00",
+      "sha256": "e0d03e3f2ad48bfb7caa92921ae61d04229191cd77c1a16c524337672348ffe8",
+      "bytes": 13371,
+      "attacks": [
+        {
+          "name": "Guillotine Rush",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_093_EN.png"
+    },
+    {
+      "id": "A3b-094",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/94",
+      "retrievedAt": "2026-10-16T04:58:51.583073+00:00",
+      "sha256": "86d5754c01ee4652040347c55f6bdc39cfaf061cf89012d3c9fc59d39625a556",
+      "bytes": 13792,
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_094_EN.png"
+    },
+    {
+      "id": "A3b-105",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/105",
+      "retrievedAt": "2026-10-16T04:58:51.917198+00:00",
+      "sha256": "77f4a4c65e6037f9ec04e7566f062959635d48336e048c7d4423164c976d9ce2",
+      "bytes": 14646,
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "20"
+        },
+        {
+          "name": "Thundering Hurricane",
+          "damage": "50x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_105_EN.png"
+    },
+    {
+      "id": "A3b-106",
+      "url": "https://pocket.limitlesstcg.com/cards/A3b/106",
+      "retrievedAt": "2026-10-16T04:58:52.059938+00:00",
+      "sha256": "6abc2bb1a15ad0144f41b4495de28573016e2475ce4ff807a003e2ef7ad4ab12",
+      "bytes": 14597,
+      "attacks": [
+        {
+          "name": "Energized Blade",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A3b/A3b_106_EN.png"
+    },
+    {
+      "id": "A4-003",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/3",
+      "retrievedAt": "2026-10-16T04:58:52.455731+00:00",
+      "sha256": "2666a20957a69bd29b8a4e2ea674dfa1a63f3ece1aa89b2d69cf500191a7589e",
+      "bytes": 13527,
+      "attacks": [
+        {
+          "name": "Petal Dance",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_003_EN.png"
+    },
+    {
+      "id": "A4-005",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/5",
+      "retrievedAt": "2026-10-16T04:58:52.969329+00:00",
+      "sha256": "051fd0d38fc606b1294be5618ea1f15bb6b4c47ed98a4655330504561154bcee",
+      "bytes": 13254,
+      "attacks": [
+        {
+          "name": "Grass Knot",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_005_EN.png"
+    },
+    {
+      "id": "A4-021",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/21",
+      "retrievedAt": "2026-10-16T04:58:53.303398+00:00",
+      "sha256": "8a6ca5d9d42b9dba962b9634feb2f6f6c59bc86d0e2bdb47f6e33ddd4b5f7b86",
+      "bytes": 14544,
+      "attacks": [
+        {
+          "name": "Triple Slap",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_021_EN.png"
+    },
+    {
+      "id": "A4-022",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/22",
+      "retrievedAt": "2026-10-16T04:58:53.344073+00:00",
+      "sha256": "ad2223dc7fbe1d1a947199999f66998996981936aa59621d302947cd74fc38e2",
+      "bytes": 13397,
+      "attacks": [
+        {
+          "name": "Single Lunge",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_022_EN.png"
+    },
+    {
+      "id": "A4-023",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/23",
+      "retrievedAt": "2026-10-16T04:58:53.831207+00:00",
+      "sha256": "551bee78c56209b91973c1e8515e731a10fca2266046e37844a5cc9ff1e1ade9",
+      "bytes": 14309,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_023_EN.png"
+    },
+    {
+      "id": "A4-037",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/37",
+      "retrievedAt": "2026-10-16T04:58:54.350360+00:00",
+      "sha256": "4fd857b1e6c088cdb11ed0ca081a3a009c3badc372e366cb2731b563de468f82",
+      "bytes": 13085,
+      "attacks": [
+        {
+          "name": "Roasting Heat",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_037_EN.png"
+    },
+    {
+      "id": "A4-045",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/45",
+      "retrievedAt": "2026-10-16T04:58:54.677218+00:00",
+      "sha256": "b2d6d6bc758a9c694edd985515e3e97e1ccfebd89ac1b2e5df91a25592d95056",
+      "bytes": 13711,
+      "attacks": [
+        {
+          "name": "Wild Swing",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_045_EN.png"
+    },
+    {
+      "id": "A4-069",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/69",
+      "retrievedAt": "2026-10-16T04:58:54.706136+00:00",
+      "sha256": "e6cee9b594c639a91045ca5f52d426ec74545f83ee0c5c377de2319579394ae3",
+      "bytes": 13573,
+      "attacks": [
+        {
+          "name": "Thunder Punch",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_069_EN.png"
+    },
+    {
+      "id": "A4-074",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/74",
+      "retrievedAt": "2026-10-16T04:58:55.178277+00:00",
+      "sha256": "4608f092cfec73c6769d992cc9dacfc912c1d3c517556db8a408fd70a8a1980b",
+      "bytes": 13213,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_074_EN.png"
+    },
+    {
+      "id": "A4-075",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/75",
+      "retrievedAt": "2026-10-16T04:58:55.721392+00:00",
+      "sha256": "42e64f93953fadf4199edc42bae85311b8d043107f08d5398c300fa860a04526",
+      "bytes": 13134,
+      "attacks": [
+        {
+          "name": "Shivery Wave",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_075_EN.png"
+    },
+    {
+      "id": "A4-086",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/86",
+      "retrievedAt": "2026-10-16T04:58:57.111108+00:00",
+      "sha256": "c04b9f7723af6a8c2a7f504a16df349fb40780bf47f56bfba087e64d5a37058e",
+      "bytes": 13462,
+      "attacks": [
+        {
+          "name": "Reply Strongly",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_086_EN.png"
+    },
+    {
+      "id": "A4-100",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/100",
+      "retrievedAt": "2026-10-16T04:58:56.088851+00:00",
+      "sha256": "01ee46bb6de4864783adaf4ecef231817099606c0a3cd1170bfc40e0c31f5e72",
+      "bytes": 14783,
+      "attacks": [
+        {
+          "name": "Gigantic Press",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_100_EN.png"
+    },
+    {
+      "id": "A4-105",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/105",
+      "retrievedAt": "2026-10-16T04:58:56.520141+00:00",
+      "sha256": "f4cfe4f6a9be33b6a3e102fb89b886559ab6ffbbef6519ce1b1f488a5856d392",
+      "bytes": 13089,
+      "attacks": [
+        {
+          "name": "Dual Chop",
+          "damage": "30x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_105_EN.png"
+    },
+    {
+      "id": "A4-123",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/123",
+      "retrievedAt": "2026-10-16T04:58:57.036796+00:00",
+      "sha256": "9ac960b15e97533ed27dfa509aac24ba0d0e703780155ecbc442e69e8455dace",
+      "bytes": 13546,
+      "attacks": [
+        {
+          "name": "Gale Thrust",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_123_EN.png"
+    },
+    {
+      "id": "A4-130",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/130",
+      "retrievedAt": "2026-10-16T04:58:57.392171+00:00",
+      "sha256": "a4d01e21290f37db660094ebd0b23f090af219576334d87853014861f81b23d9",
+      "bytes": 13335,
+      "attacks": [
+        {
+          "name": "Peck Bugs",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_130_EN.png"
+    },
+    {
+      "id": "A4-132",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/132",
+      "retrievedAt": "2026-10-16T04:58:57.828558+00:00",
+      "sha256": "77cfac55120e51fefcbafcbb44d96f4a3c992040feacb4e21ba4c6c7ffe5a86a",
+      "bytes": 13523,
+      "attacks": [
+        {
+          "name": "Energy Blow",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_132_EN.png"
+    },
+    {
+      "id": "A4-133",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/133",
+      "retrievedAt": "2026-10-16T04:58:59.362756+00:00",
+      "sha256": "4d4fd290f027839f3e52c87dafa1221019dd5ca49febc58020a87d649c27a041",
+      "bytes": 13458,
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_133_EN.png"
+    },
+    {
+      "id": "A4-146",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/146",
+      "retrievedAt": "2026-10-16T04:58:58.415555+00:00",
+      "sha256": "57277c7e95292ad4c93f9c80df9b63f8dc9da98f548e50e8ff206b74e3325de3",
+      "bytes": 13247,
+      "attacks": [
+        {
+          "name": "Swing Around",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_146_EN.png"
+    },
+    {
+      "id": "A4-147",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/147",
+      "retrievedAt": "2026-10-16T04:58:58.775638+00:00",
+      "sha256": "b5429ae4cc68f6536829081acb62bb8e2ab2e9c10a7b3bbda2535360bc6f468b",
+      "bytes": 13428,
+      "attacks": [
+        {
+          "name": "Enhanced Horns",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_147_EN.png"
+    },
+    {
+      "id": "A4-150",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/150",
+      "retrievedAt": "2026-10-16T04:58:59.202220+00:00",
+      "sha256": "e7fee22ed8c307f1de8c77b75d7ea762532fcdfe4144071e0dfd0238a9ecfdc9",
+      "bytes": 13117,
+      "attacks": [
+        {
+          "name": "Continuous Headbutt",
+          "damage": "70x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_150_EN.png"
+    },
+    {
+      "id": "A4-163",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/163",
+      "retrievedAt": "2026-10-16T04:59:00.850658+00:00",
+      "sha256": "da40a7476df3a7a9f1ffed01be7d3dbb7cf883a0517b1df59304650cfbef7a58",
+      "bytes": 13529,
+      "attacks": [
+        {
+          "name": "Petal Dance",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_163_EN.png"
+    },
+    {
+      "id": "A4-164",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/164",
+      "retrievedAt": "2026-10-16T04:59:02.245901+00:00",
+      "sha256": "ebc3df8d00af0397a43504bbe75f109fad2f72abf348549fde13c6ea41deb9de",
+      "bytes": 13385,
+      "attacks": [
+        {
+          "name": "Single Lunge",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_164_EN.png"
+    },
+    {
+      "id": "A4-172",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/172",
+      "retrievedAt": "2026-10-16T04:59:00.664002+00:00",
+      "sha256": "9cab0adda550fa19613d7f19207f31e880c36e5b82035e61f4dfea2447259a0f",
+      "bytes": 13561,
+      "attacks": [
+        {
+          "name": "Thunder Punch",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_172_EN.png"
+    },
+    {
+      "id": "A4-175",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/175",
+      "retrievedAt": "2026-10-16T04:59:00.754956+00:00",
+      "sha256": "e226090b86366cb7d40c993412134b68e9bb300e15e4fe01eea4d991868680b0",
+      "bytes": 13458,
+      "attacks": [
+        {
+          "name": "Reply Strongly",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_175_EN.png"
+    },
+    {
+      "id": "A4-180",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/180",
+      "retrievedAt": "2026-10-16T04:59:03.015932+00:00",
+      "sha256": "82e51d2ac6b413d90a97de6bdc046680e366b96a8fede8a776c3584a5e9ff9de",
+      "bytes": 13534,
+      "attacks": [
+        {
+          "name": "Gale Thrust",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_180_EN.png"
+    },
+    {
+      "id": "A4-183",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/183",
+      "retrievedAt": "2026-10-16T04:59:02.226330+00:00",
+      "sha256": "fe14019d7b2f54922738e8834b529f89ae80ff85fa124c3868cbf61cd98cdf6d",
+      "bytes": 13451,
+      "attacks": [
+        {
+          "name": "Enhanced Horns",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_183_EN.png"
+    },
+    {
+      "id": "A4-185",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/185",
+      "retrievedAt": "2026-10-16T04:59:02.172471+00:00",
+      "sha256": "b4e2b19540976d2fb9d9519015618440ce7340cc91587cf3e24dc95f2342de0e",
+      "bytes": 13537,
+      "attacks": [
+        {
+          "name": "Energy Blow",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_185_EN.png"
+    },
+    {
+      "id": "A4-186",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/186",
+      "retrievedAt": "2026-10-16T04:59:03.591849+00:00",
+      "sha256": "40adbe36e07c780f7447cd290123ca933e088bd3effb8d81aac795f0ef6a051a",
+      "bytes": 14542,
+      "attacks": [
+        {
+          "name": "Triple Slap",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_186_EN.png"
+    },
+    {
+      "id": "A4-191",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/191",
+      "retrievedAt": "2026-10-16T04:59:03.613946+00:00",
+      "sha256": "44892dd0b0cbfbebca17076ed181a3f75c6f7d347d888235e3f01a60d5613737",
+      "bytes": 14777,
+      "attacks": [
+        {
+          "name": "Gigantic Press",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_191_EN.png"
+    },
+    {
+      "id": "A4-202",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/202",
+      "retrievedAt": "2026-10-16T04:59:03.613730+00:00",
+      "sha256": "96fd29a83433a8f56b60254db41acb605d9c4020c2ce1fdfaa7d0633e3d65af1",
+      "bytes": 14538,
+      "attacks": [
+        {
+          "name": "Triple Slap",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_202_EN.png"
+    },
+    {
+      "id": "A4-206",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/206",
+      "retrievedAt": "2026-10-16T04:59:05.626914+00:00",
+      "sha256": "3d09a2c3551b605ad01f28973cb6b8084c4d86a8b5af402538607d6bf059767f",
+      "bytes": 14767,
+      "attacks": [
+        {
+          "name": "Gigantic Press",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_206_EN.png"
+    },
+    {
+      "id": "A4-215",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/215",
+      "retrievedAt": "2026-10-16T04:59:04.912827+00:00",
+      "sha256": "39856b09dd73d65a4f56b772e7a0298657a7062bdb186a8cda03168f9a6d73bf",
+      "bytes": 13731,
+      "attacks": [
+        {
+          "name": "Wild Swing",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_215_EN.png"
+    },
+    {
+      "id": "A4-219",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/219",
+      "retrievedAt": "2026-10-16T04:59:05.655848+00:00",
+      "sha256": "9e59b5bf0e7960027ec0c7ac89ed797d02b9e70a26c92cfa726d12e5a5d2917c",
+      "bytes": 14145,
+      "attacks": [
+        {
+          "name": "Beginning Bolt",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_219_EN.png"
+    },
+    {
+      "id": "A4-222",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/222",
+      "retrievedAt": "2026-10-16T04:59:05.022235+00:00",
+      "sha256": "33f85b941a06382194f845f9c18e46620ace0a989a317ac290b7a7a0ab316800",
+      "bytes": 13496,
+      "attacks": [
+        {
+          "name": "Fight Back",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_222_EN.png"
+    },
+    {
+      "id": "A4-225",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/225",
+      "retrievedAt": "2026-10-16T04:59:06.390363+00:00",
+      "sha256": "5fec8674c7dd283aea1cf230c499522df9fb837025a43468c88889c671ae0aa4",
+      "bytes": 13879,
+      "attacks": [
+        {
+          "name": "Lovestrike",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_225_EN.png"
+    },
+    {
+      "id": "A4-236",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/236",
+      "retrievedAt": "2026-10-16T04:59:06.390518+00:00",
+      "sha256": "cdb4f670397f25c21c7a3bb91f741d010f06558e9a93fe4c59dd427ee94382fd",
+      "bytes": 14518,
+      "attacks": [
+        {
+          "name": "Sparking Gadget",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_236_EN.png"
+    },
+    {
+      "id": "A4-238",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/238",
+      "retrievedAt": "2026-10-16T04:59:07.042309+00:00",
+      "sha256": "a4e12984214be0edceffc9a5888966fd400d744d4105f5a7afdbd0a64f5836f4",
+      "bytes": 14640,
+      "attacks": [
+        {
+          "name": "Scratching Nails",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_238_EN.png"
+    },
+    {
+      "id": "A4-239",
+      "url": "https://pocket.limitlesstcg.com/cards/A4/239",
+      "retrievedAt": "2026-10-16T04:59:07.015774+00:00",
+      "sha256": "80884a7449db7e316ddb6694f7d925da30dfa7d810abec7736156a4d7664f6ea",
+      "bytes": 14651,
+      "attacks": [
+        {
+          "name": "Licking Fury",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4/A4_239_EN.png"
+    },
+    {
+      "id": "A4a-005",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/5",
+      "retrievedAt": "2026-10-16T04:59:08.540422+00:00",
+      "sha256": "e754037c7f74545c1090c3ea888f75f5ea97545ebba0d26136661c21489c561a",
+      "bytes": 13138,
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_005_EN.png"
+    },
+    {
+      "id": "A4a-010",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/10",
+      "retrievedAt": "2026-10-16T04:59:09.057029+00:00",
+      "sha256": "44c204cba32a2f54db5ff5d9e2e661b8b4557b2c2090800575dbf80f33f43fcb",
+      "bytes": 15004,
+      "attacks": [
+        {
+          "name": "Blazing Beatdown",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_010_EN.png"
+    },
+    {
+      "id": "A4a-018",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/18",
+      "retrievedAt": "2026-10-16T04:59:08.522770+00:00",
+      "sha256": "e438fb51a4a32fa56d10c0cedbe6614093a44dafda514c9a7071ba4742e48525",
+      "bytes": 13203,
+      "attacks": [
+        {
+          "name": "Litter",
+          "damage": "50x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_018_EN.png"
+    },
+    {
+      "id": "A4a-020",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/20",
+      "retrievedAt": "2026-10-16T04:59:08.592325+00:00",
+      "sha256": "5be1fa33574935c952bbbbca85d7e9ab15bf4c89ac9fa647e7e8e44374615428",
+      "bytes": 14613,
+      "attacks": [
+        {
+          "name": "Crystal Waltz",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_020_EN.png"
+    },
+    {
+      "id": "A4a-036",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/36",
+      "retrievedAt": "2026-10-16T04:59:09.864180+00:00",
+      "sha256": "01c452f0ccad0a4b5557557dbb52f29e7efbf12ce79cccc460ea63d4093d9339",
+      "bytes": 13654,
+      "attacks": [
+        {
+          "name": "Crossing Flights",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_036_EN.png"
+    },
+    {
+      "id": "A4a-041",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/41",
+      "retrievedAt": "2026-10-16T04:59:09.932509+00:00",
+      "sha256": "f28c7ffbf8f5dbb79f4ae2d84f06da99314b5420155ddd5d9c6610b1a686d1c6",
+      "bytes": 13332,
+      "attacks": [
+        {
+          "name": "Cliff Crumbler",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_041_EN.png"
+    },
+    {
+      "id": "A4a-042",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/42",
+      "retrievedAt": "2026-10-16T04:59:10.027628+00:00",
+      "sha256": "1315390b17576bd584ccabbee3ec9f8780e982f0a7bdb69ea9f8b6602b15a759",
+      "bytes": 14084,
+      "attacks": [
+        {
+          "name": "Hydro Knuckle",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_042_EN.png"
+    },
+    {
+      "id": "A4a-047",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/47",
+      "retrievedAt": "2026-10-16T04:59:10.835232+00:00",
+      "sha256": "eabc08708ff2aa100ee03d59f90bed1cee7d1192fb2ccac371a8a7796db35b91",
+      "bytes": 13151,
+      "attacks": [
+        {
+          "name": "Stone Edge",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_047_EN.png"
+    },
+    {
+      "id": "A4a-048",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/48",
+      "retrievedAt": "2026-10-16T04:59:11.485471+00:00",
+      "sha256": "373c921aa960cfef90ba61ac3dd5fa0d5d276d33c46b18223ae37d5c6b7b27ba",
+      "bytes": 13061,
+      "attacks": [
+        {
+          "name": "Fateful Fang",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_048_EN.png"
+    },
+    {
+      "id": "A4a-055",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/55",
+      "retrievedAt": "2026-10-16T04:59:12.129803+00:00",
+      "sha256": "5817ca3644b9f3a7ae2776c91feaeec7d19331d232d007a0b47c5164261aba01",
+      "bytes": 13179,
+      "attacks": [
+        {
+          "name": "Dragon Arcana",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_055_EN.png"
+    },
+    {
+      "id": "A4a-066",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/66",
+      "retrievedAt": "2026-10-16T04:59:11.613118+00:00",
+      "sha256": "b0fc59f9954e8478705a6a7b542a547b8e41a14494e00f9559bca6c83b2eb08c",
+      "bytes": 13043,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_066_EN.png"
+    },
+    {
+      "id": "A4a-079",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/79",
+      "retrievedAt": "2026-10-16T04:59:12.264480+00:00",
+      "sha256": "c060c6d046be793f20787818b557a1b5b624b91bb8e90a27488187e62188f8df",
+      "bytes": 14998,
+      "attacks": [
+        {
+          "name": "Blazing Beatdown",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_079_EN.png"
+    },
+    {
+      "id": "A4a-080",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/80",
+      "retrievedAt": "2026-10-16T04:59:12.847605+00:00",
+      "sha256": "f3433ced46c8fe13f849e5fdd795ae928c291bf50790f24bfd8cb1e5032e5d75",
+      "bytes": 14607,
+      "attacks": [
+        {
+          "name": "Crystal Waltz",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_080_EN.png"
+    },
+    {
+      "id": "A4a-082",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/82",
+      "retrievedAt": "2026-10-16T04:59:12.962149+00:00",
+      "sha256": "80b302441b86b69e87b44bab26a824bc9970b76476612abac63eef8f6060a900",
+      "bytes": 14080,
+      "attacks": [
+        {
+          "name": "Hydro Knuckle",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_082_EN.png"
+    },
+    {
+      "id": "A4a-087",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/87",
+      "retrievedAt": "2026-10-16T04:59:13.495294+00:00",
+      "sha256": "46f167381f409c3c02f811cb50c5626a5526fcd6c29f0bad0971c31f7dcd7f35",
+      "bytes": 14996,
+      "attacks": [
+        {
+          "name": "Blazing Beatdown",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_087_EN.png"
+    },
+    {
+      "id": "A4a-089",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/89",
+      "retrievedAt": "2026-10-16T04:59:13.662811+00:00",
+      "sha256": "8fc5de34705060917d3c6594761b10224991a74f264cde2f86901f5ff2ff12c9",
+      "bytes": 14060,
+      "attacks": [
+        {
+          "name": "Hydro Knuckle",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_089_EN.png"
+    },
+    {
+      "id": "A4a-090",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/90",
+      "retrievedAt": "2026-10-16T04:59:14.229173+00:00",
+      "sha256": "71b7f17d9c6f14e1d55bc0aa56bcf771a3425b163e189f4e8b995334d1df2f9d",
+      "bytes": 14586,
+      "attacks": [
+        {
+          "name": "Crystal Waltz",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_090_EN.png"
+    },
+    {
+      "id": "A4a-096",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/96",
+      "retrievedAt": "2026-10-16T04:59:14.335522+00:00",
+      "sha256": "de5857fff2dd2cd5dc25347197ccf0a9ba149a9036c3cfa26aa3f8dffdadc7cb",
+      "bytes": 13485,
+      "attacks": [
+        {
+          "name": "KO Crab",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_096_EN.png"
+    },
+    {
+      "id": "A4a-104",
+      "url": "https://pocket.limitlesstcg.com/cards/A4a/104",
+      "retrievedAt": "2026-10-16T04:59:14.874233+00:00",
+      "sha256": "e4642bce060f10cbe2c39d3826a9bf20d204bf2537c6c7787bd011b3a7a14272",
+      "bytes": 14641,
+      "attacks": [
+        {
+          "name": "Venoshock",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_104_EN.png"
+    },
+    {
+      "id": "A4b-023",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/23",
+      "retrievedAt": "2026-10-16T04:59:14.989166+00:00",
+      "sha256": "52b8ba3848450dea2f0ff42c92b56fd674c18c5bcce2ab9605163bd4159e1895",
+      "bytes": 14512,
+      "attacks": [
+        {
+          "name": "Triple Slap",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_023_EN.png"
+    },
+    {
+      "id": "A4b-025",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/25",
+      "retrievedAt": "2026-10-16T04:59:15.609325+00:00",
+      "sha256": "b7ef614d9dee115c87b962aeefd919c1c291e54d288d737ef28fd5d01bf028c3",
+      "bytes": 14293,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_025_EN.png"
+    },
+    {
+      "id": "A4b-026",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/26",
+      "retrievedAt": "2026-10-16T04:59:15.687187+00:00",
+      "sha256": "60caea576d4105377881550c51a6b7e3ae645471adf01d3d1a14e89a155a6e15",
+      "bytes": 14293,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_026_EN.png"
+    },
+    {
+      "id": "A4b-054",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/54",
+      "retrievedAt": "2026-10-16T04:59:16.333641+00:00",
+      "sha256": "3e5bb5484100c4f59096949b6de7359f20c116c31b9b9310b1722973341c3ead",
+      "bytes": 14505,
+      "attacks": [
+        {
+          "name": "Fighting Claws",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_054_EN.png"
+    },
+    {
+      "id": "A4b-076",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/76",
+      "retrievedAt": "2026-10-16T04:59:16.381204+00:00",
+      "sha256": "f43cb22c451186aa42448f8b5c8f36cba3285545724b3c9655a755c48aef0645",
+      "bytes": 14109,
+      "attacks": [
+        {
+          "name": "Ragin’ Mad Strike",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_076_EN.png"
+    },
+    {
+      "id": "A4b-077",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/77",
+      "retrievedAt": "2026-10-16T04:59:17.004001+00:00",
+      "sha256": "1c0e1bf5bc72a09eb434539baf3946d0309fbfcaa2fa329c52c77dc616c1edc9",
+      "bytes": 14109,
+      "attacks": [
+        {
+          "name": "Ragin’ Mad Strike",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_077_EN.png"
+    },
+    {
+      "id": "A4b-082",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/82",
+      "retrievedAt": "2026-10-16T04:59:17.089179+00:00",
+      "sha256": "370d2044551d69ad7c6d4ad060334b476b3a161b542bb0f63a34df2e3221afbf",
+      "bytes": 14872,
+      "attacks": [
+        {
+          "name": "Fire Fang",
+          "damage": "30"
+        },
+        {
+          "name": "Scar-Charged Smash",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_082_EN.png"
+    },
+    {
+      "id": "A4b-120",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/120",
+      "retrievedAt": "2026-10-16T04:59:17.713409+00:00",
+      "sha256": "1c45f2c8bda82aa9d8773e28abc4367785fde22d08f17e3be18db7e93f8d1493",
+      "bytes": 14989,
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "40+"
+        },
+        {
+          "name": "Sparkling Aria",
+          "damage": "100"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_120_EN.png"
+    },
+    {
+      "id": "A4b-130",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/130",
+      "retrievedAt": "2026-10-16T04:59:17.680422+00:00",
+      "sha256": "9a7d1542a4587c600cbdfefc69c60cbb8ba2eb84d7c15afea616928e9d9ee26c",
+      "bytes": 14310,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_130_EN.png"
+    },
+    {
+      "id": "A4b-131",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/131",
+      "retrievedAt": "2026-10-16T04:59:18.382056+00:00",
+      "sha256": "377bcb54cd2df7f792ee2b144e3f85a06fcf083bf87a19aa0e33f20bb91cbb53",
+      "bytes": 15230,
+      "attacks": [
+        {
+          "name": "Circle Circuit",
+          "damage": "30x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_131_EN.png"
+    },
+    {
+      "id": "A4b-139",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/139",
+      "retrievedAt": "2026-10-16T04:59:18.450095+00:00",
+      "sha256": "82bab2d9b7628d0d7c34e722335e06e089705945cc4a789180da57f0b7813d69",
+      "bytes": 14667,
+      "attacks": [
+        {
+          "name": "Peck",
+          "damage": "20"
+        },
+        {
+          "name": "Thundering Hurricane",
+          "damage": "50x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_139_EN.png"
+    },
+    {
+      "id": "A4b-145",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/145",
+      "retrievedAt": "2026-10-16T04:59:19.084277+00:00",
+      "sha256": "684455430a1273e17c70b5e6d77144c9823d64992f90e2d7353e94b961176391",
+      "bytes": 14492,
+      "attacks": [
+        {
+          "name": "Sparking Gadget",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_145_EN.png"
+    },
+    {
+      "id": "A4b-156",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/156",
+      "retrievedAt": "2026-10-16T04:59:19.054797+00:00",
+      "sha256": "65676525b4d73d8cc93f130d3d9d531d4d06b532ac2c0c43970236f2d79ee023",
+      "bytes": 14004,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_156_EN.png"
+    },
+    {
+      "id": "A4b-157",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/157",
+      "retrievedAt": "2026-10-16T04:59:19.892961+00:00",
+      "sha256": "fb866e2bdbff14aff8fb9e42c710f86e63d9c7b31f17cf59ab5a1eea595c1a23",
+      "bytes": 14004,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_157_EN.png"
+    },
+    {
+      "id": "A4b-173",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/173",
+      "retrievedAt": "2026-10-16T04:59:19.954711+00:00",
+      "sha256": "2c20bc42e8954241626fb866d163cd0981f83908ef1c64b7134bf698f2e5926d",
+      "bytes": 13678,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_173_EN.png"
+    },
+    {
+      "id": "A4b-174",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/174",
+      "retrievedAt": "2026-10-16T04:59:20.708648+00:00",
+      "sha256": "71358af19142dd04f05f7f595d46552a04585dffd7d73fb9a0532a8877267b2e",
+      "bytes": 13678,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_174_EN.png"
+    },
+    {
+      "id": "A4b-175",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/175",
+      "retrievedAt": "2026-10-16T04:59:20.775497+00:00",
+      "sha256": "c47cf913ef8ab1a8746c474ad007bbcf911c93f7eb0d7c5014ff3e7cc9d28bcc",
+      "bytes": 14201,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_175_EN.png"
+    },
+    {
+      "id": "A4b-176",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/176",
+      "retrievedAt": "2026-10-16T04:59:21.333530+00:00",
+      "sha256": "33196b528b37235123ec403ee1fa67bcde6cbfb6657c20ccd98612bba10211e9",
+      "bytes": 14201,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_176_EN.png"
+    },
+    {
+      "id": "A4b-179",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/179",
+      "retrievedAt": "2026-10-16T04:59:21.352078+00:00",
+      "sha256": "25152cb5c2c6eb565347acabfe42835476d98422c3ef0cfe412b1cdaee36b020",
+      "bytes": 13752,
+      "attacks": [
+        {
+          "name": "Spiteful Dance",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_179_EN.png"
+    },
+    {
+      "id": "A4b-185",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/185",
+      "retrievedAt": "2026-10-16T04:59:22.108416+00:00",
+      "sha256": "1f53207aa362e8e4638b78f0f203235b2dbc6d4238d1ba4e6c582fd4b8361f56",
+      "bytes": 13673,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_185_EN.png"
+    },
+    {
+      "id": "A4b-186",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/186",
+      "retrievedAt": "2026-10-16T04:59:22.213442+00:00",
+      "sha256": "c332c3ab1a9bc8b09e5e3a2644829b7698d152eac04fd675230250c8c67ee2df",
+      "bytes": 13673,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_186_EN.png"
+    },
+    {
+      "id": "A4b-187",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/187",
+      "retrievedAt": "2026-10-16T04:59:22.751007+00:00",
+      "sha256": "01ee9467ef228657868c1efde1ab35a4f3eb2caee49494180765c4fc6f7454de",
+      "bytes": 14098,
+      "attacks": [
+        {
+          "name": "Sweets Overload",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_187_EN.png"
+    },
+    {
+      "id": "A4b-188",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/188",
+      "retrievedAt": "2026-10-16T04:59:22.726986+00:00",
+      "sha256": "b1cc2dcf56a412371924f5a9cb0067e72fd8ec96d52fe9a010dcaa70e8dcf55c",
+      "bytes": 14098,
+      "attacks": [
+        {
+          "name": "Sweets Overload",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_188_EN.png"
+    },
+    {
+      "id": "A4b-198",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/198",
+      "retrievedAt": "2026-10-16T04:59:23.445105+00:00",
+      "sha256": "08459262250a33ff5097c74b160ec275410c7122b581ae75a69c8cf46866c7e5",
+      "bytes": 14039,
+      "attacks": [
+        {
+          "name": "Fighting Headbutt",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_198_EN.png"
+    },
+    {
+      "id": "A4b-199",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/199",
+      "retrievedAt": "2026-10-16T04:59:24.195372+00:00",
+      "sha256": "de1b864a70cefb77f2166044408353d5aaef236377ddd73a1684fcf3003e4a18",
+      "bytes": 14039,
+      "attacks": [
+        {
+          "name": "Fighting Headbutt",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_199_EN.png"
+    },
+    {
+      "id": "A4b-202",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/202",
+      "retrievedAt": "2026-10-16T04:59:24.116315+00:00",
+      "sha256": "98dd3a690ff0a0807f64150359b1a2ec3d81b8abaa204ebbe4ead7bf2d25cfe3",
+      "bytes": 14751,
+      "attacks": [
+        {
+          "name": "Gigantic Press",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_202_EN.png"
+    },
+    {
+      "id": "A4b-224",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/224",
+      "retrievedAt": "2026-10-16T04:59:24.960150+00:00",
+      "sha256": "09204f6b1e23bb2654f6b57b803a973e594dc7acc0affbc64c0e549d8e630043",
+      "bytes": 14106,
+      "attacks": [
+        {
+          "name": "Revenge",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_224_EN.png"
+    },
+    {
+      "id": "A4b-225",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/225",
+      "retrievedAt": "2026-10-16T04:59:24.824927+00:00",
+      "sha256": "e8fbcfa5909d3ae46b815096f4ce2ca544fbbcc61b718b4e2dcdd1d9e702ddd4",
+      "bytes": 14106,
+      "attacks": [
+        {
+          "name": "Revenge",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_225_EN.png"
+    },
+    {
+      "id": "A4b-238",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/238",
+      "retrievedAt": "2026-10-16T04:59:25.444973+00:00",
+      "sha256": "b50c1ccc0c96143c1c2ba267f9853eaf66333ffc4fb389f13f723b5b57b1ff7d",
+      "bytes": 14638,
+      "attacks": [
+        {
+          "name": "Venoshock",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_238_EN.png"
+    },
+    {
+      "id": "A4b-242",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/242",
+      "retrievedAt": "2026-10-16T04:59:25.580159+00:00",
+      "sha256": "df03b17dc462bf5f2650ceb458d85d95cf20071384843a249d7e612847571dd6",
+      "bytes": 13630,
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_242_EN.png"
+    },
+    {
+      "id": "A4b-243",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/243",
+      "retrievedAt": "2026-10-16T04:59:26.210029+00:00",
+      "sha256": "15f22a89c4f7c59bdfa166e7dbadc815f447c963386ff36d25d23cb8f3044d52",
+      "bytes": 13630,
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_243_EN.png"
+    },
+    {
+      "id": "A4b-251",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/251",
+      "retrievedAt": "2026-10-16T04:59:26.345162+00:00",
+      "sha256": "8973ef284d23f0804c8231bf79b160dc73e8e741c7b29a00bd1b87ea52c69bd6",
+      "bytes": 14622,
+      "attacks": [
+        {
+          "name": "Triplet Headbutt",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_251_EN.png"
+    },
+    {
+      "id": "A4b-260",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/260",
+      "retrievedAt": "2026-10-16T04:59:26.838992+00:00",
+      "sha256": "c6a76291e370d30717052084e8cc7e10e9616ecd298611195a984b32b2df1a9b",
+      "bytes": 14055,
+      "attacks": [
+        {
+          "name": "Silver Cannon",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_260_EN.png"
+    },
+    {
+      "id": "A4b-261",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/261",
+      "retrievedAt": "2026-10-16T04:59:26.938255+00:00",
+      "sha256": "0bd4a897dd32ab4b247ff5e2f2a61f5a823842cd6aa78f36426fd7a997f8b604",
+      "bytes": 14055,
+      "attacks": [
+        {
+          "name": "Silver Cannon",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_261_EN.png"
+    },
+    {
+      "id": "A4b-264",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/264",
+      "retrievedAt": "2026-10-16T04:59:27.601305+00:00",
+      "sha256": "0779bd447fed0b0cbc6094ecaa230a56bd8848a528f6204a1b26c8ebc820fe15",
+      "bytes": 13821,
+      "attacks": [
+        {
+          "name": "Tenacious Hammer",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_264_EN.png"
+    },
+    {
+      "id": "A4b-265",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/265",
+      "retrievedAt": "2026-10-16T04:59:27.712418+00:00",
+      "sha256": "6106b806ad0304ebbb2742354451a0b9e181aab9b7652b31344f7d99279117da",
+      "bytes": 13821,
+      "attacks": [
+        {
+          "name": "Tenacious Hammer",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_265_EN.png"
+    },
+    {
+      "id": "A4b-266",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/266",
+      "retrievedAt": "2026-10-16T04:59:28.236088+00:00",
+      "sha256": "1903f1a957c027e01bd156308e84018a8ea61a732e2e31f42b4df3801fbfceac",
+      "bytes": 14572,
+      "attacks": [
+        {
+          "name": "Terrific Thumping",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_266_EN.png"
+    },
+    {
+      "id": "A4b-276",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/276",
+      "retrievedAt": "2026-10-16T04:59:28.273088+00:00",
+      "sha256": "23a1fc6bd4c1fc98fc6743e067beaf1bb6b03e8caed791182ed380d1699fe94d",
+      "bytes": 14284,
+      "attacks": [
+        {
+          "name": "Scattering Cyclone",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_276_EN.png"
+    },
+    {
+      "id": "A4b-300",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/300",
+      "retrievedAt": "2026-10-16T04:59:28.986734+00:00",
+      "sha256": "1635e2333cb388ca8859785d2bff8f40ac2f9a300651fdc789332240d80b57cb",
+      "bytes": 14009,
+      "attacks": [
+        {
+          "name": "Quick Blow",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_300_EN.png"
+    },
+    {
+      "id": "A4b-301",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/301",
+      "retrievedAt": "2026-10-16T04:59:29.094464+00:00",
+      "sha256": "78bbea012ec2a36642c9ccc13513bbc954492e9d9d6bba4d008f02cf15a7b7ed",
+      "bytes": 14009,
+      "attacks": [
+        {
+          "name": "Quick Blow",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_301_EN.png"
+    },
+    {
+      "id": "A4b-302",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/302",
+      "retrievedAt": "2026-10-16T04:59:29.629943+00:00",
+      "sha256": "c3e87004d8fd75329fca2cc6d86e573d946787cc1d43e244a54696123fe5bf15",
+      "bytes": 14518,
+      "attacks": [
+        {
+          "name": "Brave Buddies",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_302_EN.png"
+    },
+    {
+      "id": "A4b-303",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/303",
+      "retrievedAt": "2026-10-16T04:59:29.606086+00:00",
+      "sha256": "d8e60d642854ff5401ca9e0743597e5e63620959a16bf17065a2b88d058e23ec",
+      "bytes": 14518,
+      "attacks": [
+        {
+          "name": "Brave Buddies",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_303_EN.png"
+    },
+    {
+      "id": "A4b-358",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/358",
+      "retrievedAt": "2026-10-16T04:59:30.373040+00:00",
+      "sha256": "027189d9e4cb58862718a65ab9ba676f6bac4774401b92ec683e4a10f4d38e00",
+      "bytes": 14180,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_358_EN.png"
+    },
+    {
+      "id": "A4b-364",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/364",
+      "retrievedAt": "2026-10-16T04:59:30.463568+00:00",
+      "sha256": "b33b64de459f0995dfb0c059373358b7112c0fffe10836db4f0da8141ac61adb",
+      "bytes": 15218,
+      "attacks": [
+        {
+          "name": "Circle Circuit",
+          "damage": "30x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_364_EN.png"
+    },
+    {
+      "id": "A4b-372",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/372",
+      "retrievedAt": "2026-10-16T04:59:31.072903+00:00",
+      "sha256": "8b19223dbe7f88b826de51441d043ba46ce279a6449a5c2ccf285f7e94dc63e1",
+      "bytes": 15494,
+      "attacks": [
+        {
+          "name": "Ultimate Force",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_372_EN.png"
+    },
+    {
+      "id": "A4b-376",
+      "url": "https://pocket.limitlesstcg.com/cards/A4b/376",
+      "retrievedAt": "2026-10-16T04:59:31.055418+00:00",
+      "sha256": "06f06a042a6f31dbf7057b72b9251c0b2d441900c415d4be24cce9b9c6b8a357",
+      "bytes": 15209,
+      "attacks": [
+        {
+          "name": "Circle Circuit",
+          "damage": "30x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4b/A4b_376_EN.png"
+    },
+    {
+      "id": "B1-001",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/1",
+      "retrievedAt": "2026-10-16T04:59:31.733552+00:00",
+      "sha256": "b2e530e32449d8e2822a4f19e75074a4ee91e1b74685167982fa9e097a2df855",
+      "bytes": 12996,
+      "attacks": [
+        {
+          "name": "X-Scissor",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_001_EN.png"
+    },
+    {
+      "id": "B1-002",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/2",
+      "retrievedAt": "2026-10-16T04:59:31.782827+00:00",
+      "sha256": "783708faa69ed101d9abccecbbe1925a7ef579a37e982b26e376cc60e0f602a9",
+      "bytes": 14160,
+      "attacks": [
+        {
+          "name": "Critical Scissors",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_002_EN.png"
+    },
+    {
+      "id": "B1-014",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/14",
+      "retrievedAt": "2026-10-16T04:59:32.433754+00:00",
+      "sha256": "246adb7d92cd7692c9f0311e5560675a4af998e9f246ac73efc6042d2b5dd32b",
+      "bytes": 13142,
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_014_EN.png"
+    },
+    {
+      "id": "B1-016",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/16",
+      "retrievedAt": "2026-10-16T04:59:32.383481+00:00",
+      "sha256": "ebd85d4f0c0dce0939569a6db1ac5596f6b27a9ae0879c833a42558391ac1a63",
+      "bytes": 14592,
+      "attacks": [
+        {
+          "name": "Grass Knot",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_016_EN.png"
+    },
+    {
+      "id": "B1-038",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/38",
+      "retrievedAt": "2026-10-16T04:59:33.131471+00:00",
+      "sha256": "6ff9a603f626c47b3227bbb48abefc436dcdc1eb4cb930378735e91b8f272b85",
+      "bytes": 13124,
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_038_EN.png"
+    },
+    {
+      "id": "B1-040",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/40",
+      "retrievedAt": "2026-10-16T04:59:33.168055+00:00",
+      "sha256": "b6fb878526e7bf3d31541f6d37adf9fe0e1fd8da92df6eae8ffecf6b5530af31",
+      "bytes": 13157,
+      "attacks": [
+        {
+          "name": "Darmani-Hands",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_040_EN.png"
+    },
+    {
+      "id": "B1-055",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/55",
+      "retrievedAt": "2026-10-16T04:59:34.096236+00:00",
+      "sha256": "3e2c6a4b868f9439f4409ff0dcf285386c9d9deac4c113bf56059ff792fd2c9b",
+      "bytes": 13457,
+      "attacks": [
+        {
+          "name": "Rhythmic Steps",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_055_EN.png"
+    },
+    {
+      "id": "B1-057",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/57",
+      "retrievedAt": "2026-10-16T04:59:33.850597+00:00",
+      "sha256": "80d137a6a37fa18ec123b134be58bc710ef025136d725152ed109a979e9b0f45",
+      "bytes": 13291,
+      "attacks": [
+        {
+          "name": "Whale Pump",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_057_EN.png"
+    },
+    {
+      "id": "B1-060",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/60",
+      "retrievedAt": "2026-10-16T04:59:34.494434+00:00",
+      "sha256": "341d4135e28b8125bbfeb009f7b1830fb1c41f14fbe4c0a03b3c59aab71f8dd1",
+      "bytes": 13010,
+      "attacks": [
+        {
+          "name": "Paired Tackle",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_060_EN.png"
+    },
+    {
+      "id": "B1-062",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/62",
+      "retrievedAt": "2026-10-16T04:59:34.552322+00:00",
+      "sha256": "f46a36a24e9b1cbecd6a9fe4a2cff034139d9eb51ffe1439f0020ed3f4e10f2c",
+      "bytes": 13153,
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_062_EN.png"
+    },
+    {
+      "id": "B1-089",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/89",
+      "retrievedAt": "2026-10-16T04:59:35.224689+00:00",
+      "sha256": "abd55716cb15982dbd97e8bef0892d1841e4937087329b2547ea11ea2f0e2f05",
+      "bytes": 13021,
+      "attacks": [
+        {
+          "name": "Attack the Wound",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_089_EN.png"
+    },
+    {
+      "id": "B1-099",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/99",
+      "retrievedAt": "2026-10-16T04:59:35.511337+00:00",
+      "sha256": "9aaa5b52df98c2adb58d1540885ba731e1bb336b804ede4e01fae8951deac0d8",
+      "bytes": 12996,
+      "attacks": [
+        {
+          "name": "Double Spin",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_099_EN.png"
+    },
+    {
+      "id": "B1-102",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/102",
+      "retrievedAt": "2026-10-16T04:59:35.920532+00:00",
+      "sha256": "238b263184f320e275c279d4aa33dbe38292adb8cc69019c3ce4c56dcf73c968",
+      "bytes": 14958,
+      "attacks": [
+        {
+          "name": "Mega Harmony",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_102_EN.png"
+    },
+    {
+      "id": "B1-103",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/103",
+      "retrievedAt": "2026-10-16T04:59:35.874947+00:00",
+      "sha256": "4f0adb3f505e69e9c1d7f3e98eb8cc24c697705d37c6e80df53f2411ce966331",
+      "bytes": 13004,
+      "attacks": [
+        {
+          "name": "Ambush",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_103_EN.png"
+    },
+    {
+      "id": "B1-108",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/108",
+      "retrievedAt": "2026-10-16T04:59:36.626780+00:00",
+      "sha256": "2f6c821f4ade09cc0b58f44e1e5528a440828f47eb210c06523c13100920cced",
+      "bytes": 13457,
+      "attacks": [
+        {
+          "name": "Balloon Barrage",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_108_EN.png"
+    },
+    {
+      "id": "B1-121",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/121",
+      "retrievedAt": "2026-10-16T04:59:36.891992+00:00",
+      "sha256": "41c21d89f5765bd107cf77cc022b1140b50dc601887c8969d5bdc9bcdea9228b",
+      "bytes": 14883,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_121_EN.png"
+    },
+    {
+      "id": "B1-125",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/125",
+      "retrievedAt": "2026-10-16T04:59:37.164788+00:00",
+      "sha256": "1f39a0e89bfd31c34b5d53b2622cc59bb9f44534f26c230e568297c8abe9b96d",
+      "bytes": 12998,
+      "attacks": [
+        {
+          "name": "Fight Back",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_125_EN.png"
+    },
+    {
+      "id": "B1-136",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/136",
+      "retrievedAt": "2026-10-16T04:59:37.300849+00:00",
+      "sha256": "c8945ae7a513f3647899961482139c3328ed91e9dfd0ca2be65b3a72a780d06b",
+      "bytes": 13303,
+      "attacks": [
+        {
+          "name": "Heavy Rocket",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_136_EN.png"
+    },
+    {
+      "id": "B1-140",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/140",
+      "retrievedAt": "2026-10-16T04:59:37.975196+00:00",
+      "sha256": "486d639d60e3e2769d1650003e55c20fba4fa9db1a5d5fb373eca366fb937259",
+      "bytes": 13238,
+      "attacks": [
+        {
+          "name": "Last-Chance Punch",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_140_EN.png"
+    },
+    {
+      "id": "B1-147",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/147",
+      "retrievedAt": "2026-10-16T04:59:38.775265+00:00",
+      "sha256": "7df2f00300ca8befeebaecb5a2dc5a2d52516e1f5b5eee53004c5bb404e77eff",
+      "bytes": 13348,
+      "attacks": [
+        {
+          "name": "Coal Drop",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_147_EN.png"
+    },
+    {
+      "id": "B1-149",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/149",
+      "retrievedAt": "2026-10-16T04:59:38.583891+00:00",
+      "sha256": "10210b8599b099aae1bcdce45d4eacebdf3359440972e94809cecb98be9627ea",
+      "bytes": 13512,
+      "attacks": [
+        {
+          "name": "Evil Admonition",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_149_EN.png"
+    },
+    {
+      "id": "B1-162",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/162",
+      "retrievedAt": "2026-10-16T04:59:38.811798+00:00",
+      "sha256": "5b3a1933468d3e0098f8105a91250eb79d6002759ab9b8c6c4bb82017243e6c6",
+      "bytes": 13152,
+      "attacks": [
+        {
+          "name": "Venoshock",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_162_EN.png"
+    },
+    {
+      "id": "B1-168",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/168",
+      "retrievedAt": "2026-10-16T04:59:39.384523+00:00",
+      "sha256": "1e4a2802ef927fcb47e00c9eb2fdb54feac9d072fa5c03e8597a25a296b1c9cd",
+      "bytes": 12986,
+      "attacks": [
+        {
+          "name": "Bite Together",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_168_EN.png"
+    },
+    {
+      "id": "B1-174",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/174",
+      "retrievedAt": "2026-10-16T04:59:40.109983+00:00",
+      "sha256": "7b2f87f7b3a13c1533cc3411c0aa09f99140648e0f8cc9f45a70ad0ea40fa7a7",
+      "bytes": 14487,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "80"
+        },
+        {
+          "name": "Metal Arms",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_174_EN.png"
+    },
+    {
+      "id": "B1-186",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/186",
+      "retrievedAt": "2026-10-16T04:59:40.308037+00:00",
+      "sha256": "de1f2fff35c0453ec21df0bef1a75feac3f1f96690dfeff040caa995196bf8ba",
+      "bytes": 13238,
+      "attacks": [
+        {
+          "name": "Excited Tail",
+          "damage": "30x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_186_EN.png"
+    },
+    {
+      "id": "B1-193",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/193",
+      "retrievedAt": "2026-10-16T04:59:40.356308+00:00",
+      "sha256": "d2a05c3b7e5f02ed6603651a7dfa8b0298066b41313749b6feec1c038b29177c",
+      "bytes": 13618,
+      "attacks": [
+        {
+          "name": "Play Rough",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_193_EN.png"
+    },
+    {
+      "id": "B1-197",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/197",
+      "retrievedAt": "2026-10-16T04:59:40.784128+00:00",
+      "sha256": "261f0c3efd130a3cb1f812dffd55812fe20c1567d68e420078ceb7a97a85f13c",
+      "bytes": 13463,
+      "attacks": [
+        {
+          "name": "Do the Wave",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_197_EN.png"
+    },
+    {
+      "id": "B1-200",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/200",
+      "retrievedAt": "2026-10-16T04:59:41.476089+00:00",
+      "sha256": "e211da8801d77e117dda077136a198d6b7c4fbe659dbbf5eaa31e1a360a90720",
+      "bytes": 13113,
+      "attacks": [
+        {
+          "name": "Biting Fang",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_200_EN.png"
+    },
+    {
+      "id": "B1-203",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/203",
+      "retrievedAt": "2026-10-16T04:59:41.768426+00:00",
+      "sha256": "d719b5777d0c9febe40609425932cb19cb96b17a3d8bba4f0760fb7dd283feed",
+      "bytes": 13554,
+      "attacks": [
+        {
+          "name": "Dangerous Bite",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_203_EN.png"
+    },
+    {
+      "id": "B1-211",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/211",
+      "retrievedAt": "2026-10-16T04:59:41.739584+00:00",
+      "sha256": "d56988b6e04dd9cba09cd7064d29a9b522a0376d3099099e182b35d36d3d6131",
+      "bytes": 13059,
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_211_EN.png"
+    },
+    {
+      "id": "B1-233",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/233",
+      "retrievedAt": "2026-10-16T04:59:42.186537+00:00",
+      "sha256": "1d8921fccbaf73344229bf3a955ec9141f71c75e51a9b2f9d44bedd99a9057ff",
+      "bytes": 13475,
+      "attacks": [
+        {
+          "name": "Rhythmic Steps",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_233_EN.png"
+    },
+    {
+      "id": "B1-244",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/244",
+      "retrievedAt": "2026-10-16T04:59:42.883611+00:00",
+      "sha256": "a90cafe58ab562d211c8b02bbf0774ef547465d7a6de7be74c5d43e29ce69b51",
+      "bytes": 13504,
+      "attacks": [
+        {
+          "name": "Evil Admonition",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_244_EN.png"
+    },
+    {
+      "id": "B1-249",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/249",
+      "retrievedAt": "2026-10-16T04:59:43.154830+00:00",
+      "sha256": "23135e663b47544f5fc87f53eda53da401cbb69dffafa290228e477141efc3f7",
+      "bytes": 13536,
+      "attacks": [
+        {
+          "name": "Dangerous Bite",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_249_EN.png"
+    },
+    {
+      "id": "B1-251",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/251",
+      "retrievedAt": "2026-10-16T04:59:43.176786+00:00",
+      "sha256": "43ac78fed27dbdaeaf6c0a2c861e40f1191a4d7bdbc392f35a15e3051cd53bc9",
+      "bytes": 14162,
+      "attacks": [
+        {
+          "name": "Critical Scissors",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_251_EN.png"
+    },
+    {
+      "id": "B1-252",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/252",
+      "retrievedAt": "2026-10-16T04:59:43.552827+00:00",
+      "sha256": "17ec62e189f1d0df807c451e985166313883fbe2d47fbfca75935b2a9060e27e",
+      "bytes": 14590,
+      "attacks": [
+        {
+          "name": "Grass Knot",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_252_EN.png"
+    },
+    {
+      "id": "B1-259",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/259",
+      "retrievedAt": "2026-10-16T04:59:44.211149+00:00",
+      "sha256": "d3b8ef8211c8bb3ab633ddca7ff65ac355a109cf4201e2ea0914a161d4de644e",
+      "bytes": 14952,
+      "attacks": [
+        {
+          "name": "Mega Harmony",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_259_EN.png"
+    },
+    {
+      "id": "B1-260",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/260",
+      "retrievedAt": "2026-10-16T04:59:44.609709+00:00",
+      "sha256": "3dc137721ef487543c36e3288e057519f4c288f4573200903d446d4e0d37d2ca",
+      "bytes": 14877,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_260_EN.png"
+    },
+    {
+      "id": "B1-264",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/264",
+      "retrievedAt": "2026-10-16T04:59:44.664005+00:00",
+      "sha256": "20f985e82818d5bea038387d7c36dfaf32185121901b1c444f15a3dda09aadd6",
+      "bytes": 14481,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "80"
+        },
+        {
+          "name": "Metal Arms",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_264_EN.png"
+    },
+    {
+      "id": "B1-272",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/272",
+      "retrievedAt": "2026-10-16T04:59:44.842077+00:00",
+      "sha256": "987d0f632eeb1127065a59b2f6b855c44f75c5ae6c435cd78900d980a05f9c1a",
+      "bytes": 14138,
+      "attacks": [
+        {
+          "name": "Critical Scissors",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_272_EN.png"
+    },
+    {
+      "id": "B1-273",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/273",
+      "retrievedAt": "2026-10-16T04:59:45.525224+00:00",
+      "sha256": "81fd722d6f4115e110e9e8aa1999bcd5e4db4f3c3e2f882e156486ae7cd580a7",
+      "bytes": 14582,
+      "attacks": [
+        {
+          "name": "Grass Knot",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_273_EN.png"
+    },
+    {
+      "id": "B1-278",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/278",
+      "retrievedAt": "2026-10-16T04:59:46.522137+00:00",
+      "sha256": "99e555db31bc753dfa31ef3bd1b4a9d0b8e8b1f0443b145fd71243678587b81b",
+      "bytes": 14857,
+      "attacks": [
+        {
+          "name": "Psychic",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_278_EN.png"
+    },
+    {
+      "id": "B1-282",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/282",
+      "retrievedAt": "2026-10-16T04:59:46.040681+00:00",
+      "sha256": "52e40fec5eb9c32a4045d36d05194d961871bc95d811e60fab3970ebb3a08f4c",
+      "bytes": 14465,
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "damage": "80"
+        },
+        {
+          "name": "Metal Arms",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_282_EN.png"
+    },
+    {
+      "id": "B1-286",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/286",
+      "retrievedAt": "2026-10-16T04:59:46.211833+00:00",
+      "sha256": "87e592d534071e213a654a8a5771db42d4a7620481c2184617da9bc68f02c525",
+      "bytes": 14947,
+      "attacks": [
+        {
+          "name": "Mega Harmony",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_286_EN.png"
+    },
+    {
+      "id": "B1-320",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/320",
+      "retrievedAt": "2026-10-16T04:59:46.854220+00:00",
+      "sha256": "30b46519aec45eccef678baa7f6c7465a434c080ebf9dbdd3beedd7d091acbf0",
+      "bytes": 14982,
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "damage": "40+"
+        },
+        {
+          "name": "Sparkling Aria",
+          "damage": "100"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_320_EN.png"
+    },
+    {
+      "id": "B1-325",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/325",
+      "retrievedAt": "2026-10-16T04:59:47.429399+00:00",
+      "sha256": "d8d9dd9e56ada21261af103424a274b6e327d604347bb32c96f1b9c47067be77",
+      "bytes": 14616,
+      "attacks": [
+        {
+          "name": "Triplet Headbutt",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_325_EN.png"
+    },
+    {
+      "id": "B1-328",
+      "url": "https://pocket.limitlesstcg.com/cards/B1/328",
+      "retrievedAt": "2026-10-16T04:59:47.577587+00:00",
+      "sha256": "02657a8ae354067ad13af7931b5b7cc7b563dd2bdf213b70dc82bd50a1065e19",
+      "bytes": 15500,
+      "attacks": [
+        {
+          "name": "Ultimate Force",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_328_EN.png"
+    },
+    {
+      "id": "B1a-008",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/8",
+      "retrievedAt": "2026-10-16T04:59:47.913439+00:00",
+      "sha256": "080dbee8de2db184e0fdac97b619fce4873bae287ee13b5b53fbf209dc546001",
+      "bytes": 13451,
+      "attacks": [
+        {
+          "name": "Quick-Grow Beam",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_008_EN.png"
+    },
+    {
+      "id": "B1a-021",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/21",
+      "retrievedAt": "2026-10-16T04:59:48.571745+00:00",
+      "sha256": "c09fc380da064f28f09741c77a985914a11a8dbb4655bc59f8d01a204daa4ea6",
+      "bytes": 13100,
+      "attacks": [
+        {
+          "name": "Surprise Strike",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_021_EN.png"
+    },
+    {
+      "id": "B1a-037",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/37",
+      "retrievedAt": "2026-10-16T04:59:48.842630+00:00",
+      "sha256": "fdcd60b6c431c56ca387684d4c041a1f415c2043b8e80d9f297b9a26134f27c3",
+      "bytes": 13329,
+      "attacks": [
+        {
+          "name": "Geoburst",
+          "damage": "120"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_037_EN.png"
+    },
+    {
+      "id": "B1a-041",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/41",
+      "retrievedAt": "2026-10-16T04:59:48.916898+00:00",
+      "sha256": "39626e6800dd544e71a48bef655f1cc9e4f10c93468707c6493e0d9128fd6168",
+      "bytes": 13030,
+      "attacks": [
+        {
+          "name": "Rising Lunge",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_041_EN.png"
+    },
+    {
+      "id": "B1a-042",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/42",
+      "retrievedAt": "2026-10-16T04:59:50.312022+00:00",
+      "sha256": "1e0b088b2b87da8b3c9a5464e660611f8e2c733ea97d83f6528498cc15340150",
+      "bytes": 14680,
+      "attacks": [
+        {
+          "name": "Rapid Smashers",
+          "damage": "90x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_042_EN.png"
+    },
+    {
+      "id": "B1a-047",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/47",
+      "retrievedAt": "2026-10-16T04:59:49.846593+00:00",
+      "sha256": "1b0987465a588b4c5dd37e1213b7f330b251c701ac781290f82645a7331fa17b",
+      "bytes": 13051,
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_047_EN.png"
+    },
+    {
+      "id": "B1a-054",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/54",
+      "retrievedAt": "2026-10-16T04:59:50.262028+00:00",
+      "sha256": "699e5b8f64573c13146c8a247c5feccf7c1a23e57c417db15f83a2cf68f744c3",
+      "bytes": 13454,
+      "attacks": [
+        {
+          "name": "Metal Blast",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_054_EN.png"
+    },
+    {
+      "id": "B1a-058",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/58",
+      "retrievedAt": "2026-10-16T04:59:50.377518+00:00",
+      "sha256": "2f7140366a9e63fc4ebf26645c5493193f77f106f37a9ceda1ddfb732f5d698c",
+      "bytes": 13525,
+      "attacks": [
+        {
+          "name": "Cyberjack",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_058_EN.png"
+    },
+    {
+      "id": "B1a-060",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/60",
+      "retrievedAt": "2026-10-16T04:59:51.261412+00:00",
+      "sha256": "b7e60505858412f008ccbe388e41270b459afaa51a81df725aeaffce915dcf59",
+      "bytes": 13120,
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_060_EN.png"
+    },
+    {
+      "id": "B1a-061",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/61",
+      "retrievedAt": "2026-10-16T04:59:51.751864+00:00",
+      "sha256": "2003aa615b728846753e2f5c723f432c5648aeca7c60e1cca8c7bf288848c82d",
+      "bytes": 13135,
+      "attacks": [
+        {
+          "name": "Hurricane Wing",
+          "damage": "50x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_061_EN.png"
+    },
+    {
+      "id": "B1a-062",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/62",
+      "retrievedAt": "2026-10-16T04:59:51.882930+00:00",
+      "sha256": "fac2557ad22c82f6afb5d6c2477770900841a2401f9ef64f78163a8cc2014980",
+      "bytes": 14646,
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_062_EN.png"
+    },
+    {
+      "id": "B1a-063",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/63",
+      "retrievedAt": "2026-10-16T04:59:51.994283+00:00",
+      "sha256": "11bc16ad528664f52bf682ec95ca2abbf4da734b88feda44e8ba9adb614e3500",
+      "bytes": 13171,
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "50x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_063_EN.png"
+    },
+    {
+      "id": "B1a-064",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/64",
+      "retrievedAt": "2026-10-16T04:59:52.578410+00:00",
+      "sha256": "7692b56e9ebc7226c5c8efd9ac441766d152a4608f26fa4b93e0302ef5063da7",
+      "bytes": 13141,
+      "attacks": [
+        {
+          "name": "Revenge",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_064_EN.png"
+    },
+    {
+      "id": "B1a-071",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/71",
+      "retrievedAt": "2026-10-16T04:59:53.160686+00:00",
+      "sha256": "fae59c866b93d537aa57568d3a72c8f05d5b2700001dc6973e05785703960f49",
+      "bytes": 13452,
+      "attacks": [
+        {
+          "name": "Quick-Grow Beam",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_071_EN.png"
+    },
+    {
+      "id": "B1a-073",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/73",
+      "retrievedAt": "2026-10-16T04:59:53.316922+00:00",
+      "sha256": "ebe20f2d19801cce25dd24d3ccf21151d0ba0865ddd4e65fdd1709152482fe2c",
+      "bytes": 13327,
+      "attacks": [
+        {
+          "name": "Geoburst",
+          "damage": "120"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_073_EN.png"
+    },
+    {
+      "id": "B1a-075",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/75",
+      "retrievedAt": "2026-10-16T04:59:54.654356+00:00",
+      "sha256": "68546f0be7fda0a8dc0091fdf64e9342679c76255324536a3b12ce615f0dd934",
+      "bytes": 14644,
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_075_EN.png"
+    },
+    {
+      "id": "B1a-079",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/79",
+      "retrievedAt": "2026-10-16T04:59:53.945665+00:00",
+      "sha256": "3f06acf8d0d09761cda503e35e6f4a896973ca36e481da04a759fc752b1d0f24",
+      "bytes": 14674,
+      "attacks": [
+        {
+          "name": "Rapid Smashers",
+          "damage": "90x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_079_EN.png"
+    },
+    {
+      "id": "B1a-085",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/85",
+      "retrievedAt": "2026-10-16T04:59:55.695633+00:00",
+      "sha256": "0ca7bbe6a82d2e6d9115d5d63c0cb86caaa3910f14f1cf386170466a1097c4e1",
+      "bytes": 14646,
+      "attacks": [
+        {
+          "name": "Rapid Smashers",
+          "damage": "90x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_085_EN.png"
+    },
+    {
+      "id": "B1a-096",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/96",
+      "retrievedAt": "2026-10-16T04:59:55.960345+00:00",
+      "sha256": "89a75389b09b75e31ad0b3ad3bec373e3591e8be67bb555ceb948a29c5f1042d",
+      "bytes": 14013,
+      "attacks": [
+        {
+          "name": "Quick Blow",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_096_EN.png"
+    },
+    {
+      "id": "B1a-097",
+      "url": "https://pocket.limitlesstcg.com/cards/B1a/97",
+      "retrievedAt": "2026-10-16T04:59:55.361080+00:00",
+      "sha256": "507762c9c1317f7e908249f10d8049aa69ae8930faf178c80ea7aa65ac0c51f2",
+      "bytes": 14503,
+      "attacks": [
+        {
+          "name": "Brave Buddies",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1a/B1a_097_EN.png"
+    },
+    {
+      "id": "B2-004",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/4",
+      "retrievedAt": "2026-10-16T04:59:55.938502+00:00",
+      "sha256": "17e6a209e37ed89d14d627a5336434fe04a4dd75a82f014bcb863531b1e78d67",
+      "bytes": 13020,
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_004_EN.png"
+    },
+    {
+      "id": "B2-007",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/7",
+      "retrievedAt": "2026-10-16T04:59:56.758084+00:00",
+      "sha256": "3a560a75f312fcdb1318b5136cecc45644b3c460b0503f514a2785c346711d37",
+      "bytes": 13171,
+      "attacks": [
+        {
+          "name": "Spike Rend",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_007_EN.png"
+    },
+    {
+      "id": "B2-014",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/14",
+      "retrievedAt": "2026-10-16T04:59:57.057978+00:00",
+      "sha256": "3c973a0b3c36859309b97e1190fd37fd65d51248ea17cbf22e4dea24bf3f997f",
+      "bytes": 13371,
+      "attacks": [
+        {
+          "name": "Ground Beat",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_014_EN.png"
+    },
+    {
+      "id": "B2-017",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/17",
+      "retrievedAt": "2026-10-16T04:59:57.306619+00:00",
+      "sha256": "f8f89666325762618a820215368ddbefe67a2f4bda52aa4ec79e327a7baaf19b",
+      "bytes": 14687,
+      "attacks": [
+        {
+          "name": "Energized Leaves",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_017_EN.png"
+    },
+    {
+      "id": "B2-031",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/31",
+      "retrievedAt": "2026-10-16T04:59:57.371493+00:00",
+      "sha256": "a76ff9cda88720e7d4cf9dc75d161c38fd55e9bf6a50589c38e825709dde63a7",
+      "bytes": 13202,
+      "attacks": [
+        {
+          "name": "Triple Spin",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_031_EN.png"
+    },
+    {
+      "id": "B2-039",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/39",
+      "retrievedAt": "2026-10-16T04:59:58.171460+00:00",
+      "sha256": "b27ce43d9e76b7c36afdbcdfc1355ca28d8395ceda0ef0d32d64a7bf32b099b6",
+      "bytes": 13204,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_039_EN.png"
+    },
+    {
+      "id": "B2-059",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/59",
+      "retrievedAt": "2026-10-16T04:59:58.382981+00:00",
+      "sha256": "7ac6b208f830a5e5ccf2166f493ca1c4d67e4e0929c0f3231caa9bc17e1ce10c",
+      "bytes": 13380,
+      "attacks": [
+        {
+          "name": "Photon Laser",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_059_EN.png"
+    },
+    {
+      "id": "B2-069",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/69",
+      "retrievedAt": "2026-10-16T04:59:58.666323+00:00",
+      "sha256": "c07fc476fb398f69844b375b28ffb493e7d1aaceca17b3bfa7261547bbe4e6e6",
+      "bytes": 13199,
+      "attacks": [
+        {
+          "name": "Past Friends",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_069_EN.png"
+    },
+    {
+      "id": "B2-077",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/77",
+      "retrievedAt": "2026-10-16T04:59:58.706460+00:00",
+      "sha256": "a7447850bb150fe4b59e9bac5a9099f78ede314dee8ec5aaa9ddbf8a969719f5",
+      "bytes": 13364,
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_077_EN.png"
+    },
+    {
+      "id": "B2-078",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/78",
+      "retrievedAt": "2026-10-16T04:59:59.494258+00:00",
+      "sha256": "27dd037e7d487e6e0d7c46c8f4b705a23c7072df49ff70e47a9d4d123b7bffaa",
+      "bytes": 13146,
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "damage": "30x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_078_EN.png"
+    },
+    {
+      "id": "B2-084",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/84",
+      "retrievedAt": "2026-10-16T04:59:59.741166+00:00",
+      "sha256": "37783717879efd43abe296e8ded09d9948014692de1bfe71ac76e59ffe98ccba",
+      "bytes": 13310,
+      "attacks": [
+        {
+          "name": "Psykick",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_084_EN.png"
+    },
+    {
+      "id": "B2-090",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/90",
+      "retrievedAt": "2026-10-16T05:00:00.010658+00:00",
+      "sha256": "9b6d3d28aa8618f6250d9517d35c164544efb580b4a9a81043d6aa2bda5d3ef2",
+      "bytes": 13517,
+      "attacks": [
+        {
+          "name": "Tyrannical Fang",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_090_EN.png"
+    },
+    {
+      "id": "B2-100",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/100",
+      "retrievedAt": "2026-10-16T05:00:00.095288+00:00",
+      "sha256": "24b5e7d7bb1cbd2ae4e6710de7fc99e1ee91ffa766bc76987e52ad48e6e7281b",
+      "bytes": 13589,
+      "attacks": [
+        {
+          "name": "Merciless Strike",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_100_EN.png"
+    },
+    {
+      "id": "B2-105",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/105",
+      "retrievedAt": "2026-10-16T05:00:02.062954+00:00",
+      "sha256": "6299626b87d3a917498bbd7bf40e7b7067fceac6bd4315bd8ee7f0e5d014be68",
+      "bytes": 13125,
+      "attacks": [
+        {
+          "name": "Fasten Claws",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_105_EN.png"
+    },
+    {
+      "id": "B2-107",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/107",
+      "retrievedAt": "2026-10-16T05:00:01.182475+00:00",
+      "sha256": "51efc362989b5d36799f9c11b83d6718df4185573a9606a4ae575dd34768c47c",
+      "bytes": 13209,
+      "attacks": [
+        {
+          "name": "Crush the Weak",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_107_EN.png"
+    },
+    {
+      "id": "B2-116",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/116",
+      "retrievedAt": "2026-10-16T05:00:01.414875+00:00",
+      "sha256": "881f078c628a4384c1b7015d80a3156507e9616569123cf5a1150d8e57ee2646",
+      "bytes": 13176,
+      "attacks": [
+        {
+          "name": "Pummel",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_116_EN.png"
+    },
+    {
+      "id": "B2-119",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/119",
+      "retrievedAt": "2026-10-16T05:00:01.500525+00:00",
+      "sha256": "0f2f806a87022d04d3b661c6393d039fdf6a1b88ce1fce3ea3349d9bb51dc420",
+      "bytes": 13158,
+      "attacks": [
+        {
+          "name": "Dual Blades",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_119_EN.png"
+    },
+    {
+      "id": "B2-126",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/126",
+      "retrievedAt": "2026-10-16T05:00:02.600861+00:00",
+      "sha256": "cf4d3a6e44591ae42d2a75fba249db71e0cca48db409e1ee9a9edc17a563c6b1",
+      "bytes": 13332,
+      "attacks": [
+        {
+          "name": "Steady Punch",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_126_EN.png"
+    },
+    {
+      "id": "B2-128",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/128",
+      "retrievedAt": "2026-10-16T05:00:02.813631+00:00",
+      "sha256": "c1cab159bfe63a201a0daf81e9c9710566a34fe8645bac6ff502310b6efe33dd",
+      "bytes": 13031,
+      "attacks": [
+        {
+          "name": "Tail Rap",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_128_EN.png"
+    },
+    {
+      "id": "B2-131",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/131",
+      "retrievedAt": "2026-10-16T05:00:02.872225+00:00",
+      "sha256": "fa4492d4739f9596afff21530a00edcea26b046a441e37e545b5af6d2a0a9628",
+      "bytes": 13039,
+      "attacks": [
+        {
+          "name": "Aeroblast",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_131_EN.png"
+    },
+    {
+      "id": "B2-138",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/138",
+      "retrievedAt": "2026-10-16T05:00:05.749742+00:00",
+      "sha256": "7d4c043feb94ce5a0aa079713b1fa1511edca0d97a41d566ff62a180cc759479",
+      "bytes": 13369,
+      "attacks": [
+        {
+          "name": "Blow Through",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_138_EN.png"
+    },
+    {
+      "id": "B2-143",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/143",
+      "retrievedAt": "2026-10-16T05:00:04.073035+00:00",
+      "sha256": "061d3137f536d2a39692351f453411a479eee62b5569c2fecf0dbb077c560027",
+      "bytes": 13239,
+      "attacks": [
+        {
+          "name": "Family Beatdown",
+          "damage": "60x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_143_EN.png"
+    },
+    {
+      "id": "B2-159",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/159",
+      "retrievedAt": "2026-10-16T05:00:05.207658+00:00",
+      "sha256": "558324f76beca53587f08dee754c27c19398b6d190c57196b8d00fb681ee4661",
+      "bytes": 13349,
+      "attacks": [
+        {
+          "name": "Ground Beat",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_159_EN.png"
+    },
+    {
+      "id": "B2-170",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/170",
+      "retrievedAt": "2026-10-16T05:00:04.265058+00:00",
+      "sha256": "8c916e1bfd7ad25bf13ae1b3003fca701dda2195e5d53f6ec7af720b89160bb4",
+      "bytes": 13348,
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_170_EN.png"
+    },
+    {
+      "id": "B2-171",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/171",
+      "retrievedAt": "2026-10-16T05:00:05.450488+00:00",
+      "sha256": "9e5c61d44020d21b8daa6571353a5bb70d227cbb0a95b20b44ba79dfb1120f75",
+      "bytes": 13525,
+      "attacks": [
+        {
+          "name": "Tyrannical Fang",
+          "damage": "100+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_171_EN.png"
+    },
+    {
+      "id": "B2-176",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/176",
+      "retrievedAt": "2026-10-16T05:00:05.618990+00:00",
+      "sha256": "bca685908efff63898b918069fcc22b31127d571742442f6f37d3513a97b8f1d",
+      "bytes": 13583,
+      "attacks": [
+        {
+          "name": "Merciless Strike",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_176_EN.png"
+    },
+    {
+      "id": "B2-180",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/180",
+      "retrievedAt": "2026-10-16T05:00:06.631011+00:00",
+      "sha256": "4cd932894210887121429a10bdc27abd4a74d974b9e8507583230d997f018a98",
+      "bytes": 14685,
+      "attacks": [
+        {
+          "name": "Energized Leaves",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_180_EN.png"
+    },
+    {
+      "id": "B2-194",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/194",
+      "retrievedAt": "2026-10-16T05:00:06.806751+00:00",
+      "sha256": "061c3f1cdc764c04e79283676a301d67c27c1194e10b6292b81ef56537f52c9a",
+      "bytes": 14673,
+      "attacks": [
+        {
+          "name": "Energized Leaves",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_194_EN.png"
+    },
+    {
+      "id": "B2-216",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/216",
+      "retrievedAt": "2026-10-16T05:00:07.042909+00:00",
+      "sha256": "6b6c653e2d10d5834d248655fd3f0cbe4a1e705f7382d0c2bd6aee36fa2738c8",
+      "bytes": 13673,
+      "attacks": [
+        {
+          "name": "Crossing Flights",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_216_EN.png"
+    },
+    {
+      "id": "B2-224",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/224",
+      "retrievedAt": "2026-10-16T05:00:07.147529+00:00",
+      "sha256": "dded6f7542e5d8ea0b0c357ab2a6a87a3ecfc7e57fecb08fd382becd11b29a68",
+      "bytes": 13404,
+      "attacks": [
+        {
+          "name": "Fighting Tackle",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_224_EN.png"
+    },
+    {
+      "id": "B2-230",
+      "url": "https://pocket.limitlesstcg.com/cards/B2/230",
+      "retrievedAt": "2026-10-16T05:00:08.018927+00:00",
+      "sha256": "26a1c323a070225a70679faba1ae15a37a6f370884ecb6b7a98f9fc24dd64b5c",
+      "bytes": 14749,
+      "attacks": [
+        {
+          "name": "Gigantic Press",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2/B2_230_EN.png"
+    },
+    {
+      "id": "B2a-070",
+      "url": "https://pocket.limitlesstcg.com/cards/B2a/70",
+      "retrievedAt": "2026-10-16T05:00:08.178822+00:00",
+      "sha256": "4d3f958ce499886f8b14deab39a465d60f494b761834a0f6554690d4497d944d",
+      "bytes": 13243,
+      "attacks": [
+        {
+          "name": "Colorful Attack",
+          "damage": "30+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_070_EN.png"
+    },
+    {
+      "id": "B2a-126",
+      "url": "https://pocket.limitlesstcg.com/cards/B2a/126",
+      "retrievedAt": "2026-10-16T05:00:08.503497+00:00",
+      "sha256": "e0e950f16959a084e3078756994d9efec3b543ad8f80af83180f950cfb0fb71c",
+      "bytes": 14998,
+      "attacks": [
+        {
+          "name": "Blazing Beatdown",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_126_EN.png"
+    },
+    {
+      "id": "B2a-127",
+      "url": "https://pocket.limitlesstcg.com/cards/B2a/127",
+      "retrievedAt": "2026-10-16T05:00:08.531183+00:00",
+      "sha256": "0ad8437a766d85021238be81c780a99f1bab2299fcfcba0cb21f3ac2bcd83773",
+      "bytes": 14607,
+      "attacks": [
+        {
+          "name": "Crystal Waltz",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B2a/B2a_127_EN.png"
+    },
+    {
+      "id": "B3a-068",
+      "url": "https://pocket.limitlesstcg.com/cards/B3a/68",
+      "retrievedAt": "2026-10-16T05:00:09.374355+00:00",
+      "sha256": "289c0830f359cb2b0c0c48ce2e2d0078a8595f097fa04754319314043cdb6dd8",
+      "bytes": 14143,
+      "attacks": [
+        {
+          "name": "Prism Impact",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B3a/B3a_068_EN.png"
+    },
+    {
+      "id": "B3a-085",
+      "url": "https://pocket.limitlesstcg.com/cards/B3a/85",
+      "retrievedAt": "2026-10-16T05:00:09.582899+00:00",
+      "sha256": "6a1bbb98bf69196a314215b83bae92f764468a20ead01913f88a7d7c01967fa6",
+      "bytes": 14137,
+      "attacks": [
+        {
+          "name": "Prism Impact",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B3a/B3a_085_EN.png"
+    },
+    {
+      "id": "B3a-093",
+      "url": "https://pocket.limitlesstcg.com/cards/B3a/93",
+      "retrievedAt": "2026-10-16T05:00:09.871771+00:00",
+      "sha256": "dd7d7c541774b0547e4cb2891ae6aa9ed8e6edc2764ae8420b736bbab72ea75d",
+      "bytes": 14126,
+      "attacks": [
+        {
+          "name": "Prism Impact",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B3a/B3a_093_EN.png"
+    },
+    {
+      "id": "B3b-033",
+      "url": "https://pocket.limitlesstcg.com/cards/B3b/33",
+      "retrievedAt": "2026-10-16T05:00:09.818634+00:00",
+      "sha256": "24946cb79b191a9c21bb181ce7f95bc24e630942ac06003dac3300d5b5185fa7",
+      "bytes": 13198,
+      "attacks": [
+        {
+          "name": "Smitten Strike",
+          "damage": "60+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B3b/B3b_033_EN.png"
+    },
+    {
+      "id": "B4-136",
+      "url": "https://pocket.limitlesstcg.com/cards/B4/136",
+      "retrievedAt": "2026-10-16T05:00:10.893013+00:00",
+      "sha256": "def93f1ec64f1c56d49205d253d4392324ee896c788f1b1dbcdf70a1292508cd",
+      "bytes": 13141,
+      "attacks": [
+        {
+          "name": "Samesies Slap",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4/B4_136_EN.png"
+    },
+    {
+      "id": "B4a-036",
+      "url": "https://pocket.limitlesstcg.com/cards/B4a/36",
+      "retrievedAt": "2026-10-16T05:00:11.146693+00:00",
+      "sha256": "563881097cb9d07bc3887a9d01c8e07fdb597ff48794be81a56411493adcf831",
+      "bytes": 13566,
+      "attacks": [
+        {
+          "name": "Punish",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_036_EN.png"
+    },
+    {
+      "id": "B4a-057",
+      "url": "https://pocket.limitlesstcg.com/cards/B4a/57",
+      "retrievedAt": "2026-10-16T05:00:11.447521+00:00",
+      "sha256": "227fa02de2001671fd14a46c2d059d1f800585ab537e4cfdd08b18ab831019e6",
+      "bytes": 13114,
+      "attacks": [
+        {
+          "name": "Draconic Slam",
+          "damage": "140-"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_057_EN.png"
+    },
+    {
+      "id": "B4a-064",
+      "url": "https://pocket.limitlesstcg.com/cards/B4a/64",
+      "retrievedAt": "2026-10-16T05:00:11.473474+00:00",
+      "sha256": "862f51668f125fb89f0aa16e4c763e309954735854d87b88722c11e260c73633",
+      "bytes": 13470,
+      "attacks": [
+        {
+          "name": "Continuous Steps",
+          "damage": "30x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_064_EN.png"
+    },
+    {
+      "id": "B4b-197",
+      "url": "https://pocket.limitlesstcg.com/cards/B4b/197",
+      "retrievedAt": "2026-10-16T05:00:12.321799+00:00",
+      "sha256": "d3defb39e413f9139e79866153100b3213d367ede0bc9c9b32033b80eddd4dca",
+      "bytes": 14156,
+      "attacks": [
+        {
+          "name": "Prism Impact",
+          "damage": "80+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4b/B4b_197_EN.png"
+    },
+    {
+      "id": "P-A-063",
+      "url": "https://pocket.limitlesstcg.com/cards/P-A/63",
+      "retrievedAt": "2026-10-16T05:00:12.496580+00:00",
+      "sha256": "f41015388d0068295d6806af408caeb3e0f67e8475a9ff6000a35ba7134141a9",
+      "bytes": 12996,
+      "attacks": [
+        {
+          "name": "Spiral Rush",
+          "damage": "70+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_063_EN.png"
+    },
+    {
+      "id": "P-A-082",
+      "url": "https://pocket.limitlesstcg.com/cards/P-A/82",
+      "retrievedAt": "2026-10-16T05:00:12.795744+00:00",
+      "sha256": "c52bb1fc9a4fd708aaee318a2c7de0c06aab4b4f6aed2f6a89ed00c951bd4b31",
+      "bytes": 13288,
+      "attacks": [
+        {
+          "name": "2-Step",
+          "damage": "20x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_082_EN.png"
+    },
+    {
+      "id": "P-A-085",
+      "url": "https://pocket.limitlesstcg.com/cards/P-A/85",
+      "retrievedAt": "2026-10-16T05:00:12.823152+00:00",
+      "sha256": "f9eae2f4a6f2cf9ea8198237a5d5d21f316b066ee6d2cec5ac4f9104fff2c9d3",
+      "bytes": 13359,
+      "attacks": [
+        {
+          "name": "Sweets Relay",
+          "damage": "10+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_085_EN.png"
+    },
+    {
+      "id": "P-A-086",
+      "url": "https://pocket.limitlesstcg.com/cards/P-A/86",
+      "retrievedAt": "2026-10-16T05:00:13.691559+00:00",
+      "sha256": "a00a572bb6cc2f922751bf440bc6dc10cad4df1bdbc9d6d64839f376892a5d44",
+      "bytes": 14060,
+      "attacks": [
+        {
+          "name": "Beginning Bolt",
+          "damage": "40+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_086_EN.png"
+    },
+    {
+      "id": "P-A-087",
+      "url": "https://pocket.limitlesstcg.com/cards/P-A/87",
+      "retrievedAt": "2026-10-16T05:00:14.203968+00:00",
+      "sha256": "1dd30d5802a22a360c3500b805b70ab1d137fa278d10f4c47e8664910b849ecb",
+      "bytes": 14082,
+      "attacks": [
+        {
+          "name": "Sweets Overload",
+          "damage": "40x"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_087_EN.png"
+    },
+    {
+      "id": "P-A-091",
+      "url": "https://pocket.limitlesstcg.com/cards/P-A/91",
+      "retrievedAt": "2026-10-16T05:00:14.208968+00:00",
+      "sha256": "24a5efbf702f0ea731a3399ae8014b32751ebccafb9c4709089c73e6223586b3",
+      "bytes": 13473,
+      "attacks": [
+        {
+          "name": "Enhanced Fang",
+          "damage": "50+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_091_EN.png"
+    },
+    {
+      "id": "P-A-097",
+      "url": "https://pocket.limitlesstcg.com/cards/P-A/97",
+      "retrievedAt": "2026-10-16T05:00:14.188740+00:00",
+      "sha256": "c4b1ee88ecb1046f15e1ef1b27182a4c2b776fa08497c041ca5add9f9d193c5d",
+      "bytes": 13391,
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "damage": "20+"
+        }
+      ],
+      "cardImageUrl": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_097_EN.png"
+    }
+  ]
+}

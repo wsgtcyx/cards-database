@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Garras de combate",
                 "zh-tw": "戰鬥利爪"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Grass", "Grass"],
             effect: {
                 en: "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",

@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Corte transversal",
                 "zh-tw": "橫切"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Colorless"],
             effect: {
                 en: "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage.",

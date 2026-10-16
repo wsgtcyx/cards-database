@@ -71,7 +71,7 @@ const card: Card = {
                 "pt-br": "Se o Pokémon Ativo do seu oponente tiver “Equipe Rocket” em seu nome, este ataque causará 70 pontos de dano a mais.",
                 "zh-tw": "若對手的戰鬥寶可夢為名稱中有「火箭隊」的寶可夢,則增加70點傷害。"
             },
-            damage: 50
+            damage: "50+"
         }
     ],
     weaknesses: [

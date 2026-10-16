@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Morda Juntos",
                 "zh-tw": "一起咬"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Metal", "Colorless"],
             effect: {
                 en: "If Durant is on your Bench, this attack does 40 more damage.",

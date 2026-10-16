@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Tesoura Crítica",
                 "zh-tw": "關鍵剪刀"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Grass", "Grass", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 70 more damage.",

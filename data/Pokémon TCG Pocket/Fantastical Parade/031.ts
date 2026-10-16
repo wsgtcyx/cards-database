@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Giro Triplo",
                 "zh-tw": "三重旋轉"
             },
-            damage: 60,
+            damage: "60×",
             cost: ["Water", "Water", "Water"],
             effect: {
                 en: "Flip 3 coins. This attack does 60 damage for each heads.",

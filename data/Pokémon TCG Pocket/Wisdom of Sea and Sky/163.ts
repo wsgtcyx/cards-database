@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Dança das Pétalas",
                 "zh-tw": "花瓣舞"
             },
-            damage: 60,
+            damage: "60×",
             cost: ["Grass", "Grass"],
             effect: {
                 en: "Flip 3 coins. This attack does 60 damage for each heads. This Pokémon is now Confused.",
