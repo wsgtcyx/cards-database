@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Responder com firmeza",
                 "zh-tw": "強烈回复"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Psychic", "Colorless"],
             effect: {
                 en: "If this Pokémon was damaged by an attack during your opponent's last turn while it was in the Active Spot, this attack does 50 more damage.",

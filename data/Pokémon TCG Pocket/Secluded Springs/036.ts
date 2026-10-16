@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Cruzando Voos",
                 "zh-tw": "過境航班"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Psychic"],
             effect: {
                 en: "If Latios is on your Bench, this attack does 20 more damage.",

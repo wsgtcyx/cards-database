@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Lâmina Energizada",
                 "zh-tw": "充能之刃"
             },
-            damage: 70,
+            damage: "70+",
             cost: ["Fighting", "Fighting"],
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",

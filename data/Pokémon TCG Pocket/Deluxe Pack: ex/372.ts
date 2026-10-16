@@ -58,7 +58,7 @@ const card: Card = {
                 "pt-br": "Força Suprema",
                 "zh-tw": "終極力量"
             },
-            damage: 70,
+            damage: "70+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each of your Benched Pokémon.",

@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Cyberjack",
                 "zh-tw": "網絡劫持"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each Trainer card in your opponent's deck.",

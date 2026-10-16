@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Desintegrador de Penhascos",
                 "zh-tw": "懸崖破碎者"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Fighting"],
             effect: {
                 en: "Discard the top card of your deck. If that card is a {F} Pokémon, this attack does 60 more damage.",

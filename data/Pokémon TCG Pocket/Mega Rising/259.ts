@@ -55,7 +55,7 @@ const card: Card = {
                 "pt-br": "Mega Harmonia",
                 "zh-tw": "超級和諧"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Psychic", "Psychic"],
             effect: {
                 en: "This attack does 30 more damage for each of your Benched Pokémon.",

@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Amigos anteriores",
                 "zh-tw": "過去的朋友"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Psychic", "Psychic"],
             effect: {
                 en: "This attack does 20 more damage for each Supporter card in your discard pile.",

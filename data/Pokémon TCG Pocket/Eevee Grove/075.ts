@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Esmagamento de energia",
                 "zh-tw": "能量粉碎"
             },
-            damage: 20,
+            damage: "20×",
             cost: ["Psychic"],
             effect: {
                 en: "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",

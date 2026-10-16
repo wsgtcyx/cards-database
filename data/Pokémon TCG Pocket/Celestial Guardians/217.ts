@@ -57,7 +57,7 @@ const card: Card = {
                 'pt-br': "Jato d'Água",
                 "zh-tw": "液壓泵"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Water", "Water", "Colorless"],
             effect: {
                 en: "If this Pokémon has at least 2 extra {W} Energy attached, this attack does 60 more damage.",

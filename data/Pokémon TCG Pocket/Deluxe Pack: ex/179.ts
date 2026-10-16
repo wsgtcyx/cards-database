@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Dança Malvada",
                 "zh-tw": "惡意之舞"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Psychic"],
             effect: {
                 en: "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",

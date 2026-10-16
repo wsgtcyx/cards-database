@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Mordendo Presa",
                 "zh-tw": "咬牙方"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 40 more damage.",

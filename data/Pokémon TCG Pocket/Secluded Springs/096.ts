@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Caranguejo nocauteado",
                 "zh-tw": "KO蟹"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Water", "Water", "Colorless"],
             effect: {
                 en: "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",

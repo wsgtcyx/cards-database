@@ -66,7 +66,7 @@ const card: Card = {
                 "pt-br": "Revezamento de Doces",
                 "zh-tw": "糖果接力賽"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Grass"],
             effect: {
                 en: "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",

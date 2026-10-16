@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Presa Tirânica",
                 "zh-tw": "暴虐之牙"
             },
-            damage: 100,
+            damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting"],
             effect: {
                 en: "If you have fewer Pokémon in play than your opponent, this attack does 80 more damage.",

@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Venoshock",
                 "zh-tw": "靜脈休克"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Darkness", "Darkness"],
             effect: {
                 en: "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",

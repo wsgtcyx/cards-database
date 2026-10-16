@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Parafuso Inicial",
                 "zh-tw": "起始螺栓"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Lightning"],
             effect: {
                 en: "If this Pokémon evolved during this turn, this attack does 20 more damage.",

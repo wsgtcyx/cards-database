@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Coçar as unhas",
                 "zh-tw": "抓指甲"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Darkness"],
             effect: {
                 en: "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.",

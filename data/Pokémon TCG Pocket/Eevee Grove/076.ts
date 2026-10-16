@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Evoharmonia",
                 "zh-tw": "進化和諧"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Psychic", "Colorless"],
             effect: {
                 en: "This attack does 30 more damage for each Evolution Pokémon on your Bench.",

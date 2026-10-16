@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Advertência maligna",
                 "zh-tw": "邪惡的警告"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "This attack does 40 more damage for each of your opponent's Pokémon in play that has an Ability.",

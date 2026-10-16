@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Sobrecarga de doces",
                 "zh-tw": "糖果超載"
             },
-            damage: 40,
+            damage: "40×",
             cost: ["Colorless"],
             effect: {
                 en: "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",

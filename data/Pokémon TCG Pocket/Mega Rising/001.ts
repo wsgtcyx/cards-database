@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Tesoura X",
                 "zh-tw": "X型剪刀"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Grass", "Grass", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 50 more damage.",

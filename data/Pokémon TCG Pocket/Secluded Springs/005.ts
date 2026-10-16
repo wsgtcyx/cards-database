@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Viagem",
                 "zh-tw": "絆倒"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Grass", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",

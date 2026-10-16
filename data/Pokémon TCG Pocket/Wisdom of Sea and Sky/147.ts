@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Chifres aprimorados",
                 "zh-tw": "增強號角"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",

@@ -49,7 +49,7 @@ const card: Card = {
 				ko: "투지의박치기",
 				"zh-tw": "格鬥頭撞"
 			},
-			damage: 20,
+			damage: "20+",
 			cost: ["Fighting"],
 			effect: {
 				en: "If your opponent's Active Pokémon is a Pokémon {ex}, this attack does 30 more damage.",

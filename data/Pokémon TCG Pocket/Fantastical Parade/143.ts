@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Batida Familiar",
                 "zh-tw": "家庭毆打"
             },
-            damage: 60,
+            damage: "60×",
             cost: ["Colorless"],
             effect: {
                 en: "Flip a coin for each Tandemaus and Maushold you have in play. This attack does 60 damage for each heads.",

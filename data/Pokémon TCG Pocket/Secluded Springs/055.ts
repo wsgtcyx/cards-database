@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Arcano do Dragão",
                 "zh-tw": "龍阿卡納"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage.",

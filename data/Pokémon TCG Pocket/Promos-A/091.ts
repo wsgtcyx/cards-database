@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Presa Aprimorada",
                 "zh-tw": "強化方牙"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",

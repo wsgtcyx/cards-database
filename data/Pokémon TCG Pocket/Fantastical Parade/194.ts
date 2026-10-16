@@ -58,7 +58,7 @@ const card: Card = {
                 "pt-br": "Folhas Energizadas",
                 "zh-tw": "充滿活力的葉子"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Grass", "Grass"],
             effect: {
                 en: "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage.",

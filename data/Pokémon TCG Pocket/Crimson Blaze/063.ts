@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Chute Duplo",
                 "zh-tw": "二連踢"
             },
-            damage: 50,
+            damage: "50×",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 50 damage for each heads.",

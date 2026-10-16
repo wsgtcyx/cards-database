@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Darmani-Mãos",
                 "zh-tw": "達瑪尼手"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Fire", "Fire", "Fire", "Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 30 more damage for each heads.",

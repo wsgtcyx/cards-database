@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Martelo Tenaz",
                 "zh-tw": "頑強之鎚"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Metal", "Metal"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",

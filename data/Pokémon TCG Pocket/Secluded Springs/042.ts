@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Junta Hidrográfica",
                 "zh-tw": "液壓轉向節"
             },
-            damage: 100,
+            damage: "100+",
             cost: ["Fighting", "Colorless", "Colorless"],
             effect: {
                 en: "If this Pokémon has any {W} Energy attached, this attack does 40 more damage.",

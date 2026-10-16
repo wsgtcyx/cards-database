@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Balanço Selvagem",
                 "zh-tw": "狂野搖擺"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Water", "Water"],
             effect: {
                 en: "You may discard any number of your Benched {W} Pokémon. This attack does 40 more damage for each Benched Pokémon you discarded in this way.",

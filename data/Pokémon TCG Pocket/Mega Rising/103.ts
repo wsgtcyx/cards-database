@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Emboscada",
                 "zh-tw": "伏擊"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Psychic"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",

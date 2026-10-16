@@ -48,7 +48,7 @@ const card: Card = {
                 ko: "전광석화",
                 "zh-tw": "快速攻擊"
             },
-            damage: 10,
+            damage: "10+",
             cost: ["Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 20 more damage.",

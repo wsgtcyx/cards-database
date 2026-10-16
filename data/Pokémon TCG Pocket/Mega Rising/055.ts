@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Passos Rítmicos",
                 "zh-tw": "有節奏的舞步"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Water", "Water"],
             effect: {
                 en: "If you have exactly 1, 3, or 5 cards in your hand, this attack does 60 more damage.",

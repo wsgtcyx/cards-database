@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Borda de Pedra",
                 "zh-tw": "石邊"
             },
-            damage: 100,
+            damage: "100+",
             cost: ["Fighting", "Fighting", "Fighting", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 50 more damage.",

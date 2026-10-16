@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Ataque Impiedoso",
                 "zh-tw": "無情打擊"
             },
-            damage: 70,
+            damage: "70+",
             cost: ["Darkness", "Darkness"],
             effect: {
                 en: "If your opponent's Active Pokémon has damage on it, this attack does 50 more damage.",

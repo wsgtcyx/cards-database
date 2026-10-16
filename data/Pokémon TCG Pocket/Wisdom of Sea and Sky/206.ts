@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Imprensa gigantesca",
                 "zh-tw": "巨大的壓力機"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Fighting"],
             effect: {
                 en: "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 60 more damage.",

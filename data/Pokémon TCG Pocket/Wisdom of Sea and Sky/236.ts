@@ -37,7 +37,7 @@ const card: Card = {
                 "pt-br": "Gadget brilhante",
                 "zh-tw": "火花小工具"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Lightning", "Lightning"],
             effect: {
                 en: "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",

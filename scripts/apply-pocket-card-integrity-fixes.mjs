@@ -10,6 +10,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import jscodeshift from 'jscodeshift'
+import { apiDamage } from './pocket-attack-damage.mjs'
 
 const ROOT = path.resolve(fileURLToPath(new URL('..', import.meta.url)))
 const DATA_ROOT = path.join(ROOT, 'data', 'Pokémon TCG Pocket')
@@ -138,8 +139,7 @@ function valuesEqual(left, right, { sortArray = false } = {}) {
 
 function stableValuesEqual(field, left, right) {
 	if (field.endsWith('.damage')) {
-		const numeric = value => value === null || value === undefined ? null : Number(value)
-		return numeric(left) === numeric(right)
+		return apiDamage({ damage: left }) === apiDamage({ damage: right })
 	}
 	return valuesEqual(left, right, { sortArray: field.endsWith('.cost') })
 }
@@ -183,8 +183,10 @@ function validateStableMismatch(reportCard, mismatch) {
 		if (!nonNegativeInteger(Number(attackMatch[1]))) throw new Error(`${reportCard.id}.${field} has invalid attack index`)
 		if (attackMatch[2] === 'cost') {
 			if (!Array.isArray(expected) || expected.length > 10 || expected.some(value => !ENERGY_TYPES.has(value))) throw new Error(`${reportCard.id}.${field} has invalid expected value`)
-		} else if (expected !== null && (!Number.isFinite(expected) || expected < 0 || expected > 1000)) {
-			throw new Error(`${reportCard.id}.${field} has invalid expected value`)
+		} else if (expected !== null) {
+			const normalized = apiDamage({ damage: expected })
+			const amount = Number.parseInt(String(normalized), 10)
+			if (!Number.isFinite(amount) || amount < 0 || amount > 1000) throw new Error(`${reportCard.id}.${field} has invalid expected value`)
 		}
 		return
 	}

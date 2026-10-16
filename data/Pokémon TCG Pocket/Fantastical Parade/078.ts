@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Golpes de Fúria",
                 "zh-tw": "狂怒橫掃"
             },
-            damage: 30,
+            damage: "30×",
             cost: ["Fighting"],
             effect: {
                 en: "Flip 3 coins. This attack does 30 damage for each heads.",

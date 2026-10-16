@@ -47,7 +47,7 @@ const card: Card = {
                 ko: "연속스텝",
                 "zh-tw": "連續步驟"
             },
-            damage: 20,
+            damage: "20×",
             cost: ["Colorless"],
             effect: {
                 en: "Flip a coin until you get tails. This attack does 20 damage for each heads.",

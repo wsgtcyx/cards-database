@@ -12,6 +12,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import jscodeshift from 'jscodeshift'
+import { apiDamage, rawDamage } from './pocket-attack-damage.mjs'
 import { normalizeRaenonxName } from '../.agents/skills/merge-pocket-card-sources/scripts/normalize-raenonx-name.mjs'
 
 const j = jscodeshift.withParser('ts')
@@ -344,17 +345,6 @@ function rawCost(attack) {
 
 function apiCost(attack) {
 	return [...(attack?.cost ?? [])].sort()
-}
-
-function apiDamage(attack) {
-	if (attack?.damage === undefined || attack?.damage === null) return null
-	const match = String(attack.damage).match(/\d+/u)
-	return match ? Number(match[0]) : null
-}
-
-function rawDamage(attack) {
-	const value = attack?.damageMarking?.value ?? null
-	return value === 0 ? null : value
 }
 
 function compareStable(card, source) {

@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Queda Contínua",
                 "zh-tw": "連續翻滾"
             },
-            damage: 40,
+            damage: "40×",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin until you get tails. This attack does 40 damage for each heads.",

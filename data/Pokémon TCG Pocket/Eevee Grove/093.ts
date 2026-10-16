@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Corrida de guilhotina",
                 "zh-tw": "斷頭台衝刺"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Grass", "Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin until you get tails. This attack does 40 more damage for each heads.",

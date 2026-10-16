@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Esmague os fracos",
                 "zh-tw": "碾壓弱者"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Darkness", "Darkness"],
             effect: {
                 en: "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 50 more damage.",

@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Cauda Animada",
                 "zh-tw": "興奮的尾巴"
             },
-            damage: 30,
+            damage: "30×",
             cost: ["Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 30 damage for each heads. If this Pokémon has Lucky Mittens attached, flip 4 coins instead.",

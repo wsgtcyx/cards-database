@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Impulso do vendaval",
                 "zh-tw": "強風推力"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Metal", "Metal"],
             effect: {
                 en: "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage.",

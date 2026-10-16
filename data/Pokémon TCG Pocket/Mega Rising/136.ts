@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Foguete Pesado",
                 "zh-tw": "重型火箭"
             },
-            damage: 60,
+            damage: "60×",
             cost: ["Fighting", "Fighting"],
             effect: {
                 en: "Reveal the top 3 cards of your deck. This attack does 60 damage for each Pokémon with a Retreat Cost of 3 or more you find there. Shuffle the revealed cards back into your deck.",

@@ -46,7 +46,7 @@ const card: Card = {
                 "pt-br": "Lambendo Fúria",
                 "zh-tw": "舔怒"
             },
-            damage: 100,
+            damage: "100+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin until you get tails. This attack does 40 more damage for each heads.",

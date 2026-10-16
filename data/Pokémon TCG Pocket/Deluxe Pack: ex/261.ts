@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Canhão Prateado",
                 "zh-tw": "銀炮"
             },
-            damage: 40,
+            damage: "40+",
             cost: ["Metal", "Metal"],
             effect: {
                 en: "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage.",

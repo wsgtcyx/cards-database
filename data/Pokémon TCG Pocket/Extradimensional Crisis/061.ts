@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Bravos amigos",
                 "zh-tw": "勇敢的伙伴"
             },
-            damage: 50,
+            damage: "50+",
             cost: ["Colorless", "Colorless"],
             effect: {
                 en: "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",

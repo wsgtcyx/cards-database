@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Soco constante",
                 "zh-tw": "穩定出拳"
             },
-            damage: 60,
+            damage: "60+",
             cost: ["Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin. If heads, this attack does 30 more damage.",

@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Giro Duplo",
                 "zh-tw": "雙旋轉"
             },
-            damage: 20,
+            damage: "20×",
             cost: ["Psychic"],
             effect: {
                 en: "Flip 2 coins. This attack does 20 damage for each heads.",

@@ -55,7 +55,7 @@ const card: Card = {
                 "pt-br": "Esmagadores Rápidos",
                 "zh-tw": "快速粉碎機"
             },
-            damage: 90,
+            damage: "90×",
             cost: ["Fighting", "Fighting"],
             effect: {
                 en: "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused.",

@@ -49,7 +49,7 @@ const card: Card = {
                 "pt-br": "Furacão Trovejante",
                 "zh-tw": "雷霆颶風"
             },
-            damage: 50,
+            damage: "50×",
             cost: ["Lightning", "Lightning", "Lightning"],
             effect: {
                 en: "Flip 4 coins. This attack does 50 damage for each heads.",

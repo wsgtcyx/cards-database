@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Lixo",
                 "zh-tw": "垃圾"
             },
-            damage: 50,
+            damage: "50×",
             cost: ["Water"],
             effect: {
                 en: "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way.",

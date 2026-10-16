@@ -58,7 +58,7 @@ const card: Card = {
                 "pt-br": "Tapa Triplo",
                 "zh-tw": "三重耳光"
             },
-            damage: 20,
+            damage: "20×",
             cost: ["Grass"],
             effect: {
                 en: "Flip 3 coins. This attack does 20 damage for each heads.",

@@ -48,7 +48,7 @@ const card: Card = {
                 ko: "스파이럴러시",
                 "zh-tw": "螺旋衝刺"
             },
-            damage: 70,
+            damage: "70+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip a coin until you get tails. This attack does 30 more damage for each heads.",

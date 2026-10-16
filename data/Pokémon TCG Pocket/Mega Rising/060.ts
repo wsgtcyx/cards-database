@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Equipamento emparelhado",
                 "zh-tw": "配對鏟球"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Water", "Water"],
             effect: {
                 en: "If you have exactly 2, 4, or 6 cards in your hand, this attack does 30 more damage.",

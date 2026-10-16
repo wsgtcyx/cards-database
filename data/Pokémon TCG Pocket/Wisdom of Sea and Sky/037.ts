@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Calor de torrefação",
                 "zh-tw": "烘烤熱量"
             },
-            damage: 30,
+            damage: "30+",
             cost: ["Fire", "Fire"],
             effect: {
                 en: "If your opponent's Active Pokémon is Burned, this attack does 60 more damage.",

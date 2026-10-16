@@ -54,7 +54,7 @@ const card: Card = {
                 "pt-br": "Barragem de Balões",
                 "zh-tw": "氣球彈幕"
             },
-            damage: 20,
+            damage: "20+",
             cost: ["Psychic", "Colorless"],
             effect: {
                 en: "This attack does 20 more damage for each Energy attached to this Pokémon.",

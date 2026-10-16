@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Aeroblasto",
                 "zh-tw": "氣爆"
             },
-            damage: 80,
+            damage: "80+",
             cost: ["Colorless", "Colorless", "Colorless", "Colorless"],
             effect: {
                 en: "Flip 2 coins. This attack does 40 more damage for each heads.",

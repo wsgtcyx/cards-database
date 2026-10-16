@@ -45,7 +45,7 @@ const card: Card = {
                 "pt-br": "Explosão geográfica",
                 "zh-tw": "地裂"
             },
-            damage: 120,
+            damage: "120-",
             cost: ["Psychic", "Psychic", "Colorless"],
             effect: {
                 en: "This attack's damage is reduced by the amount of damage this Pokémon has on it.",
