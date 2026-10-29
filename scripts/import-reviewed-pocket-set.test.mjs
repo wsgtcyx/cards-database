@@ -79,3 +79,21 @@ test('CLI stages the complete set and remains retryable after a write failure', 
 		assert.equal(fs.existsSync(path.join(output, 'Fixture.ts')), true)
 	} finally { fs.rmSync(root, { recursive: true, force: true }) }
 })
+
+
+test('localization audit rejects reviewed raw that differs from the audited locale values', () => {
+	const root = fs.mkdtempSync(path.join(os.tmpdir(), 'reviewed-set-audit-'))
+	try {
+		const evidence = new URL('../meta/pocket-source-reviews/C1/', import.meta.url)
+		const cards = JSON.parse(fs.readFileSync(new URL('C1.reviewed-raw.json', evidence), 'utf8'))
+		cards['C1-001'].description.de = 'TODO'
+		const changed = path.join(root, 'changed.json'), output = path.join(root, 'audit.json')
+		fs.writeFileSync(changed, JSON.stringify(cards))
+		const script = fileURLToPath(new URL('../.agents/skills/merge-pocket-card-sources/scripts/audit-pocket-localizations.mjs', import.meta.url))
+		const result = spawnSync(process.execPath, [script, '--canonical', fileURLToPath(new URL('C1.canonical.json', evidence)), '--localizations', fileURLToPath(new URL('C1.localizations.json', evidence)), '--config', fileURLToPath(new URL('C1.source-config.json', evidence)), '--reviewed-cards', changed, '--output', output], { encoding: 'utf8' })
+		assert.notEqual(result.status, 0)
+		const audit = JSON.parse(fs.readFileSync(output, 'utf8'))
+		assert.equal(audit.passed, false)
+		assert(audit.findings.some(finding => finding.cardId === 'C1-001' && finding.locale === 'de' && finding.kind === 'reviewed-localization-mismatch'))
+	} finally { fs.rmSync(root, { recursive: true, force: true }) }
+})
