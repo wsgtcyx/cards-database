@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "setId": "C1",
+  "total": 217,
+  "officialCount": 131,
+  "releaseDate": "2026-10-29",
+  "setFile": "Dual Fusion",
+  "slug": "dual-fusion",
+  "sourceId": 599,
+  "setNames": {
+    "en": "Dual Fusion",
+    "fr": "Fusion Double",
+    "es": "Fusión Dual",
+    "it": "Fusione Duale",
+    "de": "Duale Fusion",
+    "pt-br": "Fusão Dupla",
+    "zh-tw": "雙元融合",
+    "ja": "デュアルフュージョン",
+    "ko": "듀얼 퓨전"
+  },
+  "nameLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "ruleLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw"
+  ],
+  "boosters": [
+    {
+      "slug": "mega-mewtwo-x",
+      "sku": "C1_1",
+      "gameId": "CN001_0010_00_000",
+      "names": {
+        "en": "Dual Fusion: Mega Mewtwo X",
+        "fr": "Fusion Double : Méga-Mewtwo X",
+        "es": "Fusión Dual: Mega-Mewtwo X",
+        "it": "Fusione Duale: Mega Mewtwo X",
+        "de": "Duale Fusion: Mega-Mewtu X",
+        "pt-br": "Fusão Dupla: Mega Mewtwo X",
+        "zh-tw": "雙元融合 超級超夢X",
+        "ja": "デュアルフュージョン メガミュウツーX",
+        "ko": "듀얼 퓨전 메가뮤츠X"
+      }
+    },
+    {
+      "slug": "pikachu",
+      "sku": "C1_2",
+      "gameId": "CN001_0020_00_000",
+      "names": {
+        "en": "Dual Fusion: Pikachu",
+        "fr": "Fusion Double : Pikachu",
+        "es": "Fusión Dual: Pikachu",
+        "it": "Fusione Duale: Pikachu",
+        "de": "Duale Fusion: Pikachu",
+        "pt-br": "Fusão Dupla: Pikachu",
+        "zh-tw": "雙元融合 皮卡丘",
+        "ja": "デュアルフュージョン ピカチュウ",
+        "ko": "듀얼 퓨전 피카츄"
+      }
+    }
+  ],
+  "r2Origin": "https://game.pokemontcgpocket.app",
+  "imagesPolicy": {
+    "cardLocales": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "boosterImageLocales": [
+      "en"
+    ],
+    "boosterFallback": "Official English pack artwork and expansion logo are used for the other UI locales; no localized pack image is claimed."
+  }
+}

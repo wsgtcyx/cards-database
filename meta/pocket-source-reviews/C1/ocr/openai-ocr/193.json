@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-193",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4aa8655175224cb542fd6067ab0717304ef57404c06086f3eb83da231de2fa93",
+      "bytes": 315161
+    },
+    "fr": {
+      "sha256": "3ce15a258a1571ff7fb0ba21a539d7c43a1eef5598b30ace7c2379760dc8b846",
+      "bytes": 316411
+    },
+    "es": {
+      "sha256": "5e72cafd86229a45439403a4c6a9e9dd549d65a09dd40d1b3f9f9184232eb169",
+      "bytes": 316640
+    },
+    "it": {
+      "sha256": "0e3b5718af877636f270106ebed8ae00de557c95cb0cb65350a2b22810c2f0e1",
+      "bytes": 315560
+    },
+    "de": {
+      "sha256": "87f899d53e1f857dc092032ac767365d9f806a5b75c17885dd58175f218fa56f",
+      "bytes": 318843
+    },
+    "pt-br": {
+      "sha256": "2a444d123e0539633ef7d2cc8755098869c32ad72d30b3275e3c2e0712820a27",
+      "bytes": 317117
+    },
+    "zh-tw": {
+      "sha256": "1eba36a9c8522269b95d84618c81767d1613fb4680a6e448d5eccf986af3b26f",
+      "bytes": 313104
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1591,
+    "output_tokens_details": {
+      "reasoning_tokens": 868
+    },
+    "total_tokens": 3551
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Dewgong",
+        "illustrator": "MAHOU",
+        "description": "It sleeps under shallow ocean waters during the day, then looks for food at night when it's colder.",
+        "attacks": [
+          {
+            "name": "Dual Blizzard",
+            "effect": "Discard 2 {W} Energy from this Pokémon, and this attack does 60 damage to 2 of your opponent's Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lamantine",
+        "illustrator": "MAHOU",
+        "description": "Le jour, il dort dans les eaux peu profondes. La nuit, quand la température de la mer descend, il part à la recherche de nourriture.",
+        "attacks": [
+          {
+            "name": "Double Blizzard",
+            "effect": "Défaussez 2 Énergies {W} de ce Pokémon. Cette attaque inflige 60 dégâts à 2 des Pokémon de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Dewgong",
+        "illustrator": "MAHOU",
+        "description": "Duerme en aguas poco profundas durante el día, y, por la noche, cuando baja la temperatura del agua, nada en busca de comida.",
+        "attacks": [
+          {
+            "name": "Ventisca Doble",
+            "effect": "Descarta 2 Energías {W} de este Pokémon. Este ataque hace 60 puntos de daño a 2 de los Pokémon de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Dewgong",
+        "illustrator": "MAHOU",
+        "description": "Di giorno dorme su fondali marini poco profondi. Di notte, quando fa più freddo, va alla ricerca di cibo.",
+        "attacks": [
+          {
+            "name": "Doppia Bora",
+            "effect": "Rimuovi 2 Energie {W} da questo Pokémon. Questo attacco infligge 60 danni a 2 Pokémon del tuo avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Jugong",
+        "illustrator": "MAHOU",
+        "description": "Des Nachts, wenn die Wassertemperatur fällt, schwimmt es auf der Suche nach Nahrung umher. Tagsüber schläft es im seichten Meerwasser.",
+        "attacks": [
+          {
+            "name": "Doppelsturm",
+            "effect": "Lege 2 {W}-Energien von diesem Pokémon ab und diese Attacke fügt 2 Pokémon deines Gegners 60 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Dewgong",
+        "illustrator": "MAHOU",
+        "description": "Durante o dia, dorme sob águas rasas no oceano. Ao anoitecer, quando a água esfria, sai à procura de alimento.",
+        "attacks": [
+          {
+            "name": "Nevasca Dupla",
+            "effect": "Descarte 2 Energias {W} deste Pokémon, e este ataque causa 60 pontos de dano a 2 dos Pokémon do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "白海獅",
+        "illustrator": "MAHOU",
+        "description": "在水溫變低的夜晚，為了尋找食物，會在海面下四處游動。",
+        "attacks": [
+          {
+            "name": "二重暴雪",
+            "effect": "將這隻寶可夢身上的2個{W}能量丟棄，對手的2隻寶可夢可受到60點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

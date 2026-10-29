@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-119",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "19eec1f1a7f147e2deb1b241af192409870ec211c22fdc4c782453e1c6854acd",
+      "bytes": 189869
+    },
+    "fr": {
+      "sha256": "9dd2904277c584e7645d8f8f96fdfcb3472b39617222eb370dd9c5d9a1391227",
+      "bytes": 191601
+    },
+    "es": {
+      "sha256": "581c84ad17cf636961e4b2371724c3633090b7bac15b1bbdca6a17feae0548d2",
+      "bytes": 190320
+    },
+    "it": {
+      "sha256": "5506d3dbf53c0f1b9686ae5c628c828c96ed20f65ffe632fa8403809e76c5ff1",
+      "bytes": 191081
+    },
+    "de": {
+      "sha256": "86ec36f9d9d1b904d5d05fbd9103bd0e0503104a56837219e394b117b920c789",
+      "bytes": 191013
+    },
+    "pt-br": {
+      "sha256": "a86d236ec61d5e6122b9040dbed02629128e9b6c75d38e98a60785b8360c2800",
+      "bytes": 191013
+    },
+    "zh-tw": {
+      "sha256": "7b387635a3f847f73b76e1c7c88b14ca349d43795c505581ff8b5fd86b120c08",
+      "bytes": 187738
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 961,
+    "output_tokens_details": {
+      "reasoning_tokens": 472
+    },
+    "total_tokens": 4449
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Sweet Honey",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Choose 1 of your Pokémon, and then flip a coin until you get tails. For each heads, heal 20 damage from that Pokémon."
+      },
+      "fr": {
+        "name": "Miel",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Choisissez un de vos Pokémon, puis lancez une pièce jusqu'à obtenir un côté pile. Pour chaque côté face, soignez 20 dégâts à ce Pokémon."
+      },
+      "es": {
+        "name": "Miel",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Elige 1 de tus Pokémon, y luego lanza 1 moneda hasta que salga cruz. Por cada cara, cura 20 puntos de daño a ese Pokémon."
+      },
+      "it": {
+        "name": "Miele",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Scegli uno dei tuoi Pokémon, poi lancia una moneta finché non esce croce. Ogni volta che esce testa, cura quel Pokémon da 20 danni."
+      },
+      "de": {
+        "name": "Honig",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Wähle 1 deiner Pokémon und wirf anschließend so lange 1 Münze, bis sie Zahl zeigt. Heile pro Kopf 20 Schadenspunkte bei jenem Pokémon."
+      },
+      "pt-br": {
+        "name": "Mel Doce",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Escolha 1 dos seus Pokémon e, em seguida, jogue uma moeda até sair coroa. Para cada cara, cure 20 pontos de dano daquele Pokémon."
+      },
+      "zh-tw": {
+        "name": "甜甜蜜",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "選擇1隻自己的寶可夢。擲硬幣直到出現反面，將那隻寶可夢恢復正面出現的次數×20點傷害相同數值的HP。"
+      }
+    },
+    "uncertain": []
+  }
+}

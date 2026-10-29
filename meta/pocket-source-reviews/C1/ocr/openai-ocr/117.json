@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-117",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "fff2598ed039477703975948d38cdd0c6c30059f4a25c0cbfcb502938970476c",
+      "bytes": 241411
+    },
+    "fr": {
+      "sha256": "25c9723042b250eb343aa3c2852f4ba5fd0237662bc5a567bce2beb135fef06e",
+      "bytes": 242913
+    },
+    "es": {
+      "sha256": "eee07a8ac0aed12311ea9fed6ffbde56bc8e6a924340631c4dc5f7ea72f271b7",
+      "bytes": 241649
+    },
+    "it": {
+      "sha256": "9373b2f1156a4c72012373f363f39d6466f61222419d0c69f948085889c8aa7d",
+      "bytes": 242062
+    },
+    "de": {
+      "sha256": "c252700fa3b28c9efc42e1d44c4f4c990642df792dfef0b6ed9f4966b580bc78",
+      "bytes": 243330
+    },
+    "pt-br": {
+      "sha256": "5620a140fc58b36e07926ccf1448b4409c15527d1ebf60af48c90c82bbe57a87",
+      "bytes": 241712
+    },
+    "zh-tw": {
+      "sha256": "985d2128d1e1aa9d577b2dab8361baf98175475282628137c0d177421bc09433",
+      "bytes": 242517
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1207,
+    "output_tokens_details": {
+      "reasoning_tokens": 693
+    },
+    "total_tokens": 3167
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Stufful",
+        "illustrator": "TOMATO MARKET",
+        "description": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+        "attacks": [
+          {
+            "name": "Beat",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Nounourson",
+        "illustrator": "TOMATO MARKET",
+        "description": "Sa fourrure duveteuse est très agréable à caresser, mais ceux qui la touchent sans prévenir s'exposent à une correction brutale.",
+        "attacks": [
+          {
+            "name": "Bataille",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Stufful",
+        "illustrator": "TOMATO MARKET",
+        "description": "Su suave pelaje invita a acariciarlo, pero quien cometa semejante temeridad recibirá un severo escarmiento.",
+        "attacks": [
+          {
+            "name": "Toque",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Stufful",
+        "illustrator": "TOMATO MARKET",
+        "description": "Il suo soffice manto è molto piacevole da accarezzare, ma se lo si sfiora inavvertitamente si rischia di venire attaccati.",
+        "attacks": [
+          {
+            "name": "Battuta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Velursi",
+        "illustrator": "TOMATO MARKET",
+        "description": "Sein Pelz ist wunderbar flauschig. Wagt man es jedoch, diesen zu berühren, setzt es sich hohem Risiko aus, Verluste zur Wehr.",
+        "attacks": [
+          {
+            "name": "Verprügler",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Stufful",
+        "illustrator": "TOMATO MARKET",
+        "description": "O seu pelo fofinho é uma delícia de acariciar, mas tocá-lo sem muito cuidado pode resultar em uma retaliação dolorosa.",
+        "attacks": [
+          {
+            "name": "Pulso",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "童偶熊",
+        "illustrator": "TOMATO MARKET",
+        "description": null,
+        "attacks": [
+          {
+            "name": "敲擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with full confidence from the provided image."
+      }
+    ]
+  }
+}

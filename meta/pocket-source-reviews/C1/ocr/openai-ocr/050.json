@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-050",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "20c12b283ccd6d3ae81526f095fc28b742da73dee89ca5435912097cfa9750b7",
+      "bytes": 252247
+    },
+    "fr": {
+      "sha256": "95d5cb5d9b0a0a119cf8f68ccd85d4247a859d2aae5f9f0a77ae6a232b5eef14",
+      "bytes": 254387
+    },
+    "es": {
+      "sha256": "8e4fdd1e701674da25ada5dee3a7e4f606ac6fffecb6571e6aa82f100595d60b",
+      "bytes": 250807
+    },
+    "it": {
+      "sha256": "15261d6a5b6c4d4aa8f81c62c4f8d28a049035861b9d15ae7da73ed611719c65",
+      "bytes": 252698
+    },
+    "de": {
+      "sha256": "bc4dd2f5b1465d14bada40263236b0ea2aafa6def2ee6108d5a8f5b9e949f5f2",
+      "bytes": 254420
+    },
+    "pt-br": {
+      "sha256": "8c6109191baa7fd89b57b647a56de991e56964134ce7578a2c20a74a2f45ee0a",
+      "bytes": 253811
+    },
+    "zh-tw": {
+      "sha256": "aa1c642fe64eccb8822d308d582537f3e51bb328a35b983697be2a396e3eee56",
+      "bytes": 248394
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1993,
+    "output_tokens_details": {
+      "reasoning_tokens": 976
+    },
+    "total_tokens": 3953
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+        "attacks": [
+          {
+            "name": "Mach Bolt",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrocreation",
+            "effect": "Once during your turn, you may take a ⚡ Energy from your Energy Zone and attach it to the ⚡ Pokémon in the Active Spot."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pohmarmotte",
+        "illustrator": "Keisin",
+        "description": "D'ordinaire, ce Pokémon est plutôt calme, mais lorsqu'il se bat, il élimine ses adversaires avec des mouvements rapides comme l'éclair.",
+        "attacks": [
+          {
+            "name": "Éclair Fulgurant",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Électrocréation",
+            "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie ⚡ de votre zone Énergie et l'attacher au Pokémon ⚡ sur le Poste Actif."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "Este Pokémon es normalmente bastante calmado, pero, una vez en combate, derriba a sus rivales con movimientos de una velocidad vertiginosa.",
+        "attacks": [
+          {
+            "name": "Rayo Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrocreación",
+            "effect": "Una vez durante tu turno, puedes unir 1 Energía ⚡ de tu área de Energía al Pokémon ⚡ en el Puesto Activo."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "Di solito è piuttosto fermatico, ma quando si trova a lottare attacca il nemico con movimenti fulminei.",
+        "attacks": [
+          {
+            "name": "Fulmine Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Elettrogenerazione",
+            "effect": "Una sola volta durante il tuo turno, puoi prendere un'Energia ⚡ dalla tua Zona انرژی e assegnarla al Pokémon ⚡ in posizione attiva."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Pawmamo",
+        "illustrator": "Keisin",
+        "description": "Dieses Pokémon ist für gewöhnlich sehr gelassen, doch sobald es im Kampf beginnt, streckt es den Gegner mit blitzschnellen Bewegungen zu Boden.",
+        "attacks": [
+          {
+            "name": "Flotter Sprung",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Stromerzeugung",
+            "effect": "Einmal während deines Zuges kannst du 1 ⚡-Energie aus deinem Energiebereich an dein Aktives ⚡-Pokémon anlegen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "Este Pokémon costuma demorar para reagir, mas quando entra na batalha, derruba seus oponentes com golpes na velocidade da luz.",
+        "attacks": [
+          {
+            "name": "Raio Supersônico",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Eletrocriação",
+            "effect": "Uma vez durante o seu turno, você poderá pegar 1 Energia ⚡ da sua Zona de Energia e ligá-la ao Pokémon ⚡ no Campo Ativo."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "巴布土撥",
+        "illustrator": "Keisin",
+        "description": "雖然平時動作看似平靜的，但在遇到不良對手時，會用不良於身手的驚人速度進行攻擊。",
+        "attacks": [
+          {
+            "name": "音速伏特",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "造電",
+            "effect": "在自己的回合時，可使用1次。從自己的能量區抽出1個{L}能量，附於戰鬥場的1隻{L}寶可夢身上。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "The illustrator credit is small and slightly blurry; read as Keisin."
+      },
+      {
+        "locale": "fr",
+        "field": "name",
+        "reason": "The card name is small/blurry; read as Pohmarmotte."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "The illustrator credit is small and slightly blurry; read as Keisin."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and somewhat blurred; transcription may be imperfect."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is very small and partially blurred; transcription may be imperfect."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "abilities",
+        "reason": "Ability name and effect text are small; transcription may be imperfect."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator credit is small and slightly blurry; read as Keisin."
+      }
+    ]
+  }
+}

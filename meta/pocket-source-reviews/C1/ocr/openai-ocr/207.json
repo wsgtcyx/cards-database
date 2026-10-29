@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-207",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "38bc775c0ad4359c7b1eb78a1864d2b533a40d746e20484ac988e8baed7a95a0",
+      "bytes": 320014
+    },
+    "fr": {
+      "sha256": "3e93a15884fb0d7b2d842c88dfb17c707d0ef4430523dd42269b97e357300533",
+      "bytes": 320178
+    },
+    "es": {
+      "sha256": "7e023c1e2d07441deef3bdf2b65ff39d71b293f2e00d651fcd25240cb1267671",
+      "bytes": 319894
+    },
+    "it": {
+      "sha256": "dbb6585645dada16688b4daf43f04d1a268b5df4a5f2e4ef8c609dc08fe4e3a5",
+      "bytes": 319977
+    },
+    "de": {
+      "sha256": "c84a905ba5da5292a5a9b6522768993743b40ebc21bd4c8c2a116578b67a2dc6",
+      "bytes": 321438
+    },
+    "pt-br": {
+      "sha256": "6f3e54288260c30180aef7d0b66f39c20ba3b3d8c6ff50453d7a2ec7081627fb",
+      "bytes": 320134
+    },
+    "zh-tw": {
+      "sha256": "b20f4f4161411f531ce3cf466f46e1dd0afa54eb744ce2dbb51ed3d84148ccdc",
+      "bytes": 314942
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1907,
+    "output_tokens_details": {
+      "reasoning_tokens": 670
+    },
+    "total_tokens": 3867
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Sceptile ex",
+        "illustrator": "PLANET-M",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Terminating Tail",
+            "effect": "Discard a {G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+          }
+        ],
+        "abilities": [],
+        "effect": "Mega Evolution ex Rule When your Mega Evolution Pokémon ex is Knocked Out, your opponent gets 3 points."
+      },
+      "fr": {
+        "name": "Méga-Jungko ex",
+        "illustrator": "PLANET-M",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Queue Mortelle",
+            "effect": "Défaussez une Énergie {G} de ce Pokémon. Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+          }
+        ],
+        "abilities": [],
+        "effect": "Règle des Méga-Évolutions EX Lorsque votre Pokémon Méga-Évolution ex est mis K.O., votre adversaire gagne 3 points."
+      },
+      "es": {
+        "name": "Mega-Sceptile ex",
+        "illustrator": "PLANET-M",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Coletazo Letal",
+            "effect": "Descarta 1 Energía {G} de este Pokémon. El Pokémon Activo de tu rival pasa a estar Envenenado."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regla Megaevolución EX Cuando tu Pokémon ex de Megaevolución queda Fuera de Combate, tu rival gana 3 puntos."
+      },
+      "it": {
+        "name": "Mega Sceptile ex",
+        "illustrator": "PLANET-M",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Codata Letale",
+            "effect": "Rimuovi un'Energia {G} da questo Pokémon. Il Pokémon attivo del tuo avversario viene avvelenato."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regola EX Megaevoluzione Quando il tuo Pokémon ex Megaevoluzione va KO, il tuo avversario ottiene 3 punti."
+      },
+      "de": {
+        "name": "Mega-Gewaldro ex",
+        "illustrator": "PLANET-M",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Vernichtender Schweif",
+            "effect": "Lege 1 {G}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt vergiftet."
+          }
+        ],
+        "abilities": [],
+        "effect": "Mega-Entwicklungs-EX-Regel Wenn dein Mega-Entwicklungs-Pokémon ex kampfunfähig ist, erhält dein Gegner 3 Punkte."
+      },
+      "pt-br": {
+        "name": "Mega Sceptile ex",
+        "illustrator": "PLANET-M",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Cauda Terminal",
+            "effect": "Descarte 1 Energia {G} deste Pokémon. O Pokémon Ativo do seu oponente agora está Envenenado."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regra de Megaevolução EX Quando seu Pokémon ex de Megaevolução é Nocauteado, seu oponente recebe 3 pontos."
+      },
+      "zh-tw": {
+        "name": "超級蜥蜴王 ex",
+        "illustrator": "PLANET-M",
+        "description": null,
+        "attacks": [
+          {
+            "name": "奪命利尾",
+            "effect": "將這隻寶可夢身上的1個能量棄置。對手的戰鬥寶可夢現在變成中毒。"
+          }
+        ],
+        "abilities": [],
+        "effect": "超級進化ex規則 超級進化的寶可夢ex被擊倒時，對手得到3分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is hard to read; \"PLANET-M\" is my best reading."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is hard to read; \"PLANET-M\" is my best reading."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is hard to read; \"PLANET-M\" is my best reading."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is hard to read; \"PLANET-M\" is my best reading."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is hard to read; \"PLANET-M\" is my best reading."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is hard to read; \"PLANET-M\" is my best reading."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is hard to read; \"PLANET-M\" is my best reading."
+      }
+    ]
+  }
+}

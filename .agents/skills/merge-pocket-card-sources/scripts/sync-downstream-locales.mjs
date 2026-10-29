@@ -125,6 +125,10 @@ function sourceCardsFor(config) {
 		if (cards[index].number !== index + 1 || !cards[index].name) {
 			throw new Error(`${config.source}: invalid source card at position ${index + 1}`)
 		}
+		const pack = cards[index].pack
+		if (pack !== undefined && (!Array.isArray(pack) || pack.some(id => typeof id !== 'string' || !id.startsWith(`boo_${setId}-`)) || new Set(pack).size !== pack.length)) {
+			throw new Error(`${config.source}: invalid pack membership at position ${index + 1}`)
+		}
 	}
 	return cards
 }
@@ -176,6 +180,7 @@ for (const [locale, config] of Object.entries(LOCALES)) {
 			name: card.name,
 			image: `${origin}/${imageLanguages[locale]}/tcgp/${setId}/${number}`,
 			set: setName,
+			...(card.pack === undefined ? {} : { pack: card.pack }),
 		}]
 	}))
 	const nextText = replaceTopLevelEntries(

@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-101",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "bd5e8d838b8d8fad4bb59f25b8a6dc3e936393c13bca6ba2053f16e4602e3eda",
+      "bytes": 349592
+    },
+    "fr": {
+      "sha256": "b37c0ba55f1bab034bec878373f547f13ccb4c3dbf5fee42760d4ea2f9533571",
+      "bytes": 350249
+    },
+    "es": {
+      "sha256": "287d8bc471ac5e01a34d977d381c203dcb4e33d992b016c3ec346a8aac4fdea1",
+      "bytes": 351091
+    },
+    "it": {
+      "sha256": "8bb938b242f1aec950ec1c8461f2129af2bdef6436a586515cf6ae9feb8f6a5f",
+      "bytes": 350892
+    },
+    "de": {
+      "sha256": "0c31bc54b55ffb8e06664577dffbe2c8c2aab06d1be047fbef9ec6228ae6408b",
+      "bytes": 350948
+    },
+    "pt-br": {
+      "sha256": "cc07f0cef8ac895d5f8238e09e98a21e139202badf80de8b10e629572e667e0c",
+      "bytes": 350595
+    },
+    "zh-tw": {
+      "sha256": "4a3c6628915948bbf53ae6c28e4de5e0f66b15537240918ebabec7365ec80dba",
+      "bytes": 348227
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 639,
+    "output_tokens_details": {
+      "reasoning_tokens": 152
+    },
+    "total_tokens": 4127
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Slash",
+            "effect": null
+          },
+          {
+            "name": "Dragon Impact",
+            "effect": "Discard 2 random Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Tranche",
+            "effect": null
+          },
+          {
+            "name": "Impact du Dragon",
+            "effect": "Défaussez 2 Énergies au hasard de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Cuchillada",
+            "effect": null
+          },
+          {
+            "name": "Impacto Dragón",
+            "effect": "Descarta 2 Energías aleatorias de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lacerazione",
+            "effect": null
+          },
+          {
+            "name": "Draghimpatto",
+            "effect": "Rimuovi 2 Energie a caso da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schlitzer",
+            "effect": null
+          },
+          {
+            "name": "Dracheneinschlag",
+            "effect": "Lege 2 zufällige Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Talho",
+            "effect": null
+          },
+          {
+            "name": "Impacto do Dragão",
+            "effect": "Descarte 2 Energias aleatórias deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "騎拉帝納 ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "劈開",
+            "effect": null
+          },
+          {
+            "name": "狂龍衝擊",
+            "effect": "將這隻寶可夢身上的隨機2個能量丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

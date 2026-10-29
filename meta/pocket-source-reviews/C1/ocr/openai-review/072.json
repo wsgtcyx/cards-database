@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-072",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "1f60f9f7ec82fa87a90b1bb69d105787ae9850d75998d58e7c41f3ba82e83c68",
+      "bytes": 286597
+    },
+    "fr": {
+      "sha256": "507028d4b6cb4ccd9da383884ddf1efb3b709c0c09d668de71de7adc5773878a",
+      "bytes": 286816
+    },
+    "es": {
+      "sha256": "2a2655adbbc9fc54b518459be1f50b788e331bdd27305f8dbbfe45a1b4705198",
+      "bytes": 286354
+    },
+    "it": {
+      "sha256": "6ffd9073e9a80b01acf22285ff08443d278d2e09fee2ae2e6b85d12e7bcc4f12",
+      "bytes": 287087
+    },
+    "de": {
+      "sha256": "415afe5d8efc83ef5d7ac9616e72cdad6f2a4bf10c08fe850de9f3c83df57a29",
+      "bytes": 286915
+    },
+    "pt-br": {
+      "sha256": "5ceaf7cca7de7dbb5eff3a39bc0177d2073bd6b59ead5322aa3b58ed0ac06a63",
+      "bytes": 287772
+    },
+    "zh-tw": {
+      "sha256": "8fcb13e8a0d35fad790ccc6a87fb3b0a7ae8787cb674de8bd7e8201999281387",
+      "bytes": 285132
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 977,
+    "output_tokens_details": {
+      "reasoning_tokens": 269
+    },
+    "total_tokens": 4465
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Sudowoodo",
+        "illustrator": "Jerky",
+        "description": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+        "attacks": [
+          {
+            "name": "Elbow Strike",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Simularbre",
+        "illustrator": "Jerky",
+        "description": "Bien qu'il fasse semblant d'être un arbre, par sa composition, il semble plus proche d'un minéral que d'un végétal.",
+        "attacks": [
+          {
+            "name": "Coup de Coude",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Sudowoodo",
+        "illustrator": "Jerky",
+        "description": "Aunque pretende ser un árbol, en su composición se parece más a una roca que a una planta.",
+        "attacks": [
+          {
+            "name": "Codazo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Sudowoodo",
+        "illustrator": "Jerky",
+        "description": "Sebbene finga di essere un albero, il suo corpo ha una composizione più simile a quella di una roccia che a quella di un vegetale.",
+        "attacks": [
+          {
+            "name": "Colpogomito",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mogelbaum",
+        "illustrator": "Jerky",
+        "description": "Obwohl es vorgibt, ein Baum zu sein, kommt seine Zusammensetzung einem Stein näher als einer Pflanze.",
+        "attacks": [
+          {
+            "name": "Ellbogenstoß",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Sudowoodo",
+        "illustrator": "Jerky",
+        "description": "Apesar de sempre fingir ser uma árvore, sua composição tem mais semelhanças com pedras do que com vegetação.",
+        "attacks": [
+          {
+            "name": "Golpe de Cotovelo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "樹才怪",
+        "illustrator": "Jerky",
+        "description": "總是偽裝成樹的樣子。身體構造比較接近礦物系，好像更接近石頭或岩石之類的東西。",
+        "attacks": [
+          {
+            "name": "肘擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

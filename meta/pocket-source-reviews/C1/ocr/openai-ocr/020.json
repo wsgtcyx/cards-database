@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-020",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "94897163027ebb4f011519e5b39f62d80300124ab19f1d798c6a7aa5c0d161af",
+      "bytes": 238580
+    },
+    "fr": {
+      "sha256": "e866d8498975bd2a1d7164e5c02356025997a1c70897af452249ea96910dc63c",
+      "bytes": 238808
+    },
+    "es": {
+      "sha256": "b14c62995e53025f43d45e473db4f40115076840062c532fe2ba458f03ac9842",
+      "bytes": 238434
+    },
+    "it": {
+      "sha256": "0f918e7b1b1971df8732f34266a6ff740e9c293887cec0fd3581125d7616cc23",
+      "bytes": 238143
+    },
+    "de": {
+      "sha256": "205188a799744282de7e2a4aa9f99d9c7c896396ae5e119ddb928dd418e78c58",
+      "bytes": 238497
+    },
+    "pt-br": {
+      "sha256": "d1a4c8eda56b0c98c219d98576be02d8015b78929c210bba7a4843e182c2e7d8",
+      "bytes": 239191
+    },
+    "zh-tw": {
+      "sha256": "409da763690cb9c36b6f0faf1b1560f9b0924f705181b725e01916f5ea493b35",
+      "bytes": 238021
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1420,
+    "output_tokens_details": {
+      "reasoning_tokens": 834
+    },
+    "total_tokens": 3380
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Salandit",
+        "illustrator": "MAHOU",
+        "description": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+        "attacks": [
+          {
+            "name": "Flare",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Tritox",
+        "illustrator": "MAHOU",
+        "description": "Il provoque ses proies afin de les attirer dans d'étroites zones rocheuses, puis il les étourdit avec son gaz toxique avant de les achever.",
+        "attacks": [
+          {
+            "name": "Flamboiement",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Salandit",
+        "illustrator": "MAHOU",
+        "description": "Provoca a sus presas para conducirlas a zonas rocosas y estrechas, donde las aturde con un gas venenoso antes de acabar con ellas.",
+        "attacks": [
+          {
+            "name": "Llama",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Salandit",
+        "illustrator": "MAHOU",
+        "description": "Provoca le sue prede e le attira in stretti luoghi rocciosi, per poi stordirle con il suo gas velenoso e abbatterle.",
+        "attacks": [
+          {
+            "name": "Fiammata",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Molunk",
+        "illustrator": "MAHOU",
+        "description": "Es provoziert seine Beute und lockt sie in enge Felsspalten, wo es sie dann mit Gifgas ins Taumeln bringt und erledigt.",
+        "attacks": [
+          {
+            "name": "Flackern",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Salandit",
+        "illustrator": "MAHOU",
+        "description": "Provoca suas presas e as atrai para áreas estreitas e rochosas. Em seguida, expira sobre elas um gás tóxico para deixá-las atordoadas e dar o bote.",
+        "attacks": [
+          {
+            "name": "Chama",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "夜盜火蜥",
+        "illustrator": "MAHOU",
+        "description": "會貪婪地誘出並引到狹窄的岩地裡，接著噴出能使其頭昏眼花的有毒氣體，將其擊倒。",
+        "attacks": [
+          {
+            "name": "火焰",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Small Traditional Chinese flavor text is partially hard to read from the image; transcription may not be exact."
+      }
+    ]
+  }
+}

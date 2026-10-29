@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-005",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d6adb3758d23c0bb2bc8a333f1050f22e63ad7b46b9437b87e0e796bf226a751",
+      "bytes": 351948
+    },
+    "fr": {
+      "sha256": "262965fec5bef8fe08fc9657ffa8bec05cc0def27367377862c84404bc480f15",
+      "bytes": 352078
+    },
+    "es": {
+      "sha256": "c18bdac81d155b038abc32979249ee626c1ee024dbdf081ffa58b6bd4b74f1ef",
+      "bytes": 352665
+    },
+    "it": {
+      "sha256": "8d42db70b68baf3e2819d3dd9be421d6390cdc4879564d77212c68748762bd18",
+      "bytes": 353308
+    },
+    "de": {
+      "sha256": "1ab600b76a69c4ff2cbffb565e6ce60d881e5eb90fbc39e4a138e0cbb25f58ea",
+      "bytes": 354580
+    },
+    "pt-br": {
+      "sha256": "54811a790b8a73ddd3ad6305fdae7b4c217743696d29da00918beab8ed172573",
+      "bytes": 354605
+    },
+    "zh-tw": {
+      "sha256": "71af3e63e6a61ae5d781ee1cadd137aa2f8ae9d1df80746c5482162f96cb624b",
+      "bytes": 348833
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1218,
+    "output_tokens_details": {
+      "reasoning_tokens": 666
+    },
+    "total_tokens": 3178
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Alolan Exeggutor ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Long-Neck Hammering",
+            "effect": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Noadkoko d'Alola ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Long Cou Martelleur",
+            "effect": "Un des Pokémon de Banc de votre adversaire est choisi au hasard. Cette attaque lui inflige aussi 50 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Exeggutor de Alola ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martilleo Cuellilargo",
+            "effect": "Se elige a un Pokémon en Banca aleatorio de tu rival. Este ataque también le hace 50 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Exeggutor d'Alola ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martellata Collolungo",
+            "effect": "Viene scelto un Pokémon avversario in panchina a caso. Questo attacco infligge anche 50 danni a quel Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Alola-Kokowei ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Langhalshammer",
+            "effect": "1 Pokémon von der Bank deines Gegners wird zufällig ausgewählt. Diese Attacke fügt auch diesem Pokémon 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Exeggutor de Alola ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martelada Pescoçuda",
+            "effect": "Um dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 50 pontos de dano a ele."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "阿羅拉 椰蛋樹 ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "長頸錘",
+            "effect": "對手的備戰寶可夢中隨機選擇1隻。被選擇的寶可夢也受到50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

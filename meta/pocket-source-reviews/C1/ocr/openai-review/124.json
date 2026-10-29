@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-124",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "51faea65ad9034c309102397f0f0302077479ba2cd0c8833fc6d1a40ca470449",
+      "bytes": 209658
+    },
+    "fr": {
+      "sha256": "84c378e7c95ff64bb4828b1f7e1852c4c1871fd2767f7ea979cb8d86f16aef78",
+      "bytes": 211878
+    },
+    "es": {
+      "sha256": "6776a15aa65989e0e59824fa86619c3f29a60ac228c3032a4b92bb2a86e1652d",
+      "bytes": 212359
+    },
+    "it": {
+      "sha256": "dd8a1ff5969e99f70ac21f47ea768a6f7dc5654ee080909aed626c3afdbd2a3c",
+      "bytes": 211453
+    },
+    "de": {
+      "sha256": "219bc86342173a5cdd00c2e7a867071f5e1b09df8d51de12810a6d71593d35db",
+      "bytes": 216757
+    },
+    "pt-br": {
+      "sha256": "d016ba5736a195d9e6296320108eab9db4df1d1a431a5d34ef5d140c56f2adf9",
+      "bytes": 213894
+    },
+    "zh-tw": {
+      "sha256": "7e701400edfc83b4f84d9179fa2bfc42726148d99ef33910770fc916fbcac2ef",
+      "bytes": 205378
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 729,
+    "output_tokens_details": {
+      "reasoning_tokens": 284
+    },
+    "total_tokens": 4217
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Light Ball",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Attacks used by the Pikachu ex this card is attached to do +30 damage to your opponent’s Active Pokémon."
+      },
+      "fr": {
+        "name": "Balle Lumière",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Les attaques du Pikachu-ex auquel cette carte est attachée infligent + 30 dégâts au Pokémon Actif de votre adversaire."
+      },
+      "es": {
+        "name": "Bola Luminosa",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Los ataques del Pikachu ex al que esté unida esta carta hacen +30 puntos de daño al Pokémon Activo de tu rival."
+      },
+      "it": {
+        "name": "Elettropalla",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Gli attacchi usati da Pikachu-ex, se gli è stata assegnata questa carta, infliggono +30 danni al Pokémon attivo del tuo avversario."
+      },
+      "de": {
+        "name": "Kugelblitz",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Die eingesetzten Attacken von dem Pikachu-ex, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon deines Gegners + 30 Schadenspunkte zu."
+      },
+      "pt-br": {
+        "name": "Esfera de Luz",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Os ataques usados pelo Pikachu ex ao qual esta carta está ligada causam +30 pontos de dano ao Pokémon Ativo do seu oponente."
+      },
+      "zh-tw": {
+        "name": "電氣球",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "附有這張卡的「皮卡丘ex」使用的招式對對手的戰鬥寶可夢造成的傷害+30點。"
+      }
+    },
+    "uncertain": []
+  }
+}

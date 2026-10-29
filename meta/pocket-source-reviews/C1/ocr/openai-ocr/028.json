@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-028",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "5b7cb0554f47383c369bc4da593fb2451868a7483519806988440b13d53583ca",
+      "bytes": 289367
+    },
+    "fr": {
+      "sha256": "3492905f0e9b5fae35b082078faf2988f5828827519fcdfcd32575902d0a4cbd",
+      "bytes": 290905
+    },
+    "es": {
+      "sha256": "ddaf5a159a57b34712d0eb7d252fd3a3965efa3ef17f1d8d4c3292f1181b2c79",
+      "bytes": 290981
+    },
+    "it": {
+      "sha256": "9aa47afbabf095716ce722c6ab6596842545c5ad7885279373eff161ae88a057",
+      "bytes": 291307
+    },
+    "de": {
+      "sha256": "aa518dfba503727a0427033ead7036b4ffa3b21ae75b1d854a853cc67a9a642b",
+      "bytes": 292267
+    },
+    "pt-br": {
+      "sha256": "4f3c1b4de46ea5983868874d4176fdb53037796b226b0d635bafc5b65ee48760",
+      "bytes": 291569
+    },
+    "zh-tw": {
+      "sha256": "1ff3762345c6a0a9adf11ec0cd695cf75f8d57cb9948ac1359b22eee21f60450",
+      "bytes": 284154
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1114,
+    "output_tokens_details": {
+      "reasoning_tokens": 348
+    },
+    "total_tokens": 3074
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Ceruledge",
+        "illustrator": "telu",
+        "description": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+        "attacks": [
+          {
+            "name": "Rally Back",
+            "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent’s last turn, this attack does 70 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Malvalame",
+        "illustrator": "telu",
+        "description": "Les flammes de ses épées sont animées par la rancœur d’une âme guerrière qui a péri avant de pouvoir accomplir son but.",
+        "attacks": [
+          {
+            "name": "Répercussions",
+            "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 70 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Ceruledge",
+        "illustrator": "telu",
+        "description": "Las afiladas llamas que cubren sus brazos están avivadas por la frustración de un espadachín que cayó antes de poder cumplir su cometido.",
+        "attacks": [
+          {
+            "name": "Apoyo Vengativo",
+            "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 70 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Ceruledge",
+        "illustrator": "telu",
+        "description": "Le lame fiammeggianti che ricoprono le sue braccia ardono per il rimorso di uno spadaccino caduto prima di compiere la propria missione.",
+        "attacks": [
+          {
+            "name": "Radunata Rinforzi",
+            "effect": "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni inflitti da un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 70 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Azugladis",
+        "illustrator": "telu",
+        "description": "Die Flammenschwerter an beiden Armen lodern mit dem Groll eines Schwertkämpfers, der fiel, ehe er sein Ziel erreichen konnte.",
+        "attacks": [
+          {
+            "name": "Aufholjagd",
+            "effect": "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 70 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Ceruledge",
+        "illustrator": "telu",
+        "description": "As lâminas de fogo em seus braços queimam com o ressentimento duradouro de um espadachim derrotado em batalha antes de alcançar seu objetivo.",
+        "attacks": [
+          {
+            "name": "Responder à Altura",
+            "effect": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 70 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蒼炎刃鬼",
+        "illustrator": "telu",
+        "description": "雙臂上的火焰長劍攜帶著化為怨念的劍士之魂。",
+        "attacks": [
+          {
+            "name": "捲土重來",
+            "effect": "在上個對手的回合，若自己的寶可夢因招式的傷害而暈厥了，則增加70點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

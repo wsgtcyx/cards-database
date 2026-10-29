@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-054",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "d4c7faf2c92b65c26976e201886bd6a95811d729b47899822f9da49846be3ba5",
+      "bytes": 278704
+    },
+    "fr": {
+      "sha256": "64a43fc0c6051e918101e0cb67b0e37dd1d7a0e1d6ea77411ea17d497a80dc8a",
+      "bytes": 279124
+    },
+    "es": {
+      "sha256": "dbbcb82002c93a650b30891e59d6fb9c92208a50dde54607194111b3301e5a04",
+      "bytes": 280134
+    },
+    "it": {
+      "sha256": "405021ab7891be935d83768c647145e32fed89ef736cbc9a05fe7c4102590679",
+      "bytes": 279232
+    },
+    "de": {
+      "sha256": "c65e2398c497535a18ed4112867973fc6f61d09f346d57668f54d59855fe139a",
+      "bytes": 280365
+    },
+    "pt-br": {
+      "sha256": "5318e98ffff775e6de2129af3041bd8680cd20ef9738bd5f66d4a990fa593007",
+      "bytes": 279182
+    },
+    "zh-tw": {
+      "sha256": "1d2c210313b2ef94dc5ced2dae7b3f8ab7dab73f3a9c05ec5186e2ee039aa1de",
+      "bytes": 277629
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1061,
+    "output_tokens_details": {
+      "reasoning_tokens": 344
+    },
+    "total_tokens": 4549
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Kadabra",
+        "illustrator": "Bun Toyojo",
+        "description": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+        "attacks": [
+          {
+            "name": "Psychic Sphere",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Kadabra",
+        "illustrator": "Bun Toyojo",
+        "description": "Ses pouvoirs psychiques lui permettent de léviter en dormant. Il utilise alors sa queue très souple comme un oreiller.",
+        "attacks": [
+          {
+            "name": "Sphère Psy",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Kadabra",
+        "illustrator": "Bun Toyojo",
+        "description": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+        "attacks": [
+          {
+            "name": "Esfera Psíquica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Kadabra",
+        "illustrator": "Bun Toyojo",
+        "description": "I suoi poteri psichici gli permettono di levitare mentre dorme. Come cuscino usa la sua coda straordinariamente elastica.",
+        "attacks": [
+          {
+            "name": "Psicosfera",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Kadabra",
+        "illustrator": "Bun Toyojo",
+        "description": "Kadabras Psycho-Kräfte ermöglichen es ihm, schwebend zu schlafen. Seinen äußerst elastischen Schweif nutzt es dabei als Kissen.",
+        "attacks": [
+          {
+            "name": "Psychosphäre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Kadabra",
+        "illustrator": "Bun Toyojo",
+        "description": "Usando seu poder psíquico, Kadabra levita enquanto dorme. Usa sua cauda elástica como um travesseiro.",
+        "attacks": [
+          {
+            "name": "Esfera Psíquica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "勇基拉",
+        "illustrator": "Bun Toyojo",
+        "description": "會用精神力量浮在空中睡覺。伸縮性非凡的尾巴會當成枕頭用。",
+        "attacks": [
+          {
+            "name": "念動彈",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

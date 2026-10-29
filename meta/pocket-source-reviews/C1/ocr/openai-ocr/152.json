@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-152",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d9bf750ae1ffccf88d369268d00ff1d9f6adc84310c0b6dc4af23eb6ffaebf18",
+      "bytes": 316844
+    },
+    "fr": {
+      "sha256": "da7921a70bb2f065756428f36b746cde02efc93746bb1bba35a9f27c298a322b",
+      "bytes": 317982
+    },
+    "es": {
+      "sha256": "d6063da60a6a9fe5af221f9e2c41f6c9152cc37bbff2bc7d3e54239dbcf7d8c9",
+      "bytes": 317282
+    },
+    "it": {
+      "sha256": "7b9ca455b47967e9d7bfbb52eb8f5faa6c6af401664910603954f9cf6f270154",
+      "bytes": 317798
+    },
+    "de": {
+      "sha256": "41c894fa6f80fae1eb0009d2adfb5df60e94609b22c605765a50cb44a34b7168",
+      "bytes": 316962
+    },
+    "pt-br": {
+      "sha256": "301b18765db87b1cabc056a6fdde29173ef58e710aa31dcd94d768b94431d314",
+      "bytes": 317661
+    },
+    "zh-tw": {
+      "sha256": "7205a4974ea2c938150f321ae3c36765efd461de06291d0bd6c470c0ee432ace",
+      "bytes": 314491
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1285,
+    "output_tokens_details": {
+      "reasoning_tokens": 767
+    },
+    "total_tokens": 3245
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Sweet Honey",
+        "illustrator": "Yuu Nishida",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Choose 1 of your Pokémon, and then flip a coin until you get tails. For each heads, heal 20 damage from that Pokémon."
+      },
+      "fr": {
+        "name": "Miel",
+        "illustrator": "Yuu Nishida",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Choisissez un de vos Pokémon, puis lancez une pièce jusqu’à obtenir un côté pile. Pour chaque côté face, soignez 20 dégâts à ce Pokémon."
+      },
+      "es": {
+        "name": "Miel",
+        "illustrator": "Yuu Nishida",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Elige 1 de tus Pokémon, y luego lanza 1 moneda hasta que salga cruz. Por cada cara, cura 20 puntos de daño a ese Pokémon."
+      },
+      "it": {
+        "name": "Miele",
+        "illustrator": "Yuu Nishida",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Scegli uno dei tuoi Pokémon, poi lancia una moneta finché non esce croce. Ogni volta che esce testa, cura quel Pokémon da 20 danni."
+      },
+      "de": {
+        "name": "Honig",
+        "illustrator": "Yuu Nishida",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Wähle 1 deiner Pokémon und wirf anschließend so lange 1 Münze, bis sie Zahl zeigt. Heile pro Kopf 20 Schadenspunkte bei jenem Pokémon."
+      },
+      "pt-br": {
+        "name": "Mel Doce",
+        "illustrator": "Yuu Nishida",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Escolha 1 dos seus Pokémon e, em seguida, jogue uma moeda até sair coroa. Para cada cara, cure 20 pontos de dano daquele Pokémon."
+      },
+      "zh-tw": {
+        "name": "甜甜蜜",
+        "illustrator": "Yuu Nishida",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "選擇1隻自己的寶可夢，擲硬幣直到出現反面。將那隻寶可夢恢復正面出現的次數×20點傷害計數器的HP。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "The final clause is partially hard to read in the image; the transcription of the last line may not be exact."
+      }
+    ]
+  }
+}

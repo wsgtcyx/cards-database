@@ -112,6 +112,7 @@ function isDynamic(node) {
 		|| node.name === 'Img:ex'
 		|| node.name === 'Gr:Count'
 		|| node.name === 'Text:CardName'
+		|| node.name === 'Text:CardNameByCardID'
 		|| node.name === 'Text:AttackName'
 		|| node.name === 'Text:AbilityName'
 		|| node.name === 'Text:SpecialCondition'
@@ -296,6 +297,7 @@ function dynamicCandidates(node, span, maps) {
 				.filter(([key]) => ['s', 'p', 'one', 'two'].includes(key))
 				.map(([branch, output]) => ({ value: output, output, branch }))
 				.concat({ value: '', output: '', branch: '__empty' })
+		case 'Text:CardNameByCardID':
 		case 'Text:CardName':
 			return [...maps.cardEnglishNames.keys()].map(value => ({ value, output: value }))
 		case 'Text:AttackName':
@@ -597,6 +599,7 @@ function translatedTokenValue(sourceNode, sourceIndex, targetIndex, node, locale
 			if (translated === undefined) throw new Error(`Missing ${locale} Gr:Count branch ${branch} for ${context}`)
 			return translated
 		}
+		case 'Text:CardNameByCardID':
 		case 'Text:CardName': {
 			const entry = findNameIdByEnglish(captured, maps.cardEnglishNames, `${context} card name`)
 			return lookup(maps.targetMaster.Card.Name, [], entry.id) ?? entry.value

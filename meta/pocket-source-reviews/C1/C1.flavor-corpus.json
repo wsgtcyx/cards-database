@@ -1,0 +1,8 @@
+{
+  "source": "https://github.com/PokeAPI/pokeapi/blob/a81dfc349390e4b53fd92e579c588b1204bbb6af/data/v2/csv/pokemon_species_flavor_text.csv",
+  "commit": "a81dfc349390e4b53fd92e579c588b1204bbb6af",
+  "bytes": 9206001,
+  "sha256": "c341e602ab623084fef4c44ca4a174938e617802cfcf2deec830d824f688dc69",
+  "role": "Validation only for uncertain native zh-tw flavor, same English and version: C1-089, C1-090, C1-094",
+  "chosenEvidence": "C1.native-review.json"
+}

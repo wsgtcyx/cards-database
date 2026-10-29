@@ -1,0 +1,58 @@
+{
+  "C1-039": {
+    "zh-tw": {
+      "description": "會依體色集結成群。最大的敵人是紅色的野蠻鱸魚的群體。"
+    }
+  },
+  "C1-068": {
+    "zh-tw": {
+      "description": "三顆頭會輪流活動，是為了讓周圍的土壤變得更鬆更好挖。"
+    }
+  },
+  "C1-075": {
+    "zh-tw": {
+      "description": "誕生在地底深處。當牠吃完滿山的土壤後，就會為了成長而變成蛹。"
+    }
+  },
+  "C1-083": {
+    "zh-tw": {
+      "description": "會躲進獵物的影子裡，然後靜靜地等待奪取性命的絕佳時機。"
+    }
+  },
+  "C1-086": {
+    "zh-tw": {
+      "description": "平時都用堅硬的岩石打磨刀刃般的尾巴。會躲在草叢裡，然後趁對手靠近時用毒牙襲擊。"
+    },
+    "it": {
+      "description": "Affila la coda simile a una lama usando le rocce più dure. Striscia nascosto nell'erba alta, attaccando le prede con le sue zanne velenose."
+    }
+  },
+  "C1-088": {
+    "zh-tw": {
+      "description": "據說索羅亞克會把企圖捕捉牠的人困在虛幻的景色裡給予懲罰。"
+    }
+  },
+  "C1-089": {
+    "zh-tw": {
+      "description": "靠搶奪其他寶可夢找到的食物為生。腳上長著軟乎乎的肉球，走路時不會發出絲毫聲響。"
+    }
+  },
+  "C1-090": {
+    "zh-tw": {
+      "description": "會偷偷在看中的獵物身上留下標記，追蹤目標的氣味，在對方放鬆警戒時偷盜。"
+    }
+  },
+  "C1-094": {
+    "zh-tw": {
+      "description": "用尖刺刺裂岩壁之後，牠會用觸手的尖端接觸裂縫吸收營養。"
+    }
+  },
+  "C1-128": {
+    "de": {
+      "effect": "Generiere 2 {F}-Energien in deinem Energiebereich und lege sie an 1 deiner Welsar oder Paldea-Suelord an."
+    },
+    "it": {
+      "effect": "Crea 2 Energie {F} dalla tua Zona Energia e assegnale a uno dei tuoi Whiscash o dei tuoi Clodsire di Paldea."
+    }
+  }
+}

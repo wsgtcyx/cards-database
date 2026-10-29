@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-052",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "9dfbfc5072577744050dfe18e21e0aa1daa15ba002501a1c1cb711bfb83f5615",
+      "bytes": 294872
+    },
+    "fr": {
+      "sha256": "381b27c129de5623925fac00cd643d4f22d10f87b5124863302d1ca6c26231eb",
+      "bytes": 296250
+    },
+    "es": {
+      "sha256": "3931d3a12e64c6f4850f67833f2f67a2ff6dc17dda6de691c9c188bd5101c86d",
+      "bytes": 295583
+    },
+    "it": {
+      "sha256": "f069e5ef8ad5f5ddfc9c27235cf8a46cadb8f7eea35de8978653d7b3af2708bc",
+      "bytes": 295297
+    },
+    "de": {
+      "sha256": "c3bf5f540da6d20e79e11d5e5d2b9ab5ea982b26ddd2a8d72416e8133b82da35",
+      "bytes": 297064
+    },
+    "pt-br": {
+      "sha256": "358142251b8c8917321390802ba34c18ed04ef5a9dacbdf44ba778f58ac0a70c",
+      "bytes": 296855
+    },
+    "zh-tw": {
+      "sha256": "873390cc6494838e0e271f2a1d277876d88bac5f843368aade554b4f3f35552f",
+      "bytes": 292343
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1596,
+    "output_tokens_details": {
+      "reasoning_tokens": 800
+    },
+    "total_tokens": 3556
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Wigglytuff",
+        "illustrator": "Kagemaru Himeno",
+        "description": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit you with a body slam.",
+        "attacks": [
+          {
+            "name": "Do the Wave",
+            "effect": "This attack does 30 damage for each of your Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Grodoudou",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Il a une très belle fourrure. Mieux vaut éviter de le mettre en colère, ou il gonflera avant d’attaquer de tout son corps.",
+        "attacks": [
+          {
+            "name": "Faites la Vague",
+            "effect": "Cette attaque inflige 30 dégâts pour chacun de vos Pokémon de Banc."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Wigglytuff",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Tiene un pelaje muy fino. Se recomienda no enfadarlo, o se inflará y golpeará con todo su cuerpo.",
+        "attacks": [
+          {
+            "name": "Hacer la Ola",
+            "effect": "Este ataque hace 30 puntos de daño por cada uno de tus Pokémon en Banca."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Wigglytuff",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Ha un pelo molto fine. Attenzione a non farlo adirare, perché può gonfiarsi e caricare con tutto il suo peso.",
+        "attacks": [
+          {
+            "name": "Fare la Ola",
+            "effect": "Questo attacco infligge 30 danni per ogni Pokémon nella tua panchina."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Knuddeluff",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Es hat sehr feines Fell. Doch Vorsicht: Verärgert man Knuddeluff, bläst es sich stark auf und stürzt sich mit seinem ganzen Körper auf einen.",
+        "attacks": [
+          {
+            "name": "Wellenreiten",
+            "effect": "Diese Attacke fügt für jedes Pokémon auf deiner Bank 30 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Wigglytuff",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Ele tem a pele muito fina. Tome cuidado para não zangá-lo ou ele pode inflar permanentemente e golpear com uma pancada de corpo.",
+        "attacks": [
+          {
+            "name": "Fazer a \"Ola\"",
+            "effect": "Este ataque causa 30 pontos de dano para cada um dos seus Pokémon no Banco."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "胖可丁",
+        "illustrator": "Kagemaru Himeno",
+        "description": "擁有細緻的毛皮。小心別惹牠生氣；否則牠會不斷膨脹並朝著你整個人壓過來。",
+        "attacks": [
+          {
+            "name": "朋友之環",
+            "effect": "造成自己的備戰寶可夢的數量 × 30點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Small traditional Chinese flavor text is partially hard to read at this resolution; wording may differ in a few characters."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "Attack name is slightly hard to resolve from the image; reading may be off by one character."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "Traditional Chinese effect text is partially hard to read; spacing/punctuation may differ."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom flavor text is somewhat blurry; exact phrasing may differ slightly."
+      }
+    ]
+  }
+}

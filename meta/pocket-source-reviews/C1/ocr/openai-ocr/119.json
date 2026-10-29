@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-119",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "19eec1f1a7f147e2deb1b241af192409870ec211c22fdc4c782453e1c6854acd",
+      "bytes": 189869
+    },
+    "fr": {
+      "sha256": "9dd2904277c584e7645d8f8f96fdfcb3472b39617222eb370dd9c5d9a1391227",
+      "bytes": 191601
+    },
+    "es": {
+      "sha256": "581c84ad17cf636961e4b2371724c3633090b7bac15b1bbdca6a17feae0548d2",
+      "bytes": 190320
+    },
+    "it": {
+      "sha256": "5506d3dbf53c0f1b9686ae5c628c828c96ed20f65ffe632fa8403809e76c5ff1",
+      "bytes": 191081
+    },
+    "de": {
+      "sha256": "86ec36f9d9d1b904d5d05fbd9103bd0e0503104a56837219e394b117b920c789",
+      "bytes": 191013
+    },
+    "pt-br": {
+      "sha256": "a86d236ec61d5e6122b9040dbed02629128e9b6c75d38e98a60785b8360c2800",
+      "bytes": 191013
+    },
+    "zh-tw": {
+      "sha256": "7b387635a3f847f73b76e1c7c88b14ca349d43795c505581ff8b5fd86b120c08",
+      "bytes": 187738
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 598,
+    "output_tokens_details": {
+      "reasoning_tokens": 126
+    },
+    "total_tokens": 2558
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Sweet Honey",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "You may play any number of Item cards during your turn."
+      },
+      "fr": {
+        "name": "Miel",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous pouvez jouer autant de cartes Objet que vous voulez pendant votre tour."
+      },
+      "es": {
+        "name": "Miel",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puedes jugar cualquier cantidad de cartas de Objeto durante tu turno."
+      },
+      "it": {
+        "name": "Miele",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi giocare tutte le carte Strumento che vuoi durante il tuo turno."
+      },
+      "de": {
+        "name": "Honig",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst während deines Zuges beliebig viele Itemkarten spielen."
+      },
+      "pt-br": {
+        "name": "Mel Doce",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você pode jogar quantas cartas de Item quiser durante o seu turno."
+      },
+      "zh-tw": {
+        "name": "甜甜蜜",
+        "illustrator": "ORBITALLINK Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "在自己的回合時，物品卡可不限張數使用。"
+      }
+    },
+    "uncertain": []
+  }
+}

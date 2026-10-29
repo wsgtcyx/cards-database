@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-118",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "85c1175ee8bc83315ace84bbbfe7a7477af8703a91f1f72c2e8c6e4d9f13575c",
+      "bytes": 310463
+    },
+    "fr": {
+      "sha256": "400b87bcd34a5bcb76aa1b44993c6bb073270b908582a82ce1947c65da5ace4c",
+      "bytes": 311782
+    },
+    "es": {
+      "sha256": "87c1e552038f7412f049a52badb50b36d4298f31335a2cbea59b1f3949081996",
+      "bytes": 311361
+    },
+    "it": {
+      "sha256": "bbbf4e2a76f902a9c7c6ac864e58828cee291edadc701c8592b28a9f313f120f",
+      "bytes": 312473
+    },
+    "de": {
+      "sha256": "199cd460f7de269e715f729fa67f63a69975238c053b890a7464828706305427",
+      "bytes": 312825
+    },
+    "pt-br": {
+      "sha256": "8fb723d1547052094104c4332a1a163990109d385284a782c9027d211b2b12c6",
+      "bytes": 311417
+    },
+    "zh-tw": {
+      "sha256": "3e97a1c9f8a20cd8c826ca3a234ce608944b0ccc90f4d8c32f5cb1b89b88171e",
+      "bytes": 308471
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 655,
+    "output_tokens_details": {
+      "reasoning_tokens": 167
+    },
+    "total_tokens": 4143
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hyper Lariat",
+            "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Chelours ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hyper Lasso",
+            "effect": "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 100 dégâts de plus."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hiperlazo",
+            "effect": "Lanza 2 monedas. Si en las dos sale cara, este ataque hace 100 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Iper Lariat",
+            "effect": "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 100 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Kosturso ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hyperlasso",
+            "effect": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hiperlaço",
+            "effect": "Jogue 2 moedas. Se as duas saírem cara, este ataque causará 100 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "穿著熊 ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "必殺金勾臂",
+            "effect": "擲2次硬幣，若全部為正面，則增加100點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

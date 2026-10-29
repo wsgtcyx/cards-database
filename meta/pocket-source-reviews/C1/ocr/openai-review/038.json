@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-038",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "bd3f0347c339d93473897eb7093f43692e706eee4fd2be1f4a14207ae0b1037d",
+      "bytes": 310181
+    },
+    "fr": {
+      "sha256": "9726adbf4dcc205e8c7e1e7b95bf7f5d0309abb4a28e76602e794e8f0bd8cfda",
+      "bytes": 311332
+    },
+    "es": {
+      "sha256": "638458f44e3ac477d59e4d98c720372db49951246f806f16faa998dcd561896d",
+      "bytes": 310649
+    },
+    "it": {
+      "sha256": "b4a9f2bf9bd9d5214f56733b7e2de7949edd9372d0251878c0ee7326313b3ab8",
+      "bytes": 310479
+    },
+    "de": {
+      "sha256": "454568727019a30bc03915b6f93675813bb47117f9634ecea71b836164c09188",
+      "bytes": 312831
+    },
+    "pt-br": {
+      "sha256": "718cc41d9a2cad74cd9b1463b038c3d364cdee4ad5b7b236e66a1eeaa43fdb56",
+      "bytes": 311577
+    },
+    "zh-tw": {
+      "sha256": "599603be1c26a97a2ac9f84b25e54e761bd4596df20a89502200e8faec0a2d6c",
+      "bytes": 310151
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1209,
+    "output_tokens_details": {
+      "reasoning_tokens": 424
+    },
+    "total_tokens": 4697
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Palkia",
+        "illustrator": "Ryuta Fuse",
+        "description": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+        "attacks": [
+          {
+            "name": "Spacial Rend",
+            "effect": "If your opponent has a Stadium in play, discard it."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Palkia",
+        "illustrator": "Ryuta Fuse",
+        "description": "On dit que ce Pokémon vit dans l’interstice entre deux dimensions parallèles. Il apparaît dans la mythologie.",
+        "attacks": [
+          {
+            "name": "Spatio-Rift",
+            "effect": "Si votre adversaire a une carte Stade en jeu, défaussez-la."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Palkia",
+        "illustrator": "Ryuta Fuse",
+        "description": "Se dice que vive en una dimensión espacial paralela. Aparece en la mitología.",
+        "attacks": [
+          {
+            "name": "Corte Vacío",
+            "effect": "Si tu rival tiene un Estadio en juego, descártalo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Palkia",
+        "illustrator": "Ryuta Fuse",
+        "description": "Di lui si narra nella mitologia. Si dice che viva in uno squarcio fra dimensioni parallele.",
+        "attacks": [
+          {
+            "name": "Fendispazio",
+            "effect": "Se il tuo avversario ha una carta Stadio in gioco, scartala."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Palkia",
+        "illustrator": "Ryuta Fuse",
+        "description": "Man sagt, es lebe in einem Spalt in einer Paralleldimension. Es wird in der Mythologie erwähnt.",
+        "attacks": [
+          {
+            "name": "Raumschlag",
+            "effect": "Wenn dein Gegner eine Stadionkarte im Spiel hat, lege sie auf seinen Ablagestapel."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Palkia",
+        "illustrator": "Ryuta Fuse",
+        "description": "Dizem que vive em uma dimensão espacial paralela à nossa. Aparece em mitologias.",
+        "attacks": [
+          {
+            "name": "Laceração Espacial",
+            "effect": "Se o seu oponente tiver um Estádio em jogo, descarte-o."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "帕路奇亞",
+        "illustrator": "Ryuta Fuse",
+        "description": "據說住在互相平行的空間之間的裂縫，是在神話中登場的寶可夢。",
+        "attacks": [
+          {
+            "name": "亞空裂斬",
+            "effect": "將場上的對手的競技場卡丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

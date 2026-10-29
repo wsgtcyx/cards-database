@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-156",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "c5a9a085f31fcc17fc8f62842870bc66e53e1a5c66d360f7d4a80c6a75baf5c6",
+      "bytes": 316909
+    },
+    "fr": {
+      "sha256": "072d7f94bd7b61ba06db561f32afe64f18cf395271774857d2290038b30ca25b",
+      "bytes": 318126
+    },
+    "es": {
+      "sha256": "520b237ca34b8e91440ff91e46a8deae8b7d5d80ef5e1c1cb52883d523b2a169",
+      "bytes": 318431
+    },
+    "it": {
+      "sha256": "c6c5f530b5e91523590a70d4a4ff98b17c0e9976005ed6c36ecdb0e93d8aa272",
+      "bytes": 318583
+    },
+    "de": {
+      "sha256": "c78800881d1ab8abbff13e90ec8a364e6cf92b5bebaf662580ae97e84c56dd60",
+      "bytes": 318166
+    },
+    "pt-br": {
+      "sha256": "c4ae464a6a7c6e934b1c82b9a6622bb7e199f737900057ba63b3bb2cdf33186f",
+      "bytes": 318719
+    },
+    "zh-tw": {
+      "sha256": "8644705fc7ec656f36ca3a4a1bfb29b3c1133e16c09c2c1f22983af2f3117b97",
+      "bytes": 313777
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1645,
+    "output_tokens_details": {
+      "reasoning_tokens": 749
+    },
+    "total_tokens": 3605
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pikachu ex",
+        "illustrator": "Mitsu",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Punch",
+            "effect": null
+          },
+          {
+            "name": "Thundertail",
+            "effect": "Discard 2 {L} Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+      },
+      "fr": {
+        "name": "Pikachu ex",
+        "illustrator": "Mitsu",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika-Poing",
+            "effect": null
+          },
+          {
+            "name": "Queue Tonnerre",
+            "effect": "Défaussez 2 Énergies {L} de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quand votre Pokémon-ex est mis K.O., votre adversaire gagne 2 points."
+      },
+      "es": {
+        "name": "Pikachu ex",
+        "illustrator": "Mitsu",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Puño",
+            "effect": null
+          },
+          {
+            "name": "Cola Relámpago",
+            "effect": "Descarta 2 Energías {L} de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Cuando tu Pokémon ex queda Fuera de Combate, tu rival consigue 2 puntos."
+      },
+      "it": {
+        "name": "Pikachu ex",
+        "illustrator": "Mitsu",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Pugno",
+            "effect": null
+          },
+          {
+            "name": "Coda Saettante",
+            "effect": "Rimuovi 2 انرژی?"
+          }
+        ],
+        "abilities": [],
+        "effect": "Regola ex Quando il tuo Pokémon ex va KO, il tuo avversario guadagna 2 punti."
+      },
+      "de": {
+        "name": "Pikachu ex",
+        "illustrator": "Mitsu",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pikahieb",
+            "effect": null
+          },
+          {
+            "name": "Donnerschweif",
+            "effect": "Lege 2 {L}-Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": "EX-Regel Wenn dein Pokémon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte."
+      },
+      "pt-br": {
+        "name": "Pikachu ex",
+        "illustrator": "Mitsu",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Soco Pikachu",
+            "effect": null
+          },
+          {
+            "name": "Cauda Trovejante",
+            "effect": "Descarte 2 Energias {L} deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regra ex Quando seu Pokémon ex é Nocauteado, seu oponente recebe 2 pontos."
+      },
+      "zh-tw": {
+        "name": "皮卡丘 ex",
+        "illustrator": "Mitsu",
+        "description": null,
+        "attacks": [
+          {
+            "name": "皮卡拳",
+            "effect": null
+          },
+          {
+            "name": "閃電尾",
+            "effect": "將這隻寶可夢身上的2個能量棄掉。"
+          }
+        ],
+        "abilities": [],
+        "effect": "EX規則 寶可夢ex被擊倒時，對手將可獲得2分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator credit is too small to read fully; only 'Mitsu' is legible."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator credit is too small to read fully; only 'Mitsu' is legible."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator credit is too small to read fully; only 'Mitsu' is legible."
+      },
+      {
+        "locale": "it",
+        "field": "attacks[1].effect",
+        "reason": "The effect text is too small/blurred to verify fully from the image."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator credit is too small to read fully; only 'Mitsu' is legible."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator credit is too small to read fully; only 'Mitsu' is legible."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator credit is too small to read fully; only 'Mitsu' is legible."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator credit is too small to read fully; only 'Mitsu' is legible."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "The EX rule text is small and partially unclear; transcription may be inaccurate."
+      }
+    ]
+  }
+}

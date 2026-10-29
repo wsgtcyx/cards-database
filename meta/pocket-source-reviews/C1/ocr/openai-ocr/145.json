@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-145",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d2837272d7b1aa972f1e329ebfd319fefdb04764f8239abe4f25adaa76f715e1",
+      "bytes": 297689
+    },
+    "fr": {
+      "sha256": "81f0df02bb152f854ee4c74663fe2fb212a8e74335c42949f2e4f65ae5ac4005",
+      "bytes": 300162
+    },
+    "es": {
+      "sha256": "1a6676a138fff25e1e27746c294bcb74de2a07cac12fd4e96ea55935719c28c1",
+      "bytes": 300140
+    },
+    "it": {
+      "sha256": "2ec413dd1bbf6314bf2163e5143ddbabc70ad45823b04fd7b7edda8559dde3c6",
+      "bytes": 298230
+    },
+    "de": {
+      "sha256": "0e5144b1ae8bdd9c9cf12068778344c26e5c5c6b087e0e796b8921b2291ee471",
+      "bytes": 297744
+    },
+    "pt-br": {
+      "sha256": "e8e754589756616a0f0dfc9e7ea4534ea7fc93350b7b4833917f9f65944ecc7f",
+      "bytes": 298333
+    },
+    "zh-tw": {
+      "sha256": "4d214c1d5319b03bd79f4efa2d69557241c5ed07eacdd1eacb7c61673852a053",
+      "bytes": 297273
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1806,
+    "output_tokens_details": {
+      "reasoning_tokens": 1012
+    },
+    "total_tokens": 3766
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Larvitar",
+        "illustrator": "Mitsu Yoshioka",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bite",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Embrylex",
+        "illustrator": "Mitsu Yoshioka",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Morsure",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Larvitar",
+        "illustrator": "Mitsu Yoshioka",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Mordisco",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Larvitar",
+        "illustrator": "Mitsu Yoshioka",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Morso",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Larvitar",
+        "illustrator": "Mitsu Yoshioka",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Biss",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Larvitar",
+        "illustrator": "Mitsu Yoshioka",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Mordida",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "幼基拉斯",
+        "illustrator": "Mitsu Yoshioka",
+        "description": null,
+        "attacks": [
+          {
+            "name": "咬住",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      }
+    ]
+  }
+}

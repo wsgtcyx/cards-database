@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-199",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4a181c6fbc9b51ea424a944c1c82983fc1d1e7a859b090cf6c0c21bc01f5b342",
+      "bytes": 301081
+    },
+    "fr": {
+      "sha256": "c06eba09d6636f31afa1fb31ca523974241fd5b62f5311aa6dc52277e1aac1f6",
+      "bytes": 301160
+    },
+    "es": {
+      "sha256": "1a9c401aba724d60b605bf738c3dc406fe0bf5d0ff5632731ef09de70f9a68f3",
+      "bytes": 301605
+    },
+    "it": {
+      "sha256": "34579541fd430d23812788bbe383ed801f76a217a9fc6d06b6cdd07cfec9fea5",
+      "bytes": 300941
+    },
+    "de": {
+      "sha256": "6b21b5c81c30e1be5103d4d91d88f335048d96367eee47c61eab68cfb092da86",
+      "bytes": 301754
+    },
+    "pt-br": {
+      "sha256": "462666bb702b5f1475e6dd2a742e41ebd6c0ba367be98c045a9a7a37529b6445",
+      "bytes": 300784
+    },
+    "zh-tw": {
+      "sha256": "99b0abd587b42e5f9851eef4a055a35891d640c901ef3f358fcd4c2b4428cefd",
+      "bytes": 300069
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1389,
+    "output_tokens_details": {
+      "reasoning_tokens": 634
+    },
+    "total_tokens": 3349
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rhyhorn",
+        "illustrator": "Taiga Kasai",
+        "description": "Rhyhorn claims an area with over a six mile radius as its territory. It apparently forgets where this territory is when running, however.",
+        "attacks": [
+          {
+            "name": "Lunge Out",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rhinocorne",
+        "illustrator": "Taiga Kasai",
+        "description": "Son territoire s'étend sur un rayon de 10 km, mais on raconte que lorsqu'il se met à courir, il oublie totalement où ce dernier se trouve.",
+        "attacks": [
+          {
+            "name": "Allonger",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Rhyhorn",
+        "illustrator": "Taiga Kasai",
+        "description": "Puede controlar un territorio de hasta 10 km de radio, pero, cuando se pone a correr, parece olvidarse de dónde empieza y dónde acaba.",
+        "attacks": [
+          {
+            "name": "Arremeter",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Rhyhorn",
+        "illustrator": "Taiga Kasai",
+        "description": "Sceglie un'area di 10 km di raggio come suo territorio, ma pare che quando corre finisca per dimenticare quale sia.",
+        "attacks": [
+          {
+            "name": "Affondo Lungo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Rihorn",
+        "illustrator": "Taiga Kasai",
+        "description": "Das Revier dieses Pokémon hat einen Radius von 10 km. Sobald es jedoch rennt, scheint es zu vergessen, wo dieses anfängt und aufhört.",
+        "attacks": [
+          {
+            "name": "Sprungangriff",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Rhyhorn",
+        "illustrator": "Taiga Kasai",
+        "description": "Rhyhorn reivindica uma área com mais de dez quilômetros de raio como seu território, mas dizem que, ao correr, esquece onde ele fica.",
+        "attacks": [
+          {
+            "name": "Bote",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "獨角犀牛",
+        "illustrator": "Taiga Kasai",
+        "description": "獨角犀牛把半徑 10 公里的範圍當作牠的地盤，但當牠跑起來時，卻會忘記自己的地盤在哪裡。",
+        "attacks": [
+          {
+            "name": "撞倒",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-211",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "ef51044564c6c1504defd68db05738846763f868546dcefa17d9c7d1e1bfa801",
+      "bytes": 293449
+    },
+    "fr": {
+      "sha256": "4fd29eb188c2e7a7841f06ca30908207a432f1e5efcc9c0fab936ba9596d8768",
+      "bytes": 293966
+    },
+    "es": {
+      "sha256": "9f7425483a50fa292573313148ed9d416e5de00429526779757ba8e22d357e5c",
+      "bytes": 293324
+    },
+    "it": {
+      "sha256": "ad71b1c9dc5de7e8e76165f3ba5290f038889b725a70b2a1c7ba5f5724e86309",
+      "bytes": 293755
+    },
+    "de": {
+      "sha256": "7cd68dbbb01b5e474d993f78c2b8ff0398f80b8db7360dedb7bc16e1544d8741",
+      "bytes": 295890
+    },
+    "pt-br": {
+      "sha256": "e02c27ce6c93e0adc32b8c34f94c59036156b07748accfd53ad797bd667ea862",
+      "bytes": 294938
+    },
+    "zh-tw": {
+      "sha256": "5fa27f9cbf538c6e9665e1bcbcb4e0f2587b7b89f24d42945fe30bbe8f7b2bdc",
+      "bytes": 290065
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1640,
+    "output_tokens_details": {
+      "reasoning_tokens": 1104
+    },
+    "total_tokens": 3600
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Mts. Sbom Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Draconic Meteor",
+            "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Dracolosse ex",
+        "illustrator": "Mts. Sbom Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Météore Draconien",
+            "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 250 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Dragonite ex",
+        "illustrator": "Mts. Sbom Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracónico",
+            "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 250 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Mts. Sbom Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteora del Drago",
+            "effect": "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 250 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Dragoran ex",
+        "illustrator": "Mts. Sbom Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Drachenmeteor",
+            "effect": "1 Pokémon des Gegners wird zufällig ausgewählt. Füge diesem Pokémon 250 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Mts. Sbom Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracônico",
+            "effect": "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 250 pontos de dano a ele."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級快龍 ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "翔龍流星擊",
+            "effect": "對手的場上有1隻寶可夢被隨機選出。對選擇的寶可夢造成250點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator text at the bottom left is too small/blurred to read confidently from the image."
+      }
+    ]
+  }
+}

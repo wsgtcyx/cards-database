@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-107",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "769e92038e2b919d15b0bd6b4a483c1f3be47797d41274333044a2b84554387a",
+      "bytes": 276777
+    },
+    "fr": {
+      "sha256": "af564e099ffd4eaf6a3c134d95f0774d30a9e0ab413e4ac4d5ce2c91d1768965",
+      "bytes": 276341
+    },
+    "es": {
+      "sha256": "29c3429cb8710717918d60383dbc1adfecc40832ca79e00da770c6042f7ec1f9",
+      "bytes": 276621
+    },
+    "it": {
+      "sha256": "7e781ffe501d3ec66216cbcf0e53f50299e9267b4dbd24017492b189364514e7",
+      "bytes": 277750
+    },
+    "de": {
+      "sha256": "b2d50ee80f556b5af4145323022632d6faec5c75d3efa12c31d704a300d02c7a",
+      "bytes": 278049
+    },
+    "pt-br": {
+      "sha256": "9ed533c7568df1c8e68cf5194e384e289072b7495852f4e82ae2cacdc041c9c3",
+      "bytes": 277369
+    },
+    "zh-tw": {
+      "sha256": "53df0dd961b2a41db51f76872279de353d52108ea57fd342883ad873b4900411",
+      "bytes": 274916
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1205,
+    "output_tokens_details": {
+      "reasoning_tokens": 403
+    },
+    "total_tokens": 4693
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Eevee",
+        "illustrator": "0313",
+        "description": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+        "attacks": [
+          {
+            "name": "Signs of Evolution",
+            "effect": "Put a random card that evolves from Eevee from your deck into your hand."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Évoli",
+        "illustrator": "0313",
+        "description": "Ses multiples évolutions lui permettent de s’adapter à tout type de milieu naturel.",
+        "attacks": [
+          {
+            "name": "Signes d’Évolution",
+            "effect": "Ajoutez au hasard une carte Évolution de Évoli de votre deck à votre main."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Eevee",
+        "illustrator": "0313",
+        "description": "Es capaz de evolucionar de muchas maneras para adaptarse sin problemas a cualquier medio.",
+        "attacks": [
+          {
+            "name": "Indicios de Evolución",
+            "effect": "Pon 1 carta aleatoria que evolucione de Eevee de tu baraja en tu mano."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Eevee",
+        "illustrator": "0313",
+        "description": "La capacità di evolversi in diverse specie gli permette di adattarsi perfettamente a qualsiasi tipo di ambiente.",
+        "attacks": [
+          {
+            "name": "Evolvisegni",
+            "effect": "Prendi una carta a caso dal tuo mazzo che si evolve da Eevee e aggiungila alle carte che hai in mano."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Evoli",
+        "illustrator": "0313",
+        "description": "Um sich jeder Umgebung perfekt anpassen zu können, ist es in der Lage, sich zu verschiedenen Pokémon zu entwickeln.",
+        "attacks": [
+          {
+            "name": "Spuren der Evolution",
+            "effect": "Nimm 1 zufällige Karte, die sich aus Evoli entwickelt, aus deinem Deck auf deine Hand."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Eevee",
+        "illustrator": "0313",
+        "description": "Sua capacidade de evoluir para muitas formas permite que se adapte fácil e perfeitamente a qualquer ambiente.",
+        "attacks": [
+          {
+            "name": "Sinais de Evolução",
+            "effect": "Coloque 1 carta aleatória que evolua de Eevee do seu baralho na sua mão."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "伊布",
+        "illustrator": "0313",
+        "description": "為了能瞬即適應環境的變化，身體裏蘊藏著許多種進化的可能性。",
+        "attacks": [
+          {
+            "name": "進化預兆",
+            "effect": "從自己的牌庫隨機將1張從「伊布」進化而來的卡加入手牌。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

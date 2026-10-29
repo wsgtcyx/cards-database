@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-106",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "be5db4425c01c9ee510c0032826ce67393cda015657eb76d552a7fcab68ed08d",
+      "bytes": 279945
+    },
+    "fr": {
+      "sha256": "6700d608cf0d161355b4c56b486cf1c0916b1242eb29e84f28d8c3e9289aeea6",
+      "bytes": 281391
+    },
+    "es": {
+      "sha256": "607626d89d728e9def8b6e2952e8d4501e597e0eeff91a5d3e668d2dd7c6617c",
+      "bytes": 280928
+    },
+    "it": {
+      "sha256": "eb5147cd7187e29479b6867a9f92cf2512a3634facf7088a9f73c579f83ec80d",
+      "bytes": 280854
+    },
+    "de": {
+      "sha256": "362d680d08bcc4ff8b551315508630fe7e228e8fccb7a0240bf44f4143bbe81a",
+      "bytes": 280939
+    },
+    "pt-br": {
+      "sha256": "f1b9606cde29cf39140b045288046dcaf2f5cdba6c17f88eeed909564cecb567",
+      "bytes": 280289
+    },
+    "zh-tw": {
+      "sha256": "bb7f51ecac5478a13a74321e60d4355d715691069bec9b8b2345aa7271865471",
+      "bytes": 279659
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1094,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 3054
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Fearow",
+        "illustrator": "kawayoo",
+        "description": "Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!",
+        "attacks": [
+          {
+            "name": "Drill Peck",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rapasdepic",
+        "illustrator": "kawayoo",
+        "description": "Si vous vous promenez sur le territoire d'un Rapasdepic en transportant de la nourriture, vous risquez de vite la voir s'envoler !",
+        "attacks": [
+          {
+            "name": "Bec Vrille",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Fearow",
+        "illustrator": "kawayoo",
+        "description": "Es peligroso pasear con comida por su territorio, ya que supone exponerse a que en cualquier momento se abalance para robarla.",
+        "attacks": [
+          {
+            "name": "Pico Taladro",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Fearow",
+        "illustrator": "kawayoo",
+        "description": "Chi attraversa il suo territorio portando con sé del cibo corre il rischio di vederselo strappare via in men che non si dica.",
+        "attacks": [
+          {
+            "name": "Perforbecco",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Ibitak",
+        "illustrator": "kawayoo",
+        "description": "Wer Essbares dabei hat, sollte sich nicht in Ibitaks Revier begeben, da sonst ein Überfall aus heiterem Himmel droht.",
+        "attacks": [
+          {
+            "name": "Bohrschnabel",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Fearow",
+        "illustrator": "kawayoo",
+        "description": "Transportar alimento através do território de Fearow é perigoso, porque este Pokémon roubara a comida em um instante!",
+        "attacks": [
+          {
+            "name": "Bico Broca",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "大嘴雀",
+        "illustrator": "kawayoo",
+        "description": "在大嘴雀的地盤上 帶著食物去挑戰危險的事。 食物瞬間就有可能被奪走。",
+        "attacks": [
+          {
+            "name": "啄鑽",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The flavor text is partially hard to read; the transcription may be inaccurate around the first sentence/line break."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "The final verb appears to be 'roubará', but the accent is not fully clear in the image."
+      }
+    ]
+  }
+}

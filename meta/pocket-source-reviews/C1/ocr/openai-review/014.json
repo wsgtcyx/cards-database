@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-014",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "2039b1cda0f65929f7c4374e8c65ed23b322bc001d447ef908aa17a7e3193757",
+      "bytes": 277227
+    },
+    "fr": {
+      "sha256": "3532883f29a721b02b91567a6d1a7e8ec775d269a8f4a091b114e807ef9b7502",
+      "bytes": 276665
+    },
+    "es": {
+      "sha256": "2ce831a8feddcdc132624916373831761489b53407f008d4327465eedb52d6c8",
+      "bytes": 277653
+    },
+    "it": {
+      "sha256": "afb295267de6b5e377f5d2a90f0da80eb1718752486a69b8a18e25c1e01fc7e7",
+      "bytes": 277712
+    },
+    "de": {
+      "sha256": "c906d30dab234f34c9cb846e0a719b6c368522bf897fdab4a46c8131eed11671",
+      "bytes": 278508
+    },
+    "pt-br": {
+      "sha256": "42775af89a8ac5abd18466abb042893c7bc48c32edb0344af7495664829d2e66",
+      "bytes": 277662
+    },
+    "zh-tw": {
+      "sha256": "0dc74f1084d716d7b92e2e7bf2f045b8e4b9658a24dbecd6cdb436e7fac9c469",
+      "bytes": 275766
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1042,
+    "output_tokens_details": {
+      "reasoning_tokens": 488
+    },
+    "total_tokens": 4530
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Cutiefly",
+        "illustrator": "Narumi Sato",
+        "description": "When it senses the auras of people or Pokémon who are having fun, it will draw close and give them a painful poke with its long proboscis.",
+        "attacks": [
+          {
+            "name": "Bug Bite",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Bombydou",
+        "illustrator": "Narumi Sato",
+        "description": "Chaque fois qu'il capte l'aura joyeuse d'un être humain ou d'un Pokémon, il s'en approche et le pique de sa longue trompe.",
+        "attacks": [
+          {
+            "name": "Piqûre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cutiefly",
+        "illustrator": "Narumi Sato",
+        "description": "Si percibe el aura de un ser humano o Pokémon que transmite alegría, se le acerca y, con su larga probóscide, le asesta un pinchazo doloroso.",
+        "attacks": [
+          {
+            "name": "Picadura",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Cutiefly",
+        "illustrator": "Narumi Sato",
+        "description": "Se percepisce l'aura allegra di un essere umano o di un Pokémon, gli si avvicina e lo punge con la sua lunga bocca, causando un certo dolore.",
+        "attacks": [
+          {
+            "name": "Coleomorso",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Wommel",
+        "illustrator": "Narumi Sato",
+        "description": "Nimmt es die fröhliche Aura von Menschen oder Pokémon wahr, nähert es sich ihnen und teilt mit seinem langen Rüssel schmerzhafte Stiche aus.",
+        "attacks": [
+          {
+            "name": "Käferbiss",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Cutiefly",
+        "illustrator": "Narumi Sato",
+        "description": "Quando sente a aura das pessoas ou Pokémon que estão se divertindo, aproxima-se e dá uma ferroada dolorida neles com sua probóscide longa.",
+        "attacks": [
+          {
+            "name": "Picada",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "萌虻",
+        "illustrator": "Narumi Sato",
+        "description": "只要感覺到人類或寶可夢發出的快樂氣場，就會靠近並用長長的嘴器戳之。被戳者很痛。",
+        "attacks": [
+          {
+            "name": "蟲咬",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

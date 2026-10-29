@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-141",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "e61d60dfbbaf265041f98c2b609e95e38449d110937a77d6de2ee46e5b50c572",
+      "bytes": 377825
+    },
+    "fr": {
+      "sha256": "e5e13c0aae707b4b7f3cab6d459d4674d96f333f55b3035ffa979708eba4350d",
+      "bytes": 378677
+    },
+    "es": {
+      "sha256": "f7c87e48e1bbe9913d0052767a0f5634940376f864a363a11eee439f6cddad09",
+      "bytes": 377508
+    },
+    "it": {
+      "sha256": "ebc9a8eca0a2abf7d545388cc643126b7257d215fb2a07b06ba7d124b795d313",
+      "bytes": 378070
+    },
+    "de": {
+      "sha256": "7f3ec9a8b2515b63fdd76fb593a68b73c182aca0734ed2216999ba1bb8afce93",
+      "bytes": 378358
+    },
+    "pt-br": {
+      "sha256": "8cae7ff549ca62fa474344b932caf0bd06279168131082e370c33376332099cc",
+      "bytes": 378002
+    },
+    "zh-tw": {
+      "sha256": "e7e2dcaa1ecbf32631581b79efacdd1931f85bcf66724caa817c076e797e67d2",
+      "bytes": 371537
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1968,
+    "output_tokens_details": {
+      "reasoning_tokens": 820
+    },
+    "total_tokens": 3928
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Frogadier",
+        "illustrator": "Mitsu. GOSSAN",
+        "description": "It makes an upsetting, bursting sound as it leaps out of the water, and it never misses its mark when throwing hidden-edged pebbles.",
+        "attacks": [
+          {
+            "name": "Wave Splash",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sudden Duplication",
+            "effect": "Once during your turn, when you play this card from your hand to evolve 1 of your Pokémon, you may use this Ability. Put a random Frogadier from your deck onto your Bench."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Croâporal",
+        "illustrator": "Mitsu. GOSSAN",
+        "description": "Ce Pokémon saute en émettant un cri sonore, et il ne manque jamais sa cible lorsqu'il lance des cailloux cachés pointus.",
+        "attacks": [
+          {
+            "name": "Grosse Vague",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Duplication Soudaine",
+            "effect": "Une fois pendant votre tour, lorsque vous jouez cette carte de votre main pour faire évoluer un de vos Pokémon, vous pouvez utiliser ce talent. Placez une carte Croâporal au hasard de votre deck sur votre Banc."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Frogadier",
+        "illustrator": "Mitsu. GOSSAN",
+        "description": "Emite un sonido brusco al saltar fuera del agua y nunca falla al lanzar piedras puntiagudas ocultas.",
+        "attacks": [
+          {
+            "name": "Chapoteo Ondulante",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Duplicación Súbita",
+            "effect": "Una vez durante tu turno, cuando juegas esta carta de tu mano para hacer evolucionar a uno de tus Pokémon, puedes usar esta habilidad. Pon 1 Frogadier aleatorio de tu baraja en tu Banca."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Frogadier",
+        "illustrator": "Mitsu. GOSSAN",
+        "description": "Quando salta fuori dall'acqua emette un suono acuto e non manca mai il bersaglio quando lancia i suoi sassi appuntiti nascosti.",
+        "attacks": [
+          {
+            "name": "Schizzi d'Onda",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sdoppiamento Improvviso",
+            "effect": "Una sola volta durante il tuo turno, quando giochi questa carta dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi usare questa abilità. Prendi una carta Frogadier a caso dal tuo mazzo e mettila nella tua panchina."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Amphizel",
+        "illustrator": "Mitsu. GOSSAN",
+        "description": "Es stößt beim Sprung aus dem Wasser ein schrilles Geräusch aus und verfehlt nie sein Ziel, wenn es versteckte Steinchen wirft.",
+        "attacks": [
+          {
+            "name": "Wellenplatscher",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Spontane Verdopplung",
+            "effect": "Einmal während deines Zuges, wenn du diese Karte von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du diese Fähigkeit einsetzen. Lege 1 zufälliges Amphizel aus deinem Deck auf deine Bank."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Frogadier",
+        "illustrator": "Mitsu. GOSSAN",
+        "description": "Ao saltar da água, ele emite um som estranho e nunca erra o alvo ao arremessar pedrinhas escondidas.",
+        "attacks": [
+          {
+            "name": "Onda Borrifante",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Duplicação Súbita",
+            "effect": "Uma vez durante o seu turno, quando você jogar esta carta da sua mão para evoluir 1 dos seus Pokémon, você poderá usar esta Habilidade. Coloque 1 Frogadier aleatório do seu baralho no seu Banco."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "呱頭蛙",
+        "illustrator": "Mitsu. GOSSAN",
+        "description": "在水中跳躍時會發出奇怪的聲音，而且投擲隱藏著尖角的小石子時，從來不會失手。",
+        "attacks": [
+          {
+            "name": "飛濺",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "臨場分身",
+            "effect": "在自己的回合，當從手牌使這張卡進化到寶可夢時，可使用1次。從自己的牌庫隨機選擇1張「呱頭蛙」，放在你的備用區。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is hard to read precisely; transcription may be imperfect."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is hard to read precisely; transcription may be imperfect."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is hard to read precisely; transcription may be imperfect."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is hard to read precisely; transcription may be imperfect."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is hard to read precisely; transcription may be imperfect."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is hard to read precisely; transcription may be imperfect."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is hard to read precisely; transcription may be imperfect."
+      }
+    ]
+  }
+}

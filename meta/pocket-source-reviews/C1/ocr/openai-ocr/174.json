@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-174",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "b07ac86d8a6f6c1c3e174f7379244c801591559a8252712693715acca088440c",
+      "bytes": 324290
+    },
+    "fr": {
+      "sha256": "45eade05a4ee76e8537dd5b0674b1696713cfee1498915a60d8970f04b3912c7",
+      "bytes": 325192
+    },
+    "es": {
+      "sha256": "fdf9358b209279f14cce8a41c7904b527361709048b75a54d6595d3f4d94f81b",
+      "bytes": 325617
+    },
+    "it": {
+      "sha256": "a295b2e4ab3ccffde0a6f3c6a6521a56506d19d919aaba9c6f892b0a2d4ab372",
+      "bytes": 325409
+    },
+    "de": {
+      "sha256": "e7aae816f1d351d5e566d8a022baa2436891822d5501fc671b97323c59bcaf0f",
+      "bytes": 325406
+    },
+    "pt-br": {
+      "sha256": "4eb90e56c8c083d8c9a580f06f90319e1e127e14ff0eca247bda78b1688113e8",
+      "bytes": 325782
+    },
+    "zh-tw": {
+      "sha256": "ec9f48dddcecbfd6510b7525e830cd9a2b7c16c9f5c1f00081bcd41ec784e44b",
+      "bytes": 321621
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1045,
+    "output_tokens_details": {
+      "reasoning_tokens": 292
+    },
+    "total_tokens": 3005
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pikachu ex",
+        "illustrator": "Shibuzoh.",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Punch",
+            "effect": null
+          },
+          {
+            "name": "Thundertail",
+            "effect": "Discard 2 {L} Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+      },
+      "fr": {
+        "name": "Pikachu ex",
+        "illustrator": "Shibuzoh.",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika-Poing",
+            "effect": null
+          },
+          {
+            "name": "Queue Tonnerre",
+            "effect": "Défaussez 2 Énergies {L} de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Règle ex Lorsque votre Pokémon ex est mis K.O., votre adversaire gagne 2 points."
+      },
+      "es": {
+        "name": "Pikachu ex",
+        "illustrator": "Shibuzoh.",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Puño",
+            "effect": null
+          },
+          {
+            "name": "Cola Relámpago",
+            "effect": "Descarta 2 Energías {L} de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regla ex Cuando tu Pokémon ex queda Fuera de Combate, tu rival consigue 2 puntos."
+      },
+      "it": {
+        "name": "Pikachu ex",
+        "illustrator": "Shibuzoh.",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Pugno",
+            "effect": null
+          },
+          {
+            "name": "Coda Saettante",
+            "effect": "Rimuovi 2 Energie {L} da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regola ex Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon ex va KO."
+      },
+      "de": {
+        "name": "Pikachu ex",
+        "illustrator": "Shibuzoh.",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pikahieb",
+            "effect": null
+          },
+          {
+            "name": "Donnerschweif",
+            "effect": "Lege 2 {L}-Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": "EX-Regel Wenn dein Pokémon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte."
+      },
+      "pt-br": {
+        "name": "Pikachu ex",
+        "illustrator": "Shibuzoh.",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Soco Pikachu",
+            "effect": null
+          },
+          {
+            "name": "Cauda Trovejante",
+            "effect": "Descarte 2 Energias {L} deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regra ex Quando seu Pokémon ex é Nocauteado, seu oponente recebe 2 pontos."
+      },
+      "zh-tw": {
+        "name": "皮卡丘 ex",
+        "illustrator": "Shibuzoh.",
+        "description": null,
+        "attacks": [
+          {
+            "name": "皮卡拳",
+            "effect": null
+          },
+          {
+            "name": "閃電尾",
+            "effect": "將這張卡上面2個能量卡丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": "EX規則 當可讓對手使1隻你場上的EX寶可夢昏厥時，對手得到2分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[1].name",
+        "reason": "The second attack name is low-resolution; characters may be \"閃電尾\" but are not fully certain."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[1].effect",
+        "reason": "The effect text is low-resolution; exact wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "The EX rule text is low-resolution and partially obscured, so the exact wording is uncertain."
+      }
+    ]
+  }
+}

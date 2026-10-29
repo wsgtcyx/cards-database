@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-130",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "c1fb9bd8984fe4c3e381ca94e35b6f234791424af951eccf74715be6c9157c11",
+      "bytes": 225935
+    },
+    "fr": {
+      "sha256": "ec1268d2d2f5cdb7229bc245db71d877c2ed05472442aecc914ad2fec102dfc5",
+      "bytes": 232341
+    },
+    "es": {
+      "sha256": "584ae48ed9ffd861fc4931920e43c15634cde51386e47c11e7ba8c2ca50a9933",
+      "bytes": 229078
+    },
+    "it": {
+      "sha256": "219734ec657dc1b75220a68c8fb394d10ab3f46e63176224d08d93a8fb4f6cf5",
+      "bytes": 225954
+    },
+    "de": {
+      "sha256": "da4e519d2c401988c4d823b27644f00d69448368d2bbf13440e26a70db3d91de",
+      "bytes": 230118
+    },
+    "pt-br": {
+      "sha256": "407fa4e6e0b050c6ea5e871aeb19ec3d13018edaca2861e32cd275ec17b6f921",
+      "bytes": 229601
+    },
+    "zh-tw": {
+      "sha256": "14920d00cf58586c9b12b510711fd0c285da82ed49f2928c58e5e04dfb21cefd",
+      "bytes": 222728
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1105,
+    "output_tokens_details": {
+      "reasoning_tokens": 448
+    },
+    "total_tokens": 4593
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rising Star",
+        "illustrator": "Hideki Ishikawa",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "You can use this card only if you have 3 or more different Pokémon types in play.\n\nSwitch your Active Pokémon with 1 of your Benched Pokémon."
+      },
+      "fr": {
+        "name": "Dresseur et Dresseuse en Herbe",
+        "illustrator": "Hideki Ishikawa",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous ne pouvez utiliser cette carte que si vous avez au moins 3 types de Pokémon différents en jeu.\n\nÉchangez votre Pokémon Actif contre un de vos Pokémon de Banc."
+      },
+      "es": {
+        "name": "Entrenadores Promesa",
+        "illustrator": "Hideki Ishikawa",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puedes usar esta carta solo si tienes 3 o más Pokémon de diferentes tipos en juego.\n\nCambia tu Pokémon Activo por 1 de tus Pokémon en Banca."
+      },
+      "it": {
+        "name": "Giovane speranza",
+        "illustrator": "Hideki Ishikawa",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi usare questa carta solo se hai almeno 3 Pokémon di tipo diverso in gioco.\n\nScambia il tuo Pokémon attivo con uno della tua panchina."
+      },
+      "de": {
+        "name": "Trainerhoffnung",
+        "illustrator": "Hideki Ishikawa",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst diese Karte nur einsetzen, wenn du 3 oder mehr Pokémon verschiedenen Typs im Spiel hast.\n\nTausche dein Aktives Pokémon gegen 1 Pokémon auf deiner Bank aus."
+      },
+      "pt-br": {
+        "name": "Estrela em Ascensão",
+        "illustrator": "Hideki Ishikawa",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você só pode usar esta carta se tiver 3 ou mais Pokémon de tipos diferentes em jogo.\n\nTroque o seu Pokémon Ativo por 1 dos seus Pokémon no Banco."
+      },
+      "zh-tw": {
+        "name": "新星訓練家",
+        "illustrator": "Hideki Ishikawa",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "這張卡只有在自己的場上寶可夢的屬性有3種以上時才可使用。\n\n將自己的戰鬥寶可夢與備戰寶可夢互換。"
+      }
+    },
+    "uncertain": []
+  }
+}

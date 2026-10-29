@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-217",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "416f592b8f1012f7a7c0392ae0e225f65705f9638864db2aab0b667cff0208b9",
+      "bytes": 332486
+    },
+    "fr": {
+      "sha256": "33ff45c32d376eb27720f7e82e4460dd3a1143bdd26b189da710743d135e87ff",
+      "bytes": 332982
+    },
+    "es": {
+      "sha256": "5cb9f1b51f449947425e358304e6a3a3b9e35ea2850d1df32c87ae04f93046b2",
+      "bytes": 333762
+    },
+    "it": {
+      "sha256": "95ac2541f608fc6bade26ee040b575d020cbac8bcb1f769b395db2ddf600147f",
+      "bytes": 333299
+    },
+    "de": {
+      "sha256": "f76084a9e19896f0ff47c916615d05114812e11431143c8900af9b122712506e",
+      "bytes": 333366
+    },
+    "pt-br": {
+      "sha256": "76c2a724b3cd58815386817a3437b4c46188a80c6c9d117b2da460f17fdc3e0b",
+      "bytes": 333174
+    },
+    "zh-tw": {
+      "sha256": "02fcde83b3fd4ba8c212b67e64a5525fafa0c38d553a29b851cecff99c6f405a",
+      "bytes": 330349
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1267,
+    "output_tokens_details": {
+      "reasoning_tokens": 735
+    },
+    "total_tokens": 3227
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Slash",
+            "effect": null
+          },
+          {
+            "name": "Dragon Impact",
+            "effect": "Discard 2 random Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Tranche",
+            "effect": null
+          },
+          {
+            "name": "Impact du Dragon",
+            "effect": "Défaussez 2 Énergies au hasard de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Cuchillada",
+            "effect": null
+          },
+          {
+            "name": "Impacto Dragón",
+            "effect": "Descarta 2 Energías aleatorias de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lacerazione",
+            "effect": null
+          },
+          {
+            "name": "Draghimpatto",
+            "effect": "Rimuovi 2 Energie a caso da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schlitzer",
+            "effect": null
+          },
+          {
+            "name": "Dracheneinschlag",
+            "effect": "Lege 2 zufällige Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Giratina ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Talho",
+            "effect": null
+          },
+          {
+            "name": "Impacto do Dragão",
+            "effect": "Descarte 2 Energias aleatórias deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "騎拉帝納 ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "撕開",
+            "effect": null
+          },
+          {
+            "name": "狂龍衝擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[1].effect",
+        "reason": "The effect text is too small/blurry to read reliably from the image; only that it discards 2 Energy from this Pokémon is partially inferable, but the exact printed wording is unreadable."
+      }
+    ]
+  }
+}

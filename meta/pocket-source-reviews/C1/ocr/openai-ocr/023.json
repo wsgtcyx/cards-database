@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-023",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "40dfe363fac3f788a14ee273d6d96302601065849784b027ae76d45e74cdd6bf",
+      "bytes": 272565
+    },
+    "fr": {
+      "sha256": "8d6c056ac8a6edf16a006a7c71422a2ce9015f7d6fb3c36f5359bedc1eeab733",
+      "bytes": 275916
+    },
+    "es": {
+      "sha256": "31af743019d58db671567ce469c2f42a4ecd6e5bd1ffdbd0d10d81dc0c503f83",
+      "bytes": 273980
+    },
+    "it": {
+      "sha256": "d47869e4a9277ec4da4f24206caa926d2fa500655dbc50d21bab50bba61993a9",
+      "bytes": 275328
+    },
+    "de": {
+      "sha256": "0f4cbd44927ad33456f9104a5bfcf5fdcbf0e0d4542d40b82a127fdac7e81dff",
+      "bytes": 274846
+    },
+    "pt-br": {
+      "sha256": "ca17409a81d2c7e9dcd652a8db9c88d6e5a0b121d648b2a7acb07b15a1fabde7",
+      "bytes": 275920
+    },
+    "zh-tw": {
+      "sha256": "dc1e6cb49bbf92418ca2c49a936185ef6c5847d60351c23f936f5b868d996425",
+      "bytes": 272654
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1875,
+    "output_tokens_details": {
+      "reasoning_tokens": 1034
+    },
+    "total_tokens": 3835
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Raboot",
+        "illustrator": "OKACHEKE",
+        "description": "Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power.",
+        "attacks": [
+          {
+            "name": "Headbutt",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Jumping Coach",
+            "effect": "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lapyro",
+        "illustrator": "OKACHEKE",
+        "description": "Son pelage doux et épais lui permet de mobiliser facilement son énergie incandescente, et ainsi de produire des flammes encore plus puissantes.",
+        "attacks": [
+          {
+            "name": "Coup d'Boule",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Entraînement au Bond",
+            "effect": "Tant que ce Pokémon est en jeu, lancez 3 pièces supplémentaires lorsque l'attaque Bond de Lapin est utilisée par vos Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Raboot",
+        "illustrator": "OKACHEKE",
+        "description": "Su suave pelaje le permite calentar energía ígnea con mayor facilidad y así expulsar llamas todavía más potentes.",
+        "attacks": [
+          {
+            "name": "Golpe Cabeza",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Entrenador de Salto",
+            "effect": "Mientras este Pokémon esté en juego, lanza 3 monedas más para el ataque Brinconejo de tus Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Raboot",
+        "illustrator": "OKACHEKE",
+        "description": "Grazie alla sua pelliccia folta e soffice, Raboot riesce a scaldare facilmente l'energia Fuoco e quindi a sprigionare fiamme ancora più potenti.",
+        "attacks": [
+          {
+            "name": "Bottintesta",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Allenatore di Saltelli",
+            "effect": "Fintanto che questo Pokémon è in gioco, lancia una moneta 3 volte in più quando i tuoi Pokémon usano l'attacco Saltelli da Coniglio."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Kickerlo",
+        "illustrator": "OKACHEKE",
+        "description": "Dank seines flauschigen Fells kann es leichter Feuer-Energie aufheizen und dadurch noch heißere Flammen ausstoßen.",
+        "attacks": [
+          {
+            "name": "Kopfnuss",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sprungtrainer",
+            "effect": "Solange dieses Pokémon im Spiel ist, wirf 3 Münzen mehr, wenn deine Pokémon die Attacke Hasensprung einsetzen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Raboot",
+        "illustrator": "OKACHEKE",
+        "description": "Graças ao seu pelo macio e fofinho, Raboot consegue aquecer rapidamente sua energia de fogo e produzir chamas mais poderosas.",
+        "attacks": [
+          {
+            "name": "Cabeçada",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Instrutor Salitante",
+            "effect": "Enquanto este Pokémon estiver em jogo, jogue 3 moedas a mais para o ataque Salto do Coelho usado pelos seus Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "騰蹴小將",
+        "illustrator": "OKACHEKE",
+        "description": "柔軟的絨毛和蓬鬆的毛皮，讓火焰能量更容易升溫，並且噴發出更加強力的火焰。",
+        "attacks": [
+          {
+            "name": "頭錘",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "跳躍指導",
+            "effect": "只要這隻寶可夢在場上，自己的寶可夢使用的招式「兔兔跳」擲硬幣的次數增加3次。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is small and slightly unclear; transcription may be inaccurate in the middle of the sentence."
+      }
+    ]
+  }
+}

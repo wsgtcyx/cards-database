@@ -1,6 +1,7 @@
 *.js
 
 node_modules/
+.env.local
 dist/
 .idea
 .playwright-cli/

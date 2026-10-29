@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-163",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "539d3071fe64e553ae8f47ffd9b116fe981187415aef5718cfa18ea43e2561eb",
+      "bytes": 352059
+    },
+    "fr": {
+      "sha256": "0062493e51ab09267c02186429f6019156ea2980fadcc23e8bf9f04957a07f88",
+      "bytes": 352613
+    },
+    "es": {
+      "sha256": "034d0195d598dfe28bb2ce83e726e28e402550f4be40a84d47cef560f8910ab4",
+      "bytes": 353500
+    },
+    "it": {
+      "sha256": "915ee50f2b03d660597eb3916d7b741429bd03a65a636135675fbc82110cf705",
+      "bytes": 353002
+    },
+    "de": {
+      "sha256": "0fa9a7988bb8e540b958572d568d96c2358730c705bd9df38d7a56d4affbb384",
+      "bytes": 353126
+    },
+    "pt-br": {
+      "sha256": "6efd0dcd87179032588ffc9168737278811539025ae1fa741c9ec22e23b2dea4",
+      "bytes": 353055
+    },
+    "zh-tw": {
+      "sha256": "669d0f04f0a9767f64b2bee0410cf7aa92be8567626b425cf32b9840e4a37e7e",
+      "bytes": 349711
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1207,
+    "output_tokens_details": {
+      "reasoning_tokens": 449
+    },
+    "total_tokens": 3167
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Giratina ex",
+        "illustrator": "Illus. PLANETA © 2024 Pokémon",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Slash",
+            "effect": null
+          },
+          {
+            "name": "Dragon Impact",
+            "effect": "Discard 2 random Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "exrule When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+      },
+      "fr": {
+        "name": "Giratina ex",
+        "illustrator": "Illus. PLANETA © 2024 Pokémon",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Tranche",
+            "effect": null
+          },
+          {
+            "name": "Impact du Dragon",
+            "effect": "Défaussez 2 Énergies au hasard de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Règle EX Quand votre Pokémon-ex est mis K.O., votre adversaire gagne 2 points."
+      },
+      "es": {
+        "name": "Giratina ex",
+        "illustrator": "Illus. PLANETA © 2024 Pokémon",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Cuchillada",
+            "effect": null
+          },
+          {
+            "name": "Impacto Dragón",
+            "effect": "Descarta 2 Energías aleatorias de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regla EX Cuando tu Pokémon ex queda Fuera de Combate, tu rival consigue 2 puntos."
+      },
+      "it": {
+        "name": "Giratina ex",
+        "illustrator": "Illus. PLANETA © 2024 Pokémon",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lacerazione",
+            "effect": null
+          },
+          {
+            "name": "Draghimpatto",
+            "effect": "Rimuovi 2 Energie a caso da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regola ex Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon-ex va KO."
+      },
+      "de": {
+        "name": "Giratina ex",
+        "illustrator": "Illus. PLANETA © 2024 Pokémon",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schlitzer",
+            "effect": null
+          },
+          {
+            "name": "Dracheneinschlag",
+            "effect": "Lege 2 zufällige Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": "ex-Regel Wenn dein Pokémon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte."
+      },
+      "pt-br": {
+        "name": "Giratina ex",
+        "illustrator": "Illus. PLANETA © 2024 Pokémon",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Talho",
+            "effect": null
+          },
+          {
+            "name": "Impacto do Dragão",
+            "effect": "Descarte 2 Energias aleatórias deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regra EX Quando seu Pokémon ex é Nocauteado, seu oponente recebe 2 pontos."
+      },
+      "zh-tw": {
+        "name": "騎拉帝納 ex",
+        "illustrator": "Illus. PLANETA © 2024 Pokémon",
+        "description": null,
+        "attacks": [
+          {
+            "name": "踢開",
+            "effect": null
+          },
+          {
+            "name": "狂龍衝擊",
+            "effect": "棄置此寶可夢身上附著的2個隨機能量。"
+          }
+        ],
+        "abilities": [],
+        "effect": "ex規則 寶可夢ex昏厥時，對手獲得2分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "The first attack name is partially obscured/low-resolution; I read it as 踢開, but it may be another two-character Chinese name."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator text is too small to verify perfectly; read from the shared placement as Illus. PLANETA © 2024 Pokémon."
+      }
+    ]
+  }
+}

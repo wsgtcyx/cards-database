@@ -1,0 +1,202 @@
+{
+  "setId": "C1",
+  "unresolved": 0,
+  "ocrUncertainties": [
+    {
+      "cardId": "C1-039",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "The flavor-text crop is heavily pixelated; some characters in the first and final clauses are not fully legible.",
+      "chosen": "會依體色集結成群。最大的敵人是紅色的野蠻鱸魚的群體。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json."
+    },
+    {
+      "cardId": "C1-042",
+      "locale": "en",
+      "field": "illustrator",
+      "candidateUncertainty": "The illustrator credit is extremely small and not fully legible.",
+      "chosen": "Keisuke Azuma",
+      "status": "resolved",
+      "reason": "Game illustrator table plus enlarged native card credit; rejected first OCR 5ban Graphics guess."
+    },
+    {
+      "cardId": "C1-042",
+      "locale": "fr",
+      "field": "illustrator",
+      "candidateUncertainty": "The illustrator credit is extremely small and not fully legible.",
+      "chosen": "Keisuke Azuma",
+      "status": "resolved",
+      "reason": "Game illustrator table plus enlarged native card credit; rejected first OCR 5ban Graphics guess."
+    },
+    {
+      "cardId": "C1-042",
+      "locale": "es",
+      "field": "illustrator",
+      "candidateUncertainty": "The illustrator credit is extremely small and not fully legible.",
+      "chosen": "Keisuke Azuma",
+      "status": "resolved",
+      "reason": "Game illustrator table plus enlarged native card credit; rejected first OCR 5ban Graphics guess."
+    },
+    {
+      "cardId": "C1-042",
+      "locale": "it",
+      "field": "illustrator",
+      "candidateUncertainty": "The illustrator credit is extremely small and not fully legible.",
+      "chosen": "Keisuke Azuma",
+      "status": "resolved",
+      "reason": "Game illustrator table plus enlarged native card credit; rejected first OCR 5ban Graphics guess."
+    },
+    {
+      "cardId": "C1-042",
+      "locale": "de",
+      "field": "illustrator",
+      "candidateUncertainty": "The illustrator credit is extremely small and not fully legible.",
+      "chosen": "Keisuke Azuma",
+      "status": "resolved",
+      "reason": "Game illustrator table plus enlarged native card credit; rejected first OCR 5ban Graphics guess."
+    },
+    {
+      "cardId": "C1-042",
+      "locale": "pt-br",
+      "field": "illustrator",
+      "candidateUncertainty": "The illustrator credit is extremely small and not fully legible.",
+      "chosen": "Keisuke Azuma",
+      "status": "resolved",
+      "reason": "Game illustrator table plus enlarged native card credit; rejected first OCR 5ban Graphics guess."
+    },
+    {
+      "cardId": "C1-042",
+      "locale": "zh-tw",
+      "field": "illustrator",
+      "candidateUncertainty": "The illustrator credit is extremely small and not fully legible.",
+      "chosen": "Keisuke Azuma",
+      "status": "resolved",
+      "reason": "Game illustrator table plus enlarged native card credit; rejected first OCR 5ban Graphics guess."
+    },
+    {
+      "cardId": "C1-068",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "The final line of the flavor text is pixelated; the character transcribed as「將」is not fully clear.",
+      "chosen": "三顆頭會輪流活動，是為了讓周圍的土壤變得更鬆更好挖。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json."
+    },
+    {
+      "cardId": "C1-075",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "The second line of the flavor text is pixelated; the character after「會」and the wording immediately before「高山」are difficult to distinguish with complete certainty.",
+      "chosen": "誕生在地底深處。當牠吃完滿山的土壤後，就會為了成長而變成蛹。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json."
+    },
+    {
+      "cardId": "C1-083",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "Only the opening text「會躲進獵物的影子裡，」is reliably legible; the remaining characters are too blurred to transcribe without guessing.",
+      "chosen": "會躲進獵物的影子裡，然後靜靜地等待奪取性命的絕佳時機。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json. Clearer alternate printing C1-148 shares PK_022600."
+    },
+    {
+      "cardId": "C1-086",
+      "locale": "it",
+      "field": "description",
+      "candidateUncertainty": "The word sequence around “utilizzando le” is slightly blurred in the supplied crop.",
+      "chosen": "Affila la coda simile a una lama usando le rocce più dure. Striscia nascosto nell'erba alta, attaccando le prede con le sue zanne velenose.",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json."
+    },
+    {
+      "cardId": "C1-086",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "Several characters and the final punctuation are low-resolution in the supplied crop.",
+      "chosen": "平時都用堅硬的岩石打磨刀刃般的尾巴。會躲在草叢裡，然後趁對手靠近時用毒牙襲擊。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json."
+    },
+    {
+      "cardId": "C1-088",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "Several characters and the final punctuation are blurred in the enlarged crop.",
+      "chosen": "據說索羅亞克會把企圖捕捉牠的人困在虛幻的景色裡給予懲罰。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json."
+    },
+    {
+      "cardId": "C1-088",
+      "locale": "zh-tw",
+      "field": "attacks[0].effect",
+      "candidateUncertainty": "The final punctuation is difficult to distinguish at the supplied resolution.",
+      "chosen": "選擇1個對手的戰鬥寶可夢持有的招式,作為這個招式使用。",
+      "status": "resolved",
+      "reason": "Chosen game-language template and bound parameters cross-checked with native face; OCR candidate not used."
+    },
+    {
+      "cardId": "C1-089",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "The flavor text is too pixelated to transcribe every Traditional Chinese character reliably without inventing missing text.",
+      "chosen": "靠搶奪其他寶可夢找到的食物為生。腳上長著軟乎乎的肉球，走路時不會發出絲毫聲響。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json. Confirmed against pinned PokeAPI flavor CSV row with matching English flavor and game version."
+    },
+    {
+      "cardId": "C1-090",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "Flavor text is heavily pixelated; several characters and the final punctuation are not fully legible.",
+      "chosen": "會偷偷在看中的獵物身上留下標記，追蹤目標的氣味，在對方放鬆警戒時偷盜。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json. Confirmed against pinned PokeAPI flavor CSV row with matching English flavor and game version."
+    },
+    {
+      "cardId": "C1-094",
+      "locale": "zh-tw",
+      "field": "description",
+      "candidateUncertainty": "The characters following「接觸」are low-resolution; they appear to read「岩礦」.",
+      "chosen": "用尖刺刺裂岩壁之後，牠會用觸手的尖端接觸裂縫吸收營養。",
+      "status": "resolved",
+      "reason": "Manual enlarged native-face review recorded in C1.native-review.json. Confirmed against pinned PokeAPI flavor CSV row with matching English flavor and game version."
+    },
+    {
+      "cardId": "C1-208",
+      "locale": "zh-tw",
+      "field": "attacks[0].effect",
+      "candidateUncertainty": "Several Traditional Chinese characters in the small rules text are pixelated; the transcription reflects the most legible reading.",
+      "chosen": "擲硬幣直到出現反面,將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同數量。",
+      "status": "resolved",
+      "reason": "Chosen game-language template and bound parameters cross-checked with native face; OCR candidate not used."
+    }
+  ],
+  "additionalReviews": [
+    {
+      "field": "Rika energy icon",
+      "cardIds": [
+        "C1-128",
+        "C1-168"
+      ],
+      "candidate": "{M}",
+      "chosen": "{F}",
+      "evidence": "Native Fighting icon and game master; C1.native-review.json"
+    },
+    {
+      "field": "C1-207 English discard rule",
+      "candidate": "Discard Grass[G]",
+      "chosen": "Discard a {G} Energy",
+      "evidence": "Native card face and game template"
+    },
+    {
+      "field": "Colorless type numeric mapping",
+      "candidate": null,
+      "chosen": "Colorless",
+      "affectedCards": 27,
+      "evidence": "Game type 10 is Colorless; DeckGym types independently match all 197 Pokemon; importer rejects null types"
+    }
+  ]
+}

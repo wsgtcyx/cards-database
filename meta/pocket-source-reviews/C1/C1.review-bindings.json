@@ -1,0 +1,3474 @@
+[
+  {
+    "cardId": "C1-001",
+    "representative": "C1-001",
+    "gameId": "PK_10_021780_00",
+    "mechanicId": "PK_021780",
+    "sourceImageSha256": {
+      "en": "2a0d5cd7dc0539b4fb087751dd9d76a7e2aaa9399fd105207ed8c65fc0e4a724",
+      "fr": "517ea6a5d9245df88fb6a37acfa6a84b6c47b91ef2ec4848eb40df041c702839",
+      "es": "02a967773e28898f9f2510aa8ee9268d4b90075a01882b726fda2cc8d362203f",
+      "it": "341de618ac5ceac4ea2605cbd489993e31fa5f5d78cbc2fafd4bf1597b343c02",
+      "de": "eb26e728f2aefcf98ffc06a3c32bc452f518d5882a02f1ca545aa38c0d87190a",
+      "pt-br": "b75d37cf4fd21c7be821b0b4cc74a452ab2826996608c0a5ea5644b73947e3c6",
+      "zh-tw": "9852085dc37782d3a1db619620d3440589fe8e4dc79b01d537ee8a42e620004a"
+    },
+    "reviewSha256": "1e37b0ecb707640e3d5ff557755397f705327cded6105acf70ddd219e352a89d"
+  },
+  {
+    "cardId": "C1-002",
+    "representative": "C1-002",
+    "gameId": "PK_10_021790_00",
+    "mechanicId": "PK_021790",
+    "sourceImageSha256": {
+      "en": "99e0f979b666915c1df3422a509cf8bda356b6254e2ea2144f1f357d25cd081e",
+      "fr": "5db41d5c2cc25ae5b84b78fdfbd7f3b8ce9ea159544ccd50eb54aa86e4e16903",
+      "es": "e227b004abb5e1566b018724a0daf5dccadaf031488da3499642ae8ce87949ad",
+      "it": "4dd9c6fb8eac0a2391102027329a8bd5a00ffb9a423f814b52a8fdf0ff2c371d",
+      "de": "885407c6278a99c6358ad13c961d49990f102b6e10fdd8e942ebaed51d9bbd22",
+      "pt-br": "776b6cb8759549735fac0ccb1a6a71c0c72ae66e3f63836ff7d74c396172017a",
+      "zh-tw": "06e36f556bd210c9d807a098752319490a458093472e466318d274642a4fd30b"
+    },
+    "reviewSha256": "12c4d19cef941cd7bb22f3836a050a069aa2b8ae048481fceafd4e161f5be26f"
+  },
+  {
+    "cardId": "C1-003",
+    "representative": "C1-003",
+    "gameId": "PK_10_021800_00",
+    "mechanicId": "PK_021800",
+    "sourceImageSha256": {
+      "en": "2788404a1e1a8bd9ba5fe30531c874ab93a4ce14f57fd098354138d992d35840",
+      "fr": "5fdeccb595e6badbd6ed76173616cf37a93dc56301fdb4974f277ea5149c9219",
+      "es": "a0773f5631eed1bf2e88744e31faf7e9df4c866b40ad299d1bc8922333a7520d",
+      "it": "0c6b40da76cf51e46747d86dceb485ac728705a3410505fc8267d382369bbea0",
+      "de": "7cc4a6201c095ec901306d829fe0d32df0d0f6869cd3b2357e7482858f0271f3",
+      "pt-br": "db94d2342b77c808e1e0fc139a72eca568ab16b59bf60960a1e8ca7af799f8e4",
+      "zh-tw": "ebaf6c65984289283030beda74c9c63428e2aa886f1d6724880281de58288431"
+    },
+    "reviewSha256": "c4f592a209fc120f499a1d56339ac2e0f3b8674e5fd8fd4226e8d215de7835fd"
+  },
+  {
+    "cardId": "C1-004",
+    "representative": "C1-004",
+    "gameId": "PK_10_021810_00",
+    "mechanicId": "PK_021810",
+    "sourceImageSha256": {
+      "en": "1127faa6fb3add10ac24a7cd98c7a706f64572108defda7eda0733daba260767",
+      "fr": "04ecd14baba5ab15c90df0ec4e44db02a82aa5be2d8d43c03fc8aa1c14e05d4a",
+      "es": "56a18126c956a201ee69217d62130cce74098dad7ffee9223e52fae39b0d3111",
+      "it": "b1aff86c744aa771d689b969de2e7c54fc7c7a4c7ec12212476089ae0501557b",
+      "de": "2e6513082f852ec3bd4765cd9836e31e3360ee874c723e190d5c481b06411ea3",
+      "pt-br": "f4f2005951f3f015a8e5ab107f1bd918345e14c7c00ee555679921e238a0cc97",
+      "zh-tw": "14c87f616045f09d9c37158d2845f4b002021d8f8aa17468d05ed6adff9984a5"
+    },
+    "reviewSha256": "f9562ef24d8a243468e9516828cf2b58c3c7d970050314b3b1fdb96861e9054d"
+  },
+  {
+    "cardId": "C1-005",
+    "representative": "C1-005",
+    "gameId": "PK_10_021820_00",
+    "mechanicId": "PK_021820",
+    "sourceImageSha256": {
+      "en": "d6adb3758d23c0bb2bc8a333f1050f22e63ad7b46b9437b87e0e796bf226a751",
+      "fr": "262965fec5bef8fe08fc9657ffa8bec05cc0def27367377862c84404bc480f15",
+      "es": "c18bdac81d155b038abc32979249ee626c1ee024dbdf081ffa58b6bd4b74f1ef",
+      "it": "8d42db70b68baf3e2819d3dd9be421d6390cdc4879564d77212c68748762bd18",
+      "de": "1ab600b76a69c4ff2cbffb565e6ce60d881e5eb90fbc39e4a138e0cbb25f58ea",
+      "pt-br": "54811a790b8a73ddd3ad6305fdae7b4c217743696d29da00918beab8ed172573",
+      "zh-tw": "71af3e63e6a61ae5d781ee1cadd137aa2f8ae9d1df80746c5482162f96cb624b"
+    },
+    "reviewSha256": "23ec3829583c8b7612625c50dccdf253b60bfac2d5debb95a85feadb3d2cd9d6"
+  },
+  {
+    "cardId": "C1-006",
+    "representative": "C1-006",
+    "gameId": "PK_10_021830_00",
+    "mechanicId": "PK_021830",
+    "sourceImageSha256": {
+      "en": "b0bdba471a131e84d60a19123592a3e230904aa6ed2b44ff6412568abe1ed14a",
+      "fr": "e1b9a6abee0f1b690274bb696ec9f64aca0e070ccdec8ed14de5d86859317f27",
+      "es": "bd9eda6ca3f260c5cdead23baeb4d5e6473bcde07b001a4cc0aa7fcd3f4d8f72",
+      "it": "8b51401a6a5553dc0ead8ef83a41764adb68dc84eae0cba4058bc00065d00565",
+      "de": "47da3108f01b1df1230cee7d8aef0e09a0161ef98f7280fd336d937c643dfb07",
+      "pt-br": "8153e1bd16ffae45d036d81e866bcb568a9a2714a0118c60de59752d60af8842",
+      "zh-tw": "f2cbbb497a9bbd6d7f88f6324bbf4286272f18fe4e00f9e170f6fcd9e854483a"
+    },
+    "reviewSha256": "d771fdc02331a79186e21ae4e094cb6d33678c20835dbc34530cf393b39a76ee"
+  },
+  {
+    "cardId": "C1-007",
+    "representative": "C1-007",
+    "gameId": "PK_10_021840_00",
+    "mechanicId": "PK_021840",
+    "sourceImageSha256": {
+      "en": "d9766aec13262a7854ac0fefc49c5b9487f487e7c58b4eb608a674158b16576d",
+      "fr": "87a4edeff100cac059efe5a8f4ff9a38326c92cb31f4bbf4dd37c96e89281329",
+      "es": "b2657bccde9c9d95eb66cb6ca84494c4b0195f9a316a55736f383f870bfc864b",
+      "it": "7ea9cff010d908c8ab1c20f21c6cded05bc2bb5e7c2fd0cc5b7609d63f16cfd8",
+      "de": "0e2fa459ebb53aa0621b46761dec5d9cc4ec6c5d612e9211b680ec3b1b9704f8",
+      "pt-br": "2c5b8844e3e4f2999bee23c8dec3a601cf9944924a6fbca79cf0a2ff06fd20c5",
+      "zh-tw": "53512584d338331b9bf1488fc46d5b804b61e0335958ce3784c4cf2e73224af8"
+    },
+    "reviewSha256": "998fef40b785062b76d0d967779ef647e3733ec5395209ea367024dc995354e9"
+  },
+  {
+    "cardId": "C1-008",
+    "representative": "C1-008",
+    "gameId": "PK_10_021850_00",
+    "mechanicId": "PK_021850",
+    "sourceImageSha256": {
+      "en": "67f4b950944942b37b6d502a61392b31c1d186065296db9a7868633daae70060",
+      "fr": "4bdd539742db29241ee1b504508e766a41e9132ac425da221178bfee64ef2c6b",
+      "es": "442971105a90ec07f58014b84dd001931877e388c3d5cb596a9e8eaf447ef498",
+      "it": "76441dca9a0a4c54a73dce3ca214a2d732595a0d999c31ce15b476325e3cef3d",
+      "de": "6783183458150d2b8facd06fe4a2d410b3e5c1f5951fb0fd5124df1092464138",
+      "pt-br": "b3714b9f0f683d2333d2a3966ef171c0073b01be0ecb07a0d045af0454a13bec",
+      "zh-tw": "1260aaa26f44fd5e2898de1d4525bbed7a5cde4d2b043db0eee6321a23fba4e8"
+    },
+    "reviewSha256": "710d030c1e3ccd64d66d5b8ae01944e0250d20a8db1d69614a8a515f32524014"
+  },
+  {
+    "cardId": "C1-009",
+    "representative": "C1-009",
+    "gameId": "PK_10_021860_00",
+    "mechanicId": "PK_021860",
+    "sourceImageSha256": {
+      "en": "209f8815bc6d9f9f0ef49228df3f62fb1b9db74e71ce0ec43e22104df19495fd",
+      "fr": "6e3852d06961137c17b6f09a63b463de5e11f795508236b18cea2b00c3d70d36",
+      "es": "1229178bb0dadfc834ec2281e7a0df285b694c0ed40bf8b519c898c11a594404",
+      "it": "88b6a8b1d2532493cddfa76a27f95b60817fcdf3077675b089a6505061ecacd6",
+      "de": "438b14218a195a5bef2373b94efefc6b40a753851c54c127c105737039fed81f",
+      "pt-br": "960d56d981fe0f7e4dc43198a2dac50a875290f8f5d653e89b7ca8abb1cd061b",
+      "zh-tw": "c07da718d9b6e60daa6a96b0757d1406ca1ef4541d4e5b03f35a71b10e8b6dcd"
+    },
+    "reviewSha256": "7980daaadd1c89ebf4f9c54908d4fd60b4266e7abd74d8d6151bba90918519b1"
+  },
+  {
+    "cardId": "C1-010",
+    "representative": "C1-010",
+    "gameId": "PK_10_021870_00",
+    "mechanicId": "PK_021870",
+    "sourceImageSha256": {
+      "en": "c601eb85404a189d6c38f24592a7011df7a3b32de0a02b6b2c070e66f46102fd",
+      "fr": "14eea593c5376867c737847f3679515c4354c82b16598abcb6d28a14df831f89",
+      "es": "a40a977e08b464ca18cbdcd4ed5c4fab28c0094e121991262ebfa824f84c19a0",
+      "it": "7e6e32717886d2047f12e8d7131548a753565fcf3eea1f8c800870cf881a02f8",
+      "de": "1c65f99a1917ed8b4f63ecc3530883b7de7242659ee99cec2c071b4d229698d0",
+      "pt-br": "6ec70779253d958071898fe96b8ccaa88144b46a24fe7350644b591ece274d52",
+      "zh-tw": "4d4ebcaeba97a8b846fec996280ba4477edf48ad48de113b77f5cd39cd2e41af"
+    },
+    "reviewSha256": "fdb83b3786270d4d0d266b224c1f95c3b7570c78de0c41bd7008e409865b5180"
+  },
+  {
+    "cardId": "C1-011",
+    "representative": "C1-011",
+    "gameId": "PK_10_021880_00",
+    "mechanicId": "PK_021880",
+    "sourceImageSha256": {
+      "en": "b86a52474ac6ac77423e23721504e167acbb2adf10b08f7cb7b6f3b87e1b78ae",
+      "fr": "949ad8ef630cddb2aef857634e072dd293c3bc03e0ed69ec10e1a4c9f5b934fa",
+      "es": "681715b6b516e0674ae5e405fbf0c1727304f3a5544c984185ba48792939b88f",
+      "it": "83d638df724523d2ad743de85ff39a6798db20ef63fcb8da7f09e92de0c5afcd",
+      "de": "dc791df3b41325974a017db6f94bb19bf79a425cbab60b5a0ef36160b5bebd64",
+      "pt-br": "8b4191c3ef1fe7715285f739d7102013ad3692a6f9b0dff3286ee707b4f26952",
+      "zh-tw": "40210e2c8513a53d0765580de5b79b4510dbf128a0e6a34ce0235cd73fa99117"
+    },
+    "reviewSha256": "d87cfae3228bdb9c2131a695c6522ec8080edb72841b3187199bc2176fa8d75e"
+  },
+  {
+    "cardId": "C1-012",
+    "representative": "C1-012",
+    "gameId": "PK_10_021890_00",
+    "mechanicId": "PK_021890",
+    "sourceImageSha256": {
+      "en": "53d27a31fc7f69bb7bc86e43b8c27b016cfeeb7a16ed846664c0ce84466412cb",
+      "fr": "89581cb3aea6a806741ba41eeb7835c3a069a00eb2f4fc47d98dd9a38cf17cfc",
+      "es": "2db0b4a517e31af2f1286b23f04183d22c3eeea5e81d86cae8849c8c5ac300b9",
+      "it": "34b6e8853d727d333eb9ff3f5f7725c395466728ec4c5bb9ec55d96ab0f06760",
+      "de": "98257515453dfdcbb21830edfe67af1a226cf808679857a2fe11f27cf32c522c",
+      "pt-br": "268cd2690359867ccfde8df9a0552f7c422fa8787aebab0721a63bdc07f1bc5b",
+      "zh-tw": "2d8dd18830a68827b149ed968c63a7935e23104e04941d092910b61eb2d8687e"
+    },
+    "reviewSha256": "a68614494a3638059005a2ef34095835ce01a3bd8d2e92bffc1c2bc7cc5cfccc"
+  },
+  {
+    "cardId": "C1-013",
+    "representative": "C1-013",
+    "gameId": "PK_10_021900_00",
+    "mechanicId": "PK_021900",
+    "sourceImageSha256": {
+      "en": "005742493ba4617632fb074b2fbd5cbefb307ac6f9bad90167627b202d1d429d",
+      "fr": "837cf939739ddd4ddb39bceb79640992bbb6d3b18baa2ed7bfb89ed60a426f15",
+      "es": "7b07b0f01b3b148471aebdec0c2b71d5af7370ac8c46262f0587574aec142e90",
+      "it": "b9534091c1c68846bb9b70ff8f24987d993783b368b0a823195b8f9d7fe39e03",
+      "de": "dcd92b4de44d9ca3777a505ecc6c6b58ef909044ae9cb8167a28b5227421e322",
+      "pt-br": "b6a47a4580b404b07a28bd931b271b46522e5e89b6b688e6a492eab23637106d",
+      "zh-tw": "b5276dae2fdbf6c8278bb7b92b2ff3dd9c9c5aa7923d3014e8e6e430ea67530b"
+    },
+    "reviewSha256": "2b95bee302b8afede1445166812a45383cac2016ceba37851ed97fee217f5665"
+  },
+  {
+    "cardId": "C1-014",
+    "representative": "C1-014",
+    "gameId": "PK_10_021910_00",
+    "mechanicId": "PK_021910",
+    "sourceImageSha256": {
+      "en": "2039b1cda0f65929f7c4374e8c65ed23b322bc001d447ef908aa17a7e3193757",
+      "fr": "3532883f29a721b02b91567a6d1a7e8ec775d269a8f4a091b114e807ef9b7502",
+      "es": "2ce831a8feddcdc132624916373831761489b53407f008d4327465eedb52d6c8",
+      "it": "afb295267de6b5e377f5d2a90f0da80eb1718752486a69b8a18e25c1e01fc7e7",
+      "de": "c906d30dab234f34c9cb846e0a719b6c368522bf897fdab4a46c8131eed11671",
+      "pt-br": "42775af89a8ac5abd18466abb042893c7bc48c32edb0344af7495664829d2e66",
+      "zh-tw": "0dc74f1084d716d7b92e2e7bf2f045b8e4b9658a24dbecd6cdb436e7fac9c469"
+    },
+    "reviewSha256": "16787da9d883361ccfeb35b8acf35c9ed9cf96ce56e9b0ad8173bc2c6a402206"
+  },
+  {
+    "cardId": "C1-015",
+    "representative": "C1-015",
+    "gameId": "PK_10_021920_00",
+    "mechanicId": "PK_021920",
+    "sourceImageSha256": {
+      "en": "20fc8dabd220e5ab4766aaa3bdcd670c597380cef360590c91eac7b17da653b2",
+      "fr": "337db684270e9fcdea8313b871f2dec824994b5463b3098df7919d1e5f2a8ebc",
+      "es": "0213530f2063ad0c5397534855309147be0d1e611f235663188998d1115327fe",
+      "it": "80a7cf7c72ed482a3da52908e2bdfabbd358d07988f59b6528bf0df9b42ee3fe",
+      "de": "71470e8f16ac3323af51fff6853f2029617b53dcb17e40af816d865f69e092ff",
+      "pt-br": "0ff1046a70bc7b2058a9c8a48856340d5eaba57debc43c0394aa86f33fc4f774",
+      "zh-tw": "ddd3191707c51f28869cc31d7522b2063a850b354a6cd3c1c466cf51c78dc1b3"
+    },
+    "reviewSha256": "a96c3f966edeebbb209ab8ce12e532b39d8c61d2c10b2837b23f64c600e6999d"
+  },
+  {
+    "cardId": "C1-016",
+    "representative": "C1-016",
+    "gameId": "PK_10_021930_00",
+    "mechanicId": "PK_021930",
+    "sourceImageSha256": {
+      "en": "644fd50fb43e6eb45c89aa49ec5e5d2ba4b1c12665b52f1ab57c944b45e49b2f",
+      "fr": "7d7903d9041c62172855944ff1e4ef0dd18d51809b35c8f72460ffa5ddf8ff1a",
+      "es": "34848b362cbc1773ea23d7311c2a4f1d1b13db415c4ae4afe1f691a56960fbad",
+      "it": "cdb365a803e909ee705d5eca3964c1401ffefff281866aba709bc5cde588c7f8",
+      "de": "3eeaf3aea4f60e70d7be1a21c453176aeb9a8d7b2b4e4b24938d052cc32b6243",
+      "pt-br": "31a7efc182178940ce6064c190e8023a7ce65f1cca374da0ef701523cc3810ab",
+      "zh-tw": "5bd1cd1de02ac47210849a8055866c97e76a644bc10b0a681df05af414ff3ba1"
+    },
+    "reviewSha256": "95f3540400a3191a2a2cc421ecadd432a5920e1a02d77c1178934ffa0f811bd2"
+  },
+  {
+    "cardId": "C1-017",
+    "representative": "C1-017",
+    "gameId": "PK_10_021940_00",
+    "mechanicId": "PK_021940",
+    "sourceImageSha256": {
+      "en": "a078e2849c5d782234a6d8d3d7e9d4e6630dd299a3e85dbed647fbb2872481ee",
+      "fr": "e82af308f41ccd0f853952d71bed3e437ad8401456f887b4a939aea933639561",
+      "es": "2657f2ac7bdc662dee0a7464359001366c361fa75c860685bfe89624caa52fde",
+      "it": "907541997eee7c9f4fa501b4ec93550117376f769531e46dbdf669d6642f32a3",
+      "de": "3d730d29592f9951e21ecf76eeb49800f85d4e0a07c120e0c70782f1dc372a61",
+      "pt-br": "549436ca7f84ba357cec8044b91cfa5d83d12176d8c7c5bd58818d86473390e8",
+      "zh-tw": "6d77d8e6bb75d4cacd76f27c9e79d1f41609e6fe38187daf9b662000a1e05f88"
+    },
+    "reviewSha256": "22a38bdfca1ba4e2124419eacffeb00a3e775449ca9cf957a21ddf319be8bac8"
+  },
+  {
+    "cardId": "C1-018",
+    "representative": "C1-018",
+    "gameId": "PK_10_021950_00",
+    "mechanicId": "PK_021950",
+    "sourceImageSha256": {
+      "en": "3429e6b8b762031ea076b2dfcbe86043fb82db06d919ffad9f99ef09b293934c",
+      "fr": "28d3abb210f73f1ac39e6b485b9ddd11b61a4750c09722e802aab97539d99276",
+      "es": "6816bd0cd38158defcd68374d087c65269eeb4287619c707818f2a4e93fec67c",
+      "it": "a106ef6cc9b2bf2072b3876a6f4926835984ded68cc97a0a1413463cf49c80de",
+      "de": "52cc7aec159fc608f4f424e13b4ffb4b9529f859b7efdf6da4d7bd6330ea320f",
+      "pt-br": "ea1c3c6ed1890e99077bc77d3048b7c28de89d50a459dde7dbd300c033d0f8a1",
+      "zh-tw": "6075daebf94d1f57a4233122d3faada7edc8d52ec8ab695310c91bcfee67bb75"
+    },
+    "reviewSha256": "c3f872912c1208d4ffb8d78285740f132b84ff0f45801ff2b704233171149fb1"
+  },
+  {
+    "cardId": "C1-019",
+    "representative": "C1-019",
+    "gameId": "PK_10_021960_00",
+    "mechanicId": "PK_021960",
+    "sourceImageSha256": {
+      "en": "38f09f8cc9d26aca9552c26d88b83af3ca74c584715e3982f819b3a7aec06f8f",
+      "fr": "5656f396e9f307b3138563c28ded2d615aaab243d33d4d1f6d3e83ac5ec7d9a6",
+      "es": "aaf2e6784dc48a7768fdc58e622a651538df5b33c8c45e20dcf63a5c6b2121e1",
+      "it": "c650687fdd06e08751cbc096a3b275d6000364e7e9bab019bba1d9f9fd0bd189",
+      "de": "b46e13f60cbf5d55b0ec374c12aac5faaaeda7aa2691c0dec494665dcb036243",
+      "pt-br": "a3e4ca7c37dee4b6e0fcad64ab78242a7bfbf38db8efca7bfcef69d6736f7cd7",
+      "zh-tw": "2aea5928631080ac61190e9d70c77706c93e9ea29e9ecda668c5e2adcf89f1c7"
+    },
+    "reviewSha256": "95589f597c6f2e773199b02168ef42c770e523eb92020317f5e05afd82be41bd"
+  },
+  {
+    "cardId": "C1-020",
+    "representative": "C1-020",
+    "gameId": "PK_10_021970_00",
+    "mechanicId": "PK_021970",
+    "sourceImageSha256": {
+      "en": "94897163027ebb4f011519e5b39f62d80300124ab19f1d798c6a7aa5c0d161af",
+      "fr": "e866d8498975bd2a1d7164e5c02356025997a1c70897af452249ea96910dc63c",
+      "es": "b14c62995e53025f43d45e473db4f40115076840062c532fe2ba458f03ac9842",
+      "it": "0f918e7b1b1971df8732f34266a6ff740e9c293887cec0fd3581125d7616cc23",
+      "de": "205188a799744282de7e2a4aa9f99d9c7c896396ae5e119ddb928dd418e78c58",
+      "pt-br": "d1a4c8eda56b0c98c219d98576be02d8015b78929c210bba7a4843e182c2e7d8",
+      "zh-tw": "409da763690cb9c36b6f0faf1b1560f9b0924f705181b725e01916f5ea493b35"
+    },
+    "reviewSha256": "56e2e50fa0d88d519012d4d2041829aea9b5e0d9f33173faa9f9de13681c3e39"
+  },
+  {
+    "cardId": "C1-021",
+    "representative": "C1-021",
+    "gameId": "PK_10_021980_00",
+    "mechanicId": "PK_021980",
+    "sourceImageSha256": {
+      "en": "e5ee493462ae83a686d2676d9ada6f07c524ca5cbe8be5779e857eeeb885379e",
+      "fr": "ad04218d6f2d729dc4592e3b1e3b3daa1e3b0cbd3647d02389547c82d52baf75",
+      "es": "036ac30ea19f522dcb407246e9011b3cdafb6378741d740ae63e7e998b39fb44",
+      "it": "5decffcc8991f56c9342a4333e2705b3a762a38b5f508bf198a5d349a5c3ec24",
+      "de": "075b361be6f399c2e5b74678d831a48aba6343a9c46eccae683115a50bf0aa64",
+      "pt-br": "868eca6470ee5bcce20df5deb8e2dceee1aa772ddb8f8688c74234f7418efd16",
+      "zh-tw": "c2a910dfc0c3d95c4a2541a105f7486c9f6a92be7920431af57d546534d06dfc"
+    },
+    "reviewSha256": "9cfc03802f6b2149d0b04a79ea40d7c3d63d76c83caa01baf302f88e9439b685"
+  },
+  {
+    "cardId": "C1-022",
+    "representative": "C1-022",
+    "gameId": "PK_10_021990_00",
+    "mechanicId": "PK_021990",
+    "sourceImageSha256": {
+      "en": "02d4073c34106f0e0887794db85411d0ba0048e27c99de1c23a2e30eb763405b",
+      "fr": "18caf98a9f88f546e427d9cd4189c5e73264aef98252d228fbd152a3e76b2111",
+      "es": "cd63d5911cb459ae107ed341e117ca75ca86b8411b7d5a97f81193f083790dcf",
+      "it": "c982f1612b99113cde626761796bb7371cd6f269e6fe4cde1e84884d73525aa0",
+      "de": "3811dbac55ef9c188157941c3f4e6b393f126b091cd0fdea2237bef563231e52",
+      "pt-br": "ff2ae66c7bb38c28cc69fc7ea6f87f74b4fb05313ab4b6c15e5a2d062287b217",
+      "zh-tw": "f1eb8fffc3f42bb5a81fd3ec361798a1a1953fb9476e7ee24b25a9143494f199"
+    },
+    "reviewSha256": "8dbeb15e880e46f661256b51e5ec90fd23334f3c50fa492447c3f7b3d71bb21d"
+  },
+  {
+    "cardId": "C1-023",
+    "representative": "C1-023",
+    "gameId": "PK_10_022000_00",
+    "mechanicId": "PK_022000",
+    "sourceImageSha256": {
+      "en": "40dfe363fac3f788a14ee273d6d96302601065849784b027ae76d45e74cdd6bf",
+      "fr": "8d6c056ac8a6edf16a006a7c71422a2ce9015f7d6fb3c36f5359bedc1eeab733",
+      "es": "31af743019d58db671567ce469c2f42a4ecd6e5bd1ffdbd0d10d81dc0c503f83",
+      "it": "d47869e4a9277ec4da4f24206caa926d2fa500655dbc50d21bab50bba61993a9",
+      "de": "0f4cbd44927ad33456f9104a5bfcf5fdcbf0e0d4542d40b82a127fdac7e81dff",
+      "pt-br": "ca17409a81d2c7e9dcd652a8db9c88d6e5a0b121d648b2a7acb07b15a1fabde7",
+      "zh-tw": "dc1e6cb49bbf92418ca2c49a936185ef6c5847d60351c23f936f5b868d996425"
+    },
+    "reviewSha256": "d536ff75f5e4a242a3ed0bb778533534b781431b20fa3526cb800982521a0a2d"
+  },
+  {
+    "cardId": "C1-024",
+    "representative": "C1-024",
+    "gameId": "PK_10_022010_00",
+    "mechanicId": "PK_022010",
+    "sourceImageSha256": {
+      "en": "da4ff60cea043e5cfaee1f06b14483ae21418663324f7ab66fa59694aed47598",
+      "fr": "9d9163628b1b329c368abed2664a81aeaf9f25fe314514261a2574b1ba16c05c",
+      "es": "702d02e722dc635005986ccc9dd048433d56b9ec44d3e571c08e77cfc6dd0ed4",
+      "it": "993cf0f95718c75a7ab8638cfff6c7e9ecb97667211d0827e25b99dead5e16bd",
+      "de": "1ce735ef3030e937da88801a968fb4ffafb7b060b5e8a3d965d72b677db3c655",
+      "pt-br": "58192fb153d077fd53f5b5f379585a6a5ab1f1ebf93682fcafb1e3deada41a9f",
+      "zh-tw": "741e813b8b1dd639d970ef6fb23ab78078336ea2b85df2ae2921f55bd00686ac"
+    },
+    "reviewSha256": "34c08af030ebc4a0015179a17d93950458d6d0b26e416db35e14fa009c17a277"
+  },
+  {
+    "cardId": "C1-025",
+    "representative": "C1-025",
+    "gameId": "PK_10_022020_00",
+    "mechanicId": "PK_022020",
+    "sourceImageSha256": {
+      "en": "e9d3cbfe8ed2b3526dc6374f030725358e129ec8d88a3e97b03bd505b5dad223",
+      "fr": "17b1c6bd490668ceb135278fe5a979c79bd241d4c1003ed5c118c1acbcb74347",
+      "es": "6c8441ec2be9f7d3aeef934c1d3dc727bd6e6362852373b930c5aa1a6c49cca6",
+      "it": "2b37de07a2fdfa2c65cc3c0f977ef2fb52fc5a656506b00c79989aa22f6b398f",
+      "de": "db4ba595d1ae6b1bdae1a92ac0f736de42ed21ddb7ecfd2c03bb7e3a84a5c9a8",
+      "pt-br": "cd5a6d21afbf9009e7d484e96105b2b9484f867d8d8c031035e4dab54e70a0a5",
+      "zh-tw": "39292744e2cb01c0d323be43c975133fa4bc164f5528e9d1cf5968e0084206a9"
+    },
+    "reviewSha256": "4ee68be426c06c4019b5dec2f0a31cc6fe3cf76ea933c951b5764ddad016c031"
+  },
+  {
+    "cardId": "C1-026",
+    "representative": "C1-026",
+    "gameId": "PK_10_022030_00",
+    "mechanicId": "PK_022030",
+    "sourceImageSha256": {
+      "en": "89ff292babbc818b35db2941edf0751003d228d2bcbc4b465e9a59f1ee65ae7d",
+      "fr": "c70913148ad99f04a6faec74bdaa7e7c80ad5d6c10916e1a19b32df08bc4ff1b",
+      "es": "e8337b5ed4bc815da56f3d5e90ee0059f2320901c2875afa365848ce5e3355ba",
+      "it": "d5c8f1af2f5f1c019a1963674cbd8ef56f8b63f914b97c32e60848e3eb57ad49",
+      "de": "d483fe781fe1405ad304de87f0aba508fd9ab04680d7f8d24fe4ad47b7e30f25",
+      "pt-br": "5f3a0c36ba68ed6e9304e244458bb4f73c4c31979346daaf8337de511b0c93e4",
+      "zh-tw": "acc1a862904ccfb7c0a7f05e5f2b76d754f29d3db9bd61419e09e41b903199df"
+    },
+    "reviewSha256": "a96c2ce977797102f3f600dbe181f9a94bc70f2a4f2fcdfb57c7f31738b085ca"
+  },
+  {
+    "cardId": "C1-027",
+    "representative": "C1-027",
+    "gameId": "PK_10_022040_00",
+    "mechanicId": "PK_022040",
+    "sourceImageSha256": {
+      "en": "6287e41807fe62f10d199f026db6dd369e362ef24156014a375a7c7a5fd5afca",
+      "fr": "db03939cef59cdfe45193ee61fc5256bc3a9371fddb8d0018103a7f949cd6913",
+      "es": "828e7f72445a32ec386cf6158de005d4be38ff4998cdd8223002e5b619c8c2df",
+      "it": "02e509ecd930f2445b5a40dc921927dc5980494192808e5972e7aff394543bff",
+      "de": "5a14149cc377d66fb3dd97bd33f25b14d8f7ce45669120628571e57e19b1836f",
+      "pt-br": "76baa6c4edf7448ba29af3f372a4bfa8bbe5b79ce250a83b0796c6f0a2c54148",
+      "zh-tw": "d27462f7b8967e0db9fab8d89cf93661e5e1ea5e415c7357d8ce4a1b7fb64645"
+    },
+    "reviewSha256": "d3259bfc91669b107c5dd9500ad57583347d7f087da35ac0aeeb880c668333d8"
+  },
+  {
+    "cardId": "C1-028",
+    "representative": "C1-028",
+    "gameId": "PK_10_022050_00",
+    "mechanicId": "PK_022050",
+    "sourceImageSha256": {
+      "en": "5b7cb0554f47383c369bc4da593fb2451868a7483519806988440b13d53583ca",
+      "fr": "3492905f0e9b5fae35b082078faf2988f5828827519fcdfcd32575902d0a4cbd",
+      "es": "ddaf5a159a57b34712d0eb7d252fd3a3965efa3ef17f1d8d4c3292f1181b2c79",
+      "it": "9aa47afbabf095716ce722c6ab6596842545c5ad7885279373eff161ae88a057",
+      "de": "aa518dfba503727a0427033ead7036b4ffa3b21ae75b1d854a853cc67a9a642b",
+      "pt-br": "4f3c1b4de46ea5983868874d4176fdb53037796b226b0d635bafc5b65ee48760",
+      "zh-tw": "1ff3762345c6a0a9adf11ec0cd695cf75f8d57cb9948ac1359b22eee21f60450"
+    },
+    "reviewSha256": "30a8e23ecfac84d48ef6f759937f536bc1bc73386bf912b858761987c310d017"
+  },
+  {
+    "cardId": "C1-029",
+    "representative": "C1-029",
+    "gameId": "PK_10_022060_00",
+    "mechanicId": "PK_022060",
+    "sourceImageSha256": {
+      "en": "f73dbb2a7e41c32b671642ff7130a3732bce1c529fbae8c874349cb0ea331f3e",
+      "fr": "eed48f7f9581570ce001a2c637f7a5bc30c0cc2c1725b8b0ca1d07f273cd7417",
+      "es": "79feac34abfd9e509625774f32f153e7fb3b8c69c6c34b7be4de38e3fe1e3e9e",
+      "it": "1f3b8d316f7e41a7ee6e2e96e834ab88d9a7e16577645ce2ac40574245ce8eea",
+      "de": "15b84fd4d04cd025b2e3b043aedb7fa21e1303eed298e10f8bfe5510cf7bc415",
+      "pt-br": "3d88522b4223e44d07aa5d806d4c0adc47c15b66db82d73e6374e59d4c294ca0",
+      "zh-tw": "486d7ccaa50b42c8d7ab5d92f2fdd0df0ab757fc401059d639bed608ba083a09"
+    },
+    "reviewSha256": "0b369bfe4eaf950abcf43f31477db7eaec6fb81b4b59be86aebf5f0bcaf158dc"
+  },
+  {
+    "cardId": "C1-030",
+    "representative": "C1-030",
+    "gameId": "PK_10_022070_00",
+    "mechanicId": "PK_022070",
+    "sourceImageSha256": {
+      "en": "0d41627901a168239f684663545900689b6f5c739ef85dff7a68144ccd21a7b6",
+      "fr": "6b4bc4a1da6341ad34fc2d24fb67fa9c4e1328b7ac588d548636cf2bf6bf62b6",
+      "es": "a2aa7d7b5a9892fe2c0874f81ddc772e96e0b1f25f6e40e8b90e7179f5095770",
+      "it": "9bfd078449f74a983ea18351e3deae7b3602756b2126b20164748179d2ad5168",
+      "de": "422ea6dfd9992dda9c2e375ace4f02f759767df703e5540ac20970bb0d2e10e8",
+      "pt-br": "792ed07546dccbc5c152116f7a436c9795fc95813a4a6b7b2dd644d3a709ce3e",
+      "zh-tw": "76e72e8d6e1fb3f7e2b4065dc36e4a2da7a65fe112679e9390ae26e05c258782"
+    },
+    "reviewSha256": "ea777706a045f26da9b795110c6739fd812d7d4aa28e91a17aa682129cdbd654"
+  },
+  {
+    "cardId": "C1-031",
+    "representative": "C1-031",
+    "gameId": "PK_10_022080_00",
+    "mechanicId": "PK_022080",
+    "sourceImageSha256": {
+      "en": "935cd14879530cd29667e07bc5bafc6d9a25bfd7a85b1d0c901f08d49402fac9",
+      "fr": "edeb797637c91099bf3d1ea4e6f69dd0c4b776aa0050af96f905b16630240326",
+      "es": "a4a911f669f6d567702b46d330ef99e9576ad9d57634b8ab8f0387b8eb0258bf",
+      "it": "187b085df7a7987a022422326d43583bc7bc1e5ebc805fd4fe2389017dc9aa88",
+      "de": "6e43942a5f4c68f0f28e5d4792b750c9809df2387da6a67cea1fbea9d96cb9f9",
+      "pt-br": "0a9442b261f2f2188fccd92311d7fb9a042603ac6c396a3d1a4a8befa7e57896",
+      "zh-tw": "2abe9d1b5c1108f24f51936347e630c9d82998931c7b0b9fe3160c989d00c458"
+    },
+    "reviewSha256": "ceb3e57b2e6944712c8820fe53c95634ea565b47c2efb3c8cb44f3deee426b03"
+  },
+  {
+    "cardId": "C1-032",
+    "representative": "C1-032",
+    "gameId": "PK_10_022090_00",
+    "mechanicId": "PK_022090",
+    "sourceImageSha256": {
+      "en": "ead99378213dd6979e4ec0d93034c9ba81f6813f6693b89fbb4281b55fdf629c",
+      "fr": "555fd1132c8a369f0b2ba563a52191f475226afc1bff56fcda5e4048b275c9d3",
+      "es": "b7816517c2339439c2d7a7fdc393bfc6db284da5330e9ec6103b79a841c8c6b2",
+      "it": "391e2d1ebb36b420fae6dc1f92d46145065c71de23a7973cad1a1e633933a4f6",
+      "de": "d1cc746f6d611a69ab40e2afcc66725d5c8184f766be6e9c8eb3e27405b86206",
+      "pt-br": "ef7162950a438bff9ad995a8e06656fc87872242ea7790c05380e19295593d1c",
+      "zh-tw": "0e8a9cff82840c33530c71f158a88aeb2280bba715907926452ddb6b379396fb"
+    },
+    "reviewSha256": "f3a31bbc15b5d4b461da5802b57083410017ec7e3d0932edc011cd079d60d918"
+  },
+  {
+    "cardId": "C1-033",
+    "representative": "C1-033",
+    "gameId": "PK_10_022100_00",
+    "mechanicId": "PK_022100",
+    "sourceImageSha256": {
+      "en": "425c3c7e9c14e303ed41ef1a5b0bcbe7126f4fa6b7ea2c3c61d21410abd147eb",
+      "fr": "e6514da086d41e6d391d9bd1033600bf569a5e7408761bf44330fa62d4c35da1",
+      "es": "31b5925891b89b1f4824f2300bca87063a49744ce2b72c9bfa7bc1377acade34",
+      "it": "3bcca07350b6e94f69f78ac78a46bf5cb5f49529e59f85f041ec685cab1ec7e3",
+      "de": "76f7b191757363b330055a99d4e25455f91e0d3a509d53a171fbf9a6c179742a",
+      "pt-br": "871286335d497fceb3768d315b6acff330c9618508c3d917fc3dab32ac7803b1",
+      "zh-tw": "a89b0b741b4ee55f0d067c4fe8fc45520761cb3c9c1fbfe26f78cbc045e3fce5"
+    },
+    "reviewSha256": "bbf6c07a2eecd4368a5f91631f27e8361b6faee0d34819a37e0e2c80469c3d9e"
+  },
+  {
+    "cardId": "C1-034",
+    "representative": "C1-034",
+    "gameId": "PK_10_022110_00",
+    "mechanicId": "PK_022110",
+    "sourceImageSha256": {
+      "en": "ea49de53def3f38238fdaaec1d5102e920177824a71e52fd2727be6e85d3a761",
+      "fr": "bf57d6938e53f81008588bd8954487ffd3910fcce23cf4e301866e9d3722dcf8",
+      "es": "454129d0556916894af1e16e3b93d6932622b7688ee0f3686f2830624c1b4b51",
+      "it": "1cfe25bb7140436675ca98a65cc37de92f0bf215e3c6235f0e08b9a22c3c3613",
+      "de": "1dc8ad88cf21ff70a29aa77e259df7a814a5a4690985bae9da6a1b1fe468f77e",
+      "pt-br": "a9d60969bdea538d9f286c53fc4ff018d9d22c32823c34f63ed3caca85e30258",
+      "zh-tw": "e68edb29e17029a45607bedd9e1444fee8a86d397b0121c1b6395e66cdb01a57"
+    },
+    "reviewSha256": "0c34ef8d8d15a7bc77ae4506507d84ce0f648991043e15decee43e3529c839f1"
+  },
+  {
+    "cardId": "C1-035",
+    "representative": "C1-035",
+    "gameId": "PK_10_022120_00",
+    "mechanicId": "PK_022120",
+    "sourceImageSha256": {
+      "en": "1f03963a049c5d731354960e584d9507b183d8879f4f8f0828519a47e59326f7",
+      "fr": "4bdf133dd2a94915653eee5c2ce0fac69c499af11e58cfcb36a59c9f47ad2a5c",
+      "es": "ea93a2ebe6aab9320900fb6c6820dc10972d685f5ebab345bb804843bbdaad8f",
+      "it": "d58e5b14019b3b486420c880830c0b7f65150ac6ebead42f9c7be30071f7b068",
+      "de": "08d55730ff3cd7bc3894ea4bf239ef0f336d5e4bfa09a55be48d859d0020449d",
+      "pt-br": "354a816c3ddc4ef7ae6b93581a5580d8b35ea8daf8772167919431deba569592",
+      "zh-tw": "3f01d0fcca18bc23ec2478252a9dbb225561fd8ffa270c910c195e5f586515d9"
+    },
+    "reviewSha256": "0cea8c0389b08ca35cd4719ee9bea3d6e01f4a0426ee24113ba6f361fdd61065"
+  },
+  {
+    "cardId": "C1-036",
+    "representative": "C1-036",
+    "gameId": "PK_10_022130_00",
+    "mechanicId": "PK_022130",
+    "sourceImageSha256": {
+      "en": "94b2e682278a273c8477e947f921193ca852bd6afd9d22e2e58ab2a538d895ff",
+      "fr": "696d257a6cdcf87f5acfa2b4cf037354ec0d1ba8f6e7ed94e1efb45958c9522b",
+      "es": "45da48e09a945a25aa0b138b7c6dc7c86f2ea02ec04d6bce36158557e05c221b",
+      "it": "84bb66bb584b10d0339f30eb6900507f15d1f5fc18c0417ea6d8f5eea0d69fe5",
+      "de": "4e7ecadcdac15bc6ee0a9cbbb8a1eecb404f923f691d6ad723265ed05269a37b",
+      "pt-br": "e663db92a8fbfe08d5582b7175b5d9bc6ea72a2db8756ac80de3da4137dee8df",
+      "zh-tw": "a83c962376e6f7999c0f5253c20cac360bcf9a1254df57440621b0b8f91197a9"
+    },
+    "reviewSha256": "c0a5e1059a5e00c64d6f2472d6d35b8588399d945314a1d7902fe7a7e3856065"
+  },
+  {
+    "cardId": "C1-037",
+    "representative": "C1-037",
+    "gameId": "PK_10_022140_00",
+    "mechanicId": "PK_022140",
+    "sourceImageSha256": {
+      "en": "2597752cdd7fbf67572c25182a80e5e541c10541599c8440518a3f974976e587",
+      "fr": "a70b9bbb851c2447c0585e1d5a4b4494cba6fdc0b2194bc8fa3723085baca807",
+      "es": "370a75c359b5ccc31bc0c93e4e7d328b9ae0e432641c6655e8b882a9f4442890",
+      "it": "27172f751f1b6e3a88f0e6a524a863e01f020a7a82e9198a360f6d64f7594dde",
+      "de": "bf7e06d8bd3bd0950cd23810a5811439508c9578ba6480adc6cb3e0e0bcb72cd",
+      "pt-br": "930ca4b4f46f88ada16f1301bcaafc82e4a5a2e182c1498e7311eb055fb5229f",
+      "zh-tw": "faa42e6b2ecd9a1433bf6bbfadb36b811dabf3f27a8b3e34cc9db1578d8cc8d2"
+    },
+    "reviewSha256": "ff8aa8f20833e3ac1a4dee49fb73a6456aa1c842d7ff2eac891c66c25bc53c38"
+  },
+  {
+    "cardId": "C1-038",
+    "representative": "C1-038",
+    "gameId": "PK_10_022150_00",
+    "mechanicId": "PK_022150",
+    "sourceImageSha256": {
+      "en": "bd3f0347c339d93473897eb7093f43692e706eee4fd2be1f4a14207ae0b1037d",
+      "fr": "9726adbf4dcc205e8c7e1e7b95bf7f5d0309abb4a28e76602e794e8f0bd8cfda",
+      "es": "638458f44e3ac477d59e4d98c720372db49951246f806f16faa998dcd561896d",
+      "it": "b4a9f2bf9bd9d5214f56733b7e2de7949edd9372d0251878c0ee7326313b3ab8",
+      "de": "454568727019a30bc03915b6f93675813bb47117f9634ecea71b836164c09188",
+      "pt-br": "718cc41d9a2cad74cd9b1463b038c3d364cdee4ad5b7b236e66a1eeaa43fdb56",
+      "zh-tw": "599603be1c26a97a2ac9f84b25e54e761bd4596df20a89502200e8faec0a2d6c"
+    },
+    "reviewSha256": "c36759245362f24de480fd3f60377706bf69aefc00d9da6feec26b1a07b8731b"
+  },
+  {
+    "cardId": "C1-039",
+    "representative": "C1-039",
+    "gameId": "PK_10_022160_00",
+    "mechanicId": "PK_022160",
+    "sourceImageSha256": {
+      "en": "39fdca269b5b4f0fb96b55b696a65d0af330b854da59953e56fe2c67b80be7f1",
+      "fr": "bef48198b718fd8dfe641a6a13ec8d99297180797ff75fc8d42d7a90da2dbeec",
+      "es": "75b64e65007a80b2bd40d0c86ae7b34d2425ed907db48a33c136412e31b061da",
+      "it": "0e776240d7605e62ee3de0891a626136b7837a076cec980902628c87da39c88a",
+      "de": "dbefdd7a86dd32e325b950c6e1da9c71856937006cbc0a980b9acedc381f2562",
+      "pt-br": "cea9e3e20672da71f0261a0081f611dbfc0eabd4cd47f8fb29b8d57211c31b20",
+      "zh-tw": "1d1a9be4f1ec518af269c91a329e64cf7ec2767197db26fb3c2f93ff39a5cbb4"
+    },
+    "reviewSha256": "c3e2aac38a57343faf7aab949393a1b8ee50c5e80520a6a796d7bc827cf31792"
+  },
+  {
+    "cardId": "C1-040",
+    "representative": "C1-040",
+    "gameId": "PK_10_022170_00",
+    "mechanicId": "PK_022170",
+    "sourceImageSha256": {
+      "en": "dee7aef2516d5dcab9eb33add2cb958f0162410bbbe3507698d38f1d74a6449d",
+      "fr": "d957ef6639907a62dd37d9edacffbffb72cefc78cbc1810b7a108133d5742cc5",
+      "es": "57a0449bfea9bd133fa76ef7edfa91167ee3fdff2917c96738a4b24ae391b030",
+      "it": "d7af4977c39d63c33caaf257acfb19ad80abfa47d8e12fc83f54ef7c7fa98590",
+      "de": "39d123f1af05a720d08c23eab3f015e485a6919d9a4d89aa577dc170fbdd3dcb",
+      "pt-br": "56ebd8fae2734a94933a015ce0824ac9a872a16ba82965c0379c42dfe83cc56b",
+      "zh-tw": "89f2453df1dc52c02ac87c125bca632cccdb53157bb83f03b95efd4e0fc2cb88"
+    },
+    "reviewSha256": "5b8caf945af04dff5744b38340f893c13e2165e4e3c09bf24673fa0e8f6a4ecf"
+  },
+  {
+    "cardId": "C1-041",
+    "representative": "C1-041",
+    "gameId": "PK_10_022180_00",
+    "mechanicId": "PK_022180",
+    "sourceImageSha256": {
+      "en": "9179c30fdd64d989123e042dfa072923b480d98b29d5420c488662f44ba6075a",
+      "fr": "d0040733b5ee258ced44e30d8a499e53bc6dc2a228f341370f819c8bafc7fad9",
+      "es": "0e92f8d7a9303e9cd534fe7dce94adfdc6ebf4eedafa9946120e768021e426ea",
+      "it": "0710bc856c00cf7cbd8e2add3e1f93ba9ceb44ee051101579f71cd3aae075cf6",
+      "de": "791fee12b1b8f255a484244f6279fd11c622aec9516faafa28291584ffe1c138",
+      "pt-br": "addf0d986dd0d982b62f949363ba23526528ede64dea34e6bd3f2662b99e1a84",
+      "zh-tw": "c1d8cc4b7658fe3f9dadd778cf3bb24f1b3344e9348886f9690fd68b28979b05"
+    },
+    "reviewSha256": "7ee3a7c0aff3a12afb2d97da69faf225499c6a91e2852a9b1c6922df0c433deb"
+  },
+  {
+    "cardId": "C1-042",
+    "representative": "C1-042",
+    "gameId": "PK_10_022190_00",
+    "mechanicId": "PK_022190",
+    "sourceImageSha256": {
+      "en": "30e95e1b6dbee775e3466afd6a8ab2560ba2ecb0f40acade719f1cf6695db55c",
+      "fr": "93e5b30a727b739ccc0273ff50eb609e5f6975dd1ce64a20661e402a770c535e",
+      "es": "005b91951393b4613588cea020201c331d6301883393a4168d358566101fa651",
+      "it": "afd4bb5eeb2816bcd50dd583b8a186f993ff08c4016911e4a86c32131ae3a037",
+      "de": "aac156b6dc6e4e585a983d260f5b24fca2b13d42dd0ec8e831d26e305a15a733",
+      "pt-br": "b3522a56243102396d3240d41341c142bc334760875480c1f0f9e2a35de5a57c",
+      "zh-tw": "6333a14178a8496670cf9d3eb17e1070c92604f302b23dd7e24df92bece58309"
+    },
+    "reviewSha256": "28ed97447721f6aeceb691d03fa5b2cbaf3d020a4900c836885d45954f75e928"
+  },
+  {
+    "cardId": "C1-043",
+    "representative": "C1-043",
+    "gameId": "PK_10_022200_00",
+    "mechanicId": "PK_022200",
+    "sourceImageSha256": {
+      "en": "49d7732c67d64e06ddecadfee986512a7a403b0ab2d52005173b4923e602f951",
+      "fr": "d112d48f516d47fc143c09e91566e705271b747911dc852c3c109ba25e706283",
+      "es": "df2cd7c772b7d5914cbcb0425fb0b80dd0accad2c1756edb621ba26dbaddbe9f",
+      "it": "ddc8cf75ef790fbc2508e120919903f6de95122cbcb4949aa0c3c2ade1ecbafc",
+      "de": "fe96e1ce94df1c4a61eda437e5636490cb11e7d514a7c7f70e10de5a6dcd98a1",
+      "pt-br": "6a91a0a0fae0b0461e80342aae7d972261b50e89fa8b3c68de37daa45c37440b",
+      "zh-tw": "a704d4e2c54eab3896b00bd114bcd8658ec935d9a7bb76d779fcf7737323c709"
+    },
+    "reviewSha256": "57f43da50a0f9d46f57d5c29a145a8b9453ce25887fbaf7cb7168d83e0250dc5"
+  },
+  {
+    "cardId": "C1-044",
+    "representative": "C1-044",
+    "gameId": "PK_10_022210_00",
+    "mechanicId": "PK_022210",
+    "sourceImageSha256": {
+      "en": "3a7eac6f56ee7d9934927c61e77555c08825dcab8e5dd491d36c5bf85ce31f16",
+      "fr": "2168bc56c3edde4b22283c65290b0c47b67ef3eea0e8037949a8c3ef3fc8396a",
+      "es": "d85223e6f94168af5c6e361ebff3361c79ce3fe91afa3d6b1ba42d505a9b475a",
+      "it": "d13e622a5aa96bc7a1ecfd041edee05ddd5f7affe4795f876bd2ed79b83d3620",
+      "de": "9dd5bf67fcaa78a329bd7bd3cb6759133e22dfb7c162b67e67a7cab2d28fe342",
+      "pt-br": "065c139bd7cb36c7fa4e4a24033ce15f14075ddec1203df0e9adbb5f3586a66d",
+      "zh-tw": "d46f164a0fad708fa0d88d12b1c0933bbbda380a9c46badff4e0998f044bb77f"
+    },
+    "reviewSha256": "e3612c5dcbce48aaff3dd3b183b4d45a8246560ceb95f802cf2014215dd55ade"
+  },
+  {
+    "cardId": "C1-045",
+    "representative": "C1-045",
+    "gameId": "PK_10_022220_00",
+    "mechanicId": "PK_022220",
+    "sourceImageSha256": {
+      "en": "b3540c6a8bee4e45dd2e89ea36505250142b23ed2d52e65a8a63043c13df8651",
+      "fr": "064d3342a32a02a1e7289545b75cec0f74cb777145ab9403eed9fc01bace802f",
+      "es": "5789c561608e24d13b29f042001ebafc9a6697c5d5083a024f748a680d740c5c",
+      "it": "6f72a6189c7d7afc565e2727e750796e895abd31af2c0467d337f55f320e3a43",
+      "de": "9b95e6cfa551a117cc63124063e56fe6a87eaf6b47f52410333dedb99a1271b9",
+      "pt-br": "326f6ff54f0cbf182a18c2b851baa166c55d70ca57357d6c0884827deee43adf",
+      "zh-tw": "f350c2f47b4e956b27f69a231da219c76fecfadf222eebb9bb60e4fea0a247ee"
+    },
+    "reviewSha256": "dd3c8b79fb21db50a4ecbfb4a7512d9261069435e21bdde3f0c137c2527b6a64"
+  },
+  {
+    "cardId": "C1-046",
+    "representative": "C1-046",
+    "gameId": "PK_10_022230_00",
+    "mechanicId": "PK_022230",
+    "sourceImageSha256": {
+      "en": "3cc9c695f9b6552f0d57fd92ec4be8789f0560dcc6344637c4e7662b93b65860",
+      "fr": "a7a641afeb33a5f9a8414ca8cdbbb9e6428a2ec826b144ff2d290de61bab8b56",
+      "es": "0ef89ad03f0754cc42c3df0c686a5aea3a7e8e20e862030cf99e4f3abd0bd85b",
+      "it": "ed5ac6c86a089acbd88ffe38e9faa0ebcd8aa8a54ea16d4f202f534f20c0f77f",
+      "de": "210679e7634297b676d1bf60eb42b596c2c7662fcb2c64d6f4b03009a8749b49",
+      "pt-br": "f2ce094e06fdcdf55e29ae790e7dd589362cc0932275b1d0b2294cd5143b122d",
+      "zh-tw": "3a96df8e3213c3ef612ccbdfdeedd9a116a3aa8b462fd9bafb413040b6303753"
+    },
+    "reviewSha256": "257e524c9bd6db45b2338d4ef9760203cdefcd4781c71efa6d84112a15a0e6f6"
+  },
+  {
+    "cardId": "C1-047",
+    "representative": "C1-047",
+    "gameId": "PK_10_022240_00",
+    "mechanicId": "PK_022240",
+    "sourceImageSha256": {
+      "en": "d54ed7cbe695821e51f830d8643223e037cbe905442573760f20ef7d0db3b19f",
+      "fr": "cf7c0657601fe2759e0553ca6522180af5ad36b895a79eba018e21910ce17708",
+      "es": "0a23efb3e33803eddb12adad4cd1a049e4597048b0513966256beb799358e231",
+      "it": "f4b97dbd5b82a0dd29255f2bce1fe40ec6a6b02509cf23c7383a2a8f5226e2d3",
+      "de": "8df20f984c1af653981cba6687e2590f07ddf951e0a040d2e14c9457d20e4082",
+      "pt-br": "e4e483db17b57b906a26a0fe6e45d9941aad9e615efe6967a8009e0c31a28d2c",
+      "zh-tw": "9c3486c62bc16d6fe7d87a9f5dc2739cff64449fc5ad66cfefbe92feea8b3552"
+    },
+    "reviewSha256": "9bbcebeacdbfe0fc661af72ba0334581391592f1d1194acbb95eea1212d951c6"
+  },
+  {
+    "cardId": "C1-048",
+    "representative": "C1-048",
+    "gameId": "PK_10_022250_00",
+    "mechanicId": "PK_022250",
+    "sourceImageSha256": {
+      "en": "0c3df90d4ac5c3568fd68eff2a895df248605a544da9e5c108f98ac43fd95be1",
+      "fr": "7baf26b44431a22360f460f66b21edcca28f626493fef76ec8e7ea57f505906b",
+      "es": "bbcd2ffe0b962c9304d08aea2e81e9dc9caf6b88f981f9496fb2b69db719427f",
+      "it": "7554ed1fc88f2e35f929f489a33ae3ab49f8071d648b76b73c49bd0c04c27c84",
+      "de": "5b76a689fe04ccfbbbe8fa5fd9603f38f4a86ad1353e036443980d0e697a9ea3",
+      "pt-br": "a5b18847efcecffab608ecba00d5c4354049d4591aba49e52d79735c2f5b457d",
+      "zh-tw": "f813f243cdea86a2dc1d5f9ba07c22c1bf43c73528f52b3f9429099f2aca80c4"
+    },
+    "reviewSha256": "ff7852e32f73ef681251b5592a4d5349c310c578c0b8412ec2cda924518be27d"
+  },
+  {
+    "cardId": "C1-049",
+    "representative": "C1-049",
+    "gameId": "PK_10_022260_00",
+    "mechanicId": "PK_022260",
+    "sourceImageSha256": {
+      "en": "530084e48eb922103644ed1dd2dc9293b54a74f32e1a5234615714d5c47ff8bc",
+      "fr": "b7a138e6fa1f2382e08ba5c7a2f413d29bcf4adf93424604233ef5f914ebe49a",
+      "es": "c80719236b0be2727f8c5e0c0459de81e1d790b2a71528b758bb4caba97a7f5b",
+      "it": "5a439b2779f7f60b87afb5a217bab04d72b7bb7ade5ed17cf9a627875b70aba1",
+      "de": "4c321190cc82707cf4efbdeb1061b9b7f8d299184dbcf2b88e1e39ae31f25e6d",
+      "pt-br": "37f5ad1153a0a2a375ebb4e048d37475b72dd69d23e475b721d4f6249311e9be",
+      "zh-tw": "b094feea137709f24b755fc8f888ee302d287d559916e007c35d6c0b04d14428"
+    },
+    "reviewSha256": "4bc2448c920ab6870e1d769d3dad7b4355bb2f91ff669f87a813b32a3175ea7d"
+  },
+  {
+    "cardId": "C1-050",
+    "representative": "C1-050",
+    "gameId": "PK_10_022270_00",
+    "mechanicId": "PK_022270",
+    "sourceImageSha256": {
+      "en": "20c12b283ccd6d3ae81526f095fc28b742da73dee89ca5435912097cfa9750b7",
+      "fr": "95d5cb5d9b0a0a119cf8f68ccd85d4247a859d2aae5f9f0a77ae6a232b5eef14",
+      "es": "8e4fdd1e701674da25ada5dee3a7e4f606ac6fffecb6571e6aa82f100595d60b",
+      "it": "15261d6a5b6c4d4aa8f81c62c4f8d28a049035861b9d15ae7da73ed611719c65",
+      "de": "bc4dd2f5b1465d14bada40263236b0ea2aafa6def2ee6108d5a8f5b9e949f5f2",
+      "pt-br": "8c6109191baa7fd89b57b647a56de991e56964134ce7578a2c20a74a2f45ee0a",
+      "zh-tw": "aa1c642fe64eccb8822d308d582537f3e51bb328a35b983697be2a396e3eee56"
+    },
+    "reviewSha256": "f5b652832ddf38963d36f2755005fb2c08e1adb8b6d7fda2a688e6a281b17893"
+  },
+  {
+    "cardId": "C1-051",
+    "representative": "C1-051",
+    "gameId": "PK_10_022280_00",
+    "mechanicId": "PK_022280",
+    "sourceImageSha256": {
+      "en": "7f11a124787b833125f254003f9788d020231f8e05a008de285b44251c541a88",
+      "fr": "1ddcc3a5eac70e04e38268a5050c42e9ed09e3f37910ec4d9dc31938eac69f4c",
+      "es": "1e2f9e097c0415d1e943bc29b136810c712bac36ca8cc05c2abb48a21a2b00be",
+      "it": "8b92abea3d8f44ecc4af0b0bbcbfd24d610f64e7c770865d9e1f4bfabd250e67",
+      "de": "f9d5ffd7d09c431968c7a3dd47ffcf31e011b7b5ac640dd4d54dd17863cb872d",
+      "pt-br": "2306bc11ef0c6098e8a1ebaca9bdf055b4c5207a03b9f437473d8d404cbf2fed",
+      "zh-tw": "a32542bb7682eb248190d35fa53b0e19388d0c93820391617d3221186268ef9b"
+    },
+    "reviewSha256": "1cf4c342e9946430003506ecd52cd29647ee25010f2bedd110df26cb18d62cb8"
+  },
+  {
+    "cardId": "C1-052",
+    "representative": "C1-052",
+    "gameId": "PK_10_022290_00",
+    "mechanicId": "PK_022290",
+    "sourceImageSha256": {
+      "en": "9dfbfc5072577744050dfe18e21e0aa1daa15ba002501a1c1cb711bfb83f5615",
+      "fr": "381b27c129de5623925fac00cd643d4f22d10f87b5124863302d1ca6c26231eb",
+      "es": "3931d3a12e64c6f4850f67833f2f67a2ff6dc17dda6de691c9c188bd5101c86d",
+      "it": "f069e5ef8ad5f5ddfc9c27235cf8a46cadb8f7eea35de8978653d7b3af2708bc",
+      "de": "c3bf5f540da6d20e79e11d5e5d2b9ab5ea982b26ddd2a8d72416e8133b82da35",
+      "pt-br": "358142251b8c8917321390802ba34c18ed04ef5a9dacbdf44ba778f58ac0a70c",
+      "zh-tw": "873390cc6494838e0e271f2a1d277876d88bac5f843368aade554b4f3f35552f"
+    },
+    "reviewSha256": "d4728a309de92db688988d4daae3e97a2d47bd870f13eda63e3c48b040334796"
+  },
+  {
+    "cardId": "C1-053",
+    "representative": "C1-053",
+    "gameId": "PK_10_022300_00",
+    "mechanicId": "PK_022300",
+    "sourceImageSha256": {
+      "en": "79fb6605773ac3171a229e35c76091e42ffc9bbe85ab1eee04175b7147d8f645",
+      "fr": "ea9e56abdce6c575fe689c5cd4a9dc5fc50aed19b9012c9f4c195b0864707658",
+      "es": "75718632b05dd2a280c77ec39a608315e645c285ed307ca042c7fc41c2efebd2",
+      "it": "0a7cfb35cf3cdc5a43223a5770ce33828b3487df041fea7137bf75b718c0f1f1",
+      "de": "e027eb4457681bff8f5ea3253205c7d7207513418685d941447d5fac5603b852",
+      "pt-br": "461b84dfee0f7ec7e2679894270d9a05a40b0b0b7c02879ede5ffb7e45335da8",
+      "zh-tw": "3f62e5effd464190105d89ab9d4e2a6c4ab2c093306a93bcff77a0591434d6bd"
+    },
+    "reviewSha256": "5d1124ddfdc47c5744294620922ce35358dde23c7206946c67b1e4dea3d43ad3"
+  },
+  {
+    "cardId": "C1-054",
+    "representative": "C1-054",
+    "gameId": "PK_10_022310_00",
+    "mechanicId": "PK_022310",
+    "sourceImageSha256": {
+      "en": "d4c7faf2c92b65c26976e201886bd6a95811d729b47899822f9da49846be3ba5",
+      "fr": "64a43fc0c6051e918101e0cb67b0e37dd1d7a0e1d6ea77411ea17d497a80dc8a",
+      "es": "dbbcb82002c93a650b30891e59d6fb9c92208a50dde54607194111b3301e5a04",
+      "it": "405021ab7891be935d83768c647145e32fed89ef736cbc9a05fe7c4102590679",
+      "de": "c65e2398c497535a18ed4112867973fc6f61d09f346d57668f54d59855fe139a",
+      "pt-br": "5318e98ffff775e6de2129af3041bd8680cd20ef9738bd5f66d4a990fa593007",
+      "zh-tw": "1d2c210313b2ef94dc5ced2dae7b3f8ab7dab73f3a9c05ec5186e2ee039aa1de"
+    },
+    "reviewSha256": "9aa60065a0ed108a41e7f11d55c976373303eeaeed793bf2b27e2e1ed4b51a92"
+  },
+  {
+    "cardId": "C1-055",
+    "representative": "C1-055",
+    "gameId": "PK_10_022320_00",
+    "mechanicId": "PK_022320",
+    "sourceImageSha256": {
+      "en": "d8a697d84ed9cf417f79d6eb550385b0519e2b941aa315a26f4fd124a894b976",
+      "fr": "35761cc656459540ce5c1e1e01b89fb60ddddc627ee295434a5cada5141d570d",
+      "es": "14059474451ca8efff4dda422394772795b82d92d2e90500cb0eff4aa915fdc2",
+      "it": "2282a9daa6774716b62508a062c7f0fb49ed5eeab091ae7507c39c43c5fb07f3",
+      "de": "32ec7692ed6d3277a85120532601084279b627e7154a962e44fffcc0e69c9c0e",
+      "pt-br": "ebf03eb8d6ea434d10695cb4241b1d474c0b5a3287b5e7b7f1a3d4a98239337a",
+      "zh-tw": "45cab98fcfe0900a2cdd8d10ab3649063448ba2e74df4c418582e0f844cb3d5c"
+    },
+    "reviewSha256": "39aa5cfe25ff9478af0742f61ef9fa974acdd3a89e6a745a590c5a87085a782a"
+  },
+  {
+    "cardId": "C1-056",
+    "representative": "C1-056",
+    "gameId": "PK_10_022330_00",
+    "mechanicId": "PK_022330",
+    "sourceImageSha256": {
+      "en": "30d9cbbe29d16460fa1fee6095f0cba5738f39cfff9deee7d4addac5086ac086",
+      "fr": "ddcaa5a8425328a23f26669b19374785f179149e6466bd303ec25b2581969dba",
+      "es": "04df68c6bdce02d8028e967b525587e1cd7bb2dc03ef54a0bf30f1b9c114d7fe",
+      "it": "e21b1f0f2bd83f235cf180a9d443e8b87f6985d5d0da4f4d603e6ca02ddd2a86",
+      "de": "0ec3fdf401de3c1e1474c6923b64e8585bd6a813f1f0226c0b402ad6715a69b3",
+      "pt-br": "1651985307d6cfb6b11f9b42cd8e0fc652ed22d1674547ae95d02f4f3f2eea3d",
+      "zh-tw": "9da728e7f3e3442779bff54bf40588aef774ad1372ef121f24b94070768470bd"
+    },
+    "reviewSha256": "ff52976aac3ca5a234ba362e2a217a8f7b282fff866711f65cc82506d5d95463"
+  },
+  {
+    "cardId": "C1-057",
+    "representative": "C1-057",
+    "gameId": "PK_10_022340_00",
+    "mechanicId": "PK_022340",
+    "sourceImageSha256": {
+      "en": "4bc48c7e663c98ade66622f539bee94bf767d3aff3884ddd75303e92a0ab3d14",
+      "fr": "9af3a6c9a3a29b56e386eba7ecab2d9f5b46b4fc20dc43abd88021119930b0fe",
+      "es": "61dc806909f5caa72a3d1f790889d82fe6238167e06c70194773bae858d9fc57",
+      "it": "19ee8df6c324c07e45237e9f779aa2dccb55e85fb5c33b757b6caefb1c593c7a",
+      "de": "dee18d0a261155492264d3397fe68a635bec48a7bac74828068f5ea2bfb64d40",
+      "pt-br": "bceff7873215d4d556ce2a93fcdf283fdac43a09d2a3ee394f18d95bba623bb3",
+      "zh-tw": "e8f4c1e2c9abd68983e3fefccf5c1b711da8c98c62b91b022ecbd041c273d5bb"
+    },
+    "reviewSha256": "2b516ecf688e18cf49932239fc7bf0eea3e58a5953b8faab92b5a40da4471998"
+  },
+  {
+    "cardId": "C1-058",
+    "representative": "C1-058",
+    "gameId": "PK_10_022350_00",
+    "mechanicId": "PK_022350",
+    "sourceImageSha256": {
+      "en": "7507e32aaccd433122f44fcbbb6616ed49fdfb3f9c8722ba200690153b01f118",
+      "fr": "361286e40c79614c9ed7049eafb64ccb8ca0ef766dd46011b85de1f5f16c3c40",
+      "es": "27fbc098f4d12006d1de81e237e6815136f053c12887f1d531e65d3fe3efcf74",
+      "it": "0aa262265694ca386f855ff0cd4f5ae6e5fa96884155c4ea4700c7ea0d0eac7f",
+      "de": "bc9a83b4c5d8f0b48fcd01ae04dbaa3472d8877e2985c5ae7fb0c79591c6628c",
+      "pt-br": "a7f3f0034df2d7874bb0135a98b0d744cb6c8343d62f106faf52904cffc55d43",
+      "zh-tw": "c47d2678499fe14e776261389bcfd1663949f4a8fdcfe281026c1f1799f3aeda"
+    },
+    "reviewSha256": "b35640dfca0cec4cdbe7f564b40d59e7c6f18b3fe86e30e006b0d4519298f1b6"
+  },
+  {
+    "cardId": "C1-059",
+    "representative": "C1-059",
+    "gameId": "PK_10_022360_00",
+    "mechanicId": "PK_022360",
+    "sourceImageSha256": {
+      "en": "09d8c4a9ef30d6be67ba71211e5be9115c1174aec4ba780ed4181be2360929e7",
+      "fr": "2b17264dde109a987dea80f69da7ebad89415a79371240d3b637d9a605bfb149",
+      "es": "16bd96692a6d8dbcd4f64268b6e6262ba9cae9a8fe960bbbd2b17646007039a3",
+      "it": "05bdcb2dc1707ebc2846b07377ac674f1fe694dc425bf2aca58b9a545849a011",
+      "de": "a0e8a56068b70007c44cc1959f931c7696b53615649da103258d8fcb13cc71ed",
+      "pt-br": "2a92ddcbc491de118bd25423a5cdd8b3cd4dd02140240b4dbc81731ece8ee84c",
+      "zh-tw": "c86825b0ac875da5014172c43f46f0a929de842e8bd9392783eaadba17ce1002"
+    },
+    "reviewSha256": "0fa122a16a964a2ae9f4284a41e97f308d56ad678dbcab45e889c900468f1e0d"
+  },
+  {
+    "cardId": "C1-060",
+    "representative": "C1-060",
+    "gameId": "PK_10_022370_00",
+    "mechanicId": "PK_022370",
+    "sourceImageSha256": {
+      "en": "a0b610970b95214ff0b4c1a58091f45698db43abf8a535d9a7bcc397ee0eb07e",
+      "fr": "94303516a6d5977a2c16a429f35b35faebe7db8d13228f3aecc12c455364281f",
+      "es": "adabdb86fa121a7a4471e2b41932f5f61d09e9fe1655fd3a98439b58da328b58",
+      "it": "61312aa3770e3a487d76e1c5a332c868e33b6e955ef3f5d0439c46f79d499f50",
+      "de": "5231362c9983decfc372b5883ff50a19441485659c65636b12f8c7db6717eb34",
+      "pt-br": "31d776ed67ecb52cfeb2cf92a04d7d6c60f53eef5cc79c0efba06800d8827d0b",
+      "zh-tw": "c09a4e356ffa9cc9b303095af321e9f28408a75830bb7d5d096e8355604b73cb"
+    },
+    "reviewSha256": "9e3f495b0ca82e988fae8857db340fc4c6882b83a03eb2d79f07ddb9e6d58597"
+  },
+  {
+    "cardId": "C1-061",
+    "representative": "C1-061",
+    "gameId": "PK_10_022380_00",
+    "mechanicId": "PK_022380",
+    "sourceImageSha256": {
+      "en": "c1c8d2e93b4054c6b99562100c4be5a4b89ba56944352b2e90f4ef7cd7fdabcd",
+      "fr": "1fbe238de4dad7ceb68e47816b374dfe692773b1b78154e8f9c41ed0fb7be85a",
+      "es": "854e15c784ab53586c544f93d9035e511d4ae0afce4985c992b123e5414dd761",
+      "it": "e05b4e982dc07ef6a69d1045cdbf138c9237903d279f2e4e3d048f2b765cd422",
+      "de": "1d284106af55245d446d48599f47a53b36d4cf97c959fccb9c3fc1ba2f73a801",
+      "pt-br": "45605ecffd2d277ac680a90165dcbd0b3b306d573c72667396fb99f39e8c1055",
+      "zh-tw": "7f7f02f7dbe7bc0f471eaf2bc85cea972a2b17203ae535a1783d8e970400d086"
+    },
+    "reviewSha256": "6e88b43966c447ecaf211d37718a18fb2d92ad270ae7e02f2849b6430481f38d"
+  },
+  {
+    "cardId": "C1-062",
+    "representative": "C1-062",
+    "gameId": "PK_10_022390_00",
+    "mechanicId": "PK_022390",
+    "sourceImageSha256": {
+      "en": "e74a7c9132056b1728bab521b648f71f37628f87232f8d2513aedbebf3634dc1",
+      "fr": "709c011de5b0a7fe9dc04e2c6ba9588dc8f22182f53f3d8dd18275cbd9f5939e",
+      "es": "d889bbb51e299c2f19ca2f71689e87378d769278f0e479ba9b7a8ff94517d4f7",
+      "it": "b2cfdb80279072c7327497965ef6c5767f613176f4d52d64dcf57b013b8a3a86",
+      "de": "e1846299b02197d4abfa3db0fc23e21c8675fe76f0164a03480c72887600c9a2",
+      "pt-br": "bb2e4891bfd573ecd88bc6eb47117442ec931b999bccf2bb7b50f48c57d6d32f",
+      "zh-tw": "390ab3c6ff67c1e8a1f68bd3a657b03c94db5c8557c95f0e21362d4ce88766ab"
+    },
+    "reviewSha256": "61339c22d42db86163a1e5ff0cbe54b578432208b0799ffd8d214cc9b56a7576"
+  },
+  {
+    "cardId": "C1-063",
+    "representative": "C1-063",
+    "gameId": "PK_10_022400_00",
+    "mechanicId": "PK_022400",
+    "sourceImageSha256": {
+      "en": "48127a80515771a0902c118dee727f6518f6d4107b6bfc9156034dbf720fa958",
+      "fr": "4ae15b4d94dc83c526e9f1aa4c8193f8371764128111e20f50f94b0f80d8a169",
+      "es": "88643d4b4a512dba6c00125b5f33e232c08c29a298ca263f698ad5c1d1588f24",
+      "it": "d4f36a545d7aabeca7cb731ef7f3df0a6ca3569a1e779543e2e27c4494720029",
+      "de": "0b2624eb884eb540ab685a9f3d4703d9eef480ed63ee64a4b84091aff6bf133e",
+      "pt-br": "38f4606374ec653b1c2968b3d4d9cc2ae2ef00b729c1b47c293b2fa171d47972",
+      "zh-tw": "5d6d3ff5ab932b04707145c7df825547017d95e37c30b4537525ef12317e1aac"
+    },
+    "reviewSha256": "3cd92e9d497df494d37b83fe85bfa24d0bebba66f7f955847bea224c644e6ef3"
+  },
+  {
+    "cardId": "C1-064",
+    "representative": "C1-064",
+    "gameId": "PK_10_022410_00",
+    "mechanicId": "PK_022410",
+    "sourceImageSha256": {
+      "en": "d1ec959d532327d2db50fcb5aa373902b3c132db683a62bad5f8fd8e3d679f9e",
+      "fr": "bbc75fafdad3a66a7a599392e69095223a67f29419a93abe462cff9cfa5f5688",
+      "es": "4d879973720d7b1fa46ff6b1f2f134f86406839128e4d978c29d205402355816",
+      "it": "03d1ebcba1b2d289e90f60172bc5d2ecfb0ac9f1954de15a8a5467ee742b7125",
+      "de": "301e7a641861f96f5ee0325d5701fbf16df7106f58e369145fcc3733c0b14012",
+      "pt-br": "1e51d0f837046347b6a8111c2789de234d60f1042e0aca1e0947ddb5383513ca",
+      "zh-tw": "3ef8ea8b5fbea2c38b9d9aa19b72acd4b87183f953904543a4dec12534703d82"
+    },
+    "reviewSha256": "8e50fb33f284602af56fe2a8fae7fdde20c15e5ecb994240477f758678ce80ad"
+  },
+  {
+    "cardId": "C1-065",
+    "representative": "C1-065",
+    "gameId": "PK_10_022420_00",
+    "mechanicId": "PK_022420",
+    "sourceImageSha256": {
+      "en": "5a5d02b43f6b5bad013f1fd1c712722a68a3204121cffefbe36d050a9525aa1e",
+      "fr": "c0f136d793300b1f1e5c7b5a6019505a7c7f1fc2528f1dbd81e7b6da041632c1",
+      "es": "243378275e765e319de30b27c1338251f64cc16865c5741665ac44babb8a8839",
+      "it": "1cc024839a70bab30cc265cb923395fb261d23d43a709a2762ab471890064b8b",
+      "de": "f5c2048f680003f6811c93f14040d736edfea10c8f3a9fe06ae9ab41761ae0f0",
+      "pt-br": "e37065ae72f6bad7c73a87ef971d7ffd62fcc0e2ee15b9caa549acf68f585b5b",
+      "zh-tw": "462d505f189dba9f138f49bc81f16031aea6115bbf1e80ad6095d4db9bee1ab4"
+    },
+    "reviewSha256": "fe21593ba56903c6d48b609cd6ff4297be31b45136e07fc336db95a5d936b148"
+  },
+  {
+    "cardId": "C1-066",
+    "representative": "C1-066",
+    "gameId": "PK_10_022430_00",
+    "mechanicId": "PK_022430",
+    "sourceImageSha256": {
+      "en": "47a7f7300b2b52e1ba8bdd2ad6810b81b7689c83372a5a1423bfad19e8f08e6b",
+      "fr": "a7fce0b66320c402102a61b7c72fe0fc8d939b56db9d1b27e232d9d65b366c48",
+      "es": "71987efb282b99845f2ef2df6d53e70acd35f03f4c61b1263aa46c73674d60ca",
+      "it": "958c8e7774dadd68452c5254ed0026df35812a08d2eb747b7988fe75b5f62222",
+      "de": "d650ee6f7d548dc3dc2854f3d365e539fd7bc91cd29472646fce8c8e0019473c",
+      "pt-br": "816b5855b5eb06603850315e48f491035b899ef36eb53c89f2091350422b77b6",
+      "zh-tw": "3b3b99ff126a32ee72aa6a3a7c748d9128b3ca5b69048d67cb6d10dae1f2df82"
+    },
+    "reviewSha256": "f566a249196ac3c196315e4014e88c1472429becb22985da76bdf687ca9f1506"
+  },
+  {
+    "cardId": "C1-067",
+    "representative": "C1-067",
+    "gameId": "PK_10_022440_00",
+    "mechanicId": "PK_022440",
+    "sourceImageSha256": {
+      "en": "3095e1e3607e12e4df0c80ba01a766b185b9e3558487143d68288658d8431d92",
+      "fr": "e15697d1a6cd6109388476cad51c5099ecbf7cc995b5de6be38f0fc4ec35271e",
+      "es": "461713233df345741e417d746a21ecd74450689f0a67a285dcb80fcb27aec252",
+      "it": "83ead76d396360a488ed23b602716f34c8b935955b266553243f1ade0c9aaef4",
+      "de": "21be88f804f7aa819b6e316c8e7c485ad55a9b801e88a7b0c18e32c9ab3754e0",
+      "pt-br": "63a73da952517fd5c6d94c62d8b76bb0a86e071b7e226f6a6b43e073f2123c17",
+      "zh-tw": "b224b4b6963476c239e728973ada1d8324beb88f5f0ebff2757e6eda22a91fb3"
+    },
+    "reviewSha256": "8ce74f3055c1e3b3ea2b396b3000cb4005f35cb6ab4e21835309b4dd1fe3d00d"
+  },
+  {
+    "cardId": "C1-068",
+    "representative": "C1-068",
+    "gameId": "PK_10_022450_00",
+    "mechanicId": "PK_022450",
+    "sourceImageSha256": {
+      "en": "9c36e3d039c11fa8bd4451ecf1317bd1a047fb9ab6c0b4af1868e5a2f7679f14",
+      "fr": "712b4f01ba5798f9ef7158052928044706e70b696a3d5d0013cf454c2a4501c4",
+      "es": "caf7365f52d6c28cb82a373876338c0043f0c6d4422ced164f6c0deb1191f282",
+      "it": "fe75791aa2bc91f9440cbb7744aeb2d49c559ad2b0ed9d67f469e12fa80d3274",
+      "de": "728a42c6277ec671e8412ee75e0e8f1680c82ef11085bed94454ce91616b38be",
+      "pt-br": "e0e340a8939f6957b43c27956fc739f2f595279d7be0ec1a8c7e7cd5fbd8858a",
+      "zh-tw": "16429cd1c80eb2ca7517a49010927d00915830242cd83b00a6194e8bb500f2ac"
+    },
+    "reviewSha256": "a380f060c83a9c964b9412d28637ad2ba5e0c7a2ad1cebe9c8a6d220c97d410a"
+  },
+  {
+    "cardId": "C1-069",
+    "representative": "C1-069",
+    "gameId": "PK_10_022460_00",
+    "mechanicId": "PK_022460",
+    "sourceImageSha256": {
+      "en": "f5c7ed583d91f0da2a7fde45f049ea8f4c1d662d89a9dddac49bf01323f132ef",
+      "fr": "37c0a3c247cab995a2e26786847217e362795eb3351ff116872139c248ff06b2",
+      "es": "8f8f477a95c3a93237a45aa64bbda44ff4d560e25c9871be75db3ba9f5257f5d",
+      "it": "0f7663175686aa7cd08f247f60a993d379d1d282d8763e08fd01b1f8a4188baf",
+      "de": "52bf7bfc2f404daf15341541886315cc25fd7e9228dff50d8f7d8b7457e7e0d1",
+      "pt-br": "92f3dab8cefb3cfea73e7723539be277e219c07abc88dad75a6c64f46159fec3",
+      "zh-tw": "6e5b3e9d04a1291c4f48a761ce979ed7346a4d468909549997a8534d9fad0a7e"
+    },
+    "reviewSha256": "ab05e40670282c468e9190c90f9bb549616fbb72f4f631defd849baaecf55657"
+  },
+  {
+    "cardId": "C1-070",
+    "representative": "C1-070",
+    "gameId": "PK_10_022470_00",
+    "mechanicId": "PK_022470",
+    "sourceImageSha256": {
+      "en": "92fb37994d7cd00a647ce51d96c9972431e818e702de65fa385a75434480eb16",
+      "fr": "3184ebd9c52de9f2587c35ae495c66129b7ab4c58bcb6bf42feb858bbc05f9c5",
+      "es": "b0743de992881ec7bd22a0a443391dda1036086dea497dea6e85ca2dbf952c75",
+      "it": "77ad238198a53441d20fd9c351f1c6674fcff54f72f928171f69bd5ce3368120",
+      "de": "f34a0638f10bd11303980715b1627b074fec332e0b822eccb44384c8a558d26e",
+      "pt-br": "dbecf928f1ab66d4fe4352b1fedcc97215b128cd678e7a3a25b1c3a48fd200f6",
+      "zh-tw": "95a56b22965501ab30a87e425f6935f736dbe53eed863cbe72fee1baec799d65"
+    },
+    "reviewSha256": "4bdd711cd254201a1dce741b774df7b73170f239f9b25efb17ed4650118c0ca3"
+  },
+  {
+    "cardId": "C1-071",
+    "representative": "C1-071",
+    "gameId": "PK_10_022480_00",
+    "mechanicId": "PK_022480",
+    "sourceImageSha256": {
+      "en": "6214491eb3516633c723669a34111b1af4da0afa2193225278490809d22c88b8",
+      "fr": "571fae77ea54fcb98bbc6d3541e0393d84f5e840de01422a8b1b16e3e5d30f8c",
+      "es": "a4edbe97f6f6e779d1bdd19629940e3f90efd30d8e7dd306bb814006ca834883",
+      "it": "92c7e3df8cea96d68ca74dafa9a34a0ae461677aed0985d8a46a9217e7c2fccb",
+      "de": "95818151c7ae9fea25310c8a42c92052177ec107428d702aff90ea346cb3221e",
+      "pt-br": "f009493068242ff2aa3acb39b5d4ca20f7b2944289918ee441f42594e428bc07",
+      "zh-tw": "01ca112cc4456c66ccf34506d95f58d726cb664f7e74098274793febd2654851"
+    },
+    "reviewSha256": "95749a0bc097c575137d3566692e15d43242b715fe6f462698caa7e5e483554a"
+  },
+  {
+    "cardId": "C1-072",
+    "representative": "C1-072",
+    "gameId": "PK_10_022490_00",
+    "mechanicId": "PK_022490",
+    "sourceImageSha256": {
+      "en": "1f60f9f7ec82fa87a90b1bb69d105787ae9850d75998d58e7c41f3ba82e83c68",
+      "fr": "507028d4b6cb4ccd9da383884ddf1efb3b709c0c09d668de71de7adc5773878a",
+      "es": "2a2655adbbc9fc54b518459be1f50b788e331bdd27305f8dbbfe45a1b4705198",
+      "it": "6ffd9073e9a80b01acf22285ff08443d278d2e09fee2ae2e6b85d12e7bcc4f12",
+      "de": "415afe5d8efc83ef5d7ac9616e72cdad6f2a4bf10c08fe850de9f3c83df57a29",
+      "pt-br": "5ceaf7cca7de7dbb5eff3a39bc0177d2073bd6b59ead5322aa3b58ed0ac06a63",
+      "zh-tw": "8fcb13e8a0d35fad790ccc6a87fb3b0a7ae8787cb674de8bd7e8201999281387"
+    },
+    "reviewSha256": "d7a9ee668273a8a9b25b28ea0bc0d029bf7e0c06fe5c56084db007f5490ce60e"
+  },
+  {
+    "cardId": "C1-073",
+    "representative": "C1-073",
+    "gameId": "PK_10_022500_00",
+    "mechanicId": "PK_022500",
+    "sourceImageSha256": {
+      "en": "6ed7ff10e44cf5aaf53f7683efc8ec84039ace8539786e0b427965a0b553c349",
+      "fr": "7c4a3ff0a94fb27080a73af08e6f0c687869cd86470b766d9bb667bb9fb5b98c",
+      "es": "dc67340acfd661921e80ae062e9dd6fa95e2f06207dd0c19eb0655e2ea1ef04f",
+      "it": "b22ac5081b05215b87ebbe563d9765c846eb0c5f380b8617048481473f1b6f6a",
+      "de": "205066b843f5f2a40053c3af10c6a05cab7915e75853b34634b1ecd5e4e19a16",
+      "pt-br": "0e5eddb4db7f1c79dcef39da9f5480e38c4783bf1ede53f94ed3b611482c55bf",
+      "zh-tw": "adf9d75cad06f915c00a3841389be27c6092e50eb7d1a778b5bfd4118b2a909f"
+    },
+    "reviewSha256": "1cd80eb2fe787e0b7f34b98381354ae38332bdab5e6e50cdbecf14ccba009e8a"
+  },
+  {
+    "cardId": "C1-074",
+    "representative": "C1-074",
+    "gameId": "PK_10_022510_00",
+    "mechanicId": "PK_022510",
+    "sourceImageSha256": {
+      "en": "5295d269df6b806bf774c6e3fb68008eb1e95cbbf95e0eb49273cea060f15919",
+      "fr": "453c2407fee07623a961f853c2d4b72f85410880c4620dfb26dee992513f1a59",
+      "es": "a3659635a9acda6a76cdcb37f07a1175335efe26e4fb5bb90afd4051485ed1ef",
+      "it": "168facfc1850aeaf69debe0b46793f99a19691a574cbeccd3df3402889f9c875",
+      "de": "360cf580b18ad988145e5839324134ec86abb4bf8746f4c8de87723b81935165",
+      "pt-br": "8d616553e5ab20aa8085bfe9cad49b625738800d88fd8edb5055008cac9db12a",
+      "zh-tw": "cdb9dcc8abb7db5f0741aa6118a6d4fe528b6072874f132c01f1756218c6da48"
+    },
+    "reviewSha256": "8144305f9970fda869fcb6bf887f43d913623af131d963c422210a77d1ee40c6"
+  },
+  {
+    "cardId": "C1-075",
+    "representative": "C1-075",
+    "gameId": "PK_10_022520_00",
+    "mechanicId": "PK_022520",
+    "sourceImageSha256": {
+      "en": "33d96038eaba971a0f2a10f94933728d4740fbc3fe891b658e2c170845db40dd",
+      "fr": "34caca8dba503e8d6ce988735af6e29e595b87266f5f8ec006ba3f127a7e14db",
+      "es": "0a4b658986111361c9e1a806632b85e8d510fe9a5453e64dbcdc6823329034f9",
+      "it": "ea7d5c5f342136ff4e4ac484e2aa6f14e7990c47799796f3e0fdd37df71d47b9",
+      "de": "51c07fb6c2bc9da0a9166027088902ec8e98f3729b172ef9cabc97e454c3d656",
+      "pt-br": "fc2a0c6a64118f9fe57cf947d28635384433b05cc506153aca116f451ac6fbf9",
+      "zh-tw": "dc84218b97b3c15817834e86cf1d8f97923a7389c9080360c84c3e46d654fca0"
+    },
+    "reviewSha256": "c9f06d0075a26badd83f80f6bd9a879b17797659477499d25fbbe06599e13fa9"
+  },
+  {
+    "cardId": "C1-076",
+    "representative": "C1-076",
+    "gameId": "PK_10_022530_00",
+    "mechanicId": "PK_022530",
+    "sourceImageSha256": {
+      "en": "ab73f6c59b29c042b3a720e8f816bc76fe3f840380be7d7c5ae723599e1bc66f",
+      "fr": "1d394fc7f985d7e91259dc1199fa401ae660d27714f675bff9cccc94fea3d22b",
+      "es": "12584a0a09ca3712458938e7d62a5caa43bf6c12a19f42261a44655c2de4f544",
+      "it": "ad74cae2cf43553bdf826f20e90559d9c757b6de8ae0b61edfeb232963ad0403",
+      "de": "775010ce41650519f22998b0fb42d7696ebe9f6a2166e39fa1084550071b9fd6",
+      "pt-br": "c5c5c2d938cb569b539e18d835370436fb7596ef664dd73c0ee9885970d5a306",
+      "zh-tw": "1557de5f6af83b4f6cbcaecec9d881582d056eec75423a38b157c3282959120d"
+    },
+    "reviewSha256": "d09d53e75ab7489c3a539940ee84ead2dc28f9d07d225a50e6a2299ebbc52710"
+  },
+  {
+    "cardId": "C1-077",
+    "representative": "C1-077",
+    "gameId": "PK_10_022540_00",
+    "mechanicId": "PK_022540",
+    "sourceImageSha256": {
+      "en": "a189cd75b0f54717acb77cd412fbce13336b055fb3d808e7cd512158800f3874",
+      "fr": "52c82e17b3b3f92487543d4fb042e87ef8d9319b003a36546cf115cd9d0b3fc7",
+      "es": "9420a7af03fde9c0345f2e735fbf3e914725553c874a435e22e3f5563a4fe0ad",
+      "it": "d228c4760f9a55c5ed7178ca4ced3cdcb7b4cb9efb8d7abea8ee1179ba703fc8",
+      "de": "617d3c480232c3bb60b3e2ce8ee9e7bdfcfeac246cd812adc2dc065c19d23db7",
+      "pt-br": "479f1f20942a6f723b6a031dbbad156127e09b9f4eb2f1828e29699d3d9882cf",
+      "zh-tw": "58037efebbb2ccec1c464f3ead7da362cb6f4e6aed5ada4298cfdde8e485f271"
+    },
+    "reviewSha256": "b96cbc36dd7bb51d1b532297c9fc37050289aa8bb5e996e1a3cde07c2ad27669"
+  },
+  {
+    "cardId": "C1-078",
+    "representative": "C1-078",
+    "gameId": "PK_10_022550_00",
+    "mechanicId": "PK_022550",
+    "sourceImageSha256": {
+      "en": "dc4efcc5fb4c640b7833f70b516214465fc2a051a199b71469ed65504c064838",
+      "fr": "a301ae76733a98c15dca961f90ac7ad700aa52f016cb582a67ba0469da256abe",
+      "es": "80cb460a26f3eb15117ac5c17766941f993de9ba2d97073b1344cf68587e4b6b",
+      "it": "c72ce6cf49fe6f13baf8e41dc501d0219ca831938f162b5e7b3fe88aa82f4b92",
+      "de": "e53f56a02dd9838031ab9821088916d404be90d9fb34cf7c10e0e6c2d43b9b88",
+      "pt-br": "95e500ba3e8199222d0470a4003560e455181e731ed966e6849f72bc4455814f",
+      "zh-tw": "648c18f4e889990b55ee16a9034ba9bccb88b07a6817f99d9163c8cdc88533d7"
+    },
+    "reviewSha256": "74f10d0f372db12e2945fa4ef600174dccbf17e74b3dbb27b17f1c8cdc62aba4"
+  },
+  {
+    "cardId": "C1-079",
+    "representative": "C1-079",
+    "gameId": "PK_10_022560_00",
+    "mechanicId": "PK_022560",
+    "sourceImageSha256": {
+      "en": "d8f35911ec9dd954432cecc98a5d3003b7b324c2d561c6a909a444b72ecd0989",
+      "fr": "516267917a8ae124f61a57cdd9bbaf82c4dd2c0fe3bf628a3e89ec6365667928",
+      "es": "d26a19d618b9e155187f46a6c72d2fa33d910479bb0d7affd2b935567e96065b",
+      "it": "cf2be2e408a21d04d5f8b80698c6bdd75f5678ae2da66b6c58a8e15498d58eda",
+      "de": "a4ef9fa357649c13e59664e03aab8798fd2387387ececed6c9d0e3c373c2eb00",
+      "pt-br": "e7d5d0137d1fee8853e3b1992939dc700607be6f0e1d8e3945a1aaa29054de2b",
+      "zh-tw": "710a0091deaa362487112cc4a91100e6c4352e0ea81c2fc1a4c44ea13ce958e1"
+    },
+    "reviewSha256": "fecee922de8001032d81f6e9f275a85147faa428a282374e3a02a39c8a339fe9"
+  },
+  {
+    "cardId": "C1-080",
+    "representative": "C1-080",
+    "gameId": "PK_10_022570_00",
+    "mechanicId": "PK_022570",
+    "sourceImageSha256": {
+      "en": "2f4373b58ccebc6d8dbfb73339d6f36d584a6de38b4ec4467df7b818663888da",
+      "fr": "9fc0a07494fa219ecef311197644c80ed8ed398e31d0cd391cc92c309fed2f93",
+      "es": "ac83e86432a5a3808bcd55d810da400e96b60a87ae396523ab746b32a5d99e81",
+      "it": "cb69d85588a40d9d91be7fbe5cb8c409c9b9157d83c406034a65a031047de88e",
+      "de": "bfcfe323878af48a5c7a2e4f8833746d97f84777695c98294403f62960d804c3",
+      "pt-br": "b98fec451a500f0e9d17ea6a87f03783744e4ec632f4f3f1057059a2a32fa3a8",
+      "zh-tw": "f985da0a3b9c0539693827e6aebe0c307e28305a69731f07cab1ab0e6bf3897d"
+    },
+    "reviewSha256": "2912ad793db0a8efd992448a56b966e73e11ce2fed03bb42b51d188fa46c8490"
+  },
+  {
+    "cardId": "C1-081",
+    "representative": "C1-081",
+    "gameId": "PK_10_022580_00",
+    "mechanicId": "PK_022580",
+    "sourceImageSha256": {
+      "en": "f57fdbc3b3807652172838cf37493ea6c5d3f3df3d287bbebe95b6cd56d8a46a",
+      "fr": "b0552533fc83fe2752d8c7284bd2dfc49cff107b5c1bc7d1bb54297418c4788e",
+      "es": "44e6c697cf46bed9019896ee1baa195e9c383ea05e84558a4414ce64af9edab9",
+      "it": "55f50aec09d30f2eb7db5495c6eca73808c766c376744626253cade4b82d9f0a",
+      "de": "567f20bf6183c8031d7778741854c83458eb3023ea57f1b777e1daa0175320da",
+      "pt-br": "016548a4e058a262ba3dc426d8b137afd657c40784bbf4beff20bbdf18b8d421",
+      "zh-tw": "3acc3742f3c687a0ad60f4fc4285897b46270f33e2f908feace110206bf97ded"
+    },
+    "reviewSha256": "04dfea14df5b4ed80433c277936de7b130560f95ee7e3918eecd3e6e40116b26"
+  },
+  {
+    "cardId": "C1-082",
+    "representative": "C1-082",
+    "gameId": "PK_10_022590_00",
+    "mechanicId": "PK_022590",
+    "sourceImageSha256": {
+      "en": "b812d23bd573e95097c290bd98a800d5e4d309fdea71e53752e6b5b43494976d",
+      "fr": "20c61fbb7929be5900980caa5c9c3422d004250698e9db81e0ba2a3db4da0716",
+      "es": "f58746a8944ee24a0acf4149966f1841842da2bf53642c1612f45678fca9e9b1",
+      "it": "24b95be855ca0297a176f897bd6ff8887f0bf87260ac6aa5ea952ccd211b6a89",
+      "de": "a6a2500aeff355f4b1456aaafa60b84253aac18b8856fed08fc3c332a3386e24",
+      "pt-br": "06267fbc2d1b5ba67d8463341287e28ce63faa0ff35e49f15a11eab2d093e86b",
+      "zh-tw": "762ac2a07befab105e1a11c7a83af6cd1b9260df1ea29c09be0489c6e64df5df"
+    },
+    "reviewSha256": "b424605b9fe3ac8c3044e33f17e6ffb496e714fd4e3dc6cd09674566566b1f81"
+  },
+  {
+    "cardId": "C1-083",
+    "representative": "C1-083",
+    "gameId": "PK_10_022600_00",
+    "mechanicId": "PK_022600",
+    "sourceImageSha256": {
+      "en": "daffd33e3799dec37b2a7fe2b1f867ad081231e9e65b1c38251b22d9e7e72377",
+      "fr": "a469199b4e559581e8fe9f9caaafcda9ef60152e3ecd00b07091905c1d173805",
+      "es": "7afd1d4e7d6e9904a8c1d7f49673651eb6e8823be38f941be4c5064b4f09b603",
+      "it": "125547c9594b2ea07e50e6fdf6453d7543b9068348c4d467a3841cb770000b6f",
+      "de": "865400b1f0f31ac5f14aedd20be070e81bb2c2abf52c9221bb9f2814b3650654",
+      "pt-br": "b0182f3231c7e6249e803c97f1e6e3c7384612e2024902033b4974d2670bc097",
+      "zh-tw": "3bafda476d6cb40b4e76a4b9745d4b84f38d8ddc362ac70686ccfc17bfa35b53"
+    },
+    "reviewSha256": "c81926f2daea7a744db33a0a4ded22bb1d86dce3f55cc1de6c9d964c15a3c469"
+  },
+  {
+    "cardId": "C1-084",
+    "representative": "C1-084",
+    "gameId": "PK_10_022610_00",
+    "mechanicId": "PK_022610",
+    "sourceImageSha256": {
+      "en": "37b386f27b3a9597d9aa91f212a15d789a861ba36bab817ac82f6c6addff6e94",
+      "fr": "627d887091d4a78999497a6aa8915f2aa85a7a7578d6dcd512a0eb7b243b83f3",
+      "es": "2eb816c8600d39a2efba5700ebdde4ace94f27cd7e1051e2477c7ca1ac897fb9",
+      "it": "aa4605d8bc8a2ab48b29d72bd4349f31c11b0e9bdcfa43d740dd272b4c2e71da",
+      "de": "7fcd8c7d54cfbc6556227f38ff95f7b57bba17f9c7fba26638f18c00e65b678a",
+      "pt-br": "9a0343c9ffe4bef529c2ee976340b9afaa6571669961ba20ca4b570b0012f802",
+      "zh-tw": "9d5f2d360b8bd0a421aec32c5acb0d9ecf80f8c51fe0ae174049b67061346835"
+    },
+    "reviewSha256": "904e689fb8864bfddd9d7ae94d46a453ceac02abefffd9f5caa9407403a60efc"
+  },
+  {
+    "cardId": "C1-085",
+    "representative": "C1-085",
+    "gameId": "PK_10_022620_00",
+    "mechanicId": "PK_022620",
+    "sourceImageSha256": {
+      "en": "8eba80044954e1a9bc52e2e1797c509d2a94f7377e6264c9563a9d8c26608dd4",
+      "fr": "4c81654d5e4832a6fa9b6ccd10e0fcdd3b342c46d80474592cf9fc691469861b",
+      "es": "fb88eb9e39a30a730a75a5825c256739290423dba94e8c667210f8a248f08b2c",
+      "it": "4401b8daa6e4582b28f6f8a6ca29b8db974f880c654c04f4ec00da22d19d348b",
+      "de": "79aff1c6c85ad4f4aa2d469b305eaee29a186f08d507746b49d8e4121eb121b1",
+      "pt-br": "87b736d3269d18ac3aa6463ea1d0e2f947a50fb0eff41e60ee7cd290f4172f54",
+      "zh-tw": "79687cdbdba88d277925762964a591123a92c23d7a30126200a0d55a8dcf1466"
+    },
+    "reviewSha256": "3768bfbd274447612f549ca8a97ca3128e9d0e87ff32fa657d135a9f00c44b13"
+  },
+  {
+    "cardId": "C1-086",
+    "representative": "C1-086",
+    "gameId": "PK_10_022630_00",
+    "mechanicId": "PK_022630",
+    "sourceImageSha256": {
+      "en": "074949bf239406242ef6936a6534389aae143779b65e61e2a1f783da3978ba0a",
+      "fr": "5ba646c8dca4d46d49bbc5802b2b04d3c129d8d0dda9b0eaae33f3d7fd398f78",
+      "es": "38bfa3985c1dac70c807e4acb92af501c19d15b3a59e7659bf4b253e18c68ee6",
+      "it": "a78f0720ca7bbf2005d790c747466e4cd47ebd1bb2d5a705baf8bbcb1b60c095",
+      "de": "763c113a7f3942ca377d6149d60f69d1bfa69bb731bda6c569297cf2271a6466",
+      "pt-br": "db98c7b3d44736ced164aee35282ef3a45b22cc4e3b8e3ae85b02d405c54d8f6",
+      "zh-tw": "206c1139e29e6a1c42866a71149fe6377665fc52a856c05bb3611af4e7640b48"
+    },
+    "reviewSha256": "ef1606c954caaa0a8615fb63aa5bf839984f92d1213389a5a0a90d6eac7afaf5"
+  },
+  {
+    "cardId": "C1-087",
+    "representative": "C1-087",
+    "gameId": "PK_10_022640_00",
+    "mechanicId": "PK_022640",
+    "sourceImageSha256": {
+      "en": "ba7a037988ac206761fa5001768e85f43b2f34cc9976d6b44d37484c7ffafe6e",
+      "fr": "73a814ed7bd9dc7bfb11e2694971f2b931021134f081ae78465248108b36a0e9",
+      "es": "9a05346f3c46c3eae030c0fe25f1d8ff8a0e8f53697136412e65cabd5eb9a22a",
+      "it": "cd9d6b787cdc23317784a40de215ef06eaf1989a97ddd38197eb9f1527016879",
+      "de": "483278a0ad3cb8651b4f1bc7d58d28025df835c519cf6bb1417c05ff15a9dcc3",
+      "pt-br": "e3026003c3898097e86f7e27beacd16735702585652379549c4cabed376f9f73",
+      "zh-tw": "d50dbabb5c481ce601353fdf051f8ba55c04d0849b625911e939ce38b1ae5ad3"
+    },
+    "reviewSha256": "f0ad32c3daacf56d17721f08e9df32aebe8a8296ca8e1334331f502aa25d8dc9"
+  },
+  {
+    "cardId": "C1-088",
+    "representative": "C1-088",
+    "gameId": "PK_10_022650_00",
+    "mechanicId": "PK_022650",
+    "sourceImageSha256": {
+      "en": "5b99f2e498d2ff59b41d7b265803be6966fee1f06bb5fe199fa82b765e164c84",
+      "fr": "268595ae78a73249f5e2e1c572e4ca658b1cff2c7a3d6d051d9959f9b3f0b028",
+      "es": "1d4c4f17b7d89c379e079c911db41d8cd153806860d11375f6e7cc390bc69471",
+      "it": "f7105d4274fcab2d11e612c0a44724938ddd75315dcfe8742d64993bfbe493a5",
+      "de": "b1369db36f8665b01df0d0a95f6f22f021f9d49a814185133e95a1db1f03fab8",
+      "pt-br": "f8ba6590f62885f10f42dc52ff16732a27bc2e1faef9f18b9ca6a1e4df7aedc0",
+      "zh-tw": "acd589b0aa9b039de5de1875131266974f5f33bf73829e613c607611dc717906"
+    },
+    "reviewSha256": "7125451617440fe4771fe18f83dd5c19f5ecfeefbc2d848311b92bc1db794617"
+  },
+  {
+    "cardId": "C1-089",
+    "representative": "C1-089",
+    "gameId": "PK_10_022660_00",
+    "mechanicId": "PK_022660",
+    "sourceImageSha256": {
+      "en": "206995f567c97994ff9c30b2b2d230d9e35f9c32d88cc09271d4751cd6d497d0",
+      "fr": "d4f250cbf55ceb399915529fac7d9b09215833ec2a42f19f9db136ad9bb0d5b2",
+      "es": "1928b68c2a7a7fa24a11529e7459e033b1a4d803c6c4bde4b873683a2d03484a",
+      "it": "6aacd71623d1ad937e25935bcb14540ce33e367e2243b09088aa8a94e815be73",
+      "de": "9ce379a5c986f56b8f78a4864b5437f3d370dc8b8f99c1cae4673af2ce8651a6",
+      "pt-br": "3c628539a416707facbb19e429f102035f1eb672b1ec577c9199fb9ee8032626",
+      "zh-tw": "50ba19bec972ae671020dd48e1c1c1a67f848bbf7249d85ea13edf883e6acfba"
+    },
+    "reviewSha256": "f520fbb292a91690e515349787708e5f35df2ea89faddf7a0cab2d4b5e1f709a"
+  },
+  {
+    "cardId": "C1-090",
+    "representative": "C1-090",
+    "gameId": "PK_10_022670_00",
+    "mechanicId": "PK_022670",
+    "sourceImageSha256": {
+      "en": "77ae601ff0363a66153cc4d85f067e54d210ddcbae2d8f2358536c74ab30e113",
+      "fr": "6d9f583165a2ff2183759de1eef4e1138e37b9b6faf984c0b62393d2d80999fe",
+      "es": "b7663b0e016a4b2cae82bd5ee14f65f1a5d44bfdebdad2dbfcba0c8c7730b609",
+      "it": "7bf70eb3f9c58c7920ea68072cf7750f1f93d54e7865432f70774f7856277f56",
+      "de": "4d1f8820872b9a050ca397c8a5c859198a38d6a1df2d13417179ef6b03831bcb",
+      "pt-br": "8f18c151292c633bb25623fe9da88ba76963f9469edcd5863f16328ab6b79991",
+      "zh-tw": "b4c724f8ac04a4faeeaeb233a254cbb97563de8c8b3a79fafbe5c27191051b76"
+    },
+    "reviewSha256": "e6c9774a1192b249f7629be659d67dd6575409f369c145bc354cd32e1695293e"
+  },
+  {
+    "cardId": "C1-091",
+    "representative": "C1-091",
+    "gameId": "PK_10_022680_00",
+    "mechanicId": "PK_022680",
+    "sourceImageSha256": {
+      "en": "7c2f4929c6d5e6d483344a45aedddcc671293629ecfad8df8c3893ff222c5412",
+      "fr": "85e79fab622a949134159987f99e351cfd21778d16db3bb395148cb37b4c81c9",
+      "es": "ef1cb360739ce514db75db6df2c45071538e8b8f69850b4354f335ba756561f3",
+      "it": "e5924e6a735a2a1bfd74bb90cc9a6d285beef9c438e973b9e6fc6a26da530e6e",
+      "de": "0895225186c67daa60e12a1934b2668555f730ff958dce348082d363b2bb6b34",
+      "pt-br": "247e1c3ae7913a05a3ca39259557557a967393d0989ffbbd09f94d7f9c090aff",
+      "zh-tw": "4a4bf7d977593ad05b80bd966305a71ab6ec63e05132382afee61b7a96d012de"
+    },
+    "reviewSha256": "3104e55b3f954d87516f64d74a50e5740bc46ab957da39a06a3e182ef96d016d"
+  },
+  {
+    "cardId": "C1-092",
+    "representative": "C1-092",
+    "gameId": "PK_10_022690_00",
+    "mechanicId": "PK_022690",
+    "sourceImageSha256": {
+      "en": "a8d529cf208842227a7a290ebfab8808aacaf8250f0f4926a0199b11e3555414",
+      "fr": "0cd6e1d8ad3d9b1c25f30460e93d71d64c805744ecfeb28d5e45cabfec9af263",
+      "es": "137de7e265772978ea5bdfa8262ea658dd3db8d61f6f1ab30bedd745fd764d35",
+      "it": "5dc1d29bf73b99abbe1b75e2f3c23c7757d98b7d3e227265c832809c384f56c4",
+      "de": "25751045fff8dcfe85c9e5d4d761195e782febb8924e92f060adc3473d146924",
+      "pt-br": "6a26366bee8af16f197fed3126324339964dfb0e634b10eb02b44508acfd9801",
+      "zh-tw": "5a5ee0617f22576cbff2ac5474e412cd4f68114737da880c1a5615abd70d0329"
+    },
+    "reviewSha256": "e28fc7325f7e4499c9a8c4f73b6eb1d7e64ac069b9fa90c56f62a879584f8dd5"
+  },
+  {
+    "cardId": "C1-093",
+    "representative": "C1-093",
+    "gameId": "PK_10_022700_00",
+    "mechanicId": "PK_022700",
+    "sourceImageSha256": {
+      "en": "e72862466ae09242af84e6dd6f08d0da66dacb915e1d433d53fee61073a7d549",
+      "fr": "727694d364e4a6ca5edebfab78b9598c81821a15307ff4242be6e1b7e2ea0e1d",
+      "es": "ed90199eb25d9e573463df84ecdc1a065d230c2f160d11d9ae9b2848e915dc70",
+      "it": "137e41cf66a2eb7c85ffd5d9d01484dd97e949b9d5c74e51c46870890dcfcbc8",
+      "de": "8de47adda5438a72ef24505705ad6d8b7d77b1473114d12ea9795aff54006d9e",
+      "pt-br": "dc46589043fc5759ae87957284ed099c7bfafb261364cccb4d7f913487c81cd5",
+      "zh-tw": "62122bd437f74f1be8d05da641042a7359ebaee643e58ceb4da7c1f68cbbe1b3"
+    },
+    "reviewSha256": "9d793a339418f5ae72e3a50b5afe944d725d8b8d63bc60b6271e5f4c35561168"
+  },
+  {
+    "cardId": "C1-094",
+    "representative": "C1-094",
+    "gameId": "PK_10_022710_00",
+    "mechanicId": "PK_022710",
+    "sourceImageSha256": {
+      "en": "e87a8d21b5b2a87295bc48ccedf4e75b8bed732f7a106f77ccf1a6817acba30f",
+      "fr": "23b5186f2f17271f461b9675c74e7a197f31719e95890155d411bff50410bb51",
+      "es": "980511eff86e7062e9cff42d85aed269e6e71ab95e28364f9fbb42814d3b2076",
+      "it": "027cf2261419c7da41f9f6542d07a047fc3736819a5c24df49f3378a7d26c231",
+      "de": "db3b0777f1131ae44390478b977436f3478732a11e5ea6531829f366745c9791",
+      "pt-br": "a70feba15ac4fd4e7a8f744788d8b9b8ea3ada0facd251c7cdfe8eff32d5a43a",
+      "zh-tw": "88831f89cb54b1451ffbc8753744ef4115c47d36d111d8a38149598b8b74b5c7"
+    },
+    "reviewSha256": "12eb7d26a44868dbb7d4e048c769d803a171dc0d6f593e6d34d8acd8a4f52f9d"
+  },
+  {
+    "cardId": "C1-095",
+    "representative": "C1-095",
+    "gameId": "PK_10_022720_00",
+    "mechanicId": "PK_022720",
+    "sourceImageSha256": {
+      "en": "f2789a0f9d0bb0764b64c38d4348e41205eebe1eb9f614ca83656bcd88d633eb",
+      "fr": "bb770277962151caac713455723436885c25bb83d3b9d755e589c5c90d638f0d",
+      "es": "46db225dbf6155fbfa5506edfb1384e812473f4ec9c1f0b1478e82ed6b976776",
+      "it": "44e579a40c925db085021537a1086456a874d5d9d415c5d60da3e40648f64d07",
+      "de": "8d6310f3d9bd3754a3d1fb99a0be2126bb7db5f416528f43a60c99289d9f2200",
+      "pt-br": "2790769b8eb494c9e9830142435d91649da574b9b9be54e6df2fbdac15fbbc31",
+      "zh-tw": "b6b37146b1e01773dd303de0b9032300a8071078c4a82163a70e9d509502ec21"
+    },
+    "reviewSha256": "cb857114c0bba92995a0410849bee9fd35ac86ad88250a46cfe12ce42873ebdd"
+  },
+  {
+    "cardId": "C1-096",
+    "representative": "C1-096",
+    "gameId": "PK_10_022730_00",
+    "mechanicId": "PK_022730",
+    "sourceImageSha256": {
+      "en": "610e46218a4ca4028af4edb25751fc26a2095c140cd0b226fb87f9ed75234b73",
+      "fr": "4a36dbabcd8b241497c158a0983a0671742afdc4f1069f3814067aded21813c8",
+      "es": "6608d78e225ff7380cfb92304282604c5e4d0e46cf5b23d3c378b2d38c879d4b",
+      "it": "bef0ca3375c688bb264a243850f28cf83f5587ea36c6a12bec1f8ae087a998ec",
+      "de": "df25df302f5cec941ceaff3efae78f2815f735fa3979f3acb90b06c08e81cb7b",
+      "pt-br": "0fd2f9e9cb89ae8c40b1640afe3a9a78cf26f743634aa602d45b83e5b94fc045",
+      "zh-tw": "d2711d68b5ff4730df6f77de93ad0b9c4f0a8e1608077f44e0685310db7d94a8"
+    },
+    "reviewSha256": "da11b3f885170fe7dfc82662299feab0d185d77bf4851c9184936d8035797345"
+  },
+  {
+    "cardId": "C1-097",
+    "representative": "C1-097",
+    "gameId": "PK_10_022740_00",
+    "mechanicId": "PK_022740",
+    "sourceImageSha256": {
+      "en": "6c300ae4c49c15842ce690d5d2d23c27bc25bc464d1fb3ee3da73690ae2f2a1e",
+      "fr": "95ff2edc4e151addf75a0337927b7ea9af718afae6e150de1fa90281feabb0ac",
+      "es": "3abe54431331d65a6fbac783b2f779a3b04bfb2bec593d75a590ce561d815fdc",
+      "it": "74d642a5c317044c8eca696eebc749e553a7d11de4e5222fd1e243c17a38b55d",
+      "de": "573f96f5e146163a5d9f0bdf10f042c4cf022f937c88f7d3f4c33cc419f3ec37",
+      "pt-br": "67a8393ed93850b177d2b493a69b85ce816aa0f211f180118e18cceb61a65434",
+      "zh-tw": "5675eedcf31e5a67aaa3e88f7055d3a10f40ecacd12a2c5c4188507c241c4e0e"
+    },
+    "reviewSha256": "4cd7316ed835d8535d0c477e8d8c84fb349c16090e0b2930e307e881fe2ef413"
+  },
+  {
+    "cardId": "C1-098",
+    "representative": "C1-098",
+    "gameId": "PK_10_022750_00",
+    "mechanicId": "PK_022750",
+    "sourceImageSha256": {
+      "en": "9c1abc0e5ba23bfd0dcc5dca2dc08569d81cb0386499a4a46083e42b5d0f2dfd",
+      "fr": "06ed8332d1b0bc1bf3d316c40a05200850a3184296d67ab0c65b37ba608f6522",
+      "es": "135635a90afbf2572052985b0e57e21eceb9472dce952e4ee217d65cdb91b952",
+      "it": "3402f71f22e610924340fbd67b53b54c2c79c671f24ce2ed3e32c1dff5f472f5",
+      "de": "5dec3625dba01d4e8743c4d81e3eb49b536a2c93e8d481694f49b5e6e4ca7622",
+      "pt-br": "1b2770076f02c8da2ee9fad82b3454851eb5a71e71424557e28e76849d472fec",
+      "zh-tw": "0048e717bcd1e64c319aeb121bfe0a68d00adc657da4ed08c1f8415548484288"
+    },
+    "reviewSha256": "2005d4a12075bfc9540ce1c762362cf32e363542433ae195bafff8a2f8b3ab75"
+  },
+  {
+    "cardId": "C1-099",
+    "representative": "C1-099",
+    "gameId": "PK_10_022760_00",
+    "mechanicId": "PK_022760",
+    "sourceImageSha256": {
+      "en": "f1d4ee9eca4f4b66b7cffa4f411c4952dc03ba7c4e74f4b07b20730c1f4353eb",
+      "fr": "1d833cef9e66f844fff08669cc349c27c72b6fdb0e7a1b237977bc2a00a98cd6",
+      "es": "439ea373ff1dda4c9a0280ece61c0d0d5f617b8b00d0bb5aa00ee3d93ff454d5",
+      "it": "cc0355c91641183a6b66c5aabdda7fb702be65546f9ae52a0173f05e149d3403",
+      "de": "3684c0c8f19d9d81f5a408aaede7a682c80bca2b6f9d1e2461a9c6b45390a09f",
+      "pt-br": "4336d044e758a91deee8d0d5e95426c79b38abc9130c2681840d82b2c6bdc8a8",
+      "zh-tw": "4aba6b5cc26110f8375d0c3d1f9ff23f3642c6de536c52ec79a79cd9f0a9d4ca"
+    },
+    "reviewSha256": "a440a617fa6168e9a653bd30b892ccf04f6a6b26be204bb0af63b08da3737f05"
+  },
+  {
+    "cardId": "C1-100",
+    "representative": "C1-100",
+    "gameId": "PK_10_022770_00",
+    "mechanicId": "PK_022770",
+    "sourceImageSha256": {
+      "en": "730b4aa929be96b5ddfa7536d04a9993fc4de75ef9f9ea83a4c0e27662ef87f9",
+      "fr": "648aebf0aebaa1edc6b24c9a143abee03a6bfa0dded0107f9ec5d43ac76bb597",
+      "es": "9104b3137e6c48db80a3a11b3e8213b9e7018e79d282dc9e14fa349da35c1394",
+      "it": "c7b2aaf4c49361789826225c5fb87a9c4c039ae0e78c7d6471912f362e5b2651",
+      "de": "55478eb684d6e04c351bc1dd099b90fae2448bb7452e20fa70bd1edf413bed58",
+      "pt-br": "bc4d9fac6e0fe37c2fc2d59de81eb123ab09843bee166f4d35b31d32f326f092",
+      "zh-tw": "862e4dd59017c74b5359ef47d29d022fbdd10edf0b95f76479e7ddbc105c0c03"
+    },
+    "reviewSha256": "5be208b13d14ef76e15ada4104593e66516f3347bbfdbe7d0fd96d5bffe79a85"
+  },
+  {
+    "cardId": "C1-101",
+    "representative": "C1-101",
+    "gameId": "PK_10_022780_00",
+    "mechanicId": "PK_022780",
+    "sourceImageSha256": {
+      "en": "bd5e8d838b8d8fad4bb59f25b8a6dc3e936393c13bca6ba2053f16e4602e3eda",
+      "fr": "b37c0ba55f1bab034bec878373f547f13ccb4c3dbf5fee42760d4ea2f9533571",
+      "es": "287d8bc471ac5e01a34d977d381c203dcb4e33d992b016c3ec346a8aac4fdea1",
+      "it": "8bb938b242f1aec950ec1c8461f2129af2bdef6436a586515cf6ae9feb8f6a5f",
+      "de": "0c31bc54b55ffb8e06664577dffbe2c8c2aab06d1be047fbef9ec6228ae6408b",
+      "pt-br": "cc07f0cef8ac895d5f8238e09e98a21e139202badf80de8b10e629572e667e0c",
+      "zh-tw": "4a3c6628915948bbf53ae6c28e4de5e0f66b15537240918ebabec7365ec80dba"
+    },
+    "reviewSha256": "42f0cbc5356c23f67373460f70ebc5d266dd2f8711bdd7dfa3fd8b46f24a88c5"
+  },
+  {
+    "cardId": "C1-102",
+    "representative": "C1-102",
+    "gameId": "PK_10_022790_00",
+    "mechanicId": "PK_022790",
+    "sourceImageSha256": {
+      "en": "f559765a857804d59c0e5417b54ba3c71848ebd03b7440c8b35fd0e5f3cec757",
+      "fr": "8d00b404f0564975cdb11bf45546793cfbfd344b48e89b59d26c8f016acad86f",
+      "es": "4a124511ff6bc6639b205c5e8c87043084b7f4cb5ff995b3b43de77b49765b0b",
+      "it": "4df1a8a7a775841e98508b31ded519a8623244191bdc36f683e381860078ca4a",
+      "de": "2bdcf92cbc98511b5db7cf280f67ce47c8e3fc6663b0178193a26bca71512b9f",
+      "pt-br": "62fa0ebdcb56edf370b0ff2d717db65f28f20e1d065fc92411a08003d2da69c2",
+      "zh-tw": "05e216159758d4dbcc760cd1344fcab788f0ef100747f54974e3b72d61488f2f"
+    },
+    "reviewSha256": "c7de99ee8c4d54f3bc92050eebdb42c00cad97f4e36388c2759d3907cf4d8b01"
+  },
+  {
+    "cardId": "C1-103",
+    "representative": "C1-103",
+    "gameId": "PK_10_022800_00",
+    "mechanicId": "PK_022800",
+    "sourceImageSha256": {
+      "en": "27b251e6e0d7a0969bfb44fd655faf4788261a4ea0755b65666858dd740bdf9a",
+      "fr": "8ead19200e55b824cf5ca2bd9df468c7cd69bbd5982bc05eb62f9c22630a412f",
+      "es": "30f0df975f1e06ac12f8433d35307946ac50192db631abf5ddf15d887d621c6a",
+      "it": "b793b6ceb96d7c4a17b67da28b097caad9ef7fc605529c3bae9e69517d894b3c",
+      "de": "b632430095961659e9a5de5fd737b5cab6bdebd2fae3cea49f992453cd809828",
+      "pt-br": "9783fec7399e95d4fb17fe1bf95fcc91834c213e7ab327da1efc933a294d21a0",
+      "zh-tw": "33b19b1d0deb2231902adba46f09209f72cc447d7739f19fd0abd4d2e59b2f64"
+    },
+    "reviewSha256": "ff697869c3b81ac3164cd2f21965a3517fa810b4216d1ccf1f1a492dc5af3f99"
+  },
+  {
+    "cardId": "C1-104",
+    "representative": "C1-104",
+    "gameId": "PK_10_022810_00",
+    "mechanicId": "PK_022810",
+    "sourceImageSha256": {
+      "en": "a5c50df4c2f8986c2eb3cb809b32c4958cd73b818b2cb7324b69e12a876767a8",
+      "fr": "bab1daf5ada40805baf6edd0172572a39d93d3ad60a7142c1c19a080c33e0eed",
+      "es": "9e03984b6a8468206fce605113de904eac34f9ad7e4922e187672c277fe88774",
+      "it": "f358018d26839cea4d2a676bb578a0189c016f038cdda44067fb6cbe87ad3f78",
+      "de": "588abb767bec88459572145ddf0e56b3487f83b5edce037fd05fdb06e12c7a30",
+      "pt-br": "4f6cbb0fab3d87e3dc5235ff3499f68f055fefbb7e6d6aac83e9bf42239ad400",
+      "zh-tw": "bfda7f2c355e1e08f9f57c2dbf277d642c9d64e8372e146e615397d24c928189"
+    },
+    "reviewSha256": "f4b8308d754c68e4c3533503696ee1f678d606bb9fa576dd5afa5ac42ff3bc7d"
+  },
+  {
+    "cardId": "C1-105",
+    "representative": "C1-105",
+    "gameId": "PK_10_022820_00",
+    "mechanicId": "PK_022820",
+    "sourceImageSha256": {
+      "en": "075bb9f81d962c29b68d7d70cc6dfd4146f0d0a67f395870fe740381526c7279",
+      "fr": "e68d4f3ee6b624a4e54617befb7ac85c527dc8dc37f137a010e57ced9425fde9",
+      "es": "68786ed25e2fdfa065f03dba774ff7273f4e8ca7b2a65b6da068fb86f4b412cf",
+      "it": "fe1b9e4354f699eaa270bb09fdd41199c985d0ce001ca007f035de386a017f8a",
+      "de": "4e5ffb163f2c1777f1c36fac3c9aaa81c009e9a4125b172b138d42d024960d40",
+      "pt-br": "5f2c70925f13dcef66f14b4e533f2f3927df4d9d061c9250f69b9737fb916bda",
+      "zh-tw": "f15e1e3ba892cab257e172e9a9708693d0f8722cb1d46c491c8a49779252f7b3"
+    },
+    "reviewSha256": "732a9df995e40ae326d2e06b3b105d39f5544b8138d9f863cb966d011402988b"
+  },
+  {
+    "cardId": "C1-106",
+    "representative": "C1-106",
+    "gameId": "PK_10_022830_00",
+    "mechanicId": "PK_022830",
+    "sourceImageSha256": {
+      "en": "be5db4425c01c9ee510c0032826ce67393cda015657eb76d552a7fcab68ed08d",
+      "fr": "6700d608cf0d161355b4c56b486cf1c0916b1242eb29e84f28d8c3e9289aeea6",
+      "es": "607626d89d728e9def8b6e2952e8d4501e597e0eeff91a5d3e668d2dd7c6617c",
+      "it": "eb5147cd7187e29479b6867a9f92cf2512a3634facf7088a9f73c579f83ec80d",
+      "de": "362d680d08bcc4ff8b551315508630fe7e228e8fccb7a0240bf44f4143bbe81a",
+      "pt-br": "f1b9606cde29cf39140b045288046dcaf2f5cdba6c17f88eeed909564cecb567",
+      "zh-tw": "bb7f51ecac5478a13a74321e60d4355d715691069bec9b8b2345aa7271865471"
+    },
+    "reviewSha256": "0d52c997fd5986333ba20fb977bb02b95e56d1169d13417d138d8c531cccef7d"
+  },
+  {
+    "cardId": "C1-107",
+    "representative": "C1-107",
+    "gameId": "PK_10_022840_00",
+    "mechanicId": "PK_022840",
+    "sourceImageSha256": {
+      "en": "769e92038e2b919d15b0bd6b4a483c1f3be47797d41274333044a2b84554387a",
+      "fr": "af564e099ffd4eaf6a3c134d95f0774d30a9e0ab413e4ac4d5ce2c91d1768965",
+      "es": "29c3429cb8710717918d60383dbc1adfecc40832ca79e00da770c6042f7ec1f9",
+      "it": "7e781ffe501d3ec66216cbcf0e53f50299e9267b4dbd24017492b189364514e7",
+      "de": "b2d50ee80f556b5af4145323022632d6faec5c75d3efa12c31d704a300d02c7a",
+      "pt-br": "9ed533c7568df1c8e68cf5194e384e289072b7495852f4e82ae2cacdc041c9c3",
+      "zh-tw": "53df0dd961b2a41db51f76872279de353d52108ea57fd342883ad873b4900411"
+    },
+    "reviewSha256": "aa5126aaa547dc962ce2023ed6dcd80485cd536fea7c2640e961ce0a90fc6e7d"
+  },
+  {
+    "cardId": "C1-108",
+    "representative": "C1-108",
+    "gameId": "PK_10_022850_00",
+    "mechanicId": "PK_022850",
+    "sourceImageSha256": {
+      "en": "1ef13784bd166ea14499652879fb03eb80cc16b72b3a8818c1c2de8d7c742a96",
+      "fr": "d6936fa1904e2eaf66802082b17094a62a0fd972c59627415a4a72a924ea95b5",
+      "es": "e340b4f87d70300003cd087edd8a356f6c5e295af117d8ef41a01594196d1ad6",
+      "it": "f02cc75f90825547286605ac43dc5d024635daf980a205532643a64562783d18",
+      "de": "d07ad141ea06cbc60066129d6efede7a95da11129cee189bbd71badc3954649a",
+      "pt-br": "c3f1c26dd368abd767a004cc9bbdded4ce73b17d863ad2843ab2c53932282e36",
+      "zh-tw": "c43da6127148f5d0f0db603c630236578bd294c1f0d498dfe4a8d115e982564f"
+    },
+    "reviewSha256": "7f0d3fa5936dca7264f80d44b6e558410fe7b2649a506a8d63b4409d0d8e6f39"
+  },
+  {
+    "cardId": "C1-109",
+    "representative": "C1-109",
+    "gameId": "PK_10_022860_00",
+    "mechanicId": "PK_022860",
+    "sourceImageSha256": {
+      "en": "06a3668fdb147185cdf7f374e70ba0cbc9edfe4b22e3af418bcfb0d36f0b1273",
+      "fr": "eab9a03d2bb8b94dd7011f909580d0d8bf03a637500cd7e1a45ba7ef82a4fad2",
+      "es": "394dae2d2077d9ff7f371bd942c07149b1ed07729f63e76554cce5ab23a18e88",
+      "it": "8a01d4aac361f06ca83ba41274711c5fb3c7d467c5d23523ab9ffe55968e4b07",
+      "de": "8ad592c4ffe99852fe31d028fd109ff0f572fa5db6b2d7af401ab5744cd4ea43",
+      "pt-br": "564bfb79183971ea2ee52933cc7ee11a56070ac7d504e1386a81b2ff5f261da6",
+      "zh-tw": "5b0bb385f756e302f5cb872a469e57ea4971f8131f382d05ea9fc17ed0738a01"
+    },
+    "reviewSha256": "e270c8804d777dbef72d039d0fba5258f359b0c75da7949d473466289fa45152"
+  },
+  {
+    "cardId": "C1-110",
+    "representative": "C1-110",
+    "gameId": "PK_10_022870_00",
+    "mechanicId": "PK_022870",
+    "sourceImageSha256": {
+      "en": "f872d9c8377083e6e394e881ee571fb716adbf7bbef0cfc639098760d7b91363",
+      "fr": "30f3449f44f85f8fba752e62a73b59897b33ca531773b58e9fbf78fe6f94a172",
+      "es": "ac08cc4fdd6ec9000b5a07b2697f92b7331c7ca3945cbd41e07c27e5bc7ac01e",
+      "it": "d23c410762d6c44b22cc67be604645dc9fd2b283a7399e2d1cac3acfe0aa130e",
+      "de": "88fef7c5f79482125ecc68972c771a2b422aff9bdcbe5d82ea9710907762d747",
+      "pt-br": "5cc7e08fc9e9524b728f2cb6508b2dc7ecaf8eee3b65feff78022ca6a2c2eabf",
+      "zh-tw": "f9db79a0cfe1f9c771f3f65a7031021e4f7401aae707401c66e3ce52fc1b52f7"
+    },
+    "reviewSha256": "74c1ef495469986b48685622a18d7bd54aab0c2e10b41aaa798490cd5c681ca6"
+  },
+  {
+    "cardId": "C1-111",
+    "representative": "C1-111",
+    "gameId": "PK_10_022880_00",
+    "mechanicId": "PK_022880",
+    "sourceImageSha256": {
+      "en": "c5fd23b9690b9fcba59b71d8379f0aafbe944206b9179b8f254aebbe631624cd",
+      "fr": "bbe697cfa8d753c273a0e80bbaa9bc68e5be80056a096174060e646fc8c2f091",
+      "es": "743ed7af0c726597c82e02373639d6ae04a74ef9330393c26bf050400f29eaaa",
+      "it": "e6937fcf8d3bcb080dbef485aa5a657b800e7ab194fb2cc4bf827981069f7a0a",
+      "de": "7bbf3f098b9ac1332f3851440ce44608932f88fbcbb29e7d14d718dda9a0f55b",
+      "pt-br": "d805726372989c03de2b633a32d361203057426429f6ec3748359652d9235240",
+      "zh-tw": "45af3b2fda61674d1092ad045c94e4020c912d3e02d6b15da89e54f3fdcdbe80"
+    },
+    "reviewSha256": "936afe6cd48a8a1aa09744492673c2e5f67d61cd6881cd116206d2dcd487d810"
+  },
+  {
+    "cardId": "C1-112",
+    "representative": "C1-112",
+    "gameId": "PK_10_022890_00",
+    "mechanicId": "PK_022890",
+    "sourceImageSha256": {
+      "en": "cddad68c40ae700f68472d893021c229cf76582746f9ad1b8a7ff6b0f2a6c782",
+      "fr": "7cbe234a81729d2d4d0ccd034acfc03bd19e5cfb7932213d519fa87c835f5672",
+      "es": "bf33c7ee89b5b39aa80d35e1610d877999cbe7d49df950d2562ea2f9642c5fa9",
+      "it": "236608f83009b19b38c3d5a10182b07506be4629a52fcba5552fb043e98ac6fa",
+      "de": "cc7b653594e9981601eb1b39b4681061e49eb2c55166b84851860631e0b20b6c",
+      "pt-br": "3305dfc7c4e44d15424958e9bd6b9928e9ec2d16d649479f2f1311bb52034065",
+      "zh-tw": "c71d531e6e57fabf901e41d37fc951637489813a8913452bd6765ceb304ec98f"
+    },
+    "reviewSha256": "04d89091f273dd6dbdb3c2c54c7efdbb1a6a3a4d5d305bde006af08abcefd2b5"
+  },
+  {
+    "cardId": "C1-113",
+    "representative": "C1-113",
+    "gameId": "PK_10_022900_00",
+    "mechanicId": "PK_022900",
+    "sourceImageSha256": {
+      "en": "8ac4df9bef3167d449b7a0955d30022add7745acaa801e34c53f86168a601a0c",
+      "fr": "3893c69da5994cc28907af33e4e433a6c4343ab27388d919dc29d3ae27818dc0",
+      "es": "7f310f24a8bb7e54785549be4791518956493be9e5055eb7bc57db11b654af45",
+      "it": "9cea06be02d4e33209ef3fe6cfc9e8bb8e6b366c6dd3c6d96e1e6f107b28d9d9",
+      "de": "1740bda50c4ed2b69024c8711e1de50d76535b5a2bd95d077d9d6a99144c5bcf",
+      "pt-br": "98f603c287b9f6adbefe9f3d5f2abc1bb5fe1d0910016876f27be6dd9e465c99",
+      "zh-tw": "d3c2489bac26227e014f059d6b4f21e1b6be45bf2f85e90799a1a6075fc51ddd"
+    },
+    "reviewSha256": "9718bd9849b1a4389de7f446bd4e18d85c8e796d14c4c2b3ece34921876a93b3"
+  },
+  {
+    "cardId": "C1-114",
+    "representative": "C1-114",
+    "gameId": "PK_10_022910_00",
+    "mechanicId": "PK_022910",
+    "sourceImageSha256": {
+      "en": "b951a880df2afdcc3c16f17584d11bfc967fee75f0460b08cb28bcaf91a971c0",
+      "fr": "05a087cc2ea9b2ae8587758ead0f1a75d0b9fc3d9d56e75df87c61eca58fb281",
+      "es": "3dc515fad348827aff4d48ab94f2fca5f4a372b5088e913a207d8804085669e7",
+      "it": "c23af260fa9a40e8f134f202bb24ebd7c4d9821264bde1c949334d1763d3ebe3",
+      "de": "108763bbab6c7bee3045d0df4b641c185e1080c365d118a7a9eb2750079c2455",
+      "pt-br": "94cb4ae64c05a973a3b63fe7ebc05244483a131f07649cbf240619d6e31cd1e8",
+      "zh-tw": "7989a0819c008197faaa0cabc30c96b926e651313e7b52c1739761730a1fc40c"
+    },
+    "reviewSha256": "7dca8db8a56dbb9564fd3b5318de1172f804ce5d0e81a6cc34371713c777d231"
+  },
+  {
+    "cardId": "C1-115",
+    "representative": "C1-115",
+    "gameId": "PK_10_022920_00",
+    "mechanicId": "PK_022920",
+    "sourceImageSha256": {
+      "en": "c034f5d9d9617444babca9e111fa687f927d87937a9e3feee4fc327a8017971c",
+      "fr": "43980f1dd3fa3f2564a2dc598dde3b5c8bfcab57e4d37bac8c07b44c645df3d9",
+      "es": "e80bc974129c7bda13954d1fa894e969914a3af3efc80c494be578fbb4ab569c",
+      "it": "a8477bdbafc9f5087eebc688cc5bda67d45625ca5d72b24dde303e8ab82093b2",
+      "de": "db4246df0c77aee19294012d950e27c56b4db46fd8c924bc611c61de6386f8f4",
+      "pt-br": "1261bfbda0c38f0f40916183ec491af4dc062a4469555574758c02a9d0d7505b",
+      "zh-tw": "601631245aa4d61eb66976670c54f2aa3931c3029f847f0a2ca990569cc3091b"
+    },
+    "reviewSha256": "9208c633038b76c48dc46890b331fa6512ced7e83a5b855d7e627ac660a19526"
+  },
+  {
+    "cardId": "C1-116",
+    "representative": "C1-116",
+    "gameId": "PK_10_022930_00",
+    "mechanicId": "PK_022930",
+    "sourceImageSha256": {
+      "en": "f5f4a18fbab8f5097746df3a6cf1f3006c54c0c628513e1cf338a73426fd504c",
+      "fr": "295163c394b67d843767e57a6ae8e783b880dec19cc67556dd28038e290b36c2",
+      "es": "9fe78b08916282078247a8ce56b43fd778b6cc46e6b3be707e0397b55825be74",
+      "it": "49d3abb6f78689279d8f6b4d99665c68b029add8c976ec3e7f298fe95c03bfab",
+      "de": "39309fe647d3f928a399662bfb2670bf4c82f10be50de7609cd81252cfa9f589",
+      "pt-br": "8b82c2defe4f2da8ae3b97e347731f2e9e50b60aed3be3c116497ae5b7eeb85b",
+      "zh-tw": "2abb5d550b7d2ddaa8bcec3fcbb7e0e0e43dc6873f7ddeb9586bcbe2e90b413f"
+    },
+    "reviewSha256": "f95dc8a3272e83af83405fcf6fe1c10ea40b1b24980b533dce7a15d2a88d3dfd"
+  },
+  {
+    "cardId": "C1-117",
+    "representative": "C1-117",
+    "gameId": "PK_10_022940_00",
+    "mechanicId": "PK_022940",
+    "sourceImageSha256": {
+      "en": "fff2598ed039477703975948d38cdd0c6c30059f4a25c0cbfcb502938970476c",
+      "fr": "25c9723042b250eb343aa3c2852f4ba5fd0237662bc5a567bce2beb135fef06e",
+      "es": "eee07a8ac0aed12311ea9fed6ffbde56bc8e6a924340631c4dc5f7ea72f271b7",
+      "it": "9373b2f1156a4c72012373f363f39d6466f61222419d0c69f948085889c8aa7d",
+      "de": "c252700fa3b28c9efc42e1d44c4f4c990642df792dfef0b6ed9f4966b580bc78",
+      "pt-br": "5620a140fc58b36e07926ccf1448b4409c15527d1ebf60af48c90c82bbe57a87",
+      "zh-tw": "985d2128d1e1aa9d577b2dab8361baf98175475282628137c0d177421bc09433"
+    },
+    "reviewSha256": "021700ce48501d28c6ab6d345cb570834ccb5daacae65e12ad9f33c9a61841de"
+  },
+  {
+    "cardId": "C1-118",
+    "representative": "C1-118",
+    "gameId": "PK_10_022950_00",
+    "mechanicId": "PK_022950",
+    "sourceImageSha256": {
+      "en": "85c1175ee8bc83315ace84bbbfe7a7477af8703a91f1f72c2e8c6e4d9f13575c",
+      "fr": "400b87bcd34a5bcb76aa1b44993c6bb073270b908582a82ce1947c65da5ace4c",
+      "es": "87c1e552038f7412f049a52badb50b36d4298f31335a2cbea59b1f3949081996",
+      "it": "bbbf4e2a76f902a9c7c6ac864e58828cee291edadc701c8592b28a9f313f120f",
+      "de": "199cd460f7de269e715f729fa67f63a69975238c053b890a7464828706305427",
+      "pt-br": "8fb723d1547052094104c4332a1a163990109d385284a782c9027d211b2b12c6",
+      "zh-tw": "3e97a1c9f8a20cd8c826ca3a234ce608944b0ccc90f4d8c32f5cb1b89b88171e"
+    },
+    "reviewSha256": "134fc33be68cb761d1dac175579ac9995e5715e3460260aae1e3a697c8209741"
+  },
+  {
+    "cardId": "C1-119",
+    "representative": "C1-119",
+    "gameId": "TR_10_001660_00",
+    "mechanicId": "TR_001660",
+    "sourceImageSha256": {
+      "en": "19eec1f1a7f147e2deb1b241af192409870ec211c22fdc4c782453e1c6854acd",
+      "fr": "9dd2904277c584e7645d8f8f96fdfcb3472b39617222eb370dd9c5d9a1391227",
+      "es": "581c84ad17cf636961e4b2371724c3633090b7bac15b1bbdca6a17feae0548d2",
+      "it": "5506d3dbf53c0f1b9686ae5c628c828c96ed20f65ffe632fa8403809e76c5ff1",
+      "de": "86ec36f9d9d1b904d5d05fbd9103bd0e0503104a56837219e394b117b920c789",
+      "pt-br": "a86d236ec61d5e6122b9040dbed02629128e9b6c75d38e98a60785b8360c2800",
+      "zh-tw": "7b387635a3f847f73b76e1c7c88b14ca349d43795c505581ff8b5fd86b120c08"
+    },
+    "reviewSha256": "91958323c07f367919f253ac7731f76dabe075aa61e070cabb4699f01290f307"
+  },
+  {
+    "cardId": "C1-120",
+    "representative": "C1-120",
+    "gameId": "TR_10_001670_00",
+    "mechanicId": "TR_001670",
+    "sourceImageSha256": {
+      "en": "4a8206d1e0ef6e01d7386337b91ccbcfaea6d7b7028081ca0369129a4217ef44",
+      "fr": "2c50e801c27bb105a7be1b68920a3c95a8a90069fafedb07e19250d9e45873be",
+      "es": "c95a3431a16ed1d6709e5821ee6cc0bddc06e68b9d8eec209c406f1d5f7012c3",
+      "it": "7256a2756409752c23297153e4c2f376a16f11c0c5d10ffb3002aa9a4968a372",
+      "de": "96a377996ead8e8b8095ece58378594f302abcd9e2e4e80fa9249a34181966f6",
+      "pt-br": "4efad83aaaae9fc87a954210eebeba5ba7d77a08fe6c00e11a1854acd3415072",
+      "zh-tw": "2e5e1580c96b3c305422cce23d7257932b1aa3b653dd87af2e447c6d06dfdbe5"
+    },
+    "reviewSha256": "6c50f292d403ec482705e2a0ecfb9da6f78524b9098e2d92b3a7d3b5cdc9a60f"
+  },
+  {
+    "cardId": "C1-121",
+    "representative": "C1-121",
+    "gameId": "TR_10_001680_00",
+    "mechanicId": "TR_001680",
+    "sourceImageSha256": {
+      "en": "834360a2ffc3b32b9be9f30b5273e4c67ddb15ea8b9def18ebfccba4447b3184",
+      "fr": "2f648503eadeeb750466801100ccbfce63943b648a5a1beabe197e19c3b37de4",
+      "es": "6f0fb40a9fb6c437fa7c5dafa6f47144395fabaed06fc2c0461b150b71f1d653",
+      "it": "6e03e7e5ea9be0b6e6bab7156103805d7ec1f2816507a87add6a0d858d5c03da",
+      "de": "961c4179b0e389f41914dc8b8eded1f9a75b3341e6530e1024e47eaf59cb47b8",
+      "pt-br": "910cdbf9765ea98f75b60c88cadacc0fbf3d061fac7a1f1b068860a83f478212",
+      "zh-tw": "4a7e94914f3703bc8d36bd11025e76015fcd83d9b656f9aca0cd0f688dfda3a9"
+    },
+    "reviewSha256": "79a0898341770fdf8b9b0d134b285257004053e9e7e22f2a9665d179937ab056"
+  },
+  {
+    "cardId": "C1-122",
+    "representative": "C1-122",
+    "gameId": "TR_10_001690_00",
+    "mechanicId": "TR_001690",
+    "sourceImageSha256": {
+      "en": "e29702cdb0f137d49fa1ef8b38df2a39dec82b006d096671c2bc88eaf8c44ee9",
+      "fr": "5676c33a47954c4dc14af1a76baba225eda979c6da084ab95f365e078a09249c",
+      "es": "01004202634307481305c4a30deec54abf2ee1ff0b82b442ddc36559052010d2",
+      "it": "ccec000226a78fc9f0d38cfe4335e225869ebf4409ce6247d592944f029d1eae",
+      "de": "7d4c3af7ca446737ed270f861f143806a621196eba34062b4cca5312635b9aaa",
+      "pt-br": "912307d027d02406cc336d9dbc577ae1f516c7de027e4347ea927bef4f6e6d75",
+      "zh-tw": "a4d66f2e6787af9d2c1d850b45909207f1e37743b365a960e8fea4961a8c133f"
+    },
+    "reviewSha256": "378eb820cafe84dd225bf4890c35428fba88e00b6e60b9cfe6527da5e9da90f3"
+  },
+  {
+    "cardId": "C1-123",
+    "representative": "C1-123",
+    "gameId": "TR_10_001700_00",
+    "mechanicId": "TR_001700",
+    "sourceImageSha256": {
+      "en": "929d7a919458415f58e183b7fc075bed0b4e69c6ba88bc90b0d12caf8ef609ed",
+      "fr": "e345a00ddc5a4e4743811e4bae339d1d59e4454dfbb2cb0ca2a3ce1d4a9d876c",
+      "es": "cfb83edc67f4da61e2ee97f840b8a7fd179fd48812746475059b7a60fb8ac1de",
+      "it": "97f5485572ef9f5efb59ba6991f0ca6a3f9ba963fd6d3387347aae1a7578d8cf",
+      "de": "04b4bb90ae97f1cc7362c1a75ba496987ef21d5e139488c4243ad014a77bb699",
+      "pt-br": "ff31bf28ddf4360af97b41512772ea77c43277dc9d4691cc59644b2db0cda542",
+      "zh-tw": "d086831821fd747d7b26f693760ff6d2d30d65263cf25d95f6a6f7284cd0416a"
+    },
+    "reviewSha256": "6e43f96e03b827ead362c35475f2482ac6ea67d7cf47c34a2cc8e91a4940ebe7"
+  },
+  {
+    "cardId": "C1-124",
+    "representative": "C1-124",
+    "gameId": "TR_10_001710_00",
+    "mechanicId": "TR_001710",
+    "sourceImageSha256": {
+      "en": "51faea65ad9034c309102397f0f0302077479ba2cd0c8833fc6d1a40ca470449",
+      "fr": "84c378e7c95ff64bb4828b1f7e1852c4c1871fd2767f7ea979cb8d86f16aef78",
+      "es": "6776a15aa65989e0e59824fa86619c3f29a60ac228c3032a4b92bb2a86e1652d",
+      "it": "dd8a1ff5969e99f70ac21f47ea768a6f7dc5654ee080909aed626c3afdbd2a3c",
+      "de": "219bc86342173a5cdd00c2e7a867071f5e1b09df8d51de12810a6d71593d35db",
+      "pt-br": "d016ba5736a195d9e6296320108eab9db4df1d1a431a5d34ef5d140c56f2adf9",
+      "zh-tw": "7e701400edfc83b4f84d9179fa2bfc42726148d99ef33910770fc916fbcac2ef"
+    },
+    "reviewSha256": "799f864212a14a1368324a2a4662b508e076555af81f4540fa66356277f4417a"
+  },
+  {
+    "cardId": "C1-125",
+    "representative": "C1-125",
+    "gameId": "TR_10_001720_00",
+    "mechanicId": "TR_001720",
+    "sourceImageSha256": {
+      "en": "4e3d1dad6a337c1709c6a83b08fe9c27543a5453ab89bd8af8fd03db4f2865e8",
+      "fr": "96ef4a29898619ba1993384f7381d00729821f1a8f6c4425ca6576e90a6cec9d",
+      "es": "12e86c56114bf512f04a2662c87fc11330975ff40e8a4b46ee23b8d8cfb6effa",
+      "it": "45fddc18c76a935cde74a2333f79264dc3bc11d38ba3ee184dcbb60331d62029",
+      "de": "3aaaf64d226521167d9a50c78a1510e8f62e8756c954cf5a2e13fe7bb7cf0bec",
+      "pt-br": "c1ebdf74808b9c42c23fd15b4db8a65610475018bf865a397c7f70af20798408",
+      "zh-tw": "6ca6fd77869336a3dca095379eb6ffac9bed45f563b10678ed88103937b35fe2"
+    },
+    "reviewSha256": "8d7fcbc0f7f422e2d730cf4a2459140129dfa2fd0aa2c208cd91aabf5f2c985f"
+  },
+  {
+    "cardId": "C1-126",
+    "representative": "C1-126",
+    "gameId": "TR_10_001730_00",
+    "mechanicId": "TR_001730",
+    "sourceImageSha256": {
+      "en": "b9c89ab3c8ed4a48600fa717a3af0d5b84b62cf459bc75cf475eaa49f8102044",
+      "fr": "ca9350d02d2992a3c7d8fdfaa06b3a527af9f0e64cae15f06cd2fcef642c2bd8",
+      "es": "ac8d9b8b94b56607891c195b3f8cc2bc206e3afb53d9235f791e277db57b2b48",
+      "it": "512fb6cdd6857c603a2c29142394d4bbb3fad7578cf893f349269f93c77f41ce",
+      "de": "7d64b348337343003edfd9bea23a75f1cb12933d8f198fab5449b34331ccfacb",
+      "pt-br": "929f5912f01f5e4018e843d40d721abc69fecaab54b4ae794b1087722bab81ba",
+      "zh-tw": "d857b628c475777a064f6198ada8babaf0d997888a20be08cdc3234b63e72b15"
+    },
+    "reviewSha256": "cbea4182b23f7b2782584292ce1455a938195b45c3802dba8ff65c05981d885a"
+  },
+  {
+    "cardId": "C1-127",
+    "representative": "C1-127",
+    "gameId": "TR_10_001740_00",
+    "mechanicId": "TR_001740",
+    "sourceImageSha256": {
+      "en": "1a2070c0e4d871fcdb2bb27e952c75f30bc0c1981c99d4d78769e355ac792109",
+      "fr": "e803c76072d913c4e27f1fa70db5b26b40a7f6c7aa88f72a264a60d346e23f19",
+      "es": "ffa7a70eca9452a9e160a299f1e8e3031ebbfdf97d6260722906dd3bb202fbe8",
+      "it": "df8d64371dd65c07596b80acd6e28c0fa0f3f9eaaf5c2ad4c3943df42fb8e07d",
+      "de": "fc49470857475a2edbd5653929feb7c6b26ffdcf3cc3d585d3c0eccd7b8aeb08",
+      "pt-br": "6ba274089fe5a78876254bdeb4b11732be216a16f029b19487e0505dec1b3ab7",
+      "zh-tw": "2e0bf5021137dbe87581ad2d4dbddb1d7653387137166f524b432420dd761cc4"
+    },
+    "reviewSha256": "107af5429a5e5d4ab03f1865d772643e7fa4e3dc07365edb0ae3c8e710464b7b"
+  },
+  {
+    "cardId": "C1-128",
+    "representative": "C1-128",
+    "gameId": "TR_10_001750_00",
+    "mechanicId": "TR_001750",
+    "sourceImageSha256": {
+      "en": "5487a1d4250863c4001b5c9c7319d9092c9312b25adc599171be012dfc3f1c89",
+      "fr": "a6d73678f6f761feccedc786ba3d4c915644bca7f9f27fb4dfe061f58216d52c",
+      "es": "f93ff9c5bd1ff868e74c8f153bc0c48d09b803443263a450e3b49e9f62dd8d19",
+      "it": "3873b273f12ae11b2a32587b47a438a2f1ef43ce84782095a037f00d7ee3ec6d",
+      "de": "64e94a6fdd850f9e8ad4fb4a3ffe4f274c91edd7367864970ee2e46166dfb584",
+      "pt-br": "920d8a6799fe37b79948fc977535843d0d29084bd349b479ad9fa823c884e41e",
+      "zh-tw": "388f1fd2ad62d76befe8eed94326a018d8daff77f57b4a749f97d767cab422b5"
+    },
+    "reviewSha256": "a0f2578a0ee24a3ae672c6b047dc251929c29ddb0b5e824823c3cfd022e40960"
+  },
+  {
+    "cardId": "C1-129",
+    "representative": "C1-129",
+    "gameId": "TR_10_001760_00",
+    "mechanicId": "TR_001760",
+    "sourceImageSha256": {
+      "en": "4c7b7f72d50548cd31cc800a4818328b4266fcd0839f63dd43da76157aaaee4f",
+      "fr": "89da2689770daff472b654ce6d6706ed12005621a22d88e9ff62dcffbeeae5b3",
+      "es": "2f8de365d2c48fc48de72aa6d02bd284c4cd37bb4adb7a22e474c8a61cc70067",
+      "it": "d4bc95b1c8cc074f22d343dfe95810fbcb2f1a5652f9212dba47654ecd757dc0",
+      "de": "5c9ef8d2025670f3923dfb6424d45a515a5803fa261d9547630eb000bda5fb70",
+      "pt-br": "9073cbc086c7cc0ee5bb8fb150c2ce8e35ac4a343fee188ea85f96afcd1ca8c3",
+      "zh-tw": "db7e89270bc3cbd352dd83b7820d50d9f1d6187245837466eee183c57bd5f086"
+    },
+    "reviewSha256": "62fef4b697c95cb5f11d898960f70117ad2da89b1c2e771139ee20c5c30a0f32"
+  },
+  {
+    "cardId": "C1-130",
+    "representative": "C1-130",
+    "gameId": "TR_10_001770_00",
+    "mechanicId": "TR_001770",
+    "sourceImageSha256": {
+      "en": "c1fb9bd8984fe4c3e381ca94e35b6f234791424af951eccf74715be6c9157c11",
+      "fr": "ec1268d2d2f5cdb7229bc245db71d877c2ed05472442aecc914ad2fec102dfc5",
+      "es": "584ae48ed9ffd861fc4931920e43c15634cde51386e47c11e7ba8c2ca50a9933",
+      "it": "219734ec657dc1b75220a68c8fb394d10ab3f46e63176224d08d93a8fb4f6cf5",
+      "de": "da4e519d2c401988c4d823b27644f00d69448368d2bbf13440e26a70db3d91de",
+      "pt-br": "407fa4e6e0b050c6ea5e871aeb19ec3d13018edaca2861e32cd275ec17b6f921",
+      "zh-tw": "14920d00cf58586c9b12b510711fd0c285da82ed49f2928c58e5e04dfb21cefd"
+    },
+    "reviewSha256": "a3d133dd5ead32e1f1adda92feb18cfcd7cfea6a4035101ebbf7136480212d90"
+  },
+  {
+    "cardId": "C1-131",
+    "representative": "C1-131",
+    "gameId": "TR_10_001780_00",
+    "mechanicId": "TR_001780",
+    "sourceImageSha256": {
+      "en": "c7e766e242eae4c26e974690dfeb1abe022620ab938cbe789ef2dbe795ef8e48",
+      "fr": "68a069c1efa4b52b9c10284408f8b67ff24c98a4732286c1ba02ff33cf229e03",
+      "es": "2964c07eeeaaa93699ac20afd4f3ea6a8a10a2e87a1e31c533ce8281db9dba11",
+      "it": "24bc825ad54f39261f240c0a655d9fdcd9e0213a8cb8024c086dab69ce95246d",
+      "de": "c40f080842dace79e2d87c0c100ad5f65305a0076d93a3a2d6ef807f8d6341ee",
+      "pt-br": "d3048af0db83c79068246dfcc0d06f00fcd53232db30fc6d12c4893c5b5cd530",
+      "zh-tw": "2ea88a3266e142ce002b22e17b96c7c81c75c32ae7be71d229c8667883c5173e"
+    },
+    "reviewSha256": "15005ebcad720e3b55ad3aa5c1e13d4bb73f13e05206269bc62ce1c4f7754eda"
+  },
+  {
+    "cardId": "C1-132",
+    "representative": "C1-003",
+    "gameId": "PK_20_021800_00",
+    "mechanicId": "PK_021800",
+    "sourceImageSha256": {
+      "en": "eba3730c411c2835a4713533d27bdfafc868dcf127350d09265e069e80f09060",
+      "fr": "adc7aaebfa0d2e00121a24f2bd5fda8eb7a9a3539833fe74a37247ce7fb16529",
+      "es": "3ce7c403127e3d1a14449de0b43e53cb7796596631a0fb7aafc5b34870b91494",
+      "it": "73443e2c52314d7689f01298694ef82d18954add51e88ba37c8b237f987db443",
+      "de": "b48b065d6488af91d6d1dcfa03f4f1c2d5ac9380046273417efd7dc5ec25fd59",
+      "pt-br": "a8dd794869372ee20067ade2cd04e29c47dd7b6021c5c0c44b725b399e15221a",
+      "zh-tw": "9ce393f266a053b5f70a2ff0540ec7d68ce9d1deff7252115a617e465727e0d3"
+    },
+    "reviewSha256": "c4f592a209fc120f499a1d56339ac2e0f3b8674e5fd8fd4226e8d215de7835fd"
+  },
+  {
+    "cardId": "C1-133",
+    "representative": "C1-004",
+    "gameId": "PK_20_021810_00",
+    "mechanicId": "PK_021810",
+    "sourceImageSha256": {
+      "en": "d1231747c035e65dc308193c23a4b2a2768bbe1fd8e16223b0b83230d2b1d1c7",
+      "fr": "c5db665bb0816c1b8f98a7f0a321205238e785ad994ee95d45ecc8015da4b1c2",
+      "es": "f6dbb5edbcadb9e12be28299063cfeb57bd9e87d6250645812630a8664a137f1",
+      "it": "a62dd842ace77449778a8b559cb9f4ac668da86f94bf9fbf8acbeff7ac6307c9",
+      "de": "91dc847c5985bda77eac37dbd2111bfa2a7f1abf63ba83615f6a39f5c2d8eae3",
+      "pt-br": "4ee6955d028d7f734c938af3ded1a77efa693616cc365ee9df1dd4f16d3fc36f",
+      "zh-tw": "8f75950b4364136b574505831ef30cc2ba011c97def318428f752b95c6a8410c"
+    },
+    "reviewSha256": "f9562ef24d8a243468e9516828cf2b58c3c7d970050314b3b1fdb96861e9054d"
+  },
+  {
+    "cardId": "C1-134",
+    "representative": "C1-009",
+    "gameId": "PK_20_021860_00",
+    "mechanicId": "PK_021860",
+    "sourceImageSha256": {
+      "en": "4862b3616954549fd3091d186a7fcaab7fc1efbb5ef876ac3884dbd99d282fe1",
+      "fr": "c68c628412894c00c303801497ad89155b2013ec8a70f59584e6e5ea3a2b5947",
+      "es": "41654d0817a000b16e903a0f2ede06d1fa717c2cf4c12753bd1f9887e372199d",
+      "it": "da165265cbfc122079708bf0193b6812b53cf90d28cb42d30b7e64d7dba8132e",
+      "de": "d2d69c16e0bba15ff77926efc78ca35653338c01f34355046f931d104772cc84",
+      "pt-br": "b18b1203b68b4e51ec434c17af7fbc67e586959b1b1a08636b0dd086c9202e18",
+      "zh-tw": "9ec007754af016c747db6a102cde259e596e1db2643d478e592056e01b93cdd3"
+    },
+    "reviewSha256": "7980daaadd1c89ebf4f9c54908d4fd60b4266e7abd74d8d6151bba90918519b1"
+  },
+  {
+    "cardId": "C1-135",
+    "representative": "C1-015",
+    "gameId": "PK_20_021920_00",
+    "mechanicId": "PK_021920",
+    "sourceImageSha256": {
+      "en": "3a00c2e1d0e3865bf6355795246b8a49a82e8602679586b3c8278da6da9a266c",
+      "fr": "2295e46f4425090f0f1d41f52301d0927069dcbeae0324fd005ea5726f9f0acf",
+      "es": "1c3f7f6cdceebdc5b98393ac04b1d79574bcf09fa811a12cad5066794313db8b",
+      "it": "00fa2176a9e7ca1a7702437bd5c9e00bec6569e7b038016de4305f93996d3bee",
+      "de": "7d3c8a6b9dc2281c0778387739c9c6e8f679d8ef232c43af49cee6c43a69ad1a",
+      "pt-br": "990080795333e06fc7666751386bf510b89bca2cb7604127ae8b2ed114cb6315",
+      "zh-tw": "3cc173d926c251e74ce4d9a8f85c004d3fe6d410b079866183636399a482e0d1"
+    },
+    "reviewSha256": "a96c3f966edeebbb209ab8ce12e532b39d8c61d2c10b2837b23f64c600e6999d"
+  },
+  {
+    "cardId": "C1-136",
+    "representative": "C1-018",
+    "gameId": "PK_20_021950_00",
+    "mechanicId": "PK_021950",
+    "sourceImageSha256": {
+      "en": "da1df663f36e0b6032fc0cc78e5768be82fbdca5424bc76aab9bec08e2dce314",
+      "fr": "57910641b5ebda45683afa516a1c5e5fa847c22853c8e8185f20ba0f26330fcc",
+      "es": "f135959e9ac06b96dc1dd237b0e1fffcf6a0ffc17cf5d55d03192c0c40978755",
+      "it": "c17a94fe6eaed91c789ebbfd2e317bf63f9b3497d4930144ff304dc110e1b29c",
+      "de": "7624b48a23bf32784560f926633547cb96dad250eafbb0a0ace9adba4d776d3a",
+      "pt-br": "2e31910ddcf45e6a4ba69074116a9d9e41681692be6642f8cf6ee48630e1fc15",
+      "zh-tw": "130373fb30c9b86a48d535956beb7a0d20af5b3890ff731f1da3b627332ae527"
+    },
+    "reviewSha256": "c3f872912c1208d4ffb8d78285740f132b84ff0f45801ff2b704233171149fb1"
+  },
+  {
+    "cardId": "C1-137",
+    "representative": "C1-023",
+    "gameId": "PK_20_022000_00",
+    "mechanicId": "PK_022000",
+    "sourceImageSha256": {
+      "en": "c92486cbf59f7aaf27352eb647eb8d08ce836ed4514c71e0bec9f193b47a13d4",
+      "fr": "27d2040d525dcbb34b50a5eb7269a6e184449e025db4ff11b825d4eb18bf3011",
+      "es": "56f5317b2bc80a242f05283ea29c205e8da966f41b8081dfab2172a68eb0125e",
+      "it": "eb2db7d637285eea927bc4af6199ef341474f63e4be805d71eaa4bee3932edbf",
+      "de": "ba3a7d7e29db0fdb5db7680a6d64015100b6ef73d6dbbdc92c8b0f578d265b51",
+      "pt-br": "77d3cd28eba332ecc8e447cc5ade5873209c28a40a3beb3bff341bedd6e6cfa4",
+      "zh-tw": "8fcc9e0fb8733bc0d11cd3237e7bbb0906cb1c918d4b0ec2f818982f9c18432d"
+    },
+    "reviewSha256": "d536ff75f5e4a242a3ed0bb778533534b781431b20fa3526cb800982521a0a2d"
+  },
+  {
+    "cardId": "C1-138",
+    "representative": "C1-028",
+    "gameId": "PK_20_022050_00",
+    "mechanicId": "PK_022050",
+    "sourceImageSha256": {
+      "en": "2764fc24a08e408bd68ed7b57d6f79aa71e0e94d0d91b6726181d95d478ce7ca",
+      "fr": "ea560bbb75904f9d021f9a24167f03aa9a4ea54ba5035cac07f80a72b1042c10",
+      "es": "73b68c1bae451f1c2e269fd0604d0a9666f1ab2a62d3c1b59d9654c30a0c1ccf",
+      "it": "f17fd1a84980128228dd4e326437df21161ec52c00714b4e670321f7eb29be16",
+      "de": "dc598438ff86c9a7f484d28bd58b299f2da3e81173e6c4a02ff3ae7a0439ae39",
+      "pt-br": "6e94e7806ef7fdb61b575e8a0b7546396f0c885ff1a7e924eeedbaca1756079a",
+      "zh-tw": "613133ba64910de199a9f5c1c3d7a5762f50541a0401a187389968177d9224fa"
+    },
+    "reviewSha256": "30a8e23ecfac84d48ef6f759937f536bc1bc73386bf912b858761987c310d017"
+  },
+  {
+    "cardId": "C1-139",
+    "representative": "C1-031",
+    "gameId": "PK_20_022080_00",
+    "mechanicId": "PK_022080",
+    "sourceImageSha256": {
+      "en": "54cb3d96fee225e1a190c64702d477b6fb71ae79a2b5f681a739b1f650b664a8",
+      "fr": "8b42b362f7fa04041e5d406f0352aa985007f5c3edb0d45540e325cb975ea8ff",
+      "es": "b6c8b11f3a2547f8f3bd75100a800f946033c9654aec4288b8d2d388762daea0",
+      "it": "f674fab9501df26c236bcd08dd5f42720d4fe0f7a6112acd97e120826001b20d",
+      "de": "ef8ee65615736c96b1cd69887e62f4fb6f029a3ae2e76e6b60343b57161c321a",
+      "pt-br": "a1786d76ab5182ee9fb6e635f84dafb2ab00a9c34dba3923f28fddd7d37d347f",
+      "zh-tw": "4139eb5bf6c512586363dece3d6b4879da1c5fa58034648caecb6564295a80db"
+    },
+    "reviewSha256": "ceb3e57b2e6944712c8820fe53c95634ea565b47c2efb3c8cb44f3deee426b03"
+  },
+  {
+    "cardId": "C1-140",
+    "representative": "C1-038",
+    "gameId": "PK_20_022150_00",
+    "mechanicId": "PK_022150",
+    "sourceImageSha256": {
+      "en": "ec74ccf891c6a92c77d01799e674e2b4f351b6c66fdea44a14f0516057748589",
+      "fr": "53b03ecf28bf5718767d06b6dd01af552418fcd948d218f89cb16488c8ea0262",
+      "es": "f1f7861347ac05e6f3e1eebcfefff27b624336814d624274140bc1278d48ce1b",
+      "it": "2a78622450e0e3d9b45768657a1ff897f39c0b6e3090522bf4c44bf2d5d7a612",
+      "de": "7a9a87cf88d6b4a79da809dd312a14974710d1cc9e976c28fc6a898b44a18a2d",
+      "pt-br": "241e95d48989f2944f5df9cac0946eb3e0381582c395d6a803921b5446eaba44",
+      "zh-tw": "d963ba92e575afb3fea694cc3edace6fff742367cd53bc7c44063c41b95b4880"
+    },
+    "reviewSha256": "c36759245362f24de480fd3f60377706bf69aefc00d9da6feec26b1a07b8731b"
+  },
+  {
+    "cardId": "C1-141",
+    "representative": "C1-041",
+    "gameId": "PK_20_022180_00",
+    "mechanicId": "PK_022180",
+    "sourceImageSha256": {
+      "en": "e61d60dfbbaf265041f98c2b609e95e38449d110937a77d6de2ee46e5b50c572",
+      "fr": "e5e13c0aae707b4b7f3cab6d459d4674d96f333f55b3035ffa979708eba4350d",
+      "es": "f7c87e48e1bbe9913d0052767a0f5634940376f864a363a11eee439f6cddad09",
+      "it": "ebc9a8eca0a2abf7d545388cc643126b7257d215fb2a07b06ba7d124b795d313",
+      "de": "7f3ec9a8b2515b63fdd76fb593a68b73c182aca0734ed2216999ba1bb8afce93",
+      "pt-br": "8cae7ff549ca62fa474344b932caf0bd06279168131082e370c33376332099cc",
+      "zh-tw": "e7e2dcaa1ecbf32631581b79efacdd1931f85bcf66724caa817c076e797e67d2"
+    },
+    "reviewSha256": "7ee3a7c0aff3a12afb2d97da69faf225499c6a91e2852a9b1c6922df0c433deb"
+  },
+  {
+    "cardId": "C1-142",
+    "representative": "C1-050",
+    "gameId": "PK_20_022270_00",
+    "mechanicId": "PK_022270",
+    "sourceImageSha256": {
+      "en": "106df7fd1cac806237242a28ad078ab16b16324a361a7c832bba0fcb4ec212d1",
+      "fr": "49bcbeab4fce7b1ca6af43100fca7190203809a9c97b44a0510720b1ba6de2b0",
+      "es": "29e05ac8c31d797fe5a560978ed04b732eb3959a944f9f07dc073d3cd16f2613",
+      "it": "bb7eff634f7ddeb99af3ca6d4a393781c75ee95d2243e508546f1365b8c54031",
+      "de": "12ccd2cb7ae4b5fb715dd2dbd166a7746f98ec571c1ddbb4e2da069d89be44ea",
+      "pt-br": "85614b93537e0d6b058bb64d565287b4906040b20cb2671fae96b46fc66560a1",
+      "zh-tw": "2afd9eb58b37f80b59308607ae3d4cbb2afa85288afe65b48da3c09a7f65c40a"
+    },
+    "reviewSha256": "f5b652832ddf38963d36f2755005fb2c08e1adb8b6d7fda2a688e6a281b17893"
+  },
+  {
+    "cardId": "C1-143",
+    "representative": "C1-063",
+    "gameId": "PK_20_022400_00",
+    "mechanicId": "PK_022400",
+    "sourceImageSha256": {
+      "en": "b1b212c26cf645e0e86674c982bef2f1d7e31592f1325a48202fe6ab3eb2a45d",
+      "fr": "ac6ca5e01b8e6a438c4f2ca9b347e2825398b789e1ec9a45470e283e32902f6f",
+      "es": "8d83a459b3d6a10b448d2e21a22a8ea2d3f6f983acbc2ed95e939c88869cd865",
+      "it": "0625111af5f65a6c3d89f627b928c9a5ec14fefed9144ceb09e36c8c4c802935",
+      "de": "d02a26f338bd8762c6d19a131a40347a7c56ff9d1688178b53bde0b27de798ea",
+      "pt-br": "adf9d7d9db8bba3efe0e951c7259f0fbed023ff31564228ae79fae9dfc1b3d8e",
+      "zh-tw": "b3e27931ccbcf0695734ef204b6ecd14aa07e1feda8b8d7af8f4c868a4fbc560"
+    },
+    "reviewSha256": "3cd92e9d497df494d37b83fe85bfa24d0bebba66f7f955847bea224c644e6ef3"
+  },
+  {
+    "cardId": "C1-144",
+    "representative": "C1-065",
+    "gameId": "PK_20_022420_00",
+    "mechanicId": "PK_022420",
+    "sourceImageSha256": {
+      "en": "3e6b23d03c183be4ab135b1c422da7c27640119620cdab30f1fdfdd68a289848",
+      "fr": "3c6732e6d5bb99605bab8f78b3aa276a68a93096ae9f136a7ae68fd3c8d1f986",
+      "es": "111a159b24605874ff0b36c702495d385037777a75d9d6bdce16234d8344d165",
+      "it": "18782868e0e31ac28b905b10af3c1f7611d5f55e786ec3986ce0f05c67259a45",
+      "de": "6e9dad554619c973dfab41268e01c2c9a929ea4022d3abd55a71897cb13d284c",
+      "pt-br": "794e0d64f762065c3a90a87cf25d2703ea159b62f0904e5923909656c8917aba",
+      "zh-tw": "fbea776d284b431c3501cb7ee40844cde93962f4f8424140ec050134c4661af5"
+    },
+    "reviewSha256": "fe21593ba56903c6d48b609cd6ff4297be31b45136e07fc336db95a5d936b148"
+  },
+  {
+    "cardId": "C1-145",
+    "representative": "C1-075",
+    "gameId": "PK_20_022520_00",
+    "mechanicId": "PK_022520",
+    "sourceImageSha256": {
+      "en": "d2837272d7b1aa972f1e329ebfd319fefdb04764f8239abe4f25adaa76f715e1",
+      "fr": "81f0df02bb152f854ee4c74663fe2fb212a8e74335c42949f2e4f65ae5ac4005",
+      "es": "1a6676a138fff25e1e27746c294bcb74de2a07cac12fd4e96ea55935719c28c1",
+      "it": "2ec413dd1bbf6314bf2163e5143ddbabc70ad45823b04fd7b7edda8559dde3c6",
+      "de": "0e5144b1ae8bdd9c9cf12068778344c26e5c5c6b087e0e796b8921b2291ee471",
+      "pt-br": "e8e754589756616a0f0dfc9e7ea4534ea7fc93350b7b4833917f9f65944ecc7f",
+      "zh-tw": "4d214c1d5319b03bd79f4efa2d69557241c5ed07eacdd1eacb7c61673852a053"
+    },
+    "reviewSha256": "c9f06d0075a26badd83f80f6bd9a879b17797659477499d25fbbe06599e13fa9"
+  },
+  {
+    "cardId": "C1-146",
+    "representative": "C1-076",
+    "gameId": "PK_20_022530_00",
+    "mechanicId": "PK_022530",
+    "sourceImageSha256": {
+      "en": "b4d2de49d92065dd219b8f481413a7803ee67ca686d54acf656ec4b0f6f30640",
+      "fr": "cf5a15f24e6db9ffa6f14b0b57aafefa44a088349a06f60ed670bd15760908c9",
+      "es": "cebfe99d70249f253d875120f9ce4ceb2952f5a0f126f6b62916f85c9fc31d8c",
+      "it": "b1789593297c6c30eddca92cabf9cb974d6c46dc6c57bf501cf480dbccff3fe8",
+      "de": "034f91719cabf3d4365b36ca96e298ed7d9d503aa0d30934016a06787b05ef9e",
+      "pt-br": "47ee8d8d56f6dfd263d212bc70adc1266c51460e21b595595e429f340fa2c307",
+      "zh-tw": "0151e173e57de9d0b4cd66ad8b723e8fe1bfe4985ce1cfb82f01563676f2d68a"
+    },
+    "reviewSha256": "d09d53e75ab7489c3a539940ee84ead2dc28f9d07d225a50e6a2299ebbc52710"
+  },
+  {
+    "cardId": "C1-147",
+    "representative": "C1-074",
+    "gameId": "PK_20_022510_00",
+    "mechanicId": "PK_022510",
+    "sourceImageSha256": {
+      "en": "6be600879a84bd41e380d1b02e62a0b69c929cf743fa7df0fcd6f73fcb007028",
+      "fr": "222b5538738075f3e328a3b5e00b4edbc70a3d858bf99529e14ae7b57c455e34",
+      "es": "b25a0dce36b1f8df195ecd7463dc805a26e38109f471734dadaaccdee486d717",
+      "it": "bee4c2cf8c9285f9a7a62196b3955747d7d3311d7342ac717e39048865f887ca",
+      "de": "7f289ba13c721a44efff29b69366d24769cb623018e78c7ab5f6b7193ac588e7",
+      "pt-br": "bc21388d77ae65a0c2aa39a8d5af656ed1c18a486695b1a22bc13c22e95ac42d",
+      "zh-tw": "6e5f5dd77e9d91fe89333d2bcd5f53d30d3f49a196a6da7f040222fd87f918db"
+    },
+    "reviewSha256": "8144305f9970fda869fcb6bf887f43d913623af131d963c422210a77d1ee40c6"
+  },
+  {
+    "cardId": "C1-148",
+    "representative": "C1-083",
+    "gameId": "PK_20_022600_00",
+    "mechanicId": "PK_022600",
+    "sourceImageSha256": {
+      "en": "2b1d24d821cd86342391d3ada35564e275c31e03e2b51c2fdb51a52b0c1f09f9",
+      "fr": "88a9cdf1f0cf5787269959a45ff577c9997fd7a93d160aea99f2b61d9fa247ee",
+      "es": "108fee9ce03057f0c91648cad619a0c7267e8e0e55e7ed5b3a933e7f886b002a",
+      "it": "ce51afde64c1baddc22ca1da3f48bb697112c4415617a1d64f3b658f4fc38a70",
+      "de": "a632c35c9686fe4bb59b3a9690e0cd5e01bce33f154556ef57b461d4a9096cdb",
+      "pt-br": "251455d62457ecb0f80ca8a1329713e8cf689e884b795635a45d8155358207ed",
+      "zh-tw": "9e20663cc785a0bd0162e0a7041bc7c600cdccb8d6a72755d2c86eb444ad96ff"
+    },
+    "reviewSha256": "c81926f2daea7a744db33a0a4ded22bb1d86dce3f55cc1de6c9d964c15a3c469"
+  },
+  {
+    "cardId": "C1-149",
+    "representative": "C1-092",
+    "gameId": "PK_20_022690_00",
+    "mechanicId": "PK_022690",
+    "sourceImageSha256": {
+      "en": "b16b0f1d5add38dce84ba3ee2f53618ff92cd49f561081d73ff628d530648dfe",
+      "fr": "53db3f01dd6791605bf867184ec5477479a0f3dd30c344d1ddd2a173b778b769",
+      "es": "64958a6f707f9f3020930bd0d5a33632207ed13b5077ab3d647fdfdb67f8f8fe",
+      "it": "1a7840cd10fb9e63be71301edc55a1f5ef878f5c1cefa5704f663e5cc518e8f6",
+      "de": "2eead686ac975e4fbc65e5361052e30b3c6b038cac4ae37ee20da6e501abe82f",
+      "pt-br": "91c7cb7bd64f4e7d91c0b1af092e26dff10751bdfbb56fbb8f71cc39f95e1452",
+      "zh-tw": "be58096985999241c55f3bb6c631f97964835c63f32a93f82a389fa39c17d7f9"
+    },
+    "reviewSha256": "e28fc7325f7e4499c9a8c4f73b6eb1d7e64ac069b9fa90c56f62a879584f8dd5"
+  },
+  {
+    "cardId": "C1-150",
+    "representative": "C1-097",
+    "gameId": "PK_20_022740_00",
+    "mechanicId": "PK_022740",
+    "sourceImageSha256": {
+      "en": "bd8e35f7fa0e99017120b9f6abae3cca2ca203b9ef3392f3ef406c68184634a3",
+      "fr": "6c4423ce6dba7b8dc4d608b197f223201ff8f79b193ba1477fc8eefde924b041",
+      "es": "ae345cafbee9891747896a6e8f61673f796a851fd0e5217b7c790cfa74c6ed8b",
+      "it": "338d71befd2b9a543f9d8413722ce469e594adcf49bd1d9d722a520fa3141c92",
+      "de": "8c4a42603c7d0bae9d24015b09de6baec15d84946214e78cf30181c87c4702ff",
+      "pt-br": "e084e68ff01ee8b33c3c28db28bd74cb442956b8923e144fff52cfa5490bdf2d",
+      "zh-tw": "1fbfa720fce63080ac9490b75ab04e0f789a2babc77a1399d1750c86f922668a"
+    },
+    "reviewSha256": "4cd7316ed835d8535d0c477e8d8c84fb349c16090e0b2930e307e881fe2ef413"
+  },
+  {
+    "cardId": "C1-151",
+    "representative": "C1-113",
+    "gameId": "PK_20_022900_00",
+    "mechanicId": "PK_022900",
+    "sourceImageSha256": {
+      "en": "11fdc4f9935ec1dcd45b5b959dbf33099f95e4325052371e309414428dbadb01",
+      "fr": "c9d5c2195748ca1487558d9446e8637bb32057a0295ab71c956d1a39037cc6c9",
+      "es": "058e41b3b060c847da32e9cb1e2beb1b2dbf6b17c473967af0c044fc911ea759",
+      "it": "2349e257e99448b6370a767fd0c5456326cf80fa3cca6808d6f661bc34c445f9",
+      "de": "1a7ad249bf33c8b33510391a2a69817b260484efd0520531a5b357ee6273c852",
+      "pt-br": "32de0e5ce8f8fe32181ad6aad839c225acf2076a254bdd0716582cd7bbdee5af",
+      "zh-tw": "576010f21271df2d36b0e4efe07dc92bc624a585d0bd1f21d04c9b93e662dd84"
+    },
+    "reviewSha256": "9718bd9849b1a4389de7f446bd4e18d85c8e796d14c4c2b3ece34921876a93b3"
+  },
+  {
+    "cardId": "C1-152",
+    "representative": "C1-119",
+    "gameId": "TR_20_001660_00",
+    "mechanicId": "TR_001660",
+    "sourceImageSha256": {
+      "en": "d9bf750ae1ffccf88d369268d00ff1d9f6adc84310c0b6dc4af23eb6ffaebf18",
+      "fr": "da7921a70bb2f065756428f36b746cde02efc93746bb1bba35a9f27c298a322b",
+      "es": "d6063da60a6a9fe5af221f9e2c41f6c9152cc37bbff2bc7d3e54239dbcf7d8c9",
+      "it": "7b9ca455b47967e9d7bfbb52eb8f5faa6c6af401664910603954f9cf6f270154",
+      "de": "41c894fa6f80fae1eb0009d2adfb5df60e94609b22c605765a50cb44a34b7168",
+      "pt-br": "301b18765db87b1cabc056a6fdde29173ef58e710aa31dcd94d768b94431d314",
+      "zh-tw": "7205a4974ea2c938150f321ae3c36765efd461de06291d0bd6c470c0ee432ace"
+    },
+    "reviewSha256": "91958323c07f367919f253ac7731f76dabe075aa61e070cabb4699f01290f307"
+  },
+  {
+    "cardId": "C1-153",
+    "representative": "C1-005",
+    "gameId": "PK_20_021820_00",
+    "mechanicId": "PK_021820",
+    "sourceImageSha256": {
+      "en": "82bf739f009513c9fd1e67a594d265bf7a13b1095ed032e6f3e091a80dfc4403",
+      "fr": "cb7cffe952673f02e684eb6d2874a1ab1c1871ab7c9f379e14eae752a753e3bb",
+      "es": "8dda7f3ff63a3cbdc6c7fdf822f5a8a0389b4da478464675f2001e24308f04e3",
+      "it": "2cf3bc0eeafc36537efdf0c5d79477f5ffca334bcee89d17265c5291415ffb03",
+      "de": "e17641d8acae5a132013893e5c57ddd721c136d6d69c220e05dd8c45b209af10",
+      "pt-br": "46c43c2405969da875a1712c87e0365a64392ca4443d906dbc0d45ecba8d3039",
+      "zh-tw": "2c9447d27dbcf9bff7ef5a69cc4a3744d19c5cc17e27b3ae45bde0ecd9d66b29"
+    },
+    "reviewSha256": "23ec3829583c8b7612625c50dccdf253b60bfac2d5debb95a85feadb3d2cd9d6"
+  },
+  {
+    "cardId": "C1-154",
+    "representative": "C1-025",
+    "gameId": "PK_20_022020_00",
+    "mechanicId": "PK_022020",
+    "sourceImageSha256": {
+      "en": "d77f5705574eda4e933942b7df6e2a2b3150d22fee0859b505ef4777e90d74bf",
+      "fr": "092466241ddd6986194cb951ddb65b799d00a3b24c209d3ca3e026b7d98b392e",
+      "es": "f53e034812c9c1d3e663040020720985cecb693f0b844f08020175920c51acf5",
+      "it": "b9c2731831a75b1e4d1fa4dc9c23d324127fe44fb1c817279b719b03ef3a7918",
+      "de": "9b172590dcdd57f3b67307c6e3c22721998da3be73bdb151966c0a28f4d94ba2",
+      "pt-br": "b8886fb2ebb8d632dabad5e6fdf2ffd06afe6e03185f6024f24bf3f9c8aa7f55",
+      "zh-tw": "f04113752b7ec6686da9340fc79a9ba871f09c59401278018c1a3adf7d96986a"
+    },
+    "reviewSha256": "4ee68be426c06c4019b5dec2f0a31cc6fe3cf76ea933c951b5764ddad016c031"
+  },
+  {
+    "cardId": "C1-155",
+    "representative": "C1-042",
+    "gameId": "PK_20_022190_00",
+    "mechanicId": "PK_022190",
+    "sourceImageSha256": {
+      "en": "e55f56e459873b5be5287b636560dddf7661182de78a0e9d84496fa68a47a3fb",
+      "fr": "76462f7a246aada480c8336732a378500356314533a698d81485b5c8852bd846",
+      "es": "1383fec51449bf33760ed989b273fa4e61be1d6b83ec6756bf16641d29d4b5f7",
+      "it": "c0c7917f91556da8078164ed4d5eb8e96c338cf75fc06494c17a36fae1567ad8",
+      "de": "d91ff65b8b37574dec2cdc466edb1913dbd6389d6bd1f0e1d986dbdfe7614ec4",
+      "pt-br": "df5e46d4181b1ada306da30ac591114e310e1ae3c4dfe004d3a813193f6952df",
+      "zh-tw": "4cd82073be7285095b5f054901135be9a43e2819b5974b412504ee163b68e4bf"
+    },
+    "reviewSha256": "28ed97447721f6aeceb691d03fa5b2cbaf3d020a4900c836885d45954f75e928"
+  },
+  {
+    "cardId": "C1-156",
+    "representative": "C1-043",
+    "gameId": "PK_20_022200_00",
+    "mechanicId": "PK_022200",
+    "sourceImageSha256": {
+      "en": "c5a9a085f31fcc17fc8f62842870bc66e53e1a5c66d360f7d4a80c6a75baf5c6",
+      "fr": "072d7f94bd7b61ba06db561f32afe64f18cf395271774857d2290038b30ca25b",
+      "es": "520b237ca34b8e91440ff91e46a8deae8b7d5d80ef5e1c1cb52883d523b2a169",
+      "it": "c6c5f530b5e91523590a70d4a4ff98b17c0e9976005ed6c36ecdb0e93d8aa272",
+      "de": "c78800881d1ab8abbff13e90ec8a364e6cf92b5bebaf662580ae97e84c56dd60",
+      "pt-br": "c4ae464a6a7c6e934b1c82b9a6622bb7e199f737900057ba63b3bb2cdf33186f",
+      "zh-tw": "8644705fc7ec656f36ca3a4a1bfb29b3c1133e16c09c2c1f22983af2f3117b97"
+    },
+    "reviewSha256": "57f43da50a0f9d46f57d5c29a145a8b9453ce25887fbaf7cb7168d83e0250dc5"
+  },
+  {
+    "cardId": "C1-157",
+    "representative": "C1-056",
+    "gameId": "PK_20_022330_00",
+    "mechanicId": "PK_022330",
+    "sourceImageSha256": {
+      "en": "af929a0c7191c24693bcc14f5f4b92ec0b772a8b5665722b01b9e86a9565f831",
+      "fr": "417b43b761cb166ff9261b681f9252f0b1375f2b95c94075ec0b88ce0ad77051",
+      "es": "1dc82211cf7fba95fb92185d42372fa9796d1b8fe68fa206ef69d13edab6e967",
+      "it": "66966e33febe953596265ce4527625bb71f3426d4609ca15e59a1c573c43fd17",
+      "de": "77cbd5829adadd5a8f3020dd4f1bf7ab57f9453c47985a55bd669ac7b98881cf",
+      "pt-br": "c0c5d3d50883540c903ac3c1494ee634ccf79a5873cb07aa3c47599961887433",
+      "zh-tw": "a3bbec4d88cad8f6cbfaf50998ec088691b440a4140a56741c08857339478e14"
+    },
+    "reviewSha256": "ff52976aac3ca5a234ba362e2a217a8f7b282fff866711f65cc82506d5d95463"
+  },
+  {
+    "cardId": "C1-158",
+    "representative": "C1-057",
+    "gameId": "PK_20_022340_00",
+    "mechanicId": "PK_022340",
+    "sourceImageSha256": {
+      "en": "96f51a5de824a9e72a5b983087bc04a3a43837bcf22cf0358621e0ff973f9613",
+      "fr": "147732d28ff5da047af48520ab49c682d8b6ec2a9bc463d42ff9f7e08857bfb6",
+      "es": "bfccdac32f0142161cb206aa75cc9781cd65229a788aa6dd0288d67ae960183b",
+      "it": "47377307f4faa0afc617444a6bae988b87e5475ff7eeac68389d3ab548fdf03c",
+      "de": "7406f0f3960a6a74465610b72b137c32aed6022ce54df04fc518e35c02ff9e89",
+      "pt-br": "dc52569fde7c518b5d550b84de0d63b778c1ee7c257028f1fe22cb07adafa246",
+      "zh-tw": "d38be3a4ea426075b9309dcfa176783f2a15866ac17ed562077754ae53c2208b"
+    },
+    "reviewSha256": "2b516ecf688e18cf49932239fc7bf0eea3e58a5953b8faab92b5a40da4471998"
+  },
+  {
+    "cardId": "C1-159",
+    "representative": "C1-080",
+    "gameId": "PK_20_022570_00",
+    "mechanicId": "PK_022570",
+    "sourceImageSha256": {
+      "en": "6920c36548fe9ce1b196facca5ba21e7d3ef5647625d7ecfbc97d068b09fc914",
+      "fr": "67b0f528697391a853fa287e7cf0f922afc9b802ba2558111809a7b60586d32a",
+      "es": "fd430984a954dc1c522cbaf205627cb87d072632cee8cf27024e893a8f514ad4",
+      "it": "148d14c9eee054832a814944e98141037de95e65726a66fe8bcc53dfd901181d",
+      "de": "f72a19986dd833d9322868295c85940513bfe45fc8e014db0b91337e793676f1",
+      "pt-br": "e81631e162609ef184dc73d5b48ad9bdd0e1b24e463b766a53a20efd967178da",
+      "zh-tw": "bbc0598b65a2e928a8f8a0bdca84c0d07a129ccd5c47e157c7509593ebb0c8f8"
+    },
+    "reviewSha256": "2912ad793db0a8efd992448a56b966e73e11ce2fed03bb42b51d188fa46c8490"
+  },
+  {
+    "cardId": "C1-160",
+    "representative": "C1-085",
+    "gameId": "PK_20_022620_00",
+    "mechanicId": "PK_022620",
+    "sourceImageSha256": {
+      "en": "6de626c3b19e1e05334737c77a688d2eed48628e9551b74fffe3cd20d6f8b0a1",
+      "fr": "f9fad39631904d930075e7d03d431b1a7282ac4c517e7870b8c0f9fcc5c18482",
+      "es": "44255e35f8a68ae739896c250177e3704b128012803cfdda248facde75def2aa",
+      "it": "c3772bdaca08033502505e6a1ff11bb684439d3adb0c021bda4520f9af075e71",
+      "de": "3cf87ce31b421c96cf8eac2d608f0320352ab5e95f549bfba4d55585c4e5f8b8",
+      "pt-br": "a3a2cf8c0711615ea5f77116f099216e64dda11036ac32ca0c38941d6e3abc07",
+      "zh-tw": "c73e19cf7a934d0f5c835ffbfc34cb7c892da9d1984f1be8f68f4ab1135d416a"
+    },
+    "reviewSha256": "3768bfbd274447612f549ca8a97ca3128e9d0e87ff32fa657d135a9f00c44b13"
+  },
+  {
+    "cardId": "C1-161",
+    "representative": "C1-091",
+    "gameId": "PK_20_022680_00",
+    "mechanicId": "PK_022680",
+    "sourceImageSha256": {
+      "en": "a61f4990a3a41b353e8b240343796a31366738653aead5487584a03a7dae85cb",
+      "fr": "2f5ad272f0cd022fa53d8cca9b2d7086dcfa26d1117eaf9318c8ce757af15daa",
+      "es": "9e784040776755c1b23a61ec3417d09b81c10455dab17388c995b8a5d4b7a686",
+      "it": "fa2211692cdda1b91e0c585639a602143071d6918b3b48fec99fd0a147f64b72",
+      "de": "77fc7b3a8a076fb2a5aa6fd22e2e1b159364c73d527513208640797d515bfed1",
+      "pt-br": "c64d8469c4e59cf83a54fa5b26bc6f8aa5e2a7c0eba0c1146fb4034a9edef21c",
+      "zh-tw": "36fbcafcddde4b76f8ff1a007cbf0a7d73a2c381c06c4cb331478571f5b28d34"
+    },
+    "reviewSha256": "3104e55b3f954d87516f64d74a50e5740bc46ab957da39a06a3e182ef96d016d"
+  },
+  {
+    "cardId": "C1-162",
+    "representative": "C1-100",
+    "gameId": "PK_20_022770_00",
+    "mechanicId": "PK_022770",
+    "sourceImageSha256": {
+      "en": "ca5feceab9280f3e9f1620d7d78760a025534a7fc670a24acbdb47bcabafa2c0",
+      "fr": "9340333c5274dc57af46a2a37aef6c342ad700181f19af0811d0881cdd6f9980",
+      "es": "9fcfa93adc02d814006b90fd14a6d1dcde7ed2dce74c0809ecc76fae3009553c",
+      "it": "81493393b2a35dccaef16ce12b3b32ed62d5540e0e0c75113aea6c7c7c781333",
+      "de": "3e7344ab3dd3f6e06252cac07bd0b17ccf499200dd7285e82ad32fcb7ff610cd",
+      "pt-br": "974d59815274cc3600de690b6a0f173da35d8a4edb892f42c9c9dedce6f323a8",
+      "zh-tw": "179de9d0379e46d2ee5d6c564376748d7cb332f0ea8cf46b5a3b49e1141d366a"
+    },
+    "reviewSha256": "5be208b13d14ef76e15ada4104593e66516f3347bbfdbe7d0fd96d5bffe79a85"
+  },
+  {
+    "cardId": "C1-163",
+    "representative": "C1-101",
+    "gameId": "PK_20_022780_00",
+    "mechanicId": "PK_022780",
+    "sourceImageSha256": {
+      "en": "539d3071fe64e553ae8f47ffd9b116fe981187415aef5718cfa18ea43e2561eb",
+      "fr": "0062493e51ab09267c02186429f6019156ea2980fadcc23e8bf9f04957a07f88",
+      "es": "034d0195d598dfe28bb2ce83e726e28e402550f4be40a84d47cef560f8910ab4",
+      "it": "915ee50f2b03d660597eb3916d7b741429bd03a65a636135675fbc82110cf705",
+      "de": "0fa9a7988bb8e540b958572d568d96c2358730c705bd9df38d7a56d4affbb384",
+      "pt-br": "6efd0dcd87179032588ffc9168737278811539025ae1fa741c9ec22e23b2dea4",
+      "zh-tw": "669d0f04f0a9767f64b2bee0410cf7aa92be8567626b425cf32b9840e4a37e7e"
+    },
+    "reviewSha256": "42f0cbc5356c23f67373460f70ebc5d266dd2f8711bdd7dfa3fd8b46f24a88c5"
+  },
+  {
+    "cardId": "C1-164",
+    "representative": "C1-118",
+    "gameId": "PK_20_022950_00",
+    "mechanicId": "PK_022950",
+    "sourceImageSha256": {
+      "en": "265edf79047575be016920edc838ba38a9230881bd90d6ef8b3bba4bf9a26a8a",
+      "fr": "dcf2d8149743686ba26a257f4ed3d94b2268f113df5ad32924236fcd5aee4bf7",
+      "es": "7919928eabccb5ea7492e09622438e110b5d92ff9ff0fc416a521d274618c3ac",
+      "it": "024c32e2fd8c3ec288f772c620b128a4525e9f52672b16ad8e42f509f32358b3",
+      "de": "e7ab04d651fbaefb4bbfc54449092cdf25e23d251b3bd01dd147ce3c93ad6b92",
+      "pt-br": "6e9ade04919e86186743c33bae2f3213c6b8319dbb74132677522753c54dfa28",
+      "zh-tw": "7192492a5ebb5a03eda285a153e673c2550f52b635a9384b7814d33ed253f1ea"
+    },
+    "reviewSha256": "134fc33be68cb761d1dac175579ac9995e5715e3460260aae1e3a697c8209741"
+  },
+  {
+    "cardId": "C1-165",
+    "representative": "C1-125",
+    "gameId": "TR_20_001720_00",
+    "mechanicId": "TR_001720",
+    "sourceImageSha256": {
+      "en": "589c4889227e1224f1c3d50972bb42348e366caea527d841680edaa1cf32d442",
+      "fr": "ab48b9d30f7438c12ea1b1d2a306e5f888e3fda55ca58a2f80458da8bde82d8f",
+      "es": "0c87409bbbd80afbdf02b5db7b7a9a7284f75f02d6a203c864e4e64784eaa2be",
+      "it": "d17d327e218980fc67653520177170f77eef4c8dc27895b042447a49a94cba6f",
+      "de": "9fab94f42b191ed86b01b7b686e2e7fbf34251e89b053f09404b10f4ebca887c",
+      "pt-br": "4993561e3132a475a1a8c03493abe95a7f9f49ca9125f2a6c2ea29610fed72b6",
+      "zh-tw": "7226da7dbf5286cbc87c54a8f1dc7b62d3dfae91b8928263bcc353e10fca7934"
+    },
+    "reviewSha256": "8d7fcbc0f7f422e2d730cf4a2459140129dfa2fd0aa2c208cd91aabf5f2c985f"
+  },
+  {
+    "cardId": "C1-166",
+    "representative": "C1-126",
+    "gameId": "TR_20_001730_00",
+    "mechanicId": "TR_001730",
+    "sourceImageSha256": {
+      "en": "708450bea0e0c70caa4fc0aee75c161479de8b0648ca79142ad06cfb492ca1b4",
+      "fr": "ee995ee01b4a4a14da15584b60f7c488f0479534a4e0b9612e956150d44f573c",
+      "es": "698e5a304e086ef2ef0185ab6fcbd417f92e21d268ac80dd9d313b88b5cb4910",
+      "it": "08f5a2386664673d3e933efbf2bbe9f1f2c208d1eb447d711048af0ee0c3291d",
+      "de": "b92816bb236111902bcc6bdd380154f84070ca5327dd2b2605ea5f5c39e49a8f",
+      "pt-br": "0759765024a31798ef7caf4c07951c4d7ae36d0cddde2e26d6185710319cf140",
+      "zh-tw": "656fbb7d9bbaaf919f238b0d6c2a011642cf3a4ff1e4d1cca396311b020b212b"
+    },
+    "reviewSha256": "cbea4182b23f7b2782584292ce1455a938195b45c3802dba8ff65c05981d885a"
+  },
+  {
+    "cardId": "C1-167",
+    "representative": "C1-127",
+    "gameId": "TR_20_001740_00",
+    "mechanicId": "TR_001740",
+    "sourceImageSha256": {
+      "en": "2169c08626ec6fe1cb6d288fa5234f0a7667d171bf3bb492cda3305e3067b225",
+      "fr": "c9ea0bdd660a7fce9ed73a3804df79f39522f5ab0cf2d7d73a99653f6dbe8b92",
+      "es": "4b0576466d884402214b323f33adb341f541ff377eab171e7f880e0f55ef37b7",
+      "it": "163570650d0698144c7c99d40abae52742468549b87c0d233261d50b41dac7b9",
+      "de": "77239f801258c34119c5798e0c067b9dad45c5a792e9aaf42871865d7c09c620",
+      "pt-br": "bcb5b5a91fc9f78c516537f5ec495bf541c0ab360c81ef8ea17125797693da50",
+      "zh-tw": "c74dce2d0215d934fa99e80ff6972880faee5345891d1a3e30e4ea4f40f48aa2"
+    },
+    "reviewSha256": "107af5429a5e5d4ab03f1865d772643e7fa4e3dc07365edb0ae3c8e710464b7b"
+  },
+  {
+    "cardId": "C1-168",
+    "representative": "C1-128",
+    "gameId": "TR_20_001750_00",
+    "mechanicId": "TR_001750",
+    "sourceImageSha256": {
+      "en": "03db6fd0a13f46afea97c89e5a946ef36924a782eb6d0729d0578a900cbe29b1",
+      "fr": "db009dcecfcb3a58b7e46404a537f9699815bbd277220be46d89213166ccbc45",
+      "es": "fce6c702ae701fe4d9c9c4764640b6690796355fa4ffcabd7acac79a6f2777c9",
+      "it": "57e74818e0f77180bf9c921ca58420aeec7fc4978790c2f7c908f98dc5b6129b",
+      "de": "aeba8b6cfa596679a20b1c030964f5b26c351b0cc0e12b9beff8dd6144caaf4f",
+      "pt-br": "414d7276bc925d0f5f382cb1328e1c03595647ff9a1ae37915fa2e8a9267cc18",
+      "zh-tw": "74cc0689a070c903a8f7ea74b6f8c55057ff612ab8a3ae84b2f38922f9cf2da9"
+    },
+    "reviewSha256": "a0f2578a0ee24a3ae672c6b047dc251929c29ddb0b5e824823c3cfd022e40960"
+  },
+  {
+    "cardId": "C1-169",
+    "representative": "C1-129",
+    "gameId": "TR_20_001760_00",
+    "mechanicId": "TR_001760",
+    "sourceImageSha256": {
+      "en": "d0e0ca69abbc64b783d38540e180393fe0de7e4d65ecfbdc58376a50ab6258d3",
+      "fr": "f6fe8a0241eb75a6868612da900072bf1211d13236c85fc9dbee8b6221027b20",
+      "es": "f000c7dd353d87d8e8d126c7945f10a4dd5be83b2f1ab9af195f4d5872a145f5",
+      "it": "52724ec9afe04ef585d5b886a0c6008208b9c6bd076205eb039f6668306a48ea",
+      "de": "467098990c2b8f5e65f09f9542f1ac40a2f5dbf4e943f1cfd72d3122bc1a780c",
+      "pt-br": "23a6adbd4ba9eac64390702e0c81dda58ba9b23a9f0ce03b1473288807f3e74b",
+      "zh-tw": "580b40a7813521acf61ea03d4a93ed828d18615635648e52f09b9e12334c9e68"
+    },
+    "reviewSha256": "62fef4b697c95cb5f11d898960f70117ad2da89b1c2e771139ee20c5c30a0f32"
+  },
+  {
+    "cardId": "C1-170",
+    "representative": "C1-130",
+    "gameId": "TR_20_001770_00",
+    "mechanicId": "TR_001770",
+    "sourceImageSha256": {
+      "en": "ce27e993d2032970f29a1aa632690cfa848c62ca47c3ecd4c7e42d16dbee6911",
+      "fr": "a6dcda1fb18a8829c7089aeb08b4d7da629263856f5ce58bd128a6ecb6f28036",
+      "es": "ad74df52b8f3d4599b48650bb8502bf61be3481d22ef03a914e9d8d5d6f3ce2b",
+      "it": "4e984618bad09bdf329b32b4479512505c3d68560c170db28834c6039c285286",
+      "de": "4808816ad36a705f2e41783badca2573996b1aaf0695335a79b87b5184d3db88",
+      "pt-br": "e38e578a62daf130b1ef8f1f1f607ab6c947ad2f333474d6b6f6e8fdfd5104e7",
+      "zh-tw": "41bbcf36f44b0e4f3ade7c2349074f281669130e3eeaf9c6d5d7b98c7bf4646b"
+    },
+    "reviewSha256": "a3d133dd5ead32e1f1adda92feb18cfcd7cfea6a4035101ebbf7136480212d90"
+  },
+  {
+    "cardId": "C1-171",
+    "representative": "C1-005",
+    "gameId": "PK_20_021820_01",
+    "mechanicId": "PK_021820",
+    "sourceImageSha256": {
+      "en": "b3efbd2e8e613150c377247aeb6c3e61f786d4ca367239292f50762cf9de0911",
+      "fr": "a04ba9da474ce5eff5597826af368e21433c4b9ab5ee4a40483c430765db8fe1",
+      "es": "4182a80b3445c5806d4a58e3aa1a383ee4b8d587a714f3da5339e511f52f9b16",
+      "it": "2a2f8c5f0b70417e6c6d5abcfa029407a258271492f64dabce5819e6e721f8ff",
+      "de": "ccd53b471a6c6931a66fcf2c794f0bd089fca3ce940efef41e6c43f30238283b",
+      "pt-br": "9172ce861d86fc9fac0da1b8dee013ed211202da9b1be42a163297fa5bb3dc31",
+      "zh-tw": "c374cc4ddab8eec737801c3dd24d0904e0861d39d5be60dfc8c2c0f6945b1f17"
+    },
+    "reviewSha256": "23ec3829583c8b7612625c50dccdf253b60bfac2d5debb95a85feadb3d2cd9d6"
+  },
+  {
+    "cardId": "C1-172",
+    "representative": "C1-025",
+    "gameId": "PK_20_022020_01",
+    "mechanicId": "PK_022020",
+    "sourceImageSha256": {
+      "en": "debcfad6cb5ef9d81e9f714e8d8c9c0aaafcb95ee5f8c0242c6285e7b407413f",
+      "fr": "3efe5d4864a46286a8025ec7e777cf3838cb1f67de5793aebc2cd313e529cb04",
+      "es": "9db79e7ab2666fd5fed758fbce506a815d5080fd463999adbeeaad27e62232a4",
+      "it": "72c4d66561041e4086c6756961210f789def0d08472dc6046eac223ff07c813c",
+      "de": "fbcd1c578940ea1d05fe0e2ca77b0e352564bdb7347cfd8d244d0cedbc8c5aaf",
+      "pt-br": "2bc54ef756e6e88304f332cdfc4990fea4fdf48411c1d08e15046d6b9fdc05b6",
+      "zh-tw": "ee9c83a275198457ea0bed3b466fc642ffbb313d33cc48b53fdd602541e7d30a"
+    },
+    "reviewSha256": "4ee68be426c06c4019b5dec2f0a31cc6fe3cf76ea933c951b5764ddad016c031"
+  },
+  {
+    "cardId": "C1-173",
+    "representative": "C1-042",
+    "gameId": "PK_20_022190_01",
+    "mechanicId": "PK_022190",
+    "sourceImageSha256": {
+      "en": "98b62d4e539742c83686b096cab8370ea93b2e336c248f44a569035e57df1493",
+      "fr": "c6bbe3194c168391484f68ceb1b9dd5b0c7d47d8e8dd16ead5119c1058f5e716",
+      "es": "3d4cb724c0511f9a30b977480c562edb301bef81135f557176c358a268d2c640",
+      "it": "99119f10baa0961823e7d203aad287f19a2d495d45839932da27331522f468e6",
+      "de": "b184fa72a7886788ff9c1f3c69e2c86a01a6d979a1be9ac001bf961c05695c7e",
+      "pt-br": "728686c8e2523493d895b4ac62b7414d042777cf0025f47945ad7d4de947c3c4",
+      "zh-tw": "23b8a835297762d73cda9a16744f76aedc02842f5ece14b8a6ba5342ba0f5fce"
+    },
+    "reviewSha256": "28ed97447721f6aeceb691d03fa5b2cbaf3d020a4900c836885d45954f75e928"
+  },
+  {
+    "cardId": "C1-174",
+    "representative": "C1-043",
+    "gameId": "PK_20_022200_01",
+    "mechanicId": "PK_022200",
+    "sourceImageSha256": {
+      "en": "b07ac86d8a6f6c1c3e174f7379244c801591559a8252712693715acca088440c",
+      "fr": "45eade05a4ee76e8537dd5b0674b1696713cfee1498915a60d8970f04b3912c7",
+      "es": "fdf9358b209279f14cce8a41c7904b527361709048b75a54d6595d3f4d94f81b",
+      "it": "a295b2e4ab3ccffde0a6f3c6a6521a56506d19d919aaba9c6f892b0a2d4ab372",
+      "de": "e7aae816f1d351d5e566d8a022baa2436891822d5501fc671b97323c59bcaf0f",
+      "pt-br": "4eb90e56c8c083d8c9a580f06f90319e1e127e14ff0eca247bda78b1688113e8",
+      "zh-tw": "ec9f48dddcecbfd6510b7525e830cd9a2b7c16c9f5c1f00081bcd41ec784e44b"
+    },
+    "reviewSha256": "57f43da50a0f9d46f57d5c29a145a8b9453ce25887fbaf7cb7168d83e0250dc5"
+  },
+  {
+    "cardId": "C1-175",
+    "representative": "C1-056",
+    "gameId": "PK_20_022330_01",
+    "mechanicId": "PK_022330",
+    "sourceImageSha256": {
+      "en": "df79aea1859fbe80e4fe77ecbf29aebebb4c32e88b363c8214ecd3bc719753c5",
+      "fr": "c767b7685bdd0253eb4a66ad61b7f26f8271b803b7cf1968a4f36b60022a3a6a",
+      "es": "f616c9f28040ba03796af3436f8b0018ff1be9b445c39c25782af663cdc9e6f9",
+      "it": "c8387e96a0b6e5b3bdfd60c29acc19b5ea1e5a652f0e9facf73b8445d20a8213",
+      "de": "8b048d886dea70c64da61cdf9c449664cfedf8a3b2c2f2f1b608eff7534a5b97",
+      "pt-br": "8484bea89530f149f94c2433bafe8d84842d925a1da2b50114a02e965499a56c",
+      "zh-tw": "9d56a48570c19501d4a086da42bc045ddfa3a53d2cddbb79a6fcf1d61070c27e"
+    },
+    "reviewSha256": "ff52976aac3ca5a234ba362e2a217a8f7b282fff866711f65cc82506d5d95463"
+  },
+  {
+    "cardId": "C1-176",
+    "representative": "C1-057",
+    "gameId": "PK_20_022340_01",
+    "mechanicId": "PK_022340",
+    "sourceImageSha256": {
+      "en": "e773f973c801ae7bac1ce7faa3c46c0412496dda413a8ced97ca0c459354cb77",
+      "fr": "207b4a462ba717dcb7cce2baa7657a7279bc2458a976e3912f53ced083a59219",
+      "es": "df2b1adaea1bdf4a2b47543f925075a7b44a923a7a57fe0cc191b7fced876f88",
+      "it": "d8d6ef923d8164db4cc8bdc1fa8f615aca20b33f9db1ad668f964d6b8dfb6061",
+      "de": "edfe57d487495629b627f1c633261a214d5e3163adf34bd870147bfb1e6a63a4",
+      "pt-br": "7beaa4777cdd63485d639361f93d1031143db3092aacb59ef170f459de3f4d35",
+      "zh-tw": "d041669deb645efbbe28cf31c59b5cad55dd9a888d7692df3be66510c2d869ca"
+    },
+    "reviewSha256": "2b516ecf688e18cf49932239fc7bf0eea3e58a5953b8faab92b5a40da4471998"
+  },
+  {
+    "cardId": "C1-177",
+    "representative": "C1-080",
+    "gameId": "PK_20_022570_01",
+    "mechanicId": "PK_022570",
+    "sourceImageSha256": {
+      "en": "8ff46fdc1c045b2dc8e17456475278ee1471f97becd99a2ce24d6ed2050ca681",
+      "fr": "725f49789d57691deca1baf07f5bf0a31fd95e7343f48f295ac64324e69fe2db",
+      "es": "5f96d48b51a005895ce09e36ad7e9f13a33bee34c562f9ddb2be4c83d6cc418d",
+      "it": "d6b05ec2c70acbbe1a3d9745eb7e39d23a63b08abca22b2d243cfa72c37b2143",
+      "de": "0b1809881a831f34508f95690f7a327fa58a80fd7686c8c4852a320de078a917",
+      "pt-br": "11d5b3ef872a096de06b93c9fe26cd61716a0cc0225ac8b83353cf8017242577",
+      "zh-tw": "ae62cdcd59ccc0a1b102941da8a8e50848ca0186ff5df8a2f941ff972c402b8f"
+    },
+    "reviewSha256": "2912ad793db0a8efd992448a56b966e73e11ce2fed03bb42b51d188fa46c8490"
+  },
+  {
+    "cardId": "C1-178",
+    "representative": "C1-085",
+    "gameId": "PK_20_022620_01",
+    "mechanicId": "PK_022620",
+    "sourceImageSha256": {
+      "en": "89a9471fac0cb87413ed624d99d3c08c0ab32cefd4dc1bf9c9dfdb03d4e85332",
+      "fr": "5bf03ecd6d4b928f3566ff40ed051c71d35813441517fd9e417b3f9e8e9d682c",
+      "es": "6075f4f39a91edf3024c757dc13cccd5c1a83dc48134f649ef6e9b49d14f22f6",
+      "it": "29a97cb3077552819369eeeff0f30af696e36557c55b608340c9b880b5663365",
+      "de": "a9b30efb204ad090eb09be7f30e6832a869a35ad53f43ec603f47680dec7df08",
+      "pt-br": "0740ad3a6bc1e167427fc2dc3f4664e85f7bd75bbb3475fba42b3b0f2dfb3023",
+      "zh-tw": "fb806ac43bfb03aa9bb0467900b5d39511791f905e9a55e308d09840c01c12d4"
+    },
+    "reviewSha256": "3768bfbd274447612f549ca8a97ca3128e9d0e87ff32fa657d135a9f00c44b13"
+  },
+  {
+    "cardId": "C1-179",
+    "representative": "C1-091",
+    "gameId": "PK_20_022680_01",
+    "mechanicId": "PK_022680",
+    "sourceImageSha256": {
+      "en": "c593e48628c5117f54f319dd7ec8600fe1f79513c16d41095f06f807ee24634d",
+      "fr": "9e2bdea0830fd34e04828170b4c7818d2bfdc393765cdf7ff144577ec994bee5",
+      "es": "1316e67b49a56a01cb1a6bf7cbfa1bcedca8ef26c719913a5835ecfafbcd2e93",
+      "it": "9e3c894c3b4631ad7b63e778bd11759bbd9288651e991f4026e22cf4fcab365d",
+      "de": "c15e4c8bd6120f69a6e8c53de585c1e5817959d4ba7dc584f9f127fb479d0c17",
+      "pt-br": "a709d5499f35337c9a665baef6c4473ea31fc58b950605f407d840da5802587f",
+      "zh-tw": "25d994a27589b059d28be216f8a3be0d827614d842e3ea979236f5ca25d57b2c"
+    },
+    "reviewSha256": "3104e55b3f954d87516f64d74a50e5740bc46ab957da39a06a3e182ef96d016d"
+  },
+  {
+    "cardId": "C1-180",
+    "representative": "C1-100",
+    "gameId": "PK_20_022770_01",
+    "mechanicId": "PK_022770",
+    "sourceImageSha256": {
+      "en": "698df9f0edc735e4ae149c4876fb8ba0fa58e001a4affc841eb565fa2724ec8c",
+      "fr": "2866f64ea940591433b689ef319120ef35cb35c9d71d6ef6fa229476d05302a6",
+      "es": "180ca5b5d681ede486747306f36f3131989020862f2140c8f8186cc2afa8e242",
+      "it": "dedeb7c580f97260faa17370f41c587ec47007581c5a4e6b7b111662174cc29a",
+      "de": "a048f189dddf9e69922640f092bba1febbb97f1312bcc536c443a387cbeba64c",
+      "pt-br": "859015ec738e1580bd6e07ee54b4642d27894f34da919428f9300fb099cdc3cf",
+      "zh-tw": "bd91442ae527178b2ec9ad1ec60138edd4a03f8ffb2f1fa346e465470f7452ed"
+    },
+    "reviewSha256": "5be208b13d14ef76e15ada4104593e66516f3347bbfdbe7d0fd96d5bffe79a85"
+  },
+  {
+    "cardId": "C1-181",
+    "representative": "C1-101",
+    "gameId": "PK_20_022780_01",
+    "mechanicId": "PK_022780",
+    "sourceImageSha256": {
+      "en": "8b13f8078e9134851d1aacdcae6fe94496201262f424fafbccf287cb66a03211",
+      "fr": "18440f55c15760860eeae7c4522c7b00e0aa753276e9081e91ae242f571df40f",
+      "es": "198609a5d54fb1cc4404c2c6a944f3ea9e0bd8e23060b0dca7a485535c0c7a77",
+      "it": "9e64161c258319124d44beccf357504b776d44cf962e76f8bc47e55137a28952",
+      "de": "f90eb4b8ee241970f60b0410807532faf043fafc421d65510345540004e6e830",
+      "pt-br": "80c525413e2555c48f4a0fd7548dd5e73ca494ca38c6cff7c96106516b99ac62",
+      "zh-tw": "5750cd4d4e3e387916ac20650410b80f39ad8220bdd74ad9d26cad99ada5edca"
+    },
+    "reviewSha256": "42f0cbc5356c23f67373460f70ebc5d266dd2f8711bdd7dfa3fd8b46f24a88c5"
+  },
+  {
+    "cardId": "C1-182",
+    "representative": "C1-118",
+    "gameId": "PK_20_022950_01",
+    "mechanicId": "PK_022950",
+    "sourceImageSha256": {
+      "en": "fb88bea5960cfe5e39a24fd1221343b1db00f531dba332a2939e598e683b908b",
+      "fr": "16912dea673d503d18606b44831d1dd6c056b1118d066663982a11ef835432b4",
+      "es": "d284f9d0327e074ca1573fb864b7e949f71766d71b592429f0aaa5883d162e71",
+      "it": "3fa0f775e826d538a81793d09f68b6ff2bc177dfcecc3a922dd02932688b4369",
+      "de": "a42538c4ad3559f10dcc62fe44f7552394618720991645d8f9750146b593e9a4",
+      "pt-br": "4a5dac82413029e005a667ed323b5c4315767a2d3c00734644f658efa2884a96",
+      "zh-tw": "64a343b37fa80e2941157ed951f60fb39087d0c359641445690f84be55b2aecf"
+    },
+    "reviewSha256": "134fc33be68cb761d1dac175579ac9995e5715e3460260aae1e3a697c8209741"
+  },
+  {
+    "cardId": "C1-183",
+    "representative": "C1-043",
+    "gameId": "PK_20_022200_02",
+    "mechanicId": "PK_022200",
+    "sourceImageSha256": {
+      "en": "c7d92b9d55ff4a4544eea2a48b04b2ecc827da2059bc1caa314819db342a4dc5",
+      "fr": "edf5fe7622c7a1bfdc1414be16534474408378ab4372baae3c98a157dea43f2f",
+      "es": "19afe2b1239a63e5fb34241fb13a647d11187bb711046bc2392523938273f8c8",
+      "it": "d211f73b42c4271d7f823f6d121dafdabb522767516de6181622d950ce3ce144",
+      "de": "0f415a1e3f3487e8308f74047cc13a337bd778b5ce5c8a38958001f46f733089",
+      "pt-br": "732108ddab089d358e227c090ad6ad02be75fd3fd113c81b3c47d34c11e0001d",
+      "zh-tw": "119da13ffc2fca316304cdd8f8a37b9a1b12395ae5f778eee4fae5a2f7787367"
+    },
+    "reviewSha256": "57f43da50a0f9d46f57d5c29a145a8b9453ce25887fbaf7cb7168d83e0250dc5"
+  },
+  {
+    "cardId": "C1-184",
+    "representative": "C1-051",
+    "gameId": "PK_20_022280_00",
+    "mechanicId": "PK_022280",
+    "sourceImageSha256": {
+      "en": "768e6141a66df9075f59c6de9ab07e4d59df524f19ada86014db6188ce128c07",
+      "fr": "91f1151580e3f42831fa301bac3065f796f5f057f3d24e2b8cbb071e66061e35",
+      "es": "e37135e955ac0126668ad6fe8a66719fa1b161ed01391b3840ec4dd28462e2f7",
+      "it": "175a68196d7963ced60a822719cc24ec3380f9e7f962b97c35cb8655d410654e",
+      "de": "35eb83d7be6088afadf8b69c1a280c0a313569ca4997fe3c85e0743e1dfff854",
+      "pt-br": "76b4d056109c79e7c58fd2d8c250649f9cc0f3d341145f55059919a273a7f9ea",
+      "zh-tw": "9692b6abbce08d261f3da2e7daf909bc101b0ef1ef606055c61c21e66888da8f"
+    },
+    "reviewSha256": "1cf4c342e9946430003506ecd52cd29647ee25010f2bedd110df26cb18d62cb8"
+  },
+  {
+    "cardId": "C1-185",
+    "representative": "C1-056",
+    "gameId": "PK_20_022330_02",
+    "mechanicId": "PK_022330",
+    "sourceImageSha256": {
+      "en": "39774d7103c62a492af74c8b309535f210e73a77f1dd2ae8d70597c03e881609",
+      "fr": "6b5324be88cddad67a22563e98ac31a8c49ba5cfa191ee9bb881eb12c771fd9e",
+      "es": "5bf4a2b8d7071477d0e90f6457bd3252f0f6e3c3e20dba48a16eb3c374000846",
+      "it": "58bcdfba4d15f39249cda7868be85eb685f7c862353506699405e4277c63999f",
+      "de": "db16d4b28fe3fbb9d802631d8b8258c8076cff7a6b8562fe649aa9cc443a2674",
+      "pt-br": "6e8d938576da317cbdf9b025d929ffe0a652dbd4c5b5b0499564b2aac5134848",
+      "zh-tw": "07ff9eba4bf5323d24ddf8b1d7f00afed5499ab9c14554d62a072a282ba66b0c"
+    },
+    "reviewSha256": "ff52976aac3ca5a234ba362e2a217a8f7b282fff866711f65cc82506d5d95463"
+  },
+  {
+    "cardId": "C1-186",
+    "representative": "C1-084",
+    "gameId": "PK_20_022610_00",
+    "mechanicId": "PK_022610",
+    "sourceImageSha256": {
+      "en": "e7e9c2fe0abff5ca6eaff6c4086040c86ebbbf9418120cc23daef3f479cd0e6a",
+      "fr": "3f9c2a5e5bf165ed28d1c79d7f135ab04b18e2dd5483faad5f2b07ce3ea8b80d",
+      "es": "f56cccecdddeff0c964a4bc3dbc969d51c762bd09adafb953acf87532fa3766f",
+      "it": "52e117ee1d56e10864d918261d631e412630da7d14d17040ead0a09a0565a1ef",
+      "de": "4ea28d0f34d6c4f76e282edc7a6724d5ea47ac4cc4bb280bee8d4f2749069408",
+      "pt-br": "a4b27ebbc8136c5ad704c8a62aff5802ef5be1ea55d7018446c904cf9e236b05",
+      "zh-tw": "684d11c90a796ead8578dce32d061572816e1dccc126417c8d44f8c166db349c"
+    },
+    "reviewSha256": "904e689fb8864bfddd9d7ae94d46a453ceac02abefffd9f5caa9407403a60efc"
+  },
+  {
+    "cardId": "C1-187",
+    "representative": "C1-187",
+    "gameId": "PK_20_016690_01",
+    "mechanicId": "PK_016690",
+    "sourceImageSha256": {
+      "en": "657814821da840f4dcbaccff58b1566116e77089d582e7bad70590b23ea9754a",
+      "fr": "4cc1d0e79b8017f3275583d5b5292d90cd3b86ef43728e1532ad1c3d6f766d9f",
+      "es": "967bc918c8b3e8e6d91582362c771c30b3062bea5f6e25c1cdb53c7bb4edcb55",
+      "it": "c34dc1180ac02d6958d29be71c4b1f078870381f56798d49128e7b40021e80d9",
+      "de": "1131b867073228e71bd024d5de3437fb5047756df15285e6170933d2528c3d07",
+      "pt-br": "e163ed467e954868a3753d7573a76d1e8e4bf10b0fcc6aeab5b47d8f94230808",
+      "zh-tw": "a712c1470c9abcd4b768685530ecb8f7220c5822b31c4c5a6ff4d7a958726388"
+    },
+    "reviewSha256": "94c3fbf956643772db7c86d53150d567923e407c32866a03329b42d7e67a6873"
+  },
+  {
+    "cardId": "C1-188",
+    "representative": "C1-188",
+    "gameId": "PK_20_016700_01",
+    "mechanicId": "PK_016700",
+    "sourceImageSha256": {
+      "en": "3eca056ecb70a82863a2cd8d7c8618cc6bd1a5bbaec3fa2bb809ba08ee82aa67",
+      "fr": "7189c623f2cfa1c3f4a8b7753d89f3b9c695142f23f8c8dafcde93ca71f801d5",
+      "es": "dfb406c88e876c6c559fe813e650a83353a2ccabab0108c18d261d1016996042",
+      "it": "ded764dd91592d57b4a332006105b107a7df226f2a1359d3f7693b705fe55253",
+      "de": "c973c1db82403171b41fce231b02a88d6d63302db8cc6f4e1a131d08dc5235c4",
+      "pt-br": "576a0b4c21b9b8fd95827dca30eb6deeb7eb89235dffb6d84d0fa6d7cbc5ecda",
+      "zh-tw": "2e7f54d2acbe11ae1335fc5e8d4769a90052ae85c14ce7386f583e6ea0a7ea8b"
+    },
+    "reviewSha256": "4438b98a80270862b33593916bf4b48b7931ed3ccf673c39bc4a85d42244adc4"
+  },
+  {
+    "cardId": "C1-189",
+    "representative": "C1-189",
+    "gameId": "PK_20_016710_01",
+    "mechanicId": "PK_016710",
+    "sourceImageSha256": {
+      "en": "71b8ae8cc42923793bdaf88eb60fb05e6b2ceb688b8c48b72b1fb2df9eb88185",
+      "fr": "cd49afac6f78a3145576155b849d3c35154d8008efde3429bd4df698b6484637",
+      "es": "adfaa7551965995ce54bae2e28211319722d3b9a4f3bc0cbd7a29110b34f4590",
+      "it": "49f465c715eb43db9a58a92bbcb341dcbc1b8b59db81219d39dd67c9e4cc258a",
+      "de": "6c7bf29036831a1eda8cb8664ccba9a422f959b1d507ff51f39ffb4327d296b1",
+      "pt-br": "2f8ee0a3033cd1b220f5968343cfac0e7a888d5b713674e1b87296f34e1a64b2",
+      "zh-tw": "eea6257c385785ac9f7fff6219d174d25636ae6ba65c951aa5888d933e889498"
+    },
+    "reviewSha256": "2439cd7e0c2fd1adad64798ed1db434b4ed83a261df15f94b1426d25461076ad"
+  },
+  {
+    "cardId": "C1-190",
+    "representative": "C1-190",
+    "gameId": "PK_20_019850_00",
+    "mechanicId": "PK_019850",
+    "sourceImageSha256": {
+      "en": "131dc60dfc0d3351fe0c6c7f0725016f536486605058858d9127de2d99464f64",
+      "fr": "248a87c67fb3576067a8f171d71c568e5a8ae9c74701961814f994914777302f",
+      "es": "6646eb96bd1b2c1999d3a44691bf80bfed8b6edd9b88bb11d346ee553b5d56ce",
+      "it": "4eeb2444bc4cabc977d1b48c78ba02e854c6b6ccf2317aba9fcb59cfaf663ad1",
+      "de": "0639fe04a4028862338e1edc832a9c6ee65ee1593a50262264a0d192b08b39f7",
+      "pt-br": "e240f74b1a326a3bd26519a12bd622cb5d8ba8d1ff9ced90da3335079fb3af43",
+      "zh-tw": "e5286b824e80c04c8f0a37ab1c7ae9a6568d1a908677d980ff9aa2f617726113"
+    },
+    "reviewSha256": "323d0e8319d8ffc0b32b129380c9e65b1b2b914fd5d8a0eba1c5e7ab153da2a2"
+  },
+  {
+    "cardId": "C1-191",
+    "representative": "C1-191",
+    "gameId": "PK_20_019860_01",
+    "mechanicId": "PK_019860",
+    "sourceImageSha256": {
+      "en": "1b335177bb6c98dc9725e0080b506abab6025899215b354964a0f11ff6c4ef93",
+      "fr": "8157237f2c72e51431519897f751f42fb25379a0659d69842d671a0158af500f",
+      "es": "5b1890eb8a713cacceb2f77a58f58513539336c452dc3e3eb508701c4e1b2d72",
+      "it": "a1f206602dee06928ee7c13dafbac3e8f7eab1559f2fedc9e25aa10f4abadb44",
+      "de": "c363298317f3527b1e60199472bfcb5ea18a9249679133bbc112a595bb9fb6c3",
+      "pt-br": "5d8647ffca51d2808e8c4b56bc9c23a3530c679cf4882e49a68e9043d1de0e6a",
+      "zh-tw": "611f8811b4e0220dbc0b1d898ee4b1983bd193e31f9e760281542290539b3781"
+    },
+    "reviewSha256": "22b5fac41819c442fb7e64cd1a6e33102544a69662c2c4bcb9bebbb946e65180"
+  },
+  {
+    "cardId": "C1-192",
+    "representative": "C1-032",
+    "gameId": "PK_20_022090_00",
+    "mechanicId": "PK_022090",
+    "sourceImageSha256": {
+      "en": "8c492734fa5cc933b1a73396a5c0d1628af16c8af2c11aaf5ca74e350b55d5b5",
+      "fr": "cf57d629ba5125309a732a7d4219c063b22f893fe3cb254f775dd7a315f7cefe",
+      "es": "384ee86cb1848d8dedfb61b1ea81b4974d9dc778d5eba8721c4144e7447ec297",
+      "it": "c5a5e3a7d6577aafe7c6fdb03693dbcadc1af44dafc443670c26dee86c31a5b4",
+      "de": "c67d0f81913569916459aed1a98d60c3cad1573d20ee1c548531f4a761156e3d",
+      "pt-br": "26b7cad2db5783aac66aceef48d90bc9d461a5d6efa48472edd432e6d981eeec",
+      "zh-tw": "23642ed9f3b68b50520b1a828c297f96cedd17f2367e9a51c55beeb1c880f2c7"
+    },
+    "reviewSha256": "f3a31bbc15b5d4b461da5802b57083410017ec7e3d0932edc011cd079d60d918"
+  },
+  {
+    "cardId": "C1-193",
+    "representative": "C1-033",
+    "gameId": "PK_20_022100_00",
+    "mechanicId": "PK_022100",
+    "sourceImageSha256": {
+      "en": "4aa8655175224cb542fd6067ab0717304ef57404c06086f3eb83da231de2fa93",
+      "fr": "3ce15a258a1571ff7fb0ba21a539d7c43a1eef5598b30ace7c2379760dc8b846",
+      "es": "5e72cafd86229a45439403a4c6a9e9dd549d65a09dd40d1b3f9f9184232eb169",
+      "it": "0e3b5718af877636f270106ebed8ae00de557c95cb0cb65350a2b22810c2f0e1",
+      "de": "87f899d53e1f857dc092032ac767365d9f806a5b75c17885dd58175f218fa56f",
+      "pt-br": "2a444d123e0539633ef7d2cc8755098869c32ad72d30b3275e3c2e0712820a27",
+      "zh-tw": "1eba36a9c8522269b95d84618c81767d1613fb4680a6e448d5eccf986af3b26f"
+    },
+    "reviewSha256": "bbf6c07a2eecd4368a5f91631f27e8361b6faee0d34819a37e0e2c80469c3d9e"
+  },
+  {
+    "cardId": "C1-194",
+    "representative": "C1-194",
+    "gameId": "PK_20_020150_00",
+    "mechanicId": "PK_020150",
+    "sourceImageSha256": {
+      "en": "775fe3ce90446d55359585e5866da841f6ccd0126efc359420c2efcbc44aeb3a",
+      "fr": "0f402d317bb64c93ac4615cfbae9eb3cd23ed44a3a3846766d83df1001b1ce26",
+      "es": "f6bf97e2a549160000fdb16a100dca6aa2461c0231dba244e3aa934009c6d9cc",
+      "it": "42b33850958e82f1143614c8e73a91e5a21bdb138ac134908b8fed71a8d1be37",
+      "de": "1aadcca0a84820a43fe0b31847cdd0edcb33802fc02be2c632b94e68b9dcaf29",
+      "pt-br": "14f34788e2802260494ba34a6d9308343389052ca10e70acc0bf11f1d042432d",
+      "zh-tw": "43e38cc61dc424b4bde13b20164feafa6bf08956985643e8574031527789ccef"
+    },
+    "reviewSha256": "2b506f7d090f664d4a7b91d4c66b5c2a460c91c8bc8d1233394c0e817334a627"
+  },
+  {
+    "cardId": "C1-195",
+    "representative": "C1-053",
+    "gameId": "PK_20_022300_00",
+    "mechanicId": "PK_022300",
+    "sourceImageSha256": {
+      "en": "561a67eeffaf919fb1c8efc5ba0f61e085579d710ce920616b3d56583ade9347",
+      "fr": "f6cd064a5569f8f910c797b0bd28402fb16686927419fb928c1e24a69502fbe7",
+      "es": "f1a8a7862f7c0bd2fd4dff4e2121adbab33d907728f19c48f9a37265fa24e6a6",
+      "it": "252cf9d1eca8759310fcc48c130d48f3a02076cb2aca3dfdba0bd519eb3676f9",
+      "de": "c103c072e1c8fcc9d5c3ca35a1807bad0b2b78b5ba133da21c1c90c214704a4e",
+      "pt-br": "0e11cc74bea09e949fa19f5f5cf12b523fbf75b0061538b72f56746c4ff0adb9",
+      "zh-tw": "6f6026cd9fb6d9091313a2b362b7e05c32da88ee46989bc73eb4e44964e9ba7a"
+    },
+    "reviewSha256": "5d1124ddfdc47c5744294620922ce35358dde23c7206946c67b1e4dea3d43ad3"
+  },
+  {
+    "cardId": "C1-196",
+    "representative": "C1-054",
+    "gameId": "PK_20_022310_00",
+    "mechanicId": "PK_022310",
+    "sourceImageSha256": {
+      "en": "4860c57a101e33f27240d926e033d1ab5742a1a7591b131c3c2606ffede1a8db",
+      "fr": "8e911f933644b8a252de0114f39836d5f3c3e0f6bc22f6c964875f2ffa5e820f",
+      "es": "f4f7c9943e4eb5b8d6f08aad3892a891bc94e3c91beee5322e3870a4e6ee8d99",
+      "it": "b853388fa8cc328df522ef59dc755d442df30154a80faff05efe32af9bae6bce",
+      "de": "b10f4f78c571566561939858d974ec62e6bb4ea6a8842c42962dacaffbe214ee",
+      "pt-br": "b1be18b7f35625a4037a7a727758a9ce8b68964b48175c26d99a614d1737a0f7",
+      "zh-tw": "ce34da3b1509bebe717bb3df7aeb1fe2a7d2178795426f286d93540775434f54"
+    },
+    "reviewSha256": "9aa60065a0ed108a41e7f11d55c976373303eeaeed793bf2b27e2e1ed4b51a92"
+  },
+  {
+    "cardId": "C1-197",
+    "representative": "C1-055",
+    "gameId": "PK_20_022320_00",
+    "mechanicId": "PK_022320",
+    "sourceImageSha256": {
+      "en": "ab3c10ce067900f9e10019b367b3aabfab2221724fda6ba92dc18534ef289d6c",
+      "fr": "48403bcceba926707171114a8afa7085f1244e6fac1a3dd32b76139567ac0105",
+      "es": "0a9649a362001c5072abfd1c28a0d28af5012f39adb63e63ab12da17596f0791",
+      "it": "a29273d0e8b5fdc108a38c2f0611d69378d60cdff5ee50195d56961981b8df81",
+      "de": "e90fec47e575efce5c968348f891bc41c5fc134d604e782ec40598356f2437b4",
+      "pt-br": "26beb78d013abfed5b9edef0c48b2c1f2abce98425e451553031d0954677d5db",
+      "zh-tw": "c1b272d1a6f99c0e9a363023b68d328064cfb688e5a44f668955b5eb0f13af5e"
+    },
+    "reviewSha256": "39aa5cfe25ff9478af0742f61ef9fa974acdd3a89e6a745a590c5a87085a782a"
+  },
+  {
+    "cardId": "C1-198",
+    "representative": "C1-066",
+    "gameId": "PK_20_022430_00",
+    "mechanicId": "PK_022430",
+    "sourceImageSha256": {
+      "en": "f4630e8847f20b8c8826d701237098a0ccf06e1d3e323489a4495ff21cd8561d",
+      "fr": "5e82c5c79a1724f849212f0121690be42359bc56e6fae731a4719cfbaef6bde2",
+      "es": "45b0ed2948e7905e087d31fa844996ace67edbed4a8ead568e38f0f11d330fe8",
+      "it": "42a275ae5f771695947384e553443cca2c15f41b78c8b4760124f0d927d5b658",
+      "de": "f9a67c5d247e96432d9969bc7c57862b4942ef3def8e4e0e2c30de3421f339ae",
+      "pt-br": "29d0ddfc5fb584f08e1ea627055209fb86c9a992607631e5d986fe5e3636ab96",
+      "zh-tw": "77980b84ee27f794de09ed9103ceff771c059c6830e9d374f785b9d846ab4b2b"
+    },
+    "reviewSha256": "f566a249196ac3c196315e4014e88c1472429becb22985da76bdf687ca9f1506"
+  },
+  {
+    "cardId": "C1-199",
+    "representative": "C1-069",
+    "gameId": "PK_20_022460_00",
+    "mechanicId": "PK_022460",
+    "sourceImageSha256": {
+      "en": "4a181c6fbc9b51ea424a944c1c82983fc1d1e7a859b090cf6c0c21bc01f5b342",
+      "fr": "c06eba09d6636f31afa1fb31ca523974241fd5b62f5311aa6dc52277e1aac1f6",
+      "es": "1a9c401aba724d60b605bf738c3dc406fe0bf5d0ff5632731ef09de70f9a68f3",
+      "it": "34579541fd430d23812788bbe383ed801f76a217a9fc6d06b6cdd07cfec9fea5",
+      "de": "6b21b5c81c30e1be5103d4d91d88f335048d96367eee47c61eab68cfb092da86",
+      "pt-br": "462666bb702b5f1475e6dd2a742e41ebd6c0ba367be98c045a9a7a37529b6445",
+      "zh-tw": "99b0abd587b42e5f9851eef4a055a35891d640c901ef3f358fcd4c2b4428cefd"
+    },
+    "reviewSha256": "ab05e40670282c468e9190c90f9bb549616fbb72f4f631defd849baaecf55657"
+  },
+  {
+    "cardId": "C1-200",
+    "representative": "C1-070",
+    "gameId": "PK_20_022470_00",
+    "mechanicId": "PK_022470",
+    "sourceImageSha256": {
+      "en": "77c6417a5cb1323cc924b29b2f8b31a67448a30da99075d42d5cd8758d810b0e",
+      "fr": "9a2d829e281d4c746f07f80a6a5a672e909765fcbfb10651288cb2c4098e5f61",
+      "es": "c0f351ad003fb4c21ad2e4293844cf828ec3c54397d6f51f69f538ce22a9b383",
+      "it": "13c3c19f6171528a29b7f0f40174082a3565c461e9dcb245e2662f48af352c1d",
+      "de": "69967c661da538d44390dbcd8bb784a0a81d72be5948c770d27b8103896e80c1",
+      "pt-br": "a4a767a14265c1b184d8325e39448b17b503578534a2dfef04e0cf9fe91a4782",
+      "zh-tw": "9ee4036c380064f6d70419c4c2c2f6ca003aac3f17253e6a3ee2e57690b11cc0"
+    },
+    "reviewSha256": "4bdd711cd254201a1dce741b774df7b73170f239f9b25efb17ed4650118c0ca3"
+  },
+  {
+    "cardId": "C1-201",
+    "representative": "C1-201",
+    "gameId": "PK_20_016490_01",
+    "mechanicId": "PK_016490",
+    "sourceImageSha256": {
+      "en": "6939631239fc4ce7a55deee35bda33a50b627e30fea77847ca300e64d50d6d64",
+      "fr": "37cbc57ee28c37e676beee5718b12a1ced62877ddfb7f426fde670bca7423eef",
+      "es": "2092007542761b6e3326d06045327cf4bab69c13929ae1df2ee21aa02f8d028b",
+      "it": "42a7654765ad1c2c671be49aa3ce6e151ba9a424372d1e3eb548dea3d58ff625",
+      "de": "5720c4a0327de42a133494d52f254b6d86b847d6f4e6175fb362f9b8f418dfb4",
+      "pt-br": "57859deb9ee2b19ffb7bc836626290f03a76e3df785c4368b3a0aee2f33122b4",
+      "zh-tw": "8e6822f79243d617b8d54fdc49e0e48f830b73c03c8ee5cfb2d43851384c5d2d"
+    },
+    "reviewSha256": "87331b51ebc2b56dbc5865486abd64dc53cc58e5746bae87067623345e524c76"
+  },
+  {
+    "cardId": "C1-202",
+    "representative": "C1-095",
+    "gameId": "PK_20_022720_00",
+    "mechanicId": "PK_022720",
+    "sourceImageSha256": {
+      "en": "992ce8b7876fcf329d909dcb28940122a0b218cbe639a2e852a7cef127a33921",
+      "fr": "4870a7268d29b9c68b3c2870a6b4dc9d84b7ae56c319b2173848a17dc07d443f",
+      "es": "9ad83ccaa74e7905fd6f4a9110620c2350620074fd9ed3a72652d640abcdac80",
+      "it": "8a4b8f9a8cbefacab554869980462228ff1d71474146b48c79b3ffa747df2370",
+      "de": "aae2498ecf6a070e72a2f497925b76ea02fa076a278eee16673b3b7af6faaa6c",
+      "pt-br": "71100bed930105942fda9395f8e4a0e8553d9bff2b73bae9c54f006d211068bb",
+      "zh-tw": "f7ff4534802a2a1c2d9ccc09682cd062753283402813054fc109778e071e2ddd"
+    },
+    "reviewSha256": "cb857114c0bba92995a0410849bee9fd35ac86ad88250a46cfe12ce42873ebdd"
+  },
+  {
+    "cardId": "C1-203",
+    "representative": "C1-105",
+    "gameId": "PK_20_022820_00",
+    "mechanicId": "PK_022820",
+    "sourceImageSha256": {
+      "en": "8f6d6f7a71f36c5629b7b80724de7f740f56fe8e3f716b4e453a1b9686e504b3",
+      "fr": "d89aa1dfd79fcb8c942c75c28b17da6fc47399dd0383caa25837473c6cbbbd77",
+      "es": "d97a1d0b6b7799bd72155c7130f5d7241349eb7fc7919df577a47e9328a931b4",
+      "it": "25f7ceea8c89a914f41f4f62b705702db9f9e89b659a4ec409bb5e5f60e08225",
+      "de": "a25e53d904b1bb6bcc5ab43f4f753c18f19297a9f429ec90960312ce3e9bced3",
+      "pt-br": "2867150baf3edaca2b891e93cacc8491e8dd17d2889494264ff0fa4299b92553",
+      "zh-tw": "bd9a95a783df779732d5fb5808443e5236b7a31926ffe8642685bb55ff4c505f"
+    },
+    "reviewSha256": "732a9df995e40ae326d2e06b3b105d39f5544b8138d9f863cb966d011402988b"
+  },
+  {
+    "cardId": "C1-204",
+    "representative": "C1-106",
+    "gameId": "PK_20_022830_00",
+    "mechanicId": "PK_022830",
+    "sourceImageSha256": {
+      "en": "8895489201d0921ddab6874d878c5497a1e769c767ea11ff68791bf15c147238",
+      "fr": "dccdc5d343de65c355626255ca6c0e1e97ff2ffd67131f79991f1e64d074d87b",
+      "es": "c104b39ad57c33c400c2c2e654ee1d9574021921e7129256171b86ebf857ca70",
+      "it": "315285c1e5621d6fe9d868269a0c2ba39d8ac485f6c3a6cf25cbe0aa2e68834a",
+      "de": "83f4c3b7e9b55907e385ae5b89e22d547431c2d6c7b318719f03a8807a846907",
+      "pt-br": "6eb8be8d778a803bc6bcd26a6e3c4558aeae1627ad40e49a87ef7c04194a0fb2",
+      "zh-tw": "0fa835430ce164893c197a2c771aabb1579e5b16ce7a86e53588ab6622202938"
+    },
+    "reviewSha256": "0d52c997fd5986333ba20fb977bb02b95e56d1169d13417d138d8c531cccef7d"
+  },
+  {
+    "cardId": "C1-205",
+    "representative": "C1-205",
+    "gameId": "PK_20_019000_00",
+    "mechanicId": "PK_019000",
+    "sourceImageSha256": {
+      "en": "9200ab929ea8cdc89b80f6014aa7adb1af82a421ecc1be3ded6144c80a6ec198",
+      "fr": "edcc00b06760b559abb43517fbf9f6aba15335a55f128c3f18cd7b6dc8658756",
+      "es": "1abb493350592c6a1facf676193066386dd4bd07169b92585f0d7686781572a3",
+      "it": "78211bf3deffcb84da4a2665c7596c4a4f95744e90e644d0ea37813d09bbc95e",
+      "de": "8518ffff0df2ebd30abd839a109e26d128074f89314629c9793fded1947088a8",
+      "pt-br": "e4536cae3cd1d0c7a42f9efe0553e2d7dce50a8c4ebe9d9ac0d009dc4edab2e6",
+      "zh-tw": "903707926585276db0fcb623de37695b0825c440014065df032250f7020b376f"
+    },
+    "reviewSha256": "f33fb40f0a7ed6c18613fef74f8972a812ce011935c5aad50ed60730d57509d0"
+  },
+  {
+    "cardId": "C1-206",
+    "representative": "C1-117",
+    "gameId": "PK_20_022940_00",
+    "mechanicId": "PK_022940",
+    "sourceImageSha256": {
+      "en": "1a9e13a3ee84747c0e1b0f12168f1b3091e1a203a11ec9072b974b4430173fa7",
+      "fr": "6358bea39869e010e42cac63c61aacb5b069adfd71618072d781ce7d8c437f0d",
+      "es": "68fb727f5c6db488cb0fb63ca19178041b79809ffc8e7565f586db47c7291edb",
+      "it": "ce7e8025939a3bc06618dac956feba873fc73e3b6432d8c1e6773ddafb63482d",
+      "de": "3ba8f051344512e4a7d9f81ed8d925d9a3d7a8b02d761d87817341b20f53f04b",
+      "pt-br": "63cc71f35f9798c9de32fc87038af5dd388d49f0d5d1ea65236b5ba444779952",
+      "zh-tw": "223e6321e73d856ff0e0ca41fe2880ffd6df7aaafb6cd3b4b6e4d4aa34a9e268"
+    },
+    "reviewSha256": "021700ce48501d28c6ab6d345cb570834ccb5daacae65e12ad9f33c9a61841de"
+  },
+  {
+    "cardId": "C1-207",
+    "representative": "C1-207",
+    "gameId": "PK_20_016730_03",
+    "mechanicId": "PK_016730",
+    "sourceImageSha256": {
+      "en": "38bc775c0ad4359c7b1eb78a1864d2b533a40d746e20484ac988e8baed7a95a0",
+      "fr": "3e93a15884fb0d7b2d842c88dfb17c707d0ef4430523dd42269b97e357300533",
+      "es": "7e023c1e2d07441deef3bdf2b65ff39d71b293f2e00d651fcd25240cb1267671",
+      "it": "dbb6585645dada16688b4daf43f04d1a268b5df4a5f2e4ef8c609dc08fe4e3a5",
+      "de": "c84a905ba5da5292a5a9b6522768993743b40ebc21bd4c8c2a116578b67a2dc6",
+      "pt-br": "6f3e54288260c30180aef7d0b66f39c20ba3b3d8c6ff50453d7a2ec7081627fb",
+      "zh-tw": "b20f4f4161411f531ce3cf466f46e1dd0afa54eb744ce2dbb51ed3d84148ccdc"
+    },
+    "reviewSha256": "3244fad968dff5d12fe4aa3915e4a87012c10ee49772af66d7391e51fb974007"
+  },
+  {
+    "cardId": "C1-208",
+    "representative": "C1-208",
+    "gameId": "PK_20_019870_02",
+    "mechanicId": "PK_019870",
+    "sourceImageSha256": {
+      "en": "e7cdca5c6e1efb9fe8acacfc79a08caabf3f42b24a3c8cbd5bcfb21fe0fe022a",
+      "fr": "00ff7ff6abfd3742443d419002ee2e2f2d79d2b777114a91c08a709c3b09a6d5",
+      "es": "dbdf05400f185f2854230403bf1e4813a09396e96eab910cd78bd23ddd8c3042",
+      "it": "c23bead347dfd3fde988129cf3042697a103048cb5ebcf631039c1576be353ee",
+      "de": "a54dc2760b913f50ce6b9dcebc26dfa4f03c07b1ec3808013689fb772b96e29d",
+      "pt-br": "ace5094bf13fd4e166bf8e49bed3267525cd9d953fed9198f74dcfad10de6ea1",
+      "zh-tw": "515ab358c41e2a166c282eec44ca27977dca8a6968740d5f97f1873790f6e461"
+    },
+    "reviewSha256": "389c26229abe8ae591f0ce725d59f4b00dd9c20ebf6c2440d4e35bb4fbdca22a"
+  },
+  {
+    "cardId": "C1-209",
+    "representative": "C1-209",
+    "gameId": "PK_20_020450_02",
+    "mechanicId": "PK_020450",
+    "sourceImageSha256": {
+      "en": "3b7d8c3b737de8199437ed6a4230b46b5a79246977c7f710fd40856ac96ee129",
+      "fr": "1cc65744dc5c77d750b535ce2f741aa4dbdd7cffd92832643e06bdf57bdf7fd3",
+      "es": "0be4f5a5d0cdcd13e806edad3259f5a56bca535102cf983091bc7e20eb5bfeaa",
+      "it": "5d9835a440f0e9fae944fda75fdeb80111b0f597f0b038200a32f32a04cc5e06",
+      "de": "be956c8fc428570710487eb78dae49f703bda0966674c7ae723509745c59cae1",
+      "pt-br": "714c07824b4e0faaa8cc0236fd1f83688571713d21c8454b6c145c6457a28152",
+      "zh-tw": "46e6e9cfd01543c8ad5cfb14fb8dd3267bc0cf0cd93796be009f0decfd10ba61"
+    },
+    "reviewSha256": "ad3507864c93462579406540409f14f20412135698fbcdd574ba6b948818856e"
+  },
+  {
+    "cardId": "C1-210",
+    "representative": "C1-080",
+    "gameId": "PK_20_022570_02",
+    "mechanicId": "PK_022570",
+    "sourceImageSha256": {
+      "en": "9ba84805cdbd480b20997a199728c7bfa9aeac38788337afdf42e0f87a736f09",
+      "fr": "3a82de64edf240e36c14a1877448a4f8c80f02042b54519aff143cd7235507b5",
+      "es": "cf8b623c6679201bf4e4ddefa08bcedfd2affb3c15d67f45dd95da8974013fc8",
+      "it": "32e8aa29495fa83b6e7d280a9e36f3bf464decf69f9bcabf541b8db59f63ba1b",
+      "de": "ca46f546d7a3ae98a6f2c9375f97dc26fbf7a480070390147732155464afef18",
+      "pt-br": "65af7fb079911caa409f8d05dd0ff57c9d6b5b470d6797cb4425443edcdf3644",
+      "zh-tw": "f019daab12a278d871f263ec497f98184cfdf800c9f4b560931750e6104e0514"
+    },
+    "reviewSha256": "2912ad793db0a8efd992448a56b966e73e11ce2fed03bb42b51d188fa46c8490"
+  },
+  {
+    "cardId": "C1-211",
+    "representative": "C1-100",
+    "gameId": "PK_20_022770_02",
+    "mechanicId": "PK_022770",
+    "sourceImageSha256": {
+      "en": "ef51044564c6c1504defd68db05738846763f868546dcefa17d9c7d1e1bfa801",
+      "fr": "4fd29eb188c2e7a7841f06ca30908207a432f1e5efcc9c0fab936ba9596d8768",
+      "es": "9f7425483a50fa292573313148ed9d416e5de00429526779757ba8e22d357e5c",
+      "it": "ad71b1c9dc5de7e8e76165f3ba5290f038889b725a70b2a1c7ba5f5724e86309",
+      "de": "7cd68dbbb01b5e474d993f78c2b8ff0398f80b8db7360dedb7bc16e1544d8741",
+      "pt-br": "e02c27ce6c93e0adc32b8c34f94c59036156b07748accfd53ad797bd667ea862",
+      "zh-tw": "5fa27f9cbf538c6e9665e1bcbcb4e0f2587b7b89f24d42945fe30bbe8f7b2bdc"
+    },
+    "reviewSha256": "5be208b13d14ef76e15ada4104593e66516f3347bbfdbe7d0fd96d5bffe79a85"
+  },
+  {
+    "cardId": "C1-212",
+    "representative": "C1-212",
+    "gameId": "PK_20_018060_02",
+    "mechanicId": "PK_018060",
+    "sourceImageSha256": {
+      "en": "69fcd51d0e279b55acc0e76672d9abc5aeb9f55f7bad7078dd12638354849b54",
+      "fr": "269e935adb359a1a4ec9a7a48b7159a8b0a01968e3da27967567097c93bfcb80",
+      "es": "1d6e50b23d97d141e45c3370be46139d36de6977fc454ae0c450c177e86f087b",
+      "it": "104989ef39e704a44919db4f5fbc09222dd707c37515e46736c2443591aaae4c",
+      "de": "8e413a359162f4057ea731494829b8d73b33c3669ed551b24f920b3f2c448ab8",
+      "pt-br": "e6b27f9c8b5f1f5f550dc32c9fa891ff8922ba881bf143b74bd1dce6acc48403",
+      "zh-tw": "386efd31d7071f0f4a62cdc92fccf0d803c5ee32c45caab3854a7cf1fd612065"
+    },
+    "reviewSha256": "635fd46cb4eb3b31bdb67c1bc3d398d7a96f0961a73509a31d6f4ab70975dfca"
+  },
+  {
+    "cardId": "C1-213",
+    "representative": "C1-213",
+    "gameId": "PK_20_019570_02",
+    "mechanicId": "PK_019570",
+    "sourceImageSha256": {
+      "en": "5358440012932b90f930da4538aa7aa3d486651e9122966484b6c1ea758daf41",
+      "fr": "243b1501c8fcc372bf0b48261a557499963f090c4103cb3981c9c5a627e067be",
+      "es": "4a8b7fe88f24b65011180f2537dfb0edf34e3cfc7f1b3b77c363d4b2cf0c71d1",
+      "it": "af71697791365d0f511c386c6a3c860237183c125cbfc42766f75ee679bcf4c3",
+      "de": "c8a1f823ede58ff9c6fcb0e238d1136542bb9cb69890350381a800c9df5ad968",
+      "pt-br": "47f7b17e78cbd55f06393054443b3e6b9312629f8819da4ae5e6b7760d44e41a",
+      "zh-tw": "cee7b464420eef99da8d0d2149687a0f7ac19a711e976d8b6733a565b70724dc"
+    },
+    "reviewSha256": "fa3d57d7af98c77f38cdf3a44f06ed8349133cc5dc5355463e1a5b2792c67ff8"
+  },
+  {
+    "cardId": "C1-214",
+    "representative": "C1-118",
+    "gameId": "PK_20_022950_02",
+    "mechanicId": "PK_022950",
+    "sourceImageSha256": {
+      "en": "fbdc91f3bef0a25d64a5d0e11a67c1c2471f5939e907c3cfafe1f0165766ae48",
+      "fr": "233fc33bf4894952329d55623793851f7b500e8e5f51f40cef00ac4cd9d4e3b0",
+      "es": "0f582fc99352a4146299dabac18e8ed0055fb8d712962420fb772608397ab880",
+      "it": "4eb72d27ec28bb7050f23a2676e83ac895e266899c6aedffa6cee12447eac4c7",
+      "de": "4ed4009da9ee77493efafefd3c7e9b9585d0b08e8a8adbccbca34dbe5b2b9442",
+      "pt-br": "02f0dd1b44e0f0b51b7b734f81124b52c89935323d97c3eb5b10979c68238c4a",
+      "zh-tw": "7109cb79803c810bdb1f4e782a0791e83079d34ef8cb27fe574182ded70dba72"
+    },
+    "reviewSha256": "134fc33be68cb761d1dac175579ac9995e5715e3460260aae1e3a697c8209741"
+  },
+  {
+    "cardId": "C1-215",
+    "representative": "C1-025",
+    "gameId": "PK_20_022020_02",
+    "mechanicId": "PK_022020",
+    "sourceImageSha256": {
+      "en": "a449d28c8651e376f9e2a40df428822ec176ff9a586f805c01c40bbf4ea6bf68",
+      "fr": "06982d7d68966a2a0aad65b5ca8a5beb336bdebb9fc880c0fa8cfc2705de8b89",
+      "es": "898d1ed76c65f5736c06a7e1d1675981afa14f8cd716c863c1f15d969fb3dfa3",
+      "it": "dd824a3a792bfc450e7fdbb9910c570f2c1031b9bc225a3e802d47e057aa3709",
+      "de": "cbe136bbc7e4013cd77b0bb4eeeb8a581cbbf485f61df126751264c8e3c5490b",
+      "pt-br": "82225357ffd2762083d7799465fb20b18ddbe7fbd1c5f3aeec1a547f16c304c1",
+      "zh-tw": "3a2a838f6c97d5bf1633c4c3f1eeb67c7fb9dd397610aa56ab46e7d88b467208"
+    },
+    "reviewSha256": "4ee68be426c06c4019b5dec2f0a31cc6fe3cf76ea933c951b5764ddad016c031"
+  },
+  {
+    "cardId": "C1-216",
+    "representative": "C1-050",
+    "gameId": "PK_20_022270_01",
+    "mechanicId": "PK_022270",
+    "sourceImageSha256": {
+      "en": "c5ec00cb5532cef2c8d6852cbebf274843e60b41cb44a39d4d473d5a4c2c2319",
+      "fr": "0ede2a03c29b88ae04f9963a9d92b057a83508095e6bef0af651426ec3584d3b",
+      "es": "c1bc8572cf950aa04339209bd5d82055a1400ce9a7498d051039430cf039ec28",
+      "it": "8d5448e97c95f1ecbe706f40c252dd39d30d5a86031043398478c4a6307bdb09",
+      "de": "533dbd9bdaf3d7dde5dc9699e3009b4c50bc3ebee6c78d84378bb8c3d5a429f9",
+      "pt-br": "22d9fe94427c3aec55a935fb990481b3ee031a0b4b266f515eb49d43c352058f",
+      "zh-tw": "76306a9853c9533c9ced493c8c95ca3f3bfbfffa026b18625557d05d068cab08"
+    },
+    "reviewSha256": "f5b652832ddf38963d36f2755005fb2c08e1adb8b6d7fda2a688e6a281b17893"
+  },
+  {
+    "cardId": "C1-217",
+    "representative": "C1-101",
+    "gameId": "PK_20_022780_02",
+    "mechanicId": "PK_022780",
+    "sourceImageSha256": {
+      "en": "416f592b8f1012f7a7c0392ae0e225f65705f9638864db2aab0b667cff0208b9",
+      "fr": "33ff45c32d376eb27720f7e82e4460dd3a1143bdd26b189da710743d135e87ff",
+      "es": "5cb9f1b51f449947425e358304e6a3a3b9e35ea2850d1df32c87ae04f93046b2",
+      "it": "95ac2541f608fc6bade26ee040b575d020cbac8bcb1f769b395db2ddf600147f",
+      "de": "f76084a9e19896f0ff47c916615d05114812e11431143c8900af9b122712506e",
+      "pt-br": "76c2a724b3cd58815386817a3437b4c46188a80c6c9d117b2da460f17fdc3e0b",
+      "zh-tw": "02fcde83b3fd4ba8c212b67e64a5525fafa0c38d553a29b851cecff99c6f405a"
+    },
+    "reviewSha256": "42f0cbc5356c23f67373460f70ebc5d266dd2f8711bdd7dfa3fd8b46f24a88c5"
+  }
+]

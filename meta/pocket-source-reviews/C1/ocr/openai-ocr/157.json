@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-157",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "af929a0c7191c24693bcc14f5f4b92ec0b772a8b5665722b01b9e86a9565f831",
+      "bytes": 303971
+    },
+    "fr": {
+      "sha256": "417b43b761cb166ff9261b681f9252f0b1375f2b95c94075ec0b88ce0ad77051",
+      "bytes": 305175
+    },
+    "es": {
+      "sha256": "1dc82211cf7fba95fb92185d42372fa9796d1b8fe68fa206ef69d13edab6e967",
+      "bytes": 304811
+    },
+    "it": {
+      "sha256": "66966e33febe953596265ce4527625bb71f3426d4609ca15e59a1c573c43fd17",
+      "bytes": 304756
+    },
+    "de": {
+      "sha256": "77cbd5829adadd5a8f3020dd4f1bf7ab57f9453c47985a55bd669ac7b98881cf",
+      "bytes": 306502
+    },
+    "pt-br": {
+      "sha256": "c0c5d3d50883540c903ac3c1494ee634ccf79a5873cb07aa3c47599961887433",
+      "bytes": 306245
+    },
+    "zh-tw": {
+      "sha256": "a3bbec4d88cad8f6cbfaf50998ec088691b440a4140a56741c08857339478e14",
+      "bytes": 301043
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1339,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 3299
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Mewtwo ex",
+        "illustrator": "Miz. PAKA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Dual Impact",
+            "effect": "If a Stadium is in play, this attack does 40 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": "Mega Evolution ex Rule When your Mega Evolution Pokémon ex is Knocked Out, your opponent gets 3 points."
+      },
+      "fr": {
+        "name": "Méga-Mewtwo ex",
+        "illustrator": "Miz. PAKA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impact Double",
+            "effect": "Si un Stade est en jeu, cette attaque inflige 40 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": "Règle des Méga-Évolutions ex Lorsque votre Pokémon-ex Méga-Évolution est mis K.O., votre adversaire gagne 3 points."
+      },
+      "es": {
+        "name": "Mega-Mewtwo ex",
+        "illustrator": "Miz. PAKA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Dual",
+            "effect": "Si hay un Estadio en juego, este ataque hace 40 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regla Megaevolución ex Cuando tu Pokémon ex de Megaevolución queda Fuera de Combate, tu rival gana 3 puntos."
+      },
+      "it": {
+        "name": "Mega Mewtwo ex",
+        "illustrator": "Miz. PAKA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impatto Duale",
+            "effect": "Se c'è in gioco una carta Stadio, questo attacco infligge 40 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regola ex Megaevoluzione Quando il Pokémon ex Megaevoluzione avversario viene messo KO, il tuo avversario guadagna 3 punti."
+      },
+      "de": {
+        "name": "Mega-Mewtu ex",
+        "illustrator": "Miz. PAKA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Doppelter Stoß",
+            "effect": "Wenn eine Stadionkarte im Spiel ist, fügt diese Attacke 40 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": "Mega-Entwicklungs-EX-Regel Wenn der Mega-Entwicklungs-Pokémon-ex kampfunfähig ist, erhält dein Gegner 3 Punkte."
+      },
+      "pt-br": {
+        "name": "Mega Mewtwo ex",
+        "illustrator": "Miz. PAKA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Doblado",
+            "effect": "Se um Estádio estiver em jogo, este ataque causa 40 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regra de Megaevolução ex Quando seu Pokémon ex de Megaevolução é Nocauteado, seu oponente recebe 3 pontos."
+      },
+      "zh-tw": {
+        "name": "超級超夢X ex",
+        "illustrator": "Miz. PAKA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "雙刃衝擊",
+            "effect": "若場上有競技場卡，即給40點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": "超級進化EX規則 當這隻寶可夢ex因對手的招式而昏厥時，對手獲得3分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "The bottom rule text is small and partially hard to read; wording may differ slightly from the visible transcription."
+      },
+      {
+        "locale": "pt-br",
+        "field": "attacks[0].name",
+        "reason": "The attack name is small; 'Impacto Doblado' may be 'Impacto Dobrado' if the printed text is read differently."
+      },
+      {
+        "locale": "it",
+        "field": "effect",
+        "reason": "The rule text is small and partially obscured; the exact localized wording may differ slightly."
+      },
+      {
+        "locale": "de",
+        "field": "effect",
+        "reason": "The bottom rule text is small and difficult to read; exact wording may differ slightly."
+      }
+    ]
+  }
+}

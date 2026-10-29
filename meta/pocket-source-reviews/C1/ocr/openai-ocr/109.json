@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-109",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "06a3668fdb147185cdf7f374e70ba0cbc9edfe4b22e3af418bcfb0d36f0b1273",
+      "bytes": 269413
+    },
+    "fr": {
+      "sha256": "eab9a03d2bb8b94dd7011f909580d0d8bf03a637500cd7e1a45ba7ef82a4fad2",
+      "bytes": 270450
+    },
+    "es": {
+      "sha256": "394dae2d2077d9ff7f371bd942c07149b1ed07729f63e76554cce5ab23a18e88",
+      "bytes": 269945
+    },
+    "it": {
+      "sha256": "8a01d4aac361f06ca83ba41274711c5fb3c7d467c5d23523ab9ffe55968e4b07",
+      "bytes": 269214
+    },
+    "de": {
+      "sha256": "8ad592c4ffe99852fe31d028fd109ff0f572fa5db6b2d7af401ab5744cd4ea43",
+      "bytes": 270601
+    },
+    "pt-br": {
+      "sha256": "564bfb79183971ea2ee52933cc7ee11a56070ac7d504e1386a81b2ff5f261da6",
+      "bytes": 269868
+    },
+    "zh-tw": {
+      "sha256": "5b0bb385f756e302f5cb872a469e57ea4971f8131f382d05ea9fc17ed0738a01",
+      "bytes": 268058
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 918,
+    "output_tokens_details": {
+      "reasoning_tokens": 452
+    },
+    "total_tokens": 2878
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Porygon2",
+        "illustrator": "GOSSAN",
+        "description": "This artificial Pokémon evolved thanks to cutting-edge science. It sometimes displays behavior that is not in its programming.",
+        "attacks": [
+          {
+            "name": "Tackle",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Porygon2",
+        "illustrator": "GOSSAN",
+        "description": "Ce Pokémon artificiel a évolué grâce aux derniers progrès scientifiques. Il a parfois des réactions qui ne font pas partie de sa programmation.",
+        "attacks": [
+          {
+            "name": "Charge",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Porygon2",
+        "illustrator": "GOSSAN",
+        "description": "Pokémon artificial evolucionado con tecnología de vanguardia. En ocasiones muestra reacciones que no forman parte de su código.",
+        "attacks": [
+          {
+            "name": "Placaje",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Porygon2",
+        "illustrator": "GOSSAN",
+        "description": "Un Pokémon artificiale realizzato con tecnologia d'avanguardia. Di tanto in tanto mostra reazioni non programmate.",
+        "attacks": [
+          {
+            "name": "Azione",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Porygon2",
+        "illustrator": "GOSSAN",
+        "description": "Dieses künstliche Pokémon entwickelte sich mithilfe neuester Technologie. Manchmal zeigt es Reaktionen, die nicht einprogrammiert sind.",
+        "attacks": [
+          {
+            "name": "Tackle",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Porygon2",
+        "illustrator": "GOSSAN",
+        "description": "Este Pokémon artificial evoluiu graças à ciência moderna. Às vezes, demonstra um comportamento que não está em sua programação.",
+        "attacks": [
+          {
+            "name": "Investida",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "多邊獸II",
+        "illustrator": "GOSSAN",
+        "description": "利用最新科技進化的 人工寶可夢。有時會 表現出比程式沒有的反應。",
+        "attacks": [
+          {
+            "name": "撞擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

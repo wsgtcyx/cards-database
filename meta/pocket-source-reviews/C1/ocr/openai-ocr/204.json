@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-204",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "8895489201d0921ddab6874d878c5497a1e769c767ea11ff68791bf15c147238",
+      "bytes": 289965
+    },
+    "fr": {
+      "sha256": "dccdc5d343de65c355626255ca6c0e1e97ff2ffd67131f79991f1e64d074d87b",
+      "bytes": 291442
+    },
+    "es": {
+      "sha256": "c104b39ad57c33c400c2c2e654ee1d9574021921e7129256171b86ebf857ca70",
+      "bytes": 291064
+    },
+    "it": {
+      "sha256": "315285c1e5621d6fe9d868269a0c2ba39d8ac485f6c3a6cf25cbe0aa2e68834a",
+      "bytes": 290770
+    },
+    "de": {
+      "sha256": "83f4c3b7e9b55907e385ae5b89e22d547431c2d6c7b318719f03a8807a846907",
+      "bytes": 291165
+    },
+    "pt-br": {
+      "sha256": "6eb8be8d778a803bc6bcd26a6e3c4558aeae1627ad40e49a87ef7c04194a0fb2",
+      "bytes": 290505
+    },
+    "zh-tw": {
+      "sha256": "0fa835430ce164893c197a2c771aabb1579e5b16ce7a86e53588ab6622202938",
+      "bytes": 289480
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1485,
+    "output_tokens_details": {
+      "reasoning_tokens": 846
+    },
+    "total_tokens": 3445
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Fearow",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!",
+        "attacks": [
+          {
+            "name": "Drill Peck",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rapasdep",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "Si vous vous promenez sur le territoire d'un Rapasdep en transportant de la nourriture, vous risquez de vite la voir s'envoler !",
+        "attacks": [
+          {
+            "name": "Bec Vrille",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Fearow",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "Es peligroso pasar con comida por su territorio, ya que supone exponerse a que en cualquier momento se abalance para robarla.",
+        "attacks": [
+          {
+            "name": "Pico Taladro",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Fearow",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "Chi attraversa il suo territorio portando con sé del cibo corre il rischio di vederselo strappare via in men che non si dica.",
+        "attacks": [
+          {
+            "name": "Perforbecco",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Ibitak",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "Wer Essbares dabeihat, sollte sich nicht in Ibitaks Revier begeben, da sonst ein Überfall aus heiterem Himmel droht.",
+        "attacks": [
+          {
+            "name": "Bohrschnabel",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Fearow",
+        "illustrator": "Illust. Taiga Kasai",
+        "description": "Transportar alimento através do território de Fearow é perigoso, porque este Pokémon roubará a comida em um instante!",
+        "attacks": [
+          {
+            "name": "Bico Broca",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "大嘴雀",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "在大嘴雀的地盤上 帶著食物去散步是危險的事， 食物隨時都會被牠搶奪走。",
+        "attacks": [
+          {
+            "name": "啄鑽",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially hard to read; transcription may be inaccurate in the middle clause."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "The illustrator credit is small; 'Illust. Taiga Kasai' is likely, but the prefix is slightly unclear."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and faint; spacing/punctuation may be slightly inaccurate."
+      }
+    ]
+  }
+}

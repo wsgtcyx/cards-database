@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-035",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "1f03963a049c5d731354960e584d9507b183d8879f4f8f0828519a47e59326f7",
+      "bytes": 296893
+    },
+    "fr": {
+      "sha256": "4bdf133dd2a94915653eee5c2ce0fac69c499af11e58cfcb36a59c9f47ad2a5c",
+      "bytes": 299092
+    },
+    "es": {
+      "sha256": "ea93a2ebe6aab9320900fb6c6820dc10972d685f5ebab345bb804843bbdaad8f",
+      "bytes": 297786
+    },
+    "it": {
+      "sha256": "d58e5b14019b3b486420c880830c0b7f65150ac6ebead42f9c7be30071f7b068",
+      "bytes": 297542
+    },
+    "de": {
+      "sha256": "08d55730ff3cd7bc3894ea4bf239ef0f336d5e4bfa09a55be48d859d0020449d",
+      "bytes": 298962
+    },
+    "pt-br": {
+      "sha256": "354a816c3ddc4ef7ae6b93581a5580d8b35ea8daf8772167919431deba569592",
+      "bytes": 298229
+    },
+    "zh-tw": {
+      "sha256": "3f01d0fcca18bc23ec2478252a9dbb225561fd8ffa270c910c195e5f586515d9",
+      "bytes": 294263
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1178,
+    "output_tokens_details": {
+      "reasoning_tokens": 537
+    },
+    "total_tokens": 3138
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Cloyster",
+        "illustrator": "MAHOU",
+        "description": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+        "attacks": [
+          {
+            "name": "Blizzard",
+            "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Crustabri",
+        "illustrator": "MAHOU",
+        "description": "Les Crustabri vivant dans des mers aux courants forts développent des dards particulièrement imposants et aiguisés sur leur coquille.",
+        "attacks": [
+          {
+            "name": "Blizzard",
+            "effect": "Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cloyster",
+        "illustrator": "MAHOU",
+        "description": "A los Cloyster que viven en las fuertes corrientes marinas les crecen largas y afiladas púas en la concha.",
+        "attacks": [
+          {
+            "name": "Ventisca",
+            "effect": "Este ataque también hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Cloyster",
+        "illustrator": "MAHOU",
+        "description": "Al Cloyster che vivono in mari con forti correnti crescono grandi aculei appuntiti sul guscio.",
+        "attacks": [
+          {
+            "name": "Bora",
+            "effect": "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella panchina del tuo avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Austos",
+        "illustrator": "MAHOU",
+        "description": "Austos, die in Meeren mit starker Strömung leben, entwickeln große und scharfe Stacheln an ihrer Schale.",
+        "attacks": [
+          {
+            "name": "Blizzard",
+            "effect": "Diese Attacke fügt auch jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Cloyster",
+        "illustrator": "MAHOU",
+        "description": "Cloyster que vivem em mares com correntes intensas desenvolvem espinhos grandes e afiados em suas conchas.",
+        "attacks": [
+          {
+            "name": "Nevasca",
+            "effect": "Este ataque também causa 20 pontos de dano a cada Pokémon no Banco do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "刺甲貝",
+        "illustrator": "MAHOU",
+        "description": "刺甲貝身處在海潮湍急的海域。身上的尖刺又大又銳利。",
+        "attacks": [
+          {
+            "name": "暴風雪",
+            "effect": "對手的所有備戰寶可夢也受到20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Some bottom-right flavor text is partially unclear due to image resolution; transcription may be inaccurate."
+      }
+    ]
+  }
+}

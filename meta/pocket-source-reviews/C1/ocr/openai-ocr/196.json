@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-196",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4860c57a101e33f27240d926e033d1ab5742a1a7591b131c3c2606ffede1a8db",
+      "bytes": 290913
+    },
+    "fr": {
+      "sha256": "8e911f933644b8a252de0114f39836d5f3c3e0f6bc22f6c964875f2ffa5e820f",
+      "bytes": 291407
+    },
+    "es": {
+      "sha256": "f4f7c9943e4eb5b8d6f08aad3892a891bc94e3c91beee5322e3870a4e6ee8d99",
+      "bytes": 292115
+    },
+    "it": {
+      "sha256": "b853388fa8cc328df522ef59dc755d442df30154a80faff05efe32af9bae6bce",
+      "bytes": 291214
+    },
+    "de": {
+      "sha256": "b10f4f78c571566561939858d974ec62e6bb4ea6a8842c42962dacaffbe214ee",
+      "bytes": 292225
+    },
+    "pt-br": {
+      "sha256": "b1be18b7f35625a4037a7a727758a9ce8b68964b48175c26d99a614d1737a0f7",
+      "bytes": 291308
+    },
+    "zh-tw": {
+      "sha256": "ce34da3b1509bebe717bb3df7aeb1fe2a7d2178795426f286d93540775434f54",
+      "bytes": 289583
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 992,
+    "output_tokens_details": {
+      "reasoning_tokens": 460
+    },
+    "total_tokens": 2952
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Kadabra",
+        "illustrator": "MAHOU",
+        "description": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+        "attacks": [
+          {
+            "name": "Psychic Sphere",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Kadabra",
+        "illustrator": "MAHOU",
+        "description": "Ses pouvoirs psychiques lui permettent de léviter en dormant. Il utilise alors sa queue très souple comme un oreiller.",
+        "attacks": [
+          {
+            "name": "Sphère Psy",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Kadabra",
+        "illustrator": "MAHOU",
+        "description": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, la hace veces de almohada.",
+        "attacks": [
+          {
+            "name": "Esfera Psíquica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Kadabra",
+        "illustrator": "MAHOU",
+        "description": "I suoi poteri psichici gli permettono di levitare mentre dorme. Come cuscino usa la sua coda straordinariamente elastica.",
+        "attacks": [
+          {
+            "name": "Psicosfera",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Kadabra",
+        "illustrator": "MAHOU",
+        "description": "Kadabras Psycho-Kräfte ermöglichen es ihm, schwebend zu schlafen. Sein äußerst elastischer Schweif nutzt es dabei als Kissen.",
+        "attacks": [
+          {
+            "name": "Psychosphäre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Kadabra",
+        "illustrator": "MAHOU",
+        "description": "Usando seu poder psíquico, Kadabra levita enquanto dorme. Usa sua cauda elástica como um travesseiro.",
+        "attacks": [
+          {
+            "name": "Esfera Psíquica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "勇基拉",
+        "illustrator": "MAHOU",
+        "description": "會用精神力量浮在空中睡覺。牠把超能力十分長的尾巴當成枕頭用。",
+        "attacks": [
+          {
+            "name": "念動彈",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is small and partially hard to read; the second sentence may differ slightly in the middle characters."
+      }
+    ]
+  }
+}

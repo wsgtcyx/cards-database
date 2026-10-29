@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-085",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "8eba80044954e1a9bc52e2e1797c509d2a94f7377e6264c9563a9d8c26608dd4",
+      "bytes": 341784
+    },
+    "fr": {
+      "sha256": "4c81654d5e4832a6fa9b6ccd10e0fcdd3b342c46d80474592cf9fc691469861b",
+      "bytes": 343502
+    },
+    "es": {
+      "sha256": "fb88eb9e39a30a730a75a5825c256739290423dba94e8c667210f8a248f08b2c",
+      "bytes": 341178
+    },
+    "it": {
+      "sha256": "4401b8daa6e4582b28f6f8a6ca29b8db974f880c654c04f4ec00da22d19d348b",
+      "bytes": 341594
+    },
+    "de": {
+      "sha256": "79aff1c6c85ad4f4aa2d469b305eaee29a186f08d507746b49d8e4121eb121b1",
+      "bytes": 343223
+    },
+    "pt-br": {
+      "sha256": "87b736d3269d18ac3aa6463ea1d0e2f947a50fb0eff41e60ee7cd290f4172f54",
+      "bytes": 341823
+    },
+    "zh-tw": {
+      "sha256": "79687cdbdba88d277925762964a591123a92c23d7a30126200a0d55a8dcf1466",
+      "bytes": 339505
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 689,
+    "output_tokens_details": {
+      "reasoning_tokens": 254
+    },
+    "total_tokens": 4177
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Tyranitar ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Crushing Rampage",
+            "effect": "Discard the top 2 cards of your deck."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Tyranocif ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Saccage Écrasant",
+            "effect": "Défaussez les 2 premières cartes du dessus de votre deck."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Tyranitar ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Furia Demoledora",
+            "effect": "Descarta las 2 primeras cartas de tu baraja."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Tyranitar ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Devastazione Furiosa",
+            "effect": "Scarta le prime 2 carte del tuo mazzo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Despotar ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schmetternde Randale",
+            "effect": "Lege die obersten 2 Karten deines Decks ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Tyranitar ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Fúria Esmagadora",
+            "effect": "Descarte as 2 cartas de cima do seu baralho."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級班基拉斯ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "亂暴粉碎",
+            "effect": "將自己的牌庫上方2張卡丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

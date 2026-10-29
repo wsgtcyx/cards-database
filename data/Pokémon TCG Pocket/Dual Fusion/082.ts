@@ -1,0 +1,88 @@
+import { Card } from "../../../interfaces";
+import Set from "../Dual Fusion";
+
+const card: Card = {
+    set: Set,
+    image: {
+        en: "https://game.pokemontcgpocket.app/en/tcgp/C1/082",
+        fr: "https://game.pokemontcgpocket.app/fr/tcgp/C1/082",
+        es: "https://game.pokemontcgpocket.app/es/tcgp/C1/082",
+        it: "https://game.pokemontcgpocket.app/it/tcgp/C1/082",
+        de: "https://game.pokemontcgpocket.app/de/tcgp/C1/082",
+        "pt-br": "https://game.pokemontcgpocket.app/pt-br/tcgp/C1/082",
+        "zh-tw": "https://game.pokemontcgpocket.app/zh-tw/tcgp/C1/082"
+    },
+    name: {
+        en: "Haunter",
+        fr: "Spectrum",
+        es: "Haunter",
+        "pt-br": "Haunter",
+        "zh-tw": "鬼斯通",
+        ja: "ゴースト",
+        ko: "고우스트",
+        it: "Haunter",
+        de: "Alpollo"
+    },
+    illustrator: "HYOGONOSUKE",
+    rarity: "One Diamond",
+    category: "Pokemon",
+    boosters: [
+        "mega-mewtwo-x"
+    ],
+    hp: 80,
+    types: [
+        "Darkness"
+    ],
+    stage: "Stage1",
+    retreat: 1,
+    weaknesses: [
+        {
+            type: "Fighting",
+            value: "+20"
+        }
+    ],
+    evolveFrom: {
+        en: "Gastly",
+        fr: "Fantominus",
+        es: "Gastly",
+        it: "Gastly",
+        de: "Nebulak",
+        "pt-br": "Gastly",
+        "zh-tw": "鬼斯",
+        ja: "Gastly",
+        ko: "Gastly"
+    },
+    attacks: [
+        {
+            name: {
+                en: "Suffocating Gas",
+                fr: "Gaz Suffocant",
+                es: "Gas Sofocante",
+                it: "Gas Soffocante",
+                de: "Würgegas",
+                "pt-br": "Gás Asfixiante",
+                "zh-tw": "瓦斯包圍",
+                ja: "Suffocating Gas",
+                ko: "Suffocating Gas"
+            },
+            cost: [
+                "Darkness"
+            ],
+            damage: 30
+        }
+    ],
+    abilities: [],
+    description: {
+        en: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+        fr: "Il adore se tapir dans l'ombre et faire frissonner ses proies pour l'éternité en leur touchant l'épaule.",
+        es: "Le gusta acechar en la oscuridad y tocarles el hombro a sus víctimas con su mano gaseosa. Estas se quedan temblando para siempre.",
+        it: "Adora stare in agguato nell'oscurità e toccare le spalle delle vittime con le sue mani gassose. Il suo tocco causa brividi incontrollabili.",
+        de: "Es lauert gern im Dunkeln und tippt Leuten mit seiner gasförmigen Hand auf die Schulter. Seine Berührung erzeugt endloses Schaudern.",
+        "pt-br": "Gosta de se esconder no escuro e bater nos ombros dos outros com sua mão gasosa. Seu toque causa arrepios que não acabam mais.",
+        "zh-tw": "喜歡在黑暗中伸出氣體狀的手拍人的肩膀。一旦被摸到，就會顫抖個不停。",
+        ja: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+        ko: "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering."
+    }
+};
+
+export default card;

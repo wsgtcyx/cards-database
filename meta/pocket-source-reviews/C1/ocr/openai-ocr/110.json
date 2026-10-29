@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-110",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "f872d9c8377083e6e394e881ee571fb716adbf7bbef0cfc639098760d7b91363",
+      "bytes": 268713
+    },
+    "fr": {
+      "sha256": "30f3449f44f85f8fba752e62a73b59897b33ca531773b58e9fbf78fe6f94a172",
+      "bytes": 268557
+    },
+    "es": {
+      "sha256": "ac08cc4fdd6ec9000b5a07b2697f92b7331c7ca3945cbd41e07c27e5bc7ac01e",
+      "bytes": 271211
+    },
+    "it": {
+      "sha256": "d23c410762d6c44b22cc67be604645dc9fd2b283a7399e2d1cac3acfe0aa130e",
+      "bytes": 268898
+    },
+    "de": {
+      "sha256": "88fef7c5f79482125ecc68972c771a2b422aff9bdcbe5d82ea9710907762d747",
+      "bytes": 271048
+    },
+    "pt-br": {
+      "sha256": "5cc7e08fc9e9524b728f2cb6508b2dc7ecaf8eee3b65feff78022ca6a2c2eabf",
+      "bytes": 270146
+    },
+    "zh-tw": {
+      "sha256": "f9db79a0cfe1f9c771f3f65a7031021e4f7401aae707401c66e3ce52fc1b52f7",
+      "bytes": 265975
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 888,
+    "output_tokens_details": {
+      "reasoning_tokens": 161
+    },
+    "total_tokens": 2848
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Porygon-Z",
+        "illustrator": "Kagemaru Himeno",
+        "description": "An additional program was installed to create a more advanced Pokémon, but it was apparently flawed. Porygon-Z moves oddly as a result.",
+        "attacks": [
+          {
+            "name": "Overdrive Smash",
+            "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +50 damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Porygon-Z",
+        "illustrator": "Kagemaru Himeno",
+        "description": "On lui a installé un logiciel afin de l'améliorer, mais cela a entraîné plusieurs bugs. Maintenant, il se conduit très bizarrement.",
+        "attacks": [
+          {
+            "name": "Boost Atomisant",
+            "effect": "Pendant votre prochain tour, l'attaque Boost Atomisant de ce Pokémon inflige + 50 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Porygon-Z",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Se le instaló un software para convertirlo en un Pokémon más avanzado. Sin embargo, algo salió mal y por eso se mueve de manera extraña.",
+        "attacks": [
+          {
+            "name": "Sacudida Superdirecta",
+            "effect": "Durante tu próximo turno, el ataque Sacudida Superdirecta de este Pokémon hace + 50 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Porygon-Z",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Si muove in maniera bizzarra a causa di un bug nel software aggiuntivo, originariamente installato per migliorare le prestazioni.",
+        "attacks": [
+          {
+            "name": "Devastacolpo",
+            "effect": "Durante il tuo prossimo turno, l'attacco Devastacolpo di questo Pokémon infligge +50 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Porygon-Z",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Um das Pokémon zu verbessern, wurde eine zusätzliche Software installiert, die aber offenbar fehlerhaft war. Seitdem bewegt es sich seltsam.",
+        "attacks": [
+          {
+            "name": "Turbosmash",
+            "effect": "Während deines nächsten Zuges fügt die Attacke Turbosmash von diesem Pokémon + 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Porygon-Z",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Um programa adicional foi instalado para criar um Pokémon mais avançado, mas parece que estava defeituoso. Porygon-Z se move de forma estranha por causa disso.",
+        "attacks": [
+          {
+            "name": "Golpe Exhaustivo",
+            "effect": "Durante o seu próximo turno, o ataque Golpe Exhaustivo deste Pokémon causará + 50 pontos de dano."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "多邊獸Ｚ",
+        "illustrator": "Kagemaru Himeno",
+        "description": "以成為更優秀的寶可夢為目標所新追加的程式發現不佳， 使其動作變得很奇怪。",
+        "attacks": [
+          {
+            "name": "超頻擊碎",
+            "effect": "在下個自己的回合，這隻寶可夢「超頻擊碎」的傷害+50點。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially difficult to read; transcription may be imperfect."
+      }
+    ]
+  }
+}

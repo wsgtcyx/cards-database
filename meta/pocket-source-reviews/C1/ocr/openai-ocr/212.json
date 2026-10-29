@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-212",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "69fcd51d0e279b55acc0e76672d9abc5aeb9f55f7bad7078dd12638354849b54",
+      "bytes": 276038
+    },
+    "fr": {
+      "sha256": "269e935adb359a1a4ec9a7a48b7159a8b0a01968e3da27967567097c93bfcb80",
+      "bytes": 277246
+    },
+    "es": {
+      "sha256": "1d6e50b23d97d141e45c3370be46139d36de6977fc454ae0c450c177e86f087b",
+      "bytes": 276955
+    },
+    "it": {
+      "sha256": "104989ef39e704a44919db4f5fbc09222dd707c37515e46736c2443591aaae4c",
+      "bytes": 276150
+    },
+    "de": {
+      "sha256": "8e413a359162f4057ea731494829b8d73b33c3669ed551b24f920b3f2c448ab8",
+      "bytes": 277656
+    },
+    "pt-br": {
+      "sha256": "e6b27f9c8b5f1f5f550dc32c9fa891ff8922ba881bf143b74bd1dce6acc48403",
+      "bytes": 276556
+    },
+    "zh-tw": {
+      "sha256": "386efd31d7071f0f4a62cdc92fccf0d803c5ee32c45caab3854a7cf1fd612065",
+      "bytes": 274444
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1081,
+    "output_tokens_details": {
+      "reasoning_tokens": 631
+    },
+    "total_tokens": 3041
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Audino ex",
+        "illustrator": "Nils, PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Heartfelt Shine",
+            "effect": "Heal 30 damage from each of your Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Nanméouïe ex",
+        "illustrator": "Nils, PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Brillance Sincère",
+            "effect": "Soignez 30 dégâts de chacun de vos Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Audino ex",
+        "illustrator": "Nils, PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Esplendor Sincero",
+            "effect": "Cura 30 puntos de daño a cada uno de tus Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega-Audino ex",
+        "illustrator": "Nils, PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bagliore Premuroso",
+            "effect": "Cura ciascuno dei tuoi Pokémon da 30 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Ohrdoch ex",
+        "illustrator": "Nils, PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Herzlicher Glanz",
+            "effect": "Heile 30 Schadenspunkte bei jedem deiner Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega-Audino ex",
+        "illustrator": "Nils, PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Brilho Sincero",
+            "effect": "Cure 30 pontos de dano de cada um dos seus Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級差不多娃娃ex",
+        "illustrator": "Nils, PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "溫馨閃耀",
+            "effect": "將自己的所有寶可夢恢復30HP。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

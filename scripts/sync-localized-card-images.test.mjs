@@ -151,7 +151,7 @@ test('upload remote inspection distinguishes an exact reusable object from a col
 
 test('every Pocket card has an English R2 image', () => {
 	const root = path.resolve('data/Pokémon TCG Pocket')
-	const setFolders = fs.readdirSync(root, { withFileTypes: true }).filter((entry) => entry.isDirectory())
+	const setFolders = fs.readdirSync(root, { withFileTypes: true }).filter((entry) => entry.isDirectory() && !entry.name.startsWith('.'))
 	const files = setFolders.flatMap((entry) => fs.readdirSync(path.join(root, entry.name)).filter((name) => name.endsWith('.ts')).map((name) => path.join(root, entry.name, name)))
 	assert.ok(files.length > 0)
 	for (const file of files) {

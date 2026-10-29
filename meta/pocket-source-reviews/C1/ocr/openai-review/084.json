@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-084",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "37b386f27b3a9597d9aa91f212a15d789a861ba36bab817ac82f6c6addff6e94",
+      "bytes": 284529
+    },
+    "fr": {
+      "sha256": "627d887091d4a78999497a6aa8915f2aa85a7a7578d6dcd512a0eb7b243b83f3",
+      "bytes": 285687
+    },
+    "es": {
+      "sha256": "2eb816c8600d39a2efba5700ebdde4ace94f27cd7e1051e2477c7ca1ac897fb9",
+      "bytes": 284747
+    },
+    "it": {
+      "sha256": "aa4605d8bc8a2ab48b29d72bd4349f31c11b0e9bdcfa43d740dd272b4c2e71da",
+      "bytes": 285046
+    },
+    "de": {
+      "sha256": "7fcd8c7d54cfbc6556227f38ff95f7b57bba17f9c7fba26638f18c00e65b678a",
+      "bytes": 288855
+    },
+    "pt-br": {
+      "sha256": "9a0343c9ffe4bef529c2ee976340b9afaa6571669961ba20ca4b570b0012f802",
+      "bytes": 285161
+    },
+    "zh-tw": {
+      "sha256": "9d5f2d360b8bd0a421aec32c5acb0d9ecf80f8c51fe0ae174049b67061346835",
+      "bytes": 282479
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1699,
+    "output_tokens_details": {
+      "reasoning_tokens": 1013
+    },
+    "total_tokens": 5187
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Umbreon",
+        "illustrator": "Kouki Saitou",
+        "description": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+        "attacks": [
+          {
+            "name": "Moonlight Raid",
+            "effect": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Noctali",
+        "illustrator": "Kouki Saitou",
+        "description": "Quand il s’expose aux ondes lunaires, ses anneaux brillent légèrement et il acquiert un mystérieux pouvoir.",
+        "attacks": [
+          {
+            "name": "Raid Lunaire",
+            "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon de base, cette attaque inflige 50 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Umbreon",
+        "illustrator": "Kouki Saitou",
+        "description": "Si se expone al aura de la luna, los anillos de su cuerpo relucen y adquiere un poder misterioso.",
+        "attacks": [
+          {
+            "name": "Incursión de Luz Lunar",
+            "effect": "Si el Pokémon Activo de tu rival es un Pokémon Básico, este ataque hace 50 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Umbreon",
+        "illustrator": "Kouki Saitou",
+        "description": "Quando è esposto alla luce lunare, i cerchi sul suo corpo brillano e acquisisce uno strano potere.",
+        "attacks": [
+          {
+            "name": "Raid Ombralunare",
+            "effect": "Se il Pokémon attivo del tuo avversario è un Pokémon Base, questo attacco infligge 50 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Nachtara",
+        "illustrator": "Kouki Saitou",
+        "description": "Wird es der Aura des Mondes ausgesetzt, glühen die ringförmigen Muster auf seinem Körper leicht und es erhält eine mysteriöse Kraft.",
+        "attacks": [
+          {
+            "name": "Überfall im Mondschein",
+            "effect": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, fügt diese Attacke 50 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Umbreon",
+        "illustrator": "Kouki Saitou",
+        "description": "Quando exposto à aura da lua, os anéis em seu corpo brilham intensamente e ele recebe um misterioso poder.",
+        "attacks": [
+          {
+            "name": "Incursão ao Luar",
+            "effect": "Se o Pokémon Ativo do seu oponente for um Pokémon Básico, este ataque causará 50 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "月亮伊布",
+        "illustrator": "Kouki Saitou",
+        "description": "當身體沐浴了月亮的光輝，圓環便會微微發光，使牠得到神秘力量。",
+        "attacks": [
+          {
+            "name": "月亮突襲",
+            "effect": "若對手的戰鬥寶可夢為基礎寶可夢，則增加50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-189",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "71b8ae8cc42923793bdaf88eb60fb05e6b2ceb688b8c48b72b1fb2df9eb88185",
+      "bytes": 291446
+    },
+    "fr": {
+      "sha256": "cd49afac6f78a3145576155b849d3c35154d8008efde3429bd4df698b6484637",
+      "bytes": 291757
+    },
+    "es": {
+      "sha256": "adfaa7551965995ce54bae2e28211319722d3b9a4f3bc0cbd7a29110b34f4590",
+      "bytes": 291457
+    },
+    "it": {
+      "sha256": "49f465c715eb43db9a58a92bbcb341dcbc1b8b59db81219d39dd67c9e4cc258a",
+      "bytes": 291442
+    },
+    "de": {
+      "sha256": "6c7bf29036831a1eda8cb8664ccba9a422f959b1d507ff51f39ffb4327d296b1",
+      "bytes": 293414
+    },
+    "pt-br": {
+      "sha256": "2f8ee0a3033cd1b220f5968343cfac0e7a888d5b713674e1b87296f34e1a64b2",
+      "bytes": 292688
+    },
+    "zh-tw": {
+      "sha256": "eea6257c385785ac9f7fff6219d174d25636ae6ba65c951aa5888d933e889498",
+      "bytes": 287914
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 915,
+    "output_tokens_details": {
+      "reasoning_tokens": 251
+    },
+    "total_tokens": 2875
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Grovyle",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Grovyle leaps from branch to branch in large trees, moving with ease. It propels itself with astounding speed and force.",
+        "attacks": [
+          {
+            "name": "Slicing Snipe",
+            "effect": "This attack does 50 damage to 1 of your opponent’s Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Massko",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Il se déplace dans les grands arbres en sautant avec agilité de branche en branche. Sa vivacité est extraordinaire.",
+        "attacks": [
+          {
+            "name": "Lame de Précision",
+            "effect": "Cette attaque inflige 50 dégâts à un des Pokémon de Banc de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Grovyle",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Se desplaza saltando ágilmente de rama en rama por los árboles más altos, haciendo gala de su tremenda agilidad.",
+        "attacks": [
+          {
+            "name": "Filo Fustigante",
+            "effect": "Este ataque hace 50 puntos de daño a 1 de los Pokémon en Banca de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Grovyle",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Si sposta saltando agilmente tra i rami di grandi alberi, e capace di scatti impressionanti.",
+        "attacks": [
+          {
+            "name": "Fendente Mirato",
+            "effect": "Questo attacco infligge 50 danni a uno dei Pokémon nella panchina del tuo avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Reptain",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Es verfügt über eine erstaunliche Sprungkraft und bewegt sich auf hohen Bäumen mit Leichtigkeit von Ast zu Ast fort.",
+        "attacks": [
+          {
+            "name": "Hinterhältige Klinge",
+            "effect": "Diese Attacke fügt 1 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Grovyle",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Grovyle salta de galho em galho em grandes árvores com total facilidade, impulsionando-se com velocidade e força impressionantes.",
+        "attacks": [
+          {
+            "name": "Disparo Afiado",
+            "effect": "Este ataque causa 50 pontos de dano a 1 dos Pokémon no Banco do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "森林蜥蜴",
+        "illustrator": "Souichirou Gunjima",
+        "description": "會在大樹的枝頭間 四下地跳躍移動， 身手十分優異， 爆發力十分驚人。",
+        "attacks": [
+          {
+            "name": "狙擊刀鋒",
+            "effect": "對手的1隻備戰寶可夢受到50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

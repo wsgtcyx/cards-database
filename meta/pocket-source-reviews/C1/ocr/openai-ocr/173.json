@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-173",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "98b62d4e539742c83686b096cab8370ea93b2e336c248f44a569035e57df1493",
+      "bytes": 327057
+    },
+    "fr": {
+      "sha256": "c6bbe3194c168391484f68ceb1b9dd5b0c7d47d8e8dd16ead5119c1058f5e716",
+      "bytes": 328704
+    },
+    "es": {
+      "sha256": "3d4cb724c0511f9a30b977480c562edb301bef81135f557176c358a268d2c640",
+      "bytes": 326830
+    },
+    "it": {
+      "sha256": "99119f10baa0961823e7d203aad287f19a2d495d45839932da27331522f468e6",
+      "bytes": 327295
+    },
+    "de": {
+      "sha256": "b184fa72a7886788ff9c1f3c69e2c86a01a6d979a1be9ac001bf961c05695c7e",
+      "bytes": 329852
+    },
+    "pt-br": {
+      "sha256": "728686c8e2523493d895b4ac62b7414d042777cf0025f47945ad7d4de947c3c4",
+      "bytes": 327437
+    },
+    "zh-tw": {
+      "sha256": "23b8a835297762d73cda9a16744f76aedc02842f5ece14b8a6ba5342ba0f5fce",
+      "bytes": 323903
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 941,
+    "output_tokens_details": {
+      "reasoning_tokens": 394
+    },
+    "total_tokens": 2901
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Illus. DOM",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Splash of Darkness",
+            "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Amphinobi ex",
+        "illustrator": "Illus. DOM",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Éclaboussure Ténébreuse",
+            "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Greninja ex",
+        "illustrator": "Illus. DOM",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Salpicadura Siniestra",
+            "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Illus. DOM",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Spruzzo Ottembrante",
+            "effect": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Quajutsu ex",
+        "illustrator": "Illus. DOM",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Spritzer der Finsternis",
+            "effect": "Während des nächsten Zuges deines Gegners kann sich das verteidigende Pokémon nicht zurückziehen."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Illus. DOM",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Jato Sombrio",
+            "effect": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級甲賀忍蛙 ex",
+        "illustrator": "Illus. DOM",
+        "description": null,
+        "attacks": [
+          {
+            "name": "暗黑水飛濺",
+            "effect": "在下個對手的回合中，受到這個招式的寶可夢無法撤退。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "name",
+        "reason": "The printed name is small; spacing around ex may be ambiguous. Transcribed as shown with a space before ex."
+      },
+      {
+        "locale": "it",
+        "field": "attack.name",
+        "reason": "The attack name is slightly blurred; transcription may be off by one letter from the printed text."
+      }
+    ]
+  }
+}

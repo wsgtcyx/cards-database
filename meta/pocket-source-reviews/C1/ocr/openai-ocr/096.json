@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-096",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "610e46218a4ca4028af4edb25751fc26a2095c140cd0b226fb87f9ed75234b73",
+      "bytes": 272845
+    },
+    "fr": {
+      "sha256": "4a36dbabcd8b241497c158a0983a0671742afdc4f1069f3814067aded21813c8",
+      "bytes": 273540
+    },
+    "es": {
+      "sha256": "6608d78e225ff7380cfb92304282604c5e4d0e46cf5b23d3c378b2d38c879d4b",
+      "bytes": 274456
+    },
+    "it": {
+      "sha256": "bef0ca3375c688bb264a243850f28cf83f5587ea36c6a12bec1f8ae087a998ec",
+      "bytes": 272772
+    },
+    "de": {
+      "sha256": "df25df302f5cec941ceaff3efae78f2815f735fa3979f3acb90b06c08e81cb7b",
+      "bytes": 274332
+    },
+    "pt-br": {
+      "sha256": "0fd2f9e9cb89ae8c40b1640afe3a9a78cf26f743634aa602d45b83e5b94fc045",
+      "bytes": 273682
+    },
+    "zh-tw": {
+      "sha256": "d2711d68b5ff4730df6f77de93ad0b9c4f0a8e1608077f44e0685310db7d94a8",
+      "bytes": 274220
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 644,
+    "output_tokens_details": {
+      "reasoning_tokens": 119
+    },
+    "total_tokens": 2604
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Meltan",
+        "illustrator": "Kouki Saitou",
+        "description": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+        "attacks": [
+          {
+            "name": "Ram",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Meltan",
+        "illustrator": "Kouki Saitou",
+        "description": "Il se nourrit du métal qu'il fait fondre, et produit de l'énergie en faisant circuler du métal liquide dans son corps.",
+        "attacks": [
+          {
+            "name": "Collision",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Meltan",
+        "illustrator": "Kouki Saitou",
+        "description": "Funde metales para ingerirlos. Una vez licuados, los hace circular por el interior de su cuerpo para generar energía.",
+        "attacks": [
+          {
+            "name": "Apisonar",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Meltan",
+        "illustrator": "Kouki Saitou",
+        "description": "Fonde il metallo per cibarsene, e lo fa circolare nel suo corpo per produrre energia.",
+        "attacks": [
+          {
+            "name": "Carica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Meltan",
+        "illustrator": "Kouki Saitou",
+        "description": "Es schmilzt Metall ein und frisst es. In seinem Körper wandelt es das flüssig gewordene Metall in Energie um.",
+        "attacks": [
+          {
+            "name": "Ramme",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Meltan",
+        "illustrator": "Kouki Saitou",
+        "description": "Dissolve e come metal. Este Pokémon gera energia quando metal líquido corre pelo seu corpo.",
+        "attacks": [
+          {
+            "name": "Ariete",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "美錄坦",
+        "illustrator": "Kouki Saitou",
+        "description": "全國圖鑑NO.0808 蜂巢寶可夢 身高：0.2m 體重：8.0kg",
+        "attacks": [
+          {
+            "name": "衝撞",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom flavor text is small and partially difficult to verify; transcription may be off in the exact wording/punctuation."
+      }
+    ]
+  }
+}

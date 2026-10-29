@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-044",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "3a7eac6f56ee7d9934927c61e77555c08825dcab8e5dd491d36c5bf85ce31f16",
+      "bytes": 224776
+    },
+    "fr": {
+      "sha256": "2168bc56c3edde4b22283c65290b0c47b67ef3eea0e8037949a8c3ef3fc8396a",
+      "bytes": 224516
+    },
+    "es": {
+      "sha256": "d85223e6f94168af5c6e361ebff3361c79ce3fe91afa3d6b1ba42d505a9b475a",
+      "bytes": 225445
+    },
+    "it": {
+      "sha256": "d13e622a5aa96bc7a1ecfd041edee05ddd5f7affe4795f876bd2ed79b83d3620",
+      "bytes": 226394
+    },
+    "de": {
+      "sha256": "9dd5bf67fcaa78a329bd7bd3cb6759133e22dfb7c162b67e67a7cab2d28fe342",
+      "bytes": 225597
+    },
+    "pt-br": {
+      "sha256": "065c139bd7cb36c7fa4e4a24033ce15f14075ddec1203df0e9adbb5f3586a66d",
+      "bytes": 226529
+    },
+    "zh-tw": {
+      "sha256": "d46f164a0fad708fa0d88d12b1c0933bbbda380a9c46badff4e0998f044bb77f",
+      "bytes": 225522
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 923,
+    "output_tokens_details": {
+      "reasoning_tokens": 420
+    },
+    "total_tokens": 2883
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Voltorb",
+        "illustrator": "Illus. Sekio",
+        "description": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+        "attacks": [
+          {
+            "name": "Rollout",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Voltorbe",
+        "illustrator": "Illus. Sekio",
+        "description": "Il se déplace en roulant. Si le sol est cabossé, les chocs le font exploser.",
+        "attacks": [
+          {
+            "name": "Roulade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Voltorb",
+        "illustrator": "Ilus. Sekio",
+        "description": "Se mueve rodando. Si el terreno es irregular, una chispa provocada por algún bache lo hará explotar.",
+        "attacks": [
+          {
+            "name": "Rodar",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Voltorb",
+        "illustrator": "Illus. Sekio",
+        "description": "Rotola per spostarsi. Se il terreno è irregolare, può esplodere all'improvviso a causa dell'urto contro un dosso.",
+        "attacks": [
+          {
+            "name": "Rotolamento",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Voltobal",
+        "illustrator": "Illust. Sekio",
+        "description": "Es bewegt sich rollend fort. Rollt es über unebenen Boden, kann es plötzlich explodieren.",
+        "attacks": [
+          {
+            "name": "Walzer",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Voltorb",
+        "illustrator": "Ilust. Sekio",
+        "description": "Ele rola para se mover. Quando o solo está desnivelado, um solavanco repentino após um baque pode fazê-lo explodir.",
+        "attacks": [
+          {
+            "name": "Rolagem",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "霹靂電球",
+        "illustrator": "繪者：Sekio",
+        "description": null,
+        "attacks": [
+          {
+            "name": "滾動",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with confidence from the image provided."
+      }
+    ]
+  }
+}

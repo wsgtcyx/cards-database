@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-111",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "c5fd23b9690b9fcba59b71d8379f0aafbe944206b9179b8f254aebbe631624cd",
+      "bytes": 271402
+    },
+    "fr": {
+      "sha256": "bbe697cfa8d753c273a0e80bbaa9bc68e5be80056a096174060e646fc8c2f091",
+      "bytes": 272916
+    },
+    "es": {
+      "sha256": "743ed7af0c726597c82e02373639d6ae04a74ef9330393c26bf050400f29eaaa",
+      "bytes": 272576
+    },
+    "it": {
+      "sha256": "e6937fcf8d3bcb080dbef485aa5a657b800e7ab194fb2cc4bf827981069f7a0a",
+      "bytes": 271882
+    },
+    "de": {
+      "sha256": "7bbf3f098b9ac1332f3851440ce44608932f88fbcbb29e7d14d718dda9a0f55b",
+      "bytes": 272517
+    },
+    "pt-br": {
+      "sha256": "d805726372989c03de2b633a32d361203057426429f6ec3748359652d9235240",
+      "bytes": 273777
+    },
+    "zh-tw": {
+      "sha256": "45af3b2fda61674d1092ad045c94e4020c912d3e02d6b15da89e54f3fdcdbe80",
+      "bytes": 269277
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1177,
+    "output_tokens_details": {
+      "reasoning_tokens": 149
+    },
+    "total_tokens": 3137
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Snorlax",
+        "illustrator": null,
+        "description": "This gluttonous Pokémon eats constantly, apart from when it’s asleep. It devours nearly 900 pounds of food per day.",
+        "attacks": [
+          {
+            "name": "Body Slam",
+            "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Ronflex",
+        "illustrator": null,
+        "description": "Quand il ne dort pas, ce glouton passe son temps à manger. Il peut ingurgiter jusqu’à 400 kg de nourriture en une seule journée.",
+        "attacks": [
+          {
+            "name": "Plaquage",
+            "effect": "Lancez une pièce. Si c’est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Snorlax",
+        "illustrator": null,
+        "description": "Este Pokémon es un glotón que lo único que hace aparte de comer es dormir. Puede ingerir hasta 400 kg de comida en un solo día.",
+        "attacks": [
+          {
+            "name": "Golpe Cuerpo",
+            "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Snorlax",
+        "illustrator": null,
+        "description": "È un ghiottone che smette di mangiare solo per dormire. Dovrà ben 400 kg di cibo al giorno.",
+        "attacks": [
+          {
+            "name": "Corposcontro",
+            "effect": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Relaxo",
+        "illustrator": null,
+        "description": "Dieser Nimmersatt ist unentwegt, wenn er nicht gerade schläft. Relaxo verschlingt mehr als 400 kg Nahrung am Tag.",
+        "attacks": [
+          {
+            "name": "Bodyslam",
+            "effect": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Snorlax",
+        "illustrator": null,
+        "description": "Este Pokémon gluto come constantemente, exceto quando está dormindo. Devorá cerca de 400 kg de comida por dia.",
+        "attacks": [
+          {
+            "name": "Pancada Corporal",
+            "effect": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "卡比獸",
+        "illustrator": null,
+        "description": "除了在睡覺之外，牠是日夜不停 在進食。是個一天能吃掉 400 公斤食物的大胃王。",
+        "attacks": [
+          {
+            "name": "泰山壓頂",
+            "effect": "擲1次硬幣若為正面，則對手的戰鬥寶可夢將陷入麻痺。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "No illustrator name is visible; only a small code-like text 'Illus. 0313' appears at the bottom left."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "No illustrator name is visible; only a small code-like text 'Illus. 0313' appears at the bottom left."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "No illustrator name is visible; only a small code-like text 'Illus. 0313' appears at the bottom left."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "No illustrator name is visible; only a small code-like text 'Illus. 0313' appears at the bottom left."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "No illustrator name is visible; only a small code-like text 'Illus. 0313' appears at the bottom left."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "No illustrator name is visible; only a small code-like text 'Illus. 0313' appears at the bottom left."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "No illustrator name is visible; only a small code-like text 'Illus. 0313' appears at the bottom left."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is slightly blurry; transcription may be imperfect, especially 'gluto'/'Devorá'."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is slightly blurry; line breaks were joined and some characters may be uncertain."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "The attack effect text is small and slightly blurry; final punctuation/characterization may be uncertain."
+      }
+    ]
+  }
+}

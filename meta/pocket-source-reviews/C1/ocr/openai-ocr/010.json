@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-010",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "c601eb85404a189d6c38f24592a7011df7a3b32de0a02b6b2c070e66f46102fd",
+      "bytes": 260736
+    },
+    "fr": {
+      "sha256": "14eea593c5376867c737847f3679515c4354c82b16598abcb6d28a14df831f89",
+      "bytes": 259912
+    },
+    "es": {
+      "sha256": "a40a977e08b464ca18cbdcd4ed5c4fab28c0094e121991262ebfa824f84c19a0",
+      "bytes": 260939
+    },
+    "it": {
+      "sha256": "7e6e32717886d2047f12e8d7131548a753565fcf3eea1f8c800870cf881a02f8",
+      "bytes": 260533
+    },
+    "de": {
+      "sha256": "1c65f99a1917ed8b4f63ecc3530883b7de7242659ee99cec2c071b4d229698d0",
+      "bytes": 261365
+    },
+    "pt-br": {
+      "sha256": "6ec70779253d958071898fe96b8ccaa88144b46a24fe7350644b591ece274d52",
+      "bytes": 260396
+    },
+    "zh-tw": {
+      "sha256": "4d4ebcaeba97a8b846fec996280ba4477edf48ad48de113b77f5cd39cd2e41af",
+      "bytes": 258806
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1831,
+    "output_tokens_details": {
+      "reasoning_tokens": 1092
+    },
+    "total_tokens": 3791
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Sawsbuck",
+        "illustrator": "HYOGONOSUKE",
+        "description": "There are many Sawsbuck enthusiasts. The darker the red of the foliage that hangs from its antlers, the more stylish the Sawsbuck is thought to be.",
+        "attacks": [
+          {
+            "name": "Leaf Litter Tackle",
+            "effect": "Discard a {G} Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Haydaim",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Ce Pokémon est très populaire. Plus la couleur de son feuillage est vive, plus on le trouve élégant.",
+        "attacks": [
+          {
+            "name": "Charge Amas de Feuilles",
+            "effect": "Défaussez une Énergie {G} de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Sawsbuck",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Mucha gente admira este Pokémon. Cuanto más intenso es el rojo del follaje que cuelga de su cornamenta, más elegante se lo considera.",
+        "attacks": [
+          {
+            "name": "Placaje Hojarasca",
+            "effect": "Descarta 1 Energía {G} de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Sawsbuck",
+        "illustrator": "HYOGONOSUKE",
+        "description": "È un Pokémon con tanti ammiratori. Più è intenso il rosso delle fronde che pendono dalle corna, più l'esemplare è considerato elegante.",
+        "attacks": [
+          {
+            "name": "Defogliazione",
+            "effect": "Rimuovi un'Energia {G} da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Kronjuwild",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Dieses Pokémon hat viele Bewunderer. Es wird als umso schicker empfunden, je tiefer das Rot der Blätter ist, die von seinem Geweih herabhängen.",
+        "attacks": [
+          {
+            "name": "Laubstreu-Tackle",
+            "effect": "Lege 1 {G}-Energie von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Sawsbuck",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Sawsbuck tem muitos fãs. Dizem que, quanto mais escura for a folhagem vermelha em seus chifres, mais estiloso Sawsbuck será considerado.",
+        "attacks": [
+          {
+            "name": "Joga Folha no Lixo",
+            "effect": "Descarte 1 Energia {G} deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "萌芽鹿",
+        "illustrator": "HYOGONOSUKE",
+        "description": "有許多愛好者的寶可夢。愛好者們認為越加茂密地從頭上的枝葉垂垂而下就越是流行。",
+        "attacks": [
+          {
+            "name": "落葉衝撞",
+            "effect": "將這隻寶可夢身上的1個{G}能量丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially hard to read; punctuation/wording around the final clause may be slightly off."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "Attack effect text is small; wording may differ slightly from the visible Chinese text."
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-092",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "a8d529cf208842227a7a290ebfab8808aacaf8250f0f4926a0199b11e3555414",
+      "bytes": 307684
+    },
+    "fr": {
+      "sha256": "0cd6e1d8ad3d9b1c25f30460e93d71d64c805744ecfeb28d5e45cabfec9af263",
+      "bytes": 308320
+    },
+    "es": {
+      "sha256": "137de7e265772978ea5bdfa8262ea658dd3db8d61f6f1ab30bedd745fd764d35",
+      "bytes": 308181
+    },
+    "it": {
+      "sha256": "5dc1d29bf73b99abbe1b75e2f3c23c7757d98b7d3e227265c832809c384f56c4",
+      "bytes": 308434
+    },
+    "de": {
+      "sha256": "25751045fff8dcfe85c9e5d4d761195e782febb8924e92f060adc3473d146924",
+      "bytes": 308932
+    },
+    "pt-br": {
+      "sha256": "6a26366bee8af16f197fed3126324339964dfb0e634b10eb02b44508acfd9801",
+      "bytes": 309199
+    },
+    "zh-tw": {
+      "sha256": "5a5ee0617f22576cbff2ac5474e412cd4f68114737da880c1a5615abd70d0329",
+      "bytes": 306929
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1315,
+    "output_tokens_details": {
+      "reasoning_tokens": 731
+    },
+    "total_tokens": 3275
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Dialga",
+        "illustrator": "Shin Nagasawa",
+        "description": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+        "attacks": [
+          {
+            "name": "Roar of Time",
+            "effect": "Discard the top card of your opponent’s deck."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Dialga",
+        "illustrator": "Shin Nagasawa",
+        "description": "Selon une légende, le temps se serait mis en mouvement à la naissance de Dialga.",
+        "attacks": [
+          {
+            "name": "Hurle-Temps",
+            "effect": "Défaussez la première carte du dessus du deck de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Dialga",
+        "illustrator": "Shin Nagasawa",
+        "description": "Un Pokémon de leyenda. Se dice que el tiempo comenzó a avanzar cuando Dialga nació.",
+        "attacks": [
+          {
+            "name": "Distorsión",
+            "effect": "Descarta la primera carta de la baraja de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Dialga",
+        "illustrator": "Shin Nagasawa",
+        "description": "Le leggende in cui compare questo Pokémon narrano che la sua nascita sia all'origine dello scorrere del tempo.",
+        "attacks": [
+          {
+            "name": "Fragortempo",
+            "effect": "Scarta la prima carta del mazzo dell'avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Dialga",
+        "illustrator": "Shin Nagasawa",
+        "description": "Ein Pokémon, das in Legenden zu finden ist. Man sagt, als Dialga geboren wurde, begann der Lauf der Zeit.",
+        "attacks": [
+          {
+            "name": "Zeitenlärm",
+            "effect": "Lege die oberste Karte vom Deck deines Gegners ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Dialga",
+        "illustrator": "Shin Nagasawa",
+        "description": "Um Pokémon mencionado em uma lenda. Dizem que o tempo começou a passar quando Dialga nasceu.",
+        "attacks": [
+          {
+            "name": "Rugido do Tempo",
+            "effect": "Descarte a carta de cima do baralho do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "帝牙盧卡",
+        "illustrator": "Shin Nagasawa",
+        "description": "因為帝牙盧卡的誕生，時間才開始朝前流動。",
+        "attacks": [
+          {
+            "name": "時光咆哮",
+            "effect": "將對手的牌庫上方1張卡丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially small/blurred; the transcription may be incomplete."
+      }
+    ]
+  }
+}

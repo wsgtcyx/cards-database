@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-006",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "b0bdba471a131e84d60a19123592a3e230904aa6ed2b44ff6412568abe1ed14a",
+      "bytes": 278784
+    },
+    "fr": {
+      "sha256": "e1b9a6abee0f1b690274bb696ec9f64aca0e070ccdec8ed14de5d86859317f27",
+      "bytes": 279451
+    },
+    "es": {
+      "sha256": "bd9eda6ca3f260c5cdead23baeb4d5e6473bcde07b001a4cc0aa7fcd3f4d8f72",
+      "bytes": 279147
+    },
+    "it": {
+      "sha256": "8b51401a6a5553dc0ead8ef83a41764adb68dc84eae0cba4058bc00065d00565",
+      "bytes": 278213
+    },
+    "de": {
+      "sha256": "47da3108f01b1df1230cee7d8aef0e09a0161ef98f7280fd336d937c643dfb07",
+      "bytes": 279094
+    },
+    "pt-br": {
+      "sha256": "8153e1bd16ffae45d036d81e866bcb568a9a2714a0118c60de59752d60af8842",
+      "bytes": 280125
+    },
+    "zh-tw": {
+      "sha256": "f2cbbb497a9bbd6d7f88f6324bbf4286272f18fe4e00f9e170f6fcd9e854483a",
+      "bytes": 277886
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 901,
+    "output_tokens_details": {
+      "reasoning_tokens": 372
+    },
+    "total_tokens": 4389
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pinsir",
+        "illustrator": "Yuka Oka",
+        "description": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+        "attacks": [
+          {
+            "name": "Vise Grip",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Scarabrute",
+        "illustrator": "Yuka Oka",
+        "description": "Ses cornes déterminent son rang au sein du groupe. Plus elles sont imposantes, plus les membres du sexe opposé l’apprécient.",
+        "attacks": [
+          {
+            "name": "Force Poigne",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pinsir",
+        "illustrator": "Yuka Oka",
+        "description": "Los Pinsir se juzgan entre ellos por la robustez de la cornamenta. Cuanto más imponente sea, más agradará a sus congéneres del sexo opuesto.",
+        "attacks": [
+          {
+            "name": "Agarre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pinsir",
+        "illustrator": "Yuka Oka",
+        "description": "I Pinsir si giudicano a vicenda in base alle corna. Quelli con corna grosse e imponenti hanno più successo con gli esemplari dell’altro sesso.",
+        "attacks": [
+          {
+            "name": "Presa",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pinsir",
+        "illustrator": "Yuka Oka",
+        "description": "Der Status eines Pinsirs hängt von seinen Hörnern ab. Je dicker und stattlicher diese sind, desto beliebter ist es beim anderen Geschlecht.",
+        "attacks": [
+          {
+            "name": "Klammer",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pinsir",
+        "illustrator": "Yuka Oka",
+        "description": "Estes Pokémon se julgam de acordo com suas pinças. As pinças mais grossas e notáveis são mais populares com o gênero oposto.",
+        "attacks": [
+          {
+            "name": "Agarramento Compressor",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "凱羅斯",
+        "illustrator": "Yuka Oka",
+        "description": "會以角來判斷彼此的地位。頭頂兩側的角越是粗壯彎曲，就越能得到異性的愛戴。",
+        "attacks": [
+          {
+            "name": "夾住",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-017",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "a078e2849c5d782234a6d8d3d7e9d4e6630dd299a3e85dbed647fbb2872481ee",
+      "bytes": 290493
+    },
+    "fr": {
+      "sha256": "e82af308f41ccd0f853952d71bed3e437ad8401456f887b4a939aea933639561",
+      "bytes": 291556
+    },
+    "es": {
+      "sha256": "2657f2ac7bdc662dee0a7464359001366c361fa75c860685bfe89624caa52fde",
+      "bytes": 290633
+    },
+    "it": {
+      "sha256": "907541997eee7c9f4fa501b4ec93550117376f769531e46dbdf669d6642f32a3",
+      "bytes": 290566
+    },
+    "de": {
+      "sha256": "3d730d29592f9951e21ecf76eeb49800f85d4e0a07c120e0c70782f1dc372a61",
+      "bytes": 292202
+    },
+    "pt-br": {
+      "sha256": "549436ca7f84ba357cec8044b91cfa5d83d12176d8c7c5bd58818d86473390e8",
+      "bytes": 290898
+    },
+    "zh-tw": {
+      "sha256": "6d77d8e6bb75d4cacd76f27c9e79d1f41609e6fe38187daf9b662000a1e05f88",
+      "bytes": 288837
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1014,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 4502
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Charmeleon",
+        "illustrator": "GIDORA",
+        "description": "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents.",
+        "attacks": [
+          {
+            "name": "Flame Tail",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Reptincel",
+        "illustrator": "GIDORA",
+        "description": "En agitant sa queue enflammée, il peut élever la température ambiante de manière exponentielle et ainsi tourmenter ses adversaires.",
+        "attacks": [
+          {
+            "name": "Queue de Flammes",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Charmeleon",
+        "illustrator": "GIDORA",
+        "description": "Al agitar su ardiente cola, eleva poco a poco la temperatura a su alrededor para sofocar a sus rivales.",
+        "attacks": [
+          {
+            "name": "Cola de Fuego",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Charmeleon",
+        "illustrator": "GIDORA",
+        "description": "Quando agita la coda infuocata, la temperatura circostante sale sempre di più, causando tormento ai suoi nemici.",
+        "attacks": [
+          {
+            "name": "Codafiamma",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Glutexo",
+        "illustrator": "GIDORA",
+        "description": "Wenn Glutexo seinen brennenden Schwanz schwingt, steigt die Temperatur um es herum immer weiter an und setzt seinen Gegnern zu.",
+        "attacks": [
+          {
+            "name": "Flammenschweif",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Charmeleon",
+        "illustrator": "GIDORA",
+        "description": "Quando balança sua cauda em chamas, a temperatura ao redor sobe sem parar, atormentando seus oponentes.",
+        "attacks": [
+          {
+            "name": "Cauda de Chamas",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "火恐龍",
+        "illustrator": "GIDORA",
+        "description": "當牠激烈擺動尾巴時，周圍的溫度會不斷上升，讓對手陷入痛苦。",
+        "attacks": [
+          {
+            "name": "火之尾",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

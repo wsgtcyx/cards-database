@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-053",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "79fb6605773ac3171a229e35c76091e42ffc9bbe85ab1eee04175b7147d8f645",
+      "bytes": 266576
+    },
+    "fr": {
+      "sha256": "ea9e56abdce6c575fe689c5cd4a9dc5fc50aed19b9012c9f4c195b0864707658",
+      "bytes": 265321
+    },
+    "es": {
+      "sha256": "75718632b05dd2a280c77ec39a608315e645c285ed307ca042c7fc41c2efebd2",
+      "bytes": 267295
+    },
+    "it": {
+      "sha256": "0a7cfb35cf3cdc5a43223a5770ce33828b3487df041fea7137bf75b718c0f1f1",
+      "bytes": 265995
+    },
+    "de": {
+      "sha256": "e027eb4457681bff8f5ea3253205c7d7207513418685d941447d5fac5603b852",
+      "bytes": 266802
+    },
+    "pt-br": {
+      "sha256": "461b84dfee0f7ec7e2679894270d9a05a40b0b0b7c02879ede5ffb7e45335da8",
+      "bytes": 267010
+    },
+    "zh-tw": {
+      "sha256": "3f62e5effd464190105d89ab9d4e2a6c4ab2c093306a93bcff77a0591434d6bd",
+      "bytes": 264630
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 721,
+    "output_tokens_details": {
+      "reasoning_tokens": 234
+    },
+    "total_tokens": 2681
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Abra",
+        "illustrator": "CHORSO",
+        "description": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.",
+        "attacks": [
+          {
+            "name": "Beam",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Abra",
+        "illustrator": "CHORSO",
+        "description": "Le contenu de ses rêves influe sur les pouvoirs psychiques qu’il utilise dans son sommeil.",
+        "attacks": [
+          {
+            "name": "Rayon",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Abra",
+        "illustrator": "CHORSO",
+        "description": "Es capaz de usar sus poderes psíquicos aun estando dormido. Al parecer, el contenido de su sueño influye en sus facultades.",
+        "attacks": [
+          {
+            "name": "Transmisión",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Abra",
+        "illustrator": "CHORSO",
+        "description": "Il contenuto dei suoi sogni influisce sui suoi poteri psichici, che può utilizzare anche mentre dorme.",
+        "attacks": [
+          {
+            "name": "Raggio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Abra",
+        "illustrator": "CHORSO",
+        "description": "Es setzt seine Psycho-Kräfte selbst im Schlaf ein. Der Inhalt seiner Träume hat Einfluss auf die Kräfte, die es verwendet.",
+        "attacks": [
+          {
+            "name": "Strahl",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Abra",
+        "illustrator": "CHORSO",
+        "description": "Usa seus poderes psíquicos enquanto dorme. O conteúdo dos sonhos de Abra afeta os poderes que este Pokémon possui.",
+        "attacks": [
+          {
+            "name": "Feixe",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "凱西",
+        "illustrator": "CHORSO",
+        "description": "會一邊做夢一邊操控超能力。夢的內容會影響使用的能力。",
+        "attacks": [
+          {
+            "name": "光束",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is small and slightly blurry; wording may differ by one character in the second sentence."
+      }
+    ]
+  }
+}

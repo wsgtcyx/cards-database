@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-202",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "992ce8b7876fcf329d909dcb28940122a0b218cbe639a2e852a7cef127a33921",
+      "bytes": 307352
+    },
+    "fr": {
+      "sha256": "4870a7268d29b9c68b3c2870a6b4dc9d84b7ae56c319b2173848a17dc07d443f",
+      "bytes": 309051
+    },
+    "es": {
+      "sha256": "9ad83ccaa74e7905fd6f4a9110620c2350620074fd9ed3a72652d640abcdac80",
+      "bytes": 308037
+    },
+    "it": {
+      "sha256": "8a4b8f9a8cbefacab554869980462228ff1d71474146b48c79b3ffa747df2370",
+      "bytes": 306472
+    },
+    "de": {
+      "sha256": "aae2498ecf6a070e72a2f497925b76ea02fa076a278eee16673b3b7af6faaa6c",
+      "bytes": 309347
+    },
+    "pt-br": {
+      "sha256": "71100bed930105942fda9395f8e4a0e8553d9bff2b73bae9c54f006d211068bb",
+      "bytes": 307944
+    },
+    "zh-tw": {
+      "sha256": "f7ff4534802a2a1c2d9ccc09682cd062753283402813054fc109778e071e2ddd",
+      "bytes": 304844
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1595,
+    "output_tokens_details": {
+      "reasoning_tokens": 799
+    },
+    "total_tokens": 3555
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Solgaleo",
+        "illustrator": "Souichirou Gunjima",
+        "description": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
+        "attacks": [
+          {
+            "name": "Claws of the Sun",
+            "effect": "This attack does 30 more damage for each point you have gotten."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Solgaleo",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Quand tout son corps émet de la lumière et qu'il prend la forme du soleil, il peut repousser les ténèbres et illuminer le monde.",
+        "attacks": [
+          {
+            "name": "Griffes du Halo Solaire",
+            "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque point que vous avez gagné."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Solgaleo",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Es capaz de eliminar toda oscuridad e iluminar el mundo entero irradiando luz por todo el cuerpo como si de un sol se tratara.",
+        "attacks": [
+          {
+            "name": "Garras del Sol",
+            "effect": "Este ataque hace 30 puntos de daño más por cada punto que hayas conseguido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Solgaleo",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Il suo corpo emette una luce abbagliante che, al pari del sole, è in grado di spazzare via le tenebre e illuminare il mondo.",
+        "attacks": [
+          {
+            "name": "Artigli Solari",
+            "effect": "Questo attacco infligge 30 danni in più per ogni punto che hai ottenuto."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Solgaleo",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Wenn sein ganzer Körper Licht ausstrahlt, nimmt es eine sonnenähnliche Gestalt an, und kann so das Dunkel vertreiben und die Welt erhellen.",
+        "attacks": [
+          {
+            "name": "Sonnenkreis-Klauen",
+            "effect": "Diese Attacke fügt für jeden von dir erhaltenen Punkt 30 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Solgaleo",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Quando seu corpo irradia luz, este Pokémon quase poderia ser confundido com o próprio sol, eliminando toda a escuridão e iluminando o mundo.",
+        "attacks": [
+          {
+            "name": "Garras do Sol",
+            "effect": "Este ataque causa 30 pontos de dano a mais para cada ponto que você recebeu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "索爾迦雷歐",
+        "illustrator": "Souichirou Gunjima",
+        "description": "帶著全身散發出強烈的光芒，變成像太陽一樣的姿態時，便會排去黑暗，照亮世界。",
+        "attacks": [
+          {
+            "name": "日輪之爪",
+            "effect": "增加自己已經獲得的分數 × 30點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Chinese flavor text is partially difficult to read from the image; transcription may be off in the middle clause."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "Attack name is small and slightly blurred; transcription may be off by a character."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "Effect text is small and slightly blurred; exact punctuation/spacing around the multiplier may be off."
+      }
+    ]
+  }
+}

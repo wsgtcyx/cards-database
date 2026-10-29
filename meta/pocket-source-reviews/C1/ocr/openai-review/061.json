@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-061",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "c1c8d2e93b4054c6b99562100c4be5a4b89ba56944352b2e90f4ef7cd7fdabcd",
+      "bytes": 269959
+    },
+    "fr": {
+      "sha256": "1fbe238de4dad7ceb68e47816b374dfe692773b1b78154e8f9c41ed0fb7be85a",
+      "bytes": 270088
+    },
+    "es": {
+      "sha256": "854e15c784ab53586c544f93d9035e511d4ae0afce4985c992b123e5414dd761",
+      "bytes": 270604
+    },
+    "it": {
+      "sha256": "e05b4e982dc07ef6a69d1045cdbf138c9237903d279f2e4e3d048f2b765cd422",
+      "bytes": 270504
+    },
+    "de": {
+      "sha256": "1d284106af55245d446d48599f47a53b36d4cf97c959fccb9c3fc1ba2f73a801",
+      "bytes": 272111
+    },
+    "pt-br": {
+      "sha256": "45605ecffd2d277ac680a90165dcbd0b3b306d573c72667396fb99f39e8c1055",
+      "bytes": 271537
+    },
+    "zh-tw": {
+      "sha256": "7f7f02f7dbe7bc0f471eaf2bc85cea972a2b17203ae535a1783d8e970400d086",
+      "bytes": 269193
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 978,
+    "output_tokens_details": {
+      "reasoning_tokens": 272
+    },
+    "total_tokens": 4466
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Wobbuffet",
+        "illustrator": "match",
+        "description": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+        "attacks": [
+          {
+            "name": "Headbutt Bounce",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Qulbutoké",
+        "illustrator": "match",
+        "description": "Il déteste la lumière et les chocs. S'il est attaqué, il se gonfle pour riposter violemment.",
+        "attacks": [
+          {
+            "name": "Culbute Surprise",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Wobbuffet",
+        "illustrator": "match",
+        "description": "Odia la luz y las sacudidas. Si le atacan, infla su cuerpo para contraatacar con más ímpetu.",
+        "attacks": [
+          {
+            "name": "Bote Cabezazo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Wobbuffet",
+        "illustrator": "match",
+        "description": "Odia la luce e gli shock. Se è attaccato, gonfia il corpo per preparare il contrattacco.",
+        "attacks": [
+          {
+            "name": "Rimbalzo Bottintesta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Woingenau",
+        "illustrator": "match",
+        "description": "Es hasst Licht und Schocks. Wird es angegriffen, pumpt es sich auf, um einen Gegenschlag vorzubereiten.",
+        "attacks": [
+          {
+            "name": "Abrupter Kopfstoß",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Wobbuffet",
+        "illustrator": "match",
+        "description": "Odeia luz e correntes elétricas. Quando é atacado, infla o corpo para intensificar seu contragolpe.",
+        "attacks": [
+          {
+            "name": "Cabeçada Ricochete",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "果然翁",
+        "illustrator": "match",
+        "description": "討厭光和衝擊。受到攻擊時身體會膨脹，反擊也會因此變強。",
+        "attacks": [
+          {
+            "name": "魯莽頭擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

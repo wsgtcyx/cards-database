@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-162",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "ca5feceab9280f3e9f1620d7d78760a025534a7fc670a24acbdb47bcabafa2c0",
+      "bytes": 311828
+    },
+    "fr": {
+      "sha256": "9340333c5274dc57af46a2a37aef6c342ad700181f19af0811d0881cdd6f9980",
+      "bytes": 312618
+    },
+    "es": {
+      "sha256": "9fcfa93adc02d814006b90fd14a6d1dcde7ed2dce74c0809ecc76fae3009553c",
+      "bytes": 311635
+    },
+    "it": {
+      "sha256": "81493393b2a35dccaef16ce12b3b32ed62d5540e0e0c75113aea6c7c7c781333",
+      "bytes": 312200
+    },
+    "de": {
+      "sha256": "3e7344ab3dd3f6e06252cac07bd0b17ccf499200dd7285e82ad32fcb7ff610cd",
+      "bytes": 313789
+    },
+    "pt-br": {
+      "sha256": "974d59815274cc3600de690b6a0f173da35d8a4edb892f42c9c9dedce6f323a8",
+      "bytes": 313577
+    },
+    "zh-tw": {
+      "sha256": "179de9d0379e46d2ee5d6c564376748d7cb332f0ea8cf46b5a3b49e1141d366a",
+      "bytes": 308134
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1771,
+    "output_tokens_details": {
+      "reasoning_tokens": 1034
+    },
+    "total_tokens": 3731
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Illus. 5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Draconic Meteor",
+            "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Dracolosse ex",
+        "illustrator": "Illus. 5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Météore Draconien",
+            "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 250 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Dragonite ex",
+        "illustrator": "Illus. 5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracónico",
+            "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 250 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Illus. 5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteora del Drago",
+            "effect": "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 250 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Dragoran ex",
+        "illustrator": "Illus. 5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Drachenmeteor",
+            "effect": "1 Pokémon des Gegners wird zufällig ausgewählt. Füge diesem Pokémon 250 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Illus. 5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracônico",
+            "effect": "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 250 pontos de dano a ele."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級快龍ex",
+        "illustrator": "Illus. 5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "翔龍流星擊",
+            "effect": "若對手的寶可夢隨機選擇1隻，對該寶可夢造成250點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is hard to read; likely 'Illus. 5ban Graphics'."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is hard to read; likely 'Illus. 5ban Graphics'."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is hard to read; likely 'Illus. 5ban Graphics'."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is hard to read; likely 'Illus. 5ban Graphics'."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is hard to read; likely 'Illus. 5ban Graphics'."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is hard to read; likely 'Illus. 5ban Graphics'."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is hard to read; likely 'Illus. 5ban Graphics'."
+      }
+    ]
+  }
+}

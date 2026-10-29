@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-043",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "49d7732c67d64e06ddecadfee986512a7a403b0ab2d52005173b4923e602f951",
+      "bytes": 280454
+    },
+    "fr": {
+      "sha256": "d112d48f516d47fc143c09e91566e705271b747911dc852c3c109ba25e706283",
+      "bytes": 281525
+    },
+    "es": {
+      "sha256": "df2cd7c772b7d5914cbcb0425fb0b80dd0accad2c1756edb621ba26dbaddbe9f",
+      "bytes": 282390
+    },
+    "it": {
+      "sha256": "ddc8cf75ef790fbc2508e120919903f6de95122cbcb4949aa0c3c2ade1ecbafc",
+      "bytes": 281977
+    },
+    "de": {
+      "sha256": "fe96e1ce94df1c4a61eda437e5636490cb11e7d514a7c7f70e10de5a6dcd98a1",
+      "bytes": 281785
+    },
+    "pt-br": {
+      "sha256": "6a91a0a0fae0b0461e80342aae7d972261b50e89fa8b3c68de37daa45c37440b",
+      "bytes": 282495
+    },
+    "zh-tw": {
+      "sha256": "a704d4e2c54eab3896b00bd114bcd8658ec935d9a7bb76d779fcf7737323c709",
+      "bytes": 278704
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1070,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 3030
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pikachu ex",
+        "illustrator": "Ryota Murayama",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Punch",
+            "effect": null
+          },
+          {
+            "name": "Thundertail",
+            "effect": "Discard 2 {L} Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pikachu ex",
+        "illustrator": "Ryota Murayama",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika-Poing",
+            "effect": null
+          },
+          {
+            "name": "Queue Tonnerre",
+            "effect": "Défaussez 2 Énergies {L} de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pikachu ex",
+        "illustrator": "Ryota Murayama",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Puño",
+            "effect": null
+          },
+          {
+            "name": "Cola Relámpago",
+            "effect": "Descarta 2 Energías {L} de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pikachu ex",
+        "illustrator": "Ryota Murayama",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pika Pugno",
+            "effect": null
+          },
+          {
+            "name": "Coda Saettante",
+            "effect": "Rimuovi 2 Energie {L} da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pikachu ex",
+        "illustrator": "Ryota Murayama",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pikahieb",
+            "effect": null
+          },
+          {
+            "name": "Donnerschweif",
+            "effect": "Lege 2 {L}-Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pikachu ex",
+        "illustrator": "Ryota Murayama",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Soco Pikachu",
+            "effect": null
+          },
+          {
+            "name": "Cauda Trovejante",
+            "effect": "Descarte 2 Energias {L} deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "皮卡丘 ex",
+        "illustrator": "Ryota Murayama",
+        "description": null,
+        "attacks": [
+          {
+            "name": "皮卡拳",
+            "effect": null
+          },
+          {
+            "name": "閃電尾",
+            "effect": "將這隻寶可夢身上的2個能量丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator line is partially hard to read in the image; it appears to be Ryota Murayama, but the printed label is not fully legible."
+      }
+    ]
+  }
+}

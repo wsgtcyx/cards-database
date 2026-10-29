@@ -1,0 +1,39 @@
+{
+  "setId": "C1",
+  "bucket": "game",
+  "method": "authenticated-prefix-inventory",
+  "prefixes": [
+    {
+      "prefix": "en/tcgp/C1/",
+      "objects": 0
+    },
+    {
+      "prefix": "fr/tcgp/C1/",
+      "objects": 0
+    },
+    {
+      "prefix": "es/tcgp/C1/",
+      "objects": 0
+    },
+    {
+      "prefix": "it/tcgp/C1/",
+      "objects": 0
+    },
+    {
+      "prefix": "de/tcgp/C1/",
+      "objects": 0
+    },
+    {
+      "prefix": "pt-br/tcgp/C1/",
+      "objects": 0
+    },
+    {
+      "prefix": "zh-tw/tcgp/C1/",
+      "objects": 0
+    }
+  ],
+  "collisions": 0,
+  "objects": 3042,
+  "passed": true,
+  "retrievedAt": "2026-10-29T06:38:12.571788+00:00"
+}

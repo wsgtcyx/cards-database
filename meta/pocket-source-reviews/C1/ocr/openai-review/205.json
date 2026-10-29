@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-205",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "9200ab929ea8cdc89b80f6014aa7adb1af82a421ecc1be3ded6144c80a6ec198",
+      "bytes": 291245
+    },
+    "fr": {
+      "sha256": "edcc00b06760b559abb43517fbf9f6aba15335a55f128c3f18cd7b6dc8658756",
+      "bytes": 292380
+    },
+    "es": {
+      "sha256": "1abb493350592c6a1facf676193066386dd4bd07169b92585f0d7686781572a3",
+      "bytes": 291723
+    },
+    "it": {
+      "sha256": "78211bf3deffcb84da4a2665c7596c4a4f95744e90e644d0ea37813d09bbc95e",
+      "bytes": 290923
+    },
+    "de": {
+      "sha256": "8518ffff0df2ebd30abd839a109e26d128074f89314629c9793fded1947088a8",
+      "bytes": 291679
+    },
+    "pt-br": {
+      "sha256": "e4536cae3cd1d0c7a42f9efe0553e2d7dce50a8c4ebe9d9ac0d009dc4edab2e6",
+      "bytes": 293087
+    },
+    "zh-tw": {
+      "sha256": "903707926585276db0fcb623de37695b0825c440014065df032250f7020b376f",
+      "bytes": 288885
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3485
+    },
+    "output_tokens": 1458,
+    "output_tokens_details": {
+      "reasoning_tokens": 499
+    },
+    "total_tokens": 4946
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Hisuian Zorua",
+        "illustrator": "MAHOU",
+        "description": "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.",
+        "attacks": [
+          {
+            "name": "Run Around",
+            "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Zorua de Hisui",
+        "illustrator": "MAHOU",
+        "description": "Zorua serait une âme disparue, ressuscitée à Hisui. Sa rancœur émane sous forme d'énergie au-dessus de sa tête, puis adopte l'apparence de ses ennemis, et finit par se dissiper.",
+        "attacks": [
+          {
+            "name": "Course Effrénée",
+            "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Zorua de Hisui",
+        "illustrator": "MAHOU",
+        "description": "Es un alma difunta resucitada en Hisui que transforma su rencor en energía. Esta surge de su cabeza y adopta la forma de su oponente, disipando así su inquina.",
+        "attacks": [
+          {
+            "name": "Correr Alrededor",
+            "effect": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Zorua di Hisui",
+        "illustrator": "MAHOU",
+        "description": "Uno spirito defunto, tornato a nuova vita nella terra di Hisui. Il suo sdegno si fa energia e promana dal capo, tramutandosi nell'avversario per esigere vendetta.",
+        "attacks": [
+          {
+            "name": "Correre Intorno",
+            "effect": "Scambia questo Pokémon con uno della tua panchina."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Hisui-Zorua",
+        "illustrator": "MAHOU",
+        "description": "Eine verstorbene Seele, die in Hisui zu neuem Leben erwachte. Groll verleiht ihm Kraft und quillt aus seinem Kopf, um als Ventil für den eigenen Hass die Gestalt seiner Feinde anzunehmen.",
+        "attacks": [
+          {
+            "name": "Herumrennen",
+            "effect": "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Zorua de Hisui",
+        "illustrator": "MAHOU",
+        "description": "Uma alma que partiu deste mundo e voltou à vida em Hisui. Seu poder é oriundo do rancor, que se converte em energia no topo de sua cabeça e toma a forma de seus inimigos. Dessa maneira, Zorua se liberta da malícia persistente.",
+        "attacks": [
+          {
+            "name": "Zoar",
+            "effect": "Troque este Pokémon por 1 dos seus Pokémon no Banco."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "洗翠 索羅亞",
+        "illustrator": "MAHOU",
+        "description": "死後靈魂在洗翠地區復生。怨恨化為力量，從其頭部湧出，會化成對手的樣貌去報仇恨。",
+        "attacks": [
+          {
+            "name": "雀躍",
+            "effect": "將這隻寶可夢與備戰寶可夢互換。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

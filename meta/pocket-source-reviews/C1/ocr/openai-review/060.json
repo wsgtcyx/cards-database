@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-060",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "a0b610970b95214ff0b4c1a58091f45698db43abf8a535d9a7bcc397ee0eb07e",
+      "bytes": 285585
+    },
+    "fr": {
+      "sha256": "94303516a6d5977a2c16a429f35b35faebe7db8d13228f3aecc12c455364281f",
+      "bytes": 288394
+    },
+    "es": {
+      "sha256": "adabdb86fa121a7a4471e2b41932f5f61d09e9fe1655fd3a98439b58da328b58",
+      "bytes": 286990
+    },
+    "it": {
+      "sha256": "61312aa3770e3a487d76e1c5a332c868e33b6e955ef3f5d0439c46f79d499f50",
+      "bytes": 287718
+    },
+    "de": {
+      "sha256": "5231362c9983decfc372b5883ff50a19441485659c65636b12f8c7db6717eb34",
+      "bytes": 288551
+    },
+    "pt-br": {
+      "sha256": "31d776ed67ecb52cfeb2cf92a04d7d6c60f53eef5cc79c0efba06800d8827d0b",
+      "bytes": 287060
+    },
+    "zh-tw": {
+      "sha256": "c09a4e356ffa9cc9b303095af321e9f28408a75830bb7d5d096e8355604b73cb",
+      "bytes": 283770
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1364,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 4852
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Espeon",
+        "illustrator": "Cona Nintanda",
+        "description": "The tip of its forked tail quivers when it is predicting its opponent’s next move.",
+        "attacks": [
+          {
+            "name": "Brainwave",
+            "effect": "This attack does 20 more damage for each {P} Energy attached to this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Mentali",
+        "illustrator": "Cona Nintanda",
+        "description": "Quand il prédit la prochaine attaque de son adversaire, l’extrémité fourchue de sa queue frémit.",
+        "attacks": [
+          {
+            "name": "Onde Cérébrale",
+            "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie {P} attachée à ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Espeon",
+        "illustrator": "Cona Nintanda",
+        "description": "Al predecir el siguiente movimiento de su rival, los extremos de su cola bífida tiemblan ligeramente.",
+        "attacks": [
+          {
+            "name": "Onda Cerebral",
+            "effect": "Este ataque hace 20 puntos de daño más por cada Energía {P} unida a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Espeon",
+        "illustrator": "Cona Nintanda",
+        "description": "Mentre prevede la prossima mossa del nemico, le punte della sua coda biforcuta tremano lievemente.",
+        "attacks": [
+          {
+            "name": "Onda Cerebrale",
+            "effect": "Questo attacco infligge 20 danni in più per ogni Energia {P} assegnata a questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Psiana",
+        "illustrator": "Cona Nintanda",
+        "description": "Die Spitze seines geteilten Schweifs bebt, wenn es die nächste Attacke seines Feindes voraussagt.",
+        "attacks": [
+          {
+            "name": "Gehirnwelle",
+            "effect": "Diese Attacke fügt für jede an dieses Pokémon angelegte {P}-Energie 20 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Espeon",
+        "illustrator": "Cona Nintanda",
+        "description": "A ponta de sua cauda bifurcada treme enquanto prevê o próximo movimento de seu oponente.",
+        "attacks": [
+          {
+            "name": "Onda Cerebral",
+            "effect": "Este ataque causa 20 pontos de dano a mais para cada Energia {P} ligada a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "太陽伊布",
+        "illustrator": "Cona Nintanda",
+        "description": "預知對手的行動時，分叉的尾巴前端就會微微地擺動。",
+        "attacks": [
+          {
+            "name": "腦力波",
+            "effect": "增加這隻寶可夢身上的{P}能量的數量×20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

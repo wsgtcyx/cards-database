@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-142",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "106df7fd1cac806237242a28ad078ab16b16324a361a7c832bba0fcb4ec212d1",
+      "bytes": 225812
+    },
+    "fr": {
+      "sha256": "49bcbeab4fce7b1ca6af43100fca7190203809a9c97b44a0510720b1ba6de2b0",
+      "bytes": 229617
+    },
+    "es": {
+      "sha256": "29e05ac8c31d797fe5a560978ed04b732eb3959a944f9f07dc073d3cd16f2613",
+      "bytes": 224999
+    },
+    "it": {
+      "sha256": "bb7eff634f7ddeb99af3ca6d4a393781c75ee95d2243e508546f1365b8c54031",
+      "bytes": 226206
+    },
+    "de": {
+      "sha256": "12ccd2cb7ae4b5fb715dd2dbd166a7746f98ec571c1ddbb4e2da069d89be44ea",
+      "bytes": 229136
+    },
+    "pt-br": {
+      "sha256": "85614b93537e0d6b058bb64d565287b4906040b20cb2671fae96b46fc66560a1",
+      "bytes": 226703
+    },
+    "zh-tw": {
+      "sha256": "2afd9eb58b37f80b59308607ae3d4cbb2afa85288afe65b48da3c09a7f65c40a",
+      "bytes": 220440
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1983,
+    "output_tokens_details": {
+      "reasoning_tokens": 1158
+    },
+    "total_tokens": 3943
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pawmot",
+        "illustrator": "Yoshimi Miyoshi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Mach Bolt",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrorecreation",
+            "effect": "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to the {L} Pokémon in the Active Spot."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pohmarmotte",
+        "illustrator": "Yoshimi Miyoshi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Éclair Fulgurant",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrocération",
+            "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie {L} de votre zone Énergie et l’attacher au Pokémon {L} sur le Poste Actif."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Pawmot",
+        "illustrator": "Yoshimi Miyoshi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Rayo Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrocreación",
+            "effect": "Una vez durante tu turno, puedes unir 1 Energía {L} de tu área de Energía al Pokémon {L} en el Puesto Activo."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Pawmot",
+        "illustrator": "Yoshimi Miyoshi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Fulmine Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Elettrogenazione",
+            "effect": "Una sola volta durante il tuo turno, puoi prendere un’Energia {L} dalla tua Zona Energia e assegnarla al Pokémon {L} in posizione attiva."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Pamomamo",
+        "illustrator": "Yoshimi Miyoshi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Flotter Sprung",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Stromerzeugung",
+            "effect": "Einmal während deines Zuges kannst du 1 {L}-Energie aus deinem Energiebereich an dein Aktives {L}-Pokémon anlegen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pawmot",
+        "illustrator": "Yoshimi Miyoshi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Raio Supersônico",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Eletrocriação",
+            "effect": "Uma vez durante o seu turno, você poderá pegar 1 Energia {L} da sua Zona de Energia e ligá-la ao Pokémon {L} no Campo Ativo."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "巴布土撥",
+        "illustrator": "Yoshimi Miyoshi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "音速伏特",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "造電",
+            "effect": "在自己的回合時，可使用1次。從自己的能量區抽出1個{L}能量，附於場上的戰鬥寶可夢上。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      }
+    ]
+  }
+}

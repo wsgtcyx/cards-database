@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-089",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "206995f567c97994ff9c30b2b2d230d9e35f9c32d88cc09271d4751cd6d497d0",
+      "bytes": 276268
+    },
+    "fr": {
+      "sha256": "d4f250cbf55ceb399915529fac7d9b09215833ec2a42f19f9db136ad9bb0d5b2",
+      "bytes": 276431
+    },
+    "es": {
+      "sha256": "1928b68c2a7a7fa24a11529e7459e033b1a4d803c6c4bde4b873683a2d03484a",
+      "bytes": 277599
+    },
+    "it": {
+      "sha256": "6aacd71623d1ad937e25935bcb14540ce33e367e2243b09088aa8a94e815be73",
+      "bytes": 276321
+    },
+    "de": {
+      "sha256": "9ce379a5c986f56b8f78a4864b5437f3d370dc8b8f99c1cae4673af2ce8651a6",
+      "bytes": 278471
+    },
+    "pt-br": {
+      "sha256": "3c628539a416707facbb19e429f102035f1eb672b1ec577c9199fb9ee8032626",
+      "bytes": 277963
+    },
+    "zh-tw": {
+      "sha256": "50ba19bec972ae671020dd48e1c1c1a67f848bbf7249d85ea13edf883e6acfba",
+      "bytes": 276764
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1126,
+    "output_tokens_details": {
+      "reasoning_tokens": 480
+    },
+    "total_tokens": 3086
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Nickit",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+        "attacks": [
+          {
+            "name": "Rear Kick",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Goupilou",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Il vit en subtilisant la nourriture des autres Pokémon. Grâce à ses coussinets moelleux, il ne fait aucun bruit quand il marche.",
+        "attacks": [
+          {
+            "name": "Ruade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Nickit",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Se sustenta con el alimento que roba a otros Pokémon. Las almohadillas de sus patas son tan blandas que no hace ningún ruido al caminar.",
+        "attacks": [
+          {
+            "name": "Patada Trasera",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Nickit",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Vive rubando il cibo trovato dagli altri Pokémon, morbidi cuscinetti plantari rendono i suoi passi silenziosi.",
+        "attacks": [
+          {
+            "name": "Retrocalcio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Kleptifux",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Es stibitzt Futter, das andere Pokémon gefunden haben. Dank der samtweichen Ballen an seinen Pfoten ist sein Gang lautlos.",
+        "attacks": [
+          {
+            "name": "Rückwärtstrick",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Nickit",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Com a ajuda das almofadas macias sob seus pés, rouba sorrateiramente os estoques de comida de outros Pokémon. Sobrevive destes ganhos ilícitos.",
+        "attacks": [
+          {
+            "name": "Chute Traseiro",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "偷兒狐",
+        "illustrator": "繪圖 Naoki Saito",
+        "description": "牠會偷走別人準備好的食物。由於腳掌非常柔軟，所以走路時幾乎不會發出聲音。",
+        "attacks": [
+          {
+            "name": "後踢",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "de",
+        "field": "attack.name",
+        "reason": "The attack name is partially small/blurry; 'Rückwärtstrick' is my best reading but may be 'Rückwärtsschick' or similar."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; transcription may be approximate."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is very small and not fully legible from the provided image."
+      }
+    ]
+  }
+}

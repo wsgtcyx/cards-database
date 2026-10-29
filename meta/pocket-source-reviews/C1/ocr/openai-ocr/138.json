@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-138",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "2764fc24a08e408bd68ed7b57d6f79aa71e0e94d0d91b6726181d95d478ce7ca",
+      "bytes": 305451
+    },
+    "fr": {
+      "sha256": "ea560bbb75904f9d021f9a24167f03aa9a4ea54ba5035cac07f80a72b1042c10",
+      "bytes": 308084
+    },
+    "es": {
+      "sha256": "73b68c1bae451f1c2e269fd0604d0a9666f1ab2a62d3c1b59d9654c30a0c1ccf",
+      "bytes": 307672
+    },
+    "it": {
+      "sha256": "f17fd1a84980128228dd4e326437df21161ec52c00714b4e670321f7eb29be16",
+      "bytes": 306771
+    },
+    "de": {
+      "sha256": "dc598438ff86c9a7f484d28bd58b299f2da3e81173e6c4a02ff3ae7a0439ae39",
+      "bytes": 308828
+    },
+    "pt-br": {
+      "sha256": "6e94e7806ef7fdb61b575e8a0b7546396f0c885ff1a7e924eeedbaca1756079a",
+      "bytes": 308027
+    },
+    "zh-tw": {
+      "sha256": "613133ba64910de199a9f5c1c3d7a5762f50541a0401a187389968177d9224fa",
+      "bytes": 299403
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2040,
+    "output_tokens_details": {
+      "reasoning_tokens": 1034
+    },
+    "total_tokens": 4000
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Ceruledge",
+        "illustrator": "",
+        "description": "The fiery idea can as it has been taught by a loyal swordsman of a certain mountain tribe who fell in love with a powerful, combative spirit.",
+        "attacks": [
+          {
+            "name": "Rally Back",
+            "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Malvalame",
+        "illustrator": "",
+        "description": "Les flammes de ses épées sont alimentées par la rancune d'une âme vengeresse, qui peine encore à pouvoir surmonter son mal.",
+        "attacks": [
+          {
+            "name": "Répercussions",
+            "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 70 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Ceruledge",
+        "illustrator": "",
+        "description": "Las almas que las rodean se lanzan como lanzas para sembrar el fuego de una furia sin fin que está destinada a seguir ardiendo hasta el final.",
+        "attacks": [
+          {
+            "name": "Apoyo Vengativo",
+            "effect": "Si alguno de tus Pokémon quedó Fuera de Combate por el daño de un ataque durante el último turno de tu rival, este ataque hace 70 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Ceruledge",
+        "illustrator": "",
+        "description": "Le lame infuocate che stringono le sue braccia riflettono per l'ardore di un cuore che si batte prima di compiere il proprio destino.",
+        "attacks": [
+          {
+            "name": "Radunata Rinforzi",
+            "effect": "Se uno qualsiasi dei tuoi Pokémon è stato messo KO dai danni inflitti da un attacco durante l'ultimo turno del tuo avversario, questo attacco infligge 70 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Azugladis",
+        "illustrator": "",
+        "description": "Die Flammen seiner beiden Armen lodern wie ein Geist einer alten Siedlung, der die Finsternis der letzten Stunden zu einem neuen Ziel sucht.",
+        "attacks": [
+          {
+            "name": "Aufholiadg",
+            "effect": "Wenn mindestens 1 deiner Pokémon während des letzten Zuges deines Gegners durch Schaden einer Attacke kampfunfähig wurde, fügt diese Attacke 70 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Ceruledge",
+        "illustrator": "",
+        "description": "As lâminas de fogo em seus braços que surgiram com a determinação de um espadachim sonhando com o passado jamais se apagarão dos olhos de quem as viu.",
+        "attacks": [
+          {
+            "name": "Responder à Altura",
+            "effect": "Se algum dos seus Pokémon tiver sido Nocauteado pelo dano de um ataque durante o último turno do seu oponente, este ataque causará 70 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蒼炎刃鬼",
+        "illustrator": "",
+        "description": "熾熱的意志會化作烈焰，圍繞在身旁。",
+        "attacks": [
+          {
+            "name": "捲土重來",
+            "effect": "在上個對手的回合，若自己的寶可夢因為對手的傷害而被擊飛了，則增加70點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small/blurred to read from the image."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small/blurred to read from the image."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small/blurred to read from the image."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small/blurred to read from the image."
+      },
+      {
+        "locale": "de",
+        "field": "name",
+        "reason": "Attack name is blurry; visible text may be 'Aufholiadg', but the exact spelling is uncertain."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small/blurred to read from the image."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small/blurred to read from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attack[0].name",
+        "reason": "Attack name is blurry; the visible characters are not fully certain."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small/blurred to read from the image."
+      }
+    ]
+  }
+}

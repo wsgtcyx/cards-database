@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-031",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "935cd14879530cd29667e07bc5bafc6d9a25bfd7a85b1d0c901f08d49402fac9",
+      "bytes": 318757
+    },
+    "fr": {
+      "sha256": "edeb797637c91099bf3d1ea4e6f69dd0c4b776aa0050af96f905b16630240326",
+      "bytes": 319612
+    },
+    "es": {
+      "sha256": "a4a911f669f6d567702b46d330ef99e9576ad9d57634b8ab8f0387b8eb0258bf",
+      "bytes": 317377
+    },
+    "it": {
+      "sha256": "187b085df7a7987a022422326d43583bc7bc1e5ebc805fd4fe2389017dc9aa88",
+      "bytes": 319587
+    },
+    "de": {
+      "sha256": "6e43942a5f4c68f0f28e5d4792b750c9809df2387da6a67cea1fbea9d96cb9f9",
+      "bytes": 319153
+    },
+    "pt-br": {
+      "sha256": "0a9442b261f2f2188fccd92311d7fb9a042603ac6c396a3d1a4a8befa7e57896",
+      "bytes": 320102
+    },
+    "zh-tw": {
+      "sha256": "2abe9d1b5c1108f24f51936347e630c9d82998931c7b0b9fe3160c989d00c458",
+      "bytes": 317365
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1375,
+    "output_tokens_details": {
+      "reasoning_tokens": 371
+    },
+    "total_tokens": 4863
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Blastoise",
+        "illustrator": "NC Empire",
+        "description": "It deliberately increases its body weight so it can withstand the recoil of the water jets it fires.",
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aqua Charge",
+            "effect": "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Tortank",
+        "illustrator": "NC Empire",
+        "description": "Il augmente délibérément sa masse corporelle pour contrer le recul de ses puissants jets d'eau.",
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Charge Aqua",
+            "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie {W} de votre zone Énergie et l'attacher à ce Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Blastoise",
+        "illustrator": "NC Empire",
+        "description": "Aumenta de peso deliberadamente para contrarrestar la fuerza de los chorros de agua que dispara.",
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Hidrocarga",
+            "effect": "Una vez durante tu turno, puedes unir 1 Energía {W} de tu área de Energía a este Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Blastoise",
+        "illustrator": "NC Empire",
+        "description": "Aumenta di proposito il suo peso corporeo per resistere al contraccolpo dei getti d'acqua che spara.",
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Idrocarica",
+            "effect": "Una sola volta durante il tuo turno, puoi prendere un'Energia {W} dalla tua Zona Energia e assegnarla a questo Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Turtok",
+        "illustrator": "NC Empire",
+        "description": "Es macht sich absichtlich schwer, um den Rückstoß seiner Wasserstrahlen abzufangen.",
+        "attacks": [
+          {
+            "name": "Surfer",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aqualadung",
+            "effect": "Einmal während deines Zuges kannst du 1 {W}-Energie aus deinem Energiebereich an dieses Pokémon anlegen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Blastoise",
+        "illustrator": "NC Empire",
+        "description": "Aumenta o seu próprio peso deliberadamente para aguentar o ricochete dos jatos de água que dispara.",
+        "attacks": [
+          {
+            "name": "Surfar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Carga Aquática",
+            "effect": "Uma vez durante o seu turno, você poderá pegar 1 Energia {W} da sua Zona de Energia e ligá-la a este Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "水箭龜",
+        "illustrator": "NC Empire",
+        "description": "為了讓自己能夠抵擋噴射水流的後座力，於是刻意增加體重。",
+        "attacks": [
+          {
+            "name": "衝浪",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "水流充能",
+            "effect": "在自己的回合時，可使用1次。從自己的能量區抽出1個{W}能量，附於這隻寶可夢身上。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

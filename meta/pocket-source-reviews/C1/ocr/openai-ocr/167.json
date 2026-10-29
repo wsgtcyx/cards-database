@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-167",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "2169c08626ec6fe1cb6d288fa5234f0a7667d171bf3bb492cda3305e3067b225",
+      "bytes": 321285
+    },
+    "fr": {
+      "sha256": "c9ea0bdd660a7fce9ed73a3804df79f39522f5ab0cf2d7d73a99653f6dbe8b92",
+      "bytes": 323956
+    },
+    "es": {
+      "sha256": "4b0576466d884402214b323f33adb341f541ff377eab171e7f880e0f55ef37b7",
+      "bytes": 322313
+    },
+    "it": {
+      "sha256": "163570650d0698144c7c99d40abae52742468549b87c0d233261d50b41dac7b9",
+      "bytes": 320464
+    },
+    "de": {
+      "sha256": "77239f801258c34119c5798e0c067b9dad45c5a792e9aaf42871865d7c09c620",
+      "bytes": 322091
+    },
+    "pt-br": {
+      "sha256": "bcb5b5a91fc9f78c516537f5ec495bf541c0ab360c81ef8ea17125797693da50",
+      "bytes": 322882
+    },
+    "zh-tw": {
+      "sha256": "c74dce2d0215d934fa99e80ff6972880faee5345891d1a3e30e4ea4f40f48aa2",
+      "bytes": 318440
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1881,
+    "output_tokens_details": {
+      "reasoning_tokens": 1014
+    },
+    "total_tokens": 3841
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Serena's Choice",
+        "illustrator": "",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Look at the top 3 cards of your deck and put 1 of them into your hand. Shuffle any other cards back into your deck."
+      },
+      "fr": {
+        "name": "Choix de Serena",
+        "illustrator": "",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Regardez les 3 premières cartes du dessus de votre deck, puis ajoutez une d'entre elles à votre main. Mélangez les autres cartes avec votre deck."
+      },
+      "es": {
+        "name": "Elección de Serena",
+        "illustrator": "",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Mira las 3 primeras cartas de tu baraja y pon 1 de ellas en tu mano. Pon el resto de nuevo en tu baraja y barájalas todas."
+      },
+      "it": {
+        "name": "Scelta di Serena",
+        "illustrator": "",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Guarda le prime 3 carte del tuo mazzo e aggiungine una alle carte che hai in mano. Poi rimescola il resto nel tuo mazzo."
+      },
+      "de": {
+        "name": "Serenas Wahl",
+        "illustrator": "",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Schau dir die obersten 3 Karten deines Decks an und nimm 1 von ihnen auf deine Hand. Mische den Rest zurück in dein Deck."
+      },
+      "pt-br": {
+        "name": "Escolha da Serena",
+        "illustrator": "",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Olhe as 3 cartas de cima do seu baralho e coloque 1 delas na sua mão. Embaralhe as outras cartas de volta no seu baralho."
+      },
+      "zh-tw": {
+        "name": "莎莉娜的選擇",
+        "illustrator": "",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "查看自己的牌庫上方3張卡。從其中選擇1張加入手牌，並將剩下的卡放回牌庫。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "The illustrator credit at the bottom left is too small and blurry to read confidently."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "The illustrator credit at the bottom left is too small and blurry to read confidently."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "The illustrator credit at the bottom left is too small and blurry to read confidently."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "The illustrator credit at the bottom left is too small and blurry to read confidently."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "The illustrator credit at the bottom left is too small and blurry to read confidently."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "The illustrator credit at the bottom left is too small and blurry to read confidently."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator credit at the bottom left is too small and blurry to read confidently."
+      }
+    ]
+  }
+}

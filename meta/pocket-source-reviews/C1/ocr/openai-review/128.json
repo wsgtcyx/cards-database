@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-128",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "5487a1d4250863c4001b5c9c7319d9092c9312b25adc599171be012dfc3f1c89",
+      "bytes": 195491
+    },
+    "fr": {
+      "sha256": "a6d73678f6f761feccedc786ba3d4c915644bca7f9f27fb4dfe061f58216d52c",
+      "bytes": 197591
+    },
+    "es": {
+      "sha256": "f93ff9c5bd1ff868e74c8f153bc0c48d09b803443263a450e3b49e9f62dd8d19",
+      "bytes": 195837
+    },
+    "it": {
+      "sha256": "3873b273f12ae11b2a32587b47a438a2f1ef43ce84782095a037f00d7ee3ec6d",
+      "bytes": 196018
+    },
+    "de": {
+      "sha256": "64e94a6fdd850f9e8ad4fb4a3ffe4f274c91edd7367864970ee2e46166dfb584",
+      "bytes": 197249
+    },
+    "pt-br": {
+      "sha256": "920d8a6799fe37b79948fc977535843d0d29084bd349b479ad9fa823c884e41e",
+      "bytes": 196804
+    },
+    "zh-tw": {
+      "sha256": "388f1fd2ad62d76befe8eed94326a018d8daff77f57b4a749f97d767cab422b5",
+      "bytes": 192522
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1202,
+    "output_tokens_details": {
+      "reasoning_tokens": 579
+    },
+    "total_tokens": 4690
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rika",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Produce 2 {M} Energy from your Energy Zone, and attach it to 1 of your Whiscash or Paldean Clodsire."
+      },
+      "fr": {
+        "name": "Cayenn",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Prenez 2 Énergies {M} de votre zone Énergie et attachez-les à un de vos Barbicha ou Terracruel de Paldea."
+      },
+      "es": {
+        "name": "Cayena",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Une 2 Energías {M} de tu área de Energía a 1 de tus Whiscash o Clodsire de Paldea."
+      },
+      "it": {
+        "name": "Capsi",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Crea 2 Energie {M} dalla tua Zona Energia e assegnale a uno dei tuoi Whiscash o dei tuoi Clodsire di Paldea."
+      },
+      "de": {
+        "name": "Cay",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Generiere 2 {M}-Energien in deinem Energiebereich und lege sie an 1 deiner Welsar oder Paldea-Suelord an."
+      },
+      "pt-br": {
+        "name": "Kaya",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Pegue 2 Energias {M} da sua Zona de Energia e ligue-as a 1 dos seus Whiscash ou Clodsire de Paldea."
+      },
+      "zh-tw": {
+        "name": "辛俐",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "從自己的能量區抽出2個{M}能量，附於1隻「鯰魚王」或者「帕底亞 土王」身上。"
+      }
+    },
+    "uncertain": []
+  }
+}

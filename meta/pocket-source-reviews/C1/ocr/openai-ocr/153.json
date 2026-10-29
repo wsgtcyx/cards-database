@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-153",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "82bf739f009513c9fd1e67a594d265bf7a13b1095ed032e6f3e091a80dfc4403",
+      "bytes": 374794
+    },
+    "fr": {
+      "sha256": "cb7cffe952673f02e684eb6d2874a1ab1c1871ab7c9f379e14eae752a753e3bb",
+      "bytes": 374426
+    },
+    "es": {
+      "sha256": "8dda7f3ff63a3cbdc6c7fdf822f5a8a0389b4da478464675f2001e24308f04e3",
+      "bytes": 374825
+    },
+    "it": {
+      "sha256": "2cf3bc0eeafc36537efdf0c5d79477f5ffca334bcee89d17265c5291415ffb03",
+      "bytes": 375480
+    },
+    "de": {
+      "sha256": "e17641d8acae5a132013893e5c57ddd721c136d6d69c220e05dd8c45b209af10",
+      "bytes": 375792
+    },
+    "pt-br": {
+      "sha256": "46c43c2405969da875a1712c87e0365a64392ca4443d906dbc0d45ecba8d3039",
+      "bytes": 375987
+    },
+    "zh-tw": {
+      "sha256": "2c9447d27dbcf9bff7ef5a69cc4a3744d19c5cc17e27b3ae45bde0ecd9d66b29",
+      "bytes": 370704
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1130,
+    "output_tokens_details": {
+      "reasoning_tokens": 258
+    },
+    "total_tokens": 3090
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Alolan Exeggutor ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Long-Neck Hammering",
+            "effect": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it."
+          }
+        ],
+        "abilities": [],
+        "effect": "When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+      },
+      "fr": {
+        "name": "Noadkoko d'Alola ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Long Cou Marteleur",
+            "effect": "Un des Pokémon de Banc de votre adversaire est choisi au hasard. Cette attaque lui inflige aussi 50 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quand votre Pokémon-ex est mis K.O., votre adversaire gagne 2 points."
+      },
+      "es": {
+        "name": "Exeggutor de Alola ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martilleo Cuellilargo",
+            "effect": "Se elige a un Pokémon en Banca aleatorio de tu rival. Este ataque también le hace 50 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": "Cuando tu Pokémon ex queda Fuera de Combate, tu rival consigue 2 puntos."
+      },
+      "it": {
+        "name": "Exeggutor di Alola ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martellata Collolungo",
+            "effect": "Viene scelto un Pokémon avversario in panchina a caso. Questo attacco infligge anche 50 danni a quel Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon-ex va K.O."
+      },
+      "de": {
+        "name": "Alola-Kokowei ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Langhalshammer",
+            "effect": "1 Pokémon von der Bank deines Gegners wird zufällig ausgewählt. Diese Attacke fügt auch diesem Pokémon 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": "Wenn dein Pokémon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte."
+      },
+      "pt-br": {
+        "name": "Exeggutor de Alola ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martelada Pesçocuda",
+            "effect": "Um dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 50 pontos de dano a ele."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quando seu Pokémon ex é Nocauteado, seu oponente recebe 2 pontos."
+      },
+      "zh-tw": {
+        "name": "阿羅拉椰蛋樹 ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "長頸錘",
+            "effect": "對手的備戰寶可夢中隨機選擇1隻，被選擇的寶可夢也受到50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": "當可進化成的寶可夢是您的寶可夢 ex 被擊倒時，對手將獲得2分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator text is small; read as PLANETA Igarashi."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator text is small; read as PLANETA Igarashi."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator text is small; read as PLANETA Igarashi."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator text is small; read as PLANETA Igarashi."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator text is small; read as PLANETA Igarashi."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator text is small; read as PLANETA Igarashi."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator text is small; read as PLANETA Igarashi."
+      }
+    ]
+  }
+}

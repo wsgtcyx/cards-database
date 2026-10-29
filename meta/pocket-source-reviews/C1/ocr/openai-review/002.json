@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-002",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "99e0f979b666915c1df3422a509cf8bda356b6254e2ea2144f1f357d25cd081e",
+      "bytes": 273659
+    },
+    "fr": {
+      "sha256": "5db41d5c2cc25ae5b84b78fdfbd7f3b8ce9ea159544ccd50eb54aa86e4e16903",
+      "bytes": 274752
+    },
+    "es": {
+      "sha256": "e227b004abb5e1566b018724a0daf5dccadaf031488da3499642ae8ce87949ad",
+      "bytes": 273902
+    },
+    "it": {
+      "sha256": "4dd9c6fb8eac0a2391102027329a8bd5a00ffb9a423f814b52a8fdf0ff2c371d",
+      "bytes": 273437
+    },
+    "de": {
+      "sha256": "885407c6278a99c6358ad13c961d49990f102b6e10fdd8e942ebaed51d9bbd22",
+      "bytes": 275351
+    },
+    "pt-br": {
+      "sha256": "776b6cb8759549735fac0ccb1a6a71c0c72ae66e3f63836ff7d74c396172017a",
+      "bytes": 274225
+    },
+    "zh-tw": {
+      "sha256": "06e36f556bd210c9d807a098752319490a458093472e466318d274642a4fd30b",
+      "bytes": 272905
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 843,
+    "output_tokens_details": {
+      "reasoning_tokens": 264
+    },
+    "total_tokens": 4331
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Ivysaur",
+        "illustrator": "Kagemaru Himeno",
+        "description": "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.",
+        "attacks": [
+          {
+            "name": "Leaf Drain",
+            "effect": "Heal 20 damage from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Herbizarre",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Plus il s’expose au soleil, plus il emmagasine d’énergie, ce qui permet au bourgeon sur son dos de se développer.",
+        "attacks": [
+          {
+            "name": "Feuille Sang-sue",
+            "effect": "Soignez 20 dégâts de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Ivysaur",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Cuanta más luz solar recibe, más aumenta su fuerza y más se desarrolla el capullo que tiene en el lomo.",
+        "attacks": [
+          {
+            "name": "Hoja Drenante",
+            "effect": "Cura 20 puntos de daño a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Ivysaur",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Più si espone alla luce solare, più acquisisce energie facendo crescere il bocciolo che ha sul dorso.",
+        "attacks": [
+          {
+            "name": "Assorbifoglia",
+            "effect": "Cura questo Pokémon da 20 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Bisaknosp",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Die Sonne macht es stärker. Die Knospe auf seinem Rücken wächst unter dem Einfluss von Sonnenlicht.",
+        "attacks": [
+          {
+            "name": "Blattsauger",
+            "effect": "Heile 20 Schadenspunkte bei diesem Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Ivysaur",
+        "illustrator": "Kagemaru Himeno",
+        "description": "Quanto mais banho de sol Ivysaur toma, mais força brota em seu interior, fazendo com que o botão nas suas costas cresça.",
+        "attacks": [
+          {
+            "name": "Dreno Folha",
+            "effect": "Cure 20 pontos de dano deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "妙蛙草",
+        "illustrator": "Kagemaru Himeno",
+        "description": "沐浴在陽光下越久，身體內會湧出越多力量，背上的花苞也會漸漸成長。",
+        "attacks": [
+          {
+            "name": "綠葉吸取",
+            "effect": "將這隻寶可夢恢復20HP。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

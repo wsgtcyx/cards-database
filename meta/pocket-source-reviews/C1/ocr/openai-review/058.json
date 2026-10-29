@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-058",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "7507e32aaccd433122f44fcbbb6616ed49fdfb3f9c8722ba200690153b01f118",
+      "bytes": 264314
+    },
+    "fr": {
+      "sha256": "361286e40c79614c9ed7049eafb64ccb8ca0ef766dd46011b85de1f5f16c3c40",
+      "bytes": 264272
+    },
+    "es": {
+      "sha256": "27fbc098f4d12006d1de81e237e6815136f053c12887f1d531e65d3fe3efcf74",
+      "bytes": 264601
+    },
+    "it": {
+      "sha256": "0aa262265694ca386f855ff0cd4f5ae6e5fa96884155c4ea4700c7ea0d0eac7f",
+      "bytes": 264853
+    },
+    "de": {
+      "sha256": "bc9a83b4c5d8f0b48fcd01ae04dbaa3472d8877e2985c5ae7fb0c79591c6628c",
+      "bytes": 265358
+    },
+    "pt-br": {
+      "sha256": "a7f3f0034df2d7874bb0135a98b0d744cb6c8343d62f106faf52904cffc55d43",
+      "bytes": 265208
+    },
+    "zh-tw": {
+      "sha256": "c47d2678499fe14e776261389bcfd1663949f4a8fdcfe281026c1f1799f3aeda",
+      "bytes": 264450
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1138,
+    "output_tokens_details": {
+      "reasoning_tokens": 471
+    },
+    "total_tokens": 4626
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Marill",
+        "illustrator": "Asako Ito",
+        "description": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
+        "attacks": [
+          {
+            "name": "Rollout",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Marill",
+        "illustrator": "Asako Ito",
+        "description": "Sa fourrure est imperméable, si bien qu’il reste sec même quand il joue dans l’eau.",
+        "attacks": [
+          {
+            "name": "Roulade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Marill",
+        "illustrator": "Asako Ito",
+        "description": "Tiene un pelaje que repele el agua, por lo que está seco incluso después de bañarse.",
+        "attacks": [
+          {
+            "name": "Rodar",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Marill",
+        "illustrator": "Asako Ito",
+        "description": "La pelliccia è idrorepellente. Così, rimane asciutto anche giocando nell’acqua.",
+        "attacks": [
+          {
+            "name": "Rotolamento",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Marill",
+        "illustrator": "Asako Ito",
+        "description": "Sein Fell ist von Natur aus wasserabweisend. Es bleibt trocken, auch wenn es im Wasser spielt.",
+        "attacks": [
+          {
+            "name": "Walzer",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Marill",
+        "illustrator": "Asako Ito",
+        "description": "A sua pelagem repele água naturalmente. Pode brincar na água por horas sem se molhar.",
+        "attacks": [
+          {
+            "name": "Rolagem",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "瑪力露",
+        "illustrator": "Asako Ito",
+        "description": "全身的體毛有著能將水彈開的特性，所以就算跳到水裡也不會弄濕。",
+        "attacks": [
+          {
+            "name": "滾動",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

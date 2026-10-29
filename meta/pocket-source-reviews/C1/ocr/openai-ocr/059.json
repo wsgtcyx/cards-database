@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-059",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "09d8c4a9ef30d6be67ba71211e5be9115c1174aec4ba780ed4181be2360929e7",
+      "bytes": 277455
+    },
+    "fr": {
+      "sha256": "2b17264dde109a987dea80f69da7ebad89415a79371240d3b637d9a605bfb149",
+      "bytes": 278098
+    },
+    "es": {
+      "sha256": "16bd96692a6d8dbcd4f64268b6e6262ba9cae9a8fe960bbbd2b17646007039a3",
+      "bytes": 277819
+    },
+    "it": {
+      "sha256": "05bdcb2dc1707ebc2846b07377ac674f1fe694dc425bf2aca58b9a545849a011",
+      "bytes": 280236
+    },
+    "de": {
+      "sha256": "a0e8a56068b70007c44cc1959f931c7696b53615649da103258d8fcb13cc71ed",
+      "bytes": 279221
+    },
+    "pt-br": {
+      "sha256": "2a92ddcbc491de118bd25423a5cdd8b3cd4dd02140240b4dbc81731ece8ee84c",
+      "bytes": 278970
+    },
+    "zh-tw": {
+      "sha256": "c86825b0ac875da5014172c43f46f0a929de842e8bd9392783eaadba17ce1002",
+      "bytes": 276495
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1018,
+    "output_tokens_details": {
+      "reasoning_tokens": 364
+    },
+    "total_tokens": 2978
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Azumarill",
+        "illustrator": "chibi",
+        "description": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+        "attacks": [
+          {
+            "name": "Rabbit Jumping",
+            "effect": "Flip 2 coins. This attack does 60 damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Azumarill",
+        "illustrator": "chibi",
+        "description": "Ses longues oreilles sont parfaits pour entendre tout ce qui se passe sous l’eau de manière très distincte.",
+        "attacks": [
+          {
+            "name": "Bond de Lapin",
+            "effect": "Lancez 2 pièces. Cette attaque inflige 60 dégâts pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Azumarill",
+        "illustrator": "chibi",
+        "description": "Sus largas orejas son unos sensores excepcionales que le permiten diferenciar e identificar lo que oye dentro del agua.",
+        "attacks": [
+          {
+            "name": "Brinconejo",
+            "effect": "Lanza 2 monedas. Este ataque hace 60 puntos de daño por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Azumarill",
+        "illustrator": "chibi",
+        "description": "Le sue lunghe orecchie sono ricettori sensibilissimi. Riesce a distinguere e identificare ogni minimo rumore perfino sott’acqua.",
+        "attacks": [
+          {
+            "name": "Saltelli da Coniglio",
+            "effect": "Lancia 2 volte una moneta. Questo attacco infligge 60 danni ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Azumarill",
+        "illustrator": "chibi",
+        "description": "Seine langen Ohren sind hervorragende Sensoren, mit denen es Geräusche unter Wasser unterscheiden und zuordnen kann.",
+        "attacks": [
+          {
+            "name": "Hasensprung",
+            "effect": "Wirf 2 Münzen. Diese Attacke fügt 60 Schadenspunkte pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Azumarill",
+        "illustrator": "chibi",
+        "description": "Suas orelhas longas são sensores soberbos. Ele é capaz de diferenciar os movimentos dos objetos nas águas e dizer o que eles são.",
+        "attacks": [
+          {
+            "name": "Salto do Coelho",
+            "effect": "Jogue 2 moedas. Este ataque causa 60 pontos de dano para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "瑪力露麗",
+        "illustrator": "chibi",
+        "description": "長長的耳朵是靈敏的感官器。能夠辨識潛水中的噪音 來分辨出是什麼在動。",
+        "attacks": [
+          {
+            "name": "兔兒跳",
+            "effect": "擲2次硬幣，造成正面出現的次數×60點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially hard to read; exact wording around the middle clause is uncertain."
+      }
+    ]
+  }
+}

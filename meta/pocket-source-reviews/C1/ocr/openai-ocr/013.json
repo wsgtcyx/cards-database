@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-013",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "005742493ba4617632fb074b2fbd5cbefb307ac6f9bad90167627b202d1d429d",
+      "bytes": 270516
+    },
+    "fr": {
+      "sha256": "837cf939739ddd4ddb39bceb79640992bbb6d3b18baa2ed7bfb89ed60a426f15",
+      "bytes": 271881
+    },
+    "es": {
+      "sha256": "7b07b0f01b3b148471aebdec0c2b71d5af7370ac8c46262f0587574aec142e90",
+      "bytes": 271284
+    },
+    "it": {
+      "sha256": "b9534091c1c68846bb9b70ff8f24987d993783b368b0a823195b8f9d7fe39e03",
+      "bytes": 271272
+    },
+    "de": {
+      "sha256": "dcd92b4de44d9ca3777a505ecc6c6b58ef909044ae9cb8167a28b5227421e322",
+      "bytes": 272245
+    },
+    "pt-br": {
+      "sha256": "b6a47a4580b404b07a28bd931b271b46522e5e89b6b688e6a492eab23637106d",
+      "bytes": 271645
+    },
+    "zh-tw": {
+      "sha256": "b5276dae2fdbf6c8278bb7b92b2ff3dd9c9c5aa7923d3014e8e6e430ea67530b",
+      "bytes": 269110
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1154,
+    "output_tokens_details": {
+      "reasoning_tokens": 571
+    },
+    "total_tokens": 3114
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Genesect",
+        "illustrator": "Masakazu Fukuda",
+        "description": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+        "attacks": [
+          {
+            "name": "Signal Beam",
+            "effect": "Your opponent's Active Pokémon is now Confused."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Genesect",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Un Pokémon Insecte des temps anciens modifié par la Team Plasma. Le canon dans son dos a été grandement amélioré.",
+        "attacks": [
+          {
+            "name": "Rayon Signal",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Genesect",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Pokémon de tipo Bicho de la antigüedad, modificado por el Equipo Plasma. El cañón de su lomo ha sido mejorado.",
+        "attacks": [
+          {
+            "name": "Rayo Señal",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Confundido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Genesect",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Antico Pokémon Coleottero modificato dal Team Plasma, che ne ha notevolmente potenziato il cannone sulla schiena.",
+        "attacks": [
+          {
+            "name": "Segnoraggio",
+            "effect": "Il Pokémon attivo del tuo avversario viene confuso."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Genesect",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Ein von Team Plasma modifiziertes Käfer-Pokémon aus dem Altertum. Die Kanone auf seinem Rücken ist nun noch stärker.",
+        "attacks": [
+          {
+            "name": "Ampelleuchte",
+            "effect": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Genesect",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Este antigo Pokémon inseto foi alterado pela Equipe Plasma. Eles aprimoraram o canhão nas suas costas.",
+        "attacks": [
+          {
+            "name": "Feixe Sinalizador",
+            "effect": "O Pokémon Ativo do seu oponente agora está Confuso."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蓋諾賽克特",
+        "illustrator": "Masakazu Fukuda",
+        "description": "被等離子團改造過的 古代的蟲寶可夢。 背上的大砲力道提升了許多。",
+        "attacks": [
+          {
+            "name": "信號光束",
+            "effect": "將對手的戰鬥寶可夢弄混亂。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

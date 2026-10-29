@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-034",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "ea49de53def3f38238fdaaec1d5102e920177824a71e52fd2727be6e85d3a761",
+      "bytes": 261289
+    },
+    "fr": {
+      "sha256": "bf57d6938e53f81008588bd8954487ffd3910fcce23cf4e301866e9d3722dcf8",
+      "bytes": 261690
+    },
+    "es": {
+      "sha256": "454129d0556916894af1e16e3b93d6932622b7688ee0f3686f2830624c1b4b51",
+      "bytes": 261649
+    },
+    "it": {
+      "sha256": "1cfe25bb7140436675ca98a65cc37de92f0bf215e3c6235f0e08b9a22c3c3613",
+      "bytes": 261352
+    },
+    "de": {
+      "sha256": "1dc8ad88cf21ff70a29aa77e259df7a814a5a4690985bae9da6a1b1fe468f77e",
+      "bytes": 261605
+    },
+    "pt-br": {
+      "sha256": "a9d60969bdea538d9f286c53fc4ff018d9d22c32823c34f63ed3caca85e30258",
+      "bytes": 263518
+    },
+    "zh-tw": {
+      "sha256": "e68edb29e17029a45607bedd9e1444fee8a86d397b0121c1b6395e66cdb01a57",
+      "bytes": 260984
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 838,
+    "output_tokens_details": {
+      "reasoning_tokens": 138
+    },
+    "total_tokens": 4326
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Shellder",
+        "illustrator": "Naoyo Kimura",
+        "description": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+        "attacks": [
+          {
+            "name": "Water Gun",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Kokiyas",
+        "illustrator": "Naoyo Kimura",
+        "description": "Une coquille plus dure que le diamant le protège. Il est toutefois étonnamment tendre à l’intérieur.",
+        "attacks": [
+          {
+            "name": "Pistolet à O",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Shellder",
+        "illustrator": "Naoyo Kimura",
+        "description": "Está metido en una concha más dura que el diamante, pero tiene un cuerpo muy blando.",
+        "attacks": [
+          {
+            "name": "Pistola Agua",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Shellder",
+        "illustrator": "Naoyo Kimura",
+        "description": "La conchiglia esterna è più dura del diamante. L’interno, invece, è sorprendentemente morbido.",
+        "attacks": [
+          {
+            "name": "Pistolacqua",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Muschas",
+        "illustrator": "Naoyo Kimura",
+        "description": "Seine Schale ist härter als Diamant. Im Inneren ist es jedoch überraschend weich.",
+        "attacks": [
+          {
+            "name": "Aquaknarre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Shellder",
+        "illustrator": "Naoyo Kimura",
+        "description": "Este Pokémon é envolto em uma concha mais dura que diamante. O seu interior, porém, é surpreendentemente macio.",
+        "attacks": [
+          {
+            "name": "Revólver d’Água",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "大舌貝",
+        "illustrator": "Naoyo Kimura",
+        "description": "包覆著身體的硬殼比鑽石還要堅硬。不過殼裡面卻比想像中的還要柔軟。",
+        "attacks": [
+          {
+            "name": "水槍",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

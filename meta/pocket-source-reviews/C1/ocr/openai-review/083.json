@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-083",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "daffd33e3799dec37b2a7fe2b1f867ad081231e9e65b1c38251b22d9e7e72377",
+      "bytes": 312589
+    },
+    "fr": {
+      "sha256": "a469199b4e559581e8fe9f9caaafcda9ef60152e3ecd00b07091905c1d173805",
+      "bytes": 313064
+    },
+    "es": {
+      "sha256": "7afd1d4e7d6e9904a8c1d7f49673651eb6e8823be38f941be4c5064b4f09b603",
+      "bytes": 312276
+    },
+    "it": {
+      "sha256": "125547c9594b2ea07e50e6fdf6453d7543b9068348c4d467a3841cb770000b6f",
+      "bytes": 313903
+    },
+    "de": {
+      "sha256": "865400b1f0f31ac5f14aedd20be070e81bb2c2abf52c9221bb9f2814b3650654",
+      "bytes": 313747
+    },
+    "pt-br": {
+      "sha256": "b0182f3231c7e6249e803c97f1e6e3c7384612e2024902033b4974d2670bc097",
+      "bytes": 314414
+    },
+    "zh-tw": {
+      "sha256": "3bafda476d6cb40b4e76a4b9745d4b84f38d8ddc362ac70686ccfc17bfa35b53",
+      "bytes": 310474
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+      "reasoning_tokens": 746
+    },
+    "total_tokens": 4860
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Gengar",
+        "illustrator": "Norami Sato",
+        "description": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+        "attacks": [
+          {
+            "name": "Twilight Poison",
+            "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Ectoplasma",
+        "illustrator": "Norami Sato",
+        "description": "Il se cache dans l’ombre de sa victime et attend patiemment le bon moment pour lui voler sa vie.",
+        "attacks": [
+          {
+            "name": "Poison Nocturne",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Endormi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Gengar",
+        "illustrator": "Norami Sato",
+        "description": "Para quitarle la vida a su presa, se desliza en su sombra y espera su oportunidad en silencio.",
+        "attacks": [
+          {
+            "name": "Veneno Ocaso",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado y Dormido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Gengar",
+        "illustrator": "Norami Sato",
+        "description": "Per sottrarre energie alla vittima si nasconde nella sua ombra e attende in silenzio il momento opportuno.",
+        "attacks": [
+          {
+            "name": "Veleno Crepuscolare",
+            "effect": "Il Pokémon attivo del tuo avversario viene avvelenato e addormentato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Gengar",
+        "illustrator": "Norami Sato",
+        "description": "Um Beute zu erlegen, versteckt es sich in deren Schatten und wartet still auf eine günstige Gelegenheit.",
+        "attacks": [
+          {
+            "name": "Dämmergift",
+            "effect": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und schläft."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Gengar",
+        "illustrator": "Norami Sato",
+        "description": "Este Pokémon aguarda pela oportunidade perfeita para se esconder na sombra de sua presa e roubar a vida dela.",
+        "attacks": [
+          {
+            "name": "Veneno do Crepúsculo",
+            "effect": "O Pokémon Ativo do seu oponente agora está Envenenado e Adormecido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "耿鬼",
+        "illustrator": "Norami Sato",
+        "description": "會躲進獵物的影子裡，",
+        "attacks": [
+          {
+            "name": "薄暮之毒",
+            "effect": "將對手的戰鬥寶可夢中毒與睡眠"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Only the opening text「會躲進獵物的影子裡，」is reliably legible; the remaining characters are too blurred to transcribe without guessing."
+      }
+    ]
+  }
+}

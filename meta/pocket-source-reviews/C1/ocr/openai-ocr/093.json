@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-093",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "e72862466ae09242af84e6dd6f08d0da66dacb915e1d433d53fee61073a7d549",
+      "bytes": 295227
+    },
+    "fr": {
+      "sha256": "727694d364e4a6ca5edebfab78b9598c81821a15307ff4242be6e1b7e2ea0e1d",
+      "bytes": 296386
+    },
+    "es": {
+      "sha256": "ed90199eb25d9e573463df84ecdc1a065d230c2f160d11d9ae9b2848e915dc70",
+      "bytes": 296212
+    },
+    "it": {
+      "sha256": "137e41cf66a2eb7c85ffd5d9d01484dd97e949b9d5c74e51c46870890dcfcbc8",
+      "bytes": 295691
+    },
+    "de": {
+      "sha256": "8de47adda5438a72ef24505705ad6d8b7d77b1473114d12ea9795aff54006d9e",
+      "bytes": 296090
+    },
+    "pt-br": {
+      "sha256": "dc46589043fc5759ae87957284ed099c7bfafb261364cccb4d7f913487c81cd5",
+      "bytes": 296233
+    },
+    "zh-tw": {
+      "sha256": "62122bd437f74f1be8d05da641042a7359ebaee643e58ceb4da7c1f68cbbe1b3",
+      "bytes": 295419
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1024,
+    "output_tokens_details": {
+      "reasoning_tokens": 512
+    },
+    "total_tokens": 2984
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Ferroseed",
+        "illustrator": "Shigenori Negishi",
+        "description": "It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve.",
+        "attacks": [
+          {
+            "name": "Pierce",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Grindur",
+        "illustrator": "Shigenori Negishi",
+        "description": "Il se protège en projetant ses épines, mais il lui faut beaucoup d'entraînement pour réussir à tirer dans une direction précise.",
+        "attacks": [
+          {
+            "name": "Transpercement",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Ferroseed",
+        "illustrator": "Shigenori Negishi",
+        "description": "Se defiende lanzando púas, pero para poder apuntar con precisión a su objetivo necesita ingentes sesiones de práctica.",
+        "attacks": [
+          {
+            "name": "Perforar",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Ferroseed",
+        "illustrator": "Shigenori Negishi",
+        "description": "Si protegge sparando i suoi aculei, ma per riuscire a orientarli con precisione verso il bersaglio ha bisogno di allenarsi a lungo.",
+        "attacks": [
+          {
+            "name": "Perforare",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Kastadur",
+        "illustrator": "Shigenori Negishi",
+        "description": "Es schützt sich, indem es Dornen verschießt. Ein Kastadur muss jahrelang trainieren, um präzise zielen zu können.",
+        "attacks": [
+          {
+            "name": "Durchbohren",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Ferroseed",
+        "illustrator": "Shigenori Negishi",
+        "description": "Defende-se lançando espinhos, mas sua mira não costuma ser muito boa nas primeiras tentativas e só melhora depois de muito treino.",
+        "attacks": [
+          {
+            "name": "Perfurar",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "種子鐵球",
+        "illustrator": "Shigenori Negishi",
+        "description": "會射出尖刺來保護自己。 需要長期練習 才能讓尖刺準確地射向目標。",
+        "attacks": [
+          {
+            "name": "突刺",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

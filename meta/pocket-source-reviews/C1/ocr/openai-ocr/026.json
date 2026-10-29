@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-026",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "89ff292babbc818b35db2941edf0751003d228d2bcbc4b465e9a59f1ee65ae7d",
+      "bytes": 261053
+    },
+    "fr": {
+      "sha256": "c70913148ad99f04a6faec74bdaa7e7c80ad5d6c10916e1a19b32df08bc4ff1b",
+      "bytes": 261055
+    },
+    "es": {
+      "sha256": "e8337b5ed4bc815da56f3d5e90ee0059f2320901c2875afa365848ce5e3355ba",
+      "bytes": 261257
+    },
+    "it": {
+      "sha256": "d5c8f1af2f5f1c019a1963674cbd8ef56f8b63f914b97c32e60848e3eb57ad49",
+      "bytes": 260146
+    },
+    "de": {
+      "sha256": "d483fe781fe1405ad304de87f0aba508fd9ab04680d7f8d24fe4ad47b7e30f25",
+      "bytes": 260820
+    },
+    "pt-br": {
+      "sha256": "5f3a0c36ba68ed6e9304e244458bb4f73c4c31979346daaf8337de511b0c93e4",
+      "bytes": 262104
+    },
+    "zh-tw": {
+      "sha256": "acc1a862904ccfb7c0a7f05e5f2b76d754f29d3db9bd61419e09e41b903199df",
+      "bytes": 259107
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1532,
+    "output_tokens_details": {
+      "reasoning_tokens": 890
+    },
+    "total_tokens": 3492
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Charcadet",
+        "illustrator": "Illus. Saya Tsuruta",
+        "description": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+        "attacks": [
+          {
+            "name": "Will-O-Wisp",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Charbambin",
+        "illustrator": "Illus. Saya Tsuruta",
+        "description": "Ce Pokémon est un charbon de bois consumé qui a pris vie. Il est animé par un désir de combattre qui le pousse à défier des adversaires puissants.",
+        "attacks": [
+          {
+            "name": "Feu Follet",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Charcadet",
+        "illustrator": "Illus. Saya Tsuruta",
+        "description": "Nació de unos restos de carbón consumidos por las llamas. Reta a rivales poderosos para sacar su ardiente espíritu combativo.",
+        "attacks": [
+          {
+            "name": "Fuego Fatuo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Charcadet",
+        "illustrator": "Illus. Saya Tsuruta",
+        "description": "Del carbone bruciato ha preso vita, diventando un Pokémon. Sfida anche i nemici più temibili, mosso da un rovente spirito combattivo.",
+        "attacks": [
+          {
+            "name": "Fuocofatuo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Knarbon",
+        "illustrator": "Illus. Saya Tsuruta",
+        "description": "Ein verbranntes Stück Holzkohle ist als Pokémon zum Leben erwacht. Es fordert selbst starke Gegner heraus und hat einen feurigen Kampfgeist.",
+        "attacks": [
+          {
+            "name": "Irrlicht",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Charcadet",
+        "illustrator": "Illus. Saya Tsuruta",
+        "description": "Um carvão queimado ganhou vida e tornou-se um Pokémon. Com um espírito de luta flamejante, Charcadet batalhará até mesmo contra oponentes mais fortes.",
+        "attacks": [
+          {
+            "name": "Fogo Fátuo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "炭小侍",
+        "illustrator": "Illus. Sayo Tsuru...",
+        "description": "生命寄宿在燃燒的木炭上 變成了可愛的寶可夢。 即使是強悍的對手 也會以熊熊燃燒的鬥志面對而戰。",
+        "attacks": [
+          {
+            "name": "鬼火",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is too small/blurred to read with full confidence."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially blurred; transcription may not exactly match the printed Chinese punctuation/wording."
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-146",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "b4d2de49d92065dd219b8f481413a7803ee67ca686d54acf656ec4b0f6f30640",
+      "bytes": 319183
+    },
+    "fr": {
+      "sha256": "cf5a15f24e6db9ffa6f14b0b57aafefa44a088349a06f60ed670bd15760908c9",
+      "bytes": 320987
+    },
+    "es": {
+      "sha256": "cebfe99d70249f253d875120f9ce4ceb2952f5a0f126f6b62916f85c9fc31d8c",
+      "bytes": 318723
+    },
+    "it": {
+      "sha256": "b1789593297c6c30eddca92cabf9cb974d6c46dc6c57bf501cf480dbccff3fe8",
+      "bytes": 319917
+    },
+    "de": {
+      "sha256": "034f91719cabf3d4365b36ca96e298ed7d9d503aa0d30934016a06787b05ef9e",
+      "bytes": 320754
+    },
+    "pt-br": {
+      "sha256": "47ee8d8d56f6dfd263d212bc70adc1266c51460e21b595595e429f340fa2c307",
+      "bytes": 319336
+    },
+    "zh-tw": {
+      "sha256": "0151e173e57de9d0b4cd66ad8b723e8fe1bfe4985ce1cfb82f01563676f2d68a",
+      "bytes": 318518
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1630,
+    "output_tokens_details": {
+      "reasoning_tokens": 713
+    },
+    "total_tokens": 3590
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pupitar",
+        "illustrator": null,
+        "description": "This pup's the sort wild by the thousandth year in the present might be back.",
+        "attacks": [
+          {
+            "name": "Amass",
+            "effect": "Take 2 {F} Energy from your Energy Zone and attach it to this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Ymphect",
+        "illustrator": null,
+        "description": "Cette créature sera peut-être encore là dans mille ans.",
+        "attacks": [
+          {
+            "name": "Amas",
+            "effect": "Prenez 2 Énergies {F} de votre zone Énergie et attachez-les à ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pupitar",
+        "illustrator": null,
+        "description": "Este Pokémon podría seguir su transformación en pie de batalla dentro de 1.000 años.",
+        "attacks": [
+          {
+            "name": "Amasar",
+            "effect": "Une 2 Energías {F} de tu área de Energía a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pupitar",
+        "illustrator": null,
+        "description": "A uno stadio della sua trasformazione, il suo corpo sarà sempre questo e non cambierà nell'arco di mille anni.",
+        "attacks": [
+          {
+            "name": "Ammasso",
+            "effect": "Prendi 2 Energie {F} dalla tua Zona Energia e assegnale a questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pupitar",
+        "illustrator": null,
+        "description": "Diese Puppe zappelt nicht. In tausend Jahren wird sich bestimmt nichts an ihrem Körper geändert haben.",
+        "attacks": [
+          {
+            "name": "Anhäufen",
+            "effect": "Lege 2 {F}-Energien aus deinem Energiebereich an dieses Pokémon an."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pupitar",
+        "illustrator": null,
+        "description": "Esse pupitar pode não mudar em nada no prazo de mil anos.",
+        "attacks": [
+          {
+            "name": "Acumular",
+            "effect": "Pegue 2 Energias {F} da sua Zona de Energia e ligue-as a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "沙基拉斯",
+        "illustrator": null,
+        "description": "牠會把周圍的一切吸進體內，在身體裡形成自己的空間。",
+        "attacks": [
+          {
+            "name": "聚積",
+            "effect": "從自己的能量區抽出2張{F}能量，附於這隻寶可夢上。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcribed tentatively."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcribed tentatively."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcribed tentatively."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcribed tentatively."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcribed tentatively."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcribed tentatively."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcribed tentatively."
+      },
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator credit text is too small/unreadable."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator credit text is too small/unreadable."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator credit text is too small/unreadable."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator credit text is too small/unreadable."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator credit text is too small/unreadable."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator credit text is too small/unreadable."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator credit text is too small/unreadable."
+      }
+    ]
+  }
+}

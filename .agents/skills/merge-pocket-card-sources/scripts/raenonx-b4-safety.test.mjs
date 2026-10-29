@@ -7,7 +7,16 @@ import test from 'node:test'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { normalizeRaenonxName } from './normalize-raenonx-name.mjs'
-import { renderLocalizedTemplate } from './sync-raenonx-b4.mjs'
+import { renderLocalizedTemplate, indexNames } from './sync-raenonx-b4.mjs'
+
+test('game card-ID name tokens retain the localized card identity', () => {
+	const template = 'Search for [Text:CardNameByCardID id="0"].'
+	const maps = {
+		cardEnglishNames: indexNames({ '25': 'Pikachu' }),
+		targetMaster: { Card: { Name: { '25': '皮卡丘' } } },
+	}
+	assert.equal(renderLocalizedTemplate(template, 'Search for Pikachu.', template, 'zh', 'C1 card identity', maps), 'Search for 皮卡丘.')
+})
 
 const root = path.resolve(fileURLToPath(new URL('../../../..', import.meta.url)))
 
@@ -178,6 +187,10 @@ test('localization audit accepts printed x2 multipliers but rejects merged prose
 	fs.writeFileSync(localizations, JSON.stringify(data));fs.writeFileSync(config, '{}')
 	const args = [path.join(root, '.agents/skills/merge-pocket-card-sources/scripts/audit-pocket-localizations.mjs'), '--canonical', canonical, '--localizations', localizations, '--config', config, '--output', output]
 	const valid = spawnSync(process.execPath, args, { encoding: 'utf8' });assert.equal(valid.status, 0, valid.stderr);assert.equal(JSON.parse(fs.readFileSync(output)).passed, true)
+	data.cards['B9-001'].locales.en.name = 'Porygon2'
+	data.cards['B9-001'].locales.en.evolveFrom = 'Porygon2'
+	fs.writeFileSync(localizations, JSON.stringify(data))
+	assert.equal(spawnSync(process.execPath, args, { encoding: 'utf8' }).status, 0)
 	data.cards['B9-001'].locales.it.effect = 'danni20';fs.writeFileSync(localizations, JSON.stringify(data))
 	const invalid = spawnSync(process.execPath, args, { encoding: 'utf8' });assert.notEqual(invalid.status, 0);assert(JSON.parse(fs.readFileSync(output)).findings.some(f => f.locale === 'it' && f.kind === 'letter-number-join'))
 })

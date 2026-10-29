@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-024",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "da4ff60cea043e5cfaee1f06b14483ae21418663324f7ab66fa59694aed47598",
+      "bytes": 286086
+    },
+    "fr": {
+      "sha256": "9d9163628b1b329c368abed2664a81aeaf9f25fe314514261a2574b1ba16c05c",
+      "bytes": 287034
+    },
+    "es": {
+      "sha256": "702d02e722dc635005986ccc9dd048433d56b9ec44d3e571c08e77cfc6dd0ed4",
+      "bytes": 287865
+    },
+    "it": {
+      "sha256": "993cf0f95718c75a7ab8638cfff6c7e9ecb97667211d0827e25b99dead5e16bd",
+      "bytes": 288280
+    },
+    "de": {
+      "sha256": "1ce735ef3030e937da88801a968fb4ffafb7b060b5e8a3d965d72b677db3c655",
+      "bytes": 288684
+    },
+    "pt-br": {
+      "sha256": "58192fb153d077fd53f5b5f379585a6a5ab1f1ebf93682fcafb1e3deada41a9f",
+      "bytes": 287683
+    },
+    "zh-tw": {
+      "sha256": "741e813b8b1dd639d970ef6fb23ab78078336ea2b85df2ae2921f55bd00686ac",
+      "bytes": 285246
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1695,
+    "output_tokens_details": {
+      "reasoning_tokens": 982
+    },
+    "total_tokens": 3655
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Cinderace",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Although Cinderace loses its cool easily, it will battle flawlessly for a Trainer it trusts.",
+        "attacks": [
+          {
+            "name": "Spinning Kick",
+            "effect": "This Pokémon also does 20 damage to itself."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pyrobut",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Il a tendance à s’emporter facilement, mais quand il accompagne une personne de confiance, il donne le meilleur de lui-même en combat.",
+        "attacks": [
+          {
+            "name": "Coup Tournant",
+            "effect": "Ce Pokémon s'inflige aussi 20 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cinderace",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Es de temperamento irascible, pero da lo mejor de sí mismo en combate cuando cuenta con un Entrenador en el que confía.",
+        "attacks": [
+          {
+            "name": "Patada Giratoria",
+            "effect": "Este Pokémon también se hace 20 puntos de daño a sí mismo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Cinderace",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "Gli basta un nulla per agitarsi, ma quando ha fiducia in chi lo allena ed è in una compagnia, riesce a rimanere ben concentrato sulla lotta.",
+        "attacks": [
+          {
+            "name": "Calcio Rotante",
+            "effect": "Questo Pokémon infligge anche 20 danni a se stesso."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Liberlo",
+        "illustrator": "Illust. Naoki Saito",
+        "description": "Es hat ein hitziges Gemüt. Bringt es einem Trainer aber genügend Vertrauen entgegen, legt es eine fehlerfreie Kampfweise an den Tag.",
+        "attacks": [
+          {
+            "name": "Wirbelkick",
+            "effect": "Dieses Pokémon fügt auch sich selbst 20 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Cinderace",
+        "illustrator": "Illust. Naoki Saito",
+        "description": "Embora Cinderace perca as estribeiras com facilidade, batalhará impecavelmente por um Treinador em quem confia.",
+        "attacks": [
+          {
+            "name": "Chute Giratório",
+            "effect": "Este Pokémon também causa 20 pontos de dano a si mesmo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "閃焰王牌",
+        "illustrator": "Illus. Naoki Saito",
+        "description": "雖然閃焰王牌容易動怒，但只要有值得信賴的訓練家在，就能展現完美無缺的戰鬥方式。",
+        "attacks": [
+          {
+            "name": "旋轉踢",
+            "effect": "這隻寶可夢也受到20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially hard to read; transcription may be slightly off."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially hard to read; transcription may be slightly off."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially hard to read; transcription may be slightly off."
+      }
+    ]
+  }
+}

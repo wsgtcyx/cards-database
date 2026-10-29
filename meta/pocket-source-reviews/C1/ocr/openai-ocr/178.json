@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-178",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "89a9471fac0cb87413ed624d99d3c08c0ab32cefd4dc1bf9c9dfdb03d4e85332",
+      "bytes": 330198
+    },
+    "fr": {
+      "sha256": "5bf03ecd6d4b928f3566ff40ed051c71d35813441517fd9e417b3f9e8e9d682c",
+      "bytes": 331639
+    },
+    "es": {
+      "sha256": "6075f4f39a91edf3024c757dc13cccd5c1a83dc48134f649ef6e9b49d14f22f6",
+      "bytes": 329710
+    },
+    "it": {
+      "sha256": "29a97cb3077552819369eeeff0f30af696e36557c55b608340c9b880b5663365",
+      "bytes": 329997
+    },
+    "de": {
+      "sha256": "a9b30efb204ad090eb09be7f30e6832a869a35ad53f43ec603f47680dec7df08",
+      "bytes": 331430
+    },
+    "pt-br": {
+      "sha256": "0740ad3a6bc1e167427fc2dc3f4664e85f7bd75bbb3475fba42b3b0f2dfb3023",
+      "bytes": 330217
+    },
+    "zh-tw": {
+      "sha256": "fb806ac43bfb03aa9bb0467900b5d39511791f905e9a55e308d09840c01c12d4",
+      "bytes": 327215
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1009,
+    "output_tokens_details": {
+      "reasoning_tokens": 401
+    },
+    "total_tokens": 2969
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Tyranitar ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Crushing Rampage",
+            "effect": "Discard the top 2 cards of your deck."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Tyranocif ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Saccage Écrasant",
+            "effect": "Défaussez les 2 premières cartes du dessus de votre deck."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Tyranitar ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Furia Demoledora",
+            "effect": "Descarta las 2 primeras cartas de tu baraja."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Tyranitar ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Devastazione Furiosa",
+            "effect": "Scarta le prime 2 carte del tuo mazzo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Despotar ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schmetternde Randale",
+            "effect": "Lege die obersten 2 Karten deines Decks ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Tyranitar ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Fúria Esmagadora",
+            "effect": "Descarte as 2 cartas de cima do seu baralho."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級班基拉斯 ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "亂暴粉碎",
+            "effect": "將自己的牌庫上方2張卡丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read reliably."
+      }
+    ]
+  }
+}

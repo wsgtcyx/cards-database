@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-166",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "708450bea0e0c70caa4fc0aee75c161479de8b0648ca79142ad06cfb492ca1b4",
+      "bytes": 326288
+    },
+    "fr": {
+      "sha256": "ee995ee01b4a4a14da15584b60f7c488f0479534a4e0b9612e956150d44f573c",
+      "bytes": 328219
+    },
+    "es": {
+      "sha256": "698e5a304e086ef2ef0185ab6fcbd417f92e21d268ac80dd9d313b88b5cb4910",
+      "bytes": 327684
+    },
+    "it": {
+      "sha256": "08f5a2386664673d3e933efbf2bbe9f1f2c208d1eb447d711048af0ee0c3291d",
+      "bytes": 325416
+    },
+    "de": {
+      "sha256": "b92816bb236111902bcc6bdd380154f84070ca5327dd2b2605ea5f5c39e49a8f",
+      "bytes": 326566
+    },
+    "pt-br": {
+      "sha256": "0759765024a31798ef7caf4c07951c4d7ae36d0cddde2e26d6185710319cf140",
+      "bytes": 327925
+    },
+    "zh-tw": {
+      "sha256": "656fbb7d9bbaaf919f238b0d6c2a011642cf3a4ff1e4d1cca396311b020b212b",
+      "bytes": 322876
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1642,
+    "output_tokens_details": {
+      "reasoning_tokens": 1013
+    },
+    "total_tokens": 3602
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Blue's Provocation",
+        "illustrator": "chappy",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "You can use this card only if you have Venusaur, Charizard, Blastoise, or Pidgeot in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+      },
+      "fr": {
+        "name": "Provocation de Blue",
+        "illustrator": "chappy",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous ne pouvez utiliser cette carte que si vous avez Florizarre, Dracaufeu, Tortank ou Roucarnage en jeu. Envoyez un des Pokémon de Banc de votre adversaire sur le Poste Actif."
+      },
+      "es": {
+        "name": "Provocación de Azul",
+        "illustrator": "chappy",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puedes usar esta carta solo si tienes Venusaur, Charizard, Blastoise o Pidgeot en juego. Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon que esté en el Puesto Activo."
+      },
+      "it": {
+        "name": "Provocazione di Blu",
+        "illustrator": "chappy",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi usare questa carta solo se hai Venusaur, Charizard, Blastoise o Pidgeot in gioco. Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo."
+      },
+      "de": {
+        "name": "Blaus Provokation",
+        "illustrator": "chappy",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst diese Karte nur einsetzen, wenn du Bisaflor, Glurak, Turtok oder Tauboss im Spiel hast. Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein."
+      },
+      "pt-br": {
+        "name": "Provocação do Blue",
+        "illustrator": "chappy",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você só pode usar esta carta se tiver Venusaur, Charizard, Blastoise ou Pidgeot em jogo. Mande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo."
+      },
+      "zh-tw": {
+        "name": "青綠的挑戰",
+        "illustrator": "chappy",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "這張卡只有在自己的場上有「妙蛙花」或者「噴火龍」或者「水箭龜」或者「大比鳥」時才可使用。選擇1張對手的備戰寶可夢，與牠的場上寶可夢互換。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "de",
+        "field": "effect",
+        "reason": "The final verb/preposition sequence in the second sentence is small and slightly hard to read; transcribed as seen."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "Small print is partially difficult to read; transcribed as seen."
+      }
+    ]
+  }
+}

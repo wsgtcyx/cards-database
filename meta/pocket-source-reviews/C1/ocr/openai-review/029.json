@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-029",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "f73dbb2a7e41c32b671642ff7130a3732bce1c529fbae8c874349cb0ea331f3e",
+      "bytes": 315769
+    },
+    "fr": {
+      "sha256": "eed48f7f9581570ce001a2c637f7a5bc30c0cc2c1725b8b0ca1d07f273cd7417",
+      "bytes": 318634
+    },
+    "es": {
+      "sha256": "79feac34abfd9e509625774f32f153e7fb3b8c69c6c34b7be4de38e3fe1e3e9e",
+      "bytes": 317100
+    },
+    "it": {
+      "sha256": "1f3b8d316f7e41a7ee6e2e96e834ab88d9a7e16577645ce2ac40574245ce8eea",
+      "bytes": 317324
+    },
+    "de": {
+      "sha256": "15b84fd4d04cd025b2e3b043aedb7fa21e1303eed298e10f8bfe5510cf7bc415",
+      "bytes": 319084
+    },
+    "pt-br": {
+      "sha256": "3d88522b4223e44d07aa5d806d4c0adc47c15b66db82d73e6374e59d4c294ca0",
+      "bytes": 318770
+    },
+    "zh-tw": {
+      "sha256": "486d7ccaa50b42c8d7ab5d92f2fdd0df0ab757fc401059d639bed608ba083a09",
+      "bytes": 315829
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1045,
+    "output_tokens_details": {
+      "reasoning_tokens": 401
+    },
+    "total_tokens": 4533
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Squirtle",
+        "illustrator": "Gemi",
+        "description": "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.",
+        "attacks": [
+          {
+            "name": "Bubble",
+            "effect": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Carapuce",
+        "illustrator": "Gemi",
+        "description": "Ce Pokémon crache une écume redoutable. Après sa naissance, son dos gonfle et durcit pour former une carapace.",
+        "attacks": [
+          {
+            "name": "Écume",
+            "effect": "Lancez une pièce. Si c’est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Squirtle",
+        "illustrator": "Gemi",
+        "description": "Tras nacer, se le hincha el lomo y se le forma un caparazón. Escupe poderosa espuma por la boca.",
+        "attacks": [
+          {
+            "name": "Burbuja",
+            "effect": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Squirtle",
+        "illustrator": "Gemi",
+        "description": "Dopo la nascita, la sua schiena si gonfia e si trasforma in una dura corazza. Sputa una potente schiuma dalla bocca.",
+        "attacks": [
+          {
+            "name": "Bolla",
+            "effect": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene Paralizzato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Schiggy",
+        "illustrator": "Gemi",
+        "description": "Nach der Geburt schwillt sein Rücken an und verhärtet sich zu einem Panzer. Es versprüht starken Schaum aus seinem Maul.",
+        "attacks": [
+          {
+            "name": "Blubber",
+            "effect": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Squirtle",
+        "illustrator": "Gemi",
+        "description": "Depois que nasce, suas costas incham e endurecem até formar um casco. Este Pokémon lança um jato espumoso pela boca.",
+        "attacks": [
+          {
+            "name": "Bolha",
+            "effect": "Jogue uma moeda. Se sair cara, o Pokémon Ativo do seu oponente agora estará Paralisado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "傑尼龜",
+        "illustrator": "Gemi",
+        "description": "出生後背部會隆起成堅硬的甲殼。會從口中吐出強而有力的泡沫。",
+        "attacks": [
+          {
+            "name": "泡沫",
+            "effect": "擲1次硬幣若為正面，則將對手的戰鬥寶可夢麻痺。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

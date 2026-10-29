@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-105",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "075bb9f81d962c29b68d7d70cc6dfd4146f0d0a67f395870fe740381526c7279",
+      "bytes": 280033
+    },
+    "fr": {
+      "sha256": "e68d4f3ee6b624a4e54617befb7ac85c527dc8dc37f137a010e57ced9425fde9",
+      "bytes": 281289
+    },
+    "es": {
+      "sha256": "68786ed25e2fdfa065f03dba774ff7273f4e8ca7b2a65b6da068fb86f4b412cf",
+      "bytes": 281538
+    },
+    "it": {
+      "sha256": "fe1b9e4354f699eaa270bb09fdd41199c985d0ce001ca007f035de386a017f8a",
+      "bytes": 281425
+    },
+    "de": {
+      "sha256": "4e5ffb163f2c1777f1c36fac3c9aaa81c009e9a4125b172b138d42d024960d40",
+      "bytes": 281725
+    },
+    "pt-br": {
+      "sha256": "5f2c70925f13dcef66f14b4e533f2f3927df4d9d061c9250f69b9737fb916bda",
+      "bytes": 280788
+    },
+    "zh-tw": {
+      "sha256": "f15e1e3ba892cab257e172e9a9708693d0f8722cb1d46c491c8a49779252f7b3",
+      "bytes": 280113
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 860,
+    "output_tokens_details": {
+      "reasoning_tokens": 338
+    },
+    "total_tokens": 2820
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Spearow",
+        "illustrator": "Yuriko Akase",
+        "description": "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory.",
+        "attacks": [
+          {
+            "name": "Flap",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Piafabec",
+        "illustrator": "Yuriko Akase",
+        "description": "Un Pokémon téméraire qui n'hésite pas à affronter des Pokémon plus gros que lui pour protéger son territoire.",
+        "attacks": [
+          {
+            "name": "Battement",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Spearow",
+        "illustrator": "Yuriko Akase",
+        "description": "Su temperamento temerario hace que no dude en enfrentar a rivales mucho más grandes a la hora de defender su territorio.",
+        "attacks": [
+          {
+            "name": "Aleteo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Spearow",
+        "illustrator": "Yuriko Akase",
+        "description": "Temerario di natura, per difendere il proprio territorio non esita a lanciarsi anche contro avversari più grandi di lui.",
+        "attacks": [
+          {
+            "name": "Alabattito",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Habitak",
+        "illustrator": "Yuriko Akase",
+        "description": "Wenn es um die Verteidigung seines Reviers geht, schreckt das draufgängerische Habitak selbst vor großen Pokémon nicht zurück.",
+        "attacks": [
+          {
+            "name": "Flattern",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Spearow",
+        "illustrator": "Yuriko Akase",
+        "description": "Sua natureza decidida leva Spearow a encarar até Pokémon maiores quando precisa proteger o seu território.",
+        "attacks": [
+          {
+            "name": "Asa",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "烈雀",
+        "illustrator": "Yuriko Akase",
+        "description": "生性非常衝動， 只是為了守衛自己的地盤， 即使對手是大型寶可夢也會挺身而出面對戰。",
+        "attacks": [
+          {
+            "name": "羽擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Small Chinese flavor text is low-resolution; punctuation and final characters may be slightly uncertain."
+      }
+    ]
+  }
+}

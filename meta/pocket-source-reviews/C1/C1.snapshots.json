@@ -1,0 +1,67 @@
+{
+  "master.json": {
+    "bytes": 6427917,
+    "sha256": "04da3156345ae34cd058738c1d1e80a094f65bd6d3a9c7e38820a294312a8f94"
+  },
+  "pokeos.cards.json": {
+    "bytes": 223865,
+    "sha256": "e89762c549d179985cc183c9444f07f9c8c8ac4fe92009ed6443bb5e7d417721"
+  },
+  "pokeos.set.json": {
+    "bytes": 1194,
+    "sha256": "2042c81a5e29b27b6af7b77dbd64f04b59a7c7bd86b010f25ca86fc8fe5f0534"
+  },
+  "bcollazo.json": {
+    "bytes": 2661916,
+    "sha256": "042940849c08d3c882cbbb26c24d57e04eadd17ca499a279f5f3e541d522d04d"
+  },
+  "en.dictionary.json": {
+    "bytes": 453231,
+    "sha256": "f51f63bd3ac631f7f9947219b6176799c0b861b251725fca193ba4f8e219e199"
+  },
+  "fr.dictionary.json": {
+    "bytes": 511379,
+    "sha256": "3c9d0355c4d446ee8958740862c397859cb894585d07dc26dc747d3b88a62799"
+  },
+  "es.dictionary.json": {
+    "bytes": 480991,
+    "sha256": "9fb0a4d97f80ce0d621b743ce1e895707a680721ed22a20641ea79ca796d4a96"
+  },
+  "pt.dictionary.json": {
+    "bytes": 490563,
+    "sha256": "3fbfdc2026c898f5418ada82cbb569d3bfacda7c1a2d031ab41537e01e1ad483"
+  },
+  "zh.dictionary.json": {
+    "bytes": 455191,
+    "sha256": "bf6b34294cf33583d303c44a2199c974e74113bbce59affeb271a7173b540b91"
+  },
+  "ja.dictionary.json": {
+    "bytes": 548852,
+    "sha256": "c36802a54488e7f53d3b06d54e64542a3e20bec57b1e18b46599d96406b5f9ca"
+  },
+  "ko.dictionary.json": {
+    "bytes": 493122,
+    "sha256": "a7bd583112e689610cfbdb81ef9ebac8d6a321285b93f01883a5cbc9015ed0a3"
+  },
+  "facts": {
+    "official": "https://pokemon.gamespress.com/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex",
+    "master": "https://ptcgp.raenonx.cc/api/data/global-master",
+    "pokeosCards": "https://api.pokeos.com/api/tcg/set/cards?id=599",
+    "deckgymCommit": "7aa4ef04c02844d4f0cf236cb98424ea1eaabb4b",
+    "deckgymRole": "independent validation only; AGPL-3.0",
+    "retrievedAt": "2026-10-29T05:09:17.862552+00:00",
+    "rejected": [
+      "RaenonX de/it routes return Korean dictionaries",
+      "PokeOS pack allocation unavailable; use game master pack membership",
+      "flibustier latest lacks C1; shelken latest predates C1"
+    ],
+    "deckgymRepository": "https://github.com/bcollazo/deckgym-core",
+    "deckgymFile": "https://raw.githubusercontent.com/bcollazo/deckgym-core/7aa4ef04c02844d4f0cf236cb98424ea1eaabb4b/database.json",
+    "deckgymAvailabilityRecheck": "HTTP 200; Content-Length 2661916",
+    "deckgymLicenseUrl": "https://raw.githubusercontent.com/bcollazo/deckgym-core/7aa4ef04c02844d4f0cf236cb98424ea1eaabb4b/LICENSE.txt"
+  },
+  "DeckGym-LICENSE.txt": {
+    "bytes": 34523,
+    "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-051",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "7f11a124787b833125f254003f9788d020231f8e05a008de285b44251c541a88",
+      "bytes": 293978
+    },
+    "fr": {
+      "sha256": "1ddcc3a5eac70e04e38268a5050c42e9ed09e3f37910ec4d9dc31938eac69f4c",
+      "bytes": 296081
+    },
+    "es": {
+      "sha256": "1e2f9e097c0415d1e943bc29b136810c712bac36ca8cc05c2abb48a21a2b00be",
+      "bytes": 295151
+    },
+    "it": {
+      "sha256": "8b92abea3d8f44ecc4af0b0bbcbfd24d610f64e7c770865d9e1f4bfabd250e67",
+      "bytes": 296379
+    },
+    "de": {
+      "sha256": "f9d5ffd7d09c431968c7a3dd47ffcf31e011b7b5ac640dd4d54dd17863cb872d",
+      "bytes": 296635
+    },
+    "pt-br": {
+      "sha256": "2306bc11ef0c6098e8a1ebaca9bdf055b4c5207a03b9f437473d8d404cbf2fed",
+      "bytes": 298778
+    },
+    "zh-tw": {
+      "sha256": "a32542bb7682eb248190d35fa53b0e19388d0c93820391617d3221186268ef9b",
+      "bytes": 288992
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2207,
+    "output_tokens_details": {
+      "reasoning_tokens": 1318
+    },
+    "total_tokens": 4167
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Jigglypuff",
+        "illustrator": "illus. sano misaki",
+        "description": "When its huge eyes water, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+        "attacks": [
+          {
+            "name": "Soothing Lullaby",
+            "effect": "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pokémon is still Asleep."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rondoudou",
+        "illustrator": "illus. sano misaki",
+        "description": "Quand ses grands yeux luisent, il chante une berceuse mystérieuse qui pousse ses ennemis à s'endormir.",
+        "attacks": [
+          {
+            "name": "Berceuse Apaisante",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi. Votre adversaire lance 2 pièces pour cet État Spécial. S’il y a au moins un côté pile, ce Pokémon reste Endormi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Jigglypuff",
+        "illustrator": "illus. sano misaki",
+        "description": "Cuando le tiemblan sus redondos y adorables ojos, entona una melodía agradable y misteriosa con la que duerme a sus enemigos.",
+        "attacks": [
+          {
+            "name": "Nana Sedante",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Dormido. Tu rival lanza 2 monedas por esta Condición Especial y, si sale cruz en alguna de ellas, ese Pokémon sigue Dormido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Jigglypuff",
+        "illustrator": "illus. sano misaki",
+        "description": "Quando i suoi occhioni rotondi tremolano, canta una misteriosa melodia che fa addormentare.",
+        "attacks": [
+          {
+            "name": "Ninnananna Calmante",
+            "effect": "Il Pokémon attivo del tuo avversario viene addormentato. Il tuo avversario lancia 2 volte una moneta per questa condizione speciale. Se esce almeno una volta croce, quel Pokémon resta addormentato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pummeluff",
+        "illustrator": "illus. sano misaki",
+        "description": "Wenn seine Kulleraugen zu flackern beginnen, singt es ein mysteriöses, wohlklingendes Lied, das Zuhörer in Schlaf versetzt.",
+        "attacks": [
+          {
+            "name": "Beruhigendes Wiegenlied",
+            "effect": "Das Aktive Pokémon deines Gegners schläft jetzt. Dein Gegner wirft 2 Münzen für diesen Speziellen Zustand. Zeigt mindestens 1 Zahl, schläft jenes Pokémon weiter."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Jigglypuff",
+        "illustrator": "illus. sano misaki",
+        "description": "Quando seus enormes olhos ficam pesados, canta uma melodia misteriosa e relaxante, fazendo com que os inimigos adormeçam.",
+        "attacks": [
+          {
+            "name": "Canção de Ninar Calmante",
+            "effect": "O Pokémon Ativo do seu oponente agora está Adormecido. Seu oponente joga 2 moedas para esta Condição Especial e, se qualquer uma delas sair coroa, aquele Pokémon permanecerá Adormecido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "胖丁",
+        "illustrator": "illus. sano misaki",
+        "description": "當它圓圓的大眼睛轉動時，會唱出輕柔悅耳的歌曲，讓人陷入昏睡。",
+        "attacks": [
+          {
+            "name": "熱睡歌曲",
+            "effect": "將對手的戰鬥寶可夢睡眠。因這個睡眠的擲硬幣次數改為2次，若沒有全部為正面則無法恢復。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Small text is partially difficult to read; punctuation and one phrase may be off."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "The second sentence is hard to read and may not be exact."
+      }
+    ]
+  }
+}

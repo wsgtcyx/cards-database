@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-125",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4e3d1dad6a337c1709c6a83b08fe9c27543a5453ab89bd8af8fd03db4f2865e8",
+      "bytes": 191033
+    },
+    "fr": {
+      "sha256": "96ef4a29898619ba1993384f7381d00729821f1a8f6c4425ca6576e90a6cec9d",
+      "bytes": 194425
+    },
+    "es": {
+      "sha256": "12e86c56114bf512f04a2662c87fc11330975ff40e8a4b46ee23b8d8cfb6effa",
+      "bytes": 192668
+    },
+    "it": {
+      "sha256": "45fddc18c76a935cde74a2333f79264dc3bc11d38ba3ee184dcbb60331d62029",
+      "bytes": 191515
+    },
+    "de": {
+      "sha256": "3aaaf64d226521167d9a50c78a1510e8f62e8756c954cf5a2e13fe7bb7cf0bec",
+      "bytes": 194455
+    },
+    "pt-br": {
+      "sha256": "c1ebdf74808b9c42c23fd15b4db8a65610475018bf865a397c7f70af20798408",
+      "bytes": 194250
+    },
+    "zh-tw": {
+      "sha256": "6ca6fd77869336a3dca095379eb6ffac9bed45f563b10678ed88103937b35fe2",
+      "bytes": 189042
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1046,
+    "output_tokens_details": {
+      "reasoning_tokens": 283
+    },
+    "total_tokens": 3006
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Lorelei",
+        "illustrator": "Mus. Taira Akitsu",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "During this turn, attacks used by your Dewgong, Cloyster, or Lapras do +30 damage to your opponent’s Pokémon."
+      },
+      "fr": {
+        "name": "Olga",
+        "illustrator": "Mus. Taira Akitsu",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Pendant ce tour, les attaques de votre Lamantine, votre Crustabri ou votre Lokhlass infligent + 30 dégâts aux Pokémon de votre adversaire."
+      },
+      "es": {
+        "name": "Lorelei",
+        "illustrator": "Mus. Taira Akitsu",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Durante este turno, los ataques de tu Dewgong, tu Cloyster o tu Lapras hacen +30 puntos de daño a los Pokémon de tu rival."
+      },
+      "it": {
+        "name": "Lorelei",
+        "illustrator": "Mus. Taira Akitsu",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Durante questo turno, gli attacchi usati dal tuo Dewgong, Cloyster o Lapras infliggono +30 danni ai Pokémon dell'avversario."
+      },
+      "de": {
+        "name": "Lorelei",
+        "illustrator": "Mus. Taira Akitsu",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Während dieses Zuges fügen die Attacken deines Jugong, Austos oder Lapras den Pokémon deines Gegners + 30 Schadenspunkte zu."
+      },
+      "pt-br": {
+        "name": "Lorelei",
+        "illustrator": "Mus. Taira Akitsu",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Durante este turno, os ataques usados pelos seus Dewgong, Cloyster, ou Lapras causam +30 pontos de dano aos Pokémon do seu oponente."
+      },
+      "zh-tw": {
+        "name": "科拿",
+        "illustrator": "Mus. Taira Akitsu",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "在這個回合中，自己的「白海獅」「刺甲貝」「拉普拉斯」使用的招式對手的所有寶可夢造成的傷害+30點。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and appears as abbreviated 'Mus. Taira Akitsu'; could be an illustrator abbreviation rather than the full printed credit."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and appears as abbreviated 'Mus. Taira Akitsu'; could be an illustrator abbreviation rather than the full printed credit."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and appears as abbreviated 'Mus. Taira Akitsu'; could be an illustrator abbreviation rather than the full printed credit."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and appears as abbreviated 'Mus. Taira Akitsu'; could be an illustrator abbreviation rather than the full printed credit."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and appears as abbreviated 'Mus. Taira Akitsu'; could be an illustrator abbreviation rather than the full printed credit."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and appears as abbreviated 'Mus. Taira Akitsu'; could be an illustrator abbreviation rather than the full printed credit."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and appears as abbreviated 'Mus. Taira Akitsu'; could be an illustrator abbreviation rather than the full printed credit."
+      }
+    ]
+  }
+}

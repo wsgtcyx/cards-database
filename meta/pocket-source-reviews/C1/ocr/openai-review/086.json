@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-086",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "074949bf239406242ef6936a6534389aae143779b65e61e2a1f783da3978ba0a",
+      "bytes": 296213
+    },
+    "fr": {
+      "sha256": "5ba646c8dca4d46d49bbc5802b2b04d3c129d8d0dda9b0eaae33f3d7fd398f78",
+      "bytes": 297344
+    },
+    "es": {
+      "sha256": "38bfa3985c1dac70c807e4acb92af501c19d15b3a59e7659bf4b253e18c68ee6",
+      "bytes": 296417
+    },
+    "it": {
+      "sha256": "a78f0720ca7bbf2005d790c747466e4cd47ebd1bb2d5a705baf8bbcb1b60c095",
+      "bytes": 296405
+    },
+    "de": {
+      "sha256": "763c113a7f3942ca377d6149d60f69d1bfa69bb731bda6c569297cf2271a6466",
+      "bytes": 297526
+    },
+    "pt-br": {
+      "sha256": "db98c7b3d44736ced164aee35282ef3a45b22cc4e3b8e3ae85b02d405c54d8f6",
+      "bytes": 298213
+    },
+    "zh-tw": {
+      "sha256": "206c1139e29e6a1c42866a71149fe6377665fc52a856c05bb3611af4e7640b48",
+      "bytes": 294510
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2286,
+    "output_tokens_details": {
+      "reasoning_tokens": 1325
+    },
+    "total_tokens": 5774
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Seviper",
+        "illustrator": "Taiga Kasai",
+        "description": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes at unwary prey with venomous fangs.",
+        "attacks": [
+          {
+            "name": "Venomous Fang",
+            "effect": "Your opponent’s Active Pokémon is now Poisoned."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Séviper",
+        "illustrator": "Taiga Kasai",
+        "description": "Il affûte sa queue tranchante comme une épée sur les rochers et se cache dans les hautes herbes pour attaquer sa proie avec ses crocs venimeux.",
+        "attacks": [
+          {
+            "name": "Croc-Poison",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Seviper",
+        "illustrator": "Taiga Kasai",
+        "description": "Usa rocas para afilarse la cola en forma de espada. Sale de la hierba de repente y ataca con sus colmillos tóxicos.",
+        "attacks": [
+          {
+            "name": "Colmillo Nocivo",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Seviper",
+        "illustrator": "Taiga Kasai",
+        "description": "Affila la coda simile a una lama utilizzando le rocce più dure. Striscia nascosto nell’erba alta, attaccando le prede con le sue zanne velenose.",
+        "attacks": [
+          {
+            "name": "Dentevelenoso",
+            "effect": "Il Pokémon attivo del tuo avversario viene avvelenato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Vipitis",
+        "illustrator": "Taiga Kasai",
+        "description": "Es schärft den klingenartigen Schwanz an Steinen. Im Dickicht versteckt nähert es sich ahnungsloser Beute und greift diese mit seinen Giftzähnen an.",
+        "attacks": [
+          {
+            "name": "Gifthauer",
+            "effect": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Seviper",
+        "illustrator": "Taiga Kasai",
+        "description": "Sua cauda semelhante a uma espada é afiada em pedras rígidas. Esconde-se em grama alta e surpreende as vítimas com suas presas venenosas.",
+        "attacks": [
+          {
+            "name": "Dente Venenoso",
+            "effect": "O Pokémon Ativo do seu oponente agora está Envenenado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "飯匙蛇",
+        "illustrator": "Taiga Kasai",
+        "description": "平時會用岩石磨利像刀刃般的尾巴，潛伏在草叢裡，然後趁獵物靠近時用毒牙襲擊。",
+        "attacks": [
+          {
+            "name": "毒牙",
+            "effect": "將對手的戰鬥寶可夢中毒"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "The word sequence around “utilizzando le” is slightly blurred in the supplied crop."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Several characters and the final punctuation are low-resolution in the supplied crop."
+      }
+    ]
+  }
+}

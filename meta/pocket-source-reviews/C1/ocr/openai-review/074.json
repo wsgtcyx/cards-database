@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-074",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "5295d269df6b806bf774c6e3fb68008eb1e95cbbf95e0eb49273cea060f15919",
+      "bytes": 304241
+    },
+    "fr": {
+      "sha256": "453c2407fee07623a961f853c2d4b72f85410880c4620dfb26dee992513f1a59",
+      "bytes": 305185
+    },
+    "es": {
+      "sha256": "a3659635a9acda6a76cdcb37f07a1175335efe26e4fb5bb90afd4051485ed1ef",
+      "bytes": 304938
+    },
+    "it": {
+      "sha256": "168facfc1850aeaf69debe0b46793f99a19691a574cbeccd3df3402889f9c875",
+      "bytes": 304510
+    },
+    "de": {
+      "sha256": "360cf580b18ad988145e5839324134ec86abb4bf8746f4c8de87723b81935165",
+      "bytes": 305510
+    },
+    "pt-br": {
+      "sha256": "8d616553e5ab20aa8085bfe9cad49b625738800d88fd8edb5055008cac9db12a",
+      "bytes": 305830
+    },
+    "zh-tw": {
+      "sha256": "cdb9dcc8abb7db5f0741aa6118a6d4fe528b6072874f132c01f1756218c6da48",
+      "bytes": 300409
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1382,
+    "output_tokens_details": {
+      "reasoning_tokens": 490
+    },
+    "total_tokens": 4870
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Paldean Clodsire",
+        "illustrator": "Uta",
+        "description": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+        "attacks": [
+          {
+            "name": "Earthquake",
+            "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Terraiste de Paldea",
+        "illustrator": "Uta",
+        "description": "Quand on l’attaque, il riposte en faisant sortir de grosses épines de son tronc, une dangereuse technique qui montre qu’il est prêt à tout risquer.",
+        "attacks": [
+          {
+            "name": "Séisme",
+            "effect": "Cette attaque inflige aussi 20 dégâts à chacun de vos Pokémon de Banc."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Clodsire de Paldea",
+        "illustrator": "Uta",
+        "description": "Cuando se siente amenazado, repele al enemigo con sus gruesas púas retráctiles. Esta técnica tan peligrosa es un arma de doble filo.",
+        "attacks": [
+          {
+            "name": "Terremoto",
+            "effect": "Este ataque también hace 20 puntos de daño a cada uno de tus Pokémon en Banca."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Clodsire di Paldea",
+        "illustrator": "Uta",
+        "description": "Quando si trova sotto attacco, contrattacca sfoderando le spesse spine retrattili, mettendo così a repentaglio anche se stesso.",
+        "attacks": [
+          {
+            "name": "Terremoto",
+            "effect": "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella tua panchina."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Paldea-Suelord",
+        "illustrator": "Uta",
+        "description": "Wird Suelord angegriffen, wehrt es sich, indem es dicke Stacheln ausfährt. Setzt es diese riskante Attacke ein, ist es bereit, aufs Ganze zu gehen.",
+        "attacks": [
+          {
+            "name": "Erdbeben",
+            "effect": "Diese Attacke fügt auch jedem Pokémon auf deiner Bank 20 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Clodsire de Paldea",
+        "illustrator": "Uta",
+        "description": "Quando atacado, este Pokémon revidará esticando espinhos grossos para fora de seu corpo. É um movimento audacioso que coloca tudo em risco.",
+        "attacks": [
+          {
+            "name": "Terremoto",
+            "effect": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "帕底亞 土王",
+        "illustrator": "Uta",
+        "description": "一旦遭到敵人襲擊，就會從肋鰭伸出粗壯的刺來反擊。是帶有雙面刃風險的危險招式。",
+        "attacks": [
+          {
+            "name": "地震",
+            "effect": "自己的所有備戰寶可夢也受到20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

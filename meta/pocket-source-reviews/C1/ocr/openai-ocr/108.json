@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-108",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "1ef13784bd166ea14499652879fb03eb80cc16b72b3a8818c1c2de8d7c742a96",
+      "bytes": 256646
+    },
+    "fr": {
+      "sha256": "d6936fa1904e2eaf66802082b17094a62a0fd972c59627415a4a72a924ea95b5",
+      "bytes": 258012
+    },
+    "es": {
+      "sha256": "e340b4f87d70300003cd087edd8a356f6c5e295af117d8ef41a01594196d1ad6",
+      "bytes": 258059
+    },
+    "it": {
+      "sha256": "f02cc75f90825547286605ac43dc5d024635daf980a205532643a64562783d18",
+      "bytes": 257360
+    },
+    "de": {
+      "sha256": "d07ad141ea06cbc60066129d6efede7a95da11129cee189bbd71badc3954649a",
+      "bytes": 258402
+    },
+    "pt-br": {
+      "sha256": "c3f1c26dd368abd767a004cc9bbdded4ce73b17d863ad2843ab2c53932282e36",
+      "bytes": 258300
+    },
+    "zh-tw": {
+      "sha256": "c43da6127148f5d0f0db603c630236578bd294c1f0d498dfe4a8d115e982564f",
+      "bytes": 255581
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 812,
+    "output_tokens_details": {
+      "reasoning_tokens": 239
+    },
+    "total_tokens": 2772
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Porygon",
+        "illustrator": "Susama Chaki",
+        "description": "It is an artificial Pokémon. Since it doesn't breathe, people are excited by its potential to be useful in any environment.",
+        "attacks": [
+          {
+            "name": "Powered Ball",
+            "effect": "Discard a random Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Porygon",
+        "illustrator": "Susama Chaki",
+        "description": "Ce Pokémon artificiel ne respire pas. De grands espoirs reposent donc sur sa capacité à s'adapter à tous types d'environnements.",
+        "attacks": [
+          {
+            "name": "Boule Puissante",
+            "effect": "Défaussez une Énergie au hasard de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Porygon",
+        "illustrator": "Susama Chaki",
+        "description": "Un Pokémon artificial que no respira, por lo que se le supone la capacidad de desenvolverse sin problemas en cualquier entorno.",
+        "attacks": [
+          {
+            "name": "Bola Cargada",
+            "effect": "Descarta 1 Energía aleatoria de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Porygon",
+        "illustrator": "Susama Chaki",
+        "description": "Dato che questo Pokémon artificiale non ha bisogno di respirare, si pensa che sia capace di operare in ogni tipo di ambiente.",
+        "attacks": [
+          {
+            "name": "Palla Potenziata",
+            "effect": "Rimuovi un'Energia a caso da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Porygon",
+        "illustrator": "Susama Chaki",
+        "description": "Dieses künstliche Pokémon atmet nicht. Daher zählt man darauf, dass es in jeder Umgebung eingesetzt werden kann.",
+        "attacks": [
+          {
+            "name": "Angetriebener Ball",
+            "effect": "Lege 1 zufällige Energie von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Porygon",
+        "illustrator": "Susama Chaki",
+        "description": "É um Pokémon artificial. Como não precisa respirar, as pessoas ficam animadas com seu potencial de ser útil em qualquer ambiente.",
+        "attacks": [
+          {
+            "name": "Bola Energizada",
+            "effect": "Descarte 1 Energia aleatória deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "多邊獸",
+        "illustrator": "Susama Chaki",
+        "description": "人工製造的寶可夢。沒有呼吸，因此被期待在任何地方都能派上用場。",
+        "attacks": [
+          {
+            "name": "力量球",
+            "effect": "將這隻寶可夢身上的隨機1個能量丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

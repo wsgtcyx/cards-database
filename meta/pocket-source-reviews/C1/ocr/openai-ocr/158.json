@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-158",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "96f51a5de824a9e72a5b983087bc04a3a43837bcf22cf0358621e0ff973f9613",
+      "bytes": 350989
+    },
+    "fr": {
+      "sha256": "147732d28ff5da047af48520ab49c682d8b6ec2a9bc463d42ff9f7e08857bfb6",
+      "bytes": 352388
+    },
+    "es": {
+      "sha256": "bfccdac32f0142161cb206aa75cc9781cd65229a788aa6dd0288d67ae960183b",
+      "bytes": 350515
+    },
+    "it": {
+      "sha256": "47377307f4faa0afc617444a6bae988b87e5475ff7eeac68389d3ab548fdf03c",
+      "bytes": 352946
+    },
+    "de": {
+      "sha256": "7406f0f3960a6a74465610b72b137c32aed6022ce54df04fc518e35c02ff9e89",
+      "bytes": 350650
+    },
+    "pt-br": {
+      "sha256": "dc52569fde7c518b5d550b84de0d63b778c1ee7c257028f1fe22cb07adafa246",
+      "bytes": 352033
+    },
+    "zh-tw": {
+      "sha256": "d38be3a4ea426075b9309dcfa176783f2a15866ac17ed562077754ae53c2208b",
+      "bytes": 347441
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1432,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 3392
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mew ex",
+        "illustrator": "PLANETA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Secret Guidance",
+            "effect": "Flip 3 coins. Take an amount of {P} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {P} Pokémon in any way you like."
+          },
+          {
+            "name": "Psyburn",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Mew ex",
+        "illustrator": "PLANETA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Conseil Secret",
+            "effect": "Lancez 3 pièces. Prenez le même nombre d'Énergie {P} de votre zone Énergie que le nombre de côté face obtenu et attachez-les à vos Pokémon {P} de Banc comme il vous plaît."
+          },
+          {
+            "name": "Brûlure Psy",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mew ex",
+        "illustrator": "PLANETA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Guía Secreta",
+            "effect": "Lanza 3 monedas. Une a tus Pokémon {P} en Banca, de la manera que desees, tantas Energías {P} de tu área de Energía como caras hayan salido."
+          },
+          {
+            "name": "Psicoquemadura",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mew ex",
+        "illustrator": "PLANETA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Direttive Segrete",
+            "effect": "Lancia 3 volte una moneta. Prendi, un numero di Energie {P} dalla tua Zona Energia uguale al numero di volte in cui è uscito testa e assegnale ai tuoi Pokémon {P} in panchina nel modo che preferisci."
+          },
+          {
+            "name": "Psicobrucia",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mew ex",
+        "illustrator": "PLANETA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Geheimes Geleit",
+            "effect": "Wirf 3 Münzen. Lege pro Kopf 1 {P}-Energie aus deinem Energiebereich beliebig an die {P}-Pokémon auf deiner Bank an."
+          },
+          {
+            "name": "Psychoverbrennung",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mew ex",
+        "illustrator": "PLANETA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Diretriz Secreta",
+            "effect": "Jogue 3 moedas. Pegue uma quantidade de Energia {P} da sua Zona de Energia equivalente ao número de caras e ligue aos seus Pokémon {P} no Banco como desejar."
+          },
+          {
+            "name": "Queimadura Psíquica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "夢幻 ex",
+        "illustrator": "PLANETA",
+        "description": null,
+        "attacks": [
+          {
+            "name": "秘密指引",
+            "effect": "擲3次硬幣。從自己的能量區抽出與正面出現的次數相同數量的{P}能量，以任何方式附給場上的寶可夢身上。"
+          },
+          {
+            "name": "精神爆擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Artist credit is too small to read fully; only the beginning \"PLANETA\" is clearly visible."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Artist credit is too small to read fully; only the beginning \"PLANETA\" is clearly visible."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Artist credit is too small to read fully; only the beginning \"PLANETA\" is clearly visible."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Artist credit is too small to read fully; only the beginning \"PLANETA\" is clearly visible."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Artist credit is too small to read fully; only the beginning \"PLANETA\" is clearly visible."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Artist credit is too small to read fully; only the beginning \"PLANETA\" is clearly visible."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Artist credit is too small to read fully; only the beginning \"PLANETA\" is clearly visible."
+      }
+    ]
+  }
+}

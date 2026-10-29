@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-071",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "6214491eb3516633c723669a34111b1af4da0afa2193225278490809d22c88b8",
+      "bytes": 315048
+    },
+    "fr": {
+      "sha256": "571fae77ea54fcb98bbc6d3541e0393d84f5e840de01422a8b1b16e3e5d30f8c",
+      "bytes": 315858
+    },
+    "es": {
+      "sha256": "a4edbe97f6f6e779d1bdd19629940e3f90efd30d8e7dd306bb814006ca834883",
+      "bytes": 315934
+    },
+    "it": {
+      "sha256": "92c7e3df8cea96d68ca74dafa9a34a0ae461677aed0985d8a46a9217e7c2fccb",
+      "bytes": 315503
+    },
+    "de": {
+      "sha256": "95818151c7ae9fea25310c8a42c92052177ec107428d702aff90ea346cb3221e",
+      "bytes": 316133
+    },
+    "pt-br": {
+      "sha256": "f009493068242ff2aa3acb39b5d4ca20f7b2944289918ee441f42594e428bc07",
+      "bytes": 316026
+    },
+    "zh-tw": {
+      "sha256": "01ca112cc4456c66ccf34506d95f58d726cb664f7e74098274793febd2654851",
+      "bytes": 314104
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1316,
+    "output_tokens_details": {
+      "reasoning_tokens": 728
+    },
+    "total_tokens": 3276
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rhyperior",
+        "illustrator": "Satoshi Shirai",
+        "description": "This Pokémon's sturdy carapace protects it from volcanic eruptions. It shoots round rocks from the holes in its hands.",
+        "attacks": [
+          {
+            "name": "Earthen Press",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rhinastoc",
+        "illustrator": "Satoshi Shirai",
+        "description": "Il se protège des éruptions volcaniques à l'aide de ses plaques solides et tire des rochers ronds à travers les trous de ses mains.",
+        "attacks": [
+          {
+            "name": "Pression Tellurique",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Rhyperior",
+        "illustrator": "Satoshi Shirai",
+        "description": "Repele erupciones volcánicas con sus robustos protectores. Dispara con fuerza rocas redondas a través de las cavidades de las manos.",
+        "attacks": [
+          {
+            "name": "Presión Terrestre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Rhyperior",
+        "illustrator": "Satoshi Shirai",
+        "description": "Le robuste coperture che ha sul corpo lo proteggono dalle eruzioni vulcaniche. Lancia rocce rotonde dalle cavità che ha nei palmi.",
+        "attacks": [
+          {
+            "name": "Pressa Tellurica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Rihornior",
+        "illustrator": "Satoshi Shirai",
+        "description": "Durch seine robuste Panzerung hält sein Körper auch Vulkanausbrüchen stand. Aus den Löchern in den Handflächen feuert er runde Felsbrocken ab.",
+        "attacks": [
+          {
+            "name": "Bodenpresse",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Rhyperior",
+        "illustrator": "Satoshi Shirai",
+        "description": "A carapaça resistente deste Pokémon o protege de erupções vulcânicas. Dispara pedras arredondadas pelos buracos em suas mãos.",
+        "attacks": [
+          {
+            "name": "Pressão Terrestre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超甲狂犀",
+        "illustrator": "Satoshi Shirai",
+        "description": "堅固的身體能在火山爆發時 保護牠不受傷害。會從手掌中的 孔洞裡發射圓形的岩石。",
+        "attacks": [
+          {
+            "name": "大地重壓",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and slightly blurred; a few characters/line breaks are difficult to verify exactly."
+      }
+    ]
+  }
+}

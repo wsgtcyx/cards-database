@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-120",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "4a8206d1e0ef6e01d7386337b91ccbcfaea6d7b7028081ca0369129a4217ef44",
+      "bytes": 204753
+    },
+    "fr": {
+      "sha256": "2c50e801c27bb105a7be1b68920a3c95a8a90069fafedb07e19250d9e45873be",
+      "bytes": 207279
+    },
+    "es": {
+      "sha256": "c95a3431a16ed1d6709e5821ee6cc0bddc06e68b9d8eec209c406f1d5f7012c3",
+      "bytes": 208540
+    },
+    "it": {
+      "sha256": "7256a2756409752c23297153e4c2f376a16f11c0c5d10ffb3002aa9a4968a372",
+      "bytes": 206583
+    },
+    "de": {
+      "sha256": "96a377996ead8e8b8095ece58378594f302abcd9e2e4e80fa9249a34181966f6",
+      "bytes": 208091
+    },
+    "pt-br": {
+      "sha256": "4efad83aaaae9fc87a954210eebeba5ba7d77a08fe6c00e11a1854acd3415072",
+      "bytes": 207491
+    },
+    "zh-tw": {
+      "sha256": "2e5e1580c96b3c305422cce23d7257932b1aa3b653dd87af2e447c6d06dfdbe5",
+      "bytes": 198196
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 908,
+    "output_tokens_details": {
+      "reasoning_tokens": 392
+    },
+    "total_tokens": 4396
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Super Potion",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Heal 40 damage from 1 of your Pokémon that has any Energy attached. If you healed any damage in this way, discard a random Energy from that Pokémon."
+      },
+      "fr": {
+        "name": "Super Potion",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Soignez 40 dégâts d'un de vos Pokémon auquel de l'Énergie est attachée. Si des dégâts sont ainsi soignés, défaussez une Énergie au hasard de ce Pokémon."
+      },
+      "es": {
+        "name": "Superpoción",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Cura 40 puntos de daño a 1 de tus Pokémon que tenga alguna Energía unida a él. Si has curado algún punto de daño de esta manera, descarta 1 Energía aleatoria de ese Pokémon."
+      },
+      "it": {
+        "name": "Superpozione",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Cura uno dei tuoi Pokémon che ha delle Energie assegnate da 40 danni. Se hai curato dei danni in questo modo, rimuovi un'Energia a caso da quel Pokémon."
+      },
+      "de": {
+        "name": "Supertrank",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Heile 40 Schadenspunkte bei 1 deiner Pokémon, an das mindestens 1 Energie angelegt ist. Wenn du auf diese Weise Schaden geheilt hast, lege 1 zufällige Energie von jenem Pokémon ab."
+      },
+      "pt-br": {
+        "name": "Superpoção",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Cure 40 pontos de dano de 1 dos seus Pokémon que tiver alguma Energia ligada a ele. Se você curou qualquer dano dessa forma, descarte 1 Energia aleatória daquele Pokémon."
+      },
+      "zh-tw": {
+        "name": "好傷藥",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "將自己的1隻身上附有能量的寶可夢恢復40HP。然後，將該寶可夢身上的隨機1個能量丟棄。"
+      }
+    },
+    "uncertain": []
+  }
+}

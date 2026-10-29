@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-095",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "f2789a0f9d0bb0764b64c38d4348e41205eebe1eb9f614ca83656bcd88d633eb",
+      "bytes": 315162
+    },
+    "fr": {
+      "sha256": "bb770277962151caac713455723436885c25bb83d3b9d755e589c5c90d638f0d",
+      "bytes": 316916
+    },
+    "es": {
+      "sha256": "46db225dbf6155fbfa5506edfb1384e812473f4ec9c1f0b1478e82ed6b976776",
+      "bytes": 315464
+    },
+    "it": {
+      "sha256": "44e579a40c925db085021537a1086456a874d5d9d415c5d60da3e40648f64d07",
+      "bytes": 314455
+    },
+    "de": {
+      "sha256": "8d6310f3d9bd3754a3d1fb99a0be2126bb7db5f416528f43a60c99289d9f2200",
+      "bytes": 316968
+    },
+    "pt-br": {
+      "sha256": "2790769b8eb494c9e9830142435d91649da574b9b9be54e6df2fbdac15fbbc31",
+      "bytes": 315312
+    },
+    "zh-tw": {
+      "sha256": "b6b37146b1e01773dd303de0b9032300a8071078c4a82163a70e9d509502ec21",
+      "bytes": 312344
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 988,
+    "output_tokens_details": {
+      "reasoning_tokens": 275
+    },
+    "total_tokens": 2948
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Solgaleo",
+        "illustrator": "Misa Tsutsui",
+        "description": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.",
+        "attacks": [
+          {
+            "name": "Claws of the Sunne",
+            "effect": "This attack does 30 more damage for each point you have gotten."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Solgaleo",
+        "illustrator": "Misa Tsutsui",
+        "description": "Quand tout son corps émet de la lumière et qu’il prend la forme du soleil, il peut repousser les ténèbres et illuminer le monde.",
+        "attacks": [
+          {
+            "name": "Griffes du Halo Solaire",
+            "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque point que vous avez gagné."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Solgaleo",
+        "illustrator": "Misa Tsutsui",
+        "description": "Es capaz de eliminar toda oscuridad e iluminar el mundo entero irradiando luz por todo el cuerpo como si de un sol se tratara.",
+        "attacks": [
+          {
+            "name": "Garras del Sol",
+            "effect": "Este ataque hace 30 puntos de daño más por cada punto que hayas conseguido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Solgaleo",
+        "illustrator": "Misa Tsutsui",
+        "description": "Il suo corpo emette una luce abbagliante che, al pari del sole, è in grado di spazzare via le tenebre e illuminare il mondo.",
+        "attacks": [
+          {
+            "name": "Artigli Solari",
+            "effect": "Questo attacco infligge 30 danni in più per ogni punto che hai ottenuto."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Solgaleo",
+        "illustrator": "Misa Tsutsui",
+        "description": "Wenn sein ganzer Körper Licht ausstrahlt, nimmt es eine sonnenähnliche Gestalt an, und kann so das Dunkel vertreiben und die Welt erhellen.",
+        "attacks": [
+          {
+            "name": "Sonnenkreis-Klauen",
+            "effect": "Diese Attacke fügt für jeden von dir erhaltenen Punkt 30 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Solgaleo",
+        "illustrator": "Misa Tsutsui",
+        "description": "Quando seu corpo irradia luz, este Pokémon quase poderia ser confundido com o próprio sol, eliminando toda a escuridão e iluminando o mundo.",
+        "attacks": [
+          {
+            "name": "Garras do Sol",
+            "effect": "Este ataque causa 30 pontos de dano a mais para cada ponto que você recebeu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "索爾迦雷歐",
+        "illustrator": "Misa Tsutsui",
+        "description": "帶著全身散出壓制的光芒，燃燒如同太陽一般的意志時，便會去摧毀、照亮世界。",
+        "attacks": [
+          {
+            "name": "日輪之爪",
+            "effect": "增加自己已經獲得的分數 × 30點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and slightly blurred; transcription may be off in one or more characters."
+      }
+    ]
+  }
+}

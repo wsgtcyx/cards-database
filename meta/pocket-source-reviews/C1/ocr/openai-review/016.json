@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-016",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "644fd50fb43e6eb45c89aa49ec5e5d2ba4b1c12665b52f1ab57c944b45e49b2f",
+      "bytes": 285293
+    },
+    "fr": {
+      "sha256": "7d7903d9041c62172855944ff1e4ef0dd18d51809b35c8f72460ffa5ddf8ff1a",
+      "bytes": 286111
+    },
+    "es": {
+      "sha256": "34848b362cbc1773ea23d7311c2a4f1d1b13db415c4ae4afe1f691a56960fbad",
+      "bytes": 284891
+    },
+    "it": {
+      "sha256": "cdb365a803e909ee705d5eca3964c1401ffefff281866aba709bc5cde588c7f8",
+      "bytes": 285462
+    },
+    "de": {
+      "sha256": "3eeaf3aea4f60e70d7be1a21c453176aeb9a8d7b2b4e4b24938d052cc32b6243",
+      "bytes": 285996
+    },
+    "pt-br": {
+      "sha256": "31a7efc182178940ce6064c190e8023a7ce65f1cca374da0ef701523cc3810ab",
+      "bytes": 285794
+    },
+    "zh-tw": {
+      "sha256": "5bd1cd1de02ac47210849a8055866c97e76a644bc10b0a681df05af414ff3ba1",
+      "bytes": 285043
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1010,
+    "output_tokens_details": {
+      "reasoning_tokens": 442
+    },
+    "total_tokens": 4498
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Charmander",
+        "illustrator": "DOM",
+        "description": "The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.",
+        "attacks": [
+          {
+            "name": "Ember",
+            "effect": "Discard a {R} Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Salamèche",
+        "illustrator": "DOM",
+        "description": "La flamme au bout de sa queue représente sa vitalité. Quand Salamèche n’est pas au meilleur de sa forme, elle faiblit.",
+        "attacks": [
+          {
+            "name": "Flammèche",
+            "effect": "Défaussez une Énergie {R} de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Charmander",
+        "illustrator": "DOM",
+        "description": "La llama de su cola indica su fuerza vital. Si está débil, la llama arderá más tenue.",
+        "attacks": [
+          {
+            "name": "Ascuas",
+            "effect": "Descarta 1 Energía {R} de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Charmander",
+        "illustrator": "DOM",
+        "description": "La fiamma che ha sulla coda indica lo stato della sua forza vitale: quando è fiacco, la fiamma è fioca.",
+        "attacks": [
+          {
+            "name": "Braciere",
+            "effect": "Rimuovi un'Energia {R} da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Glumanda",
+        "illustrator": "DOM",
+        "description": "Die Flamme an seiner Schwanzspitze zeigt seine Lebensenergie an. Geht es ihm nicht gut, wird die Flamme schwächer.",
+        "attacks": [
+          {
+            "name": "Glut",
+            "effect": "Lege 1 {R}-Energie von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Charmander",
+        "illustrator": "DOM",
+        "description": "A chama em sua cauda é um indicador da sua força vital. Se Charmander enfraquecer, a chama arderá com menos intensidade.",
+        "attacks": [
+          {
+            "name": "Brasa",
+            "effect": "Descarte 1 Energia {R} deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "小火龍",
+        "illustrator": "DOM",
+        "description": "尾巴上燃燒的火焰是小火龍生命力的象徵。在牠沒有活力時，火勢會變弱。",
+        "attacks": [
+          {
+            "name": "火花",
+            "effect": "將這隻寶可夢身上的1個{R}能量丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

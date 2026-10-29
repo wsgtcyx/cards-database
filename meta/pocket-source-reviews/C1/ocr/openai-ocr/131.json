@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-131",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "c7e766e242eae4c26e974690dfeb1abe022620ab938cbe789ef2dbe795ef8e48",
+      "bytes": 209100
+    },
+    "fr": {
+      "sha256": "68a069c1efa4b52b9c10284408f8b67ff24c98a4732286c1ba02ff33cf229e03",
+      "bytes": 211608
+    },
+    "es": {
+      "sha256": "2964c07eeeaaa93699ac20afd4f3ea6a8a10a2e87a1e31c533ce8281db9dba11",
+      "bytes": 212904
+    },
+    "it": {
+      "sha256": "24bc825ad54f39261f240c0a655d9fdcd9e0213a8cb8024c086dab69ce95246d",
+      "bytes": 217360
+    },
+    "de": {
+      "sha256": "c40f080842dace79e2d87c0c100ad5f65305a0076d93a3a2d6ef807f8d6341ee",
+      "bytes": 215463
+    },
+    "pt-br": {
+      "sha256": "d3048af0db83c79068246dfcc0d06f00fcd53232db30fc6d12c4893c5b5cd530",
+      "bytes": 212819
+    },
+    "zh-tw": {
+      "sha256": "2ea88a3266e142ce002b22e17b96c7c81c75c32ae7be71d229c8667883c5173e",
+      "bytes": 208468
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1333,
+    "output_tokens_details": {
+      "reasoning_tokens": 757
+    },
+    "total_tokens": 3293
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Abandoned Station",
+        "illustrator": "AYUMI ODASHIMA",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+      },
+      "fr": {
+        "name": "Station Abandonnée",
+        "illustrator": "AYUMI ODASHIMA",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous ne pouvez jouer qu'une carte Stade pendant votre tour. Placez-la à côté du Poste Actif et défaussez-la si un autre Stade entre en jeu. Un Stade de même nom ne peut pas être joué."
+      },
+      "es": {
+        "name": "Estación Abandonada",
+        "illustrator": "AYUMI ODASHIMA",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Solo puedes jugar una carta de Estado durante tu turno. Colócala al lado del Puesto Activo y descártala si entra en juego otro Estado. No se puede jugar un Estado con el mismo nombre."
+      },
+      "it": {
+        "name": "Distributore Abbandonato",
+        "illustrator": "AYUMI ODASHIMA",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi giocare una sola carta Stadio durante il tuo turno. Mettila accanto alla posizione attiva e scartala se un'altra carta Stadio entra in gioco. Non si può giocare una carta Stadio con lo stesso nome."
+      },
+      "de": {
+        "name": "Verlassene Raststätte",
+        "illustrator": "AYUMI ODASHIMA",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst während deines Zuges nur 1 Stadionkarte spielen. Lege sie neben die Aktive Position, und lege sie auf den Ablagestapel, wenn eine andere Stadionkarte ins Spiel gebracht wird. Eine Stadionkarte mit demselben Namen kann nicht gespielt werden."
+      },
+      "pt-br": {
+        "name": "Estação Abandonada",
+        "illustrator": "AYUMI ODASHIMA",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você só pode jogar 1 carta de Estádio durante o seu turno. Coloque-a ao lado do Campo Ativo e descarte-a se outro Estádio entrar em jogo. Um Estádio com o mesmo nome não pode ser jogado."
+      },
+      "zh-tw": {
+        "name": "蕭條的休息站",
+        "illustrator": "AYUMI ODASHIMA",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "在自己的回合時，可使用1次。擲1次硬幣若為正面，則從自己的牌庫抽出1張卡。"
+      }
+    },
+    "uncertain": []
+  }
+}

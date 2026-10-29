@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-186",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "e7e9c2fe0abff5ca6eaff6c4086040c86ebbbf9418120cc23daef3f479cd0e6a",
+      "bytes": 367442
+    },
+    "fr": {
+      "sha256": "3f9c2a5e5bf165ed28d1c79d7f135ab04b18e2dd5483faad5f2b07ce3ea8b80d",
+      "bytes": 367245
+    },
+    "es": {
+      "sha256": "f56cccecdddeff0c964a4bc3dbc969d51c762bd09adafb953acf87532fa3766f",
+      "bytes": 367353
+    },
+    "it": {
+      "sha256": "52e117ee1d56e10864d918261d631e412630da7d14d17040ead0a09a0565a1ef",
+      "bytes": 366384
+    },
+    "de": {
+      "sha256": "4ea28d0f34d6c4f76e282edc7a6724d5ea47ac4cc4bb280bee8d4f2749069408",
+      "bytes": 369231
+    },
+    "pt-br": {
+      "sha256": "a4b27ebbc8136c5ad704c8a62aff5802ef5be1ea55d7018446c904cf9e236b05",
+      "bytes": 367519
+    },
+    "zh-tw": {
+      "sha256": "684d11c90a796ead8578dce32d061572816e1dccc126417c8d44f8c166db349c",
+      "bytes": 364506
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1878,
+    "output_tokens_details": {
+      "reasoning_tokens": 973
+    },
+    "total_tokens": 3838
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Umbreon",
+        "illustrator": "unreadable",
+        "description": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+        "attacks": [
+          {
+            "name": "Moonlit Raid",
+            "effect": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 50 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Noctali",
+        "illustrator": "unreadable",
+        "description": "Quand la lueur de l'astre lunaire baigne son corps, ses anneaux brillent et il acquiert une mystérieuse puissance.",
+        "attacks": [
+          {
+            "name": "Raid Lunaire",
+            "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon de base, cette attaque inflige 50 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Umbreon",
+        "illustrator": "unreadable",
+        "description": "Cuando se expone a la luz de la luna, los anillos de su cuerpo brillan y adquiere un misterioso poder.",
+        "attacks": [
+          {
+            "name": "Incursión de Luz Lunar",
+            "effect": "Si el Pokémon Activo de tu rival es un Pokémon Básico, este ataque hace 50 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Umbreon",
+        "illustrator": "unreadable",
+        "description": "Quando è esposto alla luce della luna, gli anelli del suo corpo brillano e acquisisce uno sconosciuto potere.",
+        "attacks": [
+          {
+            "name": "Raid Ombrolunare",
+            "effect": "Se il Pokémon attivo del tuo avversario è un Pokémon base, questo attacco infligge 50 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Nachtara",
+        "illustrator": "unreadable",
+        "description": "Wenn es von der Aura des Mondes gesegnet wird, glühen die Ringe auf seinem Körper leicht und es erhält eine mysteriöse Kraft.",
+        "attacks": [
+          {
+            "name": "Überfall im Mondschein",
+            "effect": "Wenn das Aktive Pokémon deines Gegners ein Basis-Pokémon ist, fügt diese Attacke 50 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Umbreon",
+        "illustrator": "unreadable",
+        "description": "Quando exposto à luz da lua, os anéis de seu corpo brilham intensamente e ele recebe um poder misterioso.",
+        "attacks": [
+          {
+            "name": "Incursão ao Luar",
+            "effect": "Se o Pokémon Ativo do seu oponente for um Pokémon Básico, este ataque causará 50 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "月亮伊布",
+        "illustrator": "unreadable",
+        "description": "當受到月亮的光輝照耀時，身上的圓環會微微發亮，並獲得神秘的力量。",
+        "attacks": [
+          {
+            "name": "月亮突襲",
+            "effect": "若對手的場上寶可夢為基礎寶可夢，則這招的50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "The illustrator credit is too small to read confidently from the image."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "The illustrator credit is too small to read confidently from the image."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "The illustrator credit is too small to read confidently from the image."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "The illustrator credit is too small to read confidently from the image."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "The illustrator credit is too small to read confidently from the image."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "The illustrator credit is too small to read confidently from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator credit is too small to read confidently from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is partially unreadable at this resolution."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "The attack effect text is partially unreadable at this resolution."
+      }
+    ]
+  }
+}

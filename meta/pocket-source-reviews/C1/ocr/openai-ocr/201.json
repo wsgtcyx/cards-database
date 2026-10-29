@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-201",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "6939631239fc4ce7a55deee35bda33a50b627e30fea77847ca300e64d50d6d64",
+      "bytes": 308659
+    },
+    "fr": {
+      "sha256": "37cbc57ee28c37e676beee5718b12a1ced62877ddfb7f426fde670bca7423eef",
+      "bytes": 309334
+    },
+    "es": {
+      "sha256": "2092007542761b6e3326d06045327cf4bab69c13929ae1df2ee21aa02f8d028b",
+      "bytes": 308981
+    },
+    "it": {
+      "sha256": "42a7654765ad1c2c671be49aa3ce6e151ba9a424372d1e3eb548dea3d58ff625",
+      "bytes": 308367
+    },
+    "de": {
+      "sha256": "5720c4a0327de42a133494d52f254b6d86b847d6f4e6175fb362f9b8f418dfb4",
+      "bytes": 310597
+    },
+    "pt-br": {
+      "sha256": "57859deb9ee2b19ffb7bc836626290f03a76e3df785c4368b3a0aee2f33122b4",
+      "bytes": 309729
+    },
+    "zh-tw": {
+      "sha256": "8e6822f79243d617b8d54fdc49e0e48f830b73c03c8ee5cfb2d43851384c5d2d",
+      "bytes": 306105
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1698,
+    "output_tokens_details": {
+      "reasoning_tokens": 817
+    },
+    "total_tokens": 3658
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Morpeko",
+        "illustrator": "MAHOU",
+        "description": "Hunger has disrupted this Pokémon's hormonal balance. The Electric type energy stored in its cheek sacs has turned into Dark-type energy.",
+        "attacks": [
+          {
+            "name": "Energizer Wheel",
+            "effect": "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Morpeko",
+        "illustrator": "MAHOU",
+        "description": "Lorsque la faim, il subit un dérèglement hormonal et l'énergie emmagasinée dans les poches de ses joues passe du type Électrik au type Ténèbres.",
+        "attacks": [
+          {
+            "name": "Roue Énergisante",
+            "effect": "Déplacez 2 Énergies {D} de ce Pokémon vers l'un de vos Pokémon de Banc."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Morpeko",
+        "illustrator": "MAHOU",
+        "description": "Cuando tiene hambre, sufre un desequilibrio hormonal que trastorna la energía de sus carrillos en energía de tipo Siniestro.",
+        "attacks": [
+          {
+            "name": "Rueda Vigorizante",
+            "effect": "Mueve 2 Energías {D} de este Pokémon a 1 de tus Pokémon en Banca."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Morpeko",
+        "illustrator": "MAHOU",
+        "description": "La fame provoca in lui uno squilibrio ormonale che fa diventare di tipo Buio l'energia elettrica contenuta nelle sue guance.",
+        "attacks": [
+          {
+            "name": "Ruota Energizzante",
+            "effect": "Sposta 2 Energie {D} da questo Pokémon a uno di quelli della tua panchina."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Morpeko",
+        "illustrator": "MAHOU",
+        "description": "Wenn es Hunger hat, gerät sein Hormonhaushalt aus dem Gleichgewicht, und die Elektro-Energie in seinen Backentaschen nimmt den Typ Unlicht an.",
+        "attacks": [
+          {
+            "name": "Energiespendendes Rad",
+            "effect": "Verschiebe 2 {D}-Energien von diesem Pokémon auf 1 Pokémon auf deiner Bank."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Morpeko",
+        "illustrator": "MAHOU",
+        "description": "A fome causa um desequilíbrio hormonal neste Pokémon, e a energia de tipo Elétrico armazenada em suas bochechas se transformou em energia de tipo Sombrio.",
+        "attacks": [
+          {
+            "name": "Roda Energizante",
+            "effect": "Mova 2 Energias {D} deste Pokémon para 1 dos seus Pokémon no Banco."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "莫魯貝可",
+        "illustrator": "MAHOU",
+        "description": "因為飢餓而產生的荷爾蒙失調，會讓儲存在臉頰裡的電屬性能量變成惡屬性能量。",
+        "attacks": [
+          {
+            "name": "能量車輪",
+            "effect": "將這隻寶可夢身上的2個{D}能量，改附到1隻備戰寶可夢身上。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially difficult to read; transcription may not be exact."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially difficult to read; transcription may not be exact."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially difficult to read; transcription may not be exact."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially difficult to read; transcription may not be exact."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially difficult to read; transcription may not be exact."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially difficult to read; transcription may not be exact."
+      }
+    ]
+  }
+}

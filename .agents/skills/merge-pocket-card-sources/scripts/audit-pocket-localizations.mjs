@@ -2,6 +2,8 @@
 
 import fs from 'node:fs'
 import path from 'node:path'
+import { createHash } from 'node:crypto'
+import { isDeepStrictEqual } from 'node:util'
 
 function arg(name, { required = true } = {}) {
 	const index = process.argv.indexOf(`--${name}`)
@@ -14,6 +16,8 @@ const canonical = JSON.parse(fs.readFileSync(path.resolve(arg('canonical')), 'ut
 const localizations = JSON.parse(fs.readFileSync(path.resolve(arg('localizations')), 'utf8'))
 const config = JSON.parse(fs.readFileSync(path.resolve(arg('config')), 'utf8'))
 const output = path.resolve(arg('output'))
+const reviewedCardsFile = arg('reviewed-cards', { required: false })
+const reviewedCards = reviewedCardsFile ? JSON.parse(fs.readFileSync(path.resolve(reviewedCardsFile), 'utf8')) : undefined
 const locales = ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
 const reviewedExceptions = config.reviewedTokenExceptions ?? {}
 const findings = []
@@ -30,7 +34,8 @@ function tokens(value) {
 function checkText(cardId, locale, field, value) {
 	if (typeof value !== 'string' || !value.trim()) return
 	if (/(?:^|\s)(?:TODO|TBD)(?=\s|$)|\[C:[^\]]+\]/u.test(value) || /ILLUSTRATOR[_\s-]*\d+/iu.test(value) || /[\uFFFDÃÂ√]/u.test(value)) findings.push({ cardId, locale, field, kind: 'placeholder-or-mojibake', value })
-	if (/\p{Script=Latin}\d/u.test(value.replace(/Pokémon/gu, '').replace(/\bx\d+\b/gu, ''))) findings.push({ cardId, locale, field, kind: 'letter-number-join', value })
+	const prose = ['name', 'evolveFrom'].includes(field) ? value.replace(/\bPorygon2\b/gu, '') : value
+	if (/\p{Script=Latin}\d/u.test(prose.replace(/Pokémon/gu, '').replace(/\bx\d+\b/gu, ''))) findings.push({ cardId, locale, field, kind: 'letter-number-join', value })
 	const pairs = [['[', ']'], ['(', ')'], ['{', '}']]
 	for (const [open, close] of pairs) if ((value.split(open).length - 1) !== (value.split(close).length - 1)) findings.push({ cardId, locale, field, kind: 'unbalanced-delimiter', value })
 }
@@ -61,11 +66,28 @@ function compareRules(card, locale, localized) {
 }
 
 const sameName = new Map()
+if (reviewedCards && Object.keys(reviewedCards).length !== canonical.cards.length) findings.push({ kind: 'reviewed-card-count-mismatch' })
 for (const card of canonical.cards) {
 	const entry = localizations.cards?.[card.id]
 	if (!entry) {
 		findings.push({ cardId: card.id, kind: 'missing-card' })
 		continue
+	}
+	if (reviewedCards) {
+		const raw = reviewedCards[card.id]
+		const english = raw && structuredClone(raw)
+		if (english) {
+			english.id = card.id
+			for (const field of ['name', 'effect', 'description', 'evolveFrom']) if (english[field]) english[field] = english[field].en
+			for (const group of ['attacks', 'abilities']) for (const item of english[group] ?? []) for (const field of ['name', 'effect']) if (item[field]) item[field] = item[field].en
+		}
+		if (!isDeepStrictEqual(english, card)) findings.push({ cardId: card.id, kind: 'reviewed-canonical-mismatch' })
+		for (const locale of locales) {
+			const translated = {}
+			for (const field of ['name', 'effect', 'description', 'evolveFrom']) if (raw?.[field]) translated[field] = raw[field][locale]
+			for (const group of ['attacks', 'abilities']) if (raw?.[group]) translated[group] = raw[group].map(item => Object.fromEntries(['name', 'effect'].filter(field => item[field]).map(field => [field, item[field][locale]])))
+			if (!isDeepStrictEqual(translated, entry.locales?.[locale])) findings.push({ cardId: card.id, locale, kind: 'reviewed-localization-mismatch' })
+		}
 	}
 	for (const locale of locales) {
 		const localized = entry.locales?.[locale]
@@ -101,6 +123,7 @@ const audit = {
 	tokenChecks: { exact: tokenChecks.exact, reviewedExceptions: tokenChecks.reviewedExceptions, unresolved: tokenChecks.unresolved.length },
 	findings,
 	passed: findings.length === 0,
+	...(reviewedCards ? { reviewedCardsSha256: createHash('sha256').update(JSON.stringify(reviewedCards)).digest('hex') } : {}),
 }
 fs.mkdirSync(path.dirname(output), { recursive: true })
 fs.writeFileSync(output, `${JSON.stringify(audit, null, 2)}\n`)

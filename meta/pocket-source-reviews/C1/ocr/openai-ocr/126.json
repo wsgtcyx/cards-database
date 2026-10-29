@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-126",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "b9c89ab3c8ed4a48600fa717a3af0d5b84b62cf459bc75cf475eaa49f8102044",
+      "bytes": 207159
+    },
+    "fr": {
+      "sha256": "ca9350d02d2992a3c7d8fdfaa06b3a527af9f0e64cae15f06cd2fcef642c2bd8",
+      "bytes": 210208
+    },
+    "es": {
+      "sha256": "ac8d9b8b94b56607891c195b3f8cc2bc206e3afb53d9235f791e277db57b2b48",
+      "bytes": 210197
+    },
+    "it": {
+      "sha256": "512fb6cdd6857c603a2c29142394d4bbb3fad7578cf893f349269f93c77f41ce",
+      "bytes": 207885
+    },
+    "de": {
+      "sha256": "7d64b348337343003edfd9bea23a75f1cb12933d8f198fab5449b34331ccfacb",
+      "bytes": 209783
+    },
+    "pt-br": {
+      "sha256": "929f5912f01f5e4018e843d40d721abc69fecaab54b4ae794b1087722bab81ba",
+      "bytes": 209450
+    },
+    "zh-tw": {
+      "sha256": "d857b628c475777a064f6198ada8babaf0d997888a20be08cdc3234b63e72b15",
+      "bytes": 204677
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 839,
+    "output_tokens_details": {
+      "reasoning_tokens": 271
+    },
+    "total_tokens": 2799
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Blue's Provocation",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "You can use this card only if you have Venusaur, Charizard, Blastoise, or Pidgeot in play. Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+      },
+      "fr": {
+        "name": "Provocation de Blue",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous ne pouvez utiliser cette carte que si vous avez Florizarre, Dracaufeu, Tortank ou Roucarnage en jeu. Envoyez un des Pokémon de Banc de votre adversaire sur le Poste Actif."
+      },
+      "es": {
+        "name": "Provocación de Azul",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puedes usar esta carta solo si tienes Venusaur, Charizard, Blastoise o Pidgeot en juego. Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon que esté en el Puesto Activo."
+      },
+      "it": {
+        "name": "Provocazione di Blu",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi usare questa carta solo se hai Venusaur, Charizard, Blastoise o Pidgeot in gioco. Scambia uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon attivo."
+      },
+      "de": {
+        "name": "Blaus Provokation",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst diese Karte nur einsetzen, wenn du Bisaflor, Glurak, Turtok oder Tauboss im Spiel hast. Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein."
+      },
+      "pt-br": {
+        "name": "Provocação do Blue",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você só pode usar esta carta se tiver Venusaur, Charizard, Blastoise ou Pidgeot em jogo. Mande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo."
+      },
+      "zh-tw": {
+        "name": "青綠的挑戰",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "這張卡只有在自己的場上有「妙蛙花」或者「噴火龍」或者「水箭龜」或者「大比鳥」時才可使用。 選擇1隻對手的備戰寶可夢，與戰鬥寶可夢互換。"
+      }
+    },
+    "uncertain": []
+  }
+}

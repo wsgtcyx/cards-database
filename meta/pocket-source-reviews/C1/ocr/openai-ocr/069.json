@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-069",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "f5c7ed583d91f0da2a7fde45f049ea8f4c1d662d89a9dddac49bf01323f132ef",
+      "bytes": 275853
+    },
+    "fr": {
+      "sha256": "37c0a3c247cab995a2e26786847217e362795eb3351ff116872139c248ff06b2",
+      "bytes": 275938
+    },
+    "es": {
+      "sha256": "8f8f477a95c3a93237a45aa64bbda44ff4d560e25c9871be75db3ba9f5257f5d",
+      "bytes": 276321
+    },
+    "it": {
+      "sha256": "0f7663175686aa7cd08f247f60a993d379d1d282d8763e08fd01b1f8a4188baf",
+      "bytes": 275699
+    },
+    "de": {
+      "sha256": "52bf7bfc2f404daf15341541886315cc25fd7e9228dff50d8f7d8b7457e7e0d1",
+      "bytes": 276667
+    },
+    "pt-br": {
+      "sha256": "92f3dab8cefb3cfea73e7723539be277e219c07abc88dad75a6c64f46159fec3",
+      "bytes": 275655
+    },
+    "zh-tw": {
+      "sha256": "6e5b3e9d04a1291c4f48a761ce979ed7346a4d468909549997a8534d9fad0a7e",
+      "bytes": 274952
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 687,
+    "output_tokens_details": {
+      "reasoning_tokens": 105
+    },
+    "total_tokens": 2647
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rhyhorn",
+        "illustrator": "illus. miki kudo",
+        "description": "Rhyhorn claims an area with over a six mile radius as its territory. It apparently forgets where this territory is when running, however.",
+        "attacks": [
+          {
+            "name": "Lunge Out",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rhinocorne",
+        "illustrator": "illus. miki kudo",
+        "description": "Son territoire s'étend sur un rayon de 10 km, mais on raconte que lorsqu'il se met à courir, il oublie totalement où ce dernier se trouve.",
+        "attacks": [
+          {
+            "name": "Allonger",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Rhyhorn",
+        "illustrator": "illus. miki kudo",
+        "description": "Puede controlar un territorio de hasta 10 km de radio, pero, cuando se pone a correr, parece olvidarse dónde empieza y dónde acaba.",
+        "attacks": [
+          {
+            "name": "Arremeter",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Rhyhorn",
+        "illustrator": "illus. miki kudo",
+        "description": "Sceglie un'area di 10 km di raggio come suo territorio, ma pare che quando corre finisca per dimenticare quale sia.",
+        "attacks": [
+          {
+            "name": "Affondo Lungo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Rihorn",
+        "illustrator": "illus. miki kudo",
+        "description": "Das Revier dieses Pokémon hat einen Radius von 10 km. Sobald es jedoch rennt, scheint es zu vergessen, wo dieses anfängt und aufhört.",
+        "attacks": [
+          {
+            "name": "Sprungangriff",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Rhyhorn",
+        "illustrator": "illus. miki kudo",
+        "description": "Rhyhorn reivindica uma área com mais de dez quilômetros de raio como seu território, mas dizem que, ao correr, esquece onde ele fica.",
+        "attacks": [
+          {
+            "name": "Bote",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "獨角犀牛",
+        "illustrator": "illus. miki kudo",
+        "description": "當然據牠居住在 10 公里的範圍當作牠的領地，當牠奔跑時卻又會把自己居住的範圍給忘記。",
+        "attacks": [
+          {
+            "name": "撞倒",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially unclear; transcription may be inaccurate."
+      }
+    ]
+  }
+}

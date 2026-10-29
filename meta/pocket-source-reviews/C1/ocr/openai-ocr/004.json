@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-004",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "1127faa6fb3add10ac24a7cd98c7a706f64572108defda7eda0733daba260767",
+      "bytes": 253036
+    },
+    "fr": {
+      "sha256": "04ecd14baba5ab15c90df0ec4e44db02a82aa5be2d8d43c03fc8aa1c14e05d4a",
+      "bytes": 253344
+    },
+    "es": {
+      "sha256": "56a18126c956a201ee69217d62130cce74098dad7ffee9223e52fae39b0d3111",
+      "bytes": 254145
+    },
+    "it": {
+      "sha256": "b1aff86c744aa771d689b969de2e7c54fc7c7a4c7ec12212476089ae0501557b",
+      "bytes": 252613
+    },
+    "de": {
+      "sha256": "2e6513082f852ec3bd4765cd9836e31e3360ee874c723e190d5c481b06411ea3",
+      "bytes": 254415
+    },
+    "pt-br": {
+      "sha256": "f4f2005951f3f015a8e5ab107f1bd918345e14c7c00ee555679921e238a0cc97",
+      "bytes": 255090
+    },
+    "zh-tw": {
+      "sha256": "14c87f616045f09d9c37158d2845f4b002021d8f8aa17468d05ed6adff9984a5",
+      "bytes": 250983
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 700,
+    "output_tokens_details": {
+      "reasoning_tokens": 79
+    },
+    "total_tokens": 2660
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Exeggcute",
+        "illustrator": "Miki Tanaka",
+        "description": "If you touch on of Exeggcute's heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm.",
+        "attacks": [
+          {
+            "name": "Nap",
+            "effect": "Heal 20 damage from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Noeunoeuf",
+        "illustrator": "Miki Tanaka",
+        "description": "Ses têtes sont souvent prises pour des œufs. S'il on en touche une, les autres se regroupent pour attaquer.",
+        "attacks": [
+          {
+            "name": "Tit'Sieste",
+            "effect": "Soignez 20 dégâts de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Exeggcute",
+        "illustrator": "Miki Tanaka",
+        "description": "Si alguien confunde a una de sus cabezas con un huevo y la toca, se reagrupará con las otras para atacar todas juntas.",
+        "attacks": [
+          {
+            "name": "Siesta",
+            "effect": "Cura 20 puntos de daño a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Exeggcute",
+        "illustrator": "Miki Tanaka",
+        "description": "Se gli si tocca una delle teste scambiandola per un uovo, le altre non esitano ad attaccare in gruppo.",
+        "attacks": [
+          {
+            "name": "Pausa",
+            "effect": "Cura questo Pokémon da 20 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Owei",
+        "illustrator": "Miki Tanaka",
+        "description": "Berührt man einen seiner Köpfe, weil man ihn für ein Ei hält, tun die übrigen sich rasch zusammen und gehen zum Angriff über.",
+        "attacks": [
+          {
+            "name": "Nickerchen",
+            "effect": "Heile 20 Schadenspunkte bei diesem Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Exeggcute",
+        "illustrator": "Miki Tanaka",
+        "description": "Se você tocar uma das cabeças de Exeggcute achando que é um ovo, as outras cabeças se juntarão rapidamente e atacarão com um enxame.",
+        "attacks": [
+          {
+            "name": "Soneca",
+            "effect": "Cure 20 pontos de dano deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蛋蛋",
+        "illustrator": "Miki Tanaka",
+        "description": "若以為是蛋而去觸摸牠， 就會不斷聚集周圍來的 這些蛋蛋的群體性攻擊。",
+        "attacks": [
+          {
+            "name": "小憩",
+            "effect": "將這隻寶可夢恢復20HP。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and somewhat blurry; characters were read as visible, but wording may be imperfect."
+      }
+    ]
+  }
+}

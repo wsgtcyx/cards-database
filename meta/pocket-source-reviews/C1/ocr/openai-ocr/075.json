@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-075",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "33d96038eaba971a0f2a10f94933728d4740fbc3fe891b658e2c170845db40dd",
+      "bytes": 295522
+    },
+    "fr": {
+      "sha256": "34caca8dba503e8d6ce988735af6e29e595b87266f5f8ec006ba3f127a7e14db",
+      "bytes": 296910
+    },
+    "es": {
+      "sha256": "0a4b658986111361c9e1a806632b85e8d510fe9a5453e64dbcdc6823329034f9",
+      "bytes": 297050
+    },
+    "it": {
+      "sha256": "ea7d5c5f342136ff4e4ac484e2aa6f14e7990c47799796f3e0fdd37df71d47b9",
+      "bytes": 295778
+    },
+    "de": {
+      "sha256": "51c07fb6c2bc9da0a9166027088902ec8e98f3729b172ef9cabc97e454c3d656",
+      "bytes": 296052
+    },
+    "pt-br": {
+      "sha256": "fc2a0c6a64118f9fe57cf947d28635384433b05cc506153aca116f451ac6fbf9",
+      "bytes": 296181
+    },
+    "zh-tw": {
+      "sha256": "dc84218b97b3c15817834e86cf1d8f97923a7389c9080360c84c3e46d654fca0",
+      "bytes": 295244
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1364,
+    "output_tokens_details": {
+      "reasoning_tokens": 796
+    },
+    "total_tokens": 3324
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Larvitar",
+        "illustrator": "Haru Akasaka",
+        "description": "Born deep underground, this Pokémon becomes a pup after eating enough dirt to make a mountain.",
+        "attacks": [
+          {
+            "name": "Bite",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Embrylex",
+        "illustrator": "Haru Akasaka",
+        "description": "Il naît dans les profondeurs terrestres. Après avoir englouti une quantité de terre équivalente à une montagne, il se transforme en chrysalide.",
+        "attacks": [
+          {
+            "name": "Morsure",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Larvitar",
+        "illustrator": "Haru Akasaka",
+        "description": "Nacido en las profundidades subterráneas, este Pokémon se convierte en pupa al comer la cantidad de tierra equivalente a una montaña.",
+        "attacks": [
+          {
+            "name": "Mordisco",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Larvitar",
+        "illustrator": "Haru Akasaka",
+        "description": "Nasce nel profondo sottosuolo e dopo aver mangiato una montagna di terra si trasforma in crisalide.",
+        "attacks": [
+          {
+            "name": "Morso",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Larvitar",
+        "illustrator": "Haru Akasaka",
+        "description": "Es wird tief im Erdreich geboren. Hat es einen Berg Erde gefressen, verpuppst sich dieses Pokémon.",
+        "attacks": [
+          {
+            "name": "Biss",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Larvitar",
+        "illustrator": "Haru Akasaka",
+        "description": "Este Pokémon nasce no subsolo e se torna uma pupa após comer terra o suficiente para fazer uma montanha.",
+        "attacks": [
+          {
+            "name": "Mordida",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "幼基拉斯",
+        "illustrator": "Haru Akasaka",
+        "description": "誕生在地底深處，當牠吃完山一樣多的土壤後，就會變成蛹。",
+        "attacks": [
+          {
+            "name": "咬住",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "The bottom-right flavor text is small and slightly blurry; wording may differ in the final noun ('chrysalide')."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator credit is very small; only the name could be read confidently, the exact printed label was not fully legible."
+      }
+    ]
+  }
+}

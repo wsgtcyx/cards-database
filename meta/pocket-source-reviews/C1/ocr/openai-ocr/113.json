@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-113",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "8ac4df9bef3167d449b7a0955d30022add7745acaa801e34c53f86168a601a0c",
+      "bytes": 290759
+    },
+    "fr": {
+      "sha256": "3893c69da5994cc28907af33e4e433a6c4343ab27388d919dc29d3ae27818dc0",
+      "bytes": 291264
+    },
+    "es": {
+      "sha256": "7f310f24a8bb7e54785549be4791518956493be9e5055eb7bc57db11b654af45",
+      "bytes": 291019
+    },
+    "it": {
+      "sha256": "9cea06be02d4e33209ef3fe6cfc9e8bb8e6b366c6dd3c6d96e1e6f107b28d9d9",
+      "bytes": 292091
+    },
+    "de": {
+      "sha256": "1740bda50c4ed2b69024c8711e1de50d76535b5a2bd95d077d9d6a99144c5bcf",
+      "bytes": 291692
+    },
+    "pt-br": {
+      "sha256": "98f603c287b9f6adbefe9f3d5f2abc1bb5fe1d0910016876f27be6dd9e465c99",
+      "bytes": 291074
+    },
+    "zh-tw": {
+      "sha256": "d3c2489bac26227e014f059d6b4f21e1b6be45bf2f85e90799a1a6075fc51ddd",
+      "bytes": 290490
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 812,
+    "output_tokens_details": {
+      "reasoning_tokens": 298
+    },
+    "total_tokens": 2772
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Bidoof",
+        "illustrator": "Noayo Kimura",
+        "description": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "attacks": [
+          {
+            "name": "Gnaw",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Keunotor",
+        "illustrator": "Noayo Kimura",
+        "description": "Rien ne peut perturber ses nerfs d'acier. Il est plus agile et énergétique qu'il n'y paraît.",
+        "attacks": [
+          {
+            "name": "Ronge",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Bidoof",
+        "illustrator": "Noayo Kimura",
+        "description": "Tiene nervios de acero y nada puede perturbarlo. Es más ágil y activo de lo que aparenta.",
+        "attacks": [
+          {
+            "name": "Roer",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Bidoof",
+        "illustrator": "Noayo Kimura",
+        "description": "Ha i nervi d'acciaio e niente può turbarlo. E più agile e attivo di quanto sembri.",
+        "attacks": [
+          {
+            "name": "Rosicchiamento",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Bidiza",
+        "illustrator": "Noayo Kimura",
+        "description": "Es hat Nerven wie Drahtseile, nichts kann es erschüttern. Es ist agiler und aktiver, als es scheint.",
+        "attacks": [
+          {
+            "name": "Nagen",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Bidoof",
+        "illustrator": "Noayo Kimura",
+        "description": "Com nervos de aço, nada pode perturbá-lo. E mais ágil e ativo do que parece.",
+        "attacks": [
+          {
+            "name": "Roída",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "大牙狸",
+        "illustrator": "Noayo Kimura",
+        "description": "遇到任何事都不慌不忙，神經很大條的寶可夢。 能做出以尾巴橫掃相當大的震動動作。",
+        "attacks": [
+          {
+            "name": "咬",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Small text is slightly hard to read; transcription may be off by one or more characters."
+      }
+    ]
+  }
+}

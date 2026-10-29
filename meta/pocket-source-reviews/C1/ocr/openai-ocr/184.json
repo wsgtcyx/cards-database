@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-184",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "768e6141a66df9075f59c6de9ab07e4d59df524f19ada86014db6188ce128c07",
+      "bytes": 315598
+    },
+    "fr": {
+      "sha256": "91f1151580e3f42831fa301bac3065f796f5f057f3d24e2b8cbb071e66061e35",
+      "bytes": 317897
+    },
+    "es": {
+      "sha256": "e37135e955ac0126668ad6fe8a66719fa1b161ed01391b3840ec4dd28462e2f7",
+      "bytes": 318474
+    },
+    "it": {
+      "sha256": "175a68196d7963ced60a822719cc24ec3380f9e7f962b97c35cb8655d410654e",
+      "bytes": 318209
+    },
+    "de": {
+      "sha256": "35eb83d7be6088afadf8b69c1a280c0a313569ca4997fe3c85e0743e1dfff854",
+      "bytes": 317361
+    },
+    "pt-br": {
+      "sha256": "76b4d056109c79e7c58fd2d8c250649f9cc0f3d341145f55059919a273a7f9ea",
+      "bytes": 320784
+    },
+    "zh-tw": {
+      "sha256": "9692b6abbce08d261f3da2e7daf909bc101b0ef1ef606055c61c21e66888da8f",
+      "bytes": 309499
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1091,
+    "output_tokens_details": {
+      "reasoning_tokens": 112
+    },
+    "total_tokens": 3051
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Jigglypuff",
+        "illustrator": "Yuu Nishida",
+        "description": "The Pokémon, with its round body, large eyes, and distinctive tuft of hair, is very popular.",
+        "attacks": [
+          {
+            "name": "Soothing Lullaby",
+            "effect": "Your opponent's Active Pokémon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pokémon is still Asleep."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rondoudou",
+        "illustrator": "Yuu Nishida",
+        "description": "Le Pokémon, avec son corps rond, ses grands yeux et sa mèche de cheveux distinctive, est très populaire.",
+        "attacks": [
+          {
+            "name": "Berceuse Apaisante",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi. Votre adversaire lance 2 pièces pour cet État Spécial. S'il y a au moins un côté pile, ce Pokémon reste Endormi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Jigglypuff",
+        "illustrator": "Yuu Nishida",
+        "description": "El Pokémon, de cuerpo redondo, ojos grandes y un mechón distintivo de cabello, es muy popular.",
+        "attacks": [
+          {
+            "name": "Nana Sedante",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Dormido. Tu rival lanza 2 monedas por esta Condición Especial y, si sale cruz en alguna de ellas, ese Pokémon sigue Dormido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Jigglypuff",
+        "illustrator": "Yuu Nishida",
+        "description": "Il Pokémon, dal corpo rotondo, con gli occhi grandi e una ciocca di capelli distinta, è molto popolare.",
+        "attacks": [
+          {
+            "name": "Ninnananna Calmante",
+            "effect": "Il Pokémon attivo del tuo avversario viene addormentato. Il tuo avversario lancia 2 volte una moneta per questa condizione speciale. Se esce almeno una volta croce, quel Pokémon resta addormentato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pummeluff",
+        "illustrator": "Yuu Nishida",
+        "description": "Das Pokémon ist wegen seines runden Körpers, seiner großen Augen und seiner markanten Haarlocke sehr beliebt.",
+        "attacks": [
+          {
+            "name": "Beruhigendes Wiegenlied",
+            "effect": "Das Aktive Pokémon deines Gegners schläft jetzt. Dein Gegner wirft 2 Münzen für diesen Speziellen Zustand. Zeigt mindestens 1 Zahl, schläft jenes Pokémon weiter."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Jigglypuff",
+        "illustrator": "Yuu Nishida",
+        "description": "O Pokémon, com seu corpo redondo, olhos grandes e um distinto topete, é muito popular.",
+        "attacks": [
+          {
+            "name": "Canção de Ninar Calmante",
+            "effect": "O Pokémon Ativo do seu oponente agora está Adormecido. Seu oponente joga 2 moedas para esta Condição Especial e, se qualquer uma delas sair coroa, aquele Pokémon permanecerá Adormecido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "胖丁",
+        "illustrator": "Yuu Nishida",
+        "description": "圓圓胖胖的身體，加上圓滾滾的大眼睛與一撮頭髮，使牠成為很受歡迎的寶可夢。",
+        "attacks": [
+          {
+            "name": "熱睡歌曲",
+            "effect": "對手的戰鬥寶可夢會陷入睡眠。因這個睡眠的狀態效果而擲兩次硬幣，若有至少1次出現反面，寶可夢就會持續睡眠。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Tiny flavor text is difficult to read; transcription may be inaccurate."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Tiny flavor text is difficult to read; transcription may be inaccurate."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Tiny flavor text is difficult to read; transcription may be inaccurate."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Tiny flavor text is difficult to read; transcription may be inaccurate."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Tiny flavor text is difficult to read; transcription may be inaccurate."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Tiny flavor text is difficult to read; transcription may be inaccurate."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Tiny flavor text is difficult to read; transcription may be inaccurate."
+      }
+    ]
+  }
+}

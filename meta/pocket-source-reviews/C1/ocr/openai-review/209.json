@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-209",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "3b7d8c3b737de8199437ed6a4230b46b5a79246977c7f710fd40856ac96ee129",
+      "bytes": 302030
+    },
+    "fr": {
+      "sha256": "1cc65744dc5c77d750b535ce2f741aa4dbdd7cffd92832643e06bdf57bdf7fd3",
+      "bytes": 303588
+    },
+    "es": {
+      "sha256": "0be4f5a5d0cdcd13e806edad3259f5a56bca535102cf983091bc7e20eb5bfeaa",
+      "bytes": 302123
+    },
+    "it": {
+      "sha256": "5d9835a440f0e9fae944fda75fdeb80111b0f597f0b038200a32f32a04cc5e06",
+      "bytes": 301699
+    },
+    "de": {
+      "sha256": "be956c8fc428570710487eb78dae49f703bda0966674c7ae723509745c59cae1",
+      "bytes": 304506
+    },
+    "pt-br": {
+      "sha256": "714c07824b4e0faaa8cc0236fd1f83688571713d21c8454b6c145c6457a28152",
+      "bytes": 303273
+    },
+    "zh-tw": {
+      "sha256": "46e6e9cfd01543c8ad5cfb14fb8dd3267bc0cf0cd93796be009f0decfd10ba61",
+      "bytes": 298491
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3485
+    },
+    "output_tokens": 1123,
+    "output_tokens_details": {
+      "reasoning_tokens": 391
+    },
+    "total_tokens": 4611
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Gallade ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Resonating Blade",
+            "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Gallame ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lame Résonante",
+            "effect": "Si vous avez joué une carte Supporter de votre main pendant ce tour, cette attaque inflige 50 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Gallade ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hoja Resonante",
+            "effect": "Si has jugado 1 carta de Partidario de tu mano durante este turno, este ataque hace 50 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Gallade ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lama Risonante",
+            "effect": "Se hai giocato una carta Aiuto dalla tua mano durante questo turno, questo attacco infligge 50 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Galagladi ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Resonanzklinge",
+            "effect": "Wenn du eine Unterstützerkarte während dieses Zuges aus deiner Hand gespielt hast, fügt diese Attacke 50 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Gallade ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lâmina Ressonante",
+            "effect": "Se você jogou uma carta de Apoiador da sua mão durante este turno, este ataque causará 50 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級艾路雷朵 ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "共鳴刃",
+            "effect": "在這個回合，若從手牌使出了支援者卡，則增加50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

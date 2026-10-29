@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-133",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d1231747c035e65dc308193c23a4b2a2768bbe1fd8e16223b0b83230d2b1d1c7",
+      "bytes": 298013
+    },
+    "fr": {
+      "sha256": "c5db665bb0816c1b8f98a7f0a321205238e785ad994ee95d45ecc8015da4b1c2",
+      "bytes": 297482
+    },
+    "es": {
+      "sha256": "f6dbb5edbcadb9e12be28299063cfeb57bd9e87d6250645812630a8664a137f1",
+      "bytes": 297821
+    },
+    "it": {
+      "sha256": "a62dd842ace77449778a8b559cb9f4ac668da86f94bf9fbf8acbeff7ac6307c9",
+      "bytes": 296991
+    },
+    "de": {
+      "sha256": "91dc847c5985bda77eac37dbd2111bfa2a7f1abf63ba83615f6a39f5c2d8eae3",
+      "bytes": 298008
+    },
+    "pt-br": {
+      "sha256": "4ee6955d028d7f734c938af3ded1a77efa693616cc365ee9df1dd4f16d3fc36f",
+      "bytes": 298864
+    },
+    "zh-tw": {
+      "sha256": "8f75950b4364136b574505831ef30cc2ba011c97def318428f752b95c6a8410c",
+      "bytes": 294888
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1513,
+    "output_tokens_details": {
+      "reasoning_tokens": 763
+    },
+    "total_tokens": 3473
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Exeggcute",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Nap",
+            "effect": "Heal 20 damage from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Noeunoeuf",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Tit'Sieste",
+            "effect": "Soignez 20 dégâts de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Exeggcute",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Siesta",
+            "effect": "Cura 20 puntos de daño a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Exeggcute",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Pausa",
+            "effect": "Cura questo Pokémon da 20 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Owei",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Nickerchen",
+            "effect": "Heile 20 Schadenspunkte bei diesem Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Exeggcute",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Soneca",
+            "effect": "Cure 20 pontos de dano deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蛋蛋",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "小憩",
+            "effect": "將這隻寶可夢恢復20HP。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is too small/blurry to read with full confidence."
+      },
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is too small/blurry to read with full confidence."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is too small/blurry to read with full confidence."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is too small/blurry to read with full confidence."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is too small/blurry to read with full confidence."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is too small/blurry to read with full confidence."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is too small/blurry to read with full confidence."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      }
+    ]
+  }
+}

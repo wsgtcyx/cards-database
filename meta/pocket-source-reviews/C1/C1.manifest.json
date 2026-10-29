@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "set": {
+    "id": "C1",
+    "sourceId": "C1",
+    "file": "Dual Fusion",
+    "total": 217,
+    "official": 131,
+    "releaseDate": "2026-10-29",
+    "names": {
+      "en": "Dual Fusion",
+      "fr": "Fusion Double",
+      "es": "Fusión Dual",
+      "it": "Fusione Duale",
+      "de": "Duale Fusion",
+      "pt-br": "Fusão Dupla",
+      "zh-tw": "雙元融合",
+      "ja": "デュアルフュージョン",
+      "ko": "듀얼 퓨전"
+    },
+    "boosters": [
+      {
+        "id": "mega-mewtwo-x",
+        "sku": "C1_1",
+        "names": {
+          "en": "Dual Fusion: Mega Mewtwo X",
+          "fr": "Fusion Double : Méga-Mewtwo X",
+          "es": "Fusión Dual: Mega-Mewtwo X",
+          "it": "Fusione Duale: Mega Mewtwo X",
+          "de": "Duale Fusion: Mega-Mewtu X",
+          "pt-br": "Fusão Dupla: Mega Mewtwo X",
+          "zh-tw": "雙元融合 超級超夢X",
+          "ja": "デュアルフュージョン メガミュウツーX",
+          "ko": "듀얼 퓨전 메가뮤츠X"
+        }
+      },
+      {
+        "id": "pikachu",
+        "sku": "C1_2",
+        "names": {
+          "en": "Dual Fusion: Pikachu",
+          "fr": "Fusion Double : Pikachu",
+          "es": "Fusión Dual: Pikachu",
+          "it": "Fusione Duale: Pikachu",
+          "de": "Duale Fusion: Pikachu",
+          "pt-br": "Fusão Dupla: Pikachu",
+          "zh-tw": "雙元融合 皮卡丘",
+          "ja": "デュアルフュージョン ピカチュウ",
+          "ko": "듀얼 퓨전 피카츄"
+        }
+      }
+    ]
+  },
+  "images": {
+    "cardLanguages": {
+      "en-US": "en",
+      "fr-FR": "fr",
+      "es-ES": "es",
+      "it-IT": "it",
+      "de-DE": "de",
+      "pt-BR": "pt-br",
+      "zh-TW": "zh-tw"
+    },
+    "packLanguages": {
+      "en-US": "en"
+    },
+    "expectedObjects": {
+      "cards": 3038,
+      "boosters": 4,
+      "total": 3042
+    },
+    "cardSourceFormats": {
+      "en-US": "png",
+      "fr-FR": "png",
+      "es-ES": "png",
+      "it-IT": "png",
+      "de-DE": "png",
+      "pt-BR": "png",
+      "zh-TW": "png"
+    }
+  },
+  "r2": {
+    "bucket": "game",
+    "origin": "https://game.pokemontcgpocket.app"
+  },
+  "metadata": {
+    "detailsFile": "C1.reviewed-raw.json",
+    "canonicalFile": "C1.canonical.json",
+    "localizationsFile": "C1.localizations.json",
+    "auditFile": "C1.localization-audit.json",
+    "provenanceFile": "C1.provenance.json",
+    "sourceSnapshots": "C1.snapshots.json",
+    "adapter": "scripts/import-reviewed-pocket-set.mjs",
+    "sourcePolicy": "Composite game dictionary and native-face evidence; HTTP-only sources pinned by retrievedAt, bytes and SHA-256. No fictitious source commit or data license asserted."
+  },
+  "research": {
+    "required": [],
+    "verifiedAt": "2026-10-29T07:52:19.454825+00:00",
+    "evidence": [
+      {
+        "field": "releaseDate/officialCount/set names",
+        "source": "C1.snapshots.json",
+        "url": "https://pokemon.gamespress.com/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex"
+      },
+      {
+        "field": "metadata and printing identities",
+        "source": "master.json",
+        "url": "https://ptcgp.raenonx.cc/api/data/global-master"
+      },
+      {
+        "field": "continuous 217 native faces in seven languages",
+        "source": "C1.image-evidence.json",
+        "url": "https://api.pokeos.com/api/tcg/set/cards?id=599"
+      }
+    ]
+  },
+  "locales": {
+    "names": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw",
+      "ja",
+      "ko"
+    ],
+    "fullRules": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "ruleFallbacks": {
+      "ja": "en",
+      "ko": "en"
+    },
+    "cardImageFallbacks": {
+      "ja": "en",
+      "ko": "en"
+    },
+    "boosterImageFallback": "Official English artwork in every API locale"
+  }
+}

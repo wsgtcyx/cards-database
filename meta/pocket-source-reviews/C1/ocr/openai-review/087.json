@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-087",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "ba7a037988ac206761fa5001768e85f43b2f34cc9976d6b44d37484c7ffafe6e",
+      "bytes": 291780
+    },
+    "fr": {
+      "sha256": "73a814ed7bd9dc7bfb11e2694971f2b931021134f081ae78465248108b36a0e9",
+      "bytes": 291974
+    },
+    "es": {
+      "sha256": "9a05346f3c46c3eae030c0fe25f1d8ff8a0e8f53697136412e65cabd5eb9a22a",
+      "bytes": 292519
+    },
+    "it": {
+      "sha256": "cd9d6b787cdc23317784a40de215ef06eaf1989a97ddd38197eb9f1527016879",
+      "bytes": 291566
+    },
+    "de": {
+      "sha256": "483278a0ad3cb8651b4f1bc7d58d28025df835c519cf6bb1417c05ff15a9dcc3",
+      "bytes": 292566
+    },
+    "pt-br": {
+      "sha256": "e3026003c3898097e86f7e27beacd16735702585652379549c4cabed376f9f73",
+      "bytes": 293246
+    },
+    "zh-tw": {
+      "sha256": "d50dbabb5c481ce601353fdf051f8ba55c04d0849b625911e939ce38b1ae5ad3",
+      "bytes": 291267
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 886,
+    "output_tokens_details": {
+      "reasoning_tokens": 411
+    },
+    "total_tokens": 4374
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Zorua",
+        "illustrator": "Toyste Beach",
+        "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+        "attacks": [
+          {
+            "name": "Scratch",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Zorua",
+        "illustrator": "Toyste Beach",
+        "description": "Il prend l’apparence des autres afin de les surprendre. On dit qu’il se transforme souvent en petit enfant silencieux.",
+        "attacks": [
+          {
+            "name": "Griffe",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Zorua",
+        "illustrator": "Toyste Beach",
+        "description": "Se transforma en otros para crear desconcierto. A menudo, adopta la forma de un niño parco en palabras.",
+        "attacks": [
+          {
+            "name": "Arañazo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Zorua",
+        "illustrator": "Toyste Beach",
+        "description": "Sorprende gli altri assumendo il loro aspetto. Pare che si trasformi spesso in un bambino taciturno.",
+        "attacks": [
+          {
+            "name": "Graffio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Zorua",
+        "illustrator": "Toyste Beach",
+        "description": "Es überrumpelt andere, indem es deren Gestalt annimmt. Angeblich tarnt es sich oft als wortkarges Kind.",
+        "attacks": [
+          {
+            "name": "Kratzer",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Zorua",
+        "illustrator": "Toyste Beach",
+        "description": "Ele muda para as formas de outros para surpreendê-los. Aparentemente, transforma-se com frequência em uma criança quieta.",
+        "attacks": [
+          {
+            "name": "Arranhão",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "索羅亞",
+        "illustrator": "Toyste Beach",
+        "description": "會為了讓對手卸下戒心而變化成各種樣子。據說經常會變成沉默寡言的小孩。",
+        "attacks": [
+          {
+            "name": "抓",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

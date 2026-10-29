@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-078",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "dc4efcc5fb4c640b7833f70b516214465fc2a051a199b71469ed65504c064838",
+      "bytes": 309581
+    },
+    "fr": {
+      "sha256": "a301ae76733a98c15dca961f90ac7ad700aa52f016cb582a67ba0469da256abe",
+      "bytes": 310485
+    },
+    "es": {
+      "sha256": "80cb460a26f3eb15117ac5c17766941f993de9ba2d97073b1344cf68587e4b6b",
+      "bytes": 312990
+    },
+    "it": {
+      "sha256": "c72ce6cf49fe6f13baf8e41dc501d0219ca831938f162b5e7b3fe88aa82f4b92",
+      "bytes": 310529
+    },
+    "de": {
+      "sha256": "e53f56a02dd9838031ab9821088916d404be90d9fb34cf7c10e0e6c2d43b9b88",
+      "bytes": 312721
+    },
+    "pt-br": {
+      "sha256": "95e500ba3e8199222d0470a4003560e455181e731ed966e6849f72bc4455814f",
+      "bytes": 312908
+    },
+    "zh-tw": {
+      "sha256": "648c18f4e889990b55ee16a9034ba9bccb88b07a6817f99d9163c8cdc88533d7",
+      "bytes": 306199
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1547,
+    "output_tokens_details": {
+      "reasoning_tokens": 817
+    },
+    "total_tokens": 3507
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Whiscash",
+        "illustrator": "Masakazu Fukuda",
+        "description": "It is extremely protective of its territory. If any foe approaches, it attacks using violent tremors.",
+        "attacks": [
+          {
+            "name": "Power Press",
+            "effect": "If this Pokémon has at least 3 extra {F} Energy attached, this attack does 60 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Barbicha",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Il est très protecteur vis-à-vis de son territoire. Si des ennemis approchent, il se défend en déclenchant des secousses terribles.",
+        "attacks": [
+          {
+            "name": "Étau Puissant",
+            "effect": "Si ce Pokémon a au moins 3 Énergies {F} de plus, cette attaque inflige 60 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Whiscash",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Protege su territorio por encima de todo. Si se acerca un enemigo, lo ataca con violentos temblores de tierra.",
+        "attacks": [
+          {
+            "name": "Constricción Poderosa",
+            "effect": "Si este Pokémon tiene por lo menos 3 Energías {F} adicionales unidas a él, este ataque hace 60 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Whiscash",
+        "illustrator": "Masakazu Fukuda",
+        "description": "È molto protettivo del suo territorio e, se un nemico si avvicina, reagisce facendo tremare violentemente la terra.",
+        "attacks": [
+          {
+            "name": "Vigorstretta",
+            "effect": "Se questo Pokémon ha almeno 3 Energie {F} extra assegnate, questo attacco infligge 60 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Welsar",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Es hat ein ausgeprägtes Revierverhalten. Nähert sich ein Feind, greift es diesen an, indem es die Erde heftig beben lässt.",
+        "attacks": [
+          {
+            "name": "Powerdruck",
+            "effect": "Wenn an dieses Pokémon mindestens 3 extra {F}-Energien angelegt sind, fügt diese Attacke 60 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Whiscash",
+        "illustrator": "Masakazu Fukuda",
+        "description": "Protege seu território com muita afinco. Se algum inimigo se aproxima, ataca-o usando tremores perversos.",
+        "attacks": [
+          {
+            "name": "Compressão Poderosa",
+            "effect": "Se este Pokémon tiver pelo menos 3 Energias {F} extras ligadas a ele, este ataque causará 60 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "鯰魚王",
+        "illustrator": "Masakazu Fukuda",
+        "description": "牠會非常強烈地捍衛自己的地盤，如果有外敵接近，就會利用猛烈地震予以擊退。",
+        "attacks": [
+          {
+            "name": "力量壓制",
+            "effect": "若額外附有3個{F}能量，則增加60點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially hard to read; transcription may vary in the first phrase."
+      }
+    ]
+  }
+}

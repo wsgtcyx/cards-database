@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-001",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "2a0d5cd7dc0539b4fb087751dd9d76a7e2aaa9399fd105207ed8c65fc0e4a724",
+      "bytes": 265942
+    },
+    "fr": {
+      "sha256": "517ea6a5d9245df88fb6a37acfa6a84b6c47b91ef2ec4848eb40df041c702839",
+      "bytes": 266730
+    },
+    "es": {
+      "sha256": "02a967773e28898f9f2510aa8ee9268d4b90075a01882b726fda2cc8d362203f",
+      "bytes": 266630
+    },
+    "it": {
+      "sha256": "341de618ac5ceac4ea2605cbd489993e31fa5f5d78cbc2fafd4bf1597b343c02",
+      "bytes": 265815
+    },
+    "de": {
+      "sha256": "eb26e728f2aefcf98ffc06a3c32bc452f518d5882a02f1ca545aa38c0d87190a",
+      "bytes": 267323
+    },
+    "pt-br": {
+      "sha256": "b75d37cf4fd21c7be821b0b4cc74a452ab2826996608c0a5ea5644b73947e3c6",
+      "bytes": 268095
+    },
+    "zh-tw": {
+      "sha256": "9852085dc37782d3a1db619620d3440589fe8e4dc79b01d537ee8a42e620004a",
+      "bytes": 264931
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 674,
+    "output_tokens_details": {
+      "reasoning_tokens": 131
+    },
+    "total_tokens": 4162
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Bulbasaur",
+        "illustrator": "OKACHEKE",
+        "description": "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.",
+        "attacks": [
+          {
+            "name": "Leech Seed",
+            "effect": "Heal 10 damage from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Bulbizarre",
+        "illustrator": "OKACHEKE",
+        "description": "Au début de sa vie, il se nourrit des nutriments accumulés dans la graine sur son dos. Cela lui permet de grandir.",
+        "attacks": [
+          {
+            "name": "Vampigraine",
+            "effect": "Soignez 10 dégâts de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Bulbasaur",
+        "illustrator": "OKACHEKE",
+        "description": "Tras nacer, crece alimentándose durante un tiempo de los nutrientes que contiene el bulbo de su lomo.",
+        "attacks": [
+          {
+            "name": "Drenadoras",
+            "effect": "Cura 10 puntos de daño a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Bulbasaur",
+        "illustrator": "OKACHEKE",
+        "description": "Dopo la nascita, per un periodo di tempo cresce assorbendo i nutrienti stipati nel bulbo sul dorso.",
+        "attacks": [
+          {
+            "name": "Parassiseme",
+            "effect": "Cura questo Pokémon da 10 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Bisasam",
+        "illustrator": "OKACHEKE",
+        "description": "Nach der Geburt nutzt es für eine Weile die Nährstoffe im Samen auf seinem Rücken, um zu wachsen.",
+        "attacks": [
+          {
+            "name": "Egelsamen",
+            "effect": "Heile 10 Schadenspunkte bei diesem Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Bulbasaur",
+        "illustrator": "OKACHEKE",
+        "description": "Durante algum tempo após nascer, usa os nutrientes armazenados na semente em suas costas para crescer.",
+        "attacks": [
+          {
+            "name": "Semente Sanguessuga",
+            "effect": "Cure 10 pontos de dano deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "妙蛙種子",
+        "illustrator": "OKACHEKE",
+        "description": "在出生後的一段時間內，牠會吸收背上種子裡儲存的營養成長。",
+        "attacks": [
+          {
+            "name": "寄生種子",
+            "effect": "將這隻寶可夢恢復10HP。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

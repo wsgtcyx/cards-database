@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-200",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "77c6417a5cb1323cc924b29b2f8b31a67448a30da99075d42d5cd8758d810b0e",
+      "bytes": 306965
+    },
+    "fr": {
+      "sha256": "9a2d829e281d4c746f07f80a6a5a672e909765fcbfb10651288cb2c4098e5f61",
+      "bytes": 308779
+    },
+    "es": {
+      "sha256": "c0f351ad003fb4c21ad2e4293844cf828ec3c54397d6f51f69f538ce22a9b383",
+      "bytes": 307353
+    },
+    "it": {
+      "sha256": "13c3c19f6171528a29b7f0f40174082a3565c461e9dcb245e2662f48af352c1d",
+      "bytes": 307376
+    },
+    "de": {
+      "sha256": "69967c661da538d44390dbcd8bb784a0a81d72be5948c770d27b8103896e80c1",
+      "bytes": 308574
+    },
+    "pt-br": {
+      "sha256": "a4a767a14265c1b184d8325e39448b17b503578534a2dfef04e0cf9fe91a4782",
+      "bytes": 308777
+    },
+    "zh-tw": {
+      "sha256": "9ee4036c380064f6d70419c4c2c2f6ca003aac3f17253e6a3ee2e57690b11cc0",
+      "bytes": 307096
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1564,
+    "output_tokens_details": {
+      "reasoning_tokens": 862
+    },
+    "total_tokens": 3524
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rhydon",
+        "illustrator": "Taiga Kasai",
+        "description": "The horn of a Rhydon is powerful enough to crush raw diamonds. These Pokémon polish their horns by bashing them together.",
+        "attacks": [
+          {
+            "name": "Megahorn",
+            "effect": "Flip a coin. If tails, this attack does nothing."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rhinoféros",
+        "illustrator": "Taiga Kasai",
+        "description": "Il frappe sa corne contre celle de ses congénères afin de la renforcer. Celle-ci est assez robuste pour briser un diamant à l'état brut.",
+        "attacks": [
+          {
+            "name": "Mégacorne",
+            "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Rhydon",
+        "illustrator": "Taiga Kasai",
+        "description": "Hace chocar el cuerno con el de sus congéneres para afilarlo. Es capaz de horadar diamantes en bruto con él.",
+        "attacks": [
+          {
+            "name": "Megacuerno",
+            "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Rhydon",
+        "illustrator": "Taiga Kasai",
+        "description": "Si scontra con i suoi simili per affinare il corno che può fracassare perfino i diamanti grezzi.",
+        "attacks": [
+          {
+            "name": "Megacorno",
+            "effect": "Lancia una moneta. Se esce croce, questo attacco non ha effetto."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Rizeros",
+        "illustrator": "Taiga Kasai",
+        "description": "Mit seinem Horn kann es selbst Rohdiamanten zertrümmern. Artgenossen stoßen ihre Hörner aneinander, um sie zu schärfen.",
+        "attacks": [
+          {
+            "name": "Vielender",
+            "effect": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Rhydon",
+        "illustrator": "Taiga Kasai",
+        "description": "O chifre de um Rhydon é tão poderoso que pode até esmagar diamantes. Estes Pokémon batem seus chifres uns nos outros para mantê-los sempre lustrosos.",
+        "attacks": [
+          {
+            "name": "Megachifre",
+            "effect": "Jogue uma moeda. Se sair coroa, este ataque não fará nada."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "鐵角犀獸",
+        "illustrator": "Taiga Kasai",
+        "description": "角的威力足以粉碎高品石，角角會彼此撞擊並加以磨亮。",
+        "attacks": [
+          {
+            "name": "超級角擊",
+            "effect": "擲1次硬幣若為反面，則這個招式失敗。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unclear from the image; the transcription may not exactly match the printed Chinese wording."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "The Chinese attack effect text is small/soft and may be slightly off in wording."
+      }
+    ]
+  }
+}

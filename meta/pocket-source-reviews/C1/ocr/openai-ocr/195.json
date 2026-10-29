@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-195",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "561a67eeffaf919fb1c8efc5ba0f61e085579d710ce920616b3d56583ade9347",
+      "bytes": 284854
+    },
+    "fr": {
+      "sha256": "f6cd064a5569f8f910c797b0bd28402fb16686927419fb928c1e24a69502fbe7",
+      "bytes": 283594
+    },
+    "es": {
+      "sha256": "f1a8a7862f7c0bd2fd4dff4e2121adbab33d907728f19c48f9a37265fa24e6a6",
+      "bytes": 285448
+    },
+    "it": {
+      "sha256": "252cf9d1eca8759310fcc48c130d48f3a02076cb2aca3dfdba0bd519eb3676f9",
+      "bytes": 284200
+    },
+    "de": {
+      "sha256": "c103c072e1c8fcc9d5c3ca35a1807bad0b2b78b5ba133da21c1c90c214704a4e",
+      "bytes": 285031
+    },
+    "pt-br": {
+      "sha256": "0e11cc74bea09e949fa19f5f5cf12b523fbf75b0061538b72f56746c4ff0adb9",
+      "bytes": 285269
+    },
+    "zh-tw": {
+      "sha256": "6f6026cd9fb6d9091313a2b362b7e05c32da88ee46989bc73eb4e44964e9ba7a",
+      "bytes": 282750
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 570,
+    "output_tokens_details": {
+      "reasoning_tokens": 89
+    },
+    "total_tokens": 2530
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Abra",
+        "illustrator": "MAHOU",
+        "description": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra's dreams affect the powers that the Pokémon wields.",
+        "attacks": [
+          {
+            "name": "Beam",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Abra",
+        "illustrator": "MAHOU",
+        "description": "Le contenu de ses rêves influe sur les pouvoirs psychiques qu’il utilise dans son sommeil.",
+        "attacks": [
+          {
+            "name": "Rayon",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Abra",
+        "illustrator": "MAHOU",
+        "description": "Es capaz de usar sus poderes psíquicos aun estando dormido. Al parecer, el contenido del sueño influye en sus facultades.",
+        "attacks": [
+          {
+            "name": "Transmisión",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Abra",
+        "illustrator": "MAHOU",
+        "description": "Il contenuto dei suoi sogni influisce sui suoi poteri psichici, che può utilizzare anche mentre dorme.",
+        "attacks": [
+          {
+            "name": "Raggio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Abra",
+        "illustrator": "MAHOU",
+        "description": "Es setzt seine Psycho-Kräfte selbst im Schlaf ein. Der Inhalt seiner Träume hat Einfluss auf die Kräfte, die es verwendet.",
+        "attacks": [
+          {
+            "name": "Strahl",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Abra",
+        "illustrator": "MAHOU",
+        "description": "Usa seus poderes psíquicos enquanto dorme. O conteúdo dos sonhos de Abra afeta os poderes que este Pokémon possui.",
+        "attacks": [
+          {
+            "name": "Feixe",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "凱西",
+        "illustrator": "MAHOU",
+        "description": "會一邊睡覺一邊操控超能力。夢的內容影響著它使用的能力。",
+        "attacks": [
+          {
+            "name": "光束",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; transcription may be inaccurate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-049",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "530084e48eb922103644ed1dd2dc9293b54a74f32e1a5234615714d5c47ff8bc",
+      "bytes": 244395
+    },
+    "fr": {
+      "sha256": "b7a138e6fa1f2382e08ba5c7a2f413d29bcf4adf93424604233ef5f914ebe49a",
+      "bytes": 245433
+    },
+    "es": {
+      "sha256": "c80719236b0be2727f8c5e0c0459de81e1d790b2a71528b758bb4caba97a7f5b",
+      "bytes": 244830
+    },
+    "it": {
+      "sha256": "5a439b2779f7f60b87afb5a217bab04d72b7bb7ade5ed17cf9a627875b70aba1",
+      "bytes": 244595
+    },
+    "de": {
+      "sha256": "4c321190cc82707cf4efbdeb1061b9b7f8d299184dbcf2b88e1e39ae31f25e6d",
+      "bytes": 245726
+    },
+    "pt-br": {
+      "sha256": "37f5ad1153a0a2a375ebb4e048d37475b72dd69d23e475b721d4f6249311e9be",
+      "bytes": 244892
+    },
+    "zh-tw": {
+      "sha256": "b094feea137709f24b755fc8f888ee302d287d559916e007c35d6c0b04d14428",
+      "bytes": 242398
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1269,
+    "output_tokens_details": {
+      "reasoning_tokens": 660
+    },
+    "total_tokens": 3229
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pawmo",
+        "illustrator": "Hitoshi Ariga",
+        "description": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+        "attacks": [
+          {
+            "name": "Electric Punch",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pohmotte",
+        "illustrator": "Hitoshi Ariga",
+        "description": "Quand on attaque son groupe, ce Pokémon est le premier à riposter. Il défait ses adversaires avec un art martial qui repose sur l'électricité.",
+        "attacks": [
+          {
+            "name": "Poing Électrique",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pawmo",
+        "illustrator": "Hitoshi Ariga",
+        "description": "Cuando su manada se ve amenazada, atacan a la vanguardia usando un arte marcial caracterizado por el empleo de descargas eléctricas.",
+        "attacks": [
+          {
+            "name": "Puño Eléctrico",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pawmo",
+        "illustrator": "Hitoshi Ariga",
+        "description": "Quando il branco viene attaccato, lotta in prima fila contro il nemico per atterrarlo con tecniche marziali che rilasciano scariche elettriche.",
+        "attacks": [
+          {
+            "name": "Pugno Elettrico",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pamamo",
+        "illustrator": "Hitoshi Ariga",
+        "description": "Wird seine Kolonie angegriffen, stürzt es sich sofort in den Kampf und besiegt den Feind mit Kampftechniken, die auf Elektroschocks setzen.",
+        "attacks": [
+          {
+            "name": "Elektroschlag",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pawmo",
+        "illustrator": "Hitoshi Ariga",
+        "description": "Quando seu grupo é atacado, Pawmo é o primeiro a entrar na batalha, derrotando os inimigos com uma técnica de combate que utiliza choques elétricos.",
+        "attacks": [
+          {
+            "name": "Murro Elétrico",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "布土撥",
+        "illustrator": "Hitoshi Ariga",
+        "description": "當群體受到襲擊的時候，會率先跳出來戰鬥，結合了電擊的格鬥技擊倒敵人。",
+        "attacks": [
+          {
+            "name": "麻麻拳",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "name",
+        "reason": "The Pokémon name is small and slightly blurred; reading may be incorrect."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; transcription may be inaccurate."
+      }
+    ]
+  }
+}

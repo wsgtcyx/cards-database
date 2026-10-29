@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-018",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "3429e6b8b762031ea076b2dfcbe86043fb82db06d919ffad9f99ef09b293934c",
+      "bytes": 295478
+    },
+    "fr": {
+      "sha256": "28d3abb210f73f1ac39e6b485b9ddd11b61a4750c09722e802aab97539d99276",
+      "bytes": 296792
+    },
+    "es": {
+      "sha256": "6816bd0cd38158defcd68374d087c65269eeb4287619c707818f2a4e93fec67c",
+      "bytes": 295159
+    },
+    "it": {
+      "sha256": "a106ef6cc9b2bf2072b3876a6f4926835984ded68cc97a0a1413463cf49c80de",
+      "bytes": 295598
+    },
+    "de": {
+      "sha256": "52cc7aec159fc608f4f424e13b4ffb4b9529f859b7efdf6da4d7bd6330ea320f",
+      "bytes": 298259
+    },
+    "pt-br": {
+      "sha256": "ea1c3c6ed1890e99077bc77d3048b7c28de89d50a459dde7dbd300c033d0f8a1",
+      "bytes": 296974
+    },
+    "zh-tw": {
+      "sha256": "6075daebf94d1f57a4233122d3faada7edc8d52ec8ab695310c91bcfee67bb75",
+      "bytes": 293596
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2009,
+    "output_tokens_details": {
+      "reasoning_tokens": 923
+    },
+    "total_tokens": 3969
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Charizard",
+        "illustrator": "NC Empire",
+        "description": "If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
+        "attacks": [
+          {
+            "name": "Fire Wing",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Flame Aura",
+            "effect": "Whenever you attach a {R} Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Dracaufeu",
+        "illustrator": "NC Empire",
+        "description": "Quand Dracaufeu s'énerve réellement, la flamme au bout de sa queue devient bleue.",
+        "attacks": [
+          {
+            "name": "Aile de Feu",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura Enflammée",
+            "effect": "Chaque fois que vous attachez une Énergie {R} de votre zone Énergie à ce Pokémon, infligez 30 dégâts au Pokémon Actif de votre adversaire."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Charizard",
+        "illustrator": "NC Empire",
+        "description": "Cuando se enfurece de verdad, la llama de la punta de su cola se vuelve de color azul claro.",
+        "attacks": [
+          {
+            "name": "Ala Ígnea",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura Llameante",
+            "effect": "Cada vez que unas una Energía {R} de tu área de Energía a este Pokémon, haz 30 puntos de daño al Pokémon Activo de tu rival."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Charizard",
+        "illustrator": "NC Empire",
+        "description": "Se s'infuria, la fiamma che ha sulla punta della coda si colora di un blu biancastro.",
+        "attacks": [
+          {
+            "name": "Alafiamma",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura Fiammeggiante",
+            "effect": "Ogni volta che assegni un'Energia {R} a questo Pokémon dalla tua Zona Energia, infliggi 30 danni al Pokémon attivo dell'avversario."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Glurak",
+        "illustrator": "NC Empire",
+        "description": "Wenn Glurak richtig wütend wird, flackert die Flamme an seiner Schwanzspitze in einem bläulichen Ton.",
+        "attacks": [
+          {
+            "name": "Feuerflügel",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Flammende Aura",
+            "effect": "Füge jedes Mal, wenn du 1 {R}-Energie aus dem Energiebereich an dieses Pokémon anlegst, dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zu."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Charizard",
+        "illustrator": "NC Empire",
+        "description": "Quando Charizard fica realmente furioso, a chama na ponta da sua cauda queima em um tom azul claro.",
+        "attacks": [
+          {
+            "name": "Asa de Fogo",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura em Chamas",
+            "effect": "Sempre que você ligar uma Energia {R} da sua Zona de Energia a este Pokémon, cause 30 pontos de dano ao Pokémon Ativo do seu oponente."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "噴火龍",
+        "illustrator": "NC Empire",
+        "description": "當噴火龍真的生氣時，尾巴前端的火焰會燃燒成藍色的火焰。",
+        "attacks": [
+          {
+            "name": "火焰之翼",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "火焰氣場",
+            "effect": "每次從自己的能量區將能量附於這隻寶可夢時，對手的戰鬥寶可夢受到30點傷害。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

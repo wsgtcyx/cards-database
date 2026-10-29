@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-144",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "3e6b23d03c183be4ab135b1c422da7c27640119620cdab30f1fdfdd68a289848",
+      "bytes": 376306
+    },
+    "fr": {
+      "sha256": "3c6732e6d5bb99605bab8f78b3aa276a68a93096ae9f136a7ae68fd3c8d1f986",
+      "bytes": 376947
+    },
+    "es": {
+      "sha256": "111a159b24605874ff0b36c702495d385037777a75d9d6bdce16234d8344d165",
+      "bytes": 377277
+    },
+    "it": {
+      "sha256": "18782868e0e31ac28b905b10af3c1f7611d5f55e786ec3986ce0f05c67259a45",
+      "bytes": 376411
+    },
+    "de": {
+      "sha256": "6e9dad554619c973dfab41268e01c2c9a929ea4022d3abd55a71897cb13d284c",
+      "bytes": 377040
+    },
+    "pt-br": {
+      "sha256": "794e0d64f762065c3a90a87cf25d2703ea159b62f0904e5923909656c8917aba",
+      "bytes": 377350
+    },
+    "zh-tw": {
+      "sha256": "fbea776d284b431c3501cb7ee40844cde93962f4f8424140ec050134c4661af5",
+      "bytes": 375325
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1184,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 3144
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Cosmoem",
+        "illustrator": "Misa Tsutsui",
+        "description": "The absorption of starlight fills this Pokémon's body. The shell acts as a shield from the outside world.",
+        "attacks": [
+          {
+            "name": "Ram",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Cosmovum",
+        "illustrator": "Misa Tsutsui",
+        "description": "La capacité de ce Pokémon à absorber la lumière des étoiles a grandi. Son corps est si dense qu'il est difficile de le déplacer.",
+        "attacks": [
+          {
+            "name": "Collision",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cosmoem",
+        "illustrator": "Misa Tsutsui",
+        "description": "Este Pokémon que absorbe la luz de las estrellas crece y crece. Es tan pesado que es imposible moverlo.",
+        "attacks": [
+          {
+            "name": "Apisonar",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Cosmoem",
+        "illustrator": "Misa Tsutsui",
+        "description": "Il suo corpo assorbe la luce delle stelle e cresce sempre di più. La sua corazza lo protegge dal mondo esterno.",
+        "attacks": [
+          {
+            "name": "Carica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Cosmovum",
+        "illustrator": "Misa Tsutsui",
+        "description": "Es wächst immer weiter, indem es das Licht der Sterne absorbiert. Sein Panzer macht es zu einem schweren und unverletzbaren Ball.",
+        "attacks": [
+          {
+            "name": "Ramme",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Cosmoem",
+        "illustrator": "Misa Tsutsui",
+        "description": "Este Pokémon absorve a luz das estrelas e cresce sem parar. Seu corpo é tão pesado que o torna imobilizado.",
+        "attacks": [
+          {
+            "name": "Aríete",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "科斯莫姆",
+        "illustrator": "Misa Tsutsui",
+        "description": "它會吸收星光，讓自己的身體成長。外殼像盾牌一樣保護著內部。",
+        "attacks": [
+          {
+            "name": "衝撞",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is only partially legible at this image size."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is only partially legible at this image size."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is only partially legible at this image size."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is only partially legible at this image size."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is only partially legible at this image size."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is only partially legible at this image size."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is only partially legible at this image size."
+      }
+    ]
+  }
+}

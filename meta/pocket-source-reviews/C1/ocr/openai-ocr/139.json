@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-139",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "54cb3d96fee225e1a190c64702d477b6fb71ae79a2b5f681a739b1f650b664a8",
+      "bytes": 327586
+    },
+    "fr": {
+      "sha256": "8b42b362f7fa04041e5d406f0352aa985007f5c3edb0d45540e325cb975ea8ff",
+      "bytes": 327661
+    },
+    "es": {
+      "sha256": "b6c8b11f3a2547f8f3bd75100a800f946033c9654aec4288b8d2d388762daea0",
+      "bytes": 326332
+    },
+    "it": {
+      "sha256": "f674fab9501df26c236bcd08dd5f42720d4fe0f7a6112acd97e120826001b20d",
+      "bytes": 327199
+    },
+    "de": {
+      "sha256": "ef8ee65615736c96b1cd69887e62f4fb6f029a3ae2e76e6b60343b57161c321a",
+      "bytes": 327118
+    },
+    "pt-br": {
+      "sha256": "a1786d76ab5182ee9fb6e635f84dafb2ab00a9c34dba3923f28fddd7d37d347f",
+      "bytes": 328213
+    },
+    "zh-tw": {
+      "sha256": "4139eb5bf6c512586363dece3d6b4879da1c5fa58034648caecb6564295a80db",
+      "bytes": 325568
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1268,
+    "output_tokens_details": {
+      "reasoning_tokens": 512
+    },
+    "total_tokens": 3228
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Blastoise",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aqua Charge",
+            "effect": "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Tortank",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Charge Aqua",
+            "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie {W} de votre zone Énergie et l'attacher à ce Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Blastoise",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Hidrocarga",
+            "effect": "Una vez durante tu turno, puedes unir 1 Energía {W} de tu área de Energía a este Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Blastoise",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Surf",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Idrocarica",
+            "effect": "Una sola volta durante il tuo turno, puoi prendere un'Energia {W} dalla tua Zona Energia e assegnarla a questo Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Turtok",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Surfer",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aqualadung",
+            "effect": "Einmal während deines Zuges kannst du 1 {W}-Energie aus deinem Energiebereich an dieses Pokémon anlegen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Blastoise",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Surfar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Carga Aquática",
+            "effect": "Uma vez durante o seu turno, você poderá pegar 1 Energia {W} da sua Zona de Energia e ligá-la a este Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "水箭龜",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "衝浪",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "水流充能",
+            "effect": "在自己回合時，可使用1次。從自己的能量區抽出1個{W}能量，附於這隻寶可夢身上。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to read reliably."
+      }
+    ]
+  }
+}

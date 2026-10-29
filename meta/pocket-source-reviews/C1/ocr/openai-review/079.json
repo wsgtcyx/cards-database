@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-079",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "d8f35911ec9dd954432cecc98a5d3003b7b324c2d561c6a909a444b72ecd0989",
+      "bytes": 268058
+    },
+    "fr": {
+      "sha256": "516267917a8ae124f61a57cdd9bbaf82c4dd2c0fe3bf628a3e89ec6365667928",
+      "bytes": 267791
+    },
+    "es": {
+      "sha256": "d26a19d618b9e155187f46a6c72d2fa33d910479bb0d7affd2b935567e96065b",
+      "bytes": 268752
+    },
+    "it": {
+      "sha256": "cf2be2e408a21d04d5f8b80698c6bdd75f5678ae2da66b6c58a8e15498d58eda",
+      "bytes": 267878
+    },
+    "de": {
+      "sha256": "a4ef9fa357649c13e59664e03aab8798fd2387387ececed6c9d0e3c373c2eb00",
+      "bytes": 268275
+    },
+    "pt-br": {
+      "sha256": "e7d5d0137d1fee8853e3b1992939dc700607be6f0e1d8e3945a1aaa29054de2b",
+      "bytes": 267630
+    },
+    "zh-tw": {
+      "sha256": "710a0091deaa362487112cc4a91100e6c4352e0ea81c2fc1a4c44ea13ce958e1",
+      "bytes": 266741
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1046,
+    "output_tokens_details": {
+      "reasoning_tokens": 291
+    },
+    "total_tokens": 4534
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rockruff",
+        "illustrator": "OKACHEKE",
+        "description": "This Pokémon is very friendly when it’s young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+        "attacks": [
+          {
+            "name": "Paw Shake Punch",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rocabot",
+        "illustrator": "OKACHEKE",
+        "description": "Ce Pokémon est très amical lorsqu’il est jeune. Il devient plus féroce avec le temps, mais sa loyauté envers son Dresseur reste infaillible.",
+        "attacks": [
+          {
+            "name": "Coup de Patte",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Rockruff",
+        "illustrator": "OKACHEKE",
+        "description": "Cuando es pequeño es muy cariñoso. A medida que crece se vuelve más agresivo, pero la lealtad hacia su Entrenador perdura para siempre.",
+        "attacks": [
+          {
+            "name": "Sacudir y Dar la Patita",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Rockruff",
+        "illustrator": "OKACHEKE",
+        "description": "I cuccioli di Rockruff si affezionano subito. Crescendo diventano più feroci, ma provano per sempre gratitudine verso chi li ha allenati.",
+        "attacks": [
+          {
+            "name": "Pugno Qua la Zampa",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Wuffels",
+        "illustrator": "OKACHEKE",
+        "description": "Wuffels ist sehr zutraulich, solange es jung ist. Mit dem Alter wird es zunehmend wilder, doch es bleibt seinem Trainer auf ewig verbunden.",
+        "attacks": [
+          {
+            "name": "Pfötchenhieb",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Rockruff",
+        "illustrator": "OKACHEKE",
+        "description": "Este Pokémon é amigável quando jovem. Adquire um temperamento cruel ao crescer, mas nunca se esquece da bondade de seu mestre.",
+        "attacks": [
+          {
+            "name": "Dá Soquinho",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "岩狗狗",
+        "illustrator": "OKACHEKE",
+        "description": "年幼時非常容易親近。雖然長大後脾氣會變得粗暴，卻絕不會忘記主人的恩情。",
+        "attacks": [
+          {
+            "name": "握手拳",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

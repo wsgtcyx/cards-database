@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-112",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "cddad68c40ae700f68472d893021c229cf76582746f9ad1b8a7ff6b0f2a6c782",
+      "bytes": 282399
+    },
+    "fr": {
+      "sha256": "7cbe234a81729d2d4d0ccd034acfc03bd19e5cfb7932213d519fa87c835f5672",
+      "bytes": 282920
+    },
+    "es": {
+      "sha256": "bf33c7ee89b5b39aa80d35e1610d877999cbe7d49df950d2562ea2f9642c5fa9",
+      "bytes": 285188
+    },
+    "it": {
+      "sha256": "236608f83009b19b38c3d5a10182b07506be4629a52fcba5552fb043e98ac6fa",
+      "bytes": 283638
+    },
+    "de": {
+      "sha256": "cc7b653594e9981601eb1b39b4681061e49eb2c55166b84851860631e0b20b6c",
+      "bytes": 285021
+    },
+    "pt-br": {
+      "sha256": "3305dfc7c4e44d15424958e9bd6b9928e9ec2d16d649479f2f1311bb52034065",
+      "bytes": 285074
+    },
+    "zh-tw": {
+      "sha256": "c71d531e6e57fabf901e41d37fc951637489813a8913452bd6765ceb304ec98f",
+      "bytes": 281365
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1433,
+    "output_tokens_details": {
+      "reasoning_tokens": 473
+    },
+    "total_tokens": 4921
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Zangoose",
+        "illustrator": "DOM",
+        "description": "It’s Seviper’s archenemy. To threaten those it encounters, it fans out the claws on its front paws.",
+        "attacks": [
+          {
+            "name": "Claw Slash",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Immunity",
+            "effect": "This Pokémon can’t be affected by any Special Conditions."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Mangriff",
+        "illustrator": "DOM",
+        "description": "Mangriff est l’ennemi juré de Séviper. Quand il le croise, il sort instantanément ses griffes pour l’intimider.",
+        "attacks": [
+          {
+            "name": "Tranch'Griffe",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Vaccin",
+            "effect": "Ce Pokémon ne peut être affecté par aucun État Spécial."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Zangoose",
+        "illustrator": "DOM",
+        "description": "Le une una relación de enemistad con Seviper. Al toparse con uno, alarga sus afiladas zarpas para intimidarlo.",
+        "attacks": [
+          {
+            "name": "Cuchillada Garra",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Inmunidad",
+            "effect": "Este Pokémon no puede verse afectado por ninguna Condición Especial."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Zangoose",
+        "illustrator": "DOM",
+        "description": "Acerrimo nemico di Seviper. Quando lo incontra, sfodera subito gli artigli per minacciarlo.",
+        "attacks": [
+          {
+            "name": "Lacerartiglio",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Immunità",
+            "effect": "Questo Pokémon non può essere influenzato da condizioni speciali."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Sengo",
+        "illustrator": "DOM",
+        "description": "Dieses Pokémon ist der Erzfeind von Vipitis. Begegnet es ihm, fährt es unverzüglich die Klauen an den Vorderbeinen aus, um es einzuschüchtern.",
+        "attacks": [
+          {
+            "name": "Klauenschlitzer",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Immunität",
+            "effect": "Dieses Pokémon kann nicht von Speziellen Zuständen betroffen werden."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Zangoose",
+        "illustrator": "DOM",
+        "description": "O arqui-inimigo de Seviper. Para ameaçar aqueles que encontra, exibe as garras em suas patas dianteiras.",
+        "attacks": [
+          {
+            "name": "Golpe de Garra",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Imunidade",
+            "effect": "Este Pokémon não pode ser afetado por quaisquer Condições Especiais."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "貓鼬斬",
+        "illustrator": "DOM",
+        "description": "和飯匙蛇是死對頭。一旦撞見彼此，就會立刻張開鋒利的爪子來威嚇對方。",
+        "attacks": [
+          {
+            "name": "利爪劈擊",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "免疫",
+            "effect": "這隻寶可夢不會陷入特殊狀態。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

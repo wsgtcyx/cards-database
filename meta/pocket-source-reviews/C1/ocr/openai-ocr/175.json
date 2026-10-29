@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-175",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "df79aea1859fbe80e4fe77ecbf29aebebb4c32e88b363c8214ecd3bc719753c5",
+      "bytes": 338413
+    },
+    "fr": {
+      "sha256": "c767b7685bdd0253eb4a66ad61b7f26f8271b803b7cf1968a4f36b60022a3a6a",
+      "bytes": 339564
+    },
+    "es": {
+      "sha256": "f616c9f28040ba03796af3436f8b0018ff1be9b445c39c25782af663cdc9e6f9",
+      "bytes": 339196
+    },
+    "it": {
+      "sha256": "c8387e96a0b6e5b3bdfd60c29acc19b5ea1e5a652f0e9facf73b8445d20a8213",
+      "bytes": 339377
+    },
+    "de": {
+      "sha256": "8b048d886dea70c64da61cdf9c449664cfedf8a3b2c2f2f1b608eff7534a5b97",
+      "bytes": 340430
+    },
+    "pt-br": {
+      "sha256": "8484bea89530f149f94c2433bafe8d84842d925a1da2b50114a02e965499a56c",
+      "bytes": 340275
+    },
+    "zh-tw": {
+      "sha256": "9d56a48570c19501d4a086da42bc045ddfa3a53d2cddbb79a6fcf1d61070c27e",
+      "bytes": 335625
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1526,
+    "output_tokens_details": {
+      "reasoning_tokens": 812
+    },
+    "total_tokens": 3486
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Mewtwo X ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Dual Impact",
+            "effect": "If a Stadium is in play, this attack does 40 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Mewtwo X ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impact Double",
+            "effect": "Si un Stade est en jeu, cette attaque inflige 40 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Mewtwo X ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Dual",
+            "effect": "Si hay un Estadio en juego, este ataque hace 40 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Mewtwo X ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impatto Duale",
+            "effect": "Se c'è in gioco una carta Stadio, questo attacco infligge 40 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Mewtu X ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Doppelter Stoß",
+            "effect": "Wenn eine Stadionkarte im Spiel ist, fügt diese Attacke 40 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Mewtwo X ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Dobrado",
+            "effect": "Se um Estádio estiver em jogo, este ataque causará 40 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級超夢X ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "雙元衝擊",
+            "effect": "若場上有競技場卡，則給予40點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "The illustrator text is very small and difficult to read; transcribed from the visible signature but not fully certain."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "The illustrator text is very small and difficult to read; transcribed from the visible signature but not fully certain."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "The illustrator text is very small and difficult to read; transcribed from the visible signature but not fully certain."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "The illustrator text is very small and difficult to read; transcribed from the visible signature but not fully certain."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "The illustrator text is very small and difficult to read; transcribed from the visible signature but not fully certain."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "The illustrator text is very small and difficult to read; transcribed from the visible signature but not fully certain."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator text is very small and difficult to read; transcribed from the visible signature but not fully certain."
+      }
+    ]
+  }
+}

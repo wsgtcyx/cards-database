@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-040",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "dee7aef2516d5dcab9eb33add2cb958f0162410bbbe3507698d38f1d74a6449d",
+      "bytes": 285001
+    },
+    "fr": {
+      "sha256": "d957ef6639907a62dd37d9edacffbffb72cefc78cbc1810b7a108133d5742cc5",
+      "bytes": 285561
+    },
+    "es": {
+      "sha256": "57a0449bfea9bd133fa76ef7edfa91167ee3fdff2917c96738a4b24ae391b030",
+      "bytes": 285827
+    },
+    "it": {
+      "sha256": "d7af4977c39d63c33caaf257acfb19ad80abfa47d8e12fc83f54ef7c7fa98590",
+      "bytes": 284061
+    },
+    "de": {
+      "sha256": "39d123f1af05a720d08c23eab3f015e485a6919d9a4d89aa577dc170fbdd3dcb",
+      "bytes": 285413
+    },
+    "pt-br": {
+      "sha256": "56ebd8fae2734a94933a015ce0824ac9a872a16ba82965c0379c42dfe83cc56b",
+      "bytes": 286096
+    },
+    "zh-tw": {
+      "sha256": "89f2453df1dc52c02ac87c125bca632cccdb53157bb83f03b95efd4e0fc2cb88",
+      "bytes": 284233
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1557,
+    "output_tokens_details": {
+      "reasoning_tokens": 953
+    },
+    "total_tokens": 3517
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Froakie",
+        "illustrator": "Asuyu Uki",
+        "description": "Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed.",
+        "attacks": [
+          {
+            "name": "Pound",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Grenousse",
+        "illustrator": "Asuyu Uki",
+        "description": "Son apparente nonchalance est trompeuse. Il change soudainement d'attitude et domine ses adversaires en un clin d'œil.",
+        "attacks": [
+          {
+            "name": "Écras'Face",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Froakie",
+        "illustrator": "Asuyu Uki",
+        "description": "Su aire despreocupado no es más que una fachada con la que engaña a sus enemigos para después arrollarlos a una velocidad asombrosa.",
+        "attacks": [
+          {
+            "name": "Destructor",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Froakie",
+        "illustrator": "Asuyu Uki",
+        "description": "La sua aria spensierata è solo una messinscena per ingannare il nemico e sopraffarlo d'improvviso a gran velocità.",
+        "attacks": [
+          {
+            "name": "Botta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Froxy",
+        "illustrator": "Asuyu Uki",
+        "description": "Es wirkt unbekümmert, doch damit täuscht es nur Gegner, um sie dann plötzlich mit unüberfalliger Geschwindigkeit zu überwältigen.",
+        "attacks": [
+          {
+            "name": "Klaps",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Froakie",
+        "illustrator": "Asuyu Uki",
+        "description": "Seu ar alegre e despreocupado é uma farsa para enganar seus oponentes. De repente, abandona a fachada e os atordoa com sua velocidade ofuscante.",
+        "attacks": [
+          {
+            "name": "Pancada",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "呱呱泡蛙",
+        "illustrator": "Asuyu Uki",
+        "description": "看起來悠然自得的樣子其實是故意裝成的樣子。會冷不防地現身，並以迅猛的速度打倒對手。",
+        "attacks": [
+          {
+            "name": "拍擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "The final word is difficult to read in the image; transcribed tentatively as \"unüberfalliger\"."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is partially hard to read; transcription may not be exact."
+      }
+    ]
+  }
+}

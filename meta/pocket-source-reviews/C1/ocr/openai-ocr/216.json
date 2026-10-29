@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-216",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "c5ec00cb5532cef2c8d6852cbebf274843e60b41cb44a39d4d473d5a4c2c2319",
+      "bytes": 318172
+    },
+    "fr": {
+      "sha256": "0ede2a03c29b88ae04f9963a9d92b057a83508095e6bef0af651426ec3584d3b",
+      "bytes": 321561
+    },
+    "es": {
+      "sha256": "c1bc8572cf950aa04339209bd5d82055a1400ce9a7498d051039430cf039ec28",
+      "bytes": 317567
+    },
+    "it": {
+      "sha256": "8d5448e97c95f1ecbe706f40c252dd39d30d5a86031043398478c4a6307bdb09",
+      "bytes": 318492
+    },
+    "de": {
+      "sha256": "533dbd9bdaf3d7dde5dc9699e3009b4c50bc3ebee6c78d84378bb8c3d5a429f9",
+      "bytes": 320775
+    },
+    "pt-br": {
+      "sha256": "22d9fe94427c3aec55a935fb990481b3ee031a0b4b266f515eb49d43c352058f",
+      "bytes": 319385
+    },
+    "zh-tw": {
+      "sha256": "76306a9853c9533c9ced493c8c95ca3f3bfbfffa026b18625557d05d068cab08",
+      "bytes": 311698
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2089,
+    "output_tokens_details": {
+      "reasoning_tokens": 961
+    },
+    "total_tokens": 4049
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pawmot",
+        "illustrator": "Illus. PLANETA CG Works",
+        "description": "This Pokémon normally is slow to react, but once it enters battle, it will quickly adapt to the lightning-fast movements.",
+        "attacks": [
+          {
+            "name": "Mach Bolt",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrification",
+            "effect": "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to the {L} Pokémon in the Active Spot."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pohmarmotte",
+        "illustrator": "Illus. PLANETA CG Works",
+        "description": "Ce Pokémon est à la fois très lent, mais une fois qu'il se bat, il s'habitue aux mouvements ultra-rapides.",
+        "attacks": [
+          {
+            "name": "Éclair Fulgurant",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Électrocération",
+            "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie {L} de votre zone Énergie et l'attacher au Pokémon {L} sur le Poste Actif."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Pawmot",
+        "illustrator": "Illus. PLANETA CG Works",
+        "description": "Este Pokémon normalmente es lento para reaccionar, pero una vez en combate, tiende a ser muy ágil.",
+        "attacks": [
+          {
+            "name": "Rayo Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrocución",
+            "effect": "Una vez durante tu turno, puedes unir 1 Energía {L} de tu área de Energía al Pokémon {L} en el Puesto Activo."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Pawmot",
+        "illustrator": "Illus. PLANETA CG Works",
+        "description": "Di solito è piuttosto lento, ma quando si trova in battaglia si mostra molto più reattivo.",
+        "attacks": [
+          {
+            "name": "Fulmine Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Elettrogenerazione",
+            "effect": "Una sola volta durante il tuo turno, puoi prendere un'Energia {L} dalla tua Zona ენერგia e assegnarla al Pokémon {L} in posizione attiva."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Pamomamo",
+        "illustrator": "Illus. PLANETA CG Works",
+        "description": "Dieses Pokémon ist für gewöhnlich sehr träge, doch sobald es im Kampf beginnt, spricht es den Gegner mit blitzschnellen Bewegungen an.",
+        "attacks": [
+          {
+            "name": "Flotter Sprung",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Stromerzeugung",
+            "effect": "Einmal während deines Zuges kannst du 1 {L}-Energie aus deinem Energiebereich an dein Aktives {L}-Pokémon anlegen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pawmot",
+        "illustrator": "Illus. PLANETA CG Works",
+        "description": "Este Pokémon costuma demorar para reagir, mas quando entra na batalha, chama os oponentes com movimentos que são rápidos na velocidade da luz.",
+        "attacks": [
+          {
+            "name": "Raio Supersônico",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Eletrocriação",
+            "effect": "Uma vez durante o seu turno, você poderá pegar 1 Energia {L} da sua Zona de Energia e ligá-la ao Pokémon {L} no Campo Ativo."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "巴布土撥",
+        "illustrator": "Illus. PLANETA CG Works",
+        "description": "這個寶可夢平時反應很慢，但一旦進入戰鬥，就會變得非常敏捷。",
+        "attacks": [
+          {
+            "name": "音速快特",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "造電",
+            "effect": "在自己的回合中，可使用1次。從自己的能量區抽出1個{L}能量，附於場上的戰鬥寶可夢上。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "name",
+        "reason": "The top name is legible but small; transcription may be slightly off."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; wording may differ slightly from the transcription."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks",
+        "reason": "Attack name is small and partially blurred; transcription may be slightly off."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "abilities",
+        "reason": "Ability name and effect are small and partially blurred; transcription may be slightly off."
+      }
+    ]
+  }
+}

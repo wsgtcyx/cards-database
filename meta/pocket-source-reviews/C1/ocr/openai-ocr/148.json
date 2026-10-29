@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-148",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "2b1d24d821cd86342391d3ada35564e275c31e03e2b51c2fdb51a52b0c1f09f9",
+      "bytes": 332680
+    },
+    "fr": {
+      "sha256": "88a9cdf1f0cf5787269959a45ff577c9997fd7a93d160aea99f2b61d9fa247ee",
+      "bytes": 333515
+    },
+    "es": {
+      "sha256": "108fee9ce03057f0c91648cad619a0c7267e8e0e55e7ed5b3a933e7f886b002a",
+      "bytes": 332818
+    },
+    "it": {
+      "sha256": "ce51afde64c1baddc22ca1da3f48bb697112c4415617a1d64f3b658f4fc38a70",
+      "bytes": 333461
+    },
+    "de": {
+      "sha256": "a632c35c9686fe4bb59b3a9690e0cd5e01bce33f154556ef57b461d4a9096cdb",
+      "bytes": 333388
+    },
+    "pt-br": {
+      "sha256": "251455d62457ecb0f80ca8a1329713e8cf689e884b795635a45d8155358207ed",
+      "bytes": 334301
+    },
+    "zh-tw": {
+      "sha256": "9e20663cc785a0bd0162e0a7041bc7c600cdccb8d6a72755d2c86eb444ad96ff",
+      "bytes": 330413
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1549,
+    "output_tokens_details": {
+      "reasoning_tokens": 896
+    },
+    "total_tokens": 3509
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Gengar",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Twilight Poison",
+            "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Ectoplasma",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Poison Nocturne",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Endormi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Gengar",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Veneno Ocaso",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado y Dormido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Gengar",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Veleno Crepuscolare",
+            "effect": "Il Pokémon attivo del tuo avversario viene avvelenato e addormentato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Gengar",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Dämmrigift",
+            "effect": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet und schläft."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Gengar",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Veneno do Crepúsculo",
+            "effect": "O Pokémon Ativo do seu oponente agora está Envenenado e Adormecido."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "耿鬼",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "薄暮之毒",
+            "effect": "對手的戰鬥寶可夢陷入中毒與睡眠狀態。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is too blurry to transcribe reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is too blurry to transcribe reliably."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is too blurry to transcribe reliably."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is too blurry to transcribe reliably."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is too blurry to transcribe reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is too blurry to transcribe reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Small bottom-right flavor text is too blurry to transcribe reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "Attack effect text is partially blurry; transcription may be imprecise."
+      }
+    ]
+  }
+}

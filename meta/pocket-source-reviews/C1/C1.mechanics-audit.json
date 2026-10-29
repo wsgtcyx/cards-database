@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "setId": "C1",
+  "counts": {
+    "hp": 197,
+    "stage": 197,
+    "types": 197,
+    "retreat": 197,
+    "weakness": 197,
+    "evolveFrom": 197,
+    "attackCount": 197,
+    "attackCost": 212,
+    "damage": 212
+  },
+  "issues": [],
+  "passed": true,
+  "method": "RaenonX game master chosen; pinned DeckGym independently checks numeric mechanics, types, evolution and costs"
+}

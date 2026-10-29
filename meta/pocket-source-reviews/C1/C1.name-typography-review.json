@@ -1,0 +1,674 @@
+[
+  {
+    "cardId": "C1-005",
+    "locale": "de",
+    "previous": "Alola-Kokowei ex",
+    "chosen": "Alola-Kokowei-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-005",
+    "locale": "it",
+    "previous": "Exeggutor di Alola ex",
+    "chosen": "Exeggutor di Alola-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-025",
+    "locale": "de",
+    "previous": "Krokel ex",
+    "chosen": "Krokel-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-025",
+    "locale": "it",
+    "previous": "Fuecoco ex",
+    "chosen": "Fuecoco-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-042",
+    "locale": "de",
+    "previous": "Mega-Quajutsu ex",
+    "chosen": "Mega-Quajutsu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-042",
+    "locale": "it",
+    "previous": "Mega Greninja ex",
+    "chosen": "Mega Greninja-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-043",
+    "locale": "de",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-043",
+    "locale": "it",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-056",
+    "locale": "de",
+    "previous": "Mega-Mewtu X ex",
+    "chosen": "Mega-Mewtu X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-056",
+    "locale": "it",
+    "previous": "Mega-Mewtwo X ex",
+    "chosen": "Mega-Mewtwo X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-057",
+    "locale": "de",
+    "previous": "Mew ex",
+    "chosen": "Mew-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-057",
+    "locale": "it",
+    "previous": "Mew ex",
+    "chosen": "Mew-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-080",
+    "locale": "de",
+    "previous": "Wolwerock ex",
+    "chosen": "Wolwerock-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-080",
+    "locale": "it",
+    "previous": "Lycanroc ex",
+    "chosen": "Lycanroc-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-085",
+    "locale": "de",
+    "previous": "Mega-Despotar ex",
+    "chosen": "Mega-Despotar-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-085",
+    "locale": "it",
+    "previous": "Mega Tyranitar ex",
+    "chosen": "Mega Tyranitar-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-091",
+    "locale": "de",
+    "previous": "Mega-Panzaeron ex",
+    "chosen": "Mega-Panzaeron-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-091",
+    "locale": "it",
+    "previous": "Mega-Skarmory ex",
+    "chosen": "Mega-Skarmory-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-100",
+    "locale": "de",
+    "previous": "Mega-Dragoran ex",
+    "chosen": "Mega-Dragoran-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-100",
+    "locale": "it",
+    "previous": "Mega-Dragonite ex",
+    "chosen": "Mega-Dragonite-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-101",
+    "locale": "de",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-101",
+    "locale": "it",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-118",
+    "locale": "de",
+    "previous": "Kosturso ex",
+    "chosen": "Kosturso-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-118",
+    "locale": "it",
+    "previous": "Bewear ex",
+    "chosen": "Bewear-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-153",
+    "locale": "de",
+    "previous": "Alola-Kokowei ex",
+    "chosen": "Alola-Kokowei-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-153",
+    "locale": "it",
+    "previous": "Exeggutor di Alola ex",
+    "chosen": "Exeggutor di Alola-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-154",
+    "locale": "de",
+    "previous": "Krokel ex",
+    "chosen": "Krokel-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-154",
+    "locale": "it",
+    "previous": "Fuecoco ex",
+    "chosen": "Fuecoco-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-155",
+    "locale": "de",
+    "previous": "Mega-Quajutsu ex",
+    "chosen": "Mega-Quajutsu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-155",
+    "locale": "it",
+    "previous": "Mega Greninja ex",
+    "chosen": "Mega Greninja-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-156",
+    "locale": "de",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-156",
+    "locale": "it",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-157",
+    "locale": "de",
+    "previous": "Mega-Mewtu X ex",
+    "chosen": "Mega-Mewtu X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-157",
+    "locale": "it",
+    "previous": "Mega-Mewtwo X ex",
+    "chosen": "Mega-Mewtwo X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-158",
+    "locale": "de",
+    "previous": "Mew ex",
+    "chosen": "Mew-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-158",
+    "locale": "it",
+    "previous": "Mew ex",
+    "chosen": "Mew-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-159",
+    "locale": "de",
+    "previous": "Wolwerock ex",
+    "chosen": "Wolwerock-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-159",
+    "locale": "it",
+    "previous": "Lycanroc ex",
+    "chosen": "Lycanroc-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-160",
+    "locale": "de",
+    "previous": "Mega-Despotar ex",
+    "chosen": "Mega-Despotar-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-160",
+    "locale": "it",
+    "previous": "Mega Tyranitar ex",
+    "chosen": "Mega Tyranitar-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-161",
+    "locale": "de",
+    "previous": "Mega-Panzaeron ex",
+    "chosen": "Mega-Panzaeron-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-161",
+    "locale": "it",
+    "previous": "Mega-Skarmory ex",
+    "chosen": "Mega-Skarmory-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-162",
+    "locale": "de",
+    "previous": "Mega-Dragoran ex",
+    "chosen": "Mega-Dragoran-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-162",
+    "locale": "it",
+    "previous": "Mega-Dragonite ex",
+    "chosen": "Mega-Dragonite-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-163",
+    "locale": "de",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-163",
+    "locale": "it",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-164",
+    "locale": "de",
+    "previous": "Kosturso ex",
+    "chosen": "Kosturso-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-164",
+    "locale": "it",
+    "previous": "Bewear ex",
+    "chosen": "Bewear-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-171",
+    "locale": "de",
+    "previous": "Alola-Kokowei ex",
+    "chosen": "Alola-Kokowei-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-171",
+    "locale": "it",
+    "previous": "Exeggutor di Alola ex",
+    "chosen": "Exeggutor di Alola-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-172",
+    "locale": "de",
+    "previous": "Krokel ex",
+    "chosen": "Krokel-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-172",
+    "locale": "it",
+    "previous": "Fuecoco ex",
+    "chosen": "Fuecoco-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-173",
+    "locale": "de",
+    "previous": "Mega-Quajutsu ex",
+    "chosen": "Mega-Quajutsu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-173",
+    "locale": "it",
+    "previous": "Mega Greninja ex",
+    "chosen": "Mega Greninja-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-174",
+    "locale": "de",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-174",
+    "locale": "it",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-175",
+    "locale": "de",
+    "previous": "Mega-Mewtu X ex",
+    "chosen": "Mega-Mewtu X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-175",
+    "locale": "it",
+    "previous": "Mega-Mewtwo X ex",
+    "chosen": "Mega-Mewtwo X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-176",
+    "locale": "de",
+    "previous": "Mew ex",
+    "chosen": "Mew-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-176",
+    "locale": "it",
+    "previous": "Mew ex",
+    "chosen": "Mew-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-177",
+    "locale": "de",
+    "previous": "Wolwerock ex",
+    "chosen": "Wolwerock-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-177",
+    "locale": "it",
+    "previous": "Lycanroc ex",
+    "chosen": "Lycanroc-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-178",
+    "locale": "de",
+    "previous": "Mega-Despotar ex",
+    "chosen": "Mega-Despotar-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-178",
+    "locale": "it",
+    "previous": "Mega Tyranitar ex",
+    "chosen": "Mega Tyranitar-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-179",
+    "locale": "de",
+    "previous": "Mega-Panzaeron ex",
+    "chosen": "Mega-Panzaeron-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-179",
+    "locale": "it",
+    "previous": "Mega-Skarmory ex",
+    "chosen": "Mega-Skarmory-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-180",
+    "locale": "de",
+    "previous": "Mega-Dragoran ex",
+    "chosen": "Mega-Dragoran-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-180",
+    "locale": "it",
+    "previous": "Mega-Dragonite ex",
+    "chosen": "Mega-Dragonite-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-181",
+    "locale": "de",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-181",
+    "locale": "it",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-182",
+    "locale": "de",
+    "previous": "Kosturso ex",
+    "chosen": "Kosturso-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-182",
+    "locale": "it",
+    "previous": "Bewear ex",
+    "chosen": "Bewear-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-183",
+    "locale": "de",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-183",
+    "locale": "it",
+    "previous": "Pikachu ex",
+    "chosen": "Pikachu-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-185",
+    "locale": "de",
+    "previous": "Mega-Mewtu X ex",
+    "chosen": "Mega-Mewtu X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-185",
+    "locale": "it",
+    "previous": "Mega-Mewtwo X ex",
+    "chosen": "Mega-Mewtwo X-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-207",
+    "locale": "de",
+    "previous": "Mega-Gewaldro ex",
+    "chosen": "Mega-Gewaldro-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-207",
+    "locale": "it",
+    "previous": "Mega Sceptile ex",
+    "chosen": "Mega Sceptile-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-208",
+    "locale": "de",
+    "previous": "Tornupto ex",
+    "chosen": "Tornupto-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-208",
+    "locale": "it",
+    "previous": "Typhlosion ex",
+    "chosen": "Typhlosion-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-209",
+    "locale": "de",
+    "previous": "Mega-Galagladi ex",
+    "chosen": "Mega-Galagladi-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-209",
+    "locale": "it",
+    "previous": "Mega Gallade ex",
+    "chosen": "Mega Gallade-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-210",
+    "locale": "de",
+    "previous": "Wolwerock ex",
+    "chosen": "Wolwerock-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-210",
+    "locale": "it",
+    "previous": "Lycanroc ex",
+    "chosen": "Lycanroc-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-211",
+    "locale": "de",
+    "previous": "Mega-Dragoran ex",
+    "chosen": "Mega-Dragoran-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-211",
+    "locale": "it",
+    "previous": "Mega-Dragonite ex",
+    "chosen": "Mega-Dragonite-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-212",
+    "locale": "de",
+    "previous": "Mega-Ohrdoch ex",
+    "chosen": "Mega-Ohrdoch-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-212",
+    "locale": "it",
+    "previous": "Mega Audino ex",
+    "chosen": "Mega Audino-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-213",
+    "locale": "de",
+    "previous": "Hisui-Zoroark ex",
+    "chosen": "Hisui-Zoroark-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-213",
+    "locale": "it",
+    "previous": "Zoroark di Hisui ex",
+    "chosen": "Zoroark di Hisui-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-214",
+    "locale": "de",
+    "previous": "Kosturso ex",
+    "chosen": "Kosturso-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-214",
+    "locale": "it",
+    "previous": "Bewear ex",
+    "chosen": "Bewear-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-215",
+    "locale": "de",
+    "previous": "Krokel ex",
+    "chosen": "Krokel-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-215",
+    "locale": "it",
+    "previous": "Fuecoco ex",
+    "chosen": "Fuecoco-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-217",
+    "locale": "de",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  },
+  {
+    "cardId": "C1-217",
+    "locale": "it",
+    "previous": "Giratina ex",
+    "chosen": "Giratina-ex",
+    "reason": "Canonical de/it ex suffix typography shared with existing Pocket catalog"
+  }
+]

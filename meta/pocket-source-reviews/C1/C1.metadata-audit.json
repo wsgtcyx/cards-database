@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "setId": "C1",
+  "cards": 217,
+  "official": 131,
+  "secret": 86,
+  "names": 9,
+  "ruleLocales": 7,
+  "pokemon": 197,
+  "trainers": 20,
+  "mechanics": 144,
+  "nativeImages": 1519,
+  "r2Objects": 3042,
+  "pools": {
+    "mega-mewtwo-x": 113,
+    "pikachu": 113
+  },
+  "rewardOnly": [
+    "C1-152",
+    "C1-183",
+    "C1-185"
+  ],
+  "sourceJoinErrors": 0,
+  "localizationFindings": 0,
+  "unresolved": 0,
+  "passed": true
+}

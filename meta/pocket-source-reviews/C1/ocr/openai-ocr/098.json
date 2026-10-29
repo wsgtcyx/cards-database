@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-098",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "9c1abc0e5ba23bfd0dcc5dca2dc08569d81cb0386499a4a46083e42b5d0f2dfd",
+      "bytes": 249838
+    },
+    "fr": {
+      "sha256": "06ed8332d1b0bc1bf3d316c40a05200850a3184296d67ab0c65b37ba608f6522",
+      "bytes": 250532
+    },
+    "es": {
+      "sha256": "135635a90afbf2572052985b0e57e21eceb9472dce952e4ee217d65cdb91b952",
+      "bytes": 250283
+    },
+    "it": {
+      "sha256": "3402f71f22e610924340fbd67b53b54c2c79c671f24ce2ed3e32c1dff5f472f5",
+      "bytes": 249955
+    },
+    "de": {
+      "sha256": "5dec3625dba01d4e8743c4d81e3eb49b536a2c93e8d481694f49b5e6e4ca7622",
+      "bytes": 250121
+    },
+    "pt-br": {
+      "sha256": "1b2770076f02c8da2ee9fad82b3454851eb5a71e71424557e28e76849d472fec",
+      "bytes": 250842
+    },
+    "zh-tw": {
+      "sha256": "0048e717bcd1e64c319aeb121bfe0a68d00adc657da4ed08c1f8415548484288",
+      "bytes": 249778
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 912,
+    "output_tokens_details": {
+      "reasoning_tokens": 426
+    },
+    "total_tokens": 2872
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Dratini",
+        "illustrator": "kurumitsu",
+        "description": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.",
+        "attacks": [
+          {
+            "name": "Hook",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Minidraco",
+        "illustrator": "kurumitsu",
+        "description": "Ce Pokémon grandit en muant à répétition. Lors de ce processus, il s'abrite derrière une puissante cascade.",
+        "attacks": [
+          {
+            "name": "Crochet",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Dratini",
+        "illustrator": "kurumitsu",
+        "description": "Durante la etapa de crecimiento, muda muchas veces de piel y se protege mediante una cascada.",
+        "attacks": [
+          {
+            "name": "Garfio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Dratini",
+        "illustrator": "kurumitsu",
+        "description": "Cresce cambiando ripetutamente la pelle. Durante la muta, si protegge tra le acque impetuose di una cascata.",
+        "attacks": [
+          {
+            "name": "Uncino",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Dratini",
+        "illustrator": "kurumitsu",
+        "description": "Es häutet sich, um zu wachsen. Dabei wird es von einem tosenden Wasserfall geschützt.",
+        "attacks": [
+          {
+            "name": "Haken",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Dratini",
+        "illustrator": "kurumitsu",
+        "description": "Troca de pele várias vezes à medida que cresce. Durante este processo, é protegido por uma cachoeira agitada.",
+        "attacks": [
+          {
+            "name": "Gancho",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "迷你龍",
+        "illustrator": "kurumitsu",
+        "description": "會在直衝而下的瀑布 保護下成長。",
+        "attacks": [
+          {
+            "name": "鉤住",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially hard to read at this resolution; transcribed from visible text only and may be incomplete or slightly inaccurate."
+      }
+    ]
+  }
+}
