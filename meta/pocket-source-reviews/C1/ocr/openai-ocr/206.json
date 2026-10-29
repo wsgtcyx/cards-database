@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-206",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "1a9e13a3ee84747c0e1b0f12168f1b3091e1a203a11ec9072b974b4430173fa7",
+      "bytes": 283819
+    },
+    "fr": {
+      "sha256": "6358bea39869e010e42cac63c61aacb5b069adfd71618072d781ce7d8c437f0d",
+      "bytes": 285308
+    },
+    "es": {
+      "sha256": "68fb727f5c6db488cb0fb63ca19178041b79809ffc8e7565f586db47c7291edb",
+      "bytes": 284417
+    },
+    "it": {
+      "sha256": "ce7e8025939a3bc06618dac956feba873fc73e3b6432d8c1e6773ddafb63482d",
+      "bytes": 284486
+    },
+    "de": {
+      "sha256": "3ba8f051344512e4a7d9f81ed8d925d9a3d7a8b02d761d87817341b20f53f04b",
+      "bytes": 285598
+    },
+    "pt-br": {
+      "sha256": "63cc71f35f9798c9de32fc87038af5dd388d49f0d5d1ea65236b5ba444779952",
+      "bytes": 283950
+    },
+    "zh-tw": {
+      "sha256": "223e6321e73d856ff0e0ca41fe2880ffd6df7aaafb6cd3b4b6e4d4aa34a9e268",
+      "bytes": 284870
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1275,
+    "output_tokens_details": {
+      "reasoning_tokens": 734
+    },
+    "total_tokens": 3235
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Stufful",
+        "illustrator": "MAHOU",
+        "description": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+        "attacks": [
+          {
+            "name": "Beat",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Nounourson",
+        "illustrator": "MAHOU",
+        "description": "Sa fourrure duveteuse est très agréable à caresser, mais ceux qui la touchent sans prévenir s'exposent à une correction brutale.",
+        "attacks": [
+          {
+            "name": "Bataille",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Stufful",
+        "illustrator": "MAHOU",
+        "description": "Su suave pelaje invita a acariciarlo, pero quien cometa semejante temeridad recibirá un severo escarmiento.",
+        "attacks": [
+          {
+            "name": "Toque",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Stufful",
+        "illustrator": "MAHOU",
+        "description": "Il suo soffice manto è molto piacevole da accarezzare, ma se lo si sfiora involontariamente si rischia di venire attaccati.",
+        "attacks": [
+          {
+            "name": "Battuta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Velursi",
+        "illustrator": "MAHOU",
+        "description": "Sein Pelz ist wunderbar flauschig. Wagt man es jedoch, diesen zu berühren, setzt es sich ohne Rücksicht auf Verluste zur Wehr.",
+        "attacks": [
+          {
+            "name": "Verprügler",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Stufful",
+        "illustrator": "MAHOU",
+        "description": "O seu pelo fofinho é uma delícia de acariciar, mas tocá-lo sem muito cuidado pode resultar em uma retaliação dolorosa.",
+        "attacks": [
+          {
+            "name": "Pulso",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "童偶熊",
+        "illustrator": "MAHOU",
+        "description": "毛茸茸的毛皮摸起來感覺超舒服，但如果大意地向牠伸出手，會遭到劇烈的反擊。",
+        "attacks": [
+          {
+            "name": "敲擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small/blurred in the image; several characters could not be verified with confidence."
+      }
+    ]
+  }
+}

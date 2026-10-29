@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-068",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "9c36e3d039c11fa8bd4451ecf1317bd1a047fb9ab6c0b4af1868e5a2f7679f14",
+      "bytes": 308258
+    },
+    "fr": {
+      "sha256": "712b4f01ba5798f9ef7158052928044706e70b696a3d5d0013cf454c2a4501c4",
+      "bytes": 308969
+    },
+    "es": {
+      "sha256": "caf7365f52d6c28cb82a373876338c0043f0c6d4422ced164f6c0deb1191f282",
+      "bytes": 308481
+    },
+    "it": {
+      "sha256": "fe75791aa2bc91f9440cbb7744aeb2d49c559ad2b0ed9d67f469e12fa80d3274",
+      "bytes": 310196
+    },
+    "de": {
+      "sha256": "728a42c6277ec671e8412ee75e0e8f1680c82ef11085bed94454ce91616b38be",
+      "bytes": 310843
+    },
+    "pt-br": {
+      "sha256": "e0e340a8939f6957b43c27956fc739f2f595279d7be0ec1a8c7e7cd5fbd8858a",
+      "bytes": 309523
+    },
+    "zh-tw": {
+      "sha256": "16429cd1c80eb2ca7517a49010927d00915830242cd83b00a6194e8bb500f2ac",
+      "bytes": 306924
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1180,
+    "output_tokens_details": {
+      "reasoning_tokens": 278
+    },
+    "total_tokens": 4668
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Dugtrio",
+        "illustrator": "Yukiko Baba",
+        "description": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+        "attacks": [
+          {
+            "name": "Triple Smash",
+            "effect": "Flip 3 coins. This attack does 30 damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Triopikeur",
+        "illustrator": "Yukiko Baba",
+        "description": "Ses trois têtes pilonnent le sol pour le rendre friable et ainsi faciliter l’excavation.",
+        "attacks": [
+          {
+            "name": "Triple Éclate",
+            "effect": "Lancez 3 pièces. Cette attaque inflige 30 dégâts pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Dugtrio",
+        "illustrator": "Yukiko Baba",
+        "description": "Sus tres cabezas suben y bajan para remover la tierra cercana y facilitar así la excavación.",
+        "attacks": [
+          {
+            "name": "Golpe Triple",
+            "effect": "Lanza 3 monedas. Este ataque hace 30 puntos de daño por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Dugtrio",
+        "illustrator": "Yukiko Baba",
+        "description": "Le tre teste si muovono alternativamente per ammorbidire il terreno e renderlo così più facile da scavare.",
+        "attacks": [
+          {
+            "name": "Tripla Schiacciata",
+            "effect": "Lancia 3 volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Digdri",
+        "illustrator": "Yukiko Baba",
+        "description": "Seine drei Köpfe bewegen sich abwechselnd hinauf und hinunter, um das Erdreich um sich herum zu lockern und leichter graben zu können.",
+        "attacks": [
+          {
+            "name": "Dreifachschmetterer",
+            "effect": "Wirf 3 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Dugtrio",
+        "illustrator": "Yukiko Baba",
+        "description": "Suas três cabeças movem-se separadamente pra cima e pra baixo para amaciarem o solo ao redor, facilitando a escavação.",
+        "attacks": [
+          {
+            "name": "Pancada Tripla",
+            "effect": "Jogue 3 moedas. Este ataque causa 30 pontos de dano para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "三地鼠",
+        "illustrator": "Yukiko Baba",
+        "description": "三顆頭會輪流動，是為了讓周圍的土壤將更容易挖掘。",
+        "attacks": [
+          {
+            "name": "三重粉碎",
+            "effect": "擲3次硬幣，造成正面出現的次數×30點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The final line of the flavor text is pixelated; the character transcribed as「將」is not fully clear."
+      }
+    ]
+  }
+}

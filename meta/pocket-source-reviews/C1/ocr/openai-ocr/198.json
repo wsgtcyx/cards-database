@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-198",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "f4630e8847f20b8c8826d701237098a0ccf06e1d3e323489a4495ff21cd8561d",
+      "bytes": 303131
+    },
+    "fr": {
+      "sha256": "5e82c5c79a1724f849212f0121690be42359bc56e6fae731a4719cfbaef6bde2",
+      "bytes": 302549
+    },
+    "es": {
+      "sha256": "45b0ed2948e7905e087d31fa844996ace67edbed4a8ead568e38f0f11d330fe8",
+      "bytes": 302198
+    },
+    "it": {
+      "sha256": "42a275ae5f771695947384e553443cca2c15f41b78c8b4760124f0d927d5b658",
+      "bytes": 301087
+    },
+    "de": {
+      "sha256": "f9a67c5d247e96432d9969bc7c57862b4942ef3def8e4e0e2c30de3421f339ae",
+      "bytes": 302977
+    },
+    "pt-br": {
+      "sha256": "29d0ddfc5fb584f08e1ea627055209fb86c9a992607631e5d986fe5e3636ab96",
+      "bytes": 302832
+    },
+    "zh-tw": {
+      "sha256": "77980b84ee27f794de09ed9103ceff771c059c6830e9d374f785b9d846ab4b2b",
+      "bytes": 300575
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1481,
+    "output_tokens_details": {
+      "reasoning_tokens": 826
+    },
+    "total_tokens": 3441
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Lunala",
+        "illustrator": "Souchirou Gunjima",
+        "description": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.",
+        "attacks": [
+          {
+            "name": "Wings of the Moone",
+            "effect": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lunala",
+        "illustrator": "Souchirou Gunjima",
+        "description": "Il a pour surnom « celui qui invite la lune ». Il vit en transformant toutes sortes de lumière en énergie.",
+        "attacks": [
+          {
+            "name": "Ailes du Halo Lunaire",
+            "effect": "Déplacez toutes les Énergies de ce Pokémon vers vos Pokémon de Banc comme il vous plaît."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Lunala",
+        "illustrator": "Souchirou Gunjima",
+        "description": "Lo llaman la Criatura que Invoca a la Luna. Convierte cualquier forma de luz en energía para sustentarse.",
+        "attacks": [
+          {
+            "name": "Alas de la Luna",
+            "effect": "Mueve todas las Energías de este Pokémon a tus Pokémon en Banca de la manera que desees."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Lunala",
+        "illustrator": "Souchirou Gunjima",
+        "description": "Viene chiamato « la creatura che evoca la luna ». Converte qualsiasi tipo di luce in energia per sostentarsi.",
+        "attacks": [
+          {
+            "name": "Ali Lunari",
+            "effect": "Sposta tutte le Energie da questo Pokémon a quelli nella tua panchina nel modo che preferisci."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Lunala",
+        "illustrator": "Souchirou Gunjima",
+        "description": "Ihm wurde der Name „Mondbringer“ verliehen. Solange es lebt, wandelt es jedes Licht in Energie um.",
+        "attacks": [
+          {
+            "name": "Mondscheiben-Flügel",
+            "effect": "Verschiebe alle Energien von diesem Pokémon beliebig auf die Pokémon auf deiner Bank."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Lunala",
+        "illustrator": "Souchirou Gunjima",
+        "description": "Conhecido como A Criatura Que Traz a Lua, este Pokémon converte toda a luz ao seu alcance em sua própria energia para sobreviver.",
+        "attacks": [
+          {
+            "name": "Asas Lunares",
+            "effect": "Mova todas as Energias deste Pokémon para os seus Pokémon no Banco como desejar."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "露奈雅拉",
+        "illustrator": "Souchirou Gunjima",
+        "description": "被稱為邀引月亮之獸，將一切的光轉化為能量來維持生命。",
+        "attacks": [
+          {
+            "name": "月輪之翼",
+            "effect": "將這隻寶可夢身上的能量，全部以任意方式附於備戰寶可夢身上。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

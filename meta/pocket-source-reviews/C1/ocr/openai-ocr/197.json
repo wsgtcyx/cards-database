@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-197",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "ab3c10ce067900f9e10019b367b3aabfab2221724fda6ba92dc18534ef289d6c",
+      "bytes": 300622
+    },
+    "fr": {
+      "sha256": "48403bcceba926707171114a8afa7085f1244e6fac1a3dd32b76139567ac0105",
+      "bytes": 302366
+    },
+    "es": {
+      "sha256": "0a9649a362001c5072abfd1c28a0d28af5012f39adb63e63ab12da17596f0791",
+      "bytes": 301013
+    },
+    "it": {
+      "sha256": "a29273d0e8b5fdc108a38c2f0611d69378d60cdff5ee50195d56961981b8df81",
+      "bytes": 301192
+    },
+    "de": {
+      "sha256": "e90fec47e575efce5c968348f891bc41c5fc134d604e782ec40598356f2437b4",
+      "bytes": 302524
+    },
+    "pt-br": {
+      "sha256": "26beb78d013abfed5b9edef0c48b2c1f2abce98425e451553031d0954677d5db",
+      "bytes": 302225
+    },
+    "zh-tw": {
+      "sha256": "c1b272d1a6f99c0e9a363023b68d328064cfb688e5a44f668955b5eb0f13af5e",
+      "bytes": 296670
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 721,
+    "output_tokens_details": {
+      "reasoning_tokens": 93
+    },
+    "total_tokens": 2681
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Alakazam",
+        "illustrator": "MAHOU",
+        "description": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+        "attacks": [
+          {
+            "name": "Mind Jack",
+            "effect": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Alakazam",
+        "illustrator": "MAHOU",
+        "description": "Doué d'une intelligence hors du commun, ce Pokémon serait capable de conserver tous ses souvenirs, de sa naissance jusqu'à sa mort.",
+        "attacks": [
+          {
+            "name": "Emprise Mentale",
+            "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Alakazam",
+        "illustrator": "MAHOU",
+        "description": "Posee una capacidad intelectual fuera de lo común que le permite recordar todo lo sucedido desde el instante de su nacimiento.",
+        "attacks": [
+          {
+            "name": "Levantamente",
+            "effect": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Alakazam",
+        "illustrator": "MAHOU",
+        "description": "Possiede un intelletto estremamente elevato e si dice sia in grado di ricordare ogni evento della sua vita, dalla nascita alla morte.",
+        "attacks": [
+          {
+            "name": "Sollevamente",
+            "effect": "Questo attacco infligge 30 danni in più per ogni Pokémon nella panchina del tuo avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Simsala",
+        "illustrator": "MAHOU",
+        "description": "Es verfügt über extrem hohe Intelligenz und soll sich an alles erinnern können, was zwischen seiner Geburt und seinem Tod passiert.",
+        "attacks": [
+          {
+            "name": "Gedankenstoß",
+            "effect": "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 30 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Alakazam",
+        "illustrator": "MAHOU",
+        "description": "Tem um nível de inteligência incrivelmente alto. Alguns dizem que Alakazam se lembra de tudo que acontece na sua vida, do nascimento até a morte.",
+        "attacks": [
+          {
+            "name": "Tomada Mental",
+            "effect": "Este ataque causa 30 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "胡地",
+        "illustrator": "MAHOU",
+        "description": "據稱非常高的智商。據說牠能記住出生到死亡這一輩子發生的所有事情。",
+        "attacks": [
+          {
+            "name": "意志劫持",
+            "effect": "增加對手備戰寶可夢的數量 × 30點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

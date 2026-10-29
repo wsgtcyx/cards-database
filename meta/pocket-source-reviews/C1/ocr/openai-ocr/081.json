@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-081",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "f57fdbc3b3807652172838cf37493ea6c5d3f3df3d287bbebe95b6cd56d8a46a",
+      "bytes": 308368
+    },
+    "fr": {
+      "sha256": "b0552533fc83fe2752d8c7284bd2dfc49cff107b5c1bc7d1bb54297418c4788e",
+      "bytes": 309837
+    },
+    "es": {
+      "sha256": "44e6c697cf46bed9019896ee1baa195e9c383ea05e84558a4414ce64af9edab9",
+      "bytes": 308495
+    },
+    "it": {
+      "sha256": "55f50aec09d30f2eb7db5495c6eca73808c766c376744626253cade4b82d9f0a",
+      "bytes": 308889
+    },
+    "de": {
+      "sha256": "567f20bf6183c8031d7778741854c83458eb3023ea57f1b777e1daa0175320da",
+      "bytes": 309433
+    },
+    "pt-br": {
+      "sha256": "016548a4e058a262ba3dc426d8b137afd657c40784bbf4beff20bbdf18b8d421",
+      "bytes": 309566
+    },
+    "zh-tw": {
+      "sha256": "3acc3742f3c687a0ad60f4fc4285897b46270f33e2f908feace110206bf97ded",
+      "bytes": 306649
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1180,
+    "output_tokens_details": {
+      "reasoning_tokens": 543
+    },
+    "total_tokens": 3140
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Gastly",
+        "illustrator": "Shibuzoh.",
+        "description": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+        "attacks": [
+          {
+            "name": "Severe Gas",
+            "effect": "Your opponent's Active Pokémon is now Poisoned."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Fantominus",
+        "illustrator": "Shibuzoh.",
+        "description": "Il enveloppe ses proies dans le nuage de gaz que forment son corps et les empoisonne à travers leur peau afin de les affaiblir petit à petit.",
+        "attacks": [
+          {
+            "name": "Gaz Intense",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Gastly",
+        "illustrator": "Shibuzoh.",
+        "description": "Su estrategia consiste en envolver al rival con su cuerpo gaseoso y envenenarlo a través de la piel.",
+        "attacks": [
+          {
+            "name": "Gas Grave",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Envenenado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Gastly",
+        "illustrator": "Shibuzoh.",
+        "description": "Avvolge le prede nel corpo gassoso e le indebolisce lentamente facendole penetrare il veleno nella loro pelle.",
+        "attacks": [
+          {
+            "name": "Gas Infestante",
+            "effect": "Il Pokémon attivo del tuo avversario viene avvelenato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Nebulak",
+        "illustrator": "Shibuzoh.",
+        "description": "Es hüllt seine Beute in seinen Gas-Körper ein und schwächt sie, indem es sie nach und nach über die Haut vergiftet.",
+        "attacks": [
+          {
+            "name": "Übler Gestank",
+            "effect": "Das Aktive Pokémon deines Gegners ist jetzt vergiftet."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Gastly",
+        "illustrator": "Shibuzoh.",
+        "description": "O Pokémon de seu oponente em seu corpo gasoso, enfraquecendo sua presa lentamente e envenenando pela pele.",
+        "attacks": [
+          {
+            "name": "Gás Severo",
+            "effect": "O Pokémon Ativo do seu oponente agora está Envenenado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "鬼斯",
+        "illustrator": "Shibuzoh.",
+        "description": "將對手的寶可夢包覆在可變中毒",
+        "attacks": [
+          {
+            "name": "惡毒氣體",
+            "effect": "將對手的戰鬥寶可夢變為中毒"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially unreadable; transcription may be incomplete or inaccurate."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is very small and only partially legible; transcription likely incomplete."
+      }
+    ]
+  }
+}

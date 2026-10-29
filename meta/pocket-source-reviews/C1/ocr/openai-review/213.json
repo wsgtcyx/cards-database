@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-213",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "5358440012932b90f930da4538aa7aa3d486651e9122966484b6c1ea758daf41",
+      "bytes": 315526
+    },
+    "fr": {
+      "sha256": "243b1501c8fcc372bf0b48261a557499963f090c4103cb3981c9c5a627e067be",
+      "bytes": 317467
+    },
+    "es": {
+      "sha256": "4a8b7fe88f24b65011180f2537dfb0edf34e3cfc7f1b3b77c363d4b2cf0c71d1",
+      "bytes": 317025
+    },
+    "it": {
+      "sha256": "af71697791365d0f511c386c6a3c860237183c125cbfc42766f75ee679bcf4c3",
+      "bytes": 317512
+    },
+    "de": {
+      "sha256": "c8a1f823ede58ff9c6fcb0e238d1136542bb9cb69890350381a800c9df5ad968",
+      "bytes": 317184
+    },
+    "pt-br": {
+      "sha256": "47f7b17e78cbd55f06393054443b3e6b9312629f8819da4ae5e6b7760d44e41a",
+      "bytes": 316888
+    },
+    "zh-tw": {
+      "sha256": "cee7b464420eef99da8d0d2149687a0f7ac19a711e976d8b6733a565b70724dc",
+      "bytes": 313632
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3485
+    },
+    "output_tokens": 1186,
+    "output_tokens_details": {
+      "reasoning_tokens": 474
+    },
+    "total_tokens": 4674
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Hisuian Zoroark ex",
+        "illustrator": "PLANETA Mochizuki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Spiteful Illusion",
+            "effect": "This attack does 20 more damage for each Pokémon in your discard pile."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Zoroark de Hisui ex",
+        "illustrator": "PLANETA Mochizuki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Illusion de Rancœur",
+            "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon dans votre pile de défausse."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Zoroark de Hisui ex",
+        "illustrator": "PLANETA Mochizuki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Ilusión Malévola",
+            "effect": "Este ataque hace 20 puntos de daño más por cada Pokémon en tu pila de descartes."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Zoroark di Hisui ex",
+        "illustrator": "PLANETA Mochizuki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Illusione Vendicativa",
+            "effect": "Questo attacco infligge 20 danni in più per ogni Pokémon nella tua pila degli scarti."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Hisui-Zoroark ex",
+        "illustrator": "PLANETA Mochizuki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Tückisches Trugbild",
+            "effect": "Diese Attacke fügt für jedes Pokémon auf deinem Ablagestapel 20 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Zoroark de Hisui ex",
+        "illustrator": "PLANETA Mochizuki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Ilusão Rancorosa",
+            "effect": "Este ataque causa 20 pontos de dano a mais para cada Pokémon na sua pilha de descarte."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "洗翠 索羅亞克ex",
+        "illustrator": "PLANETA Mochizuki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "怨恨幻影",
+            "effect": "增加自己的棄牌區的寶可夢卡的張數×20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

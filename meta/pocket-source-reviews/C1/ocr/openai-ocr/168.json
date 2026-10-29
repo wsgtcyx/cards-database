@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-168",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "03db6fd0a13f46afea97c89e5a946ef36924a782eb6d0729d0578a900cbe29b1",
+      "bytes": 299862
+    },
+    "fr": {
+      "sha256": "db009dcecfcb3a58b7e46404a537f9699815bbd277220be46d89213166ccbc45",
+      "bytes": 301821
+    },
+    "es": {
+      "sha256": "fce6c702ae701fe4d9c9c4764640b6690796355fa4ffcabd7acac79a6f2777c9",
+      "bytes": 300304
+    },
+    "it": {
+      "sha256": "57e74818e0f77180bf9c921ca58420aeec7fc4978790c2f7c908f98dc5b6129b",
+      "bytes": 300052
+    },
+    "de": {
+      "sha256": "aeba8b6cfa596679a20b1c030964f5b26c351b0cc0e12b9beff8dd6144caaf4f",
+      "bytes": 301170
+    },
+    "pt-br": {
+      "sha256": "414d7276bc925d0f5f382cb1328e1c03595647ff9a1ae37915fa2e8a9267cc18",
+      "bytes": 301121
+    },
+    "zh-tw": {
+      "sha256": "74cc0689a070c903a8f7ea74b6f8c55057ff612ab8a3ae84b2f38922f9cf2da9",
+      "bytes": 296337
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 726,
+    "output_tokens_details": {
+      "reasoning_tokens": 327
+    },
+    "total_tokens": 2686
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rika",
+        "illustrator": null,
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Cayenn",
+        "illustrator": null,
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cayena",
+        "illustrator": null,
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Capsi",
+        "illustrator": null,
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Cay",
+        "illustrator": null,
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Kaya",
+        "illustrator": null,
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "辛俐",
+        "illustrator": null,
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Small illustrator credit at lower left is not legible from the image."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Small illustrator credit at lower left is not legible from the image."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Small illustrator credit at lower left is not legible from the image."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Small illustrator credit at lower left is not legible from the image."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Small illustrator credit at lower left is not legible from the image."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Small illustrator credit at lower left is not legible from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Small illustrator credit at lower left is not legible from the image."
+      }
+    ]
+  }
+}

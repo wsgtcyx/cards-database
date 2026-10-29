@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-208",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "e7cdca5c6e1efb9fe8acacfc79a08caabf3f42b24a3c8cbd5bcfb21fe0fe022a",
+      "bytes": 291892
+    },
+    "fr": {
+      "sha256": "00ff7ff6abfd3742443d419002ee2e2f2d79d2b777114a91c08a709c3b09a6d5",
+      "bytes": 295185
+    },
+    "es": {
+      "sha256": "dbdf05400f185f2854230403bf1e4813a09396e96eab910cd78bd23ddd8c3042",
+      "bytes": 292604
+    },
+    "it": {
+      "sha256": "c23bead347dfd3fde988129cf3042697a103048cb5ebcf631039c1576be353ee",
+      "bytes": 293908
+    },
+    "de": {
+      "sha256": "a54dc2760b913f50ce6b9dcebc26dfa4f03c07b1ec3808013689fb772b96e29d",
+      "bytes": 293839
+    },
+    "pt-br": {
+      "sha256": "ace5094bf13fd4e166bf8e49bed3267525cd9d953fed9198f74dcfad10de6ea1",
+      "bytes": 292805
+    },
+    "zh-tw": {
+      "sha256": "515ab358c41e2a166c282eec44ca27977dca8a6968740d5f97f1873790f6e461",
+      "bytes": 288846
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3485
+    },
+    "output_tokens": 1711,
+    "output_tokens_details": {
+      "reasoning_tokens": 873
+    },
+    "total_tokens": 5199
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Typhlosion ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Destructive Inferno",
+            "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent’s Active Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Typhlosion ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Enfer Destructeur",
+            "effect": "Lancez une pièce jusqu’à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Typhlosion ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Infierno Devastador",
+            "effect": "Lanza 1 moneda hasta que salga cruz. Por cada cara, descarta 1 Energía aleatoria del Pokémon Activo de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Typhlosion ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Incendio Distruttivo",
+            "effect": "Lancia una moneta finché non esce croce. Ogni volta che esce testa, scarta un’Energia a caso dal Pokémon attivo del tuo avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Tornupto ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Verzehrendes Inferno",
+            "effect": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Lege pro Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Typhlosion ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Inferno Destrutivo",
+            "effect": "Jogue uma moeda até sair coroa. Para cada cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "火爆獸ex",
+        "illustrator": "PLANETA CG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "破壞業火",
+            "effect": "擲硬幣直到出現反面。將對手的戰鬥寶可夢身上的能量隨機丟棄與正面出現的次數相同數量。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "Several Traditional Chinese characters in the small rules text are pixelated; the transcription reflects the most legible reading."
+      }
+    ]
+  }
+}

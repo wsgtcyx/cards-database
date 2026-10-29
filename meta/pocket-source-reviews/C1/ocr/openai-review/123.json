@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-123",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "929d7a919458415f58e183b7fc075bed0b4e69c6ba88bc90b0d12caf8ef609ed",
+      "bytes": 206582
+    },
+    "fr": {
+      "sha256": "e345a00ddc5a4e4743811e4bae339d1d59e4454dfbb2cb0ca2a3ce1d4a9d876c",
+      "bytes": 209178
+    },
+    "es": {
+      "sha256": "cfb83edc67f4da61e2ee97f840b8a7fd179fd48812746475059b7a60fb8ac1de",
+      "bytes": 210387
+    },
+    "it": {
+      "sha256": "97f5485572ef9f5efb59ba6991f0ca6a3f9ba963fd6d3387347aae1a7578d8cf",
+      "bytes": 206852
+    },
+    "de": {
+      "sha256": "04b4bb90ae97f1cc7362c1a75ba496987ef21d5e139488c4243ad014a77bb699",
+      "bytes": 211453
+    },
+    "pt-br": {
+      "sha256": "ff31bf28ddf4360af97b41512772ea77c43277dc9d4691cc59644b2db0cda542",
+      "bytes": 209597
+    },
+    "zh-tw": {
+      "sha256": "d086831821fd747d7b26f693760ff6d2d30d65263cf25d95f6a6f7284cd0416a",
+      "bytes": 201402
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 836,
+    "output_tokens_details": {
+      "reasoning_tokens": 422
+    },
+    "total_tokens": 4324
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Eviolite",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "The Basic Pokémon this card is attached to takes −20 damage from attacks from your opponent’s Pokémon."
+      },
+      "fr": {
+        "name": "Évoluroc",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Le Pokémon de base auquel cette carte est attachée subit − 20 dégâts provenant des attaques des Pokémon de votre adversaire."
+      },
+      "es": {
+        "name": "Mineral Evolutivo",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Los ataques de los Pokémon de tu rival hacen -20 puntos de daño al Pokémon Básico al que esté unida esta carta."
+      },
+      "it": {
+        "name": "Evolcondensa",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Il Pokémon Base a cui è assegnata questa carta subisce -20 danni dagli attacchi dei Pokémon avversari."
+      },
+      "de": {
+        "name": "Evolith",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Dem Basis-Pokémon, an das diese Karte angelegt ist, werden − 20 Schadenspunkte durch Attacken von Pokémon deines Gegners zugefügt."
+      },
+      "pt-br": {
+        "name": "Eviolite",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "O Pokémon Básico ao qual esta carta está ligada recebe −20 pontos de dano de ataques dos Pokémon do seu oponente."
+      },
+      "zh-tw": {
+        "name": "進化奇石",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "附有這張卡的基礎寶可夢受到對手的寶可夢招式的傷害 -20點。"
+      }
+    },
+    "uncertain": []
+  }
+}

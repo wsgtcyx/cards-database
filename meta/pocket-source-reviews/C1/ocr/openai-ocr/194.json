@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-194",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "775fe3ce90446d55359585e5866da841f6ccd0126efc359420c2efcbc44aeb3a",
+      "bytes": 247163
+    },
+    "fr": {
+      "sha256": "0f402d317bb64c93ac4615cfbae9eb3cd23ed44a3a3846766d83df1001b1ce26",
+      "bytes": 250696
+    },
+    "es": {
+      "sha256": "f6bf97e2a549160000fdb16a100dca6aa2461c0231dba244e3aa934009c6d9cc",
+      "bytes": 249044
+    },
+    "it": {
+      "sha256": "42b33850958e82f1143614c8e73a91e5a21bdb138ac134908b8fed71a8d1be37",
+      "bytes": 248654
+    },
+    "de": {
+      "sha256": "1aadcca0a84820a43fe0b31847cdd0edcb33802fc02be2c632b94e68b9dcaf29",
+      "bytes": 251040
+    },
+    "pt-br": {
+      "sha256": "14f34788e2802260494ba34a6d9308343389052ca10e70acc0bf11f1d042432d",
+      "bytes": 251676
+    },
+    "zh-tw": {
+      "sha256": "43e38cc61dc424b4bde13b20164feafa6bf08956985643e8574031527789ccef",
+      "bytes": 246083
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2016,
+    "output_tokens_details": {
+      "reasoning_tokens": 1181
+    },
+    "total_tokens": 3976
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pachirisu",
+        "illustrator": "Souichirou Gunjima",
+        "description": "A pair may be seen rubbing their cheek pouches together in an effort to store shared electricity.",
+        "attacks": [
+          {
+            "name": "Crackling Snap",
+            "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pachirisu",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Il arrive que deux Pachirisu se frottent les joues pour partager l'électricité qu'ils ont accumulée.",
+        "attacks": [
+          {
+            "name": "Crépitement Démolissant",
+            "effect": "Défaussez la carte du dessus de votre deck. Si c'est une carte Objet, cette attaque inflige 20 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pachirisu",
+        "illustrator": "Souichirou Gunjima",
+        "description": "A veces se ve a dos frotándose las bolsas de las mejillas para compartir electricidad almacenada.",
+        "attacks": [
+          {
+            "name": "Chasquido Chispeante",
+            "effect": "Descarta la primera carta de tu baraja. Si es una carta de Objeto, este ataque hace 20 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pachirisu",
+        "illustrator": "Souichirou Gunjima",
+        "description": "A volte si possono osservare esemplari che si sfregano a vicenda le sacche sulle guance per condividere l'elettricità immagazzinata.",
+        "attacks": [
+          {
+            "name": "Crepito Elettrico",
+            "effect": "Scarta la prima carta del tuo mazzo. Se è una carta Strumento, questo attacco infligge 20 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pachirisu",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Mitunter kann man beobachten, wie zwei Pachirisu ihre Backentaschen aneinanderreiben, um gespeicherte Elektrizität zu teilen.",
+        "attacks": [
+          {
+            "name": "Knisternder Knall",
+            "effect": "Lege die oberste Karte deines Decks ab. Wenn jene Karte ein Item ist, fügt diese Attacke 20 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pachirisu",
+        "illustrator": "Souichirou Gunjima",
+        "description": "É possível ver dois deles esfregando seus bolsões nas bochechas um do outro em um esforço para compartilhar a eletricidade armazenada.",
+        "attacks": [
+          {
+            "name": "Estalo Estalante",
+            "effect": "Descarte a carta de cima do seu baralho e, se aquela carta for uma carta de Item, este ataque causará 20 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "帕奇利茲",
+        "illustrator": "Souichirou Gunjima",
+        "description": "有時候可以見到 為了將儲存的電力分給彼此而互相摩擦頰囊的兩隻帕奇利茲。",
+        "attacks": [
+          {
+            "name": "啪滋打亂",
+            "effect": "將自己牌庫上方1張卡丟棄。若那張卡為物品卡，則增加20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is small and partially hard to resolve; wording may differ slightly around the phrase beginning with '有時候可以見到'."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "The attack name characters are small and may be misread; '啪滋打亂' is my best reading."
+      }
+    ]
+  }
+}

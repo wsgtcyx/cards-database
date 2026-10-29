@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-143",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "b1b212c26cf645e0e86674c982bef2f1d7e31592f1325a48202fe6ab3eb2a45d",
+      "bytes": 293307
+    },
+    "fr": {
+      "sha256": "ac6ca5e01b8e6a438c4f2ca9b347e2825398b789e1ec9a45470e283e32902f6f",
+      "bytes": 293870
+    },
+    "es": {
+      "sha256": "8d83a459b3d6a10b448d2e21a22a8ea2d3f6f983acbc2ed95e939c88869cd865",
+      "bytes": 294421
+    },
+    "it": {
+      "sha256": "0625111af5f65a6c3d89f627b928c9a5ec14fefed9144ceb09e36c8c4c802935",
+      "bytes": 293374
+    },
+    "de": {
+      "sha256": "d02a26f338bd8762c6d19a131a40347a7c56ff9d1688178b53bde0b27de798ea",
+      "bytes": 294624
+    },
+    "pt-br": {
+      "sha256": "adf9d7d9db8bba3efe0e951c7259f0fbed023ff31564228ae79fae9dfc1b3d8e",
+      "bytes": 294758
+    },
+    "zh-tw": {
+      "sha256": "b3e27931ccbcf0695734ef204b6ecd14aa07e1feda8b8d7af8f4c868a4fbc560",
+      "bytes": 290113
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1301,
+    "output_tokens_details": {
+      "reasoning_tokens": 468
+    },
+    "total_tokens": 3261
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mimikyu",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Dress Up",
+            "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Mimiqui",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Costumes",
+            "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 30 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mimikyu",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Arreglarse",
+            "effect": "Si este Pokémon tiene 1 Herramienta Pokémon unida a él, este ataque hace 30 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mimikyu",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Ghingheri",
+            "effect": "Se questo Pokémon ha un Oggetto Pokémon assegnato, questo attacco infligge 30 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mimigma",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "In Schale werfen",
+            "effect": "Wenn an dieses Pokémon 1 Pokémon-Ausrüstung angelegt ist, fügt diese Attacke 30 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mimikyu",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Vestir-se",
+            "effect": "Se este Pokémon tiver uma Ferramenta Pokémon ligada a ele, este ataque causará 30 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "謎擬Q",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "盛裝打扮",
+            "effect": "若這隻寶可夢身上有附有「寶可夢道具」，則這個招式的傷害增加30點。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read confidently."
+      },
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read confidently."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read confidently."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read confidently."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read confidently."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read confidently."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator text at bottom left is too small/blurry to read confidently."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      }
+    ]
+  }
+}

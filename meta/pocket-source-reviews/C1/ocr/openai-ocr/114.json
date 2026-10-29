@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-114",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "b951a880df2afdcc3c16f17584d11bfc967fee75f0460b08cb28bcaf91a971c0",
+      "bytes": 235686
+    },
+    "fr": {
+      "sha256": "05a087cc2ea9b2ae8587758ead0f1a75d0b9fc3d9d56e75df87c61eca58fb281",
+      "bytes": 236025
+    },
+    "es": {
+      "sha256": "3dc515fad348827aff4d48ab94f2fca5f4a372b5088e913a207d8804085669e7",
+      "bytes": 235550
+    },
+    "it": {
+      "sha256": "c23af260fa9a40e8f134f202bb24ebd7c4d9821264bde1c949334d1763d3ebe3",
+      "bytes": 235587
+    },
+    "de": {
+      "sha256": "108763bbab6c7bee3045d0df4b641c185e1080c365d118a7a9eb2750079c2455",
+      "bytes": 236159
+    },
+    "pt-br": {
+      "sha256": "94cb4ae64c05a973a3b63fe7ebc05244483a131f07649cbf240619d6e31cd1e8",
+      "bytes": 235329
+    },
+    "zh-tw": {
+      "sha256": "7989a0819c008197faaa0cabc30c96b926e651313e7b52c1739761730a1fc40c",
+      "bytes": 235671
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 1792
+    },
+    "output_tokens": 628,
+    "output_tokens_details": {
+      "reasoning_tokens": 141
+    },
+    "total_tokens": 2588
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Bibarel",
+        "illustrator": "Kyoko Umemoto",
+        "description": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+        "attacks": [
+          {
+            "name": "Strength",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Castorno",
+        "illustrator": "Kyoko Umemoto",
+        "description": "Il tranche les branches et les racines de ses incisives aiguisées pour construire des barrages.",
+        "attacks": [
+          {
+            "name": "Force",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Bibarel",
+        "illustrator": "Kyoko Umemoto",
+        "description": "Con sus incisivos roe ramas y raíces y las apila para construir sus madrigueras junto al río.",
+        "attacks": [
+          {
+            "name": "Fuerza",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Bibarel",
+        "illustrator": "Kyoko Umemoto",
+        "description": "Costruisce con zelo la tana in riva ai corsi d'acqua, levigando radici e rami con gli affilati incisivi.",
+        "attacks": [
+          {
+            "name": "Forza",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Bidifas",
+        "illustrator": "Kyoko Umemoto",
+        "description": "Emsig durchbeißt es mit seinen scharfen Vorderzähnen Wurzeln und Äste und baut daraus sein Nest.",
+        "attacks": [
+          {
+            "name": "Stärke",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Bibarel",
+        "illustrator": "Kyoko Umemoto",
+        "description": "Ele monta seu ninho com pilhas de galhos e raízes de árvores que cortou com seus incisivos.",
+        "attacks": [
+          {
+            "name": "Força",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "大尾狸",
+        "illustrator": "Kyoko Umemoto",
+        "description": "會勤勉地把用鋒利的門齒啃斷的樹枝和樹根堆疊起來，在水邊築巢。",
+        "attacks": [
+          {
+            "name": "怪力",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

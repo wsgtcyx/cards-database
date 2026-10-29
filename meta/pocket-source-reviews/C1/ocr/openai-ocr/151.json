@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-151",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "11fdc4f9935ec1dcd45b5b959dbf33099f95e4325052371e309414428dbadb01",
+      "bytes": 277483
+    },
+    "fr": {
+      "sha256": "c9d5c2195748ca1487558d9446e8637bb32057a0295ab71c956d1a39037cc6c9",
+      "bytes": 277549
+    },
+    "es": {
+      "sha256": "058e41b3b060c847da32e9cb1e2beb1b2dbf6b17c473967af0c044fc911ea759",
+      "bytes": 277499
+    },
+    "it": {
+      "sha256": "2349e257e99448b6370a767fd0c5456326cf80fa3cca6808d6f661bc34c445f9",
+      "bytes": 277885
+    },
+    "de": {
+      "sha256": "1a7ad249bf33c8b33510391a2a69817b260484efd0520531a5b357ee6273c852",
+      "bytes": 277803
+    },
+    "pt-br": {
+      "sha256": "32de0e5ce8f8fe32181ad6aad839c225acf2076a254bdd0716582cd7bbdee5af",
+      "bytes": 277063
+    },
+    "zh-tw": {
+      "sha256": "576010f21271df2d36b0e4efe07dc92bc624a585d0bd1f21d04c9b93e662dd84",
+      "bytes": 276574
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1638,
+    "output_tokens_details": {
+      "reasoning_tokens": 928
+    },
+    "total_tokens": 3598
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Bidoof",
+        "illustrator": "TOMOKA MARKER",
+        "description": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "attacks": [
+          {
+            "name": "Gnaw",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Keunotor",
+        "illustrator": "TOMOKA MARKER",
+        "description": "Rien ne peut perturber ses nerfs d'acier. Il est plus agile et énergique qu'il n'y paraît.",
+        "attacks": [
+          {
+            "name": "Ronge",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Bidoof",
+        "illustrator": "TOMOKA MARKER",
+        "description": "Tiene nervios de acero y nada puede perturbarlo. Es más ágil y activo de lo que parece.",
+        "attacks": [
+          {
+            "name": "Roer",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Bidoof",
+        "illustrator": "TOMOKA MARKER",
+        "description": "Ha i nervi d'acciaio: niente può turbarlo. È più agile e attivo di quanto sembri.",
+        "attacks": [
+          {
+            "name": "Rosicchiamento",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Bidiza",
+        "illustrator": "TOMOKA MARKER",
+        "description": "Es hat Nerven wie Drahtseile: nichts kann es erschüttern. Es ist agiler und aktiver, als es aussieht.",
+        "attacks": [
+          {
+            "name": "Nagen",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Bidoof",
+        "illustrator": "TOMOKA MARKER",
+        "description": "Com nervos de aço, nada pode perturbá-lo. É mais ágil e ativo do que parece.",
+        "attacks": [
+          {
+            "name": "Roída",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "大牙狸",
+        "illustrator": "TOMOKA MARKER",
+        "description": "牠的神經如同鋼鐵般堅硬，沒東西能打擾牠。 牠的動作比看起來還要靈活、活躍。",
+        "attacks": [
+          {
+            "name": "咬",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator text is too blurry to read confidently from the image."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator text is too blurry to read confidently from the image."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator text is too blurry to read confidently from the image."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator text is too blurry to read confidently from the image."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator text is too blurry to read confidently from the image."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator text is too blurry to read confidently from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator text is too blurry to read confidently from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The second line is partially unclear; punctuation and spacing may be inaccurate."
+      }
+    ]
+  }
+}

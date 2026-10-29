@@ -1,0 +1,58 @@
+{
+  "setId": "C1",
+  "records": [
+    {
+      "outputPath": "public/images/home/dual-fusion.webp",
+      "outputBytes": 264408,
+      "outputSha256": "768c056c3d76fe60edf69ccd311234193161154edddaf08e2663162fffcb3021",
+      "width": 1920,
+      "height": 1080,
+      "sourceBytes": 332959,
+      "sourceSha256": "a42a0ae5656ec3b7f2598751f02b1cd50ed0136cf7c411f6a5bd13b552bebec0",
+      "sourcePage": "https://pokemon.gamespress.com/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex",
+      "nativeSource": true,
+      "upscaled": false,
+      "sourceUrl": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/tcg-pocket/2026/10/20/a/pokemon-tcg-pocket-169-en.png"
+    },
+    {
+      "outputPath": "public/images/icons/dual-fusion.webp",
+      "outputBytes": 54378,
+      "outputSha256": "f5872fef24b7b283f7f9d84959073c1ff7d8c01e9775405d6e7204032ed7754a",
+      "width": 1000,
+      "height": 440,
+      "sourceBytes": 194667,
+      "sourceSha256": "2ed25e280a9ca7586b3f21067ffcbd830de161e227489fa2e2fad44324e10d41",
+      "sourcePage": "https://pokemon.gamespress.com/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex",
+      "nativeSource": true,
+      "upscaled": false,
+      "officialAssetName": "Dual_Fusion_Logo_EN.png"
+    },
+    {
+      "outputPath": "public/images/pack/dual-fusion-mega-mewtwo-x-pack.webp",
+      "outputBytes": 154542,
+      "outputSha256": "8a5484badbb95f07d903eb37ec02e723e4cdecfd60b33539d5c8a24e0967e4ae",
+      "width": 681,
+      "height": 1307,
+      "sourceBytes": 1339846,
+      "sourceSha256": "cdc92b0515776bf4d1934db3120d2209e4e37b6301b268781d55e578459cafde",
+      "sourcePage": "https://pokemon.gamespress.com/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex",
+      "nativeSource": true,
+      "upscaled": false,
+      "officialAssetName": "Dual_Fusion_Mega_Mewtwo_X_Pack_EN.png"
+    },
+    {
+      "outputPath": "public/images/pack/dual-fusion-pikachu-pack.webp",
+      "outputBytes": 159246,
+      "outputSha256": "b2e40925fcd7b7f5b1757a1275b5d888e380e78661b987bbe1fc542cac785ee7",
+      "width": 680,
+      "height": 1307,
+      "sourceBytes": 1287037,
+      "sourceSha256": "3c1e5239783e8309ebd3139b85598122a306104b8a4c6b5c7c384a6b3fad5e9e",
+      "sourcePage": "https://pokemon.gamespress.com/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex",
+      "nativeSource": true,
+      "upscaled": false,
+      "officialAssetName": "Dual_Fusion_Mega_Pikachu_Pack_EN.png"
+    }
+  ],
+  "rejected": "Low-resolution game pack thumbnails were not enlarged or used as final pack artwork."
+}

@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-050",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "20c12b283ccd6d3ae81526f095fc28b742da73dee89ca5435912097cfa9750b7",
+      "bytes": 252247
+    },
+    "fr": {
+      "sha256": "95d5cb5d9b0a0a119cf8f68ccd85d4247a859d2aae5f9f0a77ae6a232b5eef14",
+      "bytes": 254387
+    },
+    "es": {
+      "sha256": "8e4fdd1e701674da25ada5dee3a7e4f606ac6fffecb6571e6aa82f100595d60b",
+      "bytes": 250807
+    },
+    "it": {
+      "sha256": "15261d6a5b6c4d4aa8f81c62c4f8d28a049035861b9d15ae7da73ed611719c65",
+      "bytes": 252698
+    },
+    "de": {
+      "sha256": "bc4dd2f5b1465d14bada40263236b0ea2aafa6def2ee6108d5a8f5b9e949f5f2",
+      "bytes": 254420
+    },
+    "pt-br": {
+      "sha256": "8c6109191baa7fd89b57b647a56de991e56964134ce7578a2c20a74a2f45ee0a",
+      "bytes": 253811
+    },
+    "zh-tw": {
+      "sha256": "aa1c642fe64eccb8822d308d582537f3e51bb328a35b983697be2a396e3eee56",
+      "bytes": 248394
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1210,
+    "output_tokens_details": {
+      "reasoning_tokens": 381
+    },
+    "total_tokens": 4698
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+        "attacks": [
+          {
+            "name": "Mach Bolt",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrocreation",
+            "effect": "Once during your turn, you may take a {L} Energy from your Energy Zone and attach it to the {L} Pokémon in the Active Spot."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pohmarmotte",
+        "illustrator": "Keisin",
+        "description": "D'ordinaire, ce Pokémon est plutôt calme, mais lorsqu'il se bat, il élimine ses adversaires avec des mouvements rapides comme l'éclair.",
+        "attacks": [
+          {
+            "name": "Éclair Fulgurant",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Électrocréation",
+            "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie {L} de votre zone Énergie et l'attacher au Pokémon {L} sur le Poste Actif."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "Este Pokémon es normalmente bastante calmado, pero, una vez en combate, derriba a sus rivales con movimientos de una velocidad vertiginosa.",
+        "attacks": [
+          {
+            "name": "Rayo Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Electrocreación",
+            "effect": "Una vez durante tu turno, puedes unir 1 Energía {L} de tu área de Energía al Pokémon {L} en el Puesto Activo."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "Di solito è piuttosto flemmatico, ma quando si trova a lottare atterra il nemico con movimenti fulminei.",
+        "attacks": [
+          {
+            "name": "Fulmine Mach",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Elettrogenerazione",
+            "effect": "Una sola volta durante il tuo turno, puoi prendere un'Energia {L} dalla tua Zona Energia e assegnarla al Pokémon {L} in posizione attiva."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Pamomamo",
+        "illustrator": "Keisin",
+        "description": "Dieses Pokémon ist für gewöhnlich sehr gelassen, doch sobald ein Kampf beginnt, streckt es den Gegner mit blitzschnellen Bewegungen zu Boden.",
+        "attacks": [
+          {
+            "name": "Flotter Sprung",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Stromerzeugung",
+            "effect": "Einmal während deines Zuges kannst du 1 {L}-Energie aus deinem Energiebereich an dein Aktives {L}-Pokémon anlegen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pawmot",
+        "illustrator": "Keisin",
+        "description": "Este Pokémon costuma demorar para reagir, mas quando entra na batalha, derrota seus oponentes com golpes na velocidade da luz.",
+        "attacks": [
+          {
+            "name": "Raio Supersônico",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Eletrocriação",
+            "effect": "Uma vez durante o seu turno, você poderá pegar 1 Energia {L} da sua Zona de Energia e ligá-la ao Pokémon {L} no Campo Ativo."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "巴布土撥",
+        "illustrator": "Keisin",
+        "description": "雖然平時動作慢吞吞的，但在進入戰鬥時，會用迅雷不及掩耳的身手擊潰敵人。",
+        "attacks": [
+          {
+            "name": "音速伏特",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "造電",
+            "effect": "在自己的回合時，可使用1次。從自己的能量區抽出1個能量，附於戰鬥場的{L}寶可夢身上。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

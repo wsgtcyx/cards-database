@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-161",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "a61f4990a3a41b353e8b240343796a31366738653aead5487584a03a7dae85cb",
+      "bytes": 355115
+    },
+    "fr": {
+      "sha256": "2f5ad272f0cd022fa53d8cca9b2d7086dcfa26d1117eaf9318c8ce757af15daa",
+      "bytes": 358541
+    },
+    "es": {
+      "sha256": "9e784040776755c1b23a61ec3417d09b81c10455dab17388c995b8a5d4b7a686",
+      "bytes": 355978
+    },
+    "it": {
+      "sha256": "fa2211692cdda1b91e0c585639a602143071d6918b3b48fec99fd0a147f64b72",
+      "bytes": 356903
+    },
+    "de": {
+      "sha256": "77fc7b3a8a076fb2a5aa6fd22e2e1b159364c73d527513208640797d515bfed1",
+      "bytes": 357276
+    },
+    "pt-br": {
+      "sha256": "c64d8469c4e59cf83a54fa5b26bc6f8aa5e2a7c0eba0c1146fb4034a9edef21c",
+      "bytes": 356245
+    },
+    "zh-tw": {
+      "sha256": "36fbcafcddde4b76f8ff1a007cbf0a7d73a2c381c06c4cb331478571f5b28d34",
+      "bytes": 350096
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1561,
+    "output_tokens_details": {
+      "reasoning_tokens": 867
+    },
+    "total_tokens": 3521
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Skarmory ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Shredding Claw",
+            "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Airmure ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Griffe Déchiquetante",
+            "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 50 dégâts supplémentaires pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Skarmory ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Garra Trituradora",
+            "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 50 puntos de daño más por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Skarmory ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Artiglio Dilaniante",
+            "effect": "Lancia una moneta finché non esce croce. Questo attacco infligge 50 danni in più ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Panzaeron ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schredderkrallen",
+            "effect": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 50 Schadenspunkte mehr pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Skarmory ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Grifa Triturante",
+            "effect": "Jogue uma moeda até sair coroa. Este ataque causa 50 pontos de dano a mais para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級盔甲鳥 ex",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "碎裂爪",
+            "effect": "擲硬幣直到出現反面。每出現正面一次，這個招式就造成 50 點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator text at lower left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator text at lower left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator text at lower left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator text at lower left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator text at lower left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator text at lower left is too small/blurry to read reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator text at lower left is too small/blurry to read reliably."
+      }
+    ]
+  }
+}

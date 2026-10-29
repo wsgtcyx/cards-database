@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-091",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "7c2f4929c6d5e6d483344a45aedddcc671293629ecfad8df8c3893ff222c5412",
+      "bytes": 333537
+    },
+    "fr": {
+      "sha256": "85e79fab622a949134159987f99e351cfd21778d16db3bb395148cb37b4c81c9",
+      "bytes": 336944
+    },
+    "es": {
+      "sha256": "ef1cb360739ce514db75db6df2c45071538e8b8f69850b4354f335ba756561f3",
+      "bytes": 334524
+    },
+    "it": {
+      "sha256": "e5924e6a735a2a1bfd74bb90cc9a6d285beef9c438e973b9e6fc6a26da530e6e",
+      "bytes": 334903
+    },
+    "de": {
+      "sha256": "0895225186c67daa60e12a1934b2668555f730ff958dce348082d363b2bb6b34",
+      "bytes": 335556
+    },
+    "pt-br": {
+      "sha256": "247e1c3ae7913a05a3ca39259557557a967393d0989ffbbd09f94d7f9c090aff",
+      "bytes": 334479
+    },
+    "zh-tw": {
+      "sha256": "4a4bf7d977593ad05b80bd966305a71ab6ec63e05132382afee61b7a96d012de",
+      "bytes": 330238
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 665,
+    "output_tokens_details": {
+      "reasoning_tokens": 156
+    },
+    "total_tokens": 2625
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Skarmory ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Shredding Claw",
+            "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Airmure ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Griffe Déchiquetante",
+            "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 50 dégâts supplémentaires pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Skarmory ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Garra Trituradora",
+            "effect": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 50 puntos de daño más por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Skarmory ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Artiglio Dilaniante",
+            "effect": "Lancia una moneta finché non esce croce. Questo attacco infligge 50 danni in più ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Panzaeron ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schredderkrallen",
+            "effect": "Wirf so lange 1 Münze, bis sie Zahl zeigt. Diese Attacke fügt 50 Schadenspunkte mehr pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Skarmory ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Grifa Triturante",
+            "effect": "Jogue uma moeda até sair coroa. Este ataque causa 50 pontos de dano a mais para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級盔甲鳥 ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "碎裂爪",
+            "effect": "擲硬幣直到出現反面，增加正面出現的次數 ×50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

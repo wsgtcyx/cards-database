@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-129",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4c7b7f72d50548cd31cc800a4818328b4266fcd0839f63dd43da76157aaaee4f",
+      "bytes": 180843
+    },
+    "fr": {
+      "sha256": "89da2689770daff472b654ce6d6706ed12005621a22d88e9ff62dcffbeeae5b3",
+      "bytes": 186259
+    },
+    "es": {
+      "sha256": "2f8de365d2c48fc48de72aa6d02bd284c4cd37bb4adb7a22e474c8a61cc70067",
+      "bytes": 184591
+    },
+    "it": {
+      "sha256": "d4bc95b1c8cc074f22d343dfe95810fbcb2f1a5652f9212dba47654ecd757dc0",
+      "bytes": 186427
+    },
+    "de": {
+      "sha256": "5c9ef8d2025670f3923dfb6424d45a515a5803fa261d9547630eb000bda5fb70",
+      "bytes": 185764
+    },
+    "pt-br": {
+      "sha256": "9073cbc086c7cc0ee5bb8fb150c2ce8e35ac4a343fee188ea85f96afcd1ca8c3",
+      "bytes": 185732
+    },
+    "zh-tw": {
+      "sha256": "db7e89270bc3cbd352dd83b7820d50d9f1d6187245837466eee183c57bd5f086",
+      "bytes": 178635
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 530,
+    "output_tokens_details": {
+      "reasoning_tokens": 79
+    },
+    "total_tokens": 2490
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Poké Mart Guy",
+        "illustrator": "GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Put 2 random cards from among Super Potion, Max Repel, and Full Heal from your deck into your hand."
+      },
+      "fr": {
+        "name": "Jeune Homme de la Boutique Pokémon",
+        "illustrator": "GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Ajoutez 2 cartes au hasard parmi Super Potion, Repousse Max, et Total Soin de votre deck à votre main."
+      },
+      "es": {
+        "name": "Chico de la Tienda Pokémon",
+        "illustrator": "GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Pon 2 cartas aleatorias de entre Superpoción, Repelente Máximo y Cura Total de tu baraja en tu mano."
+      },
+      "it": {
+        "name": "Commesso del Pokémon-Market",
+        "illustrator": "GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Prendi 2 carte a caso dal tuo mazzo fra le seguenti: Superpozione, Repellente max e Cura totale. Poi aggiungile alle carte che hai in mano."
+      },
+      "de": {
+        "name": "Pokémon-Supermarkt-Händler",
+        "illustrator": "GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Nimm von den Karten Supertrank, Top-Schutz und Hyperheiler 2 zufällige aus deinem Deck auf deine Hand."
+      },
+      "pt-br": {
+        "name": "Funcionário do Poké Mart",
+        "illustrator": "GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Coloque aleatoriamente 2 cartas dentre Superpoção, Repelente Máximo e Cura Total do seu baralho na sua mão."
+      },
+      "zh-tw": {
+        "name": "友好商店的哥哥",
+        "illustrator": "GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "從自己的牌庫隨機將2張「好傷藥」「萬能藥」「萬靈藥」加入手牌。"
+      }
+    },
+    "uncertain": []
+  }
+}

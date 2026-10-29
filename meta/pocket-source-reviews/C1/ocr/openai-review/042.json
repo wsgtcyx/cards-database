@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-042",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "30e95e1b6dbee775e3466afd6a8ab2560ba2ecb0f40acade719f1cf6695db55c",
+      "bytes": 354324
+    },
+    "fr": {
+      "sha256": "93e5b30a727b739ccc0273ff50eb609e5f6975dd1ce64a20661e402a770c535e",
+      "bytes": 355701
+    },
+    "es": {
+      "sha256": "005b91951393b4613588cea020201c331d6301883393a4168d358566101fa651",
+      "bytes": 354367
+    },
+    "it": {
+      "sha256": "afd4bb5eeb2816bcd50dd583b8a186f993ff08c4016911e4a86c32131ae3a037",
+      "bytes": 354505
+    },
+    "de": {
+      "sha256": "aac156b6dc6e4e585a983d260f5b24fca2b13d42dd0ec8e831d26e305a15a733",
+      "bytes": 356462
+    },
+    "pt-br": {
+      "sha256": "b3522a56243102396d3240d41341c142bc334760875480c1f0f9e2a35de5a57c",
+      "bytes": 354193
+    },
+    "zh-tw": {
+      "sha256": "6333a14178a8496670cf9d3eb17e1070c92604f302b23dd7e24df92bece58309",
+      "bytes": 350390
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1145,
+    "output_tokens_details": {
+      "reasoning_tokens": 479
+    },
+    "total_tokens": 4633
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Kouki Saitou",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Splash of Darkness",
+            "effect": "During your opponent’s next turn, the Defending Pokémon can’t retreat."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Amphinobi ex",
+        "illustrator": "Kouki Saitou",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Éclaboussure Ténébreuse",
+            "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Greninja ex",
+        "illustrator": "Kouki Saitou",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Salpicadura Siniestra",
+            "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Kouki Saitou",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Spruzzo Ottenebrante",
+            "effect": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Quajutsu ex",
+        "illustrator": "Kouki Saitou",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Spritzer der Finsternis",
+            "effect": "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Kouki Saitou",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Jato Sombrio",
+            "effect": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級甲賀忍蛙 ex",
+        "illustrator": "Kouki Saitou",
+        "description": null,
+        "attacks": [
+          {
+            "name": "暗黑水飛濺",
+            "effect": "在下個對手的回合，受到這個招式的寶可夢無法撤退。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "The illustrator credit is extremely small and not fully legible."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "The illustrator credit is extremely small and not fully legible."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "The illustrator credit is extremely small and not fully legible."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "The illustrator credit is extremely small and not fully legible."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "The illustrator credit is extremely small and not fully legible."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "The illustrator credit is extremely small and not fully legible."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator credit is extremely small and not fully legible."
+      }
+    ]
+  }
+}

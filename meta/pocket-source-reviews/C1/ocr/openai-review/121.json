@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-121",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "834360a2ffc3b32b9be9f30b5273e4c67ddb15ea8b9def18ebfccba4447b3184",
+      "bytes": 196897
+    },
+    "fr": {
+      "sha256": "2f648503eadeeb750466801100ccbfce63943b648a5a1beabe197e19c3b37de4",
+      "bytes": 201977
+    },
+    "es": {
+      "sha256": "6f0fb40a9fb6c437fa7c5dafa6f47144395fabaed06fc2c0461b150b71f1d653",
+      "bytes": 198095
+    },
+    "it": {
+      "sha256": "6e03e7e5ea9be0b6e6bab7156103805d7ec1f2816507a87add6a0d858d5c03da",
+      "bytes": 199121
+    },
+    "de": {
+      "sha256": "961c4179b0e389f41914dc8b8eded1f9a75b3341e6530e1024e47eaf59cb47b8",
+      "bytes": 197787
+    },
+    "pt-br": {
+      "sha256": "910cdbf9765ea98f75b60c88cadacc0fbf3d061fac7a1f1b068860a83f478212",
+      "bytes": 198955
+    },
+    "zh-tw": {
+      "sha256": "4a7e94914f3703bc8d36bd11025e76015fcd83d9b656f9aca0cd0f688dfda3a9",
+      "bytes": 194379
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 760,
+    "output_tokens_details": {
+      "reasoning_tokens": 290
+    },
+    "total_tokens": 4248
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Max Repel",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Switch out your opponent’s Active Stage 2 Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+      },
+      "fr": {
+        "name": "Repousse Max",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Échangez le Pokémon de Niveau 2 Actif de votre adversaire avec un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)"
+      },
+      "es": {
+        "name": "Repelente Máximo",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Mueve el Pokémon de Fase 2 Activo de tu rival a la Banca. (Tu rival elige el nuevo Pokémon Activo)."
+      },
+      "it": {
+        "name": "Repellente max",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Sposta il Pokémon di Fase 2 attivo del tuo avversario nella sua panchina. (Il tuo avversario sceglie il nuovo Pokémon attivo.)"
+      },
+      "de": {
+        "name": "Top-Schutz",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Wechsle das Aktive Phase-2-Pokémon deines Gegners auf seine Bank aus. (Dein Gegner wählt das neue Aktive Pokémon.)"
+      },
+      "pt-br": {
+        "name": "Repelente Máximo",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Mande o Pokémon Estágio 2 Ativo do seu oponente para o Banco. (O seu oponente escolhe o novo Pokémon Ativo.)"
+      },
+      "zh-tw": {
+        "name": "黃金噴霧",
+        "illustrator": "Studio Bora Inc.",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "將對手的戰鬥場的2階進化寶可夢與備戰寶可夢互換。（由對手選擇放置於戰鬥場的寶可夢。）"
+      }
+    },
+    "uncertain": []
+  }
+}

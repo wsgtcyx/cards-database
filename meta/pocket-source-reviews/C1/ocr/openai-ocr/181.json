@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-181",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "8b13f8078e9134851d1aacdcae6fe94496201262f424fafbccf287cb66a03211",
+      "bytes": 372498
+    },
+    "fr": {
+      "sha256": "18440f55c15760860eeae7c4522c7b00e0aa753276e9081e91ae242f571df40f",
+      "bytes": 372740
+    },
+    "es": {
+      "sha256": "198609a5d54fb1cc4404c2c6a944f3ea9e0bd8e23060b0dca7a485535c0c7a77",
+      "bytes": 373456
+    },
+    "it": {
+      "sha256": "9e64161c258319124d44beccf357504b776d44cf962e76f8bc47e55137a28952",
+      "bytes": 373166
+    },
+    "de": {
+      "sha256": "f90eb4b8ee241970f60b0410807532faf043fafc421d65510345540004e6e830",
+      "bytes": 373300
+    },
+    "pt-br": {
+      "sha256": "80c525413e2555c48f4a0fd7548dd5e73ca494ca38c6cff7c96106516b99ac62",
+      "bytes": 373139
+    },
+    "zh-tw": {
+      "sha256": "5750cd4d4e3e387916ac20650410b80f39ad8220bdd74ad9d26cad99ada5edca",
+      "bytes": 370658
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1836,
+    "output_tokens_details": {
+      "reasoning_tokens": 1132
+    },
+    "total_tokens": 3796
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Giratina ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Slash",
+            "effect": null
+          },
+          {
+            "name": "Dragon Impact",
+            "effect": "Discard 2 random Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+      },
+      "fr": {
+        "name": "Giratina ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Tranche",
+            "effect": null
+          },
+          {
+            "name": "Impact du Dragon",
+            "effect": "Défaussez 2 Énergies au hasard de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Règle EX Quand votre Pokémon-ex est mis K.O., votre adversaire gagne 2 points."
+      },
+      "es": {
+        "name": "Giratina ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Cuchillada",
+            "effect": null
+          },
+          {
+            "name": "Impacto Dragón",
+            "effect": "Descarta 2 Energías aleatorias de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regla EX Cuando tu Pokémon ex queda Fuera de Combate, tu rival consigue 2 puntos."
+      },
+      "it": {
+        "name": "Giratina ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lacerazione",
+            "effect": null
+          },
+          {
+            "name": "Draghimpatto",
+            "effect": "Rimuovi 2 Energie a caso da questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regola EX Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon-ex va KO."
+      },
+      "de": {
+        "name": "Giratina ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schlitzer",
+            "effect": null
+          },
+          {
+            "name": "Dracheneinschlag",
+            "effect": "Lege 2 zufällige Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": "EX-Regel Wenn dein Pokémon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte."
+      },
+      "pt-br": {
+        "name": "Giratina ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Talho",
+            "effect": null
+          },
+          {
+            "name": "Impacto do Dragão",
+            "effect": "Descarte 2 Energias aleatórias deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": "Regra EX Quando seu Pokémon ex é Nocauteado, seu oponente recebe 2 pontos."
+      },
+      "zh-tw": {
+        "name": "騎拉帝納 ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "劈開",
+            "effect": null
+          },
+          {
+            "name": "狂龍衝擊",
+            "effect": "將這隻寶可夢身上的隨機2個能量卡丟棄至棄牌區。"
+          }
+        ],
+        "abilities": [],
+        "effect": "EX規則 當你的寶可夢ex被擊倒時，對手得到2分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[1].effect",
+        "reason": "Small text is difficult to verify exactly from the image; transcription may be slightly off."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "Small rules text is difficult to verify exactly from the image; transcription may be slightly off."
+      }
+    ]
+  }
+}

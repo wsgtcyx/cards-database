@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-047",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d54ed7cbe695821e51f830d8643223e037cbe905442573760f20ef7d0db3b19f",
+      "bytes": 251417
+    },
+    "fr": {
+      "sha256": "cf7c0657601fe2759e0553ca6522180af5ad36b895a79eba018e21910ce17708",
+      "bytes": 251323
+    },
+    "es": {
+      "sha256": "0a23efb3e33803eddb12adad4cd1a049e4597048b0513966256beb799358e231",
+      "bytes": 251023
+    },
+    "it": {
+      "sha256": "f4b97dbd5b82a0dd29255f2bce1fe40ec6a6b02509cf23c7383a2a8f5226e2d3",
+      "bytes": 251831
+    },
+    "de": {
+      "sha256": "8df20f984c1af653981cba6687e2590f07ddf951e0a040d2e14c9457d20e4082",
+      "bytes": 252769
+    },
+    "pt-br": {
+      "sha256": "e4e483db17b57b906a26a0fe6e45d9941aad9e615efe6967a8009e0c31a28d2c",
+      "bytes": 252259
+    },
+    "zh-tw": {
+      "sha256": "9c3486c62bc16d6fe7d87a9f5dc2739cff64449fc5ad66cfefbe92feea8b3552",
+      "bytes": 251519
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1433,
+    "output_tokens_details": {
+      "reasoning_tokens": 740
+    },
+    "total_tokens": 3393
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Zeraora",
+        "illustrator": "Illus. Kouki Saitou",
+        "description": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they'll be electrocuted by the flying sparks.",
+        "attacks": [
+          {
+            "name": "Thunderbolt",
+            "effect": "Discard all Energy from this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Zeraora",
+        "illustrator": "Illus. Kouki Saitou",
+        "description": "Il déchiquette son adversaire avec ses griffes chargées d'électricité. Même si sa cible évite l'attaque, elle reçoit un coup de jus.",
+        "attacks": [
+          {
+            "name": "Tonnerre",
+            "effect": "Défaussez toutes les Énergies de ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Zeraora",
+        "illustrator": "Illus. Kouki Saitou",
+        "description": "Hace jirones al oponente con sus garras electrificadas. Aunque este esquive los golpes, acaba electrocutado por las descargas.",
+        "attacks": [
+          {
+            "name": "Rayo",
+            "effect": "Descarta todas las Energías de este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Zeraora",
+        "illustrator": "Illus. Kouki Saitou",
+        "description": "Fa a pezzi l'avversario con le unghie cariche di elettricità. Anche se il nemico schiva il colpo, riceve comunque una scarica folgorante.",
+        "attacks": [
+          {
+            "name": "Fulmine",
+            "effect": "Rimuovi tutte le Energie assegnate a questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Zeraora",
+        "illustrator": "Illus. Kouki Saitou",
+        "description": "Mit seinen elektrisierten Krallen reißt es Gegner in Stücke. Selbst wenn sie ausweichen, werden sie von elektrisch geladenen Funken getroffen.",
+        "attacks": [
+          {
+            "name": "Donnerblitz",
+            "effect": "Lege alle Energien von diesem Pokémon ab."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Zeraora",
+        "illustrator": "Illus. Kouki Saitou",
+        "description": "Eletrifica suas garras e despedaça seus oponentes. Mesmo que seus oponentes desviem, eles serão eletrocutados pelas centelhas no ar.",
+        "attacks": [
+          {
+            "name": "Relâmpago",
+            "effect": "Descarte todas as Energias deste Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "捷拉奧拉",
+        "illustrator": "繪圖 Kouki Saitou",
+        "description": "會電擊受傷的爪子，然後將四周的敵人都電得焦黑。",
+        "attacks": [
+          {
+            "name": "十萬伏特",
+            "effect": "將這隻寶可夢身上的能量全部丟棄。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially unreadable in the image; transcription may be inaccurate."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The localized illustrator label is small and partially unclear; exact printed label may differ."
+      }
+    ]
+  }
+}

@@ -25,8 +25,8 @@ test('replace is idempotent, preserves mixed promo rarity, and refuses worktree 
 			const directory = path.join(source, 'metadata/cards', locale)
 			fs.mkdirSync(directory, { recursive: true })
 			fs.writeFileSync(path.join(directory, 'cards.extra.json'), `${JSON.stringify([
-				{ set: 'P-Z', number: 1, name: `${locale} one`, rarity: 'C' },
-				{ set: 'P-Z', number: 2, name: `${locale} two`, rarity: 'None' },
+				{ set: 'P-Z', number: 1, name: `${locale} one`, rarity: 'C', pack: ['boo_P-Z-a', 'boo_P-Z-b'] },
+				{ set: 'P-Z', number: 2, name: `${locale} two`, rarity: 'None', pack: [] },
 			])}\n`)
 		}
 		fs.mkdirSync(path.join(downstream, 'locales/card'), { recursive: true })
@@ -77,6 +77,8 @@ test('replace is idempotent, preserves mixed promo rarity, and refuses worktree 
 		assert.deepEqual(JSON.parse(englishText)['P-Z-001'].name, 'en-US one')
 		const french = JSON.parse(fs.readFileSync(path.join(downstream, 'locales/card/fr.json'), 'utf8'))
 		assert.match(french['P-Z-001'].image, /\/fr\/tcgp\/P-Z\/001$/u)
+		assert.deepEqual(french['P-Z-001'].pack, ['boo_P-Z-a', 'boo_P-Z-b'])
+		assert.deepEqual(french['P-Z-002'].pack, [])
 		const rarity = JSON.parse(fs.readFileSync(path.join(downstream, 'lib/config/cardRarity.additions.json'), 'utf8'))
 		assert.equal(rarity['P-Z-001'], 'd1')
 		assert.equal(rarity['P-Z-002'], 'pr')

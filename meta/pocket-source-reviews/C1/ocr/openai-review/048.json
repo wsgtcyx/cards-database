@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-048",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "0c3df90d4ac5c3568fd68eff2a895df248605a544da9e5c108f98ac43fd95be1",
+      "bytes": 205389
+    },
+    "fr": {
+      "sha256": "7baf26b44431a22360f460f66b21edcca28f626493fef76ec8e7ea57f505906b",
+      "bytes": 206389
+    },
+    "es": {
+      "sha256": "bbcd2ffe0b962c9304d08aea2e81e9dc9caf6b88f981f9496fb2b69db719427f",
+      "bytes": 205475
+    },
+    "it": {
+      "sha256": "7554ed1fc88f2e35f929f489a33ae3ab49f8071d648b76b73c49bd0c04c27c84",
+      "bytes": 205742
+    },
+    "de": {
+      "sha256": "5b76a689fe04ccfbbbe8fa5fd9603f38f4a86ad1353e036443980d0e697a9ea3",
+      "bytes": 206407
+    },
+    "pt-br": {
+      "sha256": "a5b18847efcecffab608ecba00d5c4354049d4591aba49e52d79735c2f5b457d",
+      "bytes": 206110
+    },
+    "zh-tw": {
+      "sha256": "f813f243cdea86a2dc1d5f9ba07c22c1bf43c73528f52b3f9429099f2aca80c4",
+      "bytes": 203715
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 965,
+    "output_tokens_details": {
+      "reasoning_tokens": 197
+    },
+    "total_tokens": 4453
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pawmi",
+        "illustrator": "Taiga Kayama",
+        "description": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+        "attacks": [
+          {
+            "name": "Zap Kick",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Pohm",
+        "illustrator": "Taiga Kayama",
+        "description": "Les poches sur ses joues sont peu développées. Elles ne produisent de l’électricité que lorsqu’il les frotte avec ses coussinets.",
+        "attacks": [
+          {
+            "name": "Coup de Pied Ravageur",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pawmi",
+        "illustrator": "Taiga Kayama",
+        "description": "Como las bolsas de sus mejillas están poco desarrolladas, genera electricidad frotándolas con las almohadillas de sus patas delanteras.",
+        "attacks": [
+          {
+            "name": "Electropatada",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pawmi",
+        "illustrator": "Taiga Kayama",
+        "description": "Le sacche elettriche sulle sue guance non si sono sviluppate del tutto e per generare energia deve sfregarle vigorosamente con le zampe anteriori.",
+        "attacks": [
+          {
+            "name": "Dinamocalcio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pamo",
+        "illustrator": "Taiga Kayama",
+        "description": "Seine elektrischen Backentaschen sind nicht ganz ausgebildet. Um Strom zu erzeugen, muss es mit den Ballen der Vorderpfoten kräftig daran reiben.",
+        "attacks": [
+          {
+            "name": "Stromtritt",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pawmi",
+        "illustrator": "Taiga Kayama",
+        "description": "Possui bolsas de eletricidade subdesenvolvidas em suas bochechas. Elas só produzem eletricidade se Pawmi esfregá-las furiosamente com as almofadas de suas patas dianteiras.",
+        "attacks": [
+          {
+            "name": "Chute Zap",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "布撥",
+        "illustrator": "Taiga Kayama",
+        "description": "臉頰上的電囊尚未發達。必須拚命摩擦前腳的肉球，才能從那裡放出電力。",
+        "attacks": [
+          {
+            "name": "電氣踢",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

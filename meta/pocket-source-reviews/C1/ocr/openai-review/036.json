@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-036",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "94b2e682278a273c8477e947f921193ca852bd6afd9d22e2e58ab2a538d895ff",
+      "bytes": 318359
+    },
+    "fr": {
+      "sha256": "696d257a6cdcf87f5acfa2b4cf037354ec0d1ba8f6e7ed94e1efb45958c9522b",
+      "bytes": 319972
+    },
+    "es": {
+      "sha256": "45da48e09a945a25aa0b138b7c6dc7c86f2ea02ec04d6bce36158557e05c221b",
+      "bytes": 319674
+    },
+    "it": {
+      "sha256": "84bb66bb584b10d0339f30eb6900507f15d1f5fc18c0417ea6d8f5eea0d69fe5",
+      "bytes": 318960
+    },
+    "de": {
+      "sha256": "4e7ecadcdac15bc6ee0a9cbbb8a1eecb404f923f691d6ad723265ed05269a37b",
+      "bytes": 320424
+    },
+    "pt-br": {
+      "sha256": "e663db92a8fbfe08d5582b7175b5d9bc6ea72a2db8756ac80de3da4137dee8df",
+      "bytes": 318663
+    },
+    "zh-tw": {
+      "sha256": "a83c962376e6f7999c0f5253c20cac360bcf9a1254df57440621b0b8f91197a9",
+      "bytes": 319026
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1175,
+    "output_tokens_details": {
+      "reasoning_tokens": 454
+    },
+    "total_tokens": 4663
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Jynx",
+        "illustrator": "sowsow",
+        "description": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+        "attacks": [
+          {
+            "name": "Slap",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lippoutou",
+        "illustrator": "sowsow",
+        "description": "Dans une certaine zone de Galar, Lippoutou était craint et vénéré par la population qui l’avait surnommé la « reine des glaces ».",
+        "attacks": [
+          {
+            "name": "Gifle",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Jynx",
+        "illustrator": "sowsow",
+        "description": "En cierta parte de Galar se conocía a Jynx como la Reina del Hielo y se reverenciaba con cierto temor.",
+        "attacks": [
+          {
+            "name": "Bofetón",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Jynx",
+        "illustrator": "sowsow",
+        "description": "In una certa zona di Galar, Jynx era temuto e venerato dagli abitanti, che lo chiamavano “Regina dei ghiacci”.",
+        "attacks": [
+          {
+            "name": "Sberla",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Rossana",
+        "illustrator": "sowsow",
+        "description": "In einer bestimmten Gegend von Galar wurde Rossana einst als „Königin des Eises“ gleichermaßen gefürchtet wie verehrt.",
+        "attacks": [
+          {
+            "name": "Hieb",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Jynx",
+        "illustrator": "sowsow",
+        "description": "Em algumas partes de Galar, Jynx já foi temida e idolatrada como a “Rainha do Gelo”.",
+        "attacks": [
+          {
+            "name": "Tapa",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "迷唇姐",
+        "illustrator": "sowsow",
+        "description": "在伽勒爾的某個地區，人們既害怕她又崇拜她，並且敬稱其為「冰之女王」。",
+        "attacks": [
+          {
+            "name": "巴掌",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

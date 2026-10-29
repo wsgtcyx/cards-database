@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-155",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "e55f56e459873b5be5287b636560dddf7661182de78a0e9d84496fa68a47a3fb",
+      "bytes": 299578
+    },
+    "fr": {
+      "sha256": "76462f7a246aada480c8336732a378500356314533a698d81485b5c8852bd846",
+      "bytes": 300736
+    },
+    "es": {
+      "sha256": "1383fec51449bf33760ed989b273fa4e61be1d6b83ec6756bf16641d29d4b5f7",
+      "bytes": 299463
+    },
+    "it": {
+      "sha256": "c0c7917f91556da8078164ed4d5eb8e96c338cf75fc06494c17a36fae1567ad8",
+      "bytes": 299836
+    },
+    "de": {
+      "sha256": "d91ff65b8b37574dec2cdc466edb1913dbd6389d6bd1f0e1d986dbdfe7614ec4",
+      "bytes": 301440
+    },
+    "pt-br": {
+      "sha256": "df5e46d4181b1ada306da30ac591114e310e1ae3c4dfe004d3a813193f6952df",
+      "bytes": 299626
+    },
+    "zh-tw": {
+      "sha256": "4cd82073be7285095b5f054901135be9a43e2819b5974b412504ee163b68e4bf",
+      "bytes": 295635
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1732,
+    "output_tokens_details": {
+      "reasoning_tokens": 953
+    },
+    "total_tokens": 3692
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Illus. Kureha Ameno",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Splash of Darkness",
+            "effect": "During your opponent's next turn the Defending Pokémon can't retreat."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Amphinobi ex",
+        "illustrator": "Illus. Kureha Ameno",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Éclaboussure Ténébreuse",
+            "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Greninja ex",
+        "illustrator": "Illus. Kureha Ameno",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Salpicadura Siniestra",
+            "effect": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Illus. Kureha Ameno",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Spruzzo Ottenebrante",
+            "effect": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Quajutsu ex",
+        "illustrator": "Illus. Kureha Ameno",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Spritzer der Finsternis",
+            "effect": "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Greninja ex",
+        "illustrator": "Illus. Kureha Ameno",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Jato Sombrio",
+            "effect": "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá recuar."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級甲賀忍蛙ex",
+        "illustrator": "繪者 Kureha Ameno",
+        "description": null,
+        "attacks": [
+          {
+            "name": "暗黑水飛濺",
+            "effect": "在下個對手的回合，受到這個招式的寶可夢不能撤退。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "The attack name is partially hard to resolve from the image; transcription may be off by one character."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "The effect text is small and slightly blurred; transcription may differ in one or more characters."
+      },
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Artist line is small; transcription is based on the visible text but may be inaccurate."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Artist line is small; transcription is based on the visible text but may be inaccurate."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Artist line is small; transcription is based on the visible text but may be inaccurate."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Artist line is small; transcription is based on the visible text but may be inaccurate."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Artist line is small; transcription is based on the visible text but may be inaccurate."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Artist line is small; transcription is based on the visible text but may be inaccurate."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator line is very small and partially unclear."
+      }
+    ]
+  }
+}

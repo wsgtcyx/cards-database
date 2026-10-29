@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-082",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "b812d23bd573e95097c290bd98a800d5e4d309fdea71e53752e6b5b43494976d",
+      "bytes": 256906
+    },
+    "fr": {
+      "sha256": "20c61fbb7929be5900980caa5c9c3422d004250698e9db81e0ba2a3db4da0716",
+      "bytes": 257504
+    },
+    "es": {
+      "sha256": "f58746a8944ee24a0acf4149966f1841842da2bf53642c1612f45678fca9e9b1",
+      "bytes": 257598
+    },
+    "it": {
+      "sha256": "24b95be855ca0297a176f897bd6ff8887f0bf87260ac6aa5ea952ccd211b6a89",
+      "bytes": 258128
+    },
+    "de": {
+      "sha256": "a6a2500aeff355f4b1456aaafa60b84253aac18b8856fed08fc3c332a3386e24",
+      "bytes": 258461
+    },
+    "pt-br": {
+      "sha256": "06267fbc2d1b5ba67d8463341287e28ce63faa0ff35e49f15a11eab2d093e86b",
+      "bytes": 257737
+    },
+    "zh-tw": {
+      "sha256": "762ac2a07befab105e1a11c7a83af6cd1b9260df1ea29c09be0489c6e64df5df",
+      "bytes": 256879
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 931,
+    "output_tokens_details": {
+      "reasoning_tokens": 384
+    },
+    "total_tokens": 4419
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Haunter",
+        "illustrator": "HYOGONOSUKE",
+        "description": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+        "attacks": [
+          {
+            "name": "Suffocating Gas",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Spectrum",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Il adore se tapir dans l'ombre et faire frissonner ses proies pour l'éternité en leur touchant l'épaule.",
+        "attacks": [
+          {
+            "name": "Gaz Suffocant",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Haunter",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Le gusta acechar en la oscuridad y tocarles el hombro a sus víctimas con su mano gaseosa. Estas se quedan temblando para siempre.",
+        "attacks": [
+          {
+            "name": "Gas Sofocante",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Haunter",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Adora stare in agguato nell'oscurità e toccare le spalle delle vittime con le sue mani gassose. Il suo tocco causa brividi incontrollabili.",
+        "attacks": [
+          {
+            "name": "Gas Soffocante",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Alpollo",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Es lauert gern im Dunkeln und tippt Leuten mit seiner gasförmigen Hand auf die Schulter. Seine Berührung erzeugt endloses Schaudern.",
+        "attacks": [
+          {
+            "name": "Würgegas",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Haunter",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Gosta de se esconder no escuro e bater nos ombros dos outros com sua mão gasosa. Seu toque causa arrepios que não acabam mais.",
+        "attacks": [
+          {
+            "name": "Gás Asfixiante",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "鬼斯通",
+        "illustrator": "HYOGONOSUKE",
+        "description": "喜歡在黑暗中伸出氣體狀的手拍人的肩膀。一旦被摸到，就會顫抖個不停。",
+        "attacks": [
+          {
+            "name": "瓦斯包圍",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

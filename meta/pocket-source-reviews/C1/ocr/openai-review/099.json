@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-099",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "f1d4ee9eca4f4b66b7cffa4f411c4952dc03ba7c4e74f4b07b20730c1f4353eb",
+      "bytes": 281414
+    },
+    "fr": {
+      "sha256": "1d833cef9e66f844fff08669cc349c27c72b6fdb0e7a1b237977bc2a00a98cd6",
+      "bytes": 281892
+    },
+    "es": {
+      "sha256": "439ea373ff1dda4c9a0280ece61c0d0d5f617b8b00d0bb5aa00ee3d93ff454d5",
+      "bytes": 282073
+    },
+    "it": {
+      "sha256": "cc0355c91641183a6b66c5aabdda7fb702be65546f9ae52a0173f05e149d3403",
+      "bytes": 281486
+    },
+    "de": {
+      "sha256": "3684c0c8f19d9d81f5a408aaede7a682c80bca2b6f9d1e2461a9c6b45390a09f",
+      "bytes": 282531
+    },
+    "pt-br": {
+      "sha256": "4336d044e758a91deee8d0d5e95426c79b38abc9130c2681840d82b2c6bdc8a8",
+      "bytes": 281529
+    },
+    "zh-tw": {
+      "sha256": "4aba6b5cc26110f8375d0c3d1f9ff23f3642c6de536c52ec79a79cd9f0a9d4ca",
+      "bytes": 280506
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 854,
+    "output_tokens_details": {
+      "reasoning_tokens": 406
+    },
+    "total_tokens": 4342
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Dragonair",
+        "illustrator": "Mizue",
+        "description": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+        "attacks": [
+          {
+            "name": "Beam",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Draco",
+        "illustrator": "Mizue",
+        "description": "On dit que lorsque tout son corps émet une aura, les conditions climatiques se mettent à changer à vue d’œil.",
+        "attacks": [
+          {
+            "name": "Rayon",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Dragonair",
+        "illustrator": "Mizue",
+        "description": "Dicen que, cuando su cuerpo desprende un aura, el tiempo empieza a cambiar inmediatamente.",
+        "attacks": [
+          {
+            "name": "Transmisión",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Dragonair",
+        "illustrator": "Mizue",
+        "description": "Dicono che quando il suo corpo emana un’aura, il tempo cambierà immediatamente.",
+        "attacks": [
+          {
+            "name": "Raggio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Dragonir",
+        "illustrator": "Mizue",
+        "description": "Man sagt, wenn sein ganzer Körper eine Aura ausstrahle, ändere sich augenblicklich das Wetter in seiner Umgebung.",
+        "attacks": [
+          {
+            "name": "Strahl",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Dragonair",
+        "illustrator": "Mizue",
+        "description": "Dizem que, se o seu corpo inteiro emitir uma aura, o clima começará a mudar instantaneamente.",
+        "attacks": [
+          {
+            "name": "Feixe",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "哈克龍",
+        "illustrator": "Mizue",
+        "description": "據說牠全身上下散發出氣場時，周圍的天氣就會在轉眼間為之一變。",
+        "attacks": [
+          {
+            "name": "光束",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

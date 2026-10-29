@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-057",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4bc48c7e663c98ade66622f539bee94bf767d3aff3884ddd75303e92a0ab3d14",
+      "bytes": 332877
+    },
+    "fr": {
+      "sha256": "9af3a6c9a3a29b56e386eba7ecab2d9f5b46b4fc20dc43abd88021119930b0fe",
+      "bytes": 334582
+    },
+    "es": {
+      "sha256": "61dc806909f5caa72a3d1f790889d82fe6238167e06c70194773bae858d9fc57",
+      "bytes": 333123
+    },
+    "it": {
+      "sha256": "19ee8df6c324c07e45237e9f779aa2dccb55e85fb5c33b757b6caefb1c593c7a",
+      "bytes": 335767
+    },
+    "de": {
+      "sha256": "dee18d0a261155492264d3397fe68a635bec48a7bac74828068f5ea2bfb64d40",
+      "bytes": 332486
+    },
+    "pt-br": {
+      "sha256": "bceff7873215d4d556ce2a93fcdf283fdac43a09d2a3ee394f18d95bba623bb3",
+      "bytes": 334916
+    },
+    "zh-tw": {
+      "sha256": "e8f4c1e2c9abd68983e3fefccf5c1b711da8c98c62b91b022ecbd041c273d5bb",
+      "bytes": 329625
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1414,
+    "output_tokens_details": {
+      "reasoning_tokens": 667
+    },
+    "total_tokens": 3374
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mew ex",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Secret Guidance",
+            "effect": "Flip 3 coins. Take an amount of {P} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {P} Pokémon in any way you like."
+          },
+          {
+            "name": "Psyburn",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Mew ex",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Conseil Secret",
+            "effect": "Lancez 3 pièces. Prenez le même nombre d'Énergie {P} de votre zone Énergie que le nombre de côté face obtenu et attachez-les à vos Pokémon {P} de Banc comme il vous plaît."
+          },
+          {
+            "name": "Brûlure Psy",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mew ex",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Guía Secreta",
+            "effect": "Lanza 3 monedas. Une a tus Pokémon {P} en Banca, de la manera que desees, tantas Energías {P} de tu área de Energía como caras hayan salido."
+          },
+          {
+            "name": "Psicoquemadura",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mew ex",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Direttive Segrete",
+            "effect": "Lancia 3 volte una მონeta. Prendi un numero di Energie {P} dalla tua Zona Energia uguale al numero di volte in cui è uscito testa e assegnale ai tuoi Pokémon {P} in panchina nel modo che preferisci."
+          },
+          {
+            "name": "Psicobrucia",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mew ex",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Geheimes Geleit",
+            "effect": "Wirf 3 Münzen. Lege pro Kopf 1 {P}-Energie aus deinem Energiebereich beliebig an die {P}-Pokémon auf deiner Bank an."
+          },
+          {
+            "name": "Psychoverbrennung",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mew ex",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Diretriz Secreta",
+            "effect": "Jogue 3 moedas. Pegue uma quantidade de Energia {P} da sua Zona de Energia igual ao número de caras e ligue-as aos seus Pokémon {P} no Banco como desejar."
+          },
+          {
+            "name": "Queimadura Psíquica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "夢幻 ex",
+        "illustrator": "akagi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "秘密指引",
+            "effect": "擲3次硬幣。從自己的能量區抽出與正面出現的次數相同數量的能量，以任意方式附於備戰區的寶可夢身上。"
+          },
+          {
+            "name": "精神爆擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator text is small; read as akagi but not fully certain."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Bottom-left illustrator text is small; read as akagi but not fully certain."
+      }
+    ]
+  }
+}

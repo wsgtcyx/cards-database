@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-008",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "67f4b950944942b37b6d502a61392b31c1d186065296db9a7868633daae70060",
+      "bytes": 290367
+    },
+    "fr": {
+      "sha256": "4bdd539742db29241ee1b504508e766a41e9132ac425da221178bfee64ef2c6b",
+      "bytes": 289480
+    },
+    "es": {
+      "sha256": "442971105a90ec07f58014b84dd001931877e388c3d5cb596a9e8eaf447ef498",
+      "bytes": 290949
+    },
+    "it": {
+      "sha256": "76441dca9a0a4c54a73dce3ca214a2d732595a0d999c31ce15b476325e3cef3d",
+      "bytes": 290252
+    },
+    "de": {
+      "sha256": "6783183458150d2b8facd06fe4a2d410b3e5c1f5951fb0fd5124df1092464138",
+      "bytes": 293709
+    },
+    "pt-br": {
+      "sha256": "b3714b9f0f683d2333d2a3966ef171c0073b01be0ecb07a0d045af0454a13bec",
+      "bytes": 292240
+    },
+    "zh-tw": {
+      "sha256": "1260aaa26f44fd5e2898de1d4525bbed7a5cde4d2b043db0eee6321a23fba4e8",
+      "bytes": 288524
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2034,
+    "output_tokens_details": {
+      "reasoning_tokens": 1112
+    },
+    "total_tokens": 5522
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Vespiquen",
+        "illustrator": "Narumi Sato",
+        "description": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+        "attacks": [
+          {
+            "name": "Honey Rush",
+            "effect": "Reveal all of the Sweet Honey in your hand, and this attack does 50 damage for each card you revealed in this way."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Apireine",
+        "illustrator": "Narumi Sato",
+        "description": "Son abdomen abrite ses petits, qu'il contrôle grâce à des phéromones.",
+        "attacks": [
+          {
+            "name": "Ruée Miel",
+            "effect": "Montrez toutes les cartes Miel dans votre main. Cette attaque inflige 50 dégâts pour chaque carte montrée de cette façon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Vespiquen",
+        "illustrator": "Narumi Sato",
+        "description": "Cría larvas en los panales de su cuerpo y segrega diversas feromonas para controlarlas.",
+        "attacks": [
+          {
+            "name": "Fiebre de Miel",
+            "effect": "Enseña todas las cartas de Miel de tu mano. Este ataque hace 50 puntos de daño por cada carta que hayas enseñado de esta manera."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Vespiquen",
+        "illustrator": "Narumi Sato",
+        "description": "Nell'addome ospita la sua progenie, sulla quale esercita un controllo assoluto tramite i feromoni che rilascia.",
+        "attacks": [
+          {
+            "name": "Ipermiele",
+            "effect": "Mostra tutte le carte Miele che hai in mano. Questo attacco infligge 50 danni per ogni carta che hai mostrato in questo modo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Honweisel",
+        "illustrator": "Narumi Sato",
+        "description": "Sein Rumpf fungiert als Wabe für die Larven, die es mithilfe verschiedener Pheromone frei herumkommandieren kann.",
+        "attacks": [
+          {
+            "name": "Honigrausch",
+            "effect": "Zeige deinem Gegner alle Honig-Karten auf deiner Hand und diese Attacke fügt für jede auf diese Weise gezeigte Karte 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Vespiquen",
+        "illustrator": "Narumi Sato",
+        "description": "Guarda sua colônia em células do seu corpo e libera vários feromônios para que as larvas cumpram suas exigências.",
+        "attacks": [
+          {
+            "name": "Adrenalina de Mel",
+            "effect": "Revele todas as cartas Mel Doce na sua mão, e este ataque causa 50 pontos de dano para cada carta que você revelou dessa forma."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蜂女王",
+        "illustrator": "Narumi Sato",
+        "description": "身體是孩子們的巢穴。會釋放出各式各樣的費洛蒙，自由自在地控制孩子們。",
+        "attacks": [
+          {
+            "name": "蜜之猛攻",
+            "effect": "在給對手看過自己手牌的所有「甜甜蜜」後，造成給對手看過的張數×50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

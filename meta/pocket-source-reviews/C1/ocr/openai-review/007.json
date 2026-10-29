@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-007",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "d9766aec13262a7854ac0fefc49c5b9487f487e7c58b4eb608a674158b16576d",
+      "bytes": 286467
+    },
+    "fr": {
+      "sha256": "87a4edeff100cac059efe5a8f4ff9a38326c92cb31f4bbf4dd37c96e89281329",
+      "bytes": 286740
+    },
+    "es": {
+      "sha256": "b2657bccde9c9d95eb66cb6ca84494c4b0195f9a316a55736f383f870bfc864b",
+      "bytes": 287274
+    },
+    "it": {
+      "sha256": "7ea9cff010d908c8ab1c20f21c6cded05bc2bb5e7c2fd0cc5b7609d63f16cfd8",
+      "bytes": 287351
+    },
+    "de": {
+      "sha256": "0e2fa459ebb53aa0621b46761dec5d9cc4ec6c5d612e9211b680ec3b1b9704f8",
+      "bytes": 288885
+    },
+    "pt-br": {
+      "sha256": "2c5b8844e3e4f2999bee23c8dec3a601cf9944924a6fbca79cf0a2ff06fd20c5",
+      "bytes": 286681
+    },
+    "zh-tw": {
+      "sha256": "53512584d338331b9bf1488fc46d5b804b61e0335958ce3784c4cf2e73224af8",
+      "bytes": 286012
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 644,
+    "output_tokens_details": {
+      "reasoning_tokens": 179
+    },
+    "total_tokens": 4132
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Combee",
+        "illustrator": "Narumi Sato",
+        "description": "At night, Combee sleep in a group of about a hundred, packed closely together in a lump.",
+        "attacks": [
+          {
+            "name": "Flap",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Apitrini",
+        "illustrator": "Narumi Sato",
+        "description": "À la nuit tombée, les Apitrini s’agglutinent par grappes de cent pour dormir.",
+        "attacks": [
+          {
+            "name": "Battement",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Combee",
+        "illustrator": "Narumi Sato",
+        "description": "Cuando llega la noche, se juntan unos cien Combee y duermen formando una gran colmena.",
+        "attacks": [
+          {
+            "name": "Aleteo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Combee",
+        "illustrator": "Narumi Sato",
+        "description": "Scesa la notte, formano dei grandi alveari di circa 100 esemplari e dormono raggruppati.",
+        "attacks": [
+          {
+            "name": "Alabattito",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Wadribie",
+        "illustrator": "Narumi Sato",
+        "description": "Des Nachts schmiegen sich bis zu 100 Wadribie aneinander und formieren sich so zum Schlafen zu einem großen Gebilde.",
+        "attacks": [
+          {
+            "name": "Flattern",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Combee",
+        "illustrator": "Narumi Sato",
+        "description": "À noite, Combee dormem amontoados em grupos de aproximadamente cem indivíduos.",
+        "attacks": [
+          {
+            "name": "Asa",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "三蜜蜂",
+        "illustrator": "Narumi Sato",
+        "description": "到了晚上就會有１００隻左右的三蜜蜂擠聚成堆，依偎著彼此睡覺。",
+        "attacks": [
+          {
+            "name": "羽擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

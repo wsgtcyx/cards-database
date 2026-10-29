@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-122",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "e29702cdb0f137d49fa1ef8b38df2a39dec82b006d096671c2bc88eaf8c44ee9",
+      "bytes": 195105
+    },
+    "fr": {
+      "sha256": "5676c33a47954c4dc14af1a76baba225eda979c6da084ab95f365e078a09249c",
+      "bytes": 197668
+    },
+    "es": {
+      "sha256": "01004202634307481305c4a30deec54abf2ee1ff0b82b442ddc36559052010d2",
+      "bytes": 198716
+    },
+    "it": {
+      "sha256": "ccec000226a78fc9f0d38cfe4335e225869ebf4409ce6247d592944f029d1eae",
+      "bytes": 198122
+    },
+    "de": {
+      "sha256": "7d4c3af7ca446737ed270f861f143806a621196eba34062b4cca5312635b9aaa",
+      "bytes": 197749
+    },
+    "pt-br": {
+      "sha256": "912307d027d02406cc336d9dbc577ae1f516c7de027e4347ea927bef4f6e6d75",
+      "bytes": 197512
+    },
+    "zh-tw": {
+      "sha256": "a4d66f2e6787af9d2c1d850b45909207f1e37743b365a960e8fea4961a8c133f",
+      "bytes": 193859
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 760,
+    "output_tokens_details": {
+      "reasoning_tokens": 325
+    },
+    "total_tokens": 2720
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Full Heal",
+        "illustrator": "Yoshinobu Saito",
+        "description": "Your Active Pokémon recovers from all Special Conditions.",
+        "attacks": [],
+        "abilities": [],
+        "effect": "You may play any number of Item cards during your turn."
+      },
+      "fr": {
+        "name": "Total Soin",
+        "illustrator": "Yoshinobu Saito",
+        "description": "Votre Pokémon Actif guérit de tous les États Spéciaux.",
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous pouvez jouer autant de cartes Objet que vous voulez pendant votre tour."
+      },
+      "es": {
+        "name": "Cura Total",
+        "illustrator": "Yoshinobu Saito",
+        "description": "Tu Pokémon Activo se recupera de todas las Condiciones Especiales.",
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puedes jugar cualquier cantidad de cartas de Objeto durante tu turno."
+      },
+      "it": {
+        "name": "Cura totale",
+        "illustrator": "Yoshinobu Saito",
+        "description": "Il tuo Pokémon attivo guarisce da tutte le condizioni speciali.",
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi giocare tutte le carte Strumento che vuoi durante il tuo turno."
+      },
+      "de": {
+        "name": "Hyperheiler",
+        "illustrator": "Yoshinobu Saito",
+        "description": "Dein Aktives Pokémon erholt sich von allen Speziellen Zuständen.",
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst während deines Zuges beliebig viele Itemkarten spielen."
+      },
+      "pt-br": {
+        "name": "Cura Total",
+        "illustrator": "Yoshinobu Saito",
+        "description": "O seu Pokémon Ativo se recupera de todas as Condições Especiais.",
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você pode jogar quantas cartas de Item quiser durante o seu turno."
+      },
+      "zh-tw": {
+        "name": "萬靈藥",
+        "illustrator": "Yoshinobu Saito",
+        "description": "將自己的戰鬥寶可夢的特殊狀態全部恢復。",
+        "attacks": [],
+        "abilities": [],
+        "effect": "在自己的回合時，物品卡可不限張數使用。"
+      }
+    },
+    "uncertain": []
+  }
+}

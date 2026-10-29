@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-134",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4862b3616954549fd3091d186a7fcaab7fc1efbb5ef876ac3884dbd99d282fe1",
+      "bytes": 365850
+    },
+    "fr": {
+      "sha256": "c68c628412894c00c303801497ad89155b2013ec8a70f59584e6e5ea3a2b5947",
+      "bytes": 364746
+    },
+    "es": {
+      "sha256": "41654d0817a000b16e903a0f2ede06d1fa717c2cf4c12753bd1f9887e372199d",
+      "bytes": 365177
+    },
+    "it": {
+      "sha256": "da165265cbfc122079708bf0193b6812b53cf90d28cb42d30b7e64d7dba8132e",
+      "bytes": 363492
+    },
+    "de": {
+      "sha256": "d2d69c16e0bba15ff77926efc78ca35653338c01f34355046f931d104772cc84",
+      "bytes": 365994
+    },
+    "pt-br": {
+      "sha256": "b18b1203b68b4e51ec434c17af7fbc67e586959b1b1a08636b0dd086c9202e18",
+      "bytes": 365862
+    },
+    "zh-tw": {
+      "sha256": "9ec007754af016c747db6a102cde259e596e1db2643d478e592056e01b93cdd3",
+      "bytes": 363596
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1852,
+    "output_tokens_details": {
+      "reasoning_tokens": 797
+    },
+    "total_tokens": 3812
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Deerling",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Flop",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Vivaldaim",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Flop",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Deerling",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Vuelta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Deerling",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Tonfo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Sesokitz",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Plumps",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Deerling",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Baque",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "四季鹿",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "活蹦亂跳",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator credit is present only as very small text and is unreadable at this resolution."
+      },
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator credit is present only as very small text and is unreadable at this resolution."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator credit is present only as very small text and is unreadable at this resolution."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator credit is present only as very small text and is unreadable at this resolution."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator credit is present only as very small text and is unreadable at this resolution."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator credit is present only as very small text and is unreadable at this resolution."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator credit is present only as very small text and is unreadable at this resolution."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe reliably."
+      }
+    ]
+  }
+}

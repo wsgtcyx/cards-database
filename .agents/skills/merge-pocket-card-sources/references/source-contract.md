@@ -76,6 +76,8 @@ chosen value，并移除 provider URL、job ID、签名 query、token/cookie、�
 - Trainer 必须有 trainer type、effect 和 illustrator；
 - provenance 每个 canonical 字段保存 `chosen`、`status`、`candidates`，review 字段额外保存 `evidence`；
 - audit 中 `passed` 只有在连续、无缺口、无 unresolved 时才为 true。
+- 使用 `import-reviewed-pocket-set.mjs` 时，localization audit 还必须通过 `--reviewed-cards`
+  核对审定 raw 与 canonical/各语言值，并绑定 `reviewedCardsSha256`；旧报告不能放行修改后的 raw。
 - illustrator placeholder/mojibake、TODO、英文规则 fallback、未绑定 token、同名 printing
   翻译不一致和 CJK 名称拉丁占位均视为 unresolved；
 - preflight 审计不可覆写；final audit 另建文件，并记录 canonical、localizations、图片 manifest、

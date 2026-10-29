@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-064",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d1ec959d532327d2db50fcb5aa373902b3c132db683a62bad5f8fd8e3d679f9e",
+      "bytes": 261498
+    },
+    "fr": {
+      "sha256": "bbc75fafdad3a66a7a599392e69095223a67f29419a93abe462cff9cfa5f5688",
+      "bytes": 261614
+    },
+    "es": {
+      "sha256": "4d879973720d7b1fa46ff6b1f2f134f86406839128e4d978c29d205402355816",
+      "bytes": 262255
+    },
+    "it": {
+      "sha256": "03d1ebcba1b2d289e90f60172bc5d2ecfb0ac9f1954de15a8a5467ee742b7125",
+      "bytes": 261243
+    },
+    "de": {
+      "sha256": "301e7a641861f96f5ee0325d5701fbf16df7106f58e369145fcc3733c0b14012",
+      "bytes": 262533
+    },
+    "pt-br": {
+      "sha256": "1e51d0f837046347b6a8111c2789de234d60f1042e0aca1e0947ddb5383513ca",
+      "bytes": 261985
+    },
+    "zh-tw": {
+      "sha256": "3ef8ea8b5fbea2c38b9d9aa19b72acd4b87183f953904543a4dec12534703d82",
+      "bytes": 259859
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1461,
+    "output_tokens_details": {
+      "reasoning_tokens": 648
+    },
+    "total_tokens": 3421
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Cosmog",
+        "illustrator": "Megumi Mizutani",
+        "description": "This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.",
+        "attacks": [
+          {
+            "name": "Dust Gathering",
+            "effect": "Draw a card."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Cosmog",
+        "illustrator": "Megumi Mizutani",
+        "description": "Il vient d’un autre univers. Son corps gazeux est si léger que la moindre brise peut l’emporter.",
+        "attacks": [
+          {
+            "name": "Ramasse Poussière",
+            "effect": "Piochez une carte."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cosmog",
+        "illustrator": "Megumi Mizutani",
+        "description": "Proviene de otro mundo. Su cuerpo gaseoso es tan liviano que hasta la brisa más suave es capaz de arrastrarlo.",
+        "attacks": [
+          {
+            "name": "Concentración de Polvo",
+            "effect": "Roba 1 carta."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Cosmog",
+        "illustrator": "Megumi Mizutani",
+        "description": "Proviene da un altro universo. Il suo corpo fatto di gas è talmente leggero che può volar via al minimo soffio di vento.",
+        "attacks": [
+          {
+            "name": "Coglipolvere",
+            "effect": "Pesca una carta."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Cosmog",
+        "illustrator": "Megumi Mizutani",
+        "description": "Es stammt aus einem anderen Universum. Sein Körper aus Gas ist so leicht, dass es sogar von einer sanften Brise weggeweht wird.",
+        "attacks": [
+          {
+            "name": "Staubfänger",
+            "effect": "Ziehe 1 Karte."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Cosmog",
+        "illustrator": "Megumi Mizutani",
+        "description": "Este Pokémon veio de outro universo. Seu corpo gasoso é tão leve que uma brisa suave pode levá-lo embora.",
+        "attacks": [
+          {
+            "name": "Coleta de Poeira",
+            "effect": "Compre 1 carta."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "科斯莫古",
+        "illustrator": "Megumi Mizutani",
+        "description": "來自其他宇宙。氣體構成的身體十分輕盈，連細微的微風也會把它吹走。",
+        "attacks": [
+          {
+            "name": "集塵",
+            "effect": "從自己的牌庫抽出1張卡。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is small/blurry; the transcription is based on the visible text but may be slightly off in wording/punctuation."
+      }
+    ]
+  }
+}

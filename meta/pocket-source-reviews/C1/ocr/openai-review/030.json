@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-030",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "0d41627901a168239f684663545900689b6f5c739ef85dff7a68144ccd21a7b6",
+      "bytes": 298754
+    },
+    "fr": {
+      "sha256": "6b4bc4a1da6341ad34fc2d24fb67fa9c4e1328b7ac588d548636cf2bf6bf62b6",
+      "bytes": 299878
+    },
+    "es": {
+      "sha256": "a2aa7d7b5a9892fe2c0874f81ddc772e96e0b1f25f6e40e8b90e7179f5095770",
+      "bytes": 298160
+    },
+    "it": {
+      "sha256": "9bfd078449f74a983ea18351e3deae7b3602756b2126b20164748179d2ad5168",
+      "bytes": 298625
+    },
+    "de": {
+      "sha256": "422ea6dfd9992dda9c2e375ace4f02f759767df703e5540ac20970bb0d2e10e8",
+      "bytes": 298284
+    },
+    "pt-br": {
+      "sha256": "792ed07546dccbc5c152116f7a436c9795fc95813a4a6b7b2dd644d3a709ce3e",
+      "bytes": 299871
+    },
+    "zh-tw": {
+      "sha256": "76e72e8d6e1fb3f7e2b4065dc36e4a2da7a65fe112679e9390ae26e05c258782",
+      "bytes": 297180
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 867,
+    "output_tokens_details": {
+      "reasoning_tokens": 148
+    },
+    "total_tokens": 4355
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Wartortle",
+        "illustrator": "Akira Komayama",
+        "description": "Wartortle’s long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people.",
+        "attacks": [
+          {
+            "name": "Spinning Attack",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Carabaffe",
+        "illustrator": "Akira Komayama",
+        "description": "Sa longue queue touffue est un symbole de longévité. Les personnes âgées apprécient donc particulièrement ce Pokémon.",
+        "attacks": [
+          {
+            "name": "Attaque Tournante",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Wartortle",
+        "illustrator": "Akira Komayama",
+        "description": "Tiene una cola larga y peluda que simboliza la longevidad y lo hace popular entre los mayores.",
+        "attacks": [
+          {
+            "name": "Ataque Giratorio",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Wartortle",
+        "illustrator": "Akira Komayama",
+        "description": "La coda lunga e folta è simbolo di longevità. È un Pokémon particolarmente popolare tra le persone anziane.",
+        "attacks": [
+          {
+            "name": "Attacco Rotante",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Schillok",
+        "illustrator": "Akira Komayama",
+        "description": "Sein langer und buschiger Schweif zeugt von Langlebigkeit. Es ist besonders bei älteren Menschen beliebt.",
+        "attacks": [
+          {
+            "name": "Rundumangriff",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Wartortle",
+        "illustrator": "Akira Komayama",
+        "description": "A cauda longa e peluda de Wartortle é um símbolo de longevidade, por isso este Pokémon é bem popular entre pessoas mais velhas.",
+        "attacks": [
+          {
+            "name": "Ataque Giratório",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "卡咪龜",
+        "illustrator": "Akira Komayama",
+        "description": "蓬鬆長長的尾巴被視為長壽的象徵。特別深受老人喜愛。",
+        "attacks": [
+          {
+            "name": "迴轉攻擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

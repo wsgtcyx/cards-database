@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-088",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "5b99f2e498d2ff59b41d7b265803be6966fee1f06bb5fe199fa82b765e164c84",
+      "bytes": 311699
+    },
+    "fr": {
+      "sha256": "268595ae78a73249f5e2e1c572e4ca658b1cff2c7a3d6d051d9959f9b3f0b028",
+      "bytes": 314170
+    },
+    "es": {
+      "sha256": "1d4c4f17b7d89c379e079c911db41d8cd153806860d11375f6e7cc390bc69471",
+      "bytes": 312792
+    },
+    "it": {
+      "sha256": "f7105d4274fcab2d11e612c0a44724938ddd75315dcfe8742d64993bfbe493a5",
+      "bytes": 313349
+    },
+    "de": {
+      "sha256": "b1369db36f8665b01df0d0a95f6f22f021f9d49a814185133e95a1db1f03fab8",
+      "bytes": 314069
+    },
+    "pt-br": {
+      "sha256": "f8ba6590f62885f10f42dc52ff16732a27bc2e1faef9f18b9ca6a1e4df7aedc0",
+      "bytes": 313007
+    },
+    "zh-tw": {
+      "sha256": "acd589b0aa9b039de5de1875131266974f5f33bf73829e613c607611dc717906",
+      "bytes": 311541
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2309,
+    "output_tokens_details": {
+      "reasoning_tokens": 1354
+    },
+    "total_tokens": 5797
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Zoroark",
+        "illustrator": "Nooki Saito",
+        "description": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished.",
+        "attacks": [
+          {
+            "name": "Foul Play",
+            "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Zoroark",
+        "illustrator": "Nooki Saito",
+        "description": "On dit que ceux qui osent tenter de le capturer restent prisonniers des paysages illusoires qu’il peut créer.",
+        "attacks": [
+          {
+            "name": "Tricherie",
+            "effect": "Choisissez l’une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Zoroark",
+        "illustrator": "Nooki Saito",
+        "description": "Se dice que Zoroark atrapa en un mundo de ilusiones a quien lo intenta capturar y que, de esta manera, lo castiga.",
+        "attacks": [
+          {
+            "name": "Juego Sucio",
+            "effect": "Elige 1 de los ataques del Pokémon Activo de tu rival y úsalo para este ataque."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Zoroark",
+        "illustrator": "Nooki Saito",
+        "description": "Gira voce che quelli che osano cercare di catturarlo restino imprigionati dentro mondi di fantasia che lui stesso crea.",
+        "attacks": [
+          {
+            "name": "Ripicca",
+            "effect": "Scegli un attacco del Pokémon attivo del tuo avversario e usalo al posto di questo attacco."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Zoroark",
+        "illustrator": "Nooki Saito",
+        "description": "Es heißt, Zoroark verbanne jeden, der es zu fangen versucht, zur Strafe in eine Welt der Illusionen.",
+        "attacks": [
+          {
+            "name": "Schmarotzer",
+            "effect": "Wähle 1 Attacke des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Zoroark",
+        "illustrator": "Nooki Saito",
+        "description": "Rezam as lendas que aqueles que tentaram capturar Zoroark foram aprisionados em uma ilusão e punidos.",
+        "attacks": [
+          {
+            "name": "Jogo Sujo",
+            "effect": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente e use-o como este ataque."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "索羅亞克",
+        "illustrator": "Nooki Saito",
+        "description": "據說會將想要捕捉牠的人關在自己創造的幻覺中並給予懲罰。",
+        "attacks": [
+          {
+            "name": "欺詐",
+            "effect": "選擇1個對手的戰鬥寶可夢持有的招式，作為這個招式使用。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Several characters and the final punctuation are blurred in the enlarged crop."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "The final punctuation is difficult to distinguish at the supplied resolution."
+      }
+    ]
+  }
+}

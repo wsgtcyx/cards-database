@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-192",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "8c492734fa5cc933b1a73396a5c0d1628af16c8af2c11aaf5ca74e350b55d5b5",
+      "bytes": 309217
+    },
+    "fr": {
+      "sha256": "cf57d629ba5125309a732a7d4219c063b22f893fe3cb254f775dd7a315f7cefe",
+      "bytes": 310241
+    },
+    "es": {
+      "sha256": "384ee86cb1848d8dedfb61b1ea81b4974d9dc778d5eba8721c4144e7447ec297",
+      "bytes": 310914
+    },
+    "it": {
+      "sha256": "c5a5e3a7d6577aafe7c6fdb03693dbcadc1af44dafc443670c26dee86c31a5b4",
+      "bytes": 310214
+    },
+    "de": {
+      "sha256": "c67d0f81913569916459aed1a98d60c3cad1573d20ee1c548531f4a761156e3d",
+      "bytes": 310545
+    },
+    "pt-br": {
+      "sha256": "26b7cad2db5783aac66aceef48d90bc9d461a5d6efa48472edd432e6d981eeec",
+      "bytes": 310842
+    },
+    "zh-tw": {
+      "sha256": "23642ed9f3b68b50520b1a828c297f96cedd17f2367e9a51c55beeb1c880f2c7",
+      "bytes": 309436
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1193,
+    "output_tokens_details": {
+      "reasoning_tokens": 654
+    },
+    "total_tokens": 3153
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Seel",
+        "illustrator": "MAHOU",
+        "description": "The protrusion on its head is very hard. It is used for bashing through thick ice.",
+        "attacks": [
+          {
+            "name": "Waterfall",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Otaria",
+        "illustrator": "MAHOU",
+        "description": "La corne sur son front est très résistante. Elle lui sert à se frayer un chemin à travers les icebergs.",
+        "attacks": [
+          {
+            "name": "Cascade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Seel",
+        "illustrator": "MAHOU",
+        "description": "La protuberancia que tiene en la cabeza es tan dura que la usa para abrirse paso a cabezazos por el hielo de los icebergs.",
+        "attacks": [
+          {
+            "name": "Cascada",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Seel",
+        "illustrator": "MAHOU",
+        "description": "La protuberanza che ha sulla testa è estremamente dura. Si fa strada tra gli icebergs spaccandoli a testate.",
+        "attacks": [
+          {
+            "name": "Cascata",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Jurob",
+        "illustrator": "MAHOU",
+        "description": "Dieses Pokémon verfügt über ein sehr hartes Horn. Mit Kopfstößen durchbricht es Eisschollen in seinem Weg.",
+        "attacks": [
+          {
+            "name": "Kaskade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Seel",
+        "illustrator": "MAHOU",
+        "description": "A protuberância extremamente resistente em sua cabeça é usada para arrebentar camadas espessas de gelo.",
+        "attacks": [
+          {
+            "name": "Cachoeira",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "小海獅",
+        "illustrator": "MAHOU",
+        "description": "頭上有非常堅硬的突起部分。牠利用前額突破冰山來開闢前進。",
+        "attacks": [
+          {
+            "name": "擊浪",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "The two-character attack name is partially legible in the image; read as 擊浪 but not fully certain."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The flavor text is small and partially obscured; transcription may contain minor character errors."
+      }
+    ]
+  }
+}

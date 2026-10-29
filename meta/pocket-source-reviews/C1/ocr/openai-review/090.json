@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-090",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "77ae601ff0363a66153cc4d85f067e54d210ddcbae2d8f2358536c74ab30e113",
+      "bytes": 297741
+    },
+    "fr": {
+      "sha256": "6d9f583165a2ff2183759de1eef4e1138e37b9b6faf984c0b62393d2d80999fe",
+      "bytes": 297999
+    },
+    "es": {
+      "sha256": "b7663b0e016a4b2cae82bd5ee14f65f1a5d44bfdebdad2dbfcba0c8c7730b609",
+      "bytes": 297898
+    },
+    "it": {
+      "sha256": "7bf70eb3f9c58c7920ea68072cf7750f1f93d54e7865432f70774f7856277f56",
+      "bytes": 297859
+    },
+    "de": {
+      "sha256": "4d1f8820872b9a050ca397c8a5c859198a38d6a1df2d13417179ef6b03831bcb",
+      "bytes": 299418
+    },
+    "pt-br": {
+      "sha256": "8f18c151292c633bb25623fe9da88ba76963f9469edcd5863f16328ab6b79991",
+      "bytes": 297775
+    },
+    "zh-tw": {
+      "sha256": "b4c724f8ac04a4faeeaeb233a254cbb97563de8c8b3a79fafbe5c27191051b76",
+      "bytes": 297993
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1097,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 4585
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Thievul",
+        "illustrator": "SIE NANAHARA",
+        "description": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+        "attacks": [
+          {
+            "name": "Claw Slash",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Roublenard",
+        "illustrator": "SIE NANAHARA",
+        "description": "Il marque sa victime potentielle à l’odeur. Suivant qu’elle est distraite, il s’empresse de lui voler ses biens.",
+        "attacks": [
+          {
+            "name": "Tranch’Griffe",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Thievul",
+        "illustrator": "SIE NANAHARA",
+        "description": "Marca a su presa sin ser advertido. Sigue el olor y, cuando el otro Pokémon baja la guardia, aprovecha para robarle.",
+        "attacks": [
+          {
+            "name": "Cuchillada Garra",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Thievul",
+        "illustrator": "SIE NANAHARA",
+        "description": "Marca di nascosto le prede interessanti, ne segue l’odore per rintracciarle e approfitta di una loro distrazione per rubare nelle loro tane.",
+        "attacks": [
+          {
+            "name": "Lacerartigli",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Gaunux",
+        "illustrator": "SIE NANAHARA",
+        "description": "Es markiert heimlich die Beute, auf die es ein Auge geworfen hat. Dann folgt es dem Geruch und stiehlt sie, wenn sich die Gelegenheit bietet.",
+        "attacks": [
+          {
+            "name": "Klauenschlitzer",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Thievul",
+        "illustrator": "SIE NANAHARA",
+        "description": "Usa um odor para marcar suas possíveis vítimas. Depois, fareja-as e rouba seus pertences quando elas menos esperam.",
+        "attacks": [
+          {
+            "name": "Golpe de Garra",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "狐大盜",
+        "illustrator": "SIE NANAHARA",
+        "description": "會偷偷在有香味的獵物身上留下標記，然後追蹤氣味，在對方放鬆戒心時偷走東西。",
+        "attacks": [
+          {
+            "name": "利爪劈擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Flavor text is heavily pixelated; several characters and the final punctuation are not fully legible."
+      }
+    ]
+  }
+}

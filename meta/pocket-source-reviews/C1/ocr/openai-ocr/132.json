@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-132",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "eba3730c411c2835a4713533d27bdfafc868dcf127350d09265e069e80f09060",
+      "bytes": 413777
+    },
+    "fr": {
+      "sha256": "adc7aaebfa0d2e00121a24f2bd5fda8eb7a9a3539833fe74a37247ce7fb16529",
+      "bytes": 413772
+    },
+    "es": {
+      "sha256": "3ce7c403127e3d1a14449de0b43e53cb7796596631a0fb7aafc5b34870b91494",
+      "bytes": 412943
+    },
+    "it": {
+      "sha256": "73443e2c52314d7689f01298694ef82d18954add51e88ba37c8b237f987db443",
+      "bytes": 412129
+    },
+    "de": {
+      "sha256": "b48b065d6488af91d6d1dcfa03f4f1c2d5ac9380046273417efd7dc5ec25fd59",
+      "bytes": 412509
+    },
+    "pt-br": {
+      "sha256": "a8dd794869372ee20067ade2cd04e29c47dd7b6021c5c0c44b725b399e15221a",
+      "bytes": 413958
+    },
+    "zh-tw": {
+      "sha256": "9ce393f266a053b5f70a2ff0540ec7d68ce9d1deff7252115a617e465727e0d3",
+      "bytes": 411654
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1635,
+    "output_tokens_details": {
+      "reasoning_tokens": 933
+    },
+    "total_tokens": 3595
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Venusaur",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Solar Beam",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sunny Heal",
+            "effect": "Once during your turn, you may heal 30 damage from your Active Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Florizarre",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Lance-Soleil",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Guérison Solaire",
+            "effect": "Une fois pendant votre tour, vous pouvez soigner 30 dégâts de votre Pokémon Actif."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Venusaur",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Rayo Solar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Cura Soleada",
+            "effect": "Una vez durante tu turno, puedes curar 30 puntos de daño a tu Pokémon Activo."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Venusaur",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Solarraggio",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Solcura",
+            "effect": "Una sola volta durante il tuo turno, puoi curare il tuo Pokémon attivo da 30 danni."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Bisaflor",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Solarstrahl",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sonnenheilung",
+            "effect": "Einmal während deines Zuges kannst du 30 Schadenspunkte bei deinem Aktiven Pokémon heilen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Venusaur",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Raio Solar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Cura Ensolarada",
+            "effect": "Uma vez durante o seu turno, você poderá curar 30 pontos de dano do seu Pokémon Ativo."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "妙蛙花",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "日光束",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "陽光治癒",
+            "effect": "在自己的回合時，可使用1次，將自己的戰鬥寶可夢恢復30HP。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Small bottom copyright/credit text is not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Small bottom copyright/credit text is not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Small bottom copyright/credit text is not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Small bottom copyright/credit text is not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Small bottom copyright/credit text is not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Small bottom copyright/credit text is not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Small bottom copyright/credit text is not legible enough to transcribe confidently."
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-104",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "a5c50df4c2f8986c2eb3cb809b32c4958cd73b818b2cb7324b69e12a876767a8",
+      "bytes": 287520
+    },
+    "fr": {
+      "sha256": "bab1daf5ada40805baf6edd0172572a39d93d3ad60a7142c1c19a080c33e0eed",
+      "bytes": 289249
+    },
+    "es": {
+      "sha256": "9e03984b6a8468206fce605113de904eac34f9ad7e4922e187672c277fe88774",
+      "bytes": 287993
+    },
+    "it": {
+      "sha256": "f358018d26839cea4d2a676bb578a0189c016f038cdda44067fb6cbe87ad3f78",
+      "bytes": 288196
+    },
+    "de": {
+      "sha256": "588abb767bec88459572145ddf0e56b3487f83b5edce037fd05fdb06e12c7a30",
+      "bytes": 291856
+    },
+    "pt-br": {
+      "sha256": "4f6cbb0fab3d87e3dc5235ff3499f68f055fefbb7e6d6aac83e9bf42239ad400",
+      "bytes": 290302
+    },
+    "zh-tw": {
+      "sha256": "bfda7f2c355e1e08f9f57c2dbf277d642c9d64e8372e146e615397d24c928189",
+      "bytes": 283787
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1261,
+    "output_tokens_details": {
+      "reasoning_tokens": 390
+    },
+    "total_tokens": 4749
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pidgeot",
+        "illustrator": "kowapoyo",
+        "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+        "attacks": [
+          {
+            "name": "Clean Hit",
+            "effect": "If your opponent’s Active Pokémon is an Evolution Pokémon, this attack does 80 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Roucarnage",
+        "illustrator": "kowapoyo",
+        "description": "Il survole la surface de l’eau pour repérer une proie et plonge en piqué pour l’attraper.",
+        "attacks": [
+          {
+            "name": "Coup Net",
+            "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon Évolutif, cette attaque inflige 80 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pidgeot",
+        "illustrator": "kowapoyo",
+        "description": "Cuando caza, vuela muy deprisa a ras del agua y sorprende a inocentes presas como Magikarp.",
+        "attacks": [
+          {
+            "name": "Impacto Limpio",
+            "effect": "Si el Pokémon Activo de tu rival es un Pokémon Evolución, este ataque hace 80 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pidgeot",
+        "illustrator": "kowapoyo",
+        "description": "Quando caccia, vola velocissimo sul pelo dell’acqua e cattura ignare prede come Magikarp.",
+        "attacks": [
+          {
+            "name": "Colpo Pulito",
+            "effect": "Se il Pokémon attivo del tuo avversario è un Pokémon Evoluzione, questo attacco infligge 80 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Tauboss",
+        "illustrator": "kowapoyo",
+        "description": "Dieses Pokémon schnellt bei der Jagd blitzschnell unter Wasser, um seine ahnungslose Beute zu fangen.",
+        "attacks": [
+          {
+            "name": "Sauberer Treffer",
+            "effect": "Wenn das Aktive Pokémon deines Gegners ein Entwicklungs-Pokémon ist, fügt diese Attacke 80 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pidgeot",
+        "illustrator": "kowapoyo",
+        "description": "Quando caça, bate na superfície da água em alta velocidade para capturar presas desavisadas, como Magikarp.",
+        "attacks": [
+          {
+            "name": "Golpe Certeiro",
+            "effect": "Se o Pokémon Ativo do seu oponente for um Pokémon de Evolução, este ataque causará 80 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "大比鳥",
+        "illustrator": "kowapoyo",
+        "description": "覓食的時候，會貼著水面飛行而過，抓起鯉魚王等獵物。",
+        "attacks": [
+          {
+            "name": "俐落一擊",
+            "effect": "若對手的戰鬥寶可夢為進化寶可夢，則增加80點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

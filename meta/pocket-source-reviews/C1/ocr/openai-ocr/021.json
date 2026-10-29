@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-021",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "e5ee493462ae83a686d2676d9ada6f07c524ca5cbe8be5779e857eeeb885379e",
+      "bytes": 291374
+    },
+    "fr": {
+      "sha256": "ad04218d6f2d729dc4592e3b1e3b3daa1e3b0cbd3647d02389547c82d52baf75",
+      "bytes": 291191
+    },
+    "es": {
+      "sha256": "036ac30ea19f522dcb407246e9011b3cdafb6378741d740ae63e7e998b39fb44",
+      "bytes": 292403
+    },
+    "it": {
+      "sha256": "5decffcc8991f56c9342a4333e2705b3a762a38b5f508bf198a5d349a5c3ec24",
+      "bytes": 290352
+    },
+    "de": {
+      "sha256": "075b361be6f399c2e5b74678d831a48aba6343a9c46eccae683115a50bf0aa64",
+      "bytes": 291884
+    },
+    "pt-br": {
+      "sha256": "868eca6470ee5bcce20df5deb8e2dceee1aa772ddb8f8688c74234f7418efd16",
+      "bytes": 291946
+    },
+    "zh-tw": {
+      "sha256": "c2a910dfc0c3d95c4a2541a105f7486c9f6a92be7920431af57d546534d06dfc",
+      "bytes": 290314
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1259,
+    "output_tokens_details": {
+      "reasoning_tokens": 744
+    },
+    "total_tokens": 3219
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Salazzle",
+        "illustrator": "oki",
+        "description": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+        "attacks": [
+          {
+            "name": "Heat Blast",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Malamandre",
+        "illustrator": "oki",
+        "description": "Il étourdit ses adversaires avec son gaz toxique, puis il les asservit en exécutant une danse envoûtante.",
+        "attacks": [
+          {
+            "name": "Explosion de Chaleur",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Salazzle",
+        "illustrator": "oki",
+        "description": "Convierte a sus rivales en devotos súbditos tras marearlos con su gas venenoso y seducirlos con los cautivadores movimientos de su cuerpo.",
+        "attacks": [
+          {
+            "name": "Explosión de Calor",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Salazzle",
+        "illustrator": "oki",
+        "description": "Trasforma gli avversari in seguaci stordendoli con del gas tossico per poi sedurli con movenze ammalianti.",
+        "attacks": [
+          {
+            "name": "Caldobomba",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Amfira",
+        "illustrator": "oki",
+        "description": "Zuerst benebelt es Gegner mit Giftgas, um sie danach mit fesselnden Körperbewegungen zu betören und zu ergebenen Dienern zu machen.",
+        "attacks": [
+          {
+            "name": "Hitzestoß",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Salazzle",
+        "illustrator": "oki",
+        "description": "Salazzle deixa os oponentes zonzos com seu gás venenoso, depois os cativa com movimentos fascinantes para transformá-los em servos leais.",
+        "attacks": [
+          {
+            "name": "Raio de Calor",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "焰后蜥",
+        "illustrator": "oki",
+        "description": null,
+        "attacks": [
+          {
+            "name": "高溫爆破",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently from the provided image."
+      }
+    ]
+  }
+}

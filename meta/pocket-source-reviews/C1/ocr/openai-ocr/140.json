@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-140",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "ec74ccf891c6a92c77d01799e674e2b4f351b6c66fdea44a14f0516057748589",
+      "bytes": 280439
+    },
+    "fr": {
+      "sha256": "53b03ecf28bf5718767d06b6dd01af552418fcd948d218f89cb16488c8ea0262",
+      "bytes": 281162
+    },
+    "es": {
+      "sha256": "f1f7861347ac05e6f3e1eebcfefff27b624336814d624274140bc1278d48ce1b",
+      "bytes": 279822
+    },
+    "it": {
+      "sha256": "2a78622450e0e3d9b45768657a1ff897f39c0b6e3090522bf4c44bf2d5d7a612",
+      "bytes": 280166
+    },
+    "de": {
+      "sha256": "7a9a87cf88d6b4a79da809dd312a14974710d1cc9e976c28fc6a898b44a18a2d",
+      "bytes": 282155
+    },
+    "pt-br": {
+      "sha256": "241e95d48989f2944f5df9cac0946eb3e0381582c395d6a803921b5446eaba44",
+      "bytes": 281094
+    },
+    "zh-tw": {
+      "sha256": "d963ba92e575afb3fea694cc3edace6fff742367cd53bc7c44063c41b95b4880",
+      "bytes": 278050
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1408,
+    "output_tokens_details": {
+      "reasoning_tokens": 704
+    },
+    "total_tokens": 3368
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Palkia",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "It said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+        "attacks": [
+          {
+            "name": "Spacial Rend",
+            "effect": "If your opponent has a Stadium in play, discard it."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Palkia",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "On dit que ce Pokémon vit dans un interstice entre deux dimensions parallèles. Il apparaît dans la mythologie.",
+        "attacks": [
+          {
+            "name": "Spatio-Rift",
+            "effect": "Si votre adversaire a une carte Stade en jeu, défaussez-la."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Palkia",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Se dice que vive en una dimensión espacial paralela. Aparece en la mitología.",
+        "attacks": [
+          {
+            "name": "Corte Vacío",
+            "effect": "Si tu rival tiene un Estadio en juego, descártalo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Palkia",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Si dice che viva in uno spazio tra due dimensioni parallele. Appare in mitologia.",
+        "attacks": [
+          {
+            "name": "Fendispazio",
+            "effect": "Se il tuo avversario ha una carta Stadio in gioco, scartala."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Palkia",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Man sagt, es lebe in einem Spalt in einer Paralleldimension. Es wird in der Mythologie erwähnt.",
+        "attacks": [
+          {
+            "name": "Raumschlag",
+            "effect": "Wenn dein Gegner eine Stadionkarte im Spiel hat, lege sie auf seinen Ablagestapel."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Palkia",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Dizem que vive em uma dimensão espacial paralela à nossa. Aparece em mitologias.",
+        "attacks": [
+          {
+            "name": "Laceração Espacial",
+            "effect": "Se o seu oponente tiver um Estádio em jogo, descarte-o."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "帕路奇亞",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "據說牠住在和我們的空間平行的空間裂縫裡。是出現在神話中的寶可夢。",
+        "attacks": [
+          {
+            "name": "扭空裂斬",
+            "effect": "將場上的對手的競技場卡丟棄至棄牌區。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "name",
+        "reason": "Card name is readable but may need exact Traditional Chinese localization verification from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "Attack name is readable but small; exact character-level verification may be needed."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "Effect text is small and partially hard to resolve; transcription may be approximate."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and may be approximate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-067",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "3095e1e3607e12e4df0c80ba01a766b185b9e3558487143d68288658d8431d92",
+      "bytes": 262462
+    },
+    "fr": {
+      "sha256": "e15697d1a6cd6109388476cad51c5099ecbf7cc995b5de6be38f0fc4ec35271e",
+      "bytes": 263662
+    },
+    "es": {
+      "sha256": "461713233df345741e417d746a21ecd74450689f0a67a285dcb80fcb27aec252",
+      "bytes": 263964
+    },
+    "it": {
+      "sha256": "83ead76d396360a488ed23b602716f34c8b935955b266553243f1ade0c9aaef4",
+      "bytes": 263202
+    },
+    "de": {
+      "sha256": "21be88f804f7aa819b6e316c8e7c485ad55a9b801e88a7b0c18e32c9ab3754e0",
+      "bytes": 265965
+    },
+    "pt-br": {
+      "sha256": "63a73da952517fd5c6d94c62d8b76bb0a86e071b7e226f6a6b43e073f2123c17",
+      "bytes": 264415
+    },
+    "zh-tw": {
+      "sha256": "b224b4b6963476c239e728973ada1d8324beb88f5f0ebff2757e6eda22a91fb3",
+      "bytes": 261272
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1133,
+    "output_tokens_details": {
+      "reasoning_tokens": 186
+    },
+    "total_tokens": 4621
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Diglett",
+        "illustrator": "Miki Tanaka",
+        "description": "It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.",
+        "attacks": [
+          {
+            "name": "Dig",
+            "effect": "Flip a coin. If heads, during your opponent’s next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Taupiqueur",
+        "illustrator": "Miki Tanaka",
+        "description": "Ce Pokémon vit un mètre sous terre et se nourrit de racines. Il apparaît parfois à la surface.",
+        "attacks": [
+          {
+            "name": "Tunnel",
+            "effect": "Lancez une pièce. Si c’est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d’attaques infligés à ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Diglett",
+        "illustrator": "Miki Tanaka",
+        "description": "Vive 1 m por debajo del suelo, donde se alimenta de raíces. A veces también aparece en la superficie.",
+        "attacks": [
+          {
+            "name": "Excavar",
+            "effect": "Lanza 1 moneda. Si sale cara, durante el próximo turno de tu rival, evita todo el daño y todos los efectos de los ataques infligidos a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Diglett",
+        "illustrator": "Miki Tanaka",
+        "description": "Vive un metro sottoterra, dove si nutre di radici. Talvolta compare in superficie.",
+        "attacks": [
+          {
+            "name": "Fossa",
+            "effect": "Lancia una moneta. Se esce testa, durante il prossimo turno del tuo avversario, previeni sia i danni che gli effetti degli attacchi inflitti a questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Digda",
+        "illustrator": "Miki Tanaka",
+        "description": "Dieses Pokémon lebt 1 m unter der Erde. Es frisst Wurzeln und kommt hin und wieder an die Oberfläche.",
+        "attacks": [
+          {
+            "name": "Schaufler",
+            "effect": "Wirf 1 Münze. Verhindere bei Kopf während des nächsten Zuges deines Gegners allen Schaden durch und alle Effekte von Attacken, die diesem Pokémon zugefügt werden."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Diglett",
+        "illustrator": "Miki Tanaka",
+        "description": "Vive cerca de 1 metro embaixo da terra, onde se alimenta de raízes de plantas. Algumas vezes, são vistos acima da terra.",
+        "attacks": [
+          {
+            "name": "Cavar",
+            "effect": "Jogue uma moeda. Se sair cara, durante o próximo turno do seu oponente, previna todo o dano e os efeitos de ataques causados a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "地鼠",
+        "illustrator": "Miki Tanaka",
+        "description": "在大約1公尺深的地底挖洞棲息，靠啃食植物之類的根部生活。偶爾會到地面上露個臉。",
+        "attacks": [
+          {
+            "name": "挖洞",
+            "effect": "擲1次硬幣若為正面，則在下個對手的回合，這隻寶可夢不會受到招式的傷害與效果的影響。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

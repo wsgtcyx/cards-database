@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-100",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "730b4aa929be96b5ddfa7536d04a9993fc4de75ef9f9ea83a4c0e27662ef87f9",
+      "bytes": 326679
+    },
+    "fr": {
+      "sha256": "648aebf0aebaa1edc6b24c9a143abee03a6bfa0dded0107f9ec5d43ac76bb597",
+      "bytes": 327441
+    },
+    "es": {
+      "sha256": "9104b3137e6c48db80a3a11b3e8213b9e7018e79d282dc9e14fa349da35c1394",
+      "bytes": 326557
+    },
+    "it": {
+      "sha256": "c7b2aaf4c49361789826225c5fb87a9c4c039ae0e78c7d6471912f362e5b2651",
+      "bytes": 326976
+    },
+    "de": {
+      "sha256": "55478eb684d6e04c351bc1dd099b90fae2448bb7452e20fa70bd1edf413bed58",
+      "bytes": 328969
+    },
+    "pt-br": {
+      "sha256": "bc4d9fac6e0fe37c2fc2d59de81eb123ab09843bee166f4d35b31d32f326f092",
+      "bytes": 327936
+    },
+    "zh-tw": {
+      "sha256": "862e4dd59017c74b5359ef47d29d022fbdd10edf0b95f76479e7ddbc105c0c03",
+      "bytes": 324339
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 873,
+    "output_tokens_details": {
+      "reasoning_tokens": 120
+    },
+    "total_tokens": 2833
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Draconic Meteor",
+            "effect": "1 of your opponent’s Pokémon is chosen at random. Do 250 damage to it."
+          }
+        ],
+        "abilities": [],
+        "effect": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, your turn does not end. If this Pokémon is Knocked Out, your opponent takes 3 points."
+      },
+      "fr": {
+        "name": "Méga-Dracolosse ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Météore Draconien",
+            "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 250 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quand vous jouez cette carte pour faire évoluer 1 de vos Pokémon, votre tour ne se termine pas. Si ce Pokémon est mis K.O., votre adversaire gagne 3 points."
+      },
+      "es": {
+        "name": "Mega-Dragonite ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracónico",
+            "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 250 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": "Cuando juegues esta carta para hacer evolucionar 1 de tus Pokémon, tu turno no termina. Si este Pokémon queda Fuera de Combate, tu rival obtiene 3 puntos."
+      },
+      "it": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteora del Drago",
+            "effect": "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 250 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quando giochi questo Pokémon per farlo evolvere, il tuo turno non termina. Se questo Pokémon viene messo KO, il tuo avversario prende 3 punti."
+      },
+      "de": {
+        "name": "Mega-Dragoran ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Drachenmeteor",
+            "effect": "1 Pokémon des Gegners wird zufällig ausgewählt. Füge diesem Pokémon 250 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": "Wenn du dieses Pokémon spielst, um 1 deiner Pokémon weiterzuentwickeln, endet dein Zug nicht. Wenn dieses Pokémon kampfunfähig ist, erhält dein Gegner 3 Punkte."
+      },
+      "pt-br": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracônico",
+            "effect": "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 250 pontos de dano a ele."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quando você evoluir 1 dos seus Pokémon com este Pokémon da sua mão, seu turno não termina. Se este Pokémon for Nocauteado, seu oponente recebe 3 pontos."
+      },
+      "zh-tw": {
+        "name": "超級快龍 ex",
+        "illustrator": "5ban Graphics",
+        "description": null,
+        "attacks": [
+          {
+            "name": "翔龍流星擊",
+            "effect": "對手的寶可夢中會隨機選擇1隻，被選擇的寶可夢受到250點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": "超級進化之前有1個寶可夢時，對手是得到3點。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "The printed Mega Evolution EX rule text is partially small and blurry; transcription of the final clause is uncertain."
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-187",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "657814821da840f4dcbaccff58b1566116e77089d582e7bad70590b23ea9754a",
+      "bytes": 289401
+    },
+    "fr": {
+      "sha256": "4cc1d0e79b8017f3275583d5b5292d90cd3b86ef43728e1532ad1c3d6f766d9f",
+      "bytes": 291530
+    },
+    "es": {
+      "sha256": "967bc918c8b3e8e6d91582362c771c30b3062bea5f6e25c1cdb53c7bb4edcb55",
+      "bytes": 293205
+    },
+    "it": {
+      "sha256": "c34dc1180ac02d6958d29be71c4b1f078870381f56798d49128e7b40021e80d9",
+      "bytes": 290933
+    },
+    "de": {
+      "sha256": "1131b867073228e71bd024d5de3437fb5047756df15285e6170933d2528c3d07",
+      "bytes": 293515
+    },
+    "pt-br": {
+      "sha256": "e163ed467e954868a3753d7573a76d1e8e4bf10b0fcc6aeab5b47d8f94230808",
+      "bytes": 292871
+    },
+    "zh-tw": {
+      "sha256": "a712c1470c9abcd4b768685530ecb8f7220c5822b31c4c5a6ff4d7a958726388",
+      "bytes": 286803
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1671,
+    "output_tokens_details": {
+      "reasoning_tokens": 819
+    },
+    "total_tokens": 3631
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Celebi",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+        "attacks": [
+          {
+            "name": "Smack",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Time Recall",
+            "effect": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)"
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Celebi",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "Ce Pokémon venu du futur soigne les blessures et donne de la force aux plantes.",
+        "attacks": [
+          {
+            "name": "Claque",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Rappel Temporel",
+            "effect": "Chacun de vos Pokémon évolués peut utiliser les attaques de ses précédentes Évolutions. (Vous avez toujours besoin de l'Énergie nécessaire pour utiliser chaque attaque.)"
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Celebi",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "Vino del futuro haciendo un viaje en el tiempo. Además de curar las heridas, posee la capacidad de revitalizar la hierba y los árboles.",
+        "attacks": [
+          {
+            "name": "Palmetazo",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Retroceso en el Tiempo",
+            "effect": "Cada uno de tus Pokémon evolucionados puede usar cualquier ataque de sus Evoluciones anteriores. (Sigues necesitando la Energía necesaria para usar cada ataque.)"
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Celebi",
+        "illustrator": "Illus. Taiga Kasai",
+        "description": "È giunto dal futuro, viaggiando nel tempo. Cura le ferite e dona vigore alla vegetazione.",
+        "attacks": [
+          {
+            "name": "Schiaffo",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Viaggiotempo",
+            "effect": "Ciascuno dei tuoi Pokémon evoluti può usare gli attacchi dei suoi stadi evolutivi precedenti. Devi comunque avere l'Energia necessaria per usare quegli attacchi."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Celebi",
+        "illustrator": "Illust. Taiga Kasai",
+        "description": "Dieses Pokémon kommt aus der Zukunft und ist durch die Zeit gereist. Es heilt Wunden und spendet Pflanzen Kraft.",
+        "attacks": [
+          {
+            "name": "Klatscher",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Zeittraffer",
+            "effect": "Jedes deiner entwickelten Pokémon kann die Attacken seiner vorangegangenen Entwicklungen einsetzen. (Du benötigst jedoch die jeweils für die Attacke notwendige Energie.)"
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Celebi",
+        "illustrator": "Illust. Taiga Kasai",
+        "description": "Este Pokémon viajou no tempo e veio do futuro. Ele revigora a grama e as árvores com sua própria força e pode curar feridas.",
+        "attacks": [
+          {
+            "name": "Estalo",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Retorno no Tempo",
+            "effect": "Cada um dos seus Pokémon evoluídos pode usar qualquer ataque de suas Evoluções anteriores. (Você ainda precisa da Energia necessária para usar cada ataque.)"
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "時拉比",
+        "illustrator": "繪圖 Taiga Kasai",
+        "description": "從未來穿越時間而來。 能治療傷痛， 也會將自己的力量分給草木。",
+        "attacks": [
+          {
+            "name": "掌擊",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "時光回溯",
+            "effect": "只要這隻寶可夢在場上，自己的所有進化寶可夢，可使用進化前持有的所有招式。 (需要有足夠使用招式的能量。)"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The small illustrator credit is not fully legible; transcribed from the visible text as best as possible."
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-077",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "a189cd75b0f54717acb77cd412fbce13336b055fb3d808e7cd512158800f3874",
+      "bytes": 289251
+    },
+    "fr": {
+      "sha256": "52c82e17b3b3f92487543d4fb042e87ef8d9319b003a36546cf115cd9d0b3fc7",
+      "bytes": 289655
+    },
+    "es": {
+      "sha256": "9420a7af03fde9c0345f2e735fbf3e914725553c874a435e22e3f5563a4fe0ad",
+      "bytes": 290356
+    },
+    "it": {
+      "sha256": "d228c4760f9a55c5ed7178ca4ced3cdcb7b4cb9efb8d7abea8ee1179ba703fc8",
+      "bytes": 289497
+    },
+    "de": {
+      "sha256": "617d3c480232c3bb60b3e2ce8ee9e7bdfcfeac246cd812adc2dc065c19d23db7",
+      "bytes": 291159
+    },
+    "pt-br": {
+      "sha256": "479f1f20942a6f723b6a031dbbad156127e09b9f4eb2f1828e29699d3d9882cf",
+      "bytes": 290004
+    },
+    "zh-tw": {
+      "sha256": "58037efebbb2ccec1c464f3ead7da362cb6f4e6aed5ada4298cfdde8e485f271",
+      "bytes": 288963
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 943,
+    "output_tokens_details": {
+      "reasoning_tokens": 213
+    },
+    "total_tokens": 4431
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Barboach",
+        "illustrator": "ryoma uratsuka",
+        "description": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location.",
+        "attacks": [
+          {
+            "name": "Vibration",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Barloche",
+        "illustrator": "ryoma uratsuka",
+        "description": "Il se sert de ses barbillons comme d’un radar ultrasophistiqué. Ils lui permettent de détecter ses proies même dans l’eau boueuse.",
+        "attacks": [
+          {
+            "name": "Vibration",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Barboach",
+        "illustrator": "ryoma uratsuka",
+        "description": "Sus bigotes son muy sensibles y le sirven de radar. Puede detectar la posición de su presa incluso en el agua turbia de los lodazales.",
+        "attacks": [
+          {
+            "name": "Vibración",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Barboach",
+        "illustrator": "ryoma uratsuka",
+        "description": "I suoi baffi sono un radar sensibilissimo in grado di individuare la preda persino nelle acque più torbide.",
+        "attacks": [
+          {
+            "name": "Vibrazione",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Schmerbe",
+        "illustrator": "ryoma uratsuka",
+        "description": "Seine zwei Barteln dienen ihm als empfindliches Radarsystem. Selbst in schlammigem Wasser kann es so die Position seiner Beute ausmachen.",
+        "attacks": [
+          {
+            "name": "Schwingung",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Barboach",
+        "illustrator": "ryoma uratsuka",
+        "description": "Seus dois bigodes fornecem um radar sensível. Pode localizar as suas presas até mesmo em águas lamacentas.",
+        "attacks": [
+          {
+            "name": "Vibração",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "泥泥鰍",
+        "illustrator": "ryoma uratsuka",
+        "description": "2根鬍子是靈敏的雷達，即使在混濁湍急的水中，也能偵測到獵物的位置。",
+        "attacks": [
+          {
+            "name": "震動",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

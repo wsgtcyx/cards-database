@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-045",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "b3540c6a8bee4e45dd2e89ea36505250142b23ed2d52e65a8a63043c13df8651",
+      "bytes": 226307
+    },
+    "fr": {
+      "sha256": "064d3342a32a02a1e7289545b75cec0f74cb777145ab9403eed9fc01bace802f",
+      "bytes": 226312
+    },
+    "es": {
+      "sha256": "5789c561608e24d13b29f042001ebafc9a6697c5d5083a024f748a680d740c5c",
+      "bytes": 228473
+    },
+    "it": {
+      "sha256": "6f72a6189c7d7afc565e2727e750796e895abd31af2c0467d337f55f320e3a43",
+      "bytes": 227810
+    },
+    "de": {
+      "sha256": "9b95e6cfa551a117cc63124063e56fe6a87eaf6b47f52410333dedb99a1271b9",
+      "bytes": 228643
+    },
+    "pt-br": {
+      "sha256": "326f6ff54f0cbf182a18c2b851baa166c55d70ca57357d6c0884827deee43adf",
+      "bytes": 228780
+    },
+    "zh-tw": {
+      "sha256": "f350c2f47b4e956b27f69a231da219c76fecfadf222eebb9bb60e4fea0a247ee",
+      "bytes": 224931
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 888,
+    "output_tokens_details": {
+      "reasoning_tokens": 336
+    },
+    "total_tokens": 4376
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Electrode",
+        "illustrator": "Scav",
+        "description": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+        "attacks": [
+          {
+            "name": "Self-Destruct",
+            "effect": "This Pokémon also does 90 damage to itself."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Électrode",
+        "illustrator": "Scav",
+        "description": "Plus il accumule de l’énergie de type Électrik, plus il est rapide. Mais il a aussi davantage de chances d’exploser.",
+        "attacks": [
+          {
+            "name": "Destruction",
+            "effect": "Ce Pokémon s’inflige aussi 90 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Electrode",
+        "illustrator": "Scav",
+        "description": "Cuanta más energía almacena, mayor velocidad alcanza, aunque aumenta también el riesgo de que explote.",
+        "attacks": [
+          {
+            "name": "Autodestrucción",
+            "effect": "Este Pokémon también se hace 90 puntos de daño a sí mismo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Electrode",
+        "illustrator": "Scav",
+        "description": "L’energia Elettro che immagazzina lo fa andare sempre più veloce, ma lo fa anche esplodere più facilmente.",
+        "attacks": [
+          {
+            "name": "Autodistruzione",
+            "effect": "Questo Pokémon infligge anche 90 danni a se stesso."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Lektrobal",
+        "illustrator": "Scav",
+        "description": "Je mehr elektrische Energie es speichert, desto schneller ist es. Allerdings steigt dabei auch das Risiko, dass es explodiert.",
+        "attacks": [
+          {
+            "name": "Finale",
+            "effect": "Dieses Pokémon fügt auch sich selbst 90 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Electrode",
+        "illustrator": "Scav",
+        "description": "Quanto mais energia carrega, mais velocidade ganha. Mas também aumenta a sua probabilidade de explodir.",
+        "attacks": [
+          {
+            "name": "Autodestruição",
+            "effect": "Este Pokémon também causa 90 pontos de dano a si mesmo."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "頑皮雷彈",
+        "illustrator": "Scav",
+        "description": "蓄積的電能越多，移動的速度也會變得越快，但同時也會變得更容易爆炸。",
+        "attacks": [
+          {
+            "name": "自爆",
+            "effect": "這隻寶可夢也受到90點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

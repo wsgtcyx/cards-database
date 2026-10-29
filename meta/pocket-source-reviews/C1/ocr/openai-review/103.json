@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-103",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "27b251e6e0d7a0969bfb44fd655faf4788261a4ea0755b65666858dd740bdf9a",
+      "bytes": 264381
+    },
+    "fr": {
+      "sha256": "8ead19200e55b824cf5ca2bd9df468c7cd69bbd5982bc05eb62f9c22630a412f",
+      "bytes": 264591
+    },
+    "es": {
+      "sha256": "30f0df975f1e06ac12f8433d35307946ac50192db631abf5ddf15d887d621c6a",
+      "bytes": 264678
+    },
+    "it": {
+      "sha256": "b793b6ceb96d7c4a17b67da28b097caad9ef7fc605529c3bae9e69517d894b3c",
+      "bytes": 264638
+    },
+    "de": {
+      "sha256": "b632430095961659e9a5de5fd737b5cab6bdebd2fae3cea49f992453cd809828",
+      "bytes": 266131
+    },
+    "pt-br": {
+      "sha256": "9783fec7399e95d4fb17fe1bf95fcc91834c213e7ab327da1efc933a294d21a0",
+      "bytes": 266147
+    },
+    "zh-tw": {
+      "sha256": "33b19b1d0deb2231902adba46f09209f72cc447d7739f19fd0abd4d2e59b2f64",
+      "bytes": 262663
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1013,
+    "output_tokens_details": {
+      "reasoning_tokens": 274
+    },
+    "total_tokens": 4501
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pidgeotto",
+        "illustrator": "Shin Nagasawa",
+        "description": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+        "attacks": [
+          {
+            "name": "Cutting Wind",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Roucoups",
+        "illustrator": "Shin Nagasawa",
+        "description": "Grâce à ses griffes très puissantes, il est capable de transporter des Noeunoeuf vers un nid éloigné de plus de 100 km.",
+        "attacks": [
+          {
+            "name": "Vent Glacial",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pidgeotto",
+        "illustrator": "Shin Nagasawa",
+        "description": "Tiene unas garras desarrolladas. Puede atrapar un Exeggcute y transportarlo desde una distancia de casi 100 km.",
+        "attacks": [
+          {
+            "name": "Viento Helado",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pidgeotto",
+        "illustrator": "Shin Nagasawa",
+        "description": "Grazie ai potenti artigli può trasportare una preda delle dimensioni di un Exeggcute per oltre 100 km.",
+        "attacks": [
+          {
+            "name": "Vento Tagliente",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Tauboga",
+        "illustrator": "Shin Nagasawa",
+        "description": "Die Krallen an seinen Füßen sind sehr ausgeprägt. Es kann sogar ein Owei zu seinem Nest in 100 km Entfernung tragen.",
+        "attacks": [
+          {
+            "name": "Schneidender Wind",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pidgeotto",
+        "illustrator": "Shin Nagasawa",
+        "description": "As garras nos seus pés são bem desenvolvidas. Ele pode levar presas como Exeggcute para seu ninho a mais de 100 km de distância.",
+        "attacks": [
+          {
+            "name": "Vento Dilacerante",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "比比鳥",
+        "illustrator": "Shin Nagasawa",
+        "description": "腳爪非常發達。曾一把抓住獵物蛋蛋，帶回１００公里外的巢穴。",
+        "attacks": [
+          {
+            "name": "利刃之風",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

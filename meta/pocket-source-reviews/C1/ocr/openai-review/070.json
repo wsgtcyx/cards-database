@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-070",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "92fb37994d7cd00a647ce51d96c9972431e818e702de65fa385a75434480eb16",
+      "bytes": 266415
+    },
+    "fr": {
+      "sha256": "3184ebd9c52de9f2587c35ae495c66129b7ab4c58bcb6bf42feb858bbc05f9c5",
+      "bytes": 268202
+    },
+    "es": {
+      "sha256": "b0743de992881ec7bd22a0a443391dda1036086dea497dea6e85ca2dbf952c75",
+      "bytes": 267013
+    },
+    "it": {
+      "sha256": "77ad238198a53441d20fd9c351f1c6674fcff54f72f928171f69bd5ce3368120",
+      "bytes": 266629
+    },
+    "de": {
+      "sha256": "f34a0638f10bd11303980715b1627b074fec332e0b822eccb44384c8a558d26e",
+      "bytes": 268147
+    },
+    "pt-br": {
+      "sha256": "dbecf928f1ab66d4fe4352b1fedcc97215b128cd678e7a3a25b1c3a48fd200f6",
+      "bytes": 268189
+    },
+    "zh-tw": {
+      "sha256": "95a56b22965501ab30a87e425f6935f736dbe53eed863cbe72fee1baec799d65",
+      "bytes": 266734
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1040,
+    "output_tokens_details": {
+      "reasoning_tokens": 384
+    },
+    "total_tokens": 4528
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rhydon",
+        "illustrator": "HYOGONOSUKE",
+        "description": "The horn of a Rhydon is powerful enough to crush raw diamonds. These Pokémon polish their horns by bashing them together.",
+        "attacks": [
+          {
+            "name": "Megahorn",
+            "effect": "Flip a coin. If tails, this attack does nothing."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rhinoféros",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Il frappe sa corne contre celle de ses congénères afin de la renforcer. Celle-ci est assez robuste pour briser un diamant à l’état brut.",
+        "attacks": [
+          {
+            "name": "Mégacorne",
+            "effect": "Lancez une pièce. Si c’est pile, cette attaque ne fait rien."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Rhydon",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Hace chocar el cuerno con el de sus congéneres para afilarlo. Es capaz de horadar diamantes en bruto con él.",
+        "attacks": [
+          {
+            "name": "Megacuerno",
+            "effect": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Rhydon",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Si scontra con i suoi simili per affinare il corno che può fracassare perfino i diamanti grezzi.",
+        "attacks": [
+          {
+            "name": "Megacorno",
+            "effect": "Lancia una moneta. Se esce croce, questo attacco non ha effetto."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Rizeros",
+        "illustrator": "HYOGONOSUKE",
+        "description": "Mit seinem Horn kann es selbst Rohdiamanten zertrümmern. Artgenossen stoßen ihre Hörner aneinander, um sie zu schärfen.",
+        "attacks": [
+          {
+            "name": "Vielender",
+            "effect": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Rhydon",
+        "illustrator": "HYOGONOSUKE",
+        "description": "O chifre de um Rhydon é tão poderoso que pode até esmagar diamantes. Estes Pokémon batem seus chifres uns nos outros para mantê-los sempre lustrosos.",
+        "attacks": [
+          {
+            "name": "Megachifre",
+            "effect": "Jogue uma moeda. Se sair coroa, este ataque não fará nada."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "鐵角犀獸",
+        "illustrator": "HYOGONOSUKE",
+        "description": "角的威力足以粉碎鑽石原石。會與夥伴碰撞彼此的角，藉此來打磨打磨它。",
+        "attacks": [
+          {
+            "name": "超級角擊",
+            "effect": "擲1次硬幣若為反面，則這個招式失敗。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

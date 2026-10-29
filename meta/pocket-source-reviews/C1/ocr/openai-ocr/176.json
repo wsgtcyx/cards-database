@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-176",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "e773f973c801ae7bac1ce7faa3c46c0412496dda413a8ced97ca0c459354cb77",
+      "bytes": 333808
+    },
+    "fr": {
+      "sha256": "207b4a462ba717dcb7cce2baa7657a7279bc2458a976e3912f53ced083a59219",
+      "bytes": 334271
+    },
+    "es": {
+      "sha256": "df2b1adaea1bdf4a2b47543f925075a7b44a923a7a57fe0cc191b7fced876f88",
+      "bytes": 333561
+    },
+    "it": {
+      "sha256": "d8d6ef923d8164db4cc8bdc1fa8f615aca20b33f9db1ad668f964d6b8dfb6061",
+      "bytes": 335017
+    },
+    "de": {
+      "sha256": "edfe57d487495629b627f1c633261a214d5e3163adf34bd870147bfb1e6a63a4",
+      "bytes": 333230
+    },
+    "pt-br": {
+      "sha256": "7beaa4777cdd63485d639361f93d1031143db3092aacb59ef170f459de3f4d35",
+      "bytes": 334971
+    },
+    "zh-tw": {
+      "sha256": "d041669deb645efbbe28cf31c59b5cad55dd9a888d7692df3be66510c2d869ca",
+      "bytes": 330684
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2688,
+    "output_tokens_details": {
+      "reasoning_tokens": 1653
+    },
+    "total_tokens": 4648
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mew ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Secret Guidance",
+            "effect": "Flip 3 coins. Take an amount of {P} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {P} Pokémon in any way you like."
+          },
+          {
+            "name": "Psyburn",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": "EX rule When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+      },
+      "fr": {
+        "name": "Mew ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Conseil Secret",
+            "effect": "Lancez 3 pièces. Prenez le même nombre d'Énergie {P} de votre zone Énergie que le nombre de face obtenu et attachez-les à vos Pokémon {P} de Banc comme il vous plaît."
+          },
+          {
+            "name": "Brûlure Psy",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": "Règle EX Quand votre Pokémon ex est mis K.O., votre adversaire gagne 2 points."
+      },
+      "es": {
+        "name": "Mew ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Guía Secreta",
+            "effect": "Lanza 3 monedas. Une a tus Pokémon {P} en Banca, de la manera que desees, tantas Energías {P} de tu área de Energía como caras hayan salido."
+          },
+          {
+            "name": "Psicoquemadura",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": "Regla EX Cuando tu Pokémon ex queda Fuera de Combate, tu rival consigue 2 puntos."
+      },
+      "it": {
+        "name": "Mew ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Direttive Segrete",
+            "effect": "Lancia 3 volte una moneta. Prendi un numero di Energie {P} dalla tua Zona Energia uguale al numero di volte in cui è uscito testa e assegnale ai tuoi Pokémon {P} in panchina nel modo che preferisci."
+          },
+          {
+            "name": "Psicobruccia",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": "Regola EX Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon ex va KO."
+      },
+      "de": {
+        "name": "Mew ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Geheimes Geleit",
+            "effect": "Wirf 3 Münzen. Lege pro Kopf 1 {P}-Energie aus deinem Energiebereich beliebig an die {P}-Pokémon auf deiner Bank an."
+          },
+          {
+            "name": "Psychoverbrennung",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": "EX-Regel Wenn dein Pokémon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte."
+      },
+      "pt-br": {
+        "name": "Mew ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Diretriz Secreta",
+            "effect": "Jogue 3 moedas. Pegue uma quantidade de Energia {P} da sua Zona de Energia equivalente ao número de caras e ligue aos seus Pokémon {P} no Banco como desejar."
+          },
+          {
+            "name": "Queimadura Psíquica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": "Regra EX Quando seu Pokémon ex é Nocauteado, seu oponente recebe 2 pontos."
+      },
+      "zh-tw": {
+        "name": "夢幻 ex",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "秘密指引",
+            "effect": "擲3次硬幣。將與正面出現的次數相同數量的超能量，從自己的能量區以任意方式附於備戰區的寶可夢身上。"
+          },
+          {
+            "name": "精神爆擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": "EX規則 當可愛夢幻ex被擊倒時，對手取得2分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "The small artist credit is not fully legible in the provided image."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "The small artist credit is not fully legible in the provided image."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "The small artist credit is not fully legible in the provided image."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "The small artist credit is not fully legible in the provided image."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "The small artist credit is not fully legible in the provided image."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "The small artist credit is not fully legible in the provided image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The small artist credit is not fully legible in the provided image."
+      }
+    ]
+  }
+}

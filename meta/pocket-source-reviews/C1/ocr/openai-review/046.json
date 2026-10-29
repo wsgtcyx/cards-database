@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-046",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "3cc9c695f9b6552f0d57fd92ec4be8789f0560dcc6344637c4e7662b93b65860",
+      "bytes": 222131
+    },
+    "fr": {
+      "sha256": "a7a641afeb33a5f9a8414ca8cdbbb9e6428a2ec826b144ff2d290de61bab8b56",
+      "bytes": 223256
+    },
+    "es": {
+      "sha256": "0ef89ad03f0754cc42c3df0c686a5aea3a7e8e20e862030cf99e4f3abd0bd85b",
+      "bytes": 222822
+    },
+    "it": {
+      "sha256": "ed5ac6c86a089acbd88ffe38e9faa0ebcd8aa8a54ea16d4f202f534f20c0f77f",
+      "bytes": 222838
+    },
+    "de": {
+      "sha256": "210679e7634297b676d1bf60eb42b596c2c7662fcb2c64d6f4b03009a8749b49",
+      "bytes": 222362
+    },
+    "pt-br": {
+      "sha256": "f2ce094e06fdcdf55e29ae790e7dd589362cc0932275b1d0b2294cd5143b122d",
+      "bytes": 223812
+    },
+    "zh-tw": {
+      "sha256": "3a96df8e3213c3ef612ccbdfdeedd9a116a3aa8b462fd9bafb413040b6303753",
+      "bytes": 221106
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 959,
+    "output_tokens_details": {
+      "reasoning_tokens": 222
+    },
+    "total_tokens": 4447
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Stunfisk",
+        "illustrator": "Naoyo Kimura",
+        "description": "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.",
+        "attacks": [
+          {
+            "name": "Electric Ball",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Limonde",
+        "illustrator": "Naoyo Kimura",
+        "description": "Les vasières sont son habitat de prédilection. Il a développé un organe générant de l’électricité grâce aux bactéries présentes dans la boue.",
+        "attacks": [
+          {
+            "name": "Boule de Foudre",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Stunfisk",
+        "illustrator": "Naoyo Kimura",
+        "description": "Vive en humedales costeros. Ha desarrollado un órgano que produce electricidad gracias a una bacteria que vive en el lodo.",
+        "attacks": [
+          {
+            "name": "Bola Eléctrica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Stunfisk",
+        "illustrator": "Naoyo Kimura",
+        "description": "Abita i fondali che emergono durante la bassa marea. Ha sviluppato un organo che produce elettricità grazie a un batterio che vive nel fango.",
+        "attacks": [
+          {
+            "name": "Lemposfera",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Flunschlik",
+        "illustrator": "Naoyo Kimura",
+        "description": "Dieses Pokémon lebt im Morast. Dank der dortigen Bakterien hat es ein Organ entwickelt, mit dem es Strom erzeugen kann.",
+        "attacks": [
+          {
+            "name": "Stromball",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Stunfisk",
+        "illustrator": "Naoyo Kimura",
+        "description": "Graças às bactérias que viviam no lamaçal com ele, este Pokémon desenvolveu os órgãos que usa para gerar eletricidade.",
+        "attacks": [
+          {
+            "name": "Bola de Eletricidade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "泥巴魚",
+        "illustrator": "Naoyo Kimura",
+        "description": "潮間帶是牠的巢穴。製造電的器官由於泥裡的細菌而發達起來。",
+        "attacks": [
+          {
+            "name": "雷電球",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

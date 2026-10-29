@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-076",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "ab73f6c59b29c042b3a720e8f816bc76fe3f840380be7d7c5ae723599e1bc66f",
+      "bytes": 296100
+    },
+    "fr": {
+      "sha256": "1d394fc7f985d7e91259dc1199fa401ae660d27714f675bff9cccc94fea3d22b",
+      "bytes": 297950
+    },
+    "es": {
+      "sha256": "12584a0a09ca3712458938e7d62a5caa43bf6c12a19f42261a44655c2de4f544",
+      "bytes": 296064
+    },
+    "it": {
+      "sha256": "ad74cae2cf43553bdf826f20e90559d9c757b6de8ae0b61edfeb232963ad0403",
+      "bytes": 297251
+    },
+    "de": {
+      "sha256": "775010ce41650519f22998b0fb42d7696ebe9f6a2166e39fa1084550071b9fd6",
+      "bytes": 297670
+    },
+    "pt-br": {
+      "sha256": "c5c5c2d938cb569b539e18d835370436fb7596ef664dd73c0ee9885970d5a306",
+      "bytes": 296443
+    },
+    "zh-tw": {
+      "sha256": "1557de5f6af83b4f6cbcaecec9d881582d056eec75423a38b157c3282959120d",
+      "bytes": 296175
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1248,
+    "output_tokens_details": {
+      "reasoning_tokens": 506
+    },
+    "total_tokens": 3208
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Pupitar",
+        "illustrator": "Illus. Hajime Kusajima",
+        "description": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+        "attacks": [
+          {
+            "name": "Amass",
+            "effect": "Take 2 {F} Energy from your Energy Zone and attach it to this Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Ymphect",
+        "illustrator": "Illus. Hajime Kusajima",
+        "description": "Cette chrysalide file comme une fusée en expulsant les gaz sous pression enfermés dans son corps, sans pouvoir contrôler sa trajectoire.",
+        "attacks": [
+          {
+            "name": "Amas",
+            "effect": "Prenez 2 Énergies {F} de votre zone Énergie et attachez-les à ce Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Pupitar",
+        "illustrator": "Ilus. Hajime Kusajima",
+        "description": "Esta pupa vuela propulsándose con los gases sometidos a altas presiones que encierra en el interior de su cuerpo.",
+        "attacks": [
+          {
+            "name": "Amasar",
+            "effect": "Une 2 Energías {F} de tu área de Energía a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Pupitar",
+        "illustrator": "Illus. Hajime Kusajima",
+        "description": "È una crisalide che vola furiosamente qua e là, espellendo con forza il gas compresso all'interno del proprio corpo.",
+        "attacks": [
+          {
+            "name": "Ammasso",
+            "effect": "Prendi 2 Energie {F} dalla tua Zona ენერგia e assegnale a questo Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Pupitar",
+        "illustrator": "Illust. Hajime Kusajima",
+        "description": "Diese Puppe katapultiert sich in die Luft, indem sie Gas ausstößt, das sich in ihrem Körper angestaut hat, und sorgt so für Unruhe.",
+        "attacks": [
+          {
+            "name": "Anhaufen",
+            "effect": "Lege 2 {F}-Energien aus deinem Energiebereich an dieses Pokémon an."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Pupitar",
+        "illustrator": "Ilust. Hajime Kusajima",
+        "description": "Esta pupa voa por aí de maneira indomada ao liberar com força o gás pressurizado presente em seu corpo.",
+        "attacks": [
+          {
+            "name": "Acumular",
+            "effect": "Pegue 2 Energias {F} da sua Zona de Energia e ligue-as a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "沙基拉斯",
+        "illustrator": "繪圖／Hajime Kusajima",
+        "description": "會以強勁的力量撞擊在體內壓縮的氣體。自己已能在空中搖晃得更穩。",
+        "attacks": [
+          {
+            "name": "聚積",
+            "effect": "從自己的能量區抽出2個鬥能量，附於這隻寶可夢上。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Bottom-left credit text is small and partially blurred; wording may be 繪圖／Hajime Kusajima or similar."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is small and partially blurred; transcription may be incomplete or inaccurate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-055",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "d8a697d84ed9cf417f79d6eb550385b0519e2b941aa315a26f4fd124a894b976",
+      "bytes": 296069
+    },
+    "fr": {
+      "sha256": "35761cc656459540ce5c1e1e01b89fb60ddddc627ee295434a5cada5141d570d",
+      "bytes": 297990
+    },
+    "es": {
+      "sha256": "14059474451ca8efff4dda422394772795b82d92d2e90500cb0eff4aa915fdc2",
+      "bytes": 296622
+    },
+    "it": {
+      "sha256": "2282a9daa6774716b62508a062c7f0fb49ed5eeab091ae7507c39c43c5fb07f3",
+      "bytes": 297046
+    },
+    "de": {
+      "sha256": "32ec7692ed6d3277a85120532601084279b627e7154a962e44fffcc0e69c9c0e",
+      "bytes": 298183
+    },
+    "pt-br": {
+      "sha256": "ebf03eb8d6ea434d10695cb4241b1d474c0b5a3287b5e7b7f1a3d4a98239337a",
+      "bytes": 297854
+    },
+    "zh-tw": {
+      "sha256": "45cab98fcfe0900a2cdd8d10ab3649063448ba2e74df4c418582e0f844cb3d5c",
+      "bytes": 292271
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1109,
+    "output_tokens_details": {
+      "reasoning_tokens": 242
+    },
+    "total_tokens": 4597
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Alakazam",
+        "illustrator": "Kazumasa Yasukuni",
+        "description": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+        "attacks": [
+          {
+            "name": "Mind Jack",
+            "effect": "This attack does 30 more damage for each of your opponent’s Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Alakazam",
+        "illustrator": "Kazumasa Yasukuni",
+        "description": "Doué d’une intelligence hors du commun, ce Pokémon serait capable de conserver tous ses souvenirs, de sa naissance jusqu’à sa mort.",
+        "attacks": [
+          {
+            "name": "Emprise Mentale",
+            "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Alakazam",
+        "illustrator": "Kazumasa Yasukuni",
+        "description": "Posee una capacidad intelectual fuera de lo común que le permite recordar todo lo sucedido desde el instante de su nacimiento.",
+        "attacks": [
+          {
+            "name": "Levantamente",
+            "effect": "Este ataque hace 30 puntos de daño más por cada uno de los Pokémon en Banca de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Alakazam",
+        "illustrator": "Kazumasa Yasukuni",
+        "description": "Possiede un intelletto estremamente elevato e si dice sia in grado di ricordare ogni evento della sua vita, dalla nascita alla morte.",
+        "attacks": [
+          {
+            "name": "Sollevamente",
+            "effect": "Questo attacco infligge 30 danni in più per ogni Pokémon nella panchina del tuo avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Simsala",
+        "illustrator": "Kazumasa Yasukuni",
+        "description": "Es verfügt über extrem hohe Intelligenz und soll sich an alles erinnern können, was zwischen seiner Geburt und seinem Tod passiert.",
+        "attacks": [
+          {
+            "name": "Gedankenstoß",
+            "effect": "Diese Attacke fügt für jedes Pokémon auf der Bank deines Gegners 30 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Alakazam",
+        "illustrator": "Kazumasa Yasukuni",
+        "description": "Tem um nível de inteligência incrivelmente alto. Alguns dizem que Alakazam se lembra de tudo que acontece na sua vida, do nascimento até a morte.",
+        "attacks": [
+          {
+            "name": "Tomada Mental",
+            "effect": "Este ataque causa 30 pontos de dano a mais para cada um dos Pokémon no Banco do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "胡地",
+        "illustrator": "Kazumasa Yasukuni",
+        "description": "擁有非常高的智商。據說牠能記住從出生到死一輩子發生過的所有事情。",
+        "attacks": [
+          {
+            "name": "意志劫持",
+            "effect": "增加對手備戰寶可夢的數量×30點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

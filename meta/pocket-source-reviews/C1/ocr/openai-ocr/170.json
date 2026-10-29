@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-170",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "ce27e993d2032970f29a1aa632690cfa848c62ca47c3ecd4c7e42d16dbee6911",
+      "bytes": 277961
+    },
+    "fr": {
+      "sha256": "a6dcda1fb18a8829c7089aeb08b4d7da629263856f5ce58bd128a6ecb6f28036",
+      "bytes": 282546
+    },
+    "es": {
+      "sha256": "ad74df52b8f3d4599b48650bb8502bf61be3481d22ef03a914e9d8d5d6f3ce2b",
+      "bytes": 280639
+    },
+    "it": {
+      "sha256": "4e984618bad09bdf329b32b4479512505c3d68560c170db28834c6039c285286",
+      "bytes": 277480
+    },
+    "de": {
+      "sha256": "4808816ad36a705f2e41783badca2573996b1aaf0695335a79b87b5184d3db88",
+      "bytes": 281366
+    },
+    "pt-br": {
+      "sha256": "e38e578a62daf130b1ef8f1f1f607ab6c947ad2f333474d6b6f6e8fdfd5104e7",
+      "bytes": 281630
+    },
+    "zh-tw": {
+      "sha256": "41bbcf36f44b0e4f3ade7c2349074f281669130e3eeaf9c6d5d7b98c7bf4646b",
+      "bytes": 272843
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 743,
+    "output_tokens_details": {
+      "reasoning_tokens": 261
+    },
+    "total_tokens": 2703
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rising Star",
+        "illustrator": "Midori Harada",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Dresseur et Dresseuse en Herbe",
+        "illustrator": "Midori Harada",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Entrenadores Promesa",
+        "illustrator": "Midori Harada",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Giovane speranza",
+        "illustrator": "Midori Harada",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Trainerhoffnung",
+        "illustrator": "Midori Harada",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Estrela em Ascensão",
+        "illustrator": "Midori Harada",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "新星訓練家",
+        "illustrator": "Midori Harada",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is partially legible; read as Midori Harada but not fully certain."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is partially legible; read as Midori Harada but not fully certain."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is partially legible; read as Midori Harada but not fully certain."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is partially legible; read as Midori Harada but not fully certain."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is partially legible; read as Midori Harada but not fully certain."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is partially legible; read as Midori Harada but not fully certain."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Small bottom-left credit is partially legible; read as Midori Harada but not fully certain."
+      }
+    ]
+  }
+}

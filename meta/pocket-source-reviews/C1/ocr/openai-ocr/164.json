@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-164",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "265edf79047575be016920edc838ba38a9230881bd90d6ef8b3bba4bf9a26a8a",
+      "bytes": 316210
+    },
+    "fr": {
+      "sha256": "dcf2d8149743686ba26a257f4ed3d94b2268f113df5ad32924236fcd5aee4bf7",
+      "bytes": 317514
+    },
+    "es": {
+      "sha256": "7919928eabccb5ea7492e09622438e110b5d92ff9ff0fc416a521d274618c3ac",
+      "bytes": 317158
+    },
+    "it": {
+      "sha256": "024c32e2fd8c3ec288f772c620b128a4525e9f52672b16ad8e42f509f32358b3",
+      "bytes": 317833
+    },
+    "de": {
+      "sha256": "e7ab04d651fbaefb4bbfc54449092cdf25e23d251b3bd01dd147ce3c93ad6b92",
+      "bytes": 318552
+    },
+    "pt-br": {
+      "sha256": "6e9ade04919e86186743c33bae2f3213c6b8319dbb74132677522753c54dfa28",
+      "bytes": 317089
+    },
+    "zh-tw": {
+      "sha256": "7192492a5ebb5a03eda285a153e673c2550f52b635a9384b7814d33ed253f1ea",
+      "bytes": 313760
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 740,
+    "output_tokens_details": {
+      "reasoning_tokens": 86
+    },
+    "total_tokens": 2700
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hyper Lariat",
+            "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": "When your Pokémon ex is Knocked Out, your opponent gets 2 points."
+      },
+      "fr": {
+        "name": "Chelours ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hyper Lasso",
+            "effect": "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 100 dégâts de plus."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quand votre Pokémon-ex est mis K.O., votre adversaire gagne 2 points."
+      },
+      "es": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hiperlazo",
+            "effect": "Lanza 2 monedas. Si en las dos sale cara, este ataque hace 100 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": "Cuando tu Pokémon ex queda Fuera de Combate, tu rival consigue 2 puntos."
+      },
+      "it": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Iper Lariat",
+            "effect": "Lancia 2 volte una moneta. Se esce testa entrambe le volte, questo attacco infligge 100 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": "Il tuo avversario guadagna 2 punti ogni volta che uno dei tuoi Pokémon-ex va KO."
+      },
+      "de": {
+        "name": "Kosturso ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hyperlasso",
+            "effect": "Wirf 2 Münzen. Zeigen beide Münzen Kopf, fügt diese Attacke 100 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": "Wenn dein Pokémon-ex kampfunfähig ist, erhält dein Gegner 2 Punkte."
+      },
+      "pt-br": {
+        "name": "Bewear ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Hiperlaço",
+            "effect": "Jogue 2 moedas. Se as duas saírem cara, este ataque causa 100 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": "Quando seu Pokémon ex é Nocauteado, seu oponente recebe 2 pontos."
+      },
+      "zh-tw": {
+        "name": "穿著熊 ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "必殺金勾臂",
+            "effect": "擲2次硬幣。若全部為正面，則增加100點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": "寶可夢ex昏厥時，對手得到2分。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "name",
+        "reason": "The Pokémon name is legible, but the exact spacing around ex in the title bar is somewhat small; transcribed as shown with a space before ex."
+      }
+    ]
+  }
+}

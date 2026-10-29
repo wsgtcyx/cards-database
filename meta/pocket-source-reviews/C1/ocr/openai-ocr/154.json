@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-154",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d77f5705574eda4e933942b7df6e2a2b3150d22fee0859b505ef4777e90d74bf",
+      "bytes": 329693
+    },
+    "fr": {
+      "sha256": "092466241ddd6986194cb951ddb65b799d00a3b24c209d3ca3e026b7d98b392e",
+      "bytes": 330896
+    },
+    "es": {
+      "sha256": "f53e034812c9c1d3e663040020720985cecb693f0b844f08020175920c51acf5",
+      "bytes": 331813
+    },
+    "it": {
+      "sha256": "b9c2731831a75b1e4d1fa4dc9c23d324127fe44fb1c817279b719b03ef3a7918",
+      "bytes": 332071
+    },
+    "de": {
+      "sha256": "9b172590dcdd57f3b67307c6e3c22721998da3be73bdb151966c0a28f4d94ba2",
+      "bytes": 332490
+    },
+    "pt-br": {
+      "sha256": "b8886fb2ebb8d632dabad5e6fdf2ffd06afe6e03185f6024f24bf3f9c8aa7f55",
+      "bytes": 331482
+    },
+    "zh-tw": {
+      "sha256": "f04113752b7ec6686da9340fc79a9ba871f09c59401278018c1a3adf7d96986a",
+      "bytes": 327418
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1326,
+    "output_tokens_details": {
+      "reasoning_tokens": 489
+    },
+    "total_tokens": 3286
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Fuecoco ex",
+        "illustrator": "Illus. PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bite",
+            "effect": null
+          },
+          {
+            "name": "Feisty Flames",
+            "effect": "If this Pokémon has damage on it, this attack does 70 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Chochodile ex",
+        "illustrator": "Illus. PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Morsure",
+            "effect": null
+          },
+          {
+            "name": "Flammes Furieuses",
+            "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige 70 dégâts de plus."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Fuecoco ex",
+        "illustrator": "Illus. PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Mordisco",
+            "effect": null
+          },
+          {
+            "name": "Llamas Iracundas",
+            "effect": "Si este Pokémon ya tiene daño, este ataque hace 70 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Fuecoco ex",
+        "illustrator": "Illus. PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Morso",
+            "effect": null
+          },
+          {
+            "name": "Fiammata Esuberante",
+            "effect": "Se questo Pokémon è danneggiato, questo attacco infligge 70 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Krokel ex",
+        "illustrator": "Illus. PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Biss",
+            "effect": null
+          },
+          {
+            "name": "Freche Flammen",
+            "effect": "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 70 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Fuecoco ex",
+        "illustrator": "Illus. PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Mordida",
+            "effect": null
+          },
+          {
+            "name": "Labareda Geniosa",
+            "effect": "Se este Pokémon estiver danificado, este ataque causará 70 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "呆火鱷 ex",
+        "illustrator": "Illus. PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "咬住",
+            "effect": null
+          },
+          {
+            "name": "氣鼓鼓火焰",
+            "effect": "若這隻寶可夢已受傷害，則增加70點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-188",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "3eca056ecb70a82863a2cd8d7c8618cc6bd1a5bbaec3fa2bb809ba08ee82aa67",
+      "bytes": 276039
+    },
+    "fr": {
+      "sha256": "7189c623f2cfa1c3f4a8b7753d89f3b9c695142f23f8c8dafcde93ca71f801d5",
+      "bytes": 277130
+    },
+    "es": {
+      "sha256": "dfb406c88e876c6c559fe813e650a83353a2ccabab0108c18d261d1016996042",
+      "bytes": 277799
+    },
+    "it": {
+      "sha256": "ded764dd91592d57b4a332006105b107a7df226f2a1359d3f7693b705fe55253",
+      "bytes": 276113
+    },
+    "de": {
+      "sha256": "c973c1db82403171b41fce231b02a88d6d63302db8cc6f4e1a131d08dc5235c4",
+      "bytes": 278342
+    },
+    "pt-br": {
+      "sha256": "576a0b4c21b9b8fd95827dca30eb6deeb7eb89235dffb6d84d0fa6d7cbc5ecda",
+      "bytes": 277657
+    },
+    "zh-tw": {
+      "sha256": "2e7f54d2acbe11ae1335fc5e8d4769a90052ae85c14ce7386f583e6ea0a7ea8b",
+      "bytes": 275337
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1510,
+    "output_tokens_details": {
+      "reasoning_tokens": 751
+    },
+    "total_tokens": 3470
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Treecko",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Treecko can quickly scale even vertical surfaces. It senses humidity with its tail to predict the next day's weather.",
+        "attacks": [
+          {
+            "name": "Pound",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Arcko",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Il grimpe sur les murs avec une grande agilité. Sa queue lui permet de mesurer l'humidité et de prédire ainsi le temps qu'il fera le lendemain.",
+        "attacks": [
+          {
+            "name": "Écras'Face",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Treecko",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Escala con rapidez incluso superficies verticales. Percibe la humedad ambiental con la cola y así prevé el tiempo que hará al día siguiente.",
+        "attacks": [
+          {
+            "name": "Destructor",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Treecko",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Riesce a scalare rapidamente anche pareti verticali. Rileva l'umidità attraverso la coda per prevedere il tempo dell'indomani.",
+        "attacks": [
+          {
+            "name": "Botta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Geckarbor",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Es kann selbst Wände blitzschnell emporklettern. Mit seinem Schwanz misst es die Luftfeuchtigkeit, um das Wetter des nächsten Tages vorherzusagen.",
+        "attacks": [
+          {
+            "name": "Klaps",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Treecko",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Treecko consegue escalar superfícies verticais com facilidade. Usa a cauda para sentir a umidade do ar e prever o clima do dia seguinte.",
+        "attacks": [
+          {
+            "name": "Pancada",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "木守宮",
+        "illustrator": "Souichirou Gunjima",
+        "description": "在垂直的牆壁上也能輕快地攀爬。會用尾巴感知空氣的濕度，以此來預測明天的天氣。",
+        "attacks": [
+          {
+            "name": "抽擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

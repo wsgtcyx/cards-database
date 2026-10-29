@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-019",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "38f09f8cc9d26aca9552c26d88b83af3ca74c584715e3982f819b3a7aec06f8f",
+      "bytes": 302720
+    },
+    "fr": {
+      "sha256": "5656f396e9f307b3138563c28ded2d615aaab243d33d4d1f6d3e83ac5ec7d9a6",
+      "bytes": 303281
+    },
+    "es": {
+      "sha256": "aaf2e6784dc48a7768fdc58e622a651538df5b33c8c45e20dcf63a5c6b2121e1",
+      "bytes": 302418
+    },
+    "it": {
+      "sha256": "c650687fdd06e08751cbc096a3b275d6000364e7e9bab019bba1d9f9fd0bd189",
+      "bytes": 304119
+    },
+    "de": {
+      "sha256": "b46e13f60cbf5d55b0ec374c12aac5faaaeda7aa2691c0dec494665dcb036243",
+      "bytes": 304476
+    },
+    "pt-br": {
+      "sha256": "a3e4ca7c37dee4b6e0fcad64ab78242a7bfbf38db8efca7bfcef69d6736f7cd7",
+      "bytes": 303405
+    },
+    "zh-tw": {
+      "sha256": "2aea5928631080ac61190e9d70c77706c93e9ea29e9ecda668c5e2adcf89f1c7",
+      "bytes": 301483
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1668,
+    "output_tokens_details": {
+      "reasoning_tokens": 920
+    },
+    "total_tokens": 3628
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Volcanion",
+        "illustrator": "Illus. Satoshi Shirai",
+        "description": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
+        "attacks": [
+          {
+            "name": "Dynamite Steam",
+            "effect": "Flip 2 coins. This attack does 110 damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Volcanion",
+        "illustrator": "Illus. Satoshi Shirai",
+        "description": "Il est capable de générer un nuage de vapeur pour se cacher. Il vit dans des montagnes inhabitées.",
+        "attacks": [
+          {
+            "name": "Vapeur Explosive",
+            "effect": "Lancez 2 pièces. Cette attaque inflige 110 dégâts pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Volcanion",
+        "illustrator": "Ilus. Satoshi Shirai",
+        "description": "Expulsa vapor y desaparece entre la densa niebla. Dicen que habita en montañas solitarias.",
+        "attacks": [
+          {
+            "name": "Vapor Dinamita",
+            "effect": "Lanza 2 monedas. Este ataque hace 110 puntos de daño por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Volcanion",
+        "illustrator": "Ilus. Satoshi Shirai",
+        "description": "Si nasconde emettendo spesso nubi di vapore attorno a sé. Si dice che viva su montagne non frequentate dall'uomo.",
+        "attacks": [
+          {
+            "name": "Vapordinamite",
+            "effect": "Lancia 2 volte una moneta. Questo attacco infligge 110 danni ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Volcanion",
+        "illustrator": "Illus. Satoshi Shirai",
+        "description": "Es stößt Wasserdampf aus und versteckt sich in dadurch entstehenden dichten Nebel. Es lebt in Bergen, die von Menschen gemieden werden.",
+        "attacks": [
+          {
+            "name": "Dynamitdampf",
+            "effect": "Wirf 2 Münzen. Diese Attacke fügt 110 Schadenspunkte pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Volcanion",
+        "illustrator": "Ilust. Satoshi Shirai",
+        "description": "Solta vapor intenso e desaparece na névoa densa. Dizem que vive nas montanhas onde pessoas não andam.",
+        "attacks": [
+          {
+            "name": "Vapor de Dinamite",
+            "effect": "Jogue 2 moedas. Este ataque causa 110 pontos de dano para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "波爾凱尼恩",
+        "illustrator": "繪者 Satoshi Shirai",
+        "description": "噴出水蒸氣，用濃霧隱藏自己。據說住在群山人煙罕至的山裡。",
+        "attacks": [
+          {
+            "name": "炸藥蒸汽",
+            "effect": "擲2次硬幣，造成正面出現的次數 × 110點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Bottom-left credit is small and the punctuation after the Chinese word for illustrator is not fully legible."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].effect",
+        "reason": "The spacing around the multiplication sign and the exact spacing in the damage clause are small and slightly hard to verify."
+      }
+    ]
+  }
+}

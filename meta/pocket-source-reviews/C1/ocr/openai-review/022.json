@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-022",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "02d4073c34106f0e0887794db85411d0ba0048e27c99de1c23a2e30eb763405b",
+      "bytes": 260122
+    },
+    "fr": {
+      "sha256": "18caf98a9f88f546e427d9cd4189c5e73264aef98252d228fbd152a3e76b2111",
+      "bytes": 261132
+    },
+    "es": {
+      "sha256": "cd63d5911cb459ae107ed341e117ca75ca86b8411b7d5a97f81193f083790dcf",
+      "bytes": 260093
+    },
+    "it": {
+      "sha256": "c982f1612b99113cde626761796bb7371cd6f269e6fe4cde1e84884d73525aa0",
+      "bytes": 261833
+    },
+    "de": {
+      "sha256": "3811dbac55ef9c188157941c3f4e6b393f126b091cd0fdea2237bef563231e52",
+      "bytes": 260777
+    },
+    "pt-br": {
+      "sha256": "ff2ae66c7bb38c28cc69fc7ea6f87f74b4fb05313ab4b6c15e5a2d062287b217",
+      "bytes": 261472
+    },
+    "zh-tw": {
+      "sha256": "f1eb8fffc3f42bb5a81fd3ec361798a1a1953fb9476e7ee24b25a9143494f199",
+      "bytes": 258817
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1145,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 4633
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Scorbunny",
+        "illustrator": "Kanami Ogata",
+        "description": "Once its body has heated up, Scorbunny can use the full extent of its power. That’s why it does warm-up exercises.",
+        "attacks": [
+          {
+            "name": "Rabbit Jumping",
+            "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Flambino",
+        "illustrator": "Kanami Ogata",
+        "description": "Ce Pokémon peut déployer tout son potentiel une fois que sa température est élevée. C’est pourquoi il fait des exercices d’échauffement.",
+        "attacks": [
+          {
+            "name": "Bond de Lapin",
+            "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Scorbunny",
+        "illustrator": "Kanami Ogata",
+        "description": "Desata su verdadera fuerza cuando su cuerpo entra en calor. Por eso hace ejercicios de calentamiento.",
+        "attacks": [
+          {
+            "name": "Brinconejo",
+            "effect": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Scorbunny",
+        "illustrator": "Kanami Ogata",
+        "description": "Quando la temperatura corporea sale, sprigiona tutta la sua potenza. Perciò fa sempre esercizi di riscaldamento.",
+        "attacks": [
+          {
+            "name": "Saltelli da Coniglio",
+            "effect": "Lancia 2 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Hopplo",
+        "illustrator": "Kanami Ogata",
+        "description": "Erst wenn sein Körper ausreichend warm ist, kann es seine wahre Kraft entfesseln. Deshalb macht es Aufwärmübungen.",
+        "attacks": [
+          {
+            "name": "Hasensprung",
+            "effect": "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Scorbunny",
+        "illustrator": "Kanami Ogata",
+        "description": "Quando seu corpo se aquece, Scorbunny pode usar toda a capacidade do seu poder. É por isso que faz exercícios de aquecimento.",
+        "attacks": [
+          {
+            "name": "Salto do Coelho",
+            "effect": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "炎兔兒",
+        "illustrator": "Kanami Ogata",
+        "description": "當全身的溫度提升後，就會發揮出真正的力量。因此會為此做熱身運動。",
+        "attacks": [
+          {
+            "name": "兔兒跳",
+            "effect": "擲2次硬幣，造成正面出現的次數×20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

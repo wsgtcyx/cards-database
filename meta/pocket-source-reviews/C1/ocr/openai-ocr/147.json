@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-147",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "6be600879a84bd41e380d1b02e62a0b69c929cf743fa7df0fcd6f73fcb007028",
+      "bytes": 304478
+    },
+    "fr": {
+      "sha256": "222b5538738075f3e328a3b5e00b4edbc70a3d858bf99529e14ae7b57c455e34",
+      "bytes": 304952
+    },
+    "es": {
+      "sha256": "b25a0dce36b1f8df195ecd7463dc805a26e38109f471734dadaaccdee486d717",
+      "bytes": 304814
+    },
+    "it": {
+      "sha256": "bee4c2cf8c9285f9a7a62196b3955747d7d3311d7342ac717e39048865f887ca",
+      "bytes": 303851
+    },
+    "de": {
+      "sha256": "7f289ba13c721a44efff29b69366d24769cb623018e78c7ab5f6b7193ac588e7",
+      "bytes": 304851
+    },
+    "pt-br": {
+      "sha256": "bc21388d77ae65a0c2aa39a8d5af656ed1c18a486695b1a22bc13c22e95ac42d",
+      "bytes": 305304
+    },
+    "zh-tw": {
+      "sha256": "6e5f5dd77e9d91fe89333d2bcd5f53d30d3f49a196a6da7f040222fd87f918db",
+      "bytes": 299452
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1559,
+    "output_tokens_details": {
+      "reasoning_tokens": 926
+    },
+    "total_tokens": 3519
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Paldean Clodsire",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Earthquake",
+            "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Terraiste de Paldea",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Séisme",
+            "effect": "Cette attaque inflige aussi 20 dégâts à chacun de vos Pokémon de Banc."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Clodsire de Paldea",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Terremoto",
+            "effect": "Este ataque también hace 20 puntos de daño a cada uno de tus Pokémon en Banca."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Clodsire di Paldea",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Terremoto",
+            "effect": "Questo attacco infligge anche 20 danni a ciascuno dei Pokémon nella tua panchina."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Paldea-Suelord",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Erdbeben",
+            "effect": "Dieser Angriff fügt auch jedem Pokémon auf deiner Bank 20 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Clodsire de Paldea",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Terremoto",
+            "effect": "Este ataque também causa 20 pontos de dano a cada um dos seus Pokémon no Banco."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "帕底亞土王",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "地震",
+            "effect": "自己的所有備戰寶可夢也受到20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe confidently."
+      }
+    ]
+  }
+}

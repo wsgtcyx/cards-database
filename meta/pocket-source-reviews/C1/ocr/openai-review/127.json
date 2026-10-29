@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-127",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "1a2070c0e4d871fcdb2bb27e952c75f30bc0c1981c99d4d78769e355ac792109",
+      "bytes": 224715
+    },
+    "fr": {
+      "sha256": "e803c76072d913c4e27f1fa70db5b26b40a7f6c7aa88f72a264a60d346e23f19",
+      "bytes": 229181
+    },
+    "es": {
+      "sha256": "ffa7a70eca9452a9e160a299f1e8e3031ebbfdf97d6260722906dd3bb202fbe8",
+      "bytes": 226289
+    },
+    "it": {
+      "sha256": "df8d64371dd65c07596b80acd6e28c0fa0f3f9eaaf5c2ad4c3943df42fb8e07d",
+      "bytes": 224458
+    },
+    "de": {
+      "sha256": "fc49470857475a2edbd5653929feb7c6b26ffdcf3cc3d585d3c0eccd7b8aeb08",
+      "bytes": 226479
+    },
+    "pt-br": {
+      "sha256": "6ba274089fe5a78876254bdeb4b11732be216a16f029b19487e0505dec1b3ab7",
+      "bytes": 226754
+    },
+    "zh-tw": {
+      "sha256": "2e0bf5021137dbe87581ad2d4dbddb1d7653387137166f524b432420dd761cc4",
+      "bytes": 221767
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 782,
+    "output_tokens_details": {
+      "reasoning_tokens": 298
+    },
+    "total_tokens": 4270
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Serena’s Choice",
+        "illustrator": "Sanosuke Sakuma",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Look at the top 3 cards of your deck and put 1 of them into your hand. Shuffle any other cards back into your deck."
+      },
+      "fr": {
+        "name": "Choix de Serena",
+        "illustrator": "Sanosuke Sakuma",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Regardez les 3 premières cartes du dessus de votre deck, puis ajoutez l’une d’entre elles à votre main. Mélangez les autres cartes avec votre deck."
+      },
+      "es": {
+        "name": "Elección de Serena",
+        "illustrator": "Sanosuke Sakuma",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Mira las 3 primeras cartas de tu baraja y pon 1 de ellas en tu mano. Pon el resto de nuevo en tu baraja y barájalas todas."
+      },
+      "it": {
+        "name": "Scelta di Serena",
+        "illustrator": "Sanosuke Sakuma",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Guarda le prime 3 carte del tuo mazzo e aggiungine una alle carte che hai in mano. Poi rimischia il resto nel tuo mazzo."
+      },
+      "de": {
+        "name": "Serenas Wahl",
+        "illustrator": "Sanosuke Sakuma",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Schau dir die obersten 3 Karten deines Decks an und nimm 1 von ihnen auf deine Hand. Mische den Rest zurück in dein Deck."
+      },
+      "pt-br": {
+        "name": "Escolha da Serena",
+        "illustrator": "Sanosuke Sakuma",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Olhe as 3 cartas de cima do seu baralho e coloque 1 delas na sua mão. Embaralhe as outras cartas de volta no seu baralho."
+      },
+      "zh-tw": {
+        "name": "莎莉娜的選擇",
+        "illustrator": "Sanosuke Sakuma",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "查看自己的牌庫上方3張卡，從其中選擇1張卡加入手牌。將剩餘卡放回牌庫。"
+      }
+    },
+    "uncertain": []
+  }
+}

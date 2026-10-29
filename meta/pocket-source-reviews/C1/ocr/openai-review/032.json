@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-032",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "ead99378213dd6979e4ec0d93034c9ba81f6813f6693b89fbb4281b55fdf629c",
+      "bytes": 268371
+    },
+    "fr": {
+      "sha256": "555fd1132c8a369f0b2ba563a52191f475226afc1bff56fcda5e4048b275c9d3",
+      "bytes": 269362
+    },
+    "es": {
+      "sha256": "b7816517c2339439c2d7a7fdc393bfc6db284da5330e9ec6103b79a841c8c6b2",
+      "bytes": 270232
+    },
+    "it": {
+      "sha256": "391e2d1ebb36b420fae6dc1f92d46145065c71de23a7973cad1a1e633933a4f6",
+      "bytes": 269082
+    },
+    "de": {
+      "sha256": "d1cc746f6d611a69ab40e2afcc66725d5c8184f766be6e9c8eb3e27405b86206",
+      "bytes": 269872
+    },
+    "pt-br": {
+      "sha256": "ef7162950a438bff9ad995a8e06656fc87872242ea7790c05380e19295593d1c",
+      "bytes": 269925
+    },
+    "zh-tw": {
+      "sha256": "0e8a9cff82840c33530c71f158a88aeb2280bba715907926452ddb6b379396fb",
+      "bytes": 269041
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 967,
+    "output_tokens_details": {
+      "reasoning_tokens": 274
+    },
+    "total_tokens": 4455
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Seel",
+        "illustrator": "Asuko Nishida",
+        "description": "The protrusion on its head is very hard. It is used for bashing through thick ice.",
+        "attacks": [
+          {
+            "name": "Waterfall",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Otaria",
+        "illustrator": "Asuko Nishida",
+        "description": "La corne sur son front est très résistante. Elle lui sert à se frayer un chemin à travers les icebergs.",
+        "attacks": [
+          {
+            "name": "Cascade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Seel",
+        "illustrator": "Asuko Nishida",
+        "description": "La protuberancia que tiene en la cabeza es tan dura que la usa para abrirse paso a cabezazos por el hielo de los icebergs.",
+        "attacks": [
+          {
+            "name": "Cascada",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Seel",
+        "illustrator": "Asuko Nishida",
+        "description": "La protuberanza che ha sulla testa è estremamente dura. Si fa strada tra gli iceberg spaccandoli a testate.",
+        "attacks": [
+          {
+            "name": "Cascata",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Jurob",
+        "illustrator": "Asuko Nishida",
+        "description": "Dieses Pokémon verfügt über ein sehr hartes Horn. Mit Kopfstößen durchbricht es Eismassen in seinem Weg.",
+        "attacks": [
+          {
+            "name": "Kaskade",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Seel",
+        "illustrator": "Asuko Nishida",
+        "description": "A protuberância extremamente resistente em sua cabeça é usada para arrebentar camadas espessas de gelo.",
+        "attacks": [
+          {
+            "name": "Cachoeira",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "小海獅",
+        "illustrator": "Asuko Nishida",
+        "description": "頭上有著非常堅硬的突起部分，能夠用頭槌撞破冰山來開拓前進。",
+        "attacks": [
+          {
+            "name": "攀瀑",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

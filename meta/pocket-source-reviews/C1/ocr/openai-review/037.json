@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-037",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "2597752cdd7fbf67572c25182a80e5e541c10541599c8440518a3f974976e587",
+      "bytes": 301644
+    },
+    "fr": {
+      "sha256": "a70b9bbb851c2447c0585e1d5a4b4494cba6fdc0b2194bc8fa3723085baca807",
+      "bytes": 304012
+    },
+    "es": {
+      "sha256": "370a75c359b5ccc31bc0c93e4e7d328b9ae0e432641c6655e8b882a9f4442890",
+      "bytes": 303181
+    },
+    "it": {
+      "sha256": "27172f751f1b6e3a88f0e6a524a863e01f020a7a82e9198a360f6d64f7594dde",
+      "bytes": 302505
+    },
+    "de": {
+      "sha256": "bf7e06d8bd3bd0950cd23810a5811439508c9578ba6480adc6cb3e0e0bcb72cd",
+      "bytes": 304188
+    },
+    "pt-br": {
+      "sha256": "930ca4b4f46f88ada16f1301bcaafc82e4a5a2e182c1498e7311eb055fb5229f",
+      "bytes": 303990
+    },
+    "zh-tw": {
+      "sha256": "faa42e6b2ecd9a1433bf6bbfadb36b811dabf3f27a8b3e34cc9db1578d8cc8d2",
+      "bytes": 301216
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1113,
+    "output_tokens_details": {
+      "reasoning_tokens": 287
+    },
+    "total_tokens": 4601
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Lapras",
+        "illustrator": "UNNE",
+        "description": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
+        "attacks": [
+          {
+            "name": "Ice Blade",
+            "effect": "This attack does 20 damage to 1 of your opponent’s Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lokhlass",
+        "illustrator": "UNNE",
+        "description": "Il traverse les mers en transportant les gens sur son dos. Il semblerait qu’il chante un air agréable quand il est de bonne humeur.",
+        "attacks": [
+          {
+            "name": "Lame de Glace",
+            "effect": "Cette attaque inflige 20 dégâts à l’un des Pokémon de votre adversaire."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Lapras",
+        "illustrator": "UNNE",
+        "description": "Surca los mares transportando gente sobre el lomo. Al parecer, a veces entona un melodioso canto si está de buen humor.",
+        "attacks": [
+          {
+            "name": "Hoja Hielo",
+            "effect": "Este ataque hace 20 puntos de daño a 1 de los Pokémon de tu rival."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Lapras",
+        "illustrator": "UNNE",
+        "description": "Trasporta la gente per il mare sul suo dorso. Se è di buon umore emette un verso dolce e melodioso.",
+        "attacks": [
+          {
+            "name": "Ghiacciolama",
+            "effect": "Questo attacco infligge 20 danni a uno dei Pokémon del tuo avversario."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Lapras",
+        "illustrator": "UNNE",
+        "description": "Es trägt Menschen auf seinem Rücken übers Meer. Wenn es gut gelaunt ist, stimmt es manchmal ein entzückendes Lied an.",
+        "attacks": [
+          {
+            "name": "Eisklinge",
+            "effect": "Diese Attacke fügt 1 Pokémon deines Gegners 20 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Lapras",
+        "illustrator": "UNNE",
+        "description": "Cruza os mares transportando pessoas em suas costas. Pode entoar uma melodia encantadora quando está de bom humor.",
+        "attacks": [
+          {
+            "name": "Lâmina de Gelo",
+            "effect": "Este ataque causa 20 pontos de dano a 1 dos Pokémon do seu oponente."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "拉普拉斯",
+        "illustrator": "UNNE",
+        "description": "會把人類載在背上渡過大海。當牠心情愉快的時候，還會用美妙的嗓音來唱歌。",
+        "attacks": [
+          {
+            "name": "冰之刃",
+            "effect": "對手的1隻寶可夢受到20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

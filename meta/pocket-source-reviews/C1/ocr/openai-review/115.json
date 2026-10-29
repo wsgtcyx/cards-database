@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-115",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "c034f5d9d9617444babca9e111fa687f927d87937a9e3feee4fc327a8017971c",
+      "bytes": 280931
+    },
+    "fr": {
+      "sha256": "43980f1dd3fa3f2564a2dc598dde3b5c8bfcab57e4d37bac8c07b44c645df3d9",
+      "bytes": 281723
+    },
+    "es": {
+      "sha256": "e80bc974129c7bda13954d1fa894e969914a3af3efc80c494be578fbb4ab569c",
+      "bytes": 281173
+    },
+    "it": {
+      "sha256": "a8477bdbafc9f5087eebc688cc5bda67d45625ca5d72b24dde303e8ab82093b2",
+      "bytes": 283381
+    },
+    "de": {
+      "sha256": "db4246df0c77aee19294012d950e27c56b4db46fd8c924bc611c61de6386f8f4",
+      "bytes": 282387
+    },
+    "pt-br": {
+      "sha256": "1261bfbda0c38f0f40916183ec491af4dc062a4469555574758c02a9d0d7505b",
+      "bytes": 282704
+    },
+    "zh-tw": {
+      "sha256": "601631245aa4d61eb66976670c54f2aa3931c3029f847f0a2ca990569cc3091b",
+      "bytes": 279426
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1557,
+    "output_tokens_details": {
+      "reasoning_tokens": 676
+    },
+    "total_tokens": 5045
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Buneary",
+        "illustrator": "sowsow",
+        "description": "If both of Buneary’s ears are rolled up, something is wrong with its body or mind. It’s a sure sign the Pokémon is in need of care.",
+        "attacks": [
+          {
+            "name": "Rabbit Jumping",
+            "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Laporeille",
+        "illustrator": "sowsow",
+        "description": "Quand ses deux oreilles sont repliées, c’est signe qu’il ne se sent pas bien physiquement ou mentalement et qu’il a besoin de soins.",
+        "attacks": [
+          {
+            "name": "Bond de Lapin",
+            "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Buneary",
+        "illustrator": "sowsow",
+        "description": "Cuando enrolla ambas orejas, es señal de que tiene algún tipo de malestar físico o emocional y necesita cuidados.",
+        "attacks": [
+          {
+            "name": "Brinconejo",
+            "effect": "Lanza 2 monedas. Este ataque hace 20 puntos de daño por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Buneary",
+        "illustrator": "sowsow",
+        "description": "Se arrotola entrambe le orecchie significa che è afflitto da qualche disturbo fisico o emotivo. È segno che bisogna prendersi cura di lui.",
+        "attacks": [
+          {
+            "name": "Saltelli da Coniglio",
+            "effect": "Lancia 2 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Haspiror",
+        "illustrator": "sowsow",
+        "description": "Sind seine beiden Ohren aufgerollt, deutet das darauf hin, dass es ihm körperlich oder psychisch nicht gut geht und es Zuwendung braucht.",
+        "attacks": [
+          {
+            "name": "Hasensprung",
+            "effect": "Wirf 2 Münzen. Diese Attacke fügt 20 Schadenspunkte pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Buneary",
+        "illustrator": "sowsow",
+        "description": "Se as duas orelhas de Buneary estão enroladas, algo está errado com seu corpo ou mente. É um sinal claro de que o Pokémon precisa de cuidados.",
+        "attacks": [
+          {
+            "name": "Salto do Coelho",
+            "effect": "Jogue 2 moedas. Este ataque causa 20 pontos de dano para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "捲捲耳",
+        "illustrator": "sowsow",
+        "description": "將左右兩耳捲起來時， 就代表牠的身體或心情 狀況不佳，需要照顧。",
+        "attacks": [
+          {
+            "name": "兔兒跳",
+            "effect": "擲2次硬幣，造成正面出現的次數 × 20點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-062",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "e74a7c9132056b1728bab521b648f71f37628f87232f8d2513aedbebf3634dc1",
+      "bytes": 295761
+    },
+    "fr": {
+      "sha256": "709c011de5b0a7fe9dc04e2c6ba9588dc8f22182f53f3d8dd18275cbd9f5939e",
+      "bytes": 296429
+    },
+    "es": {
+      "sha256": "d889bbb51e299c2f19ca2f71689e87378d769278f0e479ba9b7a8ff94517d4f7",
+      "bytes": 296937
+    },
+    "it": {
+      "sha256": "b2cfdb80279072c7327497965ef6c5767f613176f4d52d64dcf57b013b8a3a86",
+      "bytes": 295920
+    },
+    "de": {
+      "sha256": "e1846299b02197d4abfa3db0fc23e21c8675fe76f0164a03480c72887600c9a2",
+      "bytes": 298507
+    },
+    "pt-br": {
+      "sha256": "bb2e4891bfd573ecd88bc6eb47117442ec931b999bccf2bb7b50f48c57d6d32f",
+      "bytes": 298202
+    },
+    "zh-tw": {
+      "sha256": "390ab3c6ff67c1e8a1f68bd3a657b03c94db5c8557c95f0e21362d4ce88766ab",
+      "bytes": 294404
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 925,
+    "output_tokens_details": {
+      "reasoning_tokens": 309
+    },
+    "total_tokens": 4413
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Deoxys",
+        "illustrator": "kawayoo",
+        "description": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+        "attacks": [
+          {
+            "name": "Psycho Boost",
+            "effect": "During your next turn, this Pokémon’s Psycho Boost does −50 damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Deoxys",
+        "illustrator": "kawayoo",
+        "description": "Il vient d’un virus extraterrestre arrivé avec une météorite et ayant subi une mutation génétique.",
+        "attacks": [
+          {
+            "name": "Psycho-Boost",
+            "effect": "Pendant votre prochain tour, ce Pokémon inflige − 50 dégâts avec Psycho-Boost."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Deoxys",
+        "illustrator": "kawayoo",
+        "description": "Surgió a raíz de la mutación de ADN de un virus alienígena que cayó a la tierra en un meteorito.",
+        "attacks": [
+          {
+            "name": "Psicoataque",
+            "effect": "Durante tu próximo turno, el ataque Psicoataque de este Pokémon hace -50 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Deoxys",
+        "illustrator": "kawayoo",
+        "description": "È il risultato della mutazione genetica di un virus alieno giunto con un meteorite.",
+        "attacks": [
+          {
+            "name": "Psicoslancio",
+            "effect": "Durante il tuo prossimo turno, l’attacco Psicoslancio di questo Pokémon infligge -50 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Deoxys",
+        "illustrator": "kawayoo",
+        "description": "Ein außerirdischer Virus kam mit einem Meteor auf die Erde. Seine DNA mutierte. So entstand Deoxys.",
+        "attacks": [
+          {
+            "name": "Psychschub",
+            "effect": "Während deines nächsten Zuges fügt die Attacke Psychschub von diesem Pokémon − 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Deoxys",
+        "illustrator": "kawayoo",
+        "description": "Um vírus alienígena que caiu na Terra em um meteoro sofreu uma mutação no DNA e se transformou neste Pokémon.",
+        "attacks": [
+          {
+            "name": "Impulso Psíquico",
+            "effect": "Durante o seu próximo turno, o ataque Impulso Psíquico deste Pokémon causará − 50 pontos de dano."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "代歐奇希斯",
+        "illustrator": "kawayoo",
+        "description": "附著在隕石上的宇宙病毒的DNA發生變異後誕生的寶可夢。",
+        "attacks": [
+          {
+            "name": "精神突進",
+            "effect": "在下個自己的回合，這隻寶可夢「精神突進」的傷害-50點。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

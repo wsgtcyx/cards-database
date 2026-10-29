@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-137",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "c92486cbf59f7aaf27352eb647eb8d08ce836ed4514c71e0bec9f193b47a13d4",
+      "bytes": 301473
+    },
+    "fr": {
+      "sha256": "27d2040d525dcbb34b50a5eb7269a6e184449e025db4ff11b825d4eb18bf3011",
+      "bytes": 304332
+    },
+    "es": {
+      "sha256": "56f5317b2bc80a242f05283ea29c205e8da966f41b8081dfab2172a68eb0125e",
+      "bytes": 302299
+    },
+    "it": {
+      "sha256": "eb2db7d637285eea927bc4af6199ef341474f63e4be805d71eaa4bee3932edbf",
+      "bytes": 304772
+    },
+    "de": {
+      "sha256": "ba3a7d7e29db0fdb5db7680a6d64015100b6ef73d6dbbdc92c8b0f578d265b51",
+      "bytes": 302290
+    },
+    "pt-br": {
+      "sha256": "77d3cd28eba332ecc8e447cc5ade5873209c28a40a3beb3bff341bedd6e6cfa4",
+      "bytes": 304105
+    },
+    "zh-tw": {
+      "sha256": "8fcc9e0fb8733bc0d11cd3237e7bbb0906cb1c918d4b0ec2f818982f9c18432d",
+      "bytes": 299152
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1381,
+    "output_tokens_details": {
+      "reasoning_tokens": 445
+    },
+    "total_tokens": 3341
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Raboot",
+        "illustrator": "Yuu Nishida",
+        "description": "Thanks to its superb leg muscles, Raboot can easily heat up the water and produce flames with force more than enough.",
+        "attacks": [
+          {
+            "name": "Headbutt",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Jumping Coach",
+            "effect": "As long as this Pokémon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lapyro",
+        "illustrator": "Yuu Nishida",
+        "description": "Son pelage résistant lui permet de supporter la chaleur.",
+        "attacks": [
+          {
+            "name": "Coup d'Boule",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Entraînement au Bond",
+            "effect": "Tant que ce Pokémon est en jeu, lancez 3 pièces supplémentaires lorsque l'attaque Bond de Lapin est utilisée par vos Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Raboot",
+        "illustrator": "Yuu Nishida",
+        "description": "Su pelaje resistente le permite soportar el calor.",
+        "attacks": [
+          {
+            "name": "Golpe Cabeza",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Entrenador de Salto",
+            "effect": "Mientras este Pokémon esté en juego, lanza 3 monedas más para el ataque Brinco de tus Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Raboot",
+        "illustrator": "Yuu Nishida",
+        "description": "Il suo folto pelo gli permette di resistere facilmente al calore.",
+        "attacks": [
+          {
+            "name": "Bottintesta",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Allenatore di Saltelli",
+            "effect": "Fintanto che questo Pokémon è in gioco, lancia 3 volte in più quando i tuoi Pokémon usano l'attacco Saltelli da Coniglio."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Kickerlo",
+        "illustrator": "Yuu Nishida",
+        "description": "Dank seines dichten Fells kann es heißes Wasser problemlos ertragen.",
+        "attacks": [
+          {
+            "name": "Kopfnuß",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sprungtrainer",
+            "effect": "Solange dieses Pokémon im Spiel ist, wirf 3 Münzen mehr, wenn deine Pokémon die Attacke Hasensprung einsetzen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Raboot",
+        "illustrator": "Yuu Nishida",
+        "description": "Graças ao seu pelo grosso, ele consegue suportar o calor facilmente.",
+        "attacks": [
+          {
+            "name": "Cabeçada",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Instrutor Saltitante",
+            "effect": "Enquanto este Pokémon estiver em jogo, jogue 3 moedas a mais para o ataque Salto de Coelho usado pelos seus Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "騰蹴小將",
+        "illustrator": "Yuu Nishida",
+        "description": "牠那強健的腿部肌肉能讓牠輕鬆地抵抗高溫。",
+        "attacks": [
+          {
+            "name": "頭錘",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "跳躍指導",
+            "effect": "只要這隻寶可夢在場上，自己的寶可夢使用的招式「兔兒跳」就可以多擲3次硬幣。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with high confidence."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with high confidence."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with high confidence."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with high confidence."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with high confidence."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with high confidence."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small/blurry to transcribe with high confidence."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "ability.effect",
+        "reason": "Small text is partially legible but not fully confident; wording may differ slightly from the visible line breaks and punctuation."
+      }
+    ]
+  }
+}

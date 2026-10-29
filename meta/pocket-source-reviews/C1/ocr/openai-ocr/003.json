@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-003",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "2788404a1e1a8bd9ba5fe30531c874ab93a4ce14f57fd098354138d992d35840",
+      "bytes": 313186
+    },
+    "fr": {
+      "sha256": "5fdeccb595e6badbd6ed76173616cf37a93dc56301fdb4974f277ea5149c9219",
+      "bytes": 314773
+    },
+    "es": {
+      "sha256": "a0773f5631eed1bf2e88744e31faf7e9df4c866b40ad299d1bc8922333a7520d",
+      "bytes": 312818
+    },
+    "it": {
+      "sha256": "0c6b40da76cf51e46747d86dceb485ac728705a3410505fc8267d382369bbea0",
+      "bytes": 311346
+    },
+    "de": {
+      "sha256": "7cc4a6201c095ec901306d829fe0d32df0d0f6869cd3b2357e7482858f0271f3",
+      "bytes": 313815
+    },
+    "pt-br": {
+      "sha256": "db94d2342b77c808e1e0fc139a72eca568ab16b59bf60960a1e8ca7af799f8e4",
+      "bytes": 314050
+    },
+    "zh-tw": {
+      "sha256": "ebaf6c65984289283030beda74c9c63428e2aa886f1d6724880281de58288431",
+      "bytes": 310629
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1063,
+    "output_tokens_details": {
+      "reasoning_tokens": 382
+    },
+    "total_tokens": 3023
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Venusaur",
+        "illustrator": "illus. danciao",
+        "description": "While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime.",
+        "attacks": [
+          {
+            "name": "Solar Beam",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sunny Heal",
+            "effect": "Once during your turn, you may heal 30 damage from your Active Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Florizarre",
+        "illustrator": "illus. danciao",
+        "description": "Ce Pokémon est capable de transformer la lumière du soleil en énergie. Il est donc encore plus fort en été.",
+        "attacks": [
+          {
+            "name": "Lance-Soleil",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Guérison Solaire",
+            "effect": "Une fois pendant votre tour, vous pouvez soigner 30 dégâts de votre Pokémon Actif."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Venusaur",
+        "illustrator": "illus. danciao",
+        "description": "Puede convertir la luz del sol en energía. Por esa razón, es más poderoso en verano.",
+        "attacks": [
+          {
+            "name": "Rayo Solar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Cura Soleada",
+            "effect": "Una vez durante tu turno, puedes curar 30 puntos de daño a tu Pokémon Activo."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Venusaur",
+        "illustrator": "illus. danciao",
+        "description": "Può convertire la luce solare in energia. Per questo è più potente in estate.",
+        "attacks": [
+          {
+            "name": "Solarraggio",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Solcura",
+            "effect": "Una sola volta durante il tuo turno, puoi curare il tuo Pokémon attivo da 30 danni."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Bisaflor",
+        "illustrator": "illus. danciao",
+        "description": "Da es Sonnenlicht in Energie umwandelt, ist es im Sommer stärker.",
+        "attacks": [
+          {
+            "name": "Solarstrahl",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sonnenheilung",
+            "effect": "Einmal während deines Zuges kannst du 30 Schadenspunkte bei deinem Aktiven Pokémon heilen."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Venusaur",
+        "illustrator": "illus. danciao",
+        "description": "Enquanto toma um solzinho, consegue converter a luz em energia. Por isso, é mais poderoso durante o verão.",
+        "attacks": [
+          {
+            "name": "Raio Solar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Cura Ensolarada",
+            "effect": "Uma vez durante o seu turno, você poderá curar 30 pontos de dano do seu Pokémon Ativo."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "妙蛙花",
+        "illustrator": "illus. danciao",
+        "description": "由於能將沐浴的陽光轉換為能量，夏天會變得更強。",
+        "attacks": [
+          {
+            "name": "日光束",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "陽光治療",
+            "effect": "在自己的回合時，可使用1次。將自己的戰鬥寶可夢恢復30HP。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

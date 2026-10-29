@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-172",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "debcfad6cb5ef9d81e9f714e8d8c9c0aaafcb95ee5f8c0242c6285e7b407413f",
+      "bytes": 291226
+    },
+    "fr": {
+      "sha256": "3efe5d4864a46286a8025ec7e777cf3838cb1f67de5793aebc2cd313e529cb04",
+      "bytes": 292837
+    },
+    "es": {
+      "sha256": "9db79e7ab2666fd5fed758fbce506a815d5080fd463999adbeeaad27e62232a4",
+      "bytes": 293891
+    },
+    "it": {
+      "sha256": "72c4d66561041e4086c6756961210f789def0d08472dc6046eac223ff07c813c",
+      "bytes": 293633
+    },
+    "de": {
+      "sha256": "fbcd1c578940ea1d05fe0e2ca77b0e352564bdb7347cfd8d244d0cedbc8c5aaf",
+      "bytes": 293336
+    },
+    "pt-br": {
+      "sha256": "2bc54ef756e6e88304f332cdfc4990fea4fdf48411c1d08e15046d6b9fdc05b6",
+      "bytes": 293726
+    },
+    "zh-tw": {
+      "sha256": "ee9c83a275198457ea0bed3b466fc642ffbb313d33cc48b53fdd602541e7d30a",
+      "bytes": 288760
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2028,
+    "output_tokens_details": {
+      "reasoning_tokens": 923
+    },
+    "total_tokens": 3988
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Fuecoco ex",
+        "illustrator": "unreadable",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bite",
+            "effect": null
+          },
+          {
+            "name": "Feisty Flames",
+            "effect": "If this Pokémon has damage on it, this attack does 70 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Chochodile ex",
+        "illustrator": "unreadable",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Morsure",
+            "effect": null
+          },
+          {
+            "name": "Flammes Furieuses",
+            "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige 70 dégâts de plus."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Fuecoco ex",
+        "illustrator": "unreadable",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Mordisco",
+            "effect": null
+          },
+          {
+            "name": "Llamas Iracundas",
+            "effect": "Si este Pokémon ya tiene daño, este ataque hace 70 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Fuecoco ex",
+        "illustrator": "unreadable",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Morso",
+            "effect": null
+          },
+          {
+            "name": "Fiammata Esuberante",
+            "effect": "Se questo Pokémon è danneggiato, questo attacco infligge 70 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Krokel ex",
+        "illustrator": "unreadable",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Biss",
+            "effect": null
+          },
+          {
+            "name": "Freche Flammen",
+            "effect": "Wenn diesem Pokémon bereits Schaden zugefügt wurde, fügt diese Attacke 70 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Fuecoco ex",
+        "illustrator": "unreadable",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Mordida",
+            "effect": null
+          },
+          {
+            "name": "Labareda Geniosa",
+            "effect": "Se este Pokémon estiver danificado, este ataque causará 70 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "呆火鱷 ex",
+        "illustrator": "unreadable",
+        "description": null,
+        "attacks": [
+          {
+            "name": "咬住",
+            "effect": null
+          },
+          {
+            "name": "氣勢鼓火焰",
+            "effect": "若這隻寶可夢有受傷害指示物，則這個招式造成70點傷害更多。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Tiny bottom-left credit is unreadable at this resolution."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Tiny bottom-left credit is unreadable at this resolution."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Tiny bottom-left credit is unreadable at this resolution."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Tiny bottom-left credit is unreadable at this resolution."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Tiny bottom-left credit is unreadable at this resolution."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Tiny bottom-left credit is unreadable at this resolution."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Tiny bottom-left credit is unreadable at this resolution."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attack 2 name",
+        "reason": "Second attack name is low-resolution and not fully legible; transcribed as visible."
+      }
+    ]
+  }
+}

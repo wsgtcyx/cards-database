@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-116",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "f5f4a18fbab8f5097746df3a6cf1f3006c54c0c628513e1cf338a73426fd504c",
+      "bytes": 253589
+    },
+    "fr": {
+      "sha256": "295163c394b67d843767e57a6ae8e783b880dec19cc67556dd28038e290b36c2",
+      "bytes": 254322
+    },
+    "es": {
+      "sha256": "9fe78b08916282078247a8ce56b43fd778b6cc46e6b3be707e0397b55825be74",
+      "bytes": 254183
+    },
+    "it": {
+      "sha256": "49d3abb6f78689279d8f6b4d99665c68b029add8c976ec3e7f298fe95c03bfab",
+      "bytes": 255640
+    },
+    "de": {
+      "sha256": "39309fe647d3f928a399662bfb2670bf4c82f10be50de7609cd81252cfa9f589",
+      "bytes": 255303
+    },
+    "pt-br": {
+      "sha256": "8b82c2defe4f2da8ae3b97e347731f2e9e50b60aed3be3c116497ae5b7eeb85b",
+      "bytes": 254915
+    },
+    "zh-tw": {
+      "sha256": "2abb5d550b7d2ddaa8bcec3fcbb7e0e0e43dc6873f7ddeb9586bcbe2e90b413f",
+      "bytes": 251841
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 916,
+    "output_tokens_details": {
+      "reasoning_tokens": 294
+    },
+    "total_tokens": 4404
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Lopunny",
+        "illustrator": "buki",
+        "description": "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
+        "attacks": [
+          {
+            "name": "Rabbit Jumping",
+            "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lockpin",
+        "illustrator": "buki",
+        "description": "Constamment sur le qui-vive, il donne des coups de pied particulièrement dévastateurs si une menace approche.",
+        "attacks": [
+          {
+            "name": "Bond de Lapin",
+            "effect": "Lancez 2 pièces. Cette attaque inflige 40 dégâts pour chaque côté face."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Lopunny",
+        "illustrator": "buki",
+        "description": "Está siempre atento a lo que ocurre a su alrededor. Si advierte peligro, se defenderá con patadas de potencia devastadora.",
+        "attacks": [
+          {
+            "name": "Brinconejo",
+            "effect": "Lanza 2 monedas. Este ataque hace 40 puntos de daño por cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Lopunny",
+        "illustrator": "buki",
+        "description": "Presta sempre attenzione all’ambiente circostante e in caso di pericolo sfodera calci di straordinaria potenza distruttiva.",
+        "attacks": [
+          {
+            "name": "Saltelli da Coniglio",
+            "effect": "Lancia 2 volte una moneta. Questo attacco infligge 40 danni ogni volta che esce testa."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Schlapor",
+        "illustrator": "buki",
+        "description": "Schlapor behält seine Umgebung stets im Auge. Wenn Gefahr im Verzug ist, setzt es sich mit vernichtenden Tritten zur Wehr.",
+        "attacks": [
+          {
+            "name": "Hasensprung",
+            "effect": "Wirf 2 Münzen. Diese Attacke fügt 40 Schadenspunkte pro Kopf zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Lopunny",
+        "illustrator": "buki",
+        "description": "Lopunny está constantemente monitorando seus arredores. Se o perigo se aproxima, este Pokémon responde com chutes superdestrutivos.",
+        "attacks": [
+          {
+            "name": "Salto do Coelho",
+            "effect": "Jogue 2 moedas. Este ataque causa 40 pontos de dano para cada cara."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "長耳兔",
+        "illustrator": "buki",
+        "description": "總是注意著周圍的狀況。危險逼近時，便會給予對手破壞力十足的踢腿。",
+        "attacks": [
+          {
+            "name": "兔兒跳",
+            "effect": "擲2次硬幣，造成正面出現的次數×40點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

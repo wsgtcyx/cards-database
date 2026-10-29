@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-039",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "39fdca269b5b4f0fb96b55b696a65d0af330b854da59953e56fe2c67b80be7f1",
+      "bytes": 303698
+    },
+    "fr": {
+      "sha256": "bef48198b718fd8dfe641a6a13ec8d99297180797ff75fc8d42d7a90da2dbeec",
+      "bytes": 304479
+    },
+    "es": {
+      "sha256": "75b64e65007a80b2bd40d0c86ae7b34d2425ed907db48a33c136412e31b061da",
+      "bytes": 303655
+    },
+    "it": {
+      "sha256": "0e776240d7605e62ee3de0891a626136b7837a076cec980902628c87da39c88a",
+      "bytes": 303153
+    },
+    "de": {
+      "sha256": "dbefdd7a86dd32e325b950c6e1da9c71856937006cbc0a980b9acedc381f2562",
+      "bytes": 307619
+    },
+    "pt-br": {
+      "sha256": "cea9e3e20672da71f0261a0081f611dbfc0eabd4cd47f8fb29b8d57211c31b20",
+      "bytes": 305801
+    },
+    "zh-tw": {
+      "sha256": "1d1a9be4f1ec518af269c91a329e64cf7ec2767197db26fb3c2f93ff39a5cbb4",
+      "bytes": 301782
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1663,
+    "output_tokens_details": {
+      "reasoning_tokens": 936
+    },
+    "total_tokens": 5151
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Basculin",
+        "illustrator": "SATOSHI NAKAI",
+        "description": "These Pokémon form schools with others of the same color. The greatest foe of a school of blue Basculin is a school of red Basculin.",
+        "attacks": [
+          {
+            "name": "Rock Head",
+            "effect": "During your opponent’s next turn, this Pokémon takes −30 damage from attacks."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Bargantua",
+        "illustrator": "SATOSHI NAKAI",
+        "description": "Ils forment des bancs entre spécimens de même couleur. Leurs plus grands ennemis sont les Bargantua rouges.",
+        "attacks": [
+          {
+            "name": "Tête de Roc",
+            "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 30 dégâts provenant des attaques."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Basculin",
+        "illustrator": "SATOSHI NAKAI",
+        "description": "Forman bancos de ejemplares del mismo color. Sus enemigos acérrimos son los Basculin de raya roja.",
+        "attacks": [
+          {
+            "name": "Cabeza Roca",
+            "effect": "Durante el próximo turno de tu rival, los ataques hacen −30 puntos de daño a este Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Basculin",
+        "illustrator": "SATOSHI NAKAI",
+        "description": "Gli esemplari dello stesso colore si riuniscono a formare dei banchi. I loro acerrimi nemici sono i banchi di Basculin di colore rosso.",
+        "attacks": [
+          {
+            "name": "Testadura",
+            "effect": "Durante il prossimo turno del tuo avversario, questo Pokémon subisce −30 danni dagli attacchi."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Barschuft",
+        "illustrator": "SATOSHI NAKAI",
+        "description": "Sie schließen sich mit gleichfarbigen Artgenossen zu Schwärmen zusammen. Ihre Erzfeinde sind Schwärme von rotlinigen Barschuft.",
+        "attacks": [
+          {
+            "name": "Steinhaupt",
+            "effect": "Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken − 30 Schadenspunkte zugefügt."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Basculin",
+        "illustrator": "SATOSHI NAKAI",
+        "description": "Estes Pokémon formam cardumes com outros da mesma cor. O maior inimigo de um cardume de Basculin azuis é um de Basculin vermelhos.",
+        "attacks": [
+          {
+            "name": "Cabeça de Pedra",
+            "effect": "Durante o próximo turno do seu oponente, este Pokémon receberá −30 pontos de dano de ataques."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "野蠻鱸魚",
+        "illustrator": "SATOSHI NAKAI",
+        "description": "會和顏色相同的夥伴成群。最大的敵人是紅色的野蠻鱸魚的群體。",
+        "attacks": [
+          {
+            "name": "堅硬腦袋",
+            "effect": "在下個對手的回合，這隻寶可夢受到招式的傷害−30點。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The flavor-text crop is heavily pixelated; some characters in the first and final clauses are not fully legible."
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-203",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "8f6d6f7a71f36c5629b7b80724de7f740f56fe8e3f716b4e453a1b9686e504b3",
+      "bytes": 288838
+    },
+    "fr": {
+      "sha256": "d89aa1dfd79fcb8c942c75c28b17da6fc47399dd0383caa25837473c6cbbbd77",
+      "bytes": 290142
+    },
+    "es": {
+      "sha256": "d97a1d0b6b7799bd72155c7130f5d7241349eb7fc7919df577a47e9328a931b4",
+      "bytes": 290313
+    },
+    "it": {
+      "sha256": "25f7ceea8c89a914f41f4f62b705702db9f9e89b659a4ec409bb5e5f60e08225",
+      "bytes": 290269
+    },
+    "de": {
+      "sha256": "a25e53d904b1bb6bcc5ab43f4f753c18f19297a9f429ec90960312ce3e9bced3",
+      "bytes": 290778
+    },
+    "pt-br": {
+      "sha256": "2867150baf3edaca2b891e93cacc8491e8dd17d2889494264ff0fa4299b92553",
+      "bytes": 289701
+    },
+    "zh-tw": {
+      "sha256": "bd9a95a783df779732d5fb5808443e5236b7a31926ffe8642685bb55ff4c505f",
+      "bytes": 288657
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 984,
+    "output_tokens_details": {
+      "reasoning_tokens": 501
+    },
+    "total_tokens": 2944
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Spearow",
+        "illustrator": "Taiga Kasai",
+        "description": "Its reckless nature leads it to stand up to others—even larger Pokémon—if it has to protect its territory.",
+        "attacks": [
+          {
+            "name": "Flap",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Piafabec",
+        "illustrator": "Taiga Kasai",
+        "description": "Un Pokémon téméraire qui n'hésite pas à affronter des Pokémon plus gros que lui pour protéger son territoire.",
+        "attacks": [
+          {
+            "name": "Battement",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Spearow",
+        "illustrator": "Taiga Kasai",
+        "description": "Su temperamento temerario hace que no dude en enfrentarse a rivales mucho más grandes a la hora de defender su territorio.",
+        "attacks": [
+          {
+            "name": "Aleteo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Spearow",
+        "illustrator": "Taiga Kasai",
+        "description": "Temerario di natura, per difendere il proprio territorio non esita a lanciarsi anche contro avversari più grandi di lui.",
+        "attacks": [
+          {
+            "name": "Alabattito",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Habitak",
+        "illustrator": "Taiga Kasai",
+        "description": "Wenn es um die Verteidigung seines Reviers geht, schreckt das draufgängerische Habitak selbst vor großen Pokémon nicht zurück.",
+        "attacks": [
+          {
+            "name": "Flattern",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Spearow",
+        "illustrator": "Taiga Kasai",
+        "description": "Sua natureza descuidada leva Spearow a encarar até Pokémon maiores quando precisa proteger o seu território.",
+        "attacks": [
+          {
+            "name": "Asa",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "烈雀",
+        "illustrator": "Taiga Kasai",
+        "description": null,
+        "attacks": [
+          {
+            "name": "羽擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The bottom-right flavor text is too small/blurry to transcribe reliably from the image."
+      }
+    ]
+  }
+}

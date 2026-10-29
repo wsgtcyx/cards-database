@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-041",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "9179c30fdd64d989123e042dfa072923b480d98b29d5420c488662f44ba6075a",
+      "bytes": 310444
+    },
+    "fr": {
+      "sha256": "d0040733b5ee258ced44e30d8a499e53bc6dc2a228f341370f819c8bafc7fad9",
+      "bytes": 312750
+    },
+    "es": {
+      "sha256": "0e92f8d7a9303e9cd534fe7dce94adfdc6ebf4eedafa9946120e768021e426ea",
+      "bytes": 311888
+    },
+    "it": {
+      "sha256": "0710bc856c00cf7cbd8e2add3e1f93ba9ceb44ee051101579f71cd3aae075cf6",
+      "bytes": 313533
+    },
+    "de": {
+      "sha256": "791fee12b1b8f255a484244f6279fd11c622aec9516faafa28291584ffe1c138",
+      "bytes": 313951
+    },
+    "pt-br": {
+      "sha256": "addf0d986dd0d982b62f949363ba23526528ede64dea34e6bd3f2662b99e1a84",
+      "bytes": 312165
+    },
+    "zh-tw": {
+      "sha256": "c1d8cc4b7658fe3f9dadd778cf3bb24f1b3344e9348886f9690fd68b28979b05",
+      "bytes": 305697
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1927,
+    "output_tokens_details": {
+      "reasoning_tokens": 936
+    },
+    "total_tokens": 3887
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Frogadier",
+        "illustrator": "Shin Nagasawa",
+        "description": "It excels at devising battle strategies that make use of the terrain, and it never misses its mark when throwing bubble-covered pebbles.",
+        "attacks": [
+          {
+            "name": "Wave Splash",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sudden Duplication",
+            "effect": "Once during your turn, when you play this card from your hand to evolve 1 of your Pokémon, you may use this Ability. Put a random Frogadier from your deck onto your Bench."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Croâporal",
+        "illustrator": "Shin Nagasawa",
+        "description": "Ce fin stratège sait se servir du terrain à son avantage. Quand il lance des cailloux recouverts d'écume, il ne manque jamais sa cible.",
+        "attacks": [
+          {
+            "name": "Grosse Vague",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Duplication Soudaine",
+            "effect": "Une fois pendant votre tour, lorsque vous jouez cette carte de votre main pour faire évoluer un de vos Pokémon, vous pouvez utiliser ce talent. Placez une carte Croâporal au hasard de votre deck sur votre Banc."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Frogadier",
+        "illustrator": "Shin Nagasawa",
+        "description": "Es muy hábil ideando tácticas que usan el terreno a su favor. Dispara piedras envueltas en burbujas con tal puntería que no falla nunca.",
+        "attacks": [
+          {
+            "name": "Chapoteo Ondulante",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Duplicación Súbita",
+            "effect": "Una vez durante tu turno, cuando juegas esta carta de tu mano para hacer evolucionar a uno de tus Pokémon, puedes usar esta habilidad. Pon 1 Frogadier aleatorio de tu baraja en tu Banca."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Frogadier",
+        "illustrator": "Shin Nagasawa",
+        "description": "È un genio delle tattiche che sfruttano al meglio la configurazione del terreno. Lancia sassi avvolti nella schiuma e non manca mai il bersaglio.",
+        "attacks": [
+          {
+            "name": "Schizzi d'Onda",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Sdoppiamento Improvviso",
+            "effect": "Una sola volta durante il tuo turno, quando giochi questa carta dalla tua mano per far evolvere uno dei tuoi Pokémon, puoi usare questa abilità. Prendi una carta Frogadier a caso dal tuo mazzo e mettila nella tua panchina."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Amphizel",
+        "illustrator": "Shin Nagasawa",
+        "description": "Seine Stärke sind Kampfstrategien, die ihren Umgebung nutzen. Es wirft kleine, in Blasen gehüllte Steine und trifft so garantiert sein Ziel.",
+        "attacks": [
+          {
+            "name": "Wellenplatscher",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Spontane Verdopplung",
+            "effect": "Einmal während deines Zuges, wenn du diese Karte von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du diese Fähigkeit einsetzen. Lege 1 zufälliges Amphizel aus deinem Deck auf deine Bank."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Frogadier",
+        "illustrator": "Shin Nagasawa",
+        "description": "É mestre em criar estratégias de batalha que tiram proveito do terreno, e nunca erra o alvo quando atira pedrinhas cobertas de bolhas.",
+        "attacks": [
+          {
+            "name": "Onda Borrifante",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Duplicação Súbita",
+            "effect": "Uma vez durante o seu turno, quando você jogar esta carta da sua mão para evoluir 1 dos seus Pokémon, você poderá usar esta Habilidade. Coloque 1 Frogadier aleatório do seu baralho no seu Banco."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "呱頭蛙",
+        "illustrator": null,
+        "description": "很善用地形的戰術家。拋擲用泡泡包著的石頭，絕不會失手。",
+        "attacks": [
+          {
+            "name": "飛濺",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "臨場分身",
+            "effect": "在自己的回合，當從手牌使出這張卡並完成進化時，可使用1次。從自己的牌庫隨機將1張「呱頭蛙」放置於備戰區。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator name is too small/blurred to read confidently from the image."
+      }
+    ]
+  }
+}

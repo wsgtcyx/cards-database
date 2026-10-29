@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-015",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "20fc8dabd220e5ab4766aaa3bdcd670c597380cef360590c91eac7b17da653b2",
+      "bytes": 291770
+    },
+    "fr": {
+      "sha256": "337db684270e9fcdea8313b871f2dec824994b5463b3098df7919d1e5f2a8ebc",
+      "bytes": 292967
+    },
+    "es": {
+      "sha256": "0213530f2063ad0c5397534855309147be0d1e611f235663188998d1115327fe",
+      "bytes": 291416
+    },
+    "it": {
+      "sha256": "80a7cf7c72ed482a3da52908e2bdfabbd358d07988f59b6528bf0df9b42ee3fe",
+      "bytes": 293017
+    },
+    "de": {
+      "sha256": "71470e8f16ac3323af51fff6853f2029617b53dcb17e40af816d865f69e092ff",
+      "bytes": 294038
+    },
+    "pt-br": {
+      "sha256": "0ff1046a70bc7b2058a9c8a48856340d5eaba57debc43c0394aa86f33fc4f774",
+      "bytes": 293979
+    },
+    "zh-tw": {
+      "sha256": "ddd3191707c51f28869cc31d7522b2063a850b354a6cd3c1c466cf51c78dc1b3",
+      "bytes": 288518
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 894,
+    "output_tokens_details": {
+      "reasoning_tokens": 309
+    },
+    "total_tokens": 2854
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Ribombee",
+        "illustrator": "Narumi Sato",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bug Buzz",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Honey Gather",
+            "effect": "Once during your turn, you may use this Ability. Put a Sweet Honey rental card into your hand."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rubombelle",
+        "illustrator": "Narumi Sato",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bourdon",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Cherche Miel",
+            "effect": "Une fois pendant votre tour, vous pouvez utiliser ce talent. Ajoutez une carte d'emprunt Miel à votre main."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Ribombee",
+        "illustrator": "Narumi Sato",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Zumbido",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Recogemiel",
+            "effect": "Una vez durante tu turno, puedes usar esta habilidad. Pon 1 carta de préstamo Miel en tu mano."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Ribombee",
+        "illustrator": "Narumi Sato",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Ronzio",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Mielincetta",
+            "effect": "Una sola volta durante il tuo turno, puoi usare questa abilità. Prendi una carta a noleggio Miele e aggiungila alle carte che hai in mano."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Bandelby",
+        "illustrator": "Narumi Sato",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Käfergebrumm",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Honigmaul",
+            "effect": "Einmal während deines Zuges kannst du diese Fähigkeit einsetzen. Nimm 1 Honig-Leihkarte auf deine Hand."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Ribombee",
+        "illustrator": "Narumi Sato",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Zumbido de Inseto",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Pegar Mel",
+            "effect": "Uma vez durante o seu turno, você poderá usar esta Habilidade. Coloque 1 carta de aluguel Mel Doce na sua mão."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蝶結萌虻",
+        "illustrator": "Narumi Sato",
+        "description": null,
+        "attacks": [
+          {
+            "name": "蟲鳴",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "採蜜",
+            "effect": "在自己的回合時，可使用1次。將1張租用卡牌的「甜甜蜜」加入手牌。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

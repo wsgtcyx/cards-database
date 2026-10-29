@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-009",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "209f8815bc6d9f9f0ef49228df3f62fb1b9db74e71ce0ec43e22104df19495fd",
+      "bytes": 267531
+    },
+    "fr": {
+      "sha256": "6e3852d06961137c17b6f09a63b463de5e11f795508236b18cea2b00c3d70d36",
+      "bytes": 266899
+    },
+    "es": {
+      "sha256": "1229178bb0dadfc834ec2281e7a0df285b694c0ed40bf8b519c898c11a594404",
+      "bytes": 267504
+    },
+    "it": {
+      "sha256": "88b6a8b1d2532493cddfa76a27f95b60817fcdf3077675b089a6505061ecacd6",
+      "bytes": 266470
+    },
+    "de": {
+      "sha256": "438b14218a195a5bef2373b94efefc6b40a753851c54c127c105737039fed81f",
+      "bytes": 268403
+    },
+    "pt-br": {
+      "sha256": "960d56d981fe0f7e4dc43198a2dac50a875290f8f5d653e89b7ca8abb1cd061b",
+      "bytes": 268234
+    },
+    "zh-tw": {
+      "sha256": "c07da718d9b6e60daa6a96b0757d1406ca1ef4541d4e5b03f35a71b10e8b6dcd",
+      "bytes": 267512
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 980,
+    "output_tokens_details": {
+      "reasoning_tokens": 217
+    },
+    "total_tokens": 4468
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Deerling",
+        "illustrator": "Shimarisu Yukichi",
+        "description": "These Pokémon are not shy—they will behave as they please, even in front of people. If you feed one of them, it will quickly take a liking to you.",
+        "attacks": [
+          {
+            "name": "Flop",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Vivaldaim",
+        "illustrator": "Shimarisu Yukichi",
+        "description": "Peu farouche, il n’hésite pas à faire ce qui lui plaît, même en présence d’êtres humains. Il s’attache à quiconque le nourrit.",
+        "attacks": [
+          {
+            "name": "Flop",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Deerling",
+        "illustrator": "Shimarisu Yukichi",
+        "description": "No es nada tímido y hace lo que quiere incluso delante de la gente. Se encariña enseguida con quien le da de comer.",
+        "attacks": [
+          {
+            "name": "Vuelta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Deerling",
+        "illustrator": "Shimarisu Yukichi",
+        "description": "Non è timido e si trova a suo agio anche davanti agli esseri umani. Basta dargli da mangiare perché si affezioni.",
+        "attacks": [
+          {
+            "name": "Tonfo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Sesokitz",
+        "illustrator": "Shimarisu Yukichi",
+        "description": "Da es nicht schüchtern ist, fühlt es sich auch in Gegenwart von Menschen wohl. Wenn man es füttert, freundet es sich sofort mit einem an.",
+        "attacks": [
+          {
+            "name": "Plumps",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Deerling",
+        "illustrator": "Shimarisu Yukichi",
+        "description": "Estes Pokémon não são tímidos e agem como bem entenderem, mesmo na frente de pessoas. Se você alimentar um, ele logo gostará de você.",
+        "attacks": [
+          {
+            "name": "Baque",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "四季鹿",
+        "illustrator": "Shimarisu Yukichi",
+        "description": "毫不怕生的性格使牠在人類面前也會做任何動作，只要給牠食物，就能立刻對牠拉近關係。",
+        "attacks": [
+          {
+            "name": "活蹦亂跳",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

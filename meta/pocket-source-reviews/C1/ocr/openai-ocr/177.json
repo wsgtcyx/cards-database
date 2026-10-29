@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-177",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "8ff46fdc1c045b2dc8e17456475278ee1471f97becd99a2ce24d6ed2050ca681",
+      "bytes": 336377
+    },
+    "fr": {
+      "sha256": "725f49789d57691deca1baf07f5bf0a31fd95e7343f48f295ac64324e69fe2db",
+      "bytes": 335897
+    },
+    "es": {
+      "sha256": "5f96d48b51a005895ce09e36ad7e9f13a33bee34c562f9ddb2be4c83d6cc418d",
+      "bytes": 336567
+    },
+    "it": {
+      "sha256": "d6b05ec2c70acbbe1a3d9745eb7e39d23a63b08abca22b2d243cfa72c37b2143",
+      "bytes": 336370
+    },
+    "de": {
+      "sha256": "0b1809881a831f34508f95690f7a327fa58a80fd7686c8c4852a320de078a917",
+      "bytes": 338631
+    },
+    "pt-br": {
+      "sha256": "11d5b3ef872a096de06b93c9fe26cd61716a0cc0225ac8b83353cf8017242577",
+      "bytes": 337858
+    },
+    "zh-tw": {
+      "sha256": "ae62cdcd59ccc0a1b102941da8a8e50848ca0186ff5df8a2f941ff972c402b8f",
+      "bytes": 331623
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1289,
+    "output_tokens_details": {
+      "reasoning_tokens": 596
+    },
+    "total_tokens": 3249
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Lycanroc ex",
+        "illustrator": "Mitsu, Aya Kusube",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Slashing Claw",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Reflexive Retaliation",
+            "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lougaroc ex",
+        "illustrator": "Mitsu, Aya Kusube",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Griffe Taillante",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Contre-Offensive",
+            "effect": "Si ce Pokémon est sur le Poste Actif et subit les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 30 dégâts."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Lycanroc ex",
+        "illustrator": "Mitsu, Aya Kusube",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Garra Cuchillazo",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Venganza Meditada",
+            "effect": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 30 puntos de daño."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Lycanroc ex",
+        "illustrator": "Mitsu, Aya Kusube",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Artigli Laceranti",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Autoritorsione",
+            "effect": "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 30 danni."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Wolwerock ex",
+        "illustrator": "Mitsu, Aya Kusube",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schlitzende Klaue",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Reflex-Vergeltung",
+            "effect": "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem angreifenden Pokémon 30 Schadenspunkte zu."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Lycanroc ex",
+        "illustrator": "Mitsu, Aya Kusube",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Garra Cortadora",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Retaliação Reflexiva",
+            "effect": "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 30 pontos de dano ao Pokémon Atacante."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "鬃岩狼人ex",
+        "illustrator": "Mitsu, Aya Kusube",
+        "description": null,
+        "attacks": [
+          {
+            "name": "利爪揮砍",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "反擊回去",
+            "effect": "這隻寶可夢在場上處於對戰位時，受到對手寶可夢的招式的傷害時，使用招式的寶可夢會受到30點傷害。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

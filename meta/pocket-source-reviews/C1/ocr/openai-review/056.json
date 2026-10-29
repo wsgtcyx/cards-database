@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-056",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "30d9cbbe29d16460fa1fee6095f0cba5738f39cfff9deee7d4addac5086ac086",
+      "bytes": 341344
+    },
+    "fr": {
+      "sha256": "ddcaa5a8425328a23f26669b19374785f179149e6466bd303ec25b2581969dba",
+      "bytes": 343184
+    },
+    "es": {
+      "sha256": "04df68c6bdce02d8028e967b525587e1cd7bb2dc03ef54a0bf30f1b9c114d7fe",
+      "bytes": 342760
+    },
+    "it": {
+      "sha256": "e21b1f0f2bd83f235cf180a9d443e8b87f6985d5d0da4f4d603e6ca02ddd2a86",
+      "bytes": 342775
+    },
+    "de": {
+      "sha256": "0ec3fdf401de3c1e1474c6923b64e8585bd6a813f1f0226c0b402ad6715a69b3",
+      "bytes": 343996
+    },
+    "pt-br": {
+      "sha256": "1651985307d6cfb6b11f9b42cd8e0fc652ed22d1674547ae95d02f4f3f2eea3d",
+      "bytes": 343630
+    },
+    "zh-tw": {
+      "sha256": "9da728e7f3e3442779bff54bf40588aef774ad1372ef121f24b94070768470bd",
+      "bytes": 338377
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1138,
+    "output_tokens_details": {
+      "reasoning_tokens": 456
+    },
+    "total_tokens": 4626
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Mewtwo X ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Dual Impact",
+            "effect": "If a Stadium is in play, this attack does 40 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Mewtwo X ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impact Double",
+            "effect": "Si un Stade est en jeu, cette attaque inflige 40 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Mewtwo X ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Dual",
+            "effect": "Si hay un Estadio en juego, este ataque hace 40 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega-Mewtwo X ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impatto Duale",
+            "effect": "Se c'è in gioco una carta Stadio, questo attacco infligge 40 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Mewtu X ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Doppelter Stoß",
+            "effect": "Wenn eine Stadionkarte im Spiel ist, fügt diese Attacke 40 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega-Mewtwo X ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Dobrado",
+            "effect": "Se um Estádio estiver em jogo, este ataque causará 40 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級超夢X ex",
+        "illustrator": "PLANETA Igarashi",
+        "description": null,
+        "attacks": [
+          {
+            "name": "雙元衝擊",
+            "effect": "若場上有競技場卡，則增加40點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

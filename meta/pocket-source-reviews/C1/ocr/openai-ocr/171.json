@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-171",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "b3efbd2e8e613150c377247aeb6c3e61f786d4ca367239292f50762cf9de0911",
+      "bytes": 314128
+    },
+    "fr": {
+      "sha256": "a04ba9da474ce5eff5597826af368e21433c4b9ab5ee4a40483c430765db8fe1",
+      "bytes": 313960
+    },
+    "es": {
+      "sha256": "4182a80b3445c5806d4a58e3aa1a383ee4b8d587a714f3da5339e511f52f9b16",
+      "bytes": 314235
+    },
+    "it": {
+      "sha256": "2a2f8c5f0b70417e6c6d5abcfa029407a258271492f64dabce5819e6e721f8ff",
+      "bytes": 315082
+    },
+    "de": {
+      "sha256": "ccd53b471a6c6931a66fcf2c794f0bd089fca3ce940efef41e6c43f30238283b",
+      "bytes": 314857
+    },
+    "pt-br": {
+      "sha256": "9172ce861d86fc9fac0da1b8dee013ed211202da9b1be42a163297fa5bb3dc31",
+      "bytes": 315026
+    },
+    "zh-tw": {
+      "sha256": "c374cc4ddab8eec737801c3dd24d0904e0861d39d5be60dfc8c2c0f6945b1f17",
+      "bytes": 310387
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1684,
+    "output_tokens_details": {
+      "reasoning_tokens": 866
+    },
+    "total_tokens": 3644
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Alolan Exeggutor ex",
+        "illustrator": "Whisker",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Long-Neck Hammering",
+            "effect": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 50 damage to it."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Noadkoko d'Alola ex",
+        "illustrator": "Whisker",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Long Cou Martelleur",
+            "effect": "Un des Pokémon de Banc de votre adversaire est choisi au hasard. Cette attaque lui inflige aussi 50 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Exeggutor de Alola ex",
+        "illustrator": "Whisker",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martilleo Cuellilargo",
+            "effect": "Se elige a un Pokémon en Banco aleatorio de tu rival. Este ataque también le hace 50 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Exeggutor di Alola ex",
+        "illustrator": "Whisker",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martellata Collolungo",
+            "effect": "Viene scelto un Pokémon avversario in panchina a caso. Questo attacco infligge anche 50 danni a quel Pokémon."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Alola-Kokowei ex",
+        "illustrator": "Whisker",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Langhalshammer",
+            "effect": "1 Pokémon von der Bank deines Gegners wird zufällig ausgewählt. Diese Attacke fügt auch diesem Pokémon 50 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Exeggutor de Alola ex",
+        "illustrator": "Whisker",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Martelada Pescoçuda",
+            "effect": "Um dos Pokémon no Banco do seu oponente é escolhido aleatoriamente. Este ataque também causa 50 pontos de dano a ele."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "阿羅拉 椰蛋樹 ex",
+        "illustrator": "Whisker",
+        "description": null,
+        "attacks": [
+          {
+            "name": "長頸錘",
+            "effect": "對手的備戰區裡有1隻寶可夢被隨機選出，並對選出的寶可夢也造成50點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "name",
+        "reason": "The spacing around the printed Chinese name and ex mark is hard to distinguish from the image; I transcribed it with visible spacing, but it may be printed without spaces."
+      }
+    ]
+  }
+}

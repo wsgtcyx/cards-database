@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-065",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "5a5d02b43f6b5bad013f1fd1c712722a68a3204121cffefbe36d050a9525aa1e",
+      "bytes": 265305
+    },
+    "fr": {
+      "sha256": "c0f136d793300b1f1e5c7b5a6019505a7c7f1fc2528f1dbd81e7b6da041632c1",
+      "bytes": 266505
+    },
+    "es": {
+      "sha256": "243378275e765e319de30b27c1338251f64cc16865c5741665ac44babb8a8839",
+      "bytes": 266863
+    },
+    "it": {
+      "sha256": "1cc024839a70bab30cc265cb923395fb261d23d43a709a2762ab471890064b8b",
+      "bytes": 265808
+    },
+    "de": {
+      "sha256": "f5c2048f680003f6811c93f14040d736edfea10c8f3a9fe06ae9ab41761ae0f0",
+      "bytes": 266639
+    },
+    "pt-br": {
+      "sha256": "e37065ae72f6bad7c73a87ef971d7ffd62fcc0e2ee15b9caa549acf68f585b5b",
+      "bytes": 266722
+    },
+    "zh-tw": {
+      "sha256": "462d505f189dba9f138f49bc81f16031aea6115bbf1e80ad6095d4db9bee1ab4",
+      "bytes": 265283
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1212,
+    "output_tokens_details": {
+      "reasoning_tokens": 460
+    },
+    "total_tokens": 4700
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Cosmoem",
+        "illustrator": "Kouki Saitou",
+        "description": "The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.",
+        "attacks": [
+          {
+            "name": "Ram",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Cosmovum",
+        "illustrator": "Kouki Saitou",
+        "description": "La carapace qui le recouvre est plus dure que tout ce qui est connu par l’Homme. Il grandit en absorbant la lumière des étoiles.",
+        "attacks": [
+          {
+            "name": "Collision",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cosmoem",
+        "illustrator": "Kouki Saitou",
+        "description": "Está recubierto de un caparazón de una dureza que escapa al entendimiento humano. Crece al exponerse a la luz de las estrellas.",
+        "attacks": [
+          {
+            "name": "Apisonar",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Cosmoem",
+        "illustrator": "Kouki Saitou",
+        "description": "Il suo esoscheletro è più duro di qualunque cosa che gli esseri umani conoscano. Cresce assorbendo la luce delle stelle.",
+        "attacks": [
+          {
+            "name": "Carica",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Cosmovum",
+        "illustrator": "Kouki Saitou",
+        "description": "Es wird von einer Schale umhüllt, deren Härte Menschen vor ein Rätsel stellt. Es wächst, indem es in Sternenlicht badet.",
+        "attacks": [
+          {
+            "name": "Ramme",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Cosmoem",
+        "illustrator": "Kouki Saitou",
+        "description": "O crescimento deste Pokémon é nutrido pela absorção da luz das estrelas. A carapaça que o envolve é mais dura do que qualquer material conhecido.",
+        "attacks": [
+          {
+            "name": "Aríete",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "科斯莫姆",
+        "illustrator": "Kouki Saitou",
+        "description": "將核心包裹起來的外殼擁有超越人類認知範圍的硬度。透過沐浴星光而成長。",
+        "attacks": [
+          {
+            "name": "衝撞",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

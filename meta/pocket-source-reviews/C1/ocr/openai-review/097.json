@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-097",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "6c300ae4c49c15842ce690d5d2d23c27bc25bc464d1fb3ee3da73690ae2f2a1e",
+      "bytes": 291568
+    },
+    "fr": {
+      "sha256": "95ff2edc4e151addf75a0337927b7ea9af718afae6e150de1fa90281feabb0ac",
+      "bytes": 293909
+    },
+    "es": {
+      "sha256": "3abe54431331d65a6fbac783b2f779a3b04bfb2bec593d75a590ce561d815fdc",
+      "bytes": 292867
+    },
+    "it": {
+      "sha256": "74d642a5c317044c8eca696eebc749e553a7d11de4e5222fd1e243c17a38b55d",
+      "bytes": 293105
+    },
+    "de": {
+      "sha256": "573f96f5e146163a5d9f0bdf10f042c4cf022f937c88f7d3f4c33cc419f3ec37",
+      "bytes": 296609
+    },
+    "pt-br": {
+      "sha256": "67a8393ed93850b177d2b493a69b85ce816aa0f211f180118e18cceb61a65434",
+      "bytes": 293982
+    },
+    "zh-tw": {
+      "sha256": "5675eedcf31e5a67aaa3e88f7055d3a10f40ecacd12a2c5c4188507c241c4e0e",
+      "bytes": 290599
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1666,
+    "output_tokens_details": {
+      "reasoning_tokens": 486
+    },
+    "total_tokens": 5154
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Melmetal",
+        "illustrator": "Shigenori Negishi",
+        "description": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+        "attacks": [
+          {
+            "name": "Confront",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Metal Scrum",
+            "effect": "As long as this Pokémon is in play, all of your {M} Pokémon take -20 damage from attacks from your opponent’s Pokémon. This effect doesn’t stack."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Melmetal",
+        "illustrator": "Shigenori Negishi",
+        "description": "En fin de vie, son corps rouille et se brise en mille morceaux. Ces derniers renaissent ensuite sous forme de Meltan.",
+        "attacks": [
+          {
+            "name": "Confrontation",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Mêlée Métallique",
+            "effect": "Tant que ce Pokémon est en jeu, tous vos Pokémon {M} subissent -20 dégâts provenant des attaques des Pokémon de votre adversaire. Cet effet est non cumulable."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Melmetal",
+        "illustrator": "Shigenori Negishi",
+        "description": "Al final de su vida, su cuerpo se oxida y se hace pedazos. Poco tiempo después, esos fragmentos que quedan dan vida a varios Meltan.",
+        "attacks": [
+          {
+            "name": "Confrontar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Melé Metálica",
+            "effect": "Mientras este Pokémon esté en juego, los ataques de los Pokémon de tu rival hacen -20 puntos de daño a todos tus Pokémon {M}. Este efecto no se acumula."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Melmetal",
+        "illustrator": "Shigenori Negishi",
+        "description": "Alla fine della sua esistenza, si arrugginisce e cade a pezzi. Dopo un po’ di tempo, i resti del suo corpo tornano in vita sotto forma di Meltan.",
+        "attacks": [
+          {
+            "name": "Confronto",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Mischia Metallica",
+            "effect": "Fintanto che questo Pokémon è in gioco, tutti i tuoi Pokémon {M} subiscono -20 danni dagli attacchi dei Pokémon avversari. Questo effetto non è cumulabile."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Melmetal",
+        "illustrator": "Shigenori Negishi",
+        "description": "Geht sein Leben dem Ende zu, rostet sein Körper und fällt auseinander. Kurz darauf erwachen die verbliebenen Fragmente als Meltan zum Leben.",
+        "attacks": [
+          {
+            "name": "Konfrontieren",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Metallgedränge",
+            "effect": "Solange dieses Pokémon im Spiel ist, werden allen deinen {M}-Pokémon -20 Schadenspunkte durch Attacken von Pokémon deines Gegners zugefügt. Der Effekt stapelt sich nicht."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Melmetal",
+        "illustrator": "Shigenori Negishi",
+        "description": "No fim de sua vida, Melmetal enferrujará e se despedaçará. Os pequenos cacos que ficarem para trás eventualmente renascerão como Meltan.",
+        "attacks": [
+          {
+            "name": "Confrontar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Barreira Metálica",
+            "effect": "Enquanto este Pokémon estiver em jogo, todos os seus Pokémon {M} receberão -20 pontos de dano de ataques dos Pokémon do seu oponente. Este efeito não acumula."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "美錄梅塔",
+        "illustrator": "Shigenori Negishi",
+        "description": "壽命快到盡頭的時候，身體就會生鏽碎裂。到最後細小的碎片會復活為美錄坦。",
+        "attacks": [
+          {
+            "name": "正面對決",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "金屬聯防",
+            "effect": "只要這隻寶可夢在場上，自己的所有{M}寶可夢受到對手的寶可夢招式的傷害-20點。這個特性不會重複。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

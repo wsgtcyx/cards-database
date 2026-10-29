@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-150",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "bd8e35f7fa0e99017120b9f6abae3cca2ca203b9ef3392f3ef406c68184634a3",
+      "bytes": 240101
+    },
+    "fr": {
+      "sha256": "6c4423ce6dba7b8dc4d608b197f223201ff8f79b193ba1477fc8eefde924b041",
+      "bytes": 241891
+    },
+    "es": {
+      "sha256": "ae345cafbee9891747896a6e8f61673f796a851fd0e5217b7c790cfa74c6ed8b",
+      "bytes": 241078
+    },
+    "it": {
+      "sha256": "338d71befd2b9a543f9d8413722ce469e594adcf49bd1d9d722a520fa3141c92",
+      "bytes": 240976
+    },
+    "de": {
+      "sha256": "8c4a42603c7d0bae9d24015b09de6baec15d84946214e78cf30181c87c4702ff",
+      "bytes": 243160
+    },
+    "pt-br": {
+      "sha256": "e084e68ff01ee8b33c3c28db28bd74cb442956b8923e144fff52cfa5490bdf2d",
+      "bytes": 242782
+    },
+    "zh-tw": {
+      "sha256": "1fbfa720fce63080ac9490b75ab04e0f789a2babc77a1399d1750c86f922668a",
+      "bytes": 237153
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1483,
+    "output_tokens_details": {
+      "reasoning_tokens": 664
+    },
+    "total_tokens": 3443
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Melmetal",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Confront",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Metal Scrum",
+            "effect": "As long as this Pokémon is in play, all of your Pokémon take -20 damage from attacks from your opponent's Pokémon. This effect doesn't stack."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Melmetal",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Confrontation",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Mêlée Métallique",
+            "effect": "Tant que ce Pokémon est en jeu, tous vos Pokémon subissent -20 dégâts provenant des attaques des Pokémon de votre adversaire. Cet effet est non cumulable."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Melmetal",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Confrontar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Melé Metalica",
+            "effect": "Mientras este Pokémon esté en juego, los ataques de los Pokémon de tu rival hacen -20 puntos de daño a todos tus Pokémon. Este efecto no se acumula."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Melmetal",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Confronto",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Mischia Metallica",
+            "effect": "Finché questo Pokémon è in gioco, tutti i tuoi Pokémon subiscono -20 danni dagli attacchi dei Pokémon avversari. Questo effetto non è cumulabile."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Melmetal",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Konfrontieren",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Metallgedränge",
+            "effect": "Solange dieses Pokémon im Spiel ist, werden allen deinen Pokémon -20 Schadenspunkte durch Attacken von Pokémon deines Gegners zugefügt. Der Effekt stapelt sich nicht."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Melmetal",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Confrontar",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Barreira Metálica",
+            "effect": "Enquanto este Pokémon estiver em jogo, todos os seus Pokémon receberão -20 de dano de ataques dos Pokémon do seu oponente. Este efeito não acumula."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "美錄梅塔",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "正面對決",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "金屬騰防",
+            "effect": "只要這隻寶可夢在場上，自己的所有寶可夢受到對手的寶可夢招式的傷害-20點。這個特性不會重複疊加。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Tiny bottom-right flavor text is present but not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Tiny bottom-right flavor text is present but not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Tiny bottom-right flavor text is present but not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Tiny bottom-right flavor text is present but not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Tiny bottom-right flavor text is present but not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Tiny bottom-right flavor text is present but not legible enough to transcribe confidently."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Tiny bottom-right flavor text is present but not legible enough to transcribe confidently."
+      }
+    ]
+  }
+}

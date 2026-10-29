@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-094",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "e87a8d21b5b2a87295bc48ccedf4e75b8bed732f7a106f77ccf1a6817acba30f",
+      "bytes": 277551
+    },
+    "fr": {
+      "sha256": "23b5186f2f17271f461b9675c74e7a197f31719e95890155d411bff50410bb51",
+      "bytes": 278047
+    },
+    "es": {
+      "sha256": "980511eff86e7062e9cff42d85aed269e6e71ab95e28364f9fbb42814d3b2076",
+      "bytes": 276960
+    },
+    "it": {
+      "sha256": "027cf2261419c7da41f9f6542d07a047fc3736819a5c24df49f3378a7d26c231",
+      "bytes": 276544
+    },
+    "de": {
+      "sha256": "db3b0777f1131ae44390478b977436f3478732a11e5ea6531829f366745c9791",
+      "bytes": 278390
+    },
+    "pt-br": {
+      "sha256": "a70feba15ac4fd4e7a8f744788d8b9b8ea3ada0facd251c7cdfe8eff32d5a43a",
+      "bytes": 278541
+    },
+    "zh-tw": {
+      "sha256": "88831f89cb54b1451ffbc8753744ef4115c47d36d111d8a38149598b8b74b5c7",
+      "bytes": 276482
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1076,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 4564
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Ferrothorn",
+        "illustrator": "Miki Tanaka",
+        "description": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+        "attacks": [
+          {
+            "name": "Hammer In",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Noacier",
+        "illustrator": "Miki Tanaka",
+        "description": "Il fissure la roche avec ses épines pour ensuite absorber les nutriments qui s’y trouvent grâce à l’extrémité de ses tentacules.",
+        "attacks": [
+          {
+            "name": "Enfoncement",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Ferrothorn",
+        "illustrator": "Miki Tanaka",
+        "description": "Raya el lecho rocoso con las púas para luego absorber nutrientes con el extremo de los tentáculos.",
+        "attacks": [
+          {
+            "name": "Martillear",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Ferrothorn",
+        "illustrator": "Miki Tanaka",
+        "description": "Scalfisce gli strati rocciosi con i suoi aculei e utilizza le estremità delle sue antenne per estrarne gli elementi di cui si nutre.",
+        "attacks": [
+          {
+            "name": "Martello",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Tentantel",
+        "illustrator": "Miki Tanaka",
+        "description": "Es kratzt mit seinen Dornen Kerben in Felswände und extrahiert dann mit den Dornenspitzen an seinen Schlingen Nährstoffe aus dem Gestein.",
+        "attacks": [
+          {
+            "name": "Einhämmern",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Ferrothorn",
+        "illustrator": "Miki Tanaka",
+        "description": "Este Pokémon roça os seus espinhos nas rochas, depois usa as pontas das suas antenas para absorver os nutrientes que encontra dentro das pedras.",
+        "attacks": [
+          {
+            "name": "Martelada",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "堅果啞鈴",
+        "illustrator": "Miki Tanaka",
+        "description": "用尖刺刮過岩壁之後，牠會用觸手的尖端接觸岩礦吸收營養。",
+        "attacks": [
+          {
+            "name": "頭突",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The characters following「接觸」are low-resolution; they appear to read「岩礦」."
+      }
+    ]
+  }
+}

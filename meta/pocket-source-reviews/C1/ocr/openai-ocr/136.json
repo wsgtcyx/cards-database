@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-136",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "da1df663f36e0b6032fc0cc78e5768be82fbdca5424bc76aab9bec08e2dce314",
+      "bytes": 332563
+    },
+    "fr": {
+      "sha256": "57910641b5ebda45683afa516a1c5e5fa847c22853c8e8185f20ba0f26330fcc",
+      "bytes": 332609
+    },
+    "es": {
+      "sha256": "f135959e9ac06b96dc1dd237b0e1fffcf6a0ffc17cf5d55d03192c0c40978755",
+      "bytes": 332105
+    },
+    "it": {
+      "sha256": "c17a94fe6eaed91c789ebbfd2e317bf63f9b3497d4930144ff304dc110e1b29c",
+      "bytes": 331868
+    },
+    "de": {
+      "sha256": "7624b48a23bf32784560f926633547cb96dad250eafbb0a0ace9adba4d776d3a",
+      "bytes": 333994
+    },
+    "pt-br": {
+      "sha256": "2e31910ddcf45e6a4ba69074116a9d9e41681692be6642f8cf6ee48630e1fc15",
+      "bytes": 333191
+    },
+    "zh-tw": {
+      "sha256": "130373fb30c9b86a48d535956beb7a0d20af5b3890ff731f1da3b627332ae527",
+      "bytes": 330562
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2273,
+    "output_tokens_details": {
+      "reasoning_tokens": 995
+    },
+    "total_tokens": 4233
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Charizard",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+        "attacks": [
+          {
+            "name": "Fire Wing",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Flame Aura",
+            "effect": "Whenever you attach a {R} Energy from your Energy Zone to this Pokémon, do 30 damage to your opponent's Active Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Dracaufeu",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Crache du feu si puissant qu'il pourrait faire fondre les rochers. Il est souvent responsable d'incendies de forêt accidentels.",
+        "attacks": [
+          {
+            "name": "Aile de Feu",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura Enflammée",
+            "effect": "Chaque fois que vous attachez une Énergie {R} de votre zone Énergie à ce Pokémon, infligez 30 dégâts au Pokémon Actif de votre adversaire."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Charizard",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Ala ígnea",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura Llameante",
+            "effect": "Cada vez que unas una Energía {R} de tu área de Energía a este Pokémon, haz 30 puntos de daño al Pokémon Activo de tu rival."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Charizard",
+        "illustrator": "Mitsuhiro Arita",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Alafiamma",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura Fiammeggiante",
+            "effect": "Ogni volta che assegni un'Energia {R} a questo Pokémon dalla tua Zona ენერგia, infliggi 30 danni al Pokémon attivo dell'avversario."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Glurak",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Wenn Glurak Feuer spuckt, hat die Flamme eine Hitze, die selbst Felsen zum Schmelzen bringt. Man sagt, es löse manchmal Waldbrände aus, ohne es zu wollen.",
+        "attacks": [
+          {
+            "name": "Feuerflügel",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Flammende Aura",
+            "effect": "Füge jedes Mal, wenn du 1 {R}-Energie aus dem Energiebereich dieses Pokémon anlegst, dem Aktiven Pokémon deines Gegners 30 Schadenspunkte zu."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Charizard",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "Cospe fogo tão quente que derrete rochas. Às vezes, causa incêndios florestais sem querer.",
+        "attacks": [
+          {
+            "name": "Asa de Fogo",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Aura em Chamas",
+            "effect": "Sempre que você ligar uma Energia {R} da sua Zona de Energia a este Pokémon, cause 30 pontos de dano ao Pokémon Ativo do seu oponente."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "噴火龍",
+        "illustrator": "Mitsuhiro Arita",
+        "description": "噴出的火焰溫度高得足以融化岩石。據說會無意間引發森林大火。",
+        "attacks": [
+          {
+            "name": "火焰之翼",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "火焰氣場",
+            "effect": "每次從自己的能量區將1張能量卡附加到這隻寶可夢身上時，對手的戰鬥寶可夢受到30點傷害。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially small/soft; exact wording may differ."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially small/soft; exact wording may differ."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially small/soft; exact wording may differ."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially small/soft; exact wording may differ."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is partially small/soft; exact wording may differ."
+      }
+    ]
+  }
+}

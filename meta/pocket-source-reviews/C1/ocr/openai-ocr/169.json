@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-169",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "d0e0ca69abbc64b783d38540e180393fe0de7e4d65ecfbdc58376a50ab6258d3",
+      "bytes": 300978
+    },
+    "fr": {
+      "sha256": "f6fe8a0241eb75a6868612da900072bf1211d13236c85fc9dbee8b6221027b20",
+      "bytes": 305736
+    },
+    "es": {
+      "sha256": "f000c7dd353d87d8e8d126c7945f10a4dd5be83b2f1ab9af195f4d5872a145f5",
+      "bytes": 304946
+    },
+    "it": {
+      "sha256": "52724ec9afe04ef585d5b886a0c6008208b9c6bd076205eb039f6668306a48ea",
+      "bytes": 306449
+    },
+    "de": {
+      "sha256": "467098990c2b8f5e65f09f9542f1ac40a2f5dbf4e943f1cfd72d3122bc1a780c",
+      "bytes": 305300
+    },
+    "pt-br": {
+      "sha256": "23a6adbd4ba9eac64390702e0c81dda58ba9b23a9f0ce03b1473288807f3e74b",
+      "bytes": 305720
+    },
+    "zh-tw": {
+      "sha256": "580b40a7813521acf61ea03d4a93ed828d18615635648e52f09b9e12334c9e68",
+      "bytes": 297835
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1160,
+    "output_tokens_details": {
+      "reasoning_tokens": 733
+    },
+    "total_tokens": 3120
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Poké Mart Guy",
+        "illustrator": "Illus. GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "You may play only 1 Supporter card during your turn."
+      },
+      "fr": {
+        "name": "Jeune Homme de la Boutique Pokémon",
+        "illustrator": "Illus. GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous ne pouvez jouer qu'une seule carte Supporter pendant votre tour."
+      },
+      "es": {
+        "name": "Chico de la Tienda Pokémon",
+        "illustrator": "Illus. GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puedes jugar solo 1 carta de Partidario durante tu turno."
+      },
+      "it": {
+        "name": "Commesso del Pokémon-Market",
+        "illustrator": "Illus. GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi giocare una sola carta Aiuto durante il tuo turno."
+      },
+      "de": {
+        "name": "Pokémon-Supermarkt-Händler",
+        "illustrator": "Illus. GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst während deines Zuges nur 1 Unterstützerkarte spielen."
+      },
+      "pt-br": {
+        "name": "Funcionário do Poké Mart",
+        "illustrator": "Illus. GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você só pode jogar 1 carta de Apoiador durante o seu turno."
+      },
+      "zh-tw": {
+        "name": "友好商店的哥哥",
+        "illustrator": "Illus. GOSSAN",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "從自己的牌庫隨機將2張【好傷藥】、【黃金噴霧】、【萬靈藥】加入手牌。"
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "effect",
+        "reason": "The middle item name in the printed card text is small/blurry; transcription of the item name may be incorrect."
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-011",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "b86a52474ac6ac77423e23721504e167acbb2adf10b08f7cb7b6f3b87e1b78ae",
+      "bytes": 260331
+    },
+    "fr": {
+      "sha256": "949ad8ef630cddb2aef857634e072dd293c3bc03e0ed69ec10e1a4c9f5b934fa",
+      "bytes": 261534
+    },
+    "es": {
+      "sha256": "681715b6b516e0674ae5e405fbf0c1727304f3a5544c984185ba48792939b88f",
+      "bytes": 261292
+    },
+    "it": {
+      "sha256": "83d638df724523d2ad743de85ff39a6798db20ef63fcb8da7f09e92de0c5afcd",
+      "bytes": 260391
+    },
+    "de": {
+      "sha256": "dc791df3b41325974a017db6f94bb19bf79a425cbab60b5a0ef36160b5bebd64",
+      "bytes": 262227
+    },
+    "pt-br": {
+      "sha256": "8b4191c3ef1fe7715285f739d7102013ad3692a6f9b0dff3286ee707b4f26952",
+      "bytes": 260600
+    },
+    "zh-tw": {
+      "sha256": "40210e2c8513a53d0765580de5b79b4510dbf128a0e6a34ce0235cd73fa99117",
+      "bytes": 259409
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 3485,
+      "cached_tokens": 0
+    },
+    "output_tokens": 865,
+    "output_tokens_details": {
+      "reasoning_tokens": 355
+    },
+    "total_tokens": 4353
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Foongus",
+        "illustrator": "Yuka Morii",
+        "description": "There is a theory that the developer of the modern-day Poké Ball really liked Foongus, but this has not been confirmed.",
+        "attacks": [
+          {
+            "name": "Beat",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Trompignon",
+        "illustrator": "Yuka Morii",
+        "description": "Une théorie dit que l’inventeur de la Poké Ball se serait inspiré des Trompignon, qu’il aimait beaucoup. Elle n’a cependant pas été confirmée.",
+        "attacks": [
+          {
+            "name": "Bataille",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Foongus",
+        "illustrator": "Yuka Morii",
+        "description": "Ciertas teorías, cuya veracidad no ha podido constatarse, afirman que quien desarrolló las Poké Balls admiraba con fervor a este Pokémon.",
+        "attacks": [
+          {
+            "name": "Toque",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Foongus",
+        "illustrator": "Yuka Morii",
+        "description": "C’è chi teorizza che questo Pokémon piacesse molto all’inventore delle Poké Ball. Nessuno però sa se sia vero o no.",
+        "attacks": [
+          {
+            "name": "Battuta",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Tarnpignon",
+        "illustrator": "Yuka Morii",
+        "description": "Einer Theorie zufolge fand der Entwickler des Pokéballs Gefallen an Tarnpignon. Jedoch konnte dies bisher nicht bestätigt werden.",
+        "attacks": [
+          {
+            "name": "Verprügler",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Foongus",
+        "illustrator": "Yuka Morii",
+        "description": "Existe uma teoria de que o desenvolvedor da atual Poké Bola gostava muito de Foongus, mas isso não foi confirmado.",
+        "attacks": [
+          {
+            "name": "Pulso",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "哎呀球菇",
+        "illustrator": "Yuka Morii",
+        "description": "據說開發精靈球的人很喜歡哎呀球菇，但不知是真是假。",
+        "attacks": [
+          {
+            "name": "敲擊",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

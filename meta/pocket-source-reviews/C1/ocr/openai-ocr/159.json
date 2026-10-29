@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-159",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "6920c36548fe9ce1b196facca5ba21e7d3ef5647625d7ecfbc97d068b09fc914",
+      "bytes": 351154
+    },
+    "fr": {
+      "sha256": "67b0f528697391a853fa287e7cf0f922afc9b802ba2558111809a7b60586d32a",
+      "bytes": 350245
+    },
+    "es": {
+      "sha256": "fd430984a954dc1c522cbaf205627cb87d072632cee8cf27024e893a8f514ad4",
+      "bytes": 351169
+    },
+    "it": {
+      "sha256": "148d14c9eee054832a814944e98141037de95e65726a66fe8bcc53dfd901181d",
+      "bytes": 350701
+    },
+    "de": {
+      "sha256": "f72a19986dd833d9322868295c85940513bfe45fc8e014db0b91337e793676f1",
+      "bytes": 353091
+    },
+    "pt-br": {
+      "sha256": "e81631e162609ef184dc73d5b48ad9bdd0e1b24e463b766a53a20efd967178da",
+      "bytes": 351987
+    },
+    "zh-tw": {
+      "sha256": "bbc0598b65a2e928a8f8a0bdca84c0d07a129ccd5c47e157c7509593ebb0c8f8",
+      "bytes": 345043
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1568,
+    "output_tokens_details": {
+      "reasoning_tokens": 732
+    },
+    "total_tokens": 3528
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Lycanroc ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Slashing Claw",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Reflexive Retaliation",
+            "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 30 damage to the Attacking Pokémon."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Lougaroc ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Griffe Taillante",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Contre-offensive",
+            "effect": "Si ce Pokémon est sur le Poste Actif et subit les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 30 dégâts."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Lycanroc ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Garra Cuchillazo",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Venganza Meditada",
+            "effect": "Si este Pokémon está en el Puesto Activo y resulta dañado por un ataque de los Pokémon de tu rival, el Pokémon Atacante sufre 30 puntos de daño."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Lycanroc ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Artigli Laceranti",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Autoritorsione",
+            "effect": "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, il Pokémon attaccante subisce 30 danni."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Wolwerock ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Schlitzende Klaue",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Reflex-Vergeltung",
+            "effect": "Wenn dieses Pokémon in der Aktiven Position ist und durch eine Attacke von Pokémon deines Gegners Schaden erhält, füge dem angreifenden Pokémon 30 Schadenspunkte zu."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Lycanroc ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Garra Cortadora",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Retaliação Reflexiva",
+            "effect": "Se este Pokémon estiver no Campo Ativo e for danificado por um ataque dos Pokémon do seu oponente, cause 30 pontos de dano ao Pokémon Atacante."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "鬃岩狼人 ex",
+        "illustrator": "PLANETA ICG Works",
+        "description": null,
+        "attacks": [
+          {
+            "name": "利爪揮砍",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "反擊回擊",
+            "effect": "這隻寶可夢在戰鬥場時受到對手的寶可夢招式的傷害時，使用招式的寶可夢也受到30點傷害。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "The illustrator line is partially obscured by the card artwork; only the shared ending 'PLANETA ICG Works' is clearly legible."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "name",
+        "reason": "The Pokémon name is legible but the first character cluster is less distinct than the Latin-script locales; transcription may be off by one character."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "abilities[0].name",
+        "reason": "The ability name is small and partly softened by the image; transcription may be slightly off."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "The attack name is small and partly softened by the image; transcription may be slightly off."
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-128",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "5487a1d4250863c4001b5c9c7319d9092c9312b25adc599171be012dfc3f1c89",
+      "bytes": 195491
+    },
+    "fr": {
+      "sha256": "a6d73678f6f761feccedc786ba3d4c915644bca7f9f27fb4dfe061f58216d52c",
+      "bytes": 197591
+    },
+    "es": {
+      "sha256": "f93ff9c5bd1ff868e74c8f153bc0c48d09b803443263a450e3b49e9f62dd8d19",
+      "bytes": 195837
+    },
+    "it": {
+      "sha256": "3873b273f12ae11b2a32587b47a438a2f1ef43ce84782095a037f00d7ee3ec6d",
+      "bytes": 196018
+    },
+    "de": {
+      "sha256": "64e94a6fdd850f9e8ad4fb4a3ffe4f274c91edd7367864970ee2e46166dfb584",
+      "bytes": 197249
+    },
+    "pt-br": {
+      "sha256": "920d8a6799fe37b79948fc977535843d0d29084bd349b479ad9fa823c884e41e",
+      "bytes": 196804
+    },
+    "zh-tw": {
+      "sha256": "388f1fd2ad62d76befe8eed94326a018d8daff77f57b4a749f97d767cab422b5",
+      "bytes": 192522
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 479,
+    "output_tokens_details": {
+      "reasoning_tokens": 224
+    },
+    "total_tokens": 2439
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Rika",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Cayenn",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Cayena",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Capsi",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Cay",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Kaya",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "辛俐",
+        "illustrator": "Nobusawa/Mochipuyo",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-191",
+  "model": "gpt-5.6-sol",
+  "sources": {
+    "en": {
+      "sha256": "1b335177bb6c98dc9725e0080b506abab6025899215b354964a0f11ff6c4ef93",
+      "bytes": 294406
+    },
+    "fr": {
+      "sha256": "8157237f2c72e51431519897f751f42fb25379a0659d69842d671a0158af500f",
+      "bytes": 294898
+    },
+    "es": {
+      "sha256": "5b1890eb8a713cacceb2f77a58f58513539336c452dc3e3eb508701c4e1b2d72",
+      "bytes": 294200
+    },
+    "it": {
+      "sha256": "a1f206602dee06928ee7c13dafbac3e8f7eab1559f2fedc9e25aa10f4abadb44",
+      "bytes": 294414
+    },
+    "de": {
+      "sha256": "c363298317f3527b1e60199472bfcb5ea18a9249679133bbc112a595bb9fb6c3",
+      "bytes": 295249
+    },
+    "pt-br": {
+      "sha256": "5d8647ffca51d2808e8c4b56bc9c23a3530c679cf4882e49a68e9043d1de0e6a",
+      "bytes": 295489
+    },
+    "zh-tw": {
+      "sha256": "611f8811b4e0220dbc0b1d898ee4b1983bd193e31f9e760281542290539b3781",
+      "bytes": 291831
+    }
+  },
+  "usage": {
+    "input_tokens": 3488,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 3485
+    },
+    "output_tokens": 1046,
+    "output_tokens_details": {
+      "reasoning_tokens": 263
+    },
+    "total_tokens": 4534
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Quilava",
+        "illustrator": "Taiga Kasai",
+        "description": "The fur covering this Pokémon’s body never burns, no matter what. It can shrug off any kind of fire attack.",
+        "attacks": [
+          {
+            "name": "Heat Wave",
+            "effect": "Your opponent’s Active Pokémon is now Burned."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Feurisson",
+        "illustrator": "Taiga Kasai",
+        "description": "La fourrure qui recouvre ce Pokémon est incombustible et peut résister à n’importe quelle attaque de feu.",
+        "attacks": [
+          {
+            "name": "Canicule",
+            "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Quilava",
+        "illustrator": "Taiga Kasai",
+        "description": "El pelaje de este Pokémon es ignífugo. Puede soportar cualquier ataque con fuego.",
+        "attacks": [
+          {
+            "name": "Onda Ígnea",
+            "effect": "El Pokémon Activo de tu rival pasa a estar Quemado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Quilava",
+        "illustrator": "Taiga Kasai",
+        "description": "La pelliccia che ricopre il suo corpo è completamente ignifuga. Può resistere a qualsiasi attacco di fuoco.",
+        "attacks": [
+          {
+            "name": "Ondacalda",
+            "effect": "Il Pokémon attivo del tuo avversario viene bruciato."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Igelavar",
+        "illustrator": "Taiga Kasai",
+        "description": "Das Fell dieses Pokémon ist nicht entflammbar. Feuer-Angriffe jeglicher Art machen ihm nichts aus.",
+        "attacks": [
+          {
+            "name": "Hitzewelle",
+            "effect": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Quilava",
+        "illustrator": "Taiga Kasai",
+        "description": "O pelo que cobre seu corpo nunca queima, não importa o que aconteça. É capaz de resistir a qualquer ataque de fogo.",
+        "attacks": [
+          {
+            "name": "Onda de Calor",
+            "effect": "O Pokémon Ativo do seu oponente agora está Queimado."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "火岩鼠",
+        "illustrator": "Taiga Kasai",
+        "description": "一身的毛皮因不會燃燒，無論任何火焰攻擊都能安然無恙。",
+        "attacks": [
+          {
+            "name": "熱風",
+            "effect": "將對手的戰鬥寶可夢灼傷。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}

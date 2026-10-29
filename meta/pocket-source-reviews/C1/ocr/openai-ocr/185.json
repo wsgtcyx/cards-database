@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-185",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "39774d7103c62a492af74c8b309535f210e73a77f1dd2ae8d70597c03e881609",
+      "bytes": 361794
+    },
+    "fr": {
+      "sha256": "6b5324be88cddad67a22563e98ac31a8c49ba5cfa191ee9bb881eb12c771fd9e",
+      "bytes": 363463
+    },
+    "es": {
+      "sha256": "5bf4a2b8d7071477d0e90f6457bd3252f0f6e3c3e20dba48a16eb3c374000846",
+      "bytes": 363279
+    },
+    "it": {
+      "sha256": "58bcdfba4d15f39249cda7868be85eb685f7c862353506699405e4277c63999f",
+      "bytes": 363355
+    },
+    "de": {
+      "sha256": "db16d4b28fe3fbb9d802631d8b8258c8076cff7a6b8562fe649aa9cc443a2674",
+      "bytes": 364450
+    },
+    "pt-br": {
+      "sha256": "6e8d938576da317cbdf9b025d929ffe0a652dbd4c5b5b0499564b2aac5134848",
+      "bytes": 364022
+    },
+    "zh-tw": {
+      "sha256": "07ff9eba4bf5323d24ddf8b1d7f00afed5499ab9c14554d62a072a282ba66b0c",
+      "bytes": 359236
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1117,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 3077
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Mewtwo X ex",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Dual Impact",
+            "effect": "If a Stadium is in play, this attack does 40 more damage."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Mewtwo X ex",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impact Double",
+            "effect": "Si un Stade est en jeu, cette attaque inflige 40 dégâts supplémentaires."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Mewtwo X ex",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Dual",
+            "effect": "Si hay un Estadio en juego, este ataque hace 40 puntos de daño más."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega-Mewtwo X ex",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impatto Duale",
+            "effect": "Se c'è in gioco una carta Stadio, questo attacco infligge 40 danni in più."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Mewtu X ex",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Doppelter Stoß",
+            "effect": "Wenn eine Stadionkarte im Spiel ist, fügt diese Attacke 40 Schadenspunkte mehr zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega-Mewtwo X ex",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Impacto Dobrado",
+            "effect": "Se um Estádio estiver em jogo, este ataque causará 40 pontos de dano a mais."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級超夢X ex",
+        "illustrator": "",
+        "description": null,
+        "attacks": [
+          {
+            "name": "雙重衝擊",
+            "effect": "若場上有競技場卡，則增加40點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small to read from the image."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small to read from the image."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small to read from the image."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small to read from the image."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small to read from the image."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small to read from the image."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small to read from the image."
+      }
+    ]
+  }
+}

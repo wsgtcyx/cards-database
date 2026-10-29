@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-120",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "4a8206d1e0ef6e01d7386337b91ccbcfaea6d7b7028081ca0369129a4217ef44",
+      "bytes": 204753
+    },
+    "fr": {
+      "sha256": "2c50e801c27bb105a7be1b68920a3c95a8a90069fafedb07e19250d9e45873be",
+      "bytes": 207279
+    },
+    "es": {
+      "sha256": "c95a3431a16ed1d6709e5821ee6cc0bddc06e68b9d8eec209c406f1d5f7012c3",
+      "bytes": 208540
+    },
+    "it": {
+      "sha256": "7256a2756409752c23297153e4c2f376a16f11c0c5d10ffb3002aa9a4968a372",
+      "bytes": 206583
+    },
+    "de": {
+      "sha256": "96a377996ead8e8b8095ece58378594f302abcd9e2e4e80fa9249a34181966f6",
+      "bytes": 208091
+    },
+    "pt-br": {
+      "sha256": "4efad83aaaae9fc87a954210eebeba5ba7d77a08fe6c00e11a1854acd3415072",
+      "bytes": 207491
+    },
+    "zh-tw": {
+      "sha256": "2e5e1580c96b3c305422cce23d7257932b1aa3b653dd87af2e447c6d06dfdbe5",
+      "bytes": 198196
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 479,
+    "output_tokens_details": {
+      "reasoning_tokens": 158
+    },
+    "total_tokens": 2439
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Super Potion",
+        "illustrator": "Sban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "You may play any number of Item cards during your turn."
+      },
+      "fr": {
+        "name": "Super Potion",
+        "illustrator": "Sban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Vous pouvez jouer autant de cartes Objet que vous voulez pendant votre tour."
+      },
+      "es": {
+        "name": "Superpoción",
+        "illustrator": "Sban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puedes jugar cualquier cantidad de cartas de Objeto durante tu turno."
+      },
+      "it": {
+        "name": "Superpozione",
+        "illustrator": "Sban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Puoi giocare tutte le carte Strumento che vuoi durante il tuo turno."
+      },
+      "de": {
+        "name": "Supertrank",
+        "illustrator": "Sban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Du kannst während deines Zuges beliebig viele Itemkarten spielen."
+      },
+      "pt-br": {
+        "name": "Superpoção",
+        "illustrator": "Sban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "Você pode jogar quantas cartas de Item quiser durante o seu turno."
+      },
+      "zh-tw": {
+        "name": "好傷藥",
+        "illustrator": "Sban Graphics",
+        "description": null,
+        "attacks": [],
+        "abilities": [],
+        "effect": "在自己的回合時，物品卡可不限張數使用。"
+      }
+    },
+    "uncertain": []
+  }
+}

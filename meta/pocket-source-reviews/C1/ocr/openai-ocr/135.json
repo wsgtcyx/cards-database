@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-135",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "3a00c2e1d0e3865bf6355795246b8a49a82e8602679586b3c8278da6da9a266c",
+      "bytes": 348256
+    },
+    "fr": {
+      "sha256": "2295e46f4425090f0f1d41f52301d0927069dcbeae0324fd005ea5726f9f0acf",
+      "bytes": 348766
+    },
+    "es": {
+      "sha256": "1c3f7f6cdceebdc5b98393ac04b1d79574bcf09fa811a12cad5066794313db8b",
+      "bytes": 347701
+    },
+    "it": {
+      "sha256": "00fa2176a9e7ca1a7702437bd5c9e00bec6569e7b038016de4305f93996d3bee",
+      "bytes": 348364
+    },
+    "de": {
+      "sha256": "7d3c8a6b9dc2281c0778387739c9c6e8f679d8ef232c43af49cee6c43a69ad1a",
+      "bytes": 348413
+    },
+    "pt-br": {
+      "sha256": "990080795333e06fc7666751386bf510b89bca2cb7604127ae8b2ed114cb6315",
+      "bytes": 349197
+    },
+    "zh-tw": {
+      "sha256": "3cc173d926c251e74ce4d9a8f85c004d3fe6d410b079866183636399a482e0d1",
+      "bytes": 345150
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1921,
+    "output_tokens_details": {
+      "reasoning_tokens": 982
+    },
+    "total_tokens": 3881
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Ribombee",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bug Buzz",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Honey Gather",
+            "effect": "Once during your turn, you may use this Ability. Put a Sweet Honey rental card into your hand."
+          }
+        ],
+        "effect": null
+      },
+      "fr": {
+        "name": "Rubombelle",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Bourdon",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Cherche Miel",
+            "effect": "Une fois pendant votre tour, vous pouvez utiliser ce talent. Ajoutez une carte d'emprunt Miel à votre main."
+          }
+        ],
+        "effect": null
+      },
+      "es": {
+        "name": "Ribombee",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Zumbido",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Recogemiel",
+            "effect": "Una vez durante tu turno, puedes usar esta habilidad. Pon 1 carta de préstamo Miel en tu mano."
+          }
+        ],
+        "effect": null
+      },
+      "it": {
+        "name": "Ribombee",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Ronzio",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Mielincetta",
+            "effect": "Una sola volta durante il tuo turno, puoi usare questa abilità. Prendi una carta a noleggio Miele e aggiungila alle carte che hai in mano."
+          }
+        ],
+        "effect": null
+      },
+      "de": {
+        "name": "Bandelby",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Käfergebrumm",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Honigmaul",
+            "effect": "Einmal während deines Zuges kannst du diese Fähigkeit einsetzen. Nimm 1 Honig-Leihkarte auf deine Hand."
+          }
+        ],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Ribombee",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "Zumbido de Inseto",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Pegar Mel",
+            "effect": "Uma vez durante o seu turno, você poderá usar esta habilidade. Coloque 1 carta de aluguel Mel Doce na sua mão."
+          }
+        ],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "蝶結萌虻",
+        "illustrator": null,
+        "description": null,
+        "attacks": [
+          {
+            "name": "蟲鳴",
+            "effect": null
+          }
+        ],
+        "abilities": [
+          {
+            "name": "採蜜",
+            "effect": "在自己的回合時，可使用1次。將1張與張張租用卡牌的「甜甜蜜」加入手牌。"
+          }
+        ],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "en",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small and blurry to read reliably."
+      },
+      {
+        "locale": "en",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small and blurry to read reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small and blurry to read reliably."
+      },
+      {
+        "locale": "fr",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small and blurry to read reliably."
+      },
+      {
+        "locale": "es",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small and blurry to read reliably."
+      },
+      {
+        "locale": "es",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small and blurry to read reliably."
+      },
+      {
+        "locale": "it",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small and blurry to read reliably."
+      },
+      {
+        "locale": "it",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small and blurry to read reliably."
+      },
+      {
+        "locale": "de",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small and blurry to read reliably."
+      },
+      {
+        "locale": "de",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small and blurry to read reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small and blurry to read reliably."
+      },
+      {
+        "locale": "pt-br",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small and blurry to read reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "abilities[0].effect",
+        "reason": "Some characters in the ability effect are too blurry to verify exactly."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "Bottom-right flavor text is too small and blurry to read reliably."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "illustrator",
+        "reason": "Illustrator credit is too small and blurry to read reliably."
+      }
+    ]
+  }
+}

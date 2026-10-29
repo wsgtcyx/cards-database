@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-027",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "6287e41807fe62f10d199f026db6dd369e362ef24156014a375a7c7a5fd5afca",
+      "bytes": 293424
+    },
+    "fr": {
+      "sha256": "db03939cef59cdfe45193ee61fc5256bc3a9371fddb8d0018103a7f949cd6913",
+      "bytes": 292298
+    },
+    "es": {
+      "sha256": "828e7f72445a32ec386cf6158de005d4be38ff4998cdd8223002e5b619c8c2df",
+      "bytes": 292472
+    },
+    "it": {
+      "sha256": "02e509ecd930f2445b5a40dc921927dc5980494192808e5972e7aff394543bff",
+      "bytes": 292894
+    },
+    "de": {
+      "sha256": "5a14149cc377d66fb3dd97bd33f25b14d8f7ce45669120628571e57e19b1836f",
+      "bytes": 294920
+    },
+    "pt-br": {
+      "sha256": "76baa6c4edf7448ba29af3f372a4bfa8bbe5b79ce250a83b0796c6f0a2c54148",
+      "bytes": 293218
+    },
+    "zh-tw": {
+      "sha256": "d27462f7b8967e0db9fab8d89cf93661e5e1ea5e415c7357d8ce4a1b7fb64645",
+      "bytes": 290929
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1854,
+    "output_tokens_details": {
+      "reasoning_tokens": 897
+    },
+    "total_tokens": 3814
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Armarouge",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal.",
+        "attacks": [
+          {
+            "name": "Boundless Power",
+            "effect": "During your next turn, this Pokémon can't attack."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Carmadura",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Il a évolué grâce à l'armure d'une illustre âme guerrière. Ce Pokémon est extrêmement loyal.",
+        "attacks": [
+          {
+            "name": "Puissance Illimitée",
+            "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Armarouge",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Evolucionó al portar la armadura de un guerrero de renombre. Este Pokémon destaca por su gran lealtad.",
+        "attacks": [
+          {
+            "name": "Poder ilimitado",
+            "effect": "Durante tu próximo turno, este Pokémon no puede atacar."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Armarouge",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Si è evoluto in questa forma grazie all'armatura di un guerriero distinto sul campo di battaglia. È noto per la sua estrema fedeltà.",
+        "attacks": [
+          {
+            "name": "Potere Incontenibile",
+            "effect": "Durante il tuo prossimo turno, questo Pokémon non può attaccare."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Crimanzo",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Es entwickelte sich durch die Rüstung eines heldenhaften Kriegers zu dieser Form. Crimzanso besitzt einen ausgeprägten Sinn für Loyalität.",
+        "attacks": [
+          {
+            "name": "Unbegrenzte Kraft",
+            "effect": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Armarouge",
+        "illustrator": "Souichirou Gunjima",
+        "description": "Armarouge evoluiu ao usar um conjunto de armadura que pertencia a um guerreiro renomado. Este Pokémon é bastante leal.",
+        "attacks": [
+          {
+            "name": "Poder ilimitado",
+            "effect": "Durante o seu próximo turno, este Pokémon não poderá atacar."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "紅蓮鎧騎",
+        "illustrator": "Souichirou Gunjima",
+        "description": "兩百多年前功成名就的戰士所穿著的甲冑化成的樣子。是忠誠心很高的寶可夢。",
+        "attacks": [
+          {
+            "name": "潛力",
+            "effect": "在下個自己的回合，這隻寶可夢不可使用招式。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "description",
+        "reason": "The small flavor text is partially hard to read at this resolution; transcription may differ by a few characters."
+      },
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "The attack name characters are small/blurred; '潛力' is the best read from the image but may be off by one character."
+      }
+    ]
+  }
+}

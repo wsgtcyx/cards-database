@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "setId": "C1",
+  "counts": {
+    "cards": 217,
+    "locales": 7,
+    "findings": 0
+  },
+  "tokenChecks": {
+    "exact": 1113,
+    "reviewedExceptions": [],
+    "unresolved": 0
+  },
+  "findings": [],
+  "passed": true,
+  "reviewedCardsSha256": "48a710a0d9d4fab6eccd0e6faf1c53576e335f0173a9d114167484ca8144f728"
+}

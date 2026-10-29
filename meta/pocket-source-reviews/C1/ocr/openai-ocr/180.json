@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-180",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "698df9f0edc735e4ae149c4876fb8ba0fa58e001a4affc841eb565fa2724ec8c",
+      "bytes": 369798
+    },
+    "fr": {
+      "sha256": "2866f64ea940591433b689ef319120ef35cb35c9d71d6ef6fa229476d05302a6",
+      "bytes": 370358
+    },
+    "es": {
+      "sha256": "180ca5b5d681ede486747306f36f3131989020862f2140c8f8186cc2afa8e242",
+      "bytes": 369798
+    },
+    "it": {
+      "sha256": "dedeb7c580f97260faa17370f41c587ec47007581c5a4e6b7b111662174cc29a",
+      "bytes": 370005
+    },
+    "de": {
+      "sha256": "a048f189dddf9e69922640f092bba1febbb97f1312bcc536c443a387cbeba64c",
+      "bytes": 371539
+    },
+    "pt-br": {
+      "sha256": "859015ec738e1580bd6e07ee54b4642d27894f34da919428f9300fb099cdc3cf",
+      "bytes": 370509
+    },
+    "zh-tw": {
+      "sha256": "bd91442ae527178b2ec9ad1ec60138edd4a03f8ffb2f1fa346e465470f7452ed",
+      "bytes": 366373
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1336,
+    "output_tokens_details": {
+      "reasoning_tokens": 796
+    },
+    "total_tokens": 3296
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Illus. sowsow",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Draconic Meteor",
+            "effect": "1 of your opponent's Pokémon is chosen at random. Do 250 damage to it."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Méga-Dracolosse ex",
+        "illustrator": "Illus. sowsow",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Météore Draconien",
+            "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 250 dégâts."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Mega-Dragonite ex",
+        "illustrator": "Illus. sowsow",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracónico",
+            "effect": "Se elige a un Pokémon aleatorio de tu rival. Hazle 250 puntos de daño."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Illus. sowsow",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteora del Drago",
+            "effect": "Viene scelto un Pokémon avversario a caso. Quel Pokémon subisce 250 danni."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Mega-Dragoran ex",
+        "illustrator": "Illus. sowsow",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Drachenmeteor",
+            "effect": "1 Pokémon des Gegners wird zufällig ausgewählt. Füge diesem Pokémon 250 Schadenspunkte zu."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Mega Dragonite ex",
+        "illustrator": "Illus. sowsow",
+        "description": null,
+        "attacks": [
+          {
+            "name": "Meteoro Dracônico",
+            "effect": "Um dos Pokémon do seu oponente é escolhido aleatoriamente. Cause 250 pontos de dano a ele."
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "超級快龍 ex",
+        "illustrator": "Illus. sowsow",
+        "description": null,
+        "attacks": [
+          {
+            "name": "翔龍流星擊",
+            "effect": "對手場上的寶可夢隨機選擇1次，被選擇的寶可夢受到250點傷害。"
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": [
+      {
+        "locale": "zh-tw",
+        "field": "attacks[0].name",
+        "reason": "Attack name is small and partially hard to read; the transcription may be off by one character."
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "cardId": "C1-073",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "sources": {
+    "en": {
+      "sha256": "6ed7ff10e44cf5aaf53f7683efc8ec84039ace8539786e0b427965a0b553c349",
+      "bytes": 283700
+    },
+    "fr": {
+      "sha256": "7c4a3ff0a94fb27080a73af08e6f0c687869cd86470b766d9bb667bb9fb5b98c",
+      "bytes": 282945
+    },
+    "es": {
+      "sha256": "dc67340acfd661921e80ae062e9dd6fa95e2f06207dd0c19eb0655e2ea1ef04f",
+      "bytes": 284159
+    },
+    "it": {
+      "sha256": "b22ac5081b05215b87ebbe563d9765c846eb0c5f380b8617048481473f1b6f6a",
+      "bytes": 283385
+    },
+    "de": {
+      "sha256": "205066b843f5f2a40053c3af10c6a05cab7915e75853b34634b1ecd5e4e19a16",
+      "bytes": 283321
+    },
+    "pt-br": {
+      "sha256": "0e5eddb4db7f1c79dcef39da9f5480e38c4783bf1ede53f94ed3b611482c55bf",
+      "bytes": 284648
+    },
+    "zh-tw": {
+      "sha256": "adf9d75cad06f915c00a3841389be27c6092e50eb7d1a778b5bfd4118b2a909f",
+      "bytes": 281488
+    }
+  },
+  "usage": {
+    "input_tokens": 1960,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 1213,
+    "output_tokens_details": {
+      "reasoning_tokens": 653
+    },
+    "total_tokens": 3173
+  },
+  "transcription": {
+    "locales": {
+      "en": {
+        "name": "Paldean Wooper",
+        "illustrator": "kirisAki",
+        "description": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+        "attacks": [
+          {
+            "name": "Mud-Slap",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "fr": {
+        "name": "Axoloto de Paldea",
+        "illustrator": "kirisAki",
+        "description": "Depuis qu'une dispute territoriale l'a contraint à vivre sur la terre ferme, il protège son corps en le recouvrant d'un fluide toxique.",
+        "attacks": [
+          {
+            "name": "Coud'Boue",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "es": {
+        "name": "Wooper de Paldea",
+        "illustrator": "kirisAki",
+        "description": "Tras perder una disputa territorial, se vio forzado a vivir en tierra firme y desarrolló una membrana mucosa tóxica con la que proteger su cuerpo.",
+        "attacks": [
+          {
+            "name": "Bofetón Lodo",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "it": {
+        "name": "Wooper di Paldea",
+        "illustrator": "kirisAki",
+        "description": "Vive sulla terraferma da quando perse una lotta territoriale. Per proteggere il corpo ha sviluppato una membrana mucosa tossica.",
+        "attacks": [
+          {
+            "name": "Fangosberla",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "de": {
+        "name": "Paldea-Felino",
+        "illustrator": "kirisAki",
+        "description": "Ein verlorener Revierkampf zwang es, an Land zu leben. Um sich zu schützen, entwickelte es eine giftige Schleimschicht auf seinem Körper.",
+        "attacks": [
+          {
+            "name": "Lehmschelle",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "pt-br": {
+        "name": "Wooper de Paldea",
+        "illustrator": "kirisAki",
+        "description": "Após perder uma disputa por território, Wooper passou a viver em terra firme. Seu corpo mudou ao longo do tempo, desenvolvendo uma camada venenosa para protegê-lo.",
+        "attacks": [
+          {
+            "name": "Tapa de Lama",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      },
+      "zh-tw": {
+        "name": "帕底亞 烏波",
+        "illustrator": "kirisAki",
+        "description": "因輸掉地盤爭奪而被迫移居到陸地上生活，久而久之發展成了用有毒薄膜來保護身體。",
+        "attacks": [
+          {
+            "name": "攪泥",
+            "effect": null
+          }
+        ],
+        "abilities": [],
+        "effect": null
+      }
+    },
+    "uncertain": []
+  }
+}
