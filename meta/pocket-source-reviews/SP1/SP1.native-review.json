@@ -1,0 +1,461 @@
+[
+  {
+    "cardId": "SP1-019",
+    "locale": "en",
+    "description": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-019",
+    "locale": "pt-br",
+    "description": "Este Pokémon cauteloso usa a fotossíntese para armazenar energia durante o dia, tornando-se ativo à noite.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-019",
+    "locale": "zh-tw",
+    "description": "警戒心很強。白天利用光合作用積蓄力量，到了夜晚才開始活動。",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-023",
+    "locale": "it",
+    "description": "Quando corre, la sua temperatura corporea sale pervadendolo di un’energia infuocata che gli permette di scatenare la sua vera potenza.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-023",
+    "locale": "zh-tw",
+    "description": "不斷奔跑使體溫升高後，火之能量會在牠體內循環，促使牠發揮出真正的力量。",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-005",
+    "locale": "fr",
+    "description": "Il est timide et se roule en boule pour se protéger. Attaqué, il s’enflamme le dos pour riposter.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-005",
+    "locale": "es",
+    "description": "Es tímido y siempre se enrosca como una pelota. Si es atacado, enciende su lomo para protegerse.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-005",
+    "locale": "it",
+    "description": "Spesso se ne sta appallottolato giacché timido. Se è attaccato, si difende infuocando il dorso.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-005",
+    "locale": "de",
+    "description": "Es ist ruhig und kugelt sich stets zusammen. Zum Schutz entflammt es seinen Rücken.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-019",
+    "locale": "fr",
+    "description": "Ce Pokémon ne baisse jamais sa garde. Pendant la journée, il accumule de l’énergie par photosynthèse, pour mieux agir la nuit venue.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-019",
+    "locale": "it",
+    "description": "Questo Pokémon è sempre all’erta. Di giorno accumula energia tramite fotosintesi per poi passare all’azione di notte.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-019",
+    "locale": "de",
+    "description": "Ein wachsames und nachtaktives Pokémon. Tagsüber sammelt es per Photosynthese Kräfte, um fit für die Nacht zu sein.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-021",
+    "locale": "fr",
+    "description": "Connu pour son tempérament de battant, il rassemble l’eau de son corps au bout de son museau en un ballon qu’il projette sur l’ennemi.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-021",
+    "locale": "de",
+    "description": "Dieses Pokémon ist für seine Willensstärke bekannt. Bläst es Körperflüssigkeit durch die Nase, entsteht eine Blase, die als Waffe fungiert.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-021",
+    "locale": "zh-tw",
+    "description": "因勤奮的性格而聞名。 會用鼻子將體液吹成氣球， 然後扔向敵人。",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-023",
+    "locale": "es",
+    "description": "Se pone a correr para elevar su temperatura corporal y propagar la energía ígnea por todo el cuerpo. Desata así su verdadera fuerza.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-024",
+    "locale": "fr",
+    "description": "Quand il a peur, il pleure des larmes contenant une substance lacrymogène d’une puissance équivalente à celle de cent oignons.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-024",
+    "locale": "zh-tw",
+    "description": "害怕時流下的淚水中含有 相當於１００顆洋蔥的催淚成分， 能讓對手淚流不止。",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-028",
+    "locale": "en",
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-028",
+    "locale": "fr",
+    "description": "Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-028",
+    "locale": "es",
+    "description": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-028",
+    "locale": "it",
+    "description": "È così raro che molti esperti sostengono sia un’illusione. Solo qualcuno al mondo l’ha visto.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-028",
+    "locale": "de",
+    "description": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-028",
+    "locale": "pt-br",
+    "description": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-029",
+    "locale": "en",
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-029",
+    "locale": "fr",
+    "description": "Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-029",
+    "locale": "es",
+    "description": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-029",
+    "locale": "it",
+    "description": "È così raro che molti esperti sostengono sia un’illusione. Solo qualcuno al mondo l’ha visto.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-029",
+    "locale": "de",
+    "description": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-029",
+    "locale": "pt-br",
+    "description": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-030",
+    "locale": "en",
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-030",
+    "locale": "fr",
+    "description": "Unique et rare, son existence est remise en cause par les experts. Peu nombreux sont ceux qui l'ont vu.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-030",
+    "locale": "es",
+    "description": "Es tan raro que muchos expertos opinan que es solo una ilusión. Solo unos pocos lo han visto.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-030",
+    "locale": "it",
+    "description": "È così raro che molti esperti sostengono sia un’illusione. Solo qualcuno al mondo l’ha visto.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-030",
+    "locale": "de",
+    "description": "Viele Experten bezweifeln die Existenz dieses Pokémon. Nur wenige Personen haben es gesehen.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-030",
+    "locale": "pt-br",
+    "description": "Tão raro que muitos especialistas dizem que é uma miragem. Somente algumas pessoas o viram no mundo todo.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-013",
+    "locale": "en",
+    "description": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-021",
+    "locale": "en",
+    "description": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-019",
+    "locale": "es",
+    "description": "Es cauteloso, desconfiado y de naturaleza nocturna. Durante el día acumula energía mediante la fotosíntesis.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-020",
+    "locale": "zh-tw",
+    "description": "將理毛時屯積在肚子裡的落毛引燃並吐出火焰。火焰會隨著吐毛的方式不同而變化。",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-022",
+    "locale": "zh-tw",
+    "description": "當牠用特別的木棒敲奏時，能夠給予花草活力的力量就會變成音波擴散開來。",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-026",
+    "locale": "en",
+    "description": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-026",
+    "locale": "fr",
+    "description": "Sa poche à flammes est trop petite pour contenir toute l'énergie qu'il produit. Le surplus s'échappe en vacillant par la cavité sur sa tête.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-026",
+    "locale": "es",
+    "description": "Como su saca de fuego es pequeña, la energía ígnea que rebosa se libera por la muesca de su cabeza en forma de una trémula llama.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-026",
+    "locale": "it",
+    "description": "La sua sacca ignea è piccola e l'energia trabocca, fuoriuscendo sotto forma di fiammelle tremule da una fessura sulla testa.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-026",
+    "locale": "de",
+    "description": "Sein Flammensack ist noch klein, weshalb überquellende Energie über die Vertiefung an seinem Kopf flackernd freigesetzt wird.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-026",
+    "locale": "pt-br",
+    "description": "Sua bolsa de chamas é pequenina e tem sempre energia vazando. Esta energia é liberada pela cavidade no topo da cabeça de Fuecoco e balança pra lá e pra cá.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-026",
+    "locale": "zh-tw",
+    "description": "火囊很小，因此能量會溢出來，在牠頭上的凹槽那裡搖曳晃動。",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-028",
+    "locale": "zh-tw",
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-029",
+    "locale": "zh-tw",
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  },
+  {
+    "cardId": "SP1-030",
+    "locale": "zh-tw",
+    "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "evidence": [
+      "native footer crop",
+      "fixed PokeAPI corpus where available"
+    ]
+  }
+]

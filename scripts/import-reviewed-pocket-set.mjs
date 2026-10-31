@@ -36,6 +36,7 @@ export function renderReviewedSet(config, cards, audit) {
 		}
 		assert(Array.isArray(card.boosters) && card.boosters.every(id => config.boosters.some(b => b.slug === id)), `${id}: invalid pack membership`)
 		const renderedCard = structuredClone(card)
+		if (config.boosters.length === 1 && renderedCard.boosters.length === 1) delete renderedCard.boosters
 		const fallbackText = text => ({ ...text, ...Object.fromEntries(config.nameLocales.filter(locale => !config.ruleLocales.includes(locale)).map(locale => [locale, text.en])) })
 		for (const field of ['effect', 'description', 'evolveFrom']) if (renderedCard[field]) renderedCard[field] = fallbackText(renderedCard[field])
 		for (const group of ['attacks', 'abilities']) for (const item of renderedCard[group] ?? []) for (const field of ['name', 'effect']) if (item[field]) item[field] = fallbackText(item[field])

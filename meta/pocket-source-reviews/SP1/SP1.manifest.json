@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "status": "ready",
+  "set": {
+    "id": "SP1",
+    "sourceId": "SP1",
+    "file": "Special Pack: First Partners",
+    "total": 30,
+    "official": 27,
+    "releaseDate": "2026-10-31",
+    "names": {
+      "en": "Special Pack: First Partners",
+      "fr": "Booster spécial : Premiers Partenaires",
+      "es": "Sobre extraordinario Primeros Compañeros",
+      "it": "Busta speciale: Primi Amici",
+      "de": "Spezialpack: Erste Partner",
+      "pt-br": "Pacote Especial: Parceiros Iniciais",
+      "zh-tw": "特別包 最初的夥伴",
+      "ja": "スペシャルパック はじまりのパートナー",
+      "ko": "스페셜 팩 첫 파트너"
+    },
+    "boosters": [
+      {
+        "id": "first-partners",
+        "sku": "SP1_1",
+        "names": {
+          "en": "Special Pack: First Partners",
+          "fr": "Booster spécial : Premiers Partenaires",
+          "es": "Sobre extraordinario Primeros Compañeros",
+          "it": "Busta speciale: Primi Amici",
+          "de": "Spezialpack: Erste Partner",
+          "pt-br": "Pacote Especial: Parceiros Iniciais",
+          "zh-tw": "特別包 最初的夥伴",
+          "ja": "スペシャルパック はじまりのパートナー",
+          "ko": "스페셜 팩 첫 파트너"
+        }
+      }
+    ]
+  },
+  "images": {
+    "cardLanguages": {
+      "en": "en",
+      "fr": "fr",
+      "es": "es",
+      "it": "it",
+      "de": "de",
+      "pt-br": "pt-br",
+      "zh-tw": "zh-tw"
+    },
+    "packLanguages": {
+      "en": "en"
+    },
+    "expectedObjects": {
+      "cards": 420,
+      "boosters": 2,
+      "total": 422
+    }
+  },
+  "r2": {
+    "bucket": "game",
+    "origin": "https://game.pokemontcgpocket.app"
+  },
+  "metadata": {
+    "adapter": "scripts/import-reviewed-pocket-set.mjs",
+    "canonicalFile": "SP1.canonical.json",
+    "localizationsFile": "SP1.localizations.json",
+    "provenanceFile": "SP1.provenance.json",
+    "sourcePolicy": "HTTP snapshots by retrievedAt/bytes/SHA-256; game dictionaries plus reviewed native faces, independent mechanics validation."
+  },
+  "locales": {
+    "names": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw",
+      "ja",
+      "ko"
+    ],
+    "fullRules": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "ruleFallbacks": {
+      "ja": "en",
+      "ko": "en"
+    },
+    "imageFallbacks": {
+      "ja": "en",
+      "ko": "en"
+    },
+    "flavorFallbacks": [
+      {
+        "cardId": "SP1-028",
+        "locale": "zh-tw",
+        "sourceLocale": "en",
+        "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+      },
+      {
+        "cardId": "SP1-029",
+        "locale": "zh-tw",
+        "sourceLocale": "en",
+        "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+      },
+      {
+        "cardId": "SP1-030",
+        "locale": "zh-tw",
+        "sourceLocale": "en",
+        "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+      }
+    ]
+  }
+}

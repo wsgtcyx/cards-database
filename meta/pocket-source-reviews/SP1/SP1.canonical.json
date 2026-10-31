@@ -1,0 +1,1034 @@
+{
+  "setId": "SP1",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 2,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Colorless",
+            "Grass"
+          ],
+          "damage": 30,
+          "effect": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "abilities": [],
+      "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "id": "SP1-001"
+    },
+    {
+      "name": "Charmander",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ember",
+          "cost": [
+            "Colorless",
+            "Fire"
+          ],
+          "damage": 50,
+          "effect": "Discard a {R} Energy from this Pokémon."
+        }
+      ],
+      "abilities": [],
+      "description": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+      "id": "SP1-002"
+    },
+    {
+      "name": "Squirtle",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "damage": 10,
+          "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "abilities": [],
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "id": "SP1-003"
+    },
+    {
+      "name": "Chikorita",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Colorless",
+            "Grass"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.",
+      "id": "SP1-004"
+    },
+    {
+      "name": "Cyndaquil",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Fire"
+          ],
+          "damage": 20
+        }
+      ],
+      "abilities": [],
+      "description": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.",
+      "id": "SP1-005"
+    },
+    {
+      "name": "Totodile",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 2,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless",
+            "Water",
+            "Water"
+          ],
+          "damage": 60
+        }
+      ],
+      "abilities": [],
+      "description": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+      "id": "SP1-006"
+    },
+    {
+      "name": "Treecko",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Colorless",
+            "Grass"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
+      "id": "SP1-007"
+    },
+    {
+      "name": "Torchic",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless",
+            "Fire"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",
+      "id": "SP1-008"
+    },
+    {
+      "name": "Mudkip",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mud-Slap",
+          "cost": [
+            "Colorless",
+            "Water"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+      "id": "SP1-009"
+    },
+    {
+      "name": "Turtwig",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 2,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Colorless",
+            "Grass",
+            "Grass"
+          ],
+          "damage": 60
+        }
+      ],
+      "abilities": [],
+      "description": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "id": "SP1-010"
+    },
+    {
+      "name": "Chimchar",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Fire"
+          ],
+          "damage": "10x",
+          "effect": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "abilities": [],
+      "description": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "id": "SP1-011"
+    },
+    {
+      "name": "Piplup",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Water"
+          ],
+          "damage": 20
+        }
+      ],
+      "abilities": [],
+      "description": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "id": "SP1-012"
+    },
+    {
+      "name": "Snivy",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass"
+          ],
+          "damage": 20
+        }
+      ],
+      "abilities": [],
+      "description": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+      "id": "SP1-013"
+    },
+    {
+      "name": "Tepig",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 2,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ember",
+          "cost": [
+            "Fire"
+          ],
+          "damage": 30,
+          "effect": "Discard a {R} Energy from this Pokémon."
+        }
+      ],
+      "abilities": [],
+      "description": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+      "id": "SP1-014"
+    },
+    {
+      "name": "Oshawott",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Razor Shell",
+          "cost": [
+            "Colorless",
+            "Water"
+          ],
+          "damage": "20+",
+          "effect": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "abilities": [],
+      "description": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+      "id": "SP1-015"
+    },
+    {
+      "name": "Chespin",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pin Missile",
+          "cost": [
+            "Colorless",
+            "Grass"
+          ],
+          "damage": "20x",
+          "effect": "Flip 4 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "abilities": [],
+      "description": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+      "id": "SP1-016"
+    },
+    {
+      "name": "Fennekin",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Fire"
+          ],
+          "damage": 20
+        }
+      ],
+      "abilities": [],
+      "description": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+      "id": "SP1-017"
+    },
+    {
+      "name": "Froakie",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Water"
+          ],
+          "damage": 20
+        }
+      ],
+      "abilities": [],
+      "description": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+      "id": "SP1-018"
+    },
+    {
+      "name": "Rowlet",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Grass"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+      "id": "SP1-019"
+    },
+    {
+      "name": "Litten",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Fang",
+          "cost": [
+            "Colorless",
+            "Fire",
+            "Fire"
+          ],
+          "damage": 40,
+          "effect": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "abilities": [],
+      "description": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+      "id": "SP1-020"
+    },
+    {
+      "name": "Popplio",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Disarming Voice",
+          "cost": [
+            "Colorless",
+            "Water"
+          ],
+          "damage": 30,
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "abilities": [],
+      "description": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker.",
+      "id": "SP1-021"
+    },
+    {
+      "name": "Grookey",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Branch Poke",
+          "cost": [
+            "Colorless",
+            "Grass"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+      "id": "SP1-022"
+    },
+    {
+      "name": "Scorbunny",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "cost": [
+            "Colorless",
+            "Fire"
+          ],
+          "damage": "40x",
+          "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+        }
+      ],
+      "abilities": [],
+      "description": "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",
+      "id": "SP1-023"
+    },
+    {
+      "name": "Sobble",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Colorless",
+            "Water"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",
+      "id": "SP1-024"
+    },
+    {
+      "name": "Sprigatito",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Leafage",
+          "cost": [
+            "Colorless",
+            "Grass"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+      "id": "SP1-025"
+    },
+    {
+      "name": "Fuecoco",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Fire"
+      ],
+      "stage": "Basic",
+      "retreat": 2,
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Colorless",
+            "Fire"
+          ],
+          "damage": 50,
+          "effect": "Discard a {R} Energy from this Pokémon."
+        }
+      ],
+      "abilities": [],
+      "description": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.",
+      "id": "SP1-026"
+    },
+    {
+      "name": "Quaxly",
+      "illustrator": "Saboteri",
+      "rarity": "One Star",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 60,
+      "types": [
+        "Water"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Water"
+          ],
+          "damage": 40
+        }
+      ],
+      "abilities": [],
+      "description": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+      "id": "SP1-027"
+    },
+    {
+      "name": "Mew",
+      "illustrator": "YOSHIROTTEN",
+      "rarity": "Anomaly",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Psychic"
+          ],
+          "damage": "30+",
+          "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "abilities": [],
+      "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "id": "SP1-028"
+    },
+    {
+      "name": "Mew",
+      "illustrator": "YOSHIROTTEN",
+      "rarity": "Anomaly",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Psychic"
+          ],
+          "damage": "30+",
+          "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "abilities": [],
+      "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "id": "SP1-029"
+    },
+    {
+      "name": "Mew",
+      "illustrator": "YOSHIROTTEN",
+      "rarity": "Anomaly",
+      "category": "Pokemon",
+      "boosters": [
+        "first-partners"
+      ],
+      "hp": 70,
+      "types": [
+        "Psychic"
+      ],
+      "stage": "Basic",
+      "retreat": 1,
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Psychic"
+          ],
+          "damage": "30+",
+          "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "abilities": [],
+      "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "id": "SP1-030"
+    }
+  ]
+}

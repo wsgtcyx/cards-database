@@ -1,0 +1,1694 @@
+{
+  "setId": "SP1",
+  "passed": true,
+  "results": [
+    {
+      "key": "en/tcgp/SP1/001/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/001/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/002/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/002/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/003/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/003/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/004/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/004/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/005/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/005/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/006/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/006/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/007/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/007/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/008/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/008/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/009/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/009/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/010/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/010/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/011/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/011/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/012/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/012/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/013/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/013/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/014/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/014/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/015/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/015/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/016/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/016/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/017/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/017/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/018/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/018/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/019/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/019/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/020/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/020/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/021/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/021/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/022/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/022/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/023/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/023/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/024/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/024/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/025/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/025/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/026/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/026/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/027/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/027/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/028/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/028/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/029/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/029/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/030/high.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/030/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/001/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/001/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/002/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/002/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/003/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/003/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/004/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/004/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/005/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/005/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/006/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/006/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/007/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/007/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/008/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/008/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/009/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/009/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/010/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/010/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/011/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/011/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/012/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/012/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/013/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/013/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/014/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/014/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/015/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/015/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/016/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/016/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/017/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/017/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/018/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/018/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/019/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/019/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/020/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/020/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/021/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/021/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/022/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/022/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/023/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/023/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/024/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/024/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/025/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/025/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/026/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/026/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/027/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/027/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/028/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/028/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/029/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/029/low.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/030/high.webp",
+      "status": 404
+    },
+    {
+      "key": "fr/tcgp/SP1/030/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/001/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/001/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/002/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/002/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/003/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/003/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/004/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/004/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/005/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/005/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/006/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/006/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/007/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/007/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/008/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/008/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/009/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/009/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/010/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/010/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/011/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/011/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/012/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/012/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/013/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/013/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/014/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/014/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/015/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/015/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/016/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/016/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/017/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/017/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/018/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/018/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/019/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/019/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/020/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/020/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/021/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/021/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/022/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/022/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/023/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/023/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/024/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/024/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/025/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/025/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/026/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/026/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/027/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/027/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/028/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/028/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/029/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/029/low.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/030/high.webp",
+      "status": 404
+    },
+    {
+      "key": "es/tcgp/SP1/030/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/001/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/001/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/002/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/002/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/003/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/003/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/004/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/004/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/005/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/005/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/006/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/006/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/007/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/007/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/008/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/008/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/009/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/009/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/010/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/010/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/011/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/011/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/012/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/012/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/013/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/013/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/014/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/014/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/015/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/015/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/016/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/016/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/017/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/017/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/018/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/018/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/019/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/019/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/020/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/020/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/021/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/021/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/022/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/022/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/023/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/023/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/024/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/024/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/025/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/025/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/026/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/026/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/027/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/027/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/028/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/028/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/029/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/029/low.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/030/high.webp",
+      "status": 404
+    },
+    {
+      "key": "it/tcgp/SP1/030/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/001/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/001/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/002/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/002/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/003/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/003/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/004/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/004/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/005/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/005/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/006/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/006/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/007/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/007/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/008/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/008/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/009/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/009/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/010/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/010/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/011/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/011/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/012/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/012/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/013/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/013/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/014/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/014/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/015/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/015/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/016/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/016/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/017/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/017/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/018/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/018/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/019/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/019/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/020/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/020/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/021/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/021/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/022/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/022/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/023/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/023/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/024/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/024/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/025/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/025/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/026/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/026/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/027/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/027/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/028/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/028/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/029/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/029/low.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/030/high.webp",
+      "status": 404
+    },
+    {
+      "key": "de/tcgp/SP1/030/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/001/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/001/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/002/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/002/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/003/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/003/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/004/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/004/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/005/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/005/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/006/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/006/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/007/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/007/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/008/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/008/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/009/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/009/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/010/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/010/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/011/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/011/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/012/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/012/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/013/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/013/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/014/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/014/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/015/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/015/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/016/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/016/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/017/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/017/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/018/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/018/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/019/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/019/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/020/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/020/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/021/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/021/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/022/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/022/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/023/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/023/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/024/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/024/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/025/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/025/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/026/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/026/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/027/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/027/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/028/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/028/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/029/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/029/low.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/030/high.webp",
+      "status": 404
+    },
+    {
+      "key": "pt-br/tcgp/SP1/030/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/001/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/001/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/002/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/002/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/003/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/003/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/004/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/004/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/005/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/005/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/006/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/006/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/007/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/007/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/008/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/008/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/009/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/009/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/010/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/010/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/011/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/011/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/012/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/012/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/013/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/013/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/014/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/014/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/015/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/015/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/016/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/016/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/017/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/017/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/018/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/018/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/019/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/019/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/020/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/020/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/021/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/021/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/022/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/022/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/023/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/023/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/024/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/024/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/025/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/025/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/026/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/026/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/027/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/027/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/028/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/028/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/029/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/029/low.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/030/high.webp",
+      "status": 404
+    },
+    {
+      "key": "zh-tw/tcgp/SP1/030/low.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/boosters/first-partners/logo.webp",
+      "status": 404
+    },
+    {
+      "key": "en/tcgp/SP1/boosters/first-partners/artwork_front.webp",
+      "status": 404
+    }
+  ]
+}

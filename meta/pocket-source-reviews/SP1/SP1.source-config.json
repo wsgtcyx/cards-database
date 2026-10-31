@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "setId": "SP1",
+  "total": 30,
+  "officialCount": 27,
+  "releaseDate": "2026-10-31",
+  "setFile": "Special Pack: First Partners",
+  "slug": "special-pack-first-partners",
+  "sourceId": 603,
+  "setNames": {
+    "en": "Special Pack: First Partners",
+    "fr": "Booster spécial : Premiers Partenaires",
+    "es": "Sobre extraordinario Primeros Compañeros",
+    "it": "Busta speciale: Primi Amici",
+    "de": "Spezialpack: Erste Partner",
+    "pt-br": "Pacote Especial: Parceiros Iniciais",
+    "zh-tw": "特別包 最初的夥伴",
+    "ja": "スペシャルパック はじまりのパートナー",
+    "ko": "스페셜 팩 첫 파트너"
+  },
+  "nameLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw",
+    "ja",
+    "ko"
+  ],
+  "ruleLocales": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "de",
+    "pt-br",
+    "zh-tw"
+  ],
+  "boosters": [
+    {
+      "slug": "first-partners",
+      "sku": "SP1_1",
+      "gameId": "SP001_0010_00_000",
+      "names": {
+        "en": "Special Pack: First Partners",
+        "fr": "Booster spécial : Premiers Partenaires",
+        "es": "Sobre extraordinario Primeros Compañeros",
+        "it": "Busta speciale: Primi Amici",
+        "de": "Spezialpack: Erste Partner",
+        "pt-br": "Pacote Especial: Parceiros Iniciais",
+        "zh-tw": "特別包 最初的夥伴",
+        "ja": "スペシャルパック はじまりのパートナー",
+        "ko": "스페셜 팩 첫 파트너"
+      }
+    }
+  ],
+  "r2Origin": "https://game.pokemontcgpocket.app",
+  "imagesPolicy": {
+    "cardLocales": [
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "pt-br",
+      "zh-tw"
+    ],
+    "boosterImageLocales": [
+      "en"
+    ],
+    "boosterFallback": "English official pack assets; no other localized pack assets claimed."
+  },
+  "flavorFallbacks": [
+    {
+      "cardId": "SP1-028",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    },
+    {
+      "cardId": "SP1-029",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    },
+    {
+      "cardId": "SP1-030",
+      "locale": "zh-tw",
+      "sourceLocale": "en",
+      "reason": "User explicitly approved verified English flavor text because the native small-print Chinese cannot be transcribed reliably. Names and gameplay rules remain localized."
+    }
+  ]
+}

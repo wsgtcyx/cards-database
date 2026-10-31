@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "setId": "SP1",
+  "counts": {
+    "cards": 30,
+    "locales": 7,
+    "findings": 0
+  },
+  "tokenChecks": {
+    "exact": 98,
+    "reviewedExceptions": [],
+    "unresolved": 0
+  },
+  "findings": [],
+  "passed": true,
+  "reviewedCardsSha256": "7f4db4f943a90790e4b04d117f06e4090a7fea772dc653db6d556af2c203c9e8"
+}

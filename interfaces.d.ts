@@ -119,7 +119,7 @@ export interface Card {
 			| 'Black White Rare'
 			| 'Mega Hyper Rare'
 			// Pokémon TCG Pocket Rarities
-			| 'One Diamond' | 'Two Diamond' | 'Three Diamond' | 'Four Diamond' | 'One Star' | 'Two Star' | 'Three Star' | 'Crown' | 'One Shiny' | 'Two Shiny'
+			| 'One Diamond' | 'Two Diamond' | 'Three Diamond' | 'Four Diamond' | 'One Star' | 'Two Star' | 'Three Star' | 'Crown' | 'Anomaly' | 'One Shiny' | 'Two Shiny'
 
 	/**
 	 * Card Category
