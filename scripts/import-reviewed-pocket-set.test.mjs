@@ -176,3 +176,12 @@ test('Korean imports require full native rules and native asset paths', () => {
  assert.match(files['Fixture/001.ts'], /ko: "https:\/\/game.pokemontcgpocket.app\/ko\/tcgp\/T1\/001"/)
  assert.match(files['Fixture.ts'], /ko: "https:\/\/game.pokemontcgpocket.app\/ko\/tcgp\/T1\/boosters\/one\/artwork_front.webp"/)
 })
+
+test('official Latin Promo set labels are accepted only for the matching set identity', () => {
+ const config = { setId: 'P-A', total: 1, setFile: 'Promo Fixture', officialCount: 0, releaseDate: '2026-10-31', r2Origin: 'https://example.test', nameLocales: ['en','ko'], ruleLocales: ['en','ko'], setNames: { en:'PROMO-A',ko:'PROMO-A' }, boosters: [{slug:'vol1',names:{en:'Promo Pack',ko:'프로모 카드 팩'}}] }
+ const cards = {'P-A-001':{name:{en:'Potion',ko:'상처약'},illustrator:'Artist',rarity:'None',category:'Trainer',trainerType:'Item',effect:{en:'Draw 2 cards.',ko:'자신의 덱을 2장 뽑는다.'},boosters:['vol1']}}
+ const audit = bindAudit(cards,'P-A')
+ assert.match(renderReviewedSet(config,cards,audit)['Promo Fixture.ts'],/ko: "PROMO-A"/)
+ assert.throws(()=>renderReviewedSet({...config,setNames:{en:'PROMO-A',ko:'PROMO-B'}},cards,audit),/native Korean/)
+ assert.throws(()=>renderReviewedSet({...config,setNames:{en:'PROMO-A',ko:'English fallback'}},cards,audit),/native Korean/)
+})
