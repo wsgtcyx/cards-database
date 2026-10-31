@@ -48,7 +48,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, rimuovi un'Energia a caso dal Pokémon attivo del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 Energia aleatória do Pokémon Ativo do seu oponente.",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。",
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。"
             },

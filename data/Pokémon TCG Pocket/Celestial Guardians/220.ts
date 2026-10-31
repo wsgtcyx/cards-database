@@ -59,7 +59,7 @@ const card: Card = {
                 es: "Lanza 1 moneda. Si sale cara, tu rival enseña 1 carta aleatoria de su mano, la pone de nuevo en su baraja y las baraja todas.",
                 it: "Lancia una moneta. Se esce testa, il tuo avversario mostra una carta a caso dalla sua mano e la rimischia nel suo mazzo.",
                 de: "Wirf 1 Münze. Bei Kopf zeigt dein Gegner dir 1 zufällige Karte aus seiner Hand und mischt sie in sein Deck.",
-                ja: "コインを1回投げオモテなら、相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。",
+                ja: "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 패를 랜덤으로 1장 앞면을 보고 상대의 덱으로 되돌린다.",
                 'pt-br': "Jogue uma moeda. Se sair cara, seu oponente revelará 1 carta aleatória da mão dele e a embaralhará no baralho dele.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則對手從手中隨機展示一張牌並將其洗入牌庫。"

@@ -59,7 +59,7 @@ const card: Card = {
                 "de": "Lege 1 zufällige Energie von beiden Aktiven Pokémon ab.",
                 "pt-br": "Descarte 1 Energia aleatória de ambos os Pokémon Ativos.",
                 "zh-tw": "丟棄兩隻活躍神奇寶貝的隨機能量。",
-                ja: "おたがいのバトルポケモンからエネルギーをランダムに個ずつトラッシュ。"
+                ja: "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。"
             }
         }],
     weaknesses: [{

@@ -71,7 +71,7 @@ const card: Card = {
                 de: "Lege 1 {G}-Energie von diesem Pokémon ab. Das Aktive Pokémon deines Gegners ist jetzt vergiftet.",
                 "pt-br": "Descarte Energia {G} deste Pokémon. O Pokémon Ativo do seu oponente agora está Envenenado.",
                 "zh-tw": "將這隻寶可夢身上的個{G}能量丟棄。將對手的戰鬥寶可夢中毒。",
-                ja: "このポケモンから{G}エネルギーを個トラッシュ。相手のバトルポケモンをどくにする。",
+                ja: "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
                 ko: "Discard {G} Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
             },
             damage: 130

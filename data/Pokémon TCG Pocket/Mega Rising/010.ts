@@ -69,7 +69,7 @@ const card: Card = {
                 "de": "Wirf eine zufällige Karte aus der Hand deines Gegners ab.",
                 "pt-br": "Descarte uma carta aleatória da mão do seu oponente.",
                 "zh-tw": "隨機丟棄對手手上的一張牌。",
-                ja: "相手の手札からランダムに枚トラッシュ。"
+                ja: "相手の手札からランダムに1枚トラッシュ。"
             }
         }],
     weaknesses: [{

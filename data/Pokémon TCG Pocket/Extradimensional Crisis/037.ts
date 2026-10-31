@@ -58,7 +58,7 @@ const card: Card = {
                 "de": "Wirf eine zufällige Pokémon-Ausrüstungskarte aus der Hand deines Gegners ab.",
                 "pt-br": "Descarte uma carta aleatória de Ferramenta Pokémon da mão do seu oponente.",
                 "zh-tw": "從對手的手牌中隨機捨棄一張神奇寶貝工具卡。",
-                ja: "相手の手札から「ポケモンのどうぐ」をランダムに枚トラッシュ。"
+                ja: "相手の手札から「ポケモンのどうぐ」をランダムに1枚トラッシュ。"
             }
         }],
     weaknesses: [{

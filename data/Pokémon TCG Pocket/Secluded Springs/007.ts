@@ -59,7 +59,7 @@ const card: Card = {
                 "de": "Wirf die oberste Karte des Decks deines Gegners ab.",
                 "pt-br": "Descarte a carta do topo do baralho do seu oponente.",
                 "zh-tw": "丟棄對手牌組頂牌。",
-                ja: "相手の山札を上から枚トラッシュ。"
+                ja: "相手の山札を上から1枚トラッシュ。"
             }
         }],
     weaknesses: [{

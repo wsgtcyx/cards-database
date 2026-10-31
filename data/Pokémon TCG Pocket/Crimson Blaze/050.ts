@@ -69,7 +69,7 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則丟棄對手的活躍神奇寶貝中的隨機能量。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             }
         }],
     weaknesses: [{

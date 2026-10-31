@@ -60,7 +60,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi scegliere uno dei giocatori. Guarda la prima carta del mazzo di quel giocatore.",
                 de: "Einmal während deines Zuges kannst du einen Spieler auswählen. Schau dir die oberste Karte des Decks dieses Spielers an.",
                 'pt-br': "Uma vez durante o seu turno, você poderá escolher um dos jogadores. Olhe 1 carta de cima do baralho daquele jogador.",
-                ja: "自分の番に1回使える。自分または相手のどちらかを選び、選ばれたプレイヤーの山札の上から枚見て、もとにもどす。",
+                ja: "自分の番に1回使える。自分または相手のどちらかを選び、選ばれたプレイヤーの山札の上から1枚見て、もとにもどす。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신 또는 상대 중 하나를 선택해서 선택된 플레이어의 덱을 위에서부터 1장 보고 원래대로 되돌린다.",
                 "zh-tw": "在你的回合中，你可以選擇任一玩家。查看該玩家牌組頂牌。"
             }

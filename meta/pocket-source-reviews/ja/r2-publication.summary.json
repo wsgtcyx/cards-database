@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "manifestSha256": "7c9ce266a485daf8d5cd9d82a01726b2e048ce5a1f184013a6d781ddd3efb813",
+  "completedAt": "2026-10-31T06:50:42.221Z",
+  "objects": 9130,
+  "uploaded": 9130,
+  "reused": 0,
+  "originHashesChecked": 9130,
+  "publicHashesChecked": 9130,
+  "bytes": 364900922,
+  "failures": 0,
+  "bucket": "game",
+  "publicOrigin": "https://game.pokemontcgpocket.app",
+  "policy": "create-only conditional PUT; no overwrites; complete origin/public byte SHA-256 and header verification",
+  "cardObjects": 9122,
+  "boosterObjects": 8,
+  "evidence": {
+    "r2-publication.preflight.json.gz": "89d6bbf619e44c22710af92d94b8b094a6c75d24236918b2acda236abfbd09a6",
+    "r2-publication.receipts.jsonl.gz": "a3b64765174272f79ba6c107646df0606b6d700aaaa356cc604f4c24af975836",
+    "r2-publication.verify.json.gz": "ad86f360fd721c8e1c54992fb68d70694671b1cf0a02dd829c7906c04a11146e",
+    "sources/published-assets-manifest.json.gz": "dc8304b784145a1f8a927e57ac0d56593c6ef2cf71f93f2a9648e095a8e6dae3"
+  }
+}

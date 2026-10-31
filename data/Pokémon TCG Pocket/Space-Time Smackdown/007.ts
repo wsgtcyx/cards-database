@@ -60,7 +60,7 @@ const card: Card = {
                 es: "Descarta 1 Energía aleatoria de este Pokémon.",
                 it: "Rimuovi un'Energia a caso da questo Pokémon.",
                 de: "Lege 1 zufällige Energie von diesem Pokémon ab.",
-                ja: "このポケモンからエネルギーをランダムに個トラッシュ。",
+                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。",
                 ko: "이 포켓몬에서 에너지를 랜덤으로 1개 트래쉬한다.",
                 'pt-br': "Descarte 1 Energia aleatória deste Pokémon.",
                 "zh-tw": "丟棄該神奇寶貝的隨機能量。"

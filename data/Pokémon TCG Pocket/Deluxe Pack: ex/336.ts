@@ -34,7 +34,7 @@ const card: Card = {
 		de: "Ihr Gegner deckt seine Hand auf. Wähle eine Unterstützerkarte, die du dort findest, und mische sie in das Deck deines Gegners.",
 		"pt-br": "Seu oponente revela sua mão. Escolha uma carta de Apoiador que encontrar lá e embaralhe-a no baralho do seu oponente.",
 		"zh-tw": "你的對手亮出了他們的牌。選擇在那裡找到的一張支持者卡並將其洗入對手的牌庫中。",
-		ja: "相手の手札のオモテをすべて見て、その中からサポートを枚選び、山札にもどす。"
+		ja: "相手の手札のオモテをすべて見て、その中からサポートを1枚選び、山札にもどす。"
 	},
 	trainerType: "Supporter"
 };

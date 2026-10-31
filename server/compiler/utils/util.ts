@@ -207,6 +207,21 @@ export function getLastEdit(path: string): string {
 export function resolveText<T>(text: Languages<T> | undefined, lang: SupportedLanguages): T | undefined {
 	if (!text) return text as undefined
 	const res: T | undefined = text[lang]
+	if (lang === 'ja' && (res === undefined || (typeof res === 'string' && !res.trim()))) {
+		throw new Error('Missing Japanese localized value')
+	}
+	if (lang === 'ja' && typeof res === 'string' && /\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(res)) {
+		throw new Error('Unresolved Japanese localization template')
+	}
+	if (lang === 'ja' && typeof res === 'string' && /(?:を|から|ランダムに)(?:枚|個)(?:[、。ず]|引|トラッシュ|見|選)/u.test(res)) {
+		throw new Error('Missing Japanese numeric count')
+	}
+	if (lang === 'ja' && typeof res === 'string' && !/^https?:\/\//u.test(res)
+		&& !/[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u.test(res)
+		&& !/^PROMO-[A-Z]$/u.test(res)
+		&& !['CHECK', 'GUARD', 'POWER'].includes(res)) {
+		throw new Error('Japanese localized text is not native Japanese')
+	}
 	if (typeof res === 'undefined' && !lang.includes('-')) {
 		const key = Object.keys(text).find(key => key.startsWith(lang))
 		return text[key as keyof Languages<T>]

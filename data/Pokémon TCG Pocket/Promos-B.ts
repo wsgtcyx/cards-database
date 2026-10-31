@@ -405,7 +405,7 @@ const set: Set = {
                 "pt-br": "Pacote Promocional da Série B (Vol. 13)",
                 "zh-tw": "特典卡牌包 B系列第13波",
                 ko: "프로모 카드 팩 B시리즈 제13탄",
-                ja: "プロモカードパック [Mst:SeriesName v=\"SERIES_NAME_2\"]シリーズ [Mst:CommonPackLabel v=\"COMMON_PACK_LABEL_013\"]"
+                ja: "プロモカードパック Bシリーズ 第13弾"
             },
             logo: {
                 "en": "https://game.pokemontcgpocket.app/en/tcgp/P-B/boosters/vol13/logo.webp",

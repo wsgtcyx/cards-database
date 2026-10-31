@@ -61,7 +61,7 @@ const card: Card = {
                 de: "Ziehe eine Karte.",
                 "pt-br": "Compre uma carta.",
                 "zh-tw": "畫一張卡片。",
-                ja: "自分の山札を枚引く。"
+                ja: "自分の山札を1枚引く。"
             },
             damage: 10
         }

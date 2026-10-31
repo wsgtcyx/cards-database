@@ -60,7 +60,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia a caso fra quelle assegnate a tutti i Pokémon, sia tuoi che del tuo avversario.",
                 de: "Lege 1 zufällige Energie von allen Energien, die an alle Pokémon (deine und die deines Gegners) angelegt sind, ab.",
                 'pt-br': "Descarte 1 Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
-                ja: "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。",
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。",
                 ko: "서로의 포켓몬 전원에게 붙어 있는 에너지에서 랜덤으로 1개 트래쉬한다.",
                 "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。"
             }

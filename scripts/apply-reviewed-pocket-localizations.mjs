@@ -51,7 +51,7 @@ const ENTITY_VARIABLES = Object.freeze({
 })
 const ENERGY_TOKEN_PATTERN = /\{([^{}]+)\}/gu
 const ENERGY_TOKENS = new Set(['C', 'G', 'R', 'W', 'L', 'P', 'F', 'D', 'M'])
-const SOURCE_PLACEHOLDER_PATTERN = /\[\/?(?:Text|Img|Num|Ctrl|Gr):|\{\{[^{}]+\}\}|__[A-Z0-9_]+__|\$\{[^{}]+\}/u
+const SOURCE_PLACEHOLDER_PATTERN = /\[\/?[A-Za-z][A-Za-z0-9]*:|\{\{[^{}]+\}\}|__[A-Z0-9_]+__|\$\{[^{}]+\}/u
 const SENSITIVE_URL_PATTERN = /(?:authorization|bearer|cookie|credential|secret|signature|token)=/iu
 
 function cliValue(name, fallback) {

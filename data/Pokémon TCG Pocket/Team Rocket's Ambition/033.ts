@@ -62,7 +62,7 @@ const card: Card = {
                 de: "Ziehe 1 Karte.",
                 "pt-br": "Compre carta.",
                 "zh-tw": "從自己的牌庫抽出張卡。",
-                ja: "自分の山札を枚引く。"
+                ja: "自分の山札を1枚引く。"
             },
             damage: 40
         }

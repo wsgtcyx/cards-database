@@ -69,7 +69,7 @@ const card: Card = {
                 es: "Debes descartar 1 carta de tu mano para poder usar esta habilidad. Una vez durante tu turno, puedes robar 1 carta.",
                 it: "Devi scartare una carta che hai in mano per usare questa abilità. Una sola volta durante il tuo turno, puoi pescare una carta.",
                 de: "Du musst 1 Karte von deiner Hand auf deinen Ablagestapel legen, um diese Fähigkeit einzusetzen. Einmal während deines Zuges kannst du 1 Karte ziehen.",
-                ja: "自分の番に、自分の手札を枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
+                ja: "自分の番に、自分の手札を1枚トラッシュするなら、1回使える。自分の山札を1枚引く。",
                 ko: "자신의 차례에 자신의 패를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 덱을 1장 뽑는다.",
                 'pt-br': "Você deve descartar 1 carta da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar 1 carta.",
                 "zh-tw": "您必須從手上棄掉一張牌才能使用此能力。在你的回合中，你可以抽一張牌。"

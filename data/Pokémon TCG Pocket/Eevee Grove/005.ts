@@ -69,7 +69,7 @@ const card: Card = {
                 "de": "Dein Gegner deckt eine zufällige Karte aus seiner Hand auf und mischt sie in sein Deck.",
                 "pt-br": "Seu oponente revela uma carta aleatória de sua mão e a embaralha em seu baralho.",
                 "zh-tw": "你的對手從手中隨機展示一張牌並將其洗入牌庫。",
-                ja: "相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。"
+                ja: "相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。"
             }
         }],
     weaknesses: [{

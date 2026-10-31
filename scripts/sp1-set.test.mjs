@@ -25,6 +25,8 @@ test('SP1 identity, locale, rarity and single-pack import stay complete',()=>{
   for(const l of config.ruleLocales){assert(c.description[l]);for(const a of c.attacks){assert(a.name[l]);if(a.effect)assert(a.effect[l]);}}
  }
  assert.deepEqual(Object.values(provenance.identityCrosswalk).map(c=>c.gameId),['PK_20_024100_02','PK_20_024100_00','PK_20_024100_01']);
- const files=renderReviewedSet(config,raw,audit);assert.equal(Object.keys(files).length,31);
+ // The retained baseline predates full Japanese rules; it must not be imported as Japanese today.
+ assert.throws(()=>renderReviewedSet(config,raw,audit),/Japanese imports require ja in ruleLocales/);
+ const files=renderReviewedSet({...config,nameLocales:config.nameLocales.filter(locale=>locale!=='ja')},raw,audit);assert.equal(Object.keys(files).length,31);
  for(const [f,text] of Object.entries(files)){assert.equal(originalLocales(fs.readFileSync(new URL('../data/Pokémon TCG Pocket/'+f,import.meta.url),'utf8')),originalLocales(text));if(f.includes('/'))assert(!text.includes('boosters:'));}
 });

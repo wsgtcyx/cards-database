@@ -69,7 +69,7 @@ const card: Card = {
                 "de": "Lege eine zufällige Energie von der Energie ab, die an alle Pokémon (sowohl deines als auch die deines Gegners) angelegt ist.",
                 "pt-br": "Descarte uma Energia aleatória dentre as Energias ligadas a todos os Pokémon (seus e do seu oponente).",
                 "zh-tw": "從所有神奇寶貝（你的和對手的）所附帶的能量中隨機丟棄一個能量。",
-                ja: "おたがいのポケモン全員についているエネルギーからランダムに個トラッシュ。"
+                ja: "おたがいのポケモン全員についているエネルギーからランダムに1個トラッシュ。"
             }
         }],
     weaknesses: [{

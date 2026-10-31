@@ -8,7 +8,10 @@ import { DB_PATH, fetchRemoteFile, getDataFolder, getLastEdit, resolveText, smar
 import { objectMap, objectPick } from '@dzeio/object-util'
 
 export async function getCardPictures(cardId: string, card: Card, lang: SupportedLanguages): Promise<string | undefined> {
-	const cardPicture = card.image?.[lang] ?? card.image?.en
+	const cardPicture = lang === 'ja' ? card.image?.ja : card.image?.[lang] ?? card.image?.en
+	if (lang === 'ja' && cardPicture !== `https://game.pokemontcgpocket.app/ja/tcgp/${card.set.id}/${cardId}`) {
+		throw new Error(`Card (${card.set.id}-${cardId}) has no native Japanese image`)
+	}
 	if (cardPicture) {
 		return cardPicture
 	}
@@ -154,6 +157,7 @@ async function loadCards(lang: SupportedLanguages, set?: Set): Promise<Array<[st
 	if (cards.length === 0) {
 		cards = await smartGlob(`${DB_PATH}/${getDataFolder(lang)}/${(set && set.serie.id) ?? '*'}/${(set && set.id) ?? '*'}/*.ts`)
 	}
+	if (lang === 'ja' && cards.length === 0) throw new Error(`No Japanese card source files: ${set?.id ?? '*'}`)
 	const list: Array<[string, Card]> = []
 	for (const path of cards) {
 		let items = path.split(pathLib.sep)
@@ -172,12 +176,14 @@ async function loadCards(lang: SupportedLanguages, set?: Set): Promise<Array<[st
 		const set = await getSet(setName, serieName, lang)
 
 		if (!(lang in set.name)) {
+			if (lang === 'ja') throw new Error(`Set (${set.id}) has no Japanese name`)
 			continue
 		}
 
 		// console.log(path, id, set, lang)
 		const c = await getCard(set, id, lang)
 		if (!c.name[lang]) {
+			if (lang === 'ja') throw new Error(`Card (${set.id}-${id}) has no Japanese name`)
 			continue
 		}
 		list.push([id, c])

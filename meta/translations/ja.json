@@ -1,0 +1,14 @@
+{
+	"abilityType": { "Ability": "特性" },
+	"category": { "Pokemon": "ポケモン", "Trainer": "トレーナーズ" },
+	"rarity": {
+		"One Diamond": "♦1", "Two Diamond": "♦2", "Three Diamond": "♦3", "Four Diamond": "♦4",
+		"One Star": "★1", "Two Star": "★2", "Three Star": "★3",
+		"One Shiny": "色違い★1", "Two Shiny": "色違い★2", "Crown": "クラウン",
+		"Anomaly": "特殊カード（通常のレアリティ区分外）", "None": "レアリティなし"
+	},
+	"stage": { "Basic": "たね", "Stage1": "1進化", "Stage2": "2進化" },
+	"suffix": { "EX": "ex" },
+	"trainerType": { "Item": "グッズ", "Supporter": "サポート", "Tool": "ポケモンのどうぐ", "Stadium": "スタジアム" },
+	"types": { "Grass": "草", "Fire": "炎", "Water": "水", "Lightning": "雷", "Psychic": "超", "Fighting": "闘", "Darkness": "悪", "Metal": "鋼", "Dragon": "ドラゴン", "Colorless": "無色" }
+}

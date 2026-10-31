@@ -58,7 +58,7 @@ const card: Card = {
                 it: "Lancia una moneta. Se esce testa, scarta una carta a caso dalla mano del tuo avversario.",
                 de: "Wirf 1 Münze. Lege bei Kopf 1 zufällige Karte aus der Hand deines Gegners auf seinen Ablagestapel.",
                 'pt-br': "Jogue uma moeda. Se sair cara, descarte 1 carta aleatória da mão do seu oponente.",
-                ja: "コインを1回投げオモテなら、相手の手札からランダムに枚トラッシュ。",
+                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。",
                 ko: "동전을 1번 던져서 앞면이 나오면 상대의 패에서 랜덤으로 1장 트래쉬한다.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則隨機丟棄對手手中的一張牌。"
             },

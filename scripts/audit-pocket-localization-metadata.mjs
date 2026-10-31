@@ -78,7 +78,11 @@ function auditLocalizedObject(state, object, context, fieldPath) {
 		else if (locale === 'ja' && context.scope === 'card' && fieldPath !== 'image'
 			&& /[A-Za-z]/u.test(english) && current === english) kind = 'english-fallback'
 		else if (locale === 'ja' && fieldPath !== 'image'
-			&& /\[(?:Text:|Num:|Gr:|Img:|Ctrl:)|\bTODO\b/u.test(current)) kind = 'unresolved-markup'
+			&& /\[\/?[A-Za-z][A-Za-z0-9]*:|\bTODO\b/u.test(current)) kind = 'unresolved-markup'
+		else if (locale === 'ja' && fieldPath !== 'releaseDate' && !/^https?:\/\//u.test(current)
+			&& !/[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u.test(current)
+			&& !/^PROMO-[A-Z]$/u.test(current) && !['CHECK', 'GUARD', 'POWER'].includes(current)) kind = 'english-fallback'
+		else if (locale === 'ja' && /(?:を|から|ランダムに)(?:枚|個)(?:[、。ず]|引|トラッシュ|見|選)/u.test(current)) kind = 'missing-numeric-count'
 		else continue
 		state.issues.push({
 			scope: context.scope,
@@ -270,7 +274,7 @@ function reportSummary(state, entities) {
 		entities,
 		localizedObjects: state.localizedObjects,
 		missingValues: state.issues.filter(issue => ['missing', 'empty', 'non-string'].includes(issue.kind)).length,
-		invalidValues: state.issues.filter(issue => ['english-fallback', 'image-fallback', 'unresolved-markup'].includes(issue.kind)).length,
+		invalidValues: state.issues.filter(issue => ['english-fallback', 'image-fallback', 'unresolved-markup', 'missing-numeric-count'].includes(issue.kind)).length,
 		structuralErrors: state.errors.length,
 		byScope,
 		byLocale,

@@ -73,7 +73,7 @@ const card: Card = {
                 de: "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "擲1次硬幣若為正面,則將對手的戰鬥寶可夢身上的隨機個能量丟棄。",
-                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに個トラッシュ。"
+                ja: "コインを1回投げオモテなら、相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             },
             damage: 60
         }

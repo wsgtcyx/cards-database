@@ -48,7 +48,7 @@ const card: Card = {
                 it: "Una sola volta durante il tuo turno, puoi guardare la prima carta del tuo mazzo.",
                 de: "Einmal während deines Zuges kannst du dir die oberste Karte deines Decks anschauen.",
                 'pt-br': "Uma vez durante o seu turno, você poderá olhar a carta de cima do seu baralho.",
-                ja: "自分の番に1回使える。自分の山札を上から枚見て、もとにもどす。",
+                ja: "自分の番に1回使える。自分の山札を上から1枚見て、もとにもどす。",
                 ko: "자신의 차례에 1번 사용할 수 있다. 자신의 덱을 위에서부터 1장 보고 원래대로 되돌린다.",
                 "zh-tw": "在你的回合中，你可以查看你牌組頂牌的一次。"
             }

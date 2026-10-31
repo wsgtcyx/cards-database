@@ -61,7 +61,7 @@ const card: Card = {
                 it: "Rimuovi un'Energia a caso da entrambi i Pokémon attivi.",
                 de: "Lege 1 zufällige Energie von beiden Aktiven Pokémon ab.",
                 'pt-br': "Descarte 1 Energia aleatória de ambos os Pokémon Ativos.",
-                ja: "おたがいのバトルポケモンからエネルギーをランダムに個ずつトラッシュ。",
+                ja: "おたがいのバトルポケモンからエネルギーをランダムに1個ずつトラッシュ。",
                 ko: "서로의 배틀 포켓몬에서 에너지를 랜덤으로 1개씩 트래쉬한다.",
                 "zh-tw": "丟棄兩隻活躍神奇寶貝的隨機能量。"
             }

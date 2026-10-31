@@ -32,7 +32,7 @@ const card: Card = {
         it: "Prendi un Pokémon Base dalla pila degli scarti del tuo avversario e mettilo nella sua panchina.",
         de: "Lege 1 Basis-Pokémon aus dem Ablagestapel deines Gegners auf seine Bank.",
         'pt-br': "Coloque 1 Pokémon Básico da pilha de descarte do seu oponente no Banco dele.",
-        ja: "相手のトラッシュからたねポケモンを枚選び、相手のベンチに出す。",
+        ja: "相手のトラッシュからたねポケモンを1枚選び、相手のベンチに出す。",
         ko: "상대의 트래쉬에서 기본 포켓몬을 1장 선택해서 상대의 벤치로 내보낸다.",
         "zh-tw": "將對手棄牌堆中的一隻基本寶可夢放到他們的替補席上。"
     },

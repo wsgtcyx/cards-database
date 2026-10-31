@@ -58,7 +58,7 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ deckt dein Gegner eine zufällige Karte aus seiner Hand auf und mischt sie in sein Deck.",
                 "pt-br": "Jogue uma moeda. Se der cara, seu oponente revela uma carta aleatória de sua mão e a embaralha em seu baralho.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則對手從手中隨機展示一張牌並將其洗入牌庫。",
-                ja: "コインを1回投げオモテなら、相手の手札をランダムに枚、オモテを見て、相手の山札にもどす。"
+                ja: "コインを1回投げオモテなら、相手の手札をランダムに1枚、オモテを見て、相手の山札にもどす。"
             }
         }],
     weaknesses: [{

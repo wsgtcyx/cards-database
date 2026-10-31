@@ -4,16 +4,18 @@ import it from '../../../meta/translations/it.json'
 import pt from '../../../meta/translations/pt.json'
 import de from '../../../meta/translations/de.json'
 import fr from '../../../meta/translations/fr.json'
+import ja from '../../../meta/translations/ja.json'
 
 type translatable = 'types' | 'rarity' | 'stage' | 'category' | 'suffix' | 'abilityType' | 'trainerType' | 'energyType' | 'variantType' | 'variantSize' | 'variantFoil' | 'variantStamp' | 'variantSubtype'
 
-const translations: Record<string, Record<translatable, Record<string, string>>> = {
+const translations: Record<string, Partial<Record<translatable, Record<string, string>>>> = {
 	es,
 	fr,
 	it,
 	pt,
 	'pt-br': pt,
-	de
+	de,
+	ja
 }
 
 export default function translate(item: translatable, key: string | undefined, lang: SupportedLanguages): string | undefined {

@@ -26,12 +26,12 @@ test('reviewed importer preserves dual types and reward-only pack membership, re
 })
 
 test('name-only locales receive explicit English rules and official English booster images', () => {
-	const config = { setId: 'T1', total: 1, setFile: 'Fixture', officialCount: 1, releaseDate: '2026-10-29', r2Origin: 'https://example.test', nameLocales: ['en', 'ja'], ruleLocales: ['en'], setNames: { en: 'Fixture', ja: 'セット' }, boosters: [{ slug: 'one', names: { en: 'One', ja: 'パック' } }] }
-	const cards = { 'T1-001': { name: { en: 'Fixture', ja: 'カード' }, illustrator: 'Artist', rarity: 'Two Diamond', category: 'Trainer', trainerType: 'Item', effect: { en: 'Draw a card.' }, boosters: ['one'] } }
+	const config = { setId: 'T1', total: 1, setFile: 'Fixture', officialCount: 1, releaseDate: '2026-10-29', r2Origin: 'https://example.test', nameLocales: ['en', 'ko'], ruleLocales: ['en'], setNames: { en: 'Fixture', ko: '세트' }, boosters: [{ slug: 'one', names: { en: 'One', ko: '팩' } }] }
+	const cards = { 'T1-001': { name: { en: 'Fixture', ko: '카드' }, illustrator: 'Artist', rarity: 'Two Diamond', category: 'Trainer', trainerType: 'Item', effect: { en: 'Draw a card.' }, boosters: ['one'] } }
 	const audit = bindAudit(cards)
 	const files = renderReviewedSet(config, cards, audit)
-	assert.match(files['Fixture/001.ts'], /ja: "Draw a card\."/)
-	assert.match(files['Fixture.ts'], /ja: "https:\/\/example.test\/en\/tcgp\/T1\/boosters\/one\/artwork_front.webp"/)
+	assert.match(files['Fixture/001.ts'], /ko: "Draw a card\."/)
+	assert.match(files['Fixture.ts'], /ko: "https:\/\/example.test\/en\/tcgp\/T1\/boosters\/one\/artwork_front.webp"/)
 	assert.deepEqual(cards['T1-001'].effect, { en: 'Draw a card.' })
 	const modified = structuredClone(cards)
 	modified['T1-001'].effect.en = 'TODO'
@@ -95,5 +95,68 @@ test('localization audit rejects reviewed raw that differs from the audited loca
 		const audit = JSON.parse(fs.readFileSync(output, 'utf8'))
 		assert.equal(audit.passed, false)
 		assert(audit.findings.some(finding => finding.cardId === 'C1-001' && finding.locale === 'de' && finding.kind === 'reviewed-localization-mismatch'))
+	} finally { fs.rmSync(root, { recursive: true, force: true }) }
+})
+
+const japaneseConfig = { setId: 'T1', total: 1, setFile: 'Fixture', officialCount: 1, releaseDate: '2026-10-29', r2Origin: 'https://game.pokemontcgpocket.app', nameLocales: ['en', 'ja'], ruleLocales: ['en', 'ja'], setNames: { en: 'Fixture', ja: 'セット' }, boosters: [{ slug: 'one', names: { en: 'One', ja: 'パック' } }] }
+const japaneseCards = { 'T1-001': { name: { en: 'Fixture', ja: 'カード' }, illustrator: 'Artist', rarity: 'Two Diamond', category: 'Trainer', trainerType: 'Item', effect: { en: 'Draw a card.', ja: '自分の山札を1枚引く。' }, boosters: ['one'] } }
+
+test('Japanese imports require full native rules and reject invalid input before any CLI writes', () => {
+	assert.throws(() => renderReviewedSet({ ...japaneseConfig, ruleLocales: ['en'] }, japaneseCards, bindAudit(japaneseCards)), /Japanese.*ruleLocales/)
+	assert.throws(() => renderReviewedSet({ ...japaneseConfig, nameLocales: ['en'] }, japaneseCards, bindAudit(japaneseCards)), /Japanese.*nameLocales/)
+	for (const value of [undefined, '', ' ', 'Draw a card.', 'カード [Mst:Name]', 'カード [Gr:Count]', '山札を枚引く。']) {
+		const cards = structuredClone(japaneseCards)
+		cards['T1-001'].effect.ja = value
+		assert.throws(() => renderReviewedSet(japaneseConfig, cards, bindAudit(cards)), /Japanese|ja/)
+	}
+	for (const field of ['name', 'evolveFrom', 'description']) {
+		const cards = structuredClone(japaneseCards)
+		cards['T1-001'][field] = { en: 'English fallback', ja: 'English fallback' }
+		assert.throws(() => renderReviewedSet(japaneseConfig, cards, bindAudit(cards)), /Japanese|ja/)
+	}
+	for (const group of ['attacks', 'abilities']) for (const field of ['name', 'effect']) {
+		const cards = structuredClone(japaneseCards)
+		cards['T1-001'][group] = [{ type: 'Ability', name: { en: 'Draw', ja: 'ドロー' }, effect: { en: 'Draw a card.', ja: '自分の山札を1枚引く。' } }]
+		cards['T1-001'][group][0][field].ja = 'English fallback'
+		assert.throws(() => renderReviewedSet(japaneseConfig, cards, bindAudit(cards)), /Japanese|ja/)
+	}
+	for (const field of ['name', 'effect']) {
+		const cards = structuredClone(japaneseCards)
+		cards['T1-001'].item = { name: { en: 'Item', ja: 'どうぐ' }, effect: { en: 'Draw a card.', ja: '自分の山札を1枚引く。' } }
+		delete cards['T1-001'].item[field].ja
+		assert.throws(() => renderReviewedSet(japaneseConfig, cards, bindAudit(cards)), /Japanese|ja/)
+	}
+	assert.throws(() => renderReviewedSet({ ...japaneseConfig, setNames: { en: 'Fixture' } }, japaneseCards, bindAudit(japaneseCards)), /Japanese/)
+	assert.throws(() => renderReviewedSet({ ...japaneseConfig, boosters: [{ slug: 'one', names: { en: 'One' } }] }, japaneseCards, bindAudit(japaneseCards)), /Japanese/)
+	const root = fs.mkdtempSync(path.join(os.tmpdir(), 'reviewed-set-ja-closed-'))
+	try {
+		const output = path.join(root, 'output')
+		fs.mkdirSync(output)
+		for (const [name, value] of Object.entries({ config: { ...japaneseConfig, ruleLocales: ['en'] }, cards: japaneseCards, audit: bindAudit(japaneseCards) })) fs.writeFileSync(path.join(root, `${name}.json`), JSON.stringify(value))
+		const script = fileURLToPath(new URL('./import-reviewed-pocket-set.mjs', import.meta.url))
+		const result = spawnSync(process.execPath, [script, '--config', path.join(root, 'config.json'), '--cards', path.join(root, 'cards.json'), '--audit', path.join(root, 'audit.json'), '--output', output], { encoding: 'utf8' })
+		assert.notEqual(result.status, 0)
+		assert.deepEqual(fs.readdirSync(output), [])
+	} finally { fs.rmSync(root, { recursive: true, force: true }) }
+})
+
+test('a complete Japanese import compiles with native card, set and booster images', () => {
+	const root = fs.mkdtempSync(path.join(os.tmpdir(), 'reviewed-set-ja-compile-'))
+	try {
+		const cards = structuredClone(japaneseCards)
+		cards['T1-001'].image = { en: 'https://example.test/custom', ja: 'https://example.test/english-fallback' }
+		const files = renderReviewedSet(japaneseConfig, cards, bindAudit(cards))
+		const dataRoot = path.join(root, 'data', 'Pokémon TCG Pocket')
+		for (const [file, text] of Object.entries(files)) {
+			fs.mkdirSync(path.dirname(path.join(dataRoot, file)), { recursive: true })
+			fs.writeFileSync(path.join(dataRoot, file), text)
+		}
+		fs.writeFileSync(`${dataRoot}.ts`, `export default { id: 'tcgp', name: { en: 'Pokémon TCG Pocket', ja: 'ポケポケ' } }`)
+		fs.mkdirSync(path.join(root, 'server'))
+		const serverRoot = fileURLToPath(new URL('../server/', import.meta.url))
+		const code = `const assert = require('node:assert/strict'); const { getSetPictures } = require('./compiler/utils/setUtil'); const { cardToCardSingle } = require('./compiler/utils/cardUtil'); process.chdir(${JSON.stringify(path.join(root, 'server'))}); const source = require(${JSON.stringify(path.join(dataRoot, 'Fixture/001.ts'))}).default; Promise.all([getSetPictures(source.set, 'ja'), cardToCardSingle('001', source, 'ja')]).then(([pictures, card]) => { assert.equal(pictures[0], 'https://game.pokemontcgpocket.app/ja/tcgp/T1/boosters/one/logo'); assert.equal(card.image, 'https://game.pokemontcgpocket.app/ja/tcgp/T1/001'); assert.equal(card.name, 'カード'); assert.equal(card.effect, '自分の山札を1枚引く。'); assert.equal(card.set.cardCount.total, 1); assert.equal(source.set.boosters.one.logo.ja, 'https://game.pokemontcgpocket.app/ja/tcgp/T1/boosters/one/logo.webp'); assert.equal(source.set.boosters.one.artwork_front.en, 'https://game.pokemontcgpocket.app/en/tcgp/T1/boosters/one/artwork_front.webp'); console.log('Japanese importer compiler proof passed'); }).catch(error => { console.error(error); process.exitCode = 1; });`
+		const result = spawnSync(process.execPath, ['-r', 'ts-node/register/transpile-only', '-e', code], { cwd: serverRoot, env: { ...process.env, TS_NODE_COMPILER_OPTIONS: JSON.stringify({ module: 'CommonJS', moduleResolution: 'node' }) }, encoding: 'utf8' })
+		assert.equal(result.status, 0, result.stderr || result.stdout)
+		assert.match(result.stdout, /Japanese importer compiler proof passed/)
 	} finally { fs.rmSync(root, { recursive: true, force: true }) }
 })

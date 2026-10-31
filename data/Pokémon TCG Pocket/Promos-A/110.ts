@@ -49,7 +49,7 @@ const card: Card = {
 				de: "Wenn sich dieses Pokémon am Ende deines Zuges an der aktiven Stelle befindet, ziehe eine Karte.",
 				"pt-br": "No final do seu turno, se este Pokémon estiver no Local Ativo, compre um card.",
 				"zh-tw": "在你的回合結束時，如果這只神奇寶貝位於活躍位置，抽一張卡。",
-				ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を枚引く。"
+				ja: "自分の番の終わりに、このポケモンがバトル場にいるなら、自分の山札を1枚引く。"
 			}
 		}
 	],

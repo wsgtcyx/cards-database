@@ -191,3 +191,32 @@ test('metadata audit checks an optional set logo without requiring an absent log
   assert.ok(report.errors.some(error => error.scope === 'set' && error.path === 'logo'))
  } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
 })
+
+test('Japanese audit rejects every game-template namespace and missing count units', () => {
+ const fixture = createFixture({ complete: true })
+ const file = path.join(fixture.root, 'data/Pocket/Fixture Set/001.ts')
+ try {
+  for (const value of ['[Mst:SeriesName v="SERIES_NAME_2"]', '[/Ctrl:Bold]', '自分の山札を枚引く。', 'エネルギーをランダムに個トラッシュ。']) {
+   fs.writeFileSync(file, `const card = { name: { en: "Bulbasaur", ja: "フシギダネ" }, attacks: [{ name: { en: "Draw", ja: "ひく" }, effect: { en: "Draw a card.", ja: ${JSON.stringify(value)} } }] }; export default card`)
+   const result = run(fixture, ['--locales', 'ja'])
+   const report = JSON.parse(result.stdout)
+   assert.equal(result.status, 2, value)
+   assert.ok(report.issues.some(issue => issue.scope === 'card' && issue.path === 'attacks[0].effect' && ['unresolved-markup', 'missing-numeric-count'].includes(issue.kind)), value)
+   assert.ok(report.summary.invalidValues > 0)
+  }
+  fs.writeFileSync(file, 'const card = { name: { en: "Bulbasaur", ja: "フシギダネ" }, attacks: [{ name: { en: "Draw", ja: "ひく" }, effect: { en: "Draw a card.", ja: "自分の山札を1枚引く。" } }] }; export default card')
+  assert.ok(!JSON.parse(run(fixture, ['--locales', 'ja']).stdout).issues.some(issue => issue.scope === 'card'))
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})
+
+
+test('Japanese audit rejects an English-only series display while allowing native Latin identifiers', () => {
+ const fixture = createFixture({ complete: true })
+ try {
+  const series = path.join(fixture.root, 'data/Pocket.ts')
+  fs.writeFileSync(series, 'const serie = { id: "tcgp", name: { en: "Pokémon TCG Pocket", ja: "Pokémon Trading Card Game Pocket" } }; export default serie')
+  assert.ok(JSON.parse(run(fixture, ['--locales', 'ja']).stdout).issues.some(x => x.scope === 'series' && x.kind === 'english-fallback'))
+  fs.writeFileSync(series, 'const serie = { id: "tcgp", name: { en: "Pokémon TCG Pocket", ja: "Pokémon Trading Card Game Pocket（ポケポケ）" } }; export default serie')
+  assert.ok(!JSON.parse(run(fixture, ['--locales', 'ja']).stdout).issues.some(x => x.scope === 'series'))
+ } finally { fs.rmSync(fixture.root, { recursive: true, force: true }) }
+})

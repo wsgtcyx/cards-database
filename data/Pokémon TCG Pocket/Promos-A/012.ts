@@ -49,7 +49,7 @@ const card: Card = {
                 it: "Pesca una carta.",
                 de: "Ziehe 1 Karte.",
                 'pt-br': "Compre 1 carta.",
-                ja: "自分の山札を枚引く。",
+                ja: "自分の山札を1枚引く。",
                 ko: "자신의 덱을 1장 뽑는다.",
                 "zh-tw": "畫一張卡片。"
             }

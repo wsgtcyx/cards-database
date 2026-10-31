@@ -33,7 +33,7 @@ const card: Card = {
         "de": "Wähle ein Pokémon in deiner Hand und tausche es gegen ein zufälliges Pokémon in deinem Deck.",
         "pt-br": "Escolha um Pokémon em sua mão e troque-o por um Pokémon aleatório em seu baralho.",
         "zh-tw": "選擇你手中的一隻神奇寶貝，然後將其與你牌組中隨機的一隻神奇寶貝進行交換。",
-        ja: "自分の手札からポケモンを枚選び、山札にあるランダムなポケモン枚と入れ替える。"
+        ja: "自分の手札からポケモンを1枚選び、山札にあるランダムなポケモン1枚と入れ替える。"
     },
     trainerType: "Item"
 };

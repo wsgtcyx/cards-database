@@ -57,7 +57,7 @@ const card: Card = {
                 "de": "Nimm ein zufälliges Pokémon aus deinem Deck auf deine Hand.",
                 "pt-br": "Coloque um Pokémon aleatório do seu baralho na sua mão.",
                 "zh-tw": "從你的牌組中隨機將一隻神奇寶貝放入你的手牌。",
-                ja: "自分の山札からポケモンをランダムに枚、手札に加える。"
+                ja: "自分の山札からポケモンをランダムに1枚、手札に加える。"
             }
         }],
     retreat: 0

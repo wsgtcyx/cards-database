@@ -352,12 +352,14 @@ test('reviewed writer fails closed on energy-token loss and unresolved source ta
 		assert.notEqual(lostToken.status, 0)
 		assert.match(lostToken.stderr, /energy token mismatch/u)
 
-		const placeholderArtifact = writeArtifact(fixture, [correctionDecision(fixture, {
-			value: 'Attachez 1 Énergie {R}.[Text:Unbound v="x"]',
-		})])
-		const placeholder = run(fixture, placeholderArtifact)
-		assert.notEqual(placeholder.status, 0)
-		assert.match(placeholder.stderr, /unresolved source placeholder/u)
+		for (const tag of ['[Text:Unbound v="x"]', '[Mst:SeriesName v="SERIES_NAME_2"]', '[/Ctrl:Bold]']) {
+			const placeholderArtifact = writeArtifact(fixture, [correctionDecision(fixture, {
+				value: `Attachez 1 Énergie {R}.${tag}`,
+			})])
+			const placeholder = run(fixture, placeholderArtifact)
+			assert.notEqual(placeholder.status, 0, tag)
+			assert.match(placeholder.stderr, /unresolved source placeholder/u)
+		}
 		assert.equal(fs.readFileSync(fixture.cardFile, 'utf8'), fixture.cardSource)
 	} finally {
 		fs.rmSync(fixture.root, { recursive: true, force: true })

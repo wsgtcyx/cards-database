@@ -13,6 +13,7 @@ interface t {
 const setCache: t = {}
 
 export function isSetAvailable(set: Set, lang: SupportedLanguages): boolean {
+	if (lang === 'ja' && (!set.name?.ja || !set.serie.name?.ja)) throw new Error(`Set (${set.id}) has no Japanese name or series`)
 	return !!resolveText(set.name, lang) && !!resolveText(set.serie.name, lang)
 }
 
@@ -52,8 +53,9 @@ export async function getSets(serie = '*', lang: SupportedLanguages): Promise<Ar
 }
 
 export async function getSetPictures(set: Set, lang: SupportedLanguages): Promise<[string | undefined, string | undefined]> {
-	const logo = set.logo?.[lang] ?? set.logo?.en
+	const logo = lang === 'ja' && set.logo ? resolveText(set.logo, lang) : set.logo?.[lang] ?? set.logo?.en
 	if (logo) return [logo, undefined]
+	if (lang === 'ja') return [undefined, undefined]
 	try {
 		const file = await fetchRemoteFile('https://assets.tcgdex.net/datas.json')
 		const logoExists = file[lang]?.[set.serie.id]?.[set.id]?.logo ? `https://assets.tcgdex.net/${lang}/${set.serie.id}/${set.id}/logo` : undefined

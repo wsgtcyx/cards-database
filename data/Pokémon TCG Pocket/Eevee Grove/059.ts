@@ -68,7 +68,7 @@ const card: Card = {
                 "de": "Einmal während deines Zuges kannst du eine zufällige Pokémon-Ausrüstungskarte aus deinem Deck auf deine Hand nehmen.",
                 "pt-br": "Uma vez durante o seu turno, você pode colocar uma carta aleatória de Ferramenta Pokémon do seu baralho na sua mão.",
                 "zh-tw": "在你的回合中，你可以從你的牌組中隨機將一張神奇寶貝工具卡放入你的手牌。",
-                ja: "自分の番に1回使える。自分の山札から「ポケモンのどうぐ」をランダムに枚、手札に加える。"
+                ja: "自分の番に1回使える。自分の山札から「ポケモンのどうぐ」をランダムに1枚、手札に加える。"
             }
         }],
     attacks: [{

@@ -28,10 +28,42 @@ import dualFusion from '../../../data/Pokémon TCG Pocket/Dual Fusion'
 import firstPartners from '../../../data/Pokémon TCG Pocket/Special Pack: First Partners'
 import TCGdex from '@tcgdex/sdk'
 import translate from './translationUtil'
-import { getDataFolder } from './util'
-import { getSetPictures } from './setUtil'
+import { getDataFolder, resolveText } from './util'
+import { getCardPictures, getCards } from './cardUtil'
+import { getSetPictures, isSetAvailable } from './setUtil'
 
 describe('B4 catalog metadata regressions', () => {
+	test('uses native Japanese Pocket metadata and rejects missing translations', async () => {
+		expect(translate('types', 'Grass', 'ja')).toBe('草')
+		expect(translate('stage', 'Basic', 'ja')).toBe('たね')
+		expect(translate('trainerType', 'Tool', 'ja')).toBe('ポケモンのどうぐ')
+		expect(translate('abilityType', 'Ability', 'ja')).toBe('特性')
+		expect(translate('rarity', 'One Diamond', 'ja')).toBe('♦1')
+		expect(translate('suffix', 'EX', 'ja')).toBe('ex')
+		expect(() => translate('types', 'Unreviewed type', 'ja')).toThrow('Could not find translation')
+		expect(() => resolveText({ en: 'English fallback' }, 'ja')).toThrow('Missing Japanese')
+		expect(() => resolveText({ en: 'English fallback', ja: ' ' }, 'ja')).toThrow('Missing Japanese')
+		expect(() => resolveText({ en: 'English fallback', ja: 'English fallback' }, 'ja')).toThrow('not native Japanese')
+		expect(() => resolveText({ en: 'Promo pack', ja: 'パック [Mst:SeriesName v="SERIES_NAME_2"]' }, 'ja')).toThrow('Unresolved Japanese')
+		for (const value of ['カード[Gr:Count ref="0"]', 'カード [/Text:Foo]']) expect(() => resolveText({ en: 'English fallback', ja: value }, 'ja')).toThrow('Unresolved Japanese')
+		expect(() => resolveText({ en: 'Draw a card.', ja: '自分の山札を枚引く。' }, 'ja')).toThrow('numeric count')
+		expect(() => resolveText({ en: 'Pokémon TCG Pocket', ja: 'Pokémon Trading Card Game Pocket' }, 'ja')).toThrow('not native Japanese')
+		expect(resolveText({ en: 'English fallback', ja: '原文' }, 'ja')).toBe('原文')
+		for (const name of ['CHECK', 'GUARD', 'POWER']) expect(resolveText({ en: name, ja: name }, 'ja')).toBe(name)
+		expect(() => isSetAvailable({ ...teamRocketsAmbition, name: { en: 'English fallback' } }, 'ja')).toThrow('Japanese')
+		await expect(getCardPictures('001', { ...firstCard, image: { en: 'https://example.com/en/001' } }, 'ja')).rejects.toThrow('native Japanese image')
+		await expect(getSetPictures({ ...teamRocketsAmbition, logo: { en: 'https://example.com/en/logo' } }, 'ja')).rejects.toThrow('Missing Japanese')
+		expect(await getCardPictures('001', firstCard, 'ja')).toBe(firstCard.image!.ja!)
+	})
+	test('Japanese compilation rejects a missing card instead of silently filtering it out', async () => {
+		const name = firstCard.name.ja
+		try {
+			delete firstCard.name.ja
+			await expect(getCards('ja', rulerOfTheSkies)).rejects.toThrow('has no Japanese name')
+		} finally {
+			firstCard.name.ja = name
+		}
+	})
 	test('keeps Promo-B 095–100 localized and limits Vol. 13 to its five rewards', () => {
 		const cards = [promo95, promo96, promo97, promo98, promo99, promo100]
 		expect(cards.map(card => card.name.en)).toEqual(['Darkrai', 'Falinks', 'Gible', 'Gabite', 'Mega Garchomp ex', 'Delcatty'])

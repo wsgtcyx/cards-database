@@ -71,7 +71,7 @@ const card: Card = {
                 it: "Scarta una carta Strumento a caso dalla mano del tuo avversario.",
                 de: "Lege 1 zufällige Itemkarte aus der Hand deines Gegners auf seinen Ablagestapel.",
                 'pt-br': "Descarte carta de Item aleatória da mão do seu oponente.",
-                ja: "相手の手札からグッズをランダムに枚トラッシュ。",
+                ja: "相手の手札からグッズをランダムに1枚トラッシュ。",
                 ko: "상대의 패에서 아이템을 랜덤으로 1장 트래쉬한다.",
                 "zh-tw": "從對手的手上隨機丟棄一張物品卡。"
             }

@@ -73,7 +73,7 @@ const card: Card = {
                 de: "Lege eine zufällige Energie vom Aktiven Pokémon deines Gegners ab.",
                 "pt-br": "Descarte Energia aleatória do Pokémon Ativo do seu oponente.",
                 "zh-tw": "將對手的戰鬥寶可夢身上的隨機個能量丟棄。",
-                ja: "相手のバトルポケモンからエネルギーをランダムに個トラッシュ。"
+                ja: "相手のバトルポケモンからエネルギーをランダムに1個トラッシュ。"
             },
             damage: 110
         }

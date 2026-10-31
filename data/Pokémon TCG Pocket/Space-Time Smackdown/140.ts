@@ -71,7 +71,7 @@ const card: Card = {
                 it: "Il tuo avversario mostra le carte che ha in mano. Scegline una e rimischiala nel suo mazzo.",
                 de: "Dein Gegner zeigt dir seine Handkarten. Wähle 1 Karte, die du dort findest, und mische sie in das Deck deines Gegners.",
                 'pt-br': "Seu oponente revela a mão dele. Escolha 1 carta que encontrar lá e embaralhe-a no baralho do seu oponente.",
-                ja: "相手の手札のオモテをすべて見て、その中からカードを枚選び、山札にもどす。",
+                ja: "相手の手札のオモテをすべて見て、その中からカードを1枚選び、山札にもどす。",
                 ko: "상대의 패의 앞면을 모두 보고 그 중에서 카드를 1장 선택해서 덱으로 되돌린다.",
                 "zh-tw": "你的對手亮出了他們的牌。選擇在那裡找到的一張牌並將其洗入對手的牌庫中。"
             }

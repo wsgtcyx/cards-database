@@ -69,7 +69,7 @@ const card: Card = {
                 "de": "Wirf eine Münze. Bei „Kopf“ wirf eine zufällige Karte aus der Hand deines Gegners ab.",
                 "pt-br": "Jogue uma moeda. Se sair cara, descarte uma carta aleatória da mão do seu oponente.",
                 "zh-tw": "拋一枚硬幣。如果出現正面，則隨機丟棄對手手中的一張牌。",
-                ja: "コインを1回投げオモテなら、相手の手札からランダムに枚トラッシュ。"
+                ja: "コインを1回投げオモテなら、相手の手札からランダムに1枚トラッシュ。"
             }
         }],
     weaknesses: [{

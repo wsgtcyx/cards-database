@@ -1,0 +1,244 @@
+{
+  "B3-194": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": {
+        "sourceCardId": "PK_20_016730_01",
+        "sourceSha256": "2244671a41e4910a936288b851d674851db731994fbd0fa9f75fb03b08f912a9",
+        "sourceBytes": 362832
+      },
+      "note": "Native card reviewed: one Grass Energy, not the malformed English Grass{G} missing count; same attack definition across printings."
+    }
+  },
+  "B3-180": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": {
+        "sourceCardId": "PK_20_016730_00",
+        "sourceSha256": "39c9ce8031cbc52bdc4cfc0ffea6228aff12f9555dd4ca8488bee512220f5146",
+        "sourceBytes": 376634
+      },
+      "note": "Native card reviewed: one Grass Energy, not the malformed English Grass{G} missing count; same attack definition across printings."
+    }
+  },
+  "B3-008": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": {
+        "sourceCardId": "PK_10_016730_00",
+        "sourceSha256": "035e42e8b44243c75552859fdf7fbc4a35378b3a5996038848cad6c24f15e50f",
+        "sourceBytes": 356881
+      },
+      "note": "Native card reviewed: one Grass Energy, not the malformed English Grass{G} missing count; same attack definition across printings."
+    }
+  },
+  "P-B-087": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": {
+        "sourceCardId": "PK_90_016730_00",
+        "sourceSha256": "e9af999f0aedef015aabb0c3f400006dabc9b246e0974466aedf5e48ac432f05",
+        "sourceBytes": 341320
+      },
+      "note": "Native card reviewed: one Grass Energy, not the malformed English Grass{G} missing count; same attack definition across printings."
+    }
+  },
+  "B2-042": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{W}エネルギーを2個トラッシュ。相手のバトルポケモンをマヒにする。",
+      "evidence": {
+        "sourceCardId": "PK_10_014080_00",
+        "sourceSha256": "adac4af4758f901e91127702b46aee57aa00f51b3f73d071b521a4dd104dcdd4",
+        "sourceBytes": 331274
+      },
+      "note": "Native card reviewed: discard two Water Energy; old English Water2 formatting cannot bind."
+    }
+  },
+  "B2-163": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{W}エネルギーを2個トラッシュ。相手のバトルポケモンをマヒにする。",
+      "evidence": {
+        "sourceCardId": "PK_20_014080_00",
+        "sourceSha256": "857a9ce9820772d0ea20c5cf67d6be5b0a1149930b5b7a721ce5b8f8d7a96821",
+        "sourceBytes": 394210
+      },
+      "note": "Native card reviewed: discard two Water Energy; old English Water2 formatting cannot bind."
+    }
+  },
+  "B1-284": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。",
+      "evidence": {
+        "sourceCardId": "PK_20_011180_01",
+        "sourceSha256": "c90e819e75770e77a5a5291c1c8d53f5568304bcaba8c30eea7d00f375dbcc86",
+        "sourceBytes": 399387
+      },
+      "note": "Native card reviewed: discard one Fire Energy; source English omitted count."
+    }
+  },
+  "B1-254": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。",
+      "evidence": {
+        "sourceCardId": "PK_20_011180_00",
+        "sourceSha256": "ecb42085d706d8462ce6f021e7911ff9608c69797ecaccf9631633a4b74e5bc0",
+        "sourceBytes": 377515
+      },
+      "note": "Native card reviewed: discard one Fire Energy; source English omitted count."
+    }
+  },
+  "B1-036": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{R}エネルギーを1個トラッシュ。相手のバトルポケモンをやけどにする。",
+      "evidence": {
+        "sourceCardId": "PK_10_011180_00",
+        "sourceSha256": "c5ffc635deeb8d4bfdfe15dcf5e1501ab37dc0bdbdc92ed2ff3c1fd076fa3eb6",
+        "sourceBytes": 354303
+      },
+      "note": "Native card reviewed: discard one Fire Energy; source English omitted count."
+    }
+  },
+  "B1a-086": {
+    "attacks[0].effect": {
+      "value": "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。",
+      "evidence": {
+        "sourceCardId": "PK_20_013560_01",
+        "sourceSha256": "8b96bfb8bf900903f00c32b424b8106061f66a0277f25a7a2c2ecc92a531561e",
+        "sourceBytes": 336863
+      },
+      "note": "Native Japanese Mega Steelix ex card reviewed: minus20 omitted from existing English."
+    }
+  },
+  "B1a-052": {
+    "attacks[0].effect": {
+      "value": "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。",
+      "evidence": {
+        "sourceCardId": "PK_10_013560_00",
+        "sourceSha256": "b638585cab6e9dfb38c6ef2c84c35eb713cab97015ca20f79da1a8f7f19718ee",
+        "sourceBytes": 363993
+      },
+      "note": "Native Japanese Mega Steelix ex card reviewed: minus20 omitted from existing English."
+    }
+  },
+  "B1a-080": {
+    "attacks[0].effect": {
+      "value": "次の相手の番、このポケモンが受けるワザのダメージを-20し、弱点もすべてなくす。",
+      "evidence": {
+        "sourceCardId": "PK_20_013560_00",
+        "sourceSha256": "d2f4053a2392bd99bc075fb9573e1e26859e68f6d7b4c52451e4524da49ff59f",
+        "sourceBytes": 379737
+      },
+      "note": "Native Japanese Mega Steelix ex card reviewed: minus20 omitted from existing English."
+    }
+  },
+  "A4-084": {
+    "abilities[0].effect": {
+      "value": "自分の場に「GUARD」以外の特性を持つ「アンノーン」がいるなら、はたらく。自分のポケモン全員が、相手のポケモンから受けるワザのダメージを-10する。",
+      "evidence": {
+        "sourceCardId": "PK_10_009400_00",
+        "sourceSha256": "1e4ee154b080cfb80d8d61676bba635827204716b9fb6e5125dfec55395e223b",
+        "sourceBytes": 261876
+      },
+      "note": "Native card reviewed: GUARD reference is printed, but missing in old English."
+    }
+  },
+  "A4-085": {
+    "abilities[0].effect": {
+      "value": "自分の場に「POWER」以外の特性を持つ「アンノーン」がいるなら、はたらく。自分のポケモンが使うワザの、相手のバトルポケモンへのダメージを+10する。",
+      "evidence": {
+        "sourceCardId": "PK_10_009410_00",
+        "sourceSha256": "4c824657efb0b3b543c6bc6024637b1e98a162dd4cbbba2584d7b672fc7865e6",
+        "sourceBytes": 320209
+      },
+      "note": "Native card reviewed: POWER reference is printed, but missing in old English."
+    }
+  },
+  "A2b-025": {
+    "attacks[0].effect": {
+      "value": "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
+      "evidence": {
+        "sourceCardId": "PK_10_005060_00",
+        "sourceSha256": "961d13b4cddded50204b8f0dd5b8ba5f70776dc523357df82ad941ae4bf610ab",
+        "sourceBytes": 240086
+      },
+      "note": "Native card reviewed and raw energize.pokemonType=Lightning: target type constraint missing in old English."
+    }
+  },
+  "A2b-103": {
+    "attacks[0].effect": {
+      "value": "自分のエネルギーゾーンから{L}エネルギーを1個出し、ベンチの{L}ポケモンにつける。",
+      "evidence": {
+        "sourceCardId": "PK_20_005060_00",
+        "sourceSha256": "73288a9c2f033e7eff9647ebc9197dec218642c6161c6aaedf02a98eca692690",
+        "sourceBytes": 263337
+      },
+      "note": "Native card reviewed and raw energize.pokemonType=Lightning: target type constraint missing in old English."
+    }
+  },
+  "B2-143": {
+    "attacks[0].effect": {
+      "value": "自分の場の「ワッカネズミ」と「イッカネズミ」の数ぶんコインを投げ、オモテの数×60ダメージ。",
+      "evidence": {
+        "sourceCardId": "PK_10_015090_00",
+        "sourceSha256": "5134ea7ff8462ce478356c240d5a6762cb8d53aed9c7828260b97d2de342fde4",
+        "sourceBytes": 261410
+      },
+      "note": "Native card reviewed and exact Japanese source template: Tandemaus/Maushold names fail greedy English span binding."
+    }
+  },
+  "B2a-030": {
+    "attacks[0].effect": {
+      "value": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+      "evidence": {
+        "sourceCardId": "PK_10_015390_00",
+        "sourceSha256": "3d1971ac2126f77fcf4f17ad3e7a35d652dc381cee7b34ca7bbce976d2181457",
+        "sourceBytes": 306841
+      },
+      "note": "Exact Japanese source template plus master specialCondition=paralyze; old English Defending Pokemon is a wording variant."
+    }
+  },
+  "B2a-071": {
+    "attacks[0].effect": {
+      "value": "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+      "evidence": {
+        "sourceCardId": "PK_10_015800_00",
+        "sourceSha256": "8ac658a7601e0bfbb84208ff0effa6d502cf52966050f89bf70a4cf938f38fde",
+        "sourceBytes": 307825
+      },
+      "note": "Exact Japanese source template with no dynamic tokens; old English em-dash punctuation differs."
+    }
+  },
+  "B2a-022": {
+    "attacks[0].effect": {
+      "value": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+      "evidence": {
+        "sourceCardId": "PK_10_015310_00",
+        "sourceSha256": "eb3ff7f9d9c3ce291ebb4a13ccfc512618ce619da575ae1c25e21048ced17c77",
+        "sourceBytes": 281079
+      },
+      "note": "Exact Japanese source template with no dynamic tokens; old English em-dash punctuation differs."
+    }
+  },
+  "B4b-012": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": {
+        "sourceCardId": "PK_10_016730_00",
+        "sourceSha256": "035e42e8b44243c75552859fdf7fbc4a35378b3a5996038848cad6c24f15e50f",
+        "sourceBytes": 356881
+      },
+      "note": "2026-10-31 independent native card-face review: printed Grass Energy count is 1; pre-existing canonical English omits the article/count. Same PK_016730_ATK_01 attack as reviewed B3-008; verified both B4b native images, not inferred from English."
+    }
+  },
+  "B4b-410": {
+    "attacks[0].effect": {
+      "value": "このポケモンから{G}エネルギーを1個トラッシュ。相手のバトルポケモンをどくにする。",
+      "evidence": {
+        "sourceCardId": "PK_20_016730_02",
+        "sourceSha256": "27527d55a867ce0d8c8a3a71ec4448e06cfe1844799fc8d5fc795225ea9ee1d0",
+        "sourceBytes": 291569
+      },
+      "note": "2026-10-31 independent native card-face review: printed Grass Energy count is 1; pre-existing canonical English omits the article/count. Same PK_016730_ATK_01 attack as reviewed B3-008; verified both B4b native images, not inferred from English."
+    }
+  }
+}

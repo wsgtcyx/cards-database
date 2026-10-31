@@ -77,7 +77,7 @@ const card: Card = {
                 de: "Lege die oberste Karte deines Decks ab.",
                 "pt-br": "Descarte a carta do topo do seu baralho.",
                 "zh-tw": "棄掉你牌組最上面的牌。",
-                ja: "自分の山札を上から枚トラッシュ。"
+                ja: "自分の山札を上から1枚トラッシュ。"
             },
             damage: 110
         }

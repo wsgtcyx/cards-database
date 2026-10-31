@@ -67,7 +67,7 @@ const card: Card = {
                 de: "Lege 1 zufällige Energie von diesem Pokémon ab.",
                 "pt-br": "Descarte Energia aleatória deste Pokémon.",
                 "zh-tw": "將這隻寶可夢身上的隨機個能量丟棄。",
-                ja: "このポケモンからエネルギーをランダムに個トラッシュ。",
+                ja: "このポケモンからエネルギーをランダムに1個トラッシュ。",
                 ko: "Discard a random Energy from this Pokémon."
             }
         }

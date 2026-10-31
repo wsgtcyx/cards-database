@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "baseRef": "480ae98de02f64219e80b44bb0ede0ea1e04a128",
+  "sources": {
+    "official": {
+      "file": "meta/pocket-source-reviews/ja/sources/reaudit-series-name.json",
+      "sha256": "d1e6785e05593da1ace1a592d53ac9b389ea2a9934c72d18c0c2eca2c0b596c5",
+      "role": "Official Japanese Pocket product name",
+      "version": "2026-10-31",
+      "license": "Factual citation of the official product name",
+      "url": "https://www.pokemontcgpocket.com/ja/news/86/"
+    }
+  },
+  "decisions": [
+    {
+      "entityKind": "series",
+      "entityId": "tcgp",
+      "file": "data/Pokémon TCG Pocket.ts",
+      "path": "name",
+      "locale": "ja",
+      "mode": "correction",
+      "expectedCurrent": "Pokémon Trading Card Game Pocket",
+      "expectedEnglish": "Pokémon TCG Pocket",
+      "value": "Pokémon Trading Card Game Pocket（ポケポケ）",
+      "evidence": [
+        {
+          "sourceId": "official",
+          "sha256": "d1e6785e05593da1ace1a592d53ac9b389ea2a9934c72d18c0c2eca2c0b596c5",
+          "locator": "official Japanese site product title"
+        }
+      ]
+    }
+  ]
+}
