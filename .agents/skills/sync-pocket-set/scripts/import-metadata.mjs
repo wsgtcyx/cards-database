@@ -29,7 +29,9 @@ const GLOSSARY_PATH = process.env.POCKET_TRANSLATION_GLOSSARY
 	?? `/tmp/pocket-${manifest.set.id}-terms.json`
 const WRITE = process.argv.includes('--write')
 
-const TARGET_LANGS = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
+const ruleLocales = manifest.metadata?.ruleLocales ?? ['en', 'fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko']
+if (!Array.isArray(ruleLocales) || !ruleLocales.includes('en') || !ruleLocales.length || new Set(ruleLocales).size !== ruleLocales.length || ruleLocales.some(locale => !['en','fr','es','it','de','pt-br','zh-tw','ja','ko'].includes(locale))) throw new Error('metadata.ruleLocales must list unique supported API locales including en')
+const TARGET_LANGS = ruleLocales.filter(locale => locale !== 'en')
 const LANGUAGES = [
 	['en', 'en-US'],
 	['fr', 'fr-FR'],
@@ -48,6 +50,10 @@ const CARD_IMAGE_LANGUAGES = [
 const PACK_IMAGE_LANGUAGES = [
 	...new Set(Object.values(manifest.images.packLanguages)),
 ]
+
+for (const locale of ['ja', 'ko'].filter(locale => ruleLocales.includes(locale))) {
+ if (!CARD_IMAGE_LANGUAGES.includes(locale) || !PACK_IMAGE_LANGUAGES.includes(locale)) throw new Error(`Strict ${locale} import requires native card and pack image languages in manifest`)
+}
 
 const SETS = [{
 	code: manifest.set.id,
@@ -641,7 +647,7 @@ function localizedText(english, mapping, todo, context) {
 	const result = { en: normalized }
 	const missing = []
 	for (const lang of TARGET_LANGS) {
-		if (bucket[lang]) result[lang] = normalizeLocalizedRulesText(bucket[lang], lang)
+		if (bucket[lang] && (!['ja', 'ko'].includes(lang) || (lang === 'ko' ? /[가-힣]/u : /[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u).test(bucket[lang])) && !/\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(bucket[lang])) result[lang] = normalizeLocalizedRulesText(bucket[lang], lang)
 		else missing.push(lang)
 	}
 	if (missing.length) {

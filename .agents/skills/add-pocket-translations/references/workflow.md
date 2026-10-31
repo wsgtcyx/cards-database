@@ -22,13 +22,19 @@ npx tsx scripts/tmp/scan-pocket-batch.ts \
 - 依据 `scripts/tmp/<batch>-todo.json` 去重翻译列表。
 - 优先官方来源；不确定的条目标注 TODO，不要硬落机翻。
 
+从固定的官方页面、游戏字典或审定卡面收集候选，保存 URL、版本/时间、源字节 SHA-256 和逐字段证据。历史 `scripts/tmp/translate-pocket-batch.ts` 调用机器翻译且可能返回英文，只能用于隔离的未审定候选，不能生成官方译名或直接更新生产映射。
+
+有 canonical/localizations 时，按本批次配置导出规则映射（不会静默丢弃 `ja/ko`）：
+
 ```bash
-npx tsx scripts/tmp/translate-pocket-batch.ts \
-  --todo="scripts/tmp/<batch>-todo.json" \
-  --out="scripts/tmp/pocket-translations.json"
+node .agents/skills/merge-pocket-card-sources/scripts/build-translation-map.mjs \
+  --canonical <canonical.json> --localizations <localizations.json> \
+  --config <source-config.json> --output <reviewed-translation-map.json>
 ```
 
 3) 注入缺失语言（先 dry-run，后写入）
+
+韩语与日语的生产字段使用 [韩语契约](korean.md) / [日语契约](japanese.md) 中的审定写入器，绑定来源哈希和前值。下面的历史映射 codemod 只适合已审定且不歧义的缺失键；它从映射中的语言推导范围，也可用 `--locales=ko` 显式收窄。任何缺映射都非零退出，`--write` 不写部分结果。它不证明来源是官方文本，也不替代逐字段审定。
 
 ```bash
 npx tsx scripts/add-pocket-localizations.ts \
@@ -80,7 +86,7 @@ fallback、括号/分隔符、规则 token multiset，以及同 canonical 名称
 ## Hard rules
 
 - 默认只新增缺失语言键。修复已有错误必须有显式 correction scope、固定来源和 review overlay。
-- 语言顺序固定：`en` 在前，追加 `fr/es/it/de/pt-br/zh-tw/ja`。
+- 语言顺序固定：`en` 在前，追加 `fr/es/it/de/pt-br/zh-tw/ja/ko`。
 - 译名必须可追溯到官方来源，避免不确定翻译进入仓库。
 - name、full-rule、image 三种 locale coverage 分开验收，禁止互相代替。
 
@@ -102,3 +108,5 @@ fallback、括号/分隔符、规则 token multiset，以及同 canonical 名称
 - 其它新增子目录
 
 日语批次必须同时遵循 [japanese.md](japanese.md)，显式执行 `audit-pocket-localization-metadata.mjs --locales ja`；不能以历史六语审计通过代替日语验收。
+
+韩语批次必须遵循 [korean.md](korean.md)，显式执行 `--locales ko`；历史默认审计不包含韩语。

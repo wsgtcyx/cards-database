@@ -163,6 +163,14 @@ describe('B4 catalog metadata regressions', () => {
 		expect(translate('rarity', 'One Diamond', lang)).toBe(expected)
 	})
 
+	test('uses official Korean rarity labels and native Promo-B particles', async () => {
+		expect(translate('rarity', 'Crown', 'ko')).toBe('왕관')
+		expect(translate('rarity', 'One Shiny', 'ko')).toBe('색이 다른1')
+		expect(translate('rarity', 'Two Shiny', 'ko')).toBe('색이 다른2')
+		expect(promo86.abilities?.[0].effect?.ko).toBe('자신의 필드에 다른 「메탕」이 있다면 이 포켓몬의 후퇴에 필요한 에너지를 2개 적게 만든다.')
+		expect(promo86.abilities?.[0].effect?.en).toContain('1 less')
+	})
+
 	test('uses the native Spanish label for Fire types and energy costs', () => {
 		expect(translate('types', 'Fire', 'es')).toBe('Fuego')
 	})

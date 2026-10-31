@@ -62,7 +62,7 @@ rarity。pilot 必须验证：
 - 生成本地化内容所用的 checkout、CSV、HTML、人工映射也要固定版本和 SHA-256，并纳入
   audit input hashes。
 - `todoStrings > 0` 时 importer 必须在任何 metadata 写入前失败；todo 清零后才原子落盘。
-- 对外可搜索名称语言与完整规则语言分开声明。名称 locale 可以比规则 locale 多，但必须明确
+- 对外可搜索名称语言与完整规则语言分开声明。历史非严格语言的名称 locale 可以比规则 locale 多，但必须明确
   机制/图片 fallback；不能把九语名称写成九语完整规则。
 - 本地化审计不仅检查键存在：还要检查同 canonical 名称跨 printing 一致、CJK 拉丁 fallback、
   英文规则 fallback、TODO/源标签、括号/分隔符和结构化 token multiset。
@@ -119,3 +119,5 @@ QR provenance 绑定其实际使用的 entity mapping 子集。完整实体表�
   证据 hash。已有 R2 对象只有在 receipt、公开字节 hash 和 headers 全部一致时才能复用。
 
 日语新增/修正的来源、审计、原图尺寸和真实联调遵循 [日语契约](../../add-pocket-translations/references/japanese.md)。语言数量从本批次配置和已发布下游配置读取，不把七语/八语旧数字作为上限。
+
+韩语新增/修正遵循 [韩语契约](../../add-pocket-translations/references/korean.md)。韩语和日语新导入必须同时具备名称与完整规则，不能使用名称专属 fallback 路径。API/下游语言分别从实际配置读取；未要求 tcgp 时，所有下游步骤均不适用。

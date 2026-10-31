@@ -3,9 +3,9 @@ import path from 'path'
 import ts from 'typescript'
 import { glob } from 'glob'
 
-type LangKey = 'fr' | 'es' | 'it' | 'de' | 'pt-br' | 'zh-tw'
+type LangKey = 'fr' | 'es' | 'it' | 'de' | 'pt-br' | 'zh-tw' | 'ja' | 'ko'
 
-const TARGET_LANGS: LangKey[] = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw']
+const TARGET_LANGS: LangKey[] = ['fr', 'es', 'it', 'de', 'pt-br', 'zh-tw', 'ja', 'ko']
 const DEFAULT_PATTERN = 'data/Pokémon TCG Pocket/Mega Rising/**/*.ts'
 const DEFAULT_MAPPING = 'scripts/tmp/pocket-translations.json'
 
@@ -23,11 +23,9 @@ interface Stats {
 	missingInMap: Array<{ file: string, path: string, en?: string }>
 }
 
-function decodeUnicodeEscapes(text: string): string {
-	return text.replace(/\\u([\dA-Fa-f]{4})/g, (_m, hex) => String.fromCharCode(parseInt(hex, 16)))
-}
-
 function getArg(name: string, fallback?: string): string | undefined {
+	const index = process.argv.indexOf(`--${name}`)
+	if (index >= 0) return process.argv[index + 1]
 	const arg = process.argv.find(a => a.startsWith(`--${name}=`))
 	if (arg) return arg.split('=')[1]
 	return fallback
@@ -63,7 +61,13 @@ function main() {
 
 	const mapping: Record<string, MappingEntry> = JSON.parse(fs.readFileSync(mappingFile, 'utf-8'))
 
+ const requested = getArg('locales')?.split(',')
+ const mapped = new Set(Object.values(mapping).flatMap(entry => Object.keys(entry)))
+ const targetLangs = requested ?? TARGET_LANGS.filter(locale => mapped.has(locale))
+ if (!targetLangs.length || new Set(targetLangs).size !== targetLangs.length || targetLangs.some(locale => !TARGET_LANGS.includes(locale as LangKey))) throw new Error('Expected unique supported --locales or localized mapping entries')
+ const planned: Array<{file: string, before: string, after: string}> = []
 	glob(pattern, { absolute: true, cwd: process.cwd() }).then(files => {
+		if (!files.length) throw new Error(`No card files matched: ${pattern}`)
 		const stats: Stats = {
 			files: files.length,
 			changed: 0,
@@ -91,6 +95,8 @@ function main() {
 							return node
 						}
 
+      const present = new Set(node.properties.map(p => ts.isPropertyAssignment(p) ? getPropName(p.name) : null))
+      if (targetLangs.every(locale => present.has(locale))) return node
 						const mapEntry = mapping[enVal]
 						if (!mapEntry) {
 							stats.skippedNoMap++
@@ -107,7 +113,7 @@ function main() {
 						const newProps = [...node.properties]
 						let addedHere = 0
 
-						for (const lang of TARGET_LANGS) {
+						for (const lang of targetLangs) {
 							if (existing.has(lang)) continue
 							const translated = mapEntry[lang]
 							if (!translated) {
@@ -116,6 +122,7 @@ function main() {
 							}
 							const nameNode = ts.factory.createStringLiteral(lang)
 							const valueNode = ts.factory.createStringLiteral(translated)
+							ts.setEmitFlags(valueNode, ts.EmitFlags.NoAsciiEscaping)
 							newProps.push(ts.factory.createPropertyAssignment(nameNode, valueNode))
 							addedHere++
 						}
@@ -138,10 +145,7 @@ function main() {
 
 			if (fileChanged) {
 				const printed = printer.printFile(transformedFile)
-				const decoded = decodeUnicodeEscapes(printed)
-				if (write) {
-					fs.writeFileSync(file, decoded, 'utf-8')
-				}
+				planned.push({ file, before: sourceText, after: printed })
 				stats.changed++
 			}
 
@@ -150,6 +154,29 @@ function main() {
 			}
 		}
 
+  if (stats.missingInMap.length) {
+   console.error(`Incomplete localization mapping: ${stats.missingInMap.length} entries; no files written`)
+   process.exitCode = 1
+  } else if (write) {
+   for (const item of planned) if (fs.readFileSync(item.file, 'utf8') !== item.before) throw new Error(`File changed during localization: ${item.file}`)
+   const staged: Array<{file: string, temporary: string, before: string}> = []
+   const written: typeof staged = []
+   try {
+    for (const item of planned) {
+     const temporary = `${item.file}.pocket-localize-${process.pid}.tmp`
+     const fd = fs.openSync(temporary, 'wx')
+     staged.push({file: item.file, temporary, before: item.before})
+     try { fs.writeFileSync(fd, item.after, 'utf8') } finally { fs.closeSync(fd) }
+    }
+    for (const item of staged) if (fs.readFileSync(item.file, 'utf8') !== item.before) throw new Error(`File changed during localization: ${item.file}`)
+    for (const item of staged) { fs.renameSync(item.temporary, item.file); written.push(item) }
+   } catch (error) {
+    for (const item of written.reverse()) fs.writeFileSync(item.file, item.before, 'utf8')
+    throw error
+   } finally {
+    for (const item of staged) fs.rmSync(item.temporary, {force: true})
+   }
+  }
 		console.log(`Files scanned: ${stats.files}`)
 		console.log(`Files changed: ${stats.changed}`)
 		console.log(`Props added: ${stats.added}`)

@@ -10,7 +10,8 @@ function assertNativeText(value, label, locale) {
  const language = locale === 'ja' ? 'Japanese' : 'Korean'
  assert(typeof value === 'string' && value.trim(), `${label}: missing ${language} text`)
  const native = locale === 'ja' ? /[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u : /[가-힣]/u
- assert(native.test(value) || label.endsWith('.name') && ['CHECK', 'GUARD', 'POWER'].includes(value), `${label}: text must be native ${language}`)
+ const promoSet = /^P-([A-Z])\.name$/u.exec(label)
+ assert(native.test(value) || promoSet && value === `PROMO-${promoSet[1]}` || label.endsWith('.name') && ['CHECK', 'GUARD', 'POWER'].includes(value), `${label}: text must be native ${language}`)
  assert(!/\[\/?[A-Za-z][A-Za-z0-9]*:/u.test(value), `${label}: unresolved ${language} text`)
  if (locale === 'ja') assert(!/(?:を|から|ランダムに)(?:枚|個)(?:[、。ず]|引|トラッシュ|見|選)/u.test(value), `${label}: unresolved Japanese text`)
 }

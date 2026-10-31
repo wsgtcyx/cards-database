@@ -149,3 +149,11 @@ total objects = card objects + booster objects
 `prepare-r2-assets.mjs`、`preflight-r2.mjs` 和 `verify-r2.mjs`
 会分别验证本地输出、覆盖风险和公网结果。任何一个数量不一致都不能上传或宣称完成。
 验收报告中的期望值必须由该公式和当前 manifest 动态生成，禁止复制上一集合的对象总数。
+
+## 韩语新卡集
+
+`metadata.ruleLocales` 声明完整规则语言，使用 API locale（`pt-br`、`zh-tw`、`ja`、`ko`）；通用 importer 默认要求当前九语规则齐全。历史批次如明确只交付部分语言，必须显式声明，不能因名称或卡图中出现 `ko` 就宣称完整韩语。
+
+新卡集的 source config 使用 `nameLocales/ruleLocales`，两者均含 `ko`；RaenonX `dictionaryLocales` 使用 `"ko":"ko"`。`sync-raenonx-b4.mjs --dictionary-only --dictionary-config <source-config.json>` 按 `ruleLocales` 获取支持的字典；`de/it` 必须从独立原生来源补齐。旧 B4 无配置调用仅作回归兼容。新 `--set-config` 必须提供完整目标语言的 `setNames`；不得从 B4 继承集合/卡包事实。
+
+韩语具体来源、审定导入、图片和 HTTP 门禁见 [韩语契约](../../add-pocket-translations/references/korean.md)。

@@ -4,7 +4,8 @@
     "添加新的 B5 Pocket set，补齐所有卡牌、七语图片、R2、API 和 tcgp 下游配置。",
     "修复这个尚未完成的 Pocket 卡集发布，补全 metadata、booster、R2 receipts 并验证 API。",
     "只给你 set ID，请完成从上游发现到 cards-database 和 tcgp 验收的全链路同步。",
-    "从 set ID 完整同步这个 Pocket 集合的日语 metadata、卡图、API 与 tcgp。"
+    "从 set ID 完整同步这个 Pocket 集合的日语 metadata、卡图、API 与 tcgp。",
+    "仅给新 set ID，新增完整韩语 metadata、原生卡图、卡集/卡包资源与 API，暂不修改 tcgp。"
   ],
   "should_not_trigger": [
     "这一个已存在的 set 只有德语和意大利语规则翻译缺失，请补齐并审计。",

@@ -1,0 +1,81 @@
+{
+  "head": "e9876bec69960fcffb1dcc41b3d99ada07856f99",
+  "cards": 4561,
+  "primaryFieldCounts": {
+    "primary-name": 4561,
+    "primary-evolve": 1862,
+    "flavor": 3376,
+    "primary-rule": 8268
+  },
+  "secondaryFieldCounts": {
+    "secondary-name": 4558,
+    "secondary-evolve": 1862,
+    "secondary-flavor": 3373,
+    "secondary-rule-name": 4843
+  },
+  "secondaryEffectSlots": 5258,
+  "secondaryRulesCompared": 10101,
+  "existingCrossSourceDifferencesReviewed": 49,
+  "primaryEvolveSpacingCorrectionsConfirmedBySecondary": 76,
+  "sets": 26,
+  "boosters": 58,
+  "labelOccurrenceCounts": {
+    "types": 4150,
+    "stage": 4143,
+    "trainerType": 415,
+    "attackCostTypes": 8208
+  },
+  "quotedParticleOccurrences": 307,
+  "findings": [
+    {
+      "file": "meta/translations/ko.json",
+      "line": 7,
+      "paths": [
+        "rarity.One Shiny",
+        "rarity.Two Shiny",
+        "rarity.Crown"
+      ],
+      "current": [
+        "색이 다른 ★1",
+        "색이 다른 ★2",
+        "크라운"
+      ],
+      "official": [
+        "색이 다른1",
+        "색이 다른2",
+        "왕관"
+      ],
+      "evidence": "https://pokemonkorea.co.kr/pokemon_tcg_pocket/menu723?mode=view&number=4155",
+      "status": "fixed in this PR"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "line": 37,
+      "path": "abilities[0].effect.ko",
+      "current": "「메탕」가 있다면",
+      "official": "「메탕」이 있다면",
+      "sourceCardId": "PK_90_020670_00",
+      "sourceSha256": "9afc2c2da197ad3a2891874dde905df95ab8aa6461b82ee725ee1d12329b545d",
+      "cause": "Native review override copied the secondary renderer’s wrong particle. Numeric reduction2 is correct.",
+      "status": "fixed in this PR"
+    }
+  ],
+  "metadataNote": "None is a descriptive absence-of-rarity label, not an official named rarity. Anomaly was explicitly user-approved as nonofficial description. Diamond readable names 다이아1~다이아4 directly supported by publisher Google Play body; official odds tables use repeated diamond and star symbols.",
+  "scope": "All current Korean card/set/booster fields compared to pinned game sources; proof of official wording is separate from natural API application copy.",
+  "officialRarityEvidence": {
+    "url": "https://pokemonkorea.co.kr/pokemon_tcg_pocket/menu723?mode=view&number=4155",
+    "file": "meta/pocket-source-reviews/ko/review/official-rarities-4155.html.gz",
+    "sha256": "19eec450c553fbdaaa0150adb836ec1c006f80329cb56a3a400b58a91e9a3a92",
+    "labels": {
+      "Crown": "왕관",
+      "One Shiny": "색이 다른1",
+      "Two Shiny": "색이 다른2"
+    },
+    "bodySha256": "980fa3d58388027288a1a6e7ac312117fc4f569000453f72901011259c981a6e",
+    "encoding": "gzip, original response bytes retained"
+  },
+  "nonOfficialLabels": {
+    "None": "레어도 없음",
+    "Anomaly": "특수 카드(일반 레어도 분류 외)"
+  }
+}

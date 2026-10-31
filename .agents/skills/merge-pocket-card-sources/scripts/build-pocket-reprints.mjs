@@ -252,7 +252,7 @@ for (let i = 0; i < index.length; i++) {
       for (const loc of config.ruleLocales) {
         const gm = msgs[loc]?.Game.Master;
         if (gm) {
-          ca.name[loc] = gm.Attack.Name[ra.nameI18nId];
+          ca.name[loc] = normalizeRaenonxName(config.dictionaryLocales[loc], gm.Attack.Name[ra.nameI18nId]);
           if (ra.descriptionI18nId != null) ca.effect[loc] = renderLocalizedTemplate(msgs.en.Game.Master.Attack.Description[ra.descriptionI18nId], comparable(canonAtk.effect), gm.Attack.Description[ra.descriptionI18nId], config.dictionaryLocales[loc], `${id} attack ${a}`, maps[loc]);
         }
         locals[loc].attacks ??= [];
@@ -278,7 +278,7 @@ for (let i = 0; i < index.length; i++) {
       for (const loc of config.ruleLocales) {
         const gm = msgs[loc]?.Game.Master;
         if (gm) {
-          ca.name[loc] = gm.Ability.Name[ra.nameI18nId];
+          ca.name[loc] = normalizeRaenonxName(config.dictionaryLocales[loc], gm.Ability.Name[ra.nameI18nId]);
           ca.effect[loc] = renderLocalizedTemplate(msgs.en.Game.Master.Ability.Description[ra.descriptionI18nId], comparable(ca.effect.en), gm.Ability.Description[ra.descriptionI18nId], config.dictionaryLocales[loc], `${id} ability ${a}`, maps[loc]);
         }
         locals[loc].abilities ??= [];

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "operation": "apply-reviewed-pocket-localizations",
+  "mode": "dry-run",
+  "baseRef": "e9876bec69960fcffb1dcc41b3d99ada07856f99",
+  "decisionArtifactFile": "meta/pocket-source-reviews/ko/review/corrections.decisions.json",
+  "decisionArtifactSha256": "6ffc61ea88fa4f7162f46cb169ede13aa80c07c74cfb3580a47463cee90240ac",
+  "predecessors": [],
+  "sources": [
+    {
+      "id": "native-card",
+      "file": "meta/pocket-source-reviews/ko/review/P-B-086.png",
+      "sha256": "9afc2c2da197ad3a2891874dde905df95ab8aa6461b82ee725ee1d12329b545d"
+    }
+  ],
+  "summary": {
+    "decisions": 1,
+    "files": 1,
+    "changedDecisions": 1,
+    "alreadyAppliedDecisions": 0,
+    "changedFiles": 1,
+    "fills": 0,
+    "corrections": 1,
+    "tokenExceptions": 0
+  },
+  "results": [
+    {
+      "entityKind": "card",
+      "entityId": "P-B-086",
+      "file": "data/Pokémon TCG Pocket/Promos-B/086.ts",
+      "path": "abilities[0].effect",
+      "locale": "ko",
+      "mode": "correction",
+      "status": "changed"
+    }
+  ]
+}
